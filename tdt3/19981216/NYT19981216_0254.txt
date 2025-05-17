@@ -1,0 +1,71 @@
+<DOC>
+<DOCNO> NYT19981216.0254 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Like literature and art, architecture has a way of transporting a 
+modern observer back to the past, allowing you to see not only what 
+the creators were seeing, but also, in many cases, what they were 
+thinking as well. Tours of historic buildings are popular _ the Tower 
+of London, an ancient, infamous fortress dating back 1,000 years, 
+is a top draw for visitors to England. There are dozens of sites devoted 
+to history and architecture on the Web, but one of the most detailed 
+and involving is Great Buildings (www.greatbuildings.com), the online 
+counterpart to the Great Buildings Collection CD-ROM (published by 
+Van Nostrand Reinhold). The disk, a 650-megabyte repository of photos, 
+video clips, 3-D models and historical text devoted to more than 750 
+important architectural structures, has been available for Macintosh 
+computers since 1994. A Windows version is under development. The 
+Great Buildings Web site offers quite a bit to see and can prove quite 
+useful if you don't feel like fighting hordes of tourists (or getting 
+out of your pajamas) to catch a glimpse of the Taj Mahal. The site 
+might also prove useful as a research tool for children, especially 
+when little Benjamin suddenly remembers that his report on the Parthenon 
+is due the next day. The site is well organized, and you can search 
+for specific buildings by name, architect, country of location and 
+architectural style (neolithic to neovernacular). Each link to a particular 
+building reveals a page with basic information and pictures, biographical 
+information about the architect and commentary on why the building 
+is notable. Depending on the building, some pages offer more detailed 
+observations about the structure, like dimensions and historical trivia. 
+(``In the late sixth century, the Parthenon was converted to a Christian 
+church.'') Each building's page contains a list of sources for further 
+reading, as well as a link to the online bookseller Amazon.com if 
+you want to go all the way. One of the great things about Great Buildings 
+is that you can also download free 3-D models of more than 65 of the 
+buildings listed on the site. A link to free software for viewing 
+3-D models is also provided. Design Workshop Lite for both Windows 
+and Macintosh, by Artifice (www.artifice.com), is a stripped-down 
+version of the popular Design Workshop Classic and Design Workshop 
+Pro software used by architects, graphic designers and 3-D design 
+professionals. The free Lite version download is between 4 and 6 megabytes, 
+which could be time-consuming if you have a slow modem, but the program 
+can also be ordered on CD-ROM from the site for $20. Once you have 
+the software, the site provides clear instructions on how to download 
+and view the 3-D models. The 3-D files are fairly quick downloads 
+themselves, averaging about 250 kilobytes, and when you uncompress 
+them on your hard drive, they expand to about 1 megabyte each. Models 
+of Chartres Cathedral in France, King's College Chapel in Cambridge, 
+England, and the Piazza di Spagna in Rome can be found on the list, 
+along with many others. Modern structures like the Azuma House in 
+Osaka, Japan, and the Vietnam War Memorial in Washington are also 
+rendered as 3-D models. Notable New York sites include the Empire 
+State Building, the Brooklyn Bridge and the Chrysler Building. The 
+building models are beautifully rendered in simple, textured 3-D images, 
+and you can use your mouse to explore the buildings from all angles, 
+even from inside. A Wireframe option lets you electronically remove 
+the building's surface material for a peek at the infrastructure. 
+Design Workshop Lite provides a surprising number of features. Users 
+can adjust lighting and elevation and easily choose different views 
+of the building. Once within the model, you can move about as if you 
+were walking through the building, watching walls and doors go by 
+as you stroll along with your mouse. The model for the Globe Theater, 
+Shakespeare's stage in 17th-century London, is particularly well done, 
+allowing you to move through the aisles to the stage floor itself. 
+The original theater had no official restrooms for its 3,000 patrons 
+and burned down in 1613 when a prop cannon blew up during a performance 
+of ``Henry VIII.'' This 3-D model might just be the next best thing 
+to being there _ and it is much safer than a visit to the original 
+would have been. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981114.1600.1041 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After seven decades on Wall Street, Chrysler stock was taken off the 
+big board this week, as it begins operating with its merger partner, 
+daimler-Benz of Germany. Regular trading in Daimler-Chrysler stock 
+begins on Tuesday. 
+</TEXT>
+</DOC>

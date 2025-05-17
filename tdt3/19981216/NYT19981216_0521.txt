@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NYT19981216.0521 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial for Thursday, Dec. 17: Police 
+Commissioner Howard Safir's proposal to collect DNA samples from anyone 
+arrested in New York City is a threat to personal privacy that is 
+unnecessary for fighting crime. Safir says the DNA record would be 
+expunged if there is no conviction, but minor offenders such as turnstile 
+jumpers and protesters engaged in acts of civil disobedience would 
+have their DNA record entered into a state data bank. Safir and Mayor 
+Rudolph Giuliani argue that DNA sampling, done by collecting saliva, 
+is equivalent to taking fingerprints. But there is a huge difference. 
+Fingerprints cannot be used for any purpose other than identification. 
+DNA samples provide the government extraordinary amounts of personal 
+genetic information that could be misused. Critics worry, for example, 
+that such data could leak into the hands of insurance companies to 
+identify those at risk for genetic diseases. Under current law, the 
+state already collects DNA samples from people who have been convicted 
+of certain major crimes such as rape and homicide. Prosecutors can 
+also get a court order to take blood and DNA samples if they have 
+probable cause to target an individual in an investigation. As it 
+is, the police crime labs have not had the capacity to test all DNA 
+samples collected at the scenes of unsolved crimes. Evidence has been 
+routinely thrown out after five years without being tested at all. 
+If the department wants to do more with DNA testing, it should start 
+by testing the samples it has. Giuliani has given civil libertarians 
+even more reason for concern. Wednesday he indicated he would not 
+oppose DNA testing and fingerprinting on all newborns _ a bold privacy 
+invasion at birth rather than arrest. He also suggested that DNA collected 
+by the police could be used to establish paternity and increase child 
+support payments in the city. But using DNA information that way has 
+nothing to do with solving crimes, the reason for which the DNA supposedly 
+would be collected. Any such change would require approval from the 
+state legislature, where Democratic lawmakers have criticized these 
+ideas. Some days it seems the mayor, who says he champions civility, 
+thinks it can only be achieved by police surveillance. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981118.2000.0217 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock prices closed higher today on Wall Street. The Dow Jones Industrial 
+Average gained 55 points to close at 9041. Declines led advances by 
+a small margin in heavy trading. The average price of a share gained 
+19 cents. This is npr. 
+</TEXT>
+</DOC>

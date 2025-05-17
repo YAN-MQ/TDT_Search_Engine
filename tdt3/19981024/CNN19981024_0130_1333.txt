@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981024.0130.1333 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In golf, Davis love III penciled an 8 under par 64 Friday, and shares 
+the lead with five others after two rounds of the Disney classic. 
+</TEXT>
+</DOC>

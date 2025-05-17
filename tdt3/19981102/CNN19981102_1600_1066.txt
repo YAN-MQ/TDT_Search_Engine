@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981102.1600.1066 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On the economic front, consumers kept on spending last month. And 
+they dipped into their savings in order to keep up the pace. The savings 
+rate declined in September. It was the first Negative monthly savings 
+rate in 65 years. Incomes grew by a meager 0.2% while spending soared 
+0.5%. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981104.2130.0994 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+All big three automakers posted stronger-than-expected gains last 
+month, as sales of cars and light trucks went up 10%. General Motors 
+is offsetting last summer's strikes by offering generous rebates and 
+low financing rates to entice consumers. Ford says the results are 
+so positive, it's increasing fourth quarter production by 25,000 vehicles. 
+As for Chrysler, it's reporting a 20% increase in sales. 
+</TEXT>
+</DOC>

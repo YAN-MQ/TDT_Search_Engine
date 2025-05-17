@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> APW19981129.0421 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+1, Armin Zoeggeler, Italy, one minute 51.484 seconds(55.593-55.891). 
+2, Norbert Huber, Italy, 1:51.568 (55.740-55.887). 3, Markus Prock, 
+Austria, 1:51.627 (55.740-55.887). 4, Albert Demtschenko, Russia, 
+1:51.839 (55.713-56.126). 5, Gerhard Gleirscher, Austria, 1:51.986 
+(56.007-55.979). 6, Reinhold Rainer, Italy, 1:52.166 (55.985-56.181). 
+7, Jens Mueller, Germany, 1:52.279 (56.150-56.129). 8, Rainer Margreiter, 
+Austria, 1:52.350 (56.159-56.191). 9, Georg Hackl, Germany, 1:52.390 
+(56.437-55.953). 10, Adam Heidt, United States, 1:52.437 (56.174-56.263). 
+11, Clay Ives, United States, 1:52.806 (56.440-56.366). 17, Nick Sullivan, 
+United States, 1:53.572 (56.963-56.609). Overall Standings (After 
+two events) 1, Armin Ziegler, Italy, and Markus Prock, Austria, 155 
+points. 3, Norber Huber, Italy, 145. 4, George Hackl, Germany, 139. 
+5, Gehard Gleirscher, 125. 6, Jens Mueller, Germany, 96. 7, Albert 
+Demtschenko, Russia, 94. 8, Reinhold Rainer, Italy, 89. 9, Adam Heidt, 
+United States, 82. 10, Rainer Margreiter, Austria, 78. Others 12, 
+Clay Ives, United States,62. 14, Nick Sullivan, United States and 
+Dennis Geppert, Germany, 48. 26, Tony Benshoof, United States, 22. 
+29, Tyler Seitz, Canada, 21. 37, Chris Moffat, Canada, 14. 43, Christian 
+Niccum, Washington, 9. 45, Kyle Connelly, Canada, 7. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981123.1600.0029 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A record shattering day on Wall Street as the Dow sets another high, 
+9360 is the unofficial close, that's well over 206-point gain for 
+this day. That's not a record, but the close certainly is. The old 
+record 9337 set on July 17th, as Wall Street goes on a tear. 
+</TEXT>
+</DOC>

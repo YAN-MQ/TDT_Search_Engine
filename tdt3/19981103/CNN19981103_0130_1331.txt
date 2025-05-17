@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981103.0130.1331 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In baseball -- reliever Rod Beck has agreed to a new two-year $9.5 
+million deal with the cubs. 
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> VOA19981127.0500.2792 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Certain diseases, tuberculosis for example are caused by bacteria 
+that can hide out for long periods of time inside infected cells, 
+evading the body's immune defenses. Now, researchers have discovered 
+a one-two punch that can knock out these bacteria no matter where 
+they are hiding. Writing in the Journal Science, a team from Boston's 
+Brigham and Women's Hospital, and Harvard University has highlighted 
+the role of granuliasson a chemical warfare agent produced by killer-T 
+cells, a type of white blood cell. But before granuliasson can do 
+its lethal deed, the way must be prepared by another protein, perferon. 
+Perforun, as the name implies, perforates the membranes of those cells 
+that are providing sanctuary to the disease causing bacteria. Then 
+the granuliasson released by the killer-T cell leaps through the cell 
+membrane holes and zaps the bacteria where they are hiding. The researchers 
+say that before they started studying grannuliasson, its function 
+in fighting infection was unknown. Now they think their discovery 
+could lead to new more effective treatments for diseases like TB, 
+that are becoming increasingly resistant to conventional antibiotics. 
+</TEXT>
+</DOC>

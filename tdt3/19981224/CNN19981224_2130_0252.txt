@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981224.2130.0252 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Pope John Paul celebrated his annual Christmas eve mass today at St. 
+peter's basilica. More than 500 million people in 40 countries were 
+able to follow the mass on television or on the Vatican's Internet 
+site. The Pope says he's already thinking about next Christmas. On 
+December 24th, 1999, he'll initiate a Jubilee year for the Roman catholic 
+church, which will help launch the third millennium of christianity. 
+</TEXT>
+</DOC>

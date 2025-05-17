@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981022.2000.0226 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock prices were higher on Wall Street. The Dow is up almost 14 points. 
+It closed the day at 8533 on a volume of 743 million shares. This 
+is NPR News. 
+</TEXT>
+</DOC>

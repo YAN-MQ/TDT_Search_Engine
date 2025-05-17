@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981109.2130.0470 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The American heart association is issuing new guidelines for monitoring 
+children and teens taking ritalin and other psychotropic drugs. It 
+says the drugs may cause increased heart problems. And there have 
+been some reports of sudden death. Ritalin is commonly used to treat 
+attention deficit hyperactivity disorder. The new guidelines call 
+for a medical history before prescription, an electrocardiogram and 
+a complete physical, and doctors should know about any medications 
+the patient might be taking which could adversely interact with ritalin. 
+</TEXT>
+</DOC>

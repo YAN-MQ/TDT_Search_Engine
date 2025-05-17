@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981112.1600.1301 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Yankees skipper Joe torre was named American league manager of the 
+year today. Torre help lead New York to an astonishing 125-50 record, 
+plus a second straight world series title. 
+</TEXT>
+</DOC>

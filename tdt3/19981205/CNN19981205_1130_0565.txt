@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981205.1130.0565 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The CIA is the target of a federal obstruction of justice investigation. 
+At issue is whether CIA officials intentionally violated any laws 
+when they provided a contractor Hughes electronic corporation with 
+information about an ongoing Senate investigation. That Senate probe 
+dealt with the transfer of sensitive U.S. technology to china. The 
+CIA says it's cooperating fully with the obstruction of justice investigation. 
+</TEXT>
+</DOC>

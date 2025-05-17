@@ -1,0 +1,95 @@
+<DOC>
+<DOCNO> NYT19981227.0050 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+New Year's Eve this year may not mark the beginning of the new millennium, 
+but it is still a big event for lots of people. Anyone planning a 
+celebration may appreciate a little help from inventions that were 
+patented earlier in the year. If you are planning a New Year's Eve 
+party, for example, music is essential. If you hire a live band, you 
+can decide exactly what tunes will be played. But if you rely on recorded 
+music, you might have to hear songs you don't like interspersed with 
+the ones you prefer. And who wants to spend New Year's Eve changing 
+cassette tapes or compact discs? Three inventors have come up with 
+a system that allows shoppers in music stores to create custom CDs. 
+Gregory Alexander from Carol Stream, Ill., David Volk of Clairton, 
+Pa., and Steven Goldenbogen from Pittsburgh patented a vending machine 
+that allows customers to choose pieces of music stored in a computer. 
+A list of available songs is displayed on a screen. When the customer 
+types choices on a keyboard, a microprocessor in the vending machine 
+accesses digital music stored on a hard drive. Finally, a list of 
+the customer's selections is shown on the screen. The microprocessor 
+also controls an imprinting device that ``writes'' the customer's 
+choices on a blank CD and then dispenses the customized disc. The 
+shopper pays for his new CD by swiping a credit card through the vending 
+machine. The invention belongs to Customdisc.com, an Internet company 
+that has licensed 185,000 music tracks so that customers of its World 
+Wide Web site can create 70-minute CDs with personalized art work, 
+titles, and messages to accompany gifts. Customdisc.com plans to market 
+the invention by setting up kiosks in music stores. The inventors 
+received patent 5,633,839. Strike Up the Body for Party Music Perhaps 
+you prefer a one-man band for party music. Two Japanese inventors 
+have patented a system of generating music with foot, hand, shoulder 
+and elbow movements. Akira Nakada and Hisanori Katou designed a device 
+to be worn as a shoe plate, as hand grips, and as elbow and shoulder 
+straps. The shoe plate is shaped like a shoe sole and can be reduced 
+or expanded in size to fit any shoe. It contains a sensor that the 
+inventors say controls the timing of rhythm-section sounds such as 
+a snare drum, a bass drum and high-hat cymbals. The shoe plate can 
+also be designed to control pitch, tone color or loudness with taps 
+of the foot. Squeezing the hand grips manipulates the music's timing, 
+while bending and stretching the elbows and shoulders controls pitch 
+and loudness through the straps. A wireless transmitter in the shoe 
+plate sends signals to a receiver, which passes them to an interface 
+unit and then to an electronic instrument that generates the musical 
+notes. The patent, 5,714,706, belongs to Yamaha Corp. For Pantyhose, 
+a Third Dimension Women know what it's like to put a lot of thought 
+and effort into a New Year's Eve outfit only to discover a run in 
+their pantyhose halfway through the night. Well, never mind; Annette 
+Pappas from Metairie, La., has it covered. Ms. Pappas invented hosiery 
+with three legs. The garment, which looks like a conventional pair 
+of pantyhose, actually has three legs, each with a pocket above it 
+in the panty area. ``In use, the wearer inserts her legs into two 
+of the leg openings in the conventional fashion of donning a pair 
+of pantyhose,'' Ms. Pappas explains in her patent. ``The remaining 
+unused leg portion is then gathered and the toe end tucked into the 
+pocket of one of the absorbent crotch members. If a run or hole develops 
+in one of the leg portions being worn, the leg of the wearer can be 
+easily and rapidly removed from the damaged leg portion and placed 
+into the undamaged spare leg portion.'' The stocking with the run 
+in it is then folded and tucked away in one of the pockets. Ms. Pappas 
+does not say what the wearer should do about the little lump of fabric 
+that probably results. She received patent 5,713,081. Cut-and-Scour 
+Tool for Facial Wrinkles If looking your best for New Year's includes 
+trying to eliminate fine facial lines, you might want to consider 
+David McAllister's invention. McAllister, from Lake Mary, Fla., has 
+created a hand-held tool with a series of parallel small blades that 
+he says can reduce wrinkles. He recommends selecting a wrinkle or 
+line you want to reduce and, with his tool, scratching matching lines 
+adjacent to and on either side of the wrinkle. The scratches you make 
+are then cleaned with anti-bacterial soap, dried and massaged with 
+anti-bacterial cream. ``Once the lines scratched in the skin are permitted 
+to heal, the skin is found to be tightened,'' McAllister asserts. 
+The patent, however, does not discuss how safe this device might be. 
+And if you did want to use McAllister's invention, it would be wise 
+to start the procedure at least a week before any parties. McAllister 
+received patent 5,713,375. Like Having Venice in the Dining Room Tired 
+of the same old buffet presentation? This year's celebration could 
+be graced instead by a water-borne system patented by two California 
+inventors. Yukio and Masako Iwamoto, from Atherton, won two separate 
+patents for their design of a ``hydraulic system for serving food.'' 
+``Diners sit around a periphery of a water course, and food carriers 
+circulate in the water course and carry various types of food,'' they 
+write in their first patent. ``The food carriers are removably attached 
+to an endless line underneath the water by flexible wires so that 
+each food carrier is independently removable from the said water course,'' 
+they elaborated in their second patent. ``In addition, the flexible 
+wires are positioned along the endless line so as to maintain a predetermined 
+spacing between the food carriers in the water course.'' The spacing 
+gives guests enough time to choose food and allows hosts time to refill 
+the food carriers. The Iwamotos received patents 5,823,329 and 5,813,497. 
+Patents are available by number for $3 from the Patent and Trademark 
+Office, Washington DC 20231. 
+</TEXT>
+</DOC>

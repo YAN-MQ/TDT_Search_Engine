@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981124.2130.0548 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The American red cross says it spent a record amount of money on natural 
+disaster relief this year. The charity says $160 million was spent 
+to cover the many hurricanes, tropical storms and floods that struck 
+the United States. Most of it, $104 million, was used to help victims 
+of hurricane georges in the Florida keys and gulf coast. 
+</TEXT>
+</DOC>

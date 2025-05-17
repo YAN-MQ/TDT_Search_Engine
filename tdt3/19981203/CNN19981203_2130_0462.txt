@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981203.2130.0462 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A 16-year study by Danish researchers found people who drank a daily 
+glass of wine reduced their chance of a stroke by 32%. Either red 
+or white wine worked, but liquor and beer did not have the same beneficial 
+effect. American doctors warn they aren't prepared to recommend the 
+practice. They say there's no substitute for regular exercise and 
+a healthful diet. 
+</TEXT>
+</DOC>

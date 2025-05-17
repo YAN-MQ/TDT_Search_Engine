@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981023.2130.0998 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The justice department went to court today to try to keep northwest 
+airlines from buying a controlling stake in continental airlines. 
+The justice department says the purchase would reduce competition, 
+raise ticket prices and hurt service. Under the proposed deal, the 
+airlines say they would keep separate names but combine routes and 
+frequent-flyer programs. The justice department is treating the alliance 
+as a merger. Northwestern and continental call the suit groundless. 
+</TEXT>
+</DOC>

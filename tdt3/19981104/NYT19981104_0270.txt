@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> NYT19981104.0270 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+When a friend needed to find emergency housing, Marina Rodriguez made 
+a quick stop at a new electronic kiosk at the Camden Transportation 
+Center in Camden, N.J. By simply touching the screen, she could instantly 
+view listings of temporary shelters and other housing programs. ``This 
+is a great way to reach people,'' Ms. Rodriguez said. The kiosks, 
+which resemble souped-up ATMs, are part of a new effort by the United 
+States Department of Housing and Urban Development. The project is 
+the brainchild of HUD Secretary Andrew Cuomo. Each kiosk offers around 
+100 pages of information. Roughly 80 of the pages are direct reproductions 
+of the pages available on the agency's Web site, while the rest provide 
+local information specific to each community. The kiosks, which cost 
+about $16,000 each, are connected by telephone lines to an Internet 
+service provider so new content can be pulled from HUD's Web site, 
+which is updated every night. So far, about 26 kiosks have been placed 
+across the country in federal buildings, public libraries, shopping 
+malls, city halls and even groceries, said Candi Harrison, Web manager 
+for HUD's home page. That number is to increase to 30 by the end of 
+the year, and to 80 in 1999. ``There's a great need for housing for 
+low- to moderate-income families,'' said Laura Pelzer, senior community 
+builder coordinator for HUD's Camden office. ``We need to assist people 
+in any way we can. The kiosk is one way of letting them know we're 
+here.'' Although access to the Internet is available through public 
+libraries, schools and HUD offices, the kiosks were developed because 
+many people are less intimidated by touch-screen technology than they 
+are by computers. HUD worked with three companies that are considered 
+experts in kiosk design _North Communications, Summit Research and 
+Gensler, an architectural firm _ to design an attractive machine that 
+is easy to use. Each kiosk has a video narrator who walks users through 
+the program. The buttons are big and easy to use, and the screens 
+are tilted so even people in wheelchairs can use them. A touch of 
+the screen calls up the main menu, which provides eight categories 
+to choose from: HUD in Your Community, HUD on Your Side, HUD. Next 
+Door, Buy a Home, Find Housing, Keep Your Home, Get a Refund and File 
+a Complaint. Some kiosks provide information in Spanish, and all screens 
+can be printed, although there have been some glitches. Ms. Rodriguez, 
+for example, could not get a printout because the kiosk had run out 
+of paper. When she returned the next day, the paper drawer had been 
+restocked, but she still could not get the printer to work. Security 
+has not been a big problem so far, even though some of the kiosks 
+are on the street. ``If people want to break into them, I'm sure they 
+can,'' Ms. Harrison said. ``But I'm not aware of any problems yet.'' 
+At $16,000 apiece, are the HUD kiosks worth the price? An accurate 
+reading of the number of hits each kiosk gets will not be available 
+for three months, but Ms. Harrison said the terminals were a good 
+deal. Consider, she said, a single mother who buys her first home 
+or a homeless family that manages to find shelter for the night. ``What 
+value do you put on that?'' she asked. 
+</TEXT>
+</DOC>

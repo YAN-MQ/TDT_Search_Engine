@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981031.1600.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And some students from Ohio and Virginia got a chance to interview 
+John glenn as he orbits the earth in the space shuttle "discovery." 
+</TEXT>
+</DOC>

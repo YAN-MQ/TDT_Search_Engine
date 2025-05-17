@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> PRI19981123.2000.1601 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Two of the world's largest Internet companies are talking marriage 
+-- America Online and Netscape confirmed today that they're discussing 
+a merger big enough to worry industry giant Microsoft. We get details 
+now from Patrick O'Connell at our business desk in New York. The deal 
+would be worth around $4 billion. If it goes through, it would combine 
+AOL Internet services with Netscape's browser technology to create 
+a giant drawing on millions of users. Don Wilmot from PC magazine 
+explains where it may leave the computer user. There are currently 
+about eight or nine portals jockeying for eyeballs, as we say in the 
+business. And certainly, this is just going to make AOL a more potent 
+competitor. But you know, in the end, I think the backstage deal-making 
+doesn't matter to the consumer as much as a useful and efficient experience 
+once they get onto the Web. Most of AOL's subscribers are within the 
+United States, so I mean, does this make a splash internationally 
+either by what it may presage in the future or by any of the names 
+who are involved now? Well, I think Netscape has a much more international 
+presence than AOL does. So the two of them together should be able 
+to do much better in raising awareness of both their products. I think 
+all the portals depend upon the fact that it's an international experience. 
+Even a big shopping site like Amazon says 20 percent of their ordering 
+comes from outside the U.S. I mean, it's an advantage of the Web that 
+you don't need to be, you know, where the source is. You can get at 
+it from anywhere. America Online already operates in 58 cities in 
+North America, has around 14 million subscribers and operates internationally 
+in Europe, Japan, Canada and Australia. The deal could add considerable 
+power to its penetration of the European market. And by drawing together 
+some of Microsoft's biggest rivals, including Sun Microsystems, analysts 
+believe it could make more of a significant threat for Microsoft. 
+For The World, I'm Patrick O'Connell in New York. 
+</TEXT>
+</DOC>

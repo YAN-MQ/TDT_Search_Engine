@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981118.1130.0921 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Bob Livingston is the republican pick to take over as house speaker 
+when elections are held in January. He would replace Newt Gingrich. 
+</TEXT>
+</DOC>

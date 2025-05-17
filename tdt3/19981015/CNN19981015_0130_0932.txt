@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981015.0130.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- congressional budget negotiators expect 
+to have final details of a $500 billion spending Bill worked out Thursday. 
+The two last areas of contention involve how to conduct the 2000 census 
+and whether insurance companies that cover federal employees must 
+pay for prescription contraceptives. 
+</TEXT>
+</DOC>

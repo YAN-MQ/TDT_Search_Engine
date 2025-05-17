@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981221.1130.0051 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is "CNN Headline News." Good morning, I'm Linda Stouffer. Thank 
+you for joining us. Despite impeachment, it's business as usual for 
+President Bill Clinton. Today, he visits a volunteer kitchen in Washington, 
+attends a memorial service at Arlington cemetary for victims of Pan 
+Am Flight 103 and hosts a Holiday party for members of the press. 
+Meanwhile, his attorneys are considering challenging the legality 
+of President Clinton's impeachment. They claim, if the 105th Congress 
+impeached Mr. Clinton, then it may be unconstitutional for a different 
+Congress, the 106th, to try him. Despite the shadow of a Senate trial, 
+a new CNN/"USA today" Gallup poll finds the president's approval rate 
+rising. 
+</TEXT>
+</DOC>

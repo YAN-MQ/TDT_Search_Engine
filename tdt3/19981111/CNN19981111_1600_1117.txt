@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981111.1600.1117 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And back on Wall Street -- the Dow finished -- down 40 points. The 
+NASDAQ lost 3 points. 
+</TEXT>
+</DOC>

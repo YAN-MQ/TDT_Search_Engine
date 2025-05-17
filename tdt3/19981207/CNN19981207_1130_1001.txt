@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981207.1130.1001 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another batch of Monday mergers. I'm Myron Kandel at this "CNN Financial 
+News" desk in news. This time, it's power companies. Britain's Scottish 
+power is buying Oregon-based pacific corps for nearly $8 billion and 
+stock. In Boston, bec energy and commonwealth energy systems are tying 
+the knot. That cash and stock deal valued at nearly $1 billion. 
+</TEXT>
+</DOC>

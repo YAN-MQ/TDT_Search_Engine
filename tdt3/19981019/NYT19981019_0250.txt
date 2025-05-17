@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO> NYT19981019.0250 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Having endured arctic storms, dangerous fissures in the ice pack, 
+polar-bear intrusions and a year of crushing pressure while frozen 
+into a drifting floe, the Canadian icebreaker Des Groseilliers reached 
+Prudhoe Bay, Alaska, on Saturday. Aboard it was a rich cargo of data 
+expected to reveal subtle mechanisms that drive changes in the world's 
+climate. The ship's arrival marked the end of a yearlong round of 
+experiments paid for mostly by the National Science Foundation, with 
+support from the Office of Naval Research and the Japanese government. 
+The $19.5-million project, called ``SHEBA,'' for Surface Heat Budget 
+of the Arctic Ocean, was a detailed measurement of heat flow among 
+the water, ice and air of the high Arctic, and the results are expected 
+to improve the mathematical modeling of global climate change. SHEBA, 
+administered by the University of Washington, was the largest and 
+most complex project ever supported in the Arctic by the National 
+Science Foundation. In a telephone call from the ship, Dr. Richard 
+Moritz of the University of Washington, director of the project, said 
+the atmospheric, oceanic and geophysical scientists who spent part 
+of the year aboard the floating laboratory, would spend the next several 
+months compacting and analyzing the data collected by thousands of 
+sensors on and around the ship. The investigators will meet in Tucson, 
+Ariz., at the end of January to begin consolidating their findings, 
+he said. Some preliminary results include indications that the entire 
+year was markedly warmer than past years. The ocean remained open 
+much farther north than normal, and the ice began breaking up sooner 
+than normal in the spring. Moreover, the salinity of ocean surface 
+water was low, showing that the water was mixed with an unusually 
+large proportion of fresh water from melting ice. Moritz said the 
+warming trend may have been mainly the result of the recent El Nino 
+climate event in the Pacific Ocean, but could also reflect a global-warming 
+trend. Dr. Donald Perovich, SHEBA's chief scientist on loan from the 
+Army's Cold Regions Research and Engineering Laboratory, in Hanover, 
+N.H., said the research year had been eventful. ``We had a real scare 
+during the winter when our headquarters floe started to break up,'' 
+he said. ``One of our ice camps near the ship broke away and drifted 
+a half-mile from the ship in less than an hour.'' From the point at 
+which the ship was intentionally embedded in ice 320 miles north of 
+the coastal village of Dead Horse, Alaska, it drifted about 1,800 
+miles before its powerful engines were started and the vessel headed 
+for land. ``Toward the end of the summer,'' Perovich said, ``the ice 
+had melted so much that thin patches barely covered the water.'' ``Scientists 
+were constantly falling through into the nearly freezing water _ 11,000 
+feet deep _ so everyone took to wearing flotation devices while working,'' 
+he said. ``Sometimes we had polar bear visits. Once, a mama bear was 
+instructing her cub how to floss its teeth with a cable strung out 
+to one of our sensors, and we had to chase them away with a tractor. 
+``But it was a wonderful project.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981022.1130.1099 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Negotiations for polygram's film library are finally over. Metro-goldwyn-Mayer 
+has agreed to buy the movie archive from seagram for $250 million 
+in cash. That is far less than the $1 billion seagram was hoping to 
+fetch. Seagram acquired the film library as part of its purchase of 
+polygram earlier this year. The deal gives MGM the biggest film archive 
+in the world, with such movies as "the graduate" and "when Harry met 
+Sally." 
+</TEXT>
+</DOC>

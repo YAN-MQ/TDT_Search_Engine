@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981208.1600.0403 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court has ruled today that police do not have blanket 
+authority to search any car stopped for traffic infractions. The case 
+involved an Iowa man stopped for speeding. Police searched the man's 
+car without probable cause or his consent and discovered marijuana. 
+Today, the court unanimously ruled the search was unlawful under the 
+fourth amendment. 
+</TEXT>
+</DOC>

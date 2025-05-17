@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> CNN19981205.0130.0493 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News" forecast. Heavy snow over Minnesota and the northern 
+Great Lakes. From tomorrow afternoon into Sunday morning, more snow 
+and rain moving into the west. Beautiful over the four corners region 
+by Sunday morning, as well as the east coast. Some clouds in the northeast 
+and lingering snow over the central plains. Overnight lows, 20s and 
+30s in New England. The cool spot, southern Nevada, with temperatures 
+in the zeros. Otherwise, teens throughout the Rockies, milder in the 
+south. High temperatures for tomorrow, warming up nicely in the south, 
+but chilly in New England. The northern Rockies into the southern 
+Rockies with highs in the 20s and 30s. Your extended forecast, 30s 
+from the pacific northwest to the northern plains all the way into 
+the southern Rockies. As we take a look at precipitation, rain and 
+snow Sunday over the western third of the nation. Snow over the Great 
+Lakes, turning into thunderstorms as you push to the south. Monday, 
+those 30s push into the central Great Lakes. Warmer temperatures in 
+the south with rain in the northwest, snow over the Great Lakes and 
+flurries over Colorado. Tuesday, the 30s move all the way into New 
+England. Warmer temperatures still in the south with showers in the 
+northwest. Snow over the Great Lakes. Thunderstorms as you push to 
+the south. Remember, you can get your four-day forecast for more than 
+7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

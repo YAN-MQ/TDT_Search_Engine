@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981012.1600.1118 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street, the Dow finished up 101, the NASDAQ composite 
+up 5 3, and that's "Dollars & Sense." Back to you, Chuck. Kitty, thank 
+you. 
+</TEXT>
+</DOC>

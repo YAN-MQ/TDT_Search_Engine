@@ -1,0 +1,92 @@
+<DOC>
+<DOCNO> NYT19981102.0424 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Following are excerpts from two hours of videotaped testimony shown 
+Monday in U.S. District Court during antitrust proceedings against 
+Microsoft Corp. David Boies, a trial lawyer for the Justice Department, 
+questioned the chairman and chief executive of the company, Bill Gates. 
+DAVID BOIES: Have you ever had discussions within Microsoft about 
+the desirability of trying to undermine Sun because of what Sun was 
+doing in Java? BILL GATES: I said to you part of our activity is to 
+go out and work with customers to see what it takes to have them choose 
+to license our products. And that's in competition with many other 
+companies, including Sun. Q. I'm not now talking about what you do 
+in competition with other products or other companies. What I'm talking 
+about is whether or not you've had discussions with people within 
+Microsoft in which you talked about the need to undermine Sun, using 
+those words, if that will help you, within Microsoft? A. I don't remember 
+using those words. Q. You don't? A. No. Q. Do you think you did use 
+those words or you just don't know one way or the other? A. I don't 
+know. Q. Would it be consistent with the way you felt about Java for 
+you to have told people that you wanted to undermine Sun? A. As I've 
+said, anything about Java you've got to show me a context before I 
+can answer because just the term Java itself can mean different things. 
+Q. Did you have discussions with Apple in which you were trying to 
+get Apple to agree to help you undermine Sun? A. There was some discussion 
+about what run-time A.P.I.'s [application program interfaces) Apple 
+would support, whether they would support some of ours or some of 
+Sun's. I don't think I was involved in any discussions myself with 
+Apple about that. Q. Well, let me show you a document and try to probe 
+what you mean by being involved. Let me give you a copy of a document 
+that has been previously marked as Government Exhibit 265. A portion 
+of this document is an e-mail message from you to Paul Maritz and 
+others and the portion I'm particularly interested in, and you can 
+read as much of the three-line e-mail as you wish, is the last sentence, 
+which reads, ``Do we have a clear plan on what we want Apple to do 
+to undermine Sun?'' Did you send this e-mail, Mr. Gates, on or about 
+Aug. 8, 1997? A. I don't remember sending it. Q. Do you have any doubt 
+that you sent it? A. No. It appears to be an e-mail I sent. Q. You 
+recognize that this is a document produced from Microsoft's files 
+do you not, sir? A. No. Q. You don't? A. Well, how would I know that? 
+Q. Do you see the document production numbers down at the bottom? 
+A. I have no idea what those numbers are. Q. Let me go back to the 
+e-mail, Mr. Gates. What did you mean when you asked Mr. Maritz whether 
+or not, ``We have a clear plan on what we want Apple to do to undermine 
+Sun''? A. I don't remember. Q. Did you personally participate in any 
+conversations with Apple in 1997 and 1998? A. Of any kind? Q. Let 
+me be a little more specific. Did you participate in any conversations 
+with Apple in 1997 or 1998 concerning what Apple would or would not 
+do that would affect Microsoft competitively? A. Well, there were 
+some conversations with Steve Jobs about Microsoft Office ... Q. And 
+did you participate in those conversations? A. I talked to Steve Jobs 
+on the phone I think twice. Q. And what was the nature of your conversations 
+with Mr. Jobs? A. Well, Steve had ... Steve called me up and said 
+that he had become the C.E.O. of Apple, sort of, and that Gil Amelio 
+wasn't the C.E.O. of Apple. And he raised the question of was there 
+some beneficial agreement that we could enter into different than 
+we'd been discussing with Gil. And it wasn't a very long call and 
+the conclusion was that Greg Maffei would go see Steve. Q. Was it 
+your understanding that Microsoft Office for Macintosh was believed 
+by Apple to be very important to them? A. I really have a hard time 
+testifying about the belief of a corporation. I really don't know 
+what that means. Q. Well, sir, in making the decisions as to what 
+you would ask of Apple, did you believe that what you were offering 
+Apple with respect to Microsoft Office for Macintosh was important 
+enough to Apple so that they ought to give you something for it? A. 
+I have no idea what you're talking about when you say ``ask.'' Q. 
+Well, let me show you a document that has been previously marked as 
+Government Exhibit 268 ... The first part of this purports to be a 
+copy of an e-mail from Don Bradford to Ben Waldman with a copy to 
+you, Mr. Maritz and others on the subject of ``Java on Macintosh/IE 
+Control.'' Did you receive a copy of this e-mail on or about Feb. 
+13, 1998? A. I don't know. Q. Do you have any reason to doubt that 
+you received a copy of this e-mail? A. No. Q. The first paragraph 
+reads, ``Apple wants to keep both Netscape and Microsoft developing 
+browsers for Mac _ believing if one drops out, the other will lose 
+interest (and also not really wanting to pick up the development burden.) 
+Getting Apple to do anything that significantly/materially disadvantages 
+Netscape will be tough. Do agree that Apple should be meeting the 
+spirit of our cross-license agreement and that Mac-Office is the perfect 
+club to use on them.'' Q. Do you have an understanding of what Mr. 
+Bradford means when he refers to MacOffice as the ``perfect club to 
+use on Apple''? A. No. Q. The second sentence of that paragraph, the 
+one that reads, ``Getting Apple to do anything that significantly/materially 
+disadvantages Netscape will be tough.'' Was it your understanding 
+in February of 1998 that Microsoft was trying to get Apple to do something 
+to disadvantage Netscape? A. No. Q. Do you know why Mr. Bradford would 
+have written this in February of 1998 and sent a copy to you? A. I'm 
+not sure. 
+</TEXT>
+</DOC>

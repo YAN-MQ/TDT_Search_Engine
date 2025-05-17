@@ -1,0 +1,105 @@
+<DOC>
+<DOCNO> NYT19981224.0187 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+One morning in October, Steven M. Golden set upon his competitors 
+like a brawling barnyard dog. Golden is chief executive of Coolsavings, 
+one of seven companies vying to dominate a burgeoning field that barely 
+existed two years ago _ the electronic distribution of coupon-style 
+discounts to consumers. On Oct. 19, Coolsavings, which is based in 
+Chicago, announced the first of six lawsuits against all its rivals, 
+accusing them of infringing a patent it was granted in June. ``We're 
+taking a position of strength and following the advice of attorneys 
+about how we protect our position as an industry leader,'' Golden 
+said in an interview. Coolsavings' patent-and-sue strategy is aggressive 
+but far from unique. Companies in fiercely competitive technology 
+industries from communications and software to drugs and biotechnology 
+are giving the 12-gauge lawsuit a prominent place in the corporate 
+gun cabinet. The volume of civil lawsuits in federal courts is rising 
+again after a slump in the late 1980s and early 1990s. And a recent 
+federal court of appeals decision that broadens the already wide definition 
+of a patentable process has opened the door for more contentious patents, 
+and thus more litigation. Patent lawyers say strategic suing makes 
+sense in lucrative new drug and technology markets. ``It can definitely 
+be a good idea if it slows competitors and gets you a one- to two-year 
+head start,'' said James G. Gilliland, an intellectual-property lawyer 
+in San Francisco who has many technology clients. ``That can make 
+all the difference in the world because, my goodness, there is a lot 
+of money to be made'' when a new idea first reaches the marketplace, 
+he said. The combination of more patents and more companies built 
+around patented technology has driven up the number of lawsuits, said 
+Eugene R. Quinn Jr., a lawyer and consultant who teaches at the Franklin 
+Pierce Law Center in Concord, N.H. In a review of federal court records, 
+Quinn found that the number of new patent-related lawsuits grew to 
+more than 2,100 in 1997, from 1,500 in 1992. Strategic suing is not 
+for the thin of wallet. The richer the prize, the bloodier the warfare 
+and the greater the likelihood that the case will be tried rather 
+than settled. The median cost to each party in a patent trial is $1.2 
+million, according to the American Intellectual Property Association; 
+complex trials can run to $6 million or more. Zealous patent litigators 
+are tutoring entrepreneurs in the art of legal combat. Although most 
+lawsuits are settled before trial, suing or threatening to sue is 
+viewed as a mandatory sign of resolve. ``Regrettably, the only way 
+to look credible in this game is to play hardball,'' Quinn said. ``The 
+name of the game is to take no prisoners.'' Patent disputes are still 
+sometimes resolved without lawsuits being filed, Gilliland said, but 
+``far less so than in the past.'' At Coolsavings, the patented process 
+involves the ability to aim discount certificates at the most promising 
+customers, a system the company introduced ahead of competitors in 
+March 1997, Golden said. The goal of the lawsuits is to fend off the 
+irksome prospect of imitators' copying its methods while undercutting 
+its prices. ``It isn't right,'' he said. ``We had a lot of development 
+costs, a lot of hurdles to figure out our business formula.'' But 
+Coolsavings is not on a crusade. If his competitors will come to the 
+negotiating table, Golden said, he would consider ``any solution that 
+makes economic sense.'' The targets of Coolsavings say the suits are 
+groundless. ``Nuisance patent suits are part of the background noise'' 
+in technology-based businesses, said Bill Purcell, chief executive 
+of Planet U, one of the defendants. ``What happens is, when people 
+get a patent, they often get patent testosterone and think their patent 
+covers a lot of area it doesn't.'' He said his company prefers to 
+``win in the marketplace, not the courtroom.'' Patent duels can pay 
+off big in the drug industry, where huge brand-name drug makers like 
+Glaxo Wellcome and Eli Lilly are accustomed to throwing their legal 
+weight around. A much smaller, generic drug maker, Barr Laboratories, 
+has profited richly by identifying shaky patents on brand-name drugs 
+and then either suing the patent holder or provoking a suit, hoping 
+to open the way for Barr to market a generic version. A trial is set 
+to begin in federal court in Indianapolis next month in Lilly's suit 
+against Barr over the validity of Lilly's Prozac patent. Barr's chief 
+executive, Bruce L. Downey, said Barr would realize an additional 
+$100 million in revenue if it wins. Downey is a lawyer, and he and 
+Barr's senior vice president for strategic business development, Paul 
+M. Bisaro, once worked together at a law firm. Going to court thus 
+comes naturally for the company, and the hunt for breakable patents 
+is a permanent part of its business model. ``A component of our business 
+is to set about looking for them,'' Downey said. ``We make no apologies 
+for that.'' Barr expects to spend $6 million to $8 million each time 
+it goes to trial, so Downey said he wanted to be sure the chances 
+of winning were at least 50 percent before joining battle. To date, 
+Barr is two for three in big patent cases. It sued and won a settlement 
+from Zeneca Group in 1987 over tamoxifen, a breast cancer drug; under 
+the settlement, Barr became a distributor of the drug. Barr provoked 
+a suit from Glaxo Wellcome in 1991 by filing for government approval 
+to sell a generic version of AZT, which is used to combat AIDS; Glaxo 
+won, and Barr must wait until the patent expires in 2005. Barr did 
+better when a similar filing in 1995 over the antibiotic ziprofloxacin 
+drew a suit from Bayer AG; Bayer agreed last year to pay Barr up to 
+$30 million a year until the patent expires in 2003 and to allow Barr 
+to distribute the antibiotic for the final six months of the patent's 
+term. The proceeds of its patent battles help pay for Barr research 
+aimed at creating patentable new drugs of its own. Smaller companies 
+sometimes contend that bigger competitors who win broad patents leave 
+them no choice but to sue. Nestor Inc., which makes software to detect 
+credit card fraud, is suing a younger and much larger company, HNC 
+Software, in federal district court in Providence, R.I., contending 
+predatory and monopolistic practices over a broad patent recently 
+won by HNC. With 23 of the 25 top issuers of bank credit cards buying 
+HNC's system, Nestor felt so shut out that it had little option but 
+to seek relief in court, said the company's chief executive, David 
+Fox. Patricia Campbell, HNC's marketing director, denied that HNC 
+had a monopoly and said the patent office had already settled the 
+question of whether HNC's anti-fraud neural network system was patentable. 
+</TEXT>
+</DOC>

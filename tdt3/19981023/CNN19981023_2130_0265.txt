@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981023.2130.0265 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Forecasters say tropical storm Mitch won't gain any significant strength 
+over the next 24 hours. It's too early to tell whether it will strike 
+any particular island. The storm has stalled in the Caribbean 355 
+miles south-southwest of kingston, Jamaica, with maximum sustained 
+winds of 60 miles an hour. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981125.1830.0548 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Scientists in Chicago think they've found a way to grow hair in mice. 
+They have isolated a chemical that causes hair follicles to form. 
+Researchers say the chemical made the mice exceptionally hairy. Hold 
+on, gentleman, they're not sure yet if they can produce similar results 
+in humans. 
+</TEXT>
+</DOC>

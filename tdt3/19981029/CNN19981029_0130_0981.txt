@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981029.0130.0981 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Technology stocks gave the Dow Jones industrial average a slight push 
+wednesday. AOL and Internet auctioneer ebay reported record earnings 
+for the last quarter. 
+</TEXT>
+</DOC>

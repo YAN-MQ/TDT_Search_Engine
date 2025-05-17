@@ -1,0 +1,126 @@
+<DOC>
+<DOCNO> APW19981109.1024 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+&Cx1f; Curr. Prev. LONDON (British Pence unless marked d-US dollars) 
+AA Corp &Cx1f; d 33.25 d 34.00 Abbey Nat &Cx1f; 1135.00 1158.0 Allied 
+Dom &Cx1f; 514.25 526.50 Asc Brit Fds &Cx1f; 593.50 570.00 BAA &Cx1f; 
+632.00 648.00 Barclays &Cx1f; 1199.0 1235.0 Bass &Cx1f; 730.00 748.00 
+B.A.T. &Cx1f; 467.00 490.00 BG . &Cx1f; 407.50 403.00 Blue Circle 
+&Cx1f; 340.00 342.00 Boc Group &Cx1f; 853.00 870.00 Boots &Cx1f; 964.00 
+962.00 Brit Aero &Cx1f; 445.50 453.50 Brit Air &Cx1f; 405.00 405.00 
+Brit Pet &Cx1f; 890.00 913.00 Brit Steel &Cx1f; 111.75 114.75 Brit 
+Telecom &Cx1f; 820.00 804.50 BTR &Cx1f; 109.00 111.00 Burmah Castrl 
+&Cx1f; 953.00 936.5 Cable &Cx1f; 635.50 640.00 Caddy Schw &Cx1f; 906.00 
+903.00 Centrica &Cx1f; 113.25 112.00 CGU &Cx1f; 888.50 920.0 DeBeers 
+&Cx1f; d 15.78 d 16.30 Deelkraal &Cx1f; d 0.50 d 0.50 Diageo &Cx1f; 
+610.50 623.50 Driefont &Cx1f; d 5.58 d 5.80 East Rd Gld &Cx1f; d 1.06 
+d 1.06 East Rd Prp &Cx1f; d 0.19 d 0.19 Elands &Cx1f; d 3.25 d 3.25 
+EMI Group &Cx1f; 356.00 363.25 Evander &Cx1f; d 2.20 d 2.20 Freegold 
+&Cx1f; d 4.50 d 4.50 GEC &Cx1f; 462.25 456.00 Glaxo &Cx1f; 1830.00 
+1833.0 GKN &Cx1f; 704.00 732.00 Granada &Cx1f; 881.50 876.00 Halifax 
+&Cx1f; 852.50 845.00 Hanson &Cx1f; 430.00 433.00 Harmony &Cx1f; d 
+4.75 d 4.85 H.K. Bank &Cx1f; 1443.00 1482.0 ICI &Cx1f; 596.00 590.00 
+Kingfisher &Cx1f; 536.00 539.00 Ladbroke &Cx1f; 225.50 236.00 Land 
+Sec &Cx1f; 848.00 855.00 Lasmo &Cx1f; 177.75 170.00 Leg and Gen &Cx1f; 
+671.00 693.00 Lloyds &Cx1f; 780.50 808.0 Marks &Cx1f; 417.25 410.00 
+Nat Power &Cx1f; 526.00 536.50 Nt West Bk &Cx1f; 961.00 985.00 P and 
+O &Cx1f; 621.50 624.50 Powergen &Cx1f; 850.00 835.00 Prudentl &Cx1f; 
+808.50 829.00 Randfont &Cx1f; d 2.73 d 2.75 Rank &Cx1f; 261.00 265.00 
+Reckit &Cx1f; 1017.00 1003.5 Reed Intl &Cx1f; 498.00 500.00 Reuters 
+&Cx1f; 597.00 595.00 Rio Tinto &Cx1f; 743.50 755.00 RMC &Cx1f; 875.00 
+885.0 Rolls Royce &Cx1f; 232.50 237.00 Royal Sun All &Cx1f; 493.50 
+501.00 Rustenburg &Cx1f; d 17.00 d 17.00 Safeway &Cx1f; 284.00 294.00 
+Sainsbury &Cx1f; 542.50 550.00 Shell &Cx1f; 349.75 350.00 Smiths Ind 
+&Cx1f; 838.00 835.00 SmithKline &Cx1f; 712.50 735.00 Southvall &Cx1f; 
+d 15.38 d 15.38 Std Chart Bk &Cx1f; 618.25 639.00 Tate and Lyle &Cx1f; 
+355.50 373.00 Tesco &Cx1f; 172.75 176.00 Thomson Trav &Cx1f; 160.00 
+160.00 TI Group &Cx1f; 375.00 385.00 Tomkins &Cx1f; 285.25 290.75 
+Unilever &Cx1f; 608.50 609.00 Vaal Reefs &Cx1f; d 4.20 d 4.20 Whitbread 
+&Cx1f; 776.50 798.00 Zeneca &Cx1f; 2257.00 2303.00 JOHANNESBURG (So 
+African Rand) Anglo &Cx1f; 182.00 188.00 De Beers &Cx1f; 88.00 88.00 
+Samanco &Cx1f; 43.50 43.00 FRANKFURT (German Mark) Aach. Muench &Cx1f; 
+294.00 285.00 Allianz-Hold &Cx1f; 564.00 577.00 BASF &Cx1f; 66.40 
+66.90 Bayer &Cx1f; 67.10 67.75 Bayer Verns &Cx1f; 130.00 131.50 BHF 
+&Cx1f; 65.00 63.50 BMW &Cx1f; 1176.0 1190.00 Commrzbnk &Cx1f; 54.95 
+53.10 Continental &Cx1f; 41.20 41.30 Daiml Benz &Cx1f; 135.70 139.70 
+Degussa &Cx1f; 81.80 80.00 Deutsch Babck &Cx1f; 82.90 83.50 Deutsch 
+Bank &Cx1f; 104.00 107.55 Deutsch Tel &Cx1f; 46.60 47.30 Douglas &Cx1f; 
+97.50 97.90 Dresdnr Bk &Cx1f; 65.30 66.00 Henkel &Cx1f; 141.00 141.00 
+Hochtief &Cx1f; 68.70 68.00 Hoechst AG &Cx1f; 74.50 74.40 Holzmann 
+&Cx1f; 207.00 212.00 Horten &Cx1f; 235.00 235.00 Karstadt &Cx1f; 795.00 
+811.00 KHD &Cx1f; 16.50 16.20 Kloeckner &Cx1f; 95.00 96.00 Krupp &Cx1f; 
+225.00 226.00 Linde &Cx1f; 900.00 893.00 Lufthansa &Cx1f; 36.80 36.90 
+Man &Cx1f; 479.00 484.50 Mannesmn &Cx1f; 164.50 168.50 Metallges &Cx1f; 
+25.40 25.25 Munch Rvrs &Cx1f; 793.00 800.00 Porsche &Cx1f; 3685.00 
+3525.0 Preussag &Cx1f; 578.00 583.00 RWE &Cx1f; 87.70 89.90 SAP &Cx1f; 
+755.00 763.00 Schering &Cx1f; 192.80 197.00 Siemens &Cx1f; 109.90 
+111.00 Thyssen Hu &Cx1f; 297.00 299.50 Varta &Cx1f; 270.00 284.00 
+Vew &Cx1f; 503.00 508.00 Viag &Cx1f; 1157.00 1139.0 Veba &Cx1f; 94.10 
+96.50 Volkswagen &Cx1f; 130.20 133.00 Wella &Cx1f; 1165.00 1150.0 
+BRUSSELS (Belgian Franc) Arbed &Cx1f; 2490 2550 Bekaert &Cx1f; 20325 
+20350 Gr Br Lambert &Cx1f; 6350 6470 CBR &Cx1f; 3395 3300 Cockerill 
+&Cx1f; 160 160 GB-Inno-BM &Cx1f; 1720 1725 Gevaert &Cx1f; 2430 2450 
+Kredietbank &Cx1f; 2605 2625 Petrofina &Cx1f; 12425 12375 Sofina &Cx1f; 
+1750 1710 Solvay &Cx1f; 2610 2630 Trctebel &Cx1f; 5750 5690 MILAN 
+(Italian Lira) Alitalia &Cx1f; 4550 4665 Banca Comm &Cx1f; 11320 11800 
+Benetton &Cx1f; 2835 2855 Ciga &Cx1f; 1349.00 1350.00 CIR &Cx1f; 1494 
+1500 Cofide &Cx1f; 794.00 813.00 Fiat Com &Cx1f; 4805 5000 Fiat Pref 
+&Cx1f; 2635 2710 Fondiaria &Cx1f; 8010 8330 Generali &Cx1f; 58500 
+58800 HPI &Cx1f; 1090 1115 IFI &Cx1f; 25800 25400 IFIL &Cx1f; 6140 
+6110 Italcementi &Cx1f; 15800 16520 Italmobil &Cx1f; 43700 44300 Mediobanca 
+&Cx1f; 17970 17995 Montedison &Cx1f; 1749 1813 Olivet Com &Cx1f; 3985.00 
+4060.00 Pirelli Co &Cx1f; 3065 3160 Pirelli Spa &Cx1f; 4910.00 5000.00 
+RAS &Cx1f; 20450 20750 Rinascente &Cx1f; 15280 14980 Saipem &Cx1f; 
+6995 7055 Sirti &Cx1f; 8810 8730 SNIA &Cx1f; 2250 2255 Telecom Italia 
+&Cx1f; 11585 11870 Telecom It Mob &Cx1f; 9955 10220 PARIS (French 
+Franc) Accor &Cx1f; 1200.00 1235.00 Air Liquide &Cx1f; 902.00 901.00 
+Alcatel Alsthom &Cx1f; 600.00 615.00 AXA &Cx1f; 646.00 662.00 Bouygues 
+&Cx1f; 1184.0 1179.00 Carrefour &Cx1f; 3906 3820.00 CCF &Cx1f; 397.00 
+398.00 Club Med &Cx1f; 465.00 461.00 Danone &Cx1f; 1650.00 1606.00 
+Elf &Cx1f; 687.00 687.00 EuroDisney &Cx1f; 8.45 8.65 Michelin &Cx1f; 
+246.70 253.60 Lafarge &Cx1f; 554.00 547.00 Lagardere &Cx1f; 215.60 
+229.00 L'Oreal &Cx1f; 3190.00 3120.00 LVMH &Cx1f; 1046.00 1065.00 
+Paribas &Cx1f; 435.10 445.50 Pernod &Cx1f; 366.10 371.00 Peugeot &Cx1f; 
+942.00 945.00 Rhone-poulenc &Cx1f; 271.00 266.80 Saint-Gobain &Cx1f; 
+812.00 820.00 Societe Gen &Cx1f; 760.00 776.00 Suez &Cx1f; 1057.00 
+1050.00 Thom-CSF &Cx1f; 193.00 200.00 Total &Cx1f; 680.00 671.00 Valeo 
+&Cx1f; 476.00 470.00 ZURICH (Swiss Franc) ABB Bear &Cx1f; 1593 1551 
+ABB Reg &Cx1f; 325.00 316.00 Adecco &Cx1f; 586.00 590.00 Alusuisse 
+&Cx1f; 1578 1492 Ascom &Cx1f; 2425 2465 Ciba Spec Chm &Cx1f; 144.75 
+127.00 Credit Suisse &Cx1f; 204.25 208.50 Holderbank &Cx1f; 1525 1515 
+Jemoli &Cx1f; 1700 1690 Nestle Reg &Cx1f; 2928 2936 Novartis Ber &Cx1f; 
+2454 2486 Novartis Reg &Cx1f; 2467 2490 Oerlik Buh &Cx1f; 173.00 174.75 
+Pargsa Hol &Cx1f; 1925 1866 Roche dv rt &Cx1f; 15930 15900 Roche bearer 
+&Cx1f; 24750 24850 Saurer Twin &Cx1f; 839 809 Schindler &Cx1f; 2070 
+2100 SMH Corp &Cx1f; 791.00 798.00 Sulzer nv &Cx1f; 790.00 771.00 
+Surveillance &Cx1f; 1025.00 1124.00 Swissair &Cx1f; 325.00 334.00 
+Swiss Reins &Cx1f; 3175 3145 Union Bk Sw &Cx1f; 370.00 371.00 Zurich 
+Ins &Cx1f; 800.00 871.00 AMSTERDAM (Dutch Guilder) ABN Amro &Cx1f; 
+39.30 38.80 Aegon &Cx1f; 190.20 191.60 Ahold &Cx1f; 65.40 65.60 Akzo 
+&Cx1f; 71.80 71.90 Amev &Cx1f; 125.30 124.70 BolsWessanen &Cx1f; 24.50 
+23.50 Boskalis &Cx1f; 26.60 27.40 CSM &Cx1f; 93.50 92.50 DSM &Cx1f; 
+178.60 178.00 Elsevier &Cx1f; 27.30 27.40 Hagemeyer &Cx1f; 69.20 66.20 
+Heineken &Cx1f; 104.00 102.50 Hoogovens &Cx1f; 57.90 59.00 Hunt Dgls 
+&Cx1f; 68.50 67.20 IHC Caland &Cx1f; 84.00 83.50 ING Groep &Cx1f; 
+101.50 99.40 Internatio &Cx1f; 49.40 48.80 KLM &Cx1f; 52.20 53.20 
+KPN &Cx1f; 72.00 73.00 Nedlloyd &Cx1f; 26.60 27.90 OCE-Van Der &Cx1f; 
+69.10 67.10 Philips &Cx1f; 112.30 116.60 Robeco &Cx1f; 204.50 205.80 
+Rodamco &Cx1f; 45.00 45.70 Rolinco &Cx1f; 175.50 173.50 Rorento &Cx1f; 
+129.50 129.30 Royal Dutch &Cx1f; 90.00 88.40 Stork &Cx1f; 48.90 48.80 
+Unilever &Cx1f; 143.70 142.20 VOC &Cx1f; 61.00 60.70 VNU &Cx1f; 70.00 
+69.40 Wolter Klu &Cx1f; 364.20 360.00 STOCKHOLM (Swedish Crown) AGA, 
+B &Cx1f; 99.00 103.50 Astra &Cx1f; 138.50 141.00 Atlas &Cx1f; 189.00 
+189.00 Electrolux &Cx1f; 118.50 119.00 Ericsson &Cx1f; 178.50 181.00 
+Handels &Cx1f; 333.50 333.00 Investor &Cx1f; 324.50 325.50 Modo &Cx1f; 
+197.00 195.00 Perstorp &Cx1f; 91.00 88.00 SCA &Cx1f; 179.00 182.00 
+Se-Banken &Cx1f; 75.00 77.50 Sandvik &Cx1f; 144.00 144.50 Skandia 
+&Cx1f; 107.50 106.00 Skanska &Cx1f; 247.00 258.00 SKF &Cx1f; 97.50 
+94.50 Stora &Cx1f; 93.50 93.00 Trelleborg &Cx1f; 67.50 69.00 Volvo 
+&Cx1f; 172.50 176.50 MADRID (Spanish Peseta) &Cx1f; Curr. Prev. BanCentHisp 
+&Cx1f; 1560 1605 BanPopular &Cx1f; 9120 9480 BanSantander &Cx1f; 2800 
+2840 Endesa &Cx1f; 3680 3675 FCC &Cx1f; 7860 7860 GasNatural &Cx1f; 
+11700 11950 Mapfre &Cx1f; 3670 3770 
+</TEXT>
+</DOC>

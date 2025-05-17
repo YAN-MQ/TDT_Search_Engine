@@ -1,0 +1,91 @@
+<DOC>
+<DOCNO> NYT19981012.0088 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Imagine you are being treated for cancer, a fact known to your Travelers' 
+insurance agent from your medical tests and insurance forms. Imagine 
+also that you are applying for a mortgage from, say, Citibank, where 
+you've banked for years and which has just merged with Travelers Group. 
+Despite your excellent credit rating, your mortgage is denied by Citibank 
+for reasons that are unclear. Or suppose you've just inherited lots 
+of money from a relative's life insurance policy and you put the money 
+into your Fleet Bank account. Pretty soon you get a call from a representative 
+of Quick &AMP; Reilly, a brokerage firm you have never heard of but 
+which is owned by Fleet. The broker is equipped with surprisingly 
+detailed knowledge of your financial situation _ along with a few 
+ideas about how to invest your windfall. Both situations may be hypothetical 
+but they aren't so far-fetched, according to a growing number of bankers, 
+lawmakers, banking regulators and consumer advocates worried about 
+the potential dark side of the mergers sweeping the financial industry. 
+As banks, brokerage firms and insurance companies combine into huge 
+new conglomerates, and with legislation before Congress to make such 
+mergers even easier, there is increasing concern about the amount 
+of personal financial and medical data that can be collected under 
+one roof. So far, this privacy debate has centered mainly on the use 
+of patients' medical records, especially by health maintenance organizations. 
+But a new twist has been added as banks have expanded into businesses 
+like securities and insurance sales, both of which involve the collection 
+of a wide range of personal information. Just last week, Citicorp 
+and Travelers Group completed their $50 billion merger, creating the 
+world's largest financial services conglomerate, with 70 million customers. 
+The new company, Citigroup, has access to a wealth of customer information, 
+including mutual fund accounts, health claims on insurance policies, 
+and credit card, mortgage and car loan balances. Many consumer advocates 
+are worried that such sensitive data can easily be transferred from 
+one part of the company to another and possibly be disclosed to outside 
+parties. ``It is very important for banks to realize the challenge 
+they face in the privacy area is something new, different and more 
+difficult than what they've dealt with before,'' said Acting Comptroller 
+of the Currency Julie Williams. ``It's in their self-interest to recognize 
+privacy as a customer concern and deal with it successfully or they 
+may be subject to more restrictive controls on the ability to use 
+this information.'' Nationsbank, which is acquiring BankAmerica Corp., 
+has already run into trouble with customer privacy. The company recently 
+paid nearly $40 million to settle a class-action suit and end a government 
+investigation after more than 18,000 customers, many of them elderly, 
+were sold complex derivative securities that were far too risky for 
+them. Nationsbank's brokerage arm had used the bank's customer list 
+to target people to approach, many of whom mistakenly believed that 
+the derivatives were safe and insured. As a result, Nationsbank has 
+imposed new limits on the use of private data. ``Talking to a banker 
+used to be like going to confession or seeing a psychiatrist _ we 
+thought the information was protected,'' said Edmund Mierzwinski, 
+executive director of the U.S. Public Interest Group, a nonprofit 
+pro-consumer organization. ``But that's no longer the case. These 
+mergers are creating bigger data bases with more power.'' Financial 
+services companies argue that the ability to swap data between one 
+arm and another is a driving force behind many mergers. Banks want 
+to broaden their ability to ``cross-market'' credit cards to checking 
+deposit customers or sell stocks and bonds to holders of car loans. 
+But bankers say they must be careful to balance this desire to sell 
+new products against the need to maintain the trust of their customers. 
+``We are very concerned,'' said Edward Yingling, executive director 
+for government relations at the American Bankers Association. ``The 
+key question is, what is the proper balance between appropriate and 
+valuable cross-marketing and invasions of privacy? No one believes 
+medical records should be used for cross-marketing in ways that would 
+be invasive. It's more difficult when financial information can be 
+used to show our customers that other products might be very good 
+for them. That's what everyone has to wrestle with.'' Current law 
+allows bank customers to sign ``opt out'' forms, preventing one part 
+of a bank from giving personal information to another. The Comptroller's 
+office has found, however, that few banks highlight this option. ``Most 
+bank customers can't ever recall seeing anything like this,'' Ms. 
+Williams said. As part of its merger application to the Federal Reserve 
+Board, Citigroup made a ``Global Privacy Promise,'' which would ``provide 
+customers the right to prevent Citigroup from sharing customer information 
+with others, including affiliates, for cross-marketing purposes.'' 
+Customers will also be given opt-out provisions and Travelers has 
+pledged that it will not share the medical or health information of 
+its insurance customers ``for marketing purposes.'' Consumer advocates 
+like Mierzwinski say such protections should be a matter of law, and 
+not established case by case. Sen. Christopher Dodd, D-Conn., has 
+been leading a push in Congress for greater financial privacy restrictions. 
+``There are hardly any safeguards out there,'' Dodd told the Senate 
+Banking Committee last month. ``As each year goes by, the vulnerability 
+of the people we represent becomes more exposed. The longer we delay, 
+we are exposing millions to unfair access by people who should not 
+have access.'' 
+</TEXT>
+</DOC>

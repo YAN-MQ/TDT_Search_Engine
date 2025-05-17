@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981029.1830.0823 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today -- the Dow was up more than 123 points. The NasDaq 
+was up, as well, nearly 18 points. 
+</TEXT>
+</DOC>

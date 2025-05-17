@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981204.1830.1189 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Overseas today, there were a frightening few moments in south Korea. 
+A fully armed anti-aircraft missile was accidentally launched into 
+busy air space over the city of inchon. Seconds later, the missile 
+was automatically destroyed by a built-in safety device, sending a 
+shower of metal fragments into a residential neighborhood. Three people 
+were injured. 
+</TEXT>
+</DOC>

@@ -1,0 +1,98 @@
+<DOC>
+<DOCNO> NYT19981220.0090 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Three days after their company managed one of the most successful 
+initial public offerings in the short history of the Internet, brothers 
+Jack and Murray Hidary, the founders of New York-based Earthweb, made 
+a private donation of $10,000 to a nonprofit group known as Mouse, 
+an acronym for Making Opportunities for Upgrading Schools and Education. 
+Mouse was founded 14 months ago by Andrew Rasiej, a nightclub owner 
+turned philanthropist, to help wire and provide technical support 
+to New York City's public high schools. Essentially, the organization 
+consists of a staff of three and 700 volunteers _ no hardware, no 
+software, no wire. The Hidary brothers were among its first volunteers, 
+and they represent a growing commitment among Silicon Alley companies 
+to share time and, when possible, cash with a new generation of nonprofit 
+groups founded to distribute the benefits of technology. Jack Hidary 
+said his eyes were opened to a growing social problem when he volunteered 
+to help wire Washington Irving High School last year. ``That's when 
+I realized what a lack of infrastructure there is in the schools,'' 
+he said. ``If we allow students to grow up without being connected, 
+they're going to be at a real disadvantage.'' Mouse is now managing 
+programs in 13 New York public high schools, and Rasiej is on a crusade 
+to enlist members of the city's new-media industry. ``Many of the 
+people in the community don't have the ability to write a big check,'' 
+he said of an industry full of cash-short start-ups. ``But they can 
+leverage something more valuable; they can leverage their expertise.'' 
+When seeking companies' resources, Rasiej, who also runs the Intel 
+Music Festival for profit, appeals directly to their bottom line. 
+``The companies need to realize there aren't any customers if people 
+can't get online,'' he said. ``They have to help create their future 
+customers and their future employees. You have to light a fire, and 
+then the customers will demand it.'' Another high-profile nonprofit 
+group that Mouse often passes the baton to when seeking staff development 
+is Heaven (Helping, Educate, Activate, Volunteer and Empower). The 
+national organization, which is based in New York, was founded in 
+1997 with backing from America Online and Time Warner's New Line Cinema. 
+It is run by Wendy Dubit, who has forfeited her for-profit new-media 
+career as a marketing and Web-content developer to make Heaven work 
+for inner-city high school students. ``Heaven exists to use new media 
+to benefit society and bridge the digital divide,'' Ms. Dubit said. 
+``We want to coalesce the industry and users around using these tools 
+for positive social change.'' Heaven operates a job-training and internship 
+program, called Angels, for inner-city high school students; Ms. Dubit 
+describes it as ``a way of addressing the biggest problem we face: 
+narrowing the gap between the haves and the have-nots.'' One of Heaven's 
+first students was 15-year-old Gabriel Almanzar, a student at Beacon 
+High School on West 61st Street. After completing Heaven's initial 
+training course where he learned, among other things, how to use Adobe 
+Photoshop, a graphics and digital darkroom program, Gabriel took an 
+internship at a small publishing company called Global Liaisons in 
+Manhattan where he helped the owner, Wendy Diamond, find and format 
+photographs and often worked with other, more technologically sophisticated 
+shops on production. ``I really liked meeting all the people,'' Gabriel 
+said. ``And I taught Wendy how to use Adobe.'' Tiffany Lee, a senior 
+at Benjamin Banneker High School in Brooklyn, is finishing a Heaven 
+internship at Silicon Alley-based Theglobe.com, a community-based 
+Web site. She works 15 hours a week in the marketing and public relations 
+department, organizing media kits, helping with the editorial calendar 
+and sometimes helping organize chat groups. Tiffany said she was surprised 
+by the reception she got at the company. ``In other jobs I've had, 
+the people in charge of me have been really nasty,'' she said. ``But 
+there, they respect me a lot.'' Like Heaven, the Digital Clubhouse, 
+located at the New York Information and Technology Center at 55 Broad 
+St., has an agenda to teach multimedia skills, but not just to teen-agers. 
+The original Digital Clubhouse was started in Silicon Valley in 1996 
+and opened its New York center in the summer of 1997. It is modeled 
+as a community resource and learning center, a place where people 
+can come to learn software programs, how to build Web pages or create 
+a CD-ROM. ``The Clubhouse came out of a small NASA project,'' said 
+Jennifer Douglas, director of the New York center. ``They wanted to 
+see how 21st-century technology would be used by communities. What 
+came out of talking with focus groups was that something called the 
+Digital Clubhouse would make sense.'' The Clubhouse's latest project 
+is the Digitally Abled Producers Project, which is financed by Mitsubishi 
+Electric America Foundation. ``The program is made up of students, 
+half with disabilities, who are learning Web production and digital 
+storytelling by creating CD-ROMs,'' Ms. Douglas said. ``They use personal 
+photographs, artwork and narration to tell their own stories.'' Back 
+in cyberspace, two Web developers, David Perez and Lila Heymann, are 
+preparing to start the Silverlining Network, a site for families with 
+seriously ill children. ``It's a place where families can meet one 
+another,'' Perez said. ``They can link to resources, chat with experts 
+in the field or read feature articles, like on how serious illnesses 
+affect siblings.'' Perez and Ms. Heymann hope to have the site operating 
+by mid-1999. The assets that all of these fledgling nonprofit groups 
+say they need are more volunteers and corporate financial support. 
+But Rasiej, for one, insists that his organization's potential is 
+far too great to leave its fate to the generosity of the Fortune 500 
+_ and that the Silicon Alley community has a great deal to gain from 
+getting involved. ``You have to get the entrepreneurs to think about 
+themselves in the silhouette of a Cooper or a Rockefeller, the leaders 
+of the industrial revolution,'' he said. It is a comparison that New 
+York entrepreneurs like the Hidary brothers are probably happy to 
+accept. 
+</TEXT>
+</DOC>

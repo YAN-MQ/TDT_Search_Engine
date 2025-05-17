@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> CNN19981129.1000.0533 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News forecast" for Sunday. A big pacific storm system 
+moves into the northwest, bringing heavy snow and rain, especially 
+in northern California. The winter storm system in the southwest moves 
+into the plains states, causing heavy rainfall over the southern plains, 
+Iowa. It will extend all the way up into Canada, causing snow in the 
+western Great Lakes. Behind the front we'll have high pressure giving 
+nice weather to the northern plains and also to the central Rockies. 
+The eastern third of the nation will wake up to beautiful weather 
+Monday morning. Chilly temperatures on Sunday in the north. Warm temperatures 
+in the south, with some 70s and 80s. Taking a look at your extended 
+forecast -- we'll see mild temperatures on monday, a heavy rain/snow 
+mix over the northwestern section of the country, rain over the Great 
+Lakes extending into the southern plains, where we will see some thunderstorm 
+activity. On Tuesday, a rain/snow mix over the western third of the 
+nation, scattered showers over the north central gulf coast into the 
+Ohio valley. And on Wednesday, a mixture of showers and snow over 
+the northwest, with scattered showers over the Great Lakes extending 
+all the way down into florida, where we'll see a few thunderstorms. 
+Remember, you can get your four-day forecast for more than 7,200 cities 
+at cNN.com. 
+</TEXT>
+</DOC>

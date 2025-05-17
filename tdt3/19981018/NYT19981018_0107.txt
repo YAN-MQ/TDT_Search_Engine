@@ -1,0 +1,88 @@
+<DOC>
+<DOCNO> NYT19981018.0107 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+There tend to be two sorts of regulatory disputes in the communications 
+industry: the wildly Byzantine and the merely arcane. The Byzantine 
+seemed on display at the Supreme Court last Tuesday as some of the 
+United States' most prominent lawyers wrangled over the Federal Communications 
+Commission's plan for bringing competition to local telephone markets. 
+They relied not on broad constitutional principles but on subtle interpretations 
+of dense subsections of the Telecommunications Act of 1996. But the 
+complexity of the courtroom arguments tended to obscure something 
+that became clear later in the week: Some factions within the local 
+telephone industry might actually prefer to lose a big part of this 
+case in the interest of expediting a more important victory later. 
+At stake are the terms under which the local telephone incumbents 
+_ the five Bells and GTE Corp. _ must open their networks to competitors, 
+be they upstarts or long-distance carriers hoping to enter the local 
+business. The local telephone market is worth about $100 billion. 
+``The court realizes that the telecommunications industry is essentially 
+the central industry,'' said William Barr, the former attorney general 
+who is now chief counsel for GTE and who argued before the court on 
+Tuesday. ``This case raised fundamental issues about how competition 
+will unfold and the structure of that market in the future.'' Shortly 
+after the Telecommunications Act of 1996 became law, the FCC issued 
+an order that told the states how to set prices for the various elements 
+of the local phone companies' networks that competitors might want 
+to use. In that order, the commission did at least two things that 
+the Bells and GTE despised. The first was to mandate what is known 
+as a ``forward-looking'' pricing model. Under such a system, a local 
+incumbent is allowed to recover only those costs that it would bear 
+if its network were of the most modern and efficient type. An equivalent 
+would be if a taxi driver charged customers based on the costs of 
+operating his car but was told to pretend that his car got 50 miles 
+to the gallon and was in tip-top shape. The long-distance companies 
+think that is a great idea because it gives them cost-effective access 
+to local networks without having to bear the cost of building such 
+networks themselves. ``It is not economically possible to build loops 
+to every house in America,'' Bruce Ennis Jr., who argued for the newly 
+merged long-distance giant MCI Worldcom Inc. at the Supreme Court, 
+said in an interview, referring to copper telephone lines. ``We need 
+to be able to lease elements from the incumbents.'' But many taxis, 
+and many equivalent phone networks, are decrepit gas-guzzlers. The 
+local phone companies think they should be allowed to pass along the 
+sometimes higher costs of maintaining and operating even the oldest 
+parts of their networks to the new carriers that want access to those 
+systems. Not long after the FCC order came out, the Bells and GTE 
+sued the government, charging that the Telecommunications Act did 
+not give the commission authority to tell the states to use a forward-looking 
+pricing system. Last year the 8th U.S. Circuit Court of Appeals in 
+St. Louis agreed. Significantly, the court did not rule on the merits 
+of the commission's rules _ whether forward-looking price models were 
+fair to begin with. The local phone carriers also challenged another 
+provision of the FCC's order, which forced them to offer the different 
+parts of their networks as complete packages for their competitors, 
+largely alleviating the need for their rivals to do such assembly 
+work themselves. The St. Louis court ruled against the commission 
+on that score as well, and both issues were argued at the Supreme 
+Court last week. The commission's uniform national pricing rules never 
+went into effect, forcing the Bells and their competitors to take 
+up the matter in proceedings before 50 different state utility commissions. 
+The upshot, though, is that many, if not most, of the states have 
+adopted forward-looking pricing schemes that are similar to what the 
+commission proposed two years ago anyway _ and which the local phone 
+companies had hoped to avoid. If the Bells and GTE want to appeal 
+those state decisions, they must litigate state by state. So now comes 
+the rub for the Bells and GTE. Remember, the 8th Circuit, which has 
+already demonstrated sympathy for the local companies, never ruled 
+on whether the forward-looking cost models were fair. If the local 
+phone industry succeeds in convincing the Supreme Court that authority 
+to set local-network pricing models does lie with the states and not 
+with the commission, the fairness question has no chance of rebounding 
+to the 8th Circuit. So now some lawyers for the local phone industry 
+are thinking that it might actually be better for them to lose in 
+the Supreme Court by having the justices declare that the commission 
+does indeed have jurisdiction. That would send the case back to the 
+8th Circuit. That way, the local companies could hope to have the 
+lower court consider the merits of forward-looking pricing _ and perhaps 
+declare it unfair across the country. ``I think there's a good chance 
+that we lose on jurisdiction,'' said a lawyer who works for a local 
+phone company. ``And to me, No. 1, it's not that bad.'' Whatever the 
+outcome, an 8th Circuit ruling on the merits of forward-looking pricing 
+might end up with the same parties back before the Supreme Court. 
+But for the Bells and GTE, some of their proponents believe, a loss 
+now might be the best chance at eventual victory. 
+</TEXT>
+</DOC>

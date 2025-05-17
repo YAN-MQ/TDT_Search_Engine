@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981110.0500.0961 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Elsewhere, the New York Islanders topped the Toronto Maple Leaves 
+three to one, and the Los Angeles Kings beat the Vancouver Kanuks 
+four to three. 
+</TEXT>
+</DOC>

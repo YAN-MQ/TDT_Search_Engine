@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981226.1000.0131 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hundreds of TWA passengers were stranded at the St. Louis airport 
+this christmas, reportedly because of a "mass sickout." "The St. Louis 
+post dispatch" reports, many of the airline's flight attendants called 
+in sick to protest the lack of a new labor contract. That forced TWA 
+to cancel more than 90 flights. An airline spokesman says TWA found 
+hotel rooms for stranded passengers. He says service should return 
+to normal today. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981118.2130.0998 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers report student aid grants are not keeping pace with the 
+soaring cost of a college education. Pell grants, the major federal 
+assistance for low-income students, go about half as far as they did 
+20 years ago. In 1976 and '77, the grants covered 19% of the costs 
+at a private school, 39% at a public school. In 1996 and '97, the 
+grants paid just 9% of the costs at a private school, 22% at a public 
+school. 
+</TEXT>
+</DOC>

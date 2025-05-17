@@ -1,0 +1,130 @@
+<DOC>
+<DOCNO> NYT19981207.0220 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The blueprint for making a person is not a set of plans showing what 
+a finished heart or kidney looks like and how all the different organs 
+are plumbed together. It is almost certainly a program, not a description, 
+a series of steps that directs a handful of embryonic cells into progressively 
+more specialised tissues. Interacting with each other through a burst 
+of chemical signals, the cells proliferate and slowly organize themselves 
+into the program's end product, the miracle of a mewling infant. Human 
+embryonic stem cells _ the cells at the beginning of this biological 
+unfolding _ have now been isolated for the first time and scientists 
+last week promised Congress that they would soon be able to mimic 
+parts of nature's program in the laboratory, making heart, blood and 
+nerve cells to replace or fortify diseased tissues. Should the technique 
+work, it could well change the face of medicine by providing a universal 
+spare parts kit for the human body. No longer would patients have 
+to wait in line for scarce transplantable organs; their failing hearts 
+would be injected with heart muscle cells grown from human embryonic 
+cells. The cells would be genetically manipulated so as to avoid provoking 
+the patient's immune defenses, and immortalized with a gene that enables 
+cells to divide indefinitely instead of growing old after an allotted 
+number of divisions. From the cornucopia of embryonic stem cells, 
+biologists would also spin off nerve cells for Parkinson's disease 
+patients, pancreatic islet cells for diabetics and endothelial cells 
+to reline tired blood vessels, Dr. Tom Okarma told a Senate committee 
+last week. Okarma is vice president for research of Geron, the company 
+that funded the stem cells' development. The principle of growing 
+replacement tissue cells from embryonic stem cells was also endorsed 
+at the hearing by Dr. Harold Varmus, director of the National Institutes 
+of Health. But a sizeable gap still yawns between theory and practice. 
+The chemical messages the cells exchange as they travel down developmental 
+paths to their destined cell type are almost completely unknown. Biologists 
+will need to identify these signals before they acquire complete mastery 
+over the cell's lineages and fate. But there is a large bank of knowledge 
+to draw on, derived from studies of how simpler organisms develop, 
+like sea urchins, roundworms, fruit flies, frogs and mice. ``The field 
+has exploded over the last 10 years,'' said Dr. Sally A. Moody, a 
+biologist at George Washington University and editor of ``Cell Lineage 
+and Fate Determination'' (Academic Press). Because of similarities 
+in evolution's design, an overall picture of embryonic development 
+is emerging, Dr. Moody said, ``but the perception that scientists 
+know how to choose any cell fate is wrong. We know a lot about particular 
+cell fates but we don't have all the pieces worked out by any means.'' 
+All cells in the human body have a full set of genes, but as cells 
+progress down different lineages, they presumably activate the particular 
+suite of genes that tells them how to operate as a hair cell or kidney 
+cell or whatever is appropriate to their neighborhood. The first main 
+step of development is when the all-purpose embryonic cells differentiate 
+into the three tissues of the early embryo: the endoderm, mesoderm 
+and ectoderm. In backboned animals, the gut, liver and lungs develop 
+from the endoderm; the mesoderm gives rise to the skeleton, muscle, 
+kidney, heart and blood, and the ectoderm generates two not obviously 
+kindred tissues, the skin and the nerve cells. This division of labor 
+is thought to be accomplished by chemical signals that cells secrete 
+to influence their neighbors, along with receptors they insert in 
+their outer membranes to receive these signals. ``It's a language 
+of signals and receptors,'' said Dr. Roger Pedersen, a biologist at 
+the University of California, San Francisco, who studies development 
+in mice and humans. ``We know the semantics, but we don't understand 
+them because we can't eavesdrop on the embryo very well, where this 
+intimate conversation is going on.'' A few words in this code have 
+been deciphered. Embryonic stem cells can be driven to develop into 
+nerve cells by exposing them to the chemical known as retinoic acid. 
+Certain growth factors influence the development of blood-forming 
+cells. ``One could generalize to say we know that the language being 
+spoken within the emrbyo as it forms these cell types is the language 
+of growth factors, but we don't know how to decode the particular 
+sentences of messages that the individual cell types hear,'' Pedersen 
+said. A development that may provide many of the words in this vital 
+language comes from research undertaken by Human Genome Sciences of 
+Rockville, Md. Dr. William A. Haseltine, its chairman and chief executive 
+officer, said that the company has now isolated more than 75 percent 
+of all human genes in full length form. From them the company's scientists 
+as of this week have identified 14,387 genes whose products are predicted 
+to be proteins that are either exported from the cell as chemical 
+signals or inserted into the membrane as receptors, Haseltine said. 
+The identification was accomplished by setting a computer to search 
+for the sequence of DNA letters that are the zip code, under the cell's 
+protein sorting system, for all proteins destined to be exported or 
+used as membrane receptors. These 14,000 proteins, Haseltine said, 
+comprise almost the entire gene-encoded signals communication system 
+between human cells. A ``big fundamental surprise,'' he said, is that 
+some 12,000 of these genes have no family relationship to any genes 
+found in the C. elegans roundworm, whose DNA sequence is now almost 
+complete. This implies that higher animals invented a much more sophisticated 
+intercellular communications system as they evolved away from the 
+worm. The 14,000 signals and receptors, Haseltine said, would be expected 
+to include those that are involved in embryonic development and hence, 
+once identified, would supply most of the factors needed to make human 
+embryonic stem cells differentiate into any desired cell type. Haseltine 
+said he was discussing a collaboration with Geron. Haseltine was well 
+known in the academic world before he left the Harvard Medical School 
+for Human Genome Sciences. But the company has not published its findings 
+in scientific journals and few if any scientists independent of the 
+company have detailed knowledge of its work. Academic scientists consulted 
+about the company's claims were unable to verify them. Human Genome 
+Sciences has filed many patent applications on the genes it has discovered 
+and so far has been granted patents on 652 genes whose function it 
+has identified. The company is building a plant near its Rockville 
+headquarters to manufacture three of the proteins it has discovered. 
+One, vascular endothelial growth factor 2 or VEGF2, stimulates growth 
+of new blood and lymph vessels. The others are keratinocyte growth 
+factor 2, which stimulates growth of the skin and mucosal tissue, 
+and myeloproliferation inhibitory factor 1, to be used for protecting 
+the bone marrow cells in patients receiving chemotherapy. All three 
+compounds are in clinical trials and have not yet been approved for 
+market. Haseltine has coined the term ``regenerative medicine'' to 
+describe his hope for renewing body tissues with the help of the natural 
+signals that control their growth. Understanding the body's repair 
+processes at the genetic level ``should permit us to maintain our 
+bodies in normal function, perhaps perpetually,'' he says. Many of 
+the repair signals should be found among the 14,000 signal and receptor 
+proteins Human Genome Sciences has isolated, Haseltine believes. The 
+set should also contain the factors that guide human embryonic stem 
+cells down their various lineages to form all the tissues of the body. 
+The company has developed a robotic screening system to monitor how 
+cells respond to external signals, and hopes that this will pinpoint 
+the signals involved in embryonic development. Dr. David Greenwood, 
+Geropn's chief financial officer, confirmed the company had been in 
+discussions with Haseltine. ``It's reasonable to assume that Human 
+Genome Sciences has generated interesting data, given their efforts 
+in the field,'' he said. The world of genes and cells that beckons 
+so brightly may well prove harder to conquer than it seems. But there 
+is at least a rational basis for the hopes now being expressed, whatever 
+the timescale of their fulfilment. 
+</TEXT>
+</DOC>

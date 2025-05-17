@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981205.1300.0444 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronauts on the space shuttle "endeavor" are getting ready to start 
+assembling the international space station. Today they'll unload the 
+American-made segment they carried into orbit from the shuttle's cargo 
+bay. They'll use the shuttle's 50-foot-long robot arm to do that. 
+Tomorrow they'll connect it with the Russian-made zarya control Module 
+that was put into orbit two weeks ago. The crew also will test spacesuits 
+and jet-powered backpacks that will be needed during the station's 
+construction. 
+</TEXT>
+</DOC>

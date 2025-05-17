@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981101.1300.1366 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In stutgart, Richard Krajicek took home the hardware at the eurocard 
+open with a straight sets win over Yevgeny Kafelnikov. The Dutchman 
+did not give up a single point in his first four service games. 
+</TEXT>
+</DOC>

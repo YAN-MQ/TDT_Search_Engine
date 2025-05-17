@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981207.1600.1056 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back in this country, gas prices continue to fall. According to the 
+biweekly lundberg survey, we've now seen an average 18 cent per gallon 
+decline in the past year. In just the last two weeks, the average 
+price of all grades of gasoline dipped by more than 2 1/2 cents a 
+gallon to about $1.04 a gallon. Lundberg attributes the fall to the 
+Asian economic crisis and an oversupply of crude oil. 
+</TEXT>
+</DOC>

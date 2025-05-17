@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981213.1130.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The full House of Representatives is expected to begin debating the 
+judiciary committee's recommendation of impeachment on Thursday. The 
+committee voted against recommending censure as a punishment last 
+night. 
+</TEXT>
+</DOC>

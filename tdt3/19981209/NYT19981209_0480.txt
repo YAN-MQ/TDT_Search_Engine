@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NYT19981209.0480 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The leader of France's extreme-right National Front Party, Jean-Marie 
+Le Pen, on Wednesday dismissed his longtime deputy, Bruno Megret for 
+openly challenging his leadership. Megret called for an extraordinary 
+party congress next month after disagreeing on tactics and strategy 
+with Le Pen, the party's founder. 
+</TEXT>
+</DOC>

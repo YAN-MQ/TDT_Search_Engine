@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981228.1830.0322 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The bad weather on the west coast is also causing massive crop damage. 
+Last week, a deep freeze hit California's prime citrus-growing areas. 
+Today, Tulare county declared a state of emergency. At least 75% of 
+that county's $500-million orange crop was destroyed. Supermarket 
+prices could triple within weeks. 
+</TEXT>
+</DOC>

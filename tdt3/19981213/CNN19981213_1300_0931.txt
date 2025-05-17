@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981213.1300.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the day's top stories -- President Clinton says he did not 
+break the law and has no plans to resign. Speaking from Jerusalem, 
+he made his first public comment on the matter since the Judiciary 
+committee passed four articles of impeachment against him last week. 
+</TEXT>
+</DOC>

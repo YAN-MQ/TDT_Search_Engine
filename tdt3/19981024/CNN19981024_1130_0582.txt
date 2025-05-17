@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CNN19981024.1130.0582 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+in today's edition of "tech trends," john zarrella takes a look at 
+the objectives of the deep space one mission. beneath the protective 
+gold foil layering, behind the folded solar panels, is a space craft 
+that may revolutionize travel to the planets and beyond. we feel that 
+we're getting to turn fantasy into reality, and that's very, very 
+exciting. deep space one is a probe that will head to an asteroid. 
+but where it is going is not nearly as important as how it gets there. 
+for the first time, a spacecraft is being powered by ion propulsion, 
+which generates thrust by shooting out electrically charged gas. if 
+it works, the technology is ten times more efficient than conventional 
+rocket engines. the reason ion propulsion is better is because it 
+uses less propellant. that means you can have a smaller propellant 
+tank, less massive spacecraft, and that means you can launch the space 
+craft on a more affordable launch vehicle. the vehicle is also equipped 
+with an experimental autonomous navigation system. simply put, the 
+probe always knows where it is in the solar system, knows where it 
+is going and, without help from humans, can correct its course if 
+necessary. to use solar electric propulsion with our autonomous navigator 
+is like having your car drive itself from new york to los angeles 
+and park in its parking space all on its own, getting about 300 miles 
+per gallon. deep space one is nasa's version of a prototype economy 
+car, built simply to see if it works. there are a lot of future missions 
+that are looking at the results from deep space one, and a lot of 
+the planning for our future planetary missions will be based on how 
+successful we are. with an ever-shrinking budget, nasa is desperate 
+for ways to make space flight more affordable and less risky. the 
+breakthrough the agency has been hoping for could be this superefficient 
+probe with a mind of its own. john zarrella, cnn, at the kennedy space 
+center in florida. 
+</TEXT>
+</DOC>

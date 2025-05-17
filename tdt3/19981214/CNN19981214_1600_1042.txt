@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981214.1600.1042 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The $49 billion merger between British Petroleum and Amoco may have 
+hit a Snag. Sources tell Reuters that the federal trade commission 
+wants to weigh the impact of the proposed Exxon/mobil deal on the 
+industry as a whole. 
+</TEXT>
+</DOC>

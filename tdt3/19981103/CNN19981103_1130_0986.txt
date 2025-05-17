@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981103.1130.0986 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks are slightly lower this morning in what is a fairly quiet trading 
+session. This, after the Dow industrials locked in solid gains for 
+the past three sessions. But shares of union carbide are bucking the 
+trend. The stock is up 2 3/4. 
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981215.2130.0523 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for tomorrow morning. You can see two cold fronts on the 
+map. One moves to the midwest then into the east. Another one moves 
+through the northern plains states. Both of these weather systems 
+bring to an end the very, very warm temperatures we've been seeing 
+in the upper midwest and the northern plains states. Meanwhile, an 
+area of low pressure develops off the southeastern coast, but it lifts 
+out to the north and east and not expected to be a big problem along 
+the east coast. Much of the nation will be nice and dry under the 
+influence of high pressure. We could see a little bit of rainfall 
+in the southwest associated with the area of low pressure. Temperatures 
+throughout most of the country will be rather mild. 20s and 30s, however, 
+will be found in the Great Lakes area, up into the northeast. Here 
+is your extended forecast -- on Thursday, snowfall is possible in 
+the Great Lakes area, but temperatures are still rather mild. On Friday, 
+you can see the snow showers continuing in the Great Lakes area. Still 
+cool in that region, too. And on Saturday, snow showers are possible 
+in the New England states. For more weather information, log on to 
+CNN.com. 
+</TEXT>
+</DOC>

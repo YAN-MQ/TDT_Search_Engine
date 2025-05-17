@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981025.1600.0521 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News weather" 
+forecast for Monday. We will see strong storms and rain and mountain 
+snow with the system moving across the great basin of the west and 
+into the southern and central rocky mountains. By Monday evening, 
+look for some thunderstorms across southern and western texas. Things 
+will be clearing up a bit through California and the west coast. But 
+on the east coast, it remains quiet. Could be a few showers and storms 
+over Florida. Temperatures Monday will range anywhere from the very 
+low 40s across northern New England to the 70s and 80s in the south. 
+Looking ahead to Tuesday, our rain and thunderstorms with mountain 
+snow push slowly eastward. Rain showers will push into the northwest 
+once again. On Wednesday, rain, showers and storms from the northwest 
+to the central plains. Then on Thursday, some rain showers will reach 
+from the northwest into the northern plains states. Highs will range 
+anywhere from 40s over northern New England to 80s in the south. Don't 
+forget, four-day forecast for more than 7,200 cities on CNN interactive 
+at CNN.com. 
+</TEXT>
+</DOC>

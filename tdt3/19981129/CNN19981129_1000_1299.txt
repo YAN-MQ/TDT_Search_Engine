@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981129.1000.1299 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Number 16 Virginia rallied from 22 points down to top Virginia tech, 
+36-32. Aaron Brooks found Ahmad Hawkins with just over two minutes 
+left to put the cavaliers up for good. 
+</TEXT>
+</DOC>

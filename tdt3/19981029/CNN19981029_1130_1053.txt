@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981029.1130.1053 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Corporate America continues to roll in with earnings. CBS reported 
+a $43 million loss in the third quarter, that compared to a Loss of 
+$162 million a year ago. Record television and radio revenues helping 
+to narrow its quarterly losses. Meanwhile, CBS President Mel karmazin 
+will succeed Michael Jordan as CEO at the end of this year. MCI/Worldcom 
+reported a third-quarter loss of $2.9 billion reflecting the cost 
+of completing its $40 billion merger. Taking a look at how investors 
+are reacting -- 
+</TEXT>
+</DOC>

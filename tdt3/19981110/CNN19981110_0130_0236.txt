@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981110.0130.0236 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court handed President Clinton a legal defeat Monday that 
+could affect the hearings. By a 7-2 vote, the justices rejected arguments 
+by Mr. Clinton's attorneys that White House lawyer Bruce Lindsey and 
+secret service officers should not have to testify in the independent 
+counsel's investigation. The justices agreed with a lower court ruling 
+that Lindsey cannot invoke privilege to withhold information relating 
+to a federal criminal offense. The White House called the court action 
+disappointing. We think that the president, and ultimately the public, 
+benefits from the ability to have Frank, full and candid exchanges 
+between the president and White House council and the lawyers here 
+at the White House. And that is something that we are somewhat disappointed 
+about. Because I think this will inhibit those Frank and full exchanges. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981231.1600.1105 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mortgage rates inching higher. The 30-year fixed rate mortgage rose 
+four basis points from last week to 6.84. that's the highest it's 
+been in nearly two months. The 15-year fixed is creeping up to 6.49. 
+and the one-year adjustable loans holding steady at 5.72. and that 
+is "Dollars & Sense" for now. For all the latest business headlines, 
+point your browser to cnnfn.com. 
+</TEXT>
+</DOC>

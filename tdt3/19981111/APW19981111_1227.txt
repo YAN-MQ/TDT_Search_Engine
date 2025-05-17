@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> APW19981111.1227 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Cholesterol drugs can save the lives of even those heart patients 
+whose only cholesterol problem is too little HDL, the good stuff that 
+keeps arteries clean, a study found. Doctors often recommend cholesterol-lowering 
+drugs for people whose so-called bad cholesterol, or LDL, is off the 
+charts. However, about one-quarter of all people with heart disease 
+have ordinary amounts of LDL, while their HDL, or good cholesterol, 
+is low. In a Veterans Administration study released Wednesday, doctors 
+gave these people a relatively old generic medicine that slightly 
+increases HDL. They found it lowered the risk of a heart attack or 
+death from heart disease by 22 percent. The study used a drug called 
+Lopid, known generically as gemfibrozil. This medicine has been overtaken 
+in recent years by a newer class of medicines, called statins, that 
+are available only in more expensive brand-name versions. ``It works. 
+It's cheap. It's well-tolerated,'' said Dr. Hanna Rubins, who directed 
+the study at the Veterans Administration Medical Center in Minneapolis. 
+The study was presented at a meeting in Dallas of the American Heart 
+Association, along with another report showing that unusually aggressive 
+treatment with one of the statin drugs can forestall the need for 
+angioplasty. The statins typically cost dlrs 900 to dlrs 1,800 a year. 
+In her study, Rubins said gemfibrozil cost the Veterans Administration 
+dlrs 48 per patient annually, although the typical drugstore cost 
+is likely to be several times higher. In the study, 1,264 men were 
+randomly assigned to take gemfibrozil, while 1,267 others got placebos. 
+At the start, average LDL levels were an unremarkable 111, while HDL 
+was 31.5 _ well below the healthy level of 45 or higher. The treatment 
+raised HDL just two points, while LDL was unchanged. Nevertheless, 
+after five years, 21 percent of patients taking gemfibrozil had died 
+or suffered heart attacks, compared with 17 percent in the comparison 
+study. Side effects of gemfibrozil can include intestinal upsets and 
+gallstones. Statins are easier to take, but they have not been specifically 
+studied in heart patients with normal LDL and low HDL. Some heart 
+specialists said they doubt that gemfibrozil will gain on the statins, 
+even though it is cheaper. ``We've got to get the LDL down, the lower 
+the better,'' said Dr. Gerald Fletcher of Mayo Clinic in Jacksonville, 
+Florida. ``We shouldn't take the emphasis off of LDL. All of my patients 
+are on statins.'' Dr. Bertram Pitt of the University of Michigan described 
+the results of a study with one of the statin drugs, known as atorvastatin, 
+or Lipitor, on 341 people with mild heart disease who were scheduled 
+to undergo balloon angioplasty to reopen their clogged heart arteries. 
+Half got their angioplasties and other usual treatment, while the 
+rest were put on higher-than-usual doses of Lipitor. After 18 months 
+of follow-up, there was no statistically meaningful difference in 
+heart problems between the two groups. Lipitor cut their LDL almost 
+in half _ from an average 140 to 77. And 87 percent of these people 
+were able to avoid angioplasty or bypass surgery during the follow-up 
+period. ``We can delay or prevent the need for angioplasty'' with 
+aggressive statin treatment, Pitt said. 
+</TEXT>
+</DOC>

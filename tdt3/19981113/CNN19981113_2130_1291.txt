@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981113.2130.1291 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We begin with college basketball. Arizona got past Tennessee. The 
+Vols had a chance to win it at the end, but didn't. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981028.1830.1090 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"On the money" tonight -- the securities and exchange commission has 
+gone after stock fraud on the Internet. More than 40 people and firms 
+charged with pushing stocks on the net without saying they owned the 
+stock or had been paid to push it. 
+</TEXT>
+</DOC>

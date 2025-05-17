@@ -1,0 +1,118 @@
+<DOC>
+<DOCNO> NYT19981028.0425 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Two new studies undercut scientists' hopes that people infected with 
+HIV would be able to avoid a lifelong regimen of taking a drug ``cocktail'' 
+of 20 to 30 pills a day, a regimen that can cost $15,000 a year and 
+cause a variety of side effects. The studies, being published Thursday 
+in the New England Journal of Medicine, found that attempts to reduce 
+the number of medications failed, allowing the resurgence of the virus. 
+But scientists say that the disappointing results should not discourage 
+badly needed efforts to find better strategies for controlling HIV, 
+the virus that causes AIDS. Patients who are taking the AIDS cocktail 
+of antiviral drugs have been told that they may require that treatment 
+indefinitely, perhaps for life. The two new studies were designed 
+to test another idea, on which many scientists and patients had pinned 
+their hopes: that the drug cocktail might reduce HIV infection to 
+such a low level that some of the drugs could be stopped, and the 
+virus kept in check by the body's immune system and a ``maintenance 
+therapy'' consisting of fewer drugs. That way, patients might be able 
+to escape some of the adverse effects of medication. A similar approach 
+has been used successfully in treating tuberculosis and leukemia. 
+The disease is initially hit hard with heavy doses of medication, 
+a treatment known as induction therapy, and then kept at bay with 
+a milder drug regimen. But for HIV, induction followed by maintenance 
+therapy did not work. In both studies, patients initially took three 
+drugs, achieved suppression of the virus, and then, after three or 
+six months, stopped one or two of the drugs. Virus levels rebounded 
+quickly in a significant number of patients, and the studies had to 
+be halted so that the drug cocktail could be reinstated. ``These are 
+truly important and informative studies,'' said Dr. Jerome Groopman, 
+an AIDS expert at the Harvard Medical School, who was not involved 
+in the research. ``They're sobering, because they demonstrate that 
+the virus is an aggressive foe, and once the most intensive pressures 
+are relieved, even partially, it has a tremendous capacity to spring 
+back.'' The director of one of the studies, Dr. Diane Havlir, an associate 
+professor of medicine at the University of California at San Diego, 
+said that although the results were disappointing, they were not unexpected. 
+Researchers have seen viral levels rebound dramatically in some patients 
+who have quit the drug cocktail or tried taking a ``drug holiday.'' 
+Dr. Havlir said that patients in her study were closely monitored 
+for signs of relapse, which sometimes occurred within weeks of switching 
+treatments. When that happened, she said, they were urged to resume 
+the triple combination. Preliminary data on a small number of those 
+patients, Dr. Havlir said, suggest that the virus was re-suppressed 
+when the more powerful treatment was resumed. Dr. Havlir and her colleagues 
+said that their findings underscored warnings already given to patients: 
+that combination therapy is a long-term proposition, and breaking 
+the regimen may allow the virus to rebound and evolve resistant strains 
+that defy treatment. Even so, the experiment had to be done, Dr. Havlir 
+said, because doctors and patients alike want to know whether there 
+is any end in sight to use of the cocktail. She said that she and 
+her colleagues had no trouble finding patients eager to enter the 
+study. ``Despite how these drugs have completely changed the face 
+of the HIV epidemic in the United States, we're realizing that there 
+are limitations,'' she said, citing side effects and a strict, difficult 
+schedule of doses. One of the pills in the cocktail must be taken 
+precisely every eight hours, at least one hour before or two hours 
+after a meal. Side effects can include vomiting and diarrhea, and 
+certain drugs, the protease inhibitors, are causing high levels of 
+cholesterol and triglycerides in some patients, increasing their risk 
+of heart attack. Some patients also develop ``protease paunches'' 
+_ a shift of body fat to the abdomen _ or ``buffalo humps'' _ fat 
+deposits on the back of the neck that can grow so large and disfiguring 
+that patients have them surgically removed. ``Side effects are catching 
+up with large numbers of patients,'' Groopman said. He estimated that 
+20 percent to 25 percent of patients on protease inhibitors for two 
+or three years have ``significant fat redistribution and, importantly, 
+sky high triglycerides and high cholesterol.'' He has seen patients 
+with cholesterol levels driven over 700, and triglycerides over 1,000, 
+he said. If people stay on the drugs for decades, Groopman asked, 
+``Will it happen to everyone?'' Dr. Anthony Fauci, director of the 
+National Institute of Allergy and Infectious Diseases, said that, 
+in addition to the physical side effects, patients are finding it 
+hard to tolerate the endless disruption of their lives. ``Their whole 
+day is dominated by the schedule of taking drugs,'' Fauci said. ``After 
+six months to a year they say, `God, I can't take this any more.''' 
+Dr. Jay Levy, a professor of medicine at the University of California 
+at San Francisco, said that the studies revealed the need for new 
+treatments, particularly vaccines and drugs that would boost the immune 
+system and help it fight the infection. The current antiviral drugs 
+fall short, Levy said, because they cannot reach viruses hiding within 
+the patient's cells that can re-emerge when the drugs are stopped. 
+In the study led by Dr. Havlir, patients took three antiviral drugs 
+for six months: the protease inhibitor indinavir, and two reverse 
+transcriptase inhibitors, lamivudine and zidovudine, or AZT. Then, 
+one-third of the patients continued the three drugs, one-third took 
+indinavir alone, and one-third took AZT and lamivudine. Among patients 
+who continued taking the drug cocktail, only 4 percent had loss of 
+viral suppression. But in each of the other two groups, within two 
+months or less, 23 percent of the patients relapsed. Those who had 
+taken AZT before the study began were especially vulnerable to relapse. 
+The second study reported similar results. Directed by Dr. Gilles 
+Pialoux of the Rothschild hospital in Paris, patients initially took 
+the same three drugs as in Dr. Havlir's study, but for only three 
+months instead of six. Then, they stayed with that regimen, or switched 
+to a combination of either AZT and lamivudine, or AZT and indinavir. 
+In the French study, 8.6 percent of the patients who continued taking 
+the drug cocktail lost viral suppression. But in the other two groups, 
+31 percent and 22 percent of the patients relapsed. Both groups of 
+scientists said that despite the failure of maintenance therapy in 
+their studies, researchers should keep trying to find alternatives 
+to the current regimen, perhaps involving longer periods on the full 
+cocktail or different drug combinations in the second phase. Fauci 
+said that his research team is planning such a study, to begin within 
+the next few weeks. Fifty patients taking the drug cocktail whose 
+virus levels have been undetectable for a year or more will stop all 
+three medications, to see if their immune systems have recovered enough 
+to control the infection. Patients will be tested every one or two 
+weeks to measure their viral levels and counts of CD4 cells, Fauci 
+said, and if virus levels come up, the patients will be treated immediately. 
+``We don't have overwhelming confidence that we'll succeed,'' Fauci 
+said, ``but we have to do the study. We're all appreciating that it's 
+not feasible to say that patients are going to be on these regimens 
+for 30 years.'' 
+</TEXT>
+</DOC>

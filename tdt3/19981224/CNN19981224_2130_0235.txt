@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981224.2130.0235 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A snowmobiler was pulled to safety today after he plunged into a pond 
+near concord, New Hampshire. The man was about 500 feet from shore 
+when his machine fell through thin ice. The man suffered from hypothermia. 
+No word, however, on his condition now. 
+</TEXT>
+</DOC>

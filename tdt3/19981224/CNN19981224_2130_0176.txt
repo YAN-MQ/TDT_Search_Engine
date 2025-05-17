@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981224.2130.0176 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And New Yorkers are celebrating what they hope will be the city's 
+first white Christmas in 22 years. At least two inches of snow fell 
+overnight, causing some holiday traffic headaches. 
+</TEXT>
+</DOC>

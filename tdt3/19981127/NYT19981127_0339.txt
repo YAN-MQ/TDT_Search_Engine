@@ -1,0 +1,68 @@
+<DOC>
+<DOCNO> NYT19981127.0339 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The agency responsible for managing the nation's stockpile of nuclear 
+weapons told the Pentagon last summer that it had no year 2000 bugs 
+in three of its most important computer systems, but auditors say 
+those systems were never independently tested. The agency, the Defense 
+Special Weapons Agency, defended its actions by saying in a letter 
+dated Sept. 30 that it was not required to test the systems under 
+Pentagon rules in force this summer when it made the report. The Pentagon 
+inspector general's office, in an audit released on Oct. 30, reported 
+that the agency had listed three computer systems in the category 
+of ``mission-critical'' as ready for the year 2000 even without independent 
+testing. The auditors said that unless the agency made further progress, 
+it ``may be unable to execute its mission without undue disruptions.'' 
+The audit was first reported Friday in USA Today. A malfunction of 
+the computer systems would cause problems, Pentagon officials said, 
+but the computers are not involved in controlling nuclear-weapons 
+use. The Defense Special Weapons Agency, absorbed last month into 
+the Defense Threat Reduction Agency, manages nuclear-weapons stockpiles 
+and helps cope with nuclear-weapons accidents. The agency is also 
+charged with maintaining the scientific expertise to ensure that advanced 
+conventional systems, nuclear systems, and command and control systems 
+will continue to operate if nuclear war is threatened or occurs, the 
+auditors said. Jay Davis, the head of the Defense Threat Reduction 
+Agency, said the Defense Department's initial plan for year 2000 issues 
+``did not require testing'' and left the job to the people who ran 
+the computers. The computer problem, known in shorthand as Y2K, involves 
+computer systems that store the date as a two-digit number and might 
+be unable to distinguish 2000 from 1900. Some of those systems, some 
+computer experts warn, might stop working, stop communicating with 
+other systems or deliver bad data when 1999 rolls over to 2000. The 
+Pentagon set a deadline of this Dec. 31 to analyze, fix and test its 
+computer systems, and will conduct large-scale tests involving multiple 
+computer systems in the first quarter of 1999. Robert Lieberman, assistant 
+inspector general of the Department of Defense, said in a telephone 
+interview Friday that the Defense Special Weapons Agency was ``by 
+no means alone'' in failing to bring in outsiders for an independent 
+test, or to maintain adequate records of testing. Auditors have ordered 
+several agencies to retest equipment under a revised policy that was 
+issued as a draft last June but, with 13 months to go, is not yet 
+adopted in final form. ``By waiting so long to really get into high 
+gear, we have made this a much higher-risk proposition than it would 
+have been had we really gotten serious two years earlier and approached 
+this in a much more systematic fashion,'' Lieberman said. ``Right 
+now it's difficult to say whether we have managed to make the problem 
+unmanageable or not.'' ``A lot initially was left up to the discretion 
+of whoever owned and understood each system,'' Lieberman said. ``It 
+was felt that, given the sheer magnitude of systems, it was necessary 
+to decentralize the whole operation, to give people a lot of latitude 
+as to what they did. In retrospect, everybody agrees that that approach 
+was a mistake.'' The programs needed for targeting and launching nuclear 
+weapons, as well as other major operational systems, have been reviewed 
+for year 2000 compliance already, military officials said. Lieberman 
+said, ``I think that when push comes to shove, the military operators 
+are probably the most capable group in the government for handling 
+contingencies; they are used to doing without systems for whatever 
+reason. Davis said finishing testing in the spring ``gives plenty 
+of time for tests of the systems in full-up, integrated mode before 
+the year clocks out.'' He said that the early certification, with 
+which the auditors had found fault, included his agency's acceptance 
+of assurances from software vendors about their products, rather than 
+direct tests. He added, ``The principal failure is in documentation 
+and planning, the particular details that the devil lies in.'' 
+</TEXT>
+</DOC>

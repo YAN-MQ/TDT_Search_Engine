@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981017.0130.1123 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Donald trump is planning to build the world's highest apartment building 
+in New York City. The 90-story tower would go up across from the United 
+Nations and unit prices would be in the $1 million range. The $360 
+million project, of course, must clear many hurdles, including government 
+regulations and difficulties in financing. Still, trump is aiming 
+to complete it by the year 2001. 
+</TEXT>
+</DOC>

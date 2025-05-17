@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981222.2130.0417 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+German railway authorities are beefing up security after recent acts 
+of sabotage and a bomb threat. Similar attacks earlier this month 
+were linked to extortionists, but police don't believe the most recent 
+incidents are related. One man has been arrested, and several youths 
+are being investigated for blocking rail lines. As a precaution, officials 
+have equipped police with night vision equipment to look for signs 
+of sabotage. 
+</TEXT>
+</DOC>

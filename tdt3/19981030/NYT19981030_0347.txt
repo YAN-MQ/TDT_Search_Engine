@@ -1,0 +1,61 @@
+<DOC>
+<DOCNO> NYT19981030.0347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Ever wish you could get a piece of a major lawsuit? You may have a 
+chance, in the form of a handful of wildly esoteric securities that 
+track the outcome of such suits. Moreover, an award is expected next 
+spring from the United States Court of Claims in Washington in a suit 
+against the federal government by the Golden State Bancorp, a savings 
+and loan. And some analysts are rating the suit's related security 
+_ generically known as a litigation participation certificate _ as 
+a buy. Such certificates, listed by NASDAQ, grew from the savings-and-loan 
+crisis of the 1980s, when the Federal Home Loan Bank Board was encouraging 
+healthy savings and loans to buy ailing ones. The board created an 
+accounting device that allowed the buyer to list the liabilities of 
+the acquired institution as ``supervisory goodwill.'' This could be 
+written off over 35 to 40 years, and during that time, the write-off 
+would be accounted for as capital, against which loans could be made. 
+In 1989, however, Congress dissolved the bank board and phased out 
+the supervisory goodwill. The savings institutions contended that 
+such a move violated their agreements with the government. More than 
+120 breach of contract suits have been filed against the government 
+by savings institutions seeking restitution and damages. The lawsuits 
+could ultimately cost taxpayers $30 billion. Because pending suits 
+were likely to complicate mergers in the rapidly consolidating savings-and-loan 
+industry, three of the institutions _ Golden State, California Federal 
+Bank and Coast Federal, created special securities to spin off the 
+potential value of their suits to shareholders. Coast Federal has 
+been acquired by Washington Mutual; California Federal is acquiring 
+Golden State but is keeping the latter's name. The three institutions 
+have all received summary judgments in their favor at trial court 
+level. They are are only thrifts to have spun off such securities, 
+which trade separately. Charlotte Chamberlain, an analyst at Jeffries 
+&AMP; Co., said the Golden State certificates are the blue chips of 
+the group because an award is so close, though the government is likely 
+to appeal any damages. Golden State, which calls its certificates 
+litigation tracking warrants, is the only company that will pay off 
+in stock, making the payout nontaxable until the shares are sold. 
+The warrants closed at $4.875 on Friday. Ms. Chamberlain says they 
+could pay off at $11 each if Golden State gets the full $1.9 billion 
+it is seeking. Coast Federal issued what it calls contingent payment 
+rights, which pay in cash. They closed on Friday at $9.50. The claims 
+court, however, has urged Coast and the government to try to reach 
+a settlement. Barring that, hearings on damages are not likely to 
+begin until 2000, diminishing the present value of the security, said 
+David Dusenbury, an analyst at Credit Suisse First Boston. Coast is 
+seeking $1.1 billion. Dusenbury puts the pretax cash value at $24.40 
+a certificate if a full award was made today. California Federal's 
+case has not advanced as far as the others. It has two certificate 
+classes: contingent litigation recovery participation interests and 
+secondary contingent litigation recovery participation interests, 
+which will pay off differently depending on the amount of any award. 
+They trade at $16.125 and $17.75, respectively, and Ms. Chamberlain 
+said they would pay off at $48.60 and $70.89, respectively, if the 
+institution gets the full $1.64 billion it seeks. The wait has tired 
+many investors, and the securities are trading well below their highs. 
+Even so, a favorable award for Golden State is likely to run up the 
+prices of all of them. 
+</TEXT>
+</DOC>

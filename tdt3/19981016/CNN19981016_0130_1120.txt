@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981016.0130.1120 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The gender gap in the boardroom is getting smaller. According to a 
+report from the catalyst research organization, the number of women 
+sitting on the boards of fortune 500 companies has increased more 
+than 11% from a year ago. The number has been increasing consistently 
+for the past five years. Despite the trend, researchers predict there 
+won't be an equal number of men and women on corporate boards until 
+the year 2064. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981203.0500.2950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Here's what's happening in the European markets. In London, the Financial 
+Times Index was down 85 points. The Cacarant in Paris down 35. The 
+DAX down 68, and the Zurich Swiss Market Index is down 124. All of 
+this follows the pretty big sell-offs in Asian markets and in New 
+York on Wednesday. 
+</TEXT>
+</DOC>

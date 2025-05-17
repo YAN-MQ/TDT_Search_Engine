@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981028.0130.0229 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's 25 months and counting until the next presidential election, 
+and a new evaluation of the electorate suggests the republicans have 
+the advantage. Vice President Gore and Texas governor George W. bush 
+are the clear frontrunners for the democratic and republican parties, 
+respectively. But in a head-to-head matchup, a CNN/"USA today" Gallup 
+poll shows that bush's support is considerably stronger than Gore's 
+-- 57% compared to 39%. Of the 499 democrats surveyed, 41% favor Gore. 
+The next closest contenders are former New Jersey senator Bill Bradley 
+and house minority leader Dick Gephart. Of the 423 republicans polled, 
+39% support bush. Red cross President Elizabeth Dole and former vice 
+President Dan Quayle lead the rest of the pack. 
+</TEXT>
+</DOC>

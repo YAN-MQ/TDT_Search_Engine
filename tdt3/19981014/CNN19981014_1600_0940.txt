@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981014.1600.0940 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Budget negotiators have agreed on one thing, that they need more time 
+to work out a final deal. Congress has approved another stop-gap spending 
+Bill to keep the government running through Friday. 
+</TEXT>
+</DOC>

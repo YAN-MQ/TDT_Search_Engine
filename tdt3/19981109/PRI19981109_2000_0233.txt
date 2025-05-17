@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981109.2000.0233 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+With the time at four minutes past the hour, this is Pamela McCall 
+in the BBC NewsRoom in London. You're listening to the world. 
+</TEXT>
+</DOC>

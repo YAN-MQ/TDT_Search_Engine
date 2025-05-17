@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981210.1600.0508 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the U.S. is next. And after that, 
+a battle is in full swing in Britain's highest appeals court over 
+the extradition of a former Chilean dictator. 
+</TEXT>
+</DOC>

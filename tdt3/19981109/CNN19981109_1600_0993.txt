@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981109.1600.0993 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A sell-off in blue chip stocks today as investors cashed in on the 
+market's recent gains. The Dow started the session lower, managed 
+to move into positive territory, in the first hour of trading, then 
+the selling pressure picked up. By the close the Dow was down 77 points 
+at 8897. Some of the most active issues -- 
+</TEXT>
+</DOC>

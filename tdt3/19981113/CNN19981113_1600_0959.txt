@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981113.1600.0959 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Blue chips stocks wrap up the week with strong gains. To find out 
+where they landed, we go to Valerie Morris at the CNN Financial Newsdesk 
+in New York. Hello, Val. 
+</TEXT>
+</DOC>

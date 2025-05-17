@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981230.1600.0476 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast." Beginning this evening and going on out into tomorrow evening 
+-- which, of course, is new year's eve. We'll see some snow showers 
+lingering across New England and the Great Lakes as very cold high 
+pressure continues to sink into the southeastern part of the country. 
+Meanwhile, another storm is developing in the northwest. That will 
+produce some pretty interesting weather in the next couple of days 
+from the Rockies into the plains and then eastward. High temperatures 
+today. Subzero and single numbers over the upper midwest. Pretty cool 
+in the southeast as well, where winds will make it feel very cold 
+because of the wind chills. A couple of 70s in south Florida. We will 
+see 70s in the southwest as well, where it has been above normal in 
+some places. Looking ahead to Friday, snow and rain develop through 
+the plains states, with some snow showers over northern New England. 
+On Saturday, heavy snow will develop in the central plains and middle 
+mississippi river valley with rain in the southeast. And for Sunday, 
+rain and snow in the east, rain showers in the northwest, and still 
+pretty cold. Don't forget, four-day forecasts at CNN.com. 
+</TEXT>
+</DOC>

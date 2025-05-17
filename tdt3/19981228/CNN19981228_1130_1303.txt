@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981228.1130.1303 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Denver snapped its two-game losing streak with a 28-21 win over the 
+seahawks. Terrell Davis ran for 178 yard, becoming only the fourth 
+player in league history to go over the 2,000 yard Mark. 
+</TEXT>
+</DOC>

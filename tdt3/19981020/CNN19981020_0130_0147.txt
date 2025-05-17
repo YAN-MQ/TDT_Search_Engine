@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981020.0130.0147 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have the forecast for the rest of the country at 38 minutes 
+past the hour. 
+</TEXT>
+</DOC>

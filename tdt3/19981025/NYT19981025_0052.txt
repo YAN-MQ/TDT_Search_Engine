@@ -1,0 +1,145 @@
+<DOC>
+<DOCNO> NYT19981025.0052 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Anxiety has been running high in this former British colony, which 
+has seen its economy buckle, tourism dry up and free-market reputation 
+tatter in the 15 months since it reverted to Chinese rule. Now, a 
+U.S. telephone company is warning Hong Kong that it could miss out 
+on the information age if it does not quickly open its telecommunications 
+market. ``Hong Kong's Back Is Against the Wall,'' said a Cassandra-like 
+newspaper advertisement recently taken out here by the company, MCI 
+Worldcom Inc. ``Hong Kong is teetering on the edge,'' asserted Steve 
+Liddell, president of the MCI Worldcom Asia Pacific unit. ``It will 
+either embrace the brave new age of telecommunications or return to 
+an age of protectionism.'' Hong Kong officials, perhaps not surprisingly, 
+do not share the American company's alarm. ``It is not our policy 
+goal to be the most liberal telecommunications hub in Asia; that's 
+a rather empty thing,'' said Geoffrey Woodhead, a senior adviser to 
+K.C. Kwong, the secretary for information technology and broadcasting. 
+At issue is whether the Hong Kong government will allow new competitors 
+to offer local telephone service in this territory of 6.8 million 
+people. For the last three years, Hong Kong has licensed three local 
+companies to provide service, in addition to the incumbent monopoly, 
+Hong Kong Telecom. A decision on whether to license further competitors 
+is expected in the next few weeks. MCI Worldcom, formed in the recent 
+merger of the United States' second- and fourth-largest long-distance 
+companies, is eager to wire Hong Kong's teeming business district, 
+so it can offer a package of voice and data services to the many multinational 
+corporations here. The company already offers international service 
+to about 100 customers on lines leased from Hong Kong Telecom. But 
+it wants to offer corporate customers a complete menu of local and 
+long-distance offerings. And it is dangling a bushel of carrots before 
+the government here. Among other blandishments, MCI Worldcom has promised 
+to make Hong Kong the hub for an Asian fiber optic network that would 
+stretch in a vast crescent from Tokyo to Singapore. Just last Thursday, 
+the government announced plans to open its international long-distance 
+market to free-wheeling competition. But several analysts said they 
+expected Hong Kong not to issue any more local phone licenses. MCI 
+Worldcom contends that by refusing to let more competitors provide 
+the actual direct network connections to local customers, the territory 
+would cut off its nose to spite its face. Without sophisticated global 
+players, Liddell said, Hong Kong risks losing its status as a global 
+financial center. ``If the competitors are limited to three local 
+firms,'' he said, ``it's our view that these services simply won't 
+be available.'' With its lofty talk and populist appeals to economic 
+growth, MCI Worldcom's lobbying campaign is no different from campaigns 
+waged by long-distance and local phone companies in the United States. 
+But in recession-ravaged Asia, the company's message carries an edge: 
+For those countries that pursue it, a competitive telecommunications 
+market can be the road to recovery; for those that do not, protectionism 
+can lead to economic obscurity. MCI Worldcom notes pointedly that 
+Japan and Australia both have fully liberalized local phone markets. 
+The company is investing $350 million over 10 years to build a fiber 
+optic network in Tokyo and $200 million to build one in Sydney. Though 
+Liddell refused to discuss MCI Worldcom's potential investment in 
+Hong Kong, it could easily run into hundred of millions of dollars. 
+Some analysts say Liddell makes a good case. ``Hong Kong needs to 
+jump on opportunities when they present themselves,'' said Lloyd Fischer, 
+a telecommunications analyst at Salomon Smith Barney in Hong Kong. 
+``They've got a good location geographically, but that's only worth 
+so much.'' Indeed, these days, analysts noted, Asia can look more 
+terrifying than tempting to potential investors. Bell Atlantic Corp. 
+recently took charges of $545 million to write down the value of its 
+investments in Thailand and Indonesia. Yet, though Hong Kong has suffered 
+along with its neighbors, it is not about to play the needy supplicant. 
+Regulators here, who contend that Hong Kong already has one of the 
+more open markets in Asia, say they can preserve the territory's status 
+as a financial center without handing out local phone licenses to 
+any and all comers. ``We see liberalization of telecommunications 
+as a means to an end, rather than an end in itself,'' Woodhead said. 
+``We hope our telecoms policy will attract people to set up their 
+regional headquarters in Hong Kong.'' Certainly, Hong Kong has taken 
+some steps to open its markets that go further than other Asian countries. 
+It has four local phone providers, compared with Singapore's two. 
+And unlike Japan, Hong Kong has no restrictions on the foreign ownership 
+of local telephone companies _ a much-contested provision in last 
+year's landmark World Trade Organization agreement. In the accord, 
+most countries agreed to let foreign companies acquire major stakes 
+in domestic phone companies. Only Japan insisted on limiting foreigners 
+to no more than 20 percent ownership of NTT and KDD, its main local 
+and long-distance providers, respectively. In its announcement on 
+Thursday, Hong Kong said it would grant licenses to all companies 
+that want to provide international direct-dial service in the territory. 
+After Jan. 1, 2000, the licensees can build their own international 
+networks here. ``It's not a free-for-all, but there is no question 
+that Hong Kong's market is liberalizing,'' said Victor Shvets, head 
+of telecommunications research at Deutsche Securities in Hong Kong. 
+Having opened its local telephone market ahead of its long-distance 
+market, Hong Kong presents something of an anomaly in regulatory circles 
+_ a quirk that is a result of the government's having granted Hong 
+Kong Telecom a long-term monopoly on international service. Last February, 
+it paid the company $864 million to terminate that franchise this 
+year rather than letting the monopoly extend through the original 
+date of 2006. In contrast, Hong Kong broke open the local telephone 
+monopoly in 1995, when it granted licenses to three start-up companies: 
+New T&AMP;T, New World Telephone and Hutchison Telecom. All three 
+companies are owned by powerful property developers, a circumstance 
+that has been no small help in stringing wires into buildings. But 
+though the gaggle of local providers has made for a clamorous market, 
+it has barely dented Hong Kong Telecom's monopoly. Collectively, the 
+three rivals have less than 2 percent of the market. That is largely 
+because they have been slow to build networks in Hong Kong's densely 
+populated neighborhoods and hilly terrain. Predictably, the upstarts 
+are lobbying Hong Kong not to add to their struggles by granting additional 
+local licenses. Given that these companies are owned by some of Hong 
+Kong's most politically connected tycoons, their arguments carry plenty 
+of influence. Hong Kong's government has not hesitated to make decisions 
+that benefited the developers, even when those moves seemed at odds 
+with the territory's free-market credentials. In June, it suspended 
+sales of public land; in August, it intervened heavily to prop up 
+the stock market. Several analysts said the developers might have 
+an ulterior motive in opposing additional local licenses. If Worldcom 
+cannot build its own network, it might feel pressed to buy out one 
+of the tycoons. But Liddell, who said Worldcom was not interested 
+in such an acquisition, took an unsubtle swipe at the tycoons by suggesting 
+that companies that put up apartment towers and ran supermarkets were 
+not as able to offer up-to-date communications services as a company 
+that focuses on building networks. Hong Kong Telecom has taken a generally 
+low profile in this debate, perhaps because it has its own economic 
+and political problems. To ready itself for the deregulation of the 
+market, the company recently announced plans to slash the wages of 
+its 13,800 workers by 10 percent. But it was forced to back down after 
+Hong Kong's chief executive, Tung Cheehwa, excoriated the move. Hong 
+Kong Telecom is controlled by Cable and Wireless PLC of Britain; the 
+Chinese government-controlled China Telecom bought 5.5 percent of 
+the company last year. Worldcom is not the only foreign carrier active 
+in Hong Kong. British Telecommunications has an alliance with Hutchison. 
+And Global One, the joint venture owned by Sprint, France Telecom 
+and Deutsche Telekom, offers international service on leased lines. 
+But only MCI Worldcom has ambitions to build a soup-to-nuts local 
+network. Perhaps that is why the company has chosen to make its case 
+so fervently and publicly. Besides, Hong Kong may represent the company's 
+best remaining chance to make its local-telecommunications mark in 
+Asia. Certainly, MCI Worldcom has hit its share of snags breaking 
+into the local phone business elsewhere in the region. Last year, 
+before teaming up with MCI, the company bid aggressively for a license 
+to offer local phone service in Singapore. But it lost out to a consortium 
+that includes BT and NTT. Before that setback, Woodhead said Worldcom 
+had suggested that it might move its Asian headquarters from Hong 
+Kong to Singapore. Today, though, there is no talk of moving. It may 
+be that MCI Worldcom needs Hong Kong as much as Hong Kong needs MCI 
+Worldcom. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981221.1130.1007 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A biotech giant wins the rights to sell a blockbuster drug. I'm John 
+defterios in New York with this edition of "Dollars & Sense." In a 
+surprising legal victory amgen has won a battle over rival Johnson 
+and johnson. The decision gives amgen rights to mesp the successor 
+the epo a popular drug and a top selling product for both. A panel 
+dismissed the claim that the drug was covered by a 13-year-old licensing 
+agreement between the two companies. The victory could boost amgen's 
+share of the $3 billion global market for such drugs. 
+</TEXT>
+</DOC>

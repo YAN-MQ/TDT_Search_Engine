@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981031.0130.1660 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More news is two minutes away, including -- a look at the investigation 
+of ken Starr. This is "CNN Headline News." I'm David Goodnow. 
+</TEXT>
+</DOC>

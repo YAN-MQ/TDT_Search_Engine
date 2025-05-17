@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981125.1130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the death toll from a cold snap in Europe now tops 90. The latest 
+death comes in Croatia, where the female victim lived alone in a House 
+without heat. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981209.2130.0982 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks were mixed on Wall Street today. The broader market indices 
+were higher. 
+</TEXT>
+</DOC>

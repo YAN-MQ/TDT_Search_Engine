@@ -1,0 +1,61 @@
+<DOC>
+<DOCNO> NYT19981019.0458 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Struggling to comply with federal fuel-economy and emissions regulations 
+even as Americans buy ever bigger family vehicles, automakers have 
+quietly begun experiments with oil companies to develop new and potentially 
+cleaner fuels. Ford and General Motors have already entered long-term 
+partnerships with oil companies, while Chrysler plans to announce 
+on Wednesday a program with immediate goals: testing vehicles over 
+the next two years that will burn a promising type of synthetic fuel 
+made from natural gas instead of crude oil. The synthetic fuel is 
+similar to diesel and can be burned in diesel engines. Chrysler's 
+goal is to develop a new generation of diesel engines that, using 
+the synthetic fuel, will burn as cleanly as the cleanest gasoline 
+engines, said Loren Beard, Chrysler's manager of fuels technology. 
+Many automakers are planning to replace some of their gasoline engines 
+with more fuel-efficient diesel engines. For one thing, this would 
+allow them to build ever bigger sport utility vehicles and pickup 
+trucks without violating federal fuel-efficiency rules. But obstacles 
+remain. The Syntroleum Corp., which has a small factory that will 
+supply synthetic fuel for the tests, estimates that mass production 
+will push the fuel's cost down to $1.50 or less a gallon. Still, even 
+reducing the cost to that level will require considerable investments 
+in new equipment at natural gas fields, as well as persuading service 
+stations to set aside pumps and tanks for the new fuel. One of the 
+main experiments with Chrysler will involve a blend of only 20 or 
+30 percent synthetic fuel with the rest as regular diesel, said Mark 
+Agee, president and chief operating officer of Syntroleum, based in 
+Tulsa, Okla. The blend may then be competitive in price with premium 
+grades of gasoline. Bernard Robertson, Chrysler's vice president for 
+engineering technologies, predicted that premium grades of diesel, 
+consisting of a blend with synthetic fuel, would become available 
+within five years. Future diesel cars and light trucks will likely 
+require the premium grades, much as current models require unleaded 
+gasoline to reduce pollution, he said. Diesel engines produce up to 
+30 percent better fuel economy than gasoline engines. But they emit 
+more air pollution, although the latest models are far cleaner than 
+the sooty diesels of the 1980s. The domestic automakers are all developing 
+diesel engines now for large sport utility vehicles and pickup trucks, 
+which earn the highest profits per vehicle. So-called light trucks 
+_ a category including vans as well as sport utility vehicles and 
+pickup trucks _ are allowed to meet a lower average fuel economy than 
+cars. But automakers have had trouble meeting even this standard with 
+the recent popularity of such models as the Dodge Ram full-size pickup 
+and the huge Ford Expedition and Chevrolet Suburban sport utility 
+vehicles. Federal and California regulators are drafting new, tougher 
+emissions regulations that may be hard for diesel engines to meet. 
+In response, automakers have been working on cleaner engines and cleaner 
+fuels. The process for making the synthetic diesel from natural gas 
+is loosely based on a technique first developed in the 1920s. But 
+tighter air quality standards and automakers' difficulties with fuel-economy 
+standards are forcing a reconsideration of the technology. Ford has 
+already begun experimenting with the synthetic substitutes for diesel, 
+while GM plans to do so in the coming months, as part of their efforts 
+to produce an extremely high-mileage car in cooperation with the federal 
+government. Because the fuel burns so cleanly, it may have applications 
+in cars as well as light trucks, said Sara Tatchio, a Ford spokesman. 
+</TEXT>
+</DOC>

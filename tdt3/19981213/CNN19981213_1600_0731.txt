@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981213.1600.0731 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The celebration of hanukkah begins at sundown tonight, lasting for 
+eight days. The lighting of the menorah is the major ritual of the 
+holiday,commemorating the liberation of Jerusalem and its temple from 
+the greeks. The most frequent translation of hanukkah is dedication 
+for the rededication of the temple. Each night one light is lit on 
+the menorah until all eight are illuminated. 
+</TEXT>
+</DOC>

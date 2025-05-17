@@ -1,0 +1,115 @@
+<DOC>
+<DOCNO> NYT19981030.0370 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Despite months of financial turmoil and heightened anxiety about contagion 
+from the rest of the world, the U.S. economy is holding up far better 
+than most experts expected. U.S. economic output grew at a surprisingly 
+solid 3.3 percent pace this summer, the Commerce Department reported 
+Friday, as automakers scrambled to rebuild inventories after the General 
+Motors strike and consumers spent money as fast as they earned it. 
+Although significantly slower than the dizzying pace at the beginning 
+of the year, the increase in the nation's gross domestic product for 
+the July-September quarter was nearly twice the 1.8 percent annual 
+rate of the spring, when the Asian crisis first hit U.S. industry. 
+And it was a lot faster than the 2 percent gain Wall Street forecasters 
+had predicted. On the eve of a midterm election, evidence that the 
+economy is performing better than anticipated was welcome news for 
+Democrats. And President Clinton was quick to take credit for the 
+low interest rates and a balanced budget that have contributed to 
+the healthy economy. ``In the face of worldwide economic turmoil,'' 
+Clinton said at the White House on Friday morning, ``our economy remains 
+the strongest in a generation.'' Along with the robust growth in the 
+economy, now expected to deliver more than $8.5 trillion in goods 
+and services this year, the inflation rate hit its lowest point since 
+1963. The most comprehensive measure of inflation, the so-called GDP 
+deflator, rose at a mere 0.8 percent annual rate. Forecasters expressed 
+surprise at the economy's continued vitality. ``Reports of the expansion's 
+demise are greatly exaggerated,'' said Stuart Hoffman, chief economist 
+of PNC Bank in Pittsburgh. Investors in the stock market, who have 
+been worrying about the prospects for corporate profits, celebrated 
+the brighter economic picture by sending the Dow Jones industrial 
+average up 97 points to close above 8,592. ``The question has been: 
+Is the U.S. economy strong enough to drive through the problems of 
+the world?'' Jeffrey Davis, chief investment strategist at State Street 
+Global Advisors, told Bloomberg News. ``The evidence suggests it is.'' 
+Bond investors, however, were disappointed, selling off some of their 
+bond holdings and pushing interest rates higher. Together with the 
+rebound in the stock market and fresh signs that wage inflation is 
+heating up, the latest evidence that the seven-and-a-half-year-old 
+expansion remains on track makes it somewhat less likely that the 
+Federal Reserve will cut interest rates again right away. ``The GDP 
+report has lowered the odds of an immediate easing,'' said Richard 
+Rippe, chief economist at Prudential Securities. Although Friday's 
+report eased fears that a recession lay around the corner, most economists 
+still expect growth to slow in the coming year. The 50 forecasters 
+in the Blue Chip Economic Indicators survey expect the economy to 
+advance by just 2.1 percent in 1999. One source of the current strength 
+may well turn into a source of restraint in coming months. The buildup 
+of business inventories at a $57 billion annual rate, which mostly 
+occurred in the auto industry, added nearly a percentage point to 
+economic growth in the summer. That pace of accumulation is not expected 
+to be sustained in coming quarters. At the same time, all categories 
+of domestic spending, including consumer outlays, were somewhat weaker 
+in the summer than in the first half of the year. Trade was the biggest 
+drag on growth, though not as much as earlier in the year. In the 
+summer, the widening trade deficit shaved three fourths of a percent 
+from GDP, compared with a sharp two percentage points in the spring. 
+Exports fell at a 2.9 percent annual rate while imports rose at a 
+3.4 percent annual rate. The trade gap is likely to widen further 
+as growth in Latin America slows. But the global picture is not completely 
+bleak, William Dudley, chief economist at Goldman, Sachs, points out. 
+Most Asian countries are now running large trade surpluses, which 
+means that they are no longer under extreme pressure to slash imports 
+from the United States. Business investment in new plants and equipment, 
+which powered growth during most of this expansion, is suddenly idling. 
+Over all, investment fell 1 percent in the summer after soaring at 
+a 26 percent annual rate in the first half. Equipment spending edged 
+up at a mere 1 percent rate while factory and office construction 
+contracted at a 6.5 percent annual rate. The prospects for further 
+growth in business investment are mixed. On the one hand, industry 
+is not utilizing its existing capacity as much as before, suggesting 
+the need for new facilities is waning. On the other, cash flow is 
+holding up well, despite weaker profits, giving business the wherewithal 
+to spend more. And orders for everything from computers to heavy machinery 
+were surprisingly strong in October. ``Companies still want to be 
+more efficient, get ready for year 2000 and substitute technology 
+for workers,'' said Rippe, who thinks spending will stay sluggish 
+but will not dry up. In the main, America's consumer households are 
+still the economy's stalwarts. The growth of home building slowed 
+in the summer, only partly because of a spate of tropical storms. 
+The National Association of Realtors reported Friday that new home 
+sales continued to slip after Labor Day. In some areas, real estate 
+agents report that stock market jitters are affecting the high end 
+of the market. Yet housing has rarely been more affordable for the 
+average family. Incomes are rising smartly, house prices have not 
+moved up much and mortgage rates are near a 30-year low. That suggests 
+that housing will continue to be a plus for the economy. Consumption 
+also slowed from the spring, but remained at a very robust 3.9 percent 
+annual rate. The rate is all the more remarkable in light of the fact 
+that the GM strike prevented consumers from buying all the cars they 
+evidently wanted. Vehicle production and sales, which fell sharply 
+in the spring, continued to shrink in the summer, but both appear 
+to be on the rebound this fall. There are several reasons for thinking 
+that consumers will become a bit more cautious. For one thing, Americans 
+spent virtually all of their income this summer, and the official 
+savings rate dropped to virtually zero. That's not likely to continue. 
+For another, consumer confidence readings have come down since the 
+summer. The University of Michigan's index, which was hovering at 
+around 105 as recently as August, fell to 97.1 in October despite 
+the fact that the Federal Reserve twice lowered interest rates. ``Confidence 
+is still very positive, but the direction of change is unambiguous,'' 
+said Richard Curtin, director of the Center of Consumer Surveys at 
+Michigan. ``It indicates that spending growth will weaken.'' There 
+are several important factors, however, that should keep the slowdown 
+from turning into outright retrenchment. The stock market is rebounding, 
+and the Dow delivered its best performance for the month of October 
+since 1982. Wages are rising at a very solid clip. And the job market, 
+though a bit looser than several months ago, is still quite tight. 
+Help-wanted advertising is strong and first-time claims for unemployment 
+insurance, which were drifting up a few weeks ago, are back down close 
+to 10-year lows. All in all, said Dudley at Goldman, Sachs, ``the 
+most likely scenario is that we'll slow down more but avoid recession.'' 
+</TEXT>
+</DOC>

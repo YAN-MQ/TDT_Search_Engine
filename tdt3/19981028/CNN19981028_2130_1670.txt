@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981028.2130.1670 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And in the next half hour, President Clinton is moving forward with 
+a plan to fight what he calls a health care crisis among minorities. 
+I'm Angela Astore. This is "CNN Headline News." 
+</TEXT>
+</DOC>

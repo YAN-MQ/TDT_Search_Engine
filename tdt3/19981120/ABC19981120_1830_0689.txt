@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981120.1830.0689 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The United States is worried tonight that Iraq is not cooperating 
+with U.N. weapons inspectors. The Iraqis have objected to U.N. requests 
+for documents about their weapons programs. They say some documents 
+do not exist and that they have already submitted others. 
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981208.1600.0337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It appears human error caused the power failure that is disrupting 
+the daily routine in San Francisco. Pacific gas and electric says 
+a construction crew made a mistake while working at a substation. 
+It shut down and triggered a chain reaction that knocked out power 
+to nearly 400,000 customers during the morning rush. 50 high-rise 
+buildings have elevators stuck, with an unknown number of people trapped 
+inside. Firefighters are working with elevator companies to get them 
+out. Traffic lights went dark during rush hour, snarling traffic across 
+the city. The blackout also knocked out the subway system and virtually 
+shut down San francisco international airport. 
+</TEXT>
+</DOC>

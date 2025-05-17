@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981116.1830.0574 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"On the money" tonight -- some evidence that U.S. industry is stagnating. 
+Industrial output fell 0.1% last month. Factories were operating at 
+their lowest level in more than six years. 
+</TEXT>
+</DOC>

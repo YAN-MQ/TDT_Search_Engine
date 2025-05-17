@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981111.1130.0431 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new study suggests pregnancy may make women smarter. The research 
+on animals finds that hormones released during pregnancy and nursing 
+enhance parts of the brain. The pregnant mice in the study were more 
+curious and energetic. They learned more quickly with fewer mistakes. 
+These researchers say the effects appear to be long-lasting. 
+</TEXT>
+</DOC>

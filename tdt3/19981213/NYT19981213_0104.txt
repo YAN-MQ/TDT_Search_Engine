@@ -1,0 +1,117 @@
+<DOC>
+<DOCNO> NYT19981213.0104 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In the Microsoft trial, witness after witness for the government has 
+described the big software company's industry-standard Windows operating 
+system as the essential utility of modern computing. To succeed in 
+the marketplace, they explain, a new software product must have access 
+to Microsoft Corp.'s technology if the product is to run smoothly 
+on top of the Windows operating system. Even a rival like Netscape 
+Communications Corp., the Internet browser pioneer, must ask for Microsoft's 
+cooperation so that it can compete against Microsoft _ a situation 
+created by Microsoft's broad reach across so many software and Internet 
+commerce markets, from spreadsheets to online travel services. The 
+Justice Department has depicted Microsoft as unfairly using the technical 
+leverage and market power that stems from its 90 percent share of 
+the operating-system market to stifle competition. ``The case is fundamentally 
+about access,'' said William Kovacic, an antitrust expert at the George 
+Washington University Law School. ``Microsoft is accused, figuratively, 
+of saying again and again that you can't set foot on our bridge unless 
+you agree to the following conditions. If not, the company is left 
+dangling with one foot off the bridge or told to learn to swim.'' 
+Yet while the case raises the issue of access to technology, it also 
+shows that doing anything to force Microsoft to provide access to 
+its technology will be tricky, on both legal and practical grounds. 
+During the trial, Justice Department lawyers have declared Microsoft 
+to be a monopoly at every opportunity. But they have never once called 
+it an ``essential facility'' _ a legal theory that the courts have 
+been reluctant to apply beyond regulated monopolies like railroads, 
+electric utilities and telephone networks. The doctrine dates to 1912, 
+when the Supreme Court ruled against a group of railroads, led by 
+a turn-of-the-century robber baron, Jay Gould, that denied competitors 
+access to a bridge on the Mississippi River. But the government will 
+almost certainly have to deal with the issue of technology access 
+if it wins the Microsoft case and asks the court to order remedial 
+action. Antitrust experts observing the trial say that at least at 
+the U.S. District Court level, the government seems likely to win 
+_ based on Judge Thomas Penfield Jackson's actions, from giving the 
+Justice Department plenty of leeway to broaden its case with last-minute 
+evidence to remarking that Bill Gates, the Microsoft chairman, ``has 
+not been particularly responsive'' in his videotaped deposition. In 
+a related case last year, Jackson ruled against Microsoft, though 
+he was overruled by an appeals court last June. The Justice Department 
+will not discuss possible remedies until the case is over. Still, 
+the government is stepping up its efforts to try to devise an effective 
+remedial plan. Joel Klein, the assistant attorney general who heads 
+the Justice Department's antitrust division, has asked Timothy Bresnahan, 
+an economics professor at Stanford University, to study the options 
+for remedies, according to a person close to the Justice Department. 
+Bresnahan, known for his rigorous statistical studies of industry 
+structure and markets, is co-director of the Stanford Computer Industry 
+Project, a research program whose corporate sponsors include Microsoft. 
+He will be one of several experts advising Klein on remedies. Daniel 
+Rubinfeld, the chief economist of the antitrust division, plans to 
+leave the Justice Department at the end of this year, but he will 
+remain a consultant on the Microsoft case. Yet the role of the economic 
+and legal experts counseling the Justice Department is mainly to present 
+a set of options to Klein. And although the White House does not get 
+involved in the Justice Department's investigations or decisions to 
+file suits, it could weigh in on the remedies issue. An effort by 
+the Justice Department, for example, to try to break up Microsoft 
+or force the company to open up access to its operating-system technology 
+could well be a major economic policy decision. Whether the government 
+seeks sweeping or more limited remedies will depend on how great the 
+finding of liability is, if any, against Microsoft. In the trial, 
+the subject of access to Microsoft's technology is typically raised 
+in terms of a seemingly arcane three-letter acronym _ API, for application 
+program interface. APIs are the software hooks that any program, from 
+spreadsheets to games to Internet browsers, must use to run smoothly 
+on top of the operating system, which controls the basic operations 
+of a computer. Nearly every government witness has discussed APIs 
+and has tried to offer Jackson a nontechnical translation. ``You can 
+think of these interfaces as connectors, as a socket in a wall, like 
+the ones you put a plug in for electricity,'' Dr. James Gosling, a 
+vice president of Sun Microsystems Inc., explained to the judge last 
+week. The issue of access to Microsoft's APIs is at the root of the 
+government's case. Because Microsoft knows where every one of those 
+plugs is _ and how each one works _ competitors complain that it has 
+an enormous advantage over other developers in designing software 
+that will run seamlessly on Windows. It was to gain access to Microsoft's 
+APIs that Netscape says it met with Microsoft on June 21, 1995. Two 
+days after that meeting, responding to a government inquiry, Netscape's 
+outside counsel, Gary Reback, wrote to the Justice Department. At 
+the June meeting, he stated, ``Microsoft indicated it would not provide 
+this information to Netscape unless Microsoft gets an equity interest 
+in Netscape, a seat on Netscape's board of directors, and otherwise 
+controls Netscape's ability to compete against Microsoft.'' Microsoft 
+denied the allegation, saying that Netscape and the government had 
+distorted a fairly routine meeting in the software business, where 
+companies often cooperate in some areas and compete in others. ``There 
+is no proof in the record that Microsoft denied Netscape anything,'' 
+said Charles Rule, a former senior Justice Department official who 
+is an adviser to Microsoft. ``The government simply doesn't have a 
+denial-of-access case.'' Tackling the issue of open access to Microsoft's 
+technology is crucial to loosening the company's choke hold on the 
+industry, said Ken Wasch, president of the Software Publishers Association, 
+a trade group. ``Any remedy that doesn't in some way deal with access 
+to APIs won't have much of an impact,'' he said. But those software 
+interfaces are Microsoft's intellectual property, and having the government 
+police the distribution of them to other companies runs the risk of 
+becoming a regulatory nightmare. A few months ago, a senior Justice 
+Department official said emphatically, ``I don't want to get into 
+the business of having to be the arbiter of whether Microsoft has 
+released every new set of Windows APIs on a timely basis.'' There 
+could, however, be ways to limit the government's oversight role. 
+Justice Department officials did take note of the announcement last 
+week by Sun to open up the development of Java, its Internet programming 
+language. It announced that the accounting firm Pricewaterhouse Coopers 
+would audit the specification and would guarantee fair, impartial 
+distribution of Java APIs. ``A behavioral remedy that requires some 
+monitoring of access to technology does take you down a regulatory 
+path, but it could be workable,'' said Carl Shapiro, an economist 
+at the University of California at Berkeley who is a former Justice 
+Department official. 
+</TEXT>
+</DOC>

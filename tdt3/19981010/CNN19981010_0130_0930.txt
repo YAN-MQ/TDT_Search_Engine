@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981010.0130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In top stories -- Congress has passed a temporary spending Bill that 
+will keep the government running until at least Monday night. The 
+president signed the "hurry up" Bill, averting a federal shutdown. 
+</TEXT>
+</DOC>

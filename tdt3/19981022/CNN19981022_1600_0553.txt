@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981022.1600.0553 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Authorities in California are using a new device to stop dangerous 
+high-speed car chases. The high-tech tire spikes are triggered by 
+remote control, like a garage door opener, by a deputy standing well 
+out of the way. The spikes pop out to softly puncture only the tires 
+of the car being pursued. Good for one use only, the spikes don't 
+interfere with other motorists. 
+</TEXT>
+</DOC>

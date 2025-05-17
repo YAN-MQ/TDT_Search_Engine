@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981224.0130.1087 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Middle income Americans may be getting a break from uncle Sam this 
+year. According to the joint committee on taxation, those earning 
+between $40,000 and $75,000 will pay less in federal taxes this year, 
+than they did in 1997. The declines are due to the debut of several 
+new tax credits, including ones for children and education. The biggest 
+tax increases will be carried by those making $200,000 or more. 
+</TEXT>
+</DOC>

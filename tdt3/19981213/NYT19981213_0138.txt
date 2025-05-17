@@ -1,0 +1,61 @@
+<DOC>
+<DOCNO> NYT19981213.0138 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Adding momentum to the open-source movement for the free sharing of 
+software, IBM plans Monday to make available the original programmer's 
+instructions for a new mail program that can be used to store and 
+forward e-mail messages with a high level of security. The program, 
+Secure Mailer, serves as an electronic post office for server computers 
+connected to the Internet. It was developed by Wietse Venema, an IBM 
+researcher and computer security specialist. Executives said they 
+were using the free, open-source model of software distribution to 
+insure that the program would be widely available on the dozens of 
+kinds of computers that are used to route Internet mail traffic. The 
+open source model of software development, pioneered by a loosely 
+affiliated group of expert programmers, is built on universal sharing 
+of the programmer's original written instructions to the computer. 
+In traditional, proprietary development models, those instructions 
+are hidden because they have been compiled into the binary 1s and 
+0s that computers understand. The open-source model has been gaining 
+popularity in the last year based on the success of the free Linux 
+operating system, and in recent months several major technology corporations 
+have endorsed part or all of the idea. ``This is IBM's Christmas present 
+to the Internet,'' said Abner Germanow, a computer security analyst 
+at the International Data Corp., a market research firm. ``For these 
+are core pieces of software, and we're going beyond trying to make 
+money off of them, to the idea that by freely sharing them it will 
+make the world a better place.'' Like many big companies, the International 
+Business Machines Corp. seems to be cautiously feeling its way toward 
+an open-source strategy. Secure Mailer follows by just a week the 
+company's release of the source code for a compiler, the tool used 
+by software developers to transform instructions written in a programming 
+language into the computer's binary machine code. In addition, IBM 
+is making its software compatible with Apache, a popular open-source 
+Web server program, and earlier this year it announced plans to make 
+a version of its DB2 relational data base program available for the 
+open-source Linux operating system. ``We're still trying to understand 
+exactly what open source means,'' said Paul Horn, vice president for 
+research. ``It obviously plays an important role where standards are 
+critical, but what it means to IBM is still under formulation.'' Secure 
+Mailer offers an alternative to several other freely available programs 
+that route Internet mail, including Sendmail and Q Mail, as well as 
+to commercial programs like Microsoft's Exchange. Currently about 
+70 percent of all e-mail worldwide is handled by Sendmail, a program 
+that has been developed over more than a decade and supported by a 
+programmer named Eric Allman and a loose group of colleagues. Recently, 
+Allman started a company to develop a commercial version of the program. 
+IBM researchers said one of the drawbacks to Sendmail was that it 
+had been written as a large, monolithic piece of software. As a result 
+it has both performance and security limitations. In contrast, Venema 
+has developed Secure Mailer as a cluster of modules, all of which 
+distrust each other. This creates a more secure program. The program 
+could be compared to a ship that has many independent compartments 
+and therefore is harder to sink, he said. Charles Palmer, who manages 
+a computer security research group at IBM's T.J. Watson Research Laboratory, 
+said that enabling other programmers to look at all the original instructions 
+written by the program's author would give them a high degree of confidence 
+in the security of a program. 
+</TEXT>
+</DOC>

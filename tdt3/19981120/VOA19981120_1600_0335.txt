@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981120.1600.0335 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Two moderate earthquakes have hit a rural area in southwestern China, 
+killing at least one person and injuring more than 1,300, many of 
+them seriously. I am John Brouchard, VOA News. 
+</TEXT>
+</DOC>

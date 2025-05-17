@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981121.1000.0938 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Daimler-Chrysler made its big board debut this week, the new company 
+formed by the merger of the motown mainstay and Germany's mercedes-Benz. 
+The new auto giant reportedly will build a beefier full-size pick-up 
+truck to compete with the likes of Ford's F-series super duty line. 
+No word on when those might hit the streets. 
+</TEXT>
+</DOC>

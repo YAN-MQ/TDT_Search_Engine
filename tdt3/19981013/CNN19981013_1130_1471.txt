@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981013.1130.1471 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A neighborly American tradition is coming to an end. After 70 years, 
+the welcome wagon is ending its home visits from representatives bearing 
+baskets of coupons and gifts. Beginning next year, newcomers will 
+get a packet of information in the mail instead. Welcome wagon representatives 
+were making 1.5 million home visits in the 1960s. That's fallen to 
+500,000 visits. The company blames its decline on the rise of two-career 
+households, which makes it harder to find people at home. 
+</TEXT>
+</DOC>

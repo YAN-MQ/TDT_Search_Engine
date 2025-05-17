@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981223.2000.1473 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow Jones Industrials have picked up 158 points to 9202. The NASDAQ 
+rose 52 points to 2173. 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981203.1600.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An interest rate cut from the European surprises, but fails to cheer 
+investors. I'm Jan Hopkins at the CNN Financial Newsdesk in New York, 
+and this is "Dollars & Sense." Germany's bundesbank and the bank of 
+France both cut key interest rates by 3 basis points. The rest of 
+the 11-nation trading Bloc followed suit with cuts of their own. The 
+central bank's hoping to inoculate Europe from the effects of slowing 
+growth around the world, just weeks before the launch of the common 
+european currency. European markets initially rallied, but fell back 
+after the news was digested. 
+</TEXT>
+</DOC>

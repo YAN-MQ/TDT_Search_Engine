@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> NYT19981218.0348 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In the '40s, the Dodge Power Wagon was a famously rugged truck that 
+moved from military service to civilian duty. Now Chrysler has revived 
+the name for a show vehicle that combines handcrafted luxury with 
+aggressive styling and an immense 7.2-liter diesel engine. Chrysler 
+is withholding details of the design until the Power Wagon makes its 
+debut next month at the North American International Auto Show, although 
+the company released a sneak-preview photo last week. Executives said 
+at a technology briefing that the truck would serve not only as a 
+design study but would provide a platform to explore the prospects 
+for diesel technology. The concept vehicle is equipped with a turbo-charged 
+direct-injection in-line 6 from Caterpillar. It is capable of 250 
+horsepower and 780 foot-pounds of torque, compared with the 450 foot-pounds 
+of Chrysler's most powerful current Ram truck engine, an 8-liter gasoline 
+V10. Diesels achieve 5 percent to 10 percent better economy than gas 
+engines. ``Sooner or later fuel economy is really going to matter,'' 
+Bernard Robertson, Chrysler's senior vice president of engineering 
+technologies and general manager of truck operations, said in an interview. 
+``Consumers' No. 1 complaint with large trucks and sport utilities 
+is poor fuel economy _ but then they'll ask if we've got a bigger 
+engine.'' 
+</TEXT>
+</DOC>

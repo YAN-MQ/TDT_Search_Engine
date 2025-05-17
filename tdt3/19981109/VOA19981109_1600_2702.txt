@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981109.1600.2702 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The two Cosmonauts aboard the Russian Space Station Mir are preparing 
+for a space walk today to install the device that captures very small 
+meteorites. The instrument will be used to collect data when Mir flies 
+through a meteorite shower in mid-November. The Cosmonauts are expected 
+to leave Mir unmanned for six hours to attach the device and other 
+scientific hardware. 
+</TEXT>
+</DOC>

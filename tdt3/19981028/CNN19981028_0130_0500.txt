@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981028.0130.0500 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen McGinnis. 
+High pressure is still in control across the southeastern United States 
+and the mid-atlantic. Very little in the way of wet weather expected 
+for the next several days. However, in the central plains we finally 
+start to see the movement of a Storm system out of the southwestern 
+quadrant to the U.S. -- snow levels lower behind the frontal system, 
+we may see some showers and storms along the frontal boundary. Look 
+for mostly 50s all the way from New England into the great basin, 
+where higher elevations will be much cooler. Very mild 70s and 80s 
+along the gulf coast and the southeast. Expect around 38 in Anchorage, 
+Alaska, and just about 84 for San Juan. In our extended forecast -- 
+rainy and windy in New England for Thursday, the midwest is unsettled. 
+Going into Friday, showers and storms are possible in the southwest. 
+Lots of 40s across the northern tier states. And then by Saturday, 
+more rain expected for the pacific northwest. If you are looking for 
+more weather information, you can log on to CNN.com for four-day forecasts. 
+</TEXT>
+</DOC>

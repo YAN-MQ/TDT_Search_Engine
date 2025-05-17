@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> APW19981117.1185 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+French defense electronics giant Thomson CSF plans to cut 1,100 jobs 
+over the next two years in its division that produces radar and jamming 
+devices, news reports said Tuesday. The reductions will be taken as 
+part of restructuring in France's defense sector, LCI television reported. 
+Thomson CSF, in which the state has a 58-percent stake, is one of 
+France's most important defense manufacturers. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981222.0500.2666 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+It's 10 hours 45 Universal Time. This is VOA News Now. I'm Curt Hetchen 
+along with Paul Westfeeling. 
+</TEXT>
+</DOC>

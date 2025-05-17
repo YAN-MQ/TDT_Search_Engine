@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981228.1600.1350 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+American skier Kristina koztick picked up her first world cup victory 
+by winning Monday's slalom in semmering, Austria. She ran the 58 Gates 
+in a two-run combined time of 1 minute, 40.49 seconds. Anthony Keith 
+James, "CNN Headline Sports." 
+</TEXT>
+</DOC>

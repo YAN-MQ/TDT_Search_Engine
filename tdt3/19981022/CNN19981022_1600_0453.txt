@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981022.1600.0453 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The New York Yankees are world champions, and the big apple is getting 
+ready for a big party. After watching the Yankees sweep baseball's 
+world series from the San Diego padres, New York mayor Rudy Giuliani 
+announced plans for a ticker-tape parade tomorrow. One tribute to 
+be presented to the team will be a giant T-shirt being taken around 
+the city so fans can sign it. 
+</TEXT>
+</DOC>

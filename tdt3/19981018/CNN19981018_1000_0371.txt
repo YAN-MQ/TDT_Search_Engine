@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981018.1000.0371 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Searchers in Canada have recovered one of the three engines from Swissair 
+flight 111. The plane crashed off Nova Scotia about six weeks ago, 
+killing all 229 people aboard. The engine has been taken to a Canadian 
+military base for analysis. Investigators are still trying to determine 
+what caused the crash. Meanwhile, the royal Canadian mounted police 
+are denying rumors that a Large quantity of gold and cash was found. 
+Swissair confirmed last month the plane was carrying diamonds and 
+bundles of cash. The rcmp says finding them is a not a priority. 
+</TEXT>
+</DOC>

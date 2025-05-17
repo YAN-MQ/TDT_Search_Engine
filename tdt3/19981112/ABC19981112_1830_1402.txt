@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> ABC19981112.1830.1402 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At the United Nations today, the United States signed the global warming 
+treaty, which is still the subject of very intense debate. The treaty 
+commits the United States and other nations to radically reduce, over 
+the next decade, the Greenhouse gases which scientists say contribute 
+to global warming. The treaty must be ratified by the Senate, where 
+there is serious opposition from some senators who say the treaty 
+does not commit some developing nations to make the same commitments. 
+</TEXT>
+</DOC>

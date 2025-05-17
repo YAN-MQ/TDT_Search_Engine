@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> PRI19981013.2000.1977 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Nobel prizes for physics and chemistry have been awarded to five 
+scientist working in the United States. Both prizes were awarded for 
+advances in quantum mechanics which seeks to explain the workings 
+of atoms and molecules. The prize for physics was shared by Robert 
+Lockland, Daniel Choy and a German, Horace Storfmer, for their insights 
+into the general structure of matter. The Nobel prize for chemistry 
+goes to Austrian-born Walter Pone and a British colleague, John Poppel. 
+</TEXT>
+</DOC>

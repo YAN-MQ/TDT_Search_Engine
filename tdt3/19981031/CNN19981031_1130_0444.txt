@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981031.1130.0444 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And in a moment -- a telephone 
+that gives a new meaning to the term "Long-distance calls." 
+</TEXT>
+</DOC>

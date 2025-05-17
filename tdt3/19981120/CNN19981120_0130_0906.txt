@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981120.0130.0906 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+independent counsel Ken Starr spent Thursday testifying before the 
+house Judiciary committee. He defended his investigation of President 
+Clinton and denied accusations that he or his staff engaged in any 
+misconduct. 
+</TEXT>
+</DOC>

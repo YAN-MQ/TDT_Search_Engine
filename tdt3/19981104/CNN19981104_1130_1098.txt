@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981104.1130.1098 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Cash registers will be Ringing across the country this holiday season. 
+The national retail federation predicts consumers will spend nearly 
+5% more on holiday shopping compared to last year. According to its 
+annual "mood survey" of consumers, total holiday sales will climb 
+as high as $174 billion. 80% of consumers will be doing their shopping 
+at discount department stores, while 45% will be sticking to traditional 
+department stores. And 5% of consumers will be doing their holiday 
+shopping on the Internet. 
+</TEXT>
+</DOC>

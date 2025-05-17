@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981229.1600.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- Rain and melting snow is swelling rivers 
+and causing more heavy flooding in the northwest. Mudslides are blocking 
+roads and stranding residents in Washington state. 
+</TEXT>
+</DOC>

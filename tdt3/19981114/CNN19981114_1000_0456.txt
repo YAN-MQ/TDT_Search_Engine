@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981114.1000.0456 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One of the state attorneys general participating in tobacco talks 
+says the two sides are very close to reaching a settlement. An announcement 
+is expected on Monday. Under the deal, cigarettemakers would pay $206 
+billion over 25 years to the states as compensation for the cost of 
+treating people with smoking-related illnesses. In return, the 46 
+states would agree to drop their lawsuits. 
+</TEXT>
+</DOC>

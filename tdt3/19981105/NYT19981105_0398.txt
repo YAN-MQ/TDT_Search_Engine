@@ -1,0 +1,85 @@
+<DOC>
+<DOCNO> NYT19981105.0398 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The U.S. economy is still expanding, but much more slowly than in 
+the first half of the year. The Labor Department _ reporting on October 
+a day ahead of schedule after some data were accidentally posted on 
+the department's Internet site _ said that employers added just 116,000 
+workers to their payrolls last month, the unemployment rate held steady 
+at 4.6 percent and the hourly pay of most workers inched up slightly. 
+Though the department also said that it had badly underestimated job 
+growth in September _ revising its initial estimate to 157,000 jobs 
+from 59,000 _ the labor market looked weaker in October than forecasters 
+had expected. Solid gains in the services and construction sectors 
+were offset by deep cuts by manufacturers who are bearing the brunt 
+of global economic turmoil. ``The markets for at least two weeks have 
+been sending a very clear message that the economy is slowing but 
+will not lapse into recession,'' said Hugh Johnson, chief investment 
+officer at First Albany. ``The jobs data are very consistent with 
+that message.'' After digesting the details of the report, which was 
+officially released in full at 1:30 p.m., stock investors focused 
+on the positive implications; the Dow Jones industrial average ended 
+the day up 132.33 points. The good news is that the labor market, 
+still very tight by any historical measure, is not getting any tighter, 
+leaving the door open, at least in principle, to further interest 
+rate cuts by the Fed. At the same time, the job market has not unraveled 
+either. Job security and income growth are crucial to consumer spending, 
+the economy's sole source of strength at the moment. ``The pattern 
+is the same as for the past few months,'' said Tom Nardone, an economist 
+at the Bureau of Labor Statistics. ``Payroll growth is tailing off, 
+but not as dramatically as we feared.'' Adjusting for the effect of 
+the strike against General Motors Corp. during the summer, which cut 
+employment in July and bolstered it in August, payrolls have risen 
+an average of 148,000 a month in the last three months compared with 
+an average of 247,000 a month in the first seven months of the year. 
+That is the slowest pace in the last three years. The dichotomy between 
+the industrial sector and the rest of the economy, evident since the 
+Asian crisis first hit last winter, widened further in October. While 
+the sprawling services sector added 154,000 jobs and construction 
+payrolls expanded by 19,000, manufacturers cut employment by 52,000 
+jobs. The biggest losses were in clothing and textiles, which lost 
+18,000 jobs, and in electronics, which lost 12,000. But there were 
+many smaller declines scattered across industries from machinery to 
+metals. Within manufacturing, Detroit was the only bright spot: Automakers, 
+which are still scrambling to keep up with strong demand and to rebuild 
+inventories depleted by the GM strike, added 7,000 workers. Nearly 
+200,000 manufacturing jobs have disappeared since March, an important 
+reason that consumers have begun to get nervous about the global economic 
+outlook. John Challenger, whose outplacement firm, Challenger, Gray 
+&AMP; Christmas, tracks layoff announcements, said that the cuts could 
+be attributed largely to mergers, cost pressures and low oil prices. 
+Companies announced _ though they did not yet carry them out _ 73,000 
+job cuts in September and 91,000 in October, many in the oil, metals, 
+electronics and telecommunications sectors. Last month, the three 
+biggest cutbacks were announced by Halliburton Co. and Schlumberger 
+Ltd., two oil-services companies, and Bell Atlantic. ``These were 
+kinds of numbers we were seeing in 1993 at the peak of the downsizing 
+wave,'' Challenger said. His layoff figures had been running as low 
+as 20,000 a month as recently as last fall. Though the pace did not 
+match that of earlier this year, hiring in the services sector picked 
+up last month. Computer and other business services, which had been 
+down in September, added 58,000 jobs. Work at temporary-help companies 
+rose by 21,000 positions, though the levels were still below their 
+peak in June. As businesses turned to outsiders for advice, computer, 
+engineering and management services continued to hire; employment 
+grew by 13,000. And so, surprisingly, did financial-services companies, 
+which added 18,000 jobs, a large part in mortgage banking, after no 
+growth in September. ``We'd create more jobs if we could find the 
+workers,'' said Bill Dunkelberg, chief economist of the Federation 
+of Independent Business. That organization's monthly survey of small 
+businesses, which was also released Thursday, shows that 32 percent 
+of its members still had openings that they could not fill. Total 
+hours worked, a rough indicator of the growth of the nation's gross 
+domestic product, edged up two-tenths of 1 percent, suggesting that 
+output as well as employment expanded in October. In an anomaly _ 
+given the sharp drop in employment _ total hours worked rose in manufacturing 
+as well. Hourly earnings, meanwhile, barely edged up, rising by a 
+penny to $12.89. If the numbers are to be believed, wage inflation 
+is slowing. The 12-month increases peaked at 4.4 percent in June and 
+were down to 3.6 percent. Most economists, however, consider this 
+series less reliable than the Labor Department's broader employment 
+cost index, which indicates that wage inflation rose during the summer. 
+</TEXT>
+</DOC>

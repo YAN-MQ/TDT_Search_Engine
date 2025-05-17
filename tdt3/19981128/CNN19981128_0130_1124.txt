@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981128.0130.1124 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stock traders on Wall Street got a postthanksgiving treat Friday. 
+They only had to work half a day. Interest in oil and Internet stocks 
+helped push up the Dow Jones industrial average 18 points to close 
+at 9333. 
+</TEXT>
+</DOC>

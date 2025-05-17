@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981113.2130.1011 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For the week the Dow was off almost 56-points. 
+</TEXT>
+</DOC>

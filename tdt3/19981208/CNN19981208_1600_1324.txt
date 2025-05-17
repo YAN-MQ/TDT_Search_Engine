@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981208.1600.1324 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Finally, the Mets introduced two of their latest acquisitions today. 
+Outfielder Roger cedeno and Robin Ventura. Ventura joins Rey Ordonez, 
+edgardo alfonzo and John olerud in perhaps the best defensive infield 
+in the national league. Matt Yallof, "CNN Headline Sports." 
+</TEXT>
+</DOC>

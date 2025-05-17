@@ -1,0 +1,87 @@
+<DOC>
+<DOCNO> APW19981013.0844 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Five scientists at universities in the United States won the Nobel 
+Prizes in physics and chemistry Tuesday for work exploring the inner 
+structure of matter. Their research has far-reaching implications, 
+from a new generation of microelectronics to understanding the destruction 
+of Earth's ozone layer. Three physicists will share the prize for 
+discovering how electrons can change behavior, work that could lead 
+to further advances in microelectronics. And two researchers were 
+named co-winners of the chemistry prize for theoretical research into 
+the quantum properties of molecules. In each case, the winners will 
+share the 7.6-million-kronor (dlrs 978,000) prizes. The chemistry 
+award went to Walter Kohn of the University of California-Santa Barbara 
+and John Pople of Northwestern University. Kohn, 75, was born in Vienna, 
+Austria. He has taught at U.S. institutions since 1950, and at Santa 
+Barbara since 1979. Kohn was cited for development of density-functional 
+theory in the 1960s. It simplifies the mathematical description of 
+the bonding between atoms that make up molecules. His approach makes 
+calculations according to an average number of electrons located in 
+any point, rather than trying to establish the motion of each electron 
+in every atom in a molecule. This reliable model has enabled scientists 
+to study large molecules that previously were too complex and unwieldy 
+to understand. Pople, 72, is a British citizen. He joined the faculty 
+at Canegie-Mellon University in 1964 before relocating to Northwestern 
+in 1986. Pople was cited for developing computer techniques to test 
+the chemical structure and details of matter. The resulting computer 
+program is used by thousands of universities and companies worldwide. 
+In the 1990s, he has refined the program to include Kohn's density-functional 
+theory. His approach allows scientists to create computer models of 
+chemical reactions that are difficult or impossible to recreate in 
+the laboratory. It has a wide range of applications, from studying 
+interstellar matter based on telescope measurements of its chemical 
+signatures and how pollutants such as freon react with the ozone layer. 
+In medicine, researchers use Pople's quantum chemistry methods to 
+simulate the effects of proposed drugs to fight HIV infection. The 
+laureates in physics are Robert B. Laughlin of the United States, 
+Horst L. Stoermer of Germany and Daniel C. Tsui, a native of China 
+who is now an American citizen. They discovered that ordinary electrons 
+acting together in strong magnetic fields and very low temperatures 
+can condense into new types of composite subatomic particles that 
+function as a fluid, the Royal Swedish Academy of Sciences said. Subsequently, 
+other researchers confirmed their experiments and directly observed 
+these new composites, known as quasiparticles. ``Usually in physics, 
+you break things into smaller and smaller pieces,'' said Stoermer. 
+''But here ... the big electrons stay perfectly intact, yet they create 
+smaller units that look like electrons that have a charge that is 
+one-third or one-fifth or one-seventh of an electron and (yet) doesn't 
+break apart.'' Laughlin works at Stanford University, Stoermer is 
+at Columbia University and Tsui teaches at Princeton University. The 
+award recognizes work Tsui and Stoermer did together in 1982. Laughlin 
+elaborated on the work the next year. Laughlin, 47, who did his graduate 
+studies at Massachusetts Institute of Technology, got the news in 
+the middle of the night. ``The reason why this is important is that 
+it has to do with why the universe is the way it is,'' he said today. 
+``You can chop (the universe) to pieces or learn how all the pieces 
+work together. This is a triumph of the second.'' According to the 
+citation, the three men discovered a new form of ``quantum fluid'' 
+_ fluids such as liquid helium that have certain properties in common, 
+such as superfluidity, or the absence of energy resistance at ultra-low 
+temperatures. What makes these fluids important for researchers is 
+that they can reveal more about the inner structure and dynamics of 
+matter. It is ``yet another breakthrough in our understanding of quantum 
+physics and to the development of new theoretical concepts of significance 
+in many branches of modern physics,'' the academy said. Mats Jonson, 
+a physics professor at Sweden's respected Chalmers Institute of Technology, 
+said the laureates' work could be important in the development of 
+smaller electronic components and could lead to improving computer 
+memories by manipulating electrons in this altered state. The development 
+of microelectronics has allowed other researchers to confirm the work's 
+validity in experiments the academy likened to ``measuring the sound 
+of individual hailstones during a hailstorm.'' On Monday, the medicine 
+prize was given to three Americans _ Robert Furchgott, Louis Ignarro 
+and Ferid Murad _ for discovering properties of nitric oxide, a common 
+air pollutant but also a life-saver because of its capacity to dilate 
+blood vessels. Their finding helped lead to the discovery of the anti-impotence 
+drug Viagra. The literature prize was awarded Thursday to Portuguese 
+novelist Jose Saramago. The economics prize winner is to be named 
+on Wednesday and the peace prize on Friday. All the prizes are announced 
+in Stockholm, except for the peace prize which is given in Oslo, Norway. 
+The prizes are presented on Dec. 10, the anniversary of the death 
+of Alfred Nobel, the Swedish industrialist and inventor of dynamite 
+who established the prizes in his will. 
+</TEXT>
+</DOC>

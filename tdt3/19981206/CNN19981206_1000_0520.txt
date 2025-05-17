@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981206.1000.0520 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended national weather forecast is next. Then later, winners 
+and losers in the global economy. 
+</TEXT>
+</DOC>

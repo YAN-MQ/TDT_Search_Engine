@@ -1,0 +1,125 @@
+<DOC>
+<DOCNO> NYT19981206.0113 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The debate over how to prepare Social Security for the next century 
+has been cast all year as a philosophical clash between those who 
+would keep the system intact and those who would rebuild it to allow 
+individual investment in the financial markets. But regardless of 
+which path Congress and the Clinton administration choose, they will 
+be forced to select from the same unappetizing menu of benefit cuts, 
+tax increases and tradeoffs between risk and investment return to 
+assure that Social Security will be able to weather the baby boom 
+generation's retirement. When President Clinton brings together members 
+of Congress, economists and public policy analysts on Tuesday and 
+Wednesday for a White House conference on Social Security, the focus 
+will be as much on those politically excruciating choices as on the 
+sweeping debate over the system's structure. ``No matter which ideological 
+side you're on, you still have to make painful choices,'' said Ron 
+Gebhardtsbauer, a senior pension fellow at the American Academy of 
+Actuaries, who will participate in the conference. Administration 
+officials hope the conference will be a springboard for legislative 
+action to shore up the program, which without any changes will run 
+short of money starting in 2032. But they said that the most they 
+can hope for out of the conference is to find some common ground as 
+a first step toward bipartisan legislation next year. Gene Sperling, 
+the White House economic adviser, said that the conference would be 
+``an opportunity to build some bipartisan trust in an area that has 
+often been typified by very partisan and very harsh rhetoric in the 
+past.'' Trust and bipartisanship will be essential because the options 
+that the conference will be examining are as explosive and subject 
+to demagoguery as any on the domestic political agenda. Should the 
+nation raise the retirement age, a step that would in effect be a 
+benefit cut for most people? Many economists say the answer is yes, 
+since people are living longer and healthier lives. Organized labor, 
+however, is vociferous in its opposition, saying it would be cruel 
+to anyone doing physical labor. Moreover, many people do not realize 
+that the age at which full retirement benefits can be claimed is already 
+being increased to 67 from 65 over the next 24 years. Should the relatively 
+well off have to pay more in taxes to help keep the system afloat? 
+Social Security is financed by a 12.4 percent tax _ split equally 
+between employers and employees _ on earned income up to a certain 
+level, currently $68,400. Some proposals call for the income cap to 
+be substantially increased or even eliminated, steps that would amount 
+to a tax increase on middle- and upper-income workers. Such an increase 
+would help close much of the financial gap facing Social Security, 
+but would make the system a worse deal for those paying the higher 
+tax. Other ideas include reducing annual cost-of-living adjustments 
+and reducing benefits for wealthy recipients. Some are complicated, 
+like reducing the lifetime average earnings used in setting benefit 
+levels by increasing the number of years used in calculating the average. 
+Some seem relatively straightforward, such as requiring all new state 
+and local government employees _ many of whom are not covered by Social 
+Security _ to be brought into the system, helping to increase payroll 
+tax revenues. Some ideas have more or less been ruled out. There is 
+no serious discussion of an across-the-board benefit cut. And President 
+Clinton has all but promised not to raise the payroll tax rate, although 
+he has left open the option of increasing revenues through other means, 
+like raising the cap on taxable earnings. Politicians on both sides 
+of the aisle say the most likely outcome is a compromise that includes 
+some limited use of private accounts, a variety of benefit cuts and 
+tax increases, and use of the projected federal budget surplus. Clinton 
+is seriously considering support for some version of individual accounts 
+for Social Security, although his advisers insist that he has made 
+no decisions yet and that the most likely outcome is a compromise 
+between the competing visions. Clinton has remained silent about which 
+of the benefit cuts and tax increases he might support. ``I think 
+he is wrestling with some of the difficult issues,'' Sperling said. 
+``I do not feel that he has locked in on one specific proposal at 
+this point.'' Republican leaders all support some version of the individual 
+accounts plans, most of which call for diverting a portion of payroll 
+tax revenues into accounts that would be owned and controlled by the 
+worker. They have support from a number of prominent Democrats, including 
+Sens. Bob Kerrey of Nebraska, John B. Breaux of Louisiana and Daniel 
+Patrick Moynihan of New York. But most liberal Democrats, especially 
+those in the House, strongly oppose individual accounts and say the 
+current system, under which payroll taxes go to pay benefits to current 
+retirees, can and should be maintained. The challenge underlying both 
+approaches is to close a long-term gap between Social Security's revenues 
+and its promises to pay benefits. Starting in 2032, unless changes 
+are made, the system will take in enough money from the payroll tax 
+to pay only 75 percent of promised benefits. Proponents of individual 
+accounts say the solution is to harness the power of financial markets. 
+Allowing a portion of their payroll taxes to be invested through personal 
+accounts will generate much better returns for workers than the current 
+system, they say, and will give workers greater control. ``The fact 
+is that when today's 30-somethings start to retire we will not be 
+able to pay the tab,'' said M. Anthony Burns, the chairman of Ryder 
+System Inc., who headed a study of the issue for the Business Roundtable, 
+an organization of large corporations. ``We must bolster our current 
+social safety net by increasing individuals' abilities to own and 
+grow their retirement funds.'' But shifting payroll taxes into private 
+accounts creates a problem. That money has already been earmarked 
+to pay benefits to current retirees. Current workers, therefore, would 
+effectively be called on to save for their own retirement and to support 
+current retirees simultaneously. As a result, individual account plans 
+require deeper cuts in guaranteed benefits for current workers than 
+those required by plans that would not establish individual accounts. 
+Advocates of private accounts say the cuts in guaranteed benefits 
+will be more than offset by high returns on individual investments. 
+Opponents, however, say the result will be to leave many retirees, 
+especially those most vulnerable in old age, at he mercy of the markets. 
+``We have seen an unprecedented level of outrage among working families 
+when they learn of the benefit cuts and tax increases being proposed 
+by those who would turn Social Security over to Wall Street,'' said 
+John Sweeney, the president of the AFL-CIO. Some liberals say the 
+threat to Social Security is exaggerated and that if the system assumes 
+even moderate economic growth in coming decades most of the problem 
+will disappear. Most liberals, though, are less sanguine, and the 
+plans they are advancing generally rely, just like those of conservatives, 
+on Wall Street. The difference is that liberals want the government 
+rather than individuals to do the investing, by putting as much as 
+40 percent of Social Security's reserves into stocks and bonds. They 
+say that such an approach allows the system to benefit from the power 
+of the markets without exposing individuals to the risks of the Wall 
+Street's ups and downs. Moreover, most plans advocated by liberals 
+also call for benefit cuts and tax increases. A plan developed by 
+Henry J. Aaron and Robert D. Reischauer of the Brookings Institution 
+calls for accelerating the planned increase in the retirement age 
+to 67 and continuing to raise it gradually as life expectancy increases; 
+reducing spouses' benefits; computing average lifetime earnings in 
+a way that reduces benefits, and subjecting a greater portion of benefits 
+to income taxes. 
+</TEXT>
+</DOC>

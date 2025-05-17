@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981223.1600.1033 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+You're listening to the Voice of America, coming to you from Washington. 
+I'm Tony Riggs, along with Erin Brommet, bringing you this hour of 
+VOA News now. It's 21 hours, 18 universal time. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981110.1600.3168 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now from Washington. I'm Victor Morales, along with 
+Tony Riggs, and it's 2153 universal time. 
+</TEXT>
+</DOC>

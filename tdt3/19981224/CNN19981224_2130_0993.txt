@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981224.2130.0993 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Arctic air that's gripping the country is hitting California's 
+citrus crop especially hard. Three days of below-freezing temperatures 
+have already caused over $590 million in damage to the crop in the 
+golden state. The damage estimate is expected to rise as the cold 
+weather continues. Produce wholesalers say the supermarket price of 
+oranges could triple in the next few days. 
+</TEXT>
+</DOC>

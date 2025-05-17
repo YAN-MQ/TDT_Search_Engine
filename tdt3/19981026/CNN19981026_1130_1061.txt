@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981026.1130.1061 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Allstate insurance has reached a settlement to give policyholders 
+a chance to have their claims re-examined following the Northridge 
+California earthquake five years ago. According to published reports, 
+the agreement would settle two lawsuits filed against Allstate that 
+allege that adjusters claimed damage was unrelated to the earthquake. 
+Homeowners who feel their claims were fraudulently drafted will be 
+able to request an independent investigation at Allstate's expense. 
+Allstate insurance has set aside $60 million for possible additional 
+claims. 
+</TEXT>
+</DOC>

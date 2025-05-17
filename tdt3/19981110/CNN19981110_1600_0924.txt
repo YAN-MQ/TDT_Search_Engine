@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981110.1600.0924 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It may still be fall but a massive winter-like storm is pounding the 
+northern plains. Snow and ice has closed roads. Power is out in some 
+areas. Winds up to 50 miles an hour are reported. 
+</TEXT>
+</DOC>

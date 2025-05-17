@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981123.1130.0392 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At U.S. district court, former associate attorney general Webster 
+Hubbell is being -- pleaded innocent this morning on a third indictment 
+brought against him by independent counsel Ken Starr. The new indictment 
+alleges that Hubbell lied to federal banking regulators and Congress. 
+</TEXT>
+</DOC>

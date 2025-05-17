@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981121.1600.1013 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another down tick for interest rates this week. The federal reserve 
+cut two key short-term interest rates by 0.25% that dropped the benchmark 
+federal funds rate to 4.75%, and the discount rate to 4.5%. 
+</TEXT>
+</DOC>

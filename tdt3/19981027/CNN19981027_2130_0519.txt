@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981027.2130.0519 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And still ahead -- using technology 
+to map hurricane damage along our coastlines. 
+</TEXT>
+</DOC>

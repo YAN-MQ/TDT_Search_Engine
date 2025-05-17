@@ -1,0 +1,61 @@
+<DOC>
+<DOCNO> NYT19981029.0462 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+As John Glenn enjoys his second rendezvous with the cosmos, the country 
+is awash with nostalgia about the great space race with the Soviet 
+Union, one of the most memorable competitions of the Cold War. If 
+only the actual rivalry more closely resembled the myths about it. 
+The truth is that by the time Glenn roared into orbit for the first 
+time, on Feb. 20, 1962, long after a Russian had circled the earth, 
+the United States was already winning a hidden and much larger race 
+with the Soviet Union over the military uses of space. Though the 
+public did not realize it then and has only a limited conception now, 
+the military competition cost more than the manned space program, 
+was far more important in influencing the course of the Cold War and 
+in many ways provided the technology used in the Mercury and Apollo 
+programs. The secret space race could not claim the shimmering goal 
+of sending a man to the moon. It lacked the life-and-death consequences 
+of every manned flight, and sported no human face to make it accessible 
+and inspirational to citizens. But even more than the effort to reach 
+the moon, it involved a mobilization of scientific, industrial and 
+military resources that has not been attempted since. The purpose 
+from the outset in the early 1950s was to match Soviet advances in 
+the development of ballistic missiles and to produce technology to 
+gather information about Soviet military forces, especially nuclear 
+weapons and the bombers and missiles that carried them. The hope was 
+to avoid another surprise attack like Pearl Harbor and to keep ahead 
+of Soviet armaments. Moscow successfully tested a hydrogen bomb in 
+August 1953, less than a year after the United States. The Soviet 
+Union was soon building a new fleet of long-range bombers and designing 
+and testing missiles that could deliver ever more compact and powerful 
+nuclear weapons to Western Europe and the United States. President 
+Eisenhower, believing that space might become a critical frontier 
+for spying and warfare, quietly approved a series of classified projects 
+that eventually revolutionized U.S. military technology and provided 
+much of the means for Glenn's flight. The primary objectives were 
+to build missiles that could deliver nuclear warheads to targets in 
+the Soviet Union and to develop planes and satellites to survey and 
+photograph Soviet airfields and missile bases first from high altitude 
+and later from space. The Soviet Union, of course, placed the first 
+satellite into orbit in October 1957. But Sputnik, though an enduring, 
+humiliating symbol of Russian superiority in space, was not a spy 
+satellite. It was secretly eclipsed in August 1960 by the first U.S. 
+photo-reconnaissance satellite. Moscow did not get a similar satellite 
+into operation until July 1962. The U.S. satellite project, code-named 
+Corona, was directed not by the Pentagon but by the Central Intelligence 
+Agency. It involved both the placement in orbit of a sophisticated 
+camera system and the return to earth of the film in a special capsule 
+designed to withstand the searing heat produced during re-entry through 
+the atmosphere. This space achievement came eight months before Yuri 
+Gagarin became the first man in space, and 18 months before Glenn's 
+mission. Much of the technology developed for the Corona program was 
+adapted for manned flights. The public space race made for riveting 
+scientific drama and great individual and national accomplishment. 
+But long before the United States exceeded Soviet successes in manned 
+flight, it had pulled ahead in developing reliable missiles and sophisticated 
+military spacecraft. In some ways, the space race was over before 
+Glenn blasted off. 
+</TEXT>
+</DOC>

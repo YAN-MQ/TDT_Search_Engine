@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981213.1000.1501 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Movie lovers and moviemakers are heading to Havana, Cuba, this weekend 
+for the annual Latin American film festival. The 11-day event is celebrating 
+its 20th anniversary this year. Fans packed theaters in the Cuban 
+capital yesterday for opening night. The festival not only gives Cubans 
+a rare chance to see international films, it showcases some of the 
+world's best independent productions. 
+</TEXT>
+</DOC>

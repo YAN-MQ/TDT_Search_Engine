@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981011.1600.1307 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+All right, game five of the American league championship between the 
+Yankees and Indians is set to take place at jacobs field. That series 
+is tied at two. David Wells starts for New York, while Cleveland counters 
+with Chad ogea. 
+</TEXT>
+</DOC>

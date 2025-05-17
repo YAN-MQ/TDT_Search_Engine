@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981226.1000.1653 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A whole day's news is just two minutes away, including the latest 
+on the rush to the malls for some after-Christmas shopping. First, 
+another look at U.S. Navy divers celebrating an underwater christmas. 
+I'm Judy Fortin. This is "CNN Headline News." 
+</TEXT>
+</DOC>

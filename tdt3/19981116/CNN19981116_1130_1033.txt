@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981116.1130.1033 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Internet stocks continue their meteoric rise. And investors may want 
+to keep in mind a number of upcoming initial public offerings, 19 
+to be exact, according to research firm comm-scan. Some of the names 
+to look for -- ticketmaster online, city search and prodigy communications. 
+</TEXT>
+</DOC>

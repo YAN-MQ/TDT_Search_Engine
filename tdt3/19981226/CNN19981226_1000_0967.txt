@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981226.1000.0967 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This week the federal reserve held the line on interest rates, and 
+it was the end of the line for some gas station owners. Kurt kasting 
+has that and more in "business this week." The only thing that slowed 
+down Wall Street this week was the christmas holiday. The Dow extended 
+its winning streak to six, gaining 314 points in the shortened trading 
+week. The average is up 16.6% for the year, with four sessions to 
+go. 
+</TEXT>
+</DOC>

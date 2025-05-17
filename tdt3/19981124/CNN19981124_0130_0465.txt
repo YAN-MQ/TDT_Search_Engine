@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981124.0130.0465 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen Maginnis. 
+We will expect still windy and wet conditions for the pacific northwest. 
+A frontal system moves across the Rockies as we head on into Wednesday. 
+High pressure dominates the eastern seaboard but not for long. Then 
+another storm system will pound the pacific northwest and British 
+columbia coast with another round of heavy rain and wind. Temperature-wise, 
+not bad. All the way from southern California into Texas, the central 
+plains and into the southeast, mostly 60s and 70s. But 30s into the 
+Great Lakes. Look for a high of just 5 in Fairbanks, Alaska. But 84 
+expected in Hilo. Our extended forecast is calling for a frontal system 
+to impact the midwest and the Great Lakes, as we go into Wednesday's 
+weather picture. And then, by Thanksgiving day, it looks like it's 
+going to be a soggy day for a parade in New York City. More showers 
+for the pacific northwest. And then, into Friday, a temperature Spike 
+across the south-central plains, 60s and 70s. For more weather information, 
+log on to CNN.com. 
+</TEXT>
+</DOC>

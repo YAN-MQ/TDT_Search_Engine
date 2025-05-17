@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981028.1600.0302 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton calls it a "severe and ongoing health care crisis" 
+in black and Hispanic communities. Today the White House announced 
+a new $156 million program to fight the disease among minorities. 
+Government statistics show it is a leading killer among African-Americans 
+and Hispanics. This latest initiative doesn't offer new drugs or treatments. 
+Instead it aims to get people into programs and clinics where they 
+can get treatment and help in preventing the spread of the virus. 
+</TEXT>
+</DOC>

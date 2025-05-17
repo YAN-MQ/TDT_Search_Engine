@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> VOA19981110.0500.2290 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And in other U.S. news, a federal appeals court has upheld the dismissal 
+of a civil lawsuit filed by victims of the Oklahome City bombing, 
+who had sued the company that made fertilizer used to make the deadly 
+bomb. Plaintiffs had alleged that ICI explosives had failed to safeguard 
+against their ammonium nitrate product used by terrorists. Last year, 
+a U.S. district court ruled there was insufficient evidence to prove 
+the company was negligent. The ruling came after company officials 
+testified they had sold their product legally and that no one could 
+have foreseen the deadly events of April 19th, 1995. 
+</TEXT>
+</DOC>

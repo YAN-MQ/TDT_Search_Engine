@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981130.1130.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new national system for gun purchases takes effect today. It requires 
+the FBI and state governments to conduct instant background checks 
+of people who buy rifles and shotguns in addition to handguns. That's 
+an estimated 12.4 million firearms sales each year. Those and other 
+stories in 15 minutes. 
+</TEXT>
+</DOC>

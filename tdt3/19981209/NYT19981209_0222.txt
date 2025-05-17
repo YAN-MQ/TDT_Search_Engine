@@ -1,0 +1,75 @@
+<DOC>
+<DOCNO> NYT19981209.0222 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+During the fall, homeowners often awaken to find their windows fogged 
+over. In the winter, the windows may be covered with a thin layer 
+of frost. Both the fog and the frost are examples of condensation. 
+It occurs when moisture, in the form of invisible vapor in the warm 
+interior air, meets with the cold surface of the window pane. Moderate 
+condensation is not a cause for concern as long as it evaporates when 
+the windows warm up, but in extreme cases it may not dry up. Then 
+it will collect and run down to soak the window sash and sill. Heavy 
+persistent condensation will flow past the sill to saturate the wall. 
+Damp walls will encourage mold and mildew. Eventually the moisture 
+will penetrate through the walls and rot the framing. Unfortunately, 
+condensation is not always as obvious as foggy or frosted windows. 
+Sometimes the warm moist air penetrates through the wallboard into 
+the wall cavities. Here it meets with cold air and condenses as water 
+droplets on the wall insulation. This moisture may eventually dry 
+out during the spring and summer months or it may remain and eventually 
+cause the quality of the insulation to deteriorate. Condensation is 
+rarely a problem in the spring or the summer because the outside air 
+never gets cold enough to cool and condense the vapor in the warm 
+indoor air. In the fall, all homes will have some condensation because 
+there is a certain amount of residual moisture left in the air from 
+the hot humid days of summer. In time, with adequate ventilation, 
+this will dissipate and the condensation should cease. In winter months 
+condensation may become an annoying problem because there is not enough 
+ventilation to remove the moist air. The problem may be exacerbated 
+when a variety of indoor sources add to the humidity in the air. One 
+way to prevent condensation is by lowering the humidity. This is not 
+as easy as it sounds because ordinary activities like cooking and 
+showering add significant amounts of moisture to the air. Opening 
+a window for five minutes after cooking or showering may be enough 
+to flush out the moist air. A better solution, however, would be to 
+install exhaust fans over the stove and in the bathroom. These would 
+pull the moisture out without introducing cold air into the room. 
+Exhaust fans are effective in pulling out the damp air, but they could 
+cause backdrafting in some homes. The air that pulled out by exhaust 
+fans must be replaced. Backdrafting occurs when the replacement air 
+is sucked in through the chimney or furnace flue. It is not a significant 
+problem in older homes because replacement air usually comes through 
+gaps and cracks around the windows and doors. Newer homes are tightly 
+constructed so they have far less gaps. You can test for backdrafting 
+by holding a smoking incense stick below the chimney flue. If the 
+smoke from the stick is drawn into the house, there is a backdrafting 
+problem. Opening a window will alleviate the problem, but this is 
+only a short-term solution. The best way to solve the backdrafting 
+problem is to consult with a heating professional about installing 
+ductwork to provide fresh air directly to the furnace. Another potential 
+source of indoor moisture is the clothes dryer. Make sure it is properly 
+vented to the outside; otherwise all the moisture from the freshly 
+washed clothes will be discharged into the inside. Houseplants can 
+also throw off a lot of moisture. If possible limit the number of 
+plants in your home or place most of the plants in a separate room 
+and run a dehumidifier periodically. Operating a dehumidifier may 
+seem like the best way to remove moisture from the air, but beware, 
+it can drive electric bills up. Ground moisture seeping up from the 
+soil in a crawl space or through a concrete floor can also add considerable 
+amounts of moisture to the air. In the crawl space lay down sheets 
+of 6 mil polyethylene over the ground. Seal concrete floors and walls 
+with a moisture sealer. In addition, check the ground slope around 
+your home. It should slope away from the house so that all rainwater 
+drains away. Other sources of indoor moisture may surprise you. Storing 
+large amounts of green firewood in the basement may increase the relative 
+humidity by as much as 15 percent. The obvious solution is to store 
+most of the wood outdoors or in the garage. A large aquarium can add 
+to the humidity as the water in the tank evaporates. Placing a cover 
+across the top of the tank will contain most of that moisture. Remember 
+that reducing indoor humidity is important if condensation is a problem. 
+If not, then making the air too dry _ less than 40 percent humidity 
+_ can create respiratory and allergy problems. 
+</TEXT>
+</DOC>

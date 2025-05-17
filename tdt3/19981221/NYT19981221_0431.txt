@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> NYT19981221.0431 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Of all the Internet stocks out there right now, Network Solutions 
+Inc. would seem least likely to be hot. Everyone knows, after all, 
+that sometime next year this Herndon, Va., company will lose its exclusive 
+government contract for registering the popular Internet domains of 
+.com, .net and .org _ the monopoly that accounts for virtually all 
+its revenue. And yet, in the last two weeks, Network Solutions' shares 
+have joined the A-list of Internet stocks already in the stratosphere. 
+On Friday, it closed at $121, up from $59 two weeks earlier. And the 
+ride continued Monday, as its shares reached $164.72 by the close 
+of Nasdaq trading. The jump comes on the heels of several strategic 
+alliances announced recently by Network Solutions, including marketing 
+agreements with Netscape Communications Corp. and Yahoo that will 
+give it broader name recognition with both consumers and businesses 
+looking to register a domain name on the Internet. Those deals are 
+part of the company's plans to diversify as the government moves forward 
+with plans to hand over administration of the Internet addressing 
+system to a nonprofit corporation. That group's first charge is to 
+open Network Solutions' lucrative domain-name registration monopoly 
+to competitors. Keith Benjamin, an Internet analyst for BancBoston 
+Robertson Stephens in San Francisco, cited three reasons for the market's 
+enthusiasm: the wild increases of Internet stocks in general; the 
+recent alliances announced by the company; and a better understanding 
+within the market of how the introduction of competition will affect 
+Network Solutions. ``I think that there has been a perception change, 
+from regulatory confusion to fears of competitive challenges, that 
+is evaporating quickly,'' Benjamin said. ``Two things have happened: 
+First, they have basically been given permission to continue to run 
+the database'' that tells computers on the Internet the actual numeric 
+addresses for every domain name a user enters. ``Second, the political 
+machine has been moving at a painfully slow speed, which is good for 
+Network Solutions.'' Indeed, the nonprofit group chosen by the Department 
+of Commerce to introduce competition into the domain-name registration 
+business, the Internet Corporation for Assigned Names and Numbers, 
+or ICANN, is nearly a month behind its deadline for picking a panel 
+of technical experts. The delay has fueled speculation that it will 
+also miss the deadline for opening the system to competition by the 
+end of March. With its unique position as the exclusive global registrar 
+for top-level domain names, Network Solutions has benefited from the 
+blossoming of the Internet for personal and commercial use. The company 
+has registered some 3 million domain names. Its income for the first 
+nine months of the year grew threefold, to $7.5 million, or 45 cents 
+a share, compared with $2.5 million, or 20 cents a share, for the 
+first nine months of 1997. The longer the transition to competition 
+takes, the longer Network Solutions will maintain its exclusive right 
+to dispense _ at $70 a pop _ the 10,000 new addresses being added 
+to the Internet each day. It also gives the company more time to continue 
+its efforts to diversify its services and to enter agreements with 
+Internet service providers and portals that will give it a strategic 
+advantage over the numerous upstarts waiting for an opportunity to 
+compete. Benjamin said the partnerships with Netscape and Yahoo effectively 
+made Network Solutions the exclusive registrar for those companies' 
+customers, ``suggesting that the competitive threat may not materialize'' 
+from some of the bigger Internet players. And he predicted a similar 
+agreement between Network Solutions and America Online, which recently 
+announced that it was acquiring Netscape. Robert Korzeniewski, Network 
+Solutions' chief financial officer and acting chief operating officer, 
+said the recent announcements had sealed the market's perception of 
+the company as both a retail stock and a top player like Amazon.com, 
+eBay and American Online. ``We were on CNBC twice in the last few 
+weeks,'' he said. ``Our stock was not a retail stock at all two weeks 
+ago. But now what we've seen is continued strong support from our 
+initial shareholders, as well as a new market that didn't even know 
+we existed.'' Future competition remains a big question, however. 
+The company is also in a leadership transition. Gabe Battista unexpectedly 
+resigned as chief executive last month to run an upstart telephone 
+company, Tel-Save Holdings of Hope, Pa. He had been with Network Solutions 
+just two years, but under his direction, profits paid for an expansion 
+of Network Solutions' international presence and a diversification 
+of its products. A key focus has been in moving into offering broader 
+Internet services for small companies that want to build an online 
+presence. As Internet stocks continue to rally, Benjamin said, the 
+biggest prizes will go to those companies with a big market, ``and 
+it's easy to believe that domain space is a big market.'' ``Network 
+Solutions has proven leadership,'' he added. ``We know the market 
+is big. We just haven't known until recently how the competitive landscape 
+would play out. It appears to have played out more favorably than 
+some have expected.'' 
+</TEXT>
+</DOC>

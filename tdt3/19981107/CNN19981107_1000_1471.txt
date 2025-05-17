@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981107.1000.1471 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sad news for animal and art lovers. Ruby, the painting pachyderm, 
+was euthanized during surgery yesterday at the Phoenix zoo. Vets operated 
+on her after a failed pregnancy and discovered she was suffering from 
+a fatal infection. Hundreds of zoo visitors held a candlelight vigil 
+for ruby. The elephant's abstract art raised about $500,000 for the 
+zoo. 
+</TEXT>
+</DOC>

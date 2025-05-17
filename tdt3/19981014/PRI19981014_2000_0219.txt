@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981014.2000.0219 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street, the Dow Jones industrial average gained 31 points 
+to close at 7,969. Advances led declines by a three to one margin 
+and heavy trading of 783 million shares. This is NPR. 
+</TEXT>
+</DOC>

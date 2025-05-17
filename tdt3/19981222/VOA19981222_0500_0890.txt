@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> VOA19981222.0500.0890 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Ten hours fifteen Universal Time. This is VOA News Now. 
+</TEXT>
+</DOC>

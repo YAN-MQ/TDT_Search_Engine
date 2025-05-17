@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981103.1600.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- election day is halfway over in many parts 
+of the U.S. at stake are 435 house seats, 34 Senate seats and 36 governorships. 
+Voters in several states also are deciding on such controversial issues 
+as same-sex marriage and abortion. 
+</TEXT>
+</DOC>

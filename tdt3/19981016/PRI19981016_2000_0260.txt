@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> PRI19981016.2000.0260 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Scientists in London have come up with a new theory about rising sea 
+levels. Findings from Antarctica suggests the polar icecaps are melting 
+more slowly than previously thought. It means rising sea levels have 
+less to do with melting ice than expanding water. With the details, 
+here's Ruth Linton of the BBC's science unit. An international team 
+of scientists has been taking radar measurements of the thickness 
+of the Antarctic icesheet since 1992. The scientists say Antarctic 
+melting couldn't have contributed less than 10 percent of the global 
+rise in sea level this century. The rest of the rise must have come 
+from the ocean's expansion, as the world warms up and the melting 
+of continental glaciers. In which case, predictions of future rises 
+in sea level, due to global warming will have to be seriously re-thought. 
+The BBC's Ruth Linton reporting. 
+</TEXT>
+</DOC>

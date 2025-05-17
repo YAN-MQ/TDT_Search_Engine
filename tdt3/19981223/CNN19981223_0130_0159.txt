@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981223.0130.0159 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal reserve has decided against making any additional changes 
+in U.S. interest rates this year. It will keep the overnight bank 
+lending rate at 4 3/4%, where it has stood since November 17th. Analysts 
+predict the fed will wait until a slowdown occurs. I believe that 
+they will ease in the first quarter of 1999, but they do not consider 
+it timely right now. I think it is very probable that they might have 
+two cuts in the first half of 1999. The fed cut borrowing rates three 
+times in the past three months to spur the economy. 
+</TEXT>
+</DOC>

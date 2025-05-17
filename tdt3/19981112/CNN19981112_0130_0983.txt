@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981112.0130.0983 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street Wednesday, blue chip stocks ended the day in Negative 
+territory for the third straight session. The Dow Jones industrial 
+average dropped 40 points to close at 8823. 
+</TEXT>
+</DOC>

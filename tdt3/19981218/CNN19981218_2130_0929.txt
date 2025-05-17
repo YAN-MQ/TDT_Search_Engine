@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981218.2130.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Top stories this evening -- while allied troops are fighting Iraq, 
+the House of Representatives is debating impeachment. A CNN head count 
+indicates at least one article of impeachment against the president 
+is all but certain to pass. 
+</TEXT>
+</DOC>

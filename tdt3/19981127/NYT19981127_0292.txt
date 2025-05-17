@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> NYT19981127.0292 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Saturday, Nov. 28: For 
+nearly two decades, Raymond Horton has served as an indispensable 
+nuisance for successive mayors, governors, lawmakers and labor leaders 
+in New York state. That was not his official title, of course. Horton's 
+job has been president of the Citizens Budget Commission and author 
+of countless critiques of New York City and state budget practices. 
+He retires Monday after a career of angering more people for more 
+of the right reasons for longer than almost anyone else in the city. 
+Only this year, New York City officials attempted to get corporate 
+donors to withdraw support from the Budget Commission, which under 
+Horton had the audacity to question the city's fiscal practices and 
+labor agreements. The commission then held one of its most successful 
+fund-raisers ever. That is because outsiders have come to depend on 
+its analyses, and elected officials, whether they realize it or not, 
+have been able to use Horton's suggestions to push for better policies. 
+Horton has been more than a number cruncher. He rejects the idea that 
+budget gaps need to be closed by cuts in welfare, aid to the poor 
+or vital city services. Instead he and the commission have shown how 
+savings can be made by improving productivity, work rules and sloppy 
+management practices. Above all, Horton and the commission have played 
+a major role in making the city's budget practices more open than 
+those of most governments. Horton returns to writing and teaching 
+at the Columbia School of Business. New Yorkers will miss him. 
+</TEXT>
+</DOC>

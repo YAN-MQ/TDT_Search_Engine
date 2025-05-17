@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> NBC19981110.1830.0178 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+These ferocious winter storms are so dangerous, national weather officials 
+have decided to adopt the model of the national hurricane center and 
+rank them as part of an early warning system. More on that tonight 
+from NBC's Jim Avila. Today's plains blizzard -- powerful winds, heavy 
+snow -- until now, no clear way to rank how bad it really is. But 
+now a new pilot program at the national weather service will rank 
+the storms on a scale from 1 to 5, like hurricanes. That storm would 
+be rated as a category 5 in my book. Starting December 1st, William 
+Parker, government meteorologist in Cheyenne, will issue warnings 
+to 15 counties in Wyoming and Nebraska. Clear, concise, numbered weather 
+alerts that measure storm factors from wind speed and temperature 
+to wind chill and snowfall. Labeling the storm in advance from wx 
+1 to wx 5. categories 1 to 3 are inconveniences, but 4 and 5 are serious 
+stay-inside weather. We're hoping by reading this system we're preventing 
+people from making stupid decisions. These strong winds will continue 
+today. Cattle rancher Ed weppner, constantly glued to his weather 
+radio, likes the idea of a clear, ranked storm scale. It's a lifesaver 
+for his 850 cattle. So this numerical rating, I think, will make things 
+much simpler. The storm season got an early start. A severe test for 
+the new system. El Nino is gan replaced by La Nina, the tropical pacific 
+weather pattern that features temperatures seven to ten degrees keerl 
+than normal. Cooled ocean air from the jet stream rushes over the 
+U.S., making for a Colder, rougher winter. This winter will certainly 
+feel like a more old-fashioned winter than last year. The national 
+weather service predicts heavier snowfall and colder temperatures 
+than normal -- a perfect winter to test storm warnings. Jim Avila, 
+NBC news, Minneapolis. 
+</TEXT>
+</DOC>

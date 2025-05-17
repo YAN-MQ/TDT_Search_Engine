@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981028.1600.0928 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- forecasters say the strongest atlantic 
+storm of the season is weakening but remains dangerous. Hurricane 
+Mitch is sitting off the coast of Honduras. At least 14 people have 
+been killed in the storm. 
+</TEXT>
+</DOC>

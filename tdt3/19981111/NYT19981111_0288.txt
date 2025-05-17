@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> NYT19981111.0288 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Even that cool photograph-analysis machine that Harrison Ford used 
+in the futuristic science-fiction classic ``Blade Runner'' couldn't 
+change the perspective of a photograph so that it could be viewed 
+360 degrees by 360 degrees. But a new technology, now being offered 
+to consumers, can do just that, tilting an image and circling around 
+it as if the viewer were standing at the center of a panorama. Interactive 
+Pictures Corp. is a leading developer of what its executives call 
+immersive photographic image technology. ``For 130 years, a picture 
+basically was a flat panel shot,'' said James Phillips, chairman and 
+chief executive of the company, based in San Jose, Calif. With these 
+new photographs, called IPIX (www.ipix.com), ``we literally allow 
+you to step inside of every picture,'' he said. The photographs, taken 
+with specially outfitted conventional cameras or digital ones, are 
+created with a special software program. On a personal computer, the 
+software combines two 180-degree photographs, taken with a fish-eye 
+lens, of a scene or object. When the two images are melded into one, 
+viewers can use the mouse to navigate within the photograph and beyond 
+its borders, left, right, up or down. For example, on the company's 
+site, an IPIX photograph of Frank Lloyd Wright's Fallingwater can 
+be seen conventionally, as an image of a house nestled in the woods 
+of Pennsylvania. But viewers can also change their vantage point, 
+so that it seems as if they are standing in front of the house, looking 
+into the woods. If they move the mouse up, the image reveals the sky. 
+If they move it down, they see the ground. Viewers can also zoom in 
+and out of the photograph with a click of the mouse. ``It is one of 
+the unique things you can do,'' Jeff Garrard, executive editor of 
+Cable News Network, said of IPIX images. For more than a year, CNN 
+and a number of companies, including hotel chains, automobile makers 
+and entertainment businesses like MTV and other news operations like 
+The New York Times on the Web, have been using IPIX images on their 
+Internet sites. CNN also used the technology to explore the cockpit 
+of the Space Shuttle during its coverage of the recent mission involving 
+John Glenn. For millions, it was the first time they had seen IPIX 
+images. Now more may view them. Until recently, IPIX technology was 
+sold mostly to photography enthusiasts and Web developers. But last 
+week, IPIX kits, including the fish-eye lens, software and a rotating 
+tripod, were packaged with consumer-friendly digital cameras from 
+Kodak, Olympus and Nikon. The sets range in price from $600 to $2,000. 
+``This,'' Phillips said, ``will totally reshape photography.'' 
+</TEXT>
+</DOC>

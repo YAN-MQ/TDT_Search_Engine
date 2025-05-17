@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981223.1130.0643 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Our top stories are just two minutes away. And later -- video game 
+sales are exploding and testers are more important than ever. 
+</TEXT>
+</DOC>

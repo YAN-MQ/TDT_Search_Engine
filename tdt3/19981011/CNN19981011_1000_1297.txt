@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981011.1000.1297 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A 28-0 run in the second half allowed UCLA to rally and meet Arizona 
+52-28. 
+</TEXT>
+</DOC>

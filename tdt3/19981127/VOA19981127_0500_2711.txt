@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> VOA19981127.0500.2711 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Hello everyone and welcome to Science World. I'm Brian Sizlack. DNA 
+analysis, the gene-screen that helps cops catch the bad guys is helping 
+doctors predict which cancer patients will do best on chemotherapy. 
+The case in question is a brain cancer called Anapestic Oligodendroglioma. 
+This malignant tumor looks pretty much alike in all patients, but 
+depending on its genome, one patients tumor might be much more vulnerable 
+to chemotherapy drugs, then another patients. Researchers at Harvard 
+Medical School, and Canada's London Regional Cancer in London, Ontario 
+correlated genetic changes found in these tumors with their sensitivity 
+to chemotherapy. Writing in the Journal of the US National Cancer 
+Institute, the team reported that tumors with delicians, a certain 
+genes on the short arm of chromosome number one, shrunk rapidly under 
+chemotherapy. These patients also lived longer than patients whose 
+tumors did not have the gene delicians. In the United States about 
+1500 new cases of this particular brain cancer arise each year. The 
+same gene analysis technique has also been applied to other cancers. 
+And can help physicians and their patients determine whether chemotherapy 
+is potentially beneficial and worth putting up with. 
+</TEXT>
+</DOC>

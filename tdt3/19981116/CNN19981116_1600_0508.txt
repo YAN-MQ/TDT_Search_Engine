@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981116.1600.0508 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the United States is next. Still 
+ahead -- new research for people with heart problems, and tooth problems. 
+</TEXT>
+</DOC>

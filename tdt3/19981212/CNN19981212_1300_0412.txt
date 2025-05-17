@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981212.1300.0412 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The American college of physicians has a warning for the baby boomer 
+generation. It says boomers who've gained more than 25 pounds since 
+high school may have doubled their risk of serious illness, including 
+heart disease, diabetes and certain cancers. The group says that could 
+ruin plans for their retirement in another decade or so. It adds 65% 
+of men and 53% of women in their 40s are overweight. 
+</TEXT>
+</DOC>

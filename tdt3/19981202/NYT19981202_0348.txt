@@ -1,0 +1,108 @@
+<DOC>
+<DOCNO> NYT19981202.0348 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In unusually emphatic and optimistic terms, scientists told a Senate 
+hearing Wednesday that research with human embryonic cells was likely 
+to yield important medical benefits and should be supported by the 
+federal government. ``It is not too unrealistic to say that this research 
+has the potential to revolutionize the practice of medicine and improve 
+the quality and length of life,'' said Dr. Harold Varmus, director 
+of the National Institutes of Health. At the hearing, the scientists 
+who announced last month that they had isolated and cultured the cells 
+explained how they could be grown into any desired tissue of the body 
+and used to treat almost any disease, particularly those like Parkinson's 
+disease and juvenile diabetes that are caused by deficiency of a specific 
+type of cell. ``There is almost no realm of medicine that might not 
+be touched by this innovation,'' Varmus said. But use of the human 
+embryonic stem cells also raises ethical issues. The cells are widely 
+regarded as meriting a special moral status. They are close cousins 
+to the fertilized egg, although they cannot by themselves develop 
+into an infant. Among a panel of ethicists who followed the scientists, 
+some said that the practical benefits of treatments using the cells 
+should outweigh moral qualms about their use, but Richard M. Doerflinger, 
+of the National conference of Catholic Bishops, said that ``scientific 
+progress must not come at the expense of human dignity'' and warned 
+against use of the cells unless they had been derived from spontaneously 
+aborted fetuses. The purpose of the hearing, held by the Appropriations 
+subcommittee on Labor, Health and Human Services, the Senate committee 
+that approves funding for federal biomedical research, was to explore 
+the implications of the new research in light of the ban on using 
+federal funds for embryo research. The ban, originating on the House 
+side, has been attached to appropriations bills for the last three 
+years. The human embryonic stem cells described last month were developed 
+by academic scientists who were supported by Geron Corp. and received 
+no federal funding. University scientists, who receive most of their 
+support from the National Institutes of Health, would like to work 
+with the cells but will not be able to do so unless the federal ban 
+on financing of embryo research is lifted. Evidently hoping that the 
+ban will not be introduced for a fourth year, Varmus and other scientific 
+witnesses were unusually eloquent in describing the expected benefits 
+of embryonic stem cell research. These cells are the all-purpose genetic 
+material from which all of the body's tissues are molded. In the womb, 
+the embryonic cells develop naturally into the highly organized set 
+of tissues that constitute a living infant. Now that the cells can 
+for the first time be cultured in the laboratory, scientists hope 
+to channel them into any desired type of cell, replacing or relieving 
+the need for transplantable donor organs and providing novel treatments 
+for many other kinds of disease. Dr. Thomas Okarma, Geron's vice president 
+for research, said embryonic stem cells were a potential source of: 
+_ heart muscle cells to treat congestive heart failure; _ blood-forming 
+cells to help cancer patients whose own bone marrow cells had been 
+damaged by chemotherapy; _ cells to line the inside of blood vessels, 
+to treat atherosclerosis; _ insulin-producing cells to cure those 
+with insulin-dependent diabetes; _ nerve and brain cells to treat 
+patients with Parkinson's and Alzheimer's disease and victims of stroke. 
+The two scientists whose embryonic stem cell work was funded by Geron, 
+Dr. James A. Thomson of the University of Wisconsin in Madison and 
+Dr. John Gearhart of Johns Hopkins University, offered similarly optimistic 
+testimony. Though Geron has a strong commercial interest in advertising 
+the value of the cells, on whose use it owns an exclusive license, 
+the company's general position on the wide applicability of the cells 
+was supported by Varmus, an eminent biologist. When Sen. Arlen Specter, 
+R.-Pa., pressed the scientists to say how soon treatments using the 
+cells might be available, Thomson said therapy for Parkinson's could 
+be expected in five to 10 years, and Gearhart predicted seven to 12 
+years. Scientists usually decline to predict the date of prospective 
+treatments because many results that seem promising in the laboratory 
+stumble before reaching the marketplace, and regulatory delays are 
+equally unpredictable. But even this enthusiastic panel of researchers 
+became resolutely noncommittal when Specter asked, ``Do we have a 
+realistic fountain of youth with this technique?'' At least two major 
+obstacles remain to be overcome before any possible stem cell treatments 
+emerge. One is that biologists have not yet identified the natural 
+signals that are assumed to govern the differentiation of embryonic 
+cells in the body. Another is that the developed cells produced from 
+the embryonic stem cells will be rejected unless they can somehow 
+be genetically manipulated so as to avoid provoking the patient's 
+immune defenses. Varmus said that ``these technical challenges, though 
+significant, are not insurmountable.'' Both the derivation and use 
+of human embryonic stem cells raise unaccustomed ethical questions, 
+ones that President Clinton last month asked the National Bioethics 
+Advisory Commission to address. Thomson derived his cells from pre-implantation 
+embryos that had been created in fertility clinics and would otherwise 
+have been discarded. The embryos, at that stage a small blob of cells 
+known as a blastocyst, had been frozen for several years. The cells 
+Gearhart used came from aborted fetuses, from a region destined to 
+form the egg or sperm cells. Doerflinger, representing the Catholic 
+position, objected to any research that involved the creation or destruction 
+of an embryo for research purposes, which in his view included the 
+cells Thomson used, and, in practice, those used by Gearhart. But 
+he said Gearhart's method might be acceptable if it were applied only 
+to spontaneously aborted fetuses, depending on whether or not the 
+method creates human embryos. ``I think the answer is no, but I don't 
+know and I don't think anyone knows,'' he said. Varmus said he believed 
+that Gearhart's research probably could have been funded by the National 
+Institutes of Health, despite the ban, but that he was awaiting a 
+ruling from the office of general counsel in the Department of Health 
+and Human Services. Many biologists are eager to start research on 
+the human embryonic stem cells but will have to wait a little while 
+yet. Although Sen. Tom Harkin, D-Iowa, said at the hearing that he 
+thought even the cells used by Thomson did not fall under the federal 
+funding ban, Specter said afterwards that he was not yet ready to 
+reach a judgment on whether research of the sort Gearheart conducted 
+could be federally funded. Okarma said that Geron would make the cells 
+freely available for research purposes. 
+</TEXT>
+</DOC>

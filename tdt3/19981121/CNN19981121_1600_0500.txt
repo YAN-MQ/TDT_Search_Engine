@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981121.1600.0500 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather update." 
+The potent pacific storm in the northwest will continue a chance of 
+rain and snow from Montana into northern California through Oregon 
+and washington. Another area of low pressure will move through the 
+James bay region, with a Chance of snow flurries for lake superior. 
+A front will go stationary across southern Florida. South of lake 
+okeechobee, look for a chance of showers and scattered thunderstorms, 
+these trailing into the gulf. High pressure will build into the chesapeake 
+bay, stretching across the mississippi valley into the desert southwest. 
+High temperatures on Sunday should be in the 30s, 40s and 50s for 
+most of the northern tier of states. 60s and 70s will push as far 
+northward as Nebraska. Look for 80s across portions of Florida. The 
+extended forecast includes a warm-up for most of the northwest Monday, 
+but a new storm system brings in more heavy rain. Look for rain across 
+the Great Lakes and scattered thunderstorms in the mississippi valley 
+as a cold front moves through and off the eastern seaboard by late 
+in the week. Heavy rain continues in the west through Wednesday. The 
+forecast for more than 7,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

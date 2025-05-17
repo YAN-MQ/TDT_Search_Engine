@@ -1,0 +1,168 @@
+<DOC>
+<DOCNO> NYT19981223.0203 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Scores of Iowa middle-school students were squirming on a recent afternoon 
+as they inspected tumors inside a colon as part of a career-information 
+seminar about the medical profession. The students, however, were 
+not even in the same room as the diseased colon _ or the same county, 
+for that matter. The hundred or so middle schoolers were spread out 
+all over the state, at six different schools. The images of the colon, 
+preserved in a jar in Des Moines, as well as the reactions (``Gross!'' 
+and ``Cool!'') were carried over hundreds of miles of fiber optic 
+cable that make up the Iowa Communications Network, which is nearly 
+a decade old but is still revolutionary. The idea of the state-owned 
+and operated network, the only one of its kind in the nation, was 
+pushed forward by a group of state legislators during the administration 
+of Gov. Terry E. Branstad in 1990. Approved and paid for with hundreds 
+of millions of dollars by the Iowa Legislature, the network links 
+Iowa's 99 counties, enabling the instantaneous transmission of two-way 
+interactive video, data and audio communications. The network began 
+as an educational tool for the state's schools; the goal was to open 
+up opportunities for rural Iowa. The idea of children in rural Iowa 
+taking foreign-language classes via the network struck state leaders 
+as a prime example of how opportunities afforded to students in Des 
+Moines and Cedar Rapids could be made available to those in rural 
+Inwood. The network could go a long way toward satisfying an Internet 
+user's lust for bandwidth _ technojargon for the size of the pipeline 
+that carries data to and from a computer. The more bandwidth a user 
+has _ the fatter the pipeline between the computer and the Internet 
+_ the faster and more useful that computer is. And a fiber optic network 
+is a fat, fat pipeline. While that fat pipeline is now available to 
+only a limited number of public and educational institutions, there 
+is a public debate about expanding that availability and about the 
+state's role as a communications carrier. City and county governments 
+want to be included in the network, and there is even talk of forging 
+public-private partnerships that would make the network available 
+for more private uses. The network has wired the state with cables 
+made of individual strands of optical fiber spiraled together. Harold 
+M. (Tommy) Thompson, the chief operating officer of the network, said 
+that while an entire encyclopedia could be downloaded in 38 minutes 
+with a copper T-1 line, one of the fastest widely available means 
+of connecting to the Internet, the Iowa network could transmit the 
+same information in 1{ minutes. He said he hoped that financing would 
+be allocated to update the network, tripling its bandwidth. Officials 
+estimate that since the network's inception, the state has spent close 
+to $300 million to build and run it. That includes $178 million for 
+the original cable that wired every county, plus an additional $95 
+million for the current effort to wire every school, which would put 
+all the state's residents closer to a network access point. Even though 
+federal and state agencies pay for network access, rate subsidies 
+and the expense of building up the network are costing the state around 
+$25 million a year. To encourage educational uses, the state subsidizes 
+the service for schools, charging public and private elementary and 
+high schools an hourly fee of $5.25 for two-way interactive video; 
+public and private universities pay $6.30 per hour. Libraries' rates 
+are similar. Hospitals and state and federal agencies are charged 
+$45.50 an hour, which is what providing the service costs the state. 
+To use the network for phone calls and Internet hookups, users pay 
+the network for production costs, which varies depending on the kind 
+of hookup. Private individuals and businesses cannot gain access to 
+the network under the state law governing it. The legislature has 
+refused to pass several bills that would widen access by allowing 
+city and county governments to participate. (Some counties are already 
+connected for law enforcement and disaster services.) Despite some 
+public grumbling over the network's costs, its advocates insist that 
+the investment will be well worth it and that costs are dropping as 
+usage expands. Thompson, who has run the network for four years, said: 
+``In addition to direct savings that the network creates for state 
+agencies _ for example, phone service that they don't pay private 
+sector rates for _ there are savings that are impossible to quantify, 
+such as savings from a sick veteran not having to leave his hospital 
+to see a specialist. Those kinds of things you just can't price.'' 
+Nobody knows if fiber optics will continue to be desirable as a high-bandwidth 
+Internet conduit as technology changes; cable modems and wireless 
+technology, among others, are also strong contenders. But Thompson 
+said the Iowa network would remain valuable for years. ``Who knows, 
+maybe 25 years from now there will be a new technology and somebody 
+will be able to do what we're doing better and cheaper,'' he said. 
+``If that's the case, we'll try to position ourselves so that we can 
+adapt to any of those changes, but it's pretty far in the future.'' 
+Though born as a tool for education, the Iowa network has been tapped 
+for telemedicine, telejustice (a term coined by Iowa judicial officials) 
+and even military purposes. James C. Twedt, an administrative judge, 
+used to spend hundreds of hours on the road conducting parole revocation 
+hearings. Now Twedt travels down a flight of steps in the Polk County 
+Courthouse in Des Moines to a former conference room that has been 
+transformed into a network video room, equipped with a monitor, camera, 
+microphone and all the other fixings of a network access point. There, 
+the judge can listen to three cases in 45 minutes. Twedt estimated 
+that he could process three times as many cases with the network than 
+he could before. The Iowa Parole Board also uses the network for parole 
+hearings. That eliminates the travel and security costs previously 
+incurred with transporting criminals. Twedt said more than 1,000 parole 
+hearings had been held over the network. The network is also used 
+in telemedicine. While telemedicine is practiced in other states as 
+well, the Iowa network makes the most sophisticated system possible. 
+It allows instantaneous, high-quality two-way interactive video so 
+the doctor and patient can talk to each other. Of course, that does 
+not substitute for face-to-face contact, but it does allow for great 
+technological leaps. For example, from his office at the University 
+of Iowa Hospitals in Iowa City, Dr. Michael Kienzle is able to use 
+the network to listen to the hearts of patients anywhere in the state. 
+``It allows you to establish a rapport with the patient,'' Kienzle 
+said. ``As a doctor, 80 percent of the information you need to make 
+a diagnosis comes from conversation with the patient. This network 
+allows that as though you're sitting in the examining room with them.'' 
+Kienzle said that while equipment and maintenance costs for the network 
+might seem exorbitant, telemedicine saved money. In rural Iowa, a 
+patient who needs a specialist has four alternatives, Kienzle points 
+out: not seeking medical attention, driving to where it is available, 
+seeing a specialist from a city who periodically visits rural towns 
+or using telemedicine. If the patient needs immediate attention, the 
+choices are limited to the last two, and the costs of missed work 
+to family members and the transportation costs of driving for treatment 
+can be quite high, Kienzle noted. The first consultation over Iowa's 
+network was conducted in early 1997, and several hundred took place 
+in that year. Kienzle said he expected those numbers to increase a 
+lot as insurance companies became more comfortable with the practice. 
+In addition to private patients, Kienzle said, telemedicine is used 
+in Iowa to treat most prisoners. The network is also used for programs 
+like training seminars for state workers and a pilot program allowing 
+plastics molders in private industry to take community college courses 
+to get their certification more quickly. Beyond that, the National 
+Guard uses the network for mobilization and emergency services planning. 
+With National Guard personnel scattered throughout the state, the 
+network lends itself to military use, network officials said. Commanders 
+and policy makers can hold meetings over the network, eliminating 
+travel to a central location near Des Moines, and training exercises 
+have recently been developed to take advantage of the network. Thompson 
+said that in the last few months, state military personnel at different 
+network points around the state had participated in a war simulation 
+over the network; communications, tactical maneuvers and strategy 
+were planned and carried out via the network. But Iowa's network has 
+not been given an easy ride by the state legislature. There was heavy 
+opposition from the state's telecommunications industry, which said 
+that with more than 150 long-distance phone companies already operating 
+in Iowa, the government should not get into the business as well. 
+But the network's proponents were able to convince the legislature 
+that to provide service to the whole state, only the government would 
+be willing to wire areas that might not otherwise be profitable for 
+private industry. But many of those involved agree that the state 
+must form some sort of partnership with the private sector at some 
+point, expanding the network's availability to private corporations. 
+That same uneasy telecommunications industry, however, still fears 
+expanded competition from the state. And the state wants to maintain 
+its original vision of servicing all Iowans, regardless of profitability. 
+The solution, optimists say, is to transfer some operations to the 
+private sector but to have a state regulatory body make sure that 
+costs remain affordable and that the service area continues to expand 
+throughout the state. ``To the extent that some sort of hybrid arrangement 
+can promote growth and still accommodate the public good, I would 
+be for it,'' Kienzle said. Economic development officials say they 
+hope that a partnership will allow the private sector all of the network's 
+advantages and attract new business to Iowa. But many officials are 
+not so optimistic because other states, like North Carolina and Wisconsin, 
+have encountered problems with similar arrangements. ``While the state 
+runs the network, we only have to break even and we're not paying 
+taxes and fees _ it's just cheaper,'' Thompson said. ``If we turn 
+it over to a private carrier, in order for them to cover costs and 
+then profit, I'm afraid prices will get too high.'' Meanwhile, the 
+legislature has promised $3 million, largely for subsidies, in the 
+next fiscal year, and Thompson says the network's technology will 
+continue to push boundaries. That means that middle-school students 
+will continue to squirm at human innards, even when they are halfway 
+across the state. 
+</TEXT>
+</DOC>

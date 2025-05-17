@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981224.2130.0168 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Washington state, up to three inches of snowfall slowed drivers, 
+but did not cause major disruptions on the busiest travel day of the 
+year. 
+</TEXT>
+</DOC>

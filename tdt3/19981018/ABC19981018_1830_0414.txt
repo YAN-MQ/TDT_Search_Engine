@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981018.1830.0414 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hundreds died today in disasters around the globe. In Nigeria, up 
+to 3 hurx people were killed when a fuel pipeline exploded. Officials 
+are blaming sabotage. In Colombia, police are blaming rebels for another 
+explosion that killed 40. And in Egypt, a train crash has claimed 
+40 lives. The train jumped the tracks and plowed into market stalls. 
+</TEXT>
+</DOC>

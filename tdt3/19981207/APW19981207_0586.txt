@@ -1,0 +1,52 @@
+<DOC>
+<DOCNO> APW19981207.0586 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The first two building blocks of the international space station were 
+firmly hooked together and soaring high above the Earth today, awaiting 
+a visit from two spacewalking astronauts to attach electrical connectors 
+and cables between the parts. During the 6{-hour spacewalk, scheduled 
+to begin this evening, astronauts Jerry Ross and James Newman will 
+hook up 40 connectors to supply power to the fledgling outpost. Newman 
+likened the job to construction work. ``Essentially we're putting 
+an office building together,'' he explained. Two other spacewalks 
+are planned during the 12-day assembly mission, to install handrails 
+and other tools for future crews. The first two space station parts 
+_ the Russian-built Zarya control module and American-made Unity chamber 
+_ were connected on Sunday, creating a seven-story tower out of the 
+cargo bay of the shuttle Endeavour. The joined modules will be released 
+from the shuttle once all of the spacewalks are completed. The components 
+were linked as Endeavour soared 240 miles over the South Pacific. 
+Astronaut Nancy Currie used the shuttle's robot arm to grab hold of 
+Zarya (Russian for Sunrise) and position it several inches directly 
+above Unity. Then shuttle commander Robert Cabana fired Endeavour's 
+thrusters, raising it enough for the docking mechanisms on the two 
+station components to snap together. ``We have capture of Zarya,'' 
+Cabana announced the moment the pieces came together. ``Congratulations 
+to the crew of the good ship Endeavour,'' replied Mission Control. 
+``That's terrific.'' The task took several hours because the two parts 
+needed to be perfectly aligned before they were joined, and the pieces 
+are so big _ 77-feet long with a combined mass of 70,000 pounds _ 
+that the astronauts had to rely on a computerized vision system and 
+camera views, rather than direct line of sight. This was the first 
+time such a ``blind'' docking had ever been attempted, and Currie 
+was credited with a flawless performance _ lining up the parts so 
+they were only half a degree and less than an inch off-center. A problem 
+was detected with two antennas on the Zarya module that failed to 
+deploy. The antennas must be unfurled in order for Zarya's backup 
+docking system to work. That system won't be needed before next summer, 
+but NASA is considering having Ross and Newman unroll them during 
+a spacewalk. A Zarya battery also was not working properly, but the 
+astronauts took up a replacement part. Despite the glitches, NASA 
+officials lauded the first step of space station assembly as a success. 
+``This is history,'' said Frank Culbertson, deputy program manager 
+for space station operations. ``Bringing these two components together 
+in this way ... I think is a good omen for what's coming ahead.'' 
+NASA estimates 43 more launches and 159 more spacewalks will be needed 
+to assemble the entire orbiting complex, scheduled for completion 
+in 2004. Once constructed, the station will have a mass of 1 million 
+pounds, be longer than a football field and house up to seven astronauts 
+and cosmonauts. 
+</TEXT>
+</DOC>

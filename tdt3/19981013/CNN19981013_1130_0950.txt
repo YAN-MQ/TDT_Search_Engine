@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981013.1130.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Nevada boxing commission has released a report that says Mike 
+Tyson is fit to return to the ring. His license was revoked after 
+he bit Evander Holyfield's ear during a match. 
+</TEXT>
+</DOC>

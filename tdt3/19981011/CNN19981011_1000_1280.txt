@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981011.1000.1280 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Top ten college football -- Joe germaine threw for 307 yards and three 
+touchdowns to lead top-ranked Ohio state to a 41-0 Rout over Illinois. 
+</TEXT>
+</DOC>

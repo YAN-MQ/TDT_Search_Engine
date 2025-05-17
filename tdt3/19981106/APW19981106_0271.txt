@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> APW19981106.0271 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Eiffel Tower, closed to a disappointed public for a week due to 
+a strike, reopened Friday after management agreed to workers' demands 
+to hire more staff. Some 200 workers at the Eiffel Tower had been 
+demanding more personnel, rejecting as insufficient the recent hiring 
+of 20 people, with plans to recruit five more workers next year. Management 
+on Thursday evening accepted workers' demands to accelerate the hiring 
+of seven new employees, the press office said. The strike, which began 
+last Friday, cost the Eiffel Tower an estimated 300,000 francs (dlrs 
+55,000) per day. November is a slack period for tourists. Some 310,000 
+people visited the Eiffel Tower in November 1997, compared to 850,000 
+visitors in August. 
+</TEXT>
+</DOC>

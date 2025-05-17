@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981113.1130.1353 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+baseball will announce its next award, the american league cy young 
+winner, on monday. yesterday, joe torre was named the a.l. manager 
+of the year for guiding the yankees to an a.l.-record 114 regular 
+season wins and a world series title. 
+</TEXT>
+</DOC>

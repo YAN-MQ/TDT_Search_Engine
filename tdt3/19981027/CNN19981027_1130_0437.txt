@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981027.1130.0437 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+General Motors is recalling 400,000 cars for emitting too much carbon 
+monoxide. On the list -- GM says it will notify car owners by mail 
+and fix the problem for free. 
+</TEXT>
+</DOC>

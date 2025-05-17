@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981223.1130.0305 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+U.N. humanitarian workers resumed their work today after returning 
+from jordan. Their first job will be to see if the air attacks affected 
+the U.N. approved oil-for-food program and other international efforts 
+to help the iraqi people. 
+</TEXT>
+</DOC>

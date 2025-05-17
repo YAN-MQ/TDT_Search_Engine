@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981013.1130.0974 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A mixed bag of earnings reports on Wall Street. Let's get the details 
+from Lauren Thierry at the cnnfn newsdesk in New York. Lauren? How 
+are you, Catherine? Stocks got off lackless this morning. Right now 
+the Dow is currently down -- NASDAQ composite currently losing 23 
+points. Investors are showing some confidence in the U.S. bond market 
+-- 
+</TEXT>
+</DOC>

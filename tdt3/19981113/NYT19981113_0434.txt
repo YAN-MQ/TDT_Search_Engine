@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> NYT19981113.0434 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Saturday, Nov. 14: The 
+$41.5 billion international package to support Brazil announced Friday 
+has several things going for it. It is larger than had been expected, 
+which makes it less likely that speculators will bet against Brazil 
+and therefore makes it less likely that the money in the package will 
+actually have to be used. It includes commitments not only from the 
+International Monetary Fund and World Bank, but also from the United 
+States and other major countries. Finally, it is based on promises 
+by the Brazilian government that long-needed fiscal reforms will be 
+put in place. Nonetheless, the package is risky. Brazil's currency, 
+the real, remains overvalued, and nothing is being done directly to 
+address that problem. The hope is that the country's existing program 
+of gradual devaluation will eventually cure the problem. But in the 
+meantime, that overvaluation could discourage international investment 
+in the country. Only with such investment will it be possible for 
+Brazil to lower the very high interest rates it has imposed to protect 
+the real. Those high rates are very damaging to the economy. A lot 
+remains to be done on fiscal problems by both the country's Congress 
+and its state governments, and it is far from certain that the needed 
+reforms will be approved. If they are not, the IMF and the other lenders 
+will face difficult decisions regarding continued lending. Fortunately, 
+world financial markets are far less nervous than they were even a 
+month ago. As the largest economy in Latin America, Brazil's fate 
+is of great importance to the region, and the economic health of the 
+region could make the difference in determining whether the Asian 
+recession spreads to this country. 
+</TEXT>
+</DOC>

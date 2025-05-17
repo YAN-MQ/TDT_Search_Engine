@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> NBC19981029.1830.1687 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One more reminder that, like so much else from the time of John Glenn's 
+first flight, the idea of age is not what it once was. Grandfather 
+John Glenn, who once before took us to places we had not been, is 
+doing it again tonight, in a new way. The debate over the scientific 
+merits of his mission is honest and worthwhile, but it's also worthwhile 
+to have an excuse to cheer a man and his dream, to admire his family, 
+and to watch in awe as American invention takes us to another frontier. 
+</TEXT>
+</DOC>

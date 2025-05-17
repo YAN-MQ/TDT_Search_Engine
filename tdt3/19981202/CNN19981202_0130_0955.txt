@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981202.0130.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+blue chips bounced back on tuesday. the dow jones industrial average 
+closed up 17 points at 9133. on monday, stocks slid 216 points in 
+a flurry of profit taking among investors. 
+</TEXT>
+</DOC>

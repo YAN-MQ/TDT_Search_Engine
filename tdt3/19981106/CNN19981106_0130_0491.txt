@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981106.0130.0491 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News" -- for Friday morning, rain on the northwest coastline 
+and in the northern Rockies. Beautiful but chilly weather in the central 
+and eastern sections of the country. The snow increasing through Friday 
+evening into Saturday morning from the northern Rockies into the north-central 
+plains. Still beautiful but cool weather over the eastern half of 
+the country into saturday morning, with more rain moving into north 
+California with a Frontal system. High temperatures on Friday only 
+in the 20s and 30s in the northern third of the country, 40s, 50s 
+and 60s over the central and southern half of the U.S. your extended 
+forecast showing highs only in the 20s and 30s over the north-central 
+plains, with heavy snow and rain mixed in the central section of the 
+country on Saturday. On Sunday, snow in the Great Lakes, rain and 
+windy in the west, with the cool temperatures continuing in the northern 
+United States. And the cool temperatures prevail into Monday, with 
+a messy day in the north. We're talking heavy snow, windy conditions 
+and a rain/snow mix. Remember, you can get your four-day forecast 
+for more than 7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

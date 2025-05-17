@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> NYT19981012.0277 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+How well do doctors follow directions? Not very well, apparently, 
+when it comes to a standard practice followed by medical journals. 
+Traditionally, editors of scientific publications have called on experts, 
+or peers, to review the findings submitted for publication to check 
+on the methods that researchers used to justify their conclusions. 
+Each publication has its own set of directions for reviewers. But 
+it seems that many reviewers rely on their own criteria without reading 
+what editors ask them to. Dr. Roy M. Pitkin, the editor of Obstetrics 
+and Gynecology, in Los Angeles, long suspected that reviewers ignored 
+the editors' instructions. So he inserted this sentence in the letter 
+his journal sent to 122 reviewers: ``If you have read this, call or 
+fax our office, we will give you a gift worth $20.'' Only 21 reviewers, 
+or 17 percent, claimed the gift, a long-distance phone card, said 
+Pitkin, who published his findings in The New England Journal of Medicine, 
+which also uses peer review. Among the first-time reviewers, the rate 
+was even lower, at 10 percent, Pitkin said. Does it mean scientists 
+are not paying attention? Some aren't so sure, suggesting instead 
+that it is all in the incentives. Perhaps, among eminent obstetricians, 
+$20 just isn't worth the effort. One respondent thought that claiming 
+the reward would be worthwhile and gave the phone card to his daughter 
+at college. But Pitkin laughed and said the obstetrician later told 
+him that the daughter ``still hasn't called home.'' 
+</TEXT>
+</DOC>

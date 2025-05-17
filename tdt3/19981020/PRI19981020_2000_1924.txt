@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> PRI19981020.2000.1924 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In Washington, the computer software giant, Microsoft, has opened 
+its defense in court against the case brought by the government. It's 
+accused of using its dominant market position to try to squeeze out 
+competitors. David LaValle has this report. In his opening defense 
+argument, Microsoft lawyer John Warden tried to portray the company's 
+tactics in the so-called browser wars as aggressive but legal. That 
+logic sets the stage for Microsft to try and refute Justice Department 
+complaints the company engaged in anti-competitive business tactics. 
+Warden ridiculed the government's case saying it was their competitor 
+Netscape that had a monopoly until, in his words, "the great Satan 
+Microsoft came along." He said anti-trust laws are not a code of civility. 
+For THE WORLD, I'm David Lavalle. Meanwhile, Microsoft reported a 
+58 percent rise in earnings in the last quarter compared with a year 
+ago. 
+</TEXT>
+</DOC>

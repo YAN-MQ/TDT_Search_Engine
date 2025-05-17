@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> PRI19981103.2000.1987 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From the BBC Newsroom in London, this is Pamela McCall. You're listening 
+to "The World". THE WORLD is brought to you by The Capital Group Companies, 
+investing throughout the world for individuals and institutions. This 
+is THE WORLD, a co-production of the BBC World Service, PRI, and WGBH 
+in Boston. I'm Lisa Mullens. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981127.2130.0494 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And still ahead -- attention 
+holiday shoppers, check out what's hot in the world of high-tech gift-giving. 
+</TEXT>
+</DOC>

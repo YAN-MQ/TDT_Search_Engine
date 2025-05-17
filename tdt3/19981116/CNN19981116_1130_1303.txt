@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981116.1130.1303 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Atlanta falcons made a big-time statement yesterday. They soared 
+over San Francisco, 31-19, to grab sole possession of first place 
+in the NFC west. The win broke a five-game losing streak against the 
+49ers. 
+</TEXT>
+</DOC>

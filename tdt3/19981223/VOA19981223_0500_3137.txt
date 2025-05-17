@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981223.0500.3137 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. stocks ended, Tuesday, mixed. The bench mark, Dow Jones Industrial's 
+average, reopening today at 9,044, after a more than 55 point gain 
+on Tuesday. The broader market, S&P 500, fell. And the NASDAQ fell 
+from a new record high. 
+</TEXT>
+</DOC>

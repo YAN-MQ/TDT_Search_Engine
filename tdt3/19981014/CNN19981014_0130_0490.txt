@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981014.0130.0490 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Five scientists at universities in the United States have won this 
+year's nobel prizes in chemistry and physics. The chemistry award 
+goes to Austrian Walter kohn of University of California at Santa 
+Barbara for developing the density-functional theory. He shares the 
+award with British national John pople of northwestern University 
+who developed computational methods in Quantum chemistry. The nobel 
+winners in physics are Robert laughlin, horst stoermer and Daniel 
+tsui . The professors are cited for discovering how electrons can 
+change their behavior. 
+</TEXT>
+</DOC>

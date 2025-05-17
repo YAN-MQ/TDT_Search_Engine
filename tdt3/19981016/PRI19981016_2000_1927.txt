@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981016.2000.1927 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is "The World," a co-production of the BBC world service, PRI 
+and WGBH in Boston. I'm Tony Cahn. 
+</TEXT>
+</DOC>

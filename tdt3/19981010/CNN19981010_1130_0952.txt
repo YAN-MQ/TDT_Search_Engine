@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981010.1130.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Clark clifford has died at the age of 91. He advised democratic presidents 
+from Harry truman to Jimmy Carter. 
+</TEXT>
+</DOC>

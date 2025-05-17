@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981018.1830.1723 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And that's "World News Tonight." Watch 20/20 with Barbara Walters 
+and Diane Sawyer. I'm Carole Simpson. Good night. 
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981228.2130.0525 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+this is meteorologist valerie voss with your "cnn headline news weather" 
+forecast for tuesday. another round of rain and snow pushes into the 
+pacific northwest, while very cold high pressure moves in behind the 
+cold front to the north central part of the country. we'll see snow 
+along that cold front moving into upstate new york and northern new 
+england with time. meanwhile, the southeast stays a bit on the cool 
+and dreary side. high temperatures tuesday -- subzero and single numbers 
+across parts of the dakotas and minnesota. because of the wind, it'll 
+feel even cooler than that in some areas. 20s and 30s for new england. 
+mostly 50s and 60s in the south. looking ahead to wednesday, we'll 
+see more rain and snow in the northwest, with snow showers moving 
+to the great lakes again. still cold and turning colder over new england. 
+thursday, snow showers in the great lakes, rain and snow in the northwest 
+once again, while on friday, we look for a mix of rain and snow northwest. 
+snow moving to the great lakes. teens and 20s for highs in the northern 
+part of the country, 60s and 70s in the south. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981013.2130.0299 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Emergency crews are searching for survivors of an explosion at a fireworks 
+factory outside Mexico city today. It destroyed several city blocks. 
+Killing at least ten people. At least 50 more are hurt or missing. 
+A red cross official says the main explosion probably set off a chain 
+reaction among dozens of illegal makeshift factories in the area. 
+</TEXT>
+</DOC>

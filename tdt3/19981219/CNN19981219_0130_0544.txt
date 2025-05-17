@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981219.0130.0544 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News" forecast. Heavy rain and snow over the Great Lakes 
+in the morning turning into rain in the deep south with snow over 
+the central Rockies. Throughout the day, the snow moves into New England 
+and southern Canada. The rain diminishes over the southeast. The snow 
+continues, however, over the central Rockies, moving into the northern 
+plains and the northern Rockies by Sunday morning. Extremely chilly 
+tonight over most of the nation. Double-digit subzero lows over Montana 
+and Wyoming. Quite a few subzero lows and zeros for overnight lows. 
+Afternoon highs tomorrow, warming up in the south. However, the north 
+will see quite a few subzeros and zeros for highs, otherwise teens, 
+20s and 30s. The cold temperatures continue Sunday, with heavy snow 
+and rain over the Great Lakes and Ohio valley. Windy, with snow over 
+the Rockies. On Monday, continued cold temperatures, flurries in the 
+northwest. Heavy snow once again over the Great Lakes. On Tuesday, 
+continued cold weather, a rain/snow mix in the northwest with snow 
+showers over the Great Lakes, thunderstorms in the southeast. Remember 
+you can get your four-day forecast for more than 7200 cities at cNN.com. 
+</TEXT>
+</DOC>

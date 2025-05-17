@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981225.1600.0298 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And people in the Philippines are busy celebrating that country's 
+biggest event of the year. As with every major Filipino holiday, colorful 
+lanterns are displayed throughout cities. 
+</TEXT>
+</DOC>

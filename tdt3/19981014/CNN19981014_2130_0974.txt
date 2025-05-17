@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981014.2130.0974 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street, stocks ended the day in positive territory. The Dow 
+Jones industrial territory rose 30 to close at 3968. Analysts say 
+corporate earnings were better than expected. 
+</TEXT>
+</DOC>

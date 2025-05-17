@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981215.1600.1350 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Dan Reeves continues to recuperate after undergoing multiple heart 
+bypass surgery on Monday. Reeves' doctors reiterated that he should 
+be back for the playoffs and is expected to be discharged later in 
+the week. 
+</TEXT>
+</DOC>

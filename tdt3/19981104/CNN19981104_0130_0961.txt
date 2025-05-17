@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981104.0130.0961 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Barabara boxer has been re-elected. Her tight race against republican 
+challenger Matt fong in California was among the most closely watched 
+of the election. 
+</TEXT>
+</DOC>

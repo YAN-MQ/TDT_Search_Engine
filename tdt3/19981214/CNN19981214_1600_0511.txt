@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981214.1600.0511 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for Tuesday morning. Still a little bit of precipitation 
+in the southwest. This is associated with a storm that rolled in through 
+California over the weekend. Not a lot of snowfall is expected. But 
+the high elevations will see some snow to be sure. Much of the rest 
+of the nation will be dry. A few showers and a little bit of drizzle 
+lingers along the southeastern coast. As we put this map in motion, 
+you can see the cold front moving out of the plains states and to 
+the east and bringing to an end the inordinately warm temperatures 
+that we've been finding in the plains states. Daytime highs tomorrow 
+in some places in the upper midwest only in the 30s. Today, those 
+very same places seeing highs in the 50s. Your extended forecast calls 
+for generally mild weather, however, to continue for much of the nation 
+as you can see. And as we head into Thursday, a rain/snow mix is possible 
+in the Great Lakes area. And you can still see some icy mix expected 
+in the southern Rockies. As we move into Friday, rain, snow, windy 
+conditions in the eastern Great Lakes area. And for more weather information 
+you can log on to CNN.com. 
+</TEXT>
+</DOC>

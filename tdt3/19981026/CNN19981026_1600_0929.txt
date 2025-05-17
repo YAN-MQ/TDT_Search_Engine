@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981026.1600.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- Israeli prime minister Benjamin Netanyahu 
+has easily survived a no-confidence vote in parliament. The motion 
+was introduced by conservative hard-line lawmakers opposed to the 
+new mideast peace accord. 
+</TEXT>
+</DOC>

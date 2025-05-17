@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> NYT19981206.0220 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Monday, Dec. 7: An innovative 
+settlement of the class-action lawsuit against the troubled New York 
+City child-welfare system offers hope that reform will take place 
+at a swifter pace. The suit, brought by Children's Rights in 1995, 
+charged the city and state with violating state and federal law in 
+failing to protect 100,000 abused or neglected children. Mayor Rudolph 
+Giuliani brought in Nicholas Scoppetta to overhaul the system in 1996 
+after the murder of 6-year-old Elisa Izquierdo by her mother. But 
+even after hiring more social workers and reducing caseloads, deficiencies 
+persist in supervision of caseworkers and monitoring of cases. Some 
+children have continued to suffer abuse even though they are supposedly 
+under the city's watch. The lawsuit, filed before the reforms by Scoppetta, 
+commissioner of the Administration for Children's Services, forced 
+the city to answer critics who wanted more dramatic progress. But 
+Children's Rights saw that a protracted legal battle would not hasten 
+reform. Any court-ordered changes would still require the cooperation 
+of government officials to be effective. Both sides have now agreed 
+to set aside the litigation for a new approach. An independent panel 
+of experts will assist the agency and review its progress over the 
+next two years. It will be financed by the Annie E. Casey Foundation, 
+which is devoted to children's issues, to insure the panel's independence. 
+The panel, which will have full access to agency operations and records, 
+will issue recommendations, but the agency will be free to fashion 
+its own solutions. If the panel finds that the city has not acted 
+in good faith on reform, the plaintiffs can renew the litigation and 
+seek court intervention. A separate settlement requires the state 
+to monitor the agency's compliance with state law and conduct reviews 
+of case records. These agreements will surely serve children better 
+than spending more time in the courtroom. 
+</TEXT>
+</DOC>

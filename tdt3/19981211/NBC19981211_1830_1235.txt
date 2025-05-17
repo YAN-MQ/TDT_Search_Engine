@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> NBC19981211.1830.1235 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now to a special health report, with "the Wall Street Journal" -- 
+trial and error. How far would you be willing to go to test a new 
+medical procedure? Would you subject yourself to surgery that may 
+not provide any medical benefit? Volunteering for experiments is a 
+Noble thing to do, but how risky is it? How much do we know? Here's 
+NBC's chief science correspondent Robert Bazell. Imagine you are Ruth 
+Ashley. You have Parkinson's disease. You sign up for a promising 
+experimental procedure, then find out, even though you had surgery, 
+four holes drilled in your head, you did not get the treatment. I 
+was completely upset for a while. It is a controversial new trend 
+in medicine -- placebo or sham surgery. To test experimental treatments, 
+surgeons perform the actual operation on some people, but on others 
+they only cut the skin or, in some cases, drill holes without giving 
+any real therapy. Some doctors say it is the only way to know for 
+sure that a new treatment actually works. We have to have that alternative 
+to judge whether a treatment is good or bad. Ruth Ashley admits she 
+knew what she was getting into. She got a letter clearly spelling 
+out that -- but after the operation, she thought she was getting better. 
+And so did her doctors, who also were not told whether she received 
+the treatment. But then they learned the truth -- she got the sham 
+surgery. The doctors running the experiment point out that Ruth Ashley's 
+experience is precisely why they need the sham surgery. Some people 
+get better just because they think they have had a treatment. This 
+positive response is called the placebo effect. So the only way to 
+find out whether a treatment really works is to compare it to a placebo. 
+But some medical ethicists object, saying sham surgery puts experimental 
+subjects at too much risk. It has upped the ante and led people to 
+believe now that almost anything goes in scientific research. But 
+Ruth Ashley is not complaining. The same letter inviting her to join 
+the experiment guaranteed that if she got the sham surgery, she would 
+have -- and today, after the operation, she is doing much better. 
+When the experiment is completed next year, doctors say that, thanks 
+to ruth Ashley and others who agree to risk the sham surgery, they 
+will have scientific proof whether important new treatments are truly 
+effective. Robert Bazell, NBC news, New York. 
+</TEXT>
+</DOC>

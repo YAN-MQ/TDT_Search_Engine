@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981229.0130.0376 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For holiday travelers in and around San Francisco, it's a case of 
+enjoy it while it lasts. Planes are finally moving again at bay-area 
+airports, where thick fog has delayed flights for two days. Forecasters 
+say the fog will be around until midweek, so travelers should be prepared 
+for even more delays until then. 
+</TEXT>
+</DOC>

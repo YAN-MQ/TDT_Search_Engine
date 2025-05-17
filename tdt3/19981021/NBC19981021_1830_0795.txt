@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981021.1830.0795 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow Jones industrial average climbed 13 points. The NASDAQ was 
+up 35. 
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> VOA19981023.0600.2806 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Finally, researchers at Sandia National Laboratory in Albuquerque, 
+New Mexico may have come up with the ultimate device to foil computer 
+hackers. It is probably the world's smallest combination lock, a series 
+of six code wheels, each less than 300 microns in diameter. The entire 
+device measures less than 9 x 5 millimeters, about the size of a button 
+on your shirt. These tiny tumblers can be set for any one of a million 
+possible entry combinations. Hit the wrong one and access is denied. 
+The lock is not software, but an actual part of the computer's hardware 
+system and therefore very difficult to break through. The six tiny 
+gears and code wheels and their drives will be put onto a silicon 
+chip and could be incorporated into any computer. Hackers, you've 
+met your match. 
+</TEXT>
+</DOC>

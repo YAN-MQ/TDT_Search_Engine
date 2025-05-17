@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981125.1130.0918 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Britain's house of lords decided today that former Chilean dictator 
+augusto pinochet does not have immunity for arrest. Spain has issued 
+a warrant charging him with torture, murder and kidnapping during 
+his reign. 
+</TEXT>
+</DOC>

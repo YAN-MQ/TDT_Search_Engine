@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> NBC19981110.1830.1244 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Health news tonight -- the journal of the American medical association, 
+a Bible of the medical establishment, is out with a wide-ranging review 
+of alternative medicine tonight. And their conclusion -- some of it 
+works. For example, herbal treatments for irritable bowel syndrome 
+and benign prostate conditions are effective. But chiropractic treatment 
+does not cure headaches, and acupuncture doesn't help people with 
+HIV. 
+</TEXT>
+</DOC>

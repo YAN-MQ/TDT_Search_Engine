@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981207.1830.1568 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some day the average age of the American might be 76, but for now 
+it's just the average age expectancy. 
+</TEXT>
+</DOC>

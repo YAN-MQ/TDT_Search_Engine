@@ -1,0 +1,117 @@
+<DOC>
+<DOCNO> NYT19981230.0220 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Remember the scene in ``2001: A Space Odyssey'' when the apes confront 
+their first computer? The computer just sits there, a silent monolith, 
+unblinking, not even deigning to offer a cryptic error message. The 
+apes have no access to technical support and, driven mad by frustration, 
+they grab clubs and go on a rampage, smiting any chimp who is wearing 
+a pocket protector. We can empathize with the apes, who probably did 
+not have a firm grasp of the basic concepts of computer maintenance, 
+including making regular backups, using a surge suppressor, installing 
+a virus protection program and familiarizing themselves with utility 
+programs. Boring, yes, but so are seat belts, antilock brakes, life 
+insurance and dental floss. Computers need not make monkeys of us 
+as long as we take some basic steps to minimize potential glitches 
+in the coming year. Following are basic tips for new users, and suggested 
+New Year's resolutions for veterans, to keep their computers humming 
+along. At the top of our list is a good software utility package, 
+and the Symantec Corporation comes to the rescue just in time with 
+Norton System Works 1.1 (for Windows 95 and 98), which was introduced 
+earlier this month. System Works comprises five major programs, each 
+excellent on its own, that in various ways are intended to identify 
+and fix computer problems before they become serious. The programs 
+are the venerable Norton Utilities, Norton Antivirus, Norton Clean-sweep 
+and Norton Crashguard plus a six-month subscription to Norton Web 
+Services. System Works is a suite of utilities, and it is a sweet 
+deal. At a list price of $69.95, the System Works package costs much 
+less than purchasing each program separately. In a case of ``monkey 
+see, monkey do,'' Symantec obviously saw how lucrative Microsoft Office 
+was for Microsoft and decided to try the same approach with utilities. 
+Regardless of its motive, the result is a happy one for consumers, 
+who need click the installation button only once. Also, all the programs 
+can be updated at once via the Internet using Norton's Web Services 
+(a service that normally costs $29.95 a year). The flagship utility 
+is Norton Utilities, which has the best diagnostic, tuneup and disaster-recovery 
+tools I've seen in one program. Norton Antivirus is a strong line 
+of defense against software viruses. Norton Crashguard minimizes the 
+chances of Windows system crashes. And, new to Version 1.1, is Norton 
+Cleansweep, a dandy utility that scours the computer for unneeded, 
+redundant or temporary files, including Internet caches and cookie 
+crumbs. Anyone who has tried to ``uninstall'' a Windows program that 
+is no longer needed will appreciate Clean-sweep. But wait, there's 
+more, as they say on television. System Works 1.1 also comes with 
+a bonus pack of software including Norton 2000 (a utility that checks 
+to make sure the computer can cope with the infamous Year 2000 problem), 
+Norton Mobile Essentials for laptop users who travel a lot, PC Anywhere 
+Express for remote access, Norton Secret Stuff (a simple encryption 
+program for keeping e-mail messages private) and Visual Page, a Web-page 
+design program. These are second-banana programs, but since they are 
+free and installation is optional, their addition to the package is 
+welcome. Symantec has no plans for a Mac version of System Works. 
+On the bright side, Norton Utilities for Macintosh is very good. Mac 
+users will pound their chests and proclaim that because Macs misbehave 
+less often than Windows machines, there is less need for an arsenal 
+of System Works utilities. As noted earlier, System Works includes 
+a very good antivirus program. But a common mistake among computer 
+users is thinking that once an antivirus utility is installed, their 
+worries are over. Anyone who invites files into the computer from 
+the outside world _ and that includes anyone who uses e-mail, ``borrows'' 
+programs from friends or downloads files from the Internet _ is at 
+risk for computer viruses. Viruses are nasty little pieces of code 
+that can cause problems once they are inside the computer. The problems 
+range from annoying mischief (causing messages to appear on the screen) 
+to malicious destruction of data, including the complete loss of data 
+on the hard disk. Viruses do not cause hardware damage, no matter 
+what your friend said about a friend of a friend whose monitor burst 
+into flames. In reality, computer users are far less likely to get 
+a virus than they are to get an urgent warning about a virus threat 
+passed along via e-mail from friend to friend, alerting everyone they 
+know to something that was exposed as a hoax long ago. But new viruses 
+are being written all the time, and if an antivirus program has not 
+been updated recently, it cannot defend against the new threat. That 
+is why it is important to refresh the program periodically via the 
+Internet. Most of the major antivirus packages allow online updates 
+for a specified time after purchase. The real risk to hardware comes 
+not from viruses but from power surges, spikes and brownouts and ``line 
+noise,'' which occur on electric lines all the time. Some of these 
+transient electrical events are nasty enough to knock out delicate 
+circuitry inside the computer. The insidious thing about them is that 
+the damage is done before the user is aware that there was a risk. 
+So buy a good surge suppressor. A surge protector, in the form of 
+either a power strip or a control base, can detect and clamp down 
+on all but the worst voltage fluctuations in just nanoseconds, protecting 
+the computer and its peripherals. While today's computers are fairly 
+robust when it comes to handling power anomalies, spending $50 to 
+$100 or so on a decent surge suppressor is excellent insurance. I 
+recently paid $80 for a Kensington Masterpiece Plus, which is about 
+the size of a pizza box and includes enough sockets for all my computer 
+components. It has a rating of 1,400 joules. In general, the higher 
+the joule rating, the better job the device will do in protecting 
+the computer. Beware of low-cost power strips that portray themselves 
+as surge protectors but do not list the joule rating. A $10 power 
+strip is no insurance. What is the worst thing that can happen to 
+a computer, short of being stolen? Most veterans will say they don't 
+fear the loss of their computers as much as they fear the loss of 
+their data. Make a New Year's resolution to back up important data 
+regularly. Steel yourself to the fact that your computer will fail 
+someday and that the repair technician will simply throw away your 
+old hard disk and replace it with a new one. All your files will go 
+to data heaven. There are many different philosophies and strategies 
+about backing up data, and we will discuss them at length in a future 
+column. Make another resolution to use a screen saver. Any computer 
+monitor, whether it is a conventional type with a cathode-ray tube 
+or a liquid crystal display on a laptop, is subject to a long-term 
+problem of burned-out pixels, resulting in ghost images on screen. 
+There are screen savers built into both the Windows and Mac operating 
+systems, but not everyone uses them. Finally, remember in ``2001'' 
+when a mainframe computer named Hal gradually begins misbehaving and 
+eventually becomes a paranoid homicidal maniac? Although the film 
+does not specifically mention it, we now understand that Hal was merely 
+suffering from the ``year 2000 bug,'' a programming glitch that will 
+affect millions of computers and embedded controller chips just one 
+orbit around the sun from now, on 01-01-00. 
+</TEXT>
+</DOC>

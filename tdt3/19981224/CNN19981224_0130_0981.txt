@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981224.0130.0981 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The holiday spirit jingled through the financial markets today. The 
+Dow Jones industrial average rose 157 points closing at 9202. The 
+NASDAQ and S & P 500 also posted strong gains. 
+</TEXT>
+</DOC>

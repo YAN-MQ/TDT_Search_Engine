@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981022.0130.0390 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA is giving late CNN space reporter John Holliman a special tribute. 
+It has renamed an asteroid in his honor. Asteroid 1989 H-G will be 
+known as "asteroid 6711 Holliman". This was made possible by the woman 
+who first discovered the asteroid. He was set to cover the upcoming 
+shuttle launch with Walter cronkite. Miles O'Brien will join cronkite 
+for the broadcast. 
+</TEXT>
+</DOC>

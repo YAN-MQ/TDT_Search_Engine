@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> VOA19981228.1600.2150 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News, I'm Tony Riggs coming to you from Washington. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981018.1600.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- President Clinton and Al Gore are joining 
+forces in the mideast peace talks today. They're meeting with Israeli 
+negotiators this afternoon, and there's a Chance Palestinian representatives 
+could join the talks. Diplomatic sources say a partial agreement is 
+likely to emerge from the negotiations. 
+</TEXT>
+</DOC>

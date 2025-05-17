@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981101.1000.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In south Korea, an investigation is under way to find the cause of 
+an accident that killed four U.S. soldiers and one south Korean soldier. 
+They were returning from a training mission when their army vehicle 
+plunged off a bridge into a river last night. 
+</TEXT>
+</DOC>

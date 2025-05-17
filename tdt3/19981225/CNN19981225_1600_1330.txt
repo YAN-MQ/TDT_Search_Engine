@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981225.1600.1330 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jenkins was expelled from the University for he breaking the honor 
+code for the second time in two years. 
+</TEXT>
+</DOC>

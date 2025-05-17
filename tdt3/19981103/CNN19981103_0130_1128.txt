@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981103.0130.1128 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Consumers kept the nation's cash registers Ringing last month, but 
+they had to dip into their savings to do it. The savings rate, the 
+portion of after-tax dollars left over after spending, declined into 
+Negative territory in September for the first time since 1933, while 
+incomes grew by just 0.2%, spending soared 0.5%. 
+</TEXT>
+</DOC>

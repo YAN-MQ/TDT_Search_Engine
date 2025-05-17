@@ -1,0 +1,96 @@
+<DOC>
+<DOCNO> NYT19981230.0378 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Justice Department announced Wednesday that it had joined a lawsuit 
+filed by a whistle-blower against Columbia/HCA Healthcare Corp., bringing 
+new allegations that the company defrauded federal health programs 
+through a scheme involving bogus expense claims. The action is the 
+second time since October that the government has joined a whistle-blower 
+suit contending that the health giant systematically cheated federal 
+programs like Medicare out of millions of dollars by routinely overstating 
+expenses in filed reports. By joining the second suit, the government 
+for the first time has accused Columbia hospitals that were not previously 
+owned by Hospital Corp. of America, which merged with Columbia in 
+1994. The October suit named more than 200 hospitals, all of which 
+were once owned by HCA. The latest suit names more than 100 other 
+hospitals that were owned by the company before it merged with HCA. 
+The latest suit also for the first time brings claims that Columbia 
+hospitals manipulated expenses to increase reimbursement for outpatient 
+services like home care, sometimes by misreporting expenses associated 
+with the acquisition of companies involved in those businesses. Because 
+outpatient care is reimbursed on the basis of cost, such a fraud could 
+have a strong effect on any hospital company's bottom line. For example, 
+the new suit contends that in 1994 Columbia bought several home-care 
+agencies from Olsten Kimberly Corp. at artificially low prices and 
+inflated fees to Olsten to manage them. That shifted expenses from 
+good will, which is not reimbursable, to management fees, which are. 
+Olsten has said it is cooperating with the investigation. The suit 
+says similar cost-shifting was done in a 1993 transaction involving 
+Rescare, another home-care agency. The suit also spells out specific 
+instances where hospitals misreported costs by inflating the amount 
+of property taxes paid, including unallowable marketing expenses or 
+misreporting expenses made for doctor recruitment and offices. The 
+lawsuit, which was unsealed Wednesday in U.S. District Court in Tampa, 
+Fla., was originally filed in 1996 by John Schilling, a corporate 
+whistle-blower who had worked on reimbursement issues for Columbia 
+both as a consultant and an employee. Under the federal statute governing 
+such cases, the suit was then reviewed and investigated by the Justice 
+Department, which then decided to file its motion to join the litigation. 
+At issue are the workings of a complex, little-understood part of 
+modern hospitals known as the federal cost-reporting system, one that 
+has meant billions of dollars in payments by the government to hospitals 
+and other health care providers over the years. Those reports generate 
+hundreds of millions of dollars in payments each year to Columbia 
+alone. Through that system, portions of costs associated with patient 
+care are reimbursed by programs like Medicare at different rates. 
+But, in its suit, the government contends that the companies intentionally 
+misrepresented costs to increase the reimbursement rate or receive 
+payment for costs that were not eligible for reimbursement. Much of 
+the government's critical evidence in the cost-reporting cases comes 
+from secret, second sets of cost reports and work sheets maintained 
+at the hospitals that contained significantly lower expenses than 
+those in reports submitted to the government. But in this case, the 
+government also obtained direct evidence from Schilling. He left his 
+job of helping four Columbia hospitals prepare their cost reports 
+in 1995 but rejoined the company after his suit was filed. From then 
+on, he turned over information he obtained during that time to government 
+investigators. ``John Schilling went the extra mile,'' said Stephen 
+Meagher, a lawyer with Phillips &AMP; Cohen who represents both whistle-blowers 
+in the cases joined by the government. ``He was able to give investigators 
+a real-time picture of just how the cost-reporting practices were 
+working.'' Schilling was a reimbursement manager for Columbia/HCA 
+from 1993 through 1995 and was responsible for coordination and preparation 
+of cost reports filed by four Columbia hospitals in Florida, each 
+of which is named as a defendant. Schilling later worked as a consultant 
+to the company to help prepare cost reports filed with Medicare. The 
+case was brought under the False Claims Act, which allows whistle-blowers 
+to file suit on behalf of the government. Under that Civil War-era 
+law, the government can potentially recover three times any amount 
+defrauded from a federal program. If the suit is successful, Schilling 
+stands to receive as much as 25 percent of any amount recovered. Many 
+of the allegations contained in the suit were not new. Information 
+provided by Schilling became the basis of a criminal case filed last 
+year against four mid-level Columbia executives, charging them with 
+cost-reporting fraud at Fawcett Memorial Hospital in Port Charlotte, 
+Fla. Much of the other information provided by Schilling was used 
+by the FBI in support of an application for search warrants that were 
+served in several states in the summer of 1997. ``The issues raised 
+in this suit and the previous suit related to cost reporting are not 
+new,'' said Jeff Prescott, a Columbia spokesman. ``Specific issues 
+and even the specific hospitals named were all disclosed in the FBI 
+affidavit that was unsealed'' in 1997. Both lawsuits are widely expected 
+to be part of a broad settlement of fraud charges between Columbia 
+and the government. Analysts have estimated that Columbia may have 
+to pay more than $1 billion to settle various fraud claims being investigated 
+by the government, including the cost-reporting case. ``I think we 
+are going to see a lot more of these,'' said Nancy Weaver, an analyst 
+with Stephens Inc. ``But we are still waiting to see if they can reach 
+some kind of settlement in 1999.'' But analysts and lawyers involved 
+in the case think that cost-reporting claims will make up the largest 
+piece of any settlement. ``These cases show that the heart of the 
+investigation of Columbia involves cost-reporting fraud,'' Meagher 
+said. 
+</TEXT>
+</DOC>

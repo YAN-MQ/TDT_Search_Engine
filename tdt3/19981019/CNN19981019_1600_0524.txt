@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981019.1600.0524 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "Headline News weather" begins with our forecast 
+for high temperatures on Tuesday. And you can see, very chilly weather 
+will continue behind the cold front, the very strong cold front that's 
+been bringing all of the heavy rainfall into southeastern Texas. Now, 
+as you look at the forecast weather map, you can clearly see that 
+frontal boundary not moving very much, but we do expect an improving 
+weather picture as we go through the day on Tuesday. The rain showers, 
+however, may still threaten parts of the flooded areas of southeastern 
+Texas, as you can clearly see on this map. Much of the rest of the 
+nation will see dry weather, look for a few showers in the very chilly 
+air in the upper midwest. In your extended forecast on Wednesday, 
+showers move through the Great Lakes area, and you can see the very 
+cold air associated with that. Moving on into the latter part of the 
+week, rainfall in parts of the northeast and the southwest, cool throughout 
+much of the east. And as we head on into Friday, you can see the cool 
+weather continues in the east, and much of the nation will be dry. 
+For more weather information, log onto CNN.com, four-day forecasts 
+for 6,100 cities. 
+</TEXT>
+</DOC>

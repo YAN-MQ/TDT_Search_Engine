@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981011.1600.0507 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Look for heavy rain to continue over New England where an area of 
+low pressure continues to remain nearly stationary. As we work our 
+way into Sunday afternoon, we'll see some snow and rain once again 
+work its way into the northern Rockies as the front pushes into the 
+U.S. later, Sunday, that area of snow and rain pushes into the northern 
+plains as the front approaches the northwest. And by Monday morning, 
+we'll see precipitation begin to form over the northwest coastline. 
+And we'll also see the area of precipitation with snow and rain push 
+its way into the western Great Lakes. Most of the nation seeing beautiful 
+weather through Monday evening. Scattered showers developing over 
+southern Texas and central Florida by late Monday. High temperatures 
+on Monday, cooler in the northern plains, in the 40s. Generally 50s 
+and 60s in the north. 70s and 80s in the southern half of the country. 
+Your extended forecast showing heavy rain and snow in the eastern 
+Great Lakes and rain also in the northwest. On Thursday, we're going 
+to see heavy rain in New England with showers extending back into 
+the northern plains and moderate to heavy showers in the northwest. 
+</TEXT>
+</DOC>

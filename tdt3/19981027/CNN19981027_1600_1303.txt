@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981027.1600.1303 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First up, the NBA, where the owners and players are talking about 
+noneconomic issues today. Money returns to the table as a topic in 
+talks that are scheduled for tomorrow. An apparent step toward common 
+ground was taken yesterday, when the owners backed off their demand 
+of a hard salary cap. 
+</TEXT>
+</DOC>

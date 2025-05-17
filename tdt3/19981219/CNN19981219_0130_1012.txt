@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981219.0130.1012 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal government has established new rules allowing more people 
+to join credit unions. The credit union industry calls it a "Christmas 
+present for consumers," while the banking industry sees it as a lump 
+of coal. The rules let federally chartered credit unions continue 
+to include more than one occupational group in their memberships as 
+long as each group doesn't exceed 3,000 people. 
+</TEXT>
+</DOC>

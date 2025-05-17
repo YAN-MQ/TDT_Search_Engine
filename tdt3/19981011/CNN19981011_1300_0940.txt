@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981011.1300.0940 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is focusing on the budget today in meetings with 
+his staff and democratic leaders. There's reportedly progress on talks 
+over education funding. 
+</TEXT>
+</DOC>

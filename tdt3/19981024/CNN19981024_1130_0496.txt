@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981024.1130.0496 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+this is meteorologist valerie voss with your "headline news weather 
+forecast" for today and into tomorrow. there will be rain and mountain 
+snow across the western u.s., a little cool and blustery with several 
+inches of snow in the forecast for the northern mountains of california. 
+a few thunder showers will occur over south texas. we'll see some 
+showers as well through a trough of low pressure from the plains states, 
+into the upper midwest, otherwise, rather quiet weather around the 
+country. today's highs in the 50s and 60s for the northern half of 
+the nation. we'll see 70s in the south and just a few 80s. looking 
+ahead to monday, rain and thunderstorms will push into the southwest. 
+we'll see warmer weather across the southeastern part of the country. 
+for tuesday, no change in our showers and storms through the southwest. 
+things are still pretty warm across the gulf coast. wednesday, rain 
+across the northern half of the country. we'll see 50s and 60s north, 
+70s and 80s south. 
+</TEXT>
+</DOC>

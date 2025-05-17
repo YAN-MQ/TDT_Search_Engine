@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981011.1600.1642 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up in two-minutes, President Clinton and Congress continue 
+to squabble over the nation's budget. That story and more news in 
+the next half hour. I'm Kate snow. This is "Headline News." 
+</TEXT>
+</DOC>

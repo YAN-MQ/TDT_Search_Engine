@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981216.1830.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On "World News Tonight" this Wednesday, the United States has attacked 
+iraq. Washington is a city on edge. It looks almost certain now that 
+Bill Clinton will be impeached. 
+</TEXT>
+</DOC>

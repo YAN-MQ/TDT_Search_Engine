@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981202.2130.1323 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Well, a day after Fred goldsmith was fired, Duke is set to name Florida 
+assistant offensive coordinator Carl franks as their new head coach. 
+Jerome Jurenovich, "CNN Headline Sports." 
+</TEXT>
+</DOC>

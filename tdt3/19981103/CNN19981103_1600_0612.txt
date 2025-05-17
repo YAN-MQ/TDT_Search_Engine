@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> CNN19981103.1600.0612 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronauts on board "discovery" flexed the shuttle's 50-foot arm this 
+afternoon to retrieve a satellite. Instruments on Spartan, a 3,000-pound 
+solar physics laboratory had been studying the sun's outer atmosphere, 
+which occasionally sends out a solar wind that disrumts kpluntions 
+on earth. The astronauts have also been focusing on experiments that 
+could change the way people on earth fight a disease spread by parasites. 
+Ann Kellan has more. The tropical rainforest -- home to millions of 
+species of plants and animals, many of them still undiscovered by 
+humans. Some of the treasures of the rainforest are going for a ride 
+on the space shuttle. And the result could be a cure for a devastating 
+disease. Chagas disease is a problem mainly in rural areas of Latin 
+America, where it kills thousands of people every year and infects 
+millions. It's spread by bugs that live in the walls, ceilings or 
+floors of poorly constructed houses. The bugs carry a deadly parasite 
+that is passed on to people when bug droppings get into their eyes, 
+mouth or cuts in the skin. Five years ago, U.S. astronaut Franklin 
+Chang Diaz, who was born in Costa rica, had an idea for fighting chagas 
+disease. It was based on experiments that he'd been doing on the space 
+shuttle and a New approach to drug design. This is a new way in which 
+medicines are made. Using the weightless environment in space to create 
+a Crystal that gives you the internal structure of any substance that 
+you're looking for. The project, called "chagaspace," brings together 
+scientists from south and central America and the United States. They 
+collect and analyze plants from the rainforest that might be turned 
+into drugs against chagas disease. Scientists crystallize compounds 
+from the plants, proteins from the parasite, and mixtures of the two. 
+Crystals produced in space are often much better formed than earthbound 
+crystals because they form without interference from gravity. While 
+the biggest hope of the chagaspace researchers is to find a cure for 
+chagas disease, they say everyone has gained from this international 
+cooperation. Ann Kellan, CNN. 
+</TEXT>
+</DOC>

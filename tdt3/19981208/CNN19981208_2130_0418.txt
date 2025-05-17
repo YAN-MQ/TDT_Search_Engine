@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981208.2130.0418 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In San Francisco, utility crews are working to restore power to thousands 
+of customers. A citywide blackout today cut power to almost 1 million 
+people. It crippled transportation during morning rush hour and forced 
+airplanes to land elsewhere. The cause of the outage was human error. 
+A construction crew made a mistake at a San Mateo substation triggering 
+a Chain reaction that knocked two generators off-line. 
+</TEXT>
+</DOC>

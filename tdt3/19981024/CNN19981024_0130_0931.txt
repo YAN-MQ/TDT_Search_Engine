@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981024.0130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- after nine days of tense negotiations, 
+Israeli prime minister Benjamin Netanyahu and Palestinian authority 
+president yasser Arafat have inked an interim peace agreement. 
+</TEXT>
+</DOC>

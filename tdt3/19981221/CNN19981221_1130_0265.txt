@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981221.1130.0265 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Israeli prime minister Benjamin Netanyahu is facing a tough challenge 
+in parliament today that could threaten the wye peace agreement. The 
+120 member house is meeting today to take up a no confidence motion 
+against Netanyahu's government and a possible measure to set early 
+pelections. If the no confidence motion is passed, elections would 
+be held within 60 days. Even Netanyahu's supporters say he would likely 
+lose since he holds only a One seat majority in the house. 
+</TEXT>
+</DOC>

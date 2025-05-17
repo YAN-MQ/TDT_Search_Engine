@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981017.1000.0464 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Federal and Puerto Rican officials have announced a massive rebuilding 
+program for parts of Puerto Rico damaged by hurricane georges. The 
+five-year, $1.2 billion plan will restore or rebuild 50,000 houses 
+damaged by the storm, which rampaged through the Caribbean last month, 
+before hitting the gulf coast of the United States. The White House 
+also plans to convene a task force to supervise the rebuilding, only 
+the third time that's ever been done. 
+</TEXT>
+</DOC>

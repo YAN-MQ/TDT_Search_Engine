@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> VOA19981105.1600.1003 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Two teams of U.S. researchers say, for the first time in a laboratory, 
+they've cultivated human cells that could be used to grow anything 
+from heart muscle to brain tissue. Researchers from the University 
+of Wisconsin at Madison, and Johns Hopkins University in Maryland, 
+report in separate studies. They've cultivated so-called human stem 
+cells. The studies open up the possibility for new transplantation 
+therapies and treatments. For people suffering from Heart Disease, 
+Parkinson's Disease, Diabetes, and some forms of cancer. 
+</TEXT>
+</DOC>

@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> CNN19981115.1300.0974 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Compaq computer plans to go head-to-head with direct computer Sellers 
+gateway and Dell. It will offer customers the opportunity to buy new 
+computers over the phone and the Internet. Charles Molineaux has more. 
+The rise of direct computer Sellers Dell and gateway has become an 
+industry sea change other computermakers can't ignore. And Compaq's 
+new emphasis on direct sales is a powerful endorsement of the strategy. 
+We believe this will become the winning model in the PC industry because 
+it gives customers the choice of doing business the way they want. 
+Direct sales now accounts for 35% of all PCs sold, and analysts expect 
+it'll make up half the market within the next five years. PC watchers 
+call it an approach ideally suited to computer sales. Technology products 
+in general decline in value 1% or 2% every week, so every week of 
+inventory adds an incremental 1% to 2% of cost to your product. And 
+that's why it's very important to have very lean inventory levels. 
+Selling direct is sometimes one way to achieve very low inventory 
+levels. Buying direct also has great appeal for the most desirable 
+PC customers -- big corporate buyers -- which usually have their own 
+computer support staffs and would rather not pay a premium for conventional 
+retail frills. Still, analysts say the ideal model may ultimately 
+be a hybrid that combines the inventory efficiencies of direct build-to-order 
+operations and the physical presence of a real live store -- a dual 
+strategy being aggressively pursued by CompUSA. Everyone recognizes 
+direct and this build-to-order is a more profitable business method, 
+as opposed to stocking your shelves and hoping the product moves off 
+of them. I don't believe that retail is going away, either. Industry 
+watchers say there will always be people who want to go to a store, 
+talk to a live person and see and touch their PCs before buying one, 
+something especially true for first-time computer buyers, whose ranks 
+are growing as PC prices fall. Charles Molineaux, "CNN Financial News," 
+New York. 
+</TEXT>
+</DOC>

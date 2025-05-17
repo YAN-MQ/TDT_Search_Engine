@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981119.0130.0966 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal government is taking another step toward truth in advertising 
+when it comes to dietary supplements. The federal trade commission 
+has issued new guidelines for the billion-dollar industry. Supplement 
+manufacturers must now explain what their products do and back up 
+those claims with scientific evidence. Consumer advocates say the 
+guidelines are inherently weak, because the government doesn't have 
+the resources to enforce them. 
+</TEXT>
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> CNN19981117.0130.0987 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The videotaped testimony from chairman Bill Gates drew laughter from 
+the judge Monday, in the government's antitrust lawsuit against Microsoft. 
+Steve young explains why. The government once again used videotape 
+of Bill Gates to attack the Microsoft chairman and his company. His 
+pretrial testimony was about Microsoft's worries about Netscape two 
+years ago. Gates referred then to browser share, which plays into 
+the government's argument that Internet browsers are a separate software 
+product. On the tape, government lawyer David boies confronts Gates 
+with one of his own E-mails. "Winning Internet browser share is a 
+very, very important goal for us." The government says Microsoft bundled 
+its browser in windows to mow down netscape's wide market lead. But 
+in an exchange typical of Gates' evasive style, the Microsoft chairman 
+wouldn't concede Netscape concerned him. I don't know, what you mean 
+"concerned"? What is it about the word "concerned" that you don't 
+understand? I'm not sure what you mean by it. Is there a document 
+where I use that term? Is the term "concerned" a term that you're 
+familiar with in the English language? yes. Gates said he didn't remember 
+writing the sentence and doesn't know what he meant by it. Gates argued 
+he wasn't talking about browser share. What he really was talking 
+about was browser usage share. There were peals of laughter in the 
+court. The judge shook his head, then he laughed, too. Government 
+witness Glenn weadock said many companies don't like the integrated 
+browser in Windows 98 because they want to prevent employees from 
+surfing the Internet. But Microsoft argued back, that for most companies, 
+integration is a Convenience. And it said the government handpicked 
+companies for weadock to survey, so it handed him a stacked deck. 
+The government says it used ten companies that own 600,000 PCs. The 
+mere fact that you have substantial numbers of customers who want 
+a Choice that they're being deprived of is part of-- a part of what's 
+at issue. The case has been moving at a glacial pace. We may get through 
+two witnesses this week, which, for this trial, would be warp speed. 
+Steve young, "CNN Financial News," Washington. 
+</TEXT>
+</DOC>

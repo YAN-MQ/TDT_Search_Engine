@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> NYT19981125.0392 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Eight years ago Apple Computer and IBM undertook a common software 
+and computer chip development effort to challenge Microsoft Corp.'s 
+dominance of personal computing and remake the computing industry 
+at home and in the workplace. Three years later the alliance was in 
+a shambles, beset by internal turmoil and ignored by the market. Indeed, 
+during the past decade the failure of large corporate technology alliances 
+seems to be the rule rather than the exception. However, for a number 
+of reasons, the three-way alliance between America Online, Sun Microsystems 
+and Netscape Communications may succeed in having an impact on Microsoft 
+where other attempts have failed. The difference this time, say industry 
+executives, is that the new alliance may soon become a force in an 
+area precisely where Microsoft has failed: the media-rich world beyond 
+the personal computer. At its heart the vision underlying the America 
+Online-Sun alliance is a bet on a new computing model that will reach 
+the majority of the American people who do not surf the World Wide 
+Web and are unlikely ever to become personal computer users. The wager 
+is that the array of popular consumer brands that America Online has 
+marshaled will finally give Sun's Java programming language a crucial 
+advantage in a world of consumer-oriented computing gadgets ranging 
+from cell phones to wireless personal digital assistants to kitchen 
+information appliances. ``The 1990s were the bell-the-Microsoft-cat 
+decade,'' said Michael Schrage, a research associate at the Massachusetts 
+Institute of Technology Media Laboratory. ``The previous efforts failed 
+because they were about technology and not business models. The question 
+today is which companies have done a good job defining a new business 
+model?'' In the past, Microsoft dismissed the attacks without breaking 
+stride. In the personal computer market it continued to fine-tune 
+a business model based on monopoly control of the Windows operating 
+system, which runs on ever-cheaper personal computers. More recently 
+Microsoft has attempted to use its power in the personal computer 
+industry to leverage itself into new markets that it has hoped would 
+grow with the same speed as the personal computer. In 1992, for example, 
+it attempted to entice the cable industry into supporting a new venture 
+dubbed Cablesoft that would extend the PC industry model of a proprietary 
+operating system and cheap hardware into the living room. That effort 
+failed because there has been little demand for interactive television. 
+More recently, Microsoft acquired WebTV, an Internet TV start-up, 
+but has not been able to reach a mass audience with that effort either. 
+Although Microsoft executives have said they would use the new alliance 
+as grounds for ending the federal government's antitrust case now 
+under way in Washington, they have otherwise been unusually silent 
+about the new American Online-Sun venture. A Microsoft spokeswoman 
+said the company was searching for a successor to Pete Higgins, the 
+recently departed vice president who has headed the company's struggling 
+interactive media business, and it was likely that Microsoft's strategy 
+would be made clear when Higgins' successor was named. Microsoft's 
+most immediate vulnerability is to the programming and content centered 
+successes of America Online. ``This potentially has a massive impact 
+on Microsoft,'' said James Moore, president of Geopartners, a Cambridge, 
+Mass., consulting firm. ``The ability to deliver software to consumers 
+and transaction processing oriented electronic commerce is precisely 
+where Microsoft is most vulnerable.'' America Online has already given 
+a small hint of the potential power of its brand on the Internet in 
+the recent release of a new version of its ICQ chat software. Originally 
+available as a small application permitting friends to keep in instantaneous 
+contact via the Web, ICQ will increasingly be used by AOL as a portal 
+to the entire world of its content and as a simple means of delivering 
+software to personal computer users. ``The sun never sets on the AOL 
+empire,'' said Nat Goldhaber, chairman and founder of Cybergold, a 
+Berkeley, Calif.-based electronic commerce company that has a partnership 
+agreement with America Online. ``Eighty percent of the Net looks at 
+something owned by AOL every day.'' A second point of potential vulnerability 
+will be Microsoft's continued ability to get its vast customer base 
+to upgrade to new versions of Office and Windows. That will be tempered 
+if innovation moves to the new consumer-oriented devices that will 
+sell for far less than even today's $1,000 personal computers. ``Windows 
+has maxed out and this is a fundamental weakness that Microsoft has,'' 
+said Mitchell Kertzman, chief executive and president of Network Computer 
+Inc. ``What happens when Windows isn't driving innovation in industry 
+any more? In the future new devices are going to be the drivers of 
+innovation in both software and hardware.'' 
+</TEXT>
+</DOC>

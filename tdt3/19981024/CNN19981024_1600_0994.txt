@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981024.1600.0994 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street, blue chip stocks ended the week on a down note, following 
+seven consecutive sessions of gains. The Dow Jones industrial average 
+closed Friday, down nearly 81 points to 8452. Lower interest rates 
+are behind the robust housing market. The percentage of homeowners 
+has jumped to a record 67% to more than 69 million homes. The government 
+says whites still outnumber minority homeowners by a wide margin. 
+</TEXT>
+</DOC>

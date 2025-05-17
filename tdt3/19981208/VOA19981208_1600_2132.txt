@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981208.1600.2132 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. share prices closed lower Tuesday. But remained above the nine 
+thousand benchmark. The Dow Jones Industrial Average was down 45 points. 
+Closing at 9,025. And that's the latest. I'm Robert Burns, VOA News. 
+</TEXT>
+</DOC>

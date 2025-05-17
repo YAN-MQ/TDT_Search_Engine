@@ -1,0 +1,96 @@
+<DOC>
+<DOCNO> NYT19981027.0350 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+After four days spent watching lawyers for Microsoft Corp. attack 
+its key witness, the Justice Department on Tuesday introduced a host 
+of new documents, videotaped depositions and fresh testimony to strengthen 
+its antitrust case and undermine Microsoft's defenses. Among the new 
+evidence potentially most damaging to Microsoft was a handwritten 
+note describing what the government portrays as strong-arm tactics 
+Microsoft successfully employed to force Apple Computer Inc. to ship 
+Microsoft's Web browser, Internet Explorer, with Macintosh computers. 
+The new evidence came as David Boies, the lead government lawyer, 
+got his turn to question his own witness, James Barksdale, the president 
+of Netscape Communications Corp., who Tuesday completed his fifth 
+day of testimony in federal court here. The Apple evidence consisted 
+of a note from Apple chief financial officer Fred Anderson to Barksdale, 
+explaining why Apple had agreed to use Internet Explorer on Macintosh 
+computers. Anderson said Microsoft had ``threatened to abandon Mac'' 
+if the company did not make Internet Explorer the default browser. 
+Specifically, Anderson said, Microsoft had threatened to stop developing 
+its word processor, Microsoft Word, and other crucial programs for 
+Macintosh computers _ a threat that if carried through, would mean 
+``we were dead,'' Anderson wrote. The Justice Department's antitrust 
+suit charges that Microsoft tried to use its monopoly in operating 
+system software to crush Netscape, its chief competitor in the market 
+for browsers, the software used to navigate the World Wide Web. ``I 
+was mad as stew when I got that,'' Barksdale testified. Microsoft 
+said that Apple agreed to opt for its browser as part of broad agreement 
+that included a $150 million investment by Microsoft, cross-licensing 
+of patents and settlement of an old legal case _ not just because 
+of Microsoft's commitment to continue making business software for 
+the Macintosh. In testimony given last month but first made public 
+Tuesday, a senior executive of America Online Inc. said that his company 
+chose Microsoft's browser over Netscape's in return for Microsoft's 
+placing a prominent link to America Online from the main screen, or 
+desktop, of Microsoft's Windows, the operating system shipped on more 
+than 90 percent of all new computers. David Colburn, a senior vice 
+president of America Online, the nation's largest online service, 
+stated that Microsoft's willingness ``to bundle America Online in 
+some form with the Windows operating system was a critically important 
+competitive factor that was impossible for Netscape to match.'' Testifying 
+for the government, Colburn also said that his company's March 1996 
+contract with Microsoft required that more than 85 percent of all 
+browsers America Online shipped to its members had to be Microsoft's 
+Internet Explorer. In the battle for browser market share, America 
+Online's millions of subscribers were perhaps the biggest prize in 
+the industry. In an October 1996 promotional agreement, Microsoft 
+agreed to pay America Online 25 cents for each America Online subscriber 
+converted to Microsoft's browser from a rival, presumably Netscape, 
+and to pay a $600,000 bonus for doing it quickly. During his negotiations 
+with Microsoft executives, Colburn stated, ``I was told that Microsoft 
+had no limitations on what it could spend to gain market share for 
+Internet Explorer.'' In a statement, Microsoft disputed Colburn's 
+assertion that the crucial factor in its deal with America Online 
+was the offer of a link on the Windows desktop _ the most valuable 
+real estate in cyberspace. ``Microsoft and Netscape competed for the 
+America Online contract, and Microsoft won on the merits of its technology,'' 
+the statement said. In questioning Barksdale, Boies displayed several 
+documents from Microsoft's files intended to strengthen the government's 
+accusation that Microsoft made an illegal offer to Netscape to divide 
+the market for browsers in a meeting on June 21, 1995 _ an offer that 
+Netscape did not accept. During cross-examination of Barksdale last 
+week, John Warden, Microsoft's lead lawyer, suggested that Marc Andreessen, 
+a co-founder and executive vice president of Netscape, had ``imagined 
+or invented the proposal to divide the markets.'' Andreessen took 
+notes during the June 21 meeting; they later became a key piece of 
+government evidence. After Boies produced several internal Microsoft 
+e-mail messages in which senior executives seemed to be openly discussing 
+such a deal, Barksdale said, ``This seems to corroborate exactly what 
+we have been saying.'' Boies also displayed part of a transcript of 
+the questioning last summer of Chris Jones, a Microsoft executive 
+who attended the 1995 meeting. The Justice Department asked Jones 
+if dividing the market for browsers had been a topic of discussion. 
+``Oh, I believe there was a discussion of that nature,'' Jones said. 
+The June 1995 meeting, a pivotal part of the government's case, has 
+been a key point of questioning and evidence by both sides. In the 
+afternoon session, Barksdale offered new details about the meeting. 
+He said that while Microsoft had prodded Netscape to pull back from 
+making browsers for Windows 95, it was his understanding that Netscape, 
+which had already created a browser for Windows 95 by the summer of 
+1995, would be given a year or two to get out of that market. ``Netscape 
+and the government's account of that meeting changes more often than 
+Dennis Rodman's hair color,'' said Mark Murray, a Microsoft spokesman. 
+The government also submitted an internal Microsoft sales document, 
+suggesting how much importance the company placed on insuring that 
+personal computer makers bundled its browser with its operating system 
+_ which was required by Microsoft contracts and done, the government 
+contends, to stifle competition in the browser market. ``It came on 
+my machine, is the Number 1 reason people switch to Internet Explorer,'' 
+the Microsoft sales presentation from May 1998 declared. To which 
+Barksdale responded, ``It just shows what I've been saying here for 
+a week is true _ and Microsoft knew it.'' 
+</TEXT>
+</DOC>

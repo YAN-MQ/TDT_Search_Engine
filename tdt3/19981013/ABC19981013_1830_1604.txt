@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> ABC19981013.1830.1604 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The NBA has canceled the first two weeks of the basketball season. 
+</TEXT>
+</DOC>

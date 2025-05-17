@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981214.2130.1015 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The maker of Barbie dolls and hot wheels cars is snapping up an educational 
+softwaremaker. Mattel has agreed to buy the learning company for nearly 
+$4 billion in stock. The learning company makes Carmen sandiego and 
+national geographic software. 
+</TEXT>
+</DOC>

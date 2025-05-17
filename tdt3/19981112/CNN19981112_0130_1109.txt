@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981112.0130.1109 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With the possibility of a strike looming for fed ex, the company is 
+announcing a plan that reduces its reliance on pilots. Fed ex's new 
+plan would use more ground transportation and contract aircraft and 
+crews from other companies. A pilots' strike could come during the 
+busy holiday shopping season. The union is urging members to stop 
+flying overtime next week, as pilots try to negotiate a first-ever 
+contract with the cargo carrier. 
+</TEXT>
+</DOC>

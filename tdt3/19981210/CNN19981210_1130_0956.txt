@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981210.1130.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And federal officials say preliminary tests indicate new, less powerful 
+air bags protect adults without causing serious injury or death. The 
+older air bags proved fatal for short women and children. 
+</TEXT>
+</DOC>

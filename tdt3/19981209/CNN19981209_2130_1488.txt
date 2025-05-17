@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981209.2130.1488 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Shakespeare is going Hollywood. Gwyneth Paltrow, Joseph Fiennes and 
+Geoffrey rush star in the new film, "Shakespeare in love," which incorporates 
+elements from several of shakespeare's works. The film also stars 
+Ben Affleck, Paltrow's real-life love interest. 
+</TEXT>
+</DOC>

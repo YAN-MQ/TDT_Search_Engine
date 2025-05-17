@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981028.1600.0330 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The new president of Colombia got the red-carpet treatment at the 
+White House today, in contrast to his predecessor. Andres pastrana 
+succeeded Ernesto samper, who was stripped of his U.S. visa because 
+of his suspected ties to drug traffickers. Pastrana will be President 
+Clinton's guest at a state dinner tonight. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981021.0130.0941 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Crews are using boats and helicopters to rescue people trapped by 
+floodwaters in Texas. 60 counties are under flood warnings or watches 
+after days of heavy rain. At least 20 people have been killed in the 
+storms. 
+</TEXT>
+</DOC>

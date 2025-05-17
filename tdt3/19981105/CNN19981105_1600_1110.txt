@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981105.1600.1110 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Calling all computer hackers -- organizers of an upcoming online security 
+trade show in Singapore are challenging hackers to test programs designed 
+to prevent computer infiltration. Participating companies will offer 
+prizes as part of a contest that puts hackers' skills to the test. 
+The companies will then use the information to strengthen their cybersecurity 
+systems. Online commerce is growing rapidly in all sectors, including 
+business and banking. Earlier today, IBM and Intel announced a partnership 
+for online commerce security. 
+</TEXT>
+</DOC>

@@ -1,0 +1,139 @@
+<DOC>
+<DOCNO> NYT19981209.0378 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+This winter is quickly shaping up as one that will affect the music 
+business and market for years to come. Two enormous changes have been 
+taking place, utterly separate yet inextricably interlinked. The first 
+is that on Thursday, Seagram is expected to close its deal to buy 
+Polygram Records from Philips. Over the next month, beginning with 
+a meeting Friday morning with Polygram employees at the Hudson Guild 
+Theater in midtown Manhattan, the beverage and entertainment corporation 
+will begin merging Polygram with the Universal Music Group, which 
+it already owns. This will be the country's biggest record company, 
+reducing the number of major labels from six to five and accounting 
+for nearly a quarter of the music market. As a side effect, over the 
+next month as many as 3,000 employees are expected to lose their jobs, 
+important record labels will disappear and executives at the labels 
+estimate that anywhere from dozens to 200 bands will be released from 
+their labels. The second change is that a war of sorts has been taking 
+place between online entrepreneurs and the music establishment. The 
+battlefield is the Internet, where in the last year some 150,000 songs, 
+according to the research company Forrester Research in Cambridge, 
+Mass., have become available as computer files in a format called 
+MP3, which compresses songs into easy-to-transfer bundles of CD-quality 
+information. Some of these songs are on the Internet legally, with 
+the permission of the band or record label that holds the copyright; 
+others are bootlegged. Producers and consumers of MP3 music have accused 
+the record industry of trying to suppress the spread of the format 
+under the guise of stamping out piracy. But already there have been 
+an estimated 5 million downloads of Winamp, which is just one of many 
+software packages created to play MP3 files. And Internet sites like 
+www.MP3.com, a gateway to thousands of free and cheap songs and albums, 
+reports some 150,000 visitors a day. Recently Chuck D of the rap group 
+Public Enemy became the first mainstream musician to take an adversarial 
+stand on the matter, striking out against his label, Polygram-owned 
+Def Jam, after he uploaded a new song, ``Bring the Noise 2000,'' onto 
+his Web site for fans. ``Today Polygram/Universal or whatever they're 
+now called forced us to remove the MP3 version of `Bring The Noise 
+2000,''' he complained on the Web site. ``The execs, lawyers and accountants 
+who lately have made most of the money in the music biz are now running 
+scared from the technology that evens out the creative field.'' Executives 
+at Def Jam and Polygram declined to comment on the matter. Clearly 
+what is happening on the Internet is diametrically opposed to what 
+is happening at record companies: as major labels are consolidating 
+and tightening, the music world on the Internet is expanding and opening. 
+In the process, Seagram is finding an artist rebelling; other record 
+labels are finding that some acts want to make deals only if they 
+are allowed to distribute or even sell some of their own music on 
+the Internet, and still other acts, like the Beastie Boys, are uploading 
+live songs on the Internet as MP3 files instead of giving them to 
+their record company to use for their own promotional purposes. And 
+the band Less Than Jake found itself in trouble when it posted songs 
+owned by its label, Capitol, without permission. ``When you become 
+very big, it becomes very hard to turn around,'' said Dave Turin, 
+a producer who runs People Tree, an Internet label and music store 
+for releasing less commercial side projects by well-known musicians, 
+including members of Porno for Pyros and the Dust Brothers. ``I see 
+major labels as a huge Michelin man made of cement, trying to turn 
+around to see what's behind him but crumbling into pieces in the process.'' 
+Even some major labels agree with Turin's assessment. ``Labels are 
+going to wait to see what happens and then plug into it,'' said the 
+top executive at one label, speaking on condition of anonymity about 
+his label's lack of a plan for distributing music on the Internet. 
+``They have to deal in the here and now. The economics and expectations 
+of corporate owners is to make short-term financial results, not to 
+be pioneers of the future.'' Perhaps a perfect David and Goliath Internet 
+story is the controversy over Diamond Multimedia's Rio device, the 
+first portable MP3 player (able to store songs from the computer on 
+a flash card, or memory chip, in a Walkman-like device the size of 
+a deck of cards). Instead of trying to reissue records, create compilations 
+and release live recordings on flash cards for the Rio, critics say, 
+record labels have been trying to wipe it out. ``Devices like the 
+Rio are troubling because they encourage consumers to download illegal 
+copies of our recordings,'' explained Kevin Conroy, the senior vice 
+president for world-wide marketing at BMG Entertainment. He added 
+that ``the proliferation of illegal MP3 recording devices will undermine 
+and possibly destroy the legitimate commercial market for digitally 
+delivered music before it even has a chance to develop.'' Last month, 
+the Recording Industry Association of America obtained a temporary 
+restraining order to keep Diamond from shipping its Rio player. But 
+the order was overturned by a federal judge, and the Rio is now available 
+for $199. The RIAA appealed the decision, and last week Diamond Rio 
+countersued, accusing the association of engaging in anti-competitive 
+business practices. Ken Wirt, Diamond's vice president for corporate 
+marketing, said the Rio was not intended to encourage piracy, which, 
+he said, could be found and stamped out much more easily on the Internet 
+then in the flea markets and street stalls where bootlegged CDs are 
+available. ``It's the right of major labels to encrypt their music,'' 
+he said, referring to the ability to make Internet music files difficult 
+to copy. ``But it's not their right to tell the thousands and thousands 
+of independent musicians who use the MP3 market as their lifeline 
+_ to distribute and sell their music _ that they can't do anything 
+until the major labels get their voice in there. The RIAA wants to 
+delay everything as long as possible, discouraging the production 
+of MP3 among their members and discouraging the market for the players.'' 
+RIAA president Hillary Rosen disputed Diamond's claims. Rather than 
+suppressing technology, she said, the association is concerned about 
+upholding copyright law. It cannot support devices like the Rio until 
+there are effective security measures in place, she said. A record-business 
+policy on the subject could emerge as early as next month, executives 
+said. ``I know there's a lot of frustration with the slow pace of 
+the majors in approaching these issues,'' Ms. Rosen said. ``But there's 
+a lot at stake. When there's a major release,'' costing ``2 or 3 million 
+in the making, the idea of putting it up for free in an MP3 format 
+is not your first priority, by nature.'' For many keeping tabs on 
+the battle, the issue seems like a rerun of the music industry's offensive 
+against the spread of cassette decks, which saw the rise of skull-and-crossbone 
+stickers that read ``Home Taping is Killing Music.'' It didn't. Already, 
+technology may be moving beyond MP3 (short for MPEG-1, layer 3) and 
+into MPEG-4, which compresses the data even more and is more adaptable 
+to multimedia files. Companies like Sony and Creative Labs are working 
+on portable devices that will play these files and prevent them from 
+being easily copied. Recently, Intertrust Technologies Corp. in Sunnyvale, 
+Calif., announced that beginning next year it would offer an advanced 
+system for MPEG-4 files called the Intellectual Property and Management 
+Protection interface, which will secure files, mete out royalties 
+to appropriate parties and allow copyright holders to decide who gets 
+their music, for how much money and how many times they can listen 
+to it. ``In the next year the whole Web-based music business is going 
+to morph,'' said Joe Jennings, a senior vice president at Intertrust. 
+``You're going to see within a reasonable amount of time new types 
+of devices in your car to buy music as you drive, new devices at plane 
+terminals where you can download a set of songs for the flight, where 
+your computer can be on a `dist' list of all the music a band is putting 
+out.'' Marc Geiger, a co-founder of Artist Direct, which sells music 
+merchandise through its Ultimate Band List on the Internet, envision 
+a system in which record companies could increase profits by letting 
+consumers subscribe to unlimited music on the Internet, for a monthly 
+fee. But as dreamers dream and inventors invent, the consolidating 
+record business seems reluctant to change. ``They're fooling themselves,'' 
+Stan Goman, the chief operating officer of Tower Records, responded 
+when told about Intertrust's solution. ``These kids can break into 
+the Pentagon on their computers, so they're going to figure out a 
+way to crack this system. There's no way out of it. If the record 
+companies thought home-taping was a drag on their sales, wait until 
+MP3 gets going.'' 
+</TEXT>
+</DOC>

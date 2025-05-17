@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981023.1830.0709 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street's seven-day winning streak has come to an end. The Dow 
+Jones industrial average lost almost 81 points today. The NASDAQ dropped 
+nearly points. But for the week, the Dow was up more than 35 points. 
+The NASDAQ climbed almost 73 points. 
+</TEXT>
+</DOC>

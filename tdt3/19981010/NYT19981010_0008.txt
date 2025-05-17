@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> NYT19981010.0008 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The first Swiss runner and the first South African runner to win the 
+New York City Marathon will both be competing in the event again Nov. 
+1. Franziska Rochat-Moser of Switzerland will defend the women's title 
+she earned last year with a time of 2 hours 28 minutes 43 seconds. 
+The 32-year-old Rochat-Moser, a lawyer and restaurant owner who has 
+won 15 marathons, finished ahead of Colleen de Rueck by 28 seconds. 
+Giacomo Leone, the women's winner two years ago, will not be back. 
+Willie Mtolo of South Africa, who won the men's race in 1992 by overtaking 
+Andres Espinosa of Mexico near the finish, also will return. Mtolo 
+has not raced much since he ran 44th in the 1994 marathon. His victory 
+in 1992 marked the first year that Mtolo ran outside South Africa, 
+whose athletes were banned internationally for many years when the 
+country followed a policy of enforced racial separation. 
+</TEXT>
+</DOC>

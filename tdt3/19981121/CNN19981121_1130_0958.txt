@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981121.1130.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And jurors in Susan McDougal's embezzlement trial left for the weekend 
+without reaching a verdict. McDougal is accused of embezzling $50,000 
+from conductor zubin mehta and his wife. 
+</TEXT>
+</DOC>

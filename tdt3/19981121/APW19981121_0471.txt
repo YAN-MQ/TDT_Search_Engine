@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> APW19981121.0471 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A group of hackers broke into an education ministry site on the Internet 
+to protest against education reforms, a newspaper said Saturday. A 
+group calling itself Net Struggle demanded that Education Minister 
+Gerasimos Arsenis negotiate with student groups before imposing the 
+reforms, the afternoon daily Ethnos said. Earlier this week, a student 
+splashed Arsenis with a glass of water while he was at a restaurant. 
+The education reforms, introduced in September, have changed course 
+structures at high schools and universities. Students have staged 
+occupations and street rallies against the measures, while teachers 
+have threatened strikes. 
+</TEXT>
+</DOC>

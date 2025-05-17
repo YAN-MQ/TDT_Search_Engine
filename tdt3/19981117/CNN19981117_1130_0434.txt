@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981117.1130.0434 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News" weather. 
+Cold weather today over much of the upper midwest and northern Rockies 
+with 20s for highs. Still warm, though, much of the southeast, gulf 
+coast, highs into the 70s and 80s. Forecast calls for a pretty big 
+storm system to move in through the upper midwest and northern plains 
+by later on tomorrow. That will be spreading some heavy snows through 
+sections of the dakotas and northern Minnesota. Windy conditions will 
+be pushing in through the midwest. High pressure and fair weather 
+expected for the northeast and a good part of the northwestern U.S. 
+as well. Take a look now at the extended forecast -- snow will accompany 
+parts of the northern Great Lakes during the day on Thursday with 
+that storm system. A mix of precipitation further to the south through 
+the southern Great Lakes and then showers and storms from the Ohio 
+river valley into the southeast. Temperature highs are quite cold 
+through the upper midwest, both on thursday and on into Friday. Look 
+for precipitation in the northeast, mainly from the form of rain on 
+friday, the snow will be up in the eastern Canada with showers and 
+storms in the southeast. And windy conditions both Friday and Saturday 
+will be spreading into the pacific northwest. 
+</TEXT>
+</DOC>

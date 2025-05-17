@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981124.2000.0228 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street, the Dow gained -- the Dow lost 73 points today to 
+close at 9301. This is NPR. 
+</TEXT>
+</DOC>

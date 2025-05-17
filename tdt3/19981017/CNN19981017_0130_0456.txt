@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981017.0130.0456 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A tragic accident at the St. Louis zoo killed the engineer of a Sight-seeing 
+train Friday. Witnesses say it went out of control and jumped the 
+tracks. Ten passengers were aboard at the time. Many heard the engineer 
+yelling he could not stop the train. It usually traveled no faster 
+than five miles an hour. Investigators are now trying to determine 
+if the brakes had failed. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981021.1600.0972 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street -- blue chip stocks struggled all day to stay in the 
+black. To find out where they finished, we go to beverley Schuch at 
+the "CNN Financial News" desk in New York. bev? Thanks, Denise. The 
+Dow industrials make it six winning sessions in a row, but it wasn't 
+easy. The Dow bounced in and out of positive territory all day, up 
+as many as 55, and down 59. 
+</TEXT>
+</DOC>

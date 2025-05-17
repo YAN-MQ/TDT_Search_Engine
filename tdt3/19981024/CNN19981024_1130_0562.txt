@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981024.1130.0562 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+a new type of spacecraft is winging its way towards an asteroid 120 
+million miles away. nasa launched deep space one from cape canaveral 
+this morning. it's the first of nasa's so-called "new millennium missions." 
+the missions will test new technologies designed to make space travel 
+more economical and efficient. 
+</TEXT>
+</DOC>

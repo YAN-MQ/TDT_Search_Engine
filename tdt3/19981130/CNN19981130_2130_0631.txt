@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981130.2130.0631 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Millions of people are exposed to dangerously high levels of Mercury 
+from industrial waste each year. Now researchers may have found a 
+way to clean up Mercury-polluted areas. Ann Kellan explains, in this 
+edition of "tech trends." This little boy can barely walk a straight 
+line. This woman suffers uncontrollable shaking. They are victims 
+of Mercury poisoning. The famous thing that woke everyone was in the 
+late '50s. The minimata bay poisoning of large numbers of people in 
+Japan. Over 1,000 people died, and 10,000 people had permanent neurological 
+damage. These pictures were taken almost 50 years ago, but the problem 
+persists even today. Mercury-contaminated sites are so messed up. 
+They're not going to go away on their own. Mercury pollution can be 
+found almost everywhere, from the Amazon in Brazil to this site in 
+Brunswick, Georgia. Dumped by industry, then ingested by fish, the 
+toxic Mercury quickly moves up the food chain, poisoning other creatures, 
+including humans. Researchers at the University of Georgia say they 
+may have a way to get rid of poisonous Mercury by genetically altering 
+plants to absorb toxic Mercury through their roots and release a less 
+toxic form through their leaves. First, researchers shot a Mercury-eating 
+Gene into plant cells. The cells were cultured and grew into plants. 
+Some of the seeds from these plants not only survived in a Mercury-contaminated 
+solution, they successfully absorbed Mercury from the soil. So are 
+you excited? Yeah, we're very excited. It's taken years. And now, 
+it works! It just doesn't work well, it works spectacularly well! 
+Scientists say this technique can be used on any plant, including 
+those that grow along Mercury-polluted rivers and marshes. The Georgia 
+researchers believe these Mercury-eating plants have the potential 
+to restore contaminated areas to natural habitat within a few years. 
+Ann Kellan, CNN, Athens, Georgia. 
+</TEXT>
+</DOC>

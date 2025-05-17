@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981225.0130.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Nearly a million people are without power in the south after a massive 
+ice storm hit the region. In the northeast, a snowstorm may have contributed 
+to this bus crash in New Jersey, which killed eight people. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981228.1600.1089 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Attention, investors. You have just a few days left to convert your 
+traditional I.R.A. to a new roth I.R.A. you'll have to pay an income 
+tax on the conversion, but if you convert by December 31st, you can 
+take advantage of a one-time tax break that allows you to pay the 
+tax over four years. After the 31st, you can still convert to a Roth 
+I.R.A., but you will have to pay the taxes in one lump sum. What are 
+the benefits of a Roth I.R.A.? Well, earnings grow tax-free, and you 
+can withdraw your money without being penalized under certain conditions. 
+</TEXT>
+</DOC>

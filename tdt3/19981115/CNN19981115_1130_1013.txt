@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981115.1130.1013 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Frontier airlines is the latest discount carrier to think big. The 
+Denver-based airline has added Atlanta, Las Vegas and Dallas/FT. Worth 
+to the list of cities it will serve. Frontier will begin flying into 
+those locations starting December 17th. 
+</TEXT>
+</DOC>

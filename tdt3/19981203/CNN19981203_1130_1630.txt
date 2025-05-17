@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981203.1130.1630 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More news coming up in a few minutes. I'm Toria Tolley. This is "CNN 
+Headline News." 
+</TEXT>
+</DOC>

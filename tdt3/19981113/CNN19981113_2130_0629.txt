@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> CNN19981113.2130.0629 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The United States is preparing for an invasion of sorts from outer 
+space. No little green men. Instead, tiny meteors will shower earth. 
+Rick Lockridge reports in this edition of "tech trends." As the U.S. 
+military beefs up its numbers in the Middle East, U.S. space command 
+is beefing up, too, for the Leonid meteor shower. On Tuesday, November 
+17th, the earth will pass through a cloud of sand-grain-sized meteors 
+traveling through space 100 times faster than speeding bullets, fast 
+enough to possibly damage military satellites in orbit. These are 
+the basic backbone of our ability to carry out our military missions 
+worldwide and warn of impending attack. Colonel Pete worden will be 
+monitoring the meteor shower for the military from Asia, where viewing 
+is best. He talked with us about the leonids' threat to satellites 
+before he left. Over the last couple of years, there has been intensive 
+efforts by the air force space command to assess the threat that we 
+might have, and they've concluded that there is potentially a serious 
+threat and that we needed to take it seriously and figure out ways 
+to mitigate that threat. The meteor shower comes to us courtesy of 
+a Comet called tempel tuttle, which orbits the sun once every 33 years. 
+Every November, the earth passes through some part of the Comet's 
+long trail of debris. Since tempel tuttle's orbit brought it close 
+to the earth this year, the shower should be especially intense. No 
+one knows for sure how the satellites will handle the onslaught, though 
+experts say the chances are about 1% that a satellite will get hit. 
+The impact could physically damage the satellite or cause an electrical 
+charge to form. And that could travel along areas of the satellite 
+and then get into a Critical component and burn it out. Space command 
+says it has contingency plans ready in the event a Satellite is damaged, 
+including the use of backup satellites already in orbit. The national 
+reconnaissance office, which controls U.S. spy satellites, says it's 
+working with space command to monitor the storm and take actions as 
+necessary to protect U.S. national security. Rick Lockridge, CNN. 
+</TEXT>
+</DOC>

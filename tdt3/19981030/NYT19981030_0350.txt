@@ -1,0 +1,71 @@
+<DOC>
+<DOCNO> NYT19981030.0350 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Let the old folks get misty-eyed about John Glenn's return to space. 
+Here in the self-proclaimed capital of Silicon Valley _ the true epicenter 
+of science and industry in America, 1998 _ nostalgia doesn't play. 
+Most of those who run the high-tech industry that now fires the world 
+and much of its economy are too young to remember the first Glenn 
+mission. Their scientific explorations venture into virtual space, 
+not outer space, and their means of propulsion, the microchip, must 
+be examined through a microscope, not a telescope. The only prospect 
+of danger comes from hair-raising gyrations of the Nasdaq exchange. 
+There has been a countdown here all week long _ second by second on 
+the San Jose Mercury News Web site _ but it wasn't for Glenn. Saturday 
+is the official opening _ the ``plugging in'' _ of The Tech, a nearly 
+$100 million mango-and-azure downtown showplace for Silicon Valley's 
+revolutionary accomplishments. The full title of the place is The 
+Tech Museum of Innovation, but as Peter Giles, its CEO, explains: 
+``The word `museum' carries a stigma here. People really aren't interested 
+in what's come before but in what's coming.'' To get more than 300 
+of the valley's high-tech companies _ from Hewlett-Packard and Intel 
+to Adobe and Infoseek _ to pitch in, The Tech had to be conceived 
+as an un-museum too busy rushing toward the future to reflect upon 
+the past. Only a little history peeks through: A small panel describes 
+the advent of the first microprocessor in that ancient year of 1974. 
+Otherwise The Tech aspires to be something new in the run of science 
+centers and museums. Reflecting the values of a restless, hypercompetitive 
+industry whose products become outdated almost the second they are 
+released, it does not expect any of its ``permanent'' exhibits to 
+last more than five years. Reflecting the gestalt of the people who 
+built and run that industry, it contains no grandiose monuments to 
+the valley's founding geeks or even any biographical descriptions 
+of them. In one exhibition area, there's the facade of a garage _ 
+the prototypical birthplace of Apple and so many legendary valley 
+start-ups _ but the interactive displays all celebrate the cult of 
+the chip, not the personality of a Wozniak or Jobs. San Jose has passed 
+its neighbor San Francisco in size and is now the 11th-largest American 
+city; its metropolitan area exports more goods than those of New York 
+or Detroit. But as a cultural force, it ranks nowhere near so high. 
+Part of the idea of The Tech _ which secured $41 million in city redevelopment 
+funds _ is to anchor a cluster of downtown arts institutions and to 
+make the city ``a destination,'' as the outgoing mayor, Susan Hammer, 
+puts it. But The Tech is also designed to solve two more practical 
+problems. It has a huge educational outreach program, aimed at local 
+teachers and students whose science training has been gutted by Proposition 
+13. And it hopes to be the area's unofficial visitors' center; tourists 
+who come to Silicon Valley looking for spectacular sights in tune 
+with its giant achievements have been baffled to find mainly office 
+buildings and modest computer history exhibits. Cape Canaveral it's 
+not. In my hours exploring The Tech's efforts to fill this vacuum, 
+I enjoyed touring a mock ``cleanroom'' (where microchips are fabricated) 
+and using computer software to design my own personal roller coaster 
+(which I could then take for a virtual ride). The ethics exhibits 
+_ on phenomena like E-mail privacy and the digital retouching of news 
+photos on magazine covers _ are unusually tough. But what most impressed 
+me was how The Tech captures the meeting of science, commerce and 
+culture of its moment much as the Air and Space Museum did in the 
+1970s. ``Start-ups and venture capital typify the valley more than 
+technology,'' said Giles, as we talked in The Tech's New Venture Hall. 
+And so what you find here is not just an explication of the science 
+that is our current new frontier but the cultural coordinates of all 
+our frontiers: the buzz of impatient youth, of gold-rush booms and 
+busts, of new immigrant talent and burgeoning community. In other 
+words, The Tech is a snapshot of the national idea as it stands at 
+the turn of our century. See it before these restless American pioneers, 
+like all those before them, come up with a better idea and tear it 
+down. 
+</TEXT>
+</DOC>

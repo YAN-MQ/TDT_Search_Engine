@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981202.1600.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A down day an Wall Street as some companies announce profit losses 
+and job cutbacks. 
+</TEXT>
+</DOC>

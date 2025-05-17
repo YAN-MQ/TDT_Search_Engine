@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981226.1830.0873 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Vice President Gore may end up with a key role in the upcoming Senate 
+impeachment trial. In an interview with "the Los Angeles times" today, 
+Mr. Gore suggested he might have to break a tie in pretrial motions. 
+It's part of the vice president's constitutional duty to preside over 
+the senate. 
+</TEXT>
+</DOC>

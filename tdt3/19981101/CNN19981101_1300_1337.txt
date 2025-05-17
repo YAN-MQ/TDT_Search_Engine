@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981101.1300.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Last night in college football -- number two UCLA survived a scare 
+from the cardinal, 28-24, after a late touchdown. The Bruins' defense 
+came up with a clutch stop on Stanford's final drive. Nebraska wasn't 
+as lucky. The cornhuskers were knocked off by unranked Texas, 20-16, 
+and had their 47-game winning streak at memorial stadium snapped. 
+Heisman candidate Ricky Williams racked up 150 yards. Meanwhile, the 
+top-ranked buckeyes responded to their number two ranking in bcs standings 
+by steamrolling Indiana, 38-7. 
+</TEXT>
+</DOC>

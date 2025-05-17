@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981228.1600.1001 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More job cuts in store for corporate America. I'm Lauren Thierry in 
+New York with this edition of "Dollars & Sense." Auto partsmaker SPX 
+says it will take a fourth-quarter restructuring charge of up to a 
+quarter of a billion dollars, and it will eliminate 1,000 jobs in 
+connection with its recent acquisition of general signal. As part 
+of the restructuring, SPX will close about 25 facilities, as well 
+as the Stamford, Connecticut-based headquarters of general signal. 
+</TEXT>
+</DOC>

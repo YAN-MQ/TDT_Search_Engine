@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981215.1600.1362 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+To the ice, where St. Louis blues center Pierre turgeon is expected 
+to miss four to six weeks with a broken hand. And former teammate 
+Brett Hull returns tonight after missing nine games with a bruised 
+kidney and injured groin. 
+</TEXT>
+</DOC>

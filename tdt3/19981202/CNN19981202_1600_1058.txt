@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981202.1600.1058 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In economic news, the U.S. housing market remains strong and remains 
+on track for its third consecutive year of record sales. Sales of 
+new homes rose 0.8% to 851,000. And that is helping to spark demand 
+for new homes. Mortgage rates hovering near their lowest level in 
+decades, one of the reasons. 
+</TEXT>
+</DOC>

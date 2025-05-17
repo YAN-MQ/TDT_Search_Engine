@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981029.1600.0335 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane Mitch has been downgraded to a category one storm, and is 
+almost stationary off the coast of Honduras. Hurricane warnings are 
+in effect for the Caribbean coasts of Honduras, guatemala, Belize 
+and the Yucatan peninsula of Mexico. Sustained winds from Mitch have 
+dropped to 75 miles per hour. The storm is still causing widespread 
+flooding in Honduras. An estimated 150,000 residents have evacuated 
+low-lying areas, and many people on Honduran islands remain without 
+power, communications and drinking water. Flooding is also a concern 
+in the Mexican city of chetumal. There are unconfirmed reports of 
+three deaths there. So far, 32 deaths have been attributed to the 
+hurricane. 
+</TEXT>
+</DOC>

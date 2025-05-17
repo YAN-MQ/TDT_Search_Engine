@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981210.1600.1008 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A big linkup in health care could affect your HMO coverage. I'm Jan 
+Hopkins in New York with this edition of "Dollars & Sense." Aetna 
+is buying Prudential insurance company's health care business. It's 
+a billion-dollar deal. It will make Aetna the country's largest provider 
+of health benefits with more than 22 million members. The deal would 
+also double Aetna's dental membership to more than 15 million members. 
+Aetna says the acquisition could result in savings of up to $150 million 
+a Year. Some jobs are expected to be affected, though. No word on 
+how many. 
+</TEXT>
+</DOC>

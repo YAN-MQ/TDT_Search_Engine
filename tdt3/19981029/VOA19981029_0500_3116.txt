@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981029.0500.3116 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Most of the major stock markets in Western Europe were lower yesterday, 
+handing back much of the gains from the day before. 
+</TEXT>
+</DOC>

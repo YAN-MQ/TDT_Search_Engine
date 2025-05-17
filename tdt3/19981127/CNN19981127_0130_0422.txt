@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981127.0130.0422 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A British newspaper is reporting lawyers for former Chilean leader 
+augusto pinochet plan to argue he is not mentally fit to stand trial. 
+They hope that argument might persuade British authorities to stop 
+pinochet's extradition to Spain. Spanish authorities are preparing 
+to charge Pinochet with genocide, terrorism and torture for incidents 
+that took place during his 17-year regime. In Chile, Pinochet supporters 
+have been clashing with police. Wednesday, they blocked traffic near 
+the Spanish ambassador's residence. Police made 112 arrests in Santiago. 
+</TEXT>
+</DOC>

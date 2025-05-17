@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981019.1600.1064 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For a more in-depth look at Microsoft's trial, be sure to tune into 
+the "Moneyline news hour" with Lou Dobbs. Lou's guest tonight Scott 
+McNealy, chairman and CEO of sun Microsystems. His company is one 
+of several high-tech firms which have filed private lawsuits against 
+Microsoft. That's tonight at 6:30 P.M. eastern. 
+</TEXT>
+</DOC>

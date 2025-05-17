@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981125.1600.0453 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Government researchers are recommending screening for diabetes should 
+begin 20 years earlier, at the age of 25, rather than 45. "The journal 
+of the American medical association" says that could prevent such 
+complications from diabetes as blindness, kidney failure and amputations. 
+Type-two diabetes, as it's called, generally develops after the age 
+of 40. Now it's showing up much earlier in obese people, and those 
+who don't exercise. 
+</TEXT>
+</DOC>

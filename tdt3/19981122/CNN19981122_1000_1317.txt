@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981122.1000.1317 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+To the NHL, where the caps and Bruins were discussing what they were 
+thankful for for this Thanksgiving. With 30 seconds left in overtime, 
+Jason Allison netted his second goal of the game. Boston won, 5-4. 
+</TEXT>
+</DOC>

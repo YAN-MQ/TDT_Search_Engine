@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981021.1830.0733 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There are three weather disasters in the news tonight. It isn't raining 
+in southern Texas today, but the rivers rage on. Thousands of families 
+already left with nothing, others down stream being urged to get out 
+of the way. Officials believe they are looks at hundreds of millions 
+of dollars in damage. More work for the red cross. 
+</TEXT>
+</DOC>

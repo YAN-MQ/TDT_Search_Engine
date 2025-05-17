@@ -1,0 +1,117 @@
+<DOC>
+<DOCNO> NYT19981019.0262 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In the endless battle between farmers and insects, the bugs have won 
+another round. A big change in the behavior of the western corn rootworm 
+beetle is threatening one of the great success stories in American 
+agriculture, the use of crop rotation instead of pesticides on millions 
+of acres of Midwestern corn. The larva of the beetle, first documented 
+in the United States in 1867, can devastate corn by eating away the 
+roots of the young plants, causing them to keel over in a strong wind. 
+Forty years ago, the beetle became resistant to the insecticides used 
+then. But farmers, in turn, learned to control the pest by rotating 
+corn and soybean crops in the same field. This was the strategy: The 
+adult beetles, which eat corn silks and pollen, would lay their eggs 
+in a cornfield in midsummer. Their larvae, the rootworms, would emerge 
+in late May and early June of the following year. When they found 
+themselves among soybeans instead of corn, they starved to death because 
+they could not develop on soybean roots. By the following spring, 
+the soil would be free of rootworms, ready for a new crop of corn. 
+But now, in a shift that has shocked farmers and surprised entomologists, 
+adult western corn rootworm beetles have developed a taste for soybeans 
+and have added soybean fields to their egg-laying destinations. When 
+corn is rotated onto these fields the following spring, the western 
+corn rootworms are waiting. Farmers first discovered the rootworms 
+in rotated fields in 1986 near Piper City, Ill. ``This was unheard 
+of,'' said Dr. Eli Levine, a research entomologist at the University 
+of Illinois, who was called to take a look. He thought he might see 
+northern corn rootworms, found in relatively small numbers here. In 
+a better-known shift in behavior, its beetle had begun laying eggs 
+that took two or more years to hatch, allowing some of its offspring 
+to bypass crop rotation and show up in young corn. But instead it 
+was the western corn rootworm. Levine theorized that the pyrethroid 
+insecticides used in seed corn had simply forced the beetles into 
+nearby soybeans at egg-laying time. For six years, the problem stayed 
+in an area less than three miles square. Then in 1992, there were 
+reports of infestations in commercial cornfields that were far from 
+any pyrethroid-treated areas, including Lake County, Ind., south of 
+Gary. Now, the pests are found in more than 10 counties in Illinois, 
+the northern half of Indiana, some counties in western Ohio and lower 
+Michigan, and they are expected to reach southern Wisconsin in five 
+years. Their spread west is much slower, but scientists expect them 
+to reach Iowa in 10 years. The use of soil insecticides has soared 
+from 13 percent of farms to more than 90 percent in some affected 
+counties in Illinois. Nationally these pesticides, widely used in 
+agriculture and the home, are the subject of scrutiny by federal officials 
+concerned about water runoff and health. If the problem spreads to 
+all the state's 7.9 million acres of rotated corn, the additional 
+cost of soil insecticides could reach $104 million a year, crop scientists 
+say. Yield losses in untreated corn could reach $132 million a year 
+in Illinois alone. ``A mere curiosity has emerged into a huge problem,'' 
+Levine said. The problem, however, has been shaped in part by human 
+actions and agricultural practices. The western corn rootworm beetle, 
+whose scientific name is Diabrotica virgifera virgifera LeConte, originated 
+in the tropics and was only found in the southwestern United States 
+as a pest on buffalo gourds. In 1909, it was found attacking corn 
+on a farm near Greeley, Colo. The beetle got its path east to the 
+corn belt when irrigation made continuous corn crops possible in Kansas 
+and Nebraska, said Dr. Robert Metcalf, a professor emeritus of entomology 
+and environmental studies at the University of Illinois. In 1961, 
+the beetle became resistant to chlorinated hydrocarbon insecticides 
+in southeastern Nebraska, Metcalf said, ``and it immediately migrated.'' 
+By 1964, it reached Illinois. ``It took a long time to get growers 
+off pesticides,'' said Dr. Joseph Spencer, an expert on insect behavior 
+who has been studying the beetles for the Illinois Natural History 
+Survey. Once farmers realized crop rotation would control the rootworms, 
+pesticide use plummeted. But crop rotation, despite its benefits in 
+restoring nutrients to soil, has limitations as a pest-control tool. 
+In the spring of 1996, Spencer took a lawn chair and went out into 
+the soybean fields to watch rootworm beetles. In the nearby cornfields, 
+they were yellow, but ``the further I went into the soybeans, more 
+and more females were green,'' he said. The yellow beetles were full 
+of corn, the green ones full of soybean leaves. Many beetles had eaten 
+some of each, cycling between the fields. Laboratory tests have since 
+shown that ``if they just eat soybeans, they'll die,'' Spencer said, 
+but if they are given a choice between the two, they will eat some 
+of each. Larry Bledsoe, an entomologist with the Purdue University 
+extension service, said the beetles had, in a way become resistant 
+to crop rotation. ``Planting a soybean field where rootworm eggs were 
+laid is similar to putting on a powerful insecticide,'' he said. Faced 
+with insecticides, almost all the insects die, but a few of the very 
+resistant will not. By killing all but the resistant ones, ``we have 
+changed the distribution,'' Bledsoe said. The insects left to reproduce 
+are the ones that are insecticide-resistant _ or, in this case, the 
+insects that are less choosy about laying their eggs only in corn. 
+The exact cause of the behavior shift is not known, Spencer said. 
+It may be that the changes can be attributed to weather or some environmental 
+factor. But he considers it more likely that there has been a genetic 
+change in the beetle. Dr. Robert Novak, a professor of medical entomology 
+at the University of Illinois, who has started studying the DNA of 
+the beetles, said he had seen ``a marker that looks very good'' for 
+differentiating between the beetles that like soybeans and the ones 
+that do not. Dr. John Thompson, an evolutionary biologist at Washington 
+State University in Pullman, pointed out that, ``Every time a genetically 
+based shift is found, it's always a situation where a local plant 
+or an introduced plant has gotten very abundant relative to the usual 
+host plant. That's the situation you have with corn and soybeans. 
+Every other year, you have a tremendous universe of food to be used.'' 
+Farmers in the affected region got a respite last summer, a tenfold 
+decrease in the number of rootworms, Levine said. He believes they 
+were drowned by heavy rains that caused flooding just as they emerged. 
+But this development ``in no way diminishes the long-term seriousness 
+of the problem,'' he said. Fifteen miles south of Piper City, where 
+it all began, Greg Pool said he did not intend to take any chances. 
+He farms nearly 1,400 acres in Melvin, Ill., and still rotates soybeans 
+with corn. Only now he spends $16 to $17 an acre for insecticides. 
+For three years Pool has set aside a 10-acre plot to participate in 
+a University of Illinois study, leaving untreated corn in scattered 
+patches. The scientists are watching the damage to the corn roots. 
+He is watching the effect on his yield per acre. ``The damage is still 
+on the way up,'' Pool said. ``In the first year, there was a two-bushel 
+difference. Last year, we were in the 8-to-10-bushel difference. This 
+year, it was 17 bushels. ``I guess I've learned my lesson,'' Pool 
+added ``Next year I won't have the plot, and I'll treat all my acres.'' 
+</TEXT>
+</DOC>

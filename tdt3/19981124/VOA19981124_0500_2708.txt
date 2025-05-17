@@ -1,0 +1,66 @@
+<DOC>
+<DOCNO> VOA19981124.0500.2708 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+We have 10 hours 45, universal time. Researchers in Texas have identified 
+a gene defect that may be involved in a great many human cancers. 
+This discovery may lead to involved, new, more effective, treatments. 
+Brian Sislek reports. Lung cancer and colon cancer are two of the 
+most intractable malignancies. In the United States alone, those tumors 
+account for over 270 thousand new cases of cancer each year. Researchers 
+at the University of Texas Southwestern Medical Center in Dallas have 
+found that 15 percent of lung and colon cancers can be traced to defects 
+in a gene on Chromosome #11. The gene, which goes by the designation, 
+PPP2R1B, is a tumor-suppresser gene. It controls the amount of phosphate 
+in certain critical proteins involved in cell growth. When the gene 
+is defective, that control is lost. It no longer works. It's shut 
+off by virtue of mutations. And what happens is, too much phosphate 
+builds up on the surface of these proteins, and it, essentially, steps 
+down on the accelerator and causes itself to grow uncontrollably. 
+Dr. Glenn Evans, the research team leader, says the discovery emerged 
+from the involvement of his laboratory in the Human Genome projects, 
+an international effort to map, in sequence, all the genes in the 
+human body. The University of Texas, Southwestern Lab chose chromosome 
+11 as its mapping assignment, due to its apparent involvement in many 
+human cancers, including, most definitely, colon and lung, with strong 
+indications for breast, ovarian, head and neck, and skin cancers. 
+Dr. Evans says that, for cancer to arise, it requires a double mutation 
+of the PPP2R1B gene. Everyone has two copies of this gene. In fact 
+people have a copy of every gene. One comes from the father, and one 
+that comes from the mother. With the case of most kind of alga genes 
+that are known as suppresser alga genes, what has to happen is both 
+of those two copies have to be inactivated. There has to be no active 
+gene. And, then that's one of the things that stimulates the cancer. 
+Dr. Evans says there are many things that can cause such mutations, 
+including cigarette smoking, or environmental muti-genes. It is also 
+possible to inherit the defective copy from one of our parents. In 
+that case, one would walk around your normal life, absolutely normal 
+with of those two copies of the gene inactivated. But, you wouldn't 
+know it. So, people with have an inherited mutation of this gene. 
+And, if they would've inherited from their parents. would beat much 
+higher risk for getting cancer, because it would take only a single 
+mutation, then, to stimulate it. Dr. Evans adds that the implications 
+of this discovery, for the treatment of cancer, are immense. In studies 
+involving laboratory mice, inserting a normal chromosome 11 with two 
+normal copies of the gene, caused tumors to shrink. This suggests 
+that the gene therapy may one day be used to treat certain cancers 
+of the colon and lung. Dr. Evans says, it's unusual to have such a 
+clear-cut link between the discovery of a gene defect, and the solution 
+to the problem it causes. If we can reverse the gene, he says, then 
+we can reverse the tumor. The discovery of the PPP2R1B gene defect 
+can also tell people, early on, if they might be susceptible to a 
+lethal cancer. Right now we know that there are a few cases of these 
+mutations being inherited. Not many have been discovered, so far. 
+And, we don't know how frequent they might be in the population. But, 
+these in other words discover a variant in this gene, that is find 
+that people could be divided into two categories; those that are normal, 
+and those that carry the variant. It might be that, that variant will 
+be predictive for susceptibility to cancer. Discovery of one mutated 
+copy of the gene in an individual, might encourage him, or her, to 
+adopt certain lifestyle changes, like a high-fiber diet, or avoidance 
+of exposure to certain chemicals that might prevent the second gene 
+from mutating. That would be one case where knowledge, very definitely, 
+is power. I'm Brian Sislak. 49.10 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981203.1600.0001 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Good afternoon. Wall Street was stuck in a swoon all day long, closing 
+down a moment ago at 176 unofficial close, I should point out. The 
+NASDAQ off 37 points. The market couldn't pull itself out of the slump 
+even when the major european countries announced a surprise cut in 
+interest rates. Traders are worried about the situation in Latin America. 
+Today the Brazilian Congress rejected an economic reform plan and 
+that spooked Wall Street. We'll have more in business news in about 
+15 minutes. 
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981223.1130.0105 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Winter weather across the U.S. is making travel dangerous in places, 
+but the race is on to get home for the holidays. Industry analysts 
+predict a busy travel time from Christmas eve to new year's day. Aaa 
+says a record 45.2 million people are planning to travel 100 miles 
+or more away from home. 35.5 million of them are expected to drive, 
+while 7 million will fly, take the train or bus. But industry analysts 
+say concerns about the nation's economy could put a Chill on some 
+trip plans. In a travel industry association survey, 25% of those 
+asked worried that the economy will get worse. That's up from 12% 
+last year. 56% said it will stay the same. That's down from 68% last 
+year. 
+</TEXT>
+</DOC>

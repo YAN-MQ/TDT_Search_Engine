@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> NYT19981011.0120 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST The slow-moving storm system that brought downpours 
+to much of New England at the weekend, including nearly 12 inches 
+of rain in parts of southern Maine will move into the North Atlantic 
+Ocean on Monday. Clouds will linger for a time in parts of eastern 
+and northern New England, but sunshine will return as drier breezes 
+from the north develop. Most of the interior Northeast will have ample 
+sunshine with a mild afternoon, despite patchy morning fog in the 
+valleys of the central Appalachians. The southeastern states will 
+be warm and abundantly sunny as high pressure drifts over the region. 
+Onshore winds along the southern flank of the high will bring a few 
+clouds and isolated showers to the eastern coast of Florida and parts 
+of the western Gulf of Mexico coast. Periods of cool rain will fall 
+near a low-pressure center as it moves across northern Minnesota to 
+the northern Great Lakes. Farther south, a broken band of light showers 
+will accompany a front as it sweeps through the central Great Lakes 
+states. In the wake of the front, cool, gusty winds from the northwest 
+will import drier air to the Dakotas to the northern Mississippi Valley. 
+In the West, the Rocky Mountain states will have plenty of sunshine. 
+By afternoon, temperatures in most areas will be several degrees above 
+the seasonal average. A cold front will bring clouds and showers as 
+it moves into the Pacific Northwest. Meanwhile, the deserts of the 
+Southwest will be very warm with plenty of bright sunshine. Focus: 
+Autumn Frost In much of the Northeast, October brings the first frost 
+since spring. However, the occurrence of the first frost can differ 
+by as much as months within 100 miles. There are significant delays 
+in frost in major cities as opposed to the surrounding countryside, 
+in coastal communities compared with inland areas, and over hilltops 
+vs. nearby valleys. On the plateau of northwestern Pennsylvania, there 
+is a 70 percent chance of a freeze by Sept. 1. Yet not far away along 
+the shores of the relatively warm Lake Erie, wine makers can enjoy 
+frost-free weather into early November. 
+</TEXT>
+</DOC>

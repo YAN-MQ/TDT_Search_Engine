@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981101.1000.0519 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Up next -- the extended weather forecast for the United States. Later 
+-- a new kind of cool is coming to one Canadian city. 
+</TEXT>
+</DOC>

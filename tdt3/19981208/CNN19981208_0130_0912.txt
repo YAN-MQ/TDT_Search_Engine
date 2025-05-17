@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981208.0130.0912 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Attorney general Janet Reno has decided not to seek an independent 
+counsel investigation into President Clinton's 1996 campaign fund-raising. 
+She says there are no reasonable grounds to investigate further. 
+</TEXT>
+</DOC>

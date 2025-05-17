@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> NYT19981020.0331 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+IBM reported a 10 percent increase in third-quarter earnings Tuesday 
+because of stronger computer sales, but the company's executives warned 
+that global economic uncertainty could lead to short-term problems 
+in the months ahead. IBM, the world's largest computer company, posted 
+a profit of $1.49 billion, or $1.56 a diluted share, compared with 
+$1.36 billion, or $1.35 a share, in the quarter a year earlier. Revenue 
+for the period increased 8 percent, to $20.1 billion. The results 
+were slightly above analysts' expectations of $1.53 a share, and the 
+anticipation of a strong quarter had pushed the company's stock up 
+$10 over the last week, to a new 52-week intraday high of $142.4375 
+Tuesday before retreating. The stock fell $1.50, to $137.875, before 
+the third-quarter earnings were announced. Behind the numbers is a 
+mixed business story. The company's sales of hardware, from its giant 
+mainframes to personal computers, increased by 4.2 percent, to $8.7 
+billion. This is a turnaround from the first half of 1998, when a 
+glut of personal computers and delays in mainframe purchases hurt 
+sales. The company's information technology services segment, which 
+provides software and computer equipment services to corporations, 
+was also strong, with revenue rising by 22.6 percent, to $5.7 billion. 
+(IBM does not release earnings results for individual business segments.) 
+The company attributed this rise to a desire by corporations to improve 
+computer-related business efficiencies when faced with an economic 
+downturn. On the negative side, however, was a decline in business 
+in Asia and Latin America along with continued problems in the company's 
+microelectronics business, which reflects severe price competition 
+in the manufacture of computer memory chips. ``While IBM is entering 
+the fourth quarter with some real momentum,'' said Louis Gerstner 
+Jr., the company's chairman and chief executive, ``we are facing a 
+number of significant short-term issues, including an uncertain global 
+economic environment, ongoing weaknesses in some parts of Asia and 
+Latin America and continued price pressures in semiconductors.'' With 
+strong earnings against a backdrop of business uncertainty, IBM's 
+chief financial officer, Douglas Maine, warned in a conference call 
+with analysts against overly optimistic fourth-quarter earnings estimates. 
+``While we are pleased with our strong third-quarter performance,'' 
+he said, ``economic uncertainties should lead to a conclusion not 
+to raise earnings estimates.'' David Takata, an analyst at Gruntal 
+&AMP; Co., said: ``The good news is that IBM wasn't hit as bad as 
+what the worst fears might have indicated. I'm conservative, and I've 
+expected the company to get hit with some economic fallout. But it 
+just hasn't happened yet.'' Gary Helmig, an analyst at Soundview Technology 
+Group, said, ``Loud and clear, we got a lot of good news.'' ``They 
+certainly had a strong revenue performance and they are well positioned 
+in Europe and North America for a sustained performance,'' he added. 
+``Still, with currency risks and with the world economic scene, we'd 
+all be better off to watch and see how it unfolds rather than taking 
+the good news of the moment and increasing our expectations. That's 
+the prudent approach.'' With a cost reduction program in place, most 
+of the increase in revenue fell to the bottom line. Still, the company's 
+gross profit margin of 37.2 percent in the 1998 third quarter fell 
+slightly, compared with 38.2 percent in the quarter a year earlier. 
+</TEXT>
+</DOC>

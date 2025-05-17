@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981026.1600.0491 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News weather 
+forecast" for Tuesday. It will be quiet across a lot of the nation, 
+with high pressure hanging on in the southeastern part of the country. 
+However, a strong storm moving through the four corners region is 
+producing some thunderstorms from Arizona to New Mexico and west Texas 
+by Tuesday evening. Some showers will push out into the plains states 
+and we will see snow in the higher elevations of Colorado, quite a 
+bit in fact, above about 8,000 feet. A cold front in the northwest 
+will keep some clouds and rain across that region. Tuesday's high 
+temperatures, 40s and 50s for the northern half of the country, 60s 
+around the Great Lakes, 80s around the gulf coast. Looking ahead to 
+Wednesday, rain and snow over the northern Rockies, rain in the northwest 
+and northeast. For Thursday, a mix of rain and snow through the north 
+central U.S., rain showers continue in the northwest. On Friday more 
+showers northwest, with rain and thunderstorms through the plains 
+states. Don't forget, four-day forecasts for more than 7,200 cities 
+at CNN.com. 
+</TEXT>
+</DOC>

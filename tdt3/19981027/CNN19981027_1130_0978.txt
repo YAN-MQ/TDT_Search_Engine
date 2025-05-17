@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981027.1130.0978 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors are in a buying mood once again today. Valerie Morris is 
+standing by at the cnnfn newsdesk in New York with all the market 
+numbers and more. Valerie? What an interesting day we had yesterday. 
+It's been an interesting day for a couple of reasons. This is an anniversary, 
+Catherine. Right now, stocks are going strong across the board. Blue 
+chips are slips just a bit. Investors are shrugs off this first anniversary 
+of the Dow's biggest one-day point loss ever. Last year on this date, 
+the Dow plunged 554 points. Among the biggest winners on the Dow -- 
+</TEXT>
+</DOC>

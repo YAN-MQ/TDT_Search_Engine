@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> MNB19981022.2100.2712 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We should tell you that using computers to look for abnormalities 
+in pap smears is about to become a lot more common. Two of the nation's 
+largest laboratory chains have decided to use that technology to screen 
+all pap smear samples, and that means millions of samples in just 
+this nation alone every year. 
+</TEXT>
+</DOC>

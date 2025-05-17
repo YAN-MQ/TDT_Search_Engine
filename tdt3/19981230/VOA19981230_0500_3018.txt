@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981230.0500.3018 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. stocks continue to gain as the year winds down. Tuesday, the 
+Dow Jones Industrials Average posted a 1.2 percent increase, its eighth 
+in a row. The Dow reopens today at 9321. 
+</TEXT>
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981218.2130.0622 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Animated E-mails are a great way to send holiday Greetings. But they're 
+causing chaos for business computer systems. Marsha Walton explains 
+in this edition of "tech trends." Holiday computer Greetings range 
+from amusing to, well, racier than we can show you here. And like 
+chain letters or juicy gossip, they travel fast, much to the dismay 
+of many businesses with E-mail. Let's turn on the lights, click here. 
+Merry Christmas. And of course we can view it again or quit. This 
+little joy ride costs us about 2.5 megabytes. A typical system would 
+take about 25 minutes to transmit this. Aaron fessler's company allegro 
+manages hundreds of company e-mail systems. They are detecting and 
+filtering out thousands of these attachments. A corporation whose 
+massaging system is bogged down and four and five and six hours behind 
+while delivering holiday dancing Santa claus attachments is unable 
+to transmit the latest contract revisions or is unable to close the 
+latest sale. Lyon apparel makes fire-fighting equipment. It has a 
+contract with allegro to keep these amusements from clogging its computer 
+system. Right now, we're filtering them out before they get in. Those 
+that are detected do not get to the individual that they're mailed 
+to. There are ways to send clever cards without creating bottlenecks. 
+Commercial sites such as blue mountain arts send a personalized E-mail, 
+but instead of attaching a hefty file, recipients simply go to the 
+blue mountain site on the Internet and look at their card. Information 
+systems manager Brian Earhart says it filters out large attachments 
+for another reason, to stay out of trouble. You always have to be 
+on guard because they can contain viruses or other malicious code 
+inside them. Systems administrators say they don't intend to be cyber 
+grinches, they just want to make sure all the real work gets done 
+this holiday season. Marsha Walton, CNN, Dayton, Ohio. 
+</TEXT>
+</DOC>

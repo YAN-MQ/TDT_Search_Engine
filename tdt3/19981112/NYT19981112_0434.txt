@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> NYT19981112.0434 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Friday, Nov. 13: A presidential 
+task force of apparel makers, human rights groups and consumer advocates 
+recently agreed on how to put in place a voluntary code of conduct 
+for domestic and overseas factories. Although not perfect, the accord 
+should improve sweatshop conditions and give American consumers information 
+so that they can choose not to buy goods produced in inhumane conditions. 
+The plan creates a new nonprofit Fair Labor Association of business, 
+labor and human rights representatives. The association would enforce 
+the code and oversee independent monitors who would inspect factories 
+for compliance. Only companies that meet the standards would be allowed 
+to use the association's seal on their goods. The point is to give 
+companies a marketing advantage if they comply with the code. Under 
+the code, factories could not use forced labor nor require employees 
+to work more than 60 hours a week. Apparel makers could not employ 
+children under the age of 15, unless the country's laws allow 14-year-olds 
+to work, and they would have to pay the minimum wage or prevailing 
+industry wage where the factories are located. Companies would have 
+to consult with local labor and human rights groups about workplace 
+standards. American labor unions initially agreed to the principles 
+but have rejected the implementation plan because it does not require 
+that businesses pay a ``living wage.'' They also want more frequent 
+monitoring of factories, and object to allowing companies to operate 
+in countries such as China that restrict unions. Their concerns are 
+legitimate, but the current agreement is a good first step. Compliance 
+with the code of conduct does not mean that the shoes or shirts consumers 
+buy are the product of ideal or even fair labor conditions. But compliance 
+would indicate that the manufacturer abides by rules that give workers 
+some protection from the most exploitative practices. 
+</TEXT>
+</DOC>

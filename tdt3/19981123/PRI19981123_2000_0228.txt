@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981123.2000.0228 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street, the Dow Industrials gained 215 points to close at 
+a record 9374. This is NPR. 
+</TEXT>
+</DOC>

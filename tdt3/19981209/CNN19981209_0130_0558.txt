@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981209.0130.0558 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Cable TV subscribers can expect a rate hike next year. The industry's 
+top executive says rates probably will increase about 4% to 5%, after 
+they are deregulated by the government March 31st. Congress set that 
+date for the end of regulation, expecting competitive forces to take 
+over. But some consumer groups now believe cable competition will 
+not be adequately developed by then, and want the date pushed back. 
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> NYT19981122.0193 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Monday, Nov. 23: When Marie 
+Curie died on July 4, 1934, Albert Einstein remarked that she was, 
+``of all celebrated beings, the only one whom fame has not corrupted.'' 
+It has been a century since Curie and her husband, Pierre, who died 
+in 1906, discovered polonium and radium, just a century since she 
+coined the word ``radioactivity.'' Their discoveries brought the Curies 
+worldwide fame, and yet fame, ironically, made the name Curie a byword 
+for modesty. The laboratory in which their most important work was 
+done was only a former storeroom and machine shop, and they always 
+refused, Marie Curie wrote, ``to draw from our discovery any material 
+profit.'' A small exhibition devoted to Marie Curie has been mounted 
+at the New York Academy of Sciences. It suggests that the history 
+of radioactivity during the past century divides into two parts, before 
+1934, when natural radioactivity was the focus of scientific study, 
+and after 1934, when the first man-made radioactive elements were 
+created. Most lay people are likely to feel that the century divides 
+a little more neatly than that: before 1945 _ when the first atomic 
+bombs were detonated _ and after 1945. Marie Curie died as a result 
+of exposure to radioactivity, some of it incurred while preparing 
+radium for medical use. A century has passed since she discovered 
+that radioactivity was a property of atoms, and we are still adding 
+up the balance sheet, still trying to weigh the lives saved or improved 
+by the scientific exploration of radioactivity against the lives lost 
+or inalterably worsened. 
+</TEXT>
+</DOC>

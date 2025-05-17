@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981022.1130.1064 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Dethroned ipo champion Lucent out with earnings today. The phone equipment 
+company posted quarterly profit rose 49%, beating Wall Street expectations. 
+</TEXT>
+</DOC>

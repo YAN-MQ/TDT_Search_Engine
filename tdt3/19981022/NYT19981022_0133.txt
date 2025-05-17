@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> NYT19981022.0133 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Open positions on the New York Stock Exchange fell by 1.4 percent 
+last month, to 4.15 billion shares, the exchange reported Wednesday. 
+On the smaller American Stock Exchange, uncovered short sales decreased 
+by 4 percent, to 195.4 million shares. Open positions of short sales 
+are those shares that have been borrowed and sold, but not yet covered 
+by repurchase. If the share price falls, an investor can profit by 
+buying shares at a lower price to replace the borrowed ones. On the 
+Big Board, the short interest figure for the month ended Oct. 13 was 
+equal to 1.7 percent of the total shares listed on the exchange. Royal 
+Dutch Petroleum shares had the largest increase in short interest 
+on the Big Board. The number of shares sold short totaled 41.4 million, 
+compared with 6.5 million the previous month. The biggest decrease 
+in Big Board short interest was for shares of Tyco International Ltd., 
+which fell to 8.4 million, from 26.7 million the previous month. An 
+increase in the short position in a company's shares may indicate 
+a rise in bearish sentiment among investors toward that company. But 
+a short position could also increase because of complex trading strategies, 
+especially those related to arbitrage activity. 
+</TEXT>
+</DOC>

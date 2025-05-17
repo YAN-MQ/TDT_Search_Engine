@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981215.1600.0502 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for Wednesday morning. An area of low pressure is developing 
+off the southeastern coast. A little bit of rainfall in the coastal 
+areas here, but nothing of any great significance is expected. Cold 
+front continues to push through the east, relatively dry. Another 
+cold front slides down through the upper midwest and northern plains 
+states, bringing to an end the record-setting warm temperatures of 
+recent days. Much of the west will be dry. Take a look at your forecast 
+for high temperatures, and you can see 20s and 30s in the Great Lakes 
+area and the New England states. But relatively mild throughout much 
+of the nation. In your extended forecast, on Thursday, snow is possible 
+in the Great Lakes area. As we move on into Friday, you can see the 
+snow showers in the Great Lakes and in the northern Rockies, too. 
+And as we head on into the weekend, on Saturday, temperatures are 
+cooler in the northern tier of the nation. Snow showers are possible 
+in the New England states. A few showers are possible along the Texas 
+gulf coast and in the northwest. For more weather information, log 
+onto CNN.com. 
+</TEXT>
+</DOC>

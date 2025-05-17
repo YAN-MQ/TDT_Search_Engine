@@ -1,0 +1,160 @@
+<DOC>
+<DOCNO> NYT19981026.0358 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For several years, Mattson Technology Inc. in Fremont, Calif., embodied 
+the Silicon Valley dream. Sales tripled from one year to the next. 
+When the company's stock was first sold to the public in 1994, about 
+a dozen executives became millionaires. One year the company took 
+all employees and their families to Lake Tahoe, Nev., for a Christmas 
+vacation. But this year, the Christmas party will probably be potluck. 
+Mattson's sales have dropped in half from their peak last year. One 
+round of layoffs at the 400-person company has occurred and another 
+is in the works. And the company's stock, which traded above $16 in 
+July 1997, has fallen to $5.375, making employee stock options worthless. 
+Mattson's travails come from across the sea. Two thirds of its sales 
+_ it makes million-dollar machines used in manufacturing computer 
+chips _ are to semiconductor factories in Asia, which have cut back 
+sharply on their spending in the face of Asia's economic crisis. ``It's 
+like a faucet,'' said Brad Mattson, the company's president. ``They 
+just turned off the spigot.'' Mattson is perhaps an extreme case but 
+it is not alone. Silicon Valley, the nation's cauldron of innovation, 
+has suddenly been hit by a one-two punch from forces originating thousands 
+of miles away. The Asian economic crisis, which began in July 1997, 
+has slowed exports, causing a cascade of layoffs. And the stock market 
+volatility has battered technology company shares, making it harder 
+for young companies to raise money and crimping the spending of workers 
+whose sense of wealth is tied to the stock options that are considered 
+a birthright in Silicon Valley. The double blow has tempered the exuberance 
+of a region that has witnessed an explosion of growth, prosperity 
+and extravagance in the last few years, a region in which 20-something 
+Internet millionaires routinely plunked down cash for fancy cars and 
+near $1 million even for a relatively plain three-bedroom house. ``Panic 
+has not yet set in, but reality has,'' said Paul Saffo, an analyst 
+at the Institute for the Future, a Silicon Valley research center. 
+The same forces are at work elsewhere, of course, but few parts of 
+the country are as tied to both Asia and the stock market as is this 
+area south of San Francisco. And fewer are more important to the nation's 
+competitiveness. So far, the damage has been slight. The unemployment 
+rate in Santa Clara County, which encompasses San Jose and much of 
+Silicon Valley, has climbed in recent months but was still an enviable 
+3.7 percent in September, well below the 6.9 percent rate experienced 
+in 1992 after cutbacks among military contractors. The expensive restaurants 
+that have sprung up amidst the burger joints near Stanford University 
+are still bustling. But million-dollar homes are no longer selling 
+at the same frenzied pace and vacancies are starting to grow in the 
+office real estate market. The electronics and computer industries 
+ranked first and second nationwide in terms of the number of job cuts 
+announced this year, according to Challenger, Gray &AMP; Christmas, 
+a Chicago-based outplacement firm. ``There is this noticeable crispness 
+in the air, and not just because it's fall,'' said Betsy Collard, 
+director of strategic development at the Career Action Center in Cupertino, 
+Calif., which counsels those seeking new jobs. The Milken Institute, 
+a nonprofit economic research organization in Santa Monica, Calif., 
+forecasts that the San Jose area could experience a recession if the 
+Asian crisis takes a turn for the worse. San Jose surged ahead of 
+New York and Detroit in the last few years to become the largest exporter 
+among metropolitan areas, and nearly half of those exports go to East 
+Asia, according to the Milken report. No American city is as dependent 
+on Asian exports for income as is San Jose. But the impacts of the 
+Asian crisis vary greatly. The biggest has been on companies that, 
+like Mattson, make the machinery used to manufacture chips. Applied 
+Materials, the giant of this business, has cut about one quarter of 
+its work force, or 4,000 jobs, this year. Companies that make the 
+chips themselves are also ailing, not only because of Asia's slump 
+but because of its previous boom, when companies there built so many 
+factories they caused a glut that depressed semiconductor prices. 
+The semiconductor business is known for its steep up and down cycles. 
+But, ``I've been in the business since 1957 and this is the worst 
+one,'' said Alfred Stein, chief executive of VLSI Technology in San 
+Jose. Though some chip companies and analysts see signs of an upturn, 
+the pain is not over yet. The LSI Logic Corp., in Milpitas, Calif., 
+recently announced a 17 percent reduction in its work force. Still, 
+some economists say the impact of the Asian crisis has not been as 
+big as expected. For California as a whole, increased exports to Canada, 
+Mexico and Europe have helped offset a decline in shipments to Asia. 
+Another tempering factor is that the biggest job growth now comes 
+not from silicon chip manufacturing, the business that gave the region 
+its nickname, but from smaller companies in newer fields like the 
+Internet and computer software, which have less exposure to Asia. 
+``I don't feel we've been affected one bit by the economic turmoil,'' 
+said Alex Kaplinsky, managing partner of the local office of USWeb, 
+a company that designs Internet software for corporate clients. The 
+26-year-old Kaplinsky, who recently paid cash for a Porsche, a Lexus 
+and a house, said his office has 27 job openings. But jobs in the 
+Internet economy are not always available to those from the silicon 
+economy. ``I know so little about their industry that it's a difficult 
+transfer,'' said Art Hall, 50, who was laid off in June from Novellus 
+Systems, a semiconductor equipment manufacturer in San Jose. Even 
+if small companies escape the direct effects of the Asian crisis, 
+however, they are still being hit by the stock market downturn, which 
+makes it harder to raise capital. Despite a strong rally in the last 
+two weeks, an index of 275 technology stocks maintained by Hambrecht 
+&AMP; Quist, a San Francisco investment bank, is down 14.2 percent 
+from its high in July, compared with an 9.7 percent fall for the Dow 
+Jones industrial average. USWeb's stock has fallen to $14.50, from 
+a high of more than $38 in April. The flow of initial public stock 
+offerings has ground to a halt, with dozens either postponed or canceled. 
+In September, only one high technology company went public, versus 
+about 10 a month in June and July, said Jim Davidson, manager of technology 
+investment banking at Hambrecht &AMP; Quist. There has been none so 
+far in October, though the recent market rally might change that. 
+Initial offerings provide the rewards to venture capitalists and other 
+early investors in companies _ and to employees, who put in back-breaking 
+hours in hopes their stock will be worth a bundle when the company 
+goes public. If that outlet is closed for long, the money flow can 
+back up because lower rates of return can discourage future investing 
+in initial offerings and thus less money for venture capitalists. 
+So far, the breakfast tables at restaurants favored by the venture 
+capital crowd, like the rustic Buck's in Woodside and the upscale 
+Il Fornaio in Palo Alto, are still buzzing. One morning recently, 
+Ben Rosen, a New York venture capitalist, was having four back-to-back 
+breakfast meetings at Il Fornaio with companies seeking investment. 
+Venture capitalists are now flush with cash and have a long time frame 
+for their investments. Still, they acknowledge, a slumping market 
+has a psychological effect, making them less willing to finance marginal 
+ventures. Even solid companies will get less money than they would 
+have a few months ago. ``Anyone with an Internet idea could get funding, 
+and I think that's going to start to change,'' said Vinod Khosla, 
+a partner at the venture capital firm Kleiner Perkins Caufield &AMP; 
+Byers. Some empty office buildings are starting to appear in a region 
+that has had one of the lowest vacancy rates in the nation, about 
+4 percent by one estimate. Take the four-building Baytech business 
+park in San Jose, built last year. It was first leased by Cisco Systems, 
+a telecommunications equipment supplier, which turned out not to need 
+the space. Then Applied Materials leased it, but ran into the Asian 
+crisis. Now Applied is trying to sublease the never-occupied buildings. 
+Several retailers of cars and jewelry said they had seen no softening 
+of sales so far. But at Mattson Technology and elsewhere, employees 
+who now cannot count on stock options to boost their incomes are postponing 
+purchases of big items. Barak Kassar, 31, marketing director for Wink 
+Communications, was shopping for a home he hoped to buy partly with 
+proceeds from his company's initial public stock offering. But Wink, 
+which makes interactive television technology, has put off its offering, 
+and Kassar has stopped his house-hunting for now. ``It just may be 
+a few months longer,'' he said. Six months ago, the housing market 
+was manic. ``Even for houses up to $5 million, there were sometimes 
+two or three offers _ unbelievable,'' said Wendy McPherson, manager 
+of the Menlo Park office of Coldwell Banker, a real estate brokerage. 
+Homes often sold for tens of thousands of dollars more than the asking 
+price. Lower-paid workers had to move as far as two hours away from 
+their work places to find affordable housing. Now, ``we're not getting 
+10 offers on a house anymore,'' Ms. McPherson said, tooling her Mercedes 
+past a three-bedroom ranch home with a narrow yard that is listed 
+for $939,000 and had not sold in three weeks. Her office sold only 
+two or three million-dollar homes in the last month, down from 10 
+or 12 a month earlier this year. The median home price in Santa Clara 
+County dropped 1.8 percent from August to September, to $366,550, 
+according to the California Association of Realtors. Still, home prices 
+are up a whopping 11.8 percent from a year ago. ``This is heaven still,'' 
+Ms. McPherson said. ``We've lost our perspective over the last 20 
+months.'' For now then, Silicon Valley's slowdown is only in comparison 
+to the frenetic _ and unsustainable _ pace of the last few years. 
+Many people here maintain an abiding faith in technology and their 
+future prosperity. At a recent meeting on the region's future held 
+by the Churchill Club, a public affairs forum, the theme was ``Buy, 
+Sell or Hold?'' In a show of hands, only a smattering of people in 
+the audience chose ``Sell.'' 
+</TEXT>
+</DOC>

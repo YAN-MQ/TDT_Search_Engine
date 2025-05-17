@@ -1,0 +1,75 @@
+<DOC>
+<DOCNO> NYT19981027.0320 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Stock prices slumped after a strong opening Tuesday, but traders said 
+profit-taking rather than a shift in sentiment was most likely the 
+cause. Early in the session, the Dow Jones industrial average was 
+up more than 100 points, and other broad market averages, including 
+the Russell 2000 index of small companies, were also higher. But then 
+rumors about a possible Brazilian currency devaluation and the health 
+of Russian President Boris Yeltsin filtered into the market. Those 
+rumors helped push down bank stock prices, and the selling pressure 
+spread from there. Some money managers said that a government report 
+showing a sharp drop in consumer confidence was another source of 
+concern Tuesday. ``There is no real reason for the market to have 
+a reversal other than the normal to-ing and fro-ing in a trading range 
+I think has a downside of 8,000 for the Dow and an upside of 8,600,'' 
+said Bill Allyn, the head of listed trading at Jefferies &AMP; Co. 
+``What we are seeing is just routine trading, and institutions seem 
+to be sitting pretty much on their hands, in no rush to get in or 
+to get out.'' By the close of trading, the Dow had lost 66.17 points, 
+or 0.8 percent, and finished at 8,366.04. The Standard &AMP; Poor's 
+500-stock index fell 6.98, or 0.7 percent, to 1,065.34. The Nasdaq 
+composite index, which rallied strongly Monday, dipped 7.35, or 0.4 
+percent, to 1,717.63. And the Russell 2000 index, which had advanced 
+for nine straight sessions, slipped 0.57 point, or 0.2 percent, to 
+371.50. More than 764 million shares were traded on the New York Stock 
+Exchange, a big jump from Monday, when volume was hampered by a computer 
+glitch that forced the Big Board to call a halt to trading for nearly 
+an hour. ``One reason the market is stalling is that there are ongoing 
+concerns about the impact of the global financial crisis,'' on stocks, 
+said Hugh Johnson, chief investment officer at First Albany Corp. 
+``The market has moved up, and everybody is feeling good about that,'' 
+he said. ``Economically sensitive sector stocks are performing well, 
+and the performance of small-cap stocks is a very good sign. But everyone 
+recognizes that a very significant financial crisis is still ongoing.'' 
+Rumors about a possible devaluation of Brazil's currency, the real, 
+have circulated in the past, but a scheduled address late Tuesday 
+by Brazilian President Fernando Henrique Cardoso was a fresh cause 
+for concern. Cardoso was expected to outline deficit cuts in his speech, 
+and some investors speculated the austerity plan might include a devaluation 
+of the currency, which would make it more difficult for Brazilian 
+companies to repay loans in dollars and would pare the value of Brazilian 
+securities held by banks. In a six-minute broadcast to the nation 
+after the market had closed, Cardoso said the government would propose 
+a package of spending cuts and tax increases designed to narrow its 
+$60 billion budget deficit but provided few details. Brazilian Finance 
+Minister Pedro Malan is expected to do so Tuesday. News that Yeltsin 
+had entered a health resort outside Moscow for two weeks of treatment 
+on the advice of his doctors was another source of concern for bank 
+stocks. Those sorts of worries led to a sharp drop in J.P. Morgan 
+and Citigroup, two Dow stocks. And it pushed down prices of other 
+money-center bank stocks. Morgan fell 3 9/16 Tuesday, to 89|. Citigroup 
+dropped 2}, to 43 9/16. And Chase Manhattan, another bank with a big 
+exposure to Brazil, declined 2{, to 52. Brokerage stocks were also 
+under pressure. Merrill Lynch fell 3 9/16, to 51]. And Morgan Stanley 
+Dean Witter lost 1{, to 58 1/16. Dan Eagan, a managing director at 
+Blackrock Funds, said he was not concerned about renewed weakness 
+in financial service company stocks. ``What we saw in the bank and 
+brokerage stocks was profit taking,'' he said. ``At the moment, this 
+market will trade as much on psychology as it will on fundamentals.'' 
+Prices of several computer company stocks gained ground even as investors 
+took profits from the high-technology group. IBM rose 1 5/16, to 144], 
+after the company said it would buy back as much as $3.5 billion of 
+its stock. In the session, the stock hit a new high of 146 13/16. 
+Parametric Technology also posted an impressive advance, gaining 1 
+5/16, to 15{. Internet stocks also had a hectic day. Hopes for a strong 
+earnings report from America Online helped to push the stock up 1, 
+to 122; after the market closed, the company said its profit beat 
+expectations. Ebay, an Internet auction company, extended its amazing 
+rally, gaining 9[, to 82{. That gain followed a 23-point advance Monday. 
+But Yahoo fell 4 3/16, to 123}. 
+</TEXT>
+</DOC>

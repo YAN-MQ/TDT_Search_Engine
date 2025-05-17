@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> VOA19981023.0600.0916 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Also in Texas, environmental regulators have rejected a plan to build 
+a nuclear waste dump near the Mexican border. The Texas Natural Resource 
+Conservation Commission voted yesterday to deny a license for the 
+dump, saying there are doubts it will be safe. The dump was to contain 
+concrete canisters with radioactive waste from hospitals, industry 
+and nuclear power plants. The Mexican government has actively lobbied 
+against the project, saying the dump's planned location, just 30 kilometers 
+from the border, would violate bilateral treaties. 
+</TEXT>
+</DOC>

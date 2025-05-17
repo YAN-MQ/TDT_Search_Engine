@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> VOA19981211.0500.2709 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Tuesday, AT&T, a major provider of long-distance telephone service 
+in the United States, announced plans to purchase a global data network 
+belonging to computer manufacturer IBM. The deal, which will cost 
+approximately $5 billion, includes IBMs Internet service which is 
+more than a million individual subscribers in 59 countries, and serves 
+more than 30,000 medium and large businesses around the world. Lewis 
+Kirschner, Jr., IBM's chief executive officer, says that his company, 
+which supplies hardware and software to several telecommunications 
+companies, including AT&T, does not want to compete with its customers. 
+C. Michael Armstrong, head of AT&T, says that the purchase is another 
+important step in his company's strategy to expand from being a national 
+to becoming a global communications leader. The deal is expected to 
+be completed some time next year. 
+</TEXT>
+</DOC>

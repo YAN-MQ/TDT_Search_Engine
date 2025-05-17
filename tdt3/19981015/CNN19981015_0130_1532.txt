@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> CNN19981015.0130.1532 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"Mind over matter" is more than a phrase for researchers in Atlanta. 
+They've discovered a way to harness brain power to control a computer 
+mouse. Dan Rutz has more on what could be an extraordinary finding. 
+Hi, sweetie. It is almost a year after a devastating stroke left Johnny 
+Ray unable to move, unable even to speak. He has a keen mind and fighting 
+spirit. Family members shower him with affection recalling the man 
+who used to keep everybody laughing. Johnny has always been a talker. 
+Let me explain to you-- Johnny never shut up. And I'm not saying that 
+in a bad way. Dr. Phillip Kennedy aims to help the 52-year-old tradesman 
+talk again through a computer. Ray is learning to communicate with 
+the computer through sensors implanted in his brain. This is like 
+trying to get several individual neural signals from his brain and 
+feeding those back to him so he can train them to do what he wants 
+with them. The signals come from an area of the brain near the surface 
+and are sent to the computer through a glass cone implant, specially 
+treated so brain cells actually grow into it. The signal is transmitted 
+by radio waves to an antenna outside so there are no wires through 
+the head. Several times a week, Dr. Kennedy coaches Ray to think about 
+moving a finger or toe, to produce the signal that in turn moves a 
+computer cursor to a selection of icons to convey simple messages. 
+One more and you're in there. I feel too cold. Eventually, Kennedy 
+says, Ray should be able to compose his own sentences by quickly shuffling 
+the arrow around the keyboard. In about the next 10, 20 sessions, 
+he should be able to master the keyboard. There are other communication 
+devices for those locked in their bodies, as Johnny Ray is. But this 
+one, Kennedy says, offers his patient far more versatility and control. 
+For now, Johnny Ray struggles to communicate a simple yes or no through 
+his eyes, but soon he may have a much wider vocabulary through the 
+energy of the brain, a computer and a lot of will power. Dan Rutz, 
+CNN, Atlanta. 
+</TEXT>
+</DOC>

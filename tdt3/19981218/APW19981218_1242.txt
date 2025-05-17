@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> APW19981218.1242 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+AMERICAN LEADERS NEW YORK (AP)-Sales, 4 p.m. price and net change 
+of the 10 most active American Stock Exchange issues, trading nationally 
+at more than $1. Name Volume Last Chg. SPDR 4,017,400 119 Up 39-64 
+TelephData 2,433,600 43 1-8 Down 4 1-8 ViacomB 1,102,200 68 3-16 Up 
+1 IvaxCp 748,700 11 3-8 Down 3-16 NaborsInd 675,900 12 7-8 Selfcare 
+657,600 15-8 Down 1-16 FstAustPrm 653,700 5 13-16 Up 1-16 HarkenEngy 
+650,500 2 1-8 Down 1-16 SP MidCap 549,200 68 3-8 Up 19-32 US Cellular 
+524,400 37 1-8 Down 2 13-16 
+</TEXT>
+</DOC>

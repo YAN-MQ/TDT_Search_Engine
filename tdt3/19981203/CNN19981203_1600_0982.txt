@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981203.1600.0982 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+U.S. workers were much more efficient during the third quarter of 
+1998, than previous reports had indicated. According to the U.S. labor 
+department, nonfarm productivity increased at a Rate of 3%. It's a 
+sharp rise from the previous quarter. Meanwhile, more people standing 
+in unemployment lines. First-time claims for jobless benefits rose 
+to 313,000 last week, up 12,000 from the previous week. Tomorrow is 
+the more anxiously awaited employment report for November. Economists 
+expect the unemployment rate will remain steady at 4.6%. 
+</TEXT>
+</DOC>

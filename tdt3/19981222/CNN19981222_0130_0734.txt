@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981222.0130.0734 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Computer viruses, beware. The virus infects Microsoft word files and 
+has caused several networks to crash T give the recipient a message 
+tells the user that he or show "is a Big, stupid jerk." 
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981227.1000.0531 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen Maginnis. 
+The warmest readings will be found from Florida into south Texas and 
+into the desert southwest on Sunday. The coldest readings from Hudson 
+bay and across Canadian border states. As far as our weather features 
+are concerned, going into Sunday, there is an approaching frontal 
+system for Washington and Oregon. The winds will kick up, and the 
+rain will come down. It could be heavy at times. Look for a bit of 
+snowfall also over the Great Lakes and the upper mississippi river 
+valley. For Alaska, Hawaii and the Caribbean, San Juan is expecting 
+a high on sunday of 82, minus 18 for Fairbanks, and 80 in Honolulu. 
+It is going to be messy on your way back to work on Monday across 
+the eastern third of the U.S. from the gulf coast into the northeast 
+and into New England. Then by Tuesday, temperaturewise, teens and 
+20s once again along the canadian border states and the prairie provinces. 
+Heavy rainfall is possible in the mid-atlantic. And then by Wednesday, 
+look for 70s in southern California and the desert southwest. For 
+more weather information, log onto CNN.com. 
+</TEXT>
+</DOC>

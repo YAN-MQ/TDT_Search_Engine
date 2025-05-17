@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981216.1600.0705 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This week on the "cold and flu report" -- the influenza virus may 
+be in trouble. A new study published in the journal "Lancet" shows 
+the experimental drug xanamavir is an effective treatment for all 
+strains of the flu. It cuts the duration of the flu infection by one 
+to two and a half days. It also lessens the symptoms. Xanamavir has 
+few side effects and it needs to be taken in the first 30 hours after 
+symptoms begin to have maximum effectiveness. Another experimental 
+flu drug, gs-4104, appears to work fairly well. Current treatments 
+for the flu only work against the A-strain and sometimes have unpleasant 
+side effects. 
+</TEXT>
+</DOC>

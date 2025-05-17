@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981214.1130.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And, it's the busiest day of the year at the post office. Today marks 
+the start of the holiday mailing crunch. 
+</TEXT>
+</DOC>

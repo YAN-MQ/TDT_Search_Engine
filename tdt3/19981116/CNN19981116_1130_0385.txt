@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981116.1130.0385 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Eight state attorneys general are expected to make a formal announcement 
+this afternoon in Washington on the proposed $206 billion tobacco 
+settlement. The agreement was reached Saturday with the nation's four 
+biggest tobaccomakers. The plan would settle state claims that seek 
+government health costs for treating smoking-related illnesses. In 
+exchange, tobacco companies would be free from financial and legal 
+threats if they lose a court case to one or more of the 46 states 
+that have lawsuits pending or have not filed suits yet. 
+</TEXT>
+</DOC>

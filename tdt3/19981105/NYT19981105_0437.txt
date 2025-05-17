@@ -1,0 +1,80 @@
+<DOC>
+<DOCNO> NYT19981105.0437 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For a small biotechnology company, Geron Corp. sure knows how to make 
+headlines. For the second time this year, it has electrified the scientific 
+world. Geron financed the university researchers who announced Thursday 
+that they had succeeded in growing in the laboratory human stem cells, 
+the embryonic progenitors of all other types of cells. In January, 
+the company announced that it had found a way to keep human cells 
+alive well past the time they normally die. The two discoveries have 
+vast implications for medicine and for Geron's business, which is 
+aimed at treating cancer and diseases associated with aging. The stem 
+cells, for instance, conceivably could be grown into nerve cells, 
+heart cells and other types of cells for use in transplants. For instance, 
+new heart muscle cells could replace tissue destroyed by a heart attack. 
+``The integration of these two technologies positions us ultimately 
+to be able to repair degenerating tissues of our mortal bodies with 
+immortalized cells,'' Dr. Thomas Okarma, vice president for research 
+and development told securities analysts Thursday. ``It's an outstanding 
+opportunity.'' However, big profits from the discoveries are probably 
+years away. The company, which is based in Menlo Park, Calif., has 
+no drugs in clinical trials yet, or even one that it is getting ready 
+for such trials. ``It's about as early stage as they can get,'' said 
+Richard van den Broek, biotechnology analyst at Hambrecht &AMP; Quist. 
+He said Geron also could face competition from other companies pursuing 
+stem cells, such as Novartis, a large Swiss pharmaceutical company. 
+Geron's stock, traded on Nasdaq, soared 2], or 31 percent, to 9 15/16 
+in trading that was 40 times heavier than average. The company did 
+not announce its findings until after trading closed, but it had told 
+securities analysts earlier in the day that some announcement was 
+coming. Such a spike in stock price is typical for young biotechnology 
+companies making big announcements but it can be short-lived. In January, 
+after Geron's last big announcement, the stock rose to about $17 from 
+about $10 but then dropped back. Ronald Eastman, president and chief 
+executive of Geron, said in an interview that although developing 
+tissues for transplants could take years, the company could very quickly 
+begin selling stem cells to other pharmaceutical companies for use 
+in research. The cells could be used in finding genes or grown into 
+different types of human tissues on which to test drugs. ``There is 
+a business opportunity almost immediately here,'' Eastman said. He 
+also said that Geron is hoping to collaborate with one or more big 
+companies that would help finance and accelerate the development of 
+the stem cells. ``No one company would have the ability to fully exploit 
+this discovery,'' he said. Geron was started in 1990 by Michael West, 
+who has a doctorate in cell biology. He dropped out of medical school 
+to develop products based on a theory of aging that he had been researching. 
+The company's name, pronounced ``JEH-ron,'' comes from gerontology, 
+the study of old age. From the start, Geron has been aggressive in 
+financing academic scientists in exchange for the exclusive commercial 
+rights to their work. It financed three groups working on stem cells, 
+two of which _ the University of Wisconsin and Johns Hopkins _ announced 
+results Thursday. The theory that intrigued West was that of telomeres, 
+which cap the ends of chromosomes like the tips of shoelaces. Each 
+time a cell divides, the theory goes, telomeres get shorter until 
+they eventually run out and the cell dies. In January, in what seemed 
+to confirm the theory, the company showed than an enzyme known as 
+telomerase can keep the telomeres from shrinking, thereby allowing 
+cells to live, perhaps indefinitely. West, who had been a vice president, 
+quit the next month to start a company to apply telomere theory to 
+animals, an effort that Geron executives had declined to pursue. It 
+might seem a big leap from cell death to stem cells, which are found 
+in embryos at the start of life. But the company was drawn to the 
+study of stem cells because telomerase is active in embryos, in which 
+cells rapidly divide. But once the basic stem cells differentiate 
+into nerve cells, heart cells and so on, the telomerase disappears 
+and the clock leading to cell death starts ticking. Telomerase, however, 
+is found in cancer cells, allowing them to divide and multiply indefinitely. 
+Geron is working with Pharmacia &AMP; Upjohn, a big drug company, 
+to try to find a drug that will block telomerase and could be used 
+to treat cancer. Geron also hopes that telomerase itself can be used 
+as a drug or turned on inside cells to fight the diseases and deterioration 
+of the skin, eyes, brain and other organs associated with aging. Besides 
+formidable scientific challenges, the company faces ethical issues 
+about working with stem cells. There is a ban on federal financing 
+of work using tissues derived from human embryos. The company has 
+formed an ethics committee of outsiders to advise it on such matters. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981012.2000.1561 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones Industrials closed up 102 at 8001. 
+NASDAQ Index closed up 54, at 1546. 
+</TEXT>
+</DOC>

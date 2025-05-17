@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981231.1830.0447 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some UPS and some Downs today, as Wall Street brought this remarkable 
+year to a close. The Dow Jones industrial average lost 93 points. 
+The NASDAQ ended up nearly 26 points. 
+</TEXT>
+</DOC>

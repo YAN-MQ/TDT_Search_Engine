@@ -1,0 +1,175 @@
+<DOC>
+<DOCNO> NYT19981012.0250 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Many doctors know the story of ``Mr. Wright,'' who was found to have 
+cancer and in 1957 was given only days to live. Hospitalized in Long 
+Beach, Calif., with tumors the size of oranges, he heard that scientists 
+had discovered a horse serum, Krebiozen, that appeared to be effective 
+against cancer. He begged to receive it. His physician, Dr. Philip 
+West, finally agreed and gave Wright an injection on a Friday afternoon. 
+The following Monday, the astonished doctor found his patient out 
+of his ``death bed,'' joking with the nurses. The tumors, the doctor 
+wrote later, ``had melted like snow balls on a hot stove.'' Two months 
+later, Wright read medical reports that the horse serum was a quack 
+remedy. He suffered an immediate relapse. ``Don't believe what you 
+read in the papers,'' the doctor told Wright. Then he injected him 
+with what he said was ``a new super-refined double strength'' version 
+of the drug. Actually, it was water, but again, the tumor masses melted. 
+Wright was ``the picture of health'' for another two months _ until 
+he read a definitive report stating that Krebiozen was worthless. 
+He died two days later. Doctors who know this story dismiss it as 
+one of those strange tales that medicine cannot explain. The idea 
+that a patient's beliefs can make a fatal disease go away is too bizarre. 
+But now scientists, as they learn that the placebo effect is even 
+more powerful than anyone had been able to demonstrate, are also beginning 
+to discover the biological mechanisms that cause it to achieve results 
+that border on the miraculous. Using new techniques of brain imagery, 
+they are uncovering a host of biological mechanisms that can turn 
+a thought, belief or desire into an agent of change in cells, tissues 
+and organs. They are learning that much of human perception is based 
+not on information flowing into the brain from the outside world but 
+what the brain, based on previous experience, expects to happen next. 
+Placebos are ``lies that heal,'' said Dr. Anne Harrington, a historian 
+of science at Harvard University. A placebo _ the word is Latin for 
+``I shall please'' _ is typically a sham treatment that a doctor doles 
+out merely to please or placate anxious or persistent patients, she 
+said. It looks like an active drug but has no pharmacological properties 
+of its own. Until fairly recently, nearly all of medicine was based 
+on placebo effects, because doctors had little effective medicine 
+to offer. Through the 1940s, American doctors handed out sugar pills 
+in various shapes and colors in a deliberate attempt to induce placebo 
+responses. Nowadays, doctors have real medicines to fight disease. 
+But these treatments have not diminished the power of the placebo. 
+Doctors in Texas are conducting a study of arthroscopic knee surgery 
+that uses general anesthesia in which patients with sore, worn knees 
+are assigned to one of three operations _ scraping out the knee joint, 
+washing out the joint or doing nothing. In the ``nothing'' operation, 
+doctors anesthetize the patient, make three little cuts in the knee 
+as if to insert the usual instruments and then pretend to operate. 
+Two years after surgery, patients who underwent the sham surgery reported 
+the same amount of relief from pain and swelling as those who had 
+had the real operations. A recent review of placebo-controlled studies 
+of modern anti-depressant drugs found that placebos and genuine drugs 
+worked about as well. ``If you expect to get better, you will,'' said 
+Dr. Irving Kirsch, a psychiatrist at the University of Connecticut 
+who carried out the review. His findings were met with a great deal 
+of skepticism. And a recent study of a baldness remedy found that 
+86 percent of men taking it either maintained or showed an increase 
+in the amount of hair on their heads. But so did 42 percent of the 
+men taking a placebo. Some studies are specifically designed to explore 
+the power of placebos rather than drugs. On Coche Island in Venezuela, 
+asthmatic children were given a sniff of vanilla along with a squirt 
+of medicine from a bronchodilator twice a day. Later, the vanilla 
+odor alone increased their lung function, 33 percent as much as did 
+the bronchodilator alone. And at Tulane University, Dr. Eileen Palace 
+is using a placebo to restore sexual arousal in women who say they 
+are nonorgasmic. The women are hooked up to a biofeedback machine 
+that they are told measures their vaginal blood flow, an index of 
+arousal. Then they are shown sexual stimuli that would arouse most 
+women. But the experimenter plays a trick on the women by sending, 
+within 30 seconds, a false feedback signal that their vaginal blood 
+flow has increased. Almost immediately they then become genuinely 
+aroused. Placebos are about 55 percent to 60 percent as effective 
+as most active medications like aspirin and codeine for controlling 
+pain, Kirsch said. Moreover, placebos that relieve pain can be blocked 
+with a drug, naloxone, that also blocks morphine. For a while, many 
+scientists thought that placebos might work by releasing the body's 
+natural morphinelike substances, called endorphins. But that is not 
+the only explanation, he said. While placebos can act globally on 
+the body, they can also have extremely specific effects. For example, 
+a study was carried out in Japan on 13 people who were extremely allergic 
+to poison ivy. Each was rubbed on one arm with a harmless leaf but 
+were told it was poison ivy and touched on the other arm with poison 
+ivy and told it was harmless. All 13 broke out in rash where the harmless 
+leaf contacted their skin. Only two reacted to the poison leaves. 
+Studies have shown, time and again, that placebos can work wonders. 
+Like ``real drugs,'' they can cause side effects like itching, diarrhea 
+and nausea. They can lead to changes in pulse rate, blood pressure, 
+electrical skin resistance, gastric function, penis engorgement and 
+skin conditions. The question is, why? Explanations of why placebos 
+work can be found in a new field of cognitive neuropsychology called 
+expectancy theory _ what the brain believes about the immediate future. 
+Like classical conditioning theory (Pavlov's dogs salivate at the 
+sound of the bell), expectancy involves associative learning. The 
+medical treatments you get during your life are conditioning trials, 
+Kirsch said. The doctor's white coat, nurse's voice, smell of disinfectant 
+or needle prick have acquired meaning through previous learning, producing 
+an expectation of relief from symptoms. Each pill, capsule or injection 
+is paired with active ingredients, and later, if you get a pill without 
+active ingredients, you can still get a therapeutic effect, he said. 
+Such conditioning shows how expectations are acquired, Kirsch said. 
+But it does not explain the strength and persistence of placebo effects. 
+These responses occur almost instantly, with no apparent conscious 
+thought, and are therefore wired firmly into the brain, he said. Response 
+expectations are strong because the world is filled with ambiguity. 
+A long thin object seen in dim light could be a stick or a snake. 
+But it may not be safe to take the time to find out. So people evolved 
+a mechanism to anticipate what is going to occur. This expectation 
+speeds the perceptual processing at the expense of accuracy. As in 
+the outside world, people's internal states have inherent ambiguity. 
+That is why, when people in an experiment were given a drug that produced 
+a surge of adrenaline, they interpreted the feeling as anger, euphoria 
+or nothing at all, depending on what they had been told to expect. 
+Critics of alternative medicine say its enduring appeal is explained 
+by the placebo effect. When conventional therapies fail to help chronic 
+or poorly understood conditions, the acupuncturist, homeopathist or 
+chiropractor steps into the breach with a potent belief system ready-made 
+to help the suffering patient. ``If a guy in a white coat or a guy 
+dressed in feathers can induce a patient's immune system to fight 
+back, who is to say which is better?'' said Dr. Dan Molerman, a medical 
+anthropologist at the University of Michigan at Dearborn. Support 
+for the expectancy theory emerged about 10 years ago, when many scientists 
+realized how closely the brain, the immune system and the hormone 
+production of the endocrine system are linked. Chronic stress sets 
+into motion a cascade of biological events involving scores of chemicals 
+in the body _ serotonin, cortisol, cytokines, interleukins, tumor 
+necrosis factor and so on. Such stress lowers resistance to disease 
+and alters gene expression. When people are under stress, wounds tend 
+to heal more slowly, latent viruses like herpes erupt and brain cells 
+involved in memory formation die off. The precise molecular steps 
+underlying all of these changes have been mapped out. But what about 
+the opposite? Can a thought or belief produce a chemical cascade that 
+leads to healing and wellness? Researchers studying placebos think 
+the answer is yes, and they offer several ways it might work: _ A 
+placebo might reduce stress, allowing the body to regain some natural, 
+optimum level called health. _ Special molecules may exist that help 
+carry out placebo responses. For example, a recent study found that 
+stressed animals can produce a Valium-like substance in their brains, 
+but only if they have some control over the source of the stress. 
+People almost certainly have similar brain chemistry. _ Placebos may 
+draw their power from the way the brain is organized to act on what 
+experience predicts will happen next. Dr. Marcel Kinsbourne, a neuroscientist 
+at the New School for Social Research in New York, explains it this 
+way: The brain generates two kinds of activation patterns, which arise 
+from networks of neurons firing together. One type is set in motion 
+by information flowing into the brain from the outside world _ smells, 
+tastes, visual images, sounds. At the same time, the cortex draws 
+on memories and feelings to generate patterns of brain activity related 
+to what is expected to happen. The top-down patterns generated by 
+the cortex intersect smoothly with the bottom-up patterns to inform 
+us about what is happening, Kinsbourne said. If there is a mismatch, 
+the brain tries to sort it out, without necessarily designating one 
+set of patterns as more authoritative than another. The expectations 
+that result are internally generated brain states that can be as real 
+as anything resulting purely from the outside world. For example, 
+recent experiments with monkeys show that if they expect a reward 
+like a sip of apple juice, cells in their brains fire 20 to 30 seconds 
+before they actually receive it. In other words, expectancies are 
+embedded in the brain's neurochemistry. ``We are misled by dualism 
+or the idea that mind and body are separate,'' said Dr. Howard Fields, 
+a neuroscientist at the University of California at San Francisco 
+who studies placebo effects. A thought is a set of neurons firing 
+which, through complex brain wiring, can activate emotional centers, 
+pain pathways, memories, the autonomic nervous system and other parts 
+of the nervous system involved in producing physical sensations, he 
+said. Morphine will alter brain patterns to reduce pain. So will a 
+placebo. Obviously, placebos have limits. Wright's miraculous remission 
+aside, most people cannot think, hope or believe their way out of 
+cancer or AIDS. As Dr. Howard Spiro, a gastroenterologist at Yale 
+University, put it: Some diseases are unleashed with the power of 
+a fire hose. Others unfold at a trickle, and perhaps those are the 
+ones amenable to placebo effects. 
+</TEXT>
+</DOC>

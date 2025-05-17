@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> NYT19981102.0466 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Food and Drug Administration Monday approved the first drug developed 
+by biotechnology for rheumatoid arthritis, opening a new approach 
+to treating the debilitating disease of the joints that afflicts more 
+than two million Americans. The drug, Enbrel, was shown in clinical 
+trials to reduce pain and swelling in the joints of many patients 
+with severe arthritis. It does not cure arthritis or reverse damage 
+that has already been done to bones and cartilage. The drug agency 
+has approved Enbrel for use by people with moderate or severe arthritis 
+for whom existing drugs have failed. It can also be taken with methotrexate, 
+the most commonly used drug, if necessary. Enbrel was developed by 
+the Immunex Corp., a biotechnology company in Seattle and will be 
+marketed in conjunction with the Wyeth-Ayerst Laboratories division 
+of the American Home Products Corp., a large pharmaceutical firm that 
+owns a majority of Immunex. The new drug is one of several recently 
+approved or being developed for rheumatoid arthritis. Immunex said 
+the main side effect of Enbrel, which patients take by giving themselves 
+an injection twice a week, was irritation at the site of the injections. 
+But the drug agency is requiring the company to continue studies to 
+see if there are any long-term safety problems. Enbrel is expected 
+to face competition from Remicade, a similar drug from Centocor Inc. 
+of Malvern, Pa., that is in the final stage of clinical trials. Last 
+week, an advisory panel to the drug agency recommended approval of 
+a blood-filtering device made by Cypress Bioscience Inc. of San Diego 
+for use in severely arthritic patients for whom drugs have not worked. 
+</TEXT>
+</DOC>

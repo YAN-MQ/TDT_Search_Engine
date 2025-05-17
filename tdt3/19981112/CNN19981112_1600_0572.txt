@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981112.1600.0572 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The justice department is taking its case to regulate tobacco to the 
+Supreme Court. The announcement was made after a federal appeals court 
+upheld an earlier ruling that stated the FDA does not have the authority 
+to regulate cigarette manufacturers. The regulations were designed 
+by the Clinton administration to make it harder for minors to buy 
+cigarettes. The tobacco industry says the FDA does not have the authority 
+to make such regulations. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981026.2130.0318 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers may be a step closer to finding a cure for spinal cord 
+injuries. Scientists at Vanderbilt University used the anti-cancer 
+drug compound cm-101 on 26 paralyzed mice. All but two of the mice 
+were able to walk again. Researchers believe cm-101 blocks the growth 
+of new blood vessels that usually form after a spinal cord injury. 
+That also would prevent the formation of scar tissue and allow severed 
+nerves to reconnect. Researchers could begin human trials next year. 
+</TEXT>
+</DOC>

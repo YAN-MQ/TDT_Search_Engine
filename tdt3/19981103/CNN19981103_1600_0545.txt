@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981103.1600.0545 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News" weather 
+forecast for Wednesday. Rain showers will move off the southeast coast, 
+but we'll continue to see showers and thunderstorms across Florida 
+as moisture from the remnants of mitch moves towards that region. 
+We'll also see rain showers stretched from Texas along the east slopes 
+of the Rockies, some of that in the higher elevations will be snow. 
+There's also more rain in the forecast across the northwest with some 
+mountain snow. High temperatures on Wednesday will be just in the 
+30s from the northern plains to northern New England. You can find 
+60s and 70s, but they'll be down far in the south. Looking ahead to 
+Thursday, look for rain in the northwest with cool temperatures over 
+the northern plains. For Friday, a mix of rain and snow around the 
+Great Lakes, rain and mountain snow through the northwest with showers 
+into Texas. On Saturday, much of the country will see some rain showers 
+or possibly snow showers. Highs from the northern Rockies into the 
+Great Lakes will be just in the 30s. Don't forget, you can find four-day 
+forecasts for 7,200 cities at CNN.com. 
+</TEXT>
+</DOC>

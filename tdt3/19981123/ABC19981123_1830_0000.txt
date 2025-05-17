@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981123.1830.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Dow Jones hits a record bait. And what the Pentagon's own auditors 
+say about the weapons systems that will not work in some other countries. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981217.0130.0720 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The government is warning people to be very careful about buying items 
+listed as being on sale. The federal trade commission says one of 
+every 30 sale items listed scans the wrong price at checkout stands. 
+And the FTC maintains two out of three times, the consumer is being 
+overcharged. The national retail federation says it's a remarkably 
+low error rate, and retailers are taking steps to improve pricing 
+accuracy. 
+</TEXT>
+</DOC>

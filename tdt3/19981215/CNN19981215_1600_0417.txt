@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981215.1600.0417 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Justice ministers from the eight major industrialized countries got 
+together in high-tech fashion today and promised to use high-tech 
+solutions to combat the sophisticated techniques of criminals who 
+ignore international boundaries. The top law enforcement officials, 
+including attorney general Janet Reno, discussed plans in a closed 
+video conference rather than hold a meeting behind closed doors in 
+London. They are already working with industries on preventing criminal 
+use of the internet. We must not allow criminal minds and the pace 
+of technology to outpace our law enforcement efforts. I'm also committed 
+to continuing our joint efforts to ensure that criminals and their 
+money enjoy no safe haven. The law enforcement leaders plan to meet 
+face-to-face next year in Moscow. 
+</TEXT>
+</DOC>

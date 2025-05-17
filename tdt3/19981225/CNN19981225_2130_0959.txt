@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981225.2130.0959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Christmas is being celebrated all over the world. Roman Catholic 
+clergy celebrated mass at the church of the nativity in bethlehem, 
+which is believed to be the birthplace of Jesus. 
+</TEXT>
+</DOC>

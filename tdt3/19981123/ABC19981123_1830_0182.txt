@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981123.1830.0182 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It was by the way also a good day on the NasDaq, heavy as it is with 
+high tech and computer stocks, the NASDAQ was up 49 points. 
+</TEXT>
+</DOC>

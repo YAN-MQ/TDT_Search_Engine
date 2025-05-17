@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981221.1600.0925 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- Israel's parliament has voted overwhelmingly 
+for early elections after Israeli prime minister Benjamin Netanyahu 
+failed to win support for his peacemaking policy with the Palestinians. 
+Netanyahu has been under fire since he agreed to the U.S.-brokered 
+wye river interim peace accord. 
+</TEXT>
+</DOC>

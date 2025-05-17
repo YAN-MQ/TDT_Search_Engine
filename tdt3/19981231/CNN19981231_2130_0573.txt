@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981231.2130.0573 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Authorities have detained a pacific gas and electric employee after 
+finding hundreds of pounds of bombmaking materials in the company's 
+warehouse in san Francisco this morning. 250 pounds of ammonium nitrate, 
+a chemical used in the Oklahoma City bombing, were found thawing in 
+a locker. Other chemicals, books on bombmaking and explosives were 
+found elsewhere in the building. The employee reportedly led authorities 
+to a second PG&E building, and a Police bomb squad is at the scene. 
+</TEXT>
+</DOC>

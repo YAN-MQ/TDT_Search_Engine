@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981029.2130.0598 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Don't be alarmed if you live in L.A. and feel the earth move. New 
+satellite surveys indicate downtown and west Los Angeles are moving 
+toward the San Gabriel mountains at the rate of one-fifth of an inch 
+each year. Experts have known for some time movement in the earth's 
+crust is causing the pressure. But the new study shows small mountains 
+are pushing upward south of the San gabriel mountains. 
+</TEXT>
+</DOC>

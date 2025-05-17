@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981018.1830.1596 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tonight is game two of the world series. The Yankees took game one 
+against the padres last night, -6. A Tito Martinez grand slam in the 
+seventh put New York over the top. 
+</TEXT>
+</DOC>

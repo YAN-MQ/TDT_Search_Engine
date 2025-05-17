@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981012.1830.0632 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tomorrow the FBI begins a new era of cooperation and computer technology. 
+It's opening the new national DNA index to officers in all 50 states. 
+The index has DNA profiles of 250,000 convicted felons. Local officers 
+can compare those profiles to DNA evidence collected at crime scenes. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981021.1600.0439 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Senate has approved a $500 billion federal budget package for 
+fiscal 1999. It includes money to hire teachers, build a missile defense 
+system and put more police on the streets. 
+</TEXT>
+</DOC>

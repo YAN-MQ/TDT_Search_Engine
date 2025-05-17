@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981217.1130.0170 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The House of Representatives has opened debate on resolution of support 
+of troops in the Persian gulf. Outgoing speaker Newt Gingrich was 
+the first to speak in favor of the resolution. 
+</TEXT>
+</DOC>

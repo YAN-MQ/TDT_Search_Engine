@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981216.1600.0665 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Shuttle astronauts are back home. The commander said it's great to 
+be home after a successful mission. The astronauts made three space 
+walks to connect the first pieces of the international space station. 
+The next mission is set for may. 
+</TEXT>
+</DOC>

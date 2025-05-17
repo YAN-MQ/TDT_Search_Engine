@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981116.2130.0312 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new CNN/"USA today"/Gallup poll suggests an increasing number of 
+people now believe Starr's report on President Clinton is unfair and 
+distorted. A similar poll conducted in September when the report first 
+was released found almost half of those polled thought the report 
+was fair and accurate. The new poll also found -- 62% of Americans 
+disapprove of how the GOP is handling the investigation. That number 
+has been increasing steadily since September. And 39% would like the 
+impeachment matter to be dropped. 35% prefer censure with no hearings. 
+26% believe the hearings should continue. 
+</TEXT>
+</DOC>

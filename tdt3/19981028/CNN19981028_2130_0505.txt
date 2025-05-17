@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981028.2130.0505 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And later -- the venerable 
+John Glenn and the crew of space shuttle discovery buckle down for 
+tomorrow's launch. 
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> PRI19981116.2000.0259 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Food and Drug Administration warned today, that a new drug given 
+to patients with Parkinson's Disease may cause fatal liver damage. 
+NPR's John Hamilton has more. The drug is called Tasmar. And it was 
+approved by the FDA in January. Tasmar doesn't treat Parkinson's Disease 
+directly. Instead it helps other drugs for Parkinson's work better 
+to control muscle weakness and tremor caused by the disease. About 
+sixty thousand people worldwide have used Tasmar. But in recent months, 
+doctors have reported three deaths from liver failure associated with 
+the drug. So the FDA has sent a letter to physicians. Warning them 
+to use the drug only for people who can't use other treatments. The 
+Agency also told doctors to let patients know about the drug's potential 
+risks. And to take patients off Tasmar if they show signs of liver 
+problems. FDA officials say people already taking the drug shouldn't 
+stop without first consulting a doctor. John Hamilton, NPR News. 
+</TEXT>
+</DOC>

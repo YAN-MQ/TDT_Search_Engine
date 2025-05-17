@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981109.1600.0325 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Attorney general Janet Reno announced new efforts today to crackdown 
+on violence at clinics where abortions are performed. The newly formed 
+task force will investigate violence against clinics and workers, 
+as well as identify future security risks and develop ways to make 
+those clinics safer. The initiative follows incidents at several clinics 
+around the nation. Reno announced a $500,000 reward for information 
+leading to an arrest and conviction in the death of Dr. Barnett slepian, 
+who was killed in his New York home last month. 
+</TEXT>
+</DOC>

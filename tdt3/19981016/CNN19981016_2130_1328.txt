@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981016.2130.1328 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There's been a little movement in the NBA labor talks. Owners say 
+they're willing to accept the union's proposed luxury tax, with some 
+alterations. They've tossed their response back to the union, with 
+a request for a two-year trial period. 
+</TEXT>
+</DOC>

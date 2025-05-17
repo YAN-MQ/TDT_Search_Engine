@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981222.1600.0567 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A fire broke out this morning at a Detroit residence for the elderly 
+trapping many residents inside. Firefighters arrived quickly to help 
+them evacuate. There has been no word on casualties. Damage appears 
+to be limited to the top five floors of the 12-story building. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981223.1130.0927 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- the weather catches up with the calendar. 
+Winter officially started this week, and from California to New England, 
+people are feeling the chill. In some places, the temperature dropped 
+40 degrees in a matter of hours. 
+</TEXT>
+</DOC>

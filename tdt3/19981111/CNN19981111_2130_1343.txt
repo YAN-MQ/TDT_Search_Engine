@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981111.2130.1343 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In NFL news, Panthers quarterback Steve Beuerlein has been given a 
+Three-year extension by the club. He stepped in for quarterback Kerry 
+Collins who stepped down and was later traded to the saints. New Orleans 
+has announced that Collins will be their starter this Sunday at home 
+against the Rams. 
+</TEXT>
+</DOC>

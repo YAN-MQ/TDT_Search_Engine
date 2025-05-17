@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CNN19981223.2130.0605 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Heavy-duty vehicles have long been powered by Diesel engines. They're 
+simple, fuel efficient and major polluters. But a Canadian company 
+says it's developed a cleaner option. Rick Lockridge reports in this 
+edition of "tech trends." Diesel engines do the world's heavy lifting. 
+Durable but dirty, they exhale a sooty breath that poisons the air. 
+But this bus, despite the Diesel engine in the back, has given up 
+its dirty habits and is now living the clean life -- converted to 
+natural gas. At the present moment, we have a very big atmospheric 
+pollution concern. So we feel we have a very good product to step 
+into an existing market on a Short-term basis. What Westport innovations 
+has is a patented way to turn a Diesel-burning engine into one that 
+Burns almost all natural gas, while using just enough Diesel to start 
+the all-important combustion cycle. The Westport conversion kit contains 
+sophisticated injectors, which handle both Diesel fuel and natural 
+gas at the same time. Other components store the natural gas at the 
+high pressures necessary for efficient burning. Since natural gas 
+is generally about 30% cheaper than Diesel fuel, Westport says bus 
+lines and truck companies can recoup the cost of each $20,000 kit 
+in just a couple of years. And the company says converted engines 
+emit only about half the pollutants of conventional diesels. It's 
+a very easy way to get a very clean technology out as quick as possible, 
+because -- basically, because it's so simple. a converted Westport 
+bus is already shuttling college students around Berkeley, California. 
+How does this thing handle? It handles real good, real good. I get 
+a better ride out of this one because you get more power, especially 
+on the takeoff. Westport hopes nations under pressure to meet the 
+1997 Kyoto protocol clean air standards will turn to its technology. 
+The company believes it can eventually capture almost a third of the 
+$70 billion global Diesel engine market. Rick Lockridge, CNN. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981208.1830.0595 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Christmas bonuses on Wall Street are going to be down, perhaps 
+as much as 25%. The profits at the big Wall Street firms are down. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981225.1600.0247 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Pope John Paul II delivered his annual Christmas message to the world 
+in st. Peter's basilica at Vatican city. The Pope reflected on what 
+he calls the disturbing developments and senseless violence around 
+the globe. He then wished the world holiday Greetings in 58 languages. 
+</TEXT>
+</DOC>

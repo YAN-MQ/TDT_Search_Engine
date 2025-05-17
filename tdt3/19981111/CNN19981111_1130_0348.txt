@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981111.1130.0348 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In northern Ohio, the wind was so strong this morning it blew more 
+than a Dozen freight train cars off a bridge into sandusky bay. Several 
+were ripped from their wheels. No one was hurt, and no dangerous chemicals 
+were involved. We'll have the complete national weather forecast at 
+38 minutes past the hour. 
+</TEXT>
+</DOC>

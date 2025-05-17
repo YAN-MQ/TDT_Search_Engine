@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981102.1130.1355 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hal Sutton beat vijay Singh on the first playoff hole to win the tour 
+championship in Atlanta. 
+</TEXT>
+</DOC>

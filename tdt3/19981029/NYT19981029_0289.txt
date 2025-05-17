@@ -1,0 +1,89 @@
+<DOC>
+<DOCNO> NYT19981029.0289 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+When Mick Buffum dozed off behind the wheel at about 2:30 a.m. on 
+April 4, his 1994 Chevrolet Cavalier drifted off the right side of 
+the road, ran up a cable used to brace a utility pole and flipped 
+onto its right side. Buffum, stunned and confused, unbuckled his seat 
+belt and promptly fell down into the passenger side of the car. He 
+could not figure out how to get out. He was alone on a quiet country 
+road outside Marilla, N.Y., near Buffalo. But suddenly, an Erie County 
+emergency dispatcher was talking to him over the car's cell phone, 
+even though Buffum had not even thought to place the call. ``I go, 
+`The car's on its side,' and he goes, `I know,' '' Buffum said, recalling 
+the conversation. ``I said, `I can't get the door open,' and he said, 
+`Can you roll the window down?' '' Buffum, who followed the unseen 
+dispatcher's advice and escaped from his wrecked car, had just provided 
+a real-world crash test of an experimental system that advocates say 
+could save lives in rural areas like his, on the outskirts of Buffalo, 
+where drivers whose cars leave the road sometimes die of injuries 
+or exposure before anyone finds them. In a federally sponsored experiment, 
+Buffum's car was one of about 600 equipped with a cellular phone and 
+a receiver for the global positioning system. Such receivers are now 
+common in car navigation systems. The phone and the GPS receiver _ 
+which fixes its location to within a few yards by receiving signals 
+from a network of satellites _ along with three crash sensors, had 
+been wired together by Calspan Operations, a transportation technology 
+company based in Buffalo. The system was set up to dial 911 in case 
+of an accident; thus the dispatcher knew where the car was and at 
+what angle it had come to rest. The dispatcher sent emergency vehicles, 
+knowing from the conversation with Buffum that there was only one 
+victim and that he was not severely hurt; in other circumstances, 
+the dispatcher might have sent out several ambulances. Buffum, of 
+South Wales, N.Y., who works in a machine shop at a plant that makes 
+aerospace parts, was impressed. He sent Calspan a letter thanking 
+the company and apologizing ``for any swear words'' that the cell 
+phone might have captured. Government officials are impressed, too. 
+``It shows what intelligent transportation systems can do for you,'' 
+said Mortimer Downey, the deputy secretary of transportation. But 
+it is too early to say what final form such systems might take, he 
+said. Buffum would have survived without the Automated Collision Notification 
+system, but others could have been saved by it, experts say. ``How 
+many times have you read about somebody who went off the road, and 
+hopefully two days later they wake up?'' Downey said, adding that 
+if they did not wake up, they might not be found. Erie County Sheriff 
+Patrick Gallivan described the system as being ``like Dick Tracy with 
+the telephone on his wrist.'' He said that almost every winter, someone 
+skidded off a road and disappeared into a snowbank or down a hill 
+and died before the car was discovered. And often if someone with 
+a cell phone discovers an accident on a rural road, the person calls 
+for help from the scene, but does not know precisely where the scene 
+is. ``It's just a matter of time,'' he said, before equipment like 
+the kind that helped Buffum is standard on new cars. The experiment 
+is operated by the National Highway Transportation Safety Administration, 
+along with Cellular One, the phone company; Datumtech Corp., a supplier 
+of automotive electronic equipment, three Erie County agencies and 
+Calspan, a unit of Veridian Corp. The experiment parallels a commercial 
+offering by General Motors called Onstar. That system, now in place 
+in about 30,000 vehicles, costs about $1,300 to install, plus a charge 
+of $12.50 a month on most GM models. If the air bag deploys, the system 
+calls a central number in the Detroit area, and a dispatcher there 
+will come on the phone and ask if help is required. If the dispatcher 
+cannot get an answer from the occupants of the car, the dispatcher 
+calls the local police. While Onstar is marketed as a safety device, 
+it is also available in nonemergencies, for help with road directions, 
+or for finding the nearest service station or restaurant. The Calspan 
+system could eventually be expanded, experts say, to integrate it 
+with car registration data. The dispatcher might then know who the 
+owner of the car was, and possibly even who the driver was, even if 
+he or she was unconscious. The Calspan system has another feature, 
+a crash recorder a little like the ``black boxes'' that keep track 
+of events leading up to an airplane crash. It notes how hard the car 
+had accelerated up or down, left or right and forward or back. Dr. 
+Dietrich Jehle, director of emergency services at the Erie County 
+Medical Center, said the system would be used to match crash types 
+with injury types, and find out what kinds of crashes were most likely 
+to cause serious injury or death. That could help dispatchers send 
+the right level of help in an emergency, he said, and eventually be 
+fed back to automobile companies to design safer cars. Another researcher, 
+Anthony Billetteri, co-director of transportation injury research 
+at the University of Buffalo, said the plan was to develop data on 
+``the signature of a crash that is likely to produce those kinds of 
+injuries that require dramatic and immediate assistance.'' ``Some 
+very serious crashes, people walk away from,'' he said. ``Some very 
+minor crashes kill people. There's not a lot of correlation between 
+crash severity and injury severity.'' 
+</TEXT>
+</DOC>

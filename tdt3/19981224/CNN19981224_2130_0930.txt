@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981224.2130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- eight people were killed on the garden 
+state parkway in New Jersey today when a bus spun out of control and 
+plunged into a ravine. 15 others were injured. Two inches of snow 
+had left the highway wet and slick. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981224.2130.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Pope John Paul celebrated the annual Christmas eve mass at the 
+Vatican today. He says he's already looking forward to next year, 
+when the Roman Catholic church will celebrate a Jubilee year, as Christianity 
+enters its third millennium. 
+</TEXT>
+</DOC>

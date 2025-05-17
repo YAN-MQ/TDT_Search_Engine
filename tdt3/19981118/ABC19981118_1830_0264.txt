@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981118.1830.0264 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We will have live coverage of tomorrow's historic hearing, beginning 
+at 10:00 A.M. eastern time. 
+</TEXT>
+</DOC>

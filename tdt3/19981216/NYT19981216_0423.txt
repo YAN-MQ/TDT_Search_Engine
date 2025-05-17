@@ -1,0 +1,169 @@
+<DOC>
+<DOCNO> NYT19981216.0423 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Bigger is better. That seems to be the view of Frank Zarb, chairman 
+of the National Association of Securities Dealers, the nation's largest 
+self-regulatory organization and parent of the Nasdaq stock market. 
+As head of an organization that oversees some 5,600 member brokerage 
+firms, Zarb's domain is already plenty big. But he wants to become 
+the world's No. 1 market for stocks and has recently acquired the 
+American Stock Exchange and the Philadelphia Stock Exchange, and is 
+talking about Nasdaq alliances with the main stock markets in Germany 
+and Hong Kong. There is just one problem. Back home at the very grass 
+roots of his organization, Zarb is having trouble putting out a little 
+brush fire. Many owners of the smaller brokerage firms that make up 
+the lion's share of NASD members, from places like Redwood Falls, 
+Minn., West Hartford, Conn., and Weston, W.Va., are angered by a lack 
+of representation on NASD. And they are threatening to loosen the 
+stranglehold that large firms like Merrill Lynch, Paine Webber and 
+Goldman, Sachs have on NASD's rule-making board and its operations. 
+For the first time in its 60-year history, the securities dealers 
+association's election for seats on the board of governors is being 
+contested. On one side are NASD's official slate, selected by its 
+nominating committee. They include former President Ford; James Dimon, 
+the former president of Travelers who resigned last month from Citigroup, 
+and Arthur Rock, a top venture capitalist. Opposing these nominees 
+are a slate of four unknowns, put up by associations of small brokerage 
+firms. Every year, NASD holds elections to replace retiring members 
+of its 35-seat board, which votes on new rules and other issues surrounding 
+the operations of the stock market and member firms. This year's election, 
+replacing 12 retiring members, will be decided on Dec. 21. But while 
+other NASD elections have been nonevents, this time throngs of small 
+brokerage firms _ those employing 100 or fewer employees but making 
+up 91 percent of the member firms _ are up in arms. They say they 
+have become increasingly disenfranchised, even discriminated against 
+by an organization whose board is dominated by executives from large, 
+household name brokerages. Believing they are over-regulated and under-represented, 
+the small firms want more say in the oversight process. ``The NASD 
+is an organization that is resistant to change,'' said Alan Davidson, 
+president of the Independent Broker Dealer Association and Zeus Securities, 
+a one-office securities firm in Jericho, N.Y., that specializes in 
+bonds. Davidson is also the force behind the independent slate of 
+candidates for the association's board. ``They have betrayed the bulk 
+of their membership.'' This David vs. Goliath story might be of no 
+concern to the investing public but for one thing. Small broker-dealers, 
+the association's roots, perform several important functions. They 
+create jobs across the country and help small companies that are shunned 
+by big firms raise capital so they can grow and create jobs. Furthermore, 
+many of these smaller brokers make markets in shares of obscure local 
+companies, providing liquidity to investors who are trading these 
+shares. ``It is in the public interest that smaller firms be given 
+the chance to survive and prosper,'' said Lewis Lowenfels, a prominent 
+securities lawyer in New York who represented the American Stock Exchange 
+floor brokers in the exchange's merger with NASD earlier this year. 
+``The NASD was built in large part on the entrepreneurship of smaller 
+firms and must be particularly sensitive to the needs of these firms 
+as it builds and expands its global empire.'' Exactly what Frank Zarb 
+has been doing all year, says Michael Jones, chief administrative 
+officer of NASD. ``To say Frank has been aggressively pursuing and 
+implementing the inclusion of small firms would be an understatement,'' 
+he said. Of course, Zarb and his colleagues have to serve many masters: 
+large firms and small, investors trading in Nasdaq stocks, issuers 
+whose shares trade on the various Nasdaq markets. But even more important, 
+Zarb has had to work overtime to clean up NASD's image after it was 
+censured by the Securities &AMP; Exchange Commission in 1996 for failure 
+to regulate its market adequately. Increasing the regulatory structure 
+was a natural response. Although NASD began as a self-regulatory organization 
+for smaller firms, it has become increasingly oriented to the big 
+firms. Since 1988, eight board chairmen have come from firms with 
+more than 200 employees; twice during that time a Merrill Lynch executive 
+has headed the board. That the NASD favors big firms was one of the 
+problems cited two years ago by Arthur Levitt, chairman of the SEC 
+when it published the results of its investigation into accusations 
+about Nasdaq trading improprieties and other issues. In addition to 
+Nasdaq market makers' unfair trading practices, Levitt said: ``The 
+NASD allowed the interests of large market-making firms to have undue 
+influence over the conduct of its affairs and the regulation of the 
+market.'' Many small firms believe little has changed since Levitt 
+delivered his thunderbolt. The NASD, however, says that much has been 
+done to open the regulatory structure to participants from outside 
+the securities industry and the crucial separation of the regulatory 
+arm from the operation of the stock market. ``We've come a long way 
+under Frank's direction to balancing our constituencies,'' said Jones. 
+Evidence of this happened earlier this year when the board reserved 
+one seat for a small broker dealer. The association also formed the 
+Small Firm Advisory Board to address the concerns of those constituents. 
+That panel is headed by Carl Sherr, who runs his own small firm in 
+Worcester, Mass. But Sherr is no outsider. He was chairman of the 
+NASD in 1984 and has frequently sat on arbitration panels assembled 
+by the regulator. He is also chairman of one of the association's 
+district committees. ``He is supposed to be our representative,'' 
+Davidson said. ``But he's one of them, not one of us.'' Since 1993, 
+members of the securities dealers association have not been permitted 
+to vote on rule changes made by the board. The NASD argued that sending 
+out rule changes to an enormous membership was becoming too costly 
+and inefficient. But to small broker-dealers this was proof that their 
+input was unwelcome. It meant that the merger with the American Stock 
+Exchange, which was put to a vote of the Amex members, was not approved 
+by a vote of NASD member firms. ``The NASD owns and operates a television 
+studio, sponsors the Super Bowl, has plenty of money for a multimillion-dollar 
+sign in Times Square, but it doesn't want to spend 32 cents to mail 
+members their own rule changes,'' Davidson said. Smaller firms are 
+also deeply concerned about increasingly stiff fees and fines for 
+even the most minor infractions. Joseph Mays Jr., president of Securities 
+Consulting Group in New York, advises small securities-firm clients 
+and was a compliance examiner at NASD from 1982 to 1987. ``In the 
+past, some rule violations would have not been considered finable,'' 
+he said. ``Now, they're looking for ways to catch firms in minor rule 
+violations so they can put a dollar sign on the examination. They're 
+turning the membership into a profit center.'' For example, critics 
+say that NASD's approach to overcoming the year 2000 computer bug 
+has been heavyhanded. Many smaller firms clear their clients' mutual 
+fund, stock or bond trades through larger firms, handle no customer 
+money or securities and may not even have a computer. Understanding 
+this, the SEC suggested exempting these broker dealers from Y2K compliance 
+surveys. But NASD said no. Last summer it sent out a 19-page form 
+for all firms to fill out on their preparedness. Many tiny firms were 
+a little late filing their reports. In the past, that would have probably 
+been overlooked.This time NASD has moved to censure the firms and 
+impose fines on them of $2,500, or roughly half the amount many of 
+them have in net capital. Dues and incidental fees imposed on members 
+have also jumped in the past three years, far in excess of inflation.The 
+minimum annual fee is $1,200, but with add-ons a small firm could 
+be charged $3,000 while a much larger firm might wind up paying only 
+$4,000. Jones says the regulator's costs have increased as the industry 
+has grown. But the cost increases are onerous to small firms. ``We 
+service a lot of jeans-and-sneakers kind of people,'' said Thomas 
+Pringle, president of Mark Securities, a two-branch brokerage in West 
+Hartford, Conn. ``To treat Mark Securities like it's Merrill Lynch 
+or vice versa is not right.'' Even though the structure of NASD calls 
+for one firm, one vote, many of the smaller firms complain that the 
+bigger firms carry more weight with the market supervisors. Small 
+firms, 91 percent of the membership, hold only 10 percent of the industry 
+representation on the board. Even though the vast majority of brokerage 
+firms are honest, small firms find themselves standing out more on 
+NASD's regulatory radar screen because of its increasing focus on 
+microcap fraud _ securities violations perpetrated on gullible investors 
+in tiny stocks by bucket shop brokerages. ``The big companies don't 
+do it because they have too much to lose,'' argued Alfred Berkeley 
+III, Nasdaq's president, in an interview earlier this year with USA 
+Today. ``Little teeny companies and investment banks may have the 
+incentive to fool people. And I'd like to put nails deep in their 
+bodies.'' But Chris Nelson of Minnesota Valley Securities said many 
+smaller firms are being wrongly tarred by NASD's brush. ``Out here 
+in a town of 6,000, all you have is your reputation,'' she said. ``You 
+don't have an option not to run a clean operation.'' Representatives 
+of smaller firms also point to scandals involving big firms, such 
+as the sales practices at Prudential Securities that led to a billion 
+dollar settlement with aggrieved investors and Merrill Lynch's involvement 
+in the Orange County bankruptcy. Small firms are particularly worried 
+about a proposal approved by the board in October that would allow 
+NASD's regulatory arm to issue temporary cease and desist orders to 
+``prevent continuing violations of specific NASD rules and the securities 
+laws.'' This essentially means that regulators need no longer show 
+cause to a federal judge to shut down a brokerage firm. ``The view 
+of the organization is that we deal with each firm on its own merits,'' 
+said Jones of NASD. But many owners of small firms who were interviewed 
+for this story declined to speak for attribution. They believe that 
+retribution from NASD would result from on-record criticisms. La Rae 
+Bakerink, vice president of compliance at SK International Securities 
+in La Jolla, Calif., says they have reason to be concerned. Just weeks 
+after Ms. Bakerink's name appeared on the NASD ballot as an independent 
+nominee, she received word that her firm was being audited by NASD, 
+more than nine months ahead of schedule. ``Fortunately, I'm not concerned,'' 
+she said. ``We do a really clean business. But I still feel it's intimidation 
+tactics.'' 
+</TEXT>
+</DOC>

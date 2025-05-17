@@ -1,0 +1,79 @@
+<DOC>
+<DOCNO> NBC19981024.1830.0759 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In "focus" this evening -- a warning for Internet surfers about how 
+easy it is to get in over your head. NBC's Soledad O'Brien has our 
+report. Barry wise is a cpa. He lives with his wife and two children 
+in North Carolina. Two years ago he thought he had found a sure-fired 
+investment. It was fortuna alliance, which on it's web site, billed 
+itself as a "new paradigm for financial independence." The company's 
+web site shows that under one plan a $250 monthly fee could return 
+over $5,000 per month. I just took it for granted that, heck, if it's 
+on the Internet it must be legitimate. Or it wouldn't be on the Internet. 
+But a web site is no guarantee of legitimacy. In a civil lawsuit, 
+the federal trade commission described fortuna alliance as an "illegal 
+pyramid scheme," with "false and deceptive" advertising that used 
+the Internet "to achieve a rapid growth on an international scale." 
+Before a trial could be held, company officials settled, admitting 
+no wrongdoing, but agreeing to give money back to investors who complained. 
+A court later ruled they didn't and held augie delgado, the head of 
+fortuna and other company executives in contempt. Delgado has disappeared 
+and so have nearly $3 million. In the end, investors got back only 
+60% of their money. The FTC says fortuna alliance was a classic pyramid 
+scheme, an old Con, transferred to a new medium, the Internet, but 
+some schemes depend on the internet to work. When monitors at AT&T 
+noticed a Spike in calls to Moldova, a small republic in the former 
+Soviet Union, investigators traced the calls to a couple of web sites 
+run by a company called audiotex. The case landed on the desk of the 
+FTC's Paul luehr. We went through the process and found that in essence 
+they were hijacking people's modems through their web sites. How did 
+it work? Investigators say, first, there was the bait -- free pornographic 
+pictures which required special software to view. What consumers did 
+not know, was that software turned off their speakers, disconnected 
+them from their Internet service providers, then reconnected them 
+to another Internet service provider in Moldova -- an expensive, long-distance 
+call. The FTC says 38,000 people ran up charges totalling $2.7 million. 
+Web site operators were supposed to get their money from the foreign 
+telephone companies. The company, while admitting no wrongdoing, settled 
+the case and agreed never to distribute the software again. We actually 
+stopped a lot of the money in the pipeline before it ever reached 
+the defendants, so in essence what we did was reverse the flow and 
+give consumers their money back through credits on their telephone 
+bills. The national consumers league tracks complaints of fraud on 
+the internet. They've seen explosive growth. Two years ago when we 
+set this up, we were seeing an average of -- noi we have more than 
+11 complaints of fraudulent Internet sites every month. Most common 
+complaints -- about online auctions places where buyers bid for items 
+over the Internet. John okonowski shopped that way seven or eight 
+times, with no problems. He uses online auctions because they're easy 
+and he saves money. Being an engineer, I felt fairly comfortable dealing 
+with the Internet. The bad experience came when he was the winning 
+bidder on a $310, 8.4 gigabit hard drive. After the auction and after 
+I had sent my cashiers check to pay for it, I never heard from him 
+again. And I also never received my hard drive. After weeks of pursuing 
+the seller, Craig hare of lake worth, florida, okonowski called U.S. 
+postal inspectors and he complained to the fbi. He says investigators 
+were reluctant to help. We got a response that if there was less than 
+a half million dollars involved, then they weren't really interested. 
+But Rob Ireland, and investigator at the federal trade commission, 
+was interested. He'd heard other complaints about Craig hare. He used 
+a slew of mail drops and aliases and Internet addresses that changed 
+on almost a daily basis to evade prosecution. And the consumer was 
+angered. On evidence from John okinowski and two dozen others, the 
+FTC sued hare for fraud. He was banned for life from conducting business 
+on the net and hare currently faces up to 15 years in prison and a 
+$750,000 fine on criminal charges for some of these same transactions 
+if convicted. Hare's dissatisfied customers, have gotten no money 
+back. He's not being asked to make restitution on it, I don't feel 
+very good about that. The lessons learned? I don't think I'm out of 
+the ordinary from what could happen to anybody. Barry is out $2,000, 
+he does not expect to see again. He's learned to trust less, never 
+deal in cash, and research every offer on the web, knowing now that 
+if it sounds to good to be true, it probably is. Soledad O'Brien, 
+NBC news, Matthews, North Carolina. For more information on this story, 
+including a list of the most common scams, visit Internet underground 
+at our web site -- MSNBC.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981212.1600.1001 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Aetna has added another 6.6 million customers to its health insurance 
+business. It took over Prudential health care for $1 billion. 
+</TEXT>
+</DOC>

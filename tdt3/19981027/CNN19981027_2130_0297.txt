@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981027.2130.0297 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton and vice President Gore held a roundtable discussion 
+at the White House today on women and social security. It focused 
+on how important social security benefits are for women retirees because 
+they generally live longer than men and earn less. And they addressed 
+the problems many women face supporting themselves in retirement. 
+The conference is part of the administration's efforts to revamp social 
+security. 
+</TEXT>
+</DOC>

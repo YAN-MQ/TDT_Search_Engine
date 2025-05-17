@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981105.1130.1026 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The bond is getting a boost from a look at monthly employment figures 
+a day ahead of schedule. They inadvertently that 116,000 more job 
+were created last month. That's weaker than suggests and suggests 
+inflation isn't a worry. There were 15,000 fewer jobs in the manufacturing 
+sector. As for the full report, they'll release that in the next 15 
+minutes. We'll keep you updated. 
+</TEXT>
+</DOC>

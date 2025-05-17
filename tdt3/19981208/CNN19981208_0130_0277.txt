@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981208.0130.0277 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The radiation belts surrounding earth may be more dangerous for spacewalking 
+astronauts than previously believed. Scientists say the phenomena 
+known as the Van Allen belts can spawn "killer electrons" when the 
+earth's magnetic field changes. We think that these electrons that 
+we're studying could have an important effect not only on satellites, 
+which we know has happened in the past, but could also effect the 
+astronauts by creating large doses of radiation that could influence 
+their health. The electrons can penetrate through lots of material, 
+including spacesuits and can pass through, in fact, the walls of the 
+space station and can create high charges deep inside of these objects. 
+Fluctuations in the Van Allen belt contributed to the failure of a 
+Canadian satellite in 1996. 
+</TEXT>
+</DOC>

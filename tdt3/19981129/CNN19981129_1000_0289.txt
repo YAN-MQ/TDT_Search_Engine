@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981129.1000.0289 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sources tell CNN attorney general Janet Reno will wait until tomorrow 
+to decide whether to request an independent counsel to investigate 
+former deputy White House chief of staff Harold Ickes. Sources say 
+she's waiting until the last possible minute to announce her decision. 
+Ickes is accused of lying to a Senate committee about whether the 
+Clinton administration tried to intervene in a labor dispute involving 
+the teamsters union in exchange for campaign donations from the teamsters. 
+The White House denies that. 
+</TEXT>
+</DOC>

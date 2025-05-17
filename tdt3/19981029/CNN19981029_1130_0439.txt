@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981029.1130.0439 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Government attorneys could play the deposition of Bill Gates today 
+at the antitrust trial of the software giant. The judge has ruled 
+all 20 hours of the deposition will be allowed saying gates may be 
+the most crucial witness. Yesterday, attorneys argued that America 
+online and Netscape had conspired to run Microsoft out of business. 
+The government accusing Microsoft of conspiring with Netscape to divide 
+the market for Internet software. 
+</TEXT>
+</DOC>

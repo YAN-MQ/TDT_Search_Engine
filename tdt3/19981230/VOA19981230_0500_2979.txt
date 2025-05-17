@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981230.0500.2979 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In Asia, markets closed mostly lower. The Nikkei Stock Index in Japan 
+ended the year off fractionally under pressure from plunging government 
+bonds. Taiwan, Hong Kong, and New Zealand stocks were lower. Australia 
+shares ended the day higher. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981030.1600.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+John Glenn thanked residents of perth, Australia, today for lighting 
+up their city again. The "city of lights" first made the gesture for 
+Glenn when he orbited the earth in 1962. 
+</TEXT>
+</DOC>

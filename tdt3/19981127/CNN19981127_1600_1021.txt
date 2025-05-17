@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981127.1600.1021 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+While today is expected to be a light trading day on Wall Street, 
+it's shaping up as a very busy one on main street, as the holiday 
+shopping season kicks off. Retailers call today "black Friday" because 
+strong sales today, one of the busiest shopping days of the year, 
+can move a retailer out of the red and into the black for the year. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981221.1130.1042 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tech news, Motorola is buying a division of Lucent. They will pay 
+between 100 million dsz and $200 million for their consumer wireless 
+phone operations. The move would give Motorola a push to improve its 
+business in the wireless hand set area. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> MNB19981202.2100.1548 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+You are looking live at the space shuttle endeavor on the launch pad 
+at cape Canaveral right now. If everything goes as planned, it will 
+lift off well before dawn Thursday morning, right around 4:00 A.M. 
+eastern time. The mission is the first in a series of shuttle flights 
+designed to build the international space station. Once the endeavor 
+crew members get on their way, they will have to catch up with the 
+Russian component of the stace station already up there, already in 
+orbit, and attach it to the U.S. Module they are carrying with them. 
+</TEXT>
+</DOC>

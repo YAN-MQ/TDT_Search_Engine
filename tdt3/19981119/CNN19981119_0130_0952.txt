@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981119.0130.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Trading on Wall Street ended on an up note Wednesday. The Dow Jones 
+industrial average gained 54 points to close at 9041. Analysts say 
+investor confidence has strengthened following Tuesday's interest 
+rate cut. 
+</TEXT>
+</DOC>

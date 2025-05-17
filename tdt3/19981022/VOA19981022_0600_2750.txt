@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> VOA19981022.0600.2750 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Many years ago, when computers were new and memory was expensive, 
+some programmers took a shortcut. Instead of entering the year as 
+a four-digit number, they used two. As a result, some older computers 
+will function improperly at the end of the century. Beginning Monday, 
+the federal government launched what it calls its Year 2000 Y2K Action 
+Week. The campaign has many components, including nationwide advertising, 
+special education sessions, and even a postage cancellation mark. 
+The Information Technology Association of America says that more than 
+100 private sector organizations are supporting the government's program. 
+</TEXT>
+</DOC>

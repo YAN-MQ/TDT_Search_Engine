@@ -1,0 +1,179 @@
+<DOC>
+<DOCNO> NYT19981108.0055 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Did a history teacher from Michigan and an obscure Canadian programmer 
+discover a twist to computing's Year 2000 problem that the experts 
+had missed? That question has ignited a simmering technical debate 
+in which some experts _ including Year 2000 specialists at Compaq 
+Computer's Year 2000 Expertise Center in Albany, N.Y. _ see a real, 
+if imperfectly understood, flaw that could cause many computers to 
+malfunction after seeming to sail smoothly into the year 2000. Many 
+experts, however, see it as a case of unfounded scare mongering. The 
+controversy turns on the intricacies of how computers keep time. It 
+underscores how the approach of 2000 is stirring doubts among computer 
+users and corporate America about who the true experts are and how 
+much they can be trusted. The Year 2000 problem stems from a seemingly 
+simple glitch: Computers have long used just two digits to refer to 
+the year, such as 98 for 1998, and often have trouble recognizing 
+that 00 is 2000 rather than 1900. But, as this dispute shows, that 
+simple problem spawns questions that can defy quick, clear-cut answers. 
+The purported timekeeping flaw was first reported in August 1997 by 
+Jace Crouch, a 46-year-old professor who teaches courses on Western 
+civilization at Oakland University in Michigan. It was subsequently 
+described at length on the Internet (www.intranet.ca/mike.echlin/bestif) 
+by Michael Echlin, a 35-year-old programmer at Atomic Energy Canada 
+Ltd. Not only is the timing of the flaw's onset unpredictable, they 
+say, but so are the results, which include malfunctions that can wipe 
+out data, prevent computers from starting up, and lead software programs 
+to make faulty calculations. The problem is said to affect primarily 
+older computers, but some more recent IBM clones are also said to 
+be susceptible. One report of the flaw involved an Apple Computer 
+Macintosh, and the flaw may lie hidden in a wide range of electronic 
+machinery. But is the flaw real? Or is it, as some critics say, a 
+reckless claim by the two men, who have set up a small company that 
+markets software to identify and neutralize the problem? ``They are 
+selling a fix for something they can't even explain,'' said Thomas 
+Becker, chief executive of Rightime Co., a Miami-based software company 
+that specializes in products that regulate timekeeping on personal 
+computers. ``They are trying to capitalize on fear.'' For more than 
+a year, the conflict over what has been variously called the Crouch-Echlin 
+Effect, time dilation, or simply, T.D., has been waged largely on 
+a handful of Internet sites favored by computer buffs. Even critics 
+like Becker say that Crouch and Echlin have undoubtedly encountered 
+something strange that urgently needs further research and explaining. 
+It all began with Crouch's decision more than a year ago to set his 
+office computer forward to Dec. 31, 1999, to test how it would handle 
+the transition to the year 2000. The rollover happened without a hitch, 
+even though the machine ran on a clone of Intel's aged 286 microprocessor 
+chip _ a relic from the mid-1980s. Since Crouch was using the computer 
+for word processing in which the date it logged made no difference, 
+he decided not to change the date back. But to his consternation, 
+during the next two weeks the computer's clock jumped ahead to December 
+2000. Other odd malfunctions cropped up. Crouch's report of these 
+anomalies on the Year 2000 forum at the comp.software newsgroup on 
+the Internet intrigued Echlin. He set up experiments on several computers, 
+then posted results suggesting Crouch's problems were not isolated. 
+But it certainly was baffling. While some testers reported computers 
+jumping ahead for minutes or months, others said they experienced 
+leaps backward, while on some machines the clock appeared to simply 
+slow down. Some afflicted computers were unable to locate the pathway 
+to outside phone lines or even their own hard disk, making it impossible 
+to fire up programs. ``The jury is still out on exactly what is happening,'' 
+said Douglas de Lacey, who oversees computer systems at Cambridge 
+University's School of Arts and Humanities in Britain and has reported 
+encountering the Crouch-Echlin Effect on two aging Toshiba laptops. 
+Pressure for a verdict is building, though, especially since a recent, 
+widely distributed e-mail announcement from Compaq's Year 2000 office 
+in Albany that said the company would be reselling the software fix 
+created by Crouch and Echlin. Becker said that he was being peppered 
+by anxious calls from major clients like General Motors and Exxon 
+asking what they should do. If the Crouch-Echlin Effect is real, computer 
+users may have to spend billions of dollars testing and possibly replacing 
+equipment that seemed ready for the next century. Theories of what 
+is causing the Crouch-Echlin Effect have come and gone. Most Crouch-Echlin 
+believers now suspect that the problem stems from a glitch in the 
+process through which computers can _ each time they are turned on 
+_ update the time from a battery-powered chip called the real time 
+clock, or RTC. The real time clock keeps track of time even during 
+periods when the computer's external power is switched off. The clock 
+is used as the source of the time and date by a computer's operating 
+system and is also directly accessed by some software programs, unless 
+the computer is part of a network in which a central server keeps 
+time for a coordinated group of devices. So far, the Crouch-Echlin 
+Effect has only been observed in computers with ``nonbuffered'' real 
+time clocks, a design not used in today's name-brand computers but 
+common in older devices. Nonbuffered real time clocks cannot be read 
+for an instant as their own second counter clicks over to the next 
+second. Because computer designers know of this limitation, all computers 
+are programmed to avoid checking nonbuffered real time clocks during 
+that update. Here's how: A chip known as the Basic Input-Output System, 
+or BIOS, looks to the real time clock for the time and date when the 
+computer user hits the ``on'' switch. In the case of a nonbuffered 
+real time clock, the BIOS chip will see the electronic equivalent 
+of a red flag for 244 microseconds before the update is to occur. 
+Seeing this flag, the BIOS waits briefly. If the flag is not there, 
+the BIOS figures it has enough time to complete its reading and proceeds 
+to do so. All this works fine until the computer reaches the year 
+2000, according to Echlin. After that, he says, computers with nonbuffered 
+real time clocks may trip up if an unlucky user turns them on at the 
+wrong instant in the update cycle. The problem, Echlin said, is that 
+at least some BIOS chips actually calculate by relating what they 
+read to elapsed time since a Jan. 1, 1980, start date _ a sort of 
+universally presumed dawn of time in the PC industry. After 2000, 
+that takes two steps: Time from 1980 until the end of 1999 is added 
+to time since the beginning of 2000, he said. The extra fraction of 
+a second it takes to complete the Year 2000 translation could push 
+the time check beyond the 244 millisecond safety window if the computer 
+happens to be switched on just before the flag goes up, Echlin said. 
+The result is a garbled time check with unpredictable results, he 
+said. ``They make a very solid argument,'' said Jeff Floyd, a real 
+time clock specialist for Motorola Inc., the giant semiconductor company 
+that manufactured the real time clock chip on Crouch's computer. But 
+critics like Becker contend that Echlin is being needlessly alarmist. 
+They complain that Echlin and Crouch have declined to provide equipment 
+on which they have seen their effect to critics who have asked to 
+test it. Becker said his doubts grew last year after he set up his 
+own test. He harnessed two computers with nonbuffered real time clocks 
+to a third device that turned them on and off 25,000 times over a 
+three week period. There was no sign of the Crouch-Echlin Effect, 
+he said. Testing just two machines is hardly definitive, Becker conceded. 
+But he said it was pointless to devote more time and resources without 
+the cooperation of Crouch and Echlin. ``I don't deny there is something 
+going on, but we tried to work with them and couldn't get their cooperation,'' 
+said James Lott, manager of timekeeping devices at Dallas Semiconductor, 
+a maker of real time clocks and other chips. ``We have full lab facilities 
+and would guarantee confidentiality. The cloak of secrecy turns all 
+of us off.'' Some of the critics suspect the supposed Crouch-Echlin 
+Effect is a variation on common timekeeping problems that are caused 
+by faults in a computer's power supply. Other critics challenge the 
+BIOS explanation. David Ross, an engineer with Phoenix Technologies, 
+a leading BIOS manufacturer, said that the process by which a BIOS 
+chip checks the time and date occurred too rapidly to create the situation 
+Echlin had described. A more likely explanation, in his view, is not 
+that the affected BIOS chips are taking too long to identify the year 
+2000 date, but that they are simply confused by encountering ``00.'' 
+Echlin insists that power supplies are not the problem because the 
+computers performed flawlessly on dates earlier than 2000. He also 
+bridles at charges that he and Crouch withheld crucial evidence. Early 
+this year, they sent the motherboard from Crouch's computer to Mark 
+Slotnick, a sympathetic technician at what was then Digital Equipment's 
+Year 2000 Expertise Center, to verify their results. Digital was acquired 
+by Compaq last June. In April, Barry Pardee, manager of the center, 
+told Echlin that Digital had confirmed the Crouch-Echlin findings 
+in its own tests. Shortly after Digital's merger with Compaq, Pardee 
+agreed to resell the software fix developed by Yeovil Systems and 
+Development Research Inc., a venture set up by Echlin, his sister-in-law, 
+and Crouch. Pardee said at the time that the testing had not turned 
+up any problems in Digital or Compaq computers but that the software 
+would be sold as a service to customers whose offices had a mix of 
+brands. Compaq-Digital also sent along an initial royalty payment 
+that Echlin described as ``about $1,000 for each of us.'' Crouch and 
+Echlin met soon afterward for the first and only time, in Sault St. 
+Marie, Ontario, half-way between their homes, where Echlin hand-delivered 
+Crouch's check. ``We're not planning to get rich,'' Echlin said, adding 
+that Yeovil gets just $1 for each copy of the software sold. ``We 
+were going to give this away but corporate America doesn't trust anything 
+that's free.'' Word of Digital's endorsement spread in October via 
+an e-mail from Pardee that Digital salesmen distributed to customers. 
+It included pricing for the software fix. Digital offered the software 
+at prices from $32 a unit for 50 computers down to $3 each for orders 
+of 25,000 or more. Crouch-Echlin critics were dumbfounded by Pardee's 
+endorsement. Becker alerted Karl Fielder, chief executive of Greenwich 
+Mean Time Ltd., a Year 2000 consulting company, who contacted Compaq 
+officials at the company's headquarters in Houston. Some engineers 
+within Digital also expressed doubts, a Compaq spokesman said. The 
+flurry of activity may soon bring the issue of whether Crouch-Echlin 
+is real to a head. Compaq officials plan to test the device that produced 
+the results Pardee found convincing and to ship it to Becker, a spokesman 
+said. Pardee and Slotnick did not respond to requests for comments. 
+Company officials said they were skeptical and would not ship the 
+Crouch-Echlin software fix unless further testing changes their minds. 
+One customer has purchased it, the company said, and will receive 
+a refund if the testing does not confirm the flaw. But Echlin is not 
+backing down. ``Jace and I have been hoping ever since we found this 
+that someone would come along and prove us wrong,'' he said. ``No 
+one who has followed our test procedures has.'' 
+</TEXT>
+</DOC>

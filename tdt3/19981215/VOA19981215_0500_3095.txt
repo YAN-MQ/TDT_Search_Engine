@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981215.0500.3095 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In New York, U.S. stocks reopened today at 8695 after a fifth straight 
+session loss, this time over 1.4 percent on the benchmark Dow Jones 
+Industrial Average. Lingering concerns over corporate profits, the 
+global economic situation, and a pending impeachment vote of President 
+Clinton sent investors to sell. The Dow shed over 126 points. 
+</TEXT>
+</DOC>

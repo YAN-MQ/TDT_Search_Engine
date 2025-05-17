@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981026.1600.0385 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane Mitch, the strongest atlantic storm of the season is churning 
+slowly towards Nicaragua and Honduras. At last report, it was 15 miles 
+north of Honduras, moving west northwest at about 8 miles an hour, 
+with top sustained winds of 170 miles an hour. Mitch has turned into 
+a category 5 storm, the most powerful there is. The national hurricane 
+center says the storm is very dangerous and capable of catastrophic 
+damage. A hurricane warning remains in effect for portions of the 
+Honduran coast to the nicaraguan border. We'll have the extended forecast 
+for the United States in just a moment. 
+</TEXT>
+</DOC>

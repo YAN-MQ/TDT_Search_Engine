@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981024.1130.0461 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+forecasters are keeping a close watch on hurricane mitch. the storm 
+was upgraded to a hurricane this morning, and it continues to strengthen. 
+at last report, mitch was located about 225 miles south-southwest 
+of kingston, jamaica. it had top sustained winds of about 100 miles 
+per hour. forecasters expect mitch to remain in the northwest caribbean 
+sea until at least monday. 
+</TEXT>
+</DOC>

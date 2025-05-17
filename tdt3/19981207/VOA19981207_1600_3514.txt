@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981207.1600.3514 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+We're coming up now on 22 hours universal time. That means we're closing 
+down all frequencies to the Middle East, North Africa and Europe except 
+for 1548 kilohertz medium-wave to the Persian Gulf region. In Europe, 
+during the next hour, VOA News Now can be heard on WRN1 via Astra 
+Channel 22, audio subcarrier 7.38 
+</TEXT>
+</DOC>

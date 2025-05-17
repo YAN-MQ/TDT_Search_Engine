@@ -1,0 +1,154 @@
+<DOC>
+<DOCNO> NYT19981122.0061 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+An improved navigational system for airplanes is nearing completion, 
+but no one seems certain how well the satellite-based technology meets 
+the aviation industry's extraordinary need for reliability. But a 
+U.S. missile attack on Iraq, if tensions escalate to that level, could 
+provide a clue. Ten days ago, when an air strike against that country 
+appeared imminent, civilian air navigation experts were intent on 
+learning whether Iraq would be able to jam the electronic signals 
+of the satellites, which are used for both military and civilian applications. 
+And with many foreign-policy analysts still expecting an eventual 
+attack, the navigational system may yet have its trial by fire. The 
+new method is based on the Global Positioning System, a halo of two 
+dozen satellites originally meant for troops and missiles but now 
+also used by hikers, farmers, surveyors, trucking companies and many 
+pilots of private planes to determine quickly and accurately where 
+they are. Some airlines have also begun using GPS for long trips over 
+water where there are no ground-based navigation aids available, as 
+well as for landings and to augment other navigational methods. The 
+Federal Aviation Administration formerly planned to use GPS to replace 
+all ground-based navigation aids. But to address reliability concerns, 
+the FAA is now thinking of retaining at least a third of the old system, 
+which consists of an aging network of radio beacons called VHF omnidirectional 
+radios, which are used for long-distance navigation, and instrument 
+landing systems, which are available at a small number of runways. 
+If GPS were widely adopted for civilian aviation, air-traffic controllers 
+could safely squeeze airborne jetliners closer together near big airports 
+and the system would give even tiny airports first-class guidance 
+capabilities. But GPS is subject to jamming _ electronic interference 
+that can disrupt signals from the satellites to navigational receivers. 
+Just how big a problem jamming might be _ whether through mistakes 
+or through deliberate steps by foreign enemies, terrorists or vandals 
+_ is open to debate. And with such uncertainty, no one knows for sure 
+how much of the old system should be maintained as a backup. Some 
+answers may come from the Johns Hopkins University Applied Physics 
+Laboratory, which is in the latter half of a six-month, $500,000 study 
+of whether GPS should replace all existing forms of civil aviation 
+navigation aids. The study was recommended by a White House task force 
+a year ago, because of concerns about jamming, and it is being sponsored 
+by the FAA and organizations representing the major airlines and private 
+plane owners. ``What we're looking at is, Does GPS cover us in all 
+circumstances?'' said Helen Worth, a spokeswoman for the laboratory, 
+which is in Laurel, Md. ``If there is a circumstance where it could 
+be disabled,'' Ms. Worth said, ``I would say that's an area of concern.'' 
+The GPS system has already been accidentally jammed at least three 
+times. In December 1997 and again in February of this year, airlines 
+reported losing GPS signals near Albany, N.Y. Investigators eventually 
+found that an Air Force laboratory in nearby Rome, N.Y., had used 
+a five-watt transmitter to test the reception ability of antennas, 
+and inadvertently left the transmitter running. An FAA official cited 
+a third case, involving a McDonnell Douglas plant in St. Louis that 
+was testing a jammer for use on fighter planes. But in these cases, 
+because the full complement of conventional aviation navigation aids 
+is still in place, the jamming was only an inconvenience. Hostilities 
+with Iraq, if they resume, would be a new category. ``This is going 
+to be the Super Bowl of jamming,'' said Langhorne Bond, a former head 
+of the FAA who has been arguing in recent months that his former agency 
+needs to maintain a backup system and not rely solely on GPS. Bond 
+and others say that a new attack on Iraq would be the first instance 
+of using GPS-guided weapons against a target country that knew they 
+were coming. In the Persian Gulf war in 1990, many of the cruise missiles 
+had no GPS systems; with those missiles that did, the Iraqis had no 
+experience with such weapons. In last summer's U.S. cruise missile 
+attacks against presumed bases of Osama bin Laden in Afghanistan and 
+the Sudan, the targets had no warning. GPS receivers, whether a sophisticated 
+device in a cruise missile or a portable gadget in a hiker's backpack, 
+listen for signals from several of the satellites, which circle the 
+globe at an altitude of 10,900 nautical miles, each broadcasting its 
+location and identity. The receiver records the time of arrival of 
+each satellite's signal to calculate the distance from the spacecraft. 
+By combining several calculations from several satellites, a process 
+known as triangulation, the receiver can determine its position. Some 
+airlines already use GPS on long over-water routes, and private pilots 
+use it widely for all sorts of flights. For civil aviation, the allure 
+of GPS is that the satellites are already in place, in the form of 
+those circling satellites. The FAA is installing supplementary equipment 
+on the ground to make the signals even more accurate. For the airlines, 
+making use if it is largely a matter of equipping a plane with a GPS 
+receiver. By contrast, the conventional civilian navigation system 
+is expensive to maintain, and the FAA has never had enough money to 
+put sophisticated instrument landing systems at all the airports that 
+want them. But the older system does have its advantages. While individual 
+components of it can fail or even be knocked out deliberately, the 
+failure of a single ground-based radio beacon is a little like the 
+failure of a single street light _ seldom critical. For any given 
+plane, if no other navigation aid were available, GPS jamming would 
+at least temporarily force the aircraft to fly blind, or even land 
+blind. What is more, GPS signals are very weak compared with signals 
+from existing civilian aviation radio beacons. That is why an Iraqi 
+conflict would be looked to as a rare real-life experiment in GPS 
+reliability. Experts say that they have no specific evidence of Iraqi 
+preparations to jam the signals, but that such efforts have been anticipated 
+for years and could be quite simple. A Rand report commissioned by 
+the government three years ago raised the possibility of an adversary 
+using numerous battery-powered jammers, each weighing only one or 
+two pounds, and radiating as little as one watt of energy _ only slightly 
+more powerful than a hand-held cell phone. Roughly speaking, jamming 
+would involve filling the satellite's radio channel with electronic 
+noise that effectively drowns out the relatively weak navigational 
+signal emitted by the satellite _ a mere whisper at one-tenth of one 
+quadrillionth of a watt. ``The planning assumption would have to be 
+that they would try to jam,'' John Pike, head of space policy at the 
+Federation of American Scientists, said of the Iraqi military. ``It's 
+not that difficult, and they've had a lot of guys who haven't had 
+anything else to worry about for the last six or seven years, other 
+than figuring out what, if anything, they can do to make our life 
+more difficult.'' Jamming a military receiver is harder than interfering 
+with a civilian one, because the coded signal that the satellites 
+send to military receivers is spread over a radio spectrum 10 times 
+as wide as the civilian one, 20 megahertz compared to 2 megahertz. 
+For jamming, the difference is comparable to using a ball-point pen 
+to draw a line to obscure the newspaper type in this sentence (the 
+civilian GPS signal) as opposed to drawing the same line through the 
+headline on this article. Cruise missiles are also equipped with inertial 
+guidance systems, which would carry them across any gaps in the GPS 
+signal, as well as systems that can sense the shape of the terrain 
+below, and compare that with maps stored in their databanks. Once 
+a missile is in sight of a target, GPS is irrelevant. Moreover, the 
+military aim is only to get very close to the target and assume the 
+destructive power of the missile will take care of the rest. For an 
+airliner making a landing, merely close is not good enough. And if 
+the average accuracy of missiles is decreased by jamming, a military 
+commander can send two or three to raise the chance that at least 
+one making it to the target; airlines would not stay in business very 
+long by dispatching two or three planes in zero visibility to insure 
+that at least one load of passengers safely reaches the destination. 
+If there is a military conflict and if the Iraqis add GPS jamming 
+to their arsenal, the lessons for civil aviation might be limited. 
+The Pentagon, for example, might not disclose how well GPS performed. 
+Or, if the missiles work well anyway because of alternate guidance 
+systems on the missiles, the Pentagon itself may not even know how 
+well the GPS elements worked. But these possibilities have not stopped 
+civilians from showing interest. ``I think this is going to be absolutely 
+fascinating,'' Bond said. An executive at a consulting firm that has 
+done work in the field said that the technology for jamming was not 
+hypothetical. ``It's here today,'' said the executive, who asked not 
+to be further identified. If the Iraqis were to use such technology, 
+which he said was entirely possible, he added that it would be ``important 
+for us to know what it portends for a civilian system, and what needs 
+to be done.'' Jack Ryan, an air traffic expert at the Air Transport 
+Association, the trade group of the major U.S. airlines, said the 
+group was hoping that the Johns Hopkins research team would find ``mitigation 
+techniques'' to deal with GPS jamming. One approach, he said, might 
+be an antenna that can be steered to screen out stray signals, or 
+a receiver that can filter them. Experts agree that the military approach 
+to the problem would probably be less subtle. If the St. Louis jamming 
+episode had occurred in a war zone, said George Donohue, a navigation 
+and technology expert who has held high positions both at the Pentagon 
+and the FAA, ``we'd have bombed McDonnell Douglas.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981118.2130.0934 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And a British submarine has successfully fired a tomahawk cruise missile 
+at a target off the California coast. It is the first such live warhead 
+test by Britain. 
+</TEXT>
+</DOC>

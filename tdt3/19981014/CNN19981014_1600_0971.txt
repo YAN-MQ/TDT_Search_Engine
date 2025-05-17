@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981014.1600.0971 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks on Wall Street finish in the plus column. Kitty pilgrim has 
+the closing numbers from New York. Kitty? Thanks, Chuck. It was an 
+upbeat day on Wall Street. Earnings reports rolled in, many of them 
+better than expected. The Dow, which began in Negative territory, 
+gained 30 points. We haven't seen this kind of volatility in the market 
+for years. It reminds me of the '80s. As long as we continue to see 
+the hedge funds in crisis, we will see this. And there will be continued 
+spillover, and it's here to stay for a while. There's a big rally 
+in the bond market. 
+</TEXT>
+</DOC>

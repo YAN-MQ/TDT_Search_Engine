@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981129.1130.0440 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A Medicare decision may keep some women from getting an alternative 
+pap smear which supporters say is better than the standard test. Government 
+health regulators call thinprep significantly more effective. But 
+the American college of obstetrics and gynecology and many insurers 
+think it's not good enough to justify its extra $15 to $20 per test 
+cost. Because Medicare will let states decide how much to pay for 
+pap smears, not all Medicare patients will be able to get the alternative 
+test. 
+</TEXT>
+</DOC>

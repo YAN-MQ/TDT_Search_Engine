@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981022.0600.2879 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+There's another segment of the American population that has also been 
+studied regarding computer use. SeniorNet, a nonprofit group, and 
+Charles Schwab, an online brokerage company, conducted research that 
+shows that four out of 10 Americans over the age of 50 have computers 
+at home. Unlike their children and grandchildren, the older computer 
+users don't spend much time playing high-tech games. Instead, they 
+prefer to exchange e-mail, do research, or plan vacations. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981123.1830.1390 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And just a little farther west in California, Whitewater figure Susan 
+mcDougal was found not guilty today on charges of embezzlement and 
+income tax evasion. This case was not related to her refusal to testify 
+against president clinton in the Whitewater case. 
+</TEXT>
+</DOC>

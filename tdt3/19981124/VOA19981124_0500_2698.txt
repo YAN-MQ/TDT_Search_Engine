@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> VOA19981124.0500.2698 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+You're tuned to VOA News Now, coming to you from Washington. 
+</TEXT>
+</DOC>

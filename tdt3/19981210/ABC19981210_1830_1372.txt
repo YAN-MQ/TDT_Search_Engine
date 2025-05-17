@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981210.1830.1372 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In St. Louis today, a federal judge has decided that the Ku Klux Klan 
+has no constitutional right to advertise on a college radio station. 
+As we reported earlier this week, the KKK sued after the station refused 
+to let the Klan sponsor a program and air a brief sponsorship message. 
+</TEXT>
+</DOC>

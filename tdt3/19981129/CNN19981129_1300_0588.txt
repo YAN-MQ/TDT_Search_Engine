@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981129.1300.0588 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Pope John Paul II today declared the year 2000 a holy year. In a ceremony 
+at the Vatican, the Pontiff began the Catholic church's countdown 
+to the new milennium. It marks the official start of final preparations 
+for the holy year. The Pope told Catholics abstaining from smoking 
+and drinking and giving to charity can help them get to heaven faster. 
+</TEXT>
+</DOC>

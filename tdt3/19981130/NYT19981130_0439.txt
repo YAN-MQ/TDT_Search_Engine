@@ -1,0 +1,74 @@
+<DOC>
+<DOCNO> NYT19981130.0439 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In a day of prickly, detailed cross-examination at Microsoft's antitrust 
+trial, Frederick Warren-Boulton, an economist, summed up the government's 
+case of how the software giant wields its market power. ``Microsoft 
+cannot point a gun to people's heads,'' Warren-Boulton said in response 
+to a question from Microsoft's lawyer, ``but they can make them an 
+offer they can't refuse.'' It is precisely this broad portrayal of 
+Microsoft as a bullying monopolist that is the main target of Microsoft's 
+defense as it tries to attack every fact, theory and assumption underlying 
+the government's case. The cross-examination of Warren-Boulton, the 
+government's seventh witness, has illuminated the company's defense 
+strategy. ``We're seeing the slow but steady process of cleaning off 
+the mud that has been thrown at Microsoft,'' said Mark Murray, a Microsoft 
+spokesman. ``The facts do not fit the government's generalizations.'' 
+Warren-Boulton spent his fourth day on the stand Monday, undergoing 
+cross-examination on his long written testimony. As an economist, 
+he has offered arguments on many issues in the case, unlike industry 
+witnesses whose testimony focused more narrowly on their areas of 
+expertise. Much of the questioning centered on Microsoft's contracts 
+with personal computer makers, Internet service suppliers and companies 
+that create programming on the World Wide Web. The government contends 
+that Microsoft illegally used its market power to persuade these companies 
+to enter exclusionary deals to curb competition in the market for 
+Web browser software. Michael Lacovara, a Microsoft lawyer, tried 
+to get Warren-Boulton to concede that Microsoft's deals with Internet 
+service suppliers, from America Online to small local companies, did 
+not prevent them from distributing other browsers, including the Netscape 
+Communications' Navigator. Warren-Boulton acknowledged the narrow 
+point but noted that most of the contracts called for the Internet 
+access companies to guarantee that 75 percent or more of their customers 
+use Microsoft's browser. Lacovara countered by asking whether such 
+exclusive, cross-promotional deals were standard in many industries. 
+``Absent monopoly power,'' Warren-Boulton replied in a pointed return 
+to his theme that the antitrust rules are different for monopolies, 
+``exclusive-dealing arrangements can be assumed to be benign.'' Lacovara 
+offered evidence that several large computer manufacturers, including 
+Hewlett-Packard, now ship their personal computers with their own 
+hybrid Web browser installed. Was that not an indication, Lacovara 
+asked, that Microsoft was not restricting manufacturers nearly as 
+much as the government have contended? Not really, Warren-Boulton 
+responded. The Hewlett-Packard browser, like others, is really just 
+a ``shell'' _ a custom-made user interface behind which lies the code 
+for Microsoft's browser, Internet Explorer, he said. ``This works 
+for Microsoft,'' Warren-Boulton said, ``because it increases the installed 
+base for Internet Explorer'' and prompts developers to write complementary 
+software. After a couple of years of enforcing contracts that limited 
+the freedom of computer makers to offer Internet software from rivals, 
+Microsoft loosened the contracts this year, mostly with the introduction 
+in June of Windows 98, an upgrade of its operating system. Similarly, 
+Microsoft relaxed some contract restrictions on Internet service suppliers 
+early this year. By then, Warren-Boulton said, ``the game was over'' 
+because key channels of software distribution had already been tipped 
+in Microsoft's favor. The easing of contract restrictions also came 
+after the Justice Department's high-profile investigation of Microsoft 
+was well under way and the company faced Senate hearings and a government 
+challenge in a separate case. While scoring a few points against Warren-Boulton, 
+Microsoft has been unable to counter a powerful part of his testimony, 
+which attempts to demonstrate that Microsoft does have monopoly power. 
+One definition of a monopolist, Warren-Boulton noted, is that he can 
+raise prices for his product with no fear that the price increase 
+will give power to his competitors and cost him market share. Warren-Boulton 
+said the price Microsoft charges computer makers for Windows has more 
+than doubled in the last seven years, while the overall price of a 
+personal computer has dropped precipitously. Meanwhile, Microsoft's 
+share of the operating system market has steadily increased; Windows 
+is now installed on 95 percent of computers sold. Microsoft replies 
+that over the years it has vastly improved Windows so that when adjusted 
+for performance the price of Windows remains low. 
+</TEXT>
+</DOC>

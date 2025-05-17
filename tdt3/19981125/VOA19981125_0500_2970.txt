@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> VOA19981125.0500.2970 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Virtually all the major Asian markets fell back today after posting 
+healthy gains in recent sessions. In Japan, the benchmark Nikkei Index 
+closed down 91 to 15,073. Investors there believe share prices have 
+outstripped earnings prospects in light of Japan's recession. The 
+dollar slipped in Asia trading after a late Tuesday New York quote 
+of 121.2. Hong Kong stocks closed 1.2-percent lower as investors locked 
+in profits on recent sharp gains. The Hang Seng shedding 131 to 10,721. 
+South Korean stocks bucked the trend, rising.7 percent. 
+</TEXT>
+</DOC>

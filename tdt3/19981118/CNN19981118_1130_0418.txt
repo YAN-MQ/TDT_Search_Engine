@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981118.1130.0418 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stargazers from north America to Asia were treated to a spectacular 
+light show over the last two days. And the earth's 600-plus satellites 
+apparently weathered the celestial sandstorm known as the Leonid meteor 
+shower unscathed. What will be remembered by many was Leonid's flashes 
+of brilliance, especially in Asia, where some areas saw a peak of 
+nearly 1,000 meteors an hour. 
+</TEXT>
+</DOC>

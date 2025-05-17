@@ -1,0 +1,50 @@
+<DOC>
+<DOCNO> NYT19981127.0272 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Federal Aviation Administration issued an emergency order on Friday 
+requiring eight cargo airlines to change the way cargo doors are attached 
+to old Boeing 727s that had been converted to freighter use. The aviation 
+agency originally ordered the changes in 1991 after discovering that 
+the 727 aircraft skin could develop hidden cracks at the point of 
+attachment, but the FAA says the airlines ignored the request. It 
+had given the airlines six years to do the work. Now the FAA has demanded 
+that the cargo planes be inspected within the next 60 flights, and 
+that repairs be done within 120 days or 250 flights. Most cargo jets 
+make only one or two flights a day. Cracks in the skin can make a 
+plane depressurize at high altitudes or even break up in flight, and 
+aging aircraft bodies have become a growing concern as the jet era 
+advances into its fifth decade, with many of the original planes still 
+flying. The emergency order applies to 160 of the Boeing 727s, which 
+began flying commercially in 1963. The repairs are expected to cost 
+about $78,000 per plane and include replacing the rivets with stronger 
+ones. Some passenger planes have suffered damage in flight because 
+of cracks, but no cargo-plane accidents have been linked to the problem. 
+The cargo doors swing up like the back gate on a minivan. The FAA 
+found in 1991 that airlines were installing them by fastening a metal 
+plate in the area as a reinforcement, a procedure that sometimes hid 
+cracks and allowed them to grow. Some airlines put fabric between 
+the plate and the skin, thus allowing moisture to collect and encouraging 
+corrosion, the FAA said. But its inspectors only recently discovered 
+that cargo airlines did not make the repairs on passenger 727s that 
+were converted to cargo use. ``This is an odd one,'' said Diane Spitalieri, 
+an agency spokeswoman. ``We're still investigating to see why everybody 
+seemed to be noncompliant.'' Darlene Faquin, a spokeswoman for one 
+of the cargo airlines, Fedex, said it had not ignored the 1991 order 
+but had sought and received permission for a repair that did not include 
+removing the metal plate. Now, Ms. Faquin said, it appeared that the 
+permission was being rescinded. She said Fedex ``has the utmost confidence 
+in the safety of our 727 fleet of cargo aircraft.'' She said the FAA 
+would meet with Fedex and other cargo airlines next week to discuss 
+the issue. Phone messages left at several other cargo airlines went 
+unanswered Friday. But an official at one airline, speaking on the 
+condition of anonymity, said the airlines had recently been meeting 
+with the FAA and discussing what steps would constitute compliance 
+with the 1991 order. The FAA said its order applied to Fedex, a unit 
+of FDX Corp.; American International Airways; DHL Airways, a unit 
+of DHL Worldwide Express; Evergreen International Aviation; Express 
+One International; Kitty Hawk Air Cargo; Northern Air Cargo, and Ryan 
+International Airlines. 
+</TEXT>
+</DOC>

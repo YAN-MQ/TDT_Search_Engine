@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> CNN19981107.1130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There's an increasing chance your commercial airline flight could 
+be interrupted by something as simple as an odor. Pilots are taking 
+the smell of smoke in the cockpit much more seriously these days. 
+Dan Ronan has today's edition of "working ahead." Pilots say smoke 
+in the cockpit and being forced to make an unscheduled landing can 
+be one of the scariest situations they'll deal with. Not only may 
+the plane have a malfunction, but the pilot's visibility and ability 
+to breathe can be hampered. All of the electrical connections come 
+into the cockpit or come into a Compartment underneath the cockpit. 
+So if there's an electrical short, you're going to get some kind of 
+a Smell, just like if you get a short in the wiring in your house. 
+It doesn't necessarily start a fire, but you'll have that -- that 
+acrid smell. In the two months since the Swissair accident, there 
+have been at least eight unscheduled landings because of smoke in 
+the cockpit. That's twice as many as the FAA usually receives. Aviation 
+experts say while the rules for landing a plane with smoke in the 
+cockpit have not changed, because of the Swissair crash, pilots may 
+be more conservative. When an accident, any kind of accident happens, 
+people become more sensitive to those kinds of incidents. And smoke 
+in the cockpit, of course, is one of the really scary things for a 
+pilot. Adding to the equation, many say the mainstream media are more 
+aggressive about reporting aviation issues. But the airlines we spoke 
+to do confirm they're telling their pilots, "if there's smoke in the 
+cockpit, don't take chances, land the plane." Dan Ronan, CNN, Atlanta. 
+</TEXT>
+</DOC>

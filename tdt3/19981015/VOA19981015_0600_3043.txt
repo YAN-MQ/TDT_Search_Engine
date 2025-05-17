@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981015.0600.3043 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Apple Computer Company reported a 106 million dollar quarterly 
+profit, well above Wall Street expectations, Apple says the success 
+of it's new iMAC computer was a big factor in the stronger earnings 
+statement. 
+</TEXT>
+</DOC>

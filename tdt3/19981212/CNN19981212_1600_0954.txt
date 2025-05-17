@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981212.1600.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And doctors say baseball legend Joe DiMaggio could recover from the 
+pneumonia that had him at the edge of death. Today, he has been sitting 
+up and talking, a dramatic comeback from yesterday, when he was in 
+a coma. 
+</TEXT>
+</DOC>

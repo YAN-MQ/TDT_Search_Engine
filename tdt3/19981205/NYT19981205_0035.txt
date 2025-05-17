@@ -1,0 +1,124 @@
+<DOC>
+<DOCNO> NYT19981205.0035 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Theodore Roosevelt plotted the beginning of the end of John D. Rockefeller's 
+oil empire at a secret meeting at the White House on a summer night 
+in 1906. Surrounded by his attorney general and other key cabinet 
+members, he mapped out the antitrust suit against Standard Oil that 
+prompted steel baron Henry Clay Frick to complain on behalf of his 
+fellow oligarchs, ``We bought the son of a bitch, and then he didn't 
+stay bought.'' It took five years for Roosevelt's case to be won in 
+the Supreme Court, breaking up Standard Oil into 34 companies. And 
+for the better part of the next 70 years, Washington's economic agenda 
+was dominated by the high-stakes politics of curbing the power of 
+big enterprises: The regulatory zeal of the New Deal, the oil cartel 
+cases of the 1950s and '60s, the failed _ and now foolish-looking 
+_ 13-year pursuit of IBM, the breakup of the Bell System. But something 
+has changed in Washington in the past decade or so, something that 
+has taken the issue that Woodrow Wilson called ``these vast aggregations 
+of capital'' off the country's political agenda, even as it lives 
+on in courtroom arguments about the legality of Microsoft's strategies 
+to dominate the electronic ether. Last week, when two of the biggest 
+remaining parts of the old Rockefeller empire, Exxon and Mobil, were 
+recombined in the world's largest merger, Washington yawned. House 
+Minority Leader Dick Gephardt, the pro-union, pro-consumer voice of 
+the Democratic Party's left wing, spent the day complaining loudly 
+_ about the Clinton impeachment inquiry, and he has yet to say anything 
+about the deal, according to his office. In fact, scarcely a politician 
+of any stripe headed for the cameras to question whether the $75 billion 
+deal was good for the country, for workers or for consumers. The same 
+silence greeted the deal that created Citigroup, which was the largest 
+financial services company for a few minutes until Deutsche Bank bought 
+Bankers Trust Corp., earlier this month, and Cargill Inc.'s move to 
+snap up Continental Grain, one of the few huge concerns that farmers 
+could turn to if they didn't like the prices Cargill was offering 
+for their harvest. President Clinton, only steps away from the room 
+where Roosevelt held forth 92 years ago, was hardly pounding the podium. 
+``My position on mergers,'' he said, ``has always been that if they 
+increase the competitiveness of the company and bring lower prices 
+and higher quality services to the consumers of our country, then 
+they are good; and if they don't, they aren't.'' Clinton's fence-sitting 
+reflects the odd politics of an era of prosperity tinged with uncertainty. 
+A few years ago downsizing was a brewing political issue; though layoffs 
+continue _ last week the Asian economic crisis claimed another 28,000 
+workers at Boeing _ job growth has been so strong that that the issue 
+has been defused. Less than a decade ago, when Japanese corporations 
+snapped up New York's Rockefeller Center and two Hollywood studios, 
+many in Congress were in an uproar over the sale of American icons 
+to foreigners. But these days, with the Dow bobbing at record levels 
+and analysts declaring the triumph of American-style capitalism, neither 
+the Deutsche Bank acquisition or Daimler-Benz's purchase of Chrysler 
+Corp. last spring has yielded a similar furor. Many theories have 
+been offered to explain this new passivity about the evils of Big 
+Everything: the pace of technological change, or the realities of 
+borderless competition in a year of global tumult, or the confusing 
+business currents that at once celebrate the global reach of U.S.-based 
+multinationals and the entrepreneurial spirit of small businesses. 
+And perhaps it's just temporary _ if prices start going up again at 
+the pump, or if the U.S. economy falters, there could be a renewed 
+clamor to reign in corporations viewed as too big, too powerful or 
+too heartless. But whatever the reason, noted Sen. Paul Wellstone, 
+D-Minn., who is among the few in Congress still exercised about the 
+concentration of corporate power, ``Once upon a time this was a burning 
+issue, and now it's not even on the table.'' The government's current 
+antitrust case against Microsoft seems at first blush be the notable 
+exception: It's hard to turn on the television these days without 
+hearing about the company's supposed scheme to dominate the Internet 
+browser market, or its secret strategies to flatten competitors. (Imagine 
+the muck Ida Tarbell could have raked with access to e-mail.) But 
+among politicians, the case is rarely mentioned. No one ran for office 
+on a platform of Gates-bashing the way Roosevelt once called Rockefeller's 
+crowd ``the biggest criminals in the country.'' At a rare high-profile 
+hearing this year on the long-term effect of mergers, Federal Reserve 
+Chairman Alan Greenspan argued that the government was inept at determining 
+in advance those mergers that would create competitive problems and 
+would be wiser to wait and see. ``I would feel very uncomfortable 
+if we inhibited various different types of mergers or acquisitions 
+on the basis of some presumed projection as to how markets would evolve, 
+how technology would evolve,'' he said, ``because history is strewn 
+with people making projections that have turned out to be grossly 
+inaccurate.'' Greenspan's view was challenged at the hearing, chiefly 
+by Joel Klein, the assistant attorney general in charge of antitrust, 
+and Robert Pitofsky, the chairman of the Federal Trade Commission, 
+which will review the Exxon-Mobil merger and presumably force the 
+company to divest some assets. Pitofsky noted that undoing the damage 
+after employees of an acquired company have been fired, after its 
+plants have been closed and after top management has moved on, ``is 
+enormously expensive.'' But the fact remains that few lawmakers dare 
+to venture deep into this territory, even though it sustained generations 
+of their predecessors. ``The biggest reason is the mix of money and 
+politics,'' says Wellstone, who is intensely focused on the issue 
+as he decides whether to run for his party's presidential nomination. 
+``For both parties, these are the heavy hitters, the monied interests 
+who have a huge impact on the tenure of people in Congress. Not too 
+many people want to challenge them.'' Of course, that was also true 
+in Roosevelt's day, even if Frick and other monopolists came to regret 
+their support of the president. But Wellstone notes a second reason: 
+the quiet arrival in Washington of ``a set of shared assumptions about 
+what is necessary these days for survival in a global economy.'' The 
+first is that while bigger is not always better, it may be the only 
+way to extend one's reach abroad. ``The ability to be a global player 
+and to be competitive anywhere in the world has become more important 
+as all the traditional walls of regulation, state ownership and time 
+barriers have come down,'' said Daniel Yergin, chairman of Cambridge 
+Energy Research Associates. The second assumption is that technology 
+moves faster than antitrust cases. When the government began its push 
+against IBM in the late 1960s, the microprocessor had just been invented. 
+By the time the case was abandoned, the microprocessor was revolutionizing 
+the computer industry, and IBM was missing the boat. It caught up, 
+but market dominance was no longer an issue. And the breakup of the 
+Bell System, while leading to lower long-distance rates and helping 
+to promote technological advances, has also driven millions of consumers 
+up the wall. For many, the only thing more annoying than trying to 
+figure out how to get a phone fixed is answering dinner time calls 
+from solicitors trying to sign up customers for a new phone service 
+nobody has ever heard of. In the end, today's trust-busters are no 
+longer politicians but technocrats and regulators who, over the next 
+few months, will be reviewing neighborhood-by-neighborhood what to 
+do about streets that have both a Mobil and an Exxon station. Almost 
+no one is talking about blocking the merger itself, a merger that 
+a decade ago Exxon would not have dared to think possible. 
+</TEXT>
+</DOC>

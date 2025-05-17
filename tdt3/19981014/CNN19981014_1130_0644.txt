@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981014.1130.0644 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have the day's top stories in two minutes. Then -- we'll check 
+the latest numbers from Wall Street. And later -- a little recognition 
+for the corporate heroes who make sure packages get to your desk. 
+</TEXT>
+</DOC>

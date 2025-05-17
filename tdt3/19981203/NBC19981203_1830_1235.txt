@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NBC19981203.1830.1235 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A fast-moving fire in the Philippines this morning left at least 28 
+people -- Mostly young children -- dead. The rundown building housed 
+an orphanage, which also served as a baby sitting service for parents 
+working the night shift. Security bars on the windows turned it into 
+a death trap. Witnesses said they could hear the children screaming 
+to get out. Officials said the likely cause was bad wiring. 
+</TEXT>
+</DOC>

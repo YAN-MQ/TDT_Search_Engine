@@ -1,0 +1,205 @@
+<DOC>
+<DOCNO> NYT19981019.0198 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In the beginning, there was light, the bursting dawn of cosmic creation. 
+As the fireball of the Big Bang expanded and cooled, though, the light 
+faded away and darkness fell on the young universe, by then little 
+more than a formless sea of dark matter flecked with traces of primordial 
+hydrogen and helium and broken only by scattered but fateful ripples. 
+The universe had entered what astronomers characterize as its dark 
+age. Over a period from 300,000 years to about half a billion years 
+after the Big Bang the darkness persisted, denying to astronomers 
+any direct evidence of this time of momentous transformation. Somehow 
+this epoch gave birth to the architecture of the modern universe and 
+conditions that would eventually lead to planets and life. But what 
+happened in the dark age and how the light came on again is an enduring 
+and frustrating mystery. If there was no light or other detectable 
+radiation from the dark age, what was there to see? Besides, no telescope 
+could see back that far. Sir Martin Rees, a cosmologist at Cambridge 
+University in England, calls this the ``most important unsolved problem 
+in astronomy.'' In spite of the obstacles, by looking deeper and deeper 
+into space and thus into time with new telescopes in Earth orbit and 
+on the ground, astronomers are making progress in their search for 
+the first light. They are at last catching sight of some of the earlier, 
+if not necessarily the first, galaxies _ each observation seems to 
+put their formation back earlier in time. Astronomers are also gathering 
+clues to what makes up most of the universe, the mysterious dark matter, 
+and how it and other dark-age conditions gave birth to the first stars 
+and the first galaxies. The new knowledge is enabling scientists to 
+test their theories and conduct increasingly detailed computer simulations 
+of cosmic history, including the dark age. The dark age ended when 
+light returned to the firmament with the emergence of the first stars 
+and then vast communities of stars gravitationally bound in galaxies. 
+``Suddenly, the universe lit up like a Christmas tree,'' said Dr. 
+Abraham Loeb, a theoretical astrophysicist at the Harvard-Smithsonian 
+Center for Astrophysics in Cambridge, Mass. ``Somewhere in the dark 
+age, the transition from the universe's initial simple state to its 
+current complex state occurred,'' Loeb said. ``It would be philosophically 
+exciting to glimpse that moment.'' A few years ago, Loeb recalled, 
+he was one of a handful of scientists studying the dark age and early 
+star formation. But a workshop on the subject at the University of 
+Maryland last week drew several dozen of the top observational and 
+theoretical astronomers. ``Now this has become a very hot topic,'' 
+he said. Two weeks ago, the National Aeronautics and Space Administration 
+released pictures taken by the Hubble Space Telescope of what astronomers 
+think are the most distant galaxies ever studied. These galaxies probably 
+formed in the first billion years of cosmic history, or more than 
+12 billion years ago. Such estimates are rough because they depend 
+on cosmological models and chronological yardsticks based on the universe's 
+being about 13 billion years old, which is controversial and subject 
+to revision. ``We have really made a step into new territory,'' said 
+Dr. Rodger I. Thompson, a University of Arizona astronomer who directed 
+the observations with the Earth-orbiting Hubble telescope's near-infrared 
+camera and spectrometer. Only an infrared camera can detect the faintest, 
+most distant galaxies. Dust in deep space obscures most visible light, 
+more so than radiation in the longer infrared wavelengths. And it 
+is a phenomenon of the expanding universe that the light emitted by 
+a galaxy gets stretched out to the redder and even near-infrared wavelengths. 
+At distances of vanishing visibility, the infrared galactic light 
+becomes the cosmic version of the Cheshire cat's grin. The more distant 
+galaxies have a higher expansion velocity and thus a higher redshift. 
+Since the age of the universe is still uncertain, astronomers express 
+cosmic distance, and thus age, in terms of an object's redshift. Not 
+so long ago, it was all astronomers could do to see objects at distances 
+at a redshift of 1, encompassing vistas extending the recent half 
+of the age of the universe. When they picked up some redshift-3 sightings, 
+it was the equivalent of aviation's breaking the sound barrier. In 
+recent months, astronomers have broken the redshift-5 barrier, when 
+the universe was only one-tenth its present age. ``We are seeing things 
+at much higher redshifts than we once thought possible,'' said Dr. 
+John C. Mather, an astronomer at the Goddard Space Flight Center in 
+Greenbelt, Md. Focused on a tiny patch of sky, the Hubble's infrared 
+camera made a 36-hour exposure and saw more than 100 extremely faint 
+galaxies that were absent in previous visible-light pictures. At least 
+some of these galaxies are thought to have the highest redshifts ever 
+measured. Precise measurements may have to await the development of 
+more powerful telescopes. ``This is an exciting step into the infrared 
+view of the universe,'' said Dr. Alan M. Dressler, an astronomer at 
+the Carnegie Observatories in Pasadena, Calif. ``That's where we're 
+going to be looking for galaxy formation.'' The first big break in 
+distant observations came in 1995. That was when Dr. Robert Williams, 
+director of the Space Telescope Science Institute in Baltimore, did 
+what astronomers always do with a new telescope: take the deepest 
+picture they can. He directed astronomers to concentrate the Hubble 
+telescope on a single narrow sector of the sky, a region virtually 
+devoid of light as seen from the ground. The telescope's visible-light 
+camera took a 10-day-long exposure, long enough to resolve objects 
+at then-record distances. The Hubble Deep Field, as the resulting 
+multicolor picture is called, gave astronomers a remarkable view of 
+more than 3,000 galaxies, some at distances beyond redshift 4. They 
+were astonished to find such a dense population of galaxies so far 
+away and so early in time. It meant that astronomers had a way to 
+go to reach the time of galactic genesis, the frontier to the dark 
+age. At about the same time, a team of astronomers led by Dr. Charles 
+C. Steidel of the California Institute of Technology in Pasadena developed 
+a novel technique for detecting faraway galaxies using the world's 
+most powerful telescopes at Keck Observatory in Hawaii. By now, the 
+astronomers have confirmed the presence of 440 high-redshift galaxies 
+existing just a few billion years after the Big Bang. No objects at 
+such distances had ever been examined in such close detail. Steidel's 
+observations are made by the ultraviolet ``dropout'' technique. Ultraviolet 
+light from a remote galaxy tends to be absorbed by hydrogen within 
+the galaxy itself and between there and Earth. The more distant a 
+galaxy, the more hydrogen its light encounters in the intervening 
+space, and thus the more its ultraviolet emissions are dimmed. By 
+seeking objects that show up in green and red filters but not in ultraviolet, 
+the astronomers detected galaxies with redshifts from 2.2 to 4. The 
+Hubble Deep Field and Steidel's snapshots have given theorists much 
+to think about. The early galaxies appear to be smaller, more concentrated 
+and less regular than today's galaxies. And they are ``as strongly 
+clustered in the early universe as they are today,'' Steidel said. 
+Small, irregular galaxies, cosmologists say, fit their models in which 
+structure in the universe evolved from the bottom up, and not from 
+the top down. That is, galaxies presumably started as small collections 
+of stars and these merged to form much larger objects, instead of 
+stars starting out in extraordinarily vast congregations and then 
+fragmenting into galaxies. ``The small, young objects we find are 
+still in the process of formation,'' Loeb said, explaining why the 
+findings seem to support a growing consensus in favor of the bottom-up 
+interpretation. The observations also suggest that cosmologists are 
+on the right track with their ideas about the nature and amount of 
+cosmic mass. Years of studying the rotations of galaxies near and 
+far have convinced scientists that there is much more to the universe 
+than what they can see. Galaxies would have disintegrated long ago 
+if they were not held together by more gravity than ordinary matter 
+can account for. Most of the universe's mass, maybe as much as 99 
+percent, must be in some mysterious ``dark'' form. In ``Before the 
+Beginning,'' published this year by Perseus Books, Rees of Cambridge 
+writes, ``Clearly we will never understand galaxies properly until 
+we understand the dominant stuff whose gravity binds them together.'' 
+The favored hypothesis predicts the existence of cold dark matter, 
+exotic and as yet unknown subatomic elementary particles that emerged 
+from the Big Bang. They are so small and slow that they virtually 
+never interact with each other or with ordinary matter except through 
+gravity and thus produce no detectable radiations. Yet they could 
+have supplied the decisive gravitational force to marshal ordinary 
+matter into galaxies and clusters of galaxies. It all began, according 
+to theory, with tiny ripples in the cosmic microwave background radiation, 
+the detectable afterglow of the Big Bang that is the source of much 
+knowledge about the universe's first 300,000 years. These slight fluctuations 
+in radiation, confirmed and plotted by COBE, the Cosmic Background 
+Explorer spacecraft, in the early 1990s, are caused by irregularities 
+in the density of matter in the Big Bang. Such clumps of dark matter 
+would have attracted ordinary matter to create larger clumps and set 
+in motion agglomerations leading to stars and galaxies. Computer-generated 
+simulations based on the COBE findings and many other physical data 
+and assumptions have showed that a universe dominated by hot dark 
+matter, an alternative idea invoking known fast-moving particles called 
+neutrinos, should have resulted in a top-down creation in which much 
+larger conglomerations of matter would form first and then break up 
+into galaxies. This scenario, however would result in a much longer 
+dark age than now appears to be the case. Cold dark matter, on the 
+other hand, should have formed galaxies on small scales and at a relatively 
+early time. Which is just what the new observations are revealing. 
+In February, astronomers announced the first detection of a redshift-5 
+object, a young galaxy that existed when the universe was only 8 percent 
+of its present age. They had crossed the frontier into the first billion 
+years of the universe, with the boundary to the dark age still not 
+in sight. Working at Keck Observatory, a team led by Dr. Arjun Dey 
+of Johns Hopkins University in Baltimore measured a redshift of 5.34 
+for the early galaxy, meaning that it was shining 820 million years 
+after the Big Bang (also assuming an age of 13 billion years for the 
+universe). ``Now that we know what to look for, I'm sure this record 
+will be broken in a matter of months,'' Dey remarked at the time. 
+Sure enough, in May astronomers at the University of Hawaii and Cambridge 
+University reported sighting a more distant galaxy with a 5.64 redshift. 
+This pushed back galactic discovery about 60 million years. One of 
+the discoverers, Dr. Esther M. Hu, said astronomers were on the verge 
+of seeing galaxies back to about 500 million years after the Big Bang. 
+Loeb noted two intriguing clues that light had returned to the universe 
+at least that early, perhaps at redshifts beyond 10. Both came from 
+observations of light from quasars, cores of distant galaxies and 
+the brightest objects in the universe. Because the quasar light passes 
+through clouds of hydrogen gas before it reaches Earth, it serves 
+as a probe of the cosmic environment out to great distances. The fact 
+that the quasar light is not absorbed by the gas, Loeb said, is evidence 
+that nearly all of the hydrogen atoms in deep cosmic space have been 
+ionized, their electrons stripped away by ultraviolet radiation. Such 
+radiation could have come only from a large population of stars at 
+redshifts beyond that of the quasars. Other quasar studies yielded 
+the second clue: some of the distant gas clouds contained not only 
+hydrogen but heavy elements like carbon, which are produced only by 
+the nuclear furnaces inside stars and scattered through space when 
+stars explode at the end of their lives. So there had been stars living 
+and dying long before these early galaxies. ``We are going to fainter 
+and fainter objects and getting smarter and smarter each month,'' 
+said Dressler of the Carnegie Observatories. ``But we've pushed just 
+about as far as we can expect from today's telescopes, even the Keck 
+or the Hubble.'' Astronomers are in the early stages of planning a 
+more powerful replacement for the orbiting Hubble telescope. Called 
+the Next Generation Space Telescope, it is expected to be launched 
+a million miles into space in 2007 and be able to detect infrared 
+emissions from objects 400 times fainter than those being studied 
+with any of today's ground-based and orbiting infrared telescopes. 
+Its mirror will be nearly three times larger than Hubble's. With the 
+new telescope thus able to gather so much more light, Mather of the 
+Goddard space center said, astronomers in exposure times as short 
+as two weeks should ``see as far as you can imagine seeing.'' They 
+should be able to make out galaxies with redshifts of 10 or more. 
+That might be just enough to observe the first stars and galaxies 
+and understand more about how the early universe passed its long night 
+of darkness organizing itself to bring form and light everywhere. 
+</TEXT>
+</DOC>

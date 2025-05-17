@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981220.1600.0752 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up -- how Penguins are helping scientists determine the health 
+of the world's oceans. And right after the break -- we'll check the 
+top stories. Let's say the puppy's a salesperson in an average computer 
+store. Now, ask the salesperson a question. What's the difference 
+between dvd and CD-rom? How much ram do I really need? Oh, and can 
+you guys install software? Okay... thanks. That's why we staff gateway 
+country with highly trained people who'll have a computer built just 
+for you. So come on in and ask us about our guaranteed delivery by 
+Christmas. Drop by your neighborhood gateway country or call 1 800 
+gateway. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981123.2130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- Whitewater figure Susan McDougal 
+has been acquitted on all nine counts in her embezzlement trial. She 
+was accused of stealing money from conductor zubin mehta and his wife. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981129.1600.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And industry experts call it the businessiest travel day of the year. 
+34 million people are expected to fly, drive or ride home today after 
+the thanksgiving holiday. 
+</TEXT>
+</DOC>

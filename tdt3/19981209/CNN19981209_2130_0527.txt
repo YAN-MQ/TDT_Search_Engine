@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981209.2130.0527 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for tomorrow morning. Windy conditions will continue in 
+parts of the southwest. We've been seeing wind warnings and wind advisories 
+all day long in this area. They're associated with the passing of 
+a frontal boundary that by tomorrow morning will stretch from the 
+Great Lakes area down to Texas. We'll see the threat of rain showers 
+and thunderstorms in the lone star state and some snowfall in the 
+extreme southern Rockies. As far as high temperatures are concerned 
+tomorrow, still quite cool in parts of the west and the upper midwest, 
+but it remains relatively warm in the southeast and in southern California. 
+Your extended forecast calls for rain and thunderstorms to spread 
+along the gulf coast as we go through the day on Friday. Heading on 
+through the weekend, we're going to see rain and thunderstorm activity 
+along the southeastern coast and through Florida, the next storm rolling 
+in through the northwest. And on Sunday, snow showers are possible 
+in the New England states. For more weather information, log on to 
+CNN.com -- four-day forecasts for more than 7,200 cities. 
+</TEXT>
+</DOC>

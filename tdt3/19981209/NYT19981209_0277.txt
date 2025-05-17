@@ -1,0 +1,122 @@
+<DOC>
+<DOCNO> NYT19981209.0277 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Shopping for a personal computer can be more confusing than shopping 
+for a car, as was pointed out in this space last week. But it is significantly 
+cheaper, unless one gets a really big computer or a really lousy car. 
+Shopping is easier for people who already own a computer. For one 
+thing, they already know something about computers. For another, they 
+can often use the Internet to gather information and do comparison 
+shopping. But this year, according to market researchers, the majority 
+of computer shoppers will be first-time PC buyers. Many of these novices 
+tell researchers that they have been enticed into computer stores 
+because of a desire to get connected to the Internet. Many of them 
+do not understand computer terms like megabytes and megahertz, other 
+than that ``mega'' means big and ``bytes'' and ``hertz'' sound painful. 
+For them, shopping is also a big pain. It does not have to be so. 
+Basically any new PC sold today has all the capability needed to connect 
+to the Internet, send and receive electronic mail, browse Web sites 
+and download software, and perform standard productivity tasks like 
+word processing or scheduling. Such systems cost as little as $500 
+and are the closest things yet in the computer industry to being disposable. 
+Given the rate at which computer prices are falling, and given the 
+trend among some companies to subsidize the cost of electronic devices 
+like cell phones and cable set-top boxes in return for the customer 
+agreeing to a long-term service contract, one can expect to see ``free'' 
+or very cheap Internet-connected PCs being offered to consumers in 
+the next year or two. But that day has not yet arrived, alas, so take 
+your wallet when you go shopping for a PC. According to market researchers, 
+the average home computer shopper has a budget of $1,500. Although 
+today's sub-$500 computers can do basic tasks, they typically cannot 
+do all the things that most consumers might want them to do, like 
+play the newest games and process the latest audio and video applications. 
+So, we recommended last week that people consider buying a more robust 
+(i.e. expensive) computer, one that has enough power to do everything 
+today, and that can be upgraded for an even longer useful life. That 
+caused some readers to fly to their keyboards, arguing by e-mail that 
+upgrading a PC these days is often not worth the expense or effort. 
+They have a point, at least when it comes to inexpensive PC's. The 
+El Cheapo computers typically use pipsqueak processors that will probably 
+be too feeble to handle new software in two or three years. While 
+it may be possible to rejuvenate the computer with a few strategic 
+upgrades, it will probably make more economic sense simply to replace 
+it with a new one when the time comes. After all, PC's that are more 
+powerful and less expensive are being introduced every few months. 
+But for the kind of computer that offers good performance for the 
+best educational software, games and Internet applications that a 
+consumer might want to use today, as well as a fighting chance at 
+being useful in 2001, a brawnier PC is needed. Our basic specifications 
+were for a minimum of an Intel Pentium II 350 or AMD K6-2 300 chip, 
+a 6-gigabyte or bigger hard disk, at least 64 megabytes of system 
+memory, decent video and audio cards, a v.90 modem, and so on. With 
+a 17-inch monitor, such machines cost $1,200 and up. Curiously, IBM, 
+Hewlett-Packard and Compaq _ three titans of the corporate world who 
+used to ignore the home PC market _ are now considered among the leaders 
+in this category. While $1,500 is typical consumer budget, those who 
+want the ultimate home PC system, with the best components and features 
+across the board, can easily spend $3,000. But bargains abound, even 
+among the fastest PC's. Dell, for example, sells its Dimension XPS 
+R450 computer, winner of PC Computing magazines MVP award for desktop 
+computers, for $1,859 to $2,899 depending on options. The base price 
+includes a big monitor, a DVD drive, and just about every advanced 
+feature a PC user might desire. PC Magazine gave its latest Editors 
+Choice award for home computers to the Gateway G6-450 desktop computer, 
+a $1,998 model that is similarly loaded and includes a big monitor. 
+Macintosh users wrote in as usual to express their outrage that last 
+weeks column basically ignored the Macintosh. Since its introduction 
+last summer, the Apple iMac has been the single most popular PC sold 
+in computer stores each month. Why? It is not because the iMac is 
+better than any other Macintoshes. In my view, it has some drawbacks. 
+But at $1,299 _ or, more realistically, $1,500 with the extra components 
+needed to make it truly useful _ the iMac is hundreds of dollars less 
+expensive than other Macs. Apple also has been successful in persuading 
+consumers that the iMac is easier to use than Windows-based computers. 
+In survey after survey, fear of technological complexity is a major 
+deterrent for people thinking about buying a first PC. Macs are indeed 
+easier. Even so, I would recommend one of the (more expensive) desktop 
+G3 Macs over the iMac for the same upgradeability reasons. Apple, 
+incidentally, has just released Mac OS 8.5.1, a bug-fix for its relatively 
+new 8.5 operating system. The 3-megabyte download is available from 
+Apples web site, at www.info.apple.com/support. The upgrade will be 
+available on CD-ROM in a few weeks. Getting back to Windows machines, 
+another issue is not just what to buy, but where to buy it. Some people 
+prefer to shop in a computer or consumer electronics store. Others 
+find the convenience of shopping on line to be compelling. Of course, 
+if the shopper does not already have a PC, it is hard to go on line. 
+In that case, many of the major direct sellers of computers companies 
+like Dell, Gateway and Micron offer impressive help by telephone. 
+For those who can shop on line and buy directly from the PC maker, 
+there are advantages. Prices are generally lower, and knowledgeable 
+sales help is abundant. The customer can custom-order a PC with a 
+wide variety of options. The direct-sales companies pioneered the 
+idea of on-site service, where technicians come to your home or office 
+to fix any problems in the first year. On-line shopping is also a 
+boon for busy people, because the Web sites stay open around the clock. 
+But there are also disadvantages to online shopping. Foremost among 
+them is that online shoppers cannot see or touch the computers before 
+they buy. (Gateway has opened about 100 showrooms to fix this problem.) 
+The customer can choose any kind of a computer, as long as it is made 
+by the one company. Then it often takes a week or more to get the 
+computer. The customer has to pay a considerable shipping charge, 
+which often offsets any gain from a lack of sales tax, and if something 
+goes wrong with the computer, returns are a hassle. Conversely, the 
+computer stores often carry several different brands of computers, 
+which makes comparison shopping easier. In theory, the potential buyer 
+can touch the computers and test their look and feel. Gratification 
+is usually instant, and many stores have service and repair departments. 
+Some stores offer classes. On the down side, getting good help in 
+a computer store is notoriously difficult. After wandering the aisles 
+unmolested by sales help for nearly 20 minutes last week, I finally 
+located one very knowledgeable sales assistant at the local CompUSA 
+store and ambushed him while he was stocking the shelves. The guy 
+knew his stuff, but it quickly became apparent that in the balance 
+of things, his technical skills were as impressive as his social skills 
+were alarming. Mumbling, refusing to make eye contact and in obvious 
+pain at dealing with customers, he answered each question as if there 
+were electrode shocks attached to his feet and I held the controls. 
+In contrast, my contacts on the telephone at Dell and Gateway sounded 
+like James Bond. 
+</TEXT>
+</DOC>

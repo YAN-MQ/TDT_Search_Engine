@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981114.1130.1660 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The day's top stories are coming up in the next half hour, including 
+the latest developments in the standoff with Iraq. I'm Sachi Koto. 
+This is "CNN Headline News." 
+</TEXT>
+</DOC>

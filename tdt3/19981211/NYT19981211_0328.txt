@@ -1,0 +1,256 @@
+<DOC>
+<DOCNO> NYT19981211.0328 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A 19-year-old college student sat alone with a computer as a commanding 
+voice echoed through the windowless room. ``Now go to No. 5,'' the 
+voice said. ``Find out what the weather is like in San Jose.'' The 
+student was taking part in a test of the Go Network, Walt Disney Co.'s 
+answer to Yahoo, America Online and all the other ``portals'' to the 
+Internet _ entry points to a world of information, entertainment and 
+commerce. Go wasn't going so well, however, at this late October test 
+in Sunnyvale, Calif. As the student scowled, three young women behind 
+a one-way mirror monitored each of her hesitant clicks of the mouse. 
+It took her a long time to find the weather section on Go's crowded 
+front page; then she was stumped, because she thought she needed to 
+know San Jose's ZIP code. She could have determined the weather in 
+Silicon Valley a lot more quickly by stepping outside. Disney hopes 
+that it has gotten the bugs out of Go by now, especially since it 
+is offering a preview of the site (go.com) to the public starting 
+Dec. 14. While the company is already a major presence on the Internet 
+_ with popular sites for sports fanatics (espn.com), news hounds (abcnews.com) 
+and soap opera viewers (abc.com), among hundreds of others _ it is 
+now making a bigger bet on cyberspace than any other media concern 
+in the world. In a complex deal in June, Disney traded some Internet 
+operations plus $90 million in cash for a 43 percent stake in Infoseek 
+Corp., an also-ran Internet search engine company, which will run 
+Go. Disney will funnel $156 million to Infoseek to promote the new 
+Web site on ABC, which Disney owns, and on Disney's cable channels. 
+Indeed, Disney will deploy everything from its cruise ships to its 
+theme parks to trumpet Go, just as it stretched its every synergistic 
+muscle for ``A Bug's Life,'' its current hit movie. Why bother? Disney 
+is entering a crowded field in which big media companies have repeatedly 
+foundered _ most notably its rival Time Warner, whose pioneering Pathfinder 
+portal has struggled as more nimble Internet companies have vaulted 
+ahead. At first glance, Disney's offering has little to distinguish 
+it from the leading portal, Yahoo, which sets the standard for being 
+fast, easy to use and loaded with handy features _ news, financial 
+data, electronic mail, chat groups and the like. America Online incorporates 
+those same features in the Internet access it provides to half the 
+nation's wired homes, and it just agreed to buy Netscape Communications, 
+largely for its popular Internet portal. Other rivals abound, including 
+Excite, Lycos, Microsoft's MSN and Snap, which is backed by NBC. And 
+given that hardly any of these businesses are profitable, Disney _ 
+with so many opportunities in movies, television and theme parks _ 
+could have found easier ways to get a return on its investment. Still, 
+Disney chairman Michael Eisner has personally orchestrated much of 
+the Go initiative, down to selecting its traffic-light logo. He concluded 
+that Disney had no choice but to enter the fray. ``We want to be a 
+relevant company,'' he said in an interview last week. ``I don't want 
+to have our company be in the railroad business while people are flying 
+overhead in airplanes.'' Contrary to much of the evidence so far, 
+Eisner is betting that ``content'' _ the information and entertainment 
+created by companies like Disney _ will give Go an edge over Yahoo 
+and its kin, which dismiss content as a mere commodity, preferring 
+to link users to information rather than originate it themselves. 
+Though the user's first encounter with Go is a screen that _ quite 
+purposely _ looks like Yahoo's, clicking on a link to ``news'' or 
+``sports'' or ``kids'' leads directly to Disney-generated content. 
+And every page _ along with every other Disney Web site _ links back 
+to Go, in what the company hopes can become a largely self-contained 
+cyberuniverse. Microsoft, America Online and others have reduced investments 
+in original Web content. ``It's a very big bet to cast your lot with 
+one group of content sites and assume what is good today will also 
+be good tomorrow,'' said Jerry Yang, a co-founder of Yahoo. ``We have 
+felt that it is important to stay independent.'' But Eisner argued 
+that as the Internet matured, Disney's strengths would be more important. 
+``As technology becomes comfortable, the product takes over,'' he 
+said, comparing the Internet now to cable television in its early 
+days. ``At first, the point was to improve the picture on your broadcast 
+channels. Now it has turned into a product play: How good is the Disney 
+Channel or the Discovery Channel?'' So far, however, analysts who 
+have seen previews of Go say that despite a few nifty features, it 
+does not seem to be anything special. ``I don't see Disney as an also-ran, 
+given how much money they will throw at this,'' said Patrick Keane, 
+an analyst with Jupiter Communications, a consulting firm in New York. 
+``But I'm not sure how many users they can siphon from Yahoo or Excite.'' 
+Finding the Pieces As much as Eisner now extols the Go Network, he 
+was not always so enthusiastic. In March, he assembled a group of 
+key advisers and executives at his home in Aspen, Colo., to make sense 
+of what Disney should do on line. Portals were hot, and Disney didn't 
+have one. Instead, it had focused its early Internet efforts on developing 
+sites related to Disney content. Beginning in 1995, it has been building 
+a bevy of family-oriented sites, accessible at Disney.com. In 1997, 
+Disney bought part of Starwave, the Seattle company that created its 
+ESPN site, from Paul Allen, the billionaire co-founder of Microsoft. 
+It then had Starwave start ABCnews.com. Sitting in front of the fireplace 
+at Eisner's spacious house, Jake Winebaum, 39, the ambitious head 
+of Disney's Internet group, and Michael Slade, 41, Starwave's chairman, 
+argued that without a portal, all Disney had built so far was at risk. 
+``It became clear that if people's appetite for news and sports was 
+satiated at the place their voyage was starting on the Internet, there 
+would be fewer people coming to our sites,'' Winebaum said in a recent 
+interview. They recommended that Disney buy Infoseek, which was only 
+then beginning to recover from internal conflicts that had sapped 
+its momentum in a rapidly changing market. Infoseek's new chief executive, 
+Harry Motro, who had started CNN's Web site, realized that the company 
+needed a big brother and was eager to sell out to Disney. But there 
+was a problem. The $1 billion price tag _ inflated by the surging 
+stock prices of Internet companies _ blew the lid off all the rigorous 
+financial models that Disney uses to judge acquisitions. So at the 
+Aspen meeting, Eisner rejected the deal. ``We have a problem overpaying 
+for things,'' he explained later. ``Our company is selling at a real 
+multiple of real earnings, so I've got to be careful.'' Instead, Starwave 
+was assigned to build a portal from scratch. Through the spring, as 
+other portal companies grew rapidly, Infoseek flirted with other possible 
+partners, including Netscape. Winebaum kept pushing to find a way 
+for Disney to buy a portal. Then Disney chief financial officer Thomas 
+Staggs hit upon a way to gain control of Infoseek for less than $1 
+billion. Disney had paid $82 million for 42 percent of Starwave, with 
+the option to buy the rest of Allen's stake for about $162 million. 
+But with the market for Internet companies so hot, Starwave was worth 
+far, far more than $244 million. Why not come up with a trade? Ultimately, 
+Disney gave Starwave _ and $90 million cash _ to Infoseek in return 
+for 43 percent of Infoseek, a stake valued at about $900 million when 
+the deal was announced in mid-June; Disney has the option to raise 
+its stake to 50 percent. Infoseek promised to buy $165 million of 
+advertising from Disney, with money Disney would lend to it. Most 
+important, Disney and Infoseek agreed to build a new portal before 
+the end of the year. Under Construction When Barak Berkowitz walked 
+into a conference room at Infoseek's headquarters in Sunnyvale in 
+late October, his jaw dropped at the sight of a 30-foot-long wall 
+covered floor to ceiling with a grid of text, lines and little dots. 
+The grid mapped out exactly what had been done and was yet to be done 
+to complete the 30 separate features in the first version of the Go 
+portal. ``This is awesome,'' said Berkowitz, general manager of the 
+portal. He was impressed, not because of anything on the vast chart, 
+but because for the first time someone had assembled all the information 
+in one place. ``We're making 30 things for dinner, and we want to 
+make sure everything is done and hot when the bell rings,'' said Sue 
+LaChance, a former librarian, who is the project manager. ``And it's 
+not like we have 30 ovens either.'' Much of the work was simply an 
+attempt to match the features offered by other portals. For example, 
+Go will have a personal-finance section, with financial analysis software 
+developed by Starwave. Yet each new feature puts more strain on designers 
+trying to keep the service accessible to novices, still the fastest-growing 
+portion of the market. An Internet portal, after all, is a control 
+panel to the online universe, with buttons, links and boxes that promise 
+to deliver the canon of human knowledge, a personal relationship with 
+every like-minded user and a catalog of all goods for sale anywhere. 
+All this has to be designed for small computer monitors, without complex 
+graphics that bog down slow modems, and with the 219 colors that Web 
+browsers can reliably reproduce. And, oh yes, most users won't read 
+any of the instructions printed on the screen. Commerce and Content 
+Disney and Infoseek are proud of an innovation _ an organizational 
+structure called ``follow me tabs'' _ that lets people switch among 
+the main subdivisions of Go _ topics, shopping sites, local information, 
+chat rooms, Internet searching _ and still see information related 
+to the topic they are researching. At the top of the screen, looking 
+like file-folder tabs, are buttons for each of these sections. Someone 
+looking for sites about fishing, for example, could click the Community 
+tab to find message boards with fishing discussions, the Shop tab 
+to find fishing equipment stores and the Local tab to find fishing 
+holes near them. Ultimately, it's the shopping section that will be 
+crucial, because Go's biggest revenue stream is likely to be from 
+commissions paid by online merchants. As they can with other portals, 
+users will be able to customize the site, specifying the news topics, 
+stock quotes and sports scores they want to see when they type in 
+go.com. An emerging truism about portals _ where most of the online 
+ad dollars are spent _ is that not only are users who program these 
+features more likely to return, but the information they provide while 
+programming makes them more valuable to advertisers. If, say, a California 
+teen-ager types in his birth date to look up his horoscope, advertisers 
+can make sure they don't show him ads for Florida retirement homes. 
+Of course, there are Orwellian overtones to marketing based on personal 
+information, and Disney, ever image-conscious, has been dampening 
+some of the more aggressive ideas of Infoseek and Starwave. ``Disney 
+has geometrically expanded the complexity of what we do,'' said Ned 
+Desmond, Infoseek's vice president for content. ``If you bring up 
+the idea, say, of an e-mail service for kids, suddenly you're on a 
+conference call with 15 lawyers who are dedicated to nothing but children's 
+privacy.'' Disney has also forced Infoseek to swear off the lucrative 
+practice of selling advertisements to pornography sites. But Infoseek 
+_ which, like Yahoo, has been accustomed to seeing content as just 
+a commodity _ is winning the battle to keep Go fast and simple, prevailing 
+over an ethos at both Disney and Starwave that favors heavy production 
+values. After a long fight, for example, Infoseek decided that the 
+news channel on Go would not offer the elaborate graphics and video 
+clips used by ABCnews.com. Rather, Go News will have stripped-down, 
+but faster, news pages from both ABC and other, non-Disney sources. 
+Even so, Infoseek executives argue that the news Go News will distill 
+from ABC and the sports it will draw from ESPN will provide users 
+a richer experience than they can get from Yahoo and its ilk. For 
+example, the news page on many portals simply displays the most recent 
+headlines. Go News will rank stories in order of importance, as determined 
+by editors at ABC. What's more, every Go page will have a link to 
+the ABCnews.com site for those who want to delve deeper. In the weeks 
+since the schedule chart was posted _ during which America Online 
+spiced up the contest by agreeing to buy Netscape _ Disney has tinkered 
+with the timing of Go's debut. With some areas, like the shopping 
+tab, not yet completed, the service is being introduced Dec. 14 as 
+a preview version, with a formal introduction in January. Cross-Marketing 
+Galore When Disney starts to widely promote Go next month, ABC and 
+ESPN viewers will see television commercials that use the slogan ``Are 
+you ready to go?'' But what may make the promotion stand out is the 
+sort of synergy marketing at which Disney is the undisputed master 
+_ the peddling that puts ESPN sports bars on Disney's cruise ships 
+and stuffs subscription cards for its Family Fun magazine into envelopes 
+containing dividend checks. ``I don't know how many impressions we 
+make on a customer every day,'' Eisner said. ``But in most of them, 
+we'll remind people that if they go to the Internet, they can use 
+the Go Network to find the things they love.'' Disney has done it 
+before. For example, at a colorful new Internet exhibit in the Epcot 
+Center in Florida, visitors browse the Web and even have their pictures 
+taken to be placed on personal family Web sites. The display will 
+soon be expanded and take the Go name. The Disney Channel features 
+a series of programs about Zoogs, little animated robots that live 
+in the ``zether'' _ the space between the television and the computer. 
+Young viewers can play Zoog games on Disney's main site and send e-mail 
+that can be read by the Zoogs on the next show. The show quadrupled 
+the Disney Channel's Web site traffic, Winebaum said. ``No one else 
+can do this,'' he said. ``Not Yahoo. Not AOL.'' Yet for all the synergies, 
+can Disney learn to survive in the zether, where profits are scarce 
+and size means less than agility? Eisner says the formula for Go _ 
+mixing Disney's media skill with the innovative agility of small technology 
+firms _ can work. ``One reason we are in business with Infoseek and 
+Starwave is to have people who will turn to us and say, `You guys 
+are so old and so stupid,''' Eisner said. ``I don't want the company 
+to be that way.'' THE ONE WHO WAVED THE INTERNET WAND c.1998 N.Y. 
+Times News Service NORTH HOLLYWOOD, Calif. _ As a junior executive 
+in the circulation department of Time Inc. in the early 1980s, Jake 
+Winebaum peppered his bosses with ideas for new magazines. One idea 
+was aimed at ambitious yuppies: Advance, ``the magazine for moving 
+ahead.'' Though Time rejected the magazine, Winebaum himself certainly 
+moved ahead. Now, as head of the Buena Vista Internet Group, he has 
+a spot on Walt Disney Co.'s organizational chart that is parallel 
+to those of the heads of the company's movie studio and ABC television 
+network. Throughout his career, Winebaum has been filled with entrepreneurial 
+ideas, but has mainly stayed at established companies. He moved from 
+Time to U.S. News &AMP; World Report and finally struck out on his 
+own to start Family Fun magazine in 1991. After two issues, Winebaum 
+sold the magazine to Disney, a move that started him on a rapid ascent 
+through its management ranks _ first in publishing, later in its dalliance 
+with starting an all-news cable channel (it decided to pass), and 
+by 1995 in its nascent Internet efforts. He started the family-oriented 
+Web site, Disney.com, and a profitable online store that sells Disney-brand 
+merchandise. And he has become an Internet evangelist in the corporation. 
+``I spent a lot of my time all over Disney helping them understand 
+what the Internet is and why it's important to their business,'' Winebaum 
+said recently, slouched in an easy chair in his office. With his corduroy 
+shirt untucked over a white T-shirt, and with his brown suede shoes 
+plopped on the coffee table, he looked more like a wayward teen-ager 
+than a 39-year-old new-media mogul. But Winebaum works hard to make 
+the right impression. One former colleague recalls how, in preparation 
+for a visit by Disney chairman Michael Eisner, Winebaum held two separate 
+rehearsals of his staff, blocking out where Eisner would walk and 
+what people would say to him. A current colleague, Michael Slade, 
+the chairman of Starwave, the Internet production company recently 
+bought by Disney, said, ``The best way to understand Jake is that 
+he's a great athlete.'' Winebaum was a ski racer at Dartmouth and 
+now wind-surfs and runs marathons. ``He is very competitive and wants 
+to win,'' Slade said. ``Two years ago, he worked for someone who worked 
+for someone who worked for Eisner. Now he works for Eisner.'' _ SAUL 
+HANSELL 
+</TEXT>
+</DOC>

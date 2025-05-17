@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> NYT19981210.0430 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Stocks fell sharply Thursday as investors continued to react to warnings 
+from major companies that earning and sales reports would be disappointing. 
+The latest retreat amounted to 167.61 points on the Dow Jones industrial 
+average. It spared no major index as investors appeared to seize on 
+a combination of unsettling developments as a reason to lock in profits 
+from what still shapes up as a fourth straight year of an exceptional 
+advance. Besides corporate ``confessions'' or downgrades by analysts 
+involving the likes of Merck, J.P. Morgan, Coca-Cola and Procter &AMP; 
+Gamble this week, investors were said to be disturbed about a Federal 
+Reserve Board survey showing less vigorous retail sales, and the prospect 
+of an impeachment trial for President Clinton. Dazed to some extent 
+by success, particularly in the Nasdaq market that made two record 
+highs this week, investors ``may be locking in gains before the end 
+of the year,'' suggested Timothy Morris, the chief domestic strategist 
+at Bessemer Trust. And while impeachment is still far from topic A 
+among investors, Morris and others said many people seemed nervous 
+that the proceedings remained unresolved even though Clinton's removal 
+from office is widely thought to be unlikely. One measure of the market's 
+skittishness is the pounding taken by Merck shares, down 5 11/16 Thursday 
+and 6 3/4 on Wednesday, after the company projected earnings next 
+year of $4.85 to $4.95 a share, compared with a Wall Street consensus 
+of $4.97. The shares closed Thursday at 146\. ``That's a bit of an 
+overreaction,'' said Philip Orlando, the chief investment officer 
+at Value Line Asset Management. On Thursday an analyst at Paine Webber 
+downgraded the United States' second-biggest drug company, Bristol-Myers 
+Squibb, to neutral from attractive, and the stock slumped 4 5/8, to 
+123. The Dow's third straight decline, 1.86 percent, meant that the 
+blue-chip average has retreated 532 points, or 5.68 percent, from 
+the peak it hit the Monday before Thanksgiving. After Merck, the biggest 
+pressure on the average Thursday was from IBM, down 4{, to 165; Minnesota 
+Mining and Manufacturing, off 3\, to 74{, and J.P. Morgan, down 2 
+13/16, to 101 3/8. Only three of 30 components _ American Express, 
+Union Carbide and AT&AMP;T _ eked out gains. The selling pressure 
+embraced computer, software and even Internet companies, which had 
+been strong recently. Internet losses, however, were mostly small, 
+and Ebay, which has been experiencing some system bugs, stood out 
+with a gain of 6 19/32, to 186 1/8. Overall, the Nasdaq market fell 
+34.46 points, or 1.68 percent, to 2,015.96, while the Russell 2000, 
+which is made up of small-capitalization stocks, fell 1.36 percent. 
+The Standard &AMP; Poor's 500-stock index, widely used as a benchmark 
+by professional managers, fell 18.47, to 1,165.02. This decline, 1.56 
+percent, left the broad index ahead for 1998 by a little more than 
+20 percent, compared with 11.8 percent for the Dow industrials and 
+28.4 percent for Nasdaq. The Russell 2000, by contrast, was down 9.27 
+percent. Despite the downdraft, two initial offerings did well. Infinity 
+Broadcasting climbed to 23 1/16 from 20{, while Abovenet surged to 
+16} from 13. On the New York Stock Exchange, declining issues swamped 
+advancing ones 2,118 to 943, while new lows edged new highs 75 to 
+72. Volume was a moderate 760.95 million shares. 
+</TEXT>
+</DOC>

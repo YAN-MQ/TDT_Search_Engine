@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> NYT19981207.0335 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Supreme Court on Monday entered a long-running tax dispute between 
+two federal district judges and an Alabama county that has tried for 
+10 years to impose its occupational license tax on the salaries of 
+federal judges in Birmingham. The federal appeals court in Atlanta 
+has ruled twice in the last three years that Jefferson County, Ala., 
+which includes Birmingham, cannot constitutionally apply the tax to 
+the income of federal judges. The appeals court held that the tax, 
+which applies to hundreds of thousands of private- and public-sector 
+workers in the Alabama county, in effect amounts to a direct state 
+tax on the federal government, in violation of a legal doctrine that 
+makes the government immune from state and local taxation. On Monday 
+the Supreme Court agreed to hear the county's appeal. Federal judges, 
+along with other federal employees, pay state and local as well as 
+federal income tax, under a 1939 law in which Congress expressly consented 
+to state and local income taxes as long as there was no discrimination 
+against the federal workers. But the 11th U.S. Circuit Court of Appeals, 
+in Atlanta, viewed the Jefferson County tax not as an ordinary income 
+tax but rather, in this case, as an impermissible fee for the privilege 
+of serving as a federal judge. The tax amounts to about $700 a year 
+for the judges, who earn $136,700. The two judges who have refused 
+to pay are William Acker Jr. and U.W. Clemon. The other federal judges 
+who work in the Hugo L. Black Federal Courthouse in Birmingham are 
+not parties to the case, having simply paid the tax or paid it under 
+protest. In its Supreme Court appeal, Jefferson County vs. Acker, 
+No. 98-10, the county is arguing that the tax is simply an income 
+tax under a different name and that, as such, it raises no constitutional 
+problem. Alabama counties are barred by state law from imposing income 
+taxes, and so several have come up with occupational taxes that have 
+the same effect. The Jefferson County tax is levied at the rate of 
+0.5 percent of an individual's gross earnings within the county. Only 
+people who operate businesses under a state license are exempt. The 
+federal government has taken the county's side in this dispute. When 
+the county's appeal was before the Supreme Court last year, before 
+the justices ordered the appeals court to consider a separate, jurisdictional 
+issue, the government told the court that the appeals court had made 
+a mistake ``in looking to the label, rather than the substance, of 
+the challenged tax.'' In granting the appeal Monday, the justices 
+were evidently not satisfied with the appeals court's handling of 
+the jurisdictional issue, and ordered the two sides to address it 
+again. That question is whether a federal law, the Tax Injunction 
+Act, which generally prohibits the federal courts from interfering 
+with a state's effort to assess or collect taxes, should keep this 
+case out of federal court. The county originally sued the two judges 
+in the local small claims court, but the judges successfully requested 
+a transfer to federal court. If there turns out to be no federal court 
+jurisdiction, the lawsuit will proceed in the Alabama state courts. 
+These were among the other developments at the court Monday: _ Military 
+death sentence: Without comment, the court refused to hear an appeal 
+by an Army private, now on the military's death row, from his conviction 
+of murdering two taxi drivers in 1988. The case of the soldier, Pvt. 
+Dwight Loving, first reached the Supreme Court in 1996, when he challenged 
+the constitutionality of the death penalty provisions of the Uniform 
+Code of Military Justice. The justices upheld the military death penalty 
+by a vote of 9-0. In the latest case, Loving vs. Hart, No. 98-251, 
+Loving challenged particular aspects of his sentencing, including 
+whether members of the court-martial had received proper instructions. 
+The U.S. Court of Appeals for the Armed Forces, which previously upheld 
+the sentence, rejected the latest challenge earlier this year. There 
+has not been an execution in the military since 1961. _ Federal authority: 
+Also acting without comment, the court sidestepped a debate over federal 
+vs. state authority, refusing to hear a Maryland county's appeal from 
+a ruling that it was required under federal labor law to pay overtime 
+to emergency medical technicians. Anne Arundel County, backed by briefs 
+from 20 states, the National League of Cities and other state and 
+local government organizations, had framed the case as a vehicle to 
+persuade the court to re-examine a disputed 1985 ruling that upheld 
+the constitutionality of the Fair Labor Standards Act as applied to 
+state and local employers. The 4th U.S. Circuit Court of Appeals, 
+in Richmond, Va., ruled against the county on the ground that the 
+1985 decision was binding. The case Monday was Anne Arundel County 
+vs. West, No. 98-266. 
+</TEXT>
+</DOC>

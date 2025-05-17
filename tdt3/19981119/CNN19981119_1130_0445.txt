@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981119.1130.0445 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+Looks LIKu it's gonna be rather chilly today through the upper midwest. 
+Forecast highs through much of Minnesota and the dakotas will be only 
+in the 20s after some fresh snow yesterday. It remains warm in the 
+southeast, but that will change around by later today. A frontal system 
+hdads towards the eastern seaboard, bringing with it scattered showers. 
+In the pacific borthwest, a major storm systdm will be moving inland, 
+bringing with it high winds and some heavy rainfall -- one of a series 
+of storms that will affect the pacific northwest over the next couple 
+of days. In fact, on Saturday, more rain and windy conditions are 
+expected. Snow showers into eastern Canada, as temperatures pill be 
+cold through the Great Lakes in through much of the NoRtheast. It 
+warms up by Sunday in that vicinity, but the rain continues in the 
+pacific northwest along with the windy conditions. We'll see significant 
+mountain snows in that area. And on Monday, again, rain and heavy 
+mountain snows will cobtinue in the pacific northwest and will be 
+reading down the California coast. For more weather information, includhng 
+four-day forecasts for Lore than 7,200 cities, log into CNN.com. 
+</TEXT>
+</DOC>

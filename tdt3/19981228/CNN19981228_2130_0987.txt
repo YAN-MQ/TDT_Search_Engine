@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981228.2130.0987 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the computer bug known as y2k threatens to wreak havoc as we start 
+the new millennium. but the president says social security recipients 
+needn't worry. they will get their checks. chris black has more. the 
+turn of the century is still 368 days away, but president clinton 
+says the social security administration has mastered the millennium 
+bug that threatened to shut down government computers. the social 
+security system is now 100% compliant with our standards and safeguards 
+for the year 2000. to make absolutely certain, the system has been 
+tested and validated by a panel of independent experts. the system 
+works, it is secure. and therefore, older americans can feel more 
+secure. the social security administration collects taxes from 145 
+million workers, processes 6 million applications and delivers checks 
+to 48 million elderly, disabled and dependent americans each year. 
+the bottom-line mission of the social security administration is really 
+quite simple -- get the right benefit payment to the right person 
+at the right time. the federal government has spent ten years and 
+$40 million to review and fix 35 million lines of software to guarantee 
+the social security computers would keep working when the clock strikes 
+midnight on december 31st, 1999. a social security recipient two days 
+shy of her 90th birthday testifies to the importance of timely delivery 
+of checks. there are many, many people who suffer and would suffer 
+greatly if those checks did not come on time. commissioner apfel says 
+not to worry. we are y2k-okay. and that means on january 1st, 2000, 
+those checks are gonna be there. president clinton and vice president 
+al gore have challenged every member of the cabinet to fix the year 
+2000 computer problem. with a year to go, clinton administration officials 
+say that 61% of all critical federal systems are now y2k-compliant. 
+chris black, cnn, the white house. 
+</TEXT>
+</DOC>

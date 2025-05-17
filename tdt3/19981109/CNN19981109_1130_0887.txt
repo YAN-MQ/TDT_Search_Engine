@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981109.1130.0887 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- the Supreme Court has rejected a White 
+House argument on attorney/client privilege, clearing the way for 
+Bruce Lindsey's complete testimony before the Monica Lewinsky grand 
+jury. 
+</TEXT>
+</DOC>

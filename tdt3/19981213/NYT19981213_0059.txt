@@ -1,0 +1,91 @@
+<DOC>
+<DOCNO> NYT19981213.0059 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+``The Internet changes everything!'' has become the rallying cry for 
+purveyors of the new digital economy. Their enthusiasm has proved 
+sufficiently compelling that an increasing number of Internet-based 
+companies _ many with no product, no profits and, often, no proven 
+or sustainable business model _ are taking their companies public 
+and hitting the jackpot with shares that are valued far beyond reason. 
+On the Friday after Thanksgiving, for example, shares of Onsale Inc., 
+a Web-based auction service, rocketed more than 60 percent. Books-a-Million 
+Inc. and Connect Inc., both Web-based businesses, posted even more 
+spectacular gains. Most professional investors and market experts 
+are not overly concerned about this kind of activity. The volume of 
+shares that such companies make available for trading is relatively 
+small and thus has little effect on the overall health of the market. 
+In addition, they say, Internet stocks are widely, and correctly, 
+regarded as high-risk investments. But what was noteworthy about the 
+trading action after Thanksgiving was that it was caused by day traders 
+_ primarily individual investors, trading online _ who rely on quick 
+market fluctuations to turn a profit. And on the day after Thanksgiving, 
+these individuals dominated the trading volume in at least a few high-technology 
+growth stocks. The Internet changes everything, indeed. For the first 
+time, anyone with a computer, a connection to the global network and 
+the requisite ironclad stomach for risk has the information, tools 
+and access to transaction systems required to play the stock market, 
+a game that was once the purview of an elite few. For those who believe 
+that this kind of decentralization of power is the primary benefit 
+of an Internet-based economy, this is good news. But one has to wonder 
+about the unintended consequences of such a fundamental shift. Some 
+studies show that the number of individuals jumping onto the Internet 
+increases by thousands every day; as technology improves, that number 
+is likely to rise even faster. Information _ especially the kind of 
+information that fuels stock trading, like real-time quotes and company 
+data _ is on the verge of becoming ubiquitous. Couple that with the 
+likelihood that as more individuals make money in a booming stock 
+market, the word of mouth _ spread in chat rooms and news groups via 
+the Internet itself _ is likely to attract still more day traders, 
+and you end up with a model for exponential growth. Some market makers, 
+in fact, are already projecting that they will have to double or triple 
+their technology investments to keep up with increased volume from 
+Internet traders. Though he believes the volatility of Internet stocks 
+is not itself a problem, William Hambrecht, co-founder of the investment 
+banking firm Hambrecht &AMP; Quist, calls the day trader phenomenon 
+``a big thing.'' ``I've been amazed they've been able to have such 
+an impact on some of these big-cap Internet stocks,'' said Hambrecht, 
+who now runs W.R. Hambrecht &AMP; Co., an entrepreneurial investment 
+firm. ``This isn't a few people with a few small stocks.'' He calls 
+the current day trader phenomenon ``mob rule,'' and adds: ``In a free 
+market, it plays itself out. Professionals are trying to tell these 
+people that they're playing with dangerous stuff, but people don't 
+listen when they're in a feeding frenzy.'' Some investors are anticipating 
+the near-term effects of day trading on the Internet economy itself, 
+which is fueled in large part by the hefty prices commanded by Internet-related 
+stocks. ``These price effects have consequences,'' says Ann Winblad, 
+a co-founder of Hummer Winblad Venture Partners in San Francisco, 
+a technology investment firm. A prolonged run-up in stock prices, 
+she says, could prove to be a double whammy for Internet companies. 
+For one thing, Ms. Winblad said, it will become increasingly difficult 
+to hire talented managers if they believe the shares are so overpriced 
+that the stock options being offered them _ the pheromone that draws 
+most executives to technology companies _ are likely to be considerably 
+devalued when the market comes to its senses. If the company then 
+resets the options at a lower, more attractive price, institutional 
+investors, who hold most of the market's stock and tend to invest 
+in assets rather than concepts, will balk. Today, it is only these 
+institutional investors, as well as program traders who move large 
+blocks of stock in a single, computer-guided transaction, who can 
+affect the overall stability of the larger market. But if individual 
+trading on the Internet continues to grow at its current pace, it 
+is possible to imagine a situation where the market as we know it 
+today cannot absorb the shock. Peter Schwartz, chairman of the Global 
+Business Network, a strategic planning firm in Emeryville, Calif., 
+points to the fact that people around the world have access to the 
+stock market through the Internet. What happens, he asks, when ``vast 
+numbers of people from all around the world _ 50 million people in 
+India, 5 million in Brazil _ are all trading?'' If the number of individual 
+investors grows large enough to match the volume of shares held by 
+institutional investors and program traders, Schwartz says, ``when 
+herd behavior moves the larger market in these highly volatile ways, 
+unrelated to the value of the assets themselves, that becomes highly 
+problematic.'' Of course, there is no way to predict whether such 
+a situation will unfold. Even if it does, Schwartz said, it will be 
+a long time coming. But in the short term, the problem may solve itself. 
+``Not too many people have the stomach'' for day trading, Ms. Winblad 
+said. ``The viral effect will eventually settle. Some industries are 
+maimed, but they don't go away.'' 
+</TEXT>
+</DOC>

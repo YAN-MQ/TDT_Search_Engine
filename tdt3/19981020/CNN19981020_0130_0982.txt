@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981020.0130.0982 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street has started the week on a positive note. The Dow Jones 
+industrial average gained 49 points to close at 8466. Analysts say 
+investors were anticipating the release of strong corporate earnings 
+reports Tuesday. 
+</TEXT>
+</DOC>

@@ -1,0 +1,159 @@
+<DOC>
+<DOCNO> NYT19981202.0221 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Just off the two-lane highway that runs through Washington State's 
+lush Vashon Island sits the wood-paneled headquarters of the K2 Corp. 
+Although Vashon is the kind of place where, just down the road from 
+the company, people leave their trucks unlocked, keys in the ignition, 
+while they purchase chicken feed, K2 seems more standoffish. In its 
+front window, the company has a sign posted prominently that says, 
+``Sorry, No Factory Tours.'' At mention of the sign, Andy Luhn, a 
+company spokesman, shrugs and mutters something about espionage. It 
+is here that the first convergence took place of commercial sports 
+equipment and piezoelectric technology, a way of translating mechanical 
+energy (shocks, bumps, vibrations and the like) into electricity and 
+heat. The technology was developed largely in secret during both world 
+wars and has been used in military, medical, aerospace, automotive 
+and industrial products. But in 1995, the release of the K2 Four ``smart 
+ski'' introduced the first high-volume commercial application of piezoelectricity 
+for vibration control in sports equipment. Since then, a handful of 
+sports equipment manufacturers have begun embedding piezoelectric 
+(the first part is pronounced pee-AY-zoh) modules in snowboards, mountain 
+bicycles, baseball bats and water skis, in some cases using microprocessors 
+to improve the modules' performance. Next year, a piezo-enhanced golf 
+club should be available. The warning sign in front of K2's factory 
+seems in keeping with the company's portrayal of itself as groundbreaking 
+innovator for having wed piezoelectric technology to sports equipment. 
+``I guess we take it for granted that it's very revolutionary,'' Luhn 
+said. Some the users and makers of rival skis, snowboards and bicycles, 
+however, aren't so sure. While no one questions the basic workings 
+of piezoeletric materials, not everyone is enamored of the results 
+on the slope or the mountain. And where some see revolution, others 
+see gimmick. Among the skeptics is Soren Wolff, a ski instructor at 
+Squaw Valley USA, near Lake Tahoe, Calif. Wolff owns a pair of K2 
+Fours _ but his motive for buying them might not be what the marketing 
+people at K2 had in mind. ``I'm a slave to fashion,'' he said. ``I 
+thought they were cool looking. They brought the retro pattern back.'' 
+Wolff was referring to the red, white and blue striped design recycled 
+from the original 1971 K2 Four ski. So how well do the skis work? 
+``To be completely honest, I'd say it's more of a novelty,'' Wolff 
+said. ``But, yeah, it works. If a person has achieved a certain amount 
+of proficiency, anything will work. People are going to get on a ski, 
+and it turns left and right.'' A representative of a competitor of 
+K2 had a harsher assessment. ``It's just a gadget, and people like 
+gadgets,'' said Daniel Morney, Rossignol Ski Co.'s vice president 
+of racing and promotions. The technology has also brought mixed reviews 
+from the other sports where it has been applied. Dan Grausam, an expert-class 
+mountain bicycle racer in Berkeley, Calif., said he was not impressed 
+by the piezo in the K2 bicycle. ``While they're certainly adequate 
+bikes, the piezoelectric system hasn't really revolutionized suspension,'' 
+Grausam said. ``If you believe K2's marketing hype, right, it's like 
+they're the only company that does this and it's the best thing in 
+the world. ``Certainly, a lot of people ride them and race them successfully. 
+But they're not the end-all, be-all of suspension.'' The physics behind 
+piezoelectric technology is well established. Piezoelectric materials 
+convert mechanical impulses to electrical energy, and vice versa. 
+Steven Hall, associate professor of aeronautics and astronautics at 
+the Massachusetts Institute of Technology, said the technology should 
+transfer well to skis. ``There's no question that you could measure 
+it in a laboratory and it would be a significant effect,'' said Hall, 
+who added that he is a friend of one of the developers of the piezoelectric 
+module that K2 uses. ``I know that in similar kinds of systems, when 
+you use piezos to do damping, you can get significant levels. So it 
+ought to work in a ski as well as in any other system.` In a ski equipped 
+with the devices, vibrations are damped down by very thin piezoceramic 
+plates. The plates absorb joint-jarring vibrations and convert them 
+to harmless electrical impulses relayed through wires to an electronic 
+shunt circuit. The electricity lights up a small red or green LED 
+(light-emitting diode). The excess energy dissipates as heat. In theory, 
+with the plates installed, instead of knocking you off your feet, 
+tough runs should merely light up a tiny spot on your ski. Mountain 
+bike shock absorbers use the technology somewhat differently. Electronic 
+sensors monitor how bumpy the ride is and relay that information to 
+the piezoceramic ``bender'' plates. Rather than converting the mechanical 
+energy to electrical energy and dispersing it, the piezoceramic plate 
+converts the electrical signal back to mechanical energy. As a result, 
+the ceramic bends, letting varying amounts of oil flow to the bicycle's 
+shock absorbers, as needed, for cushioning against the world's roots, 
+rocks and off-road trails. Piezoelectric devices are by no means the 
+only method on the high-end sporting goods market right now to reduce 
+vibration. ``Everybody's got something,'' said Sean English, manager 
+of the San Francisco outdoor equipment store Any Mountain. Rossignol, 
+for example, has the patented ``VAS,''or Vibration Absorbing System, 
+which uses a viscoelastic material, a kind of rubber. Other damping 
+materials include products that use wood, titanium or synthetics. 
+For outdoor sports, however, especially those during the winter, one 
+of the advantages of piezoceramics is that they ``experience almost 
+zero temperature sensitivity,'' said Brian Mulcahey, a spokesman for 
+the Actice Control eXperts of Cambridge, Mass. ACX, as the company 
+is known, produces all of the piezoceramic modules currently used 
+in sports products. Piezoelectric technology predates modern, so-called 
+``smart'' sports products by more than a century. It was the scientists 
+Jacques and Pierre Curie who discovered that quartz and other crystals 
+emitted electricity when subjected to mechanical stress. Examples 
+of the process can be found in everyday life. All that is needed, 
+for example, are two of the decidedly low-tech quartz rocks commonly 
+found on the beach, said John Frank, an engineer at Ideo Product Development 
+of Palo Alto, Calif. who has helped develop piezoelectric applications. 
+``They're called `flash rocks,''' he said. ``When you throw them against 
+the floor, they spark. While piezoelectric quartz crystals were used 
+after World War I in a myriad of products, from sonar submarine detectors 
+to crystal radios, the crystals were hard to produce. ``Cutting the 
+quartz crystals was some sort of black art that companies would spend 
+years and years trying to master, said Frank. During World War II, 
+isolated research groups in the United States, the Soviet Union and 
+Japan found piezoelectric capacities in certain ceramics that were 
+easier to produce than cutting crystals. While piezoceramics have 
+been used since they were first manufactured, they are typically brittle, 
+expensive, and very fragile. The process of soldering wires to the 
+ceramic to harness the electricity often caused irreparable breakage, 
+making mass consumer applications like the K2 skis impractical. Ken 
+Lazurus, co-founder of ACX, worked with raw piezoceramics at MIT's 
+Space Engineering Research Center while completing his PhD. ``There 
+was no technique for making these in high volume,'' said Mulcahey. 
+He said Lazurus was the one who figured out how to mass-produce them. 
+The key to the ACX module is the innovative packaging: a plastic-like 
+material called polyimide that protects the ceramic and eliminates 
+the need for soldering wires directly onto it. Because ACX's innovation 
+renders the technology relatively durable and inexpensive, sports 
+equipment manufacturers like K2, O'Brien International and Worth Inc. 
+can add the vibration-damping module to their products without making 
+them exponentially more expensive. The innovations in the original 
+K2 Four piezoelectric ski damped up to 70 percent of the ski's vibrations, 
+according to K2, which says that in its first full year of sales, 
+the K2 Four was the best selling ski in the nation. An entire line 
+of K2 skills _ the Merlin series _ now uses the dampers, and all told 
+about a third of the company's skis have the piezo module implanted. 
+Skiers with a taste for the high-tech, however, will have to pay more 
+for the privilege. The piezo-enhanced Merlin III, for example, costs 
+$565, while the roughly comparable K2 Three, without any damper, costs 
+$425_ a $140 price difference. ``We've increased the price of the 
+high-end end product by about a hundred dollars,'' said Mulcahey. 
+Peizoelectric devices have also increased the cost of the other sports 
+products to which they have been added. Andy Mapple, the 1998 slalom 
+waterskiing World Cup Champion, helped design the piezoelectric enhanced 
+``Mapple Siege'' slalom ski. Released by O'Brien International in 
+September, the Mapple Siege and its fellow piezo-enhanced ski, the 
+Vision GT, are the latest piezo sports products. ``The only drawback 
+is that it adds expense,'' said Mapple, who tested the skis in several 
+World Cup events. ``With any sport or anything else, you pay for the 
+technology.'' The Vision GT is just over $200 more than a non-piezo 
+ski a notch down on the line. And even Mapple thinks that the vibration 
+damping advance won't eliminate the skill needed to ski well. ``I'm 
+not sure that putting piezos in the ski will make you ski more buoys,'' 
+he said, ``but it will make you ski more buoys more often.'' The costs 
+of the technology can be driven still higher, because some manufacturers 
+have begun combining piezoelectric devices with microchips. In October 
+1997, for example, K2 BIKE, a division of K2, came out with a ``smart 
+shock'' system based on ACX's technology. An electronic sensor determines 
+whether or not shock-absorbtion is needed and how much (if the rider 
+hits a boulder, say, he or she needs harder shock than if he or she 
+hits a molehill). The sensor sends a signal to a microprocessor, which 
+then sends an electric signal to the piezo module. The piezoceramic 
+reacts with a mechanical impulse: It moves, allowing more or less 
+oil into the shock for greater or less cushioning. K2 BIKE now uses 
+piezoelectric modules in 70 percent of its products. 
+</TEXT>
+</DOC>

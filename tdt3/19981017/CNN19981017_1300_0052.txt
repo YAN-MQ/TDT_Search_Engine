@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981017.1300.0052 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A short time ago, President Clinton arrived at the wye river conference 
+center on the eastern shore of Maryland, where he hopes to broker 
+a peace agreement between Israel and the Palestinians before the mideast 
+summit ends. Mr. Clinton will meet individually with Israeli and Palestinian 
+leaders, apparently to address a key sticking point in the negotiations 
+-- controlling terrorism on the West Bank. Secretary of state Madeleine 
+Albright says the overall deal being worked out is essentially an 
+exchange of land for security. Sources say there's been no real progress 
+so far. Israel wants security assurances before turning over West 
+Bank land. The Palestinians say peace will bring improved security. 
+They reportedly are rejecting an Israeli demand that terrorism suspects 
+be tried in Israel. 
+</TEXT>
+</DOC>

@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> NYT19981202.0490 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In excerpts from a videotaped deposition played in federal court Wednesday, 
+Bill Gates, chairman of Microsoft Corp., professed general ignorance 
+of his company's legal battles with Sun Microsystems Inc. over Sun's 
+Java programming language. Asked under oath on Aug. 29 if he was familiar 
+with a civil lawsuit that Sun had recently filed accusing Microsoft 
+of violating its contract to use Java, Gates paused for nearly 30 
+seconds before replying, ``Not really.'' Later he said with a shrug, 
+``I read something about it on our Web site four days ago.'' The questioning 
+in August was in the form of a sworn deposition taken by the Justice 
+Department for the government's lawsuit accusing Microsoft of predatory 
+business practices that violated antitrust laws. The trial turned 
+Wednesday to the company's difficult relationship with Sun, which 
+created and owns Java, a programming language that could in theory 
+threaten the domination by Microsoft's Windows of the market for personal 
+computer operating systems. Microsoft licensed Java from Sun three 
+years ago but then wrote its own version of the language, which is 
+in some ways incompatible with Sun's original. Sun sued, claiming 
+that Microsoft's changes violated its licensing agreement. Two weeks 
+ago, a federal judge in California ordered Microsoft to make its version 
+of Java compatible with Sun's version within 90 days. In the antitrust 
+case, the government is trying to show that Microsoft's battles with 
+Sun are part of a broad pattern of illegal, predatory behavior intended 
+to protect its Windows operating system monopoly. Through a long day 
+of testimony, live and videotaped, Microsoft presented two faces. 
+On videotape, Gates seemed largely unconcerned by Sun, though at one 
+point he said that Java ``might be evolved in the future'' into a 
+competitive threat. But in live questioning, a Microsoft lawyer, Tom 
+Burt, tried to force James Gosling, the Sun executive who created 
+Java, into saying that Sun intended to mount a deadly threat against 
+Microsoft. Burt displayed memos and e-mail from Sun executives describing 
+ambitions to challenge Microsoft using Java. ``Charge! Kill Hewlett-Packard, 
+IBM, Microsoft and Apple all at once'' using Java, Sun's chief executive, 
+Scott McNealy, wrote in one e-mail message, according to a newsletter 
+entered into evidence. Bill Joy, another Sun executive, wrote in 1995 
+that ``Java gives Sun a chance to break away from the Microsoft monopoly.'' 
+But Gosling seemed amused by that and other exuberant statements by 
+Sun executives over the years. And when Burt asked him if Sun wanted 
+to take over ``100 percent of the computer market,'' Gosling chuckled 
+before responding, ``I think we would be happy if we achieved two 
+orders of magnitude less than that,'' or 1 percent. Microsoft's goal 
+in court was to suggest that it could not be considered an enduring 
+monopoly if it was threatened by aggressive competitors like Sun. 
+The government can make few of its charges stick if Judge Thomas Penfield 
+Jackson does not conclude that Microsoft is a monopoly as defined 
+by federal law. While it is not illegal to have a monopoly, a company 
+with a recognized monopoly is barred from employing predatory practices 
+to maintain its domination of a market. In contrast to Burt's strategy, 
+however, Gates seemed wholly unconcerned by Sun and Java. At one point 
+in the Aug. 28 deposition, David Boies, the government's lead lawyer, 
+asked Gates, ``Did you ever try to find out what Microsoft is charged 
+with, what they're alleged to have done wrong?'' In a casual tone, 
+Gates responded that he had asked Paul Maritz, a senior Microsoft 
+executive: ```Do I need to learn about this lawsuit? Do I need to 
+spend a lot of time on it?' He said, no, he's focused on it, and I 
+can focus on other things.'' But then Boies presented e-mail to Gates 
+from others in his company last year showing that they were quite 
+concerned with Sun and Java _ particularly since Java was a significant 
+component of the World Wide Web browser made by Netscape Communications 
+Corp., Microsoft's chief competitor in Internet software. And in an 
+e-mail entered into evidence earlier in the trial, Gates once remarked 
+that Java ``scares the hell out of me.'' In one e-mail introduced 
+Wednesday, Maritz wrote to Gates: ``If we looked further at Java being 
+our major threat, then Netscape is the major distribution vehicle.'' 
+Gates said he could not recall that e-mail, adding that ``Maritz may 
+or may not have agreed'' with the notions he was describing. In another 
+message to Gates last year, a Microsoft executive, Todd Nielson, wrote, 
+``We are proactively trying to put obstacles in Sun's path and get 
+anyone that wants to write in Java to use J/Direct,'' Microsoft's 
+version of the language for Windows. Gates said he did not recall 
+the message, adding, ``I don't know what it means.'' Microsoft issued 
+a statement Wednesday defending Gates' responses and criticizing the 
+government for playing the video of the deposition. ``Gates' performance 
+reflects his adherence to the instructions lawyers routinely give 
+their clients who are being deposed,'' it said. 
+</TEXT>
+</DOC>

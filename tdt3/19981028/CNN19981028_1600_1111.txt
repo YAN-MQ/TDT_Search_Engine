@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981028.1600.1111 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The SEC is charging 44 individuals and companies with committing securities 
+fraud over the Internet. The securities and exchange commission says 
+the defendants lied about companies through Internet board postings 
+and web sites and then profited from quick price increases in the 
+companies' stock. The government also alleges the defendants lied 
+about their independence from the companies and did not make it clear 
+how they were compensated by the companies. 
+</TEXT>
+</DOC>

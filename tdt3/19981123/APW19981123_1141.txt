@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> APW19981123.1141 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+AMERICAN LEADERS NEW YORK (AP)-Sales, 4 p.m. price and net change 
+of the 10 most active American Stock Exchange issues, trading nationally 
+at more than $1. Name Volume Last Chg. SPDR 6,435,200 119 5-32 Up 
+2 17-32 FstAustPrm 1,582,500 5 15-16 Down 1-16 Metromedia 1,415,100 
+4 11-16 Down 1-16 Softnet 1,364,700 16 7-8 Down 1 WEBS Japan 929,300 
+10 9-16 Up 3-16 NaborsInd 923,600 15 3-8 Down 1 1-8 Keane 819,800 
+33 3-4 Down 1 1-4 GreyhndLne 770,700 5 15-16 ViacomB 694,400 68 1-16 
+Up 5-16 ForstLabs s 679,700 46 9-16 Down 13-16 
+</TEXT>
+</DOC>

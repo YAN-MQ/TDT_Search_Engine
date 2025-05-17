@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981026.2000.1596 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+A computer malfunction interrupted trading on Wall Street today for 
+about an hour, but at day's end, the Dow Jones Industrials had fallen 
+20 points to close at 8432. The NASDAQ rose 31 points to finish the 
+day at 1725. 
+</TEXT>
+</DOC>

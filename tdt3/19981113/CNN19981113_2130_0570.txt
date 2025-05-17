@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981113.2130.0570 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Miami, an Arena under construction for the NBA's Miami heat caught 
+fire this afternoon. No one was injured. The fire began on the roof 
+of the American airlines Arena, feeding off wooden scaffolding and 
+construction materials. No word on what caused it. 
+</TEXT>
+</DOC>

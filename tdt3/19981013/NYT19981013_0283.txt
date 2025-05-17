@@ -1,0 +1,52 @@
+<DOC>
+<DOCNO> NYT19981013.0283 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Although high school girls have been catching up to boys in math and 
+science achievement over the last six years, there is a serious gender 
+gap in technology, according to the latest report on girls' education 
+by the American Association of University Women Educational Foundation. 
+The report, ``Gender Gaps: Where Schools Still Fail Our Children,'' 
+found, for example, that in 1996 girls made up only 17 percent of 
+the high school students who took that advanced placement computer 
+science exam, about the same percentage as in the previous year. ``While 
+there are more girls taking computer classes, they tend to be in data 
+entry, while boys are more likely to take advanced computer applications 
+that can lead them to careers in technology,'' said Janice Weinman, 
+executive director of the association. ``And it's not just what courses 
+they take,'' Ms. Weinman said. ``What we've learned through the studies 
+is that girls feel much less comfortable with technology than boys, 
+that they see computers primarily as a matter of word processing rather 
+than as an opportunity for a different kind of problem solving.'' 
+The association's 1992 report, ``How Schools Shortchange Girls,'' 
+which found that girls were often ignored in the classroom and neglected 
+in the curriculum, and generated a nationwide debate on gender equity 
+in education. But that report also came under fire for its failure 
+to address the overall cultural and educational issues that left boys 
+receiving lower grades, dropping out of high school and underperforming 
+girls in English, social studies and foreign languages. The new report 
+rejects the view of boys as advantaged top performers and girls as 
+victims who need to catch up. It argues that true gender equity would 
+benefit all students, giving both sexes encouragement to excel in 
+every subject area. Still, the report focuses mostly on girls' progress. 
+For example, it found good news in girls' increased presence in advanced 
+mathematics and science classes. In 1990, boys made up a higher percentage 
+of pre-calculus, trigonometry, statistics and calculus classes, while 
+in 1994 there was an equal, or higher, percentage of girls in all 
+those classes except calculus; and even in calculus, the gap had narrowed. 
+In science, girls are predominant in every subject except physics, 
+and that gap, too, is narrowing. But it does little to resolve a basic 
+conundrum in the debate about gender equity. Even in areas where girls 
+historically outperform boys, they tend to get lower scores on standardized 
+tests like the Advanced Placement Exams, Scholastic Assessment Tests 
+and Preliminary Scholastic Assessment Tests, which play a large role 
+in determining merit scholarships and college entrance. Generally, 
+the report found, boys do better on multiple-choice questions and 
+girls on essays. And, with the addition of an essay question on the 
+PSAT in 1997, girls' overall score was just 2.7 points lower than 
+that of boys, compared to a gap of 4.5 points the previous year. ``Now 
+that we see what the writing sample does on the PSAT, I think that 
+clearly needs to be addressed on the SAT,'' Ms. Weinman said. 
+</TEXT>
+</DOC>

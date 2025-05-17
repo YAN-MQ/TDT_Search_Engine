@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981221.1130.1104 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+U.S. treasury made a mistake. The department discovered it's been 
+paying social security and other trust funds hundreds of millions 
+of dollars a year in extra interest. The error dates back 20 years 
+ago when calculations were switched from paper to computer. The estimated 
+amount of money that's been credited to social security, $1.4 billion. 
+Treasury secretary Robert Rubin plans to reduce interest payments 
+but not enough to change when social security funds run out of money. 
+</TEXT>
+</DOC>

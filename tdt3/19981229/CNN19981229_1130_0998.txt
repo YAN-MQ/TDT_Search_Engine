@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981229.1130.0998 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Home sales are brisk and consumer confidence remains high. I'm Myron 
+Kandel in New York with this edition of "Dollars & Sense." Sales of 
+existing homes jumped 2.7% in November. The median price is now $131,800 
+up 6% from a year ago. Another report shows consumers remain updeath 
+about the economy. A survey showed little change this month even though 
+optimism about the job picture next year did slip a bit. 
+</TEXT>
+</DOC>

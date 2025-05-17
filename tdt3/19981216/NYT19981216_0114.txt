@@ -1,0 +1,111 @@
+<DOC>
+<DOCNO> NYT19981216.0114 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+If David Farber, the government's central witness at the Microsoft 
+trial, is noteworthy for the number of people who want to be included 
+on his influential e-mail list, Paul Vixie is famous _ some would 
+say notorious _ for publishing an online list that companies desperately 
+want to avoid being on. Vixie is the creator and keeper of the Realtime 
+Blackhole List, a frequently updated list of Internet service providers 
+and Web-hosting companies that he concludes are being used to send 
+unsolicited bulk e-mail, or spam. Inclusion on the list is not merely 
+embarrassing, it can be costly. Hundreds of Internet service providers, 
+universities and other organizations around the world, following Vixie's 
+advice, automatically refuse to deliver messages originating from 
+an Internet service that has been ``blackholed'' (to use the industry 
+patois). When Vixie puts an Internet service provider, or ISP, on 
+the Blackhole list, the operator of that service will find that not 
+just spam but also regular e-mail is blocked from reaching all of 
+the service providers that adhere to Vixie's recommendations. Based 
+on Vixie's estimate of the number of subscribers to his list, he says 
+that a blackholed Internet provider will find itself unable to send 
+e-mail to 25 percent of the addresses on the Internet. Those services 
+that have been blackholed at various times include well-known companies 
+like America Online, Microsoft Network, ICG Communications' Netcom 
+On-Line Services, and Earthlink Network. Time spent in Vixie purgatory 
+may last only a few minutes or can sometimes stretch out for weeks, 
+depending how quickly the labeled offender takes anti-spam measures. 
+Last June, the Microsoft Network spent three-and-a-half days on the 
+list after Vixie concluded the company's e-mail servers were being 
+used as a launching pad for spam. Vixie acknowledges that his tactics 
+may seem harsh, because even nonspam messages get blocked, too. But 
+he believes the severity of the consequences provides the best way 
+to get the attention of offending ISPs. ``I got e-mail from some mother 
+who could no longer send e-mail to her son in college,'' Vixie said. 
+``But either I cause a lot of uncertainty for people until their ISP 
+becomes a model network, or the spammers win, and you and I, and that 
+mother, would have hundreds of messages coming in every day.'' His 
+goals may seem admirable. But Vixie, a 35-year old Internet consultant 
+without so much as a high-school diploma, is generating increasing 
+controversy because of his virtually unparalleled degree of power 
+to control Internet traffic. In fact, some critics accuse Vixie of 
+being arbitrary and capricious. ``He's McCarthy reborn,'' said Alan 
+Bechtold, owner of BBS Press ServiceInc., an Internet service provider 
+in Topeka, Kan., which spent several days on the list last month. 
+``He's arrogant, he believes in his cause,'' Bechtold said, ``but 
+he's totally blind to the damage he does.'' Bechtold said his company, 
+which operates Web server computers on which other people maintain 
+their own Web pages, was blackholed because it once provided space 
+for a Web page by a businessman who used spam to advertise his own 
+electronic-commerce business. But Bechtold said he had not been host 
+to the businessman's site since last July, and that the businessman 
+was using a different service to send the spam when Vixie added BBS 
+to the Blackhole list. When a reporter asked Vixie about this, he 
+conceded that he had not verified whether the businessman was still 
+operating from BBS when he added the company to the list. In his defense, 
+Vixie's supporters say that in the unregulated world of the Internet, 
+he is tackling a problem that legislation and technology have not 
+been able to resolve. The Realtime Blackhole List ``works because 
+people trust Paul to make ethical, intelligent decisions about who 
+goes on and who stays off,'' said John Mozena, co-founder and vice 
+president of the Coalition Against Unsolicited Commercial e-mail, 
+an anti-spam lobbying and trade group. ``If there is a consensus leader 
+among the anti-spammers,'' Mozena said. ``it would be Paul.'' Vixie 
+works from an office here in this Silicon Valley city, which is lighted 
+by little more than his computer screens and is shared only with Elroy, 
+his Labrador retriever and German shepherd mix. Vixie adds an ISP 
+to his list once he determines its network is the originating source 
+of spam and it does not move quickly enough to stop once he issues 
+a warning. He says he promptly removes a company from the Blackhole 
+list when it has proved to him that its e-mail servers _ the powerful 
+computers that send, receive and distribute electronic messages _ 
+are no longer being used to send or relay unsolicited bulk e-mail. 
+He may act without government decree or official appointment, but 
+his rise to power is hardly inexplicable or without support. Supporting 
+himself through consulting work and charging nothing to maintain his 
+Blackhole list, Vixie toils to serve ISPs, universities and others 
+who operate e-mail servers and are desperate to stop the flow of spam. 
+They loathe unsolicited e-mail because it clogs their systems, consumes 
+computer processing power and annoys their customers. And typically, 
+only the largest Internet service providers can afford to effectively 
+track down and fight spammers on their own. That is why it is typically 
+smaller service providers that subscribe to Vixie's list. By programming 
+their own e-mail servers to automatically retrieve and implement his 
+recommendations on which Internet providers to block, Vixie's subscribers 
+are able to identify and block the incoming spam. They are also making 
+a collective statement that other ISPs had better rid their systems 
+of spammers, or else have even nonspam messages go undelivered. Vixie 
+said that the average stay on the Realtime Blackhole List was no more 
+than a few days. He said that on a typical day, he would add five 
+networks to the list, and remove two or three. He said that very infrequently, 
+if ever, would a subscriber to his list wind up being blackholed, 
+because they were companies or organizations that tended to be as 
+anxious to avoid spam as he is. Four volunteers working at separate 
+locations help Vixie sift through potential spam, which they have 
+received directly from spammers or which concerned cybercitizens have 
+forwarded to the organization's Web site (http://maps.vix.com/rbl). 
+The team then tries to track down the origin of the spam and send 
+a warning to the company that operates the originating mail server. 
+Vixie recently demanded, for example, that Earthlink, a large Southern 
+California Internet service with 815,000 users, revamp its system 
+to guard more effectively against being used by spammers, according 
+to Steve Dougherty, Earthlink's director of Internet operations. Dougherty 
+said Earthlink had already been planning to install such safeguards. 
+He found Vixie to be terse and inflexible in his demands. And in the 
+end, Dougherty said he had little choice but to accede. ``We accelerated 
+our schedule,'' Dougherty said. ``He wields that kind of power. He's 
+a guy who can drop 30 percent of our traffic.'' NYT-12-13-98 1759EST 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> PRI19981019.2000.0134 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Government lawyers have wrapped up day one of Microsoft's antitrust 
+trial. The government presented its opening statement today in the 
+case that accuses Microsoft of crushing its competitors with unfair 
+practices. Justice Department attorney Joel Klein says the evidence 
+shows Microsoft used its monopoly power to harm competition and harm 
+consumers. Microsoft's chief says the government's opening statement 
+is based on lose rhetoric. 
+</TEXT>
+</DOC>

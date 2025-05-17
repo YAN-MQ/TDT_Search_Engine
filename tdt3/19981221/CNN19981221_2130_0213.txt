@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981221.2130.0213 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Pentagon says 85% of the 100 targets attacked in Iraq last week 
+were hit, and 74% of those hits were "fully successful." The commander 
+of U.S. forces in the Persian gulf released the numbers at a Briefing 
+today. He said the United States had the most trouble hitting mobile 
+missiles and parts of the Iraqi air defense. Of the 16 surface-to-air 
+missiles targeted, nine were hit. Despite the end of hostilities, 
+the 20,000 U.S. military personnel in the allied containment force 
+are staying in the gulf while troop reinforcements are coming home. 
+</TEXT>
+</DOC>

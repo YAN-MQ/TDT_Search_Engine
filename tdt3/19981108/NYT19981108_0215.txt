@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> NYT19981108.0215 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+COUNTRY: Often called the Roof of the World, Tibet is more than twice 
+the size of France, and has large deposits of gold, copper and radioactive 
+ores. POPULATION: 2.4 million in the Tibetan Autonomous Region, which 
+does not cover the whole of the Tibetan plateau. All told, there are 
+7 million Tibetans in China. HISTORY: A powerful kingdom for centuries, 
+Tibet was ruled by a Dalai Lama from the 17th century, but fell partly 
+under Chinese sway from 1720 until 1911, when Tibetans reasserted 
+their independence. After the Communists took power in China in 1949, 
+Tibet became a ``national autonomous region'' of China in 1951. The 
+Chinese suppressed a revolt in 1959, during which the current Dalai 
+Lama escaped to India. In 1965, the Tibetan Autonomous Region was 
+formally established. During the Cultural Revolution, thousands of 
+Tibetan monasteries were destroyed. The ban on the Tibetans' religion 
+was lifted in 1978, but they continue to chafe at Chinese rule. 
+</TEXT>
+</DOC>

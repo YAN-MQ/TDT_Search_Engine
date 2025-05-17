@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981219.1000.0123 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In the first 209 years in the history, the U.S. House of Representatives 
+have voted on articles of impeachment on one president. Today they 
+will vote on impeaching a second president. Democratic members will 
+attempt to derail impeachment. They will move to send the four articles 
+back to the Judiciary committee and when the effort fails, many democrats 
+are expected to Bach walk out in protest. 
+</TEXT>
+</DOC>

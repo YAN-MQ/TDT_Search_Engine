@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981212.1600.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The president is off on a three-day trip to the Middle East. He'll 
+meet with the Israeli prime minister and Palestinian leaders to discuss 
+snags in the wye river interim accord. 
+</TEXT>
+</DOC>

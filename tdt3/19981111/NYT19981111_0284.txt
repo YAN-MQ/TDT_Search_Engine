@@ -1,0 +1,119 @@
+<DOC>
+<DOCNO> NYT19981111.0284 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+They all laughed when I sat down at the digital grand piano, but when 
+it began to play ... They kept laughing when I yielded the piano bench 
+to the ghost of Sergei Rachmaninoff, whose virtual fingers flitted 
+over the keys in a dazzling performance of his arrangement of Nikolai 
+Rimsky-Korsakov's ``Flight of the Bumblebee.'' It is impossible not 
+to laugh, or at least smile, at the sight of a piano seemingly playing 
+itself so frantically. And it is nearly impossible to suppress a sense 
+of wonder when contemplating how recent advances in computer technology 
+have allowed great pianists, some of them long dead, to perform concerts 
+on the piano in one's living room. As we approach the 300th anniversary 
+of the invention of the piano, artists, engineers and computer programmers 
+are finding new ways to combine the richness and versatility of traditional 
+pianos with the power of microprocessors. The familiar acoustic grand 
+piano has not changed much in the past century, but new generations 
+of pianos, some of them digital and some both acoustic and digital, 
+are emerging as we enter the 21st century. The instrument that caused 
+such wonder and delight in our house is the new Yamaha Disklavier 
+Grantouch digital grand piano, or DGT7, which we have been testing 
+in our music room for several weeks alongside our 1920s-vintage Baldwin 
+grand. The DGT7 is certainly not for everybody, in no small part because 
+of its $18,695 price tag, but also because many people prefer their 
+grand pianos to make music the old-fashioned way, by causing hammers 
+to strike metal strings of different lengths. Instead, the DGT7 creates 
+its sounds by plucking them from a large database of digitized sounds 
+and playing them through a set of speakers hidden where the strings 
+used to be. Digital pianos are typically used by rock bands and musical 
+hobbyists or by people who do not have room for a conventional piano. 
+The most common models are not much more than a keyboard plugged into 
+an amplifier, and the sounds they make are easily recognizable as 
+electronic. Yamaha, which has been making pianos for more than a century, 
+decided to put a digital piano into the same physical form as its 
+acoustic grands, thereby greatly improving not only its appearance 
+but also its feel and sound. The result is the DGT7. Gleaming black, 
+the DGT7 is as beautiful an instrument as any conventional acoustic 
+grand piano, and Yamaha says it is constructed with the same care 
+and craftsmanship. The keyboard action, a complex construction of 
+keys, hammers and some 12,000 additional parts, is the same as that 
+used in concert grands, and it has the same feel when played. Since 
+there are no strings, there is no need for an iron frame to support 
+the literally tons of tension put on the strings of an acoustic grand 
+piano. Instead, the DGT7 has an elaborate set of solenoids and optical 
+sensors that measure the location, speed and force of the pianist's 
+actions on the keys, the hammers and the three foot pedals. The sounds 
+themselves are drawn from a database with 30 megabytes of digitized 
+sounds _ about 10 times the sound capacity of earlier digital pianos 
+_ sampled from a 9-foot Yamaha acoustic concert grand. When the middle 
+C key is struck, for example, the sensors feed data to a microprocessor, 
+which selects the most accurate corresponding middle C sound from 
+the database: legato, staccato, loud, soft, sustained and so on. Added 
+to those factors is the ``voice'' of the note _ colored for the reverberations 
+of a concert hall or a cellar, as a single note or as part of a chord, 
+as a piano or as a harpsichord, etc. The variables are nearly infinite. 
+Because its sounds are synthesized, the DGT7 never needs tuning, and 
+because each note is a clone of one produced on the big concert grand, 
+the notes are as perfect as the speakers can make them. The result 
+is that this five-foot digital piano has a sound much bigger than 
+its actual size. The real magic of the digital piano, however, arises 
+from its ability to record and play back performances. The DGT7 has 
+a small computer console under the keyboard that reads performance 
+instructions _ coded as standard MIDI files _ from the user's Macintosh 
+or Windows PC, from another MIDI instrument or from the Internet. 
+Players can record their own performances onto a disk or play back 
+any of the thousands of amateur and professional performances, like 
+the Rachmaninoff performance, that have been captured as MIDI files. 
+The Internet is becoming a vast repository of such piano performances. 
+Professionally recorded floppy disks ranging from classical to contemporary 
+are available at prices ranging up to $35. (A reminder about copyright 
+laws is appropriate. Sharing original compositions and public domain 
+works on the Internet is fine, but flooding the world with your interpretations 
+of Barry Manilow's ``Feelings'' is legally, if not morally, wrong.) 
+To test the DGT7's performance capabilities, Nick, the aspiring concert 
+pianist in our household, selected a diskette of Alexei Sultanov playing 
+Chopin's ``Polonaise in A-flat Major,'' a work that requires that 
+the pianist both caress and pound the full span of the keyboard. The 
+DGT7 met the test with ease. Hearing the same performance on an audio 
+CD and hearing it being actually played on the DGT7 in one's parlor 
+are two very different experiences. It would be a mistake to think 
+of the DGT7 as merely the latest version of the player pianos that 
+were popular in the 1920s and 1930s. Besides having better sound, 
+the digital pianos have an impressive repertory of technical tricks. 
+The volume, both for conventional playing and for playing back recordings, 
+can be set as loud or soft as desired. By plugging in a set of headphones, 
+the pianist can practice well into the night without disturbing anyone 
+in the next room or apartment. The keyboard action can be turned on 
+or off during playback. When it's on, viewers can marvel at the key 
+action, as if a ghost were playing the piano. When it's off, the owner 
+can play along and improvise on the recording. The tempo can be regulated, 
+allowing the user to slow Rachmaninoff's ``Bumblebee'' sufficiently 
+to see each key being depressed. Alas, watching the keys provides 
+no clues to his fingering. Still, I cannot imagine a finer teaching 
+tool for lucky piano students and teachers. With a twist of the dial, 
+one can instruct the piano to play only the left hand or right hand 
+or to transpose the key. As impressive as the DGT7 is, the sounds 
+it makes are still only clones of the real thing. So several companies 
+are marrying the digital recording and playback capabilities of a 
+digital piano with their best acoustic concert grand pianos. Two models 
+today, the Boesendorfer 590SE and the Yamaha Disklavier Grand Pro 
+DS6PRO, are considered state of the art. Only a few dozen of these 
+high-end models are in use around the world, perhaps because of their 
+$140,000-plus price tags. Other acoustic pianos with electronic reproduction 
+capability are available for $50,000 and up. The inventor of the modern 
+acoustic reproducing piano, Wayne Stahnke, recently harnessed his 
+many skills in engineering, computer science and music to recreate 
+the original performances of Rachmaninoff, who died in 1943. Stahnke 
+painstakingly restored Rachmaninoff's original performances from paper 
+rolls that the Russian composer and pianist made on a mechanical reproducing 
+piano, converted them into digital form, replayed them on the Boesendorfer, 
+and recorded the output digitally to a CD. The result is ``A Window 
+in Time: Rachmaninoff Performs His Solo Piano Works'' (Terarc CD-80489, 
+about $15), a remarkable new audio CD that some critics assert recreates 
+a live performance by Rachmaninoff. It is certainly a showcase for 
+the capabilities of pianos in the digital age. 
+</TEXT>
+</DOC>

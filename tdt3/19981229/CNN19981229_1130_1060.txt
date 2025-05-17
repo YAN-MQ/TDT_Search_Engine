@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981229.1130.1060 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Declining gasoline prices have prompted the Internal Revenue Service 
+to postpone the start date of a new tax reimbursement rate. Effective 
+April 1st, employees can ke deduct 31 krebts for every mile they drive 
+their own cars for work purposes. That's down from the current 32.5 
+cents and the first ever cut in the reimbursement rate. The IRS originally 
+set the change to take effect January 1st, but many companies complained, 
+saying the reduction could make it difficult to reprogram their payroll 
+software. 
+</TEXT>
+</DOC>

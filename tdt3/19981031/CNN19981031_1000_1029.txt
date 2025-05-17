@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981031.1000.1029 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street gave investors a good reason to smile this week. On Friday, 
+the Dow industrials rose 97 points. Even more impressive, the Dow 
+was up nearly 10% during October. That's the best monthly performance 
+in almost 12 years. Stock prices were helped by good economic news. 
+The commerce department says the economy grew by a surprising 3.3% 
+during the third quarter. 
+</TEXT>
+</DOC>

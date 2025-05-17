@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981012.1130.1120 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street, the Dow is up 169 points. NASDAQ composite adding 
+almost 53. 
+</TEXT>
+</DOC>

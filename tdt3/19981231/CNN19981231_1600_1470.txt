@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981231.1600.1470 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Ron tank with the "Hollywood Minute." "Monday night football" 
+has been thrown for a loss again. The ratings for this year's late-night 
+game were the lowest in the show's 29-year history, 8% less than the 
+previous low, last year. ABC points out the show was still the network's 
+fifth most-watched prime-time program. 
+</TEXT>
+</DOC>

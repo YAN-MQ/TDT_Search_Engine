@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981206.1830.1726 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's our report. Tomorrow on "Good Morning America," an interview 
+with the young woman who may not be given her father's last kidney. 
+I'm Carole Simpson. Have a good week and good night. 
+</TEXT>
+</DOC>

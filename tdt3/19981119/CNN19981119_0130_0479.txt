@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981119.0130.0479 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center, with your 
+"CNN Headline News forecast." Beautiful weather along the eastern 
+seaboard Thursday morning, as well as the western and central sections 
+of the country. Gulf coast not looking bad either. But heavy snow 
+over the Great Lakes and rain and snow moving into the pacific northwest 
+Thursday morning through Friday morning. By Friday morning, that heavy 
+snow will move into New England, and we'll see rain develop over the 
+lower Mississippi valley. And central and western sections of the 
+country looking quite nice. Highs on Thursday, in the 70s and 80s 
+in the deep south, a pocket of very cold air over New England, with 
+highs in the 30s. 20s and 30s over the northern plains and the northern 
+and central Rockies. Your extended forecast showing heavy rain and 
+wind in the northwest. Heavy snow and rain in the northeast, with 
+a few showers over Texas. Lighter rain over Texas on Saturday. The 
+heavy rain persists in the northwest, with a few snow showers in the 
+northeast. And heavy rain once again continues on Sunday, with a few 
+showers over south Texas and windy conditions over the Great Lakes. 
+</TEXT>
+</DOC>

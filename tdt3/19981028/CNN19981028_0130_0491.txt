@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981028.0130.0491 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And coming up -- an important 
+checkup. How are women doing in the fight against heart disease? 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981023.2130.0387 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The national research council has issued a report on the world's fisheries 
+concluding that the ocean's supplies are seriously low and could run 
+out. It's calling for a significant overall reduction in fishing. 
+Declines in certain species have already forced some major fisheries 
+to shut down. The government's national Marine fisheries service is 
+developing plans to reduce the catch for unwanted species and find 
+ways to rebuild fish stock. 
+</TEXT>
+</DOC>

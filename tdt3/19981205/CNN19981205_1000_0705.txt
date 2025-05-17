@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981205.1000.0705 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Friday -- the space shuttle "endeavour" blasts into orbit carrying 
+an american built section of the international space station. The 
+crew will be bonning the first U.S. piece of that space station with 
+a Russian component already in orbit. I'm Chuck Roberts, "Headline 
+Sports." 
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981202.1130.0651 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Have you ever had your blood pressure taken by one of those drugstore 
+machines? Like many medical devices, that technology comes from the 
+space program. When Alan shephard became the first American to fly 
+in space 37 years ago, project Mercury scientists wanted to know what 
+blast-off does to blood pressure. So, they invented an automatic measuring 
+device. If you wear scratch-resistant glasses, you, too, can thank 
+the stars. NASA needed something to protect satellites from getting 
+nicked by space debris. And an implantable insulin pump that helps 
+keep diabetes under control, borrows from the mechanical robot arm 
+on the first Mars probe. It's wonderful, because without this technology 
+that we got today, I wouldn't have the control I have, and maybe I 
+might not be here. NASA says its primary mission is to fly in space. 
+The medical spin-offs are just a bonus, but one that directly benefits 
+life on earth. For the latest health news online, check out CNN.com/health. 
+for "your health," Sherry rauh, "Headline News." 
+</TEXT>
+</DOC>

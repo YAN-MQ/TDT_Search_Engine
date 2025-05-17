@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981112.1600.1099 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Girl Scouts are trying to boost cookie sales again this year. And 
+in New York, they've taken a very business-like step to enhance performance. 
+A Massachusetts company is helping the Scouts with their sales pitch. 
+It's urging the girls to say "how many boxes of cookies would you 
+like?" Instead of "would you like to buy cookies?" We'll see if it 
+works. 
+</TEXT>
+</DOC>

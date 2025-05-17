@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> APW19981110.0268 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Singapore International Monetary Exchange issued a thinly veiled 
+criticism of the Hong Kong Stock Exchange on Tuesday, warning that 
+exchanges that fear competition will ultimately lose business. ``Exchanges 
+that adopt an enlightened approach to competition find that there 
+is a bigger pie to share,'' SIMEX president Ang Swee Tian said at 
+an international futures industry seminar. But exchanges that pursue 
+anti-competitive practices invariably find they are powerless to prevent 
+business migrating elsewhere, Ang warned. Hong Kong's stock exchange 
+has said it will block real-time price data from being used by Singapore's 
+monetary exchange for futures trading of a stock index that is virtually 
+identical to the special administrative region's benchmark index. 
+Singapore's monetary exchange plans to launch the Morgan Stanley Capital 
+International Hong Kong Stock Index Futures contract Nov. 23. Officials 
+from the Hong Kong exchange have argued that the SIMEX product might 
+steal away trading business, and could be used by outside parties 
+to manipulate the Hang Seng Index. Also speaking at the Tuesday seminar, 
+Hong Kong Stock Exchange chief Alex Tsui said he questioned the value 
+of another exchange using ``information to offer a certain product 
+that competes with my product that I trade on my exchange.'' Tsui 
+added that Hong Kong's agreements with information vendors state that 
+if information is supplied to a third party to create a competitive 
+product, then the exchange has to give its consent. ``So far no one 
+has come to ask any consent whatsoever,'' Tsui said. ``I'm still waiting 
+for any proposal from anybody saying that it is good for both parties; 
+I haven't seen any so far.'' Executives from the feuding exchanges 
+met in Hong Kong last week, but made no progress in resolving the 
+dispute. On Tuesday, Ang denied allegations that by relaunching the 
+contract _ which was originally listed in Singapore in 1993 but scrapped 
+last year because of lack of interest _ SIMEX was trying to win business 
+away from Hong Kong. He said SIMEX seeks to maintain close working 
+relationships with other exchanges to promote collective market integrity. 
+</TEXT>
+</DOC>

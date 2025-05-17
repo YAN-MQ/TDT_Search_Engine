@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981115.1300.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Vice President Al Gore is taking President Clinton's place at an asia-pacific 
+economic conference this week. The United States is one of 21 nations 
+represented. 
+</TEXT>
+</DOC>

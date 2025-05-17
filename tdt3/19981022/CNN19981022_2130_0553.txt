@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981022.2130.0553 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And still ahead -- math on 
+a monkey's level. 
+</TEXT>
+</DOC>

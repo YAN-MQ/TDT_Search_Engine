@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981126.0500.0348 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now for a Thursday, I'm Paul Westfeeling in Washington 
+broadcasting live. 
+</TEXT>
+</DOC>

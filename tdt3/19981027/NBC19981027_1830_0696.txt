@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> NBC19981027.1830.0696 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+News on the economy tonight, consumers are feeling more pessimistic 
+than they have in more than two years due to the jitterry stock market 
+in home. It was down nine points. It was its lowest level since 1996 
+December. That may not bode well with retailers with Christmas shopping 
+on the way. A down day on Wall Street. Industrials down more than 
+66 points. The NASDAQ dropped over 7 points. The top five technology 
+stocks were mixed. 
+</TEXT>
+</DOC>

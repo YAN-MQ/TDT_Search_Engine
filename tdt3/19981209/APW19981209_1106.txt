@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> APW19981209.1106 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Selected world gold prices, Wednesday. Hong Kong late: dlrs 293.55 
+off dlrs 1.10. London morning fixing: dlrs 293.50 off dlrs 1.05. London 
+afternoon fixing: dlrs 294.20 off dlrs 0.35. London late: dlrs 294.25 
+off dlrs 0.30 Paris afternoon fixing: dlrs 288.47 off dlrs 4.59. Frankfurt 
+fixing: dlrs 293.61 off dlrs 0.90. Zurich late afternoon: Not Available. 
+NY Handy-and-Harman: dlrs 294.20 off dlrs 0.20. NY Handy-and-Harman 
+fabricated: dlrs 308.91 off dlrs 0.21. NY Engelhard: dlrs 295.35 off 
+dlrs 0.20. NY Engelhard fabricated: dlrs 310.12 off dlrs 0.21. NY 
+Merc. gold spot month close Tue: dlrs 293.30 off 1.50. NY Republic 
+National Bank 4 p.m. Tue: 293.60 off dlrs 1.20 
+</TEXT>
+</DOC>

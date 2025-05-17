@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981224.2130.0982 </DOCNO>
+<DOCTYPE> UNTRANSCRIBED </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street closed early today for Christmas eve. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981121.0130.1009 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+FedEx and its pilots' union say there will be no strike over the busy 
+holidays. Friday the pilots' union agreed to go back to the bargaining 
+table to negotiate its first worker contract. Talks broke off last 
+month over pay raises. By agreeing to resume talks, both sides enter 
+into a 60-day cooling off period in which the pilots can't strike. 
+FedEx says there will be no delay in package and cargo shipments. 
+</TEXT>
+</DOC>

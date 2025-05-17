@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981020.0130.1527 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The royal yacht "britannia" opened to the public Monday, after serving 
+as a Traveling home for the royal family for almost 44 years. The 
+luxurious 412-foot ship was retired in December, because it had grown 
+too costly to operate. It now is permanently docked in Scotland as 
+a tourist attraction, expected to draw 200,000 visitors a year. 
+</TEXT>
+</DOC>

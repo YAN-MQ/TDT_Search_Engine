@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981012.1830.0653 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Sweden today, the nobel prize for medicine has been awarded to 
+three American scientists. Robert furchgott, Louis ignarro and ferid 
+murad were recognized for discovering that the body uses the gas nitric 
+oxide to regulate blood pressure and blood flow. The finding led to 
+the development of the impotence pill Viagra and has applications 
+for treating heart disease and maybe even cancer. 
+</TEXT>
+</DOC>

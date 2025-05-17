@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981016.0130.1331 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+To boxing news -- where Evander Holyfield and Lennox Lewis will unify 
+the heavyweight title in either late February or early March. Holyfield 
+signed the contract Thursday and now awaits Lewis to sign on the dotted 
+line. 
+</TEXT>
+</DOC>

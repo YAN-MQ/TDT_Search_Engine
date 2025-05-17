@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981121.1300.0899 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is in south Korea for a second day of talks on security 
+and economic issues. He won support for confronting north Korea over 
+a suspected nuclear site. There's also growing concern that north 
+Korea is preparing for more ballistic missile tests. 
+</TEXT>
+</DOC>

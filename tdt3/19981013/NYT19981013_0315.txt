@@ -1,0 +1,73 @@
+<DOC>
+<DOCNO> NYT19981013.0315 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A new study has found a substantial discrepancy between the number 
+of cancers detected during life and those found in autopsies. Despite 
+advances in medical technology, the disparity between the diagnosis 
+of cancer before and after death was 44 percent, similar to that found 
+in studies conducted in earlier decades, said the authors. The study, 
+which involved 1,105 autopsies performed over the 10-year period from 
+1986 to 1995 at the Medical Center of Louisiana in New Orleans, found 
+that 100 patients had developed 111 cancers that doctors had either 
+not detected or misdiagnosed. In 54 of the 100 patients, the cancer 
+had spread. In 57 of the patients, the cancer was the most probable 
+cause of death, the authors reported Tuesday in the Journal of the 
+American Medical Association. Even in an era of CAT scan X-rays and 
+other high technology medicine, autopsies remain extremely important 
+because doctors sometimes do not detect cancers and other conditions 
+during life. Thus, a recent decline in autopsy rates could be adversely 
+affecting the quality of health care. Long known as Charity Hospital, 
+the Medical Center of Louisiana serves a mainly indigent population, 
+which may not be receiving adequate health care. The hospital is also 
+a top-level trauma center. Thus, cancers and other chronic conditions 
+could have been masked by other more acute problems, Dr. Elizabeth 
+Burton and her co-authors wrote. One in five of the deceased, who 
+ranged in age from 4 to 92 years, had cancers at the time of autopsy. 
+But the report did not address the extent of medical care they received 
+during life. Nevertheless, the authors wrote, ``The number of inaccurate 
+clinical diagnoses (attributed to both malignancies and all other 
+causes) remains alarmingly high.'' In an interview, Dr. Burton said 
+she did not know how representative her study was of patients who 
+are currently now being treated in other types of hospitals. For several 
+reasons, a number of medical leaders have deplored the plummeting 
+of autopsy rates in American hospitals in recent years. Rates are 
+now about 5 percent in many community hospitals compared to 50 percent 
+in the 1960s. Dr. Lars Erik Bottiger , a former editor of the Journal 
+of International Medicine, said in a recent interview in Stockholm 
+that autopsy rates have declined in Sweden and many other countries 
+with little agreement as to why. Doctors and hospital officials have 
+speculated that autopsies are now too costly and an unnecessary diagnostic 
+tool in this era of high-technology medicine. But the New Orleans 
+study provides additional evidence to the contrary. At 24 percent, 
+the autopsy rate in the study was higher than the national rate, largely 
+because of an affiliation with the coroner's office, which has powers 
+to perform an autopsy even if a family does not give consent. The 
+rate would have been 10 percent without the coroner's affiliation, 
+the authors said, and ``a significant number of clinically undiagnosed 
+malignancies may not have been recorded.'' A principal reason autopsies 
+are performed is to inform family members about the accuracy of the 
+diagnosis in the deceased and the quality of that patient's care. 
+However, Dr. Burton said it was not the practice of the pathologists 
+who performed the autopsies to call families of the deceased to provide 
+them with the findings, though the families could seek the autopsy 
+findings on their own or through their doctors. Dr. Burton also said 
+she did not know how many of the families learned about the undetected 
+or misdiagnosed cancers. ``Do we directly call the families and give 
+them the results? No, we do not,'' Dr. Burton said. ``Do we notify 
+the attending physician?'' Dr. Burton said. ``We are doing everything 
+within our power to do that now.'' She added that she did not know 
+if the pathologists who performed the autopsies were notifying the 
+attending physicians in the decade-long period of the study. Dr. Burton 
+said she would not know whether any malpractice cases or disciplinary 
+actions had been taken as a result of the undetected or misdiagnosed 
+cancers. Autopsies still are the most important means of determining 
+whether a death is due to homicide or natural causes. They also serve 
+many additional purposes. Among them, the pathology findings can help 
+monitor the effectiveness of drug therapies and surgical techniques, 
+and they are an important teaching tool for medical students and doctors. 
+Autopsies help monitor public health by identifying new diseases and 
+changes in ones long recognized. 
+</TEXT>
+</DOC>

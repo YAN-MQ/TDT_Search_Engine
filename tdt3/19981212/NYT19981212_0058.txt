@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> NYT19981212.0058 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+On Dec. 2, a US Airways passenger jet landing at La Guardia Airport 
+came within 50 feet of a corporate plane preparing to take off. It 
+was one of three times in the Northeast this month in which planes 
+came too close together, which might lead peak-season passengers to 
+wonder what's going on up there. A lot: air traffic nationally and 
+in the Northeast has never been more congested. In 1987, the National 
+Geographic Society mapped the skies above New York on a typical afternoon 
+for its ``Historical Atlas of the United States'' and identified about 
+45 aircraft flying below 14,000 feet, which included most planes headed 
+to or from the three major airports. Now, The New York Times has taken 
+a more panoramic snapshot that shows far more traffic overall. The 
+accompanying map shows the New York region's traffic at 6 p.m. on 
+Oct. 8. The planes at lower altitudes were under the control of the 
+New York Terminal Radar Approach Control, in Westbury, N.Y.; the ones 
+at higher altitudes were directed by the New York Air Route Traffic 
+Control Center, in Ronkonkoma, N.Y. Technology has helped air traffic 
+controllers keep pace with greater congestion, but a controller's 
+job remains highly stressful. Controllers complain about unreliable 
+and aging equipment; experts say the Federal Aviation Administration 
+must find new technology or face gridlock. If the controllers make 
+a mistake or their computers break down, an onboard system can warn 
+passenger plane pilots of impending collisions. Last week, a British 
+Caledonian Boeing 767 and a Delta L-1011, both bound for Europe, came 
+within a mile of each other over Long Island, apparently because of 
+computer error, but their pilots were warned by the on-board anti-collision 
+systems. 
+</TEXT>
+</DOC>

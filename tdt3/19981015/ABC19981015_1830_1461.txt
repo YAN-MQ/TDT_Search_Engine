@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981015.1830.1461 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's an important piece of medical news for the world. U.S. Navy 
+researchers have found a new vaccine that may prove very effective 
+for treating malaria. It uses DNA to build up the body's immunity 
+to the disease. In many parts of the world, strains of malaria have 
+become resistant to drugs. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981106.1600.1514 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+You might not have to worry about ice storms this winter, if the wooly 
+bears are right. According to a prognosticator in hagerstown, Maryland, 
+the bands on wooly bear caterpillars indicate this will be a mild 
+winter. He says the front bands were of normal width, while the rear 
+bands were narrow, meaning an average first half of winter and a warm 
+second half. The caterpillar-counting forecaster says the wooly bears 
+were accurate last winter. 
+</TEXT>
+</DOC>

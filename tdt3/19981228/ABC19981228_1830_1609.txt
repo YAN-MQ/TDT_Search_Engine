@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981228.1830.1609 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A brief review of the top story. For the first time since the latest 
+confrontation between the U.S. and iraq, the Iraqis fired missiles 
+at U.S. warplanes today. It happened in the northern no-fly zone. 
+U.S. planes responded firing at an Iraqi missile battery. The Iraqis 
+say they probably downed a western plane. The Pentagon deny ies that 
+claim. 
+</TEXT>
+</DOC>

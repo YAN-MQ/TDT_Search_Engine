@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981205.0130.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mr. Clinton is calling for a minimum wage increase, on the heels of 
+a drop in the unemployment rate. He says too many Americans are working 
+full-time, but living in poverty. 
+</TEXT>
+</DOC>

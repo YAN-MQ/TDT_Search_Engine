@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981123.1600.0741 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronomers working with the Hubble space telescope have released 
+photos of galaxies 12 billion light years away. They were able to 
+capture the distant image by pointing Hubble in one direction for 
+10 straight days. The light left the galaxies 12 billion years ago, 
+shortly after what scientists call "the big bang." The image effectively 
+doubles the number of distant galaxies available for study. 
+</TEXT>
+</DOC>

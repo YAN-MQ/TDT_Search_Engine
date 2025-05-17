@@ -1,0 +1,144 @@
+<DOC>
+<DOCNO> VOA19981110.1600.2155 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+the American legal system and the rules evolving in the European Union 
+are based on radically different views of the nature of privacy and 
+the roles of government and business. Those differences have implications 
+for the future of the worldwide boom in electronic commerce. How much 
+privacy is enough? That's the question posed on today's Dateline. 
+Here's Pamela Taylor. Late last month, the European Union issued a 
+set of privacy standards designed to protect the transfer of data 
+on an individual citizen's personal life. The new rules oblige governments 
+to block data transfers to countries that fail to uphold similar adequate 
+privacy provisions, and that, in the European commission's view, includes 
+the United States. We have more on the European directive from VOA 
+correspondent Ron Pempstein in Brussels. What the European Union wants 
+to do is to prevent companies from selling data about European consumers 
+without their consent. That's why the rule contains a provision barring 
+transmissions to a country outside the European Union if that country 
+does not provide similar protections of privacy. Any member state 
+in theory can block individual data transfers to the United States. 
+A European can protest the release of information about themselves 
+if it is done without their consent. The European Union allows controls 
+of data concerning an individual's health, their ethnic origin, their 
+religious or political beliefs, or their sex life. European commission 
+officials say the rules are designed to prevent a recent case in the 
+United States where medical information about the is provided by pharmacies 
+to medicine suppliers. They ridicule suggestions that normal data 
+transmissions from the European Union to a third country will be disrupted. 
+As one official puts it, a decision to block a data transfer would 
+only apply to a single type of transfer, not to all transmissions 
+to a country. If an individual consents to a transfer of information 
+to obtain a job, for instance, the new rule will not stop the data. 
+The intent of the European Union legislation to harmonize the 15 countries' 
+approach to data so there are not barriers put up by different countries. 
+The European Union sees privacy as a human right. So the rule is designed 
+to take a single market approach to the transmission of data about 
+individuals. The European commission has been talking to American 
+officials trying to reach a common understanding on the data issue. 
+Banks, airlines, and insurance companies are always transmitting data 
+about potential clients back and forth across the Atlantic Ocean. 
+There is still no understanding on how the European rules are going 
+to be enforced. The United States has little interest in putting controls 
+on the Worldwide Web. The European Union hopes an agreement can be 
+reached where data transmissions can continue to the United States 
+with companies that sign up to privacy principles issued by the U.S. 
+Department of Commerce. VOA correspondent Ron Pempstein reporting 
+from our European bureau in Brussels. One basic disagreement between 
+Brussels and Washington is the whole issue of legislating compliance. 
+Washington prefers a voluntary system, one that would call on U.S. 
+companies wishing to process European's personal information to adhere 
+to a set of privacy standards. Just how such standards would be enforced 
+or how European citizens could seek redress for any grievances has 
+not been resolved. Peter Swire, a law professor at Ohio State University 
+in Columbus, Ohio, says the E.U. privacy directive has major implications 
+for global business transactions if such issues are not resolved. 
+The big question is going to be we have half a trillion dollars a 
+year of trade between Europe and the United States in goods and services 
+just with the European Union. And if we follow the European rules, 
+a lot of the transfers of data might not be legal. But if we stop 
+all those data transfers, then we're disrupting half a trillion dollars 
+of trade. And how can that be the right answer? So we're really in 
+a pickle right now between the European desire to follow their laws 
+and the reality that that would disrupt trade an awful lot. Well, 
+surely the Europeans foresaw some of these problems when they were 
+discussing it implementing this directive. They did foresee it but 
+they frankly thought the United States would go and pass privacy laws 
+like theirs. They think they're on the side of progress and human 
+rights for individuals. And it's still hard for them to understand 
+how different the United States is and how personal information is 
+handled. Well, now, explain that difference. Part of the difference 
+probably stems back to World War II in the Nazi era when a lot of 
+Europeans found out the dangers that happen if all sorts of information 
+about people are being tracked and dossiers or secret police or Nazis 
+or whatever. And Germany was the first place where these data protection 
+laws were passed. It spread from there throughout Europe, and now 
+the European Union in this directive is saying that they're going 
+to have the same rules for all 15 countries and 370 million people 
+in Europe. And in the United States, you say we have a different view, 
+but it would seem to me that there is a trend toward demanding more 
+privacy. Right. But the United States also has a laissez faire tradition 
+of not regulating companies. And the American view has usually been 
+that the companies have data about their own transactions, about their 
+own customers, and companies are allowed to use that the way they 
+see fit with very few limits. In the United States, if you subscribe 
+to a magazine, it's been normal practice for years that your name 
+gets sent to other magazines for possible use of solicitation. That's 
+something Americans are used to. It's much less common to see that 
+in Europe. And the two cultures are really pretty different on that. 
+I guess this is a specter of big brother watching as far as many Europeans 
+are concerned where big brother in Europe is a government; in the 
+United States, perhaps big brother, is a company. Right. The American 
+rules are stricter on the government and less strict on business. 
+And it's the other way around in Europe. They're stricter really on 
+companies. And the government as part of the social welfare scheme 
+get to know a lot more about their citizens. But what about a case 
+such as, I don't know, a tourist from a European country injuring 
+him or herself in the United States and the insurance company? We'd 
+need access to his medical records. There are a number of exceptions 
+to the directive. One of them is the one you say, when it's for the 
+vital interest the data subject to provide health data. If an individual 
+gives clear consent, then data can leave Europe. If it's necessary 
+to perform the contract such as to get shipping information of where 
+the delivery should go, then that can leave Europe. The problem comes 
+if American companies keep trying to use American style practices 
+with their data. But the Europeans are saying they're using it in 
+Europe or with European data. That's where the conflict happens. And 
+the conflict I guess is presumably also that Europeans see the U.S. 
+laissez faire capitalist idea as simply trying to allow American companies 
+access to all this information about their people which will help 
+give American companies perhaps an edge. Right. You see the worst 
+of all worlds from Europe's point of view is if the United States 
+companies get to use the data, so you get violations of privacy and 
+the jobs go to the U.S. That would really be bad from Europe's point 
+of view. How do you see all this shaking out? I think for the Worldwide 
+Web in general, we're in a period of adjustment. I don't think that 
+the most restrictive rules are going to work ala through the Web. 
+Europe has all sorts of anti-advertising rules, privacy protection 
+rules, and I don't think they're going to be able to stop all the 
+Web sites in the world from doing what they do. On the other hand, 
+big American companies probably are going to have to follow European 
+practices for European customers. If you're doing business in Europe, 
+you have to follow the minimum wage laws there, you have to follow 
+the environmental laws there. And I think going forward, American 
+companies acting in Europe are probably going to have to follow the 
+data protection laws, too. But ultimately, is that going to hurt Europe 
+more or American business more? There's a real trade off here. When 
+you go - When you have a lot of information about you, you can get 
+a credit report in the United States, you can get your cable hooked 
+up when you move into a new apartment. You get opportunities to participate 
+in all sorts of credit cards and businesses that you might want to 
+do. On the other hand, all those businesses knows things about you, 
+and Europe so far has made a decision to have less marketing, less 
+targeting of individuals but also less information known about the 
+people. And I think Americans probably are going to have to adjust 
+over time either to having lots more known about them or to having 
+more laws than we've had previously. Peter Swire, a law professor 
+at Ohio State University and co-author of "None of Your Business, 
+World Data Flows, Electronic Commerce, and the European Privacy Directive." 
+Thank you so much for talking to us. How much privacy is enough was 
+the subject of today's Dateline. I'm Pamela Taylor. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981213.1300.1296 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+As Joe DiMaggio's health continues to improve, he told doctors to 
+stop giving public updates to the press. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981119.1600.0407 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Maine Supreme Court has upheld a ruling that says a mother can 
+refuse to treat her HIV-infected son with a powerful combination of 
+drugs. The mother was worried the drug cocktail could kill the 4-year-old 
+boy. The court ruled the mother isn't causing an imminent threat to 
+the boy. But it warned the state can demand treatment if the boy's 
+health worsens or a new medical procedure is developed. 
+</TEXT>
+</DOC>

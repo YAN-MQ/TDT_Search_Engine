@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981118.2000.1610 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+It was a pretty quiet day on Wall Street today. The Dow Jones Industrials 
+gained 55 points to once again close above the 9000 mark t 9041. The 
+NASDAQ gained 19 points to day, to 1898. 
+</TEXT>
+</DOC>

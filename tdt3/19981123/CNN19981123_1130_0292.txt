@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981123.1130.0292 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Chicago police are searching for the bodies of more victims of serial 
+killer John Wayne gacy. Today's search will focus on the parking lot 
+of a building where gacy's mother once lived. It comes two decades 
+after police found the remains of 33 victims buried under gacy's house. 
+Police say new evidence prompted the search. They're using a type 
+of ground-scanning radar and may excavate if they find something. 
+Gacy was executed in 1994. 
+</TEXT>
+</DOC>

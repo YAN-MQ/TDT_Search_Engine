@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> ABC19981226.1830.0918 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Every year, cleaning up toxic waste costs taxpayers millions of dollars. 
+It's not only an expensive process, it's a slow process. But now there's 
+a way to do it faster and cheaper. ABC's Jack Smith has details. For 
+years, poisonous chemicals at this site in California's central valley 
+slowly leaked into the groundwater. It stinks and we really don't 
+want to smell it too long. This is highly toxic? Yes, sir, it's toxic. 
+Creosote was used here by the phone company as a preservative for 
+its telephone poles, making the site one of the most polluted and 
+hard to clean in the country. But now a brand-new technology invented 
+by the Lawrence Livermore national labs is changing that. Were you 
+surprised when you saw how effective this new technology was? I'm 
+thrilled. You're thrilled? Absolutely thrilled. In just its first 
+12 weeks of operation, this new cleanup technology removed some 50,000 
+gallons of pollutants from the ground here. Using traditional methods, 
+it would have taken 120 years to get that much out of the soil. This 
+is the steam under the ground? That's correct. 100 feet under the 
+ground? 100 feet under the ground. Guided by the same sort of magnetic 
+imaging used in medicine, engineers first heat water in giant boilers. 
+Then, driving pipes 100 feet underground, literally surround the pollution, 
+soften it with superhot steam and force it to the surface. We're bringing 
+the steam, the groundwater and the contaminants to the center. And 
+then, we have a network of Wells that extract it all out of the ground. 
+If the cleanup is finished in two years, it will save $55 million. 
+And if the technology works here, it could be applied to thousands 
+of other highly polluted sites. If you go to a site where, potentially, 
+they were going to be pumping and treating for 80 more years, and 
+southern California Edison and the regulators can bring this site 
+to closure within a couple of years and get it off their books, that 
+is revolutionary. Not a term scientists use lightly, but here they 
+mean it. This technology could revolutionize toxic waste cleanup everywhere. 
+Jack Smith, ABC News, Visalia, California. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981222.1600.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Al Gore is visiting with military families in Virginia. Many servicemen 
+and women are serving in the gulf region during the holidays. 
+</TEXT>
+</DOC>

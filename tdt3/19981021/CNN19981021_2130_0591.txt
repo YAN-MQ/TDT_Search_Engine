@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981021.2130.0591 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Microsoft is trying to paint a more favorable picture of the computer 
+software company's relationship with its rival, Netscape. In the third 
+day of the government's antitrust suit against Microsoft, defense 
+lawyers produced copies of a 4-year-old E-mail from then Netscape 
+chairman Jim Clark that was sent to Microsoft. It indicated the companies 
+could work together and invited Microsoft to take a financial stake 
+in Netscape. The government's case hinges on evidence Microsoft proposed 
+to Netscape to illegally divide the Internet browser market. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981123.0500.2949 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Major Asian markets closed up today amid hopes of local interest rate 
+cuts. In Australia, investors were encouraged by a healthy economy. 
+Stocks closed up 1.6 percent there, a half percent in New Zealand. 
+Singapore and Indonesian stock values also gained, while Hong Kong's 
+benchmark Hansin index closed up. Meanwhile, Hong Kong real estate 
+may rebound soon. Developers say lower interest rates are making this 
+a good time to buy property in Hong Kong. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981016.0130.0948 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Republicans and democrats are both taking credit for the budget agreement 
+reached Thursday. The $500 billion Bill includes provisions to hire 
+100,000 new teachers. 
+</TEXT>
+</DOC>

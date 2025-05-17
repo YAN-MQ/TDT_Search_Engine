@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981229.2000.1417 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones Industrial surged 24 points to 
+9320. The Nasdaq rose barely a point to 2181. 
+</TEXT>
+</DOC>

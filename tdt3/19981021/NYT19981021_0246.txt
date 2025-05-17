@@ -1,0 +1,186 @@
+<DOC>
+<DOCNO> NYT19981021.0246 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+When William Yokoyama started seventh grade, he had already been using 
+a home computer for more than six years. He could easily use it to 
+do word-processing, surf the Internet, draw pictures, make charts 
+and graphics, and write simple game programs. In the first week of 
+computer classes in his middle school ``they were teaching how to 
+power up,'' recalled William, 14, of Chula Vista, Calif., who is now 
+in the ninth grade. The class goal was to learn how to type a business 
+letter. William wanted more of a challenge. Some of his equally computer-literate 
+friends stayed in the class because ``they thought it was an easy 
+A,'' he said. ``I'd rather have fun while I'm trying to get an A.'' 
+Teachers at his school, Bonita Vista Middle School, agreed with William 
+and his father, Irv Yokoyama, and moved William into a course where 
+he could use the computer as a research tool to study subjects like 
+the environment and atomic energy. Such is the new national classroom 
+challenge faced daily by teachers and parents, now that computers 
+are common in schools and in most homes where there are children: 
+how to teach and stimulate both the computer ``haves'' and the ``have-nots.'' 
+Those students who have access to home computers come to the classroom 
+with skills far beyond those who don't, most of whom need several 
+lessons just on booting up and moving the mouse. As the United States 
+continues its romance with technology, the issue is arising more often 
+among educators. The percentage of households with home computers 
+has jumped from 33 percent in 1995 to 45 percent this year, according 
+to ZD Market Intelligence, a market research company. More telling, 
+58 percent of households with children have computers, up from 52 
+percent a year ago. While not all educators agree that there is a 
+problem, or even that computers should be used extensively by grade-school 
+pupils, many say that the playing field is clearly not level for the 
+child who does not have technology as close as the bedroom or the 
+family room. ``Any student who has a computer in the home has a decided 
+advantage over kids who don't,'' said Ken Tobin, a science-education 
+professor at the University of Pennsylvania and the director of teacher 
+education at the university. The computer has become such a key communication 
+and research tool in education that many students will use the Internet 
+before going to the library, said Paul Myers, associate professor 
+of computer science at Trinity University in San Antonio. In 13 years 
+of teaching his class on ``Computers and Society,'' he has found that 
+he no longer needs to spend the first two weeks giving instructions 
+on keyboarding, because usually every student knows how to do it. 
+The balance has now tipped to the point where Myers says educators 
+are encouraging students to visit the library so that they don't forget 
+how valuable a resource books are for research. ``I think there is 
+an issue here; the issue of the haves and have-nots,'' said David 
+Tremblay, senior industry analyst for ZD Market Intelligence, based 
+in La Jolla, Calif. ``Lower-income households are much less likely 
+to have personal computers. You can't assume everyone has a computer.'' 
+Morton Sherman, schools superintendent for Cherry Hill, N.J., a Philadelphia 
+suburb, which has 10,600 students, doesn't see children who don't 
+have home PCs as the top issue in education. But ``it's a growing 
+issue,'' he said, adding: ``And it's not just a matter of having or 
+not having, but whether they are being used. We have a responsibility 
+to support these kids. There are also teachers who are haves and have-nots. 
+``There were kids in the '70s and '80s who didn't have calculators,'' 
+he said. ``Technology is an essential tool; it's not a luxury. For 
+those who do not have it, the gap is getting wider.'' Income is certainly 
+a factor. Among households with annual incomes of $75,000 or more, 
+68 percent have computers. Among households with annual incomes of 
+$20,000 or less, only 19 percent do. But at the same time, there are 
+also more computers available in school buildings, according to Quality 
+Education Data, a private education research company in Denver. There 
+are now 85,900 public schools with computers, out of a total of 87,200 
+in the United States. While some technologically savvy people are 
+starting to question the need for computers in the schools at all, 
+educators like Tobin and many school administrators and teachers advocate 
+granting access to computers after school hours through libraries, 
+other community centers and the schools themselves if teachers are 
+willing to open the doors at night. Nearly 80 percent of the students 
+in the affluent Cherry Hill district have home computers, said John 
+Scarinci, the district technology director. He compares not having 
+a home computer to not having an Encyclopaedia Britannica in the 1960s. 
+``It's less convenient,'' he said, for students without home computers. 
+But he said students could get access at the library or at a friend's 
+house, much as he did growing up without an encyclopedia at home. 
+Parents also seem to be feeling more pressure to buy computers for 
+their children, and as prices drop, more families can afford them. 
+A new basic computer system that might have cost $4,000 five years 
+ago now sells for less than $1,000. A browser that hooks up to a television, 
+WebTV, can be bought for $200 or less with discounts, and used computer 
+equipment is only $300 to $500, Scarinci said. ``It's the price of 
+a television set.'' Chip and Daisy Gilliland, of Port Richey, Fla., 
+whose three children range from a baby to a second-grader, are shopping 
+for their first personal computer. ``A lot of other kids do have computers,'' 
+said Mrs. Gilliland. ``They feel bigger and smarter using the computer. 
+With all the technology we want to get the kids used to using the 
+computer. We wouldn't have thought of it just for ourselves.'' A college 
+freshman, Matthew Fusfield, who graduated from Cherry Hill High School 
+East in June, agrees that students do better with computers at home. 
+He got his first computer in fourth grade and helped the district 
+set up its computerized bulletin-board system when he was in high 
+school. ``The computer is an advantage in education,'' he said. ``It's 
+a tool. It's not an absolute necessity, but research is much quicker.'' 
+Fusfield said he had often helped others learn about computers during 
+class. Educators see this trend of students with experience helping 
+other students as changing the dynamics of the classroom and sometimes 
+the philosophy of teaching. Students not only teach other students 
+but sometimes even teach the teacher. ``It changes a lot of the power 
+pieces in the classroom,'' said Judith McGonigal, a teacher in the 
+Haddonfield School District in southern New Jersey. ``The kids that 
+have more experience become the co-teacher in the classroom. You are 
+the co-learners with the kids.'' Still, because of the cost of computer 
+equipment and the constant changes and upgrades required, many rural 
+and urban districts can't afford to keep up with more affluent suburban 
+districts. And even in districts like Cherry Hill, the gap between 
+haves and have-nots could grow in the next year as the school opens 
+up an interactive message system for teachers, administrators and 
+students called Cherry Hill Live. The district tries to accommodate 
+all students now by giving them computer time in the classroom and 
+in labs. This year Cherry Hill stopped using computer teachers to 
+teach technology skills in elementary school and instead has the regular 
+classroom teacher take children to the computer lab once a week. There 
+are at least one or two computers in most of the classrooms in the 
+district. ``We are moving away from technology as a subject and using 
+it as a tool,'' Scarinci said. In kindergarten at Cherry Hill, the 
+classroom teacher, Ellen Specter, says that the students who gravitate 
+to the two computers during free time are often those who have computers 
+at home. In her morning class, 15 of the 23 students have computers. 
+In the afternoon class, 17 out of 20 do. Every class starts with Mrs. 
+Specter giving instructions like ``Point to the monitor, point to 
+the keyboard, point to the mouse.'' Some children point to a rabbit 
+icon on the screen instead. Students have to find the yellow notepad 
+icon on the Student Writing Center software made by The Learning Co. 
+of Fremont, Calif. They get a list of words to click on and can change 
+the border on their screen. Soon the children can be heard saying 
+things like ``Mrs. Specter, mine's stuck!'' and ``Something happened, 
+Mrs. Specter.'' But there are also voices saying ``Cool!'' and ``Look!'' 
+``Some students are not used to moving the mouse,'' she said. ``Two 
+of them still don't know how to put their hand on the mouse. I see 
+a wide range of skills depending whether they have a computer at home 
+and whether they are allowed to use it.'' A computer teacher, Rita 
+Mitchell, at Lindenwold Elementary in southern New Jersey, has classes 
+where usually about half the children come from homes without computers. 
+``Where I find the biggest difference is in third grade,'' she said. 
+``The kids who have it at home know a whole lot more about computers 
+than those who don't. Their drawings are more sophisticated. I have 
+to make sure that I keep all the children on task and that I'm not 
+losing them. I have to have a bag of tricks to give them something 
+else to do.'' Sometimes she will let more advanced students try out 
+new software so that they have something to do while others get used 
+to handling the mouse. With 16 Macintosh computers in her lab, she 
+divides the classes of about 30 students roughly in two. In one group 
+she places those who have computers at home along with those who may 
+not have computers but who follow directions well. In the other group, 
+she will put students who don't have computers and who may have more 
+trouble learning. She also puts children who need more help next to 
+children who have a computer and can help them. Finding and creating 
+a curriculum that allows students to go at their own pace is the solution 
+for many teachers. It is the same approach many have used for years 
+to encourage slow readers while also challenging students who read 
+above their grade level. ``The term is `differentiation,''' said Mrs. 
+McGonigal, who has taught for 30 years. ``Each learner goes into it 
+where they are. You're not teaching everyone the same thing.'' When 
+students get to fourth and fifth grade and do more research on the 
+Internet and can bring in projects with complex graphics and color 
+charts, teachers see even more advantages for those who have home 
+computers. ``When it gets to the Internet, I see more expertise,'' 
+said Ginger Hovenic, executive director of the Harborside School in 
+San Diego and a consultant to the Classroom in the Future Foundation, 
+which trains teachers to use technology. ``You can see the kids who 
+have spent a lot of time exploring things That's when I see the big 
+gap begin to happen.'' Some schools, like Robert Smalls Middle School 
+in Beaufort, S.C., have a program under which students can lease a 
+laptop, in this case for $15 a month, if their parents cannot afford 
+to buy one. One teacher, Melissa McFeely, is a believer in the program. 
+Last year, out of 21 students in her homeroom, 19 were from low-income 
+families. All but three of those 19 students leased a laptop. ``More 
+and more families are going to give up other things to have computers 
+in the home,'' she said. Peer pressure may also force the issue of 
+getting a computer at home. It's now cool to be good at the computer, 
+but that status may make the kids who do not have the technological 
+tools at home even more uncomfortable. Karen Marshall, a New Jersey 
+mother of four who used to work as a computer-classroom aide, said 
+she felt that students were sometimes embarrassed to say they did 
+not have a computer or they did not have the skills other children 
+had on the computer. ``I had some kids who had never touched a computer, 
+but didn't want to admit it,'' she said. ``There's a lot of pressure 
+to be computer literate, and the majority of kids don't want to admit 
+it if they can't do it. If these issues aren't addressed in education, 
+the gap could widen between the kids who have the knowledge and the 
+kids who don't.'' 
+</TEXT>
+</DOC>

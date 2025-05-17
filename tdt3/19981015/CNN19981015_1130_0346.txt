@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981015.1130.0346 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Assuming another person's identity to commit fraud could become a 
+federal crime. Under a Bill passed yesterday, using a person's name, 
+address, birthdate and social security number without per mission 
+to obtain credit cards and open bank accounts would be considered 
+identity theft. The measure still requires the president's approval. 
+Officials say 40,000 people every year are victims of identity theft. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981101.1830.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On "World News Tonight" this Sunday -- one of the worst natural disasters 
+in the history of central America. Hundreds dead, thousands missing 
+from flooding and mud slides. Saddam Hussein sparks another crisis 
+with the United Nations. And it's down to the wire. The last-minute 
+appeal to the party faithful. Good evening. I'm Carole Simpson broadcasting 
+tonight from atop the headquarters of ABC News in New York. 
+</TEXT>
+</DOC>

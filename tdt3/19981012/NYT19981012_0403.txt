@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> NYT19981012.0403 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In another sign that even cyberspace may not be big enough for all 
+of the companies that have sprouted up hoping to profit from the Internet, 
+the two largest companies that measure the audience size of World 
+Wide Web sites have agreed to merge. Media Metrix, based in New York, 
+will take over Relevant Knowledge, its Atlanta-based archrival. Both 
+companies are privately held, and the financial terms of the all-stock 
+deal were not disclosed. Each company publishes a list of the 25 most 
+heavily trafficked Web sites and sells detailed information to advertisers 
+and Internet publishers for $50,000 a year and up. But the services 
+created as much confusion as insight, because their ratings were often 
+vastly different from each other and from the internal measurements 
+taken by the Web sites themselves. And with both companies spending 
+heavily to install their measurement software on the computers of 
+thousands of Internet users, neither has been profitable. ``The more 
+we have gotten into this business, the more we understood that neither 
+company was going to beat the other into submission,'' said Jeff Levy, 
+the chief executive of Relevant Knowledge, who had been steering his 
+company toward a public stock offering. ``This would have been a long 
+and bloody battle that would not be good for either company or the 
+industry.'' The deal comes as other recent mergers suggest that a 
+falling market for technology stocks is making success on the Internet 
+harder than it once seemed. Last week, Bertelsmann AG agreed to buy 
+half of Barnes &AMP; Noble's Internet book store rather than start 
+its own. N2K and CDNow, the two largest online music stores, are expected 
+to announce a merger soon. As smaller Internet firms merge to remain 
+viable and to eliminate competition, a few of the largest online companies 
+are using acquisitions to extend their dominance. Monday, for example, 
+Yahoo agreed to exchange $29.6 million in stock for Yoyodyne, an Irvington 
+company that specializes in e-mail contests and other promotions. 
+Jeffery Mallett, Yahoo's chief operating officer, said that the fall 
+of tech stocks has created a buyer's market. ``It has brought a lot 
+of things to our front door,'' he said. Advertisers and publishers 
+alike praised the rating-services merger, saying it would help reduce 
+the confusion. ``It was very hard to understand why 10 of the top 
+25 sites rated by Media Metrix weren't on Relevant Knowledge's Top 
+25 list,'' said Rich Lefurgy, the chairman of Internet Advertising 
+Bureau, a trade group. ``By bringing together the two companies we 
+will have more credible information.'' 
+</TEXT>
+</DOC>

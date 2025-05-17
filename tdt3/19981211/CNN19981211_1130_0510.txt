@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981211.1130.0510 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Later, some famous faces make a return to prime time. 
+</TEXT>
+</DOC>

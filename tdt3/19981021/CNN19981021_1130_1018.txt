@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981021.1130.1018 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The housing market seems to be cooling off. Construction starts on 
+new homes and apartments fell 2.5% in September, the second monthly 
+drop in a row. Housing activity in the south was especially slow, 
+due to hurricane georges. And it doesn't look like activity will be 
+picking up any time soon. Applications for building permits fell 4.5%, 
+the biggest monthly drop in three years. 
+</TEXT>
+</DOC>

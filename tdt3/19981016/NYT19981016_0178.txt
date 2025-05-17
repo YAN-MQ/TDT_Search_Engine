@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> NYT19981016.0178 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Isolated severe thunderstorms produced hail and 
+damaging winds in parts of western Minnesota and the Dakotas on Thursday 
+as low pressure lifted unseasonably warm air over the region. Saturday, 
+showers and thunderstorms will erupt from Wisconsin to Texas as the 
+low and its attendant cold front push slowly eastward. Some of the 
+thunderstorms will be quite strong, especially over the Upper Midwest, 
+where a vigorous jet stream disturbance enhances rapidly rising air 
+currents. Behind the front, a chilly, soaking rain will occur from 
+northern Minnesota to the eastern Dakotas. Near the western edge of 
+this band of steady rain, snow will fall in the Black Hills of South 
+Dakota and in the higher terrain of eastern Wyoming. Meanwhile, sprawling 
+high pressure over Virginia will provide sunshine and warm temperatures 
+to much of the Eastern states. High temperatures will be 10 to 15 
+degrees above normal in parts of the Ohio and Tennessee valleys. The 
+exception to the sunshine and warmth will be in parts of New England, 
+where high clouds will dim the sunshine at times. Tranquil conditions 
+will also prevail in much of the West. Offshore winds near the California 
+coast will drive low clouds out to sea, insuring ample sunshine. Elsewhere, 
+a weak storm system will enter the Pacific Northwest, with clouds 
+and scattered rain showers west of the Cascades. The valleys of eastern 
+Washington and Oregon will be mainly dry with partial sunshine. Focus: 
+Recurving Typhoon After lashing Luzon, the Philippines, Typhoon Zeb 
+has recurved to the northeast over the past two days. Forecasters 
+in the United States always take note of a recurving typhoon in the 
+western Pacific because a forecasting rule maintains that colder air 
+typically arrives in the Northeast states five to seven days later. 
+The rule is fairly reliable, based on the idea that warm air associated 
+with the typhoon helps to build a ridge of high pressure over the 
+eastern Pacific, which, in turn, allows Canadian air to slide into 
+the Northeast. Computer forecasts indicate an invasion of Canadian 
+air by next Wednesday. 
+</TEXT>
+</DOC>

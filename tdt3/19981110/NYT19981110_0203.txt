@@ -1,0 +1,161 @@
+<DOC>
+<DOCNO> NYT19981110.0203 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Employees at Amazon.com, the popular Internet bookseller, recently 
+received in their e-mail a directive from senior management that struck 
+some as Orwellian. As part of an event that the Seattle-based company 
+designated ``Sweep and Keep,'' employees were instructed to purge, 
+among other things, e-mail messages that were no longer required for 
+business or not subject to legal records requirements. Free lattes 
+would be dispensed in the cafeteria to those who complied immediately, 
+the directive said. This Amazon ``document retention'' policy, which 
+requires employees to expunge electronic files regularly, was followed 
+a few weeks later with guidelines for ``document creation.'' ``Quite 
+simply put, there are some communications that should not be expressed 
+in written form,'' the Oct. 20 memo stated. ``Sorry, no lattes this 
+time!'' Never mind monopoly power in the marketplace; the real lesson 
+corporate America is taking away from the Microsoft antitrust trial 
+is that old e-mail can be a mine field of legal liability, not to 
+mention a source of public embarrassment. In the high-profile court 
+battle between the Justice Department and the Microsoft Corp., e-mail 
+has emerged as the star witness _ a fact that appears to be giving 
+pause to corporate executives accustomed to clicking ``send'' without 
+a second thought. ``I love e-mail,'' said Jeff Bezos, Amazon's founder 
+and chief executive. ``I think it is changing the world. The problem 
+is somebody can take it out of context and use it against you, and 
+we have to guard against that.'' Amazon, like many companies, had 
+embraced e-mail as the preferred way to communicate about business 
+matters. Instant, convenient and at least putatively private, it allows 
+the lowliest employee to discourse with the most exalted. And it provokes 
+spontaneous, if not always eloquent, brainstorming among colleagues 
+who might otherwise keep their thoughts to themselves. Now, Amazon, 
+which to many people symbolizes a progressive Internet culture, is 
+among the growing ranks of companies that are imposing new restrictions 
+on e-mail. Unlike earlier policies prohibiting abusive or harassing 
+electronic messages, the new rules tend to curb types of expression 
+that have long been deemed acceptable business discourse. And when 
+such exchanges must take place in writing, the prevailing philosophy 
+would have them expunged as quickly and ruthlessly as possible. This 
+backlash underscores a paradox of the information age: while instantaneous 
+electronic communication often helps increase productivity and innovation, 
+the privacy of workplace correspondence and accountability for what 
+is written are growing concerns for many employers. Often, e-mail 
+is more a conversation that happens to be written down than an actual 
+letter, and it is often more revealing than either. It has thrived 
+largely because of the assumption _ some would call it the illusion 
+_ that the rapid-fire confessional exchanges that e-mail seems to 
+encourage will never be divorced from their context. But that is often 
+not the case in legal disputes, where e-mail is increasingly being 
+treated as the ultimate window into the true thoughts of executives 
+and the inner workings of an enterprise. Among the Microsoft trial's 
+electronic highlights: the company chairman, Bill Gates, in a sworn 
+deposition, flatly contradicts his e-mail statements, and an e-mail 
+from James Barksdale, chief executive of the Netscape Communications 
+Corp., to America Online's chairman, Steve Case, in which he refers 
+to Case as ``Franklin D.'' and himself as ``Joseph Stalin'' in a strained 
+_ and ultimately embarrassing _ allusion to the leaders of the United 
+States and the Soviet Union in World War II. Likewise, in the Sun 
+Microsystem lawsuit against Microsoft over the Java programming language, 
+a federal court in San Jose, Calif., has seen a great deal of embarrassing 
+e-mail from both companies. As a result, the very attributes that 
+have made e-mail so popular _ chief among them its tendency to induce 
+off-the-cuff candor _ are driving managers to conclude that its use 
+must be reined in, its tracks dusted over. ``In the past, message-retention 
+policies have been primarily designed for disk space management,'' 
+said Jim Browning, a senior research analyst at the Gartner Group, 
+a consulting firm. ``The new question is how quickly should e-mail 
+be deleted to prevent it from becoming a danger to the organization?'' 
+Browning said that anxious calls from clients had been rising in tandem 
+with headlines about the Microsoft trial. Earlier this month, a client 
+called looking for what he characterized as an ``e-mail shredder.'' 
+Another wanted a ``Mission Impossible'' e-mail product that would 
+self-destruct the message after it was read. ``That option doesn't 
+exist today,'' Browning said. The Gartner Group recommends policies 
+that help employees understand what a company considers appropriate 
+business language. For example, said Joyce Graff, Gartner's research 
+director for the electronic workplace: ``You talk about `fair competition'; 
+you don't talk about `slaughtering' them. No warfare language. That 
+way you have fewer messages you have to worry about in the files.'' 
+As the 83 million Americans who now use e-mail in the workplace know, 
+it is easily and often forwarded, copied and stored in perpetuity 
+on everything from company backup tapes to personal Palm Pilots. The 
+fact that people are disinclined to erase old e-mail has not been 
+lost on lawyers, who routinely request e-mail as part of the discovery 
+process in civil and criminal cases. Robert Lipstein, a Washington-based 
+antitrust lawyer, said a company's e-mail was a treasure trove of 
+evidence ``because that's when you catch people in their unguarded 
+moments.'' Lipstein, who specializes in subpoenaing computer records 
+from multinational corporations, added, ``I've seen e-mail that makes 
+me cringe.'' Even so, several executives said they regretted the new 
+atmosphere of deliberation and delicacy. ``It slows down communication 
+if everybody is stopping and thinking about what they write,'' said 
+Tom Jermoluk, chief executive of At Home, a company that provides 
+Internet access over cable television lines. ``It's chilling. I don't 
+like it.'' Nonetheless, Jermoluk, whose company was dragged into the 
+Microsoft antitrust dispute because of an e-mail message a senior 
+manager had written titled ``Gates on the Warpath,'' said he had instructed 
+the company's lawyer to write a more restrictive policy to regulate 
+e-mail and record-keeping. The conflicting desires to engage in frank, 
+private communication and to escape public accountability for it are 
+by no means new. Corporations have for decades trashed acres of files 
+_ albeit with the added incentive that paper takes up a lot of space. 
+And well before the first subpoena for a document, Socrates warned 
+that writing ideas down was a bad idea because, among other things, 
+one could never know who might read them. Plato countered that a culture 
+that had to commit everything to memory was limited in its intellectual 
+possibilities. The quandary of archived records, said Neil Postman, 
+a professor of media studies at New York University, has been around 
+``ever since phonetic writing became a critical part of Western culture.'' 
+``Every important new technology is a Faustian bargain,'' he added. 
+Increasingly, employers are choosing censorship. More than 20 percent 
+of the respondents in the American Management Association's annual 
+survey this year said that they monitored employee e-mail, compared 
+with 15 percent who said they did so in 1997. Classes with titles 
+like ``E-Mail 101'' are getting healthy enrollments. Bloomberg, the 
+financial news service, installed a system last month that searches 
+e-mail for offending words. If it finds one, a warning pops up before 
+the e-mail is sent: ``This is inappropriate language to use in correspondence 
+with any customer, and a copy of this message will be immediately 
+sent to your superior.'' Managers at the Polk Co., a data resource 
+firm in Southfield, Mich., recently discovered that 10 percent of 
+employees had from 5,000 to 10,000 e-mail messages saved on hard drives. 
+A delete-fest is being planned. ``What the Microsoft trial has done 
+is to say that if people are using this as an electronic filing system, 
+it could be a dangerous medium,'' said David Zaccagnini, Polk's vice 
+president for information technology. ``That's what the Microsoft 
+trial really means to corporate America.'' Even without formal policies, 
+executives said they were sanitizing their own e-mail. ``I self-consciously 
+tone my language down,'' said John Gage, chief scientist at Sun. But 
+Larry Prusak, executive director of IBM's Institute for Knowledge 
+Management, is wary of inhibiting the use of e-mail. ``With e-mail, 
+you get an optimization of a firm's knowledge,'' Prusak said. ``You 
+know Queen Elizabeth I said, `I don't wish to build windows into men's 
+souls.' That's in a sense what we're beginning to do, and I find it 
+very threatening.'' In the wake of the Iran-Contra investigations 
+in which Col. Oliver North's e-mail detailed illegal aid to the Nicaraguan 
+rebels, courts ruled that most government e-mail must be saved as 
+a public record. That has changed attitudes toward e-mail among federal 
+employees. ``There has been an enormous increase in information requests 
+from Congress, which has a very legitimate oversight function,'' said 
+Sally Katzen, who formerly headed the Clinton administration's Office 
+of Information and Regulatory Affairs. ``But the call for e-mails 
+_ which in many instances are very susceptible to being incomplete, 
+cryptic and misunderstood _ has led a lot of people to shun the use 
+of e-mail, and I think that's most unfortunate.'' Indeed, some critics 
+say that unless e-mail comes to be viewed through a more appropriate 
+legal lens, companies, governments and individuals will lose the full 
+benefits of the technology. ``E-mail is perhaps the most contextually 
+sensitive piece of writing that we have, and culturally we're going 
+through this stage where we don't understand how to read it,'' said 
+Lawrence Lessig, a Harvard University law professor. ``The clumsiness 
+that the legal system has in dealing with this will lead to losing 
+some of its value unless we learn how to put it into context and properly 
+weigh it.'' Lessig's own personal e-mail became a source of controversy 
+last year when he was named special master by the judge hearing the 
+Microsoft antitrust case. Microsoft contended that he was biased, 
+citing an e-mail message he had sent to a Netscape executive. ``There 
+are people now who will not send me things in e-mail,'' Lessig said. 
+</TEXT>
+</DOC>

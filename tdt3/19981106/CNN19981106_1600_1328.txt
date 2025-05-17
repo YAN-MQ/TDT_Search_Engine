@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981106.1600.1328 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Kenny Irwin has the pole for Nascar's final race of the season, the 
+Napa 500. He clocked in at 193.4 miles per hour. 
+</TEXT>
+</DOC>

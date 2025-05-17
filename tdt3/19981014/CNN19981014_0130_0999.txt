@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981014.0130.0999 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks were sluggish Tuesday as investors digested a mixed bag of 
+earnings reports. The Dow Jones industrial average lost 63 points 
+to close at 7938. 
+</TEXT>
+</DOC>

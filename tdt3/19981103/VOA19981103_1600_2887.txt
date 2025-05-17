@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> VOA19981103.1600.2887 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Well, it's almost as if we didn't need to have a session today because 
+the Dow Jones Industrial Average closed exactly unchanged at 8706, 
+and the Standard & Poor's 500 Index closed at 1110. That was down 
+by just a fraction of a point. The only real movement was in NASDAQ, 
+which was down 12 points. That was because of weakness in some technology 
+issues. Well, there was also some caution in advance of U.S. election 
+results, although the Republican Party is expected to retain control 
+of both houses of Congress. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981021.0130.0985 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new poll shows Americans believe the gap between rich and poor is 
+growing. 67% of respondents described themselves as haves. 24% deemed 
+themselves have nots. Most of the respondents said money and wealth 
+should be more evenly distributed. Even so, most people believe more 
+Americans are getting rich. 74% said they believe the number of wealthy 
+is increasing. That's up from 65% in 1990. 
+</TEXT>
+</DOC>

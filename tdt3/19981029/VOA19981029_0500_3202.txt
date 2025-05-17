@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981029.0500.3202 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And the Thursday market close from Asia, both Tokyo and Hong Kong 
+were up. 
+</TEXT>
+</DOC>

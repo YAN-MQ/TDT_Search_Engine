@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> CNN19981223.1130.1546 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Millions of dollars, the reputations of companies and entire universes 
+rest in the hands of just a few people in Silicon Valley. Greg Lefevre 
+looks at a most influential job -- the video game tester. These guys 
+get paid for this? Yes, and it's very important work. Continuous, 
+rigorous testing of the latest video game technology. The market's 
+exploding -- up 16% to more than $4 billion this year. All those kids 
+that played video games ten years ago, they're adults now, and they've 
+got even more money to spend. Competition is stiff. Realism is extreme. 
+Dave Ross drives to work and drives at work, for electronic arts. 
+We've photographed a stuntperson doing all the types of moves you 
+would see someone in a Winston cup team doing. Over at 3do, sound 
+designer Sean Carson tweaks a fight scene. Five years ago, we would 
+have maybe one dying sound, and now maybe we have six. Even the point 
+and shoot games demand strategy and planning. Remember, kid, serve, 
+protect -- survive. Electronic arts' "future cop lapd" needed something 
+more exciting than a cop car. We decided to have something that was 
+a little more articulated and a Little more exciting to look at. Yes, 
+that's Eric's picture, grafitti-like on the wall. I think what you're 
+starting to notice now, however, is that the market for games is really 
+spreading out. Meaning older. The average gamebuyer is 24 years old. 
+With more women buying, games like "heroes of might" and "magic II" 
+are now testing at 3do. But for now, the guy games still dominate. 
+And must be tested. I'm getting paid for this? I'm about to die. Greg 
+Lefevre, CNN, Redwood city, California. 
+</TEXT>
+</DOC>

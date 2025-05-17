@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> CNN19981118.1130.0998 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More legal woes for Microsoft. A California court has ordered Microsoft 
+to redesign its software to be compatible with sun microsystem's Java 
+programming language. Fred Katayama explains what the move means for 
+the future of the software industry. Sun contended that Microsoft 
+had violated a licensing agreement by making its own versions of Java 
+that fail sun's kpatability tests. Microsoft said compliance was not 
+a problem, and assured consumers they need not worry. Within 90 days, 
+we're reviewing what it will take to comply, but we fully believe 
+we can add this support for this one feet clur and make it available 
+so that none of our customers will be impacted. Sun said in a statement, 
+that it is extremely pleased by the court's move to issue an injunction. 
+Some industry watchers feel Java threatens Microsoft because programs 
+written there are supposed to run on any type of computer system. 
+Sun contends Microsoft's version is designed to run on computers using 
+microsoft's windows or its Internet browser. One analyst felt the 
+injunction could infwluns the judge overseeing the antitrust suit 
+against Microsoft in Washington. This is a coordinated effort by Microsoft's 
+"enemies" to attack them in court. This happened to be a successful 
+entry and, therefore, someone like judge jackson, who has shown propensity 
+in the past to rule negatively, could perhaps rule negatively in the 
+future. Some analysts predict Microsoft will comply with the judge's 
+order. But still file an appeal, claiming it has a right to alter 
+Java as it sees fit. Fred Katayama, "CNN Financial News," New York. 
+Shares of sun Microsystems jumping a dollar. 
+</TEXT>
+</DOC>

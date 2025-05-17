@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981103.1830.0846 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In this country, Wall Street seemed to be on hold today, waiting, 
+perhaps, to see how the election turned out. The Dow Jones industrials 
+were unchanged. The NASDAQ was down more than 12 points. 
+</TEXT>
+</DOC>

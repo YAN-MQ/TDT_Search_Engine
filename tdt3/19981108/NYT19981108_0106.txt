@@ -1,0 +1,75 @@
+<DOC>
+<DOCNO> NYT19981108.0106 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A new technology intended to replace the traditional home videocassette 
+recorder is expected to get an important vote of confidence on Monday 
+with the announcement that a co-founder of Netscape Communications 
+Corp. has invested in one of two companies developing digital television 
+recording systems. Marc Andreessen, who founded Netscape along with 
+Jim Clark in 1995, will announce that he is investing in Replay Networks 
+Inc., a small Silicon Valley start-up company and will join its board. 
+Replay Networks, based in Palo Alto, is one of two Silicon Valley 
+companies developing television systems that enable viewers to watch, 
+store and retrieve programs in novel ways, including pausing while 
+the programs are in progress and returning to the point of the pause 
+as much as 30 minutes later. In December, the company will begin shipping 
+the system, known as ReplayTV, which will enable users to record a 
+complete program that is already in progress, to automatically record 
+programs that meet a predetermined criterion _ for example, movies 
+featuring a particular actor _ and to intelligently skip commercials. 
+But just as important as the bells and whistles, Replay executives 
+say, is that unlike most traditional VCRs, ReplayTV is simple enough 
+to program without resorting to a manual. The system includes an interactive 
+programming guide that the viewer can use to instruct the system to 
+record all programs related to a particular sports team, for example, 
+or to capture a particular program whenever it is on. ``The thing 
+that most people can relate to is never missing their favorite show,'' 
+said Anthony Wood, Replay's founder and chief executive. ``People 
+have busy lives, and it's not worth it to program their VCR.'' Both 
+Replay and Tivo Inc., based in Sunnyvale, are trying to adapt a strategy 
+of Internet Web portal companies like Yahoo and Excite to television 
+by offering viewers the ability to create custom TV channels. Both 
+companies' technologies are essentially powerful computers with large 
+hard drives that can store seven to 40 hours of digitized video. And 
+both intend to license their technologies to consumer electronics 
+manufacturers that will produce the new VCRs at prices below $500. 
+According to Carmel Group, a consumer electronics market research 
+firm, the market for so-called personal TV systems will reach $380 
+million and 760,000 subscribers next year. The two companies are developing 
+different business models, but both are built around subscription 
+services that require a new generation of digital VCRs capable of 
+delivering them. Both companies will transmit electronic program guides 
+to their subscribers via telephone connections. However Tivo plans 
+to charge viewers a $10 monthly fee, while Replay intends to support 
+its service by advertising alone. Replay executives also said that 
+the two services were different in their privacy policies. The Replay 
+system will not collect information on users' viewing habits; Tivo 
+plans to monitor that information and sell advertisers the ability 
+to deliver their commercials to the specific audiences they want. 
+Consumer versions of both systems are expected to be available sometime 
+in mid-1999. However, Replay plans to begin shipping a high-end $1,000 
+version of its product before the end of the year in an effort to 
+jump-start the market for the recorders. Indeed, it was Replay's advertisements 
+in home theater magazines that attracted Andreessen's interest in 
+the company. A high-end video buff, Andreessen said he contacted Replay 
+in an effort to become a product tester of their system, which he 
+described as something ``I had to have.'' He said that the Replay 
+system made more sense to him than the WebTV set-top box, a technology 
+now owned by Microsoft Corp. that connects users to the Internet through 
+their television sets. ``ReplayTV will do for TV what the browser 
+did for the Internet,'' said Andreessen, who was a part of the team 
+at the University of Illinois that developed the technology on which 
+Netscape was founded. ``It's the browser for TV.'' While WebTV tries 
+to integrate the Internet with television, Replay, he said, ``is an 
+effort to enhance the TV experience first and foremost.'' ``You sit 
+back 10 feet, and you're relaxed and you watch what you want to watch,'' 
+he said, noting that watching television is a very different activity 
+from surfing the World Wide Web on a personal computer. Andreessen 
+declined to disclose the amount of his investment. Several people 
+with knowledge of the company's history said that Replay had spent 
+about $1 million _ an unusually low amount _ to develop its technology 
+since the company was founded in September 1997. 
+</TEXT>
+</DOC>

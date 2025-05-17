@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981102.1130.0941 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some dentists are concerned that an emphasis on bottled water over 
+tap water is having an adverse effect on children's teeth. They say 
+bottled water does not contain enough fluoride. 
+</TEXT>
+</DOC>

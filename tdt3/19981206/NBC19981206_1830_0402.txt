@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> NBC19981206.1830.0402 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+News tonight about data from one of NASA's unmanned spacecraft -- 
+the Mars global surveyor. According to the surveyor's measurements, 
+the icecap on the Martian North Pole is smaller than previously thought, 
+less than half the volume of the ice on greenland. They also now know 
+that Mars' ice cap sits within a depression in the planet's surface. 
+But scientists still can't answer America's biggest question -- was 
+there ever life on Mars? 
+</TEXT>
+</DOC>

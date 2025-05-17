@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981116.1600.1104 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In the antitrust case against Microsoft, videotaped testimony of Bill 
+Gates shows him evading a government lawyer's questions about a 1996 
+E-mail he wrote about winning market share in the Internet browser 
+market. The E-mail began -- "winning Internet browser share is a very, 
+very important goal for us." But government lawyers could not get 
+the software tycoon to discuss which companies Microsoft was targeting 
+to take away market share. The Microsoft trial is now in its fifth 
+week. 
+</TEXT>
+</DOC>

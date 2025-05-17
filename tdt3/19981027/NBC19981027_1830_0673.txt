@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981027.1830.0673 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Russia tonight -- Boris Yeltsin went to the hospital. Shortly after 
+meeting with prime minister Primakov at Yeltsin's country residence 
+outside Moscow, the Russian president was admitted to a hospital for 
+what was described as high blood pressure and exhaustion. 
+</TEXT>
+</DOC>

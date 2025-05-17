@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981227.1300.1345 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In the canadiens' final game in maple leaf gardens, Montreal came 
+away with a 2-1 win, snapping an 11-game winless streak. Stephane 
+quintal's goal with under 5:00 to play was the difference. 
+</TEXT>
+</DOC>

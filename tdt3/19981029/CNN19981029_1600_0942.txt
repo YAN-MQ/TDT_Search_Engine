@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981029.1600.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane Mitch is swirling over Honduras for a third straight day, 
+but its winds are gradually weakening. Rain associated with the storm 
+has flooded 50 rivers. There are reports of dozens of deaths. 
+</TEXT>
+</DOC>

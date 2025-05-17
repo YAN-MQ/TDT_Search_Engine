@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> CNN19981212.1130.0623 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA is headed back to Mars to look for evidence of water. Anne McDermott 
+has more on the Mars climate Orbiter in this edition of "Tech trends." 
+4, 3, 2, 1 -- yes! We have ignition, and we have liftoff! Scientists 
+and their families at the jet propulsion lab in pasadena, California, 
+"ooh"ed and "ah"ed as the latest 400 million-mile journey to Mars 
+got under way. This trip belongs to NASA's Mars climate Orbiter. And 
+it's a long trip. The Orbiter won't reach the red planet till next 
+September. But once it does, it'll go right to work, orbiting Mars 
+to collect information about its surface and atmosphere. A couple 
+of months later, it'll be joined by a companion craft, the Mars polar 
+lander. It'll actually land on Mars and collect its data from there. 
+What for? Well, for one thing, the information might help answer that 
+old question about life on Mars. There are clues that the Martian 
+landscape had some water once, which may suggest there was some life 
+once. And if there was, well, that may help scientists figure out 
+why Mars and earth are so different today when once, long ago, they 
+had much more in common. Mars lost its atmosphere, and its surface 
+temperatures are freezing cold. Yet the earth is just right, kind 
+of what we call "the Goldilocks phenomenon." If scientists can eventually 
+work out why Mars changed, maybe they could keep the earth's Goldilocks 
+effect going, and keep it from turning it into another Mars. Anne 
+McDermott, CNN, Los Angeles. 
+</TEXT>
+</DOC>

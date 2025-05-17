@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981029.1130.0407 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Americans are on the move according to a new census bureau study. 
+The study analyzed information gathered in 1993 which showed 16.7% 
+of the population moved that year. But another 15.3% lived in the 
+same home for more than 20 years. The dog days of summer ended up 
+being the most popular time to move. 
+</TEXT>
+</DOC>

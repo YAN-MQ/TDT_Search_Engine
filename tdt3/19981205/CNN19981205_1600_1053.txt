@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981205.1600.1053 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And gas prices keep plummeting as well. Government figures show the 
+national average price of a gallon of gasoline has tumbled to just 
+over 97 cents, just in time for that holiday trip to grandmother's 
+house. That's "business this week," David Daniel, "Headline News." 
+</TEXT>
+</DOC>

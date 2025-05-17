@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981110.1600.1118 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And back on Wall Street, the Dow finished the day down 33 points, 
+the nASDAQ up 4. that's "Dollars & Sense," Chuck. 
+</TEXT>
+</DOC>

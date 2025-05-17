@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981103.1130.0400 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Oklahoma City bombing case is the most expensive investigation 
+in U.S. history. Government officials say investigating and prosecuting 
+the attack cost taxpayers more than $82 million. The FBI alone had 
+more than 2,500 agents on the case. One prosecutor who worked on the 
+case said it was important to leave no stone unturned. The investigation 
+resulted in the convictions of bomber Timothy McVeigh and conspirator 
+Terry Nichols. The April 1995 attack killed 168 people. 
+</TEXT>
+</DOC>

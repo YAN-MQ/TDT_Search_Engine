@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> PRI19981105.2000.0230 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow Industrials gained 132 points today. This is NPR News. 
+</TEXT>
+</DOC>

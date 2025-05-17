@@ -1,0 +1,98 @@
+<DOC>
+<DOCNO> NYT19981230.0138 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Even before the final sales numbers were tallied last week, it was 
+clear that online holiday sales would shoot well past all expectations. 
+And according to one recent study, the fact that buyers could make 
+their purchases without paying state or local sales taxes or use taxes 
+was a strong incentive for shopping on the Internet. Those who successfully 
+pushed for passage in October of the Internet Tax Freedom Act, which 
+declared a three-year tax moratorium for online sales, have reason 
+to cheer. But the long-term implications could be troubling. Although 
+the potential revenue is still too small to pose a serious problem 
+in the immediate future, what happens a few years down the pike, when 
+states see as much as one-third of their revenues circling the drain? 
+``Right now, sales tax is the most important source of revenue for 
+states, so the moratorium is something they're clearly aware of and 
+worried about,'' said Austan Goolsbee, an economics professor at the 
+University of Chicago Graduate School of Business. Goolsbee, who recently 
+completed a study of the purchasing habits of online consumers, said 
+his research showed that the number of online shoppers and the dollar 
+amounts they spend would drop by 25 percent and 30 percent respectively 
+if they were charged sales tax on their purchases. Despite the hue 
+and cry that taxing Internet sales is ``unfair'' to a budding new 
+form of commerce, the Internet in fact only intensifies a problem 
+that has been brewing for decades in the mail-order business. Simply 
+put, the legal issue is how to tax purchases that cross state lines. 
+A state's sales tax, per se, can only be collected when both buyer 
+and seller have a physical presence in the state _ meaning that either 
+there must be a face-to-face transaction or an out-of-state seller 
+must have an outlet somewhere in the state where the buyer lives. 
+Until a few decades ago, this arrangement worked fine. When mail-order 
+sales started to pick up steam, state governments decided they had 
+better impose a ``use'' tax on people who bought items through catalogs 
+(so called because they used their purchases in the state). Although 
+virtually no one pays such a tax and virtually no state enforces it, 
+consumers are supposed to voluntarily pay the equivalent of sales 
+tax on these out-of-state purchases. Sellers cannot be required by 
+states to collect these use taxes from their customers, as they collect 
+sales tax, because of constitutional provisions banning the states 
+from interfering with interstate commerce. Although catalog and Internet 
+buyers benefit from this tangled web, even legendary tax opponents 
+like Arthur Laffer, the supply-side guru of the Reagan administration, 
+are concerned about the implications. ``A lot of government is at 
+risk here,'' Laffer said. ``Sales tax funds virtually everything in 
+the state,'' including police and fire departments, welfare, roads, 
+schools and mass transit. ``It is probably the single best tax the 
+state has, because it has the broadest base and the lowest rate, to 
+collect large sums of money to fund government services,'' Laffer 
+said. The situation is something of a political football, says Walter 
+Hellerstein, a law professor at the University of Georgia who specializes 
+in the application of constitutional law to state taxes. Despite the 
+fact that state governments derive at least a third of their revenue 
+and often more from sales tax, Hellerstein says, neither the Supreme 
+Court nor Congress wants to be responsible for the havoc that would 
+be created if the physical presence rule were rescinded. ``Mail-order 
+sellers, since before 1967, have made billions of dollars in sales 
+and have never collected use tax or filed a tax return,'' he said. 
+``Because of that, the statute of limitations is open'' and, theoretically, 
+sellers could be required to pony up huge sums of dollars in back 
+taxes, a situation that would put most of them out of business. Other 
+economists are recommending even more radical action. The Center for 
+Community Economic Research at the University of California, Berkeley, 
+warned in a paper in August 1995 that ``state and local government 
+finances are becoming road kill on the information superhighway.'' 
+In making its policy recommendations, the center noted that commerce 
+was increasingly conducted nationally and globally, rather than locally. 
+Thus, it said, state and local taxes should be scaled back or even 
+eliminated and replaced with a national tax that is disbursed back 
+to the states. Stating that ``study after study has shown the regressive 
+nature of sales tax as a revenue source,'' the paper said sales and 
+use taxes on mail-order (and, it would follow, Internet) purchases 
+have more impact on the poor, the disabled and the elderly than on 
+anyone else. Tell that to the advisory commission on electronic commerce 
+that was mandated by President Clinton, after the passage of the Internet 
+Tax Freedom Act, to come up with a solution to the taxation problem. 
+The commission, which was to be made up of equal numbers of industry 
+and government representatives, is already being berated by local 
+government agencies like the National Association of Counties for 
+being lopsided in favor of industry, with powerhouse companies on 
+board including Time Warner Inc., Charles Schwab &AMP; Co., Netscape 
+Communications Corp. and MCI Worldcom Inc. Government agencies are 
+not the only ones incensed by the composition of the commission. ``This 
+does not pass the smell test,'' said Charles McLure, a senior fellow 
+at the Hoover Institute at Stanford University and the economist who 
+wrote the basis for the Tax Reform Act of 1986. ``This is, `We're 
+going to build a fence around the chicken coop _ but let's not put 
+any chickens on it; let's put some wolves.''' Whatever the commission's 
+final composition may be, one hopes its deliberations will be shaped 
+by larger societal concerns and not just the convenience or power 
+of the fortunate few. ``Everyone thinks they have a constitutional 
+right to buy tax free when they buy mail order,'' Hellerstein said. 
+``At some point, there's going to be revenue shortfall, and then I 
+don't know what will happen. Right now, everyone's flush and all they 
+can think about is some other way to cut taxes.'' NYT-12-27-98 1658EST 
+</TEXT>
+</DOC>

@@ -1,0 +1,144 @@
+<DOC>
+<DOCNO> NYT19981216.0237 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Rev. Chip Lee, an Episcopal priest from Oakland, Md., assures 
+his parishioners that he can be reached by telephone 24 hours a day, 
+7 days a week, even though he juggles two rural congregations (three 
+in the summer) and puts more than 500 miles on his Buick each week. 
+Lee used to rely on a tangle of voice-mail systems, pagers and cellular 
+phones to watch over his flock. But since August, he has combined 
+everything into one electronic mailbox accessible through a toll-free 
+number. All his calls are answered by an angelic female voice that 
+quickly finds him wherever he roams. The voice goes by the name Portico, 
+and ``she'' is one of a handful of computer-generated administrative 
+assistants that use speech recognition to manage telephone, e-mail 
+and fax communications for busy people. ``Having a virtual assistant 
+has completely changed my life,'' Lee said with a kind of reverence 
+that nearly suggested divine intervention. Lee, who pays Portico about 
+$90 a month for 750 minutes, is one of the growing number of employers 
+of virtual assistants. In principle, the idea is wonderful _ this 
+assistant never turns on you when you fail to give a raise, never 
+escapes on three-hour bathroom breaks or calls in faking the flu to 
+take a day off. And unlike an answering machine, the virtual assistants 
+like Portico, Wildfire and Webley _ the three that operate nationally 
+_ have responsive voices that turn these services into humanlike appliances, 
+complete with personality. But there are tradeoffs. The largest is 
+that the current limits of speech recognition technology make interaction 
+with virtual assistants frustrating, especially for the person who's 
+calling and often also for the person who is being called. Although 
+these personalities are a huge leap beyond voice mail, they speak 
+and understand only preset phrases, and they can be maddeningly literal 
+and impenetrable. Further complicating the picture, say two professors 
+who helped create Portico's persona, is that on a fundamental psychological 
+level, humans do not distinguish between communicating with a live 
+person and with an electronic creation. People respond to the personalities 
+of computers, televisions and other media by the same rules they use 
+for social interactions with real people. This may suggest that the 
+mistakes of the current less-than-perfect virtual assistants are worse 
+than those of underperforming real assistants. Webley (which has the 
+voice of a British butler), Portico and Wildfire are the first generation 
+of virtual assistants. At first glance, they are remarkably similar. 
+Just by talking into the phone, users can make calls, hear voice mail 
+and e-mail, and use stored address books to return calls. These virtual 
+assistants also manage incoming calls through call screening and call 
+routing, and they send faxes to your current location. They even recognize 
+frequent callers and respond according to your wishes. (Take a message 
+from Mom. Put Charles Schwab through.) Although Wildfire Communications 
+invented the idea of a telephone-based personal assistant in 1992, 
+Wildfire's product hasn't actually spread like, well, you know. Its 
+first version was an expensive system sold to businesses to replace 
+their internal voice mail beginning in 1994. Then Webley (owned by 
+Vail Systems) began a competing service in January, and Portico, from 
+General Magic, started in July. (Not all of these are available in 
+all cities.) Despite their imperfections, all three are gaining subscribers, 
+particularly among those comfortable with technology. All have major 
+financial supporters and will certainly continue to improve. AT&AMP;T 
+Wireless, Intel and Microsoft invested in Wildfire, and Microsoft 
+is helping to finance Portico. But to lure many more people to seek 
+salvation in electronic voices, virtual assistants must evolve beyond 
+their user-unfriendly responses. Roger Black, a prominent art designer 
+of publications and a media consultant who has used Wildfire for three 
+years, has 11 offices around the world and three homes. He has made 
+Wildfire his only phone number, but he acknowledges that relying on 
+the voice interface can be exasperating, especially when the service 
+requires you to keep repeating yourself or if the telephone connection 
+is bad. But he said he liked Wildfire's sense of humor about her own 
+shortcomings. ``One time I screamed an unprintable injunction and 
+she said, `I'm sorry, I cannot perform that function,' Black said. 
+``Wildfire also sighs when you call it in the middle of the night, 
+and if you tell it you are depressed, it responds: `Great. Now I'm 
+a therapist.' '' Just as with real people's personalities, maddening 
+quirks and inconsistencies in the automated assistants' responses 
+can make the difference between thinking of them as loyal companions 
+or as irritating pests. For a machine to portray a reliable and likable 
+human being requires the most natural interaction possible, say Clifford 
+Nass and Byron Reeves, Stanford University communications professors 
+who helped build the persona behind Portico. It is perfectly normal, 
+the professors say, to argue with your computer when it does not do 
+what you want it to do. Because we tend to treat machines like people, 
+machine blunders set us off just as human ones do. Nass and Reeves 
+also helped devise the personalities of Microsoft's Bob and the help 
+characters called Office Assistants in Microsoft Office 98. Computer 
+engineers once believed that only sophisticated artificial intelligence 
+software could accurately simulate a person. (Remember, the computer 
+Hal was ultimately smarter than the astronauts in ``2001.'') In contrast, 
+psychologists have asserted that humans identify personality in seconds 
+by responding to the smallest, most trivial clues. Nass and Reeves 
+figured that if the psychologists were right, even the simplest text 
+or poorly recorded computer voice would give a machine instant personality. 
+To prove it, they began a series of standard experiments in human 
+interaction in which one person was replaced by an electronic box. 
+What they found were the identical psychological results of human-to-human 
+studies, even though people denied reacting to the machine in a social 
+way. ``Although we may logically know we are interacting with a machine, 
+our reactions are fundamentally the same as when we interact with 
+a human,'' Nass said. Black said some of his male clients were charmed 
+by Wildfire's friendly and rather seductive voice. ``One person once 
+told me that they responded to Wildfire's statement `I'll see if I 
+can find him' with, `Take your time, sweetheart.' '' As advisers to 
+General Magic on the creation of Portico, Nass and Reeves conducted 
+an audition of more than 100 actors to match the right voice to the 
+psychological profile invented for Portico. Then they found Hollywood 
+script writers to best link Portico's language to its persona. Despite 
+all this, speaking to Portico, Webley and Wildfire quickly shows these 
+assistants to be more virtual than real. Even Nass says talking to 
+Portico is like talking to a foreigner in English. While callers may 
+not like talking to computers masquerading as people, some users _ 
+including Paul Saffo, a technology business consultant and loyal user 
+of Wildfire _ take the responses by their callers to Wildfire as a 
+gauge of the callers' characters. ``Anyone who complains registers 
+as a jerk that I probably don't want to talk to,'' Saffo said, adding 
+that he was delighted with the service. Dr. Avrum Bluming, an oncologist 
+and a clinical professor of medicine at the University of Southern 
+California, signed up for Wildfire six months ago to answer the dozens 
+of calls he receives daily from patients on his car phone. ``I hate 
+wasting time,'' said Bluming, adding: ``Looking down at the phone 
+while driving raised certain health and safety issues. Now I just 
+tell Wildfire to dial.'' He also uses Wildfire's toll-free number 
+to make long distance calls from the hospital, something that once 
+meant a long wait for a connection from the hospital's operator. But 
+since his Wildfire service cannot send a page, Bluming has not yet 
+abandoned his beeper and his answering service for urgent incoming 
+calls. Many committed users, like Oliver Muoto, a software marketing 
+executive, agree that the services need significant improvements before 
+they catch on with most consumers. ``For anyone impatient with technology, 
+virtual assistants are really still pretty inconvenient to use,'' 
+said Muoto, who just switched to Portico from Wildfire after a year 
+because Portico lets him use the Web to check his voice mail and reads 
+him his e-mail over the phone. But don't ask Muoto about all the times 
+he has screamed into the phone, trying to make himself understood 
+by a virtual assistant on a bad phone line. Or take the fact that 
+a colleague recently sent him an e-mail message instead of calling 
+because, she wrote, ``I just had an argument with your telephone secretary.'' 
+Ask him instead about how his virtual assistant found him via his 
+cellular phone in time to finalize the details on the contract for 
+venture capital financing of his start-up company. He said the services 
+needed to become simpler to learn and better at adapting to natural 
+conversation and at recognizing and managing a user's priorities. 
+``But,'' he added, ``for sales and marketing people like me who feel 
+the pain of being out of touch, we're willing to live with a less-than-ideal 
+solution that works 90 percent of the time.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981014.1600.1668 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll be back in two minutes with the latest on the top stories, including 
+new developments in the Hunt for bombing suspect Eric Rudolph. This 
+is "Headline News." I'm Chuck Roberts. See you in a few. 
+</TEXT>
+</DOC>

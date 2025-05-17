@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981203.1600.3019 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Anyway, the Dow Jones Industrial Average closed down 184 points. This 
+is Breck Ardery. Thank you, Breck. 
+</TEXT>
+</DOC>

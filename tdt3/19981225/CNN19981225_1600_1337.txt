@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981225.1600.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There's still one week left in the NFL regular season. That means 
+everything for Arizona. All the 24-year-old plumber has to do is lead 
+the team for a win over San diego. For the first time since 1982, 
+the Cardinals are in the playoffs. 
+</TEXT>
+</DOC>

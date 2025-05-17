@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981030.0130.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- Thursday's launch of space shuttle "discovery" 
+hurled 77-year-old John Glenn into history as the world's oldest space 
+traveler. It's his second trip into space. About 300,000 people came 
+to Kennedy space center in Florida to watch the liftoff. 
+</TEXT>
+</DOC>

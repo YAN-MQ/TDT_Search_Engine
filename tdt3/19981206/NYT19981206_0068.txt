@@ -1,0 +1,128 @@
+<DOC>
+<DOCNO> NYT19981206.0068 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+One evening last month at an impromptu gathering of reporters at the 
+Comdex computer trade show, Bill Gates, chairman of Microsoft Corp., 
+enthusiastically described a breakthrough technology for improving 
+the readability of text on the flat-panel color displays used on laptop 
+computers. The new technique, which he said would be added to Microsoft's 
+Windows operating system next year, is known as Cleartype, and it 
+makes text on a portable computer almost as readable as a newspaper 
+or a book, Gates asserted. Such an advance could be the key to shifting 
+the balance from text on paper to computer screens, he added, helping 
+to popularize electronic books and making online publications legible 
+enough to read directly from a computer screen for long periods without 
+eye strain. No one disputes that Cleartype represents a crucial step 
+in the evolution of the information age and could mean an economic 
+bonanza for the computer, Internet and publishing industries. But 
+Gates' portrayal of the underlying technology as a Microsoft innovation 
+has set off an intense debate among some computer researchers. The 
+company says Cleartype is the result of work done by Bill Hill, a 
+Microsoft researcher who joined Gates on stage for the Las Vegas introduction 
+of the technology last month. Hill, the company says, discovered a 
+fundamental new approach to rendering type by inventing algorithms 
+that draw upon the basic physics of human vision. But within hours 
+of the introduction, the Internet was buzzing with claims that Cleartype 
+was suspiciously similar to approaches developed many years earlier 
+by researchers at Apple Computer, IBM, Xerox Corp. and elsewhere. 
+No one is suggesting that Microsoft intentionally violated the patent 
+rights of any other company or individual. The major reason for the 
+industry's fascination is that the issue speaks to a theme that winds 
+through the government's landmark antitrust case against Microsoft 
+now being tried in federal court. In testimony by executives of Netscape 
+Communications Corp. and Sun Microsystems Inc., Microsoft has been 
+portrayed as a high-technology opportunist that often copies and absorbs 
+the innovations of other, smaller companies but seldom invents much 
+on its own. That perception is not new. Despite spending almost $3 
+billion a year on research and development, Microsoft is frequently 
+portrayed as a company distinguished by its ability to capitalize 
+on the ideas of others. Indeed, Microsoft became the giant of the 
+industry by purchasing another company's operating system and licensing 
+it to IBM for its first personal computer. And Gates once defended 
+Microsoft from accusations that his company borrowed the look and 
+feel of the Windows operating system from Apple's Macintosh by insisting 
+that both companies borrowed a graphical interface pioneered at Xerox's 
+legendary Palo Alto Research Center. This time, however, Microsoft 
+insists that ``the techniques we've developed are significantly different 
+than the claims for prior art of which we're aware,'' said Dick Brass, 
+a Microsoft vice president for technology development who is leading 
+the company's electronic-book development. But John Seeley Brown, 
+director of the Palo Alto Research Center, is one of a group of researchers 
+who do not see it that way. ``They may have found a minor twist,'' 
+Brown said, ``but the idea of how the eye perceives color based on 
+the display of sub-pixels is where we started this game.'' Microsoft 
+has refused to disclose details about Cleartype, saying it did not 
+want to compromise the patent protection it seeks. During his impromptu 
+Comdex chat with reporters, though, Gates divulged that Hill and a 
+small group of Microsoft researchers had been able to take advantage 
+of the fact that on a liquid crystal display, or LCD, each picture 
+element, or pixel, consists of three separate sub-pixels, of different 
+colors. When all three are switched on simultaneously, the viewer 
+is tricked into seeing a single white pixel because the individual 
+sub-pixels are too tiny for the eye to resolve. This means that LCDs 
+should be able to render type fonts as much as three times the actual 
+screen resolution, making them far sharper and easier to read. The 
+stairstep edges of lines on a typical computer screen give fonts a 
+jagged appearance, so smoothing type has long been a quest of software 
+designers. Most settle for one of a variety of techniques known as 
+anti-aliasing or hinting. The most common technique is to paint pixels 
+along a character's edge in shades of gray, which essentially smudges 
+the characters' borders to make them appear less jagged. Microsoft 
+says its sub-pixel approach is ``an unprecedented innovation in font 
+display technology'' and Gates called it a ``leap forward'' in screen 
+sharpness. Other industry researchers acknowledge that the Cleartype 
+technology will make screens sharper, but insist that the underlying 
+concepts have been known for decades. ``The thing that I objected 
+to is they made such a big deal out of it,'' said Steve Gibson, a 
+software developer who wrote programs for the Apple II personal computer. 
+``I'm afraid they are going to try to claim it as their own.'' Gibson 
+decided to stake his own claim to history by creating a Web page (http://grc.com/cleartype.htm) 
+to document what he calls the original pioneering work in sub-pixel 
+technology by Steven Wozniak, designer of the Apple II computer. Though 
+Wozniak was designing for television screens rather than for LCD displays, 
+he used a sub-pixel technology to effectively double the horizontal 
+resolution of the Apple II by blending two sub-pixels, purple and 
+green. Wozniak, who now teaches school in Los Gatos, Calif., recalled 
+in an e-mail interview that the concept ``was actually quite simple.'' 
+``One of my greatest contributions to the first low-cost computers,'' 
+he wrote, ``was to realize that these properties of color equaling 
+screen position allowed me to achieve color and hi-res both, at very 
+low cost.'' Nor was Wozniak the only designer to explore color's relationship 
+with resolution. In 1989, Ronald Feigenblatt, an IBM expert on LCDs, 
+wrote a technical paper on using color to increase the resolution 
+of graphical objects, including fonts. Feigenblatt, who has since 
+left IBM, said that at an academic conference that year, IBM demonstrated 
+a prototype flat-panel display using software he had designed that 
+used color sub-pixels to enhance resolution. Brass said that neither 
+the work of Feigenblatt nor that of Wozniak had any bearing on Cleartype's 
+development. ``The Wozniak patent deals with improving the display 
+of a TV set receiving an Apple II signal, and the Feigenblatt patent 
+deals with improving the rendition of color on an early LCD,'' he 
+said. ``Neither of these technologies is about improving font resolution 
+on a display.'' The most direct challenge to Microsoft's claim of 
+originality, however, comes from Dpix Inc., a Xerox subsidiary spun 
+off from the Palo Alto Research Center. Dpix makes a high-resolution, 
+7 million-pixel color flat-panel display using techniques that seem 
+to closely parallel Cleartype technology. In the Dpix display each 
+pixel is composed of four sub-pixels _ two green and two red-and-blue 
+_ to increase the readability of the fonts above and beyond the resolution 
+of the screen, which is already twice that of today's standard flat 
+panels. ``We address the green pixel separately with different gray-scale 
+data, which gives you a much finer resolution to the font and a much 
+finer curve,'' said Malcolm Thompson, president of Dpix and a longtime 
+flat-panel researcher. Thompson said his company had not sought a 
+software patent because such techniques had been used for many years 
+in military flat-panel displays for enhancing photographic imaging. 
+Microsoft was not aware of the Xerox research, Brass said. Microsoft's 
+application for patent protection for its font technology is one reason 
+the announcement has stirred controversy. Software was not routinely 
+patented until the mid-to-late 1980s, so the Patent Office does not 
+have a rich database on which to draw when assessing software claims. 
+``We built the whole industry around there not being patents,'' said 
+Dan Bricklin, a developer who invented the spreadsheet. ``The old-timers 
+don't even think of patenting ideas new-timers think they invented. 
+It's a real mess.'' 
+</TEXT>
+</DOC>

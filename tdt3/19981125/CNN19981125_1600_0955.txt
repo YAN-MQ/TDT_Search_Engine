@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981125.1600.0955 </DOCNO>
+<DOCTYPE> UNTRANSCRIBED </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street ends the day on a sleepy note. For all the closing numbers, 
+let's go to the cnnfn newsdesk in New York, where Beverly Schuch is 
+standing by. Thanks, Chuck. It was a sleepy day indeed. Investors 
+turned their focus today on the Thanksgiving holiday. 
+</TEXT>
+</DOC>

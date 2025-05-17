@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> VOA19981020.1700.0258 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Here in Washington, lawyers for Microsoft portrayed the giant software 
+company as an aggressive but legal business competitor that did not 
+violate U.S. anti-trust laws. VOA's Rick Nunez reports. Microsoft's 
+lead attorney, John Warden, wants to prove that evidence presented 
+against his client by the Justice Department is dangerously out of 
+context. Prosecutors are using company memos to contradict a videotaped 
+deposition by Microsoft chairman Bill Gates. In his testimony, Mr. 
+Gates denied using illegal business practices to try and force competitors 
+to stop using Internet software and other programs made by rival companies 
+such as Netscape. But the internal Microsoft documents presented by 
+the Justice Department show company officials met with other firms 
+allegedly to persuade them to drop plans to use Netscape's Internet 
+browser program. In written testimony, Netscape chairman Jim Barksdale 
+said it was clear to him that Microsoft was suggesting his company 
+stop competing or be wiped out. A Microsoft spokesman says the government 
+has misrepresented what occurred at the meetings. The anti-trust trial 
+is expected to take between six and eight weeks. Rick Nunez, VOA News, 
+Washington. 
+</TEXT>
+</DOC>

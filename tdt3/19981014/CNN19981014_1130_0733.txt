@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981014.1130.0733 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For the latest health news online, check out CNN.com/health. for "your 
+health," Sherry rauh, "Headline News." Now for "diskette world" travel 
+news -- notebook COMPUTERS ARE traveling lighter with built-in superdisk 
+drives. Only the superdisk DRIVE WORKS with both regular floppies 
+and 120-MEGABYTE SUPERDISK diskettes. Floppies everywhere are thrilled 
+because a built-in SUPERDISK IS two drives in one, and other drives 
+are on the way out. We can save a little. superdisk can save a lot. 
+Together, we can save the world. Get it in NEC notebooks. 
+</TEXT>
+</DOC>

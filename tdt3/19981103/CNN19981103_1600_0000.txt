@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981103.1600.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The polls are open across America, but why are more and more voters 
+staying home? Some familiar belongings of O.J. Simpson may soon be 
+on the auction block. And from the rain forests to outer space, why 
+scientists hope the trip will help find a cure for a fatal disease. 
+With your "CNN Headline News," I'm Denise Dillon. 
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981027.0130.0146 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane Mitch is not expected to threaten the U.S. mainland, but 
+NASA forecasters are concerned high winds from the storm could delay 
+Thursday's planned lift-off of the space shuttle "discovery." Monday, 
+John Glenn and the rest of the shuttle crew arrived at Kennedy space 
+center to begin final preparations for the launch. The retiring senator 
+is assigned to be payload specialist number two, the lowest position 
+on "discovery." At 77, Glenn will have the distinction of being the 
+oldest person in space. This is going to be a research rich flight. 
+We've got about 83 projects on this, and we couldn't -- I couldn't 
+have, if i'd had my own pick of people -- I don't think I could have 
+picked better than the people I'm going to be flying with. So we're 
+just looking forward, very, very much to Thursday and getting off 
+on time, we hope, and keep that weather out of here that's down south. 
+Later in the newscast, we'll tell you how NASA determines who has 
+the "Right stuff" to make it into space. 
+</TEXT>
+</DOC>

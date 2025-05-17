@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981202.2000.1602 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From birds to business. Stocks slumped today. Time for the latest 
+now from Wall Street. The Dow Jones Industrial fell 69 points today 
+to close at 9065. The NASDAQ also fell nine points to close at 1995. 
+</TEXT>
+</DOC>

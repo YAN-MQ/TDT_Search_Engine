@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981024.1300.0650 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's another sign winter is just around the corner. Daylight saving 
+time ends at 2:00 A.M. tomorrow in most of the United States. You 
+should turn back your clocks one hour before going to bed tonight. 
+Some parts of the U.S. are exempt from the change. They include Arizona, 
+Hawaii, and part of Indiana. 
+</TEXT>
+</DOC>

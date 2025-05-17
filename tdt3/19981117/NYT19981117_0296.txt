@@ -1,0 +1,52 @@
+<DOC>
+<DOCNO> NYT19981117.0296 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Computer rankings of NFL teams based on games through Nov. 16: RANK...TEAM.......LAST.WK..RECORD..AVG.....RATING...OPPONENTS....OPP 
+ONENTS ...................................VICTORY...........RECORD(x)....AV 
+G ...................................MARGIN.........................VI 
+CTORY ..................................................................MA 
+RGIN(x) 1. Denver Broncos ........ 1 . 10-0-0 . 15.4 . 1.000 . 46-44-0 
+. -0.3 2. Minnesota Vikings ..... 3 . 9-1-0 .. 15.0 . 0.828 . 28-42-0 
+. -2.5 3. Jacksonville Jaguars .. 4 . 8-2-0 ... 6.2 . 0.759 . 43-37-0 
+.. 0.4 4. Atlanta Falcons ....... 5 . 8-2-0 ... 8.9 . 0.755 . 30-40-0 
+. -1.3 5. Dallas Cowboys ........ 6 . 7-3-0 .. 11.0 . 0.745 . 30-40-0 
+. -3.0 6. San Francisco 49ers ... 7 . 7-3-0 ... 7.5 . 0.700 . 37-43-0 
+. -0.3 7. Miami Dolphins ........ 8 . 7-3-0 ... 4.6 . 0.671 . 34-36-0 
+. -0.4 8. New York Jets ......... 2 . 6-4-0 ... 6.8 . 0.669 . 41-39-0 
+.. 0.7 9. Green Bay Packers .... 11 . 7-3-0 ... 8.0 . 0.667 . 35-45-0 
+. -0.5 10. Oakland Raiders ....... 9 . 7-3-0 ... 0.1 . 0.656 . 40-40-0 
+. -0.4 11. Buffalo Bills ........ 10 . 6-4-0 ... 0.7 . 0.640 . 39-41-0 
+.. 0.0 12. Tennessee Oilers ..... 13 . 6-4-0 ... 4.6 . 0.603 . 31-39-0 
+. -2.6 13. New England Patriots . 12 . 5-5-0 ... 1.9 . 0.566 . 49-31-0 
+.. 3.5 14. Seattle Seahawks ..... 15 . 5-5-0 ... 5.1 . 0.513 . 35-35-0 
+. -2.5 15. Pittsburgh Steelers .. 14 . 6-4-0 .. -0.6 . 0.511 . 33-37-0 
+. -0.4 16. Tampa Bay Buccaneers . 19 . 4-6-0 .. -3.8 . 0.477 . 39-41-0 
+.. 1.0 17. New Orleans Saints ... 23 . 5-5-0 .. -1.8 . 0.435 . 34-36-0 
+.. 0.8 18. Arizona Cardinals .... 19 . 5-5-0 .. -5.0 . 0.432 . 30-50-0 
+. -4.2 19. Detroit Lions ........ 26 . 3-7-0 .. -2.5 . 0.420 . 25-35-0 
+. -3.0 20. St. Louis Rams ....... 16 . 3-7-0 .. -6.3 . 0.419 . 49-31-0 
+.. 3.1 21. Baltimore Ravens ..... 21 . 3-7-0 .. -5.6 . 0.394 . 39-31-0 
+.. 0.6 22. Kansas City Chiefs ... 20 . 4-6-0 .. -3.0 . 0.387 . 47-33-0 
+.. 1.6 23. Chicago Bears ........ 17 . 3-7-0 .. -5.7 . 0.386 . 44-36-0 
+.. 1.6 24. Carolina Panthers .... 24 . 1-9-0 .. -6.3 . 0.374 . 42-28-0 
+.. 4.1 25. San Diego Chargers ... 27 . 4-6-0 .. -5.2 . 0.358 . 42-48-0 
+. -1.9 27. New York Giants ...... 22 . 3-7-0 .. -5.7 . 0.342 . 37-33-0 
+. -0.3 27. Cincinnati Bengals ... 25 . 2-8-0 . -10.0 . 0.342 . 51-29-0 
+.. 3.8 28. Washington Redskins .. 28 . 2-8-0 . -10.4 . 0.340 . 40-30-0 
+.. 2.7 29. Indianapolis Colts ... 30 . 2-8-0 .. -9.8 . 0.334 . 32-28-0 
+.. 0.8 30. Philadelphia Eagles .. 29 . 2-8-0 . -14.1 . 0.220 . 40-40-0 
+.. 0.0 The New York Times's computer football ranking is based on 
+an analysis of each team's scores with emphasis on three factors: 
+who won, by what margin and against what quality of opposition. The 
+quality of an opponent is determined by examining its record against 
+other teams. The Times's computer model collapses runaway scores and 
+takes note of a home-field advantage. Recent games count more than 
+earlier games. The top team is assigned a rating of 1.000; the ratings 
+of all other teams are percentages reflecting their strength relative 
+to the top team. This week, for example, there is a very large difference 
+between Denver (no. 1) and Minnesota (2), and almost no difference 
+between Jacksonville (3) and Atlanta (4). 
+</TEXT>
+</DOC>

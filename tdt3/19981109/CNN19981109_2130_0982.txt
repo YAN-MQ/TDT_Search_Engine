@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981109.2130.0982 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Women who make it to the top of the corporate world apparently still 
+face a Gender pay gap. A survey by the nonprofit group catalyst shows 
+the nation's highest paid female executives make 68 cents to every 
+$1 earned by the highest paid men. That's a wider gap than in the 
+U.S. workforce as a whole, where women earned 76 cents for every $1 
+men made in the first quarter of this year. On average, the median 
+compensation for female executives was about $519,000, compared to 
+$765,000 for male executives. 
+</TEXT>
+</DOC>

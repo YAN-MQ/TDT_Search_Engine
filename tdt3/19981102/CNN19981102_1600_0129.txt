@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981102.1600.0129 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is doing his best to get out to the vote tomorrow. 
+In an interview with black entertainment television, Mr. Clinton appealed 
+to minority voters to help bring more democrats into Congress. Later 
+at the White House, Mr. Clinton said this election is especially important. 
+When citizens go to the polls tomorrow -- and I hope very large numbers 
+of them will -- they will bring to bear their deepest hopes and concerns 
+about their own families, their children and our nation. The choices 
+Americans make tomorrow will have a profound effect on the future 
+of our country. This is not an ordinary time, and therefore, it is 
+not an ordinary election. 
+</TEXT>
+</DOC>

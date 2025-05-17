@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981128.1000.1301 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It appears as though Auburn has a new football coach. The school is 
+reportedly signed Ole miss head coach Tommy tubberville. 
+</TEXT>
+</DOC>

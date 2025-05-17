@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> PRI19981211.2000.0341 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And finally, NASA has begun a new mission to Mars. Scientists hope 
+it will provide clues as to whether there was life on Mars in the 
+past and how the planet's climate has changed over time. An unmanned 
+space craft called the Mars Climate Orbiter lifted off from Cape Canaveral 
+a short time ago. Those are the news headlines from the BBC newsroom 
+in London. This is Alan Dow for THE WORLD. 
+</TEXT>
+</DOC>

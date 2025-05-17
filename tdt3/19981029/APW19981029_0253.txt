@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> APW19981029.0253 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A Singapore company has developed a full-fledged computer designed 
+to fit in a car's dashboard, a newspaper reported Thursday. The computer 
+runs Microsoft's Windows 95 operating system and includes features 
+normally found in desktop computers, such as a large capacity disk 
+drive, a modem for e-mail and Internet access, and CD-ROM and floppy 
+disk drives, The Straits Times reported. Singapore's GPS Technologies 
+originally developed the Searcher1 as a navigation system, but it 
+evolved into what is believed to be the world's first full-fledged 
+car computer, the paper added. Operated with either a touch-sensitive 
+screen, an infrared wireless keyboard or by voice commands, the car 
+computer also supports extra screens placed in the back seat, and 
+may be marketed to busy executives or outfitted in luxury cars. Developed 
+at a cost of 600,000 Singapore dollars (dlrs 370,000), it will sell 
+for about 5,600 Singapore dollars (dlrs 3,500), plus 800 to 1,000 
+Singapore dollars (dlrs 500 to 620) for each additional screen, the 
+paper said. Several automakers have expressed interest in fitting 
+the computer into their luxury cars, the report said, but it did not 
+identify these manufacturers. The company also is considering selling 
+the computer in traffic-clogged Southeast Asian cities like Bangkok 
+and Kuala Lumpur, where drivers or passengers could take advantage 
+of time lost in gridlock. 
+</TEXT>
+</DOC>

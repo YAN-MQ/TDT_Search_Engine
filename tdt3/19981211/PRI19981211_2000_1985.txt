@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981211.2000.1985 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From the BBC newsroom in London, this is Alan Dow for THE WORLD. This 
+is THE WORLD, a co-production of the BBC World Service, PRI, and WGBH 
+in Boston. I'm Tony Kahn. 
+</TEXT>
+</DOC>

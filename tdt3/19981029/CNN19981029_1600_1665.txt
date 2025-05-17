@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981029.1600.1665 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up in two minutes -- all the day's news, including John Glenn's 
+return to space. Now, here's another look at how he got there on board 
+the space shuttle discovery. I'm Toria Tolley. This is "CNN Headline 
+News." 
+</TEXT>
+</DOC>

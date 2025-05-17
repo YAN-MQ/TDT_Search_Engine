@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981028.1830.0636 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street posted some modest gains today, the Dow Jones industrials 
+closing up almost six points. The NASDAQ rising nearly 20 points. 
+</TEXT>
+</DOC>

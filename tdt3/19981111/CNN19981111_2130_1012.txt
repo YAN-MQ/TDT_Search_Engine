@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981111.2130.1012 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Compaq says it will sell a new line of desktop computers by telephone 
+and on the Internet. Today, the computermaker announced it will target 
+small and medium-sized businesses, and it is promising to deliver 
+the PCs more quickly than it has before. Compaq is trying to catch 
+up with Dell, the number-one direct seller of pcs. 
+</TEXT>
+</DOC>

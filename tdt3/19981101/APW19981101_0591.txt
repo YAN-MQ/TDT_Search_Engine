@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> APW19981101.0591 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Thousands of Internet sites in Germany went blank Sunday as part of 
+a protest over Deutsche Telekom's rates for connecting to cyberspace. 
+Thomas von Treichel, who organized the Internet strike, said more 
+than 6,000 Internet sites joined the action. The 7.5 million Germans 
+with Internet access were also encouraged to stay off-line Sunday, 
+but it was not known how many surfers participated. Strike organizers 
+are demanding Telekom, the former state-owned telephone monopoly, 
+institute a special rate of no more than 1 mark (63 cents) an hour 
+for Internet connections. Current telephone charges during the day 
+for local connections are around 5 marks (dlrs 3.13) an hour. Telekom 
+officials responded calmly to the protest and said plans for lower 
+rates had already been presented to government regulators. 
+</TEXT>
+</DOC>

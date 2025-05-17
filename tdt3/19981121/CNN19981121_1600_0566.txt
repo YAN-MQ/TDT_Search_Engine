@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981121.1600.0566 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Big tobacco companies are scheduled to sign a $206 billion deal Monday 
+that settles the health claims of 46 states. It's the biggest civil 
+suit payout ever in the U.S. the money will be used to cover the costs 
+incurred by state health agencies in treating smoking-related illnesses. 
+The deal also calls for an end to billboard advertising of tobacco 
+products. The price of a pack of cigarettes will probably increase 
+35 to 40 cents as a result. 
+</TEXT>
+</DOC>

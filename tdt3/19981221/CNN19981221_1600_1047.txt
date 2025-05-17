@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981221.1600.1047 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+As for the U.S. economy, the IMF said despite slowing growth, there 
+is no need to lower interest rates to stimulate the economy. Federal 
+reserve policymakers are, in fact, meeting tomorrow to determine the 
+course of short-term rates. The fed is expected to leave them unchanged. 
+It will be the fed's final meeting of the year. Most analysts on Wall 
+Street think that the central bank will sit tight until at least the 
+first few months of 1999. 
+</TEXT>
+</DOC>

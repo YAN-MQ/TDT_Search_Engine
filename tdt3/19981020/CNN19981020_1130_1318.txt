@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981020.1130.1318 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mike Tyson has two new men in his corner. With magic Johnson and Muhammad 
+Ali speaking on his behalf, the Nevada state athletic commission Monday 
+voted, 4-1, to reinstate Tyson's boxing license. He could be back 
+in the ring as early as December 5th. 
+</TEXT>
+</DOC>

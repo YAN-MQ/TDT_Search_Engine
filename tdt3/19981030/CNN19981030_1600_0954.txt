@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981030.1600.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the death toll in the fire at a Swedish dance hall now stands 
+at 60. Authorities say they can't rule out it was started deliberately. 
+</TEXT>
+</DOC>

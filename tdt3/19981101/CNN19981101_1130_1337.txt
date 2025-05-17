@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981101.1130.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On the ice, Geoff Sanderson netted a hat trick. Buffalo doubled up 
+Toronto 6-3. 
+</TEXT>
+</DOC>

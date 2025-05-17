@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981215.2130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- Richard Butler has sent a report to the 
+U.N. saying Iraq is not cooperating with weapons inspectors. 
+</TEXT>
+</DOC>

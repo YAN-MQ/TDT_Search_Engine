@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981113.1130.0484 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+for more weather information, you can log into cnn.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981016.1600.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Pope John Paul celebrated the 20th anniversary of his election 
+to the papacy. Thousands attended mass in the Vatican city. 
+</TEXT>
+</DOC>

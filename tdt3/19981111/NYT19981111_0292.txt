@@ -1,0 +1,62 @@
+<DOC>
+<DOCNO> NYT19981111.0292 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Often, when you're talking to phone support technicians, they are 
+getting their answers by tapping into an online database. To cut out 
+the middleman, many companies put their databases on line _ which 
+reduces their support bills so much that they provide the service 
+free. Jeffrey Tarter, executive director of the Association of Support 
+Professionals, said he believed that this channel of support would 
+eventually supersede traditional phone-based help. Some publishing 
+companies also put their how-to articles on line, and many online 
+communities provide message boards or technical advice from experts 
+via online conferences or e-mail. Here are some places to get help. 
+MICROSOFTome KNOWLEDGE BASE: www.microsoft.com/support This provides 
+a searchable collection of articles highlighting problems, bugs, downloadable 
+fixes and how-to advice for all Microsoft products. Some articles 
+merely state that a problem has no known solution _ but that information 
+alone can save you from wild goose chases. ZD HELP: www.zdnet.com/zdhelp 
+If you just don't know how to do something, ZD Help searches through 
+Ziff-Davis' database of step-by-step tips and answers to frequently 
+asked questions, drawn from publications like PC Magazine. The site 
+also has live support forums on Mondays from 7 to 8:30 p.m. EST (requires 
+downloadable chat software). BUG NET: www.bugnet.com Bug Net chronicles 
+the faults of scores of popular programs in its regular bulletins 
+and provides fixes and links to downloadable updates. Much of Bug 
+Net's value is in its subscription-based service, but the Web site 
+maintains an archive of significant articles that you can search and 
+read free. SUPPORT HELP: www.supporthelp.com TECHSTATION: www.techstation.com 
+If you don't know the Web address of a company's support site, these 
+two sites provide links to company pages. Support Help also provides 
+a search engine that looks for company and product names and it includes 
+phone support numbers and relevant Usenet newsgroups. MACFIXIT: www.macfixit.com 
+This site regularly publishes troubleshooting tips and solutions for 
+problems with Macintosh hardware and software. Two substantial sections 
+deal with Mac OS 8.5 and the iMac. A searchable database of bulletins 
+covers much ground. WUGNET, THE WINDOWS USER GROUP NETWORK: www.wugnet.com/compuserve 
+This 11-year veteran of online support forums on Compuserve operates 
+a large number of support forums, listed on this Web page. Messages 
+posted on the forums can provide workable answers to problems in anything 
+from a few hours to a few days. AMERICA ONLINE'S HELP DESK: Keyword: 
+Help Desk The quickest way to find AOL's various support channels 
+is through the listings at this umbrella site. The channels vary in 
+the quality and type of support, but most provide message boards and 
+lists of frequently asked questions. Most evenings, there are several 
+scheduled conferences with experts in various areas. NO WONDER: www.nowonder.com 
+No Wonder provides free support for Macintosh, Windows, Unix, OS/2 
+and Be operating systems. There are online message boards, Java-based 
+chat rooms and a search engine that sifts through the ZD Help archives. 
+But most significant is the e-mail consultation service, in which 
+a 350-strong team of volunteers provides responses to technical problems 
+within 12 to 48 hours. DEJA NEWS: www.dejanews.com Anything you read 
+in newsgroups should be taken under advisement. Opinions run rampant 
+and the most strident voices aren't always the most authoritative. 
+But by clicking through Deja News' Computers channel, you can find 
+newsgroups that cover your application and problems _ and search on 
+the postings you find there. Many people counsel caution before posting 
+your own message on Usenet; newsgroups are often ``mined'' for e-mail 
+addresses by junk e-mail companies. 
+</TEXT>
+</DOC>

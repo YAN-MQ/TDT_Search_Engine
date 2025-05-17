@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981108.1000.0347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A recent federal administration safety ruling may be a way of making 
+up for a missed opportunity ten years ago. Two months ago, after Swissair 
+flight 111 crashed and killed 229 people, the FAA urged airlines to 
+upgrade cabin insulation in thousands of jetliners. Now "The Washington 
+Post" reports an agency subcommittee received a memo from a home insulation 
+expert in 1988 calling the FAA's insulation flammability test "meaningless." 
+The subcommittee reportedly ignored that warning. Air safety officials 
+say it's unclear if insulation played a role in the swissair accident. 
+</TEXT>
+</DOC>

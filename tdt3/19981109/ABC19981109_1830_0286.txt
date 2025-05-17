@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981109.1830.0286 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Still in Washington, the independent counsel, Ken Starr has prevailed 
+in two more legal strules. The Supreme Court let stand a ruling that 
+the White House cannot invoke attorney/client privilege to shield 
+Bruce Lindsay from testifying before a Grand jury. The court also 
+let stand a ruling that secret service officers must also testify 
+if they are called. 
+</TEXT>
+</DOC>

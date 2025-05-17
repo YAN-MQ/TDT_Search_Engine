@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981020.1830.1324 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On the money tonight, for the fifth month in a row the Asian economic 
+crisis has reduced demand for U.S. exports. Substantially. And therefore 
+the trade deficit was a record $16.8 billion in August. 15% higher 
+than July. 
+</TEXT>
+</DOC>

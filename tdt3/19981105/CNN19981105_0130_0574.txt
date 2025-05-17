@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981105.0130.0574 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Floodwaters are beginning to recede in the midwest, and people are 
+beginning to clean up. Weekend storms dropped more than eight inches 
+of rain in parts of Kansas and Oklahoma. Oklahoma's governor declared 
+a disaster emergency in three counties. Two people are reported dead, 
+another is missing. 
+</TEXT>
+</DOC>

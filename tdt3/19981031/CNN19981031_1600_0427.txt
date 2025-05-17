@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981031.1600.0427 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mitch has been downgraded to a tropical depression, but it's still 
+causing massive flooding in central America. The center of the storm 
+is still over Honduras. Top winds are now 35 miles per hour. Water 
+levels are still high in Nicaragua, where officials say they've seen 
+bodies floating down flooded streets. In all, Mitch is now being blamed 
+for 306 deaths. Forecasters say some areas could get two more feet 
+of rain. We'll have the extended weather forecast for the United States 
+in just a Few minutes. 
+</TEXT>
+</DOC>

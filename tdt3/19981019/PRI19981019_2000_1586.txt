@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981019.2000.1586 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Pluses have been posted on Wall Street today. The Dow Jones Industrials 
+have strengthened by 50 points today to reach 8466. The Nasdaq picked 
+up 28 points today to 1649. 
+</TEXT>
+</DOC>

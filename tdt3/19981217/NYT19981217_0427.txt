@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> NYT19981217.0427 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A bipartisan commission appointed by the White House to recommend 
+what television broadcasters must do in exchange for their free licenses 
+to use thousands of new channels is to submit its report Friday with 
+watered-down voluntary measures on political advertising and on educational 
+or public-affairs programs. The commission was set up in the summer 
+of 1997 to advise President Clinton on whether the public-interest 
+obligations of broadcasters _ to carry news and public-service announcements, 
+for example _ should be increased with the vastly increased channel 
+capacity that digital technology will soon give them. The report stops 
+short of urging mandatory free broadcast time for political candidates 
+or minimum amounts of educational and public affairs programming. 
+But it does recommend that free broadcast time be provided as part 
+of any overall campaign finance reform law if Congress passes one. 
+It also urges Congress to establish a permanent trust fund for public 
+broadcasting and to set aside some undetermined amount of future channel 
+space for noncommercial educational programs and services, like distance 
+learning or Internet access for schools and libraries. It advises 
+that the projects be financed by the auction of space on the analog 
+spectrum that is returned to the government when broadcasters convert 
+to digital channels or by fees imposed on broadcasters that use added 
+spectrum space for money-making channels, rather than for improved 
+picture quality (high-definition television) on one channel. In one 
+of the most contentious issues, the report suggests that giving free 
+time to political candidates be voluntary, even though 14 of the commission's 
+22 members favored mandatory free time and wrote dissenting opinions. 
+The report recommends that broadcasters be encouraged to provide five 
+minutes a night of free broadcast time for candidates in the 30 days 
+before an election. The report's voluntary recommendations disturb 
+Newton N. Minow, former commissioner of the Federal Communications 
+Commission who served on the panel, the Advisory Committee on the 
+Public Interest Obligations of Digital Television Broadcasters. ``The 
+price paid for this laudable effort to accommodate conflicting views 
+left us with a low common denominator at a time when we need a broader 
+vision, equal to the promise of new digital channels,'' Minow wrote 
+in a dissent. ``Our grandchildren will one day regret our failure 
+to meet one of the great communications opportunities in the history 
+of democracy.'' Because the report is advisory, Congress or the communications 
+commission would have to impose any obligations on broadcasters. When 
+digital television technology is complete, each station will be able 
+to compress as many as five or six additional channels into its signal, 
+or to use the entire signal for high-definition pictures (which requires 
+more spectrum space). In 1996 Congress declined to auction the additional 
+channel space, agreeing to let existing broadcasters keep it at no 
+charge, and urging the communications commission to seek recommendations 
+as to what public-service obligations broadcasters should meet in 
+return for those public airwaves. Several independent reports by market-research 
+firms have forecast that providing extra programs or other data on 
+those new channels could be extremely lucrative. The advisory commission's 
+report recommends that those ``who choose to multiplex, and in so 
+doing reap enhanced economic benefits, should have the flexibility 
+to choose between several options.'' 
+</TEXT>
+</DOC>

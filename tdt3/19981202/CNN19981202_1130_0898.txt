@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981202.1130.0898 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- a federal judge is deciding whether the 
+house judiciary committee should get a confidential justice department 
+memo on possible campaign fundraising abuses by President Clinton 
+for its impeachment inquiry. Democrats say the committee is losing 
+its focus and stretching the inquiry out for too long. 
+</TEXT>
+</DOC>

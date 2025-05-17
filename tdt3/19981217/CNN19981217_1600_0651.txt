@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981217.1600.0651 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A Texas bank is a little red faced. It's apologized to customers having 
+tested the Y 2 K bug. Bank one Texas printed 2000 overdraft notice 
+all dated the year 2000 or later obviously to see if the computer 
+could recognize the numbers. The test went fine but the notices were 
+accidentally mailed out instead of being destroyed. A bank spokesman 
+says it has spent millions preparing for the bug, but, hey, human 
+error still exists, he said. Or she said. We don't know the gender. 
+</TEXT>
+</DOC>

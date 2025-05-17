@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981113.1600.0492 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Spring Creek has overflowed its banks north of Houston, flooding some 
+portions of the Texas city. Eight inches of rain fell in the area 
+in just a few hours. The red cross and salvation army have set up 
+shelters for people who have left their homes as a precaution. Flash 
+flood watches are in effect for all of southeast Texas through tomorrow. 
+</TEXT>
+</DOC>

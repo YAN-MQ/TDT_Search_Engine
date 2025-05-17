@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981208.0500.0998 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Working 400 kilometers above the earth, two U.S. astronauts have successfully 
+hooked up 40 electrical connections between the first two pieces of 
+the international space station. Astronauts Jerry Ross and James Newman 
+completed their six-hour job two hours ahead of schedule. NASA says 
+it will take two more space walks this week to complete the hookup 
+between the Russian and the American modules. You're tuned to VOA 
+news now, coming to you from Washington. 
+</TEXT>
+</DOC>

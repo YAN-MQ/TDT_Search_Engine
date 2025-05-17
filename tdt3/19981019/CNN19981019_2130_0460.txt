@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981019.2130.0460 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new government report finds women are prohibited from holding one 
+out of six military jobs. The general accounting office says that's 
+because of military policy barring women from direct combat. The report 
+also found that, despite the rule, women served in harms way during 
+operations in Bosnia and Somalia. The Gao cautioned the Pentagon that 
+such post-war operations may require a Policy change in the future. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981129.1300.0260 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Industry experts call today the busiest travel day of the year. Most 
+of the 34 million people who went away for the long holiday weekend 
+will be coming home. Airports will be crowded, about two million passengers 
+are expected to fill almost 90% of airline seats. Besides the airports, 
+expect roads, rails and bus stations to also be packed. The international 
+airline passengers association is offering these tips to combat thieves 
+at airports. 
+</TEXT>
+</DOC>

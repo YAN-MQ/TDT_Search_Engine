@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981222.1130.1069 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Cigna is in talks to sell its property casualty secretarier to another 
+company. The deal would be worth at much as $3 billion. The move to 
+exit the property casualty insurance business comes as the entire 
+industry is going through a restructuring after another year of slow 
+growth and weak returns. 
+</TEXT>
+</DOC>

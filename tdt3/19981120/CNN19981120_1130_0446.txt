@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981120.1130.0446 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+A cold day over the northern midwest today, with forecast temperatures 
+only in the 20s. And it's turning cooler in the southeast. Still one 
+more mild day, though, along the eastern seaboard. Forecast later 
+today on into Saturday shows wet weather along that front in the east. 
+Quickly dissipating, though, as we head through tomorrow morning. 
+There'll be lingering cloud cover in the northeast. The windy, wet 
+weather will continue, though, in the pacific northwest as high pressure 
+builds in. We will see the drier weather pushing into the southeast 
+along with some cooler temperatures. Extended forecast -- on Sunday, 
+60s, 70s will dominate the weather over much of the plains. Above 
+normal for this time of the year. It will be a little cool in the 
+northeast, only in the 40s, with rain and wind continuing in the pacific 
+northwest right on into Monday. We'll find some showers scattered 
+over the Great Lakes on Monday as temperatures begin to moderate over 
+much of the Great Lakes back into the 40s and 50s, and the 50s return 
+to the northeast as the wet weather continues along much of the west 
+coast. For more weather information, log into CNN.com, where there 
+are four-day forecasts available for more than 7,200 cities. 
+</TEXT>
+</DOC>

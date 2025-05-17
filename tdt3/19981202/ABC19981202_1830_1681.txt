@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981202.1830.1681 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is our report on "World News Tonight." On "Nightline" -- a popular 
+radio talk show host and a medical mystery solved. I'm Charles Gibson. 
+Have a good evening. We'll see you tomorrow night. 
+</TEXT>
+</DOC>

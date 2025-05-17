@@ -1,0 +1,97 @@
+<DOC>
+<DOCNO> NYT19981108.0063 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+As its antitrust trial moves into the fourth week, Microsoft Corp. 
+finds itself trying to deflect a flood of charges of threats and bribes. 
+The litany of shameful misconduct, according to the government, was 
+directed not only at Microsoft's rivals but just about everyone in 
+the industry _ including personal computer makers, Internet service 
+suppliers and others. The Justice Department's story line is that, 
+time after time, the digital-age monopolist showed up in the doorway, 
+brandishing a club in one hand while offering price discounts and 
+marketing support with the other. It is, as an antitrust expert said, 
+an ``800-pound gorilla'' case. It is certainly entertaining. But is 
+it a strong legal case? No, Microsoft insists, as it asks ``where's 
+the body?'' _ where, in other words, is evidence that consumers are 
+being hurt by the company's tough business tactics. That is a real 
+hurdle for the prosecution, particularly because the personal computer 
+industry where Microsoft is so powerful is not flashing the conventional 
+warning signal of consumer distress _ rising prices. But that hurdle 
+is by no means insurmountable, antitrust experts say. What the government 
+must do, they say, is to marshal enough evidence of anticompetitive 
+behavior by Microsoft to convince the court that there would be more 
+innovation, more competition and probably lower prices if the company 
+were forced to change its ways. For example, the next government witness 
+is to be Steven McGeady, an Intel vice president, who will testify 
+that Microsoft prodded the big chip maker to step back from developing 
+Internet and multimedia software and from supporting Netscape Communications. 
+The prosecution's case is largely about the future _ the loss of opportunities, 
+the government says, in a field at the forefront of a new economy. 
+``It does require a court to make an inference, to decide that the 
+corporate behavior in question simply has to have negative effects,'' 
+said William Kovacic, a visiting professor at George Washington University 
+Law School. ``But since the Standard Oil case, courts have been willing 
+to make inferential leaps into the future if they are persuaded that 
+the bad conduct is serious enough.'' Indeed, the Supreme Court's ruling 
+in 1911 to uphold the breakup of Standard Oil was one of the biggest 
+judicial leaps into the future. Standard Oil, in its defense, had 
+argued cogently that kerosene prices had declined since the 1880s 
+and that the company, led by John D. Rockefeller, was an engine of 
+industrial innovation, wealth creation and job generation. ``Standard 
+Oil's pitch was why tamper with success, just as Microsoft is warning 
+today,'' Kovacic said. In Microsoft's view, the government ``simply 
+doesn't have the evidence to make its big-is-bad case,'' said Charles 
+Rule, a former senior Justice Department official who is now an adviser 
+to Microsoft. ``All of these alleged anticompetitive meetings,'' Rule 
+said, ``amount to Microsoft basically informing another software company 
+that it plans to compete vigorously in some new field and telling 
+that company you can consider joining us. Saying you're going to compete 
+like heck is not a violation of the nation's antitrust laws.'' The 
+Justice Department and 20 states suing Microsoft recognize that they 
+must present an array of damaging evidence to overcome the company's 
+defense _ that rivals may be hurt by its actions but consumers are 
+not. Since the trial began, the government has used piles of e-mail 
+it has subpoenaed to make its case. In his opening statement, David 
+Boies, the Justice Department's trial lawyer, showed an e-mail message 
+from an executive at Hewlett-Packard to a Microsoft executive. The 
+message protested restrictions Microsoft had placed on personal computer 
+makers, barring them from making changes on the first screen that 
+appears on computers when Microsoft's Windows operating system starts 
+up. Microsoft had said its contract restrictions were to insure a 
+``uniform consumer experience,'' but the government says that the 
+curbs were intended to restrain the distribution deals that its rival 
+in the Internet browser market, Netscape, could strike with PC makers. 
+The Hewlett-Packard executive wrote that his company was ``very disappointed'' 
+with Microsoft's restrictive contracts. ``From the consumer perspective,'' 
+he said, the restrictions are ``hurting our industry and our customers.'' 
+After displaying the e-mail message in court, Boies declared: ``This 
+is not a better-product, consumer-driven approach, your honor. This 
+is a monopolist, able to ignore the demands and the complaints and 
+the protest of their customers.'' The government's early witnesses 
+have repeatedly advanced the argument that the future of computer 
+software innovation would be brighter if Microsoft were held in check. 
+James Barksdale, Netscape's chief executive, testified that he thought 
+there would be more innovation and more competitors in the browser 
+market if Microsoft had not bundled its browser, the Internet Explorer, 
+with its industry-standard Windows operating system and given the 
+browser away free _ essentially removing the commercial incentive 
+for entrepreneurs to invest in the browser market. And last week, 
+Avadis Tevanian Jr., a senior vice president at Apple Computer, described 
+a series of threats from Microsoft. The company, he testified, succeeded 
+in getting Apple to make Internet Explorer the main browser on Macintosh 
+computers, and Microsoft also tried to force Apple to step back from 
+the new market for multimedia software. Market muscle and deep pockets 
+_ not innovative smarts _ are the forces that make Microsoft a winner 
+in new software markets, Tevanian asserted. With its industry witnesses, 
+the government is arguing that Microsoft bullied companies into deals 
+that reduce competition and do not result in any discernible consumer 
+benefit. Thus, the government adds, these deals must hurt consumers, 
+even if there is little immediate evidence of harm. ``The government 
+is closing in on what is critical _ a loss of consumer choice and 
+prices that are higher than would be the case if there were unrestricted 
+competition,'' said Stephen Axinn, an antitrust litigator who is a 
+partner of Axinn, Veltrop &AMP; Harkrider in New York. 
+</TEXT>
+</DOC>

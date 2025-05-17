@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981111.1600.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Veterans day is being observed around the country, including at the 
+Vietnam war memorial. Veterans disability payments will go up under 
+an order signed by the president today, and priority health care will 
+be extended to gulf war veterans. 
+</TEXT>
+</DOC>

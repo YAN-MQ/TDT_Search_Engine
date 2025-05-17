@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> CNN19981123.1600.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Merger fireworks lifting the markets today. For all the news let's 
+go to the cnnfn newsdesk in New York, where Beverly schuch is standing 
+by. bev? Must have been your return, actually, Chuck. A strong rally 
+carried the day on Wall Street, triggered by an unexpected blast of 
+mergers and acquisitions. The Dow Jones industrial average soared 
+214 points to close at a new record, completing its recovery for more 
+than, from a more than 1800-point slide since July. The broader markets 
+ended mostly higher, the NASDAQ composite gaining 49 points. One of 
+the many technology stocks surging, Internet service providerert link 
+gaining 4 3/4 after reaching a deal with comp USA A possible multibillion 
+dollar Internet deal caused quite a stir on Wall Street. America online 
+is in talks to buy Netscape communications. Netscape says nothing 
+is final, but the companies are discussing an all-stock deal. The 
+transaction is estimated at about $4 billion. AOL is been pursuing 
+a multiple portal strategy. A portal is any site that aggregates a 
+lot of traffic and then can sell that traffic in lucrative deals to 
+online commerce players. So the gem here for AOL is Netscape's netcenter 
+portal, and Netscape has been reluctant to realize they are really 
+a media company. Bringing netcenter under its umbrella would help 
+strengthen AOL's position on the Internet. AOL already boasts 14 million 
+subscribers. Another possible partner in the deal is sun Microsystems. 
+And Microsoft, already claiming that the deal would undermine the 
+government's antitrust case, 
+</TEXT>
+</DOC>

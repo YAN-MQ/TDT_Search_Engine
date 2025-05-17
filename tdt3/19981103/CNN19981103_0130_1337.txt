@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981103.0130.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Monday night ice -- Peter Forsberg scored his first goal of the season 
+and added two assists, as the avalanche skated past Carolina, 3-2. 
+After falling behind 2-1, the Islanders scored five unanswered goals 
+to knock off the Panthers 6-2. Elsewhere, the Oilers beat the canucks. 
+</TEXT>
+</DOC>

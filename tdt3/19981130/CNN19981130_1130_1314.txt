@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981130.1130.1314 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For the first time in three years, the falcons are in the playoffs. 
+Atlanta extending their season past Christmas with a 21-10 win over 
+the rams. Falcons upping their record to 10-2. 
+</TEXT>
+</DOC>

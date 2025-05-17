@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981225.1130.0975 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now here's the latest business news in our "Dollars & Sense" report 
+from New York. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981015.1600.0359 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At a day-long White House conference on school violence, President 
+Clinton called school safety a top priority of his administration. 
+The president and members of his cabinet huddled with law enforcement 
+officials, educators and students. The meeting coincided with the 
+release of a report on school violence commissioned by the president. 
+It found that while 16 people died in school attacks like the one 
+in Paducah, Kentucky, the overall rate of school crime is declining. 
+Nine out of ten public schools reported no violent crime at all. 
+</TEXT>
+</DOC>

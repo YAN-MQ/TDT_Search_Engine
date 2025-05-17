@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981121.1000.0874 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton met with south Korean President Kim Dae Jung in 
+Seoul today, another stop on his Asian trip. Mr. Clinton expressed 
+concern over possible developments in north Korea's missile and nuclear 
+programs. 
+</TEXT>
+</DOC>

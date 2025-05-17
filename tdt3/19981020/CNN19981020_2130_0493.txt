@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981020.2130.0493 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And later -- the future may 
+look bright at this Michigan high school, but progress doesn't come 
+cheap. 
+</TEXT>
+</DOC>

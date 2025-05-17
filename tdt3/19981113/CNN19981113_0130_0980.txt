@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981113.0130.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A mixed day on Wall Street. The Dow industrial average reached the 
+plus side just before closing. It gained almost 6 points to close 
+at 8829. 
+</TEXT>
+</DOC>

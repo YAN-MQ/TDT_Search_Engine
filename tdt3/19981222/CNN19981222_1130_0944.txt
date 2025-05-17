@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981222.1130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Chinese authorities have now granted balloonist Steve Fossett, Richard 
+branson and per lindstrom permission to fly through Chinese airspace. 
+But the crew says the delay may have greatly reduced their chances 
+of making it around the world. 
+</TEXT>
+</DOC>

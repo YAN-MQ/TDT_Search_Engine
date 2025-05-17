@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981023.1600.0490 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News weather" 
+forecast for Saturday. We look for quiet weather across much of the 
+country. It will warm up in the eastern United States. Look for a 
+few showers along the east coast of Florida and scattered through 
+the plain states and we'll see big rains along the west coast as a 
+Cold front pushes into the region. Highs on Saturday over much of 
+the northwest will be just in the 50s. We'll see some 50s in northern 
+New England and the northern Great Lakes. But most of the rest of 
+the country we'll see 60s and 70s with a few 80s in the desert southwest, 
+south Texas and southern Florida. Looking ahead to Sunday, it will 
+be wet and windy through the southwestern part of the country. On 
+Monday, scattered showers through that region with thunderstorms developing 
+in south Texas. And on Tuesday, look for scattered showers from the 
+southwest into south texas and rain showers in the northwest with 
+the coolest air in the northeast just 40s and 50s. 
+</TEXT>
+</DOC>

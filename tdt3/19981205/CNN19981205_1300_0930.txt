@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981205.1300.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the day's top stories -- astronauts aboard the shuttle "endeavour" 
+are preparing for tomorrow's rendezvous with the Russian Module of 
+the international space station. Today they'll ready the American 
+component for the link-up. 
+</TEXT>
+</DOC>

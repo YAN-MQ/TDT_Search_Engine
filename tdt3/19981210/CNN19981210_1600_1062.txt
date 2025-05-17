@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981210.1600.1062 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Toymaker Hasbro has settled an antitrust suit brought by 44 states, 
+the district of Columbia and Puerto Rico. New York state's attorney 
+general first sued Hasbro last year, along with toys "R" us, Mattel, 
+Tyco industries and little tykes. He alleged that they conspired to 
+withhold popular toys from low-price stores in order to stifle competition. 
+Hasbro will pay a fine of $2.4 million. It will also provide more 
+than $3.5 million in toys to be distributed through the Marines' toys 
+for tots program. But the companies will admit no wrongdoing. 
+</TEXT>
+</DOC>

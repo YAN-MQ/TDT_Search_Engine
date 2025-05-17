@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981109.1130.1299 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In auto racing, Jeff Gordon won the rain-delayed Napa 500 in Hampton, 
+Georgia. With the win, Gordon ties Richard Petty's record of 13 wins 
+in a season set in 1975. 
+</TEXT>
+</DOC>

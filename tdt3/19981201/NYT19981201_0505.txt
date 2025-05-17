@@ -1,0 +1,55 @@
+<DOC>
+<DOCNO> NYT19981201.0505 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial Wednesday, Dec. 2: The federal 
+government has warned that New York City could lose federal aid if 
+it continues to shunt disproportionate numbers of black and Latino 
+children into special education. The city is a legitimate target. 
+But the segregation that has raised red flags in Washington, D.C., 
+is common throughout the state _ and is due in part to a funding formula 
+that penalizes districts that reduce special-education enrollment 
+while rewarding those who keep enrollment as high as possible and 
+have the highest per-pupil special-ed expenditures. Unless New York 
+state junks this formula, it could find itself stripped of special-education 
+aid and in violation of federal civil rights laws. This is the second 
+time in two years that the federal Education Department's civil rights 
+division has questioned why New York City funnels disproportionate 
+numbers of black and Latino students into special-education classes, 
+which often become holding pens for children who learn nothing and 
+rarely graduate. The Board of Education agreed last year to take specific 
+steps to alleviate the problem. But in last month's follow-up, federal 
+officials noted that many schools were still warehousing blacks and 
+Latinos as well as children whose first language is not English. A 
+two-year investigation by the U.S. Department of Education's Office 
+of Civil Rights found that African-American children in schools where 
+the principals, faculty and student body are mainly white are most 
+likely to end up in special-education classes. The highest incidence 
+of referrals is found in schools with low poverty rates, high reading 
+and math scores and large numbers of experienced, permanently certified 
+teachers. Theoretically, these schools would be best equipped to deal 
+with students who might need extra help. But these children are often 
+dumped into special ed even when diagnostic tests reveal no need for 
+it. Ethnic stereotypes play a role in disproportionate referrals. 
+But so does the desire to get under-prepared children out of mainstream 
+classes so they will not be tested, bringing down schoolwide scores. 
+In addition, children are sometimes sent to special ed because mainstream 
+teachers lack the time or skill to help them with basic reading problems, 
+the prime cause of special-education referrals. This process is driven 
+by a ``spend-to-get'' state funding formula that awards special-education 
+aid based on how much schools spend for this purpose _ and makes it 
+fiscal suicide for them to shrink their programs. State Education 
+Commissioner Richard Mills addressed the funding question two years 
+ago when he proposed increasing support for mainstream classrooms 
+while doing away with the incentives that lead schools to isolate 
+students in special-education classes. But Gov. George Pataki failed 
+to back this proposal, as did legislators from suburban Long Island, 
+who use special-education aid as a way to subsidize public education 
+without resorting to higher taxes. The best response is to enact Mills' 
+proposal, bolstering mainstream education and removing the financial 
+incentives for special ed. School districts can do it now while there 
+is time to think it through, or rush later when the federal government 
+presses their backs to the wall. 
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> VOA19981222.1600.0983 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+A little bit higher up, the U.S. space agency, NASA, has reestablished 
+contact with an unmanned spacecraft headed for a rendezvous with a 
+giant asteroid, 340 million kilometers from earth. NASA lost contact, 
+Sunday, with the space craft, during an engine maneuver to slow the 
+orbital on its approach to the asteroid known as Eros. Flight controllers, 
+Tuesday, were able to reestablish two-way communication. The spacecraft 
+had been scheduled to enter the orbit of Eros on January 10th. However, 
+a mission official says this will be delayed until at least February 
+6th while technicians work to understand what caused the loss of contact. 
+Scientists want to study the composition and density of Eros, to learn 
+how asteroids helped form the planets and possibly, how to divert 
+one from hitting earth. 
+</TEXT>
+</DOC>

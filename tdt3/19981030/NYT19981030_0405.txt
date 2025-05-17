@@ -1,0 +1,115 @@
+<DOC>
+<DOCNO> NYT19981030.0405 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Following are excerpts from an order by U.S. District Court Judge 
+Norma Hollaway Johnson of dated Sept. 25, in which established her 
+reasons for ordering that member of the independent counsel's office 
+must show cause why they should not be held in contempt of court for 
+disclosures in 24 news reports. The order was made public by the court 
+Friday. On June 19, 1998, the court ordered the Office of the Independent 
+Counsel (O.I.C.) and individual members therein to show cause why 
+they should not be held in contempt for violations of Federal Rule 
+of Criminal Procedure 6(e)(2). The Court also set forth procedures 
+to be followed at a show cause hearing that would include the participation 
+of counsel for President Clinton, the White House, Monica Lewinsky, 
+Bruce Lindsey and Sidney Blumenthal (collectively ``mavants''). In 
+a second order, entered on June 26, 1998, the court clarified its 
+June 19 order and outlined further procedures related to the show 
+cause hearing including permitting the movants to undertake limited 
+discovery of press contacts with the O.I.C. The O.I.C. appealed the 
+court's procedural rulings permitting movants to take discovery and 
+to participate in the show cause hearing. In its emergency appeal, 
+the O.I.C. did not contest the court's finding that prima facie violations 
+of Rule 6(e) had been established by at least six news reports. Rather, 
+the O.I.C. strenuously objected to the procedures that the court had 
+adopted in order to conduct the show cause hearing; the O.I.C. argued 
+that any show cause hearing and related discovery must be conducted 
+ex parte and in camera. The Court of Appeals vacated the procedural 
+aspects of the court's June 19 and June 26 orders and remanded for 
+further proceedings consistent with its opinion. Presently before 
+the court is the O.I.C.'s ex parte memorandum requesting that the 
+court outline further procedures for the O.I.C. and its members to 
+show cause why they should not be held in contempt. Rule 6(e) provides, 
+in relevant part, that ``an attorney for the Government, or any (such 
+Government personnel . . . as are deemed necessary by an attorney 
+for the Government to assist an attorney for the Government in the 
+performance of such attorney's duty to enforce Federal criminal law) 
+shall not disclose matters occurring before the grand jury, except 
+as otherwise provided in these rules. . . . A knowing violation of 
+Rule 6 may be punished as a contempt of court.'' It is clear that 
+the secrecy requirements of Rule 6 (e) apply to the O.I.C.. Our courts 
+have consistently recognized the importance of secrecy to the proper 
+functioning of our grand jury system, specifically noting ``several 
+distinct interests served by safeguarding the confidentiality of grand 
+jury proceedings.'' The Supreme Court outlined the ``several distinct 
+interests protected by Rule 6(e) as follows: First, if preindictment 
+proceedings were made public, many prospective witnesses would be 
+hesitant to come forward voluntarily, knowing that those against whom 
+they testify would be aware of that testimony. Moreover, witnesses 
+who appeared before the grand jury would be less likely to testify 
+fully and frankly, as they would be open to retribution as well as 
+to inducements. There also would be the risk that those about to be 
+indicted would flee, or would try to influence individual grand jurors 
+to vote against indictment. Finally, by preserving the secrecy of 
+the proceedings, we assure that persons who are accused but exonerated 
+by the grand jury will not be held up to public ridicule. Therefore, 
+enforcing Rule 6(e) is of the utmost importance to the integrity of 
+our grand jury process. For this reason, the Court of Appeals has 
+held that a district court ``must conduct a `show cause' hearing'' 
+if a motion for order to show cause establishes a prima facie violation 
+of Rule 6(e). To establish a prima facie case, movants must show that 
+media reports disclosed information about matters occurring before 
+the grand jury'' and indicated that the sources of the information 
+included attorneys and agents of (O.I.C.).'' Once a prima facie case 
+is established, ``the burden of rebutting the prima facie case will 
+lie with the independent counsel, who must now come forward with evidence, 
+in whatever form the district court requires (including affidavits, 
+depositions, production of documents, or live testimony) to rebut 
+the inferences drawn from the news articles that established the prima 
+facie case of a Rule 6(e) leak to the press by personnel in or `close 
+to' the (independent counsel's) office.'' If the court finds that 
+a member of the O.I.C. violated Rule 6(e)(2), it may order appropriate 
+relief such as contempt sanctions and equitable relief. In order to 
+establish a prima facie case, movants must first demonstrate that 
+the media reports disclosed ``matters occurring before the grand jury.'' 
+The D.C. Circuit has held that the scope of grand jury secrecy is 
+necessarily broad in order to properly effectuate the several distinct 
+objectives of Rule 6(e). ``It compasses not only the direct revelation 
+of grand jury transcripts but also the disclosure of information which 
+would reveal `the identities of witnesses or jurors; the substance 
+of testimony, the strategy or direction of the investigation, the 
+deliberations or questions of the jurors and the like. In light of 
+the ``broad reach of grand jury secrecy,'' the Court of Appeals has 
+held that Rule 6(e) covers ``naming or identifying grand jury witnesses; 
+quoting or summarizing grand jury testimony; evaluating testimony; 
+discussing the scope, focus and direction of the grand jury investigations 
+and identifying documents considered by the grand jury and conclusions 
+reached as a result of the grand jury investigations.'' In addition, 
+``the fact that (a witness) was subpoenaed to testify, the fact that 
+he invoked (a) privilege in response to questions, (and) the nature 
+of the questions asked'' of him are ``according to our precedent `matters 
+occurring before the grand jury.' '' Furthermore, statements by prosecutors 
+which disclose when an indictment will be presented to the grand jury, 
+who will be charged in the indictment and what crimes will be charged 
+also violate the secrecy requirement of Rule 6(e). ``The touchstone 
+is whether disclosure would tend to reveal some secret aspect of the 
+grand jury's investigation.'' .... In addition to establishing that 
+media reports disclosed ``matters occurring before the grand jury'' 
+movants must also show that such reports ``indicated that the source 
+of the information included attorneys and agents of the (O.I.C.). 
+When deciding whether movants have met their burden, the court must 
+treat all statements in the news reports as true with respect to what 
+was disclosed and by whom. Thus, if a news report explicitly identifies 
+the source of information protected by Rule 6(e)(2), the court must 
+accept this attribution as correct for purposes of the prima facie 
+case. While an article expressly identifying the O.I.C. as the source 
+of the Rule 6(e) information clearly supports a prima facie case, 
+``(t)he article submitted need only be susceptible of an interpretation 
+that the information reported was furnished by an attorney or agent 
+of the (O.I.C.); in fact, ``(i)t is not necessary for (an) article 
+to expressly implicate the (O.I.C.) as the source of the disclosures 
+if the nature of the information disclosed furnishes the connection.'' 
+</TEXT>
+</DOC>

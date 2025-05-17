@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981221.1600.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Texas doctors say the first known surviving octuplets are still 
+in critical, but stable, condition. The mother also is stabilizing 
+after surgery this morning. 
+</TEXT>
+</DOC>

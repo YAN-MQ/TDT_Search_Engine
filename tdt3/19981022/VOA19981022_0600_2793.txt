@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> VOA19981022.0600.2793 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Steve Jobs, interim chief executive officer of Apple Computer, announced 
+last week that sales of the company's new iMac system has exceeded 
+expectations. From its introduction on August 15 until the end of 
+September, more than 270,000 units have been shipped. "The Wall Street 
+Journal" quotes industry analysts as saying that more than 40 percent 
+of iMac purchasers were either new entrants to the market or owners 
+of computers powered by the dominant standard of Microsoft Corporation 
+software and Intel Corporation microprocessors. Fred Anderson, an 
+Apple executive, told the newspaper that if the rate of new customers 
+holds up, it is very good for Apple's long-term market share. 
+</TEXT>
+</DOC>

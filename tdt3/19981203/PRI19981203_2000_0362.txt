@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981203.2000.0362 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From the BBC Newsroom in London, this is Alan Dow for The World. The 
+World is made possible in part by Merck, pharmaceutical research dedicated 
+to preventing diseases and improving health. Merck committed to bringing 
+out the best in medicine. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981029.1600.2984 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And IBM is introducing the cheapest personal computer in the world. 
+Priced at just under $600, the Aptiva model will be aimed at first 
+time computer buyers, especially children and grandparents. IBM says 
+retired Americans are one of the fastest growing segments of the personal 
+computer market. Once again. Dow Jones Industrial average closing 
+today, up 123 points. This is Breck Ardery. 
+</TEXT>
+</DOC>

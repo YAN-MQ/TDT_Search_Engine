@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981222.0500.3156 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Toshiba Corporation, Japan's largest maker of notebook computers, 
+has had its long-term credit rating cut by Standard & Poor's, which 
+expressed concern over Toshiba's poor earnings. Meanwhile, the U.S. 
+ratings agency, Mood's Investor Service, is also warning it may cut 
+its ratings for Mazda Motors Corporation because of weakening car 
+market and banking systems in Japan. 
+</TEXT>
+</DOC>

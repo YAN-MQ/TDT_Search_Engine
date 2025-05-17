@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981105.0130.0400 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Health officials are warning of a possible cholera outbreak in parts 
+of central America flooded by Mitch. They say polluted water could 
+become a breeding ground for the disease. Meantime, the death toll 
+from the storm has risen to 9,000. Most of the deaths have been in 
+Honduras and Nicaragua. More assistance is coming from the United 
+States. $10 million has been rounded up from various U.S. sources. 
+In addition, European nations approved $8 million, and Taiwan has 
+added $2.5 million. Mexico is launching one of the biggest airlifts 
+in its history. 
+</TEXT>
+</DOC>

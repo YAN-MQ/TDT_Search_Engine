@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981227.1130.0580 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Vicious rainstorms are pounding parts of Britain and Ireland. Police 
+say one man was killed in western Ireland when a tree fell on his 
+car. Two others in Britain are feared dead. 50 flood warnings have 
+been issued across western Britain due to heavy rainfall. And in Ireland, 
+as many as 100,000 homes are without electricity after 100-mile-an-hour 
+winds knocked down trees and power lines. Crews are working to restore 
+service. 
+</TEXT>
+</DOC>

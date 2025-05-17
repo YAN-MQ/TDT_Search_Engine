@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981219.1600.0486 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Let's look at the weather forecast while we wait for the president. 
+This is Orelon Sidney with your "CNN Headline News" weather update. 
+Showers and thunderstorms will be numerous as we head through the 
+evening hours on Saturday across the gulf coast and into near cape 
+hatteras. Also, look for showers and snow mixed across portions of 
+New England as a Cold front moves offshore. The front and the west 
+will drag slightly and then move northward as we head into Sunday. 
+That's going to mean warmer temperatures for the deep south on Sunday. 
+Atlanta, Georgia, will see a high in the 60s. You'll see a chance 
+of snow flurries across the western United States as a Low-pressure 
+storm affects the four corners. Cold temperatures are expected today, 
+especially for the northern Rockies and the northern plains with temperatures 
+in the single digits to below zero. Readings along the coasts range 
+from the 20s and 30s to 60s and the 70s. Our extended forecast includes 
+a heavy mix Monday across the Great Lakes with showers and thunderstorms 
+trailing southward into the gulf of Mexico. The bitter cold continues 
+across the northern plains for Tuesday and into wednesday with scattered 
+snow showers expected nationwide. The extended forecast for more than 
+7,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981110.1600.0466 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The information superhighway has a new royal destination. Prince Charles 
+is now online. The heir to the British throne launched his own website 
+today and says he welcomes E-mail from around the world. The address 
+is princeofwales.gov.UK. Charles' site is linked to the buckingham 
+palace website launched 18 months ago. It recorded more than 100 million 
+hits in its first year. 
+</TEXT>
+</DOC>

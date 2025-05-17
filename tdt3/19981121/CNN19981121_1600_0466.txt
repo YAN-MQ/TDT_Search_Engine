@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981121.1600.0466 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First lady Hillary Rodham Clinton is traveling to Haiti today. She's 
+been visiting countries in central America and the Caribbean that 
+suffered severe damage from hurricane Mitch. Yesterday, in the Dominican 
+republic, she announced the United States would send an additional 
+$14 million in relief for storm damage. She also defended recent U.S. 
+deportations of convicted criminals who are immigrants from the Dominican 
+republic. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981212.0130.0416 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Four people have been killed in a natural gas explosion in downtown 
+St. cloud, Minnesota. The blast leveled a closed pizza parlor, damaged 
+neighboring buildings and shattered windows in buildings and cars 
+for several blocks. Rescue workers are still looking for anyone who 
+might be trapped in the wreckage. A spokesperson for governor arne 
+Carlson says a construction crew accidentally struck a natural gas 
+line, and that may have caused the explosion. 
+</TEXT>
+</DOC>

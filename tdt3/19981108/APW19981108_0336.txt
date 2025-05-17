@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> APW19981108.0336 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Forecasts of English soccer games to be played Nov. 14-15 (tabulate 
+under Sunday Mirror, People, News of the World, Sunday Express, Sunday 
+Telegraph): 1 denotes home win, 2 away win, X a tie St. Johnstone-Celtic 
+2 1 X X X Manchester U-Blackburn 1 1 1 1 1 Arsenal-Tottenham 1 1 1 
+X X Liverpool-Leeds X 1 X 1 1 Chelsea-Wimbledon 1 1 1 1 1 Southampton-Aston 
+Villa 2 2 2 2 2 Charlton-Middlesbrough X X 2 X 2 West Ham-Leicester 
+X X X X 1 Newcastle-Sheffield W 1 1 1 1 1 West Bromwich-Huddersfield 
+1 1 X 1 X Port Vale-Sunderland 2 2 2 2 2 Barnsley-Ipswich X X 2 2 
+X Norwich-Wolverhampton 1 1 1 2 X 
+</TEXT>
+</DOC>

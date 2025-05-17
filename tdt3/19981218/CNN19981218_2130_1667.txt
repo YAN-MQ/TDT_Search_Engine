@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981218.2130.1667 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up on "CNN Headline News" -- as two dramas unfold in Washington 
+and baghdad, stay with us for constant updates throughout the evening. 
+Lynne Russell. "CNN Headline News." 
+</TEXT>
+</DOC>

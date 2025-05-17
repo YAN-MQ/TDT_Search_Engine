@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981208.1600.0894 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- White House attorneys, academics and legal 
+experts are appearing before the house impeachment committee today. 
+They're arguing that President Clinton's behavior in the Monica Lewinsky 
+case doesn't merit impeachment. 
+</TEXT>
+</DOC>

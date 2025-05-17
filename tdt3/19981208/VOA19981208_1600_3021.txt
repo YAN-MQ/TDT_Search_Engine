@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981208.1600.3021 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Once again, Dow Jones Industrial Average closing down 42 points. This 
+is Breck Ardery. Thank you, Breck. 
+</TEXT>
+</DOC>

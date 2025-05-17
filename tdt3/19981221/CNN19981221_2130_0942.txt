@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981221.2130.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Around the world tonight, people are remembering the victims of the 
+explosion of Pan Am Flight 103 over Scotland. Ten years ago, 259 people 
+on board the plane and another 11 on the ground were killed when a 
+terrorist bomb knocked the plane out of the sky. 
+</TEXT>
+</DOC>

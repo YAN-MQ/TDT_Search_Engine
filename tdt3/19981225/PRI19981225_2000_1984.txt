@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> PRI19981225.2000.1984 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Derrick Stofall in the BBC News Room. This is the World. The World 
+is brought to you by Lucent Technologies, serving the Internet with 
+innovations from Bell Labs. This is the World, a co-production of 
+the BBC World Service, PRI, and WGBH in Boston. I'm Lisa Mullins with 
+a special Christmas Day archival edition of the world. 
+</TEXT>
+</DOC>

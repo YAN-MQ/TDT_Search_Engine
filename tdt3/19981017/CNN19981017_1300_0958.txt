@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981017.1300.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And people along Mexico's southern pacific coast are keeping an eye 
+on hurricane Lester. Forecasters say the storm could dump up to 10 
+inches of rain in some areas. 
+</TEXT>
+</DOC>

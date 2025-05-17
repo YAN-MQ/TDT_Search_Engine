@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981113.1130.0422 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+i'm meteorologist dave hennen with your "cnn headline news weather." 
+wet weather in texas will cause some flooding today. flash flood watches 
+cover much of east and south texas. we do have an area of low pressure 
+moving into the pacific northwest. that'll spread some heavy rains 
+in through sections of washington and back in towards the british 
+columbia coast, including vancouver. storm system will be tracking 
+towards eastern canada and parts of new england, bringing rain and 
+snow by later on tomorrow. take a look at temperatures today, 30s 
+for high temperatures through the northern great lakes and new england. 
+it is going to be quite mild in portions of the southeast, although 
+in texas, temperatures will be on the cool side with the clouds and 
+the rain. extended forecast, sunday will find thunderstorms along 
+the gulf coast states. rain in the pacific northwest. and snow will 
+be widespread over parts of eastern canada. windy conditions in the 
+northeast. on into monday, snow through the northern lakes. scattered 
+showers will extend from the ohio river valley to the gulf coast states 
+as showers continue in the northwest right on into tuesday. temperatures 
+turn cold again by tuesday through the northern midwest. 
+</TEXT>
+</DOC>

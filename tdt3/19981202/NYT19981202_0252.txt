@@ -1,0 +1,130 @@
+<DOC>
+<DOCNO> NYT19981202.0252 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Pity the consumer who walks into a car dealership and says, simply, 
+``I want to buy a car.'' The salesman probably attempts to help the 
+customer by asking a series of questions. New? Used? Sedan? Sports 
+car? Sport utility vehicle? Pickup truck? Minivan? ``Well, golly, 
+I don't know, which kind do I need?'' In coming weeks thousands of 
+consumers will go shopping for a personal computer with an even foggier 
+plan than that of the car buyer above. In the commercial spirit of 
+Christmas, which descended on my town this year shortly after Halloween, 
+I visited a local computer emporium to pretend to shop for the computer 
+equivalent of a minivan. Shopping for a PC was not a pleasant experience. 
+No doubt there are many knowledgeable, cheerful, courteous, patient, 
+empathetic salespeople working in computer stores whose goal is to 
+match consumers with the ideal computers to meet their needs and budgets. 
+I just didn't find any. Without further ado, here is some of the advice 
+that I had hoped to hear from the salespeople, but didn't: The Internet 
+is the driving force for the computer industry today. You do not need 
+a fancy computer to connect to the Internet, browse the World Wide 
+Web, send and receive e-mail, or, for that matter, to operate simple 
+Windows business applications like word processing, spreadsheets and 
+scheduling. Any new computer will do. Even a used computer of fairly 
+recent vintage will do (for example, an Intel 486). But software developers 
+are coming out with cool new Internet applications all the time, including 
+audio and video, and they almost always require more of everything 
+_ microprocessor speed, hard-disk space, bandwidth, graphics capabilities 
+and so on. For the long term, your overall experience will be better 
+with a newer and more powerful computer, one that can be upgraded. 
+If you wait, you will always be able to buy a better, faster and cheaper 
+computer a couple of months from now. By waiting, though, you will 
+miss the benefits of having a PC today. For those who cannot wait, 
+rest assured that today's computers are better than ever and better 
+bargains than ever. For those who can wait, the new technologies coming 
+in the spring are very impressive. These include powerful new microprocessors 
+from Intel and AMD, a new crop of low-cost home PCs and some special-purpose, 
+low-cost, non-PC information appliances that offer Internet access 
+with less complexity than a PC. Procrastinators can also take advantage 
+of price cuts that typically come in February and March. Apple, for 
+example, is rumored to be planning to cut the price of the popular 
+iMac to $999 after the holidays and to introduce an improved version 
+of iMac at the original price, $1,299. Craig R. Barrett, the chief 
+executive of the Intel Corp., said last month at Comdex that he expected 
+to see PCs with Intel chips for as little as $399 late in 1999. A 
+Korean-backed company called eMachines is already selling an Internet-ready 
+computer with Windows 98 but no monitor for $399, or $499 with a 14-inch 
+monitor. It is based on a relatively feeble Cyrix processor, but its 
+components are otherwise respectable. If all you want to do is connect 
+to the Internet, browse the Web, send and receive e-mail, do some 
+word processing and simple business applications, balance the checkbook 
+and so on, almost any new PC on the market today, even the low-end 
+eMachines model, will meet your needs. If you want to play the latest 
+games or do fancy stuff with multimedia, you will lust for more speed 
+and power. Speed and power cost more, sometimes a lot more. The cheapest 
+computers are no-name clones, assembled from bargain-bin components 
+in so-called screwdriver shops. Some of these PCs are surprisingly 
+good. Others are cobbled together from discontinued parts. Several 
+companies, including Gateway, Dell and Apple, now offer consumers 
+the chance to buy or lease a new computer with Internet access for 
+as little as $50 a month. No matter how attractive the sellers try 
+to make such programs sound, consumers are always much better off 
+buying a computer with cash. But for those who lack cash and want 
+to get a child or other family member on line immediately, these programs 
+offer an affordable entry point. Even so, remember that buying a computer 
+creates a hole in your wallet that will leak for years to come. There 
+will be more spending _ a lot more _ for software; hardware upgrades; 
+peripherals, like modems, printers, scanners and digital cameras; 
+classes and instruction books; Internet access, and even for computer 
+furniture. Brand-name machines, from Compaq, Dell, Gateway, Hewlett-Packard, 
+International Business Machines and others, usually cost more but 
+offer the security of technical support, warranties and on-site service 
+policies. Screwdriver shops often go out of business without notice. 
+Many people prefer to pay extra for peace of mind. PC Magazine just 
+released its annual survey results on customer satisfaction. Only 
+three makers of desktop computers earned an A grade this year: IBM, 
+Dell and Hewlett-Packard. For notebook computers, the only As went 
+to Dell and Gateway. Customers were asked to rate reliability, satisfaction 
+with repair experience, satisfaction with technical support and repair 
+frequency. The class clowns were Packard-Bell and AST Research. But 
+enough general advice. Let's get down to the bitty gritty. A good 
+salesman will ask, ``What do you want to do with the computer?'' before 
+making a specific recommendation. The trouble is that people who have 
+had limited exposure to computers often do not know yet what a computer 
+can do, much less what they want to do with it. The safe route is 
+to get a midrange machine _ a minivan _ that is capable of doing most 
+things well today and is capable of being upgraded later, once a favorite 
+task is identified. There is not room here to get into the Macintosh 
+versus Windows debate, except to note that an Apple Macintosh G3 can 
+be set up to run Windows software as well as Macintosh software. Still, 
+more than 9 out of 10 buyers will choose a Windows-only machine. Here 
+are my minimum specifications for Windows-based machines: Processor: 
+An Intel Pentium II with a speed of 350 megahertz or higher. Or an 
+AMD K6-2 processor rated 300 MHz or higher. Yes, it is safe to buy 
+a non-Intel processor. Frankly, lesser chips _ the newest Intel Celerons, 
+the older Pentiums with MMX, the AMD K6s, the Cyrixes _ will all do 
+fine for today's common applications. But the Pentium II 350 and higher 
+and the K6-2 300s and higher take advantage of a new and improved 
+electronic plumbing system built into better computers, technically 
+called the 100-MHz external bus, or PC-100 data bus. Older computers 
+have a 66-MHz data bus. The faster data bus makes most applications 
+run faster, and it means that the owner can upgrade to faster processors 
+down the road. Memory: Microsoft asserts on its Web site that Windows 
+98 will work on a computer with as little as 16 megabytes of system 
+memory (16 MB of RAM, or random access memory). Technically, that 
+is true. But technically, one can also play a round of golf with a 
+7-iron and a putter. The experience is improved by having more clubs. 
+(Except for my game, of course, which would not suffer noticeably 
+if I used a Coke bottle, an umbrella and a pool cue.) As a rule, 64 
+MB is the practical minimum. Do not buy any computer with less than 
+32 megabytes of RAM. Memory is very cheap these days, so buy 128 MB 
+if you can. Adding more RAM is the single best improvement one can 
+make to a computer. Hard-disk drive: As long as software developers 
+keep making bloatware, you will need a bigger hard drive. Look for 
+6 gigabytes (GB) or more. Monitor: The biggest you can afford. Modem: 
+It must say V.90. Backup: The floppy disk is on its way to obsolescence. 
+Consider spending more for a Superdisk or a newer HiFD disk drive, 
+which works with older diskettes but offers much greater storage. 
+As an alternative, get a Zip drive or, better, a CD-R drive (which 
+allows you to write data onto a blank CD disk) to augment the floppy 
+drive. Fun: The low-end machines are not good for games. If games 
+are important, spend more for a better computer or get a separate 
+Sony Playstation. A DVD-ROM drive cannot record data, but it is a 
+smart alternative to a boring CD-ROM drive if you can afford it. You 
+can still use your old CDs and install CD-based software, and on higher-end 
+systems you can also watch DVD movies. Yes, you want a good set of 
+speakers. 
+</TEXT>
+</DOC>

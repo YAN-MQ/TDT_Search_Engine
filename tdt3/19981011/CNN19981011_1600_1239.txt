@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981011.1600.1239 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With "Headline Sports," I'm Russell Biven. We start in the national 
+football league, where it looked like the bengals edged the steelers. 
+Kneel O'Donnell through the game-winning touchdown pass. He had 298 
+yards in the air with 3 touch Downs. 
+</TEXT>
+</DOC>

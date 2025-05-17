@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981022.1130.0348 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The FCC wants to give law enforcement agencies the ability to tap 
+cell phone conversations. The agency is proposing cellular companies 
+make changes that allow authorities to find a person using a mobile 
+phone. Authorities say they would be able to track down drug dealers, 
+terrorists and kidnappers. Some groups complain the proposal violates 
+the privacy of associates, friends and family members of suspects. 
+</TEXT>
+</DOC>

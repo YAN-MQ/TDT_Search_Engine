@@ -1,0 +1,70 @@
+<DOC>
+<DOCNO> VOA19981016.1700.3176 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Much attention is given these days to the latest in high technology. 
+Yet, engineers still need to build some basic devices that help people 
+perform very simple tasks. From Philadelphia, Susan Morris tells us 
+about one such device. Designed by a group of engineering students, 
+that has dramatically improved the life of a young man with Cerebral 
+Palsy. Taking tickets? Yes, sir. Thank you. David Sorken works at 
+a Philadelphia movie theater collecting and tearing patrons' tickets 
+as they enter the lobby. It's the young man's first job, and he loves 
+it. Now that I have a job, I don't have to sit around the house a 
+lot. David wanted to work more hours at the movie theater. But the 
+21 year old was severely disabled with Cerebral Palsy. Because his 
+muscles are weak, David can only tear one ticket at a time. That meant 
+he could only work weekday afternoons. When business at the theater 
+is slow. Pat Rey is David's counselor at SPIN, a support group for 
+the disabled. A year ago, she contacted the engineering department 
+at West Point Military Academy about designing and building a device 
+that would help David tear the tickets. I made the decision to go 
+to a school because it was something that had to be developed. We 
+needed some creative minds that really didn't know the boundaries. 
+So, I thought school and students were probably the right place to 
+go. Four West Point students signed up to design a ticket-tearer for 
+David. Cadet Scott Lord said he thought the project would be easy. 
+SCOTT LORD, CADET, WEST POINT: For four years, we've been trained 
+to use the Scientific Method. And to work everything out in a rational 
+manner. And, everything happens and works just kind of nice and pretty. 
+But Scott Lord and his fellow cadets soon learned that designing a 
+mechanical device, even one as simple as a ticket-tearer, is not as 
+easy as it looks. Jason Whipple was part of the team. A pair of scissors, 
+you can say is simple. But to be able to take a pair of scissors and 
+make them so David could use them isn't that simple. Colby Shaw says 
+the engineering students also ran into trouble, because they underestimated 
+what it's like to have David's disability. Well, we had a foundation 
+and we ran with it. But of course, we started down the wrong path 
+because we hadn't talked to David enough. We brought him back up when 
+we had a prototype. And the prototype just didn't even work. Because 
+we hadn't taken into account a couple things different things about 
+David and the way he moves his arms. So, the cadets went back to the 
+drawing board. Five months later, as their teacher, George Catalino 
+explains, they had a ticket-tearer device that David could use. The 
+cadets took things that they found, essentially lying around an old 
+abandoned machine shop. Cobbled it together, and came up with this 
+thing that looks like very powerful shears. It's a set of shears and 
+a box, and then there's a collecting box underneath it. The engineering 
+students came to the movie theater in Philadelphia to give David the 
+ticket-tearer. David was thrilled when he saw how the device worked. 
+I put it in the slot, then pull the handle. And it cuts it. Before, 
+I had to use my hands. I love it! David's counselor, Pat Rey, says 
+he's a different person since working with the cadets. David has changed 
+amazingly since we started this project. He has so much more self-esteem. 
+He feels a real brotherhood with the cadets from West Point. He considers 
+himself one of them. He's just much more confident. Even in his work. 
+Because, I think he knows he will be independent, I guess, and a lot 
+more confidence. Cadets Scott Lord and Nick Parmigiano say they found 
+building the device for David a very satisfying experience. I just 
+love the look on his face when he uses the ticket-tearer, and it works. 
+And he just, he lights up, because in the future it is going to be 
+so much better for him. It's just an awesome feeling to start out 
+with an idea. And then build it. And have a product which actually 
+helps someone. That's really what engineering's all about. Thanks 
+to the ticket-tearer, David Sorken is now working two more days a 
+week at the movie theater. And West Point has signed on with SPIN 
+to build more devices for the disabled. For VOA NEWS NOW, I'm Susan 
+Morris. 
+</TEXT>
+</DOC>

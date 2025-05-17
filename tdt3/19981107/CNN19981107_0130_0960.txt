@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981107.0130.0960 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the space shuttle "discovery" is expected back on earth Saturday. 
+John Glenn and the rest of the crew are scheduled to land at Kennedy 
+space center in Florida around noon. But a second site is being prepared 
+in California just in case bad weather prevents a safe landing in 
+Florida. 
+</TEXT>
+</DOC>

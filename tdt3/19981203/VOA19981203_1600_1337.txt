@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981203.1600.1337 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Thanks a lot, Steve. We'll have another sports update in about an 
+hour, and a business report is coming up in about 25 minutes. 
+</TEXT>
+</DOC>

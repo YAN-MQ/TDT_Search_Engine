@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981117.2130.0622 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Leonid meteor shower raised expectations of a spectacular light 
+show. And concern that orbiting satellites might be damaged. Rick 
+Lockridge looks at what has happened in this edition of "tech trends. 
+a blazing fireball coming straight from the constellation Orion. One 
+of the stunning images captured by a plane flying high above the south 
+china sea during the peak of the Leonid meteor shower. There were 
+a few other dazzlers, but just a few. The Leonid meteors, instead 
+of roaring like the lion they're named for, the constellation Leo, 
+they seemed to purr along quietly. Still, few complained -- It has 
+been great. We haven't seen a storm, I think, but it has been one 
+of the best showers i've ever seen. We have some very nice data. I'm 
+happy. In Japan, a peak viewing area, some spectators said they were 
+awestruck that specks of dust from the tail of an old Comet could 
+put on such a show. But these particular specks were colliding with 
+the earth's atmosphere at nearly 50 miles a second, creating a lot 
+of energy. When you have that much energy, things, even solid rock, 
+burst in to flames when it hits the earth's atmosphere. Though some 
+spectators might have been disappointed, the relatively limp leonids 
+display might have been good for NASA, the Russian space agency and 
+commercial satellite operators, as no damage to any of earth's nearly 
+600 working spacecraft was immediately reported, and the two cosmonauts 
+aboard Mir were unharmed. Most experts believe the storm is now past 
+its peak, but they add that meteor showers are inherently unpredictable, 
+and neither spectators nor satellite operators should give up on it 
+just yet. If you didn't have a good seat for this year's leonids, 
+some impressive images are showing up on dozens of web sites. Or you 
+could wait until next year the best viewing? In Africa and the Middle 
+East. Rick Lockridge, CNN, Atlanta. 
+</TEXT>
+</DOC>

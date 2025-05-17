@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981111.1830.0158 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The national weather service says this winter will be cooler than 
+normal over the northern U.S. and wet. Meaning there will be snow, 
+ice and rain. It will be particularly wet in the northwest and in 
+the grate lakes region. Warm and dry weather is expected in the mid-atlantic 
+states and in Texas and California. 
+</TEXT>
+</DOC>

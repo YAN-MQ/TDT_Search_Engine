@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981029.2000.1513 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Wall Street got a boost from a rally in drug and financial stocks 
+today. The Dow Jones Industrials gained 123 points on the day to close 
+at 8495. The Nasdaq picked up 20 points to close at 1758. 
+</TEXT>
+</DOC>

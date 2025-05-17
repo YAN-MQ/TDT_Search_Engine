@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> PRI19981224.2000.1523 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+As 1998 draws to a close, businesses are already worried about the 
+final days of 1999 and whether their computers will be able to register 
+the year 2000. Liz George has more now from our business desk in New 
+York. In almost every economic forecast for 1999, the Y2K problem 
+-- or the millennium bug as it's known -- gets a mention. Predictions 
+range from worldwide crisis, as computer systems crash throwing everything 
+into chaos, to the more balanced view that the problem will be contained 
+with only a few minor inconveniences. Whatever vision you subscribe 
+to, it's clear that money, time and effort is being spent preparing 
+computers for the year 2000. Abby Cohen is the managing director of 
+Goldman Sachs. Year 2000 has been a serious issue for three years. 
+U.S. banks, insurance companies and others have already spent a great 
+deal and have devoted a great deal of time and attention to fixing 
+the problem. When January 1, 2000, comes, we expect it to be not a 
+particularly important event. Some statistics may get fouled up a 
+little bit. There may be some odd things that happen that last week 
+of December and that first week of January. But however well the U.S. 
+is prepared, it's not isolated from computer systems around the world. 
+Abby Cohen says her concern is with countries like Japan. The Japanese 
+banking system does not have the same culture that you find in the 
+United States or the UK or much of Europe in terms of having the best 
+possible computer systems available. That being the case, I think 
+they're already far behind where we are in terms of year 2000 preparedness. 
+If we see in Japan what we see in the United States, that is, an investment 
+in new improved computer systems and not just the year 2000 fix, this 
+is something that may be very worthwhile. And while companies are 
+devoting money to ensure their computers are ready for the millennium, 
+that's cash that can't be used for other investments. And that could 
+have an effect both on growth for the individual firm and the economy 
+as a whole. For The World, I'm Liz George in New York. 
+</TEXT>
+</DOC>

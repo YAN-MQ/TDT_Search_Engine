@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981115.1830.1722 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And that's "World News Tonight" for this Sunday. later on "20/20 Sunday," 
+an exclusive interview with an American captured in France after 16 
+years on the run. I'm Elizabeth Vargas in London tonight. For all 
+of us at ABC News, good night. 
+</TEXT>
+</DOC>

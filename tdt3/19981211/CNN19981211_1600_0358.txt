@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981211.1600.0358 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It was a perfect liftoff this afternoon for NASA's Mars climate Orbiter. 
+The craft was launched into space from cape Canaveral, Florida, by 
+an unmanned Delta II rocket. It should reach the red planet in September 
+of next year. It will study the Martian atmosphere, and look for signs 
+of water. It will also serve as a communications relay system for 
+the Mars polar lander which NASA plans to launch next month. 
+</TEXT>
+</DOC>

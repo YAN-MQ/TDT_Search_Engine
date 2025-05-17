@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981021.1700.2664 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA NEWS NOW broadcasting from Washington. I'm Susan Yackie, 
+along with my colleague Tom Crosby. 
+</TEXT>
+</DOC>

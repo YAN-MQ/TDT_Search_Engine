@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981017.0130.1303 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Darryl Strawberry was released from the hospital Friday after recovering 
+from colon cancer. He will not attend any world series games. Doctors 
+are optimistic Strawberry could make a full recovery and return to 
+baseball next season. 
+</TEXT>
+</DOC>

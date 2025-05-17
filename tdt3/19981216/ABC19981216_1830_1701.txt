@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> ABC19981216.1830.1701 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm Peter Jennings. Have a good evening. Good night. 
+</TEXT>
+</DOC>

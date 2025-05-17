@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> NYT19981205.0159 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Here is how New York's College Savings Program works: The donor opens 
+an account by filling out a form and sending in a check for at least 
+$250, or by agreeing to have $25 a month deducted from his checking 
+account. The donor names a beneficiary, who can receive up to $100,000 
+in contributions. The money goes into three funds managed by TIAA-CREF, 
+private pension managers, who divide the account based on the beneficiary's 
+age. As of January, accounts opened for newborns will have 45 percent 
+invested in bonds and 55 percent in stocks, and those for anyone over 
+16 will have 40 percent in bonds, 10 percent in stocks and 50 percent 
+in money market funds. TIAA-CREF takes 0.65 percent of the assets 
+each year to cover its costs. The donor can deduct up to $5,000 of 
+his contribution from the income on which the state levies taxes. 
+Married couples must open accounts separately, but can deduct up to 
+$10,000 from their joint tax return. The money must remain in the 
+program for three years. During that time, there are no state or federal 
+taxes on the investment gains. When the beneficiary is ready to use 
+the money, it can be withdrawn and sent to any accredited school in 
+the nation; in many cases, it can also be used for room and board, 
+as well as books and equipment. The beneficiary must pay Federal taxes 
+on the money used, but there is no state tax. If the money is withdrawn 
+early, or not used for education, the donor must pay state and federal 
+taxes, as well as a program penalty of 1 percent of all investment 
+gains. But there is no limit on how long money can remain in the program, 
+and the beneficiary can be changed to another member of the same family. 
+More information is available by calling (877) 697-2837 or on the 
+Internet at www.nysaves.org. 
+</TEXT>
+</DOC>

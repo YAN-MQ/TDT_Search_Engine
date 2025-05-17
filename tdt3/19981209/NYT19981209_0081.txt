@@ -1,0 +1,89 @@
+<DOC>
+<DOCNO> NYT19981209.0081 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Bill Gates, chairman of Microsoft Corp., put the matter succinctly 
+while speaking in New York last week. The next battleground for the 
+personal computer industry, he said, is industrial-strength corporate 
+computing _ the lucrative province of hardware and software suppliers 
+like IBM, Sun Microsystems and Oracle. The outcome of that battle, 
+according to Gates, is not much in doubt. He spoke of the supremacy 
+of the ``PC model'' _ hardware and software as separate businesses 
+(Microsoft, of course, dominates the software side). ``The PC model 
+will take over the rest of the industry,'' he declared. The personal 
+computer forces, led by Microsoft, are already moving up the computing 
+food chain from their desktop stronghold. In the last couple of years, 
+Microsoft's hub software for feeding information to and from many 
+users at once _ called Windows NT Server _ has captured the market 
+for corporate networks that span a few hundred desktop computers. 
+Yet Microsoft has not really cracked the sizable market for heavy-duty 
+computing chores, like securities trading or travel reservations systems, 
+in which workers typically use powerful work stations running Unix 
+software or terminals connected to mainframe computers. The standards 
+of performance, availability and reliability for these systems, which 
+must handle millions or billions of transactions a day, have been 
+regarded as beyond Microsoft's reach. That assumption, however, may 
+be challenged by an announcement planned for Monday that the Nasdaq 
+stock market intends to move one of its key systems from a mainframe 
+onto a cluster of powerful PC server computers, running Windows NT. 
+The system monitors trading and feeds the data to Nasdaq's in-house 
+regulators and, if necessary, to the Securities and Exchange Commission. 
+It tracks trades as they occur and crunches the data to spot trades 
+that appear to be errors or suspicious _ and must recognize them within 
+90 seconds. Nasdaq has decided to move its market-monitoring system 
+off its Tandem Computers mainframe mainly because its proprietary 
+software tended to make the system inflexible, said Gregor Bailar, 
+chief information officer of the National Association of Securities 
+Dealers Inc. To analyze fast-moving markets and the proliferation 
+of new securities, he explained, Nasdaq felt it needed a more open 
+technology in which many third-party developers were making software 
+tools for the securities industry. Nasdaq took bids from both Unix 
+and Windows NT suppliers, and Bailar said he had some qualms whether 
+Windows NT would be up to the task. ``This is a mission-critical system 
+for us, and I wanted to be convinced,'' Bailar said. The leading Windows 
+NT proposal was put through 30 different benchmarking tests, including 
+handling up to 4 billion daily transactions. ``I was a bit surprised 
+by NT's performance,'' Bailar said. David Osborne, chief technology 
+officer for Micro Modeling Associates, the lead consultant on the 
+project, predicts that Nasdaq's move will attract a lot of attention 
+on Wall Street. Many Wall Street firms use Windows NT as a desktop 
+operating system, said Osborne, whose consultancy works for many investment 
+banks. ``But the major Wall Street firms have been watching closely 
+to see if Windows NT is really going to work on the server side for 
+big, high-transaction systems,'' he said. ``The Nasdaq project is 
+a bellwether for NT.'' Still, industry analysts note that winning 
+a single showcase project, like the one at Nasdaq, scarcely means 
+that the markets for large Unix systems and mainframes are facing 
+an imminent threat of Windows NT. ``This is a notable milestone for 
+NT, but it has a long way to go before it is widely deployed across 
+the top tier of corporate computing uses,'' observed Dwight Davis, 
+an analyst for Summit Strategies, a research firm. Even Microsoft, 
+which has been criticized in the industry for making inflated claims 
+about Windows NT, which was introduced in 1993, is speaking carefully 
+these days. ``We're not saying there isn't a lot more work to be done 
+at the high end, but we've come a long way,'' said Edmund Muth, marketing 
+manager for the Microsoft group responsible for so-called enterprise, 
+or corporatewide, customer networks. ``In that context, the Nasdaq 
+project is directional.'' In the server business, Microsoft is pursuing 
+its tried-and-true formula of focusing first on the high-volume, less-costly 
+end of the market as its launching pad. From there, it gathers a primary 
+community of users, software developers, resellers and consultants 
+_ and moves up toward higher tiers of the corporate computing market. 
+Last year for the first time, for example, computer systems running 
+Windows NT Server software passed Unix server systems in terms of 
+units sold worldwide, according to International Data Corp., a market 
+research firm. In the first half of this year, IDC reported that sales 
+of server machines running Windows NT reached 472,505, compared with 
+258,320 for all Unix suppliers. When measured by revenue, however, 
+the Unix leadership in heavy-duty corporate computing remains intact. 
+In the first half of 1998, sales of Unix servers were $11.6 billion, 
+compared with $3.3 billion for server machines running Windows NT. 
+At the upper end of corporate computing, a supplier's services and 
+skills often matter as much or more than the cost of hardware and 
+software. And increased competition has brought sharp declines in 
+the price of large Unix systems and mainframes. One result is that 
+even the mainframe, once seen as a technological dinosaur and a corporate 
+albatross for IBM, has made a comeback. NYT-12-06-98 1647EST 
+</TEXT>
+</DOC>

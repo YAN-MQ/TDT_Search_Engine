@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981201.0130.0114 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Attorney general Janet Reno has 60 more days to decide whether to 
+seek an independent counsel to investigate former White House aide 
+Harold Ickes. She asked a three-judge federal appeals court for the 
+extension on Monday. The justice department has been looking into 
+allegations Ickes lied to a Senate committee about whether the Clinton 
+administration attempted to intervene in a teamsters union labor dispute. 
+Ickes has denied any wrongdoing. 
+</TEXT>
+</DOC>

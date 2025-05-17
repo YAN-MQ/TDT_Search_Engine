@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981104.0130.0528 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the United States is up next. And 
+a little later -- new diabetes research that could have you and your 
+boss feeling better. 
+</TEXT>
+</DOC>

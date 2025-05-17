@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981223.1830.1692 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is our report on "World News Tonight." Later on "20/20," a holiday 
+toy alert. And on "Nightline," a diabetes drug that is now linked 
+to 33 deaths. I'm Charles Gibson. For all of us here at ABC News, 
+good night. 
+</TEXT>
+</DOC>

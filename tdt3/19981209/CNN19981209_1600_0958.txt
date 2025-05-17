@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981209.1600.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And two of the space shuttle "endeavour" astronauts are conducting 
+another spacewalk. They're attaching two antennas to the international 
+space station. 
+</TEXT>
+</DOC>

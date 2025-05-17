@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981029.0500.3100 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Some stability in global financial markets helped keep down the price 
+of U.S. Treasury bonds. The yield on the benchmark 30 year U.S. Treasury 
+rose to 5.13 percent. That's up four basis points. New York's gold 
+slipped $.30 to $293.20 an ounce. 
+</TEXT>
+</DOC>

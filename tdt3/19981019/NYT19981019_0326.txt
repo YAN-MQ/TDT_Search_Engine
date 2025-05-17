@@ -1,0 +1,129 @@
+<DOC>
+<DOCNO> NYT19981019.0326 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Behind the excitement of the coming spaceflight of Sen. John Glenn 
+is quiet apprehension about hidden dangers. Safety experts agree that 
+the space shuttles, like temperamental hot rods, must run regularly 
+or become balky and their launching crews rusty. But the shuttles 
+have flown little of late. So Glenn's flight is seen, at least in 
+theory, as unusually risky. In response, the space agency is taking 
+precautions like having ground crews do many more dry runs meant to 
+sharpen their skills. It says these rehearsals will offset any dangers, 
+though some private experts say the odds of disaster still might be 
+unusually high. ``We've been concerned,'' Dr. Seymour C. Himmel, a 
+senior member of NASA's Aerospace Safety Advisory Panel, said in an 
+interview. ``When you have a hiatus like this you have to keep your 
+skills honed.'' Dr. M. Granger Morgan, head of engineering and public 
+policy at Carnegie Mellon University, agreed. ``There are concerns 
+whenever an organization that has to perform a high-reliability job 
+stops engaging in continual practice,'' he said. The thunder of Glenn's 
+blastoff aboard the shuttle Discovery, set for Oct. 29, is to occur 
+after an unexpected silence of nearly five months at the Kennedy Space 
+Center in Florida. This is the longest time between shuttle launching 
+attempts since the recovery from the 1986 Challenger disaster, when 
+the spaceships were grounded for more than two years. The first crew 
+to fly after that, in 1988, consisted of all shuttle veterans, mostly 
+former military test pilots used to putting their lives on the line. 
+The current gap in flights was caused by unforeseen delays in building 
+the international space station, a global effort whose payloads are 
+to dominate the shuttle agenda for years. The delays stem from Russia's 
+financial woes and have raised concerns among federal and private 
+safety experts, especially given the high visibility of Glenn's flight. 
+The space agency itself has changed its public stance on the dangers 
+posed by a flight slowdown. A year ago, before the gap opened up, 
+Wilbur C. Trafton, then head of space flight at the National Aeronautics 
+and Space Administration, told Congress that inactivity was dangerous. 
+If work on the station is delayed, he warned, then ``the shuttle quickly 
+drops below what we think is a safe flight rate, which is about five 
+flights a year.'' That problem has come to pass in that the five-month 
+gap, if repeated over the course of a year, would amount to an annual 
+rate of fewer than three flights. Even so, NASA officials dismiss 
+it as minor. They say that better analyses show that the shuttle can 
+safely fly fewer times a year and that the rigorous exercise of ground 
+crews and managers is removing any possible peril. ``We normally launch 
+every six to eight weeks,'' said Dave King, a shuttle official at 
+the Kennedy center at Cape Canaveral, Fla. ``But when summer brought 
+a five-month pause between launches, we went to work developing a 
+practice schedule that would keep the team fresh.'' Robert B. Sieck, 
+head of shuttle operations in Florida, said that he had talked with 
+Glenn about the slowdown and that the senator, a veteran of the astronaut 
+corps, was unruffled by it. ``We're going to be just as safe as ever 
+because we have the rules and requirements and procedures that protect 
+us,'' Sieck said in an interview. ``The teams are going to make sure 
+that nothing bad happens.'' Glenn himself has repeatedly played down 
+the shuttle risks. ``Of course there is a small danger,'' he said 
+when his flight was announced in January, but he added, ``NASA's done 
+an outstanding job'' of keeping the risks as low as possible. On his 
+nine-day flight, Glenn, 77, and six other astronauts are to conduct 
+more than 80 scientific experiments. The senator's are to center on 
+the aging process. The shuttle is, by far, the most complicated machine 
+ever to fly into space, and therein lies the danger _ there are more 
+things to go wrong. It has 230 miles of wiring, 417 circuit breakers, 
+600 fuses, 950 switches and 2 million parts, half of which are meant 
+to move. The shuttle's three main engines release energy equal to 
+23 Hoover Dams and loom as a safety factor because they work at dangerously 
+high heats, pressures and speeds. Its twin booster rockets are a special 
+worry because one of their kind leaked blistering hot flames that 
+touched off the Challenger explosion, which killed six astronauts 
+and a high school teacher. Fueling and launching the fleet of four 
+winged spaceships and refurbishing them between flights takes a standing 
+army at the Florida spaceport, which employs about 14,000 people and 
+pumps a billion dollars into the state's economy every year. The current 
+break in the rhythm of shuttle flights came about as the space station 
+project fell on hard times. Originally, orbital construction of the 
+big outpost was to have started in November 1997. But as that date 
+neared, and as Russia's problems multiplied, NASA pushed back the 
+launching of the first station component. The flight of Glenn was 
+announced on Jan. 16 of this year, as the space agency was struggling 
+to reduce the repercussions from the station's delay on the shuttle, 
+which is to be the main transporter into orbit of the outpost's many 
+parts. Among other things, the agency was planning hundreds of layoffs 
+at the Florida spaceport. Things got worse. On May 31, NASA announced 
+that the start of the station's orbital construction would be postponed 
+even further, from June to November, making the orbital outpost overdue 
+by a full year. That schedule still holds, barely. And it has thrown 
+planning for all shuttle flights into disarray. As silence at the 
+launching pads was forecast to last for five months, NASA analysts 
+got edgy, as did the agency's overseers. So a wide program of safeguards 
+was undertaken in Florida. For instance, on Aug. 20, some 150 launching 
+team members labored through a mock countdown bedeviled by troubles 
+like false sensor readings, system failures and bad weather. ``The 
+test plan and problem scenarios are kept secret,'' Debbie Frostrom, 
+a shuttle expert who helped draw up the drill with senior engineers 
+known as gremlins, said in a statement. During the overall slowdown, 
+the spaceport is doing three times as many mock launchings and four 
+times as many fueling simulations as normal, said Sieck, the head 
+of shuttle operations. It is also conducting its first comprehensive 
+assessment of all procedures and systems since the restart of shuttle 
+flights a decade ago. Astronauts, the ultimate beneficiaries of such 
+care, have made their presence felt in Florida in the slowdown. On 
+July 16, C. Gordon Fullerton, a former shuttle commander, gave the 
+keynote address when the entire center stopped regular work for a 
+day to focus exclusively on heightening safety. And on Aug. 27, Heidemarie 
+Stefanyshyn-Piper, a newcomer to the corps, gave out a coveted award 
+to a worker who had helped improve payload handling. Private experts 
+said it was conceivable that all the extra practice and precautions 
+would actually make the Glenn flight safer. ``They've had time to 
+fix all the small things,'' said Dr. Elizabeth Pate-Cornell, head 
+of industrial engineering and engineering management at Stanford University. 
+But Dr. Charles Perrow, a Yale sociologist and author of ``Normal 
+Accidents,'' a study of high-technology risk, said the slowdown and 
+all the attendant changes could add complexity to an already complex 
+equation, undercutting safety. ``It's certainly going to heighten 
+the difficulty,'' he said. ``Whether that means new danger, nobody 
+probably knows.'' Himmel of NASA's Aerospace Safety Advisory Panel, 
+a team of independent experts, said he was confident that the heightened 
+precautions were sufficient to ward off unusual perils. ``The important 
+thing is to realize that when you get into something that is extraordinary, 
+everybody has to be made aware of that fact and to do the job right,'' 
+he said. The lull is to ease up a bit after Glenn's flight. The first 
+space station launching is set for Nov. 20 when a Russian rocket is 
+to lift the initial element of the outpost into orbit. The shuttle 
+Endeavour is to carry aloft the shuttles' first space station payload 
+on Dec. 3, in theory paving the way for dozens of other shuttle trips 
+in service of the space station over the years, helping to keep launching 
+teams sharp and the fleet safe. 
+</TEXT>
+</DOC>

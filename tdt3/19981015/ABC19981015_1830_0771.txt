@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981015.1830.0771 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The FAA today recommended a safety upgrade affecting 12,000 jets. 
+Nearly all have insulation that caught fire in safety tests. The FAA 
+wants the airlines to replace it during routine maintenance. This 
+all comes as investigators look into the crash of Swissair flight 
+111, which went down while pilots were reporting smoke in the cockpit. 
+</TEXT>
+</DOC>

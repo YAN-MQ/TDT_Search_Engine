@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981204.2130.0903 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking on the day's top stories -- President Clinton is calling 
+for a Raise in the minimum wage. He says millions of full-time workers 
+still live in poverty, and pointed to the booming U.S. economy as 
+proof that the time is right. 
+</TEXT>
+</DOC>

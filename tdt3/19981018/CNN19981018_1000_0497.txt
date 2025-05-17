@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981018.1000.0497 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney from the CNN weather center with your "Headline 
+News weather update." A slow-moving cold front will approach the Appalachians 
+today. And heavy rain is still possible from Texas through the Mississippi 
+valley and into Missouri. As we move through Monday, this cold front 
+system will head off the northeast coast and become stationary across 
+the south atlantic to the gulf of Mexico. This will continue heavy 
+rains across southern and western portions of texas into New Mexico. 
+To the north, a cold front will move through the Great Lakes. There 
+is a chance of rain, showers and even a little show as this low-pressure 
+system tracks across the north. High pressure will build into the 
+northwestern United States. Nome, Barrow and Fairbanks today will 
+see snow with high temperatures near freezing to the upper 20s. Look 
+for a 50% chance of thunderstorms across the virgin islands with highs 
+in the mid 80s to near 90. Temperatures will be in the 40s and 50s 
+for the northern Rockies and the northern plains. 60s, 70s and 80s 
+are expected from the northeast through the central plains and into 
+the southwest. The forecast for more than 6,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

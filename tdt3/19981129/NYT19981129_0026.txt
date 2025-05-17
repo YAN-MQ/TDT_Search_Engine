@@ -1,0 +1,89 @@
+<DOC>
+<DOCNO> NYT19981129.0026 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+``No matter how cynical you become, it's never enough to keep up.'' 
+That aphorism, a sage comment on the absurdities of 1980s culture, 
+was written by Jane Wagner for the actress Lily Tomlin, in their 1985 
+Broadway hit, ``The Search for Signs of Intelligent Life in the Universe.'' 
+But Ms. Wagner and Ms. Tomlin could just as well have applied that 
+same observation to the trajectory of the 1990s money-and power-drunk 
+world of high technology, an industry that seems to be trying to one-up 
+itself, almost daily, in the ``how cynical can we get?'' department. 
+Just how cynical indeed is becoming abundantly clear as the board 
+room and courtroom dramas play out between Microsoft Corp. and its 
+archrivals _ Netscape Communications Corp., America Online Inc. and 
+Sun Microsystems Inc. _ and, of course, the U.S. government. Hard-core 
+cynics find honesty contemptible unless it serves a purpose; the truth 
+too often makes suckers out of those who practice it. It is an attitude 
+so embedded in our business culture that feigned ignorance is now 
+an acceptable courtroom defense. For example, we shake our heads and 
+tut-tut when we read about the videotaped deposition in which Microsoft's 
+chairman, Bill Gates, the most powerful and feared executive in all 
+of technology, ``cannot recall'' a single negative e-mail or its context, 
+even when the wording suggests that he was articulating his ideas, 
+plans, visions and strategies with great fervor. Yet few people, in 
+or out of the industry, cried foul when one of Gates' advisers _ a 
+former Justice Department official, no less _ characterized the Gates 
+testimony as a success because he had refused to concede anything 
+to his questioners, even when it appeared they had him dead to rights. 
+And how cynical is it for some industry executives who say they believe 
+in an unfettered free market _ and who, not coincidentally, reap the 
+secondary benefits of Microsoft's success _ to argue that Microsoft's 
+dominance has been good for consumers? Most economists would argue 
+that what is good for software buyers _ whether corporate or consumer 
+_ is choice and quality. Microsoft asserts that the market domination 
+of its Windows operating system insures both, by providing a stable 
+platform on which developers can build myriad application programs. 
+Certainly true _ until one then considers that most of Microsoft's 
+vast revenues derive from its own Windows applications. Few companies 
+are brave enough to develop products that compete head on with Microsoft's; 
+historically, the odds of winning that market battle are next to zero. 
+But choice spurs quality. One could argue, for instance, that the 
+very best software Microsoft has produced in the last 10 years has 
+been its browser, Internet Explorer. Coincidence? Not likely. Internet 
+Explorer is Microsoft's only major consumer application that has had 
+serious competition _ Netscape's Navigator, which once dominated its 
+market niche at the 90 percent levels of Microsoft's Windows. Microsoft 
+joined the battle with a huge advantage: It could afford to give its 
+browser away free, and did so. When that failed, Microsoft _ in what 
+may someday be known as one of the greatest cynical acts in industry 
+history _ effectively killed the entire market segment by declaring 
+the browser to be not a browser but the ``HTML engine'' of Windows, 
+an inextricable component of its operating system. But the deepest 
+cynicism, set forth with great righteousness by Microsoft and its 
+defenders, is their assertion that, given the opportunity to do so, 
+its competitors would act exactly as Microsoft has. Unfortunately, 
+this defense is absolutely true. Strong-arm tactics and cutthroat 
+behavior have long been considered not just acceptable business practices 
+in technology, but de rigueur. And all the industry aspires to the 
+stock price and the market heft of Microsoft _ although none want 
+to be sued by the government, of course. But the argument is specious. 
+No other company has the opportunity to act like Microsoft; it is 
+too late. Not surprisingly, Microsoft was quick to point to last week's 
+announcement of America Online's takeover of Netscape as proof that 
+there is plenty of healthy competition in the industry. But while 
+consolidation sometimes enhances competition, even a troika as apparently 
+formidable as the America Online, Netscape and Sun Microsystems alliance 
+lacks the muscle to nudge Microsoft from its market dominance or to 
+stem its hegemony in cyberspace. Even if the alliance were to conquer 
+every new market they envision, the personal computer market is enormous 
+and still growing, and most new _ and old _ machines will be powered 
+by Microsoft's operating system for many years to come. But the merger 
+announcement was a classic tactic for a cynical industry. Many such 
+announcements have been made over the last decade or so, and despite 
+the vast media coverage they engender, most do not work and are quietly 
+dismantled later, when their public relations value has waned. Such 
+cynicism is perfectly legal, of course, but it demeans everything 
+it touches. Take nothing at face value, it demands, because everyone 
+has an agenda and everything has a price. At some point, even principled 
+people start to waver: ``If they can do it, why shouldn't I get mine, 
+too?'' By most accounts, that is where the technology industry is 
+today, a game with few rules and only brute moves _ jockeying for 
+position, cutting the flanks of the competition whenever possible. 
+Yet, that game, too, has a price _ but it is a price of a different, 
+more personal sort. As Jane Wagner put it so eloquently, ``The trouble 
+with the rat race is that even if you win, you're still a rat.'' 
+</TEXT>
+</DOC>

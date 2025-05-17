@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981125.1130.1262 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Matt Yallof, "CNN Headline Sports." This could be the last we see 
+of Andre Agassi this season. A bad back forced the former number one 
+to pull out of his opening match against alex corretja at the atp 
+tour world championships at Hanover. He might return for his next 
+match in the round Robin event. 
+</TEXT>
+</DOC>

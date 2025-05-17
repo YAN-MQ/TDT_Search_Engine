@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981122.1000.0454 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended national weather forecast is next. Later -- island life 
+clashes with urban life in Canada. 
+</TEXT>
+</DOC>

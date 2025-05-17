@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981106.1600.1356 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After the shortest meeting since the lockout began, the NBA players 
+and owners are expected to reestablish contact today. 
+</TEXT>
+</DOC>

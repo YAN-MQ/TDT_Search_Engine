@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981230.1130.1285 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Matt Yallof, "CNN Headline Sports." It was a rough night for the Philadelphia 
+Flyers. Eric Lindros left the game in the second period with a mild 
+concussion. He's to be re-examined today. The league's leading scorer 
+downplayed the injury calling the severity "Bottom-level stuff." Philly 
+also lost Karl dykhuis with a broken cheekbone in a 4-3 overtime win 
+in Calgary. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981227.1300.0463 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+People in several southern states may be in the dark a while longer 
+in the wake of Christmas eve ice storms. The storms knocked out electricity 
+to tens of thousands of utility customers in Virginia, North Carolina, 
+Tennessee, Alabama, Mississippi and louisiana. Utility crews say it 
+may take up to two weeks to restore electricity to everyone. 
+</TEXT>
+</DOC>

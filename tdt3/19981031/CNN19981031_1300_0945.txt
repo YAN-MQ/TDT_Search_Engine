@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981031.1300.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronaut John Glenn will become a human Guinea pig on his third day 
+in space. "Discovery's" crew will study his blood his bodily fluids 
+and inject him with amino acids. 
+</TEXT>
+</DOC>

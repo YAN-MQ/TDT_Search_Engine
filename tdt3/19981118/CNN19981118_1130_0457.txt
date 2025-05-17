@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981118.1130.0457 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+Forecast temperatures today only in the 20s over the upper midwest. 
+It will be warm though along the gulf coast. And back into Florida, 
+with forecast highs into the 80s. Area of low pressure will be tracking 
+through the midwest and that's going to bring some heavy snows through 
+sections of the dakotas and northern minnesota today. Look for windy 
+conditions through the Great Lakes, as well as that area of low pressure 
+moves through. By late tomorrow, frontal system approaching the pacific 
+northwest will bring chances for some rain there. As we head into 
+Friday, though, that storm in the pacific northwest picks up. We'll 
+find heavy rain and windy conditions. Rain likely in the northeast 
+as well with snow lingering back through the eastern Great Lakes and 
+especially in through Canada as temperatures remain cold through the 
+Great Lakes. On Saturday, again the pacific northwest will see problems 
+with more heavy rain and windy conditions. Showers likely in parts 
+of Texas. And on Sunday, much the same story for the pacific northwest, 
+more heavy rain is in the forecast. 
+</TEXT>
+</DOC>

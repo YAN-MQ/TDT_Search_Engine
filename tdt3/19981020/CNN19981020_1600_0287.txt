@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981020.1600.0287 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's Microsoft's turn to make opening statements in the antitrust 
+trial against the software giant. Microsoft attorneys today said the 
+company is a tough but fair competitor, and insisted antitrust laws 
+"are not a code of civility in business." In the days ahead, we will 
+show that the government's case is a groundless exercise, designed 
+to benefit just a handful of Microsoft's competitors who do not compete 
+with us on the merits of their technology. This is not a case designed 
+or that will accomplish any benefit for consumers. In opening statements 
+yesterday, justice department attorneys charged microsoft broke antitrust 
+laws when, for example, it allegedly tried to coax Netscape to split 
+the Internet browser market. When Netscape refused, the government 
+claims Microsoft retaliated by pricing them out of the market. The 
+trial is expected to last six to eight weeks. 
+</TEXT>
+</DOC>

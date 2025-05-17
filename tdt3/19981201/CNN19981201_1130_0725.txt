@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981201.1130.0725 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For the latest health news on line, check out CNN.com/health. 
+</TEXT>
+</DOC>

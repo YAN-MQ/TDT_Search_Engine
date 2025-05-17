@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981116.2130.0999 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks closed higher today. The Dow Jones industrial average gained 
+91 points to close at 9011. It's the first time the Dow has finished 
+above 9000 since July. 
+</TEXT>
+</DOC>

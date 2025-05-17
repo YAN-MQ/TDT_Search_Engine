@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981211.0130.1327 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In baseball news, pitcher Dennis eckersley announced his retirement 
+thursday. He appeared in more games than any other pitcher and ranks 
+third on the all-time saves list. Duane Walker, "CNN Headline Sports." 
+</TEXT>
+</DOC>

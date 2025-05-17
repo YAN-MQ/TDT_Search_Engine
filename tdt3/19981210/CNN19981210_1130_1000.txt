@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981210.1130.1000 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More consolidation in the struggling managed care industry. I'm Myron 
+Kandel in New York with this edition of "Dollars & Sense." Aetna has 
+agreed to buy the health care business of Prudential insurance for 
+$1 billion in cash. This acquisition is Aetna's latest move in its 
+transformation from an insurance to managed care company. After adding 
+the 6.5 million members, it will be the largest provider of health 
+care benefits in the country, with more than 22 million members. 
+</TEXT>
+</DOC>

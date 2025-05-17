@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981212.1300.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And shuttle astronauts turned off the lights, closed the hatches and 
+are preparing to disengage "endeavour" from the international space 
+station. A final space walk is scheduled today. 
+</TEXT>
+</DOC>

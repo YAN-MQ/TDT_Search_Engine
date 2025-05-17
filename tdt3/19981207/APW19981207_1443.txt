@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> APW19981207.1443 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Endeavour's astronauts overcame their first hurdle Saturday in building 
+the international space station: hoisting the 25,000-pound Unity chamber 
+from the shuttle cargo bay with only an inch of clearance on either 
+side. An even tougher job awaits them Sunday, when they attempt to 
+pluck a much larger Russian station component from orbit and attach 
+it to Unity without a direct line of sight. The six shuttle astronauts 
+have been chasing the component named Zarya (Russian for Sunrise) 
+since they rocketed into orbit Friday. They trailed the giant cylinder 
+by 6,000 miles Saturday evening. Astronaut Nancy Currie used Endeavour's 
+50-foot robot arm to lift Unity, the first American-made piece of 
+the international space station. She moved the precious load slowly 
+_ so slowly it almost appeared at first to be motionless. ``Beautiful 
+and delicate work,'' radioed Mission Control. Currie raised Unity 
+about 13 feet before tilting it to an upright position above a docking 
+ring in the cargo bay. She lowered the cylinder to within a few inches 
+of the ring; then the pilots fired Endeavour's thrusters and the shuttle 
+moved up just enough for the pieces to snap together. The entire process 
+took two hours. ``We've got Unity firmly attached to Endeavour,'' 
+shuttle commander Robert Cabana reported, ``and we're off to a great 
+start on building the international space station.'' Unity will serve 
+as a connecting passageway once more modules arrive over the next 
+few years. It's 36 feet long and 15 feet in diameter, and is composed 
+of 50,000 mechanical parts, 216 fluid and gas lines, and 121 electrical 
+cables containing a mind-boggling six miles of wiring. It barely fit 
+in Endeavour's cargo bay, widthwise; there was only an inch to spare 
+on either side, making Currie's job especially difficult. The last 
+thing she wanted to do was bump Unity against the shuttle while lifting 
+it from its horizontal position and setting it upright in preparation 
+for Sunday's coupling with Zarya. The jointed shuttle arm, which also 
+will be used for handling the 41-foot, 44,000-pound Zarya, has never 
+wielded such massive objects before. The two station components are 
+so big that Currie won't be able to see where they meet by looking 
+out the window; she'll rely solely on a computerized vision system 
+to line them up, the first ``in-the-blind'' docking attempt of its 
+kind. ``It's not so much a case of how difficult it is,'' Currie explained 
+before the flight, ``just how careful we have to be and how time-consuming 
+it is.'' Zarya, launched Nov. 20 from Kazakstan, contains all the 
+power and propulsion systems needed for the fledgling space station. 
+Without Zarya, Unity would be a useless, empty can in orbit. ``I think 
+Sunrise is very appropriate and I think Unity is very appropriate 
+for the new station because it's a new beginning and we're all bound 
+together,'' shuttle commander Robert Cabana said from orbit. Unity 
+cost $300 million, Zarya $240 million. The National Aeronautics and 
+Space Administration paid for both. NASA Administrator Daniel Goldin 
+wondered aloud after Friday's launch whether the astronauts would 
+pull everything off. ``We've practiced with robots. We've practiced 
+with the shuttle,'' Goldin said. ``But now we're doing the real thing 
+with hardware that cost a quarter of a billion dollars. Will we pull 
+it off? I'm going to worry every day.'' 
+</TEXT>
+</DOC>

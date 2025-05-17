@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> ABC19981029.1830.1643 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A brief review of our top story today. Of course, it's John Glenn. 
+He and his six colleagues on the shuttle "discovery" took off from 
+cape canaveral today. They're now in orbit. Senator Glenn says he's 
+enjoying the show, which obviously means the view of earth from space, 
+and he feels fine. The launch was not perfect. A door apparently fell 
+off of a compartment that carries the shuttle's drag chute used during 
+the landing. NASA says it shouldn't have any impact. 
+</TEXT>
+</DOC>

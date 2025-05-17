@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981111.1130.0462 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+The forecast calls for much of the same, more wind and wet weather 
+in portions of the northeast through the afternoon. By tomorrow morning, 
+though, the winds should begin to subside in the northeast and extending 
+back in through the Great Lakes. Look for the wet weather by tomorrow 
+to be most likely along the Texas gulf coast and extending into Louisiana 
+and in the pacific northwest. Temperature highs for the remainder 
+of today, it is going to be cold on the fresh snow through the dakotas 
+and Minnesota. Cold, too, through the Rockies with forecast high temperatures 
+back only into the 30s. A look at the extended forecast. As we take 
+look at the weather maps on Friday. Showers and storms will continue 
+in parts of the gulf coast region. We'll find temperatures cold again 
+through the upper midwest and warming in the southwest. On Saturday, 
+the best chance for rain in the southeast, with showers continuing 
+in the pacific northwest. And showers will be spreading into the Great 
+Lakes. Could be mixed with snow at times there. And as we head into 
+Sunday, again, showers and thunderstorms along the eastern seaboard 
+as the wet weather continues in the pacific northwest. For even more 
+weather information, log into CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981224.0130.0962 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And President Clinton is taking steps to fight homelessness. He announced 
+a billion-dollar initiative today, aimed at providing services for 
+homeless people. 
+</TEXT>
+</DOC>

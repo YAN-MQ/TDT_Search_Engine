@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981227.1130.1334 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In college basketball, number three Kentucky lost its second straight 
+contest, 83-74, to Louisville. It's just the fourth time since 1991 
+that the Wildcats have lost back to back. 
+</TEXT>
+</DOC>

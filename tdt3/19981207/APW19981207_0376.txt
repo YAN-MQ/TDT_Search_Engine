@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> APW19981207.0376 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Share prices on the London Stock Exchange were higher at midday Monday. 
+At noon, the Financial Times-Stock Exchange 100-share index was up 
+5.7 points at 5587.6. 
+</TEXT>
+</DOC>

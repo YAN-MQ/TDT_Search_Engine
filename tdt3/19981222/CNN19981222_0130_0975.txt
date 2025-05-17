@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981222.0130.0975 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sharp increases in technology stocks helped Wall Street post a solid 
+gain today. The Dow Jones industrial average closed up 85 points to 
+end the day at 8988. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981208.1600.1004 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Union carbide came out with an earnings warning this morning. The 
+chemical and plastics company says fourth quarter profits will decline 
+more than it previously expected. The company blames the weak chemical 
+market for it but thanks to proceeds from a litigation settlement, 
+it will be better. 
+</TEXT>
+</DOC>

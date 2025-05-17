@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981215.0130.0396 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Civil liberties groups aren't happy about the New York City police 
+department's latest proposal. In addition to fingerprints, the department 
+wants to take DNA samples from anyone who's arrested. New York's commissioner 
+says the samples would help solve crimes, crack down on repeat offenders 
+and even help clear innocent people. DNA testing can be accomplished 
+with minimum intrusion into personal privacy. A simple, sterile swab 
+placed briefly in the mouth to collect saliva is all that is needed. 
+Arguably, the process presently used by most police departments to 
+obtain fingerprints, which requires placing ink on the person's hands, 
+is more inconvenient to the arrested person than the taking of the 
+sterile swab. When you have fingerprint information, it's used exclusively 
+for identification matching purposes for law enforcement. The DNA 
+does that, but it does so much more. They will get your genetic makeup. 
+They will have information that they don't have any legitimate interest 
+in having with regard to law enforcement. That's our major concern. 
+The plan would have to be approved by the state legislature to be 
+implemented. 
+</TEXT>
+</DOC>

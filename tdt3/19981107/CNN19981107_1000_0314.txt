@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981107.1000.0314 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+John Glenn and the crew of the space shuttle "discovery" are preparing 
+for their trip back to earth. They were awakened early this morning 
+by the song "La cucaracha." It was dedicated to Pedro duque, the first 
+Spaniard in space. The shuttle is scheduled to land in about two hours 
+at Kennedy space center in Florida. Flight controllers will be paying 
+close attention to "discovery's" drag chute. A panel covering the 
+chute fell off during take-off last week. It's normally used on landing, 
+but is not considered essential equipment. 
+</TEXT>
+</DOC>

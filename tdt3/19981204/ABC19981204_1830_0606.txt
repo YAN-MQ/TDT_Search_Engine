@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981204.1830.0606 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In China today, a 30-year-old computer engineer was charged with using 
+the internet to undermine the state. He is accused of forwarding the 
+E-mail addresses of 30,000 Chinese computer users to an online democracy 
+magazine in the U.S. 
+</TEXT>
+</DOC>

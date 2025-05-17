@@ -1,0 +1,112 @@
+<DOC>
+<DOCNO> NYT19981024.0183 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In March, Mayor Rudolph Giuliani signed a measure mandating sweeping 
+changes in Local Law 10, the 1980 measure that requires periodic inspections 
+of facades of buildings taller than six stories. The changes were 
+proposed last December after bricks that separated from a wall of 
+a Madison Avenue office tower rained down on the streets below. Earlier 
+this month, New York City's Department of Buildings issued proposed 
+regulations covering those changes. The revised measure has been officially 
+designated Local Law 11 of 1998. A public hearing on the regulations 
+has been set for Nov. 17. While there is broad consensus among officials, 
+lawyers and construction experts that stricter laws are needed to 
+protect the public from hazards posed by aging masonry on high-rise 
+buildings, they also acknowledge that the new regulations could carry 
+a hefty price tag. ``I'm not sure anybody really knows how expensive 
+this is all going to be,'' said James Samson, a Manhattan real-estate 
+lawyer. Samson explained that under the original Local Law 10, exterior 
+walls within 25 feet of a pedestrian walkway or public space had to 
+be inspected every five years. In practice, he said, that usually 
+resulted only in the inspection of the front facade and perhaps a 
+side wall or two. Under Local Law 11, however, virtually every exterior 
+wall of every building taller than six stories will have to be inspected 
+every five years. Moreover, Samson said, while Local Law 10 applied 
+only to walls over six stories high, Local Law 11 requires inspections 
+of all four walls even if only one wall of a building meets the height 
+requirement. In addition to those changes, Samson said, Local Law 
+11 also requires ``hands on'' inspections of any ornamental cast-stone 
+or terra-cotta cornices or decorations that project more than six 
+inches from the face of an exterior wall. The ``hands on'' requirement, 
+he said, means that inspections of such building elements must be 
+conducted close-up _ from a scaffold or platform _ rather than with 
+binoculars or telephoto lenses from nearby vantage points, as was 
+permitted under Local Law 10. ``This is going to be a major-league 
+expense for many buildings,'' Samson said. ``Just look up and down 
+Broadway. All that wonderful ornamentation and all those cute little 
+gargoyles are now going to have to be inspected.'' In addition to 
+imposing such new requirements, construction experts say, Local Law 
+11 eliminates a provision in the prior law that allowed engineers 
+to alert property owners to nonhazardous conditions in their buildings 
+without forcing them to correct them. John Flynn, a professional engineer 
+in Bedford, explained that under prior law, if an engineer detected 
+a crack or other flaw in a wall that was otherwise sound, the engineer 
+could note his observation on his report and indicate that the condition 
+should be monitored. If the crack or flaw remained stable and caused 
+no weakness in the wall, he said, the engineer could carry the item 
+from one inspection cycle to another as a ``precautionary'' condition. 
+Now, however, conditions can be classified only as ``safe,'' ``unsafe,'' 
+or ``safe with a repair and maintenance program,'' with the last category 
+replacing the ``precautionary'' classification. ``Putting something 
+in the `safe with a repair' category means that the condition needs 
+a repair to prevent it from becoming unsafe,'' Flynn said, adding 
+that if such a condition is not corrected by the time the next cyclical 
+inspection is conducted, it must be reported as ``unsafe'' by the 
+engineer. And that, he said, creates the potential for conflicts between 
+engineers and their clients because engineers who previously carried 
+``precautionary'' items on their inspection reports from cycle to 
+cycle must now decide whether to classify such items as either ``safe'' 
+or ``safe with a repair and maintenance program.'' ``Some engineers 
+might say that if a crack in a wall caused by normal settling hasn't 
+moved for 50 years, the condition is probably safe,'' Flynn said. 
+``But today, everybody is so litigious, an engineer would be nuts 
+not to put the burden back on the building's board of directors by 
+saying that the condition is safe with a repair and maintenance program. 
+No engineer wants to assume liability for every crack in every building 
+he inspects.'' Gene Ferrara, president of JMA Consultants, an engineering 
+consulting firm in North Bergen, N.J., said that while Local Law 11 
+might indeed place a greater burden on engineers by forcing them to 
+make difficult decisions, the stricter standards were justified. ``The 
+Department of Buildings was absolutely right to stiffen these codes,'' 
+Ferrara said. ``Watching these buildings age is like watching an old 
+horse in a field. He's OK today, he's OK tomorrow, but one day you 
+look out at the field and he's not OK anymore.'' Ferrara _ who was 
+a member of Giuliani's Building Industry Advisory Council, which helped 
+draft the new regulations _ said that one problem he anticipated was 
+that property owners who wait until the last minute to hire engineers 
+to conduct inspections might be in for a surprise. ``I wonder if there 
+are going to be enough engineers to go around,'' he said, adding that 
+any engineers who might be available would be able to charge top dollar 
+for their services. In fact, construction experts say, all facets 
+of facade inspection and repair are expected to become more expensive 
+because of the tight inspection timetable imposed by Local Law 11. 
+Steven Varone, director of operations for Rand Engineering in Manhattan, 
+explained that under the new law, any previously uninspected wall 
+that is now subject to inspection must be studied by March 1, 2000. 
+Walls that were inspected during the last inspection cycle _ which 
+ended in Feb. 21, 1997 _ must be inspected for the fifth cycle between 
+Feb. 21, 2000, and Feb. 21, 2002. However, he said, to make it possible 
+for buildings to avoid having to conduct costly ``back-to-back'' inspections 
+_ an initial inspection of uninspected walls by March 1, 2000, and 
+then a regular fifth-cycle inspection of all four walls between Feb. 
+21, 2000, and Feb. 21, 2002 _ the regulations permit property owners 
+who inspect all four walls between Feb. 1, 1999, and March 1, 2000, 
+to use that inspection to satisfy the fifth-cycle inspection requirement. 
+``That's good because it allows you to avoid double inspections,'' 
+Varone said. ``But it also condenses the normal two-year inspection 
+cycle into one year,'' he said. And with nearly 10,000 buildings in 
+the city subject to Local Law 11, construction experts say, that will 
+almost certainly result in higher inspection and construction costs 
+as the owners of those properties scramble to line up consulting contracts 
+and construction work. ``Sure this is going to be expensive,'' said 
+Peter Corsell, president of Peter Corsell Associates, a consulting 
+engineering company in Manhattan. ``But what are the alternatives? 
+The risks may vary from building to building, but every year you have 
+freezing and thawing taking place and every year every building gets 
+one year older. It might be expensive to put a scaffold on your building 
+and start probing around. But it could be a whole lot more expensive 
+to just leave the building alone and wait to see what happens next.'' 
+</TEXT>
+</DOC>

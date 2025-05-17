@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> MNB19981103.2100.3547 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The news with Brian Williams is next. I'm Keith olbermann. We thank 
+you. We bid you goodnight. 
+</TEXT>
+</DOC>

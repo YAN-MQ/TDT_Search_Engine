@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981227.1600.0375 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another New York bus heading to Atlantic City has crashed in New Jersey. 
+Police say the bus was entering the New Jersey turnpike this morning 
+when it slid off the ramp and hit a tree. All 27 people on board were 
+taken to the hospital. Just three days ago, a bus En route from Brooklyn 
+to Atlantic City overturned on the garden state parkway, killing eight 
+passengers. 
+</TEXT>
+</DOC>

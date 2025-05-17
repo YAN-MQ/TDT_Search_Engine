@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981020.1130.1071 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Online travel agents say they're being treated unfairly. The U.S. 
+department of transportation is looking into whether airlines discriminate 
+against online travel services. Among the complaints, Internet travel 
+agencies say they earn lower commissions and have tighter restrictions 
+than traditional travel agents. Airlines such as southwest say the 
+tighter restrictions are designed to prevent users from booking tickets 
+they don't intend to buy. The Internet accounted for about $900 million 
+of travel last year. 
+</TEXT>
+</DOC>

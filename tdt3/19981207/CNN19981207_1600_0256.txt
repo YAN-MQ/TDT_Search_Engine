@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981207.1600.0256 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NasA chose the Celtic song "Jerry the rigger" AS today's wake-up call 
+for astronauts orbiting the earth in the space shuttle "endeavour." 
+The crew was sleeping off yesterday's work, locking together the first 
+two pieces of the international space station. Later today, astronauts 
+Jerry Ross and Jim Newman will perform a complicated spacewalk, linking 
+power cables between the modules. About 75 spacewalks are planned 
+during the station's five-year construction. 
+</TEXT>
+</DOC>

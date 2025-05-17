@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981030.1830.0777 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There is good news on the American economy. The Gross domestic product 
+grew at a very healthy rate of 3.3% over the summer. At the same time, 
+the world's seven richest nations embraced the president's plan to 
+use the international monetary fund to boost some of the world's struggling 
+economies. 
+</TEXT>
+</DOC>

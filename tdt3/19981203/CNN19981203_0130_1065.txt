@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981203.0130.1065 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The palm pilot is expanding into cyberspace 3-com, the maker of the 
+popular hand-held computer, is adding features to include wireless 
+access to the worldwide web. The new model will be slightly larger 
+than the old version, which is about the size of a deck of cards. 
+3-com expects web sites offering travel and weather data to tailor 
+information for its new palm pilot. No word yet on the price. 
+</TEXT>
+</DOC>

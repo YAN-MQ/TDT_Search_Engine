@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981231.2130.0340 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+1999 is already here for most of the world. Thousands celebrated in 
+Hong Kong, though the Chinese new year isn't until february. And a 
+spectacular fireworks show lit up the skies in Sydney, Australia. 
+Australians considered it a tune-up for the summer Olympics in 2000. 
+</TEXT>
+</DOC>

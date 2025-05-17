@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981202.1600.0344 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Dave DeForest, VOA News. This is VOA News Now coming to you from 
+Washington. I'm Erin Brummett, along with Tony Riggs. 
+</TEXT>
+</DOC>

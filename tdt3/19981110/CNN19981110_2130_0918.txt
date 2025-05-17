@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981110.2130.0918 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some work. Some don't. That's what a "journal of the American medical 
+association" study says about alternative medical treatments like 
+herbs and spinal manipulation. Four out of ten Americans use such 
+treatments, spending an estimated $27 billion a year. 
+</TEXT>
+</DOC>

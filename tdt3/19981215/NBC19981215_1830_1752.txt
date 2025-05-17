@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981215.1830.1752 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+What was the most interesting moment for "dateline NBC"? Well, you'll 
+find out tonight on "Dateline" at 10:00, 9:00 central. That is "Nightly 
+News" for Tuesday. I'm Tom Brokaw. I'll see you back here tomorrow. 
+</TEXT>
+</DOC>

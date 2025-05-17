@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981103.1600.1369 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And two London newspapers are reporting that Mike Tyson will take 
+on south africa's Francois Botha January 16th in Las Vegas. 
+</TEXT>
+</DOC>

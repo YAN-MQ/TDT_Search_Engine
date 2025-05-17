@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981204.1130.0922 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And citibank is under fire for its handling of $100 million. The funds, 
+believed to be drug money, were deposited by the brother of mexico's 
+former president. 
+</TEXT>
+</DOC>

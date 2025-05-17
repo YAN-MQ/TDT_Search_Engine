@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981209.1130.0333 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"Endeavour" astronauts are scheduled to take a second space walk today 
+to attach two 100 pound antennas to the international space station. 
+Yesterday, the shuttle boosted the space station 5 1/2 miles higher, 
+to an altitude of about 248 miles above the earth. That's closer to 
+the position from which the shuttle will leave the station when it 
+undocks Sunday. NASA is declaring the first space walk a success. 
+Monday, two astronauts connected 40 cables linking the Russian and 
+American components of the space station. 
+</TEXT>
+</DOC>

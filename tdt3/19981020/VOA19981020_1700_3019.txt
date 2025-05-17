@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981020.1700.3019 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In London, the Financial Times 100 Share Index ended the day up 174 
+points at 5,252. While in Paris, the CACK 40 Index was up 97 points 
+at 3,493. The DAX Index in Frankfurt was 191 points higher at 4,658. 
+The price of gold closed in New York at $296.20 an ounce, up ten cents. 
+The U.S. dollar was mostly higher against the other major currencies. 
+</TEXT>
+</DOC>

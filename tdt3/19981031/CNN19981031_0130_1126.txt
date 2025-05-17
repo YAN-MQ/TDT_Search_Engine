@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981031.0130.1126 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks rallied on Wall Street Friday, and that gave the Dow Jones 
+industrial average its biggest one-month gain in nearly 12 years. 
+For the month, the Dow was up 749 points. 
+</TEXT>
+</DOC>

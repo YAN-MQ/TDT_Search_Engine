@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981117.1830.1228 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Health news tonight. An alarming report about cigarette smoking among 
+college students. It's up 28% in just four years, according to a new 
+study in "the journal of the American medical association." Among 
+other recommendations, the report says colleges should make all dorms 
+nonsmoking. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981105.0130.0978 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks ended higher Wednesday, possibly helped by the democrats' solid 
+showing in Tuesday's election. Analysts say investors are hoping the 
+impeachment proceedings against the president will lose momentum and 
+he'll be able to focus on the economy. 
+</TEXT>
+</DOC>

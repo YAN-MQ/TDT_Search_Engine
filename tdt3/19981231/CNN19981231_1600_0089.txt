@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981231.1600.0089 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The weather contributed to a freeway pileup today in Michigan. It 
+happened on interstate 75 near grayling, about 200 miles north of 
+detroit. Dozens of cars crashed into one another on the ice-slickened 
+roadway. Officials say two people were killed and at least five were 
+injured, some seriously. Stranded motorists were bused to shelters. 
+Police say strong winds and light snow created a whiteout. One official 
+said, "it was like somebody pulled a curtain down." Stay tuned for 
+the latest extended weather forecast at 8 minutes and 38 minutes past 
+the hour. 
+</TEXT>
+</DOC>

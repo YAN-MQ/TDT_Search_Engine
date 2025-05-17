@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981203.0130.0966 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some fierce competition in the cereal industry is forcing the hand 
+of kellogg. The company is planning to cut 765 jobs, about 30% of 
+its north American workforce. Kellogg controls about 40% of the worldwide 
+cereal market. 
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> APW19981119.0519 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A junior trader cost his employers an estimated 10 million pounds 
+(dlrs 16 million) when a training blunder led him to launch a deal 
+worth billions, The Daily Telegraph reported in Thursday's editions. 
+The trader pressed the wrong button on his computer, indicating that 
+someone wanted to sell 130,000 German bond futures contracts, worth 
+more than 11.5 billion pounds (dlrs 19 billion), the newspaper said. 
+The offer was the largest single trade in German futures, which are 
+usually traded in 10,000 lots, the paper said. The Daily Telegraph 
+did not name the trader or the firm involved, but said it was believed 
+to be a German finance house. The trader's employers are now contractually 
+obliged to carry out the transaction, the newspaper said. German bond 
+futures used to be traded on the floor, where traders on the London 
+International Financial Futures and Options Exchange bought and sold 
+them using hand signals. However, now German bond futures are predominantly 
+traded on Eurex, a German-based electronic exchange. Traders told 
+the newspaper that it was easy to accidentally enter the dealing program 
+instead of the training simulation software. 
+</TEXT>
+</DOC>

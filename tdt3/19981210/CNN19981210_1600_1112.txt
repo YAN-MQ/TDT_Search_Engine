@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981210.1600.1112 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A conservation group is spending millions of dollars to preserve forests 
+and wildlife. The conservation fund says it's paying $76 million for 
+nearly 300,000 acres of land in New Hampshire, Vermont and New York. 
+The group plans to sell back about 30% of the land to the state and 
+federal governments for long-term preservation. The balance will be 
+sold to private groups with certain usage restrictions. 
+</TEXT>
+</DOC>

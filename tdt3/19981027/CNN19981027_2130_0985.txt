@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981027.2130.0985 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The blue chips finished on a Negative note today, after spending much 
+of the session in positive territory. The Dow Jones industrial average 
+closed at 8366, a drop of 66 points. 
+</TEXT>
+</DOC>

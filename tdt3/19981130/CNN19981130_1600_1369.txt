@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981130.1600.1369 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The "NFL performance of the week" goes to Miami quarterback Dan Marino. 
+With his three touchdown passes and the dolphins' over New Orleans, 
+Marino became the first player in NFL history to throw 400 career 
+td passes. It was Marino's first three-touchdown performance of the 
+season. 
+</TEXT>
+</DOC>

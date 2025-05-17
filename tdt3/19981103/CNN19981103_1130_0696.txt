@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981103.1130.0696 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Nearly 4 million Americans are infected with hepatitis C and most 
+don't realize it. It's a slow-acting virus transmitted through the 
+blood that was first discovered nearly a decade ago. Hepatitis C attacks 
+the liver, resulting in inflammation. And in some cases, cirrhosis. 
+When star tissue breaks up the normal structure of the liver, the 
+most common symptom is fatigue. But many patients have no symptoms. 
+Nearly 3/4 of the people who contract the illness carry it for life. 
+The centers for disease control and prevention reports most new infections 
+are due to drug use or sexual behavior. Also at risk, infants born 
+to infected women, hospital workers and anyone who had a blood transfusion 
+prior to July, 1992. Hepatitis C is detected through a blood test. 
+There's no vaccine against the disease. Treatment is available through 
+an anti-viral drug, but there's no cure. 
+</TEXT>
+</DOC>

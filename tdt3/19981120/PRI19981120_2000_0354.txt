@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981120.2000.0354 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+You're listening to the World. The World is made possible in part 
+by Merck, pharmaceutical research dedicated to preventing disease 
+and improving health. Merck, committed to bringing out the best in 
+medicine. This is the World. I'm Lisa Mullins. 
+</TEXT>
+</DOC>

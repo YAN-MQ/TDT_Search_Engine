@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> NYT19981123.0297 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Cooler air will extend from the Ohio Valley to the 
+Northeastern and Middle Atlantic States on Tuesday in the wake of 
+a cold front that will move off the East coast early Tuesday morning. 
+However, temperatures will still average near to slightly above normal 
+in most places. Scattered snow showers will affect the mountains of 
+northern New England, but it will be mainly dry and tranquil elsewhere 
+as high pressure takes control. A moist disturbance will drift across 
+northern Florida with batches of showers and some thunderstorms over 
+the peninsula. Meanwhile, residual moisture will cause clouds, patchy 
+showers and spotty drizzle to linger near the Southeast coast. Light 
+winds will cover the interior Southeast from Georgia to eastern Texas 
+where areas of low clouds and fog will be slow to break. Low pressure 
+starved for moisture will produce spotty rain showers over the far 
+northern Plains. Otherwise it will be quite mild in the Plains, with 
+afternoon highs 10 to 15 degrees above normal. Moist winds from the 
+Pacific will blow across the Northwest and northern Rockies on Tuesday, 
+but only patchy showers are expected through Tuesday afternoon. Snow 
+will accumulate a few more inches in the mountains. However, another 
+surge of heavy rain and very strong winds will reach the coast on 
+Tuesday night, as the latest in a series of potent storm systems arrives. 
+Meanwhile, sinking air currents will lead to ample sunshine and pleasant 
+temperatures from southern California to parts of western Texas. Focus: 
+Squall Line A line of squally thunderstorms charged across the Oregon 
+coast early Monday. Such a formidable ``squall line'' is unusual in 
+the Pacific Northwest. Typically, tempestuous lines of thunderstorms 
+precede strong cold fronts in the eastern states as very warm and 
+humid air near the surface is rapidly lifted by upper-level disturbances. 
+In the Pacific Northwest, the combination of very warm and humid air 
+rarely occurs, owing to the influence of cool Pacific waters. On Monday, 
+lifting by a powerful upper-level disturbance overcame the lack of 
+humid warmth, igniting a line of fierce storms. 
+</TEXT>
+</DOC>

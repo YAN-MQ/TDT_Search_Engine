@@ -1,0 +1,91 @@
+<DOC>
+<DOCNO> NYT19981209.0266 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Every day, hundreds of blind and visually impaired people in Asheville, 
+N.C., rely on Bob Brummond's radio reading service for their national 
+and local news. One of about 150 such services in the United States, 
+Brummond's programming lets listeners who own a specialized radio 
+receiver listen to the reading of newspapers and magazines and hear 
+exercise programs. If they have a computer with Internet capability, 
+a screen reader and a speech synthesizer, they can also listen to 
+news off the Web page Brummond set up last year. But starting in January, 
+Brummond expects, anyone with a telephone will be able to gain access 
+to his page, the Regional Audio Information Service Enterprise site, 
+raise.new-era.net, and hear the news read without a special radio 
+or a personal computer. Brummond, who is general manager of the service, 
+will be trying out a new voice-based browsing device from Productivity 
+Works (www.prodworks.com) in Trenton, N.J., that will allow a caller 
+to make his way through the Web page by punching buttons on a touch-tone 
+telephone and picking out items of interest. Voice access to the Internet, 
+along with ways of using speech-recognition technology to make computers 
+respond to voice commands, is a growing focus of research. In October, 
+for instance, Motorola Inc., Visa International and several other 
+companies announced an alliance to create speech-recognition standards 
+that could potentially make the Internet accessible to anyone with 
+a telephone, reducing the need for personal computers. So new products 
+like the Productivity Works browsing device, while intended primarily 
+to help the blind, are being closely watched for possible broader 
+applications. The Productivity Works product, Pwtelephone, runs on 
+software compatible with Windows, and will essentially turn Brummond's 
+Web page into a voice on the phone. ``Any blind or low-vision person 
+with a touch-tone phone can now read the paper,'' said Brummond, who 
+estimates that only about 5 percent to 10 percent of the blind people 
+in his area use the Internet. Many blind people use screen readers 
+to surf the Web, but the graphics elements are hard for such programs 
+to digest. Many Web sites, however, including The New York Times' 
+(www.nytimes.com), offer alternative, low-graphics versions. Pwtelephone 
+is among a growing number of products coming onto the market that 
+are designed to make computers and the Web more accessible to the 
+handicapped. The Pwtelephone, which will sell for about $550, was 
+introduced in month. When a person with a Web page buys the device, 
+anyone can call in and listen to the contents of the page via a regular 
+telephone. Productivity Works is widely known among the blind because 
+it created Pwwebspeak, a browser that uses just type, instead of the 
+visual elements required by Netscape and Internet Explorer, and therefore 
+does not need a screen reader. About 20,000 customers use Pwwebspeak, 
+according Mark Hakkinen, cofounder and senior vice president of Productivity 
+Works. The product's usefulness may not be limited to the handicapped. 
+Hakkinen said people who are on the road without a computer or otherwise 
+not near one _ what he called ``situationally disabled'' _ can also 
+use it to have access to the Web. If a company hooks its Web page 
+up to Pwtelephone, an employee can call in and listen to information 
+posted there. Speech-recognition and voice technology are developing 
+quickly, with some successes occurring in various areas. But the current 
+version of this particular product has a big limitation: only one 
+person can call in at a time to each pwTelephone, because it responds 
+to each user's request. Getting to the Web over the telephone, rather 
+than using a computer and having to manipulate a mouse, may also help 
+others who are disabled, said Neal Ewers, who is blind and does research 
+and product testing at the Trace Research and Development Center at 
+the University of Wisconsin. ``Someone with use of one hand may find 
+the keyboard difficult, but he can use a touchtone phone,'' said Ewers. 
+``It opens up the web for that person.'' Another product to aid visually 
+impaired computer users is scheduled for release by IBM (www.ibm.com) 
+in January. The Home Page Reader for Windows, which will cost $149, 
+will read computer screen text out loud. It will be sold with Netscape 
+Communications' Navigator browser. ``Both of these are examples of 
+technology that provide better access to internet and web pages,'' 
+said Professor Gregg Vanderheiden, director of Trace and a member 
+of the World Wide Web Consortium, a group of volunteer computer experts 
+who are working to make the Web more accessible. These products will 
+allow ``more people to interact with more types of Web pages than 
+in the past.'' The Home Page Reader was developed in IBM's Tokyo Research 
+Laboratory with Chieko Asakawa, a blind researcher who worked on the 
+early development of the software. It has been available in Japan 
+for the last year. Curtis Chong, director of technology for the National 
+Federation of the Blind, said he sees the product as an important 
+step for the blind because it is made by the computer giant IBM. ``It's 
+great for a major company to be using speech on a commercially available 
+application,'' Chong said. ``This is a step in the right direction 
+by a major company, which holds out a promise for the future.'' He 
+added, ``The best way to think of this is a supplement for Netscape.'' 
+The Home Page Reader can read HTML tags and decipher tables and columns, 
+but like all top-of-the-line screen readers, it cannot read a graphic 
+unless there is a written description of that graphic on the page. 
+There are still some Web pages that will not be accessible because 
+they lack text, Chong said. ``No matter how good the browser is, it 
+won't help poorly designed web pages,'' he said. 
+</TEXT>
+</DOC>

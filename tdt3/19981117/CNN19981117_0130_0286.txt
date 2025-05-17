@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981117.0130.0286 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Most Americans don't feel the United States has fared all that well 
+in the recent conflicts with Iraq. A CNN/"USA today" Gallup poll shows 
+53% of people believe that over the last year, Iraqi President Saddam 
+Hussein was the winner. 37% say President Clinton won. When asked 
+if missile attacks on Iraq have achieved significant U.S. goals, only 
+30% of those polled say "yes," 66% say "no." 
+</TEXT>
+</DOC>

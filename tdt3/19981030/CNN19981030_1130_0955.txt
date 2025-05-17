@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981030.1130.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors cheering good tidings on the nation's economy. For that 
+and all the market numbers, we turn to Valerie Morris at the cnnfn 
+newsdesk in New York. Valerie? It is another winning day on Wall Street. 
+Financial and airline stocks leading the charge, but stocks showing 
+continued strength across the board. Investors feeling optimistic 
+following positive news on the nation's economy and a plan by the 
+leaders of industrialized nations. We'll have more on that in a moment. 
+Advancing stocks are beating declining issues by a better than 2-1 
+margin at the New York stock exchange. Taking a look at some big winners 
+in the transportation sector -- 
+</TEXT>
+</DOC>

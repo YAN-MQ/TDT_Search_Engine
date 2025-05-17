@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981224.1600.0084 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Much of the U.S. has been struck hard with winter weather this Christmas 
+eve. Dangerous driving conditions have caused dozens of deaths. In 
+parts of the south, a mixture of snow, sleet and freezing rain is 
+likely. In New York, snow fell for the first time this season. As 
+much as four inches are forecast by tonight stretching from Kentucky 
+into southern New Jersey. Many people might just be in for a white 
+Christmas after all. Added to the snow and the ice is a bone-chilling 
+cold. 
+</TEXT>
+</DOC>

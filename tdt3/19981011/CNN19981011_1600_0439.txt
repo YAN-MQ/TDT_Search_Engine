@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981011.1600.0439 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Women younger than 75 are nearly twice as likely as men to die after 
+a heart attack. That's according to a new study by Yale University 
+researchers. They reached that conclusion after studying 1025 heart 
+attack patients. They also found that of the people they studied, 
+women older than 75 were less likely to die from a heart attack than 
+men in the same age group. 
+</TEXT>
+</DOC>

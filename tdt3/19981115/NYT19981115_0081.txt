@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> NYT19981115.0081 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Eight people found themselves at a crossroads in history Saturday, 
+visibly uncomfortable with their task of creating the first real government 
+for an online world and intimidated by the level of distrust _ sometimes 
+outright animosity _ they encountered when facing their constituents 
+for the first time. At a reception on Friday evening, the members 
+of the ad hoc board that will establish a private system of Internet 
+governance huddled with one another, unsure how to reach out to the 
+many factions that have been battling for years over who will rule 
+cyberspace. They had reason to be intimidated. Many of these factions 
+have been quarreling for years. As the panel's chairwoman, Esther 
+Dyson, pointed out, a key goal of this first public meeting was to 
+earn their trust. But as the nearly 200 people who traveled from as 
+far away as Malaysia lined up at microphones to introduce themselves 
+Saturday morning, a single message to the new board came across loud 
+and clear: We don't trust you. The dialogue did turn much more constructive 
+as the day wore on, and most of the group, despite their criticism, 
+expressed a willingness to work with the board and offer specific 
+suggestions for insuring that the new nonprofit group _ the Internet 
+Corporation for Assigned Names and Numbers _ is not taken over by 
+corporate and other special interests. Still, many said the new board 
+members had done little to put their minds at ease. ``There is no 
+feedback from the board,'' said Tony Rutkowski, an Internet consultant 
+from California. ``Esther is the only one who has asked any questions.'' 
+Ms. Dyson, chairwoman of Edventure Holding, an information technology 
+company in New York, acknowledged that the board seemed intimidated 
+by its first meeting with its public _ which included critics of the 
+process that led to their selection. Indeed, Hans Kraaijenbrink, a 
+board member from the Netherlands, indicated he had never seen such 
+passion at a public meeting. But the purpose of the meeting, Ms. Dyson 
+said, was to listen and get input, to begin the process of building 
+a consensus with the wary factions that have yet to endorse the corporation 
+plan. The U.S. Department of Commerce has tentatively selected the 
+corporation to take over the administrative functions of the Internet, 
+which are currently handled under government contracts. Crucial issues 
+the new corporation will decide include how to introduce competition 
+into the lucrative business of registering Web site names in the popular 
+top-level domains of ``.com,'' ``.net'' and ``.org.'' Network Solutions 
+Inc., the government's contractor, currently has a monopoly on the 
+business. The skepticism about the corporation stems, in part, from 
+continuing questions about how its interim board was picked. Critics 
+contend the nonprofit corporation was created secretly and not in 
+the open consensus-building fashion that the Clinton administration 
+called for when it proposed getting the government out of the Internet 
+business. One person in the audience referred to the creation of the 
+board as a ``virgin birth.'' Eight of the 10 board members made it 
+to the first meeting, and they tried to explain how they got there. 
+Kraaijenbrink, the chairman of the executive board of the European 
+Telecommunications Network Operators, said he was called by the European 
+Union. ``I said, `I know nothing about the Internet.' They said, `That's 
+good.' ``I said, `I know nothing about the discussions that are going 
+on.' They said, `That's good,''' he told the audience. Others explained 
+how they were approached, directly or indirectly, by Joe Sims, the 
+lawyer for Jonathan B. Postel, an Internet founder who drafted the 
+corporation plan just before he died last month. But the explanations 
+seemed too simple for much of the audience, who seemed convinced the 
+board was selected to carry out a secret agenda for unknown special 
+interests. Sensing that the audience was not satisfied with the explanations, 
+Sims jumped to the microphone and explained that Postel chose the 
+interim board himself, with input from around the world. The goal, 
+he said, was to find people who had no history or stake in the years-long 
+international debates over how to move Internet governance from the 
+public to the private sector. Sims said Postel made the selections 
+only after ruling out an election because there was no clear electorate. 
+The interim board now faces the same problem as it tries to finalize 
+the process for establishing a membership and supporting organization. 
+Gregory Crew, a board member and the chairman of the Australian Communications 
+Industry Forum Ltd., said the corporation would appoint an advisory 
+panel to make recommendations on how a board-electing membership should 
+be structured to insure sufficient accountability. ``There needs to 
+be a mechanism where people who come up with an idea in their garage 
+can be heard,'' one participant said. 
+</TEXT>
+</DOC>

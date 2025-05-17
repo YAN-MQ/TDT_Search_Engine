@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981215.1600.1051 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Good news from General Electric. The company expects to meet earnings 
+estimates for next year with three quarters of its divisions growing 
+by at least 15%. G.E.'s empire includes everything from lightbulbs, 
+aircraft engines, and from financial services to the NBC television 
+network. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981024.1300.0623 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Deep space one is cruising through space. The satellite blasted into 
+orbit today from Florida. It's beginning an 11-month mission that 
+could help lead to spacecraft that are smaller and less expensive. 
+It's also designed to validate 12 new technologies for scientific 
+space missions for the next century. It will rendezvous in July and 
+get a close-up look at a Comet in 2001. 
+</TEXT>
+</DOC>

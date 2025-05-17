@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981014.1700.2142 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street, US share prices closed higher on Wednesday. I'm Dave 
+Deforest, VOA News. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981112.1600.0497 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll check the extended weather forecast for the U.S. next. And later 
+-- a high-tech construction method that can help low-income homeowners 
+keep their utility bills down. 
+</TEXT>
+</DOC>

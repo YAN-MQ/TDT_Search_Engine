@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> NYT19981017.0113 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+With congressional elections just around the corner and the House 
+impeachment inquiry of President Clinton set to start shortly afterward, 
+public opinion polls are more numerous, more important and possibly 
+more confusing than usual. In any election year, pollsters try to 
+predict which voters will go to the polls and what they will do when 
+they get there. Turnout is important, but issues and circumstances 
+like the state of the economy are what often drive the result. But 
+this year, the conventional wisdom has it, turnout is everything. 
+If the presidential sex scandal galvanizes Clinton opponents, Republicans 
+win. If the widespread public distaste for impeachment proceedings 
+mobilizes a backlash vote, Democrats may gain the upper hand. So pollsters 
+are focusing even more than usual this year on figuring out who will 
+really take the trouble to vote, searching for that mythical beast 
+known as the ``likely voter.'' In assessing pre-election polls, here 
+are some things to look for: Accurate Sampling Good polls start with 
+good samples of the population from all geographical areas and segments 
+of society. In recent decades, this has been accomplished by ``random 
+digit dialing,'' in which a computer selects area codes and exchanges 
+and then makes up the last four digits at random to form complete 
+telephone numbers. For decades pollsters have demonstrated how 1,000 
+or so people can accurately represent all adults in the entire nation 
+_ plus or minus a few percentage points, the potential fluctuation 
+that is inherent in every poll because it is a sampling rather than 
+a census. Likely Voters In the period leading up to any election, 
+pollsters make a big mistake if they try to represent all adults in 
+their polls. In the 1996 presidential election, only about 49 percent 
+of all adults actually voted. In the 1994 midterm election, about 
+39 percent voted. Thus, it is critical to screen for likely voters 
+by discarding the opinions of half to two-thirds of all adults polled. 
+Each polling organization has its own screening method. The Gallup 
+Organization, which polls for USA Today and CNN, has one of the most 
+elaborate and well-tested systems. It gives respondents points for 
+voting in past elections, their current intention to vote and their 
+knowledge of where to go to vote, among other factors. Respondents 
+score from zero to seven points; Gallup then picks those respondents 
+with the most points, working down until they reach a percentage of 
+the total group that is equal to the expected nationwide turnout (expected 
+to be 39 percent this year). The New York Times/CBS News Poll, by 
+comparison, screens in several ways. ``Likely voters'' in this year's 
+polls are those who say they voted in either 1996 or 1994, who say 
+they are paying attention to this year's campaign, and who say they 
+will definitely vote in November. ``More likely voters'' differ by 
+saying they voted in both 1996 and 1994. The Times has found that 
+its polling results become more pro-Republican when the focus is limited 
+to likely and more likely voters, suggesting that if turnout is lower 
+than usual this year, it will help Republicans. But Gallup does not 
+find nearly so strong a pattern, suggesting that the contest remains 
+very close at all levels of turnout. Gallup vice president David Moore 
+maintains that the organization's standard ``likely voter'' questions 
+should still be adequate even in this unusual year. Moore says a person 
+who shows little history of voting in past elections but who becomes 
+motivated to vote this year by the presidential scandal or the impeachment 
+hearings might well be overlooked as a likely voter. But he added 
+that he thought the people most likely to be roused to vote by the 
+scandal or hearings would probably be strong Republicans or strong 
+Democrats who are already frequent past voters. Phrasing of Questions 
+Even though the latest Gallup and Times/CBS News polls issued last 
+week agree in many areas, Gallup found that most Americans believe 
+their incumbent Representatives deserve re-election. The Times/CBS 
+News poll, on the other hand, found Americans to be narrowly split 
+on the issue. Closer examination suggests that the discrepancy may 
+be due to the different wording of the questions. Gallup asked: ``Please 
+tell me whether or not you think each of the following political officeholders 
+deserves to be re-elected. First, most members of the House of Representatives; 
+second, your own representative.'' The Times/CBS News poll linked 
+re-election to job performance, and also asked whether it is time 
+to give new candidates a chance, thus offering a potential reason 
+why a respondent might prefer not to re-elect an incumbent. Both sets 
+of questions clearly show that people like their own Representative 
+better than they like Congress in the aggregate, and both organizations 
+find, each using its own questions, that willingness to re-elect incumbents 
+is higher now than it was in 1994. Multiple Polls It is a pollster's 
+maxim that the truth lies not in any one poll but at the center of 
+gravity of several polls. When polls agree, it often means the findings 
+are solid. But when they disagree, it often means the findings are 
+more fragile or tentative. The best advice, therefore, is to track 
+the findings of several organizations. 
+</TEXT>
+</DOC>

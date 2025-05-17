@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> ABC19981015.1830.1372 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We've been looking at managed care in America, now truly the HMO nation. 
+The promise of managed care has always been to provide better care 
+at a reduced cost. But when HMOs don't get the job done, the question 
+is, who's to blame? Tonight, we check in with whether your employers 
+have an answer for it. Today, 127 million Americans and their families 
+are enrolled by their employers in some form of managed care program. 
+Dr. Thomas bodenheimer, from the University of California, blames 
+the corporate bottom line for driving down the quality of health care 
+available to workers. If you're a corporation, you have to worry about 
+your profit margins and quality of care increases costs. Where as 
+if you can cut down your costs, you'll increase your profits. According 
+to recent studies, only about a third of corporations who are in the 
+market for managed care ever consider the quality of the health care 
+provider. Greg Lehman is a corporate consultant about health care. 
+I think the breakdown has been traditionally the employers have primarily 
+focused on costs, and they have been somewhat ignorant of the qualitative 
+issues regarding health care. And it may take a big effort for employees 
+to refocus them. But it's wise to remember that if you criticize you 
+HMO for inadequacy, you might also consider your employer's "bottom 
+line." 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981116.1130.0446 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Israeli prime minister Benjamin Netanyahu says he is suspending a 
+troop pullback in the West Bank until the Palestinians drop plans 
+to declare unilateral independence in may. Netanyahu made the announcement 
+in a speech to parliament that began a Two-day debate on the agreement, 
+under which Israel is to withdraw from 13% of the West Bank by the 
+end of January. The prime minister is upset over recent remarks by 
+Palestinian leader yasser Arafat, who has renewed a pledge to declare 
+statehood in may. 
+</TEXT>
+</DOC>

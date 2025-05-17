@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> APW19981216.0294 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Unemployment in Britain stayed at 4.6 percent for the fourth consecutive 
+month in November, although the number of people claiming welfare 
+rose slightly. The government reported Wednesday that the number claiming 
+welfare increased by 5,900 to about 1.33 million, while the government-preferred 
+International Labor Organization total _ which includes people not 
+eligible for benefits _ rose by 16,000 between August and September. 
+Despite the increases in those seeking benefits, the government said 
+the labor market generally continued to improve, with employment rising 
+and job vacancies reaching record numbers. The number of people working 
+reached a record 27.2 million in August through October, up 80,000 
+from May-June and an increase of 259,000 compared to a year ago. The 
+growth was attributed mainly to an increase in the number of women 
+taking full-time jobs. ``The figures refute the worst fears of those 
+predicting a large jump in unemployment,'' said Employment Minister 
+Andrew Smith. ``The number of those in work has risen to 27.2 million, 
+the highest level ever recorded, and a small increase in unemployment 
+reflects the slow down in the economy predicted by both the Bank of 
+England and government economists.'' 
+</TEXT>
+</DOC>

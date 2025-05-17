@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981204.1600.0484 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Saturday. On Saturday morning, a storm is moving out 
+of the Rockies into the plains states and it could produce some thunderstorms 
+through the southern plains into the middle Mississippi river valley. 
+Meanwhile, snow will continue in the Rockies and also over the extreme 
+far northern midwestern states. There's another system pushing into 
+the northwest as well, going through the day on Saturday that will 
+drop through Washington and Oregon, bringing rain and mountain snow 
+to that region and northern California once again. Saturday's highs 
+just in the 20s and 30s from the great basin to the upper midwest. 
+Also across northern New England. But much of the rest of the eastern 
+and central U.S. remains on the mild side. On Sunday, we'll see snow 
+over the northern Great Lakes. Showers and thunderstorms through the 
+Mississippi river valley. With rain and mountain snow out west once 
+again. Monday, showers and storms continue to push eastward with more 
+rain moving into the northwest. And Tuesday, temperatures have cooled 
+quite a bit in the east. It will be wet there and in the northwest 
+as well. Don't forget, four-day forecasts, 7,200 cities, at CNN.com. 
+</TEXT>
+</DOC>

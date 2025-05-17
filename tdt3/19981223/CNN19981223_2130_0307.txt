@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981223.2130.0307 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+British entrepreneur Richard Branson is expected to float over Japan 
+tomorrow, as he continues his attempt to circle the globe. Branson 
+told the BBC he expects to cross the American border on Christmas 
+day, possibly over Washington state. The ground crew of the project 
+says the leg over the pacific ocean will be the most dangerous. The 
+balloon took off December 18th from Morocco, and Branson and crew 
+hope to end their voyage by touching down in western Europe. 
+</TEXT>
+</DOC>

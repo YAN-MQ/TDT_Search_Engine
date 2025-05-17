@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981207.1600.0921 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And two astronauts aboard the space shuttle "endeavour" are getting 
+ready for a six-hour spacewalk. They'll hook up cables between the 
+first two components of the international space station. 
+</TEXT>
+</DOC>

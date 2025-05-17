@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981216.1130.1093 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+America online says consumers are spending 50% more while shopping 
+in cyberspace than last year. Another sign that the Internet is getting 
+more pop, AOL says traffic is triple it was last year. It is the largest 
+Internet provider in the world. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981026.2130.0981 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street began the week with a technical glitch. The New York stock 
+exchange stopped trading at 1:16 P.M. eastern time today because of 
+a systems communication problem. Trading resumed about an hour later. 
+Stocks ended the day on a down note. The Dow Jones industrial average 
+lost 20 points, closing at 8432. 
+</TEXT>
+</DOC>

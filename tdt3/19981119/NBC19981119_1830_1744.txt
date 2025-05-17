@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981119.1830.1744 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Nightly News" for Thursday. A reminder, coverage of the impeachment 
+hearings tomorrow on this NBC station, and all day on MSNBC on cable 
+and on the Internet. I'm Tom Brokaw. I'll see you back here tomorrow 
+night. 
+</TEXT>
+</DOC>

@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> NYT19981023.0358 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The fallout from the recent hedge-fund eruptions continues to waft 
+into the nooks and crannies of the financial markets. One asset class 
+caught in the downdraft is convertible bonds, which according to the 
+First Boston Convertible Bond Index have fallen 21.5 percent since 
+April 30. Converts, as they are known, initially fell for the same 
+reasons that stocks did: the meltdown in emerging markets and fears 
+of recession. But the slide in their prices _ and the corresponding 
+increase in their yields, which move in the opposite direction _ was 
+worsened by widespread selling among hedge funds. Margaret Patel, 
+manager of the Third Avenue High-Yield fund, which holds some convertibles, 
+says leveraged players, including a very large number of hedge funds, 
+felt compelled to sell their positions in convertible bonds to raise 
+needed cash. In fact, hedge funds control 40 percent to 50 percent 
+of the $120 billion market in convertible bonds, according to Salomon 
+Smith Barney. Converts are corporate bonds with a feature that allows 
+the holder to convert the fixed-income securities into a set number 
+of common shares of the issuing corporation. Converting such bonds 
+can be a lucrative transaction in a rising market, making the securities 
+popular among many investors because of the close relationship between 
+the price of the bonds and the underlying stocks. For hedge funds, 
+however, a common tactic is to short the common stock of a company, 
+betting that it will fall, and to buy its convertible bonds as a hedge 
+against the possibility that the stock will rise. To short a stock, 
+an investor borrows shares and then sells them, expecting to replace 
+them after the price declines and pocket the difference. If the stock 
+rises, however, the hedge fund is somewhat protected because the price 
+of the convertible, which is also paying interest, is likely to rise, 
+too, helping to offset the loss from the short transaction. The unusually 
+swift fall in converts in the third quarter caught many hedge funds 
+off guard, forcing them to liquidate positions, which in turn put 
+more pressure on the market. At the same time, hedge funds' bets in 
+other markets were going awry, and many were forced to unwind convertible 
+positions to raise cash, said John P. Calamos, president of Calamos 
+Asset Management in Naperville, Ill., and manager of the Calamos Convertible 
+Hedge fund. A result is a table-thumping buy opportunity, money managers 
+say. ``This is the kind of opportunity we only see a couple of times 
+each decade,'' said Charles Pohl, manager of the Putnam Convertible 
+Income-Growth fund. In fact, investors can benefit from resulting 
+anomalous situation. Many converts have higher yields than those of 
+the comparable nonconvertible bonds issued by the same company. Columbia/HCA 
+Healthcare, for example, has a nonconvertible bond, rated triple-B, 
+with a 7 percent coupon due in 2007 that is trading at 92.25 percent 
+of its face value, with a yield of 8.26 percent. The same company 
+has a convertible bond that is rated slightly lower _ triple-B-minus 
+_ and has a coupon of 6.75 percent due in 2006. It is trading at 80.25 
+percent of par, with a yield of 10.47 percent. So buyers of the convertible 
+now get a security with a higher yield and retain the possibility 
+of converting their investment into common stock. The best course 
+for individuals, however, may be investing in a convertible mutual 
+fund. Buying individual bonds is costly _ one typically needs at least 
+$10,000 to buy one bond _ and analyzing the securities can be complicated, 
+because it requires an understanding of the underlying stock as well 
+as the bond. 
+</TEXT>
+</DOC>

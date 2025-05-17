@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> CNN19981128.1600.0982 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the u.s. stock market broke a new record this week, but that wasn't 
+the only thing to dominate the business headlines this week. stan 
+case reports. from the internet to banks, to big oil, billion-dollar 
+mergers dominated the business news this week. it began when america 
+online announced it was buying netscape for $4.2 billion in stock. 
+aol is the nation's biggest internet provider, and netscape provides 
+the software many people use to browse the web. the deal includes 
+sun microsystems, and will help that company promote its java programming 
+language. germany's deutsche bank confirmed it's preparing to buy 
+banker's trust for more than $9 billion in cash. it's the biggest 
+take over of a u.s. financial company by an overseas bank. deutsche 
+bank wants a foothold in the american stock and bond markets. exxon 
+and mobile announced they're in merger talks, too. the proposed deal 
+would be the biggest in history, create the biggest energy company 
+in the world, and the biggest company of any kind in the united states. 
+all this merger talk pushed wall street into record territory. the 
+dow industrials were up nearly 2% for the week. and then there's the 
+merger that wasn't. the yankees broke off talks with cablevision. 
+cablevision already owns the new york knicks and rangers. but sources 
+say discussions broke down over how much control yankee owner george 
+steinbrenner would keep if the deal went through. that's "business 
+this week," stan case, "cnn headline news." 
+</TEXT>
+</DOC>

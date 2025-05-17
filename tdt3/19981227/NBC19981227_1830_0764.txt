@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981227.1830.0764 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.S. justice department released new figures tonight about crime 
+in this country. Last year fewer Americans reported being crime victims. 
+The biggest drop was a 17% decline in the robbery rate. 
+</TEXT>
+</DOC>

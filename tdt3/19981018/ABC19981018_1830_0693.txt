@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> ABC19981018.1830.0693 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Two goliaths do battle tomorrow in a courtroom in Washington, D.C., 
+when the U.S. justice department takes on Microsoft. As ABC's Terry 
+Moran reports, it's a fight that may have repercussions for anyone 
+who uses a personal computer. When the Microsoft trial gets under 
+way here tomorrow, it will open a window on the fiercely competitive 
+behavior of a technological colossus. But the impact of this case 
+will reach far beyond the computer industry. If the government wins, 
+it will tell dominant firms that they must exercise more caution in 
+dealing with competitors and with their customers. If Microsoft prevails, 
+it gives dominant firms still greater freedom to choose pricing, product 
+development and promotional strategies of their own choosing. A. this 
+man sees a striking parallel between the mft mft story and the first 
+anti-trust suit against standard oil of Ohio. This is more and more 
+shaping up as a case that will begin to define the rules of the game 
+in the information age, the way that the standard oil case began to 
+define the rules of the game in the industrial age. At the heart of 
+the Microsoft case is the government's allegation that the company 
+has illegally tied its Internet browser to its windows operating system, 
+which is on virtually very personal computer. Microsoft's competitors 
+say that's unfair. What's at stake for the customer, the consumer, 
+it eliminates their choice. Microsoft executives argue that they're 
+winning fairly in the free market, and that the future of the high-tech 
+revolution itself is under a threat. There is a principle here that 
+we're worth -- we believe is worth fighting for, and that's the ability 
+to constantly innovate our products. Whatever happens in this courthouse 
+over the next several weeks, a years-long appeals battle is certain. 
+For consumers, that means the costs of computing and the nature of 
+the internet could end up being determined at the Supreme Court. Terry 
+Moran, ABC News, Washington. 
+</TEXT>
+</DOC>

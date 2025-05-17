@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981209.2130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.N. has denounced Iraq for denying weapons inspectors access 
+to the headquarters of Iraq's ruling party. Iraq had demanded the 
+inspectors indicate in writing what they were looking for. 
+</TEXT>
+</DOC>

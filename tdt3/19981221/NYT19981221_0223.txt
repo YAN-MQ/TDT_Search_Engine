@@ -1,0 +1,97 @@
+<DOC>
+<DOCNO> NYT19981221.0223 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+This space has been hijacked this week by the Gotcha! Gang, a growing 
+legion of readers who take preternatural delight in exposing the grammatical 
+errors of the resident columnist. Their motto: ``No Haven for the 
+Maven.'' (Excuse me; its motto.) From N. Lewis of Croydon, N.H.: ``You 
+write, `A column in this space titled ``The Asian Connection'' had 
+just appeared, followed the next day by a front-page article about 
+John Huang's fund-raising in The Wall Street Journal.' ``John Huang 
+was doubtless a very active fellow, but I doubt he was engaged in 
+`fund-raising in The Wall Street Journal.''' Max Culpa for Mayor. 
+Huang was surely not chasing the editor Robert Bartley down that newspaper's 
+corridors seeking contributions to the Clinton campaign. A prepositional 
+phrase like in The Wall Street Journal is a modifier and should cozy 
+up intimately to the noun it modifies, lest another, closer noun be 
+mistaken for the term being modified. In this case, the noun phrase 
+being modified was a front-page article, but I put so many words in 
+between that it is possible to think that fund-raising was the modified 
+term. The philologist Richard Lederer had a good example of this abuse 
+of prepositional-phrase position: ``Lincoln wrote the Gettysburg Address 
+while traveling from Washington to Gettysburg on the back of an envelope.'' 
+From Ed Cashin of Hastings-on-Hudson, N.Y.: ``You say, `He offers 
+the other two branches of government the choice,' but you mean `the 
+two other branches.' Otherwise, we would have four branches of government.'' 
+You know, he's got a point. I never thought of that before. Other 
+is called a ``postdeterminer'' because it usually comes after words 
+that are determiners, like numerals or other quantifiers that make 
+a noun phrase specific. Thus, when I wrote the other two branches, 
+it could be thought to stand against these two branches _ totaling, 
+as my eagle-eyed critic observes, four branches. But if I had written 
+the two other branches, there could be no doubt that only three branches 
+exist. Some would call this pedantry, but I stand corrected, and in 
+turn correct David Schippers, majority counsel of the House Judiciary 
+Committee, for his castigation of the president's disdain for ``the 
+integrity of the other two coequal branches.'' Cashin is hereby appointed 
+recording secretary of the Nit-pickers' League, a highly sophisticated 
+subgroup of the Gotcha! Gang whose membership is in constant turmoil 
+about writing its name Nitpicker's League. Two weeks ago, in reviewing 
+Bryan Garner's Dictionary of Modern American Usage, I misquoted him 
+by writing that ``that historic differentiation'' between enormity 
+(``outrageousness'') and enormousness (``hugeness'') should be upheld. 
+Garner correctly wrote historical. Robert Burchfield's New Fowler's 
+Modern English Usage quotes a forgetful maven on that: ``Any past 
+event is historical, but only the most memorable ones are historic.'' 
+Now to the alleged mistake that drew the most mail. In a line about 
+the pronunciation of status, I wrote, ``That is usually pronounced 
+STAT-us, as in statistics, by the highfalutin, and STATE-us by the 
+hoi polloi.'' From Jim Tart of Dallas: ``My daughter Katie tells me 
+that her eighth-grade teacher would have smacked her in the head with 
+her grammar book had she said `the hoi polloi.' Katie says hoi polloi 
+means `the masses,' and therefore should never be proceeded by the. 
+Live by the sword and die by the sword.'' Thank you, Mr. Tart. (And 
+when Katie comes by with her spelling book opened to precede, watch 
+your head.) Curiously, this seeming redundancy in regard to a foreign 
+phrase apparently infuriates Greek scholars. ``Wrong!'' shouts Stephen 
+Esrati of Shaker Heights, Ohio. ``Hoi means `the.''' No doubt about 
+that. Wrote Ronald Serafine of Butler, Pa.: ``One does not say `the 
+hoi polloi' for the same reason that one does not say `with au jus.' 
+How plead you?'' Innocent with an explanation, Your Honor. Take that 
+French phrase first: When you order roast beef au jus, pronounced 
+oh-ZHOO, you are using the French for ``in its juice'' (literally, 
+``with juice''). Your waitress is in error if she treats that phrase 
+as a noun and asks, ``You want the au jus on the side?'' Correct her, 
+and you will soon have a chemise au jus. In the same way, if you correct 
+an inviter who writes, ``Please R.S.V.P.,'' you won't get asked again 
+to Repondez s'il vous plait (literally, ``Respond, if you please''). 
+Those are two-language redundancies not yet given absolution by all-forgiving 
+usage. When we speak of ``the hoi polloi,'' however, we are firmly 
+grounded in an error that common usage over centuries has erased. 
+Certainly, the hoi polloi translates formally and redundantly as ``the 
+the masses,'' causing speakers of Greek and members of the Squad Squad 
+to look at you with disdain. But the English idiom is the hoi polloi. 
+Sometime next century, we will write that as hoipolloi to reflect 
+its Anglicization. Robert Burchfield, in the third edition of Fowler's, 
+calls the hidebound resistance to the in front of the Greek phrase 
+``an attempt to force Greek grammar on the receiving language.'' He 
+writes: ``Dryden and Byron wrote `the oi polloi' and who is to quarrel 
+with them? And who is prepared to `correct' W.S. Gilbert's lines from 
+``Iolanthe,'' 'Twould fill with joy, And madness stark/the oi polloi 
+(a Greek remark)'?'' Though willing to go along with the usage roundheels 
+on permitting that redundancy, I hang tough on semantics: The meaning 
+of the hoi polloi should remain ``the masses,'' or in less-Marxist-sounding 
+terms, ``ordinary folk.'' When the writer Pete Hamill told the interviewer 
+Charlie Rose, ``Sinatra threw a party for Agnew in Palm Springs with 
+all the hoi polloi in attendance,'' Francis Dyer of New York objected, 
+noting that the phrase had not taken on a new meaning of ``important 
+people, upper classes or `swells.''' That upside-down usage occurs 
+often. The confusion comes from the similarity of the noun hoi polloi 
+and the adjective hoity-toity, a rhyming compound from the English 
+dialect term hoit, ``to play the fool,'' which has come to mean ``foolishly 
+snooty.'' (What a pleasure it is to get back to correcting other people's 
+mistakes.) 
+</TEXT>
+</DOC>

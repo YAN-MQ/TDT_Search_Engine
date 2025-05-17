@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981203.0130.1257 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Rob Ticktin, "CNN Headline Sports." After a heartbreaking loss to 
+Cincinnati, they appear to be back on track. They swept through Michigan 
+state 73-67. Lang scored 23 points. 
+</TEXT>
+</DOC>

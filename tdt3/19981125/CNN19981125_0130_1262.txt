@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981125.0130.1262 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jerome Jurenovich, "CNN Headline Sports." Jake Reed will be home for 
+the holidays, and that is not good news for the vikings who pay a 
+visit to Dallas on Thanksgiving. The Minnesota receiver underwent 
+surgery to correct a lower back injury and is out for the remainder 
+of the regular season, and possibly the playoffs. 
+</TEXT>
+</DOC>

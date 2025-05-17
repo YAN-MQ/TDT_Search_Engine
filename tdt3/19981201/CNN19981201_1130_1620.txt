@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981201.1130.1620 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another half hour of news ahead in two minutes. 
+</TEXT>
+</DOC>

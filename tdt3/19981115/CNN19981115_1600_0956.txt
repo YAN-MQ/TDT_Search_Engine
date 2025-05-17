@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981115.1600.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the Leonid meteor shower will begin striking earth Tuesday. The 
+meteors are actually fine particles from the tail of a Comet. 
+</TEXT>
+</DOC>

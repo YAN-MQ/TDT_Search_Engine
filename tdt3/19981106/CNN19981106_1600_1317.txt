@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981106.1600.1317 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The news is not so good for Yankee legend Joe DiMaggio. The 83-year-old 
+has had a setback in his fight against pneumonia and a lung infection. 
+He's expected to be hospitalized for at least another six to eight 
+weeks. 
+</TEXT>
+</DOC>

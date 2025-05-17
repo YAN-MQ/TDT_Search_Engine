@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981125.0500.3040 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. stocks resumed trading today. The Dow Jones Industrial Average 
+Index at 9,301 after losing 73 points Tuesday. Among the most widely 
+traded stocks, America Online shares gaining nearly $2 apiece, while 
+Sun Microsystems, part of a three-way arrangement with Netscape announced 
+Tuesday, gained over a buck-fifty a share. 
+</TEXT>
+</DOC>

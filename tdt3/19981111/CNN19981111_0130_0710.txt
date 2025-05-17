@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981111.0130.0710 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A study published in "the journal of the American medical association" 
+tries to separate fact from fiction when it comes to alternative medicine. 
+The findings aren't too surprising -- researchers found some treatments 
+work and others don't. Example, researchers say an herb can reduce 
+the risk of a breeched birth, and yoga might help carpal tunnel syndrome. 
+An estimated 88 million Americans try alternative treatments. That 
+is up 25% since 1990. 
+</TEXT>
+</DOC>

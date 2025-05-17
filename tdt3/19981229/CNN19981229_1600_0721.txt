@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981229.1600.0721 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This week on the cold and flu report, according to the centers for 
+disease control and prevention, this has been a fairly mild year for 
+the flu, so far. This could mean we'll have a relatively healthy flu 
+season, or this could just mean the flu season is getting a late start. 
+For people who want to keep track of flu activity for themselves, 
+the CDC maintains an Internet web page that provides information about 
+nationwide rates of infection and deaths from the flu. The Internet 
+address is -- 
+</TEXT>
+</DOC>

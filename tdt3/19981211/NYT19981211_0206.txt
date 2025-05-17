@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981211.0206 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Despite high pressure near the nation's capital, 
+clouds will spread across much of the middle Atlantic region on Saturday 
+in advance of a disturbance moving through the Southeast. While low 
+pressure forms along a front in the Gulf of Mexico, a jet-stream disturbance 
+in Arkansas will send a veil of high and middle clouds from the southern 
+Great Lakes to New Jersey. A chilly rain will advance from the lower 
+Tennessee Valley to the west-central Appalachians. Dull, cool weather 
+is expected in the Southeast with showers developing along the coast 
+and in the mountains. More showers will dampen the Gulf states from 
+Alabama to Louisiana. A few thunderstorms may form in mild air along 
+the Gulf shores. Florida will be partly to mostly cloudy and rather 
+humid. A tropical disturbance from the northwest Caribbean will trigger 
+a few gusty showers along the west coast. Low clouds and drizzle will 
+persist from the Ozarks to the Red River Valley. Fog will cover the 
+western Gulf Coast as cool winds blow in from the north. High pressure 
+cresting over the central Rockies will lead to some sun and warmer 
+weather in the Plains. Gusty winds from the west will boost readings 
+to near-record levels in eastern Montana and the western Dakotas, 
+while cold air stays trapped in the valleys of Utah and Nevada. Rain 
+and gales will resume in northwest Washington as a cold front approaches. 
+Clouds and showers will spread into western Oregon and a surge of 
+mild air will raise snow levels in the Cascades. Meanwhile, much of 
+the Southwest will be bright and noticeably warmer. Focus: Snowless 
+Syracuse Residents of Syracuse, N.Y., were forgetting what snow looked 
+like. Finally, flakes fell on the city early Friday, accumulating 
+0.2 inches. This marks the latest the city has gone into the winter 
+season without snow. The unusually late start to the snow season comes 
+after the earliest end to the previous snow season. The last time 
+snow was measured in Syracuse, which boasts an average annual snowfall 
+of 114 inches, was on March 23. Hence, the city sustained 263 consecutive 
+days without snow, which is the longest stretch without snow since 
+records began in 1902. 
+</TEXT>
+</DOC>

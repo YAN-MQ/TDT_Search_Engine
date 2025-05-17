@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> APW19981227.0321 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Security has been tightened on Switzerland's main Alpine rail crossing 
+following three bomb threats from an anonymous caller demanding a 
+large payment, state police said Sunday. The 15-kilometer (9 1/2-mile) 
+Gotthard tunnel, on a key north-south route between Germany and Italy, 
+was closed for two hours Friday and searched following the first threat. 
+Ticino state police confirmed a report in Zurich's SonntagsBlick weekly 
+that the caller, who spoke in Italian, demanded 1 million Swiss francs 
+(dlrs 730,000) from Swiss Federal Railways. The route remained open 
+following two further telephone threats Saturday, after police in 
+the states of Ticino and Uri reinforced security. 
+</TEXT>
+</DOC>

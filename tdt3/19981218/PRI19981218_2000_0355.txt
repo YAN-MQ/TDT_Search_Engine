@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> PRI19981218.2000.0355 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From the BBC news room in London, I'm Derrick Stoffel. You're listening 
+to PRI. This is the World. UNKNOWN: The World is made possible in 
+part by Merck, pharmaceutical research dedicated to preventing disease 
+and improving health. Merck, committed to bringing out the best in 
+medicine. MULLINS: This is the World. I'm Lisa Mullins. 
+</TEXT>
+</DOC>

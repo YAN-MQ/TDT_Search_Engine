@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> ABC19981209.1830.1171 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We're gonna take "A closer look" tonight at some interesting cutting 
+edge technology and how we average human beings interact or in some 
+cases are not yet able to interact very successfully with our computers. 
+Today is actually the 30th anniversary of the computer mouse. If ever 
+there was a mouse that roared. 0 million of them were produced last 
+year. They have been the key to making computers accessible at all. 
+We forget perhaps what it used to be like. You needed lines of code 
+just to move a cursor on the screen. Now with a flick of the wrist 
+and a click, well, we're getting there. First here's ABC's Jack Smith 
+on the technology that may be just around the corner. It is a device 
+we take for granted, like the telephone. But without it, the computer 
+revolution might never have happened. We have a pointing device called 
+a mouse. a device invented by a Silicon Valley scientist 30 years 
+ago. I get this mild feeling of amazement that there's so many of 
+them out there. And perfected by others. Small inventions like the 
+mouse can have such large consequences. The mouse was the first revolutionary 
+step towards making computers interact directly with human beings. 
+To see how we'll interact in the future, the next step, you need only 
+look, where else? At games this holiday season. When I hit the side 
+of the road or go over a bump, I can actually feel it in the steering 
+wheel. It's called force feedback. My hands can actually feel what 
+my eyes are seeing on the screen. It's this way of engaging all the 
+human senses that the mouse of the future will have. The same technology 
+that provides you with feedback when you hit a wall can provide you 
+a feeling of texture when exploring a certain material on the screen. 
+Corduroy? Corduroy. Or silk. And a mouse that did that would make 
+technology -- Easier, simpler, more pleasant, more enjoyable, more 
+productive. In the future, the work of a mouse could be done by other 
+things -- a camera, for instance. The camera detects my movements 
+and acts according to them. Scientists are even using cameras to track 
+your eyes. The cursor moves to what you're looking at and the computer 
+puts that information on the screen. You just looked at that and it 
+appeared on the screen here. That's right. And as computers get so 
+small -- I use this for web browsing. They can be projected into your 
+eyeglasses or fit in your pocket. They'll have to be activated, not 
+by hand, but by voice. People will be able to do their work by talking 
+to their computers instead of using the mouse and key board. The goal 
+is to act with your computer the same way you'd act with another person. 
+And that's the future? That's the future. Imagine computers without 
+mice or keyboards that know how to recognize you. I don't have to 
+remember your name because the system is doing the task for me. And 
+computers that know what you're thinking, for instance, detecting 
+frowns of puzzlement. It's amazing. The computer will actually think 
+about understanding what you're trying to do, knowing a little about 
+your thinking, trying to help you, teach you, do it for you. I think 
+that's the mouse of the future. It's not us getting better at moving 
+something, it's the computer getting better at understanding us. Touch, 
+voice, even thoughts -- the way we interact with computers, machines, 
+in the future, will be unlike anything we know today. Jack Smith, 
+ABC News, Palo alto, California. What an age we live in. Let's concentrate 
+for a minute or two on that word interaction. Today we were talking 
+to a professor. He's the head of the media lab at the Massachusetts 
+institute of technology. He actually thinks the computer builders 
+need to do a better job than they are doing. All this promise about 
+the future in that report from Jack Smith, when is the future? The 
+future is much sooner than most people think. The pressure on computer 
+manufacturers to make computers that are easier to use will be enormous. 
+People will just not tolerate for many longer, the problems we've 
+had in communicating with machines. Will it get any easier? It has 
+to get easier, Peter. A lot of the complications in using computers 
+is self-imposed. By that I mean it's imposed by what I consider gratuitous, 
+overweight, fat software that has to be simpler and easier to use. 
+Some day, so inexpensive that computers will cost less than bicycles. 
+Are computers really going to understand me a little better? Are they 
+going to understand my emotions? They not only are going to understand 
+your emotions, they have to understand your emotions. Think of computers 
+in the role of helping children learn. Think back to your favorite 
+teacher as a child. That teacher wasn't so much an expert in math 
+or geography, that teacher was an expert in you. That teacher understood 
+you emotionally, responded to you, said the right things at the right 
+time because that teacher was enormously good at understanding you 
+as an emotional being. If computers can't do that, they'll be useless 
+in teaching and frankly, they won't be useful in the long term. Nicholas 
+negroponte. Thank you. 
+</TEXT>
+</DOC>

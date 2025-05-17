@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981029.0130.0995 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Brazil is taking steps to put its financial house in order. The government 
+says it will follow an $84 billion austerey plan designed to rescue 
+its economy from a currency crisis. A combination of budget cuts, 
+tax increases, and other measures could pave the way for approximately 
+$30 billion in loans from the international monetary fund. Some economists 
+say the government may have difficulty getting the measures approved 
+by the Brazilian Congress. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981221.1600.1285 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm Anthony Keith James, and this is "CNN Headline Sports." Jake plumber 
+signed a four-year contract extension worth somewhere in the $30 million 
+range. It includes a $15 million signing bonus. The largest signing 
+bonus in league history. He guided the team to another win Sunday 
+and a step closer to the playoffs. 
+</TEXT>
+</DOC>

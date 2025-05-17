@@ -1,0 +1,95 @@
+<DOC>
+<DOCNO> NYT19981208.0342 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+AT&AMP;T Corp. said Tuesday that it had agreed to acquire the global 
+data network of IBM Corp. for $5 billion in cash. The two companies 
+also said they had agreed to provide each other $9 billion in outsourcing 
+business. More than 7,000 people, many of them in the Northeast, would 
+change employers under the agreement, with 5,000 people transferring 
+from IBM to AT&AMP;T and at least 2,000 going from AT&AMP;T to IBM. 
+Most of those workers would, however, stay in substantially the same 
+jobs and would probably not have to move. For AT&AMP;T, Tuesday's 
+agreement seemed to be the fourth corner piece of the puzzle that 
+Michael Armstrong has been trying to put together to make sense of 
+the company's future since he took over as chairman last fall. Shortly 
+after he arrived at AT&AMP;T, the No. 1 long-distance company, Armstrong 
+said the company needed to strengthen its strategies for breaking 
+into the local communications market, for expanding its international 
+presence and for beefing up its advanced data services, especially 
+those based on Internet technologies. Already this year, AT&AMP;T 
+has agreed to acquire Teleport Communications Group Inc., a local 
+phone company for businesses, and Tele-Communications Inc., which 
+as the No. 2 cable television company has links into millions of homes. 
+The company also formed a $10 billion joint venture for the international 
+market with British Telecommunications, Britain's biggest phone company. 
+With the IBM deal, AT&AMP;T is now set to make a serious splash in 
+the data market. IBM's Internet service, which is a major part of 
+its data network, has more than a million individual users in 59 countries. 
+More important, it has local dial-up ports into its network all over 
+the world. That is a big plus in attracting the large corporate customers 
+that are the grand prize for communications companies. For IBM, the 
+No. 1 computer company, Tuesday's agreement ended an auction process 
+that publicly began in September, when the company said it had hired 
+Merrill Lynch &AMP; Co. to vet bids for its network. As the pace of 
+technological change continued to accelerate in both the communications 
+and the computer industries, IBM decided that it no longer made sense 
+to run a communications system of its own. ``With this agreement, 
+the network will receive the management focus and resources necessary 
+to maintain its standing as a world-class provider of connectivity 
+to IBM and millions of customers,'' Louis Gerstner, IBM's chairman, 
+said in a statement. The 5,000 employees of the IBM network business 
+that will switch to AT&AMP;T are equally distributed, according to 
+an IBM spokesman, among Somers, N.Y.; Schaumburg, Ill., and Tampa, 
+Fla. According to AT&AMP;T, the IBM network will generate about $1.2 
+billion in revenue from IBM's existing customers in the first year 
+after the deal is completed. The companies expect to finish the deal 
+around the middle of next year. Because the IBM system also handles 
+a large amount of IBM's internal corporate communications, IBM also 
+awarded AT&AMP;T an outsourcing contract for its communications, worth 
+$5 billion over five years. Altogether, AT&AMP;T, which was advised 
+in the transaction by Salomon Smith Barney, said it expected a revenue 
+increase of $2.5 billion in the first 12 months after taking ownership 
+of the network. The company said the deal would not significantly 
+dilute its earnings. IBM said the sale would not have a significant 
+impact on its operating results, but at least one analyst expected 
+that the deal could result in a huge tax bill for IBM. Steven Milunovich, 
+an analyst with Merrill Lynch, estimated that IBM would report a capital 
+gain of $4 billion on the network sale, for a tax bill totaling more 
+than $1 billion. The $5 billion price was near the high end of the 
+range that analysts had expected the network to bring. But the strategic 
+elements of the deal hit a nerve in the market Tuesday, and shares 
+of both companies rose. ``This is a sweetheart deal for IBM,'' said 
+Stephen Dube, an analyst who follows IBM for Wasserstein Perella. 
+The price, he said, is more than four times the unit's $1.2 billion 
+annual revenue, a greater multiple than IBM is worth in the market 
+overall. ``AT&AMP;T had to do the deal and paid up for it.'' But to 
+win IBM's auction, AT&AMP;T had to come to the table with more than 
+money for the network. It also agreed to outsource to IBM much of 
+its own software and computer-center operations, to the tune of $4 
+billion over 10 years. Under that part of the agreement, more than 
+2,000 AT&AMP;T management employees would go to work for IBM. Most 
+are in Lake Mary, Fla., and Middletown and Piscataway, N.J., an AT&AMP;T 
+spokesman said. Another 1,000 unionized AT&AMP;T employees would essentially 
+work for IBM, but would continue to be paid by AT&AMP;T. Armstrong 
+said: ``I think we had to do all these things. I believe we had to 
+give them top dollar. We did that. We had to put some outsourcing 
+contracts on the table that were durable and meaningful, and we did, 
+and we had to do some other things in terms of working together in 
+approaching small businesses.'' Berge Ayvazian, an executive vice 
+president for the Yankee Group, a technology consulting firm in Boston, 
+said, ``What this says is that AT&AMP;T recognizes that it is not 
+best of breed on application development and data-center operations, 
+and IBM is not best of breed in network services.'' The wild card 
+in the deal appears to be Nippon Telegraph and Telephone Corp., the 
+Japanese giant that is the world's largest telephone company. The 
+telecommunications industry has been waiting for years to see what 
+NTT might do to expand overseas in a big way. NTT is one of the largest 
+subcontractors in putting together the IBM network, so it will have 
+increased ties with AT&AMP;T after the deal is completed. Armstrong 
+refused to tip his hand but said, ``There is no question that the 
+relationship of the network to NTT will strengthen the relationship 
+between AT&AMP;T and NTT.'' 
+</TEXT>
+</DOC>

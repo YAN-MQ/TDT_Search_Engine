@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981012.2130.1290 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jerome Jurenovich, "Headline Sports." The Braves are trying to stave 
+off elimination in the national league championship. But Ken caminiti 
+has smacked a two-run home run for San Diego. 
+</TEXT>
+</DOC>

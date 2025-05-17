@@ -1,0 +1,80 @@
+<DOC>
+<DOCNO> NYT19981101.0187 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The telecommunications industry is expressing curiosity and skepticism 
+about a little-known San Diego start-up company that says it is ready 
+to market a technology that significantly increases the amount of 
+data that can be sent over fiber optic cables. The company, Silk Road 
+Inc., plans a demonstration of the technology in New York on Tuesday 
+in which it will transmit 144 uncompressed television signals over 
+100 kilometers, or 62 miles, of cable using a single laser beam. In 
+publicizing the demonstration, Silk Road said that such ``bandwidth,'' 
+the term used to express a system's data-carrying capacity, far surpassed 
+the capability of today's commercial fiber optic networks. While that 
+is true, a number of telecommunications-industry experts expressed 
+doubt about the company's ability to quickly transform a controlled 
+demonstration into a viable commercial product. Cable capacity under 
+laboratory conditions, they noted, is not the same as bandwidth in 
+real-world networks. ``We get a large number of contacts from ambitious 
+companies with supposedly fantastic solutions,'' said Ted Darcie, 
+head of AT&AMP;T Laboratories' optical network research group. ``The 
+real questions are not demonstrating a high-performance link in the 
+lab, but getting it commercialized to the extent it's reliable and 
+compatible.'' Silk Road said it planned to introduce commercial products 
+in the first quarter of 1999. The bandwidth to be demonstrated on 
+Tuesday will be about 93 billion bits of information _ the equivalent 
+of 77,500 copies of ``Moby Dick'' _ in one second, the company said. 
+Several experts said that even if the technology works as promised, 
+it would not significantly outstrip development progress reported 
+by current industry leaders of fiber optic network equipment like 
+Lucent Technologies and Ciena. But Silk Road executives said their 
+engineers had achieved even better results in the company's laboratory, 
+transmitting up to 200 gigabits a second over a range of 200 miles. 
+A gigabit is a billion bits of data. A key feature that differentiates 
+Silk Road's technology from that of competitors, the company said, 
+is its ability to send that volume of data over long distances without 
+having to either repeat or amplify the signal along the way. Silk 
+Road executives also said it was possible to gain even more impressive 
+bandwidth improvements using a new technology for carrying information 
+by laser light, which they refer to as ``refractive synchronization'' 
+communication. The company received a patent on the technology last 
+month and has applied for other patents. If true, the enormous bandwidth 
+it is promising would represent a significant advance in the ability 
+of fiber optic networks to carry data like digital voice and video 
+signals and the packets of information that make up the Internet. 
+The technology is also well suited to increasing the channel capacity 
+of cable television systems, as well as to delivering the extra bandwidth 
+needed for digital television, Silk Road executives said. Telecommunications-industry 
+researchers and executives expressed skepticism that a company and 
+technology they had never heard of could deliver such remarkable performance 
+to a world where the appetite for bandwidth keeps growing. ``I wait 
+with anticipation and excitement for such a technology to prove itself 
+in the commercial market,'' Darcie of AT&AMP;T Laboratories said. 
+He added that although the performance Silk Road plans to demonstrate 
+is impressive, it is about on par with the most advanced results in 
+top research laboratories. Earlier this year, an NTT researcher in 
+Japan demonstrated the ability to transmit 640 gigabits a second over 
+a distance of 60 kilometers, or 37.2 miles, using a single beam of 
+laser light. Lucent executives said they were now working to deploy 
+a fiber optic networking technology for AT&AMP;T known as dense wave 
+division multiplexing, which they said would carry 400 gigabits a 
+second over fiber optic cables. That approach, which has been pioneered 
+by companies like Ciena and Northern Telecom in addition to Lucent, 
+uses a number of separate laser beams tuned to different frequencies 
+_ colors in this case _ to expand bandwidth. In the face of industry 
+skepticism, Silk Road executives defended their technology on Friday 
+as ``hard-core optical physics.'' ``Einstein would have put his stamp 
+of approval on everything we've done,'' said Robert Freeman, Silk 
+Road's vice president for operations. The company's technology, Freeman 
+said, embeds information on a single laser beam by using a device 
+known as an electro-optical modulator. He expressed doubt that claims 
+on behalf of dense-wave technology would be matched by installed performance. 
+Silk Road has discussed its technology with a number of telecommunications 
+carriers, he said, but was not ready to announce products or identify 
+customers. The company was founded by James Palmer, a chemist the 
+company identifies as the former chief optical scientist for the Strategic 
+Defense Initiative, or ``Star Wars.'' 
+</TEXT>
+</DOC>

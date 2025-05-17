@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981013.2130.1283 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jerome Jurenovich, "Headline Sports." It appears as if the Yankees 
+are on their way to their 35th American league pennant. Scott brosius 
+smacked a home run for New York. Game one takes place tomorrow in 
+Atlanta. San Diego will save Kevin brown for another game. 
+</TEXT>
+</DOC>

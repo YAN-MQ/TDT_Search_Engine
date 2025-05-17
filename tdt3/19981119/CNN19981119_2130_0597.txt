@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> CNN19981119.2130.0597 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tanks that store fuel or other chemicals are often located close to 
+waterways. Operators of those tanks may now have an additional method 
+to detect any seepage. Ann Kellan has more in this edition of "tech 
+trends." Back up, please. a robot called maverick, that looks like 
+a suitcase on steroids, could be a new and cheaper way to protect 
+against an environmental threat. Around the world, billions of gallons 
+of gasoline, jet fuel and chemicals are stored in huge tanks. If those 
+tanks leak, poisonous chemicals could seep into the ground water. 
+We're concerned about corrosion on the tank bottom, the condition 
+of the internal welds of the tank joining the plates together, as 
+well as any corrosion on the tank walls. Inspecting a tank is a high 
+priority, but a tedious and expensive job that takes it out of service. 
+You have to clean it, you have to drain it, you have to take all the 
+sludges out of it, that's gonna cost anywhere between $30,000 to $500,000. 
+Maverick's makers say the robot can change all that. We're looking 
+at an 80% or more savings over the cost of taking a tank out of service. 
+The robot is lowered into a full tank and works its way methodically 
+along the floor, controlled remotely from the outside. Here's what 
+it looks like in an underwater test. It uses ultrasound to measure 
+the thickness of the metal. There are ten ultrasonic transducers in 
+an array that gives us ultimately a Three-dimensional picture of the 
+entire floor area. a sonar positioning system keeps track of the robot's 
+location, so any thin spots in the metal floor can be found and fixed. 
+Solex says besides saving money for tank owners, the system benefits 
+the environment because fuels, chemicals and their fumes stay safely 
+inside the tanks, while workers can stay out of them. Ann Kellan, 
+CNN. 
+</TEXT>
+</DOC>

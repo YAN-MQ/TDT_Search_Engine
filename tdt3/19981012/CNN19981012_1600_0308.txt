@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981012.1600.0308 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Three U.S. researchers are the latest recipients of one of the most 
+prestigious awards in science -- the nobel prize for medicine. Robert 
+furchgott, Louis ignarro and ferid murad are all professors of pharmacology. 
+Furchgott says he's surprised by the honor. He and his colleagues 
+won the award for their discovery that the body uses nitric oxide 
+to regulate blood vessels. Their work has implications in the treatment 
+of heart disease, shock and possibly cancer. It also helped lead to 
+the development of Viagra -- the drug used to treat impotence. The 
+three professors will share $955,000 in prize money. 
+</TEXT>
+</DOC>

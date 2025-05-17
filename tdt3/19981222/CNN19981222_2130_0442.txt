@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981222.2130.0442 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sara Lee corporation is recalling hot dogs and other packaged meats 
+that may contain dangerous bacteria. They include products sold nationally 
+under well-known brands like ball park, Bryan, hygrade, bil Mar, grillmaster, 
+and Mr. Turkey the affected products are coded est p261 and est 6911. 
+Executives at Sara Lee say they are acting on reports the meat products 
+could contain listeria bacteria. Healthy people can usually fight 
+off the bacteria, but it can be deadly for the elderly and people 
+with weak immune systems. 
+</TEXT>
+</DOC>

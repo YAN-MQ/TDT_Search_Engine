@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981202.2130.1014 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Other corporate cutbacks are in the works besides Boeing. The proposed 
+merger between Exxon and mobil is expected to cost about 9,000 jobs 
+worldwide. And Kellogg, the world's largest cerealmaker, says it's 
+laying off 765 workers after a disappointing third quarter. 
+</TEXT>
+</DOC>

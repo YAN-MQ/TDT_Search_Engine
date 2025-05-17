@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981211.2130.0408 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Former Chilean dictator augusto Pinochet left a London courtroom today 
+after telling the magistrate he did not recognize the jurisdiction 
+of any court outside Chile. At the hearing, formal charges of murder, 
+torture and kidnapping were read to Pinochet. It was his first public 
+appearance since his arrest in October on a warrant issued by Spain. 
+Supporters in Chile released a letter in which Pinochet proclaims 
+his innocence and expresses his pain for the lives lost during his 
+regime. 
+</TEXT>
+</DOC>

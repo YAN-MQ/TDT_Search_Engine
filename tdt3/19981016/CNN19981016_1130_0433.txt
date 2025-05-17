@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981016.1130.0433 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An enormous iceberg -- bigger than Delaware -- has broken off an ice 
+shelf in Antarctica. The national oceanic and atmospheric administration 
+says it's 92 miles long and 30 miles wide. It covers an area of 2,700 
+miles. The last time an iceberg this size broke off Antarctica was 
+11 years ago. Scientists say it could be a sign of global warming. 
+</TEXT>
+</DOC>

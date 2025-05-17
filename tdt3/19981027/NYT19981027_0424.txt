@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> NYT19981027.0424 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times will say in an editorial Wednesday, Oct. 28: The 
+New York state Department of Health has concluded its investigation 
+into the death of Shannell Coppage, a six-week-old girl who died of 
+malnutrition because her young mother, Tatiana Cheeks, had failed 
+to breast-feed her adequately. The investigation suggests that the 
+hospital where Ms. Cheeks sought help blundered badly. Ms. Cheeks 
+had taken the baby to an outpatient clinic of New York Methodist Hospital 
+in Brooklyn for her one-week checkup after birth. But the baby was 
+turned away because her mother did not have a Medicaid card for the 
+child and could not pay $25. Under state regulations, hospitals must 
+provide patients with generally accepted standards of care and are 
+not allowed to discriminate based on the source of payment. The Brooklyn 
+hospital failed on both counts. There was no need for a Medicaid card 
+because infants are automatically covered for one year if their mothers 
+are on Medicaid, as Ms. Cheeks was. State investigators concluded 
+that this was an isolated case of incompetence at the hospital. The 
+hospital has ordered its staff to undergo more training, but will 
+face no other sanctions. After Shannell's death, Ms. Cheeks was jailed 
+on charges of negligent homicide. The charges were dropped when pediatricians 
+testified that many breast-feeding mothers cannot easily tell whether 
+their babies are growing normally unless the infants are weighed and 
+monitored regularly. Nursing support and education about breast-feeding 
+might have alerted Ms. Cheeks to danger signs. Ms. Cheeks' other child, 
+taken from her when she was arrested, remains in foster care with 
+a relative. This family's life has been horribly altered, all for 
+want of access to basic medical care that should be the birthright 
+of every child. 
+</TEXT>
+</DOC>

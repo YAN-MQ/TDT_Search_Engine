@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981021.2130.0515 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And after that -- Netscape 
+fires back at Microsoft in the battle over internet supremacy. 
+</TEXT>
+</DOC>

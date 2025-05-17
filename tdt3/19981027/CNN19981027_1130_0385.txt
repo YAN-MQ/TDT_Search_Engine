@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981027.1130.0385 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On the political front, prime minister Benjamin Netanyahu continues 
+to seek parliamentary support for the new peace deal with the Palestinians. 
+That deal included Palestinian guarantees of improved security against 
+anti-Israeli militants. The prime minister survived a no-confidence 
+vote yesterday, but opposition forces are pushing for early elections. 
+</TEXT>
+</DOC>

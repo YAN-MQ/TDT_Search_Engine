@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> PRI19981208.2000.1599 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The market seemed to approve the sale announced today of IBM's Internet 
+and data processing divisions to AT&T. Liz George of our business 
+unit in New York, has the details. The announcement made today adds 
+a million new Internet customers to AT&T's already large user base, 
+as well as thousands of companies, which are linked by data processing 
+systems around the world. In return, IBM will handle jobs such as 
+billing and installation for AT&T long distance phone users. In one 
+of the biggest outsourcing deals ever. Speaking at a press conference 
+in New York, AT&T's chairman and chief executive, Mike Armstrong, 
+said the acquisition secures his company's position as a world leader. 
+This transaction will add $2.5 billion to AT&T's revenue in the first 
+full year of operation. The two companies say that no job losses are 
+anticipated as a result of the deal. But employees will be swapped. 
+Five thousand IBM employees will move to AT&T and 2,000 AT&T staff 
+will go to IBM. The chairman and chief executive of IBM, Lewis Gersner, 
+says the sale will enable this company to concentrate on what it does 
+best. Almost every major telecommunications company is building IP-based 
+digital networks. We do not want to compete with our customers. And 
+it does not make sense for us to make that kind of investment when 
+the telecommunications companies, whose core competency it is, are 
+going to make that investment. And so we decided to sell our network. 
+The sale is expected to be completed by mid-1999. If approved by U.S. 
+and foreign regulators. For The World, I am Liz George in New York. 
+</TEXT>
+</DOC>

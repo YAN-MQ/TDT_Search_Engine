@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981230.0130.1255 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Rob Ticktin, "CNN Headline Sports." The college football season kicked 
+into high gear Tuesday. We open things up at the Alamo bowl, where 
+Purdue won a wild one over kansas state, 37-34. The Wildcats scored 
+21 fourth-quarter points to take their first lead of the game, 34-30, 
+but with 30 seconds left in regulation, drew brees found isaac Jones 
+for the game-winner. 
+</TEXT>
+</DOC>

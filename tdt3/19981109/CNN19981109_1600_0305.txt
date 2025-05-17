@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981109.1600.0305 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In another decision based on the Monica Lewinsky case, the court refused 
+to hear a treasury department appeal of a ruling that required secret 
+service agents to testify before federal grand juries. The treasury 
+had argued presidents might be tempted to Dodge secret service protection 
+if they couldn't be sure they enjoyed a privileged relationship with 
+the officers. 
+</TEXT>
+</DOC>

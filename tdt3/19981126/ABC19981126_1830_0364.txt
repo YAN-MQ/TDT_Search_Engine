@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981126.1830.0364 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In this country, in the pacific northwest, a strong wind storm has 
+caused havoc. Winds of more than 100 miles an hour turned over cars, 
+closed roads and collapsed buildings. That same storm knocked out 
+power at an oil refinery. There was a massive explosion. Six were 
+killed. Investigators say it could take weeks to determine what caused 
+the accident. 
+</TEXT>
+</DOC>

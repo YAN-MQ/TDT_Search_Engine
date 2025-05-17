@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981224.1130.0087 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Travel is being complicated by bad winter weather. In Texas the highway 
+death toll has reached 12. Authorities expect more hazardous conditions 
+today. It looks like dreams of a white Christmas are coming true for 
+Philadelphia. A winter storm warning is in effect there. 3 to 5 inches 
+of snow is expected there. Ice has ruined crops in California. They 
+are running wind machines and sprinklers to keep their lemon and orange 
+trees from freezing. 
+</TEXT>
+</DOC>

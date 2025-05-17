@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981104.1600.0119 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Governors are still mostly republican. The same ratio now, but democrats 
+won in Georgia, South Carolina, Alabama and California. 
+</TEXT>
+</DOC>

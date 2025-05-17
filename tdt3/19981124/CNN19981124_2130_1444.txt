@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981124.2130.1444 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An Egyptian museum dedicated to the country's former kings and leaders 
+has opened in Cairo. The artifacts include weapons, clothing and many 
+treasures acquired by the rulers or given to them as state gifts. 
+The director of the museum hopes the exhibit becomes as popular as 
+Egypt's other historically significant tourist attractions. 
+</TEXT>
+</DOC>

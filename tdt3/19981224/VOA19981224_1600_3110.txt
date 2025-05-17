@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981224.1600.3110 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Turning now to World Markets in London. The Financial Times 100 share 
+index ended the day down 42 points at 5867. While in Paris, the Cack 
+40 index finished up 52 points at 3872. Stocks on the Dachs index 
+in Frankfort closed up 99 points to end the day at 4,979. 
+</TEXT>
+</DOC>

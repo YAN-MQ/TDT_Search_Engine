@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> APW19981203.0677 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+djlfx# London Metal Exchange, Morning Session,Closing Prices [O-DJI 
+N/CMD M/TPX N/DJCS N/EWR N/BKG R/UK F/BLDJM e-LCT04916 [N/DJN N/DTA 
+A/70106 With yesterday's morning close in brackets Copper: Cash 1524.5-1525 
+( 1529-1530 ) Settlement 1525 ( 1530 ) 3 mo 1552-1553 ( 1560-1561 
+) 15 mo 1625-1635 ( 1630-1640 ) Sales: 59,075 Tin: Cash 5370-5375 
+( 5365-5370 ) Settlement 5375 ( 5370 ) 3 mo 5350-5360 ( 5360-5365 
+) 15 mo 5290-5300 ( 5300-5310 ) Sales: 3,764 Lead: Cash 487-488 ( 
+489-490 ) Settlement 488 ( 490 ) 3 mo 480-481 ( 484.5-485 ) 15 mo 
+500-505 ( 505-510 ) Sales: 14,081 Special High Grade Zinc: Cash 970-970.5 
+( 984-984.5 ) Settlement 970.5 ( 984.5 ) 3 mo 988.5-989 ( 1001.5-1002 
+) 15 mo 1047-1052 ( 1058-1063 ) Sales: 17,302 Aluminium: Cash 1287.5-1288 
+( 1292-1292.5 ) Settlement 1288 ( 1292.5 ) 3 mo 1288-1288.5 ( 1293-1293.5 
+) 15 mo 1365-1370 ( 1370-1375 ) Sales: 69,802 Nickel: Cash 4010-4015 
+( 4055-4060 ) Settlement 4015 ( 4060 ) 3 mo 4075-4080 ( 4130-4140 
+) 15 mo 4275-4295 ( 4335-4355 ) Sales: 18,827 Source: Telerate -0- 
+</TEXT>
+</DOC>

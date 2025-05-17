@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981120.2000.1529 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. stocks soared today with the Dow ending at a four-month high. 
+On Wall Street, the Dow Jones Industrials were up 104 points to close 
+at 9160. The Nasdaq picked up nine points to end at 1928. 
+</TEXT>
+</DOC>

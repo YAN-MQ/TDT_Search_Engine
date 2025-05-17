@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981110.1130.0709 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+for the latest health news online, check out cnn.com/health. for "your 
+health," sherry rauh, "cnn headline news." 
+</TEXT>
+</DOC>

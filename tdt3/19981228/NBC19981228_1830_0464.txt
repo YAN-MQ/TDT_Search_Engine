@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981228.1830.0464 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Wall Street liked what it saw today. The Dow Jones industrial 
+average climbed nearly 9 points. The NASDAQ was up more than 17 points. 
+</TEXT>
+</DOC>

@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> CNN19981010.0130.0992 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"Buy low, sell high" some of the oldest advice when it comes to buying 
+stocks. Problem is, buying low can be a slippery slope in a tumultuous 
+market. John metaxas has more. Wall Street professionals say the first 
+lesson to learn when trying to buy the dips is that just because a 
+stock is down, that does not mean it is a good value. If you buy on 
+the dip and the dip isn't a dip, it's just the beginning of a steep 
+down slope, you're really going to regret that. So stop -- don't run 
+to your phone to call your broker. Stop first and do your homework. 
+Technical analysts look at indicators such as the average price of 
+a stock over a certain period of time, the so-called "moving average." 
+Breaking below that average is a Negative. Once the bank stocks broke 
+their 20-month moving averages, once the airline stocks broke the 
+20-month moving averages, once the brokerage stocks broke their 20-month 
+moving averages, it was free fall from there. Others try to assess 
+fundamental value in a historical context. Take a stock like Merrill 
+Lynch, for example. A great company and it's down 50%. Is it a good 
+buy? Well, compare it to its absolute historical value and the answer 
+will be no. It's still trading at a 30% or 40% premium to its average 
+price-to-earnings and average price-to-book. And so you'd have to 
+say no, not yet on the brokers, for example. Grisanti says look for 
+companies like Cisco systems, whose competitive position he believes 
+is sound, and which at recent prices was trading at substantial discount 
+to its historical price earnings ratio. Finally, some professionals 
+will not try to buy at the bottom, but rather wait until a stock has 
+come back some -- a rising price reflecting improved prospects for 
+the company. That's "your money." John metaxas, "CNN Financial News," 
+New York. 
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981115.1130.0476 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather update." 
+A stationary front in the gulf of Mexico keeps a chance of rain in 
+your monday morning forecast. Look for rain and snow for the upper 
+peninsula of Michigan, most of minnesota and Wisconsin, southward 
+to near saginaw. A cold front will be moving across Nova Scotia. That 
+will mean rain and snow ending across most of New England, but look 
+for a chance of snow to continue across the Rockies as a pacific storm 
+system enters California and Oregon. A chance of rain is expected, 
+mainly along the coast. High temperatures on Monday stay on the chilly 
+side, in the 30s, 40s and 50s for most of the northern tier of states. 
+We'll see 60s and 70s in the south, with southern Texas and southern 
+florida topping out in the 80s. The extended forecast includes heavy 
+rainfall for the northwest coast tuesday, with scattered thunderstorms 
+in southern Florida through wednesday. Look for a mix of rain and 
+snow, some of it heavy, for the Canadian plains stretching down into 
+Wyoming and Colorado. Temperatures remain cold for the Great Lakes, 
+so a mix of rain and snow on the heavy side is expected for lake superior 
+and lake Michigan on Thursday. The extended forecast is at CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981213.1000.1333 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For the first time in its history, Carolina had a sellout crowd at 
+greensboro Coliseum. And the hurricanes took care of business with 
+a 3-0 win over Detroit. 
+</TEXT>
+</DOC>

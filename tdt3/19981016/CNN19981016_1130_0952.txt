@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981016.1130.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Irish Protestant leader David trimble and Catholic leader John Hume 
+are sharing this year's nobel peace prize. They're being honored for 
+trying to secure peace in northern Ireland. 
+</TEXT>
+</DOC>

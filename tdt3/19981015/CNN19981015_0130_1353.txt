@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981015.0130.1353 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In NFL news -- just one day after being waived by the Carolina Panthers, 
+quarterback Kerry Collins has been picked up by the New Orleans saints. 
+In New York, the quarterback shuffle continues. Vinny Testaverde will 
+replace Glenn Foley as the starter. Duane Walker, "Headline Sports." 
+</TEXT>
+</DOC>

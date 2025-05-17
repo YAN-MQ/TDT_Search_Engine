@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981119.1600.1116 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street, the Dow up 15, the NASDAQ up 22. 
+</TEXT>
+</DOC>

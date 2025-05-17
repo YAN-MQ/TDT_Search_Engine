@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> VOA19981028.1600.0856 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Clinton administration says the IBM Corporation in a project funded 
+by the U.S. government has developed a new super computer capable 
+of working twice as fast as any of its predecessors. VOA's David Gallast 
+has details from the White House. Development of the new computer 
+nickname "Pacific Blue" was announced here with great fanfare by Vice 
+President Al Gore, who has been a spokesman for the administration 
+on technological advances. Mr. Gore said the new machine far exceeds 
+the capabilities of IBM super computer Deep Blue, which became famous 
+for its competition with chess grand masters. The Vice President joked 
+that Pacific Blue would make Deep Blue green with envy. It's more 
+than twice as fast as any other computer in existence today. It's 
+15,000 times faster than the average personal computer and has 80,000 
+times the memory, which means it has enough memory to store every 
+single book in the Library of Congress. Pacific Blue was built by 
+IBM for the U.S. Department of Energy and is capable of making nearly 
+four trillion calculations per second. That has long been held to 
+be the threshold level for a computer fully capable of simulating 
+nuclear weapons explosions. Energy Secretary Bill Richardson said 
+Pacific Blue will make it possible for the United States to be part 
+of the global nuclear test ban. The Comprehensive Test Ban Treat signed 
+by President Clinton in 1996 is the culmination of 40 years of effort 
+to reach this key objective of nuclear arms control. These computers 
+will help to ensure that we can maintain and enhance our security 
+under the Comprehensive Test Ban Treaty. Along with its military applications, 
+Mr. Gore said the new generation of computers will also be capable 
+of making accurate forecasts of global climate change, one of his 
+pet issues, and also opened the way to making the Internet 100 times 
+faster than it is now within a few years. David Gallast, VOA News, 
+the White House. 
+</TEXT>
+</DOC>

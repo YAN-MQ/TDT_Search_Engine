@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981125.1130.0402 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Europe, cold weather is blamed for more than 90 deaths. Authorities 
+say frigid Arctic air has led to 30 deaths in Romania, 47 in poland 
+and the rest in France, Bulgaria and Italy. Many of the victims are 
+middle-aged men who drank themselves into a stupor and collapsed outside 
+in the cold. Police say nearly a third of the deaths in Poland have 
+been among the homeless. 
+</TEXT>
+</DOC>

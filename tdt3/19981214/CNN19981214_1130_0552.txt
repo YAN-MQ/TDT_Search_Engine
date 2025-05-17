@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981214.1130.0552 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Police officers in Baltimore are trying to stem the tide of homicides 
+by hitting the street in massive numbers. The city has topped the 
+300 homicide Mark for eight straight years, and city officials don't 
+want it to happen again. So far this year, there have been 294 homicides 
+in Baltimore, despite drops in robbery and assaults. Baltimore averages 
+43 killings per 100,000 residents, the fourth-highest rate in the 
+nation. By comparison, New York City averages eight killings for every 
+100,000 residents. 
+</TEXT>
+</DOC>

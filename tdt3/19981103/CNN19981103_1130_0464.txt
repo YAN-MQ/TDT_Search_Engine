@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981103.1130.0464 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Time now for a check of the extended weather forecast. And in a moment 
+-- Israeli prime minister Benjamin Netanyahu postpones a Crucial cabinet 
+meeting and threatens to hold up the latest mideast peace agreement. 
+</TEXT>
+</DOC>

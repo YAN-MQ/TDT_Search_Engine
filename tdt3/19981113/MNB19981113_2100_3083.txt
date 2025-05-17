@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> MNB19981113.2100.3083 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A good day on Wall Street. For the first time since July 31, the Dow 
+closed above the 000 Mark. It was up 91 points for the day. NASDAQ 
+also clowed higher, up 13 points. 
+</TEXT>
+</DOC>

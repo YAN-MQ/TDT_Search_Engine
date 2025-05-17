@@ -1,0 +1,62 @@
+<DOC>
+<DOCNO> NYT19981104.0276 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+As the English author George Moore once wrote, ``A man travels the 
+world over in search of what he needs and returns home to find it.'' 
+For business travelers, those needs may be as simple as an AC outlet, 
+an incoming phone line, a chair and a flat surface for spreading out 
+papers. But just try finding them near most airport departure gates. 
+Instead, you're likely to encounter a business employee in a suit, 
+sitting on the dusty carpet between the Coke machine and the utility 
+closet, typing away on a recharging laptop. Now a new company, Laptop 
+Lane, is trying to make it easier to do business on the fly. In the 
+Cincinnati and Seattle airports, Laptop Lane leases offices offering 
+what it calls ``peace, quiet and a T-1 line.'' For $8.95 a half-hour, 
+travelers can use a cubicle with a Micron Pentium PC equipped with 
+major e-mail and business software and computer games; a dedicated, 
+incoming fax line; four telephone lines; a laser printer; a place 
+to plug in their laptops; free local calls; 25-cents-a-minute long-distance 
+service; and a lockable door. Peripatetic executives can connect their 
+laptops to a 56K modem or, if they have an Ethernet card, a T-1 line 
+that moves data at 1.5 megabytes per second. Conference calls for 
+up to six parties can be arranged, and a color laser printer is available. 
+The offices are separated by partitions, over which the muffled tones 
+of business conversations in many languages and requests for copy 
+machines (they're provided) can be heard, but no more loudly than 
+in most offices. ``Theoretically, someone could be in here on a notebook, 
+reading e-mail, getting a fax, talking to four people and charging 
+the laptop battery,'' said Bruce Merrell, the company's chief executive 
+officer. More Laptop Lanes are scheduled to open in Atlanta and O'Hare 
+International Airport in Chicago by Christmas, and in Laguardia Airport, 
+Philadelphia and Los Angeles by the first quarter of next year. Similar 
+technical services are now available in some airports, but seldom 
+in such concentration. Terry Colegrove, a project manager with Siemens, 
+which provides consulting services to airports, said many airports 
+offer kiosks in which travelers can log on to the Internet. ``It has 
+not taken off to that great an extent, but it will in the near future, 
+probably,'' he said. ``Airports have got to look into more in the 
+way of holding rooms and plug-in facilities for laptops.'' Merrell 
+helped establish Laptop Lane, which is based in Seattle, after spending 
+a year commuting from there to South Dakota. ``I became surgically 
+attached to my laptop,'' he said, ``and a life member of United's 
+Red Carpet Club, but I found I needed more services'' _ in particular, 
+privacy. ``Give me five minutes in any club room in America,'' he 
+said, ``and I can tell you what everyone's working on.'' There are 
+12 cubicles in the Laptop Lane in Cincinnati/Northern Kentucky International 
+Airport, and 7 in Seattle/Tacoma International Airport, as well as 
+a conference room. Both centers serve 30 to 40 people a day, for an 
+average stay of 35 minutes, Merrell said. As a side benefit, Laptop 
+Lane offers travelers a chance to test-drive high-tech products and 
+try their own applications on advanced hardware. There are also plans 
+to lease cellular telephones and laptops. For those who are worried 
+about sharing an office with many fellow travelers, there's little 
+chance that bugs, viruses or cookie crumbs of any kind will be left 
+on the desks, telephones or computers. After each patron leaves, Laptop 
+Lane's cyber concierge quickly slips in a disk to reboot each computer's 
+hard drive and get rid of any files or Internet tracks. The concierge 
+then spritzes the telephone, desk and doorknob with disinfectant, 
+readying the office for the next traveler. 
+</TEXT>
+</DOC>

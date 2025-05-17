@@ -1,0 +1,108 @@
+<DOC>
+<DOCNO> NYT19981104.0338 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A German company, SAP, produces the best electronic inventory-control 
+software in the world. Another German company, Joymania, produces 
+Knights and Merchants, a strategy game that involves managing a medieval 
+economy from the village up, fighting off marauding armies from neighboring 
+provinces, building roads, maintaining efficient supply lines and 
+maximizing serf productivity. Never before have I experienced a yearning 
+for automated inventory-control software. But you practically need 
+it to run this medieval village. The depth and intricacy of economic 
+ties in this little burg is awe inspiring. You can't just generate 
+random food units, for instance. You must make sausages. And the sausage 
+procurement process goes all the way back to the wheat fields. The 
+wheat goes to the swine farmer, who supplies the butcher, who delivers 
+the sausages to the inn, where industrious laborers and artisans down 
+them with loaves of bread and tankards of wine. This entails a vineyard, 
+a windmill and a bakery, which must be separately constructed and 
+staffed. Everything in Knights and Merchants works this way. Every 
+suit of armor, shield, sword, pike and crossbow must be individually 
+ordered from the appropriate armorer or weapons workshop, which means 
+that the miners and metallurgists have to dig the coal, smelt the 
+iron and so on. And they can't do any of that if the woodcutter isn't 
+doing his job properly. Even the schoolhouse runs with clockwork precision; 
+everyone in this village must be properly trained, including the serfs. 
+Even the people who haul rocks around are certified rock haulers, 
+and they need to go to school for this. Interestingly enough, the 
+educational system is the only thing in this game that runs on cash. 
+All the workshops run on raw materials. The schoolhouse eats gold 
+bars and spits out personnel, which is why it's important to build 
+the metallurgy shop next door, so the freshly smelted ingots don't 
+have far to travel. As the manual notes: ``You should always have 
+enough gold on hand to train the people you need. Having enough personnel 
+is a vital factor in the smooth, organized and trouble-free running 
+of your whole economic system.'' In fact, the schoolhouse has to go 
+up before you can build anything else. After that, you are required 
+to build an inn (``the commoners must be supplied with food'') and 
+are strongly encouraged to build it in the town center. The designers 
+of this game have very firm, well-founded ideas about urban planning, 
+and you will follow them. You have no choice. In the course of the 
+game, scrolls arrive to tell you what you're allowed to build next. 
+The windmill has to be fully operational before you can construct 
+a bakery. You can't build the barracks until the weapons workshop 
+is done. Planned growth: it's the law. There are times when construction 
+is proceeding apace but you're not allowed to lay the foundations 
+for anything else (the serfs seem to have some kind of amazing collective-bargaining 
+agreement). At those times, all you can do is watch the village going 
+about its business: the woodcutter chopping trees, the mason hewing 
+stone, the baker turning out loaves of bread, the vintner stomping 
+grapes, and the laborers chewing their loaves and sausages at the 
+inn. You can hear the hammers and saws and milling and mining and 
+trees falling over, the sounds of peacetime productivity and industry. 
+Thought balloons float above the heads of these little people. Icons 
+_ a pickax, a knife and fork, a house _ tell you if they're off to 
+work, if they're hungry, if they're going home to rest. You can see 
+the farmer walking back from the fields, thinking of his house. You 
+can peek into the windows of the buildings and see tiny Z's rising 
+from the butcher as he sleeps. Meanwhile, the buildings are going 
+up, brick by brick. The supporting beams are nailed into place. Even 
+though they will eventually be bricked over, you know they are underneath, 
+and that somehow makes the virtual buildings seem more solid. The 
+scene generates an almost palpable sense of well-being. Everyone's 
+working. Everyone's secure. ``These god games, where you have to build 
+up an empire and see all these little people running around doing 
+things, are very important over here,'' said Frank Michaelis, marketing 
+director in the German office of the game's publisher. ``That's what 
+people like. The No. 1 PC game right now (in Germany) is Bundesliga 
+Manager, which is a soccer management game. You have to buy players, 
+sell players. You have to set up a training plan for them _ how much 
+they have to do in running, how much tackling. And you have to set 
+up your own stadium, buy a lot of marketing stuff, fan material like 
+scarves or posters, build up shops where you sell that stuff in the 
+stadium. So everything around soccer you have to do. But you're not 
+playing yourself. It's just management.'' This is the polar opposite 
+of an American sports game, which is all about action, the thrill 
+of the moment, the virtuosity of a star athlete and the ability to 
+be that athlete, that celebrity _ to score the goal, dunk the basket, 
+hear the crowd go wild. American war games are the same. Be the pilot. 
+Fight the Civil War again. Take over the world. Even in a strategy 
+game like Command and Conquer, which superficially resembles Knights 
+and Merchants, every non-military activity is there to fuel the war 
+effort. The object is to generate as many generic soldiers as possible 
+and send them somewhere to destroy the enemy. That is, after all, 
+how we fight our wars. We send some planes, pound a place with bombs 
+and fly home. The fighting takes place Over There, and it's a visceral 
+experience. In Knights and Merchants, fighting takes place Over Here, 
+and it's an economic experience. When the game opens, your village 
+is burning. Every building has been set on fire by a foreign army. 
+You have to fight off the soldiers, then put out the fires and rebuild 
+your village, your entire economy, from the ruins. When you fight, 
+the enemy is at the gates. And if you lose, the village will be demolished. 
+If you lose, the woodcutter is going to die. If you lose, everything 
+you have built will be destroyed again. So you're fighting to keep 
+that from happening because it's expensive to rebuild economies. No 
+one understands this better than the Germans. Their games reflect 
+their reality, just as our games reflect ours. Computer code may be 
+the global language of the future. But like all languages, it is marked 
+by culture and history. We speak the language differently. That's 
+why it's important to see what other countries do with digital media. 
+Not so we can understand foreign computer games, but to understand 
+Duke Nukem', Total Annihilation and Warcraft _ to understand our own 
+games, and what makes them particularly American. RELEASE NOTES `KNIGHTS 
+AND MERCHANTS' Published by Interactive Magic CD-ROM for Windows 95 
+and 98 $49.95 
+</TEXT>
+</DOC>

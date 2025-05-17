@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981014.1600.1030 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Shares of apple computer are down 1. that despite apple's earnings. 
+It was well above expectations. It wrapped up apple's first profitable 
+fiscal year since 1995. 
+</TEXT>
+</DOC>

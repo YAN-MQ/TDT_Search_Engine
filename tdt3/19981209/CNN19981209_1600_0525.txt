@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981209.1600.0525 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for tomorrow morning. You can see a cold front stretching 
+through the midsection of the nation. That front picks up moisture 
+from the gulf of Mexico, and we'll see rain showers and perhaps a 
+few thunderstorms in the state of Texas. And in the colder air, we 
+could see some snowfall, particularly at the higher elevations of 
+the southern Rockies. As we put this map in motion, you see that the 
+cold front continues its easterly movement, carrying the rain showers 
+along the gulf coast and spreading rain through the southern plain 
+states and into the lower mississippi river valley. Meanwhile, another 
+frontal boundary pushes in through the northwest. Temperatures will 
+be quite cool in parts of the west and the upper midwest but still 
+relatively warm in Florida and southern California. We extend our 
+forecast now on into Friday. You can see the rain and thunderstorms 
+expected along the gulf coast. As we move on into Saturday, you can 
+see things tend to warm a little bit across much of the nation. The 
+threat of rain and thunderstorms along the southeastern coastal area. 
+And as we head on into Sunday, some snow shower activity is possible 
+in New England. For more weather information, log on to -- CNN.com. 
+</TEXT>
+</DOC>

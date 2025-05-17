@@ -1,0 +1,85 @@
+<DOC>
+<DOCNO> NYT19981110.0416 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Bill Gates, chairman of Microsoft Corp., confidently told a group 
+of industry executives in 1995 that the government's antitrust investigation 
+of his company would ``blow over'' with scant effect, an executive 
+who attended the private meeting testified in court Tuesday. And although 
+Microsoft had signed a consent decree with the government a year earlier 
+agreeing to alter its software licensing deals with personal computer 
+makers, Gates was also quoted as saying that the company had not really 
+changed its business practices. ``This antitrust thing will blow over,'' 
+Gates said, according to the handwritten notes of an executive of 
+Intel Corp. that were introduced Tuesday in the trial of the Microsoft 
+antitrust case. ``We haven't changed our business practices at all,'' 
+Gates was quoted as telling a group of Intel executives at the meeting 
+on July 11, 1995, at Intel's headquarters in Santa Clara, Calif. The 
+notes were taken by Steven McGeady, a vice president of Intel, who 
+is a witness for the government. Gates' comments about not having 
+altered Microsoft's business practices could be significant because 
+they might suggest that the company was not complying with the legally 
+binding consent decree. If the government wins the antitrust case, 
+legal experts say, Gates' comments could help the Justice Department 
+argue that sweeping remedies _ perhaps even breaking up the company 
+_are required to restore competition in the computer software business. 
+The Justice Department, these experts say, could point to the Gates 
+remarks as evidence that Microsoft had shown no restraint even when 
+operating under an agreement with the government. A federal court 
+approved the consent decree in 1995, but Microsoft had agreed to its 
+strictures when it signed the agreement in 1994. Microsoft viewed 
+the government's pointed focus on the Gates comments as a ``further 
+personal attack on Bill Gates'' and ``another example of the Justice 
+Department's tactic of trial by excerpt,'' said Mark Murray, a company 
+spokesman. Murray pointed to other comments quoted by the Intel executive 
+_ that the computer business was ``unbelievably competitive'' and 
+``healthy'' _ as evidence Gates was speaking in the broader context 
+of an industry leader who was optimistic the Justice Department would 
+eventually agree that Microsoft's business did not require government 
+intervention. Besides, Murray added, Gates' remarks probably focused 
+mainly on the Justice Department's inquiries in 1995 about whether 
+to allow Microsoft to bundle a new online service, Microsoft Network, 
+with Windows 95. The notes of Gates' comments were introduced during 
+the second day of testimony by McGeady, the government's fourth witness 
+in the trial. Late Tuesday morning, Microsoft began cross-examining 
+him. Steven Holley, a lawyer for Microsoft, used internal Intel e-mail 
+and the videotaped deposition of another Intel executive to try to 
+raise doubts about McGeady's assertion that Microsoft had forced Intel 
+to shelve some multimedia and Internet software development work and 
+to curb its support for such Microsoft software rivals as Sun Microsystems 
+Inc. and Netscape Communications Corp. The government contends that 
+Microsoft was so concerned about any challenge to its dominance of 
+desktop software that it threatened even its close partner, Intel, 
+by saying it would withhold software support for Intel's new microprocessor 
+products unless Intel sided with Microsoft. Much of the cross-examination 
+focused on an Intel software initiative called ``native signal processing,'' 
+or NSP, which was intended to improve the ability of personal computers 
+to play high-quality audio and video. McGeady was deeply involved 
+in the development of NSP, a program that was sharply pared back after 
+Microsoft protested in 1995. In court, Microsoft argued that Intel 
+began marketing NSP to personal computer makers and did so when Microsoft 
+was focused on bringing out Windows 95, even though NSP was tailored 
+for an earlier version of the operating system, Windows 3.1. When 
+asked why Intel had not given Microsoft more advance notice of its 
+work on NSP, McGeady replied that Intel's software engineers had feared 
+that Microsoft would try to ``stomp it out of existence.'' And, he 
+added, ``It was the fear that was eventually realized.'' Yet under 
+cross-examination, McGeady admitted that in retrospect ``it was a 
+mistake'' to target its multimedia software for Windows 3.1 instead 
+of Windows 95. The reason, he explained, was that Intel thought that 
+the release date for the next-generation operating system might well 
+slip into 1996. Microsoft also showed parts of a taped deposition 
+from Ron Whittier, an Intel executive who was McGeady's boss. Whittier 
+said that pressure from Gates to table NSP was ``a factor'' in Intel's 
+decision not to ship the software. But, he said, Intel was mainly 
+``looking out for our own best interests'' because if NSP slowed the 
+adoption of personal computers using Windows 95, that could damage 
+Intel's main business _ microprocessor sales to PC makers for use 
+in new machines. Viewing the tape, McGeady said, ``I'd say Microsoft 
+helped enlighten us about about what our best interests were.'' He 
+then characterized Whittier's emphasis on Intel's self-interest instead 
+of any threat from Microsoft as ``PR spin.'' ``At his deposition?'' 
+asked Holley, the Microsoft lawyer. ``Yes,'' McGeady replied. 
+</TEXT>
+</DOC>

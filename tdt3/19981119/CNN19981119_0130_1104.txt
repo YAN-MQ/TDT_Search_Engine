@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981119.0130.1104 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tired of huge lines and hunting for a parking space at the mall? Online 
+retailers want you to do your holiday shopping on the web. Industry 
+analysts expect online holiday sales to reach $2.3 billion, double 
+that of last year. 
+</TEXT>
+</DOC>

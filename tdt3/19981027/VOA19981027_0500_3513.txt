@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> VOA19981027.0500.3513 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From the Russian space program, a Russian craft carrying several tons 
+of food, water, fuel, and other supplies has docked with the Mier 
+space station. Mission Control says the two cosmonauts aboard Mier 
+reported a smooth docking and are ready to unload the Progress supply 
+ship. Besides supplies the cargo ship is carrying a meteorite monitor, 
+which the cosmonauts must hold during a space walk early next month. 
+The monitor will be used to collect data when Mier flies through a 
+meteorite shower in mid-November. The Progress spacecraft is also 
+delivering a giant experimental space mirror measuring about 30 meters 
+in diameter, that is to be uncurled in February. What is it going 
+to be used for? Well, it is designed to test whether sunlight can 
+be reflected towards Northern Russia during long winter nights. 
+</TEXT>
+</DOC>

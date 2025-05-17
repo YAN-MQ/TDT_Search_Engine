@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981213.1830.1227 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There was a drop in violent crimes nationwide over the first six months 
+of the year. Robberies nationwide were down 11%. Murders dropped 8%. 
+And there was a 5% decline in rapes and aggravated assaults. 
+</TEXT>
+</DOC>

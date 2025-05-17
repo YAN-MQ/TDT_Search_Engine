@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981029.1600.2936 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+We had a very, very good day on Wall Street, Dow Jones Industrial 
+average closing at 8,495. That was up 123 points, more than one percent. 
+Standard & Poor's 500 index closed at 1,085. That was up 17 points. 
+Analysts say traders were optimistic about improvements in the international 
+financial situation, especially in Latin America where, of course, 
+the Brazilian government has announced some austerity measures. It 
+was also a strong movement back into stocks by many mutual fund managers. 
+</TEXT>
+</DOC>

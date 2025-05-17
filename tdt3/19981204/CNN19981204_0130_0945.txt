@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981204.0130.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Blue-chip stocks fell below 9000 Thursday with technology stocks falling 
+victim to a week-long bout of losses. The Dow Jones industrial average 
+dropped almost 185 points, to close at 8879. 
+</TEXT>
+</DOC>

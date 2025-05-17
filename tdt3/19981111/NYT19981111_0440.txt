@@ -1,0 +1,49 @@
+<DOC>
+<DOCNO> NYT19981111.0440 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Investors holding the bonds of Barings PLC, the failed British bank, 
+Wednesday rejected a proposed settlement seeking to recover their 
+losses, saying the amount was only a fraction of $1.3 billion lost 
+in 1995 during a wild and unauthorized trading spree by one of the 
+bank's Singapore traders. The bondholders sued the bank, former executives 
+and the accounting firms that audited the bank's financial statements 
+after unauthorized trading by Nicholas Leeson led to the collapse 
+of the 232-year-old British merchant bank, which was then acquired 
+by a Dutch company. Leeson is serving a 6{-year prison sentence in 
+Singapore for illegally covering up the trading losses. After months 
+of negotiations, Barings and the other defendants offered to pay the 
+holders of the bank's secured bonds about $100 million, or 63.5 percent 
+of the bonds' face value, said Wilbur Ross Jr., senior managing director 
+at Rothschild Inc., the Wall Street firm that is advising the majority 
+of the bondholders. The proposed settlement, he said, represented 
+far less than even 10 percent of the trading losses caused by Leeson. 
+``We don't think that's enough,'' Ross said. He said it was not clear 
+whether the defendants would make another settlement offer or allow 
+the case to go to court. The bondholders have retained David Boies, 
+the lawyer now representing the government in its antitrust case against 
+Microsoft Corp., to represent them if a settlement cannot be reached, 
+Ross said. If the court rules that the defendants must pay the bondholders, 
+they would also have to pay the bondholders' legal costs under British 
+law. The defendants had also offered the holders of the bank's unsecured 
+bonds about 23 percent of the face value of those bonds. Because of 
+the bondholders' rejection of the settlement, the investors holding 
+the secured bonds and those holding the unsecured bonds must now renegotiate 
+how they will split any settlement, Ross said. The two largest holders 
+of the secured bonds are Mutual Shares, a mutual fund overseen by 
+Michael Price, and Halcyon Partners, another investment firm. The 
+two accounting firms that audited Barings' books were Deloitte Touche 
+Tohmatsu and Coopers &AMP; Lybrand, which merged with another accounting 
+firm this year to become PricewaterhouseCoopers. In 1995, Leeson wiped 
+out Barings with his unauthorized trading of securities linked to 
+Japanese stock and bond prices. The losses led to the bank's takeover 
+by the ING Groep N.V. of the Netherlands. Leeson's lawyers later argued 
+that some of the bank's executives knew about the financial problems 
+piling up on the books of the Singapore office. In 1996, British regulators 
+sanctioned at least five former bank executives by suspending them 
+from securities work for as long as three years. Ernst &AMP; Young, 
+the accounting firm hired as the bank's liquidator, is trying to recover 
+as much money as possible to pay the bondholders. 
+</TEXT>
+</DOC>

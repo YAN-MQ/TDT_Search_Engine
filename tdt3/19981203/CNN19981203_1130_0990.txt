@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981203.1130.0990 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A flood of results from U.S. retailers. Sharper image's sales, in 
+stores open a year or more, jumped 17% in november. The company said 
+sales were strong on the web site. 
+</TEXT>
+</DOC>

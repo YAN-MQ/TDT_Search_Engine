@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981231.0500.3012 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The U.S. dollar was weaker against most major currencies, as traders 
+took cautious positions awaiting the introduction of the European 
+single currency, the euro, tonight at midnight. 
+</TEXT>
+</DOC>

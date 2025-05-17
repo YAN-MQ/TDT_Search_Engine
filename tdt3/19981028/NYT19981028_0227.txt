@@ -1,0 +1,69 @@
+<DOC>
+<DOCNO> NYT19981028.0227 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+It was a humbling sight: a silvery cloud of hover jets descending 
+upon my fortress cluster of laser towers, armament factories and rocket 
+launchers to reduce it all to smoldering rumble. It had taken just 
+more than an hour for someone who called himself Hefty Lefty to vanquish 
+me at Total Annihilation, a computer strategy game at which I had 
+long considered myself a resourceful player. But I had played TA, 
+as devotees call it, only as a single player. Until a couple of weeks 
+ago, the game for me was a contest with only the game's _ and I say 
+this loosely _ artificial intelligence. Using the Internet to go nose 
+to nose, mano a mano, with another player _ unseen and, in the end, 
+unstoppable _ was exhilarating and sobering. Most humbling of all, 
+however, was just managing to get into the game, a process that can 
+be daunting. The first step is to choose a game. It is rare to find 
+a state-of-the-art computer game that does not have multiplayer features. 
+Some even have ``Internet Ready'' stickers right on their boxes. Some 
+games are offered for downloading over the Internet. Other games, 
+like Ultima Online, are sold in stores but can be played only on the 
+Internet. Next, you choose a game center, a kind of cyberarcade that 
+matches up players. The most simple and popular is America Online's 
+Games Channel. But play is limited to the games available on the channel, 
+ranging from Spades to Starcraft II (more advanced games can cost 
+$1.99 an hour), and it is limited to AOL members. Game centers that 
+are independent of Internet service providers like AOL and Microsoft 
+Network, which also has a game service, tend to offer a much broader 
+range of popular computer games. Some of the hottest games on the 
+market are offered in centers like Game Storm. But these kinds of 
+centers require users to pay a monthly fee, usually about $10, to 
+play. And first, of course, you must have a regular Internet provider 
+to get you to the Game Storm Web site. Using AOL as my Internet provider, 
+joining Game Storm was routine. It required by name, address, credit 
+card number and only a few minutes of downloading time with a 28.8 
+modem. But downloading one of the center's most popular games, Air 
+Warrior III, a World War II fight and flight simulation game, was 
+not. It took more than two hours to download the 23 megabytes (the 
+minimum installation) of the program. The game can be installed much 
+faster from a CD-ROM. Eventually, I found myself in the cockpit of 
+a Mustang high over Europe tangling with enemy planes, each piloted 
+by some other computer user also on line. But Game Storm only offers 
+Total Annihilation through its link to HEAT.Net, also a play-for-pay 
+site. But HEAT will not work if players are using AOL or Prodigy as 
+Internet providers. So, using AOL, I turned to Mpath Interactive's 
+Mplayer.com. I suddenly felt that I was getting closer to actually 
+playing the game on the Net. But I soon discovered that Mplayer.com, 
+a free service (although its new Plus features cost $3.95 a month), 
+involved a long downloading time for its proprietary software. To 
+get the center's Mplayer and Gizmo software, essential to using Mplayer.com, 
+I needed more than an hour for downloading with a 28.8 modem. Once 
+the downloading was complete, the game center searched my Total Annihilation 
+software and found that it was inadequate for playing on the Internet. 
+Mpath then upgraded the game, which took another 30 minutes. (Mplayer 
+Interactive is testing new software that promises downloading in less 
+than 10 minutes.) Finally, the computer was ready. Almost. When you 
+sign in with a player name and password, Mplayer.com routinely takes 
+a few more minutes to verify the account and then download last-minute 
+upgrades. Then, after clicking through advertisements for a computer 
+game magazine and waiting through a brief commercial for a new game 
+from Red Storm, I was, at last, facing a series of rooms where people 
+were actually playing Total Annihilation. Much like trying to get 
+into a game of pickup basketball, I would visit various sites trying 
+to persuade someone _ through a text chat box _ to let me play. Minutes 
+later, I met Hefty Lefty and hurried down the road to my dazzling 
+defeat. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981226.0130.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+They weathered the storms of world politics. But when the winds stopped, 
+so did they. The round-the-world balloon attempt by British billionaire 
+Richard Branson, american Steve Fossett and Swede per Lindstrand came 
+to a watery end christmas day. 
+</TEXT>
+</DOC>

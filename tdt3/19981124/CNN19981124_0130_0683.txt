@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981124.0130.0683 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Postal officials in Washington state are struggling to restore customer 
+confidence in mailboxes. It seems thieves in the Seattle area duplicated 
+the master key for those blue, street-side mailboxes and stole credit 
+cards and checks from all over town. The post office added padlocks 
+as a temporary solution, and new mailboxes with better locks are being 
+installed. One problem that hasn't been solved yet, the forged master 
+key also opens about 35,000 apartment mailboxes in the region. 
+</TEXT>
+</DOC>

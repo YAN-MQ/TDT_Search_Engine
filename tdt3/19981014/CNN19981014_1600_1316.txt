@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981014.1600.1316 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Evander Holyfield and Lennox Lewis have agreed verbally to meet in 
+a heavyweight title unification bout. Only their signatures are needed 
+to close the deal. The fight was brokered earlier this week by both 
+camps. The fighters are tentatively scheduled to fight in February 
+or March. The venue will almost certainly be Las Vegas. 
+</TEXT>
+</DOC>

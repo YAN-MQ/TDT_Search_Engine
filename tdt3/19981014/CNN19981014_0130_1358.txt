@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981014.0130.1358 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Elsewhere, Nashville won its first game. The leafs beat the Oilers. 
+Mike Sammond, "Headline Sports." 
+</TEXT>
+</DOC>

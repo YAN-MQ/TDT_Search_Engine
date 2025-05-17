@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981125.0130.0292 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Consumer confidence apparently is up, just in time for the holiday 
+shopping season. The conference board reports that in November, the 
+consumer confidence index rose 6.7 points to 126, quite a recovery 
+after October, when it fell to its lowest level in nearly two years. 
+That could bode well for stores. The holiday shopping season officially 
+begins Friday. According to the survey, more Americans say they would 
+buy a home or major appliance. And more people expect economic conditions 
+to get better, meaning more jobs and higher paychecks. 
+</TEXT>
+</DOC>

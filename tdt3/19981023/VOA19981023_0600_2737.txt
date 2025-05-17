@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> VOA19981023.0600.2737 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+A computer-controlled smart needle that can detect cancerous breast 
+lumps is being developed by a team of researchers at Sanford University 
+in NASA. When inserted into the breasts, the needle will be able to 
+tell the difference between normal fatty tissue and tumors. Thanks 
+to highly evolved computer software that allows the device to learn 
+by experience. Doctors would use ultrasound imaging to guide the needle 
+probe into a suspect lump, which the probe would then determine to 
+be either malignant or benign. What's more, the device would actually 
+be able to suggest proper individualized treatment. NASA researcher 
+Robert Ma, co-developer of the probe, says it could help determine 
+the distinctive features of a malignancy and how the disease might 
+progress. If laboratory tests of the probe are successful, Dr. Ma 
+and his colleague Stephanie Jeffrey of Stanford Medical School planned 
+to begin human tests early next year. Researchers say similar technology 
+could be used in diagnostic instruments for other cancers, including 
+those of the prostate and colon. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981119.0130.0218 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+House republicans have voted on their choices for key leadership posts 
+in the next Congress. Wednesday, they elected Louisiana congressman 
+Bob Livingston, who was unopposed, to be their candidate for house 
+speaker. He will run against the democrats' candidate, minority leader 
+Dick gephardt, in a full house election in January. House speaker 
+Newt Gingrich has announced he will resign, before the 106th congress 
+convenes. 
+</TEXT>
+</DOC>

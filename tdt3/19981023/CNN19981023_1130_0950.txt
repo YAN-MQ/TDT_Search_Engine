@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981023.1130.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And, confetti is falling faster than the leaves in New York. Millions 
+have turned out for a tickertape parade welcoming the world series 
+champion New York Yankees. 
+</TEXT>
+</DOC>

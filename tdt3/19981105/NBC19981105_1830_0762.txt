@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981105.1830.0762 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now to Wall Street where the market was slumping until fed chairman 
+Alan greenspan declared that the shaky state of the financial markets, 
+what he called "investor fright," appeared to be easing. That sent 
+the Dow Jones industrials soaring, closing up 132 points. 
+</TEXT>
+</DOC>

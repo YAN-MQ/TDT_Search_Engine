@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981124.0130.0322 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A federal judge has ruled that public libraries offering Internet 
+access cannot block pornographic web sites from their computers. The 
+judge says installing software that searches for sexual words is a 
+Violation of the constitutional right to free expression. She contends 
+libraries don't have to offer the Internet at all, but if they do, 
+they must find alternatives that don't infringe on adult rights. The 
+judge cited several alternatives, including using different terminals 
+for children and adults. 
+</TEXT>
+</DOC>

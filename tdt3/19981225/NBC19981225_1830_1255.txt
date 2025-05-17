@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981225.1830.1255 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On this busy travel weekend, the weather is a hot topic around holiday 
+tables. For most of the country, yesterday's snow and ice storms have 
+given way to cold, clear conditions. But the southeast is still struggling 
+with power outages. More than 600,000 people spent Christmas without 
+electricity. 
+</TEXT>
+</DOC>

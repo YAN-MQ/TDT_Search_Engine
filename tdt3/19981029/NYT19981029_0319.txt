@@ -1,0 +1,59 @@
+<DOC>
+<DOCNO> NYT19981029.0319 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A scorched and moldy volume of thousand-year-old pages _ the oldest 
+surviving copy of important mathematical works of Archimedes _ was 
+sold at auction Thursday for $2 million, double the expected price. 
+The winning bid, at Christie's of New York City, was made by Simon 
+Finch, a London book dealer, who said he was acting on behalf of an 
+unidentified private American collector. The seller was identified 
+only as a French family that acquired the volume in the early 1920s. 
+The volume includes copies of two of Archimedes' greatest works: ``Method 
+of Mechanical Theorems,'' which includes ideas startlingly reminiscent 
+of modern calculus, and ``On Floating Bodies,'' which puts forth his 
+laws of flotation. They are in palimpsest form: that is, the original 
+inked copy of Archimedes' texts, written by a 10th-century scribe, 
+was washed off by Byzantine monks in the 13th century so that the 
+expensive vellum on which it was written could be reused. The Archimedes 
+text was made almost illegible by the washing and then covered by 
+the later religious text. Christie's commissioned experts to examine 
+a few pages of the manuscript, illuminating them with ultraviolet 
+light and using computer programs to enhance the Archimedes text. 
+The project was strikingly successful. Mathematicians believe that 
+the improved text may reveal unsuspected nuances in Archimedes' scientific 
+thinking. The new owner of the palimpsest (pronounced PAL-imp-sest) 
+will pay $2,202,500, including commissions and taxes, and may soon 
+face a lawsuit from the Greek Orthodox patriarch of Jerusalem. Late 
+Wednesday, Simos Dimas, a New York lawyer representing the patriarch, 
+sought an injunction in U.S. District Court to block the auction and 
+lay claim to the volume, on grounds that it was stolen some time after 
+World War I. The judge denied the motion, and Christie's announced 
+that ``our consigner has clear title to sell the manuscript.'' Dimas, 
+who attended the auction, said his legal challenge would continue. 
+``Under New York law, stolen property cannot be sold, even if the 
+seller himself is not the thief,'' he said. ``This palimpsest is part 
+of the patrimony of the patriarchate.'' Chris Rorres, a professor 
+of mathematics at Drexel University, in Philadelphia, and an Archimedes 
+scholar who attended the auction, expressed disappointment with the 
+sale. ``It is the worst possible outcome,'' Rorres said. ``It means 
+that this priceless work may once again disappear into obscurity, 
+cut off from scholars who could mine its riches.'' But Felix de Maraz 
+Oyens, a Christie's expert on ancient manuscripts, offered some consolation. 
+De Maraz Oyens, who knows the identity of both the seller and the 
+buyer, predicted that scholars would be given access to the work. 
+``The buyer told me he would allow such access,'' he said. ``I cannot 
+tell you who it is, except to say that it is not Bill Gates.'' Bill 
+Gates, chairman of Microsoft Corp., has bought several valuable manuscripts, 
+including the Leicester Codex, a notebook of Leonardo da Vinci. Archimedes, 
+the greatest mathematical genius of antiquity, is particularly admired 
+by modern mathematicians for having devised a method that prefigured 
+the invention of calculus for computing relationships between geometrical 
+objects. His laws of flotation dictate the design of ships and define 
+the concept of specific gravity. Archimedes was slain by a Roman soldier 
+during the sack of Syracuse in 212 B.C. Isaac Newton invented modern 
+calculus some 19 centuries later, presumably drawing from Archimedes' 
+ideas. 
+</TEXT>
+</DOC>

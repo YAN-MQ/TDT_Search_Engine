@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981125.2130.0925 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And actor Michael J. fox says he has Parkinson's disease. He says 
+he has had the illness for seven years and underwent brain surgery 
+last year to ease the tremors caused by the illness. 
+</TEXT>
+</DOC>

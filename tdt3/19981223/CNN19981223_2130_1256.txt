@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981223.2130.1256 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jerome Jurenovich, "CNN Headline Sports." NBA deputy commissioner 
+Russ grenic says if there's no collective bargaining agreement by 
+January 7th, then he and commissioner David Stern will recommend canceling 
+the season. If that happens, it will be the first time that a major 
+pro sports league in north America lost an entire season of competition 
+for any reason. 
+</TEXT>
+</DOC>

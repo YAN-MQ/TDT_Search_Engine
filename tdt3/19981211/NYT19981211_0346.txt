@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO> NYT19981211.0346 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Responding cautiously to warnings about the potential for widespread 
+computer disasters in 2000, the first global convention of government 
+representatives to deal with the so-called millennium bug ended Friday 
+with an informal endorsement of regional cooperation. The concluding 
+summary, issued by Ahmad Kamal of Pakistan, the head of the U.N. task 
+force on information technology, also recommended that an organization 
+be developed to coordinate information-sharing and contingency plans. 
+The meeting attracted delegates from more than 120 countries, including 
+some that had not set up national projects to deal with the problem 
+until the invitations went out. Some last-minute attendees, notably 
+France, have expressed skepticism about the extent of the threat. 
+The problem arises because many computers, software programs and electronically 
+controlled machines use two digits to record the year, like 98 for 
+1998. Some read 00 as 1900 instead of 2000; others cannot interpret 
+00 as a valid date. Computers could miscalculate or crash as a result. 
+Delegates and observers said the meeting, most of it closed to reporters, 
+was unusually unvarnished for such a diplomatic setting. Ronald Ball, 
+a British Telecom official representing the International Telecommunications 
+Union, a U.N. agency, bluntly named countries that had failed to respond 
+to requests for information about how their telephone operations are 
+being updated. Some who were present said Ball cited not only developing 
+countries but also wealthy nations like Italy and, despite Kamal's 
+prominent role, Pakistan. Other speakers warned that Global 2000, 
+a group of banks working on the problem, would begin publicizing its 
+rankings of different countries' preparedness in February, which could 
+cause investors to avoid countries that are lagging. Both the bluntness 
+and the networking opportunities for international technocrats delighted 
+the U.S. delegation, which was led by John Koskinen, chairman of the 
+President's Council on Year 2000 Conversion, and included senior congressional 
+leaders. ``We have two years' worth of work to do in a year's time,'' 
+Koskinen said. Acknowledging that some failures are inevitable, the 
+group spent much of the day discussing how nations can develop contingency 
+plans. One suggestion was to set up ``SWAT teams'' that could move 
+swiftly into the hardest hit areas with technical assistance. The 
+common assumption is that most of the world is far behind the United 
+States in preparing for 2000. The Gartner Group, a consulting firm 
+based in Stamford, Conn., reported that at the end of September, the 
+only nations joining the United States in the ``lowest risk'' category 
+were Australia, Belgium, Bermuda, Britain, Canada, Denmark, Israel, 
+the Netherlands, Switzerland and Sweden. Gartner projects that 15 
+percent of businesses and government agencies in low-risk countries 
+will suffer at least one computer failure that significantly disrupts 
+operations. By contrast, more than 30 countries, including Russia 
+and China, fall into the highest-risk category. Gartner projects that 
+two-thirds or more of all businesses and government agencies in those 
+countries will run into at least one major problem. 
+</TEXT>
+</DOC>

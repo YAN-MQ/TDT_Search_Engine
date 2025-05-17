@@ -1,0 +1,55 @@
+<DOC>
+<DOCNO> APW19981223.0221 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Surgeons may some day treat brain tumors and heart ailments with the 
+click of a computer mouse. Washington University neurosurgeon Ralph 
+Dacey used a pioneering magnetic surgery technique to direct a biopsy 
+needle to the brain tumor of a 31-year-old man. The Dec. 17 biopsy 
+at Barnes-Jewish Hospital indicated the man needed chemotherapy. The 
+Magnetic Surgery System will be tested on four other brain tumor patients 
+over the next several months, Dacey said Tuesday. Several years of 
+trials will likely be necessary before the procedure is commonly used. 
+Dacey and officials with Stereotaxis Inc., which helped develop the 
+system, believe it will help in getting surgical tools _ and perhaps 
+medicine _ to hard-to-reach areas of the brain and the heart. They 
+say it may eventually help treat aneurysms, coronary artery disease 
+and other ailments. For a traditional biopsy, a surgeon would manually 
+push a rigid needle via a long, narrow catheter through the brain 
+to the tumor. Magnetic surgery allows the catheter to follow curved 
+routes, bypassing sensitive areas of the brain, or travel along blood 
+vessels to or near the heart, Dacey said. Surgeons around the country 
+said the procedure appears promising. ``I just think this is a better 
+way,'' said Warren Selman, professor of neurosurgery at Case Western 
+Reserve University in Cleveland. ``I think part of our problem is 
+getting around structures that are in the way,'' Selman said. ``The 
+ability to steer around an object instead of merely go through it 
+is an exciting development.'' In magnetic surgery involving a brain 
+tumor, a small hole is drilled in the patient's skull. The surgeon 
+places a plastic bolt in the hole to provide entry for a guidewire 
+with a magnet that travels through a catheter about the width of a 
+strand of spaghetti. The surgeon views magnetic resonance images (MRIs) 
+of the patient's brain on a computer screen. The three-dimensional 
+view allows him to plan the best route to the tumor. The patient's 
+head is placed in a machine between superconducting magnets and a 
+catheter is inserted through the bolt. The surgeon, sitting at the 
+computer console, uses a mouse or joystick to guide the magnet to 
+the tumor in about five minutes. The guidewire positioning system 
+pushes the small magnet through the brain, with the fields from the 
+superconducting magnets controlling its direction. When the head of 
+the instrument reaches the desired area, the surgeon pulls out the 
+guidewire, leaving the catheter in place to act as a tunnel. He then 
+inserts a tiny surgical tool through the catheter that snips out a 
+tissue sample for the biopsy. Universities and laboratories around 
+the United States have been developing magnetic surgery for more than 
+a decade. Trials have been previously performed on animals. Doug Kondziolka, 
+professor of neurosurgery at the University of Pittsburgh, called 
+the procedure very promising but said there are concerns. ``How reliable 
+is this way to control something deep in the brain?'' he asked. ``For 
+example, control of the magnetic field, the control and accuracy of 
+the manipulation.'' Dacey said the procedure is safe, even in the 
+event of a computer failure. If that happens, he said, surgery would 
+be performed manually. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981217.2000.0230 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street, the Dow Industrials gained 85 points to close at 8876. 
+This is npr. 
+</TEXT>
+</DOC>

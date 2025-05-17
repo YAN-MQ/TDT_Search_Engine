@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981219.1000.0153 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+CNN's latest survey of house members indicates republicans have enough 
+votes to pass at least one article of impeachment. The survey finds 
+219 votes for impeachment -- one more than is necessary. 200 members 
+of Congress are expected to vote against all articles of impeachment. 
+14 members, ten republicans and one democrat, still are undecided. 
+One congressman could not be reached. 
+</TEXT>
+</DOC>

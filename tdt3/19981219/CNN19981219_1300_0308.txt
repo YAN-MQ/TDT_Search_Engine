@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981219.1300.0308 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First lady Hillary Rodham Clinton paid a visit to Capitol Hill today 
+to rally the support of democratic lawmakers in a private meeting. 
+They say she told them President Clinton has no intention of resigning. 
+She also said she believes her husband has not been treated fairly 
+in the republican-controlled house. 
+</TEXT>
+</DOC>

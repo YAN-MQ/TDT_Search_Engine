@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981017.1600.1014 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The bullish market didn't help the Merrill Lynch bull. The company 
+confirmed this week it's cutting 3400 jobs, 5% of its global workforce. 
+In addition, Merrill Lynch announced a third-quarter loss of $164 
+million. 
+</TEXT>
+</DOC>

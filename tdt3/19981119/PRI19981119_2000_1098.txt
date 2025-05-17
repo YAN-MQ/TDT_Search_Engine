@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> PRI19981119.2000.1098 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Picture this, you are a young financial trader just starting out in 
+London. Your German employer is teaching you using a new electronic 
+computerized training system. There you are, eager and efficient, 
+typing on your computer, practicing trading in pork bellies and the 
+like. Then you press the wrong button and OOP's you have just executed 
+a trade that costs your company roughly $15 million. That's exactly 
+what happened in London according to today's Daily Telegraph Newspaper. 
+While neither the name of the trainee nor the company have been disclosed, 
+traders are astounded that such a thing could happen. Justin Erkhardt 
+Stewart is the director of Barclays' Stock Brokerage. Well, it's absolutely 
+staggering, I mean the fact that someone can actually press a button 
+and find themselves trading in such a position like this. Good electronic 
+trading systems should not allow that to happen, particularly when 
+he was a trainee. But they did. No word yet on whether the money will 
+be deducted from the trainee's next two or three thousand paychecks. 
+</TEXT>
+</DOC>

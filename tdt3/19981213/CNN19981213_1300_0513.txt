@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981213.1300.0513 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for today and into Monday. As one system continues to move 
+across the northwest, producing rain, windy conditions and snow in 
+the mountains, an area of low pressure will move slowly through the 
+southeast so that by Monday evening there will still be some lingering 
+clouds and showers through the carolinas, Georgia and florida. High 
+pressure moves toward the northeast, it will be a little cooler, we'll 
+look for quiet warmer weather through the plains and nice weather 
+in the southwest. Today's highs, 30s and 40s northeast, also across 
+the rocky mountains with some 60s and 70s in the south. Looking ahead 
+to Tuesday, cool air pushes toward the plains states, with some snow 
+showers in the upper midwest. That's what we'll see on Wednesday, 
+with the coldest air around the Great Lakes. Then on Thursday, rain 
+and snow in the northeast, 20s and 30s from the northern plains to 
+New England. Remember, you can find four-day forecasts for more than 
+7,200 cities on CNN interactive. The address is CNN.com. 
+</TEXT>
+</DOC>

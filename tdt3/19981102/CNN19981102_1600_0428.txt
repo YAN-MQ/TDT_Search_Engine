@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981102.1600.0428 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.S. Supreme Court has agreed to decide when victims of employment 
+discrimination can collect punitive damages. The case involves a suit 
+filed against the American dental association by a Woman who was denied 
+a promotion. She won the suit, but an appeals court said she was entitled 
+only to the extra income she would have been paid had she been promoted. 
+The Supreme Court will hear arguments in the case early next year. 
+</TEXT>
+</DOC>

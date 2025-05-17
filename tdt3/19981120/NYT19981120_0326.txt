@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> NYT19981120.0326 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+If Bill Gates, the chairman of Microsoft, is serving as an effective 
+witness for his company at the government's antitrust trial, it is 
+hard to find anyone other than Microsoft employees who hold that view. 
+On Thursday, Thomas Penfield Jackson, the U.S. district judge who 
+is judge and jury in the case, told lawyers for both sides that ``it's 
+evident to every spectator that for whatever reasons, in many respects 
+Mr. Gates has not been particularly responsive to his deposition interrogation.'' 
+Speaking to Microsoft's lawyers at a closed hearing, Jackson noted 
+that even ``everyone at your table has reflected skepticism as the 
+testimony is presented.'' A transcript of the discussion was made 
+public late that night. Government lawyers interviewed Gates for 20 
+hours in August, and they have been playing parts of this deposition 
+in court over the last three weeks. In the tapes, Gates appears to 
+recall little if anything about the subjects in dispute at the trial. 
+He pauses for 30 seconds or longer before answering many questions 
+and argues with the government about the meaning of even the most 
+common words, like ``compete,'' ``ask'' and ``market share.'' Experienced 
+trial lawyers who are not involved in this case say witnesses like 
+Gates can harm a company's case. ``Where a case goes to trial, the 
+credibility of a witness can be strongly and successfully attacked 
+if he couldn't remember significant events at his deposition that 
+any reasonable person would have remembered,'' said Gary Naftalis, 
+a partner in the firm Kramer, Levin, Naftalis &AMP; Frankel in New 
+York. Microsoft spokesmen contend that Gates testified just as witnesses 
+should in adversarial circumstances. The company even hired Joseph 
+diGenova, a former U.S. attorney, as a legal consultant and spokesman. 
+And after the last playing of a Gates tape segment, diGenova told 
+reporters that the Gates performance was typical. Microsoft had struggled 
+mightily to prevent the playing of the tape. Thursday's closed conference 
+with Jackson came as a result of a request by Microsoft's lead lawyer, 
+John Warden, that the government play the whole tape at once, not 
+just the pieces. Jackson rejected the request, saying: ``If anything, 
+I think the problem is with your witness, not the way in which his 
+testimony is being presented.'' 
+</TEXT>
+</DOC>

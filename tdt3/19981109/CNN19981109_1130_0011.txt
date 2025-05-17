@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981109.1130.0011 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court has ruled against White House attempts to prevent 
+presidential aides and secret service agents from testifying just 
+as a house subcommittee proceeding on impeachment gets under way. 
+19 constitutional experts are sharing their views before the panel. 
+The experts will give their opinion on whether Ken Starr's allegations 
+against President Clinton constitute impeachable offenses. Charles 
+Canady says he rejects the argument that private conduct can't be 
+grounds for impeachment. A leading kmeb of the subcommittee disagrees. 
+The Supreme Court denied the appeal to keep White House lawyer Bruce 
+Lindsey from testifying about confidential information from conversations 
+with President Clinton. There is the possibility that Lindsey may 
+rely on executive privilege to refuse to answer grand jury questions. 
+The Supreme Court refused a White House appeal to prevent secret service 
+agents from testifying about what they see and hear while guarding 
+the president. 
+</TEXT>
+</DOC>

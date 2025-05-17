@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981013.0130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+checking our top stories -- president clinton confirms yugoslav president 
+slobodan milosevic has agreed to make concessions in the kosovo crisis 
+that could avoid military action. the announcement came after nato 
+approved an activation authorizing air strikes against serbia. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981018.1000.0405 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Pope John Paul II is wrapping up a week of celebrating 20 years as 
+Pontiff. Tens of thousands of people turned out for mass today on 
+the steps of St peter's basilica. The Pontiff asked the crowd to pray 
+for him to continue guiding the catholic church. 
+</TEXT>
+</DOC>

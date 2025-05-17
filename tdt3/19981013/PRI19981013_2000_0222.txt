@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981013.2000.0222 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock prices closed lower today on Wall Street. The Dow Jones Industrial 
+Average lost 63 points to close at 7,938. Declining issues led advances 
+in heavy trading. This is NPR News. 
+</TEXT>
+</DOC>

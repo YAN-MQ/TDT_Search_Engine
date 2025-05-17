@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981024.1600.0334 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mr. Clinton is back on the campaign trail this weekend. He'll attend 
+two fund-raising events in Los Angeles for congressional candidate 
+Janice Hahn and senator Barbara boxer, who's seeking re-election. 
+Tomorrow, the president will be in San Francisco for another fund-raiser 
+for boxer. 
+</TEXT>
+</DOC>

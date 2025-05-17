@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981016.1600.1034 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On the economic front -- inflation is virtually nonexistent. Consumer 
+prices were unchanged last month. Falling energy, clothing and vegetable 
+prices helping keep inflation in check. Excluding food and energy 
+costs, the core rate rose two-tenths of a percent. So far this year, 
+consumer prices rose just 1.4%. so far this year separately, the nation's 
+industrial output dropped unexpectedly in September -- down three-tenths 
+of one percent. That's the weakest in 7 1/2 years. 
+</TEXT>
+</DOC>

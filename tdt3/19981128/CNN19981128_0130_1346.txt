@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981128.0130.1346 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At the Puerto Rico shootout, Pittsburgh shocked fourth-ranked Kentucky 
+68-56. The loss snapped the Wildcats 17-game winning streak. 
+</TEXT>
+</DOC>

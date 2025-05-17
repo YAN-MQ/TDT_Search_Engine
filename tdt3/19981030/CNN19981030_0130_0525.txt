@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981030.0130.0525 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And later -- the Middle East 
+braces for the aftereffects of the latest terrorist bombing there. 
+</TEXT>
+</DOC>

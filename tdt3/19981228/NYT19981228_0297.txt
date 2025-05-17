@@ -1,0 +1,114 @@
+<DOC>
+<DOCNO> NYT19981228.0297 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Every winter, after flying south from the eastern United States, millions 
+of monarch butterflies festoon fir trees in the mountains of Mexico, 
+creating one of the world's most dazzling and famous biological spectacles. 
+But in spite of intense interest in these beloved insects, the details 
+of their travels, like those of so many creatures that do not submit 
+to tagging or to voyeuristic techniques like radio-transmitters, have 
+largely remained a mystery. Now three new studies, including one released 
+Dec. 22 on monarchs, herald the arrival of a powerful new technique 
+that can identify, sometimes to within a few miles, where migrating 
+animals _ from butterflies to mastodons to humans _have been. The 
+new technique takes advantage of different forms, known as isotopes, 
+of chemical elements. Biologists have begun discovering that these 
+isotopes, present in different amounts in different regions, can leave 
+a distinctive chemical signature written in the feather of a bird 
+or the wing of a butterfly. By pinpointing crucial places where animals 
+spend their lives, for example the major breeding grounds of monarch 
+butterflies, the studies are not only illuminating the paths of these 
+travelers, but are showing where conservationists should be focusing 
+their efforts. In the case of monarchs, much of their breeding ground 
+now appears to be on some of the most heavily farmed regions, heavily 
+sprayed with pesticides, in the United States. ``This has been a massive 
+breakthrough,'' said Dr. Keith Hobson, a research scientist at the 
+Canadian Wildlife Service in Saskatoon, who carried out the monarch 
+work along with Dr. Len Wassenaar, a research scientist with Environment 
+Canada, also in Saskatoon. ``These are questions we could get at no 
+other way.'' Dr. Page Chamberlain, a geochemist at Dartmouth College 
+and another of the leaders in this newly developing field, said that 
+when he first heard that researchers were using isotopes to trace 
+elephant movements, ``We thought, `Hey, we can do that. We can do 
+it with fish too.' Now within a couple of years we've gone from fish 
+to birds to insects. It has a lot of promise.'' It turns out, to biologists' 
+delight, that the world is peppered and painted with many different 
+kinds of isotopes whose levels in a region vary depending on factors 
+like temperature, rainfall, bedrock and soils. Hydrogen, for example, 
+which comes in its standard form as well as the heavier form deuterium, 
+shows a distinctive pattern of distribution. Depending on whether 
+hydrogen in any particular molecule of water is heavy or light, the 
+water will be heavy or light. When clouds move inland from over the 
+ocean, heavy water rains out first and lighter water further inland, 
+creating a stable gradient that can be mapped. Those differences get 
+translated into plants that take up the water and then into insects 
+that eat the plants, birds that eat the insects and so on, leaving 
+an indelible mark on even the flightiest creatures. Researchers can 
+refine their ability to pinpoint locations by using multiple isotopes 
+with different specificities. Strontium, for example, an element that 
+has been used to trace salmon movements, can vary greatly between 
+streams just a few miles apart. To track monarchs, researchers used 
+carbon and hydrogen, first developing a detailed isotope map. Working 
+with Dr. Chip Taylor, an ecologist at the University of Kansas and 
+the director of Monarch Watch, a nonprofit research and education 
+group, Wassenaar and Hobson enlisted the help of 90 amateur butterfly 
+enthusiasts, many of them schoolchildren. These volunteers around 
+the country raised monarch caterpillars on milkweed plants, the insect's 
+food plant, from their area. The carbon and hydrogen in the wings 
+of the resulting butterflies revealed the variation in isotope ratios 
+from the Rocky Mountains to the Atlantic _ the breeding range of the 
+monarchs that migrate to Mexico. Researchers were then able to study 
+the wings of monarchs that had died naturally in 13 wintering sites 
+in Mexico. They showed for the first time that these butterflies dangling 
+together like crowded Christmas tree ornaments came from all parts 
+of the breeding range, flying in and mingling after having grown up 
+as caterpillars in places as distant as Massachusetts, Illinois and 
+Maryland. The work put to rest a theory that different roosts were 
+populated by butterflies from distinct geographic regions. The new 
+findings are a big step forward as earlier attempts to track the monarchs 
+had been limited to tagging. ``The odds of recovery with little guys, 
+like monarchs, are pathetically low,'' Wassenaar said, about one recaptured 
+monarch for every several thousand tagged. The most surprising discovery, 
+however, was that, while the monarchs' breeding range is quite large, 
+half of all the butterflies collected from Mexico had come there from 
+a fairly restricted and highly agricultural area including Kansas, 
+Nebraska, Iowa, Missouri, Wisconsin, Illinois, Michigan, Indiana and 
+Ohio _ soybean and corn country. The bad news, said Dr. Lincoln Brower, 
+a monarch researcher at Sweet Briar College, is that ``pesticides 
+are killing milkweed plants on a grand scale in this very region, 
+what they've shown is the most important breeding region for monarchs.'' 
+More worrisome still, Taylor said, is the use of transgenic plants, 
+which have been genetically altered so that they can withstand pesticide 
+sprays that competing weeds, like milkweeds, cannot. Other transgenic 
+plants, like those that produce toxins in their tissues, are of great 
+concern to biologists who note that it remains entirely unknown what 
+effect these novel plants might have on non-target insects in these 
+regions, including monarchs. ``There is a revolution coming along 
+in agriculture,'' Taylor said, ``that has great potential to eliminate 
+a lot of milkweeds.'' The reach of the new isotope studies is becoming 
+so broad that even the dead are not immune from these investigations. 
+Dr. T. Douglas Price, archeologist at the University of Wisconsin, 
+and an international team of colleagues are tracking the movements 
+of ancient humans using strontium deposits in teeth and bones. ``The 
+beauty of this is that in people, your tooth enamel forms at birth 
+and doesn't change and your bone represents where you lived the last 
+10 years of your life,'' he said. ``If the ratios are different, we 
+know that the person moved.'' Using such simple principles, Price 
+said his team had just completed a study of the peoples of the Mexican 
+city of Teotihuacan, testing the idea that different parts of the 
+city were ethnic neighborhoods of people from different regions of 
+Mexico. ``We've looked at their bones and they're definitely outsiders,'' 
+Price said. ``The potential of this technique is really remarkable.'' 
+In addition, others are tracking declining songbirds and salmon, and 
+two paleontologists, Kathryn Hoppe at Princeton University and Dr. 
+Paul Kock at the University of California at Santa Cruz, are reconstructing 
+the movements of fossil mastodons and mammoths. Meanwhile, there remain 
+many untapped isotopes and as many new questions to be asked. ``I 
+think we can look at just about any animal, you name it,'' Hobson 
+said. ``Forensic applications are also quite possible. If someone 
+wanted to know if marijuana was grown in the southern United States 
+or Canada, that would just be a piece of cake.'' 
+</TEXT>
+</DOC>

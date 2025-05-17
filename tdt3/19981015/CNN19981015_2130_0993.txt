@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981015.2130.0993 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+As corporate America continues to announce more job cuts, first-time 
+jobless claims rose by 2,000 last week to a seasonally adjusted 303,000. 
+In other economic news, prices at the wholesale level rose 3% in September. 
+That's slightly more than economists were expecting. Excluding volatile 
+food and energy prices, the so-called "core rate" rose .4%. 
+</TEXT>
+</DOC>

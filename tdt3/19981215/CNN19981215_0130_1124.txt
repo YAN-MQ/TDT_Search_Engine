@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981215.0130.1124 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's one for the skier who has to have the latest gadget. The sports 
+tracker follows a skier's progress by using a global positioning system 
+a network of satellites first developed by the military. Skiers in 
+vail, Colorado, already can rent the system and at the end of the 
+day get a map showing where they've been and how fast they've gone. 
+Cost -- $27 a day. 
+</TEXT>
+</DOC>

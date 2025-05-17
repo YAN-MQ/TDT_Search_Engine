@@ -1,0 +1,217 @@
+<DOC>
+<DOCNO> NYT19981206.0083 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Heard the latest management mantra? Six Sigma. In consultant-speak, 
+it denotes the path to a corporate nirvana where everything _ from 
+product design to manufacturing to billing _ proceeds without a hitch. 
+In engineer-speak, it means no more than 3.4 defects per million widgets 
+or procedures. In practice, Six Sigma is a statistical quality-control 
+method that combines the art of the efficiency expert with the science 
+of the computer geek. And a growing group of big no-nonsense companies 
+like Allied Signal, Motorola and General Electric swear by it. ``Six 
+Sigma has galvanized our company with an intensity the likes of which 
+I have never seen in my 40 years at GE,'' said John Welch, chairman 
+of General Electric. So fervent a proselytizer is Welch that GE has 
+spent three years and more than $1 billion to convert all of its divisions 
+to the Six Sigma faith. The GE Medical Systems unit recently introduced 
+a $1.25 million diagnostic scanner, the first product that GE designed 
+from start to finish using Six Sigma principles. Six Sigma teamwork 
+enabled GE Plastics to produce 1.1 billion pounds more plastics without 
+building one new plant. Over all, Welch credits Six Sigma with raising 
+the company's operating profit margins to 16.6 percent from 14.4 percent. 
+So what exactly is this philosophy of flawlessness? First, the name. 
+Sigma is the Greek letter that statisticians use to define a standard 
+deviation from a bell curve. The higher the sigma, the fewer the deviations 
+from the norm _ or, in industry parlance, the fewer the defects. At 
+One Sigma, two-thirds of whatever is being measured falls within the 
+curve. Two Sigma encompasses about 95 percent. At Six Sigma you are 
+about as close to flaw free as mere mortals can get. No company can 
+really achieve that kind of perfection, of course. But as with any 
+religion, Six Sigma presents an ideal state toward which adherents 
+continually strive. ``Six Sigma gets people away from thinking that 
+96 percent is good, to thinking that 40,000 failures per million is 
+bad,'' said James Morehouse, a vice president of the consulting firm 
+of A.T. Kearney Inc. Six Sigma was developed more than a decade ago 
+at Motorola. But since then, it has been embraced by numerous corporations 
+and is even included in courses on quality at the Harvard Business 
+School. As applied in industry, Six Sigma is a rigorous statistical 
+method of breaking a customer's requirements into tasks or steps, 
+and setting the optimum specification for each part of the process, 
+based on how the parts interact. ``Six Sigma translates fuzzy customer 
+requirements into technically measurable responses,'' said Maurice 
+Berryman, a Six Sigma consultant in Dallas. Here is an example: Say 
+a customer wants to be billed on the same day each month. With Six 
+Sigma, making that happen means analyzing the interaction of everything 
+involved in processing that customer's order. When and how does the 
+sales department send through paperwork, and at what point does a 
+difference in days, hours, even minutes, have an impact on when the 
+bill goes out? Does it make a difference when shipping coordinates 
+with billing? How long does mail sit in the mail room, and at what 
+point does it matter? Once everything is quantified, the what-if scenarios 
+begin: Would a stricter paperwork processing schedule in sales make 
+mail room bottlenecks irrelevant? Would adding a person in accounting 
+give the mail room an extra hour's leeway? In principle, Six Sigma 
+is little different from the type of analysis that Frederick Taylor, 
+the industrial efficiency pioneer, might have performed with stopwatch 
+and notebook a century ago. But in Six Sigma analyses, there are thousands 
+of permutations and combinations _ probably too many for the human 
+mind to fathom, although easy enough for even a moderately speedy 
+computer. Thus, modern information technology has made Six Sigma a 
+practical way to identify the optimum configuration of most products 
+or processes. ``Six Sigma gets people from all over the organization 
+to work together on improving the end product, not just their individual 
+piece of it,'' said Frank Jones, a Six Sigma specialist at the management 
+consulting firm Booz-Allen &AMP; Hamilton. In the case of the new 
+GE Medical Systems product _ a superfast diagnostic scanner called 
+the Lightspeed _ 200 people spent nearly three years and almost $50 
+million to run 250 separate Six Sigma analyses. While one team was 
+checking out the reliability of measurement devices, another was figuring 
+out which factors affect the scanner's life, while yet another was 
+dissecting image quality into factors that could be massaged to filter 
+out picture-blurring electronic noise. The Lightspeed, like many diagnostic 
+scanners, employs computed tomography, or CT. CT scanners work by 
+sending electromagnetic waves through the body and recording the amount 
+of energy that comes out. Since various tissues and organs absorb 
+energy differently _ bones absorb more than flesh, for example _ the 
+emerging waves, in the form of light, yield a good picture of the 
+internal landscape they have passed through. The scanners let doctors 
+study wafer-thin cross sections of parts or all of a patient's body 
+without making any incision. GE Medical Systems, which already controls 
+39 percent of the $1.6 billion global market for scanners, has high 
+hopes for the Lightspeed. The new scanner captures multiple images 
+simultaneously, requiring only 20 seconds to do full-body scans that 
+once took three minutes _ important because patients must remain perfectly 
+still during the scan. And unlike previous CT scanners, the Lightspeed 
+does not need to cool down for as long as three minutes between uses. 
+``The speed is breathtaking, and it ran without downtime from the 
+start,'' said Dr. Carl Ravin, chairman of the department of radiology 
+at Duke Medical Center. The Lightspeed is not perfect, of course. 
+But Six Sigma enabled GE Medical to anticipate which compromises doctors 
+would accept. For example, the Lightspeed takes slightly thicker scan 
+slices than doctors normally specify, but no one complained because 
+the thicker slices were virtually free of electronic noise. ``Six 
+Sigma let us predict the amount of variability that customers will 
+tolerate before they perceive it as a defect,'' said Marc Onetto, 
+who oversees Six Sigma projects at Gems, as GE Medical Systems is 
+commonly known. Of course Six Sigma itself is not perfect, either, 
+since it cannot compensate for human error. Take what happened when 
+Gems tinkered with the computer that translates the data the scanner 
+collects into images an operator can read. CT scanners generate a 
+lot of heat, and the heat often caused the printed circuit boards 
+to overload. A Six Sigma team figured out that by perforating the 
+metal box that holds the boards, they could dissipate the heat. They 
+were right _ except that they forgot to check what other impact that 
+change might have. Gems started sending out scanners with perforated 
+computer boxes. The holes compromised the structural integrity of 
+the metal, the metal warped outward and the circuit boards loosened 
+_ causing as many failures as the heat had. Gems technicians spotted 
+the problem during field tests, and the company corrected it by reinforcing 
+the metal before any scanner was running at a hospital or a clinic. 
+But the mistake taught Gems an important lesson about Six Sigma. ``You 
+must take it step by step,'' said Charles Young, a Gems spokesman 
+who has been steeped in the process. ``You get into trouble if you 
+compromise the rigor of the process. You can't skip steps and jump 
+to premature conclusions.'' The Lightspeed project started, as so 
+many new products do, with customers clamoring for more, better, faster. 
+By late 1995, Gems knew that Siemens, Toshiba and other competitors 
+were working on faster scanners. The company also knew it could probably 
+get its own faster version ready, approved by the Food and Drug Administration 
+and on the market before the 1998 Radiology Society of North America 
+show, the annual December trade exposition at which the medical equipment 
+industry displays its latest wares. But readying a scanner as radically 
+different as the Lightspeed was an iffier proposition. ``Going for 
+that quantum leap in technology in that time frame was one of the 
+toughest decisions of my career,'' said Vivek Paul, general manager 
+of the CT business at Gems. ``We shifted development resources from 
+existing products, and that left us very vulnerable if Lightspeed 
+couldn't be built in time.'' In January 1996, the race against the 
+clock began. The most important parts of the scanner are the tubes, 
+which focus the waves, and the detector, which translates them into 
+pictures. So they received the heaviest attention. The old tubes, 
+which cost $59,000 each to replace, had long been a thorn in GE's 
+side. Hospitals and clinics wanted them to operate for at least 12 
+hours a day, for 6 months; typically, they lasted only half that long. 
+Moreover, Gems was scrapping some $20 million in tubes each year because 
+they failed preshipping performance tests. Even so, a disturbing number 
+of faulty tubes were slipping past inspection, only to be pronounced 
+dead-on-arrival _ Gems really does call them DOAs _ at the customer's 
+door. So the Gems Six Sigma teams deconstructed the tubes. They knew 
+that one problem involved the petroleum-based oil in the tube, which 
+prevents short circuits by isolating the anode, which has a positive 
+charge, from the negatively charged cathode. The oil often deteriorated 
+after a few months, but they did not know why. By using statistical 
+what-if scenarios on all parts of the tube, however, the researchers 
+learned that the lead-based paint on the inside of the tube was adulterating 
+the oil. By November 1996 they had developed a paint that would preserve 
+the oil and protect the tube. CT scanners generate X-rays by bombarding 
+metals with high-speed electrons. Even a few air molecules can slow 
+the electrons down, so the tube needs a total vacuum. But too many 
+tubes were reaching the end of the production line with ``beads'' 
+_ tiny openings, usually where glass and metal are sealed, that let 
+air leak in. So Gems engineers made a list of things that could cause 
+a vacuum leak. Through Six Sigma analysis, they ruled out type and 
+length of glass. But they did learn that the metal pin through which 
+current flows into the tube tended to tarnish, which would loosen 
+the seal. They also found other significant factors: the type of gas 
+used in processing the tube, and the speed with which the glass cooled 
+down after going through a heat-treating furnace. Thus informed, the 
+engineers used computer modeling to test numerous combinations of 
+different temperatures, gases and such. They wound up ``pre-oxidizing'' 
+the metal pin, roughening its surface and helping it adhere to the 
+glass. They replaced the hydrogen gas with nitrogen. And they changed 
+the heating process from one in which tubes move continuously through 
+the furnace to one in which they are processed in fixed batches, making 
+the heating and cooling periods easier to control. ``Six Sigma gave 
+us a methodical way to test how changes in one factor would interact 
+with changes in others,'' said Beth Hulse, the engineer who led the 
+project. Trying to eliminate all leaks would have put Gems way behind 
+deadline and way over budget. And it was now early 1997. So Gems settled 
+for a process that cut the pre-shipment scrap rate by 40 percent and 
+that has eliminated DOAs so far. And while the new tubes are priced 
+at $85,000, or 40 percent more, they carry a one-year warranty. Converting 
+an electron beam to X-ray images is not an efficient process. Only 
+about 1 percent of the energy that hits human tissue emerges as light, 
+with the rest dissipated as heat. And that heat can affect the quality 
+of the image. Statistical analysis showed that adding a $100,000 resistor 
+would control the temperature. But the same tests also revealed that 
+changing a few inexpensive capacitors elsewhere in the tube, and redesigning 
+how the wires are padded, would yield a similar result. Another way 
+to cut down on fuzzy images and false readings _ detection of tumors 
+that are not really there, for example _ would have been to tighten 
+the specifications for the focal point, the accuracy with which the 
+electron beam hits the target tissue. But that would have involved 
+a costly tube redesign. By April 1997, a Six Sigma team had learned 
+that widening the tungsten wires that cover many of the wave-receptor 
+cells in the detector plate would create a bigger target, thereby 
+compensating for any tiny inaccuracies in the beam's trajectory. Although 
+this change requires giving the patient a higher dose of X-rays during 
+the scan, the dose is still within the medically accepted margin of 
+safety. ``By making the data collection process less efficient, we 
+made the scanner as a whole more efficient,'' said Gary Strong, a 
+Lightspeed designer. But the image quality still needed improvement. 
+The detector surface in each scanner has thousands of ``pre-amp chips,'' 
+semiconductor components that amplify the light signals so that a 
+computer can read them. But each chip emits some energy itself, which 
+in turn gets picked up by other chips, causing extraneous rings or 
+shadows in the image. Redesigning the chips, Gems concluded, would 
+take at least eight months, which could mean missing the target date 
+for field tests: April 1998. But Six Sigma analyses showed that Gems 
+could get the same result by relaxing specifications for the relationship 
+between the amount of energy that comes into and out of the pre-amps, 
+and by writing simple software that would allow the computer to control 
+the variation. The project was completed last March _ just before 
+the deadline for the field tests. The Lightspeed, which went on the 
+market in September, costs 25 percent more than older scanners but 
+seems to be a hit. Gems has installed 12 Lightspeeds, and has orders 
+for 50 more. But the Six Sigma work at Gems is far from over. The 
+Gems chief executive, Jeffrey R. Immelt, is working on projects to 
+find a better way to position flexible tabs _ the items that keep 
+electrons in alignment as they travel across the detection panels. 
+And he will soon join a team that will apply Six Sigma methods to 
+reduce variances in customer service. ``Six Sigma lets you approach 
+problems with the assumption that there's a data-oriented, tangible 
+fix at the end,'' Immelt said. ``And that is a radical culture change.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981023.1600.0547 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's another sign winter is just around the corner -- daylight saving 
+time ends at 2:00 A.M. Sunday. This weekend. Folks in most of the 
+U.S. should turn back their clocks one hour before going to bed tomorrow 
+night, or after waking up Sunday. 
+</TEXT>
+</DOC>

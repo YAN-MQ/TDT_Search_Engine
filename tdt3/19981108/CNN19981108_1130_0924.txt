@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981108.1130.0924 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And hundreds of people rallied in London today, demanding that former 
+chilean dictator augusto Pinochet be tried for human rights abuses. 
+Pinochet was arrested in London last month. 
+</TEXT>
+</DOC>

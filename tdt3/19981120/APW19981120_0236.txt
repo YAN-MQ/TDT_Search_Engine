@@ -1,0 +1,49 @@
+<DOC>
+<DOCNO> APW19981120.0236 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Japan's Fair Trade Commission has ruled that Microsoft Corp. violated 
+the country's anti-monopoly laws by promoting software in a way that 
+put competitors at a disadvantage, the commission said Friday. The 
+trade watchdog issued a warning to Microsoft and its Japanese subsidiary 
+against engaging in unfair business practices following an investigation, 
+which began in January when officials raided the company's Tokyo offices. 
+The admonition came as the Redmond, Washington-based software giant 
+faces anti-trust allegations in a high-profile case in the United 
+States. The trade commission said Microsoft attempted to unfairly 
+restrict competitors' access to the market by bundling pre-installed 
+word-processing and spreadsheet software, said FTC spokesman Kanichiro 
+Nakanishi. Microsoft Co., the wholly-owned Japanese subsidiary of 
+Microsoft Corp., issued a statement in Tokyo late Friday saying it 
+had already voluntarily stopped the practices cited by the FTC and 
+did not anticipate having to make any additional changes in its marketing 
+activities in Japan. Makoto Naruke, the president of Microsoft Co., 
+said in the statement that he welcomed the conclusion of the FTC's 
+investigation and was confident that his company had acted in accordance 
+with the law. A company official speaking on condition of anonymity 
+said Microsoft does not plan to formally protest the ruling, but that 
+the company does not believe it violated any laws. Brad Smith, general 
+counsel for international affairs at Microsoft's headquarters, said 
+the ruling in a way was positive for the company because the Japanese 
+FTC decided not to pursue separate allegations involving dominance 
+over Internet services. Similar allegations are central to the U.S. 
+Justice Department's case against Microsoft. ``It's certainly ironic 
+that the Japanese government has dropped all of the browser allegations, 
+but our own government is continuing its attack on one of America's 
+leading exporters,'' Smith said. The Japanese ruling has no bearing 
+on the U.S. case, in which the Justice Department and 20 states contend 
+Microsoft has used its dominance in PC operating systems to quash 
+competition. Microsoft had contracts in Japan whereby companies offering 
+Internet access were promoted via a list linked to its Windows software. 
+In return, these service providers had agreed to promote Microsoft's 
+Internet Explorer browser. Those contracts were criticized for being 
+exclusionary, and Microsoft modified them earlier this year, the Microsoft 
+lawyer said. In January, agents from the commission raided Microsoft's 
+Tokyo offices, confiscating information about Microsoft's Windows 
+operating system and Internet Explorer browser software. It also collected 
+information about Microsoft's word processing program Word and spreadsheet 
+Excel. Microsoft's Windows operating software controls the basic functions 
+of 85 percent of the world's personal computers. 
+</TEXT>
+</DOC>

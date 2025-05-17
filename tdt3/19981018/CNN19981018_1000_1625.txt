@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981018.1000.1625 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Thousands of San Diego padre fans went to their home stadium to see 
+their team take on the New York Yankees in game one of the world series 
+yesterday, even though it was played in New York. The city's mayor 
+opened the stadium to the public for free so they could watch the 
+live telecast from Yankee stadium on the big screen. Padre fans got 
+into the spirit with painted faces and pom-poms. Unfortunately for 
+them, their hometown boys dropped game one to the Bronx bombers, 9-6. 
+</TEXT>
+</DOC>

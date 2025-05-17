@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981128.1000.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Ta, this is "CNN headline good morning, I'm Judy Fortin. 
+</TEXT>
+</DOC>

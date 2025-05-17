@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981125.1130.0306 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A republican head count suggests there may not be enough support in 
+the House of Representatives to impeach President Clinton. Impeachment 
+would require 218 votes. A senior republican aide quoted in "The Washington 
+Post" says as many as 20 of the house's 228 GOP members might vote 
+against impeachment on a single count of perjury. And 30 might vote 
+"no" on an obstruction of justice count. 
+</TEXT>
+</DOC>

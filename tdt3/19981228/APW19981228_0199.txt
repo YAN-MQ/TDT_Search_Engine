@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> APW19981228.0199 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Hong Kong stocks slumped Monday in extremely thin trading after the 
+Christmas holiday. The blue-chip Hang Seng Index fell 122.06, or 1.2 
+percent, closing at 10,170.14. On Thursday, the index had gained 133.45 
+points. The market was closed on Friday for Christmas. Turnover fell 
+to 1.222 billion Hong Kong dollars (U.S. dlrs 156 million), its lowest 
+full-day trading level since Jan. 4, 1993, when it stood at 1.020 
+billion Hong Kong dollars (U.S. dlrs 130 million). Brokers said there 
+was selective profit-taking following last Thursday's gains, but that 
+many investors remained on holiday. ``There's very little news'' to 
+move the market, said Alan Hutcheson, research director at Pacific 
+Challenge Securities Ltd., Among properties, Cheung Kong fell 1.25 
+Hong Kong dollars to 56.75, and Sun Hung Kai Properties fell 75 cents 
+to 57.50. In the banking sector, HSBC Holdings fell 4.00 dollars to 
+195.00, and Hang Seng Bank fell 1.75 dollars to 71.00. Elsewhere, 
+Hutchison Whampoa fell 75 cents to 55.00, and Swire pacific ``A'' 
+fell 10 cents to 35.60. 
+</TEXT>
+</DOC>

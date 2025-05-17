@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981118.1600.1475 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sir Paul McCartney will find an old friend at the induction ceremonies 
+for the rock 'N' roll hall of fame next year -- sir George Martin. 
+The legendary Beatles producer, who also changed the way record producers 
+interact with the record labels, will be inducted in the nonperformer 
+category. Don't tell the hall about the numerous times he played keyboards 
+for the fabs. 
+</TEXT>
+</DOC>

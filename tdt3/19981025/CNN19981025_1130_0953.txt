@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981025.1130.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And a volcano in Japan is erupting. It sent smoke 2,300 feet into 
+the air and dumped ash on cars, but no one was injured. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981015.1130.1329 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+German titov scored twice as the Penguins dropped the Devils to 0-2 
+with a 3-1 victory. 
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> NYT19981224.0334 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Breaking a longstanding year-end tradition among New York governors, 
+Gov. George Pataki on Thursday declined to grant clemency to any of 
+the hundreds of state prison inmates who petitioned him for early 
+release this year. The decision represents the first time in Pataki's 
+four years in office that he has rejected every clemency application 
+from inmates who claimed that their behavior in prison was so exemplary 
+that they qualified for early release. The last governor to reject 
+every clemency appeal made to him was Gov. Mario Cuomo, in 1989. Inmates 
+who are granted clemency are immediately eligible for a parole hearing. 
+In the past, the state Board of Parole has released most of the prisoners 
+whose sentences were commuted by the governor. Pataki, like Cuomo 
+before him, has used his power to grant clemency sparingly. In 12 
+years, Cuomo commuted the sentences of 35 prisoners, far fewer than 
+previous governors, like Hugh Carey, who granted clemency 150 times 
+in eight years. Pataki has granted clemency to 13 inmates since taking 
+office four years ago. New York's governors historically announce 
+grants of clemency around the holiday season. To be eligible, an inmate 
+must have served at least half of his or her minimum term and have 
+shown progress toward rehabilitation or have a terminal illness or 
+a chronic disability that would be lessened by release from prison. 
+</TEXT>
+</DOC>

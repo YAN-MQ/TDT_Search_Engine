@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981120.2130.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Florida's attorney-general says 22 states are investigating allegations 
+ford motor company allowed dealers to cheat customers. He claims people 
+who wanted to buy cars they had been leasing before the lease was 
+completed were sometimes told they owed hundreds or thousands of dollars 
+more than they actually did. He claims some dealers then pocketed 
+the difference after forwarding the correct balance to Ford. Investigators 
+believe Ford may have provided training materials to help dealers 
+cheat customers. The company denies it broke the law. 
+</TEXT>
+</DOC>

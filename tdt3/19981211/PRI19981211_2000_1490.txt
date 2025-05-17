@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981211.2000.1490 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street, the Dow Jones Industrials closed down 20 points to 
+8,822 today. The NASDAQ, however, continued its upward trend, up 13 
+points to 2,029. 
+</TEXT>
+</DOC>

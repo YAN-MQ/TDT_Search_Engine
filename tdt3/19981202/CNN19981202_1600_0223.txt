@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981202.1600.0223 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Boeing says half of newly announced job cuts will come through retirement, 
+voluntary resignations and other attrition. Yesterday, the aircraft 
+manufacturer announced it would lay off another 20,000 people over 
+the next two years, in addition to 28,000 cuts previously announced. 
+Boeing's chairman says up to 90% of the layoffs will be in the company's 
+commercial airline production plants. Operations in the Seattle area 
+will be hardest hit. Boeing says it will cut production of 747s by 
+more than half. The company is blaming the Asian economic crunch. 
+Reduced travel in Asian markets has reduced the demand for planes. 
+</TEXT>
+</DOC>

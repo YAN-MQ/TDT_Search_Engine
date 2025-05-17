@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981128.1300.0061 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton says the government will make it affordable for 
+low-income, disabled Americans to live in decent homes. In his weekly 
+radio address, he said "Americans should never have to choose between 
+putting a meal on the table or putting a roof over their heads." He 
+says new federal housing grants will help them avoid paying more than 
+one-third of their income on rent. Earlier this month, another $700 
+million in grants was announced. Today I'm also pleased to announce 
+nearly $130 million for new housing vouchers to help people with disabilities 
+in over 200 communities afford housing in the neighborhood of their 
+choice. Together with our new housing grants, these steps will help 
+nearly 30,000 americans. 
+</TEXT>
+</DOC>

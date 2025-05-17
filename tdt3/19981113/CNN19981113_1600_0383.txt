@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981113.1600.0383 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton has signed legislation that increases sentences 
+for committing federal crimes involving the use of a gun. It adds 
+seven years to the sentence of a person convicted of possessing a 
+Gun while breaking federal law, and adds ten years if the weapon is 
+fired. Hours before the legislation was signed, a survey was released 
+that concludes guns can be found in 43% of U.S. homes with children. 
+In 23% of those households, the guns are kept loaded. The survey was 
+conducted for the center to prevent handgun violence. 
+</TEXT>
+</DOC>

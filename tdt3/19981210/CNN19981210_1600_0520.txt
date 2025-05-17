@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981210.1600.0520 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen Maginnis. 
+Coming up for Friday afternoon and evening, it's going to be very 
+unsettled from Texas into the lower Mississippi river valley. Some 
+sections of the Texas Panhandle into Oklahoma could see a bit of snowfall 
+along with some gusty winds. High pressure moves in across the interior 
+west and the winds should weaken just a bit into southern California. 
+Temperature wise the warmest readings can be found across the southeastern 
+United States. Also into southern California and the desert southwest. 
+But highs only in the 20s and 30s through the Rockies, the Great Lakes, 
+also into the northeast and New England. Coming up for Saturday, mostly 
+50s for the high plains but more rain and snow in the northwest and 
+in the southeast. By Sunday, temperatures soar into the 70s across 
+southern Arizona. 60s can be found along the gulf coast with 40s wrapped 
+around the Great Lakes. By Monday, 50s and 60s dominate the central 
+plains. For more weather information, you can log on to CNN.com. 
+</TEXT>
+</DOC>

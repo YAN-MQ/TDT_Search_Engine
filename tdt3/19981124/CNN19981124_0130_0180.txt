@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981124.0130.0180 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Several companies that trade on the technology-heavy NASDAQ market 
+experienced unprecedented gains Monday. We'll have that part of the 
+story in "Dollars & Sense," at 46 past the hour. 
+</TEXT>
+</DOC>

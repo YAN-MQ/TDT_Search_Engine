@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981212.1000.0976 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another big Japanese bank is on the verge of collapse, and by tomorrow 
+could be under government control. Nippon credit bank, which ranked 
+last year as one of the world's 50 largest, is apparently carrying 
+about $27 billion worth of high-risk loans. A government official 
+says the bank will be nationalized tomorrow. 
+</TEXT>
+</DOC>

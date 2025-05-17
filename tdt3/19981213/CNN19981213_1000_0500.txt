@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981213.1000.0500 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended national weather forecast is next. After that, a warning 
+about aspirin and stroke. 
+</TEXT>
+</DOC>

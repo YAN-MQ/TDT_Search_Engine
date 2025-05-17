@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981106.0130.1341 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The preseason associated press basketball poll is out, and Duke is 
+number one. Defending national champion Kentucky is fourth. 
+</TEXT>
+</DOC>

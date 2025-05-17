@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> NYT19981116.0415 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Hewlett-Packard Co. reported fourth-quarter earnings Monday that exceeded 
+Wall Street analysts' estimates but said that revenue and growth in 
+orders remained weak. In light of the sluggish sales, Hewlett-Packard 
+officials attributed the unexpectedly strong earnings to the company's 
+continuing cost-cutting efforts. The quarter was the first in many 
+years in which expenses did not grow compared to the same period a 
+year earlier. This was only the second time in 11 quarters that Hewlett-Packard 
+earnings did not fall below the consensus estimate. For the quarter 
+ended Oct. 31, Hewlett-Packard reported earnings of $710 million, 
+or 68 cents a diluted share, a decline of 12 percent compared with 
+$806 million, or 75 cents a share, in the period a year earlier. Revenue 
+rose 4 percent, to $12.23 billion from $11.79 billion. Special charges 
+of approximately $170 million, taken for voluntary severance programs 
+and writedowns, reduced earnings by 11 cents a share. Without those 
+charges, Hewlett-Packard earned 79 cents a share. Analysts estimated 
+Hewlett-Packard would earn 74 cents a share, according to the First 
+Call Corp., which tracks company earnings. Before Hewlett-Packard 
+reported its results after the close of the market, its shares rose 
+87.5 cents, to $66.125.The shares fell as low as $65.8125 in after-hours 
+trading. ``I think they did the best they could given the circumstances, 
+but it's still a very murky picture,'' said Daniel Kunstler, an analyst 
+with J.P. Morgan. ``They did a great job on expenses, and PC's didn't 
+hurt them as much,'' he said, referring to previous quarters where 
+Hewlett-Packard sold PC's at unprofitable prices to maintain market 
+share. ``They need to emphasize product areas where they have higher 
+gross margins.'' Together with unexpectedly strong results from the 
+Intel Corp. and a predictably positive report from the Dell Computer 
+Corp. last week, Hewlett-Packard's results point to a rejuvenated 
+market for personal computers, analysts said. ``We finished the year 
+with a reasonably good quarter, and we're pleased that, on an operating 
+basis, earnings per share came in above analysts' consensus,'' Lewis 
+E. Platt, the company's chairman, president and chief executive, said 
+in a statement. ``Several businesses did quite well, especially laser 
+jet printers and PC's,'' he said. `` However, our overall revenue 
+growth remained sluggish, in part reflecting continued weakness in 
+Asia and, more recently, in Latin America.'' Robert Wayman, Hewlett-Packard's 
+chief financial officer, added in a telephone conference call with 
+analysts: ``Many things went well, but top-line growth was weak. So 
+we didn't take full advantage of significant progress in our cost 
+structures.'' Order growth in the quarter was just 6 percent, compared 
+with a 14 percent increase in the quarter a year earlier, he said. 
+Wayman said Asia Pacific remained weak, with revenue in dollars down 
+20 percent compared with results from the fourth quarter of 1997 and 
+3 percent from the third quarter of 1998. The company also saw some 
+softening of demand in the United States, where revenue growth was 
+4 percent, compared with 17 percent in the quarter a year earlier 
+and 9 percent in the third quarter. Demand also slackened in Latin 
+America, he said. For the year, Hewlett-Packard reported earnings 
+of $2.95 billion, or $2.77 a diluted share, a decline of 6 percent 
+compared with $3.12 billion, or $2.95 a share, in 1997. Revenue increased 
+10 percent, to $47.06 billion from $42.90 billion. 
+</TEXT>
+</DOC>

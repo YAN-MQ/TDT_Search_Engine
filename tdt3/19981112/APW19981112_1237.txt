@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> APW19981112.1237 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+One type of cancer of the esophagus has increased more than 350 percent 
+among white men in the past 20 years, and researchers say the reasons 
+may include smoking and an increase in obesity. The study, released 
+Thursday and published in the journal Cancer, reported that annual 
+cases of adenocarcinoma rose from 0.7 cases per 100,000 in 1974-76 
+to 3.2 cases per 100,000 in 1992-94. Nearly 90 percent of patients 
+with esophageal cancer die within five years of contracting the disease. 
+The study, based on already existing national data, was conducted 
+by researchers from the National Cancer Institute and the International 
+Epidemiology Institute. The researchers suggested one reason for the 
+jump is an increase in obesity among white men over 65, and perhaps 
+smoking. ``It goes back to prevention. This data all suggests that 
+these are tumors that can be prevented,'' said Dr. John S. Ensley, 
+a specialist at the Barbara Ann Karmanos Cancer Institute. The study 
+looked at two kinds of cancer of the esophagus, which is the tube 
+that carries food to the stomach. Adenocarcinomas are tumors that 
+are almost always found in people with a condition known as Barrett's 
+esophagus, in which the normal lining of the esophagus is replaced 
+by abnormal cells. Barrett's esophagus occurs more often in overweight 
+people, whose esophaguses are more likely to be inflamed and constantly 
+damaged by stomach acid. The study claimed smoking may be to blame 
+as well, but the rate of another esophagus cancer linked to smoking, 
+squamous cell carcinomas, has declined from 3.4 cases per 100,000 
+to 2.2 cases per 100,000. Adenocarcinoma rates in black males increased 
+from 0.4 cases per 100,000 to 0.6 cases per 100,000. Squamous cell 
+carcinoma rates among blacks remained at 13.2 cases per 100,000, higher 
+than whites because of increased smoking among black men, the researchers 
+said. Among women of all races, cases of esophageal adenocarcinomas 
+rose from 0.1 to 0.4 cases per 100,000. 
+</TEXT>
+</DOC>

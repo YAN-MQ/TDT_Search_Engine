@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981202.0130.0041 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+asia's economic slide also is being attributed to a proposed megamerger 
+between exxon and mobil. the $80 billion deal, announced tuesday, 
+would combine the world's largest and second-largest oil companies. 
+still, analysts say plummeting crude oil prices gave the companies 
+few other choices. it tells us that companies are having difficulty 
+getting revenue growth from their own operations, that really merging 
+and buying market share is the only way to grow in this economy. 
+</TEXT>
+</DOC>

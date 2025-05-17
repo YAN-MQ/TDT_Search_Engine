@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981124.2000.1990 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Food and Drug Administration has issued new warnings about the 
+risk in using the anti-impotence drug Viagra. It says patients with 
+a history of heart problems or low blood pressure should be carefully 
+examined by a doctor before taking the drug. 
+</TEXT>
+</DOC>

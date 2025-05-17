@@ -1,0 +1,61 @@
+<DOC>
+<DOCNO> NYT19981111.0293 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+There are ways to get more out of that technical support phone call 
+_ when you finally have to make it. Here are some suggestions: TRY 
+TO FIGURE IT OUT Before calling, write down the exact wording of any 
+error messages you encounter. Try to reproduce the problem, and if 
+you can, start to troubleshoot the process. If you are running several 
+programs, close one and try to reproduce the problem. Anything that 
+points to the cause of the problem will help make the support call 
+more efficient. DO SOME RESEARCH Before picking up the phone, check 
+online support sources. You may be able to solve your own problem 
+or discover that it is part of a known problem or bug. If there is 
+a bug, most manufacturers will not charge for the service call. BACK 
+UP BEFORE CALLING At the first sign of trouble, you should back up 
+your crucial data files. (You have been doing this unfailingly all 
+along, right?) Fixing some technical problems may require drastic 
+solutions like reinstalling your operating system, which may put your 
+data at risk. Technical problems are stressful enough without also 
+gambling with your work. CHECK THE CONNECTIONS What looks like a catastrophic 
+hardware failure may just be a loose cable. If your mouse, keyboard, 
+printer or monitor stops working, first check the connectors at the 
+back of your computer to make sure they have not come loose. You could 
+save yourself 15 minutes on the phone _ and some embarrassment. HAVE 
+A PEN AND PAPER HANDY When you are on the phone, it helps to jot down 
+names of people you talk to and the steps you take to solve your problem. 
+Since you will probably have to restart your computer during the process, 
+you cannot take notes on a word processing document. KNOW YOUR SYSTEM 
+If you are calling a computer system manufacturer, have your serial 
+number or invoice number ready. For all other calls, you will need 
+to know your computer's processor type, operating system, RAM and 
+model name. Technicians may also ask what kind of CD-ROM, modem, printer 
+or other hardware you have. To find these details under Windows 95 
+or 98, right-click on My Computer on the desktop and select Properties. 
+Hardware details are under the Device Manager tab. KNOW YOUR SOFTWARE 
+Jot down the release and serial numbers of whatever software is involved, 
+including the operating system. Most of these details can be found 
+under About on the Help menu. TAKE A NUMBER, AND WRITE IT DOWN Get 
+the name and direct telephone number of any technician you speak with, 
+and write down your customer ID or case number. If you do not resolve 
+your problem on the first call, you can quote these in subsequent 
+calls, like an insurance claim number, to save time. This may also 
+help you prove things were awry before the warranty was up. And if 
+you get good service, you will be able to pass on thanks. GO WITH 
+THE FLOW Let the technician walk you through the questions. It may 
+be slow going if you have already tried to solve the problem, but 
+being methodical saves time in the end. And do not conceal anything 
+that you may have done to your computer. Even if you think you did 
+something stupid, your support representative needs to know about 
+it if he is going to do his job. TAKE CHARGE IF NECESSARY If you are 
+getting nowhere with a particular technical representative, it is 
+quite acceptable to ask _ without being hostile _ to speak with a 
+supervisor or specialist. Or you can hang up and call back _ another 
+good reason to write down that customer ID. DO NOT LEAVE A CALL OPEN-ENDED 
+If a technician needs time to research your question, do not hang 
+up without knowing when you can expect a call back. And keep your 
+case number and other notes handy. 
+</TEXT>
+</DOC>

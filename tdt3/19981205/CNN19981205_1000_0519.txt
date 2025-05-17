@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981205.1000.0519 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News" weather update. 
+The weekend begins with a cold front system moving on to the pacific 
+northwest coast with more rain and snowfall. This low will move inland 
+as we head through the weekend and gradually diminish. Scattered snow 
+showers are possible for the Rockies. Heading into Sunday, look for 
+a better chance of showers and thunderstorms in the Mississippi valley 
+and the Great Lakes as a low-pressure storm and a Cold front move 
+through. Temperatures cool drastically in the west. No more record 
+highs for the weekend. Look for highs in the 20s and 30s for the Rockies 
+on Saturday. 60, 70s and 80s for expected for the Tennessee and Mississippi 
+river valleys. The extended forecast continues the March of cold temperatures 
+eastward on monday. Look for heavy rain in the west with a mix and 
+snow across the Great Lakes, thunderstorms for the gulf. Thunderstorms 
+and heavy rain move eastward on Tuesday with rain and snow expected 
+for the west. By Wednesday, just look for leftover scattered showers 
+and snow showers in the Great Lakes. The extended forecast for more 
+than 7,000 cities is CNN.com. 
+</TEXT>
+</DOC>

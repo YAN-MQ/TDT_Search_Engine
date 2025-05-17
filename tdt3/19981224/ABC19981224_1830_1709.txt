@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981224.1830.1709 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's our report on "World News Tonight." I'm Charles Gibson. From 
+everyone here at ABC News have a joyous holiday. Merry Christmas to 
+all and to all, a good night. 
+</TEXT>
+</DOC>

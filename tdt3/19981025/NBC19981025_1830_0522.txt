@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981025.1830.0522 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In the warm waters of the Caribbean tonight, the already-powerful 
+hurricane mitch is gaining even more strength. Right now, Mitch has 
+maximum winds of 150 miles an hour. It's already raining in Jamaica. 
+And the cayman islands could also be threatened. 
+</TEXT>
+</DOC>

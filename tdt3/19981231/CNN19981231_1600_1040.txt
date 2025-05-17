@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981231.1600.1040 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+While many are mired in euromania, a lot of Americans have their sights 
+already set on the year 2000. One year from now, while many bring 
+in the new millennium, the Y2K problem will be faced head on. A new 
+poll shows that nearly half of Americans surveyed said they would 
+avoid traveling by plane on or around January 1st, 2000. Its feared 
+that air traffic control could be snarled by major computer failures. 
+In addition, nearly two-thirds of those polled said they plan to seek 
+extra confirmation of their bank accounts and retirement funds. 
+</TEXT>
+</DOC>

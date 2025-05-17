@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981212.1830.1724 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+ABCNEWS.com has the latest, 24 hours a day, on the impeachment story. 
+That's "World News Tonight" for this Saturday. I'm Charles Gibson. 
+For all of us at ABC News, good night. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> NYT19981029.0468 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Gen. Augusto Pinochet was moved from a downtown clinic to a hospital 
+in a secluded area of North London for security reasons Thursday. 
+The 82-year-old former Chilean dictator won a high court ruling on 
+Wednesday that he cannot be extradited to Spain to face charges of 
+crimes against humanity because he enjoys immunity from prosecution. 
+He is recovering from back surgery and remains under police guard 
+pending the outcome of an appeal expected next week. 
+</TEXT>
+</DOC>

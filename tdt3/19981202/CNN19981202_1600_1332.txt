@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981202.1600.1332 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Indianapolis motor speedway, once the exclusive domain of the 
+indy 500, announced today it will add its third annual race with formula 
+one racing's return to the U.S. in the year 2000. The date for the 
+inaugural U.S. grand prix, the first in a multiyear agreement, won't 
+be announced until next year. Anthony Keith James, "CNN Headline Sports." 
+</TEXT>
+</DOC>

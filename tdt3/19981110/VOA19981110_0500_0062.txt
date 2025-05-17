@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981110.0500.0062 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From Washington, this is VOA News Now. I'm Barbara Kline. And I'm 
+Russell Woodgates. 
+</TEXT>
+</DOC>

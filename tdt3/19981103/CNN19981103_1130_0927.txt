@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981103.1130.0927 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- low voter turnout has been predicted for 
+today's mid-term elections. Pollsters are also predicting some modest 
+gains for republicans in congress. 36 governorships, 34 Senate seats 
+and all 435 house of representative seats are at stake. 
+</TEXT>
+</DOC>

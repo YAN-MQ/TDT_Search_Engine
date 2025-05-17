@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981119.1600.0430 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After a series of delays, Israel is turning over territory in the 
+West Bank to Palestinian control for the first time in two years. 
+Israeli prime minister Benjamin Netanyahu's cabinet narrowly gave 
+the go-ahead today to the first stage of the new Middle East interim 
+agreement. The withdrawal of Israeli troops may be finished tomorrow. 
+The first stage of the pullback transfers 2% of the West Bank -- or 
+44 square miles -- to joint control with Israel, and 7% to sole Palestinian 
+control. 
+</TEXT>
+</DOC>

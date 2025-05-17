@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981020.1130.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Can be dangerous to a child's health. This is "Headline News." Good 
+morning, I'm Catherine Callaway. Thanks for joining us. 
+</TEXT>
+</DOC>

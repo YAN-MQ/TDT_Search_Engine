@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981030.1600.1060 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The sharper image is accusing Gillette of unfair business practices. 
+It has filed a suit alleging Gillette tried to prevent it from selling 
+razors which use Gillette's sensor and mach-3 blades. The sharper 
+image says it sought prior approval from Gillette before staring the 
+$1 million production of its dynablade line, but only heard back from 
+Gillette in the form of legal threats after it started marketing the 
+dynablade. Gillette is claiming a breach of patent rights. 
+</TEXT>
+</DOC>

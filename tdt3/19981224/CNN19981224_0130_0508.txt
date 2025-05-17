@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981224.0130.0508 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A Canadian company claims it has built a better bus, one that will 
+have us all breathing a little easier. That story coming up after 
+a look at the extended national weather forecast. 
+</TEXT>
+</DOC>

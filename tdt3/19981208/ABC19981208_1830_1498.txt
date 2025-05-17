@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981208.1830.1498 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One other piece of news from Washington, the Supreme Court ruled yew 
+nan mousely today police may not search people and their cars after 
+stopping them for routine traffic violations unless the police suspect 
+another crime has been committed. The case involves an Iowa man who 
+was stopped for speeding but was then found to be carrying marijuana. 
+</TEXT>
+</DOC>

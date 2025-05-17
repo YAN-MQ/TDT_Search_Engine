@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> APW19981119.0522 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Prime Minister Tony Blair, defeated by the unelected House of Lords, 
+said Thursday that his government will not be able to introduce a 
+new voting system in time for European Parliament elections in June. 
+The bill to introduce a system used in five other European countries, 
+including France and Germany, was rejected by the Lords on Wednesday 
+for the fifth successive time. The Labor Party government could, under 
+parliamentary laws, get the measure passed by the end of the year 
+without reference to the Lords, but it would need the agreement of 
+the opposition Conservative Party not to delay the bill in the House 
+of Commons. However, Conservative leader William Hague said Thursday 
+that the party will not cooperate with a measure it considers undemocratic. 
+The bill provides that instead of voting for a candidate, voters choose 
+a party which allocates seats to its nominees. Critics say the measure 
+deprives voters of the right to choose a candidate and gives party 
+officials power to decide who gets elected. 
+</TEXT>
+</DOC>

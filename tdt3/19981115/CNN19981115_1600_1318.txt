@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981115.1600.1318 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+All right, the ap top 25 college football poll is out. After winning 
+a thriller over Arkansas, Tennessee kept the top spot, while kansas 
+state remained number two. However, in the coaches' poll, the Wildcats 
+jumped the volunteers for number one. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981114.1130.0928 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- the U.N. special envoy in Baghdad 
+says iraq will allow U.N. weapons inspectors to resume their work 
+unconditionally. 
+</TEXT>
+</DOC>

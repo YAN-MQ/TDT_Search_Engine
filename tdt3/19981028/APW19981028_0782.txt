@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> APW19981028.0782 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A group of Serbian hackers, who call themselves ``Black Hand,'' apparently 
+intruded the website of Croatia's daily Vjesnik on Wednesday, deleting 
+its home page and causing the system to crash, the paper said. Instead 
+of Vjesnik's ``welcome page'' (www.vjesnik.com), there appeared a 
+sign: ``Black Hand home page.'' The group also left a message saying: 
+``The last thing we want to do is to threaten, but we will stop any 
+twisting of the truth in any possible way,'' Vjesnik said in a statement. 
+Earlier this month, the Black Hand group publicly declared a computer 
+war against anti-Serb websites. They first focused on Albanian sites, 
+saying they wanted to ``remove (ethnic) Albanian lies from the Internet.'' 
+The group's actions began as NATO threatened Yugoslavia with airstrikes 
+unless it stops its crackdown on Albanians in its southern province 
+of Kosovo. Vjesnik is a state-run daily and considered a mouthpiece 
+of the government. The Black Hand obviously sees it as being anti-Serb. 
+Vjesnik said hackers didn't enter other pages, but they caused system 
+crash. The website should nevertheless be back later in the day, it 
+said. Vjesnik is one of the few Croatian papers with a daily updated 
+website. When the site was launched two weeks ago, the move was followed 
+by heavy propaganda commercials in the paper and on state-run television. 
+</TEXT>
+</DOC>

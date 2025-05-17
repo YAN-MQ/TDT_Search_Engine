@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981015.1130.0433 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News weather" 
+forecast through Friday. A strong low pressure center will move slowly 
+toward the plains states, producing windy, wet weather out ahead of 
+it and plenty of snow behind it. Some of the mountains of Utah could 
+see as much as two feet of snow before it's all over with. Meanwhile, 
+high pressure builds to the east coast. Those rain showers in the 
+northeast should ease with time. Temperature-wise, look for 40s and 
+50s over the northern third of the country today. Mostly 80s across 
+the south. It will be cooler in the southwest. Looking ahead to Saturday, 
+look for rain and thunderstorms through the central U.S., with showers 
+in the northwest. That cool air will be building into the plains states. 
+Ahead of it, showers and storms from the Great Lakes to Texas on Sunday. 
+And finally, for Monday, a few lingering showers again in the northeast. 
+Scattered thunderstorms through the south. A few showers will push 
+into the northwest. We'll see just 40s and 50s over the northern plains 
+states. 
+</TEXT>
+</DOC>

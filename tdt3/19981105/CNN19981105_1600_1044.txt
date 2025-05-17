@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981105.1600.1044 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The nation's unemployment rate held steady in October at 4.6%. that 
+despite weaker than expected growth in business payrolls. The manufacturing 
+sector lost 52,000 jobs. Earlier today, the labor department inadvertently 
+released its monthly employment report for the month of October a 
+day early. It says it is looking into the reason behind the mistake. 
+</TEXT>
+</DOC>

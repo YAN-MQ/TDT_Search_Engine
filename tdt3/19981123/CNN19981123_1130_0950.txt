@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981123.1130.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks streak higher. For the latest numbers and financial news, let's 
+go to Myron Kandel in New York. Mike? Thanks, Toria. The Dow is surging 
+to within 100 points of their record high as investors continue last 
+week's buying spree. Several large merger announcements also serving 
+to drive stock prices higher. That's 83 points below the Dow's high 
+set last July. The broader markets are also higher. The NASDAQ composite 
+is up 34 points. It posted a nearly 4.5% gain last week. That bond 
+has changed in the last couple of minutes. It's now down 6/32 of a 
+point in price. The bond was up more than half a point a little bit 
+ago. 
+</TEXT>
+</DOC>

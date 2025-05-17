@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981124.0130.0917 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A multibillion-dollar merger is in the works between America online 
+and netscape. They are fierce competitors of Microsoft, and a combined 
+company could offer stronger competition in the Internet browser market. 
+</TEXT>
+</DOC>

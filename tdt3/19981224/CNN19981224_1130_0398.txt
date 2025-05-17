@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981224.1130.0398 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+British tycoon Richard Branson and his team of balloonists are approaching 
+the halfway point in their quest to make the first nonstop balloon 
+trip around the world. At last report, their balloon was about 1,000 
+miles out over the pacific, where they're keeping a watchful eye on 
+a developing weather pattern. The ground crew director says if the 
+team reaches America tomorrow, a jet stream might push the balloon 
+across the continent. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981124.2130.0145 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Despite the good economic news, stocks on Wall Street fell 73 points 
+today, after yesterday's record finish. We'll have more on that story 
+in consumer news. 
+</TEXT>
+</DOC>

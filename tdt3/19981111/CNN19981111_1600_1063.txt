@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981111.1600.1063 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Oil giants mobil and Unocal announced plans to sharply curtail capital 
+spending and promised further savings. They say the move is necessary 
+because of persistently low oil prices. Exxon, Chevron and Texaco 
+all warned earlier this week that weak oil prices would cut into future 
+earnings. Mobil, the nation's second largest oil company, said it 
+did not expect major layoffs would be part of the savings plan. Oil 
+prices are slightly higher today, as tensions rise in the Middle East. 
+</TEXT>
+</DOC>

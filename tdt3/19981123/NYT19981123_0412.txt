@@ -1,0 +1,118 @@
+<DOC>
+<DOCNO> NYT19981123.0412 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Glee shoved gloom aside Monday in the nation's stock markets as the 
+main gauges surpassed their summer peaks and reached new highs. Investors 
+who had clung to stocks by their fingernails through the dark days 
+of early fall now have outsized gains for the year, even by standards 
+set in this bull market's last few years. The Dow Jones industrial 
+average is up 18.54 percent for the year, while the Standard &AMP; 
+Poor's 500-stock index has risen 22.44 percent. The technology-heavy 
+Nasdaq has beaten them all, up 25.92 percent for the year. Still, 
+the recent rally has not lifted all boats. Small stocks, while back 
+from the depths, are still underperforming their larger brethren. 
+The Russell 2000 index of smaller-company issues closed at 398.15, 
+up 28 percent from its low in October. But it is still 14 percent 
+below its July peak. Monday, the Dow rose 214.72 points, or 2.34 percent, 
+to 9,374.27. The Nasdaq index jumped 2.55 percent, to 1,977.42, up 
+49.21 points. The S&AMP;P 500 rose 2.12 percent, or 24.66 points, 
+to 1,188.21, a record. This performance represents nothing short of 
+a screeching U-turn in investor sentiment. Euphoria is back with a 
+vengeance in stocks, but confidence has also returned to the junk 
+bond arena, fueling a recovery in those securities from a moribund 
+state two months ago. ``We've gone through a classic market cycle 
+in a matter of weeks instead of the months or even years that it used 
+to take,'' said John Manley, equity strategist at Salomon Smith Barney. 
+``We've witnessed the world's first virtual recession, followed by 
+the world's first virtual recovery, and now we're seeing the world's 
+first virtual expansion.'' Although concerns remain, such as a continuing 
+deterioration in corporate earnings, an Asia mired in overcapacity, 
+uncertainty about Japan's recovery plan and Latin America on the edge, 
+Manley said investors were focusing on something rosy farther down 
+the road. Optimism has also checked into corporate board rooms, as 
+evidenced by Monday's spate of merger announcements. Nine deals were 
+announced, intended or rumored Monday for a total of $40.4 billion, 
+reflecting a belief among many chief executives that a recession is 
+unlikely next year. Merger experts also found it bullish that the 
+companies doing the deals spanned a range of industries. That most 
+of the deals were done using stock as the acquisition currency indicates 
+how crucial the recent rally has been to deal-makers. Since the stock 
+market's performance is inextricably linked to consumer confidence, 
+its recent run should bolster consumer confidence figures, which will 
+be released Tuesday. These numbers had been falling in recent months 
+along with stocks. The stock market's impressive rally is vindication 
+for Abby Joseph Cohen, the market strategist at Goldman, Sachs &AMP; 
+Co., who stayed positive on stocks throughout the downturn. Ms. Cohen 
+never bought the doomsayers' view, what she called FUDD _ for fear, 
+uncertainty, doubt and despair. Instead, she held fast to her view 
+that turmoil in world markets was unlikely to cause a recession in 
+the United States. Ms. Cohen looked particularly prescient Monday: 
+Her prediction on the Dow Jones industrial average for the end of 
+the year was about 9,300. But while investors who own index funds 
+are jumping for joy, many others are probably feeling left behind. 
+That is because the surge that shows up in the market indexes is, 
+once again, not showing up across the board. While shares of big-name 
+companies like IBM, Merck and Home Depot are at their all-time highs, 
+many stocks are still well off their peaks. Indeed, the broad market 
+is only beginning to claw its way back. According to Salomon Smith 
+Barney, when the market bottomed out on Oct. 8, the average Nasdaq 
+stock was down 54.1 percent and the average S&AMP;P 500 stock had 
+declined 32.1 percent from their 52-week highs. As of Nov. 20, the 
+most recent data available, the average Nasdaq stock was down 40.1 
+percent and the average S&AMP;P 500 stock was down 19.2 percent. Similarly, 
+while the revival of mergers and acquisitions is an indicator of optimism, 
+the activity is still far below the levels reached earlier this year. 
+Monday's $40.4 billion in announced deals brings the pace this month 
+to roughly $70 billion. That is up from the low of $51 billion in 
+September, according to Securities Data Corp., but nowhere near the 
+spring's levels of $210 billion a month. Initial public offerings 
+are showing life, too. But a couple of spectacular one-day gainers 
+hide the fact that many recent offerings are still hurting. So far 
+in 1998, the average initial offering has inched up only one-tenth 
+of a percent. But separating technology offerings from nontechnology 
+offerings exposes a chasm in performance. According to Securities 
+Data, the average technology offering is up 15.2 percent this year, 
+while the average nontechnology offering is down 8 percent. As for 
+the volume of deals, investment bankers have raised $9.4 billion in 
+29 initial offerings since Sept. 1, but three deals _ Conoco, Fox 
+Entertainment and Swisscom _ account for 80 percent of the money raised. 
+But Monday's move clearly gave investors something to be thankful 
+for this week. Analysts pointed to several factors driving stock prices. 
+The single biggest driver is the rapid rise in the nation's money 
+supply. The figure for M-2 _ the broadest money supply measure that 
+includes checking accounts, savings accounts, money market funds and 
+other assets _ has grown at an annual rate of 9.3 percent in the last 
+three months. This is the biggest rise since 1987, and much of this 
+money is flooding into stocks. Another factor propelling equity prices 
+is the large number of investors who are buying back shares to cover 
+open short positions they had taken on in recent months. A short position 
+is created when an investor borrows shares and then sells them. If 
+the share price falls, the investor can profit by buying shares at 
+a lower price to replace the borrowed ones. Conversely, if the shares 
+rise in price, the short-seller faces a loss. Uncovered short sales, 
+or those with open positions, are those shares that have been borrowed 
+and sold but not yet covered by repurchase. Those investors who thought 
+share prices were headed for a fall are now scrambling to cut their 
+losses caused by the big move up. As Christine Callies, investment 
+strategist at Credit Suisse First Boston, points out, short positions 
+at the New York Stock Exchange dropped 5.4 percent for the month ended 
+Nov. 13. That is the largest decline in more than a year and indicates 
+that pessimistic investors are having second thoughts. It has not 
+hurt, of course, that the Federal Reserve has cut interest rates three 
+times since late September. The benchmark 30-year Treasury bond is 
+yielding 5.25 percent, an unappealing rate for investors accustomed 
+to double-digit gains. It seems that more and more investors feel 
+there is nowhere else to put their money except in stocks or higher-yielding 
+junk bonds. Some investors also say there are more interest rate cuts 
+to come. Jason Trennert, vice president at International Strategy 
+and Investment in New York, says that continuing weakness in gold 
+and commodity prices is predicting further easing by the Fed. ``Most 
+likely monetary policy around the world is too tight,'' he said. ``We're 
+of the opinion that the Fed left the door open for more easings.'' 
+Lower interest rates are a tonic for both stocks and bonds. As a result, 
+few strategists are willing to say this market's run is over. ``Fear 
+and greed are both contagious,'' Manley said. 
+</TEXT>
+</DOC>

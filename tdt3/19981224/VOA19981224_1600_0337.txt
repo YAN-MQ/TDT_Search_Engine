@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981224.1600.0337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. share prices were little changed Thursday in light preholiday 
+trading. The Dow Jones Industrial average ended today up 16 points. 
+</TEXT>
+</DOC>

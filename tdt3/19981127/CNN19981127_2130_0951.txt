@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981127.2130.0951 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And authorities are on the scene of a bus crash in Seattle. Police 
+say the driver drove off a bridge after he was shot, apparently by 
+a Passenger. The bus hit an apartment complex at least 50 feet below. 
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> VOA19981225.0500.2666 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Hello everyone, and welcome to Science World. I'm Brian Sislack. The 
+weather, it's something that everyone talks about, but no one can 
+do anything about. That's worrisome, because weather effects our lives 
+in many different ways. According to the American Academy of Microbiology, 
+its impact is even greater than we realized. Recent advances in satellite 
+imaging, meteorology, and molecular biology are pointing out previously 
+unknown relationships between weather and disease. The recent El Nino 
+is a good example. The report says in Columbia, there was a 20 percent 
+increase in malaria in the year following El Nino. Satellite data 
+showed a link between an El Nino in the early 1990's and outbreaks 
+of cholera in Peru and along the Bay of Bengal. Honta virus, a lung 
+infection spread by deer mice in the Southwestern U.S., also took 
+off following an El Nino. Higher rainfall increased production of 
+peno nuts, which deermice love to eat. More food led to more mice. 
+And increased spread of the honta virus to humans. This all goes to 
+show that human disease is far from simple. And that we are very much 
+a part of our environment. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981114.1000.1043 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Americans keep spending more for health care, but the growth of that 
+spending is slowing. A government study out this week shows health 
+care spending in the U.S. increased by less than 5% last year. That's 
+the smallest jump since 1960, when the government began keeping records. 
+Last year, Americans spent $1.1 trillion on health care, an average 
+of $4,000 a person. 
+</TEXT>
+</DOC>

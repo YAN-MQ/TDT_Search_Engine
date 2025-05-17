@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981019.1830.0820 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Miami today, the opening statements in a first ever class action 
+lawsuit against the tobacco industry, 500,000 people who claim that 
+smoking made them sick have collectively sued the cigarette makers 
+for $200 billion in damages. 
+</TEXT>
+</DOC>

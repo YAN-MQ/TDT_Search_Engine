@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981209.1600.1059 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The world's biggest retailer going on a shopping spree in Europe. 
+Wal-Mart says it's buying 74 grocery stores from a German grocer for 
+an undisclosed sum. The move adds to Wal-Mart's stable of 21 supermarkets 
+purchased in Germany last year, and provides an established launching 
+pad to expand across the rest of continental Europe. 
+</TEXT>
+</DOC>

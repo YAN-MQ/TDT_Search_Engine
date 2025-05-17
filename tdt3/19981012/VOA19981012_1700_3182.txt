@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981012.1700.3182 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now. I'm Tom Crosby. And I'm Susan Yackee. It's 2153 
+Universal Time. 
+</TEXT>
+</DOC>

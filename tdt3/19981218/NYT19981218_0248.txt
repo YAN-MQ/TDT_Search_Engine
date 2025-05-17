@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981218.0248 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Blizzard warnings were issued for northern Montana 
+on Friday as a bitterly cold Arctic air mass crossed the Canadian 
+border. Saturday, with the frigid air mass driven south by an extraordinarily 
+strong high pressure system over the Yukon, the brunt of the Arctic 
+chill will plunge southward into the Rockies and western high Plains, 
+while only oozing east toward the upper Mississippi Valley. The extent 
+of the Arctic plunge will be extreme across the central and southern 
+Plains, with a shallow layer of Arctic air penetrating into west Texas. 
+Patches of freezing drizzle will glaze the region. Snow will likely 
+fall as far south as western Kansas, where a deeper layer of Arctic 
+air will gather. Snow and frigid air will also team together from 
+the Front Range of the Rockies to the Continental Divide from northeastern 
+New Mexico to Montana. Arctic air will ooze eastward into the western 
+Great Lakes region in the wake of a low pressure system that dove 
+southeast from Alberta a couple of days ago. Cold northerly winds 
+behind this ``Alberta clipper'' will be moistened in transit over 
+Lake Superior, setting the stage for heavy snow squalls on Michigan's 
+upper peninsula. East of the clipper, broken areas of snow will develop 
+across upstate New York and northern New England as milder, moister 
+air is forced to rise over slowly retreating cold air. Meanwhile, 
+clusters of showers and isolated thunderstorms will form over the 
+Southeast and Middle Atlantic states as a weakening jet stream disturbance 
+lifts northeast from Mississippi. Focus: Alberta Clipper Alberta clippers 
+are fast-moving low-pressure systems that dive southeast from the 
+Canadian province of Alberta during winter. Because of their speed 
+and the general lack of moisture along their paths, snowfalls typically 
+amount to no more than a few inches. Heavier accumulations can occur 
+near the Great Lakes and the Northeast Coast, where additional moisture 
+can be gleaned. But Alberta clippers attain great notoriety because 
+they are a mechanism by which Arctic air is transported south. Saturday, 
+Arctic air will ooze into the upper Middle West in arrears of an Alberta 
+clipper in Ontario. 
+</TEXT>
+</DOC>

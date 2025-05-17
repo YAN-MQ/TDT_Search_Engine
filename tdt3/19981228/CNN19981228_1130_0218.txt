@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981228.1130.0218 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton says a new justice department report proves his 
+administration's crime prevention policies are working. The report 
+shows the violent crime rate in the United States fell in 1997 to 
+its lowest level since the department began keeping such records 25 
+years ago. The latest figures show 39 households out of 1,000 reported 
+incidents of violent crime in 1997, down from 42 per 1,000 in 1996 
+and 48 per 1,000 in 1973. Property crime is also down, with incidents 
+reported for 248 out of 1,000 households in 1997. That's compared 
+to 266 per 1,000 in 1996 and 554 per 1,000 25 years ago. 
+</TEXT>
+</DOC>

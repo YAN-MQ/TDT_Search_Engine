@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981119.1600.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A big day for big name technology stocks. For a full report on the 
+markets we go to Beverly Schuch at the "CNN Financial News" newsdesk 
+in New York. Thanks, Lori. Technology stocks are rocketing higher 
+today. Investors are betting on a record holiday season for E-commerce 
+and personal computer sales. Some of the shining stars today -- but 
+one analyst warns investors to be picky with shares at these prices. 
+This is a second tier of stocks which would include companies like 
+the globe, some of the other por tall companies like lycos. I think 
+those should be avoided at this point just because of valuation. 
+</TEXT>
+</DOC>

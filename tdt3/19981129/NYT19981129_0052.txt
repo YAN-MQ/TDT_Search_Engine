@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> NYT19981129.0052 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Windswept rain will lash the Oregon to central California 
+coast early Monday as a potent Pacific front arrives. Wind gusts over 
+50 miles an hour will be common near the coast and in the mountains 
+especially during the morning and midday over northern and central 
+California. Snow will fall in the mountains at elevations over 5000 
+feet in the morning. Snow levels will lower to 3,000 feet in the afternoon 
+as the cold front sweeps inland. Periods of rain will persist throughout 
+the day, but the precipitation will become intermittent in the afternoon. 
+The rain will spread into southern California late Monday. Farther 
+north, patchy rain and mountain snow will prevail from northern Oregon 
+and Washington to western Montana. Most of the eastern Rockies and 
+Plains will not be as mild as recent days, but temperatures will remain 
+above the seasonal average. Clouds will linger early Monday in the 
+eastern Plains. Otherwise, ample sunshine will prevail. A cold front 
+surrounded by showers will move across the central Great Lakes and 
+Ohio Valley. In the wake of the front, cooler and drier air will spread 
+into the northern Mississippi valley. Near record warmth will cover 
+parts of the interior Northeast and Middle Atlantic States. Balmy 
+breezes from the southwest will average 10 to 20 miles an hour. Morning 
+clouds near the southern New England coast will erode as milder air 
+arrives. Clouds and some patchy rain and sleet will plague northernmost 
+New England where the warm air rises over cool air across the region. 
+FOCUS: Slow to Snow In western New York, where fierce snow squalls 
+are common in November, there has been a slow start to the snowy season. 
+Buffalo will be in the balmy 60s on Monday, insuring its least snowy 
+November in 114 years of records with 0.2 inches. Early snow in Buffalo 
+is enhanced when cold air sweeps from Canada gathering moisture as 
+it crosses the Great Lakes. This autumn, Canada has been mild, eliminating 
+the spark that ignites squalls. History suggests the dearth of snow 
+in Buffalo will continue. Of the 12 seasons with less than an inch 
+of snow through November, only one had above normal snowfall. 
+</TEXT>
+</DOC>

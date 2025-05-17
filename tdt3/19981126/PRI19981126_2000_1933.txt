@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> PRI19981126.2000.1933 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Human activity not the sun is the major cause of global warming according 
+to a new report. The paper published in the "Journal Science" contradicts 
+some recent studies that suggest global warming has nothing to do 
+with people. Toby Mercot of BBC Science has this report. Politics 
+plays an important part in this debate. Countries like the United 
+States that emit large amounts of greenhouse gases are finding it 
+difficult to reduce the amount they produce. Had global warming been 
+blamed on solar activity, then there would be no need to reduce greenhouse 
+gas emissions. However, by carefully examining the minute trends in 
+temperature changes over the last 115 years, this research points 
+the finger of blame ever harder at the major culprits: us. Toby Mercot 
+of BBC Science. 
+</TEXT>
+</DOC>

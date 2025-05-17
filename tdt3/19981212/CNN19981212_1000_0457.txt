@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981212.1000.0457 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Authorities in Thailand tell CNN they've recovered at least 7 bodies 
+from the wreckage of Thai airways flight 261. They expect the death 
+toll to rise further. There are 46 known survivors. The Airbus A-310 
+crashed into a swamp yesterday with 146 people on board while trying 
+to land during a storm. There's no word on the cause of the crash, 
+but investigators have recovered the flight data recorder. 
+</TEXT>
+</DOC>

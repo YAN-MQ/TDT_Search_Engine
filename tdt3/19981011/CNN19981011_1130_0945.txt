@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981011.1130.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Negotiations are continuing today in Washington over the federal budget. 
+The government officially runs out of money tomorrow night. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981102.1600.1141 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And back on Wall Street, the Dow did finish 114 points, and the NASDAQ 
+up 29. 
+</TEXT>
+</DOC>

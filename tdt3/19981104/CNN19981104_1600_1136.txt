@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981104.1600.1136 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And back on Wall Street -- the Dow closing up 77 points, the NASDAQ 
+up 35. 
+</TEXT>
+</DOC>

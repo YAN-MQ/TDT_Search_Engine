@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981104.0130.1654 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The latest election results are two minutes away. Stay with us for 
+that. I'm David Goodnow. Chuck Roberts and I will be right back. You're 
+with "CNN Headline News." 
+</TEXT>
+</DOC>

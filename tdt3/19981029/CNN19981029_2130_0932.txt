@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981029.2130.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a check of our top stories -- John Glenn says he's enjoying 
+the show. The 77 year-old senator/astronaut returned to space today 
+along with six other crew members aboard the space shuttle "discovery." 
+Glenn's first space flight was in 1962, aboard the cramped "friendship 
+7" mercury capsule. There was a slight snag at lift off today. An 
+aluminum panel was ripped from the shuttle's tail. The panel struck 
+an engine nozzle and disappeared into the exhaust. NASA says the mishap 
+poses no danger. 
+</TEXT>
+</DOC>

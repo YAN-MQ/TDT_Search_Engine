@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981031.1600.1040 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And coming soon to store shelves, beer in plastic bottles. The Miller 
+brewing company will introduce the new containers next week in about 
+a half dozen cities. 
+</TEXT>
+</DOC>

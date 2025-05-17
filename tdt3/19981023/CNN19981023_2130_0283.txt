@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981023.2130.0283 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Typhoon babs has moved into the China sea after pounding the Philippines 
+for two days with winds of 120 miles an hour. The death toll today 
+reached at least 86. 53 people were killed in mudslides. The storm 
+has closed ports, blocked roads and disrupted utility service. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> APW19981024.0363 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Clocks in Lebanon will be moved back one hour at midnight Saturday, 
+ending seven months of daylight saving summer time. This puts Lebanon 
+two hours ahead of Greenwich Mean Time. Standard time remains in effect 
+until the last weekend of March 1999, according to a Cabinet decision. 
+</TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> NYT19981230.0221 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Why Screens Seem to `Roll' Q. Whenever a computer monitor is shown 
+on television, why is there a line or streak that appears to roll 
+down the monitor? A. The National Television System Committee standard 
+for recording is about 30 frames per second, so videotape is recorded 
+at that speed. Ordinary computer monitors, which contain internal 
+electron guns that illuminate the phosphor-coated glass to create 
+the image, refresh their screens at a different rate. Monitor refresh 
+rates are measured in hertz, or cycles per second, and rates of 60, 
+67 and 75 hertz are most common. If you have a 60-hertz computer monitor, 
+that means it is redrawing the picture you see on the screen 60 times 
+each second. When you see a computer monitor on television and you 
+notice that rolling line or flickering, you are seeing the refresh 
+rate for the monitor, which is out of synch by a fraction of a second 
+with the frame rate for the video camera. Computer monitors refreshing 
+at a rate of 75 hertz have the most noticeable streaking on the television 
+screen. Displays running at 60 hertz (refreshing roughly twice for 
+each video frame) look the best on television. ``On the 67-hertz machine, 
+you can see the variation,'' said Amy Morang, a support technician 
+at Radius, a maker of computer monitors and digital video products. 
+``The gun position will be at a different place at each frame, so 
+it `rolls.''' Circuits invites questions about computer-based technology, 
+by postal mail to Questions, Circuits, The New York Times, 229 West 
+43d Street, New York, N.Y. 10036-3959 or by e-mail to Q&AMP;A(AT)nytimes.com. 
+</TEXT>
+</DOC>

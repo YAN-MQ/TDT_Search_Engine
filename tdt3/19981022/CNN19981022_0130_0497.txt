@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981022.0130.0497 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. After that -- an ugly political 
+campaign in Georgia just got a lot uglier. 
+</TEXT>
+</DOC>

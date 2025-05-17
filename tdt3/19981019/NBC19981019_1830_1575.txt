@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> NBC19981019.1830.1575 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+So much has changed at the gasoline pump it's hard to keep up. It's 
+not just the adjoining convenience stores and ATMs, the credit card 
+inserts and pump-your-own, it's also the high-tech, digital readouts 
+of what you're paying for how much you're getting. But that could 
+add up to a "fleecing of America." Here's NBC's George Lewis. You 
+go to the gas pump to fill 'ER up. You figure you're getting exactly 
+what you're paying for. After all, those pumps are inspected by state 
+and local authorities, so they must be accurate. Right? Not always. 
+Welcome to the digital age, where law enforcement officials say altered 
+computer chips inside some gas pumps are part of a high-tech "fleecing 
+of america." The chips give phony readings at the pump, so customers 
+wind up with 7% to 25% less gas than they're paying for. And the chips 
+can be programmed to fail inspectors. Officials say even when drivers 
+complained, it was hard to find a problem. We would send inspectors 
+out from the county, from the state, and they would check it out. 
+And they said, "there's nothing wrong here." But the complaints kept 
+coming, so authorities took a closer look. The inspectors have a standard 
+test. Fill up a calibrated container to see if the gas pump is accurate 
+at five gallons and again at ten gallons. Authorities say the chips 
+were programmed to pump exactly five and ten gallons, but with any 
+other amount the pumps would cheat the customers. Here's undercover 
+video shot by county inspectors. Between zero and four gallons, the 
+numbers run faster than the actual flow of gas. Then, at four gallons, 
+the numbers slow down, so that by the time the pump reaches five gallons, 
+it's accurate. Then, over five, the numbers speed up again. The same 
+process happens at ten gallons. Authorities raided 27 southern California 
+gas stations owned by the mepco oil company. The Los Angeles district 
+attorney claims customers were "fleeced" out of $1 million. You don't 
+think that computer fraud is the crime of the future? it is. The authorities 
+say they found 140 altered computer chips in pumps at a dozen stations. 
+Mepco's 42-year-old general manager, Mohammed mourad, his 31-year-old 
+brother, bragin mourad. Pleaded not guilty to criminal charges of 
+grand theft and conspiracy. The prosecution charges that the younger 
+mourad programmed the altered chips. Their trial is set for next month. 
+Authorities in Los Angeles say this case may be just beginning. They're 
+now getting calls from Alaska, Michigan and other states which hope 
+to halt what authorities call this "fleecing of America" that could 
+amount to tens or hundreds of millions of dollars. George Lewis, NBC 
+news, Los Angeles. 
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> PRI19981203.2000.1903 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+New research is helping to explain why some people infected with HIV 
+have developed the symptoms of AIDS faster than others. Scientists 
+hope new findings may lead to the development of drugs to better fight 
+the AIDS virus or even prevent it. The World's David Lavalley reports. 
+Researchers have long recognized that some people develop AIDS more 
+rapidly than others, but today's published findings better account 
+for why that occurs. Researchers at The National Cancer Institute 
+point to a gene called CCR5 which affects white blood cells. These 
+human cells are more vulnerable if they contain more receptors which 
+are like tiny doorways. The more receptors, the greater the chance 
+of infection. Researchers say this discovery can help scientist design 
+better drugs to fight infection by blocking these cellular doorways. 
+The hope is that new blocking drugs could potentially add three or 
+four years of healthy life to those living with AIDS. For The World, 
+I'm David LaValley. 
+</TEXT>
+</DOC>

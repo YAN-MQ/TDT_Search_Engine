@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981103.1130.0262 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Be sure to watch "CNN Headline News" tonight for updated reports on 
+all the races. Chuck Roberts will bring you the returns as they come 
+in starting at 7:00 p.M. eastern time. And the ticker at the bottom 
+of our screen will provide continuous results. 
+</TEXT>
+</DOC>

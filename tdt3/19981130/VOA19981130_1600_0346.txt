@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981130.1600.0346 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+i'm John Birchard, VOA News. Hello, again from Washington. This is 
+VOA News Now. I'm Tony Riggs. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981013.0130.0476 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+russian president boris yeltsin is back in the kremlin, after cutting 
+short a visit to central asia because of bronchitis. he flew back 
+monday from kazakstan. sunday, mr. yeltsin stumbled at an arrival 
+ceremony in uzbekistan. he has a history of health problems, including 
+multiple bypass heart surgery two years ago. 
+</TEXT>
+</DOC>

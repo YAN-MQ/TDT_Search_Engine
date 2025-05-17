@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981202.1600.0970 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The world's largest aircraftmaker slashing thousands of jobs. I'm 
+Terry Keenan with a business news update from New York. Faced with 
+reduced or canceled orders from Asian nations wracked by economic 
+turmoil, Boeing says it's cutting production of its 747s, 757s and 
+767s. It's slashing its workforce by 20,000 jobs. That on top of 28,000 
+previously announced cuts. Altogether, that works out to 20% of Boeing's 
+staff. The world's largest aircraftmaker also slashing profit estimates 
+for next year by 25% to $1.5 billion. 
+</TEXT>
+</DOC>

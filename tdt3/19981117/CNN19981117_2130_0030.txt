@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981117.2130.0030 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm Lynne Russell. Thanks for joining us. In another attempt to pad 
+the U.S. economy against a potential blow from crashing global markets, 
+the federal reserve has cut interest rates. Today, the central bank 
+lowered two short-term rates .25%. that puts the federal funds rate 
+for overnight loans at 4.75%. that rate determines the interest charged 
+on most loans, like credit cards and automobiles. The fed also lowered 
+the discount rate for emergency loans to banks to 4.5%. it's the third 
+interest rate cut in seven weeks and had a mixed effect on Wall Street. 
+We'll have more on that in consumer news. 
+</TEXT>
+</DOC>

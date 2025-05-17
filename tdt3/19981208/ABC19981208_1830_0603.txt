@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981208.1830.0603 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And while we're in the workplace, a new number about privacy. The 
+American management association says that 35% of employers now monitor 
+their workers, mostly by checking on E-mail and computer files. Or 
+using hidden cameras. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> MNB19981201.2100.0428 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Boeing, of course, is a stock that is closely watched by Wall Street. 
+The news out of Seattle came after the end of the trading day in New 
+York. But the merger between Exxon and mobile didn't do much to help 
+the market recover from yesterday's 200 point plus drop. Dow Jones 
+industrials managed a 17 point gain to close at 9133. The high-tech 
+heavy NASDAQ surged today ending 54 points on the upside recapturing 
+most of yesterday's losses. 
+</TEXT>
+</DOC>

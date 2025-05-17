@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981223.1600.2998 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Once again, a very good day on Wall Street. With the Dow Jones Industrial 
+average closing up 157 points. This is Breck Artery. Thank you Breck. 
+</TEXT>
+</DOC>

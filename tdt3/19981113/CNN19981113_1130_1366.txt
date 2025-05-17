@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981113.1130.1366 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+mike sammond, "cnn headline sports." 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981125.2130.0544 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Washington state, utility companies are rushing to restore power 
+in time for Thanksgiving. 90-mile-an-hour winds blasted the area for 
+two days, knocking down trees and ripping roofs from buildings. 300,000 
+people were left without power in the pacific northwest. One death 
+is blamed on the storm. More rain is forecast, and flood watches are 
+in effect for parts of washington state and Oregon. 
+</TEXT>
+</DOC>

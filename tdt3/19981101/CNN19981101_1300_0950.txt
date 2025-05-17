@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981101.1300.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And leaflets printed by the militant wing of the Palestinian group 
+Hamas contain direct threats against Yasser Arafat's government. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981029.0500.3083 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow Industrial was up most of the yesterday, slipped sharply near 
+the close to gain just six points to 8,372. The broader S&P 500, up 
+three points to 1,068. The NASDAQ composite index full of computer 
+related shares gained 20 points to 1,738. 
+</TEXT>
+</DOC>

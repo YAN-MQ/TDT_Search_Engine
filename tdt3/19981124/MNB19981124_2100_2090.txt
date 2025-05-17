@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> MNB19981124.2100.2090 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today investors went profit hunting after yesterday's 
+214-point runup and record close. The Dow industrials fell 73 points 
+today to close at 9301. The NASDAQ also lost ground. 
+</TEXT>
+</DOC>

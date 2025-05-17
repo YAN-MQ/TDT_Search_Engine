@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> NYT19981208.0399 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Officials of the Nasdaq stock market and Broadcast.com plan to test 
+a program they hope will encourage publicly traded companies to make 
+quarterly earnings conference calls accessible over the Internet. 
+Nasdaq president Alfred Berkeley III described Internet broadcasting 
+as a way to level the playing field for individual investors who do 
+not have access to the same company data as institutional investors. 
+With Internet broadcasting, anyone with a computer and an Internet 
+connection could participate in an earnings call with executives. 
+Many public companies already broadcast their quarterly earnings conference 
+calls over the Internet. For the pilot program, Nasdaq will offer 
+its top 100 companies four live audio broadcasts of quarterly earnings 
+calls each year. Eventually, Nasdaq and Broadcast.com hope to make 
+the service available to all Nasdaq companies. To take part in an 
+Internet call, investors will sign on to the Web site of either Broadcast.com 
+or Nasdaq, where they can listen and ask questions, much as they would 
+during a telephone conference call. Neither company would disclose 
+specific terms of the deal, but Broadcast.com is charging Nasdaq a 
+licensing fee for its services, which Nasdaq will offer free to participating 
+companies. 
+</TEXT>
+</DOC>

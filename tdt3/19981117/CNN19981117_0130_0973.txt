@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981117.0130.0973 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Is another interest rate cut imminent? The federal reserve board meets 
+Tuesday and is expected to cut key rates for a third time this year. 
+Analysts say two previous rate cuts have yet to ease investor fears 
+over troubled European and Asian economies. 
+</TEXT>
+</DOC>

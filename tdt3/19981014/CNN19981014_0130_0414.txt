@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981014.0130.0414 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Five people were hurt in a fiery explosion at a chemical plant Tuesday 
+in Baltimore, Maryland. The explosion could be felt for miles and 
+rocked the foundations of some nearby homes. No deaths were reported 
+and none of the injuries is believed to be life threatening. The chemical 
+fumes were contained about one hour after the explosion. 
+</TEXT>
+</DOC>

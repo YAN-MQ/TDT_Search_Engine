@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> APW19981011.0349 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+VALKENBURG, Netherlands (AP) - The medal table of the elite events 
+at the the 1998 World Cycling Championships: Team G S B Total Netherlands 
+1 1 0 2 Spain 1 1 0 2 Lithuania 1 0 0 1 Swtizerland 1 0 0 1 Russia 
+0 1 0 1 Belgium 0 1 0 1 Ukraine 0 0 1 1 Italy 0 0 1 1 Germany 0 0 
+2 2 
+</TEXT>
+</DOC>

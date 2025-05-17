@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> NYT19981125.0429 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Thursday, Nov. 29: A British 
+appeals court Wednesday greatly bolstered the possibility that Gen. 
+Augusto Pinochet of Chile will face justice _ a quarter-century after 
+most of the crimes of his military coup. The 3-2 decision that Pinochet's 
+status as a former head of state does not give him immunity in Britain 
+makes it likely that British courts will agree to Spain's request 
+for his extradition. The decision will rest in the hands of Home Secretary 
+Jack Straw. Unless Pinochet's health worsens drastically, Straw must 
+resist the temptation to decide that he is too frail to stand trial. 
+The law lords, a panel of the House of Lords that serves as Britain's 
+top court, ruled that the charges against Pinochet, including torture 
+and hostage-taking, cannot be considered official functions and therefore 
+the immunity normally granted to a former head of state does not apply. 
+The decision settles the most important legal issue involved in Spain's 
+extradition request. Britain almost always complies with requests 
+from European nations and requires little examination of the factual 
+evidence of the case. Straw must not heed the false argument that 
+trying Pinochet would imperil Chile's democracy. His extremist supporters 
+are noisy but few. Chile's military and business leaders know that 
+the economic growth and respect they enjoy would vanish if democracy 
+fell. Straw should let British justice, and then possibly Spanish 
+justice, take its course. 
+</TEXT>
+</DOC>

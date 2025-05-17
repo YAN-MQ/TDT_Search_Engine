@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981206.1600.1653 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+All the day's news, including the latest developments in the impeachment 
+proceedings against President Clinton, are coming up next. I'm Kate 
+snow, and this is "CNN Headline News." 
+</TEXT>
+</DOC>

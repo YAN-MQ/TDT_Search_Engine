@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981215.0130.0576 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The crew of space shuttle "endeavour" is preparing for Tuesday's return 
+to earth. "Endeavour" is scheduled to land at Kennedy space center 
+in Florida at 10:56 P.M., but NASA says bad weather may force them 
+to reschedule the landing for Wednesday, possibly at Edwards air force 
+base in California. During three days of space walks, the crew of 
+"endeavour" successfully assembled the first two parts of the $60 
+billion international space station. 
+</TEXT>
+</DOC>

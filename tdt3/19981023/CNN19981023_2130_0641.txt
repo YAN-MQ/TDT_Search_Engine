@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981023.2130.0641 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA has new plans to travel dpeep near space without filling up the 
+tank. John Zarrella has more. Beneath the layering is a spacecraft 
+that may revolutionize travel to the planets and beyond. We feel we're 
+getting to turn fantasy into reality, and that's exciting. Deep space 
+one is a probe that after liftoff will head to an asteroid. But, where 
+it's going is not nearly as important as how it gets there. For the 
+first time, a spacecraft is being powered by ion propulsion which 
+generates thrust by shooting out electrically charged gas. If it works, 
+the technology is ten times more efficient than conventional rocket 
+engines. The reason ion propulsion is better is because it uses less 
+propellant. That means you can have a smaller propellant tank, less 
+massive spacecraft and that means you can launch the space craft on 
+a more affordable launch vehicle. The vehicle is also equipped with 
+an experimental autonomous navigation system. Simply put, the probe 
+always knows where it is in the solar system, knows where it is going 
+and without help from humans, can correct its course if necessary. 
+To use solar electric propulsion with our autonomous navigator is 
+like having your car drive itself from New York to Los Angeles and 
+park in its parking space all on its own, getting 300 miles per gallon. 
+Deep space one is NASA's version of a prototype economy car built 
+simply to see if it works. There are a lot of future missions that 
+are looking at the results from deep space one, and a lot of planning 
+for our future planetary missions will be based on how successful 
+we are. With an ever shrinking budget, NASA is desperate for ways 
+to make space flight more affordable and less risky. The breakthrough 
+the agency has been hoping for could be this super efficient probe 
+with a mind of its own. John Zarrella, CNN, at the Kennedy space center 
+in Florida. 
+</TEXT>
+</DOC>

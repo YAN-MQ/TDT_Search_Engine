@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981018.1130.0151 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have the complete extended weather forecast at 38 minutes past 
+the hour. 
+</TEXT>
+</DOC>

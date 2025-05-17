@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981124.1600.0966 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street lost a little steam today. We're going to find out how 
+they closed, coming up with Valerie Morris. She's sitting there at 
+the "CNN Financial News" desk in New York. Hi, Valerie. Thank you 
+very much. The Dow industrial average did spend most of the day in 
+Negative column and that's exactly where it ended. Investors were 
+on the defensive after pushing that index to record levels yesterday. 
+The Dow closed down 73 points at 301. That certainly is quite a change 
+from yesterday's 214-point rally. The broader markets all ended lower, 
+with the technology heavy NASDAQ composite slowsing down 11 points. 
+In the bond market -- 
+</TEXT>
+</DOC>

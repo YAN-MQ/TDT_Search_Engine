@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> APW19981015.0362 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Share prices on the London Stock Exchange were higher at midday Thursday. 
+At noon, the Financial Times-Stock Exchange 100-share index was up 
+44.1 points at 5082.5. 
+</TEXT>
+</DOC>

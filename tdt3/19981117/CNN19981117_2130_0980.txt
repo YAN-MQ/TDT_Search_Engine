@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981117.2130.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Keeping track of what you've paid to social security will become much 
+easier for working Americans, thanks to new annual statements from 
+the government. The notices have already gone out to 50 million people 
+over the age of 47. Starting next fall, every U.S. worker over the 
+age of 25 will get an updated notice each year. They're designed to 
+help Americans plan for retirement. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981014.0130.0217 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The FBI has launched a national DNA computer network aimed at fighting 
+violent crime. The system allows state crime labs around the country 
+to exchange DNA profiles in hopes of linking unsolved crimes to known 
+offenders. A director says it will be particularly helpful in solving 
+crimes committed by violent and sexual offenders. All 50 states have 
+laws requiring convicted offenders to provide DNA samples for the 
+database. 
+</TEXT>
+</DOC>

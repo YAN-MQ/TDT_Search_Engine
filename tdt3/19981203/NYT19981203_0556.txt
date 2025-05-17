@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> NYT19981203.0556 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Microsoft's lawyers tried to show in federal court Thursday that Sun 
+Microsystems Inc., a tough competitor in the software industry, was 
+guilty of the same sort of anti-competitive behavior that had prompted 
+the federal government and 20 states to file an antitrust suit against 
+Microsoft Corp. With a Sun executive, James Gosling, on the stand, 
+a Microsoft lawyer, Tom Burt, introduced internal e-mail in which 
+Sun executives two years ago described meetings with Netscape Communications 
+Corp. at which it appeared that the two companies were working toward 
+an agreement not to compete in Internet software. One memo summarizing 
+Sun's goals said, ``Unify browser efforts; stop competing.'' At that 
+point, Netscape had a commanding market share in the browser software 
+used to navigate the Web, while Sun was creating another browser, 
+called Hot Java, written in Sun's Java programming language. A key 
+charge in the government's case against Microsoft is that the company 
+threatened to crush Netscape if it did not cede to Microsoft the market 
+for browsers written for Microsoft's Windows operating system. Microsoft 
+denies that charge and says its discussions with Netscape were unremarkable. 
+In court Thursday, Burt asked Gosling about the Sun-Netscape meetings. 
+``It's not at all unusual for companies to get together and talk about 
+how technologies ought to evolve, is it?'' he asked. Gosling said, 
+``That's correct.'' But a few moments later, he added, ``I do not 
+recall any kind of decision to back away from browsers because of 
+any agreement with Netscape.'' Sun decided not to begin selling Hot 
+Java, he said, simply because the company could not figure out how 
+to make money with it when Microsoft was giving away its browser, 
+Internet Explorer. Outside the courtroom, Mark Murray, a Microsoft 
+spokesman, said Thursday's testimony ``further demonstrated that throughout 
+the software industry, companies meet together, talk together, plan 
+together.'' But David Boies, the government's lead trial lawyer, said 
+that was irrelevant. ``First,'' he said, ``the Sun browser had a trivial 
+market share, if any. Second, there was no agreement not to compete. 
+And there's no correlation with the Microsoft-Netscape meeting because, 
+in that one, you saw a monopolist, Microsoft, using its monopoly power 
+to crush another company unless the company agreed not to compete.'' 
+``Besides,'' he added, ``even if there were a problem here, it wouldn't 
+get Microsoft off the hook. `Everyone does it' doesn't really work 
+as a defense.'' In some ways, Microsoft's tack Thursday appeared to 
+counter its earlier strategy. On Wednesday, Burt presented a case 
+that Sun, a power in the software industry, planned to use Java to 
+mount a challenge to Microsoft's dominance of the PC operating system 
+market. This line of attack was designed to convince Judge Thomas 
+Penfield Jackson that Microsoft was facing such strong competition 
+that it could not be considered a monopoly under the law. But on Thursday, 
+Burt introduced numerous documents and testimony to suggest that Sun's 
+version of Java was actually a slow, bug-ridden, poor-performing programming 
+language that was the object of ridicule in the industry. Given those 
+facts, he suggested, it was perfectly reasonable for Microsoft to 
+create its own, superior version of Java. That tactic was intended 
+to counter government evidence that Microsoft created a partly incompatible 
+version of Java to cut off any competitive threat posed by Sun's version. 
+Burt never addressed the seeming contradiction. 
+</TEXT>
+</DOC>

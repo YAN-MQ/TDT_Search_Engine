@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981018.1000.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- President Clinton is headed back to the 
+mideast peace summit in Maryland today. Israelis and Palestinians 
+are still trying to work out their differences on land and security 
+issues. 
+</TEXT>
+</DOC>

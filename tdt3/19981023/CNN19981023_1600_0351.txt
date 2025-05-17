@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981023.1600.0351 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The latest tropical storm in the atlantic ocean is picking up some 
+power as it moves toward Jamaica. Tropical storm Mitch has maximum 
+sustained winds of 60 miles per hour. Forecasters say it may become 
+a hurricane in the next 36 hours. It's 370 miles south of Kingston, 
+Jamaica, and is nearly stationary. It Mick attack a gradual turn to 
+the north-northwest. 
+</TEXT>
+</DOC>

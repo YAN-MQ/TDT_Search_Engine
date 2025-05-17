@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981225.0500.0346 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now, coming to you from Washington. I'm Les Carpenter, 
+along with Charlene Porter. 
+</TEXT>
+</DOC>

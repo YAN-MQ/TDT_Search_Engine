@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981121.1130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton took time to enjoy a State dinner during a two-day 
+visit in south Korea. Meanwhile he warned north Korea denying the 
+U.S. access to a suspected nuclear site could threaten relations between 
+the two countries. 
+</TEXT>
+</DOC>

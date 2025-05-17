@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981128.1300.0713 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here we go again. Over the next few weeks, five balloon teams will 
+begin a journey that has so far proven impossible to complete -- they'll 
+try to fly nonstop, around the world. Among those getting ready for 
+the marathon float is millionaire adventurer steve Fossett. His last 
+attempt ended in August when he landed in the coral sea, after a Storm 
+ruptured his balloon. Fossett is teaming up with rival Richard Branson 
+this time. They'll take off from the Swiss Alps. 
+</TEXT>
+</DOC>

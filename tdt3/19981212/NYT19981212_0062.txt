@@ -1,0 +1,118 @@
+<DOC>
+<DOCNO> NYT19981212.0062 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+With a huge plateful of large and complex corporate mergers to review 
+and a host of major civil enforcement cases against corporate America's 
+biggest names, antitrust officials are experiencing a renaissance. 
+Federal officials report that they have filed a record number of challenges 
+this year to mergers and other anti-competitive practices and have 
+collected record amounts in civil fines and other penalties. They 
+have stretched some old antitrust theories and applied a few new ones 
+_ such as now routinely requiring every merger examination to include 
+a look at how the proposed deal may affect product innovation and 
+development. Their targets have been a Who's Who among corporate powerhouses 
+and include Microsoft and Intel, Mastercard and Visa, Lockheed Martin 
+and Northrop Grumman. ``Antitrust is a highly political discipline, 
+and it tends to ebb and flow,'' said Herbert Hovenkamp, a professor 
+at the University of Iowa College of Law and the author of a leading 
+treatise on the subject. ``It's flowing right now.'' In part, the 
+renewed vigor is a consequence of two related economic trends: the 
+deregulation of certain industries and the unparalleled wave of business 
+mergers and acquisitions. In the fiscal year ending on Sept. 30, the 
+Justice Department and the Federal Trade Commission, the two main 
+agencies that enforce U.S. antitrust law, examined 4,728 proposed 
+mergers, more than at any other time, and three times as many deals 
+as in 1992. As a result of the merger-and-acquisition wave, the agencies 
+are now reviewing five of the largest business transactions in U.S. 
+history: the proposed $80 billion acquisition of Mobil Corp. by Exxon, 
+the $62 billion purchase of Ameritech by SBC Communications, Bell 
+Atlantic's $52 billion acquisition of GTE, AT&AMP;T's $32 billion 
+purchase of Tele-Communications Inc. and British Petroleum's $48 billion 
+buyout of Amoco. However the agencies rule on those deals _ they can 
+seek to have them blocked or modified, or they can simply approve 
+them _ their aggressive view of the law has already made them a central 
+force in setting economic policy in a wide range of industries left 
+untouched by other policy-makers. Stepping into a vacuum created by 
+the deregulation of such industries as airlines and telecommunications, 
+they have restructured or blocked numerous multibillion-dollar mergers 
+and joint-venture agreements that once fell under the purview of other 
+officials. For the first time since the airline industry was deregulated 
+in the late 1970s, they filed a lawsuit two months ago to prevent 
+a big airline merger, one involving Northwest Airlines' acquisition 
+of Continental. But through such civil suits as the Microsoft case, 
+they are also evolving into the role of overseeing emerging areas 
+of enterprise like the Internet, and through challenges of proposed 
+mergers involving large and small research and development companies, 
+they are playing an important role in arranging the corporate landscape 
+in biotechnology. Despite these trends, some experts said that the 
+vigorous enforcement was still less aggressive than at other points 
+in history, such as the 1930s and the 1960s, and noted that the new 
+vigor was not a consequence of any significant Supreme Court victories 
+involving the nation's competition laws or any major revisions of 
+the guidelines that are used to scrutinize mergers. ``Interestingly, 
+there have not been any major doctrinal changes,'' said George Priest, 
+a professor of law and economics at Yale University. ``They are using 
+some different theories, and they are trimming some proposed mergers 
+back in order to facilitate them. But they are also sometimes bringing 
+cases without articulating a clear theory or vision about what they 
+are trying to accomplish.'' Joel Klein, the head of the Justice Department's 
+antitrust division, said that antitrust enforcement ``reflects a point 
+of historic convergence involving a commitment of deregulation and 
+competition.'' ``The essential component of that confluence is active 
+antitrust enforcement,'' he said. By all accounts, the Clinton administration's 
+enforcement record is a marked departure from those of Republican 
+predecessors. During the Reagan administration and to a lesser extent 
+under President George Bush, the antitrust division and the FTC were 
+backwaters that suffered from severe staff cutbacks. Particularly 
+under Reagan, they followed a laissez-faire philosophy that found 
+little value in broad enforcement of antitrust law. ``Their attitude 
+was that everything was self-correcting,'' said Robert Pitofsky, an 
+antitrust professor and former dean at Georgetown Law School, who 
+is now the chairman of the FTC. ``But as time has gone on, we've seen 
+how wrong that was.'' The two agencies continue to suffer from staff 
+shortages, having never recovered from the cutbacks in the '80s. Because 
+of the large number of mergers, they have been forced to undertake 
+a kind of regulatory triage, delaying and thinly staffing civil enforcement 
+inquiries in order to complete merger reviews under the deadlines 
+set by Congress. Nonetheless, the agencies are doing things that have 
+not been done in a long time, if at all, using novel legal theories 
+and stretching more conventional ones. For instance, recognizing that 
+research in many emerging industries is ultimately more important 
+than the products they may make, the officials have ordered the redrawing 
+of mergers of companies that are in nascent research-and-development 
+stages, years away from production. In a case involving the merger 
+of the Swiss-based drug giants Ciba-Geigy and Sandoz, the FTC required 
+the sale of patents and technological know-how involving their pioneering 
+research in gene therapy for various diseases, even though the companies 
+did not expect to bring any such products to market for years. With 
+greater frequency, they have also taken a more concentrated look at 
+the effect of a merger on new companies rather than the older, more 
+conventional analysis that looks at whether a merger has a likelihood 
+of promoting collusion and oligopolies in a wide range of industries 
+from retailing to military contracting. This ``theory of unilateral 
+effects'' was first articulated by an economist in 1929. But it was 
+never widely used by regulators because it was thought to be too difficult 
+to gather market data. With technological advances, such as the use 
+of price scanners in stores and the proliferation of powerful personal 
+computers, it has become easier to manipulate data and apply the theory. 
+The result, according to Hovenkamp, ``is more aggressive enforcement.'' 
+They are also challenging mergers involving so-called vertical integration 
+_ a supplier buying a manufacturer, or a manufacturer buying a wholesaler. 
+At the FTC, officials restructured four important mergers in the last 
+year either in whole or in part because of questions of improper vertical 
+integration. One such case involved the $10 billion purchase of Energy 
+Group PLC of Britain, which produced about 15 percent of the coal 
+in the United States, by Pacificorp, a leading Western utility. (Pacificorp 
+itself agreed last week to be acquired by Scottish Power PLC for nearly 
+$13 billion in equity and debt.) Antitrust officials required the 
+divestiture of certain coal mines that would have enabled the new 
+combination to raise a rival's generating costs, and as a result, 
+the wholesale price of electricity in the West. In another case, the 
+officials forced TRW Inc. to sell a Pentagon engineering business 
+as a condition of its $975 million purchase of BDM International in 
+order to satisfy concerns that the deal would not put TRW in a position 
+to favor itself as a competitor for ballistic-missile contracts. 
+</TEXT>
+</DOC>

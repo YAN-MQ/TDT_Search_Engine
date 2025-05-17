@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981017.1600.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's the top stories -- President Clinton joined the Israeli and 
+palestinian leaders negotiating in Maryland. The talks are reportedly 
+bogged down over security guarantees. 
+</TEXT>
+</DOC>

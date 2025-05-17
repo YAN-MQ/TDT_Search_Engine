@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981109.1600.3029 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+It is time now for business news, and first up, we're going to talk 
+about European stocks. At midday in London, the Financial Times 100 
+Share Index down 47 points at 5,387, while in Paris, the CAC40 Index 
+is off 40 points at 3,546. Stocks on the DAX Index in Frankfurt are 
+80 points lower this hour at 4,683. 
+</TEXT>
+</DOC>

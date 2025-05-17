@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981126.1600.0951 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Susan Lisovicz is standing by at our business newsdesk in New York 
+to tell us what the outcome is. Susan? There's no sign that oil-producing 
+countries are going to push oil prices up anytime soon, OPEC ministers 
+ended their meeting in Vienna without any agreement at all to extend 
+cuts in oil production. Some delegates had voiced hope that an earlier 
+production cut would be extended until the end of 1999. But they were 
+disappointed. Ministers agreed only to meet again in March. This comes 
+as Exxon, the world's largest oil company, is reportedly in talks 
+to buy mobil, the second-largest oil company in the United States. 
+If completed, the deal would be the largest industrial merger ever 
+and perhaps the largest of any kind. No price has been set yet, but 
+a deal could come as early as next week. 
+</TEXT>
+</DOC>

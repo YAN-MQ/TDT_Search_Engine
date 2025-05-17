@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981117.1130.0984 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors in a selling mood as federal reserve policymakers meet in 
+washington to decide if the nation's short-term interest rates should 
+be lowered. That decision is expected around 2:15 P.M. eastern. 
+</TEXT>
+</DOC>

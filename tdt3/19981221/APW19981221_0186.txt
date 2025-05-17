@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> APW19981221.0186 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The European Union announced Monday that it will provide financial 
+aid to Southeast Asian nations to strengthen the enforcement of local 
+laws protecting intellectual property. The EU said in a statement 
+that the 5 million euro (dlrs 5.5 million) program, a joint project 
+with Thailand, will provide training for police, customs and justice 
+authorities in the region to meet World Trade Organization standards 
+on property rights. The five-year program will include technology 
+transfers to upgrade the enforcement system in line with EU standards. 
+</TEXT>
+</DOC>

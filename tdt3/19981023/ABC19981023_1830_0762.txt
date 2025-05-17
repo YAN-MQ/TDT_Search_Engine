@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981023.1830.0762 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another sign that volatility in the stock market is causing investors 
+to be cautious. The national football league has called off, for now, 
+a plan to issue $600 million worth of bonds to pay for new stadiums 
+and players' salaries. 
+</TEXT>
+</DOC>

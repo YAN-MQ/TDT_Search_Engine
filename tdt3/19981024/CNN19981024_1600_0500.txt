@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981024.1600.0500 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the U.S. is next. And just ahead 
+-- NASA launches a spacecraft that would make captain Kirk proud. 
+</TEXT>
+</DOC>

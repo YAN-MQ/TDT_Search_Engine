@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981228.2130.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+and heavy rain and snow are causing problems in the northwest. two 
+major passes through the cascade mountains were closed most of the 
+day for fear of an avalanche. 
+</TEXT>
+</DOC>

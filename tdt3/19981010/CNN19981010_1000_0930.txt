@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981010.1000.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- a second stopgap spending measure 
+will keep the federal government running through the weekend. This, 
+as Congress continues work on a new federal budget. 
+</TEXT>
+</DOC>

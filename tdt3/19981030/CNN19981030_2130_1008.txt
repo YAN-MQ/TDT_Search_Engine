@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981030.2130.1008 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Meanwhile, sales of new homes fell 1% in September. That's the third 
+consecutive drop since record sales in June and a Nine-month low. 
+The midwest was the only region where home sales rose, climbing nearly 
+13%. Economists were expecting a slight rise. 
+</TEXT>
+</DOC>

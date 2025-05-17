@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981227.1130.1231 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Duane Walker, "CNN Headline Sports." This year's NFL Minnesota Vikings 
+are the highest-scoring team in history. Saturday, they knocked out 
+Tennessee, 26-16. Randall Cunningham passed for 235 yards and two 
+touchdowns, one each to randy Moss and cris Carter. 
+</TEXT>
+</DOC>

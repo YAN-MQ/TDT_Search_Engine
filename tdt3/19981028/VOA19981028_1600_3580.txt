@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981028.1600.3580 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From the Voice of America's worldwide satellite networks spanning 
+the globe at more than 35,000 kilometers above the planet, this is 
+VOA Express. (END 
+</TEXT>
+</DOC>

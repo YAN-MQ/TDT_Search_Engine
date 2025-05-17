@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981214.1600.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More than 21 million customers are expected to visit post offices 
+today. It's the postal service's busiest day of the year. 
+</TEXT>
+</DOC>

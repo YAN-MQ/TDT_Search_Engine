@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CNN19981107.1130.0575 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Internet users can make long-distance phone calls at local prices. 
+But telephone companies want to change that, and it's up to the FCC 
+to find a middle ground. Rick Lockridge reports in this edition of 
+"tech trends." Paul elia builds web sites. He works out of the basement 
+of his home. He says his business will not grow unless the Internet 
+does, too. So if the Internet access becomes more expensive, Internet 
+traffic will go down. And that will definitely affect us. Right now, 
+most Internet calls are billed as local, even when they connect to 
+faraway computers. Long distance carriers have been squabbling for 
+years over who should pay for those connections. If the FCC decides 
+to define Internet phone calls as "interstate" instead of "local," 
+the long distance carriers could charge for them accordingly. That 
+could mean higher Internet access rates for many of us. I believe 
+there would be a great outcry from the public. Cary howell is CEO 
+of an Internet service provider. What we would have to do at that 
+time is reevaluate whether or not we just increase the base per-month 
+charge or if we increase it to an hourly or per-minute connect rate. 
+The new charges might not happen. The FCC has a history of protecting 
+Internet users from higher telephone fees. But even if the agency 
+rules otherwise this time, the threat of competition from cable modems 
+and other technologies might persuade telephone companies to keep 
+their prices down. Still, in the short term, by-the-minute phone fees 
+could take a toll -- particularly on schools and small businesses 
+like Paul elia's. Unfortunately, I'm going to have to absorb the increased 
+cost. What we're going to do is get smarter about the time we spend 
+online. Congress recently passed a moratorium on new Internet taxes, 
+feeling that such taxes could have a chilling effect on the Internet. 
+Now the FCC will have to decide whether by-the-minute phone charges 
+could have a similarly harmful effect. Rick Lockridge, CNN, Atlanta. 
+</TEXT>
+</DOC>

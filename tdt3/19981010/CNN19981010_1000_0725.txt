@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981010.1000.0725 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is the "CNN Headline News allergy report." Grass pollen remains 
+minimal over much of the United States. Moderate levels are found 
+in southern Texas. High mold spores prevail over along the gulf coast 
+in central and southern Texas, the south central states, the mid-atlantic 
+and southern Florida. Levels are moderate in the northeast, Great 
+Lakes region, the eastern plains, parts of Oklahoma, Texas and Arizona. 
+Weed pollen will be high in south Texas and south Louisiana. Moderate 
+in Tennessee, northern Illinois, eastern Colorado, the southwest, 
+southern and central California and central Utah. 
+</TEXT>
+</DOC>

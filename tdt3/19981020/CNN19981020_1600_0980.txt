@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981020.1600.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow couldn't hold on to its big gains today but still managed 
+to end with a win. For more, we go to Jan Hopkins in New York. jan? 
+The Dow industrials staged their fifth-straight day of gains today, 
+though investors saw an early rally of 185 points slip away late in 
+the day. Still, the Dow has risen more than 500 points in the last 
+week, or 6%. The Dow today was up 39 points at 8505. One Dow giant 
+reporting earnings after the bell, IBM profits up about 7%, that beat 
+what Wall Street expected. The bellwether 30-year treasury bond recovered 
+some of its steepest losses of the day. Down still more than a point. 
+And the yield 5.05%. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981017.1130.0947 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton plans to meet today with Israeli prime minister 
+Benjamin netanyahu and Palestinian leader Yasser Arafat, to try and 
+inject some life into the stalled mideast peace summit. 
+</TEXT>
+</DOC>

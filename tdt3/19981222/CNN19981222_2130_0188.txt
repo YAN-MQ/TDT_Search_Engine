@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981222.2130.0188 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The first full day of winter is bringing snow and freezing temperatures 
+to parts of the United States. In Buffalo, New York, snow finally 
+fell today after the city set a record for a lack of it. More snow 
+is expected tomorrow. In Minnesota, temperatures dropped into the 
+single digits, below zero in some areas. Westerly winds produced wind 
+chills of 20 to 50 below zero in the extreme northeastern portion 
+of the state. We'll have a look at the rest of the nation in the extended 
+weather forecast. At 38 minutes past the hour. 
+</TEXT>
+</DOC>

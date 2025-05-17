@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981129.1000.1259 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There were some wild finishes on the college gridiron Saturday, but 
+we begin in Vanderbilt where the commodores got crushed by number 
+one tennessee, 41-0. The volunteers head to the SEC championship a 
+perfect 11-0. 
+</TEXT>
+</DOC>

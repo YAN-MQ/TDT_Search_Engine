@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981225.2130.0201 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Snow would have been welcome in the mid-atlantic, where an ice storm 
+has wreaked havoc. Virginia power says it has sent a thousand workers 
+to restring power lines brought down by ice. At its peak, more than 
+a 250,000 customers were without power. Retailers are reporting a 
+run on kerosene heaters, generators and firewood. We'll have more 
+in the extended weather forecast in a few minutes. 
+</TEXT>
+</DOC>

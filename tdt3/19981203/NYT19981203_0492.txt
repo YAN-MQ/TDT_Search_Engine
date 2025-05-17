@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> NYT19981203.0492 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Investors snapped up the initial public offering of Ticketmaster Online-City 
+Search Inc., an online seller of tickets and city guides, sending 
+its shares as high as four times their offering price. Ticketmaster 
+shares closed at $40.25 in Nasdaq trading, after trading as high as 
+$56.38. Because the shares opened at $52, many investors who bought 
+in the first hour of trading lost money on the stock. The company 
+sold seven million shares at $14 each on Wednesday, up from the $11 
+to $13 range set by the lead underwriter, Nationsbanc Montgomery Securities 
+LLC. Thanks to a ticker-symbol mix-up, the initial public offering 
+of Ticketmaster also prompted an unusual flurry of trading in the 
+shares of Temco Service Industries, a provider of building maintenance 
+and security services. Temco shares, which trade under the symbol 
+tcmo, and traded under the symbol tcms prior to Oct. 7, soared as 
+high as $65 before investors realized they were not buying Ticketmaster, 
+which now uses tcms. Temco shares closed at $25.50, down $3.25, in 
+over-the-counter trading. At $40.25, Ticketmaster's 69.5 million shares 
+outstanding give it a market valuation of $2.80 billion. Lisa Allen, 
+an analyst with Forrester Research, said Ticketmaster needed to distinguish 
+itself from other online city guides, but added that ``event ticketing 
+is going to be one of the key drivers for electronic commerce.'' Forrester 
+estimates online ticket purchases growing from $115 million this year 
+to $2.75 billion by 2003, Ms. Allen said. Ticketmaster, however, needs 
+to find better ways to link its city guides with the ticket business, 
+Ms. Allen added. 
+</TEXT>
+</DOC>

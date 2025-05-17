@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981029.2130.1372 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Welcome to the sixth annual pumpkin bowling competition at Waynesburg 
+college. And as you can see, it's got a very high degree of difficulty. 
+Sophomore Casey Conaway won it by knocking down eight pins. She took 
+the golden pumpkin and the "play of the day." 
+</TEXT>
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981208.0418 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Concerned that some auditors may no longer be independent from clients, 
+securities regulators are questioning whether accountants can police 
+themselves and have asked the nation's five largest accounting firms 
+to strengthen internal controls. Independence from the companies they 
+audit is considered crucial for auditors, whose job is to protect 
+investors by making sure that the financial statements prepared by 
+a company's management are correct. In a letter sent last week to 
+the Big Five accounting firms, Lynn Turner, the chief accountant at 
+the Securities and Exchange Commission, asked the firms to look at 
+whether their internal controls and training programs were adequate. 
+``We are seeing instances where people in these large firms are not 
+complying with the independence standards,'' Turner said Tuesday. 
+``We've got a real issue here.'' He said that SEC Chairman Arthur 
+Levitt had asked the American Institute of Certified Public Accountants, 
+the largest organization of accountants, to strengthen and accelerate 
+the process for disciplining members who violate the profession's 
+rules. In the last year, securities regulators have become increasingly 
+concerned about auditing quality because of the growing number of 
+accounting frauds at public companies audited by the big firms. At 
+a conference attended by hundreds of accountants in Washington Tuesday, 
+Richard Walker, the SEC's director of enforcement, said accounting 
+fraud had become his staff's top priority. Barry Melancon, the institute's 
+president, said the number of accounting fraud cases was minimal compared 
+with the thousands of audits done every year. ``We don't condone fraud 
+or inappropriate behavior,'' he said. ``But no one has zero defects.'' 
+The commission's top regulators also said they were concerned that 
+the accounting firms had reduced the amount of testing they do during 
+their audits and could be missing some errors. ``It's quite clear 
+that there has been such a substantial reduction in auditing work 
+that things are getting by that should not,'' said Walter Schuetze, 
+chief accountant in the SEC's enforcement division. ``Sometimes it's 
+impossible to believe that an audit was really done.'' 
+</TEXT>
+</DOC>

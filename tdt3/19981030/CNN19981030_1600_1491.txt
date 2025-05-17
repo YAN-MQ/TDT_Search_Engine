@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981030.1600.1491 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Aerosmith has donated $10,000 to the Massachusetts general hospital 
+burn program. The band is expressing its gratitude to the doctors 
+that treated drummer joey kramer after he was burned in an accident 
+last month. Kramer has recovered, and Aerosmith has returned to its 
+appropriately named "Nine lives" tour. This is Dennis Michael with 
+the "Hollywood Minute." 
+</TEXT>
+</DOC>

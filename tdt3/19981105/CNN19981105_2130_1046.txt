@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981105.2130.1046 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Have you ever wondered how cities spend all those hotel and car-rental 
+taxes you pay? According to the travel industry association of America, 
+the taxes are used for everything from sports venues to police and 
+educational services. T.I.A. found only 36% of hotel taxes are funneled 
+back into tourism projects, such as convention facilities and visitors 
+bureaus. 
+</TEXT>
+</DOC>

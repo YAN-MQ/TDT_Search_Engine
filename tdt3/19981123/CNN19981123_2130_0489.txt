@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981123.2130.0489 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And lawyers for the federal trade commission say they will file a 
+motion to dismiss the government's case against R.J. Reynolds tobacco 
+and its Joe camel advertising campaign. They say the tobacco settlement 
+satisfies the objectives the FTC had in bringing the case. The settlement 
+will prohibit cartoon characters in advertising, characters the government 
+says appeal to minors. 
+</TEXT>
+</DOC>

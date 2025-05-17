@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981125.2130.0916 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jack Kevorkian is free on $750,000 bond. He was arraigned today on 
+a charge of first-degree murder for the death of a man he says he 
+helped commit suicide. 
+</TEXT>
+</DOC>

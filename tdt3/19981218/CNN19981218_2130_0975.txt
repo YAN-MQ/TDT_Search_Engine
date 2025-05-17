@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981218.2130.0975 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+FedEx and the union representing its pilots have reached a tentative 
+agreement. The contract calls for a 17% pay increase over five years 
+for the 3,500 fedEx pilots. If ratified by the FedEx pilots association 
+and its members, the agreement will give the pilots more control over 
+their working schedules. The pilots threatened to strike last month 
+due to a pay dispute that began in July. 
+</TEXT>
+</DOC>

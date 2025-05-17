@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> CNN19981104.0130.0428 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wednesday, the "discovery" crew will use a 50-foot robot arm to maneuver 
+the Spartan satellite around the shuttle cargo bay relying solely 
+on remote camera views. They retrieved the satellite from space Tuesday. 
+Tony Clark reports. Houston, we have Spartan in sight. It's one degree 
+left, and one degree low. "discovery" maneuvered back to the 3,000 
+pound solar imaging satellite and, carefully, astronaut Steve Robinson 
+inched the shuttle's 50-foot-long robot arm toward the satellite and 
+locked on to it. Got a good grapple of Spartan. Copy that. Great job, 
+Steve. For two days, the satellite downlinked images as part of its 
+study of solar winds and the sun's corona. Go for 31 bravo at your 
+discretion. In a precise maneuver, the satellite was lowered into 
+"Discovery's" payload bay. The satellite has additional solar data 
+recorded onboard, which can be retrieved once the satellite is back 
+on earth. Congratulations and great job on a successful Spartan rendezvous 
+and retrieval and great job on the manual phase. The prop officer 
+has a smile on her face. Great, Mike. Thanks a lot. While the Spartan 
+retrieval was the high point of shuttle activities Tuesday, the astronauts 
+also worked on experiments using oyster toadfish to study the effects 
+of microgravity on astronaut's balance systems, and tests of microencapsulation 
+for tumor-fighting drugs. The crew will continue to run experiments 
+through Friday with the shuttle scheduled to land midday on Saturday. 
+Tony Clark, CNN, Johnson space center. 
+</TEXT>
+</DOC>

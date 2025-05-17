@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981120.1600.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the ethics adviser to independent counsel Ken starr has resigned. 
+Sam dash says Starr overstepped his role by testifying before the 
+house judiciary committee at the impeachment inquiry of President 
+Clinton. 
+</TEXT>
+</DOC>

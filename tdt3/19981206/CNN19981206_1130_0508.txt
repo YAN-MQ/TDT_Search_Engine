@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981206.1130.0508 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended national weather forecast is next. And in a moment, robot 
+cranes are taking dangerous jobs out of the hands of people. 
+</TEXT>
+</DOC>

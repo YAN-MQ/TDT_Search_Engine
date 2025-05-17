@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981029.1130.0286 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The report on south Africa's era of apartheid is out today. The 3,500-page 
+document is the product of two years of testimony from thousands of 
+witnesses before the country's truth and reconciliation commission. 
+The report was formally presented to south African President Nelson 
+Mandela by retired anglican archbishop Desmond Tutu, who heads the 
+commission. It contains more than just accounts of findings against 
+perpetrators. It seeks to give as complete a picture of the Gross 
+human rights violations that occurred as result of conflict of the 
+past. It provides a setting against which to understand our past. 
+It gives an insight into perspectives of those who supported apartheid 
+and those who opposed it. It makes comprehensive recommendations about 
+rehabilitation and reparation proposals. The truth and reconciliation 
+commission was established in 1995, a year after all-race elections 
+ended apartheid. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981110.1130.0384 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+a bipartisan group of health experts is calling for the expansion 
+of so-called "drug courts." first used in dade county, florida, the 
+courts allow nonviolent drug offenders to go into rehabilitation rather 
+than serve time. a new study shows they can help reduce drug use and 
+criminal behavior. the white house wants to triple the number of drug 
+courts, which now total about 300 nationwide. 
+</TEXT>
+</DOC>

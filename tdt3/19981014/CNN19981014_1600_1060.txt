@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981014.1600.1060 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Ford motor says profits powered ahead 10% to $1 billion in the third 
+quarter. Lower costs helped offset a sales drop in Latin America and 
+Europe. 
+</TEXT>
+</DOC>

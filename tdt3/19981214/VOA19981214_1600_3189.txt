@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981214.1600.3189 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And finally, Hughes Electronics Corporation, a unit of General Motors, 
+has agreed to buy United States Satellite Broadcasting Company, USSB, 
+for about $1.3 billion. Bloomberg Business News reports that Hughes 
+will combine its direct TV satellite broadcasting business with USSB. 
+The deal still requires approval by the U.S. Federal Communications 
+Commission. 
+</TEXT>
+</DOC>

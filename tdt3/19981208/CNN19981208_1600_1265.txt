@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981208.1600.1265 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Matt Yallof, "CNN Headline Sports." For the first time in NBA history, 
+the all-star game has been canceled. Commissioner David Stern made 
+the announcement today. He apologized to the city of Philadelphia, 
+which was to host the event on february 14th, and promised to bring 
+the all-star game to Philly as soon as possible. The midseason event 
+wiped off the calendar. There are no new talks between the two sides 
+scheduled any time soon. 
+</TEXT>
+</DOC>

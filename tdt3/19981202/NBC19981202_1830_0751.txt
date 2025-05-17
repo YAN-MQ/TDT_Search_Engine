@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981202.1830.0751 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The news of the layoffs at Boeing knocked more than seven points off 
+the company's stock, and it set the stage for a drop in the Dow Jones 
+industrial average, which closed down 69 points. The NASDAQ lost more 
+than eight points. 
+</TEXT>
+</DOC>

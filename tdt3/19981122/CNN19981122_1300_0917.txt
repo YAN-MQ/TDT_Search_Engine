@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981122.1300.0917 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And at least six people died today in Jakarta, as religious riots 
+hit indonesia. 
+</TEXT>
+</DOC>

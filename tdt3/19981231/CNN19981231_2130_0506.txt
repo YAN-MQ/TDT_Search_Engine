@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981231.2130.0506 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for Friday, the first day of 1999. A strong storm will develop 
+through the southern plain states with a Secondary low pressure center 
+over the northern plains, so we'll see snow across much of the central 
+U.S. changing to rain in the lower Mississippi river valley. Snow 
+showers will move from the Great Lakes across New England overnight. 
+And we'll see some rain or snow in the northwest as well. High temperatures 
+on Friday will still be mild in the southwest, but they will be subzero 
+or single numbers in the upper midwest and northern sections of New 
+England, and feel even colder than that if you take wind chills into 
+account. Looking ahead to Saturday, look for heavy snow, ice, and 
+rain across much of the country from the Great Lakes to the gulf coast 
+with cold temperatures. On Sunday, those temperatures drop even farther 
+southward as our mix of rain and snow moves into New England. For 
+Monday, snow showers northeast, rain and snow showers northwest, and 
+still pretty cold, except for the southwest. Don't forget, four-day 
+forecasts for more than 7,200 cities at CNN.com. 
+</TEXT>
+</DOC>

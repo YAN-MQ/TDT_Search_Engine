@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981110.2130.0229 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal emergency management agency is trying to cut expenses 
+in its flood insurance program. Property losses from floods have gone 
+up to an estimated $4 billion a year. FEMA plans to deny flood insurance 
+to owners of high-risk buildings who refuse to either elevate them 
+or accept a buyout. We must all ask ourselves, should we be rebuilding 
+roads and infrastructure where we know they will be destroyed again? 
+By rebuilding this infrastructure are we putting people back in harm's 
+way? FEMA says if approved by Congress, the new plan will save nearly 
+$1 billion over the next ten years. 
+</TEXT>
+</DOC>

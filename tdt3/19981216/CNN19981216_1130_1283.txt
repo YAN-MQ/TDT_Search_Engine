@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981216.1130.1283 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Matt Yallof, "CNN Headline Sports." Despite an abundance of miscalls 
+in recent weeks, many of which would have been reversed upon further 
+review, the eight-member NFL competition committee decided not to 
+implement instant replays for this year's playoffs. Cowboys owner 
+Jerry Jones was the only member to vote in favor of a replay system 
+for this postseason. 
+</TEXT>
+</DOC>

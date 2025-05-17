@@ -1,0 +1,91 @@
+<DOC>
+<DOCNO> NYT19981127.0335 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Federal Aviation Administration is about to begin replacing the 
+mainframe computers that have been the workhorses of its 20 long-distance 
+air traffic control centers for high-altitude aircraft, installing 
+newer, more reliable models. And it is starting in New York. The new 
+computers _ the IBM model G-3 _ will replace another IBM model, the 
+3083, that was installed from 1986 to 1988 but is now obsolete and 
+troublesome. FAA officials said the new computers would be free of 
+the year 2000 flaw. Like the current computers, the replacements will 
+label each airplane on a controller's screen and show its position, 
+drawing this information from distant radars and the airplanes' own 
+flight plans. But agency officials and the technicians who maintain 
+the computers disagree on certain aspects of the planned switchover. 
+Leaders of the technicians' union, the Professional Airways System 
+Specialists, say FAA is rushing the new system into place with a ``jury-rigged'' 
+alarm feature that could allow the computer to fail without notice, 
+for example, if the system lost track of an airplane. The technicians 
+are complaining that the FAA is not buying the underlying computer 
+code from IBM; doing so would have allowed them to reconfigure the 
+machines themselves. They also complain that the agency is giving 
+IBM the job of stocking spare parts and providing maintenance, at 
+least initially. This decision, they say, means that the agency will 
+not be able to repair or make changes in the new machines when IBM 
+decides to stop supporting them, just as has happened with the current 
+computers. The new computers are scheduled to be switched on in all 
+20 Air Route Traffic Control Centers by September 1999. The first 
+pair of the new computers are scheduled to go into service briefly 
+on Dec. 12 at the center in Ronkonkoma, N.Y., adjacent to MacArthur 
+Airport in Suffolk County. If all goes well, the system will be tried 
+out again the following weekend, and then turned on full-time in January. 
+The Ronkonkoma center, on Long Island, is the most complex in the 
+country because it has a high volume of traffic in a relatively small 
+area. The FAA has tried before to replace its aging air traffic control 
+computers, but real modernization requires rewriting its one-of-a-kind 
+software, and the agency has not been able to do this. The old IBM 
+3083s, for example, are mainframe units that were once widely used 
+by businesses. Except for the FAA, officials believe, the model is 
+no longer used anywhere else in the world. The 3083s have broken down 
+intermittently around the country, forcing controllers to spread planes 
+more widely, and causing delays that have rippled through the system. 
+Last year, IBM refused to certify that the 3083s would cope with the 
+rollover of dates from 1999 to 2000, saying it could not fix them 
+because it had no one who still understood the model's computer code. 
+The FAA's solution was to hire retired programmers who were familiar 
+with the 3083 to solve the problem. But that was a temporary solution, 
+at best, because experts said that one part of the computer that burns 
+out and requires regular replacement is no longer manufactured. ``They 
+lost the recipe,'' said Peter Challan, director of air traffic systems 
+at the FAA. The part is identified only as a CLVM. Neither FAA officials 
+nor IBM officials can remember what this designation stands for. Challan 
+said the part has a large, perfectly flat plate that is used to draw 
+excess heat out of the computer, but which tends to be damaged by 
+heat over long periods. Each air traffic control center has a pair 
+of computers, one of them a backup, that together generate 120,000 
+Btu an hour, as much as some home heating systems. A recent report 
+by the General Accounting Office, an investigative arm of Congress, 
+said that only about two dozen spares remained. But the newer machines, 
+the G-3's, are no longer in production either, having been replaced 
+by IBM's current model, the G-5. Challan said his agency preferred 
+the G-3's because they have a long track record and have been thoroughly 
+studied. The FAA has a contract that insures that outside contractors 
+will provide support for the G-3 through 2008, officials said. Challan 
+said about 1,000 G-3 models are still in use. One point of contention 
+between FAA officials and technicians over the replacement computers 
+has been the alarm system. When something goes wrong with a 3083, 
+causing the system, for example, to lose track of a plane, it sounds 
+an audible alarm, like a klaxon horn, according to Michael Fanfalone, 
+president of the technicians' union. A technician has to push a button 
+to turn the horn off. The initial plan for the G-3's was a message 
+that would pop up on the screen, like an error message on a computer 
+screen. But at the centers, the technician on duty might be performing 
+tasks away from the screen, the union complained. Lockheed Martin, 
+the company that is handling the changeover to the new computers, 
+changed the programming so that if the computer's diagnostic programs 
+find a problem, they will dial a telephone number at the traffic control 
+centers. But Fanfalone said that that system, too, is inadequate. 
+``It's like a hotel wake-up call,'' he said, except that when a technician 
+answers, there is nothing on the other end of the line. He said someone 
+walking through might pick up the phone, hear no one and hang it up, 
+eliminating the alarm, or the phone might ring because someone had 
+mistakenly dialed the number. Challan, however, said that the areas 
+where the phones were located were accessible only to authorized people, 
+and that everyone would be trained on what the ringing of the phone 
+would mean. An old-fashioned alarm will be installed in a software 
+change in February, he said. 
+</TEXT>
+</DOC>

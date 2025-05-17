@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981106.1130.1010 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The grocery chain Safeway will replace Chrysler on the S&P 500 index 
+next week. Germany's Daimler-Benz is acquiring Chrysler. 
+</TEXT>
+</DOC>

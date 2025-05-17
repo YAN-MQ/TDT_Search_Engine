@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981012.2130.1327 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Monday night football features a battle of Florida. Jacksonville looking 
+to stay unbeaten on the season. 
+</TEXT>
+</DOC>

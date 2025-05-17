@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981125.2130.0906 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a check of our top stories -- a record number of Americans 
+are expected to be traveling this Thanksgiving weekend. Aaa predicts 
+34 million people will be on the move. 
+</TEXT>
+</DOC>

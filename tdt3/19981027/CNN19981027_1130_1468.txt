@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981027.1130.1468 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's enough to make even the most jaded rush hour drivers gawk -- 
+an airplane landing on the freeway. That's what happened yesterday 
+in Los Angeles shortly before 5:00 P.M., backing up traffic for miles. 
+A Cessna 152 ran out of fuel and had to make an emergency landing. 
+It was the first solo flight for the pilot. He says the feat is nothing 
+to be proud of, but he's glad he landed safely. 
+</TEXT>
+</DOC>

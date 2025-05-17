@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981021.0600.2912 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In Tokyo, the benchmark Nikkei stock index paced other Asian markets 
+rising above 14,000 for the first time in a month, closing up 408 
+points, about 3 percent, to 14,216. The stock market is reacting to 
+news Industrial Bank of Japan will be the first lender to say it will 
+apply for public assistance under a government banking-sector rescue 
+plan. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981126.1600.0427 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The death toll is climbing following a collision between two trains 
+this morning in India. 7 people were killed and 250 others injured 
+after seven cars from one train jumped the tracks. Another train on 
+a parallel track slammed into the derailed cars. 1,700 passengers 
+were on both trains. It's India's worst train crash in the past three 
+years. 
+</TEXT>
+</DOC>

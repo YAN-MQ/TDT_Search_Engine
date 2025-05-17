@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981203.0130.0253 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Imagine Summers where the sun never sets and winters with continual 
+darkness. Currently, those conditions exist only in the northern and 
+southern polar regions of earth. But scientists at Penn state University 
+say it may have been very different 600 million years ago. They theorize 
+the earth's axis was tilted at a 55-degree angle to the sun, much 
+more severe than the current 23.5 degrees. That would have made the 
+tropics cold enough for glaciers to form. The researchers theorize 
+a buildup and melting of the glaciers may have caused earth's axis 
+to shift to its current position. 
+</TEXT>
+</DOC>

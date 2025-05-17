@@ -1,0 +1,68 @@
+<DOC>
+<DOCNO> NYT19981106.0169 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+It has all the makings of an investing whodunit. The so-called January 
+effect _ the tendency of small-capitalization stocks to thrash their 
+large-cap siblings in the first month of the year _ has occurred with 
+such regularity over the last century that even hard-nosed statisticians 
+are impressed. Indeed, since 1926, small-cap stocks have returned 
+five percentage points more in January, on average, than large-cap 
+stocks. During the other months of the year, large caps have outperformed 
+small caps by a tiny amount. You'd think that by now, researchers 
+would have figured out the exact cause of the January effect. But 
+they haven't. Of course, investors who want to take advantage of the 
+phenomenon might think its explanation is irrelevant. Why not just 
+buy small caps on Dec. 31, sell them on Jan. 31 and be done with it? 
+Can't the philosophical debate be left to the ivory tower? Well, no. 
+The effect has become so accepted that unless there is some strong, 
+specific force that confines it to the first month of the year, the 
+effect should start occurring earlier and earlier _ before the new 
+year even begins. That's because investors would start buying small 
+caps sooner, to beat others to the inevitable climb in prices. Over 
+time, the January effect would become the December effect, then the 
+November effect. Eventually, it would disappear. Until recently, perhaps 
+the most plausible explanation of the January effect was the fact 
+that many investors sell stocks to lock in losses for tax purposes 
+as the year winds to a close. Such moves, the explanation goes, put 
+intense downward pressure on the relatively illiquid small-cap stocks, 
+setting up the conditions for a January rebound. But two economists 
+at the Federal Reserve Bank of Atlanta, Lucy Ackert and George Athanassakos, 
+recently wrote a working paper that rejected this hypothesis. They 
+discovered that the January effect was a combination of two separate 
+seasonal patterns: small-cap strength as well as large-cap weakness. 
+The tax-loss selling theory really can't explain the latter. However, 
+there is another hypothesis that can explain both patterns. Proposed 
+over 10 years ago by two professors, Josef Lakonishok of the University 
+of Illinois and Robert Haugen of the University of California at Irvine, 
+it focuses on the practice of portfolio hedging. Because most money 
+managers receive performance-related bonuses at year-end, many have 
+an incentive to make their portfolios look increasingly like the Standard 
+&AMP; Poor's 500 as Dec. 31 approaches. A money manager whose portfolio 
+is now outperforming the index, for example, knows that he will receive 
+a good bonus for beating the market _ provided that he can hold on 
+until year-end. So he might aim to lock in his above-market performance 
+by selling small caps and buying the S&AMP;P 500. A manager who is 
+lagging behind the market might do the same thing, but for different 
+reasons. As Dec. 31 nears, his desire to take risks in order to bounce 
+back is outweighed by another desire: to not end the year at the bottom 
+of the rankings. Come Jan. 1, however, the compensation slate of money 
+managers is wiped clean, and they are suddenly free to take risks 
+again. So they might dump many S&AMP;P 500 stocks they bought late 
+in the previous year and replace them with small caps. The likelihood 
+that portfolio hedging is the cause of the January effect is good 
+news for those betting on it. As long as managers continue to receive 
+performance bonuses, the effect is unlikely to either creep into December 
+or to dissipate. But before deciding to make a short-term bet on the 
+January effect by buying a basket of small-cap stocks, investors should 
+remember that the difference between bid and ask prices on such shares 
+is typically high _ often 5 percent or more, versus 0.5 percent or 
+less for large caps. That's a high hurdle for a short-term trade. 
+A better tactic is to buy a futures contract on a small-cap index 
+like the Russell 2000 while shorting a large-cap index like the S&AMP;P 
+500. Aside from offering low commissions, the tactic is attractive 
+because it will make money even in a market decline, as long as small 
+caps don't fall as much as the S&AMP;P 500. 
+</TEXT>
+</DOC>

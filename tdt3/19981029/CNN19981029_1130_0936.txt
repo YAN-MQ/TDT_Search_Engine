@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981029.1130.0936 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories - all systems are go as John Glenn and the 
+"Discovery" crew prepare for today's 2:00 P.M. launch. The event is 
+expected to draw 300,000 people to Kennedy space center. 
+</TEXT>
+</DOC>

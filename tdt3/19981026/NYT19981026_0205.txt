@@ -1,0 +1,127 @@
+<DOC>
+<DOCNO> NYT19981026.0205 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+As anyone who has tried to quit smoking knows, it is much easier to 
+get off an addictive drug than to stay off it. That applies to virtually 
+all addicts and all types of addictions, whether to alcohol, cocaine, 
+heroin, nicotine or amphetamines. Long after the drug is cleared from 
+the body, it retains a powerful hold on the mind, and despite weeks, 
+months or sometimes even years of abstinence, cravings can linger 
+or suddenly make a shattering comeback. The usual, devastating, consequence 
+is relapse. ``Prolonged drug use changes the brain in fundamental 
+and lasting ways,'' said Dr. Alan Leshner, Director of the National 
+Institute on Drug Abuse. Those long-term effects are not well understood, 
+Leshner said, and learning more about them might lead to new treatments 
+that offer lasting help to addicts. Help is certainly needed: The 
+institute estimates that 4 million Americans are drug addicts, including 
+2 to 3 million hooked on cocaine and 800,000 on heroin. Millions more, 
+though not addicted, use illegal drugs, and 14 million are alcoholics. 
+Compared with people who have other mental or physical disorders, 
+addicts have few treatments to choose from. No drug treatment is available 
+for cocaine addiction. Methadone helps some heroin addicts, but by 
+no means all, and two other drugs are useful in only a minority of 
+alcoholics. In recent years, much addiction research has focused on 
+the reinforcing, or pleasure-producing properties of drugs, which 
+have been traced to their ability to flood certain parts of the brain 
+with dopamine, a substance that nerve cells use to communicate with 
+each other. But even though the rise and fall of dopamine can alter 
+brain cells in ways that contribute to craving, researchers do not 
+think those alterations explain all the long-term mental effects of 
+drug abuse. And there has been no payoff in terms of treatment, in 
+part because the dopamine system is so fundamental to so many types 
+of pleasure that tampering with it to treat addiction might take all 
+the joy out of life. As a result, the emphasis in addiction research 
+has begun to shift, to move beyond the dopamine pleasure centers to 
+other systems in the brain. ``We've learned a lot about reinforcement,'' 
+said Dr. Eric J. Nestler, an addiction researcher at Yale University. 
+``But there are other aspects to an addict's life also, having to 
+do with memory and conditioning. Maybe the time is ripe to examine 
+those.'' Some changes in the brains of addicts resemble changes that 
+take place in healthy people when certain types of memories are formed. 
+In some cases, Nestler's research has shown, those changes even include 
+alterations in the functioning of genes. Dr. Alcino Silva, who studies 
+memory at the University of California at Los Angeles, said, ``Addiction 
+may hijack natural systems used for learning and memory.'' Addiction 
+researchers have begun to pay particular attention to ``emotional 
+memories,'' which, as the name suggests, are the mental records of 
+events that aroused intense emotions, either wonderful or terrible. 
+``Emotional memories are very powerful, and they're the ones that 
+remain with you the longest,'' said Dr. Jonathan Pollock, a program 
+officer at the institute. ``You remember where you were when Kennedy 
+was assassinated or the Challenger disaster happened. You remember 
+very pleasurable events in your life, like your wedding or the first 
+time you got an A in school.'' The intensity of the moment helps to 
+burn emotional memories into brain circuits. The memories are encoded 
+into a part of the brain that operates outside conscious control, 
+and they seem to take on a life of their own, sometimes intruding 
+on the mind when they are not wanted. When emotional memories are 
+reactivated, touched off perhaps by a smell, a taste, a snatch of 
+music, the sight of an old friend or some other signal that a person 
+might not even be consciously aware of, they can evoke the same powerful 
+emotions that helped form them. Many addiction researchers believe 
+memories of being high on drugs fall into this category of emotional 
+memories, and contribute to craving, compulsion and relapse. Although 
+a relapse can occur for no apparent reason, many addicts say that 
+cravings are brought on by cues or reminders of past drug use, like 
+seeing a needle or crack pipe or visiting a place where they used 
+to get high. Stress can also rekindle cravings. So, in many people, 
+can just one hit of an addicting drug, even after a long abstinence. 
+The obsessive thoughts that follow, Leshner said, are ``the very definition 
+of an emotional memory.'' Last month, Pollock invited 15 researchers 
+to the National Institutes of Health in Bethesda, Md., to discuss 
+the possible role of emotional memory in addiction. He said it was 
+the first time that experts on addiction and experts on memory had 
+been brought together, and at the start of the meeting Leshner gave 
+the scientists a firm agenda: ``What I'm worried about is compulsion. 
+I only care about compulsion.'' Much of the interest in emotional 
+memory stems from studies by Dr. Joseph LeDoux, a researcher at New 
+York University. Working with rats that have been trained by means 
+of electrical shocks to fear a certain sound _ a response that qualifies 
+as an emotional memory _ he has found that emotional memories are 
+formed in the amygdala, an almond-shaped structure deep within the 
+brain. The job of the amygdala, LeDoux said, is to react instantly 
+when it detects a danger signal _ the sound, in the case of the rats 
+_ sending out messages that prepare the body for fight or flight and 
+that create a state of fear. The human amygdala works in much the 
+same way. It reacts in a few thousandths of a second, independent 
+of the cortex of the brain, which means that people may respond to 
+cues that they are not consciously aware of. Although LeDoux has worked 
+mainly on fear, that is not all the amygdala mediates. It includes 
+13 areas, called nuclei, only two of which are known to be involved 
+in fear. The other areas may process other types of emotional memory. 
+``The amygdala is showing up in a lot of addiction studies,'' LeDoux 
+said. When addicts who say they are in the throes of a craving are 
+given brain scans, the images suggest that the amygdala is involved, 
+according to studies by Dr. Hans Breiter, of the Massachusetts General 
+Hospital, and Dr. Annarose Childress, of the University of Pennsylvania 
+in Philadelphia. Other researchers, working with animals, have also 
+found that the amygdala is important in responding to cues associated 
+with rewards like cocaine and food. Dr. Barry Everitt, a psychology 
+professor at the University of Cambridge in England, said that an 
+``amazing property'' of stimulant drugs like cocaine and amphetamines 
+is that they stimulate exceptionally powerful responses to cues that 
+have been associated with them. ``They amplify the control of behavior 
+by environmental events,'' Everitt said. Dr. Michaela Gallagher, of 
+the Johns Hopkins University in Baltimore, suggested that drug abuse 
+may also affect the cortex of the brain, inhibiting a region that 
+would normally help keep the amygdala in check. That, she said, might 
+make the amygdala extra responsive to all sorts of environmental cues, 
+including those associated with drugs. Other factors may also give 
+cues more power to evoke emotional memories, according to research 
+by Dr. Jane Stewart, of Concordia University in Montreal. One is stress, 
+which increases levels in the brain of a hormone called CRF, or corticotropin 
+releasing factor, that may act on the amygdala. ``Dr. Stewart and 
+her colleagues are showing that CRF, released during stress, causes 
+anxiety,'' Leshner said. ``Maybe CRF released during abstinence exaggerates 
+anxiety in addicts. We're going to look at things that block CRF, 
+to see if that will help. We haven't tried it in humans yet, but it 
+has been done in animals. It looks good to me, and we're in negotiations 
+with a pharmaceutical company about it, and we'll run clinical trials.'' 
+Ultimately, Leshner said, he expected that treatment of addiction 
+would combine behavioral therapy and drugs that combat craving and 
+compulsion. Addicts may not be able to control their cravings, but 
+therapy may teach them to control the way they respond to them. 
+</TEXT>
+</DOC>

@@ -1,0 +1,79 @@
+<DOC>
+<DOCNO> NYT19981111.0291 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+I have a very promiscuous computer. In the seven months since I bought 
+my Micron Millenia, I have introduced it to no fewer than 100 new 
+software programs _ including about three dozen shareware applications 
+_ and nearly a dozen hardware gadgets. Electronic books, printers, 
+digital cameras: if someone invented a computerized toothbrush, I'd 
+probably try to hook that up, too. Or I would have, until the other 
+day, when my computer let me know that it had had enough. At first, 
+its message was subtle: it crashed. I rebooted. Crash. I rebooted. 
+That time, everything seemed fine _ until I clicked on the My Computer 
+icon on the desktop. Then it crashed again. ``This is odd,'' I said 
+to my husband in the same unconcerned tone I use when the cats have 
+deposited yet another decapitated mouse on the living-room rug. ``Do 
+you think I should uninstall the beta version of that new printer 
+driver?'' ``Or maybe the computer doesn't like that home-networking 
+card I put inside it,'' my husband replied in the same reasonable 
+tone he uses to inform me that he plans to scoop up mouse organs with 
+a dustpan. ``I'll just take it out.'' A half-hour later, the printer 
+software had been removed, the home network was history, and I was 
+rebooting my computer. Smugly, I thought to myself, there, that wasn't 
+so bad. This, of course, is what armchair psychiatrists like to refer 
+to as a classic response. When the familiar Windows desktop filled 
+my screen and I clicked on My Computer, the computer froze. My husband 
+and I looked at each other and tried not to speak. I was dying to 
+blame him for his home-networking card and he was dying to blame me 
+for infecting my machine with a buggy, throw-a-pie-in-Bill-Gates'-face 
+freeware screen saver. Blaming someone else for your own problems 
+is another classic response. So my husband said bravely, ``If you 
+watch the baby for the next few minutes, I'll phone Micron tech support 
+and ask them if they've ever heard of this problem before.'' An hour 
+and a half later, he called down the stairs, ``Do you know where the 
+Windows boot disk is?'' That, I admit, is the first moment that reality 
+hit: we were in a state of techno-despair. My computer was fried. 
+So much junk had been added to and removed from it over the months 
+that there was no telling what caused the problem. It could have been 
+a flawed driver, a device conflict or a turf war between the computer 
+and the printer. Micron's tech support staff had recommended a clean 
+installation of the Windows 98 operating system. I also recognized, 
+belatedly, that I had ignored the early symptoms. First, you notice 
+a problem, like the fact that the My Computer icon doesn't snap to 
+attention when you address it. Next, you kid yourself. Oh, this will 
+only take a minute to fix. An hour later, you're invested. It's similar 
+to the same phenomenon that overtakes bidders at the antiques auctions 
+that I attend every few months at the American Legion Hall in Huntington, 
+N.Y., where I live. If bidders knew they would have to cough up $1,000 
+for a rickety table, they would never raise their paddles in the first 
+place. But they get swept up gradually, their bids growing. Then they 
+get invested in the process _ and whip out their checkbooks. ``Let's 
+just buy another computer,'' I said, which, as my husband well knew, 
+was code for ``Could you fix it for me?'' Then I took the baby downstairs. 
+An hour and a half later, my husband had reinstalled the operating 
+system, following some complicated instructions from the Micron tech 
+support staff that he will not be able to remember in the event that 
+he ever has to do it again. A half-hour after that, he had found the 
+necessary modem driver on the U.S. Robotics site in a remote spot 
+he will not be able to find in the event he ever has to do that again. 
+An hour later, we had located _ after hunting behind the desk and 
+under the rug and in the crawlspace behind our office _ the disks 
+necessary to reinstall the Eudora e-mail program, Microsoft Word and 
+all my online services' software. An hour later, I had tweaked my 
+desktop settings, recreated all the shortcuts to open my favorite 
+programs and amazingly found my Winzip shareware program still lurking 
+on my hard drive. After more than six hours FROM TIME OF FIRST CRASH, 
+my computer was back (more or less). The moral seems to be this: if 
+you love only what you can do with computers, you don't really love 
+computers. To really love them, you have to love the process of computers. 
+Fortunately, my husband has learned to love process. An old friend 
+of ours _ a former teen-age hacker who spent time in federal prison 
+after messing around with the phone company's equipment _ once confided 
+that the thing he loved above all else about computers was that no 
+matter what went wrong, you could always fix it. ``How many other 
+problems can you know for sure you can fix?'' my husband said. He 
+felt justifiably proud. A classic response. e-mail address: Slatalla(AT)nytimes.com 
+</TEXT>
+</DOC>

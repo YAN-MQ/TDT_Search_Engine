@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981215.2130.1296 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jerome Jurenovich, "CNN Headline Sports." By a 7-1 vote, the NFL competition 
+committee has decided not to bring back instant replay for this year's 
+playoffs. The vote has no impact on whether or not replay will return 
+for next season. Six of the eight members actually favor reinstating 
+it next year. 
+</TEXT>
+</DOC>

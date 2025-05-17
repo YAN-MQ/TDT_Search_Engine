@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981105.1600.1142 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Recapping the Dow finishes up 132 points, the NASDAQ up 13. 
+</TEXT>
+</DOC>

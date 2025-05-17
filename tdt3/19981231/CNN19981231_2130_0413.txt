@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981231.2130.0413 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers studying schizophrenia reportedly gave healthy people 
+a Powerful hallucinogen without fully informing them the drug could 
+produce psychotic episodes. "The Boston globe" reports the experiments 
+were done at the national institute of mental health in Maryland. 
+They involved the drug ketamine, also known as "special K." The paper 
+says the participants often weren't specifically told the drug would 
+induce conditions similar to schizophrenia. Officials connected with 
+the studies say possible side effects were mentioned on a consent 
+form. 
+</TEXT>
+</DOC>

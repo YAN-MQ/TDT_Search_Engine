@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981020.2130.0049 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Lynne Russell, "Headline News." Sources tell CNN a deal in the mideast 
+peace talks could be finalized tomorrow with a possible signing ceremony 
+in Washington on Thursday. They say President Clinton is now meeting 
+with Palestinian leader Yasser arafat and Israeli prime minister Benjamin 
+Netanyahu to work out final details. Among the reported agreements, 
+Arafat will revoke an anti-Israeli clause from the Palestinian charter 
+and arrest 30 fugitives Israel wants behind bars. 
+</TEXT>
+</DOC>

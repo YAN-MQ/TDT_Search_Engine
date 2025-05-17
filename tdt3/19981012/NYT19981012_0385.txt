@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> NYT19981012.0385 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Clinton administration is asking a full appeals court to overturn 
+an August ruling that gave new rights and consumer protections to 
+six million Medicare beneficiaries in health maintenance organizations. 
+Advocates for the elderly had hailed the earlier ruling, by a three-judge 
+panel of the 9th U.S. Circuit Court of Appeals, in San Francisco, 
+as an important victory. The panel said that decisions by Medicare 
+HMOs amounted to government actions, so that patients denied specific 
+services were entitled to ``due process of law,'' including hearings 
+and other protections. But in seeking to overturn the ruling, the 
+Department of Health and Human Services said on Monday that the government 
+should not be held accountable for the actions of HMOs that sign contracts 
+with Medicare. ``These are predominantly medical decisions that turn 
+on independent professional judgment,'' the Clinton administration 
+said. ``They are not in any way dictated by the federal government.'' 
+For the last two years, President Clinton and Vice President Al Gore 
+have been waging a campaign to promote ``patients' rights.'' In challenging 
+the appeals court decision, the Administration invoked many of the 
+arguments made by HMOs and health insurance companies that oppose 
+new Federal laws, rules and standards. Just as HMOs argue that patients 
+should not be able to sue them for the actions of their doctors, so 
+the administration argues that the government should not be held accountable 
+for the decisions of Medicare HMOs to deny care to the elderly. Just 
+as HMOs try to fend off new Federal regulations as onerous and costly, 
+so the administration opposes court-imposed standards for patients' 
+rights. In its legal brief, the administration complains that the 
+appeals court imposed ``highly detailed, burdensome and, in many instances, 
+wholly unnecessary procedural requirements on HMO decision-making.'' 
+The dispute arises from a class action lawsuit filed in Arizona on 
+behalf of the six million Medicare beneficiaries in HMOs around the 
+country. Judge Alfredo Marquez of the U.S. District Court in Tucson 
+ruled for the patients in October 1996. Health Secretary Donna Shalala, 
+then filed an appeal, saying the judge had usurped her authority and 
+gone further than necessary in protecting patients' rights. In August, 
+a three-judge panel of the appeals court issued a unanimous ruling 
+for the patients and against Shalala. The panel said the decisions 
+of a Medicare HMO amounted to ``government action'' because the HMO 
+was operating as ``a governmental proxy.'' Moreover, it said, Medicare 
+officials have not lived up to their duty to guarantee due process 
+of law, as required by the Fifth Amendment to the Constitution. Shalala 
+said the panel's decision was ``patently incorrect,'' because ``Medicare 
+does not superintend medical decisions concerning the appropriate 
+treatment of a beneficiary.'' She asked the full appeals court to 
+overturn the panel's decision. Shalala complained that the ruling 
+by Judge Marquez would provide Medicare patients with ``the full panoply 
+of hearing and appeal rights for even minor disagreements over reductions 
+or changes in medical treatment.'' In the last year, Clinton has repeatedly 
+urged Congress to pass legislation setting detailed standards for 
+HMOs and other health plans. But in contending that the government 
+should not be held responsible for the performance of Medicare HMOs, 
+the administration said, ``Great care must be taken to avoid inappropriately 
+extending the reach of federal law and judicial power.'' 
+</TEXT>
+</DOC>

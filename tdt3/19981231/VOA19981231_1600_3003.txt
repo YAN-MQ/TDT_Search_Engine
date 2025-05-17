@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981231.1600.3003 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Well, Daimler-Benz, the German-American auto company, says 1999 will 
+be a good but modest year for the auto industry after a record '98. 
+However, the company says it is in good financial position to weather 
+any sales downturn. 
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981014.1600.0512 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"Headline News forecast." Later today, rain becomes snow, as a frontal 
+system pushes past the north central Rockies. We'll also see some 
+rain develop later tonight in the southern Rockies behind two frontal 
+systems. And by Thursday evening, we're going to see very heavy rainfall 
+once again over New England, where they don't need the rain. The east 
+looking pretty nice, however, with high pressure over the carolinas. 
+High temperatures for today, a pocket of 40s in the northern Great 
+Lakes, otherwise, 50s and 60s in the northern half of the country, 
+70s and 80s in the southern half of the U.S. your extended forecast 
+showing heavy rainfall in the northern plains and northern Rockies 
+on Friday, with a good bit of rain over the north and over Texas, 
+and cooler temperatures in the northern Rockies, which will continue 
+into Saturday with highs only in the 40s. On Saturday, a good bit 
+of rain throughout the entire central U.S., with some showers in the 
+northwest. And then on Sunday, just isolated showers in the northwest, 
+rain in the Great Lakes region and over Texas. 
+</TEXT>
+</DOC>

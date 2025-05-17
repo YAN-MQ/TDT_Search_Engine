@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981105.0130.0451 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA is keeping a close eye on Mitch, but says it doesn't think there 
+will be a problem with Saturday's scheduled shuttle landing in Florida. 
+Meanwhile, the astronauts, including senator John Glenn, got a chance 
+to try out some new jokes with Jay leno Wednesday. Does senator Glenn 
+keep telling you how tough it was in the old days? How cramped it 
+was, how small it was? How lucky you young punks are? Well, Jay, actually, 
+no. He doesn't always do that. Only when he's awake. The crew is doing 
+some serious work too. It has been conducting experiments with oyster 
+toadfish you see one there. This will determine how microgravity might 
+affect an astronaut's sense of balance. 
+</TEXT>
+</DOC>

@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NBC19981018.1830.0645 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A court case which will echo into the new millennium begins tomorrow 
+in washington. Microsoft, the computer software giant, is accused 
+of violating federal antitrust laws. NBC's Mike Boettcher examines 
+the issues. Bill Gates won't be in court himself tomorrow, but in 
+recent days he's been traveling the country conducting a vigorous 
+defense, contending that his company broke no federal antitrust laws. 
+Are we allowed to put that kind of feature into the operating system? 
+We're very confident that that kind of innovation is a great thing. 
+The suit alleges Microsoft strong arms computer manufacturers to install 
+its popular windows software, giving consumers little choice but to 
+use other Microsoft products, such as its Internet browser. The government 
+will allege, for example, that a Microsoft executive threatened to 
+"cut off" a rival companies air supply. "Everything they're selling, 
+we're going to give away for free." The government quotes the executive 
+as saying. Last March Microsoft competitors testified before Congress 
+about what they see as predatory practices. They have been so successful 
+beyond their wildest dreams that they have now created an absolute 
+choke point on the way people can get products to customers which 
+eliminates choice. But Microsoft rejects the government's case, calling 
+itself an innovator, not an eliminator of competition. This case is 
+all about the right of Microsoft and other companies in this industry 
+to listen to customers, make modifications in their product that they 
+believe are in the -- for the good of their customer and see what 
+happens in the marketplace. The Microsoft case is the biggest antitrust 
+suit since the government took on the communications behemoth AT&T 
+in 1974, leading to the breakup of the telephone monopoly. Legal experts 
+say this case is equally significant. Because it's so central to such 
+a critical industry in such a crucial part of our economy. And no 
+matter how this trial ends, this case, which will help shape the rules 
+for high-tech commerce in the future, will almost certainly go all 
+the way to the Supreme Court. Mike Boettcher, NBC news, Los Angeles. 
+NBC news has a joint Venture with Microsoft MSNBC, on cable and on 
+the internet. 
+</TEXT>
+</DOC>

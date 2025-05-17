@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981112.1600.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A friend of Linda Tripp has wrapped up testimony before a Maryland 
+grand jury investigating the secret taping of Monica Lewinsky. When 
+lucianne Goldberg entered the court today, she said she would also 
+turn over copies of phone conversations in her possession. 
+</TEXT>
+</DOC>

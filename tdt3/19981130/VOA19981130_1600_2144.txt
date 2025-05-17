@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> VOA19981130.1600.2144 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And that's the latest. I'm Robert Burns, VOA News. This is Tony Riggs. 
+</TEXT>
+</DOC>

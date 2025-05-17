@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981227.1130.0072 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+As the long Christmas weekend comes to a close, a busy travel week 
+is about to begin. Thousands of holiday travelers are expected to 
+head back home today. Aaa reports about 45 million people traveled 
+during the holidays, either by car, bus, train or by plane. So expect 
+airports, railway stations and highways to be crowded. Another busy 
+travel weekend is expected next Sunday. About 2 million more travelers 
+are expected to return home after wrapping up their new year's celebrations. 
+</TEXT>
+</DOC>

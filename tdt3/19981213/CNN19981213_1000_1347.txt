@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981213.1000.1347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Bobby holik drilled two third period goals, including the game winner 
+as New Jersey rallied to beat Colorado, 5-3. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981124.1600.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A consumer advocacy group is warning the public about dangerous toys, 
+this holiday season. Balloons are described as the worst, because 
+of their severe choking hazard. Also on the list, soft plastic toys 
+made of dangerous materials. 
+</TEXT>
+</DOC>

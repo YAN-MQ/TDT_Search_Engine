@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> CNN19981128.1300.0979 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If you're juggling meetings and memos and projects and feel like you 
+need an extra brain, there's good news. Technology can give you one, 
+sort of. Tony Guida explains. The palm pilot. It's as small as your 
+hand and, in some ways, way ahead of your brain. Well, I have like 
+900 people in here that I call every day. And I have 120 or so documents 
+that I'm working on. Retailing for $370, the palm 3 is the market 
+leader in the latest, greatest gadget category -- the handheld computer, 
+also known as a "Pda," or personal digital assistant. The devices 
+that you see today are finally easy to use. Used to be, the devices 
+we saw a couple of years ago were really science projects or smart 
+calculators, or they were really only used by the nerds, who were 
+willing to take the time and energy to learn how to make these things 
+run. Most palm pilotors, though, learn an easy, shorthand language 
+based on handwriting, making the pilot best for simple, not complex, 
+work. If I'm going to write a document, I don't want a keyboard that's 
+this big, you know. I might as well use my real keyboard, right? He's 
+taking a swipe at handhelds with small keyboards and more memory and 
+power, like this $550 psyion series 5 or this $1,000 hewlett-Packard 
+660 LX, which runs windows ce, an operating system more like that 
+on your desktop. But all handhelds have limitations. The downsides 
+are it's a little harder to check your E-mail, for example. Still, 
+handhelds weigh less than three pounds, with batteries that can last 
+30 hours. That's "your money." Tony Guida, "CNN Financial News," New 
+York. 
+</TEXT>
+</DOC>

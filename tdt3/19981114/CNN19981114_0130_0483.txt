@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981114.0130.0483 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More rain is causing more worries for people in southeast Texas. Residents 
+along the San Jacinto river and creeks flowing into it are being asked 
+to leave their homes. Eight inches of rain fell overnight. Some houses 
+have as much as three feet of water in them. It's the second round 
+of flooding in recent weeks. No injuries or deaths are reported. 
+</TEXT>
+</DOC>

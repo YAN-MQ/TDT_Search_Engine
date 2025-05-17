@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981211.2130.0462 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now the extended weather forecast. And still ahead -- NASA launches 
+another mission to the red planet. 
+</TEXT>
+</DOC>

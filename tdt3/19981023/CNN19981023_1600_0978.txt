@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981023.1600.0978 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow industrials snap a big winning streak. Beverly Schuch has 
+the closing market numbers from New York. bev? After seven winning 
+days for the Dow industrials, it was time for a break. The blue chips 
+spent all of the day firmly in Negative territory. Investors locked 
+in profits from the 600-point gain of the seven previous sessions. 
+For the week the Dow gained 35 points. The broader markets also drifted 
+lower, with the NASDAQ composite losing -- eight points. One analyst 
+said investors should take today's sell-off in stride. The amount 
+of cash available for investing is huge. And there is a lot of money 
+sitting out there on the sidelines right now in money market funds 
+that will find its way into stocks. And maybe not right in the short 
+term, but it will find its way back into the market. 
+</TEXT>
+</DOC>

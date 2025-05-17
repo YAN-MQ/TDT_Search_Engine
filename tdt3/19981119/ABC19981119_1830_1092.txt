@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981119.1830.1092 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Still "on the money" tonight -- the building boom. Construction of 
+new homes increased at the fastest rate in more than a year last month, 
+up 7.3%. 
+</TEXT>
+</DOC>

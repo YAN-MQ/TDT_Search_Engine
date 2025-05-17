@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981204.1600.0080 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Layoffs at Boeing started today in Washington state with the first 
+few hundred furloughed employees getting their pink slips. They're 
+among 1,100 workers who received notices in October. Boeing says it 
+will eliminate 48,000 jobs over the next two years. 
+</TEXT>
+</DOC>

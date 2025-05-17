@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0548 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Russian President Boris Yeltsin made his first public appearance today 
+since a two-week vacation. He met with visiting Japanese prime minister 
+but will not attend a state banquet in his honor. Yeltsin has been 
+recovering from fatigue and high blood pressure. 
+</TEXT>
+</DOC>

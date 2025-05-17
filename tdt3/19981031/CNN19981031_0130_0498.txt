@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981031.0130.0498 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen McGinnis. 
+Still holding on to very nice weather conditions in the southeast. 
+However, the biggest storm system to talk about over the weekend will 
+be the one moving out of the four corners and into the central and 
+south central United States. Even along the border between Kansas 
+and Colorado, look for some snowfall, and thunderstorms may erupt 
+along the frontal boundary. New York City, marathon day on Sunday, 
+looks very nice in the morning hours. Clear and coolish. Another weather 
+system moves on shore for the pacific northwest where by the afternoon 
+hours, temperatures only in the 50s. 40s and some 30s extending all 
+the way from the prairie provinces and into the central plains. A 
+breezy weather day across the Hawaiian islands. And some afternoon 
+showers forecast into the Caribbean. In the extended forecast, temperatures 
+in the 40s wrapped around the Great Lakes. But still, 70s and 80s 
+into the southeast. On Monday, those thunderstorms begin to encroach 
+on the pleasant weather condition in the east. By Tuesday, the coldest 
+readings we've seen stretch across Hudson bay and the Great Lakes. 
+More weather information can be found at CNN.com. 
+</TEXT>
+</DOC>

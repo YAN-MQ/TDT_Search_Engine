@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981203.1130.0959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+European central bankers make a bold move to energize their economies. 
+I'm Myron Kandel at the "CNN Financial News" in New York with this 
+edition of "Dollars & Sense." France and Germany led ten nags in a 
+coordinated interest rate cut. The move surprised investors, and comes 
+a month before Europe launches the single currency. The head of Germany's 
+central bank said the cut was intended to spur economic growth. He 
+also said some nations will probably need to cut further. 
+</TEXT>
+</DOC>

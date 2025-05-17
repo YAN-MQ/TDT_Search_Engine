@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981228.2130.0465 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+retail sales via the world wide web more than tripled this holiday 
+season compared to last year. "the wall street journal" is reporting 
+america online, barnes & noble and amazon.com all had heavy traffic. 
+the boost in sales was fueled by a huge number of first-time cybershoppers. 
+that helped overall retail sales, which rose a weaker-than-expected 
+3.5%. last year, holiday sales rose nearly 5%. 
+</TEXT>
+</DOC>

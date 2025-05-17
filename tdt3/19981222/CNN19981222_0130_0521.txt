@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981222.0130.0521 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for Tuesday. A cold front will continue to push eastward 
+through the eastern United States, dropping all the way through the 
+gulf coast and into Florida. The air will be cold enough that there 
+will be some snow in parts of Texas on Tuesday. We'll also see some 
+lake-effect snows around the Great Lakes and rain and snow moving 
+into New England. It'll be cold just about everywhere. The only warm 
+spots will be across Florida and a couple of places in the southwest. 
+Looking ahead to Wednesday, look for an icy mix through the Ohio and 
+tennessee river valleys. Snow in the Great Lakes and also the northwest. 
+Thursday, Christmas eve, most of the rain and snow is on the east 
+coast and in the south, with a few showers across the northwest. For 
+Friday, still pretty cold across much of the country. Snowy and windy 
+around the Great Lakes. Rain showers in the southeast, and rain and 
+snow in the northwest. Don't forget, you can find four-day forecasts 
+for more than 7,200 cities on cNN interactive. The address is CNN.com. 
+</TEXT>
+</DOC>

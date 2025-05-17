@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> NYT19981222.0299 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Facing a shortage of a crucial component of nuclear warheads, the 
+Energy Department announced today that it will use three of the Tennessee 
+Valley Authority's civilian reactors to make the material, tritium. 
+Energy Secretary Bill Richardson acknowledged Tuesday that the arrangement 
+with the TVA, which is subject to congressional approval, breaks down 
+a longtime distinction in the nuclear world by using a civilian reactor 
+for military purposes. However, he said, lining up the TVA's reactors 
+encouraged nuclear nonproliferation because it eliminated the need 
+for the United States to break ground on an expensive new military 
+plant. Such a plant to produce tritium might be far larger than ever 
+needed, if new arms control agreements are signed. The department's 
+last reactor for making tritium was shut down for safety reasons 10 
+years ago. For the past 10 years, weapons decommissioned under arms 
+accords have been the military's source of tritium, and until now, 
+the pace of weapons retirements has been faster than the pace of tritium 
+decay. But unless Russia approves a new arms control agreement soon, 
+the United States will need new tritium in six years to sustain its 
+arsenal. Richardson said the Energy Department had used provisions 
+of a 60-year-old law, the Economy Act, to require the TVA to sell 
+tritium at cost. Department officials said that if they had not been 
+able to strike a deal, they would have asked the Navy requisition 
+the reactors under national security provisions. In a test that began 
+15 months ago, the Energy Department is already making tritium at 
+Watts Bar, near Knoxville, Tenn. Technicians loaded metal rods into 
+the reactor containing an isotope of lithium metal; when these are 
+struck by the neutrons that sustain the chain reaction, the lithium 
+breaks up into tritium and helium. In February 1999, when the plant 
+shuts for refueling, technicians will remove the rods to extract the 
+tritium. The rods take the place of neutron-absorber rods that are 
+used to control the reaction. They do not reduce power output, engineers 
+say, and they expect to persuade the Nuclear Regulatory Commission 
+quickly that they pose no additional risk. The TVA had asked for $85 
+million a year to make tritium at three of its reactors. Richardson 
+did not say Tuesday what the cost would be. But he said using the 
+reactors, Watts Bar 1 and Sequoyah 1 and 2, near Chattanooga, is ``the 
+best option for our national security.'' ``It is a proven technology, 
+it is the best deal by far for the taxpayer, and it has the flexibility 
+to meet our present and future tritium needs,'' he said. If he had 
+chosen a dedicated military plant, or a linear accelerator, construction 
+would have had to begin soon, he said. By relying on reactors already 
+built, the work would be done only as needed. ``We may not need to 
+exercise this option for many years,'' he said. The department says 
+it needs about 5.5 pounds of tritium a year to maintain the current 
+arsenal, beginning in 2005, and 3.3 pounds if the strategic arms reduction 
+talks, or Start 2, agreement is approved, beginning in 2011. The decision 
+drew mixed reactions. Some arms proliferation specialists said it 
+would undermine the U.S. position in asking other countries not to 
+divert material from their civilian nuclear programs into bombs. The 
+Energy Department contends, though, that unlike plutonium, which is 
+made in reactors and is the heart of a bomb, tritium is not controlled 
+by law and cannot be used by itself to make a bomb. The Alliance for 
+Nuclear Accountability, a coalition of 28 environmental and peace 
+groups, mostly around Energy Department weapons plants, said the decision 
+is ``unnecessary, undermines nonproliferation efforts, wastes taxpayer 
+dollars, and threatens public health.'' At the Nuclear Control Institute, 
+a Washington-based group advocating nonproliferation, Paul Leventhal, 
+the president, said using existing reactors was ``the cheapest, most 
+assured method of producing tritium on an as-needed basis.'' But he 
+said the use of civilian reactors should be reserved for national 
+emergencies. Members of Congress from South Carolina wanted Richardson 
+to build a linear accelerator at Savannah River, and some officials 
+near Hanford, the nuclear reservation in central Washington state, 
+wanted Richardson to use the Fast Flux Test Facility, a plutonium 
+reactor there. Richardson said Tuesday that he would decide next year 
+whether to permanently shut that plant, which began life as part of 
+a research program for plants that would make plutonium. But Richardson 
+also announced Tuesday that the department will build a plant at Savannah 
+River, near Aiken, S.C., for converting plutonium from warheads into 
+a powder, an intermediate step toward destroying the plutonium. The 
+TVA was also disappointed. It wanted to supply the department with 
+tritium in exchange for a payment of $2.3 billion, which it would 
+have used to complete its Bellefonte reactor in northern Alabama. 
+It stopped work on the reactor in 1988 because of cost overruns and 
+slack demand for power. 
+</TEXT>
+</DOC>

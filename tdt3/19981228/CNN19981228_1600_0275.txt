@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981228.1600.0275 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Work crews in Washington state are struggling to reopen two major 
+passes in the cascade mountains following heavy snowfall. Authorities 
+closed them fearing the risk of avalanches. That has left at least 
+4,000 holiday travelers stranded. Hotels in the area are full. Some 
+people are waiting in hotel lounges and lobbies. There are other problems 
+as well. In gig harbor, a mudslide pushed a house off its foundation 
+and forced the evacuation of six other homes. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981209.0130.0402 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"Endeavour" astronauts are scheduled to take a second space walk Wednesday. 
+Their mission is to attach two 100-pound antennae to the international 
+space station. On Tuesday, they helped boost the international space 
+station 5 1/2 miles higher, to an altitude of about 248 miles above 
+the earth. NASA is declaring the first space walk a success. Monday, 
+two astronauts connected 40 cables linking Russian and American components 
+of the space station. 
+</TEXT>
+</DOC>

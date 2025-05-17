@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981113.1830.1361 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In downtown Miami, a dramatic fire at a new sports Arena under construction. 
+No word yet on a cause. The stadium is scheduled to be opened next 
+year to be the home to the NBA's mime heat. 
+</TEXT>
+</DOC>

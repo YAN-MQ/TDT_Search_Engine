@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981213.1000.1311 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Purdue won the boilermaker invitational for the eight straight time, 
+and kansas handed USC its first loss of the season. 
+</TEXT>
+</DOC>

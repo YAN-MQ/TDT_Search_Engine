@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981229.1600.1027 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More job cuts to report. Conoco, the sixth-largest U.S. oil company 
+will eliminate 75 positions, about 6% of its workforce. The move stems 
+in part from low crude oil prices forecast for next year. As part 
+of the restructuring, the company will also take a fourth-quarter 
+charge of $50 million. Conoco was recently spun off from DuPont. And 
+workers at AT&T are leaving so fast, the company says it's one year 
+ahead of schedule in reducing its workforce by 18,000. So far, 16,000 
+employees have left the company. AT&T says that's mainly due to an 
+unexpectedly high number of managers accepting the company's early 
+retirement packages. At&T expects the job cuts to save it at least 
+$700 million this year. 
+</TEXT>
+</DOC>

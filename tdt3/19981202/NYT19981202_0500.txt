@@ -1,0 +1,114 @@
+<DOC>
+<DOCNO> NYT19981202.0500 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The decision by the International Monetary Fund and the United States 
+Treasury last year to push Asian nations to send their interest rates 
+soaring was a crucial blunder that worsened the world financial crisis, 
+the World Bank concluded Wednesday in a report of how the trouble 
+started. The 200-page document deliberately omitted any direct reference 
+to the IMF or to the Treasury, which has a major voice in the IMF's 
+decisions. The omission, bank officials said, was a conciliatory gesture 
+to both institutions, which have often disagreed with the bank on 
+strategies to fix the crisis that began 18 months ago. The World Bank's 
+blow-by-blow account of a series of cascading misjudgments places 
+much of the blame on global investors who lent money with abandon 
+to developing nations, and on Asian officials who were eager to accumulate 
+the cash. But it left little doubt that in the bank's judgment the 
+IMF and the Clinton administration shared responsibility for mishandling 
+the initial response to the crisis. The report also predicts that 
+most of the afflicted nations will probably begin climbing out of 
+recession next year, with growth continuing in 2000. But it warns 
+that ``there is still a substantial risk that the world economy will 
+plunge into recession in 1999,'' particularly if Japan is unable to 
+end its recession. The World Bank report reflects a broader debate 
+among economists and policymakers about whether decisions by the IMF 
+and the U.S. Treasury deepened the crisis, and whether the movement 
+in recent years to liberalize financial markets around the world should 
+be dramatically slowed. It argues that some system should be developed 
+to limit the rush of short-term investments into developing countries 
+that do not yet have the regulatory systems in place to monitor how 
+the foreign cash is spent. ``The heart of this current crisis,'' Joseph 
+Stiglitz, the chief economist of the Bank, said Wednesday, ``is the 
+surge of capital flows. The surge is followed by a precipitous flow 
+out. Few countries, no matter how strong their financial institutions, 
+could have withstood such a turnaround, but clearly, the fact that 
+the financial institutions were weak and their firms highly leveraged 
+made these countries particularly vulnerable.'' Neither the IMF nor 
+the Treasury, both of which saw the report before it was published, 
+issued any public comment on it Wednesday. There are parts they agree 
+with: IMF and Treasury officials have often blamed the huge volume 
+of private investment into developing countries _ and the refusal 
+of investors to heed the risks associated with putting their money 
+into countries with few regulatory safeguards _ for creating the conditions 
+that led to the bust. But they continue to defend their initial strategy 
+of urging Thailand, Indonesia and South Korea to raise their interest 
+rates, a classic economic solution intended to reassure investors 
+and stabilize national currencies. In Thailand and South Korea, those 
+rates have now declined to about 7 percent and the currencies have 
+stabilized, developments that IMF officials say vindicate their approach. 
+The Bank's report argues that the strategy backfired, stabilizing 
+the currencies at the cost of plunging the countries into deep recessions 
+with substantial unemployment. The report asserts that the interest 
+rate increases spread the economic pain far beyond the banks, investment 
+funds and real estate companies that had gotten the countries into 
+trouble to begin with, sending thousands of small businesses in to 
+bankruptcy. ``Some estimates are that levels of bankruptcy in Indonesia 
+now are 75 percent,'' Stiglitz argued Wednesday, ``and, you know, 
+you cannot have a country perform with 75 percent of its firms in 
+bankruptcy.'' The report was published on the day that the board of 
+the IMF formally began its review of the latest bailout, a $41.5 billion 
+aid package to Brazil. While the World Bank is a major participant 
+in that bailout, it warned Wednesday against the risk of what it termed 
+``rescue creep'' as aid packages get larger and larger. ``No reasonable 
+amount of public money can stop a justified speculative attack'' on 
+a country's currency, the report concluded. ``By themselves, larger 
+packages worsen moral hazard problems'' _ the risk that investors 
+will expect governments to bail them out _ ``and may lead to excessively 
+tough conditions, defeating the end objectives.'' The World Bank and 
+the IMF were both created by the Bretton Woods agreement in 1944 to 
+bring order to the world economy. The bank's primary responsibility 
+is tending to the poor with development programs to help fend off 
+poverty and disease; the IMF focuses chiefly on economic and monetary 
+policy. Those differing mandates have often led them to disagreements, 
+and two months ago Treasury Secretary Robert Rubin publicly warned 
+both institutions that the time had come to put their differences 
+aside. One of the many proposals floating around Washington to reform 
+the institutions would merge their governing boards, but that would 
+require a marriage of two very different cultures. The IMF continues 
+to insist that it made the best judgments it could at a time of tremendous 
+chaos last year, when the governments of Thailand and South Korea 
+were going through elections and seemed unable to make decisions. 
+And it argues that its program in Indonesia was undermined by the 
+refusal of the government of President Suharto to stick to its economic 
+agreements, and then by the political chaos that resulted in Suharto's 
+resignation and continues on the streets to this day. Still, at a 
+seminar early this week a senior IMF official conceded that the fund 
+made some judgments ``too quickly'' and mistakenly thought it was 
+seeing a repeat of past currency crises, particularly the one that 
+struck Mexico in 1995. Several months ago, Stanley Fischer, the IMF's 
+first deputy managing director, noted that ``in most cases governments 
+call us in only after they discover they are in a mess, usually because 
+they didn't do things they needed to do long ago. If the problems 
+were easy to solve, they'd do it themselves.'' Many of the conclusions 
+in the report are likely to fuel the debate over what to do next. 
+For example, the Bank calls for a tremendous slowdown in the movement 
+in recent years to deregulate financial markets in developing countries, 
+a reversal of the policy that the IMF advocated as late as April 1997, 
+just three months before Thailand's troubles touched off the crisis. 
+``Financial-sector liberalization,'' the report adds, ``which can 
+significantly boost the risk of crisis, should proceed with care _ 
+fully and in step with the capacity to design and enforce tighter 
+regulation and supervision.'' In the past year the IMF and the Treasury 
+have begun to take the same line, stressing the need to build regulatory 
+institutions before opening economies to huge capital flows. The Bank, 
+however, praised the IMF's programs in several countries, including 
+their focus on restructuring corporations and compelling countries, 
+in return for aid, to overhaul their bankruptcy systems and inject 
+public funds into weak banking systems. It also credited the IMF for 
+loosening the conditions on the bailout programs to ease the pain 
+on the poor. Still it noted that 17 million more people in Indonesia 
+are expected to fall below the poverty line this year, as wages collapse. 
+</TEXT>
+</DOC>

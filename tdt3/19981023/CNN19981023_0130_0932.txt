@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981023.0130.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Taking a look at this hour's top stories -- negotiators at the mideast 
+peace summit in Maryland are burning the midnight oil, working toward 
+a Deal. So far, both the Israelis and the Palestinians have agreed 
+on a security package and issues over troop re-deployment. 
+</TEXT>
+</DOC>

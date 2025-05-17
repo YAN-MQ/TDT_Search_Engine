@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981016.0130.0051 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First, it may be less expensive to finance a home or car. Thursday, 
+the federal reserve lowered two key interest rates. One was the federal 
+funds rate, which could lead to lower rates for things like credit 
+cards and auto loans. Lower rates also mean it's easier for businesses 
+to borrow money. It's the second, quarter-point drop in a month, and 
+an apparent attempt to keep the world economic crisis from causing 
+a recession in the United States. Wall Street celebrated with a 330 
+point rally. It's the third biggest point gain, ever. We'll have more 
+on the impact of the interest rate cut in "Dollars & Sense" at 46 
+past the hour. 
+</TEXT>
+</DOC>

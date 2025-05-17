@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981011.1600.0993 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA is working on ways to bring the high cost of space travel down 
+to earth. Allard beutel looks at one initiative. The most expensive 
+part of getting any spacecraft into orbit is the first few seconds 
+-- getting off the ground. So of course, NASA is working on cheaper 
+alternatives to the current method that involves large Rockets that 
+blast off a launch pad. Enter magnetic levitation. Several companies 
+and Britain's University of sussex are developing this technology 
+with NASA. The idea is -- high-powered magnets would drive a spacecraft 
+down a two to five-mile-long track. The craft would catapult from 
+the ground at about 600 miles an hour. Then it would use a conventional 
+rocket engine to reach orbit. NASA says the system could be reset 
+to do it all again just 0 minutes later. Researchers say a spacecraft 
+being launched on a maglev system is like a log being swept downstream 
+by a river's current. When the spacecraft is launched on the magnetic 
+field, the two river banks keep guided to keep it guided and straight, 
+and then the magnetic field also levitates the spacecraft. So we have 
+three distinct magnetic operations -- lift, thrust and guidance. NASA 
+hopes to be able use a maglev launcher to put small communication 
+satellites in orbit by the year 2007. Allard beutel, "Headline News." 
+</TEXT>
+</DOC>

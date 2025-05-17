@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981028.1130.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And it's a day of final training for 77-year-old John Glenn and the 
+rest of the crew of the space shuttle "discovery." It lifts off tomorrow 
+afternoon. 
+</TEXT>
+</DOC>

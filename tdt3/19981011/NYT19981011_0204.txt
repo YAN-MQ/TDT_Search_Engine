@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> NYT19981011.0204 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In a computer at a secret location, the FBI will open a national DNA 
+data base on Tuesday that advocates say could significantly reduce 
+rape and other crimes by helping to catch repeat offenders earlier. 
+The data base, with a new generation of forensic DNA techniques, promises 
+to be so efficient that some civil libertarians fear it will be expanded 
+from people convicted of crimes to include almost everyone, giving 
+the government inordinate investigative powers over citizens. The 
+national DNA data base consists of 50 data bases run by the states 
+but unified by common test procedures and software designed by the 
+FBI. As of Tuesday, it will be possible to compare a DNA sample from 
+a suspect or crime scene in one state with all others in the system. 
+The national data base has been nearly a decade in the making. The 
+final pieces fell into place in June when Rhode Island became the 
+last state to set up a DNA data base. But the system still faces many 
+unresolved issues, which are likely to play out according to the reaction 
+from the public and the courts. One such issue is what types of offenders 
+should be included. Another is whether the mass screening of suspects' 
+DNA will prove constitutional. DNA, the chemical that embodies a person's 
+genetic programming, can be found almost everywhere. People shed a 
+constant torrent of dead skin cells. Criminals leave blood when breaking 
+and entering; they shed hair and skin cells in fights, deposit saliva 
+on glasses and leave sweat stains in head bands. From only a few cells 
+in such sources, enough DNA can be extracted to identify the owner. 
+A DNA database of sufficient size could presumably help solve many 
+crimes. The crime-fighting potential of DNA data bases is becoming 
+evident from the experiences of Britain, which started earlier and 
+has had fewer administrative and constitutional hurdles to overcome. 
+The data base there initially focused on sex offenses but has spread 
+to include burglaries and car theft because of the high number of 
+DNA matches that police forces were obtaining. Moreover, there was 
+considerable crossover at least in Britain, among different kinds 
+of offenses. ``People who commit serious crime very often have convictions 
+for petty crime in their history, so if you could get them on the 
+data base early you may prevent serious crime,'' said David Werrett, 
+manager of the DNA data base for England and Wales. The English DNA 
+data base includes entries from crime scenes and from everyone convicted 
+of a crime, as well as from suspects in unresolved cases. Since the 
+system's debut in 1995, it has matched 28,000 people to crime scenes 
+and has made 6,000 links between crime scenes. The data base now holds 
+360,000 entries and Werrett said he expected it would eventually include 
+one third of all English men between 16 and 30, the principal ages 
+for committing crimes. Werrett said that the data base has grown because 
+police forces in England, which pay $55 for a DNA analysis, are finding 
+it cost effective. Recently the Police Superintendents Association 
+called for the entire population to be DNA tested. Forensic use of 
+DNA in the United States is unlikely to go as fast or as far as in 
+Britain. 
+</TEXT>
+</DOC>

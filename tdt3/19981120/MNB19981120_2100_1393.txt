@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> MNB19981120.2100.1393 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stock prices surged strongly to end the week. The Dow Jones industrial 
+average ran up 103 1/2 points in heavy trading for the week. The plus 
+day for technology stocks as well, NASDAQ gain 8 1/2 points. 
+</TEXT>
+</DOC>

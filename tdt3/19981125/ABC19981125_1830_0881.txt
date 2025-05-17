@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981125.1830.0881 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A record in sales. Country singer gather Brooks' new CD, "double live," 
+has sold more than a Million copies in a week. 
+</TEXT>
+</DOC>

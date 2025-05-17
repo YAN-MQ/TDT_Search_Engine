@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> NYT19981025.0080 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Even as Microsoft battles the U.S. government, it can celebrate an 
+incremental victory in the international arena. Nine months ago, Microsoft, 
+Compaq Computer and Intel joined with the large local phone companies 
+in an effort to enable consumers to receive Internet data over regular 
+telephone lines at speeds much faster than now possible. Last week, 
+the consortium achieved its initial goal: winning preliminary approval 
+of its technical standard from the International Telecommunications 
+Union, a U.N. group. The technology is known as digital subscriber 
+line, or DSL. The version of DSL that won approval promises to deliver 
+1.5 million bits of data to homes every second. Considering that it 
+took the computing and communications industries about two years to 
+settle on a universal standard for modems that deliver 56,000 bits 
+a second, the industry consensus on DSL was quite a quick step. But 
+the phone companies must continue to step lively if they are to beat 
+back the threat to their future posed by cable modems. There may be 
+half a million people using cable modems for access to the Internet 
+over cable television systems, while only a fraction of that number 
+use DSL technology. The new standard will allow consumers to install 
+the advanced modems without help from a technician. Many cable modems 
+require expert help for installation. The consortium hopes to have 
+the modems in stores by the middle of next year, priced about $150. 
+</TEXT>
+</DOC>

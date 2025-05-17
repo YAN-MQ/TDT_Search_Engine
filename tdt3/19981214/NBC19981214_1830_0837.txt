@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981214.1830.0837 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street, apparently concerned about earnings reports, began this 
+week deep in Negative territory. The Dow Jones industrial average 
+dropped more than 126 points. The NASDAQ fell sharply by more than 
+62 points. Widely held stocks were mostly down. 
+</TEXT>
+</DOC>

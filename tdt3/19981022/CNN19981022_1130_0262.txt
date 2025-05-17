@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981022.1130.0262 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Babies born to young, unmarried and poorly educated women may be at 
+a Higher risk of being killed. A report in "the New England journal 
+of medicine" shows that 2% of all infants in the U.S. are born to 
+girls under the age of 17. 
+</TEXT>
+</DOC>

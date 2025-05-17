@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981031.1600.0480 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tourists hoping to see Paris from the top of the Eiffel tower are 
+out of luck today. The tower's workers went on strike yesterday, demanding 
+managers hire more staff. The tower plans to recruit 25 new employees 
+as part of France's plan to reduce unemployment by shortening the 
+work week. The Eiffel tower is one of the most popular tourist destinations 
+in the world. Up to 20,000 people visit it each day. 
+</TEXT>
+</DOC>

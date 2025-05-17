@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981205.0130.0337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The president's comments were Buoyed by newly released economic figures. 
+Unemployment dropped 0.2% to 4.4% in November, despite a wave of new 
+layoff announcements. 
+</TEXT>
+</DOC>

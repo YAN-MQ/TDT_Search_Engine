@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> NYT19981022.0493 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Federal Communications Commission on Friday issued a proposed 
+set of rules intended to settle a dispute over high-tech wiretapping 
+that has pitted the FBI against the telecommunications industry and 
+privacy advocates. The dispute centers on a 1994 law, the Communications 
+Assistance for Law Enforcement Act, which was intended to guarantee 
+that law-enforcement officials would be able to continue telephone 
+surveillance as communications technologies evolved. Carrying out 
+the law has been stalled, however, while the FBI has quarreled with 
+the communications industry over cost and feasibility and with privacy 
+groups that contend that the law would permit broad new government 
+surveillance powers. Under the proposed rules, the FCC would give 
+law enforcement some concessions, including the ability to get certain 
+information about the location of a person using a cellular telephone. 
+But the agency rejected some new capabilities requested by the FBI 
+and deferred a decision on other issues, including surveillance of 
+Internet communications. ``Congress sought to balance the needs of 
+law enforcement against legitimate privacy and industry interests,'' 
+William Kennard, the FCC chairman, said in a statement. ``The differences 
+that remain are significant but by no means insurmountable.'' Industry 
+executives praised the steps taken by the FCC, saying that the new 
+laws could have been carried out years ago if the FBI had not insisted 
+on broad and costly new powers. The communications agency said that 
+by granting law-enforcement officials the ability to collect location 
+information that is already available to a telephone company they 
+were stopping short of turning cellular telephones into tracking devices. 
+</TEXT>
+</DOC>

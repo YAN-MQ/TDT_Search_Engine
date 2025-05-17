@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981120.2130.1262 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With "CNN Headline Sports," I'm Russell Biven. It's a big weekend 
+in college football, but lets first hit the ice. Ron hextall became 
+the Flyers all-time winningest goalie. Elsewhere, Ottawa beat Washington 
+4-1. 
+</TEXT>
+</DOC>

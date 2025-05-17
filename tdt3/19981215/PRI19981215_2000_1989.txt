@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981215.2000.1989 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From the BBC newsroom in London, you're listening to THE WORLD. This 
+is THE WORLD, a co-production of the BBC World Service, PRI, and WGBH 
+in Boston. I'm Lisa Mullins. 
+</TEXT>
+</DOC>

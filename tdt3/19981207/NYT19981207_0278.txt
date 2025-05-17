@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> NYT19981207.0278 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+New research is challenging the medical textbook view of osteoporosis 
+as largely a women's disease linked to the singularly female experience 
+of menopause. It now seems that osteoporosis is more prevalent in 
+men than was previously thought, and that although men do not go through 
+menopause, the main cause of the degenerative bone disorder is the 
+same in men and women: an age-related drop in estrogen. Several recent 
+studies show that men's levels of this sex hormone decline with age 
+and that the decline leads to a loss of bone mass, the signature symptom 
+of osteoporosis. Some of these studies were presented last week at 
+a meeting of the American Society for Bone and Mineral Research and 
+the International Bone and Mineral Society in San Francisco. ``This 
+is surprising,'' said Dr. B. Lawrence Riggs, a professor of medical 
+research at the Mayo Clinic in Rochester, Minn., who has found that 
+estrogen naturally falls in men after about age 65. ``Three years 
+ago, none of us would have thought that estrogen loss was a factor 
+in male osteoporosis.'' Although men and women have estrogen, it is 
+more abundant in women and plays a central role in female reproduction. 
+The National Osteoporosis Foundation in Washington estimates that 
+of the 10 million Americans who have osteoporosis, more than 1.5 million 
+are men, and that half of women and one in eight men over 50 will 
+have an osteoporosis-related fracture. But because osteoporosis is 
+underdiagnosed in men, the numbers for men are probably higher, the 
+organization's literature says. Medical textbooks describe osteoporosis 
+differently for men and for women. In women it is linked mainly to 
+the sharp drop in estrogen after menopause, because estrogen is known 
+to slow the natural process of bone loss that occurs with age. In 
+men, however, osteoporosis is said to result from abnormally low levels 
+of testosterone, a sex hormone more plentiful in males. The cause 
+of low testosterone is usually a rare condition called hypogonadism, 
+in which the testicles are underactive. Two studies presented at last 
+week's meeting indicate that estrogen plays a more central role than 
+testosterone in osteoporosis in men. Researchers following residents 
+of Framingham, Mass., over five decades studied 382 elderly white 
+men for eight years, tracking bone density, estrogen levels and signs 
+of hypogonadism. Men with the highest bone density also had the highest 
+estrogen levels; the connection with hypogonadism was negligible. 
+In another study, doctors in Germany measured bone density as well 
+as estrogen and testosterone levels of 300 men with osteoporosis for 
+five years. Forty percent of the men had low estrogen; 20 percent 
+had low testosterone. ``We didn't see a pronounced effect of testosterone 
+on the males' bone-mineral density,'' said Dr. Peter Kaps, an orthopedic 
+surgeon and the lead author. Dr. Pamela Taxel, assistant professor 
+of medicine at the University of Connecticut Health Center in Farmington, 
+said: ``These are suggestive findings, but larger studies are needed 
+to understand the mechanism of estrogen and testosterone on bone health 
+in men.'' Dr. Taxel is studying the use of estrogen supplements to 
+treat men with osteoporosis. She said research was needed to develop 
+a form of estrogen that helps men without causing side effects like 
+prostate disease or impotence. 
+</TEXT>
+</DOC>

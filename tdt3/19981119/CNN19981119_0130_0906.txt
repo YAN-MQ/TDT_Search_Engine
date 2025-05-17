@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981119.0130.0906 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+a spokesman for independent counsel Ken Starr says Starr is ready 
+to testify Thursday before the house Judiciary committee. Starr is 
+prepared to say President Clinton misused his authority in the wake 
+of the Monica Lewinsky affair. Democrats on the committee are expected 
+to accuse Starr of using the president's presonal sex life to try 
+to get him impeached. 
+</TEXT>
+</DOC>

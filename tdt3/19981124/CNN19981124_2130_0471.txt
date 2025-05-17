@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981124.2130.0471 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And still ahead -- why some 
+people are worried the year 2000 computer problem may separate them 
+from their cash. 
+</TEXT>
+</DOC>

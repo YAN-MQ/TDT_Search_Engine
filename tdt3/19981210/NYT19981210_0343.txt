@@ -1,0 +1,86 @@
+<DOC>
+<DOCNO> NYT19981210.0343 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Ericsson AB, the Swedish company that has been aggressively reorganizing 
+its business to resist growing competition in its key cellular-phone 
+business, said Thursday that its fourth-quarter profit would be 15 
+percent to 20 percent lower than expected and that it would cut 10,000 
+more jobs because of flagging demand for its phones and public switching 
+systems. The company, which warned investors in October to expect 
+slower sales because of economic turmoil in Asia and Latin America, 
+said it would announce a 10 percent cut in its work force, or 10,000 
+jobs, in January. That would be in addition to 10,000 jobs that the 
+company is eliminating as part of a cost-cutting effort begun a year 
+ago. Ericsson reported that revenue from cellular phones in the third 
+quarter fell by 1.6 percent, to 10.82 billion Swedish kronor, or $1.35 
+billion, from 11 billion kronor in the period a year earlier. But 
+the company said it had maintained its global market share, which 
+is 16 percent, according to Dataquest, the market research consultant. 
+Analysts surveyed by First Call, which tracks company earnings, said 
+they expected Ericsson to earn 87 cents a share in 1998 and $1.05 
+a share in 1999, up from 81 cents a share in 1997. But the announcement 
+of the new job cuts reflects serious worries that, despite undiminished 
+confidence in its long-term prospects, slower growth in many of its 
+key global markets in 1999 will dampen sales of cellular phones and 
+phone systems. After the earnings warning Thursday, shares of Ericsson 
+fell more than 22 percent, to 183 kronor. Its American depository 
+receipts fell $4.75, to $24.125. In its wake, shares of other telephone 
+suppliers, including Alcatel of France and Royal Philips Electronics, 
+turned lower. Shares of other telephone-equipment makers also fell. 
+Motorola declined $2.50, to $57.5625, ADRs of Finland's Nokia lost 
+$2.3125, to $106, and Lucent Technologies dropped $2.1875, to $97.1875. 
+Analysts who follow Ericsson, the world's third-largest wireless phone 
+company after Nokia and Motorola, interpreted the announcement as 
+an effort by Ericsson to manage market expectations and said it reflected 
+disappointingly low growth in public contracts from Asia and Latin 
+America, where a recovery is taking longer than expected. Laurent 
+Douillet, who follows Ericsson at Lehman Brothers Securities in London, 
+said he had downgraded his earnings estimates. ``But it is not a major 
+downgrading,'' he added. Ericsson's cellular-phone sales have been 
+hurt by slower economic growth in emerging markets, and while signs 
+are emerging of gradual recovery in some Asian countries, Sven-Christer 
+Nilsson, Ericsson's chief executive, said that ``wider repercussions 
+on global demand'' were depressing sales and income. Last year, Ericsson 
+began moving swiftly to increase productivity and improve earnings, 
+including cutting 10,000 jobs worldwide. The company now employs about 
+100,000 people, including about 9,000 in the United States. The company's 
+U.S. operations are based in Richardson, Texas, and it has major operations 
+in North Carolina, Virginia, California and New York. Lars Stolberg, 
+Ericsson's spokesman, said the additional job cuts would most likely 
+total 10,000 workers. He said Ericsson was more than halfway through 
+the last round of layoffs and had not yet decided where the additional 
+job cuts would come. Nilsson said in a statement that Ericsson's nine-month 
+results were also depressed by a shift in demand to lower-priced cellular 
+phones, notably those linked to prepaid phone services, which now 
+account for about a third of the large European market. Analysts said 
+the shift was particularly strong in key European markets like Britain 
+and France. Such prepaid cards generally enable customers to own wireless 
+phones and receive unlimited calls while allowing them to make a limited 
+number of outgoing calls at a fixed rate. These phones are usually 
+low-priced and have correspondingly low margins for manufacturers. 
+Nilsson said that accounted for a lower operating profit despite increased 
+sales. Ericsson has had to act decisively to resist the growing competition 
+from global competitors, including Nokia, which this year overtook 
+Ericsson as the largest supplier of digital cellular phones to the 
+United States, the world's largest market, doubling its market share 
+to 40.3 percent, from 19.8 percent in 1997, according to Dataquest. 
+At the same time, Ericsson's share plummeted to 20.6 percent, from 
+41.3 percent. Analysts have praised Ericsson's efforts to revamp its 
+operations, and they say fresh technology in the cellular-phone business 
+should enable Ericsson to regain its past momentum. Phillip Redman, 
+who follows the cellular-phone market for Yankee Group, a consulting 
+concern in Boston, said much of Nokia's gains in the United States 
+could be attributed to its success in landing lucrative contracts 
+to supply digital cellular phones with advanced technology to AT&AMP;T, 
+the largest U.S. cellular-phone operator, which introduced the system 
+with considerable fanfare earlier this year. ``So 1998 for Ericsson 
+was not a great year,'' he said. Ericsson is well placed, however, 
+to compete with a new generation of digital cellular-phone technology 
+that is expected to be introduced in markets in Asia and elsewhere, 
+with broader capabilities than current models, he said. ``That will 
+be a much larger market, and also a global market,'' he said. ``So 
+on the long-term growth cycle Ericsson is well prepared.'' 
+</TEXT>
+</DOC>

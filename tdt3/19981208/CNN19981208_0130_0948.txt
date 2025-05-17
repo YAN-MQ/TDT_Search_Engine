@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981208.0130.0948 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The technology sector gave stocks on Wall Street a boost Monday. The 
+Dow Jones industrial average rose 54 points to close at 9070. 
+</TEXT>
+</DOC>

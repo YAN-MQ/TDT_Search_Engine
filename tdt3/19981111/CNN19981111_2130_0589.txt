@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981111.2130.0589 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Secretary of state Madeleine Albright is calling today's decision 
+by the israeli cabinet an important step in the mideast peace process. 
+The cabinet approved the land-for-security deal struck last month 
+between israeli prime minister Benjamin Netanyahu and Palestinian 
+leader Yasser arafat. It calls for Israel to withdraw its troops from 
+13% of the West Bank in exchange for security guarantees. 
+</TEXT>
+</DOC>

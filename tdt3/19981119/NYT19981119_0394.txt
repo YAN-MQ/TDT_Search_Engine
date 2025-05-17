@@ -1,0 +1,61 @@
+<DOC>
+<DOCNO> NYT19981119.0394 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Twelve consumer, environmental and religious organizations asked the 
+Consumer Product Safety Commission on Thursday to ban vinyl toys for 
+small children, four days after Canadian officials advised parents 
+of small children to throw away vinyl teethers and rattles, because 
+of possible kidney and liver damage. In addition, 28 members of Congress 
+signed a letter to President Clinton asking whether the Commerce Department 
+is lobbying to keep European markets open to vinyl toys, and urging 
+that the lobbying stop if it was doing so. Several European countries 
+have put restrictions on the use of vinyl in toys, partly in response 
+to a sustained campaign by Greenpeace. Even though scientists do not 
+agree on whether vinyl toys are safe, some toymakers and marketers 
+have stopped selling them. Toys R Us said this week it had removed 
+toys with vinyl that are intended to be mouthed by infants. But toy 
+manufacturers argued that the material was safe. As a practical matter, 
+manufacturers said, teethers and some other small objects made by 
+injection moulding can be made from vinyl-free plastics; more complex 
+shapes, like rubber ducks or teddy bears, cannot. The material at 
+issue is polyvinylchloride, or PVC, which is familiar to consumers 
+as a material used for pipes and other rigid parts, mixed with a ``plasticizer,'' 
+to make it soft. Since the mid-1980s, the industry has used a material 
+called DINP, because a material used up to that time, DEHP, was found 
+to cause health damage to rodents at high doses. More recent studies 
+show that the substitute material produces similar effects in rodents, 
+but chemical manufacturers say that the damage occurs by a mechanism 
+that is not relevant to humans, and that both materials are safe. 
+The CPSC, which brokered the deal in the mid-'80s that ended the use 
+of DEHP, said Thursday it was conducting research on how much dose 
+a toy could give a child, and reviewing the animal studies that showed 
+health damage, and hoped to make an announcement soon. The announcement 
+Thursday was made by the National Environmental Trust, whose president, 
+Philip Clapp, said it was unacceptable that American parents would 
+have to go to a Canadian web site to get authoritative government 
+advice on the issue. (Health Canada's advisory is available at www.hcsc.gc.ca/advisory/index.htm). 
+And, he said, even steps like the ones taken by the Canadian government 
+and Toys R Us were inadequate, because they only covered items that 
+were intended to go into a baby's mouth. ``Infants and toddlers don't 
+distinguish between toys intended for the mouth and all other toys,'' 
+he said. In September, Mattel, Inc., of El Segundo, Calif., said it 
+would phase out the plasticizers in teeth toys for children under 
+36 months. Thursday the National Environmental Trust listed two of 
+its products as having particularly high levels of DINP, but neither 
+was covered by the phase out. The toys were the arms of Rugrats Tommy 
+Pickles Ice Cream Face doll, and the shoes of Cabbage Patch Kids Starr 
+Rosie Doll. Mattel did not respond to a call seeking comment. David 
+Miller, a spokesman for the Toy Manufacturers of America, an industry 
+trade group based in New York, said that the plasticizers had been 
+thoroughly studied, used for years and represented no risk. He said 
+the Canadian authorities had grossly overestimated the amount of dose 
+a child could get from chewing on such a toy. Asked if the product 
+should be banned until proven safe, he said, ``on that logic you can 
+rule out half the products sold in the United States today.'' Illustrating 
+the uncertainty, Dr. Cathey Falvo, a pediatrician representing Physicians 
+for Social Responsibility who spoke Thursday in favor of a ban, said 
+that some health effects might not turn up for decades. 
+</TEXT>
+</DOC>

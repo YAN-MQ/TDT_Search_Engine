@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981222.1130.0488 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Cold weather is causing big problems in parts of the midwest. At least 
+25 death from road accidents have been reported in Missouri, kansas 
+and Oklahoma. Authorities in Oklahoma are discouraging travel because 
+of icy roads. In Colorado, many people are enjoying the cold snowy 
+conditions. Ski operators are breathing a Sigh of relief after a dry 
+spell. Forecasters say the cold temperatures will stay and more snow 
+is expected before Christmas. 
+</TEXT>
+</DOC>

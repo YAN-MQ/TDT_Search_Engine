@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981105.2130.0421 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The United States is sending $66 million in emergency assistance to 
+victims of hurricane Mitch in Honduras, Nicaragua, El Salvador and 
+Guatemala. It includes $20 million worth of food and $30 million in 
+military equipment, including helicopters to rescue stranded people 
+from isolated areas. An estimated 13,000 people still are missing 
+since the storm passed over central America. Officials say Mitch is 
+blamed for the deaths of 9,000 people, and countless others may be 
+buried under mud slides and debris. 
+</TEXT>
+</DOC>

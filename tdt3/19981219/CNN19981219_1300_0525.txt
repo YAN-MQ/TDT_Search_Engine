@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981219.1300.0525 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather" update. 
+A low pressure storm will move across lake Ontario today. Bringing 
+snow showers to New England, with colder air moving into the deep 
+south. Late in the weekend, this front will continue pushing eastward. 
+But in the south, you'll notice a warm-up as the front becomes stationary 
+across most of the central and western U.S. a low pressure storm moving 
+through the four corners will keep snow in the forecast for most of 
+colorado and Utah into northern Arizona and New Mexico. High temperatures 
+will be bitterly cold in the north, with temperatures below zero and 
+in the single digits through the Great Lakes, southward into oklahoma. 
+You'll see 30s into northern Texas with 60s and 70s across the southern 
+tier of states. The extended forecast does not improve the temperatures. 
+In fact, it stays bitterly cold in the north through Monday. A heavy 
+mix of rain and snow is possible in the Great Lakes with scattered 
+showers and thunderstorms toward the gulf coast. By Tuesday, the west 
+will see scattered snow showers that remain in the forecast through 
+Wednesday, with scattered rain and snow in the east. The extended 
+forecast for more than 7,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981129.1130.0179 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Pope John Paul II is starting the Catholic church's countdown to the 
+year 2000. In a ceremony at the Vatican today, the Pontiff issued 
+an edict declaring it a holy year. The edict includes ways Catholics 
+can help ensure a speedy ascendence into heaven, such as abstaining 
+from smoking and drinking and giving to charity during the holy year. 
+</TEXT>
+</DOC>

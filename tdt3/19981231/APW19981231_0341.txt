@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> APW19981231.0341 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+European Union finance ministers on Thursday set the irrevocable conversion 
+rates between the euro and currencies from the 11 nations participating 
+in the shared currency. From its official launch at midnight Thursday, 
+the euro will be worth: 1.95583 German marks. 6.55957 French francs. 
+1936.27 Italian lire. 166.386 Spanish pesetas. 2.20371 Dutch guilders. 
+40.3399 Belgian francs. 13.7603 Austrian schillings. 200.482 Portuguese 
+escudos. 5.94573 Finnish markka. 0.787564 Irish pounds. 40.3399 Luxembourg 
+francs. Based on those rates, the euro expected to start trading at 
+dlrs 1.1665. 
+</TEXT>
+</DOC>

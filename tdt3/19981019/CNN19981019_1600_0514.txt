@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981019.1600.0514 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And still ahead -- parts of 
+the lone star state bail out after one of the wettest months in history. 
+</TEXT>
+</DOC>

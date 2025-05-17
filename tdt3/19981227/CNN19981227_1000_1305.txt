@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981227.1000.1305 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Third-ranked Kentucky has its first two-game losing streak since 1994. 
+The Wildcats were upset by Louisville, 83-74. Marques maybin led the 
+Cardinals with 19 points. 
+</TEXT>
+</DOC>

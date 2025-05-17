@@ -1,0 +1,104 @@
+<DOC>
+<DOCNO> NYT19981127.0269 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The government Friday issued new rules that require drug companies 
+to conduct much wider testing of drugs in children, so the companies 
+can write labels that provide detailed information to doctors and 
+parents about the proper use of medications by children. The final 
+rules, issued by the Food and Drug Administration, were a top priority 
+for President Clinton and Hillary Rodham Clinton, but met with strenuous 
+objections from many drug companies, which said they were impractical 
+and burdensome. Pediatricians and patients' groups praised the rules. 
+Paul Glaser, chairman of the Pediatric AIDS Foundation, which finances 
+AIDS research, said, ``These rules mean that children can finally 
+share in the research progress against disease.'' The White House 
+said that drug companies rarely did the studies needed to assess the 
+safety and proper dosage of drugs widely used to treat childhood illnesses. 
+Instead, many drugs prescribed for children were tested only in adults, 
+with an assumption that the drugs' effects on children would be very 
+similar. About 20 percent of the drugs marketed in the United States 
+have been tested and labeled specifically for children. Drug companies 
+said they shared Clinton's goal of discovering better medicines for 
+children. But they said the new tests would be costly and could be 
+unethical, because they might put thousands of children at risk. Under 
+the rules issued Friday, pharmaceutical companies must generally study 
+the safety and effectiveness of drugs and vaccines in children ``if 
+the product is likely to be used in a substantial number of pediatric 
+patients,'' or if it provides a ``meaningful therapeutic benefit'' 
+over existing treatments for children in the same age group. To gain 
+FDA approval for their products, drug companies will ordinarily have 
+to submit data showing their ``safety and effectiveness and benefits 
+and risks'' in children. Prior efforts by the government to encourage 
+voluntary testing in children have largely failed, and it is treacherous 
+to extrapolate data from adults to children, the FDA said, noting 
+that children were not simply little adults. Despite commitments by 
+drug companies to do more studies in children, ``the percentage of 
+new products entering the marketplace with adequate pediatric safety 
+and effectiveness information has not increased in the last decade,'' 
+the agency said. The final rules are, in some ways, more flexible 
+than the proposals issued by the Clinton administration in August 
+1997. Under the final rules, for example, the FDA may allow a company 
+to defer testing in children until clinical trials suggest that a 
+new drug is safe and effective in adults. Indeed, the agency said, 
+in some cases, pediatric testing will occur after a new drug has been 
+approved for use by adults. In an interview, William Schultz, a deputy 
+commissioner of the FDA, said: ``We do not expect to hold up the approval 
+of new drugs for adults even if the study in children was inadequate. 
+Instead, we'll approve the drug for adults and then require studies 
+in children.'' Rather than impose a rigid, uniform rule for all new 
+drugs, the government said that the timing of pediatric studies would 
+depend on various factors. If, for example, a new drug is urgently 
+needed to treat a life-threatening disease in children and if there 
+is no adequate therapy on the market, the government may insist that 
+the manufacturer immediately begin tests in children, before full 
+data on adults are available. But pediatric studies could begin later 
+if similar medications were already available for children. Judith 
+Bello, executive vice president of the Pharmaceutical Research and 
+Manufacturers of America, a trade association for the industry, said 
+Friday, ``We haven't seen the final rules and won't be able to comment 
+today.'' In written comments on the proposed rules, drug companies 
+including Merck, Glaxo Wellcome, Novartis and Wyeth-Ayerst said they 
+wanted to discover better medicines for children, but found the details 
+of Clinton's proposal extremely impractical and burdensome. Moreover, 
+the companies said that children injured in drug tests might file 
+lawsuits years later, after they grow up, even though parents gave 
+consent for the tests. The companies said they could not obtain informed 
+consent from children as they do from adults. In response, the Clinton 
+administration said that children need not be exposed to ``inappropriate 
+risks'' because drug companies could defer pediatric testing until 
+new drugs were shown to be safe and effective for adults. In addition, 
+the drug agency said it would ``seek advice from a panel of pediatric 
+experts on whether additional protections are necessary'' for children 
+involved in drug research. Timothy Westmoreland, a health policy expert 
+at Georgetown University Law Center who supports the new rules, said, 
+``It is much more unethical to expose children to drugs of unknown 
+safety than to put the children into carefully controlled clinical 
+trials.'' Mrs. Clinton said the new rules ``will make prescribing 
+medication for children safer and may also lessen the number of side 
+effects.'' The rules will be published next week in the Federal Register 
+and will take effect, with the force of law, on April 1. Federal officials 
+said that if a company violated the new rules, they would seek a federal 
+court injunction requiring the company to assess the safety and effectiveness 
+of its products in children. If the company flouted the injunction, 
+it could be held in contempt of court and fined. ``Except possibly 
+in rare circumstances,'' the FDA said, it does not intend to disapprove 
+or withdraw approval for a drug whose manufacturer violates the new 
+rules. The rules also include these provisions: _ The government may 
+order drug companies to develop special ``pediatric formulations'' 
+of any medicines that provide meaningful advantages over existing 
+drugs for children. _ Drug companies may be required to conduct separate 
+studies in children of different ages, including babies in the first 
+month of life, infants in the first year of life, and adolescents. 
+A drug company may be exempted from the requirement to study a particular 
+drug in children if it can show that such studies would be ``impossible 
+or highly impractical,'' or would pose ``undue risks to pediatric 
+patients.'' A company might get a waiver if, for example, there was 
+a very small number of patients with the illness. The FDA noted that 
+some illnesses and conditions rarely occurred in children. For these 
+conditions, it said, testing in children will be unnecessary. The 
+government listed 20 such conditions, including Alzheimer's disease, 
+Parkinson's disease, breast cancer, prostate cancer and lung cancer. 
+</TEXT>
+</DOC>

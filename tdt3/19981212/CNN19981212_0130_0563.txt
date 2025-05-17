@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981212.0130.0563 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA's Mars climate Orbiter is En route to the red planet. The craft 
+was launched from cape Canaveral in Florida by an unmanned Delta two 
+rocket Friday. It should reach Mars in September of next year, where 
+it will study the martian atmosphere and look for signs of water. 
+It also will serve as a communications relay system for the Mars polar 
+lander, which NASA plans to launch next month. 
+</TEXT>
+</DOC>

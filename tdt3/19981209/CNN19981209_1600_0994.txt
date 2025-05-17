@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981209.1600.0994 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.S. trade deficit hits a record high. I'm Terry Keenan in New 
+York with this edition of "Dollars & Sense." The trade gap surged 
+to more than $61 billion in the third quarter -- the rise due mainly 
+to a decline in services and a slump in U.S. stock prices which scared 
+away many overseas investors. The trade gap jumped by a bigger-than-expected 
+8.1% from the previous quarter. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981209.1830.0991 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones industrial average was done more 
+than 18 points to close at 9009. On the NASDAQ, stocks were up 15 
+points. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981110.1130.0895 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+checking this hour's top stories -- the first big snowstorm of the 
+season has dumped heavy snow across the plains states, and is threatening 
+the great lakes region with ferocious winds, heavy rain and severe 
+thunderstorms. 
+</TEXT>
+</DOC>

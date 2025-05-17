@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981014.0130.1319 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NBA talks are scheduled later this week and some games have been scheduled. 
+</TEXT>
+</DOC>

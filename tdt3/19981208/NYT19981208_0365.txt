@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> NYT19981208.0365 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A lawyer for Microsoft Corp. failed Tuesday to shake a computer-science 
+expert from his argument that Internet software should not be included 
+as part of Microsoft's Windows operating system. Central to the government's 
+antitrust suit against Microsoft is the charge that the company bundled 
+Internet browser software with Windows largely as a tactic to put 
+competitors at a disadvantage. ``In general, designers have a huge 
+amount of flexibility in how to package these files, the same way 
+you have a large amount of flexibility in how you put things in a 
+grocery bag, as long as you don't crush stuff,'' said David Farber, 
+a senior computer-science professor at the University of Pennsylvania 
+who is a government witness. ``Software is infinitely malleable.'' 
+Steven Holley, a lawyer for Microsoft, contended that _ no matter 
+how all those files got into Windows _ outside software developers 
+now depend on them when they write programs for Windows. To that, 
+Farber countered that ``there is no absolute efficiency given just 
+because this is the way Microsoft has chosen to put all of this together.'' 
+Toward the end of the day, Holley got down to the level of individual 
+program files. He displayed a large poster listing 13 major files 
+that testimony had shown are invoked when a computer user seeks an 
+Internet address using Internet Explorer, Microsoft's browser. Then 
+he asked Farber if each file could be deleted without damaging Windows. 
+When the witness answered no to the first two, Holley pasted large 
+red ``no'' stickers to the board, to reinforce Microsoft's argument 
+that Explorer is an inseparable, integrated element of Windows. The 
+theatrics fizzled, though, when Farber told him that the questions 
+made no sense. Several files in question, he said, were key parts 
+of the operating system invoked by all sorts of programs, not just 
+Explorer. By asking those questions, the professor told Holley: ``You're 
+asking me if I've stopped beating my wife.'' A moment later, U.S. 
+District Judge Thomas Penfield Jackson, who is hearing the case, asked 
+Holley, ``Can we move on to another subject?'' Jackson showed interest 
+in the discussion of individual computer files. He heard similar testimony 
+last year, when he was deciding on the government's request for an 
+order barring Microsoft from bundling Internet Explorer with Windows 
+95. Early this year, Jackson ordered Microsoft to offer Windows 95 
+in a form that hides access to Explorer. But a Court of Appeals panel 
+overturned his ruling last summer. When the discussion Tuesday turned 
+to one file used by Windows and Explorer, the judge interrupted Holley 
+to ask the witness, ``If that code were part of Windows, is there 
+any reason that Internet Explorer, as an application, could not invoke 
+it?'' No, there was no reason, Farber answered. The very question 
+troubled Microsoft executives, who have labored since the trial began 
+to convince Jackson that Internet Explorer is not a stand-alone application 
+and never has been. Holley later asked Farber about a section from 
+the appellate court ruling, which is central to Microsoft's defense. 
+The panel ruled that it would be ``absurdly inefficient'' to require 
+consumers to stitch computer code together, a possible result if Explorer 
+were removed from Windows. Farber mumbled for a moment, suggesting 
+that he had trouble with the appellate court's language, but then 
+explained, ``I don't want to criticize the court.'' To that, Jackson 
+smiled and said, ``Oh, go ahead.'' 
+</TEXT>
+</DOC>

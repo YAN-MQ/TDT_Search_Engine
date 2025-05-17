@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981130.1130.0461 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Closing arguments are under way today in the federal corruption trial 
+of former agriculture secretary Mike Espy. He's charged with illegally 
+accepting more than $35,000 worth of gifts from companies he was responsible 
+for regulating, including some from chicken processing giant Tyson 
+foods. Espy maintains he never did anything in return for the gifts, 
+which included tickets to professional sporting events. 
+</TEXT>
+</DOC>

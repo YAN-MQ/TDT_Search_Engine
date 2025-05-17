@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> CNN19981212.1300.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+California recently has enacted new anti-pollution standards that 
+are the strictest in the nation. But the rules aren't aimed at automobiles. 
+Charles Feldman reports. You think cars produce a lot of pollution? 
+Not compared with motorboats and jet skis. This video shot by the 
+California air resources board shows just how bad the problem is. 
+One Marine engine operated for seven hours can emit as much pollution 
+as a Brand new car does over 100,000 miles. Current federal guidelines 
+call for new Marine engines to be 75% cleaner in six to eight years. 
+But California, long in the forefront of auto pollution legislation, 
+is now also on the crest of the wave of Marine engine pollution regulations. 
+By 2001, new Marine engines sold in the state will have to be 70% 
+cleaner. That rises to 90% by 2008. Cleaner water will be a by-product 
+of the new regs, because Marine engines also pollute the water as 
+well as the air. A switch from a two-stroke to four-stroke outboard 
+engine, which is more efficient, will account for most of the emissions 
+reduction. But jet ski dealers worry this may mean slower boats and 
+sinking sales. It's like riding a motorcycle in the water, and if 
+you have a slow one, as opposed to a fast one, the slow one is not 
+going to sell. The newer engines will cost more. But savings in fuel 
+should make everything come out even in the wash. Charles Feldman 
+CNN, Los Angeles. 
+</TEXT>
+</DOC>

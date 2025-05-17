@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> NYT19981126.0243 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Friday, Nov. 27: In drafting 
+New York's death penalty statute three years ago, Gov. George Pataki 
+and the state Legislature set out to avoid defects that could render 
+it unconstitutional. Even so, they approved a flawed plea-bargaining 
+process that now poses the first test of the new law before the state's 
+highest court, the Court of Appeals. At issue is a section of the 
+statute that specifically prohibits the death penalty when a defendant 
+in a capital case reaches a plea agreement with prosecutors. The maximum 
+sentence a defendant who pleads guilty to capital murder can receive 
+is life in prison. As a legal matter, this should not be a difficult 
+call for Chief Judge Judith Kaye and her colleagues. The plea-bargaining 
+section is remarkably similar to a provision that led the U.S. Supreme 
+Court, in an important 1968 case, to strike down a North Carolina 
+death penalty statute, finding that it unconstitutionally penalized 
+those defendants who demanded a jury trial. Two lower state appellate 
+decisions in the past year have upheld New York's scheme. But the 
+attempts to distinguish it from the North Carolina case do not stand 
+up to scrutiny. It is true, for example, that in contrast to the disapproved 
+North Carolina rules, a New York defendant cannot plead guilty without 
+a prosecutor's consent. But it is hard to see how that small difference 
+alters the fact that both statutes unconstitutionally scare people 
+away from a jury trial by inducing them to plead guilty rather than 
+risk the possibility of a death sentence. Other jurisdictions maintain 
+room for plea bargaining in capital cases. But it is noteworthy that 
+New York is alone among death penalty states in having a statute that 
+links the possibility of the death penalty to the exercise of the 
+constitutional right to a jury trial. Many legal experts find the 
+provision unconstitutional. Whether that conclusion requires overturning 
+the whole statute is a harder call that depends largely on how the 
+Court of Appeals reads the ``severability'' clause the Legislature 
+included in the law in an attempt to prevent the possible unconstitutionality 
+of one provision from overturning the entire death penalty statute. 
+But, plainly, the drama in this case goes beyond the validity of the 
+state's death penalty law. The Court of Appeals has been under intense 
+criticism from Pataki and other politicians in recent years for its 
+willingness to safeguard the constitutional rights of criminal defendants, 
+and among court-watchers there is concern about the impact of all 
+the political pressure on the court's jurisprudence. The outcome here 
+will say much about its continued integrity and independence. 
+</TEXT>
+</DOC>

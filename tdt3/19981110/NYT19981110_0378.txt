@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> NYT19981110.0378 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The leading cause of preventable blindness worldwide can be effectively 
+treated by a single dose of an antibiotic once a year, health workers 
+said Tuesday, and they announced a major push to distribute the drug 
+in five countries. The disease, trachoma, is caused by strains of 
+the chlamydia bacterium. An estimated 6 million people worldwide have 
+been blinded by trachoma, which is outranked only by cataracts as 
+a cause of blindness. The World Health Organization set up a new strategy 
+earlier this year in an effort to eliminate trachoma as a major cause 
+of blindness by the year 2020. Tuesday, officials of Pfizer Inc., 
+which sells a long-acting antibiotic against the disease, and the 
+Edna McConnell Clark Foundation, a leading charity organization in 
+New York, announced that they were starting a $66 million program 
+to help carry out WHO's strategy in Ghana, Mali, Morocco, Tanzania 
+and Vietnam. Women are two to three times more likely to be blinded 
+by the disease than men, presumably because women have more contact 
+with children. As with many other diseases, children are the prime 
+source of spreading the trachoma bacterium, Chlamydia trachomatis. 
+The infection produces a sticky discharge from the eyes and a runny 
+nose. One attack provides little protection against another one. Repeated 
+infections over a number of years can scar the inner eyelids, which 
+turn inward, causing eyelashes to rub against the cornea. The damage 
+leads to blindness. The discharge provides an easy route of bacterial 
+spread from person to person, particularly in families with young 
+children. In areas of poverty and poor sanitation, flies are attracted 
+to the sticky discharge, and epidemiologic studies strongly suggest 
+that flies can also spread the bacteria. Trachoma is caused by different 
+strains of the same bacteria that causes infections of the genital 
+tract. For unknown reasons, the bacteria strains affect different 
+parts of the body in different ways. Earlier this year, the World 
+Health Organization developed a broad new strategy to eliminate blinding 
+trachoma. The strategy calls for developing clean water supplies to 
+encourage improved personal hygiene. It also calls for minor eye surgery 
+which, when needed, can be carried out in villages with rudimentary 
+health facilities. Another feature is once-a-year administration of 
+the long-acting antibiotic, azithromycin. In 1993, Dr. Robin L. Bailey 
+and colleagues at the London School of Hygiene and Tropical Medicine 
+noticed a report in the journal Lancet of a study indicating that 
+a single dose of azithromycin cured 78 percent of trachoma infections. 
+Since then, the findings have been verified elsewhere. Azithromycin 
+administered in communities under supervision proved as effective 
+as application of an eye ointment containing another antibiotic, tetracycline. 
+There is poor compliance with the recommended course because the ointment 
+is uncomfortable, particularly for children, and must be applied twice 
+a day for six weeks. Pfizer officials said that azithromycin, called 
+Zithromax, is its leading antibiotic, accounting for $1 billion in 
+sales a year. Pfizer said it would would donate enough Zithromax to 
+treat 3 million people over the next two years at a cost of about 
+$60 million. The Clark foundation will pay an additional $6.4 million. 
+Dr. Joseph Cook, an official of the Clark Foundation and an expert 
+in tropical diseases, said one measure of success would be if the 
+program reduced the prevalence of trachoma infections by 50 percent 
+to 75 percent in children 5 years and younger within two years. Worldwide, 
+trachoma infects more than 150 million people. The disease is most 
+common in Africa, the Middle East and parts of Asia. In some areas, 
+more than 50 percent of children are infected. An additional 540 million, 
+or 10 percent of the world's population, live in areas where they 
+are at risk for the disease. Trachoma was once a scourge in the United 
+States and Europe. A century ago, immigrants arriving at Ellis Island 
+were examined by doctors who would routinely snap back the eyelids 
+over a button hook to screen for trachoma. Detection of the disease 
+meant certain deportation. Over the years, trachoma has been eliminated 
+as a major public health problem in most Western countries through 
+good sanitation, largely without antibiotics. However, antibiotics 
+have been useful in speeding elimination of blinding trachoma in areas 
+where it is highly prevalent. Cases still occur sporadically on some 
+Indian reservations. The World Health Organization, a U.N. subagency, 
+has said that ``recent community trials using azithromycin as a single 
+dose against trachoma have demonstrated a very good therapeutic effect 
+for 6 to 12 months in reducing inflammatory disease.'' The Geneva-based 
+health organization recommended community-based distribution of the 
+antibiotic in villages where more than 20 percent of children aged 
+1 to 10 years are infected. For communities with less than a 20 percent 
+childhood infection rates, WHO called for treatment on a house-by-house 
+basis. WHO said that further research is needed to determine if azithromycin 
+needs to be repeated after one year and how often. Eradication of 
+trachoma infection is not thought possible because the bacterium is 
+ubiquitous, Cook said. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981105.2130.0979 </DOCNO>
+<DOCTYPE> UNTRANSCRIBED </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street took advantage of a key jobs report that was released 
+by mistake today. 
+</TEXT>
+</DOC>

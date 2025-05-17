@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> CNN19981202.1130.0155 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA is keeping an eye on the skies above cape Canaveral. The space 
+shuttle "endeavour" is to lift off early tomorrow morning. But threatening 
+weather could delay the launch. Miles O'Brien reports, the six-person 
+mission will carry parts for the new space station. Brimming with 
+high-tech tools and shiny hardware, the space shuttle "endeavour" 
+is poised to launch NASA on the long, uncharted journey toward building 
+a multinational work space-in-space. The crew is ready and very excited 
+about the upcoming mission. It's going to be challenging for them 
+and for the ground teams. But this is just shades of what's to come. 
+Led by commander Bob cabana, the six-person crew of "endeavour" will 
+carry the first U.S. piece of the long-delayed $60 billion international 
+space station. The so-called "unity node" will serve as a connector 
+for future modules and a docking spot for shuttles. "Endeavour" will 
+rendezvous with the first Russian contribution to the station -- a 
+powerplant called zarya. Cabana and robotic-arm operator Nancy Curry 
+will be put to the test, as they pluck zarya from orbit and attach 
+it to unity. What are the hardest points of this? I think some of 
+the difficulties are in the tight tolerances that we are talking about. 
+Tight, indeed. Curry must delicately move the 25,000-pound Module 
+within four inches and four degrees of alignment from unity. Then, 
+spacewalkers Jerry Ross and Jim Newman are scheduled to strap on space 
+tool belts and step out of the shuttle for three shifts of hard work 
+in space. They will connect cables, handrails, tethers and antennas 
+to the embryonic station. NASA is building the space station with 
+Russia, Europe, Japan and Canada. The unprecedented partnership has 
+not been easy. Russia's economic collapse has led to several delays, 
+or slips of this mission, which was supposed to launch a year ago. 
+I think we put the slips to good use. You come up with ways to focus 
+people's attention. NASA is still basking in the glow of all the attention 
+it received during John Glenn's return to space. Now, the space agency 
+is hoping to trade misty-eyed nostalgia for wide-eyed enthusiasm about 
+new era in space exploration. Miles O'Brien, CNN, Kennedy space center, 
+Florida. 
+</TEXT>
+</DOC>

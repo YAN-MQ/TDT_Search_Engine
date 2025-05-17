@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981027.1130.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Ailing Russian President Boris Yeltsin has checked into a rest home 
+near moscow. He's reportedly there to recover from high blood pressure 
+and exhaustion. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981030.0130.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Mitch was downgraded from a hurricane to a tropical storm Thursday. 
+It's located near the Honduran coast, with winds of about 50 miles 
+an hour. 
+</TEXT>
+</DOC>

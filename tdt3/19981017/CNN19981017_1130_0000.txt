@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981017.1130.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Elton John brings pop and opera together. This time it's classic 
+Verdi with a new twist. "Headline News." I'm Tony Frassrand. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981223.1830.0438 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And a note about how the music industry is changing. Sales of rap 
+music albums are expected to outsell country music this year. That 
+would be a first. 
+</TEXT>
+</DOC>

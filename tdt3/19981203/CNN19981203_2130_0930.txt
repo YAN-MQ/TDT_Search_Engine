@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981203.2130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the FAA is asking airlines that operate Boeing 747s not to run 
+fuel pumps before the tanks are dry for risk of explosion. 
+</TEXT>
+</DOC>

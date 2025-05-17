@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981013.1130.0159 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+White House and congressional bargainers are meeting today, trying 
+to hammer out a federal budget deal. President Clinton yesterday signed 
+a third stopgap spending measure to keep the government from running 
+out of money. It expires at midnight tomorrow. Congressional republicans 
+hope to beat the new deadline by passing an omnibus spending Bill. 
+But administration officials say there are still disagreements over 
+education, the environment and other issues. 
+</TEXT>
+</DOC>

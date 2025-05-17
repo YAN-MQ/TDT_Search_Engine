@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981227.1830.0793 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some residents in Virginia, Mississippi and Tennessee are still in 
+the dark. Utility crews have been working to get the lights back on 
+since Christmas eve's ice storms. Virginia power says it could be 
+midweek before everything's back to normal. 
+</TEXT>
+</DOC>

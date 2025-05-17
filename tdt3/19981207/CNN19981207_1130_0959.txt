@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981207.1130.0959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Two astronauts aboard space shuttle "endeavour" are preparing for 
+today's 6 1/2 hour spacewalk. They'll attach cables between the first 
+two components of the international space station. These and other 
+top stories in 15 minutes. 
+</TEXT>
+</DOC>

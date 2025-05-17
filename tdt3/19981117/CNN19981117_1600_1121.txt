@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981117.1600.1121 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow finishing down 24 points, the NASDAQ up almost 17, that's 
+"Dollars & Sense." 
+</TEXT>
+</DOC>

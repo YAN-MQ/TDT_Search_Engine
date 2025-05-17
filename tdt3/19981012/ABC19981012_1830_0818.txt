@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981012.1830.0818 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors road the wave of good news from Chrysler, earnings surged 
+55% in the third quarter, well ahead of predictions. Sales of new 
+models helped drive the increase and the U.S. market was also spurred 
+by news in Japan. Tokyo stocks rose 5 1/4%. Japan passed laws today 
+aimed at regulating troubled banks and raising tax money to keep banks 
+lending. 
+</TEXT>
+</DOC>

@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981012.2130.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And, three Americans were awarded the nobel prize for medicine today. 
+</TEXT>
+</DOC>

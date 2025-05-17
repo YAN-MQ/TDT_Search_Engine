@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981207.2130.1285 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jerome Jurenovich, "CNN Headline Sports." After two weeks of terrible 
+calls by the men in stripes, the NFL is considering a return to instant 
+replay for this year's playoffs. If owners approve of the measure, 
+the system would be similar to the one used in the preseason where 
+coaches would be given a limited number of challenges per game and 
+referees would make the final decision from monitors on the sideline. 
+</TEXT>
+</DOC>

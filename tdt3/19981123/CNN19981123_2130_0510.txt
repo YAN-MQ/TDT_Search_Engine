@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981123.2130.0510 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended national weather forecast is next. And still ahead -- 
+we'll see if the federal government makes the grade when it comes 
+to tackling the year 2000 computer bug. 
+</TEXT>
+</DOC>

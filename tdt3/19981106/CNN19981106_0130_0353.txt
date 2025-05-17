@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981106.0130.0353 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronauts aboard the shuttle "discovery" are in the final stages 
+of their studies comparing space travel with aging. Over the course 
+of the day Thursday, the crew conducted a number of interviews. 77-year-old 
+astronaut John Glenn says more people his age should Venture into 
+space. I think that could eventually occur. And I think, though, before 
+they do something like that, they would want to send more people my 
+age up on a flight like this, where you get more experience. I'll 
+be a data point of one when we get back, and obviously, for it to 
+be more meaningful for a database, you need more people. I don't see 
+any reason in the future why though you couldn't look forward to more 
+elderly people being studied on the international space station as 
+well as on shorter missions I'm on right now. Think you need more 
+people, though, before you make that next step. Forecasters are predicting 
+good weather for "discovery's" scheduled landing saturday at the Kennedy 
+space center in Florida. 
+</TEXT>
+</DOC>

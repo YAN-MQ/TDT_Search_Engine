@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981203.1830.0750 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street -- another day of heavy profit taking and new worries 
+about the Brazilian economy caused the Dow Jones industrial average 
+to plummet, closing down almost 185 points. The NASDAQ fell more than 
+41 points. The top five technology stocks were 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981026.1130.1657 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We have more news for you in two minutes but first another look at 
+the space shuttle. I'm Catherine Callaway enathis is "Headline News." 
+</TEXT>
+</DOC>

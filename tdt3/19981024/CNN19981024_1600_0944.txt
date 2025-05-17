@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981024.1600.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA successfully launched its deep space one spacecraft from cape 
+canaveral this morning. NASA will test new technology aboard the unstaffed 
+rocket that is designed for scientific space missions for the 21st 
+century. 
+</TEXT>
+</DOC>

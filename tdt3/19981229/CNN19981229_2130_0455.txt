@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981229.2130.0455 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The pacific northwest is getting more rain today. Driving rain and 
+melting snow already have triggered floods and mudslides in Oregon 
+and Washington. Scores of people have been evacuated from their homes. 
+And parts of U.S. highway 101 are still closed. On the other side 
+of the country, the effects of the Christmas eve ice storm are still 
+being felt in the south. Thousands of people in Virginia, Tennessee 
+and Alabama and Mississippi are still without power. Utility officials 
+say everyone should have electricity by tomorrow. 
+</TEXT>
+</DOC>

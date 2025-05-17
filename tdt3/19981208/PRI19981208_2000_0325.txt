@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981208.2000.0325 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Northrup Grummond Corporation said it expects to cut its work force 
+by an additional 1,100 jobs next year. The aerospace company said 
+the cuts amount to about two percent of its payroll, mainly at plants 
+in California, Texas, Georgia, and Florida. 
+</TEXT>
+</DOC>

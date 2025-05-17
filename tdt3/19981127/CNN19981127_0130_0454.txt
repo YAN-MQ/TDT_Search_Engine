@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981127.0130.0454 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The weather in the pacific northwest is easing up after the region 
+was pummeled by its second storm in less than a week. Heavy rain and 
+strong winds set off mudslides, toppled trees, blew over mobile homes 
+and left thousands of people without electricity. In Oregon, high 
+water on some roads made Thanksgiving day travel hazardous for some 
+drivers. And rising rivers in Washington state flooded a highway and 
+forced families to evacuate their homes. 
+</TEXT>
+</DOC>

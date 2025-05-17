@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981207.1600.1259 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First up baseball, Steve Finley and the Arizona diamondbacks have 
+agreed on a contract. The center fielder getting a four-year deal 
+worth $20 million. Finley hit a career low .249 with 14 homers and 
+67 rbi for the padres. 
+</TEXT>
+</DOC>

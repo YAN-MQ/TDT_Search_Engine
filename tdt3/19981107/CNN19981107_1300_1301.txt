@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981107.1300.1301 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+To baseball where a group of all-stars flexed their way to a victory 
+to the japanese all-stars this morning. Manny Ramirez homered twice. 
+</TEXT>
+</DOC>

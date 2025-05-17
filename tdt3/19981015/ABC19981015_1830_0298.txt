@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> ABC19981015.1830.0298 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Producer prices had their biggest jump in a year. 0.3% in a month. 
+</TEXT>
+</DOC>

@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> NYT19981102.0350 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Under pressure to make its trading system faster and cheaper, the 
+London International Financial Futures and Options Exchange on Monday 
+announced a sweeping reorganization intended to cut its operating 
+costs in half by the end of next year. The changes will mean a loss 
+of 600 of its 1,000 jobs. The announcement was the latest indication 
+that the exchange, known as Liffe, is under growing pressure _ predominantly 
+from the new German-Swiss Eurex futures exchange _ to accelerate its 
+move toward screen-based trading and away from its slower and more 
+costly open-outcry system. Brian Williamson, the new chairman of the 
+London exchange, said it ``needs to act decisively and quickly'' against 
+sharp competition. The London derivatives market _ once unchallenged 
+as the biggest of its kind in Europe _ has been under increasing pressure 
+since the Deutsche Terminborse, Frankfurt's futures market, seized 
+control of the benchmark 10-year German bond market earlier this year. 
+With the creation of a German-Swiss electronic futures exchange, Liffe 
+has been caught up in such competition between European exchanges 
+in advance of the January introduction of the euro, the single European 
+currency, which will change European trading by creating huge bond 
+and stock markets denominated in the new currency. Liffe executives 
+said at a news conference Monday that the reorganization would be 
+carried out on three levels: cost savings, including a reduction in 
+the number of employees to 400 by the end 1999; a quest for new partners 
+in different time zones, and changes in regulations now modeled on 
+the practices at Chicago trading-pit exchanges. ``It is clear that 
+nothing remotely like our current cost base is sustainable and that 
+we shall have to cut jobs to remain competitive,'' Williamson said. 
+The cuts are supposed to reduce the exchange's operating budget to 
+about $100 million by the end of next year from more than $200 million 
+this year. ``We have to deliver an efficient trading platform and 
+products that our customers want at a price they are prepared to pay,'' 
+he said. ``It is clear we shall have to cut jobs to remain competitive.'' 
+Liffe executives declined to comment on potential new partners. In 
+the past, traders have spoken of the Chicago Mercantile Exchange as 
+a possible partner, mirroring negotiations reportedly under way between 
+Frankfurt-based futures traders and the Chicago Board of Trade. Liffe 
+and the London Clearing House have also discussed closer cooperation. 
+Williamson also said that ``one of the strategies is to talk to Chicago 
+and Frankfurt.'' He is scheduled to travel to Chicago this week, but 
+ruled out an announcement there. ``We have a program starting quite 
+soon where we will take up offers of interest and we will initiate 
+talks,'' Williamson said. The third aspect of the changes involves 
+drawing up regulations for automated trading, Liffe executives said. 
+The announcement showed how much the introduction of the euro is pushing 
+markets into alliances beyond their traditional boundaries. Frankfurt 
+and London have become the main rivals for derivatives trading, while 
+some smaller futures exchanges, such as the Matif in Paris, have thus 
+far been squeezed out. 
+</TEXT>
+</DOC>

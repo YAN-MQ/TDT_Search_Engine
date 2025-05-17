@@ -1,0 +1,158 @@
+<DOC>
+<DOCNO> NYT19981118.0305 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+When top executives of Lightspeed International, a maker of software 
+to manage voice transmission over data networks, walked into the headquarters 
+of Cisco Systems Inc. last December, they were expecting to discuss 
+a deal to let Cisco license two of the company's products. But Michelangelo 
+Volpi, vice president for business development at Cisco _ the leading 
+maker of electronic routers and other devices that make up the complex 
+hidden plumbing of the Internet _ had something else in mind. He wanted 
+to buy Lightspeed. With the fresh backing of Cisco chief executive 
+John Chambers, who had earlier opposed a takeover of the company, 
+Volpi cut right to the chase. Within three hours both sides had agreed 
+to terms. And Lightspeed's managers did not even bother to tell other 
+suitors before the buyout was announced a week later. ``We didn't 
+feel the need to go to anyone else,'' said Lev Volftsun, then Lightspeed's 
+chief executive. And why would they? After all, not only is Volpi, 
+who is just 31, uncommonly aggressive in going after what he wants; 
+he is also dealing in one of the most valuable currencies in the technology 
+business today _ Cisco stock. The shares Volftsun and his colleagues 
+received in return for selling their company, worth $160 million when 
+they announced the deal, are now valued at more than $320 million. 
+Indeed, Cisco's performance in the market the last few years has been 
+nothing short of phenomenal: It is up 467 percent since the beginning 
+of 1996. That has made Volpi one of the most influential deal-makers 
+in technology, in many ways more powerful than the myriad investment 
+bankers and venture capitalists plying their trade in Silicon Valley. 
+He has been instrumental in negotiations for 27 of the 29 companies 
+acquired since 1993 by Cisco _ one of the most active companies in 
+pursuing acquisitions. You can bet his phone calls are returned. Investment 
+banks peddle him clients, venture capitalists bring start-ups to his 
+attention, and entrepreneurs happily trade autonomy for a little piece 
+of Cisco. ``His interest or noninterest means a lot to people,'' said 
+Vinod Khosla, a venture capitalist at Kleiner, Perkins Caufield &AMP; 
+Byers. ``He wields power.'' Cisco's approach to acquisitions is simple: 
+Whatever research and development its engineers cannot create in-house, 
+it buys. That pays off in a variety of ways. A start-up company on 
+the verge of releasing a new product, for instance, will see it explode 
+onto the market _ under the Cisco name. Cisco also uses acquisitions 
+to gain talent for its entire organization. A case in point is Judy 
+Estrin, a founder of Bridge Communications, who became Cisco's chief 
+technology officer after the company earlier this year acquired Precept 
+Software, where she worked. Volpi was not always so popular. In his 
+early days at Cisco _ he started four years ago, an eon in the hyper-speed 
+world of Silicon Valley _ Volpi had trouble completing proposed deals, 
+said Barry Eggers, who hired Volpi for his staff when he ran the acquisitions 
+effort for Cisco. His ``outward confidence,'' said Eggers, now a venture 
+capitalist at Weiss, Peck &AMP; Greer Venture Partners, was mistaken 
+at times for arrogance. ``The most important part of his development 
+is that he learned power doesn't come from telling people you are 
+powerful,'' Eggers added. ``He went from being a guy driving the deal 
+from his side of the table to the guy who understood the deal from 
+the other side.'' Consider Cisco's recent acquisition of Selsius Systems, 
+a Dallas-based affiliate of Lagardere, a French military and media 
+holding company. When Volpi walked into Selsius' small conference 
+room the morning of Oct. 13 to complete the deal, the lawyers were 
+still bickering over minor points, such as what would happen to shares 
+of stock held jointly by an employee and spouse in the event the employee 
+died. ``There was a lot of frustration,'' said Daniel Scheinman, vice 
+president for legal and government affairs at Cisco. Volpi spent the 
+morning on the phone with Scheinman, who was in Washington for meetings 
+with the Federal Trade Commission, and with the company's accountants. 
+But as the discussions with the other side became testier, Volpi finally 
+pulled aside Jacques Payer, an executive representing Largardere, 
+for a private conversation. ``I said something like, `Jacques, we 
+have a handshake,''' Volpi recalled. ``Let's get over this and sit 
+down and get this deal done.'' Within a half-hour, Volpi compromised 
+on some points, signed the documents and was back home in time to 
+attend his wife's childbirth class. Volpi is refreshingly candid, 
+a welcome surprise at a corporation that zealously guards its public 
+image. A spokeswoman for Cisco, for example, initially demanded to 
+listen in on interviews with some of Volpi's personal friends. When 
+that failed, these friends were counseled by e-mail on how to answer 
+questions. By contrast, Volpi encouraged his friends to speak freely. 
+Not that he had anything to worry about. Jane Schuchinski, who met 
+Volpi on their first day of orientation at Stanford Business School 
+in 1992, was gushing in her praise. ``He makes the best risotto in 
+the world!'' blurted Ms. Schuchinski, who is chief executive of a 
+small software start-up in New Jersey and stays frequently with Volpi 
+and his wife, Toni, at their Los Altos home when she visits Silicon 
+Valley. Volpi spent an evening recently advising her on how to handle 
+the next day's business meetings. ``Mike said, `The best you can do 
+is go in and be true to yourself and everything will be fine,''' she 
+recalled. ``That is how he runs his life, too.'' Volpi was born in 
+Milan, Italy. His father is a bank executive, his mother a journalist. 
+When he was 6, his family moved to Japan, where he attended a private 
+Roman Catholic boys school. There he perfected the two additional 
+languages _ Japanese and English _ that he knows besides Italian. 
+In 1984, he left Japan for Stanford University to study mechanical 
+engineering. (He got bachelor's and master's degrees.) After a brief 
+stint at Hewlett-Packard, he went to business school and ended up 
+at Cisco. Despite his first-class American higher education, Volpi 
+is not fully acculturated. ``One funny thing is all the innuendos 
+about American television shows he doesn't get,'' said Gene Frantz, 
+a business school friend. ```The Brady Bunch'? He has no ability to 
+relate to it at all. Cartoons? He does not get it.'' When told of 
+the comment, Volpi, still an Italian citizen, laughed in response. 
+``That's OK; they don't get my cartoon, either.'' In general, Volpi 
+avoids Silicon Valley's trendier byways. ``Mike just does his job 
+and goes home and lives a reasonable life,'' said Gregory Waldorf, 
+an institutional money manager at Pacific Edge Investment Management 
+in Palo Alto, Calif. ``That's a powerful contrast to investment bankers 
+in Silicon Valley.'' In the last couple of years, Volpi and his team 
+have been on an acquisition spree, buying eight to 10 companies each 
+year. The companies are typically small in size, usually valued between 
+$50 million and $300 million. And many of their recommendations for 
+acquisitions come from customers. The March acquisition of Netspeed, 
+a maker of products that give users high-speed Internet access at 
+home, is an example. Solomon Trujillo, chief executive of US West, 
+the regional phone company, called Chambers earlier this year to suggest 
+he buy Netspeed, Volpi said. US West wanted to buy Netspeed's products, 
+but did not want to rely on a small supplier. ``Chambers said our 
+customer is willing to write a purchase order,'' Volpi recalled. ``You 
+have to do it.'' The acquisition was announced in March. Volpi also 
+keeps open a constant dialogue with Silicon Valley venture capitalists. 
+``The tough part is figuring out whom you trust and whom you don't,'' 
+he said. ``If you can't trust them the first time around, you quit 
+sharing information.'' And he practices what he preaches. Recently, 
+Khosla of Kleiner Perkins asked Volpi why he had not talked to one 
+of his companies before acquiring Netspeed. Instead of dodging the 
+question, Volpi explained the US West connection. ``Even when I'm 
+competing I can trust him to be straight,'' Khosla said. But while 
+Volpi is straightforward, he does not volunteer competitive information. 
+``If you see he hasn't returned your calls for a few days and then 
+you read in the newspaper he bought your competitor,'' said Rob Soni, 
+a partner at Bessemer Venture Partners, ``then you probably don't 
+care for him too much.'' Not all of Cisco's acquisitions have been 
+home runs. For instance, Granite Systems, a company started by Andreas 
+Bechtolshiem, founder of Sun Microsystems, and which Cisco paid $220 
+million in stock to buy, has not turned out to be a blockbuster. And 
+Cisco's unusual decision to back a start-up with the express intent 
+of buying it has not worked out as well as expected. ``We had an idea 
+about the product, and we wanted it fast and in Cisco mode,'' Volpi 
+said. Cisco made an early investment in the company, Ardent Communications, 
+a maker of integrated voice, video and data equipment to hook up company 
+branches with headquarters. It garnered two seats on the board and 
+worked closely with Ardent's engineers. Volpi acknowledges now that 
+Cisco micromanaged the company too much. ``It's a tricky balance between 
+telling them what you want and letting them act as a start-up,'' he 
+said. ``We tried to keep it too tight and the product doesn't have 
+the spark of a typical start-up.'' Recently, Cisco ran into trouble 
+with the Federal Trade Commission, which is investigating whether 
+talks Cisco had with Lucent Technologies and Northern Telecom Ltd. 
+in 1997 constituted an illegal effort to carve up the market for Internet 
+equipment. Scheinman said that Cisco, which denies any wrongdoing, 
+was fully cooperating with the investigation and had delivered two 
+boxes of documents to the FTC, including e-mail exchanges among the 
+companies. Despite his attempts to stay out of the limelight, Volpi 
+seems to attract a following all his own. At a charity auction last 
+year, a pair of Tigger the Tiger slippers he liked to wear at home 
+sold for $600. And the mother of one of his best friends bought Cisco 
+stock after Volpi told her over dinner in 1994 that he was taking 
+a job there. ``I don't know what Cisco does,'' said Vivian Schuchinski, 
+the mother of his friend Jane. ``But I wanted to buy a piece of Mike.'' 
+</TEXT>
+</DOC>

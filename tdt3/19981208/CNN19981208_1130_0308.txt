@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981208.1130.0308 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronauts aboard the space shuttle "endeavour" have a pretty light 
+schedule today. Yesterday, two astronauts went on a spacewalk to wire 
+the international space station. Today, the crew will get ready for 
+tomorrow's spacewalk and make a slight orbit change to move the space 
+station up three miles. Yesterday, astronauts connected 40 cables 
+on the space station, which now has power. The job was expected to 
+take five or six hours, but they finished in just four. In all, it 
+will take about 75 spacewalks totalling more than 1,100 hours to complete 
+the space station. 
+</TEXT>
+</DOC>

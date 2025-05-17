@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981218.1600.2143 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Dave Deforest, VOA News. I'm Tony Riggs along with Victor Morales, 
+this is VOA News Now. 
+</TEXT>
+</DOC>

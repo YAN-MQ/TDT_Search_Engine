@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981012.2130.0481 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And still ahead -- there may 
+be no more hiding from work. We'll tell you about a pager that will 
+reach you everywhere on earth. 
+</TEXT>
+</DOC>

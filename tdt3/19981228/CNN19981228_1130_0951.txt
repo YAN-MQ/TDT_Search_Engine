@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981228.1130.0951 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Weather woes today for much of the nation. Power is out to many residents 
+in Virginia, Mississippi, Alabama, Oregon and Tennessee. Snow and 
+avalanches have shut down roads in Washington state. 
+</TEXT>
+</DOC>

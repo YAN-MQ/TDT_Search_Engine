@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981103.1600.1027 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors took some solace today from economic data suggesting the 
+economy is holding steady against a recession, at least in the near 
+term. The conference board, a private research group, reporting its 
+index of leading economic indicators was unchanged in September for 
+the second straight month. The index forecasts economic activity six 
+to nine months in advance. The results were what economists had been 
+expecting. 
+</TEXT>
+</DOC>

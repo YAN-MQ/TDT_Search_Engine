@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981020.1600.0502 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Time now for the "Headline News extended weather forecast." And in 
+a moment, Florida's governor celebrates a deal with the immigration 
+and naturalization service. 
+</TEXT>
+</DOC>

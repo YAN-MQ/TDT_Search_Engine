@@ -1,0 +1,92 @@
+<DOC>
+<DOCNO> NYT19981012.0091 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Nobody likes to say, ``I goofed'' _ particularly when the mistake 
+helped cause the meltdown of stock and bond markets around the globe. 
+Which is part of the reason the public pronouncements about the near-collapse 
+of Long-Term Capital Management and the billion-dollar bailout of 
+the hedge fund organized by the Federal Reserve have been couched 
+in language as arcane as the military lingo in a Tom Clancy novel. 
+(Another reason is that Wall Street loves jargon, which makes its 
+business sound mysterious and important and serves as a sort of secret 
+handshake.) But for readers whose cereal boxes don't come with Alan 
+Greenspan decoder rings, the following vocabulary builder may help 
+impress people at parties _ and perhaps prove handy as the hedge-fund 
+drama continues to unfold. Let's start with hedge fund, which has 
+nothing to do with shrubs, and little to do with the kind of safety 
+implied by, say, hedging one's bets. A hedge fund, of which Long-Term 
+Capital was a large and prominent example, is a sort of mutual fund 
+for the very rich and for professional investors like pension funds 
+and college endowments, all of whom are supposed to be able to watch 
+out for themselves. That's why hedge funds are not subject to government 
+oversight (at least not yet). The main thing hedge funds have in common 
+is that the people running them get to take a chunk of any profits 
+the fund makes, in addition to an annual management fee; this tends 
+to encourage them to take big risks. Practically everyone who has 
+left Wall Street in the past decade claims to be running a hedge fund, 
+even if they spend most of their time practicing fly-fishing casts 
+or watching ``The Jerry Springer Show.'' So hedge funds come in a 
+wide variety of sizes, from a couple of million dollars to a billion-plus. 
+But they can have an outsized influence on financial markets because 
+they can employ leverage, which basically means they make their bets 
+with borrowed money. Long-Term Capital borrowed about $20 for every 
+dollar investors put in, which is the kind of behavior that ultimately 
+sends compulsive bettors to Gamblers Anonymous. On Wall Street, that 
+lofty level of betting is sometimes called nosebleed leverage. Wall 
+Street makes it easier to ratchet up bets by creating derivatives, 
+or contracts whose value is derived from the performance of something 
+else. Anything else. The direction of interest rates in Thailand. 
+The number of rainy days in August. The difference between the current 
+interest rates in Thailand and the number of rainy days in August, 
+divided by the number of pages in the Starr report. While some derivatives 
+are commonplace and publicly traded _ like the futures that let farmers 
+lock in the price of corn long before the crop is harvested _ many 
+are private wagers between two parties, like barroom bets about which 
+frog will jump the farthest. That's why such positions can be so hard 
+to unwind, or squirm out of. Long-Term Capital was supposed to be 
+a market neutral hedge fund, which means it wasn't supposed to be 
+betting on the overall direction of the stock or bond market. The 
+fund's actual strategy was a secret, even to the people who invested 
+in the fund or loaned it money. Its activities were also hidden from 
+regulators, leading to complaints that nobody knew what the fund was 
+up to, also known as lack of transparency. But it seems Long-Term 
+Capital employed a kind of computer-driven arbitrage, a word with 
+a variety of meanings on Wall Street. In this case, it seems to have 
+meant buying stuff for the wrong price. For example, if toothpaste 
+in your neighborhood usually sells for about $4 a tube, and you find 
+it in another store for $2, you would snap up all you could. But you 
+wouldn't necessarily brush your teeth a lot more; you might sell the 
+tubes on the street and reap a 100 percent profit. The problem with 
+this strategy, as Greenspan of the Federal Reserve pointed out in 
+his testimony to Congress earlier this month (though not in these 
+words), is that if enough people try to do this toothpaste trading, 
+either the store will raise the price or folks on the street will 
+stop buying your toothpaste and go to the store instead. Either way, 
+the chances of making a killing will evaporate. Money being a lot 
+easier to move than toothpaste, these things happen in a flash in 
+financial markets. All this helps explain why Long-Term Capital had 
+to move into far-flung markets with low liquidity, meaning it's hard 
+to buy and sell things without pushing prices up or down sharply. 
+Many of the hedge fund's bets were in notoriously illiquid emerging 
+markets, which used to be known as Third World countries and are now 
+called submerging markets by Wall Street traders who have lost a bundle 
+overseas. Russia may not have had much success as an evil empire, 
+but as an evil emerging market, it rules. After Moscow defaulted on 
+its debt in August, spooked investors moved their money to the safest 
+spot they could think of: long bonds, the 30-year securities sold 
+by the United States. That flight to quality reversed capital flows, 
+so money that had been streaming into risky markets looking for extra 
+profit poured instead into places where there was little risk of loss. 
+Investors bid up the price of Treasuries while dumping everything 
+else, which shorted out all those high-tech computer models Long-Term 
+Capital was relying on. As a result, the fund was essentially bought 
+by the banks and brokerage firms that had loaned it money based mainly 
+on the perceived intellectual wattage of the fund's managers. In the 
+wake of the Long-Term Capital fiasco, many investors have moved, in 
+Greenspan's words, from irrational exuberance to fear. All of this 
+thanks to what economists call an exogenous event. Also known as a 
+surprise. 
+</TEXT>
+</DOC>

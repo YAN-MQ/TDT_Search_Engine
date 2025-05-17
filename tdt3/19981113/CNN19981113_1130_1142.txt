@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981113.1130.1142 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+back on wall street -- the dow is up 46 points. the nasdaq is now 
+adding about 3 1/3. 
+</TEXT>
+</DOC>

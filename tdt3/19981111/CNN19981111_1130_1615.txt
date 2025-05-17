@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981111.1130.1615 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stay tuned. After a short break, we'll have more on the latest showdown 
+with Iraq. I'm Catherine Callaway. This is "CNN Headline News." 
+</TEXT>
+</DOC>

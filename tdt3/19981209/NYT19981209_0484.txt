@@ -1,0 +1,76 @@
+<DOC>
+<DOCNO> NYT19981209.0484 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Microsoft trial focused Wednesday on an esoteric issue that is 
+crucial to the outcome of the antitrust case: What is a computer operating 
+system? The answer is important because the government contends that 
+Microsoft Corp. illegally tied its software for browsing the World 
+Wide Web to its industry-standard Windows operating system to stifle 
+competition in the Internet software market. Microsoft says its browser 
+is not a separate product unfairly tied to Windows but merely a feature 
+of its operating system. For hours, Steven Holley, a Microsoft lawyer, 
+battered away at the government's expert witness, David Farber, a 
+computer science professor at the University of Pennsylvania, asking 
+him arcane questions about fine distinctions in programming files. 
+Clearly, the questioning was intended to try to get Farber to concede 
+that drawing a neat, sharp line separating the operating system _ 
+which controls a computer's basic operations _ from other software 
+was tricky, if not impossible. For the most part, Farber held his 
+own, batting away the challenges to the central tenet of his testimony, 
+which was that there is no obvious technical or user benefit to integrating 
+the operating system and the browser as Microsoft did. Microsoft apparently 
+has had its own difficulties in defining just what an operating system 
+is. The government offered into evidence a dictionary of computer 
+terminology published last year by Microsoft. The entry for operating 
+systems makes no mention of Internet software or anything related 
+to it. And the definition for a Web browser seems squarely at odds 
+with Microsoft's courtroom contention that its Internet Explorer browser 
+is an inextricable element of Windows rather than a separate software 
+product, or application. The Microsoft dictionary states that a Web 
+browser is an ``application that allows users'' to navigate the Internet. 
+And Microsoft, it seems, had some trouble finding a distinguished 
+expert witness to agree entirely with its view of the operating system 
+and the browser. In September, when Microsoft initially named its 
+12 witnesses, the list included Michael Dertouzos, director of the 
+computer-science laboratory at the Massachusetts Institute of Technology. 
+He was listed as Microsoft's technical expert. But Dertouzos was soon 
+dropped from the Microsoft witness list after giving a deposition 
+in the case, part of which was entered into evidence Wednesday. When 
+asked, ``Is a browser an application?'' Dertouzos responded, ``Historically 
+and today, it is the case that browsers are treated as applications.'' 
+In the afternoon, James Gosling, an executive for Sun Microsystems 
+Inc., whose cross-examination began last week, took the stand again. 
+With sharp questions and the introduction of e-mail evidence, the 
+Microsoft legal team attacked the government's allegation that Microsoft 
+unfairly tried to ``pollute'' Java, an Internet programming language 
+developed by Sun, because Microsoft viewed the new technology as a 
+threat to its dominance of the personal computer software market. 
+Instead, Microsoft tried to portray its own work with Java, which 
+it licensed from Sun in 1996, as an effort to make the new Internet 
+programming language work smoothly with Microsoft's Windows. Microsoft 
+introduced an e-mail sent on Aug. 31, 1995, by Gosling, one of Java's 
+creators, to Scott McNealy, Sun's chairman, sketching out a number 
+of options on how to exploit Java as a business. One option, he wrote, 
+was to use Java to ``go after Microsoft.'' But later he wrote: ``I 
+wouldn't `go after' Microsoft. I'd want to work with them, but beat 
+them at their own game ... or at least give them the illusion of working 
+with them.'' Accusing Sun of dealing with its rival in bad faith, 
+Thomas Burt, a Microsoft lawyer, asked, ``Isn't that exactly what 
+you did?'' Microsoft also introduced e-mail from Sun to its closely 
+aligned Java partners, led by Netscape Communications Corp. and IBM, 
+which are also archrivals of Microsoft, to establish industry working 
+groups to develop Java software. Microsoft, Burt noted pointedly, 
+was left off those groups. In the antitrust case and in a private 
+suit in California, Microsoft is accused of deliberately making its 
+version of Java incompatible with Sun's standard Java. Burt insisted 
+that the split was Sun's fault. ``Isn't it true that Sun had no interest 
+in making Java work especially well with Windows?'' he asked. Gosling 
+replied that any lack of cooperation on Sun's part was a result of 
+Microsoft's stance that its version of Java would work smoothly only 
+on Windows and would not include the Sun software to make it work 
+on several operating systems. ``Where we drew the line was when Microsoft's 
+work blocked out other software platforms,'' Gosling said. 
+</TEXT>
+</DOC>

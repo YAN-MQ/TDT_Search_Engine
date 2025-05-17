@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981110.1600.0299 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The postal service has issued three new stamps in honor of U.S. veterans. 
+The stamps commemorate world war II veterans. One features "Rosie 
+the riveter," in honor of the women who supported the war effort. 
+Another stamp is in commemoration of the 1944 Gi Bill, which allowed 
+thousands of service members to obtain higher education. 
+</TEXT>
+</DOC>

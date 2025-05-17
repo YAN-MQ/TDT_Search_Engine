@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981203.1600.1038 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Trucks came roaring to the rescue for another automaker in November. 
+Ford saying that total vehicle sales gained 2.1% in November, as strong 
+sales of the popular light trucks offset weak car sales. It was precisely 
+the problem at General Motors, the nation's largest automaker said 
+November sales fell 5.6%, partly because of low inventories of trucks. 
+GM is still trying to ramp up production of popular models after last 
+summer's strikes. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981110.1130.1015 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+honeywell has announced plans to eliminate 1,000 jobs over the next 
+six months. officials say the reduction will come through layoffs 
+and early retirements. honeywell, which makes controls for the home, 
+industrial, aviation and space markets, just yesterday reported a 
+22% gain in third quarter earnings. the company credited prior cost 
+reductions and strong performances in its space and aviation divisions. 
+honeywell's stock is up 3/4 at 83 3/8. 
+</TEXT>
+</DOC>

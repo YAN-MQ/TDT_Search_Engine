@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981228.1830.1307 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A humbling milestone for Japan. For the first time since world war 
+II, the unemployment rate in Japan is now as high as it is in the 
+U.S., 4.4%. that's almost unthinkable in a Country where life-time 
+employment used to be a virtual guarantee. 
+</TEXT>
+</DOC>

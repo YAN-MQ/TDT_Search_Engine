@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981030.2130.0491 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Next, the extended weather forecast for the U.S. And still ahead -- 
+a new era in mobile phones, ones that work anywhere in the world. 
+</TEXT>
+</DOC>

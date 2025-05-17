@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981203.1130.0488 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+Temperatures today, again, very warm over most of the east. Averaging 
+some 15 to 25 degrees above normal, with 60s and 70s likely. We will 
+find the colder temperatures, though, beginning to filter into the 
+rockies. And our forecast calls for snow in that area, as low pressure 
+tracks in through the Rockies. Low pressure is developing in the plains, 
+and that will pick up some moisture. And so we'll find better chances 
+for showers and thunderstorms as we head into late tomorrow. High 
+pressure and fair weather continues over much of the southeastern 
+U.S. a look now at the extended forecast. On Saturday, heavy snows 
+are in the forecast in the Rockies as temperatures turn colder. Showers 
+through the Great Lakes and warm temperatures along the gulf coast, 
+the forecast highs into the 80s. On Sunday, again it's warm in the 
+southeast. We'll find showers and storms through the midwest and snow 
+through the upper midwest as temperatures turn colder. The cold temperatures 
+will continue to filter eastward during the day on monday, along that 
+front which will produce scattered showers and storms over a good 
+part of the east, and snow through the northern lakes. For more weather 
+information, log into CNN.com. 
+</TEXT>
+</DOC>

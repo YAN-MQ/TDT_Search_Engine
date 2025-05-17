@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981030.1600.3095 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The price of gold closed in London at $292.50 an ounce, down $1.30. 
+The U.S. dollar rose in Europe against the other major currencies. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981222.2130.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- winter has finally caught up with 
+us. Freezing temperatures have invaded most of the country, not to 
+mention snow, sleet and ice. 29 deaths are blamed on the nasty weather. 
+In some places, the thermometer dropped 20 degrees in just two hours. 
+</TEXT>
+</DOC>

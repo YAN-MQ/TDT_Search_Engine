@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981227.1300.0371 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Cloud cover could cause problems for authorities in Iceland who are 
+trying to keep a close eye on a volcano that's been boiling over for 
+about a week now. Spotter planes have been flying out to monitor the 
+eruption that tossed ashes thousands of feet into the air. Over the 
+next few days, cloud cover will limit traffic around the volcanic 
+glacier. 
+</TEXT>
+</DOC>

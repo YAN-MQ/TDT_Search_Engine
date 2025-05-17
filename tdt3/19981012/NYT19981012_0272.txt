@@ -1,0 +1,82 @@
+<DOC>
+<DOCNO> NYT19981012.0272 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The scene has been played out again and again over the millennia: 
+A hungry bird spies a bug and pounces, driving its beak into its hearty 
+insect meal. Now, in a twist on this ancient story, scientists are 
+training birds to aim at virtual insects, computer-generated fakes 
+at the heart of a growing field of ecology. An increasing number of 
+such bloodless creatures are being shaped, colored and directed on 
+the computer screen as researchers find new ways to explore a wide 
+array of questions about why real animals act the way they do. The 
+virtual menagerie already in use by biologists includes spiders, flies, 
+chickens and fish, variously posed as prey, predators or alluring 
+mates. ``What we have here is a virtual ecology,'' said Dr. Alan B. 
+Bond, who along with Dr. Alan C. Kamil, a fellow behavioral ecologist 
+at the University of Nebraska, carried out a study reported in the 
+current issue of the journal Nature. ``The blending of the living 
+animal and the computer model allows us to ask questions that were 
+inaccessible.'' Bond and Kamil were interested in the longstanding 
+question of why members of a single species may have very different 
+color patterns. One popular hypothesis was that the variation results 
+when predators focus on hunting down the most common type until it 
+becomes rare and then switch to hunt whatever has become the common 
+type in its place. By doing so, they would prevent any one color type 
+from being hunted into oblivion. But the hypothesis has been difficult 
+to test. Field studies involved things like leaving out banquets of 
+differently colored worms fashioned of pastry and coming back to see 
+what the birds had taken. But while researchers saw that the common 
+type was favored, they were unable to show that birds actively switched 
+their favorite from one type to another as frequencies of different 
+types changed. On the computer, however, researchers created a virtual 
+population of differently patterned black-and-white winged moths, 
+based on the wing pattern of actual underwing moths. The computer 
+then drew sample moths from the virtual population and offered them 
+to the birds. Pecked moths were considered killed and were removed 
+from the population. Researchers saw that the birds tended to attack 
+the common types and pass on the uncommon types, just as predicted, 
+as different types waxed and waned in frequency. It took researchers 
+two months to train each blue jay to recognize on-screen moths as 
+food items, but once they did, researchers say the birds went at the 
+images with such vigor that they had to place a protective shield 
+over the screen to keep the jays from shattering the monitors. Although 
+the blue jays were slow to catch on, some animals respond instantly 
+to a computer-generated meal. When shown a computer-generated insect, 
+toads ``will look at it, hop over to it and actually put their tongue 
+on the screen trying to get it,'' said Dr. David Clark, an animal 
+behaviorist at Alma College in Michigan who is also doing virtual 
+experimentation. A praying mantis, he said, will stalk a virtual fly 
+and lunge its legs at it. Clark has also worked with spiders and finds 
+that females do their come-hither leg tapping at the sight of virtual 
+males performing just the right courtship behaviors. He said he had 
+been able to tease apart the important elements of courtship by creating 
+male spiders of varying color patterns (something he said would have 
+killed real animals if done with paint) and programming them to perform 
+combinations of behaviors that no actual spider would ever do. But 
+not all animals take to computers so readily. ``I tried showing snakes 
+mice walking around on a little screen,'' Clark said. ``I didn't have 
+much luck.'' Lizards were similarly unimpressed. Part of the problem, 
+researchers said, is that computer monitors are specifically built 
+to reproduce the world for the human eye. Bird color vision, for example, 
+``is so very different and so much better than ours,'' said Dr. John 
+A. Endler, an evolutionary biologist at James Cook University in Australia, 
+that using color images may always be an impossibility with them. 
+(Researchers on the new study used black and white patterned moths.) 
+Exploring the technology and discovering what animals find convincing 
+is all part of this new field, just as it was years ago when biologists 
+began playing taped recordings of frog, bird and insect songs _ now 
+a tried and trusted experimental technique _ to see if animals would 
+respond. Bond and Kamil are also using birds known as Clark's nutcrackers 
+to study the three-dimensional problem of spatial memory _ that is, 
+how a bird remembers where it stored all its bits of food _ a seemingly 
+perfect experimental problem to solve using virtual reality. But even 
+if the birds are ready, the researchers may not be. After spending 
+two months training blue jays to peck a computer screen, Bond realizes 
+it would take a tremendous amount of work to train Clark's nutcrackers 
+to react naturally to a computer-generated three-dimensional space. 
+``I just wouldn't want to think of what you'd have to do to get reliable 
+virtual reality with a nutcracker,'' Bond said. 
+</TEXT>
+</DOC>

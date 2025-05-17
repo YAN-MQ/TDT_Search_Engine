@@ -1,0 +1,73 @@
+<DOC>
+<DOCNO> NYT19981128.0027 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Once upon a time, 1998 was going to be the year of the electric car. 
+In 1990 California announced that 2 percent of the automobiles sold 
+in the state by major manufacturers in 1998 would have to be nonpolluting. 
+New York and Massachusetts soon followed suit. The electric car was 
+hailed as the route to clean air and the antidote to dependence on 
+imported oil. Today the electric car seems an idea whose time has 
+been put on hold. ``This was the year it was all going to happen,'' 
+said Nancy Hazard, of the Northeast Sustainable Energy Association, 
+a nonprofit advocacy group in Greenfield, Mass. ``Obviously it is 
+not unfolding as they anticipated it to unfold.'' As the last of the 
+1998 models leave dealers' lots, very few of them are running on batteries. 
+The technology behind electric car improves yearly, but the cars themselves 
+fail to attract buyers. Experts say the reason is they are not as 
+flexible as gasoline cars, so consumers are not lining up, and policy 
+makers have become reconciled to gasoline as engines have become cleaner 
+and oil cheaper. But Ms. Hazard and others are still enthusiastic 
+about the electric vehicle because technology has created a gasoline-electric 
+car, with potentially huge implications for energy use and pollution. 
+The nomenclature has changed, too. Specialists once called electric 
+vehicles EVs, but they now call them battery electric vehicles, or 
+BEVs, to distinguish them from hybrid HEVs, which use internal combustion 
+engines to charge the batteries and electric motors to turn the wheels. 
+Before this hybrid appeared, something quite unexpected happened to 
+the old internal combustion engine. The century-old automotive technology, 
+thought by many experts to have reached its limits, adapted. California, 
+when it first called for the electric car in 1990, also set standards 
+for cleanliness in regular cars; the most stringent was the ``ultra-low 
+emission vehicle,'' or ULEV. But the state, the toughest in the nation 
+when it came to the environment, underestimated the capacity of auto 
+makers to respond. Toyota has plans for a gasoline car that is four 
+times cleaner than the ULEV; Honda plans one that is 10 times cleaner. 
+This new car, the ``super ultra low emission vehicle,'' quickly acquired 
+its inevitable acronym: SULEV. ``California ran out of superlatives, 
+so they had to start compounding them,'' said David Hermance, general 
+manager in charge of engines at the Toyota Technical Center USA Inc., 
+in Gardena, Calif. California recently enabled auto makers to meet 
+their LEV quotas with SULEVs instead. Of course, the nonpolluting 
+electric car does not emit pollutants itself, but that doesn't mean 
+it doesn't contribute to fouling the environment; somewhere out there 
+is a plant producing power for charging batteries. California's electric 
+power system, though, is very clean, and pollution for charging batteries 
+is much lower than for the ULEV. With the introduction of the SULEV, 
+the difference grows smaller; the cost is modest. A year ago in Japan, 
+Toyota introduced a hybrid car called the Prius, which cost about 
+10 percent more than a Corolla and is the same size. Its factories, 
+which make 2,000 cars a month, cannot keep up with demand. In 2000 
+the Prius will be sold in this country. The Prius, which does not 
+idle, has a gas engine to charge its batteries or power its wheels. 
+The result is low emissions and fuel economy of 66 miles a gallon. 
+Today every other major car company has a hybrid on the drawing boards 
+or in research, generally with an internal-combustion engine as an 
+auxiliary power unit. And oil is a tough competitor. The Energy Information 
+Administration, the government's main energy forecasting group, pointed 
+out last week that oil costs $7 a barrel less than it did a year ago. 
+Because of the Asian economic meltdown, prices are not expected to 
+rise to pre-crisis levels until 2007. The shift away from battery 
+electric cars is disappointing to purists and some engineers, partly 
+because the vehicles can get their energy from ``clean'' sources like 
+the sun as well as from coal, natural gas or oil. But efficiency alone 
+is not enough to sell products. Still, mass production of the hybrid 
+means further improvements in electric engines, paving the way for 
+a pure electric car if better batteries become available. In the meantime, 
+Ms. Hazard said, ``more and more, consumers are seeking information 
+on environmentally friendly automobiles. ``If the auto companies can 
+produce a vehicle which meets their driving needs, they will make 
+that green choice,'' she said. 
+</TEXT>
+</DOC>

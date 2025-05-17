@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981118.1130.1445 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Picasso and stradivari are two names that translate to big bucks. 
+In New York, sotheby's has auctioned off a Pablo picasso painting 
+that hung in the national gallery of art for a decade. The cubist 
+work, called "nude," sold for $11 million yesterday. In London, a 
+stradivari violin is expected to be the highlight of a Christie's 
+auction tomorrow. The instrument, made in 1698, is expected to sell 
+for more than $1 million. 
+</TEXT>
+</DOC>

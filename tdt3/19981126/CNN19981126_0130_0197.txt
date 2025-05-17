@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981126.0130.0197 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Traffic jams, long lines and crowded trains are not exactly pleasant 
+thanksgiving appetizers. But millions of Americans got a taste of 
+travelers' frustration Wednesday as the holiday weekend began in earnest. 
+There's some debate on whether the day before Thanksgiving is the 
+busiest travel day of the year. But for those in the crush, the superlatives 
+probably don't matter. Some Amtrak trains were standing-room-only. 
+And some airlines say that nearly all of their planes were in service. 
+Aaa says 34 million Americans are on the move this holiday. 28 million 
+drive themselves, the others travel by plane, train or bus. For most, 
+the destination is familiar. 63% are staying with family and friends. 
+</TEXT>
+</DOC>

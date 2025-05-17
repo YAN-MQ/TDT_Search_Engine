@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981010.0130.0976 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks rallied Friday after a volatile week. Analysts say the market 
+was Buoyed by bargain hunting among financial and technology stocks. 
+</TEXT>
+</DOC>

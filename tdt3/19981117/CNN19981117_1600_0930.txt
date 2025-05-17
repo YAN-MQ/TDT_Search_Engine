@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981117.1600.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the Leonid meteor shower reached its peak today, lighting up the 
+night skies over Asia. The celestial dust storm is the most intense 
+in 32 years. 
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981014.2130.0503 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"Headline News forecast." Later in the day on Wednesday into the evening, 
+we'll see scattered snow showers over the northern Rockies, heavier 
+rain developing Thursday in to Thursday evening over New England especially 
+in Maine where they don't need the rain. And we'll see beautiful weather 
+in the east with high pressure. Some clouds over the southern Rockies 
+due to two consecutive areas of low pressure and two frontal systems 
+pushing back to back through the region. Highs on Thursday, cool in 
+the northern Rockies, only in the 40s. Generally 50s and 60s in the 
+north. 70s and 80s in the south. Your extended forecast looking very 
+wet in the northern plains and the northern Rockies. We will also 
+see snow in the northern Rockies. Thunderstorms over Texas and western 
+Louisiana with cool temperatures in the northern Rockies on Friday. 
+Those cool temperatures continue into Saturday with rain throughout 
+the central U.S. and showers in the northwest. On Sunday, the rain 
+subsides, we'll see some rain in the eastern Great Lakes over Louisiana 
+and Texas and the northwestern section of the country. 
+</TEXT>
+</DOC>

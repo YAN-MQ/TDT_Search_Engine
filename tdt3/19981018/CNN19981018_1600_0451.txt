@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981018.1600.0451 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There are new reports of violence emerging from Kosovo. The associated 
+press confirms three Serb policemen were killed and three wounded 
+in a grenade attack today outside Pristina, Kosovo's capital. That's 
+just one of many skirmishes reported as an advance team from the 2,000 
+strong monitoring force began arriving in Pristina. The monitors are 
+from the organization of security and cooperation in europe. U-2 surveillance 
+aircraft from NATO are now also verifying the pullback of serb forces 
+in the Yugoslavian province. 
+</TEXT>
+</DOC>

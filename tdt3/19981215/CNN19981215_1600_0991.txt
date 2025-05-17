@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981215.1600.0991 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One of the world's largest suppliers of building materials settles 
+a Billion-dollar lawsuit. I'm Jan Hopkins in New York with this edition 
+of "Dollars & Sense." Owens corning has agreed to settle more than 
+176,000 lawsuits resulting from its making of asbestos insulation. 
+The Ohio-based company, which makes pink panther fiberglass insulation 
+now, will make payments totalling $1.2 billion. A settlement resolves 
+close to 90% of existing lawsuits against the company. They were filed 
+by people who claimed exposure to asbestos made them sick. Owens corning 
+stopped selling products containing asbestos in 1972. 
+</TEXT>
+</DOC>

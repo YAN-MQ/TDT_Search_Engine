@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981126.2130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the "wild thing" balloon was removed from the 72nd annual Macy's 
+thanksgiving day parade today because of high wind gusts. Thousands 
+of people in New York braved the weather to watch the event. 
+</TEXT>
+</DOC>

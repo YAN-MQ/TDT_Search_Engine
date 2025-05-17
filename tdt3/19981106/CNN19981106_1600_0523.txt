@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981106.1600.0523 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the U.S. is next. And later -- the 
+image of one quiet California town is changing, and that could threaten 
+its economy. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981118.0130.0446 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+satellite operators say most of the leonid meteor storm has passed. 
+the skies over japan were filled with light as debris moved through 
+earth's atmosphere. so far, none of the 600 satellites orbiting earth 
+has been damaged by the meteor pieces. nasa rotated the hubble space 
+telescope so that any particles would hit its heavily protected back 
+side. 
+</TEXT>
+</DOC>

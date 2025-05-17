@@ -1,0 +1,70 @@
+<DOC>
+<DOCNO> NYT19981224.0320 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Twice in the last week, buildings designed to save lives in the event 
+of a fire turned instead into deathtraps, when human error foiled 
+the fireproofing systems that were meant to isolate and contain deadly 
+flames, smoke, heat and gases. The two incidents, which claimed the 
+lives of three firefighters at a burning Brooklyn apartment building 
+last Friday and four residents in a Manhattan high-rise fire on Wednesday, 
+have focused renewed attention on New York City's fire code and its 
+approach to fire safety in high-rise residential buildings. Fire safety 
+experts said that in the case of high-rise apartment buildings, the 
+city relies heavily on fire-resistant construction, intended to contain 
+a fire until firefighters arrive, while the rest of the state and 
+most of the country have moved to require sprinkler systems in tall 
+residential buildings. A system of structural fire barriers like New 
+York City's can _ and, in most cases, does _ work, the experts said. 
+But it is vulnerable. For the system to function as intended, the 
+room or apartment where a fire has broken out must be closed off. 
+A human mistake as simple as leaving a door ajar, as occurred in the 
+two most recent fatal fires, can cause the safety system to break 
+down. ``New York is really the only major city in the country that 
+has this philosophy,'' said Jonathan Barnett, associate professor 
+of fire protection engineering at the Worcester Polytechnic Institute 
+Center for Fire Safety Studies in Worcester, Mass. City officials 
+say that their fire code has proven its worth because, over all, fire 
+deaths are declining. But, as underlined by the two most recent fatal 
+fires, many of the fire-safety innovations introduced in the city 
+during the last 20 years _ self-closing doors to seal off stairwells 
+and apartments, fire-rated doors and walls to contain fires, fire-rated 
+concrete block construction _ can be undone by human error. In the 
+Brooklyn fire on Dec. 18, an elderly woman left the door open behind 
+her as she fled a fire in her 10th-floor apartment, turning the hallway 
+into a wind tunnel for a fireball that engulfed three firefighters. 
+City officials are investigating why the supposedly self-closing steel 
+door did not shut on its own and why a sprinkler system in the building's 
+hallway had been turned off. That system was not required by the city 
+code, but had been installed by the federal agency that managed the 
+residence. At the fire in Manhattan, Fire Department officials said 
+residents propped open a self-closing door to the apartment where 
+the blaze started on Wednesday morning. Fire and smoke escaped into 
+the hallway and were sucked into a stairwell when firefighters opened 
+the door. Four people on the stairs were killed. The two fires appear 
+to have given new political impetus to stalled efforts to require 
+sprinkler systems in tall residential apartment buildings. Mayor Rudolph 
+Giuliani has suggested in recent days that he will push for legislation 
+to require all new apartment towers to have sprinkler systems. At 
+the same time, the City Council's Housing and Buildings Committee 
+has scheduled a hearing on potential sprinkler legislation in the 
+coming weeks, said Rica Rinzler, the committee's spokeswoman. Sprinklers 
+are now required in apartment towers only when the building has a 
+compactor chute, which is difficult to seal off and can be difficult 
+for firefighters to reach if a fire breaks out in the chute itself. 
+Sprinkler systems are already required for some types of buildings: 
+new high-rise residential hotels and office buildings taller than 
+75 feet, nightclubs, department stores, some factories and warehouses, 
+nursing homes and single-room-occupancy hotels. Fire Commissioner 
+Thomas Von Essen said his department would support new and tougher 
+legislation to require sprinklers in residential high-rises. But he 
+said any new laws should strike a balance between fire-safety imperatives 
+and the cost of the new systems. ``The public has to realize that 
+buildings are much safer,'' Von Essen said. ``We have fewer fire fatalities 
+than we have ever had. There were 145 fire fatalities last year. That 
+was the lowest in 37 years. ``This year, there have been 101 fire 
+fatalities,'' he continued. ``Things are better than they ever were. 
+Could conditions be safer? There are always ways to improve.'' 
+</TEXT>
+</DOC>

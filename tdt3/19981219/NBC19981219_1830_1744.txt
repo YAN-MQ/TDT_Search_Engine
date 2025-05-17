@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981219.1830.1744 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+that's "nbc nightly news" this historic evening. i hope to see you 
+week nights on the news at 9:00 eastern on msnbc and again on cnbc 
+at 10:00. ann curry will be here tomorrow. i'm brian williams reporting 
+tonight from washington. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981213.1000.0578 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Rescue workers have completed the search for victims of Friday's Thai 
+airways jet crash. They recovered the remains of the last 101 victims 
+yesterday. 45 people survived. The jetliner crashed into a swamp while 
+trying to land in a heavy rainstorm. Police say they have recovered 
+the jet's flight recorder. They hope it will help them determine why 
+the plane went down. 
+</TEXT>
+</DOC>

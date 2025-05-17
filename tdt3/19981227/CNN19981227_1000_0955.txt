@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981227.1000.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And many retailers are still offering deep discounts to bring out 
+bargain hunters this weekend. 
+</TEXT>
+</DOC>

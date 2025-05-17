@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981122.1000.0535 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A teenage prank has many police officers around the country worried. 
+More and more often, teens and young people are aiming red laser pointers 
+at lawmen. While the small beams of light are harmless, officers can 
+mistake them as a Beam coming from a laser gun sight mounted on guns. 
+In fact, one Connecticut town banned sales of pointers to anyone under 
+18 after three police officers drew their guns on teens in a shopping 
+mall after they'd been targeted with a laser pointer. 
+</TEXT>
+</DOC>

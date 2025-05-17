@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981231.1600.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories on this last day of the year -- 1998's coming 
+to a Chilly end across much of the country. Bone-shivering cold is 
+the rule today from the upper midwest to the northeast. 
+</TEXT>
+</DOC>

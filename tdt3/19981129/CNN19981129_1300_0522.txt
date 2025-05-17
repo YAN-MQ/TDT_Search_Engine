@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981129.1300.0522 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather update." 
+A pacific cold front is moving onto the west coast. That continues 
+your chances of rain and snow from Washington southward into california. 
+We've seen some heavy snow across the cascades. A cold front will 
+also move across the southern plains as another low-pressure system 
+moves through the Great Lakes. So look for a chance of rain and snow 
+across the lakes changing to showers through the Mississippi valley 
+into southern Texas. High temperatures across the virgin islands will 
+be in the 80s with good chance of thunderstorms. 50% at San Juan. 
+60% across the virgin islands. Showers are possible at Hilo today 
+with a high temperature of 78. Still looking at record warm temperatures 
+in the east. It will be mild, readings in the 60s and 70s. A few 80s 
+expected for the Florida keys and southern Texas. The western U.S. 
+will stay in the 30s, 40s and 50s. On the extended forecast, heavy 
+rain with showers Tuesday for the western United States as the central 
+plains and the east remain fair. Continue the heavy rain into Wednesday, 
+we could see some spotty showers and a few thunderstorms in the east. 
+The extended forecast can be found at CNN.com. 
+</TEXT>
+</DOC>

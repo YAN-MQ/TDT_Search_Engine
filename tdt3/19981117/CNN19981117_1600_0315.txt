@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981117.1600.0315 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended national weather forecast is next. Still ahead -- what 
+will the view of the Leonid meteor shower be like from this part of 
+the world? We'll talk to a NASA scientist who gives us an idea. 
+</TEXT>
+</DOC>

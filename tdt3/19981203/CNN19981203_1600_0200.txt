@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981203.1600.0200 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another launch attempt for space shuttle "endeavour" is scheduled 
+for tomorrow at 3:36 A.M. eastern time. An alarm caused enough of 
+a delay to push "endeavour" beyond its ten-minute launch window this 
+morning. The planned historic liftoff had to be scrubbed. Searching 
+for the cause of the master alarm cost precious time, and the countdown 
+could not be resumed quickly enough. "Endeavour" is on a significant 
+mission. It will be the first one NASA has designated for the construction 
+of the new international space station. Mission directors explained 
+that "endeavour" must launch between a window of a specific time, 
+because it must hit a specific trajectory to reach the orbit set for 
+the space station. The zarya, which is the Russian Module, was launched 
+two weeks ago. What we have to do is wait until the earth rotates 
+underneath the orbital plane of the zarya. So it is a tricky thing 
+to do. It limited us to only 3 minutes and 42 seconds. 
+</TEXT>
+</DOC>

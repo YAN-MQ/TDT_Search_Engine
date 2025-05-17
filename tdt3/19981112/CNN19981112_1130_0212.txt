@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0212 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The United States plans to sign a treaty today at the United Nations 
+designed to reduce global warming. Some 60 countries have already 
+signed the Kyoto protocol reached last year in Japan. It aims to reduce 
+the emission of global warming gases by an average of 5% from 1990 
+levels with cuts scheduled to take effect between 2008 and 2012. Opponents 
+say the agreement will hurt the economy. The U.S. produces a quarter 
+of the global warming gases emitted each year. 
+</TEXT>
+</DOC>

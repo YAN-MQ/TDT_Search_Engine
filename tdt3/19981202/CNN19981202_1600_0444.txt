@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981202.1600.0444 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The weather's been so warm lately, ski resort operators are getting 
+nervous. Record high temperatures have been recorded from the Rockies 
+to New England. It reached 58 degrees in Boston yesterday. Ice skaters 
+on Boston common were able to roll up their sleeves, though it was 
+still pretty windy. The first 11 months of this year have been the 
+warmest on record in the northeast. And there's no snow to report 
+in snowbelt states like Ohio. Temperatures have been as much as 20 
+degrees warmer than normal. 
+</TEXT>
+</DOC>

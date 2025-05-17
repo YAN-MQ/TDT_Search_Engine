@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981129.1000.0933 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- voters in Switzerland apparently have 
+decided not to legalize the recreational use of drugs like heroin 
+and cocaine. Swiss TV reports the measure was decidedly defeated. 
+</TEXT>
+</DOC>

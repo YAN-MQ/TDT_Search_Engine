@@ -1,0 +1,65 @@
+<DOC>
+<DOCNO> NYT19981101.0091 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In a protest by Internet users that is gaining popularity in Europe, 
+thousands of people and hundreds of World Wide Web site operators 
+waged a one-day ``boycott'' Sunday over high telephone and Internet 
+access charges against Germany's dominant telephone company. Though 
+the protest posed no financial threat to the company, Deutsche Telekom, 
+the protesters nevertheless generated a torrent of publicity that 
+has generally put the company in an unpopular light. In what might 
+or might not have been a coincidence, Deutsche Telekom announced last 
+week that it would soon introduce new price cuts for Internet users 
+and ordinary phone service. The protest could signal a new trend in 
+Europe, where many telephone companies charge by the minute for both 
+local telephone calls and Internet access. Online consumers in Spain 
+staged a similar protest in September against Telefonica. Rather than 
+ignore the complaints, the company opened talks with Internet user 
+groups and agreed to cut several key rates. Swiss groups are trying 
+to organize a protest as well. In both Germany and Spain, boycott 
+organizers urged Internet users to stay off line for one day. Companies 
+and people that maintain sites on the Web have been urged to shut 
+down their normal offerings and put up ``strike'' banners in their 
+place. At issue in Germany are the Deutsche Telekom fees for Internet 
+access and for local calls to its access site. German customers pay 
+$1.10 to $2.90 an hour for local telephone service on top of Internet 
+access fees that run about $2 an hour. Heavy Internet users can easily 
+run up telephone bills exceeding $100 a month. By contrast, American 
+customers usually pay a flat monthly rate of less than $25 for local 
+phone calls and can obtain basic Internet access for about $20 a month. 
+It was not clear how many people had participated in the boycott Sunday, 
+but support for the idea spread with astonishing speed after it was 
+first proposed five weeks ago by Thomas von Treichel, a 20-year-old 
+college student. ``A company cannot survive economically if it places 
+itself against the customers,'' said von Treichel, who is studying 
+computer systems and has been running his campaign from the basement 
+of his parents' house in Karben, a suburb of Frankfurt. Von Treichel 
+heads up a small Internet club called Dark Breed. Sending out e-mail 
+messages proposing the protest in late September, he quickly attracted 
+support from thousands of people across Germany and from several companies. 
+His most active supporter is Serico Internet Services, a Berlin company 
+that provides Internet access and has complained that high telephone 
+charges are keeping customers away. By Friday, von Treichel and his 
+colleagues said they had received 12,000 messages of support from 
+individuals, and hundreds of organizations had pledged to shut down 
+their home pages on Sunday. One of the most active promoters has been 
+a prominent German publisher of computer magazines, Heinz Heise GmbH. 
+Spiegel Online, the Internet site operated by the weekly news magazine 
+Der Spiegel, is not participating in the strike but has publicly expressed 
+its ``sympathy'' for it. German newspapers, television and radio shows 
+also have reported heavily on the campaign. Internet use is growing 
+rapidly across Europe, but surveys indicate that that the growth in 
+countries like Germany, with comparatively high telephone rates, is 
+slower than the growth in the United States. About 9 percent of Germans 
+use the Internet frequently, compared with 20 percent to 30 percent 
+of Americans. In Finland, which has had local telephone competition 
+for several years and local rates are lower, more than 30 percent 
+of the population uses the Internet. Hans Ehnert, a spokesman for 
+Deutsche Telekom, said the company's prices were in line with those 
+in many other countries and that they would continue to decline. But 
+he acknowledged that local telephone prices were considerably higher 
+than the flat rates available in the United States. 
+</TEXT>
+</DOC>

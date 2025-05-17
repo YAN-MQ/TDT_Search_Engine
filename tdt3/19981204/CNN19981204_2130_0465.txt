@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981204.2130.0465 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for Saturday. As the storm system pushes across the plains 
+states, there will be lingering snow in the rocky mountains with some 
+rain and thunderstorms out ahead of a cold front into the Mississippi 
+river valley. We could also see some snow falling over the far northern 
+midwestern states. Another round of rain and mountain snow into northern 
+California with time. Highs on Saturday, 20s and 30s over northern 
+New England. The great basin and into the northern plain, but the 
+rest of the east will be relatively mild. Looking ahead to Sunday, 
+snow in the north and thunderstorms south as that system pushes across 
+the Mississippi river valley. More rain and snow west as well. On 
+Monday, showers and storms continue to push eastward with rain in 
+the northwest and cooler temperatures moving through the middle Mississippi 
+river valley. Tuesday temperatures have cooled off in all but the 
+far southeastern states. Don't forget, four-day forecasts 7200 cities 
+at CNN.com. 
+</TEXT>
+</DOC>

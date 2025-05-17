@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981216.0130.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the crew of the shuttle "endeavour" is back on earth, after a 
+12-day mission to begin assembling the international space station. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981204.1600.1058 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The government is alleging that citibank helped launder drug money 
+for Raul salinas. He is the brother of the former Mexican president. 
+A report by the general accounting office says that citibank helped 
+Salinas move $100 million to accounts in Switzerland and the United 
+Kingdom. The Gao says that citibank violated its own internal controls 
+on money laundering in the process. The report found that citibank's 
+officers failed to perform a financial background check on Salinas 
+when he opened his citibank account in 1992. 
+</TEXT>
+</DOC>

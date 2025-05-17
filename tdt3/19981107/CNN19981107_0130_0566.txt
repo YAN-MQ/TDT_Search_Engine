@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> CNN19981107.0130.0566 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Most new therapies for arthritis this year have produced mixed results. 
+But doctors say a new super aspirin could be the best pain reliever 
+yet. Rhonda Rowland reports. Anyone who suffers from chronic pain 
+can probably relate to gloria baswell. To relieve her rheumatoid arthritis, 
+she tried aspirin and many similar pain relievers known as nonsteroidal 
+anti-inflammatory drugs. They work, but -- I took them for at least 
+nine years, and they really did a job on my stomach. To this day, 
+I can't even take an aspirin. Now there's a new class of experimental 
+medicines which may treat the pain without hurting the stomach. Okay. 
+Have you experienced any adverse changes in the last eight weeks? 
+Some already are calling them "super aspirin." To call them a super 
+aspirin is probably not correct, in the sense, they're not stronger 
+than the aspirins we have. They're equally good at pain relief. But 
+what they are certainly super about is they're super safe. The new 
+medicines are known as "Cox-2 inhibitors." They work like this -- 
+an enzyme known as Cox-1 protects the stomach. Another enzyme, Cox-2, 
+triggers pain and inflammation when you're hurt. Aspirin-like drugs 
+block both Cox-1 and Cox-2, reducing pain, but also leading to side 
+effects like ulcers. The new drugs block only Cox-2, providing pain 
+relief without stomach trouble. Still, not all doctors are convinced 
+the new Cox-2 inhibitors are better than the old aspirin-like drugs. 
+It's a little bit premature to be declaring victory until we've had 
+a large enough number of clinical trials and enough people treated 
+for long periods of time to understand the risk to benefit ratio better. 
+The first in the new class of drugs could be approved for use within 
+months. Does it hurt? no. Other Cox-2 inhibitors are in final testing. 
+One test subject likes the relief he gets. Two of the most painful 
+things I experience is when I get into my car. Lifting my left leg 
+up into the car, and it seems to be less painful. And using stairs 
+is less painful. And at age 82, erwin shayne says he's thankful to 
+move as much as he can. Rhonda Rowland, CNN. 
+</TEXT>
+</DOC>

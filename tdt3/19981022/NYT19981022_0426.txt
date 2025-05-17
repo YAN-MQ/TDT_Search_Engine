@@ -1,0 +1,299 @@
+<DOC>
+<DOCNO> NYT19981022.0426 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Sanford Weill, the co-chief executive of Citigroup, excels at sizing 
+up risks. He has swallowed up numerous firms, including Salomon Smith 
+Barney, to create the world's largest financial company, winning praise 
+for shrewdly negotiating the financial pitfalls of Wall Street. Yet 
+when it came to the hedge-fund giant Long-Term Capital Management, 
+Weill acknowledged that he did not know enough about the dangerous 
+bets that the fund was making. Long-Term Capital borrowed heavily, 
+made risky investments across many markets and last month nearly failed, 
+surviving only after a $3.6 billion cash investment by big brokerage 
+firms and banks under the guiding hand of regulators worried that 
+the fund's collapse would disrupt the global economy. Why did seasoned 
+financiers around the world not recognize the problem earlier? Weill, 
+one of the few Wall Street executives to speak publicly about Long-Term, 
+concedes the sheer star power of the fund's financial brain trust 
+blinded him to the huge risks Long-Term was taking. The fund's managers 
+included acclaimed economists who last year shared a Nobel Prize, 
+former government officials and bond traders known for generating 
+immense returns. The downfall of Long-Term Capital Management provides 
+a rare window on the clubby world of high finance, where decisions 
+about where to steer vast sums can be made with few questions asked. 
+Like Weill, many of Long-Term's backers were satisfied for nearly 
+four years to put hundreds of millions of dollars at stake with only 
+a glimpse of the vaunted fund's trading and borrowing practices. The 
+fund provided a brief monthly financial statement, without information 
+on specific investments _ far less disclosure than many other hedge 
+funds. And at times it took secrecy to great lengths. When representatives 
+of a private Swiss bank met with the fund to discuss investing more 
+money, notepads and pens were whisked out of the room so no one could 
+take notes. Long-Term also received generous terms on its loans _ 
+including a credit line of $900 million from Chase Manhattan and other 
+banks requiring no collateral _ and amassed far greater amounts of 
+debt than its competitors. All of this permitted it to make financial 
+bets far out of proportion to the amount of cash it had on hand. Part 
+of the reason no outsider knew the size of the fund's problem for 
+so long was that everyone had only a small piece of the Long-Term 
+puzzle. Lenders were unaware of the sums others were extending, and 
+firms trading with Long-Term did not know anything about trades other 
+than their own or about the fund's overall borrowing. ``I haven't 
+met anyone who knew how big they were,'' said a senior executive at 
+a major bank who requested anonymity. ``They wouldn't let anyone look 
+at their positions.'' Why did Long-Term get special treatment? ``When 
+you have two Nobel laureates, plus a former Federal Reserve vice chairman, 
+a cast of star bond traders, and have extraordinary returns for a 
+couple of years, the whole thing becomes self-reinforcing,'' said 
+Henry Hu, a professor of financial law at the University of Texas 
+at Austin who has testified before Congress on hedge-fund activities. 
+``There was a willing suspension of disbelief by very sophisticated 
+investors when it came to Long-Term.'' That opinion was echoed privately 
+by Wall Street executives as well as by regulators, consultants and 
+other hedge-fund managers. ``I think their lineage and Nobel Prize 
+status allowed them to provide less information, although I'm not 
+in a position to know entirely,'' said Leon Cooperman, chairman of 
+Omega Advisors, one of the world's biggest hedge funds. ``We provide 
+investors with a lot of information like balance-sheet statements. 
+Long-Term was apparently very different. Caveat emptor.'' The Federal 
+Reserve Board is now examining how well the banks it regulates gauged 
+the riskiness of their loans to and trades with Long-Term, and is 
+paying special attention to whether firms used computer models to 
+test how the investments would fare in a market plunge. Banking regulators 
+in Switzerland are conducting their own investigation. Weill, who 
+says his company began taking a close look at Long-Term's activities 
+only in June, now expects more disclosure from his trading partners. 
+``I think the lesson of this is that if it's structured so that you 
+can't get more than a fraction of the picture,'' he said, ``then in 
+the future we will be taking our business elsewhere.'' Hedge funds 
+_ largely unregulated investment pools open to wealthy investors and 
+big institutions _ aim to provide consistently outsized returns on 
+stocks, bonds, currencies or other securities while limiting losses 
+from market downturns. Like the baseball slugger Mark McGwire, such 
+funds swing for the fences. And like McGwire, winning funds attract 
+a devoted, often rhapsodic following. Long-Term provided eye-popping 
+gains on the billions of dollars it managed. In 1995, investors hauled 
+in almost 43 percent after fees and nearly 41 percent the following 
+year, before returns dropped to about 17 percent last year. ``Unfortunately, 
+what you get in a bull market is people who forget there is a down 
+side, especially if they have stardust in their eyes,'' said Paul 
+Roth, an attorney with Schulte Roth &AMP; Zabel, a law firm that represents 
+hedge funds. Exclusive List of Big Clients At its outset, Long-Term 
+established relationships with global banks that it deemed strategic 
+investors. The initial pitch, according to a person close to the fund 
+who requested anonymity, was to a hand-picked group of fewer than 
+10 commercial and investment banks that were offered the exclusive 
+opportunity to invest in the hedge fund. As part of the arrangement, 
+the hedge fund got research and intelligence on markets around the 
+world, while the bank investors got advice on risk management from 
+Long-Term's usually reclusive brain trust and such other perks as 
+speakers for seminars. ``We hoped the relationship would be mutually 
+beneficial,'' said the person close to the fund. Big banks in the 
+United States, Europe, Asia and Latin America each invested $10 million 
+to $100 million in the fund for this privilege. The investors were 
+heavily European and Asian, and included Dresdner Bank of Germany, 
+Sumitomo Bank of Japan, and Merrill Lynch &AMP; Co., which helped 
+raise much of the original capital for the fund. The relationship 
+between Merrill and Long-Term Capital blossomed over the years. In 
+September 1997, about 10 executives from brokerage powerhouse Merrill, 
+including the retired chairman, Daniel Tully, convened at the famed 
+Waterville golf course in Ireland to meet with the course's owners, 
+which included Long-Term's founder, John Meriwether, and several other 
+Long-Term partners. The group golfed and fished for trout by day and 
+discussed global markets over sumptuous dinners. The golf weekend 
+was a rare event, since Long-Term was so ardently sought after as 
+a business partner that it seldom engaged in the wining and dining 
+that normally cements business relationships on Wall Street. Meriwether, 
+a legendary bond trader who left Salomon Brothers in the early 1990s 
+in the wake of a trading scandal, recruited a coveted cadre of bond 
+traders from his former firm. Long-Term's partnership rolls also included 
+some marquee names: David Mullins, a former Harvard Business School 
+professor and a former Federal Reserve vice chairman, and Robert Merton 
+and Myron Scholes, two economists who would win Nobel Prizes for their 
+work in the field of modeling financial risk. ``When I met Myron Scholes 
+I was like `Wow, I'm meeting Myron Scholes _ Nobel Prize _ this is 
+something special,''' said a senior executive whose multinational 
+bank traded with Long-Term but who requested anonymity. ``They were 
+asked fewer questions because of their pedigrees. No question.'' The 
+Attraction of Celebrities As Wall Street celebrities, Meriwether and 
+his cohorts needed little salesmanship, attracting $1.3 billion by 
+the time the fund began trading in February 1994. Still, whenever 
+Long-Term's partners visited a bank abroad, they often played golf 
+or had dinner with its executives. The banks never sent their junior 
+people _ only senior executives met with Long-Term partners. Long-Term's 
+partners liked the idea of knowing their business associates personally, 
+so disputes about trades could be worked out quickly and amicably, 
+according to the person close to the hedge fund. And partners emphasized 
+that their own money was at stake as ``a selling point.'' They initially 
+put in $100 million and later used a financial contract to increase 
+their stake substantially. From the beginning, the fund's partners 
+agreed to furnish only sketchy information about their practices and 
+not to play favorites by giving some investors, lenders or trading 
+partners more information than others, according to people close to 
+Long-Term and bankers. They provided investors a monthly statement 
+of two pages. The first page showed the net asset value for the fund, 
+a profit-and-loss tally, and any additions or withdrawals. The second 
+page was an abbreviated balance sheet with quarterly information on 
+broad categories of investing, like government bonds and equities, 
+but no information on specific securities. Antoine Bernheim, president 
+of Dome Capital Management, which advises institutional investors 
+about hedge funds, said some funds send not only a detailed write-up 
+discussing strategy each quarter, but also a list of their 10 biggest 
+positions. ``Now the trend is toward more openness,'' he said. Long-Term's 
+penchant for secrecy extended to a meeting during the last year with 
+bankers from Bank Julius Baer &AMP; Co., a private bank in Switzerland. 
+At that meeting, pens and notepads were removed so the bankers could 
+not jot down any information, according to people familiar with the 
+visit. Julius Baer declined repeated requests for information about 
+the incident or its relationship with the fund. Even with sketchy 
+information, big banks were lining up to lend to Long-Term, according 
+to investment and commercial banks. Bankers typically lend to hedge 
+funds on an overnight basis, requesting daily information to reassess 
+the quality of the collateral, but some of Long-Term's lenders provided 
+financing for months at a time without checking the fund's books, 
+according to a person familiar with Long-Term's books. Though some 
+lenders wanted daily information about asset values and positions, 
+Long-Term refused to give it. Among the fund's big debts was a credit 
+line of $900 million led by Chase Manhattan that was parceled out 
+to two dozen other banks and not backed by any collateral _ which 
+is unusual for hedge-fund loans. Long-Term used $500 million of that 
+credit line, which has since been repaid with the proceeds of the 
+rescue fund. ``I think it's fair to say that banks were eager to do 
+business with Long-Term because the firm had strong relationships 
+and sizable positions,'' said Bernheim of Dome Capital. ``It was the 
+lender's responsibility to demand more information. They should have 
+had a much bigger picture of the overall balance sheet, and that seems 
+to have been missing.'' Regulators say they had warned banks about 
+easy lending to hedge funds. ``We have had concerns about lending 
+standards to hedge funds, and on April 28, 1994, we put out a letter 
+to all banks expressing concern about the growth of trading activities 
+to institutional investors, including leveraged funds,'' said Peter 
+Bakstansky, a spokesman for the Federal Reserve's New York branch. 
+``It has been a matter of continuous supervision.'' Despite such concerns, 
+the Fed says it did not become aware of how much debt Long-Term Capital 
+had on Sept. 20, when the fund verged on collapse. Long-Term Balks 
+at Disclosing Details Secrecy is not uncommon among hedge funds. They 
+are not required to report their positions even to their investors. 
+But several managers of big hedge funds said that along with providing 
+regular, detailed statements, when investors call them to inquire 
+about their trading strategy or even a specific position _ say, in 
+a stock or a bond _ they gladly disclose it. Bank representatives 
+who visited Long-Term were told what the hedge fund was doing in concept 
+only, not anything specific about trades. Long-Term worried that if 
+its trading positions or strategies became too widely known, competitors 
+would take advantage of them. And the fund's financiers deliberately 
+did not share data with one another. ``We were concerned about exchanging 
+information too much,'' said David Komansky, Merrill's chairman and 
+chief executive. Firms lending to Long-Term Capital did not have a 
+clear idea how much each had loaned, he said, and sharing such information 
+could have had legal repercussions. ``Collusion is illegal,'' Komansky 
+added. A top executive at another Wall Street firm echoed that belief 
+and pointed to the painful experience of the Nasdaq trading scandal, 
+in which many firms agreed to pay hefty fines after regulators said 
+they had illegally fixed prices. When it came to trading, Long-Term 
+engaged in a bit of bravado. In mid-1997, the partners approached 
+Credit Suisse about making a $100 million trade that the fund would 
+increase in value. Credit Suisse sought to protect itself in the deal 
+by taking a stake in the fund. When the fund faltered, Credit Suisse 
+took a hit. The complex transaction contributed to a $55 million reduction 
+in revenue that Credit Suisse announced last month. Long-Term got 
+generous agreements with its trading partners as well as its lenders. 
+Typically, a borrower wanting to buy $100 million in Treasury securities 
+might be asked to provide $10 million of its own assets in addition 
+to the Treasury securities as collateral. In some cases, Long-Term 
+did not have to put up any assets other than the newly purchased securities 
+for collateral. Clearly the appeal for banks doing business with Long-Term 
+was the enormous fees it generated. Long-Term was one of the top five 
+money-making clients for many of the big brokerage firms, according 
+to people on Wall Street. The list of firms investing or trading with 
+Long-Term ultimately became a who's who of the international financial 
+world: Merrill; Morgan Stanley; Goldman, Sachs; Chase Manhattan; Bankers 
+Trust; J.P. Morgan; Citigroup; Union Bank of Switzerland; Credit Suisse; 
+Deutsche Bank; Sumitomo _ even the foreign-exchange office of Italy's 
+central bank. Some Key Officials Join the Firm Long-Term's global 
+clout was enhanced by the presence of former government officials 
+at the firm. Mullins joined in 1994 as soon as he left the Federal 
+Reserve, a move made possible because the Fed, unlike the Treasury 
+Department, does not have a mandatory waiting period for its former 
+officials' return to the financial sector. Mullins declined to comment. 
+``He was looking to move on'' and asked Long-Term for advice, said 
+the person close to the fund who requested anonymity. The fund's partners 
+knew Mullins _ besides other duties, he was the Fed's point man on 
+the bond-trading scandal at Salomon Brothers _ and invited him aboard. 
+This person said that Mullins joined after the firm had completed 
+its initial fund raising, but later helped with such efforts. His 
+government experience gave the firm no special advantages in the bond 
+market, the person added. Mullins' key role, he said, was devising 
+strategies to maintain the firm's financial stability as it engaged 
+in complicated trades. Likewise, people close to the firm said that 
+Alberto Giovannini, a former Italian treasury official, played no 
+role in encouraging the Italian central bank to become involved with 
+the firm. Giovannini worked as an economist at Long-Term but was primarily 
+involved in setting up a new asset-management business for Long-Term 
+in Italy, according to the person close to Long-Term. Although central 
+banks are generally conservative investors, the Italian central bank 
+put a considerable amount of money into Long-Term. The foreign-exchange 
+office of Italy's central bank had a $100 million equity stake in 
+the fund and lent it $150 million more. Antonio Fazio, head of Italy's 
+central bank, said in a recent press conference that there was ``nothing 
+illegal'' about the investment. While questions are being raised in 
+Italy, regulators in Switzerland are investigating its bankers' relationships 
+with Long-Term. One report has indicated that Union Bank of Switzerland 
+at least suspected how much debt Long-Term was taking on. According 
+to an internal credit report cited by the Reuters news agency, UBS 
+knew Long-Term was heavily indebted as early as December 1996. The 
+bank report refers to a limit on dealing with a client that had ``leverage,'' 
+or the ratio of debt to assets, of more than 30 to 1. Yet UBS estimated 
+that when derivatives activities were accounted for, Long-Term Capital's 
+leverage might be 250 to 1, according to the report. UBS did business 
+with the hedge fund anyway. UBS declined to comment on the Reuters 
+report or anything else having to do with Long-Term, citing the Swiss 
+investigation. But it recently announced a loss of about $700 million 
+because of its exposure to Long-Term. Several top UBS executives, 
+including the bank's chairman, resigned. Just last week, Merrill Lynch 
+replaced the person who had been in charge of risk management at the 
+firm for 11 years _ a move that analysts attributed to a quarterly 
+loss for the firm and in part to the Long-Term Capital fiasco. As 
+Markets Sour, Questions Arise Once financial markets began to plummet 
+this summer, Long-Term's creditors and trading partners pressed the 
+rapidly deteriorating hedge fund for more information _ and got it. 
+It was only then that Weill _ whose firm was suffering from its own 
+errant bond bets and would announce a month later that it was exiting 
+the arcane business of bond arbitrage _ had his minions begin to closely 
+examine Long-Term's bond-trading strategies. Others started to look 
+closely, too. A banker who requested anonymity said he visited Long-Term's 
+partners in August ``and sat with them for about two-and-a-half hours 
+and talked about the kinds of things you would want to know when there's 
+stress in the system, and I got much more disclosure than previously.'' 
+By then, what bankers heard was disconcerting. Besides the extraordinary 
+debt burden, the fund had been engaging in risky trades and had been 
+responsible for big moves in certain markets. In one instance, a major 
+bank estimated that Long-Term's trading was responsible for 30 percent 
+of the volatility on the major French stock index, the CAC-40, during 
+much of 1998. Bankers also discovered that Long-Term's computer model 
+was terribly outmoded in its capacity to test how the fund's investments 
+would perform in an unusually rough market. For its part, once a little 
+daylight was let in, Long-Term was reminded why it never wanted to 
+broadcast its trading positions or strategies. Investors were invited 
+in over the summer to help inject some money into the firm to keep 
+it afloat. But individuals close to the fund's operations believe 
+that some potential investors simply used what they learned to begin 
+speculating against Long-Term, betting the fund would collapse. Regulators, 
+also late to discover the size of the problems lurking behind Long-Term's 
+glittering facade, feared that the hedge fund's collapse would undermine 
+the global financial system. So a rescue of the hedge fund by a consortium 
+of investment and commercial banks was arranged in late September. 
+Whatever infatuation Wall Street bankers once had with Meriwether 
+and his colleagues, they are now putting distance between them. When 
+members of the banks arranging the rescue gathered at the offices 
+of Skadden Arps Slate Meagher &AMP; Flom one day late last month, 
+Meriwether was not invited. When he did show up the next day, he was 
+sequestered in an office far away from the meeting room, said people 
+who attended. To talk to Meriwether, bankers stepped out into the 
+hallway. And the starry-eyed interaction that characterized previous 
+encounters was notably absent. ``There wasn't any back-slapping,'' 
+said one person at the meeting, ``and there was no talking about golf.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981209.2130.0281 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronauts Jerry Ross and Jim Newman have attached two 100-pound antennas 
+to each side of unity, the American-made part of the international 
+space station. It was a bit of a struggle getting them out of "endeavour." 
+The astronauts had to back out of the tunnel that leads to the shuttle's 
+cargo bay feet-first while carrying the antennas. They will allow 
+the crew of the space station to communicate with colleagues on earth. 
+</TEXT>
+</DOC>

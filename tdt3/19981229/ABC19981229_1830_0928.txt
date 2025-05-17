@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> ABC19981229.1830.0928 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"On the money" tonight -- eight straight days of gains in the Dow 
+Jones industrial average. That hasn't happened since 1996. The Dow 
+was up more than 4 points today to close at 9320. On the NASDAQ, stocks 
+were up more than a point to close at 2181, a record high gain. The 
+gains in the NASDAQ are being driven by the feeding frenzy over internet 
+stocks. The housing market is booming. Sales of existing homes were 
+up 2.7% last month, on pace to set a record for the year. There's 
+also enormous demand for new homes. Builders will put up more square 
+feet of housing this year than at any time in history. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981104.2130.1669 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up in the next half hour -- the United States puts a price 
+on the head of a suspected terrorist. I'm Toria Tolley. This is "CNN 
+Headline News." 
+</TEXT>
+</DOC>

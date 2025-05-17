@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981123.1600.1094 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+B.F. Goodrich is buying col-tech industries for about $2.2 billion. 
+The purchase will expand B.F. Goodrich's stance in the aerospace and 
+industrial products sectors. The merged operation would have about 
+22,000 workers and will be based in charlotte, North Carolina. That 
+means the loss of more than 100 jobs at B.F. Goodrich headquarters 
+in richfield, Ohio. The combined companies expect to have $5.5 billion 
+in revenues in the first year. And they expect to save $61 million 
+a year by the year 2001. 
+</TEXT>
+</DOC>

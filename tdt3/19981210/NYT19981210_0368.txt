@@ -1,0 +1,143 @@
+<DOC>
+<DOCNO> NYT19981210.0368 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Biologists have for the first time deciphered the full genetic programming 
+of an animal, a landmark achievement both in its own right and as 
+a milestone toward understanding the human genome. The animal is a 
+microscopic roundworm known as Caenorhabditis elegans and used in 
+laboratories throughout the world as a means to explore biology at 
+the genetic level. Researchers report that its genome, or full DNA, 
+consists of 97 million chemical units and is predicted to contain 
+19,099 genes. If printed in ordinary type, the DNA sequence would 
+take up 2,748 pages of a New York Times newspaper. The genome, deciphered 
+by two teams of biologists headed by John E. Sulston of the Sanger 
+Center near Cambridge, England, and Robert H. Waterston of Washington 
+University in St. Louis, has given biologists their first sight of 
+the information needed to develop, operate and maintain a multi-cellular 
+animal. The only genomes sequenced up until now have belonged to single-celled 
+organisms like bacteria and yeast. Because worms and humans have turned 
+out to share many genes in common, the worm genome is regarded by 
+biologists as an essential basis for understanding how the human genome 
+works. ``In the last 10 years we have come to realize humans are more 
+like worms than we ever imagined,'' said Dr. Bruce Alberts, president 
+of the National Academy of Sciences and editor of a leading textbook 
+on molecular biology. Seeing the worm's complete genome is humbling, 
+Alberts said, because it makes biologists realize how much there is 
+yet to understand. ``We always underestimate the complexity of life, 
+even of the simplest processes,'' he said. ``So this is really only 
+the beginning of unraveling the mystery of life.'' Dr. Eric Lander, 
+director of a human genome sequencing center at the Whitehead Institute, 
+said of the findings: ``This is really a landmark achievement. It 
+is the first time we've had a picture of the gene set needed to run 
+a multi-cellular organism.'' ``This is a brilliant innovation of half 
+a billion years ago that we are getting a look at for the first time,'' 
+he said, referring to the evolution of animals from their single-celled 
+precursors. Completion of the worm's genome, a 10-year project that 
+was finished on schedule, also reinforces the credibility of the federal 
+human genome project, which is locked in an undeclared race with a 
+formidable new rival, a private enterprise named Celera. Celera is 
+owned by Perkin-Elmer, the company that makes the leading brand of 
+DNA sequencing machines. Sulston's work was financed by Britain's 
+Medical Research Council and the Wellcome Trust of London, Waterston's 
+by the National Institutes of Health. The two teams worked in close 
+cooperation although they were an ocean apart. They announced their 
+effective completion of the genome in the Friday issue of Science. 
+The two laboratories are also the leading production centers of the 
+human genome project. When the two researchers first decided to sequence 
+the worm's genome in 1988 each was advised by colleagues that the 
+task was a lunatic venture. The longest stretches of DNA that had 
+been sequenced at the time were just a few thousand units in length. 
+``Several people told me I was nuts and was throwing away my career,'' 
+Waterston said. ``But I have a lot of faith in John,'' he said, referring 
+to his colleague's ability to solve hard problems. When James Watson, 
+then director of the human genome project, first told the two researchers 
+he would advance money for a pilot project, they realized a long commitment 
+lay ahead of them. Sulston recalled that on the Syosset platform, 
+the Long Island train station near Watson's Cold Spring Harbor laboratory, 
+``I said to Bob `The prison door has just closed behind us _ I heard 
+it clang.' '' The two researchers first met in Cambridge in the laboratory 
+of Sydney Brenner, the biologist who selected the C. elegans worm 
+as a model animal for scientific study. Sulston was completing a study 
+of how the worm grows from a single egg to the 959 cells of the adult 
+animal, and then moved on to mapping the worm's chromosomes, the packages 
+in which the DNA is stored. Waterston, a physician interested in muscle 
+disease, had been persuaded by Brenner to study muscle disorders first 
+in the worm. The task of sequencing the worm's genome was not the 
+usual kind of academic research project. Both Waterston at the Washington 
+University School of Medicine and Sulston in Cambridge had to transform 
+their laboratories into semi-industrial plants employing more than 
+200 people each in almost round-the-clock operations. One major problem 
+in sequencing a genome is that the machines that analyze DNA can read 
+segments of only 500 units or so in length. The full genome must be 
+reconstituted from an inordinate number of small overlapping pieces. 
+Another complexity is that the DNA must be amplified, or copied many 
+times, to furnish the machines with a sufficient amount to analyze. 
+Many regions of the worm genome, however, resist the usual amplification 
+processes. Even now the genome, though effectively complete, has a 
+few small gaps that remain to be filled in. From early on in the project, 
+Sulston and Waterston posted on the Internet the DNA sequences they 
+obtained, for other scientists to analyze. ``As the Internet evolved, 
+a mechanism developed for us to provide data to people in a practical 
+way,'' Waterston said. Biologists throughout the world soon learned 
+that at the touch of a button they could compare any gene they were 
+working on with the growing set of genes available from the worm project. 
+The worm genome proved to be of broad interest because of the unexpected 
+degree of overlap between worm and human genes. A researcher who finds 
+that a particular gene is involved in human disease can compare its 
+DNA sequence with those in the worm genome data base. A match with 
+a worm gene of known function will often reveal the role of the human 
+gene. The worm genome is thus providing an essential platform from 
+which to understand how the human genome is put together. Yet it will 
+take years of work to understand even the worm genome. Unlike computer 
+programming, in which programmers usually insert explanatory remarks 
+to describe what function each segment of code performs, biological 
+programming comes unannotated, with no explicit hint of evolution's 
+intentions. Biologists know or can guess the role of about half of 
+the worm's genes; they have no idea what the rest may do. At first 
+glance the worm genome seems just a thicket of puzzles. Dr. Francis 
+Collins, director of the human genome project at the National Institutes 
+of Health, said geneticists had believed humans have about 10 different 
+genes for making varieties of collagen, the main structural protein 
+of skin. Yet the worm turns out to have 170 collagen genes. Biologists 
+have no idea why it would need so many but say they trust in evolution's 
+wisdom that it does. Genes that contribute nothing to an organism's 
+survival tend to be shed quickly. For many genes that exist in one 
+copy in the worm, humans have four versions, confirming the long-held 
+suspicion that the animal genome has twice undergone a full-scale 
+duplication in the course of evolution. The spare copies were presumably 
+free to evolve new and useful functions. The C.elegans worm would 
+have split off on a separate evolutionary path before the first of 
+the two duplications occurred. An intriguing pattern already discernible 
+in the general organization of the worm's genome is that its genes 
+fall into two broad classes that are arranged differently on the chromosomes. 
+One set of genes performs basic housekeeping functions for the cell. 
+These genes have many counterparts in yeast and must have been highly 
+conserved through evolution for two such different organisms to carry 
+matching sets. The other set of genes is special to the worm and seems 
+to be evolving at a much brisker pace. Sulston and Waterston report 
+that the two sets of genes have different locations on the worm's 
+chromosomes, with the older, conserved genes lying in the central 
+region of chromosomes and the more variable genes being positioned 
+toward the two ends. ``It really does look as if the genome has found 
+a way to hide its more important genes from the vicissitudes of the 
+evolution that is going on more rapidly in the arms,'' Waterston said. 
+Many of the worm's genes occur in clusters, as if one important gene 
+had been duplicated many times to perform variations of the original 
+function. But for all the presumed importance of the clusters' tasks, 
+many are unknown. ``One of the things I found surprising was that 
+there are so many gene clusters _ 402 _ yet many are of genes about 
+whose function we know nothing,'' said Dr. Robert Horvitz, a worm 
+biologist at the Massachusetts Institute of Technology. Sulston believes 
+that only a small fraction of the worm genome's value is yet apparent. 
+``The genome is not an open sesame in itself,'' he said. ``It just 
+provides this marvelous toolkit with all the basic information for 
+making an animal, if biologists can just figure it out. The value 
+it will deliver over time is much greater than the value you get on 
+first analysis.'' Biologists have already found the worm genome to 
+be of great value. ``I can't tell you how indebted those of us who 
+do molecular genetics are to the people who did the genome sequence,'' 
+said Dr. Gary Ruvkun of the Massachusetts General Hospital. 
+</TEXT>
+</DOC>

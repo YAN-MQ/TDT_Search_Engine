@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981031.1000.0264 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tropical storm Mitch still is drenching parts of central America with 
+torrential rains this morning. At last report, the center of the storm 
+was located over Honduras. Top sustained wind was near 40 miles an 
+hour. Mitch is causing severe flooding throughout the region. Forecasters 
+say another 15 to 25 inches of rain are possible over Honduras, el 
+Salvador and Nicaragua. 127 deaths are blamed on the storm. Rescuers 
+are still searching for a yacht with 31 people aboard that has been 
+missing off the coast of Honduras since Tuesday. 
+</TEXT>
+</DOC>

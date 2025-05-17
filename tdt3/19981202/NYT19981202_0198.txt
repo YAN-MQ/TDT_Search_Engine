@@ -1,0 +1,170 @@
+<DOC>
+<DOCNO> NYT19981202.0198 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+They are, rest assured, the only Microsoft products to be tested for 
+excessive hugging. Arthur and DW look for all the world like simple 
+stuffed toys based on the aardvarks from PBS's most popular children's 
+show, ``Arthur.'' But these two 21-inch figures, called Actimates, 
+are not toys: they are furry computer peripherals. Both Arthur and 
+DW have roughly 700 internal parts _ including 512 kilobytes of computer 
+memory _ to natter and sing away with a vocabulary of roughly 4,000 
+words. It's only when you squeeze one of the creature's extremities 
+that it reveals its true nature. ``Do you know what's gross?'' Arthur 
+asks when you squeeze his hand and then his ear in a weird impression 
+of a Masonic handshake. ``Green goop that drips from faucets. That's 
+gross.'' DW, in return for a handshake, will recite the date and time. 
+The tricks, however, don't end there. Sit an Actimate in front of 
+a computer running an Arthur CD-ROM (made by Microsoft; $35) or the 
+PBS Arthur Web site (underwritten by Microsoft) and the doll will 
+help the child solve on-screen puzzles and games. Put the doll in 
+front of a television set showing ``Arthur'' programs or Microsoft-adapted 
+videotapes of the show (about $15) and the dolls will talk back to 
+the television. ``That's got to hurt!'' the Arthur doll groans when 
+the on-screen Arthur takes a tumble. If this all sounds too much like 
+one of those horror movies where dolls spring to life, be warned: 
+Arthur and DW are not alone. This fall has seen the release of a menagerie 
+of fuzzy computers. Mattel has introduced My Interactive Pooh, a $100 
+Winnie-the-Pooh doll that can download 20 minutes of chat or songs 
+from a CD-ROM into its memory, call a child by name and interact with 
+a computer through a cable link. Two other, less expensive creatures 
+_ Furby from Tiger Electronics and Real Live Babe, a toy pig from 
+Equity Toys based on the movie character _ have sophisticated electronic 
+innards that allow some interactivity (although neither have computer 
+or television interfaces). And this month Microsoft announced four 
+new Actimates that will be based on the BBC-produced ``Teletubbies.'' 
+All of these dolls offer varying levels of interactivity and differing 
+claims about educational value. Microsoft, which financed sophisticated 
+psychological testing during the Actimates' development, does not 
+even use the word toy to describe its dolls. They are, Microsoft press 
+releases say, nothing less than ``learning systems.'' But the educational 
+value of these kinds of interactive toys is a matter of keen debate 
+among child-development experts. Should parents buy a fuzzy chip-enhanced 
+doll in the hope that it will help a child learn? ``People think these 
+kinds of things are going to get their kids to be Harvard grads,'' 
+said Mariann Szymanski, president of the Toy Tips Research Center 
+at Marquette University. ``They're not.'' Claire Lerner, a child development 
+specialist at Zero to Three, a Washington-based nonprofit organization, 
+also worries that parental anxiety alone drives these purchases. ``Parents 
+are very overwhelmed right now with an explosion of research on how 
+they can help their children's' development,'' she said. ``There's 
+a real danger in promoting these toys that way.'' There have also 
+been positive reviews. Microsoft has received high marks for its first 
+Actimate, an interactive version of Barney, the purple dinosaur. The 
+dolls certainly seem educational. Among other things, they try to 
+get children to say the alphabet backwards, pick out rhyming words 
+and play simple memory games. Indeed, the dolls often seem almost 
+oppressively instructive. Arthur, for example, can be programmed to 
+act as a singing alarm clock. A child expecting a cheerful ``What 
+do you want for breakfast?'' after waking is more likely to hear, 
+``Today is the Hindu festival of light. To find out more, go to your 
+local library.'' Dr. Erik Strommen, a developmental child psychologist 
+who had been trying to find ways to make computers more accessible 
+to small children, was working at the Children's Television Workshop, 
+the home of ``Sesame Street,'' when Microsoft approached him about 
+working on Barney in 1996. ``I gasped when I first saw it,'' Strommen 
+said of an early prototype. ``I hadn't thought along these lines. 
+My initial reaction was, This jumps the fence.'' Strommen's job, as 
+the project's research and design consultant, was to figure out how 
+to make the gadget an effective learning toy, a task that would ultimately 
+involve upward of 25 formal psychological test programs studying 500 
+children and a variety of more casual assessments at day-care centers 
+near Microsoft's headquarters in Redmond, Wash. The goal, Strommen 
+said, was that Barney should give children ``a sense of mastery.'' 
+Unfortunately, the first test versions of Barney undermined that goal. 
+Because the device was capable of doing so many things _ and because 
+it insisted on doing so many things _ it was perceived by many children 
+as a fuzzy tyrant. ``He was browbeating,'' Strommen said. The problem, 
+Microsoft concluded, was that Barney had been programmed like a piece 
+of software _ unfriendly, unyielding and full of tasks to complete 
+_ instead of like a toy. The company had assumed that kids would play 
+along with Barney, while the kids expected that the (italics)doll(end 
+italics) would play around with them. To tone Barney down, subsequent 
+versions replaced some of the orders with praise and idle pseudoconversation. 
+Some of the lessons Strommenn learned from Barney, which is aimed 
+at children as young as 2, didn't completely transfer to Arthur and 
+DW, which are intended for ages 4 to 8. To reflect their older audience, 
+the Arthur and DW dolls deal with more complicated learning material 
+like basic arithmetic, telling time and the alphabet. To that end, 
+they have double the computer memory and roughly twice the vocabulary 
+of Barney. Remembering the tyrannical Barney, Strommen thought it 
+might be useful to further humanize Arthur and DW by allowing them 
+to make preprogrammed mistakes when participating in, say, an arithmetic 
+exercise while the child is using a computer. The scheme, however, 
+made children furious. It showed, Strommen said, that no matter how 
+much they appeared to be treating the toys like human playmates, the 
+children had very different expectations for the devices. ``Children 
+are more sophisticated than we give them credit for,'' he said. ``They 
+always know damn well that this is not a person. All the Actimates 
+behave in three distinct ways. When used with the PC or television 
+connections, the toys' programming emphasizes what psychologists call 
+scaffolding, that is, providing temporary forms of assistance. For 
+example, if a child has trouble picking out ryhming sounds in a word 
+game, the Arthur and DW dolls gently offer the correct answer. Older 
+human playmates and parents do much the same thing when they help 
+children count by, say, filling in missing numbers. When an Actimate 
+comes under the control of a PC, however, it keeps scaffolding but 
+encourages the child to play only with the on-screen image of the 
+character that appears on the CD-ROM or Web site. The dolls receive 
+their instructions through a hamburger-size radio transmitter ($55) 
+that plugs into a standard MIDI port (on a machine running Microsoft 
+Windows) to form a wireless link between the fuzzy creatures and PCs. 
+There is a second radio transmitter (for another $55) that plugs into 
+any standard VCR. That transmitter literally puts words in the dolls' 
+mouths, the words having been sent as data through the television 
+signal. When in couch-potato mode, the Actimate tries to focus the 
+child's attention on the tube. If the child squeezes the doll while 
+the TV is on, the doll will offer such peevish remarks as ``Are you 
+trying to get my attention?'' The idea of a toy's encouraging children 
+to watch TV might appall many parents, but Strommen said that viewing 
+in the company of a parent or older child helps younger children learn. 
+``Research tells us that you're sitting there watching TV,'' he said. 
+``And research also shows your parents are not with you,'' he said. 
+The Actimate is programmed to act like a surrogate parent. That is 
+the kind of help that Marla Smith needed. A shift worker and single 
+mother in Decatur, Ill., Ms Smith doesn't always have the time she 
+would like to help her 5-year-old son, Travis, learn. She bought a 
+PC three years ago but struggled to find software appropriate for 
+young children. Last year, she ordered a Barney doll with computer 
+interface and CD-ROM after seeing them advertised on a home shopping 
+channel. ``It was expensive but I figure it was worth it,'' she said. 
+For Travis, the chip-laden Barney fulfilled an important traditional 
+stuffed-doll role. Last May, after he broke his arm after a failed 
+attempt to emulate Superman, Travis insisted on bringing his Barney 
+to the hospital emergency room for comfort. The robo-Barney had also 
+become part of his daily computer sessions. Ms. Smith said her son 
+has learned to identify color, basic shapes, several songs and how 
+to operate the computer. ``According to his teachers, he is ahead 
+of all the other kids in his class,'' she said, attributing a large 
+part of that success to the doll. ``If only they had them when I was 
+a kid.'' Some experts in child development disagreed with that kind 
+of assessment. Ms. Szymanski said that figures based on well-known 
+characters are useful at helping children with ``character development 
+roles,'' but cautioned that parents should not believe that by buying 
+these toys, ``they're going to make their kids smart.'' Ms. Lerner 
+suggested that simpler, time-proven toys can often be more effective 
+at preparing young children for computers (to say nothing about life) 
+by developing logical thinking and motor skills. ``I look at a shape 
+sorter and think that I'd rather my child use that,'' Ms. Lerner said. 
+``With a shape sorter, a child is much more an active agent than they 
+tend to be with highly titillating toys that do so much.'' Mitchel 
+Resnick, head of the learning research group at the Massachusetts 
+Institute of Technology's Media Lab, agreed that some of the ``richest 
+learning experiences'' are provided by simpler toys like old-fashioned 
+building blocks that allow children to act as designers or creators. 
+``Just because something is complicated or electronic doesn't mean 
+it's useful,'' he said. ``What's more important is the nature of the 
+interaction the toy supports. Sophisticated toys can lead to different 
+types of interactions, some better and some worse.'' Even Strommen 
+at Microsoft readily acknowledged the value of traditional toys. ``What 
+we can do with technology a person can do infinitely more powerfully,'' 
+he said. But whether or not Microsoft becomes a giant in the stuffed-toy 
+business, the distinction between traditional toys and the new microchip-driven 
+toys is likely to blur. Resnick emphasized that parents must now focus 
+on what the toy does instead of what it contains. ``Asking today about 
+electronics in toys is as if you said in the 50s, `Do you think toys 
+made of plastic are going to be dominant in the future?' When you 
+go to Toys `R' Us today, there is not a plastic toys category.'' 
+</TEXT>
+</DOC>

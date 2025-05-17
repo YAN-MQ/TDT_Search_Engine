@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> MNB19981130.2100.0928 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+As you might have heard, this what is an unexpectedly dark Monday 
+on Wall Street as Internet stock lost much of their luster. Last Monday 
+the Dow industrials ran up to a record high. Interest net stocks got 
+hammered in a big sell-off today. 
+</TEXT>
+</DOC>

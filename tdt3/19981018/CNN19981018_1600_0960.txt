@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981018.1600.0960 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And federal prosecutors and Microsoft's attorneys are preparing for 
+what could be a history-making trial tomorrow. The government accuses 
+Microsoft of unfairly using its virtual monopoly in operating systems 
+software. 
+</TEXT>
+</DOC>

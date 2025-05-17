@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981112.2130.0985 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mortgage rates are edging higher. The national average for the 30-year 
+fixed rate climbed to 6.89% from 6.84% last week. The 15-year fixed 
+rose to 6.53%. and the one-year adjustable inched up to 5.74% from 
+5.68%. the survey is based on figures from the 10 largest U.S. metropolitan 
+areas. 
+</TEXT>
+</DOC>

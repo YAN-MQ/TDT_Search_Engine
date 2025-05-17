@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981130.1600.0927 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Time now for the top stories. Gun purchases no longer require a waiting 
+period. A new national system provides instant background checks on 
+all guns, not just handguns. That's expected to double the number 
+of checks. 
+</TEXT>
+</DOC>

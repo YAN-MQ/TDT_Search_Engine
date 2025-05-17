@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981208.0130.0923 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And space shuttle "endeavour" astronauts completed 40 electrical connections 
+between the first two pieces of the international space station during 
+a space walk Tuesday. The astronauts completed the job in four hours, 
+less time than expected. Those stories and more in 15 minutes. 
+</TEXT>
+</DOC>

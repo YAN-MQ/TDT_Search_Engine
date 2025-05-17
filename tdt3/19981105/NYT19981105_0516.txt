@@ -1,0 +1,72 @@
+<DOC>
+<DOCNO> NYT19981105.0516 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Despite strong objections from Detroit's Big Three auto makers, environmental 
+regulators in California voted Thursday night to require cars, minivans 
+and nearly all sport utility vehicles and pickup trucks to meet identical 
+and much more stringent emissions rules. Thursday night's vote makes 
+California the first state to impose car emissions standards on so-called 
+light trucks, a category that includes sport utility vehicles, minivans 
+and pickup trucks. Regulated as work vehicles, light trucks have been 
+allowed until now to emit up to three times as much pollution per 
+mile as cars. The Environmental Protection Agency is working on new 
+emissions rules that, like the new California regulations, would start 
+with the 2004 model year. Auto makers and environmentalists lobbied 
+California regulators with particular zeal because the EPA is widely 
+expected to follow the outlines of California's models, although possibly 
+with slightly higher limits on some emissions because the rest of 
+the country tends to have cleaner air. The California Air Resources 
+Board, which regulates the state's air quality, not only approved 
+a staff proposal for stricter standards but actually made it even 
+tougher by eliminating a clause that would have allowed diesel-powered 
+cars and light trucks to meet less strict rules. All of Detroit's 
+Big Three and several foreign auto makers are working on fuel-efficient 
+diesel engines for their sport utility vehicles and pickup trucks 
+so they can meet federal fuel-economy regulations while continuing 
+to make these vehicles bigger and bigger. Requiring diesel vehicles 
+to meet the same rules as gasoline-powered vehicles ``makes it extremely 
+difficult to market a diesel vehicle in California,'' said Richard 
+Varenchik, a spokesman for the air resources board. Detroit's Big 
+Three auto makers _ the General Motors Corp., the Ford Motor Co. and 
+the Chrysler Corp. _ had agreed with state regulators that minivans, 
+midsized sport utility vehicles like the Jeep Cherokee and midsized 
+pickups like the Ford Ranger should start to meet car pollution standards. 
+They objected strongly but unsuccessfully to the California regulators' 
+decision to apply car pollution standards as well to full-sized pickup 
+trucks like the Dodge Ram and full-sized sport utility vehicles like 
+the Cadillac Escalade and Chevrolet Tahoe. These big vehicles have 
+much larger engines that are designed to haul heavy loads and pull 
+trailers, and tend to pollute more than cars. Auto makers here were 
+dismayed by Thursday night's unanimous decision by the air board's 
+11 members. ``Make no mistake, this is going to be really difficult,'' 
+said Sara Tatchio, a spokeswoman for Ford. Full-sized sport utility 
+vehicles and pickup trucks sold in California may become less powerful, 
+with less capacity to haul freight or trailers, as a result of Thursday's 
+decision, she said. Regulators calculated that the cost of complying 
+with the new rules would be $96 to $304 for each vehicle, but the 
+auto makers warned that the cost could be far higher for full-sized 
+sport utility vehicles and pickup trucks. The very largest pickup 
+trucks, as well as four-wheel-drive Chevrolet Suburbans and even bigger 
+sport utility vehicles that Ford will introduce next year, will qualify 
+for less stringent rules. The new rules do not require any further 
+regulatory or legislative action before taking effect, but could be 
+challenged in court, although auto makers have historically avoided 
+doing so. It takes two to five years to make significant alterations 
+in automobile designs, so auto makers can seldom afford to wait for 
+the result of a lengthy court battle before beginning to make the 
+changes. Thursay's vote will force drastic reductions in pollution 
+from full-sized sport utility vehicles and pickup trucks. The new 
+rules will require, for example, that cars only emit a quarter of 
+their current output of nitrogen oxides, which are thought to be an 
+important contributor to smog. By requiring full-sized sport utility 
+vehicles and pickup trucks to meet the new car standards, instead 
+of continuing to be allowed to emit three times as much, California 
+is asking that nitrogen oxide emissions from these vehicles be cut 
+to one-twelfth of their current levels. Cars and light trucks already 
+produce far less pollution per mile now than they did in the 1950s. 
+But this improvement has been partly undone because there are more 
+vehicles and they are driven farther. 
+</TEXT>
+</DOC>

@@ -1,0 +1,125 @@
+<DOC>
+<DOCNO> NYT19981123.0230 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A team of physicists has found evidence that a new kind of atomic 
+jigsaw puzzle, in which identical puzzle pieces are allowed to overlap 
+each other to form complex structures, may explain why a peculiar 
+class of compounds exists in defiance of long established geometric 
+rules. Their demonstration, reported this month in the journal Nature, 
+strengthens a theory about how atoms arrange themselves in an enigmatic 
+type of substances called ``quasicrystals,'' discovered in 1982. Then, 
+many scientists were skeptical that quasicrystals could exist, and 
+even today, although the skeptics have been refuted, some uncertainties 
+remain about the mathematics underlying quasicrystals. But a new theoretical 
+framework for quasicrystals promises to simplify matters. Most solid 
+matter can be roughly classified as either ``glassy,'' in which atoms 
+are jumbled together without any order, or crystalline, in which atoms 
+arrayed in lattices form regularly repeating patterns. A typical crystal 
+is the cubic lattice of table salt, in which atoms of sodium and chlorine 
+alternate with each other in a kind of three-dimensional chess board. 
+For the past 150 years, rules based on well-known geometric relationships 
+have sufficed to explain the forms and behavior of crystals. One such 
+rule has to do with symmetries of rotation. For example, if a crystal 
+is rotated in an X-ray beam and the X-rays scattered by its atomic 
+structure create exactly the same pattern with each half turn of the 
+crystal, the crystal is said to exhibit ``two-fold symmetry.'' A repetition 
+of the pattern every third of a turn implies that the crystal has 
+``three-fold symmetry,'' and so on. But one of the symmetries forbidden 
+by classical crystalography is five-fold symmetry. The reason is related 
+to the fact that regular pentagons _ ``tiles'' with five equilateral 
+sides _ cannot be fitted together to neatly cover a table top without 
+leaving gaps. The same objection applies to the three-dimensional 
+analogue of the pentagon: the regular icosahedron, a geometric object 
+with 20 identical faces, each one an equilateral triangle. Icosahedrons 
+cannot be packed together to fill a solid space leaving no gaps. Despite 
+the old rule forbidding five-fold symmetry, Dr. Daniel S. Schechtman, 
+an Israeli electron microscopist working in the United States at the 
+National Bureau of Standards (now the National Institute of Standards 
+and Technology), discovered the impossible; he found clear evidence 
+of five-fold symmetry in a substance that was neither as disordered 
+as a glass nor as neatly periodic in structure as a crystal. At the 
+time in 1982, he and other scientists at the standards bureau were 
+experimenting for the Defense Department with alloys of aluminum, 
+manganese and other metals, hoping to develop a vary hard aluminum 
+alloy. Schechtman's discovery seemed so unlikely that it took him 
+and his colleagues nearly three years to verify their findings to 
+a point at which they felt confident enough to announce them. Since 
+then, more than 100 quasicrystals have been made and identified in 
+laboratories, mostly alloys of aluminum. They have not proved to be 
+especially useful, but they continue to inspire the same fascination 
+of mathematicians and crystalographers that Rubik's Cube induced in 
+puzzle fans after its invention in 1975. About the time of Schechtman's 
+discovery, two mathematical physicists at the University of Pennsylvania, 
+Dr. Paul J. Steinhardt and Dr. Dov Levine, hit upon a possible structure 
+for a substance in which atoms are arranged in non-periodic patterns. 
+Their system borrowed from a mathematical game that had been invented 
+by Dr. Roger Penrose, an Oxford University physicist and cosmologist. 
+In 1974, Penrose devised various pairs of complementary ``tiles'' 
+_ parallelograms that can be laid on a flat surface with their edges 
+joined. Such tiles can be fitted together (using rules stipulated 
+by Penrose) to completely cover any flat surface, leaving no gaps 
+between tiles. The patterns thus formed have endless variations and 
+do not repeat themselves in any periodic way. The best known of Penrose's 
+tiling sets consists of two types of rhombus, both with edges of the 
+same length. One, a ``fat rhombus,'' has interior angles of 108 and 
+72 degrees, while the other figure in the pair, a ``skinny rhombus,'' 
+has interior angles of 144 and 36 degrees. Penrose tilings based on 
+matched pairs of tiles like these are interesting not only to mathematicians 
+but to commercial enterprises. A group of entrepreneurs produced a 
+decorative wall covering consisting of Penrose tiles, and last year, 
+Penrose brought a suit against a paper company to constrain it from 
+embossing its toilet paper with a copy of one of his tiling patterns. 
+Steinhardt noticed the possibility of building a three-dimensional 
+structure analogous to a smooth, gapless surface covered with two-dimensional 
+Penrose tiles. The equivalent of the Penrose fat and skinny rhombuses 
+was a pair of complementary rhomboids that could be fitted together 
+to completely fill a three-dimensional volume without leaving gaps. 
+Moreover, such a structure was found to produce icosahedral arrays 
+scattered through it at irregular intervals, and thus a possible explanation 
+for five-fold symmetry was found. But since then, another and simpler 
+explanation has been discovered. In the new version, complementary 
+pairs of rhomboids are replaced by stacks of 10-sided arrays of atoms. 
+These arrays are identical decagons that ordinarily cannot be fitted 
+together to cover a surface without gaps. But using some new rules 
+based on the chemical and physical relationships of atoms, the decagons 
+can be allowed to overlap. Neighboring decagons must be allowed, however, 
+to share some atoms with each other. In a development reported this 
+month, Steinhardt, now a professor of mathematics at Princeton University, 
+and his collaborators in Korea and Japan said they believed they detected 
+experimental proof that the stacked decagon theory was the best explanation 
+for the structure of quasicrystals. The new theory, which was partly 
+suggested in 1991 by Dr. Sergei E. Burkov, a mathematician at the 
+Landau Institute of Theoretical Physics in Moscow, is based on the 
+joining-together of single units with the same shape rather than pairs 
+of units with different shapes like the original Penrose tiles. Steinhardt's 
+group believes it has experimentally validated and improved on Burkov's 
+theoretical scheme by producing electron-microscope images of a real 
+quasicrystal, an aluminum-nickel-cobalt alloy. The predictions of 
+the overlapping decagon theory closely match electron-microscope images 
+of the atoms in a real quasicrystal. The simplicity of the system, 
+Steinhardt said, accounts for the apparent ease with which atoms find 
+their proper places in the structure when the metal alloy is properly 
+prepared. This conclusion emerged from investigations in Japan at 
+Tohoku University and the National Research Institute for Metals of 
+a quasicrystalline alloy of aluminum, nickel and cobalt. Its formula 
+is Al72 Ni20 Co8. The idea of a decagon cell as a basic unit in quasicrystals 
+was proposed in 1996 by Dr. Petra Gummelt, a German mathematician 
+at Arndt University, Greifswald, Germany. She suggested (without fully 
+proving) that pairs of Penrose tiles could be replaced by single overlapping 
+decagons to explain the structures of quasicrystals. But to make this 
+work, Steinhardt said in an interview, it was necessary to replace 
+the mathematical Penrose matching rules with new rules based on the 
+interrelationships of real atoms in a quasicrystal. Viewed in this 
+light, Steinhardt and his Korean colleague, Dr. Hyeong-Chai Jeong, 
+reported in their Nature paper, the theoretical structure of Al72 
+Ni20 Co8 turned out to closely match reality. This may not be the 
+end of the quasicrystal puzzle or the debates it ignites, however. 
+In a comment on Steinhardt's Nature paper, Dr. Knut W. Urban of the 
+Helmholtz Research Center, Julich, Germany, wrote that the new model 
+explaining quasicrystals must be tested further. But the theory makes 
+``it worthwhile revising current models to incorporate this new view 
+of quasicrystal formation.'' 
+</TEXT>
+</DOC>

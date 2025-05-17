@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981013.1130.1069 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+General Motors reported third quarter losses of more than $800 million, 
+due to the summer strikes at parts plants in Michigan. Shares are 
+currently off 11/16. It was a different story for Johnson and Johnson. 
+Profits increased by 12% as a result of strong drug sales. Johnson 
+and Johnson is up to 77 3/16. 
+</TEXT>
+</DOC>

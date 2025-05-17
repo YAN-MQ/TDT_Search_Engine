@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> APW19981127.0256 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Microsoft Corp. and China's Founder Group plan to cooperate to promote 
+authorized software sales and fight the spread of copyright piracy 
+in China, the companies announced Friday. Under the terms of a five-year 
+agreement, Founder will develop an electronic publishing system and 
+other applications based on Microsoft's Windows NT Server and BackOffice 
+Server programs. Microsoft will offer marketing and technical support 
+for these applications and supervise authenticity tests. Executives 
+from both companies said stamping out software piracy is a prerequisite 
+for the development of China's software industry. Executives from 
+Microsoft, the world's largest software maker, did not provide specific 
+figures on how much is lost each year from software piracy in China. 
+``There is piracy in the U.S., but not as severe as China,'' said 
+Pieter Knook, vice president of Microsoft's Far East region. ``It 
+is clear that software piracy in China is damaging.'' Founder, one 
+of China's leading software companies, said the company suffers anywhere 
+from 40 million to 80 million yuan (dlrs 5 million to dlrs 10 million) 
+each year in lost sales due to piracy. ``We want to build an environment 
+where conditions are sustainable for software development and companies 
+like Founder can get a return on their investment,'' Knook added. 
+Business Software Alliance, a group that combats piracy, estimates 
+that unlicensed software costs makers dlrs 1.5 billion in China each 
+year. According to the alliance, almost 98 percent of all software 
+installed in China is pirated. Founder Group has a Hong Kong-listed 
+unit Founder (Hong Kong) Ltd. The group is primarily involved in creating 
+publishing software for Chinese newspapers and magazines. 
+</TEXT>
+</DOC>

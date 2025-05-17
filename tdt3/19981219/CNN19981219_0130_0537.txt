@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981219.0130.0537 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More on "operation desert fox" after a check of our extended weather 
+forecast. 
+</TEXT>
+</DOC>

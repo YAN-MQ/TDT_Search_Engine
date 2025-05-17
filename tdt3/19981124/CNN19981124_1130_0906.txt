@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981124.1130.0906 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- nearly 10 million playpens have been recalled 
+by the consumer products safety commission. The playpens, listed here, 
+pose hazards to children wearing loose clothing or pacifier strings. 
+The clothing can catch on the portable mesh playpens and strangle 
+a child. 
+</TEXT>
+</DOC>

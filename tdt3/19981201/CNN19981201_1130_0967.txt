@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981201.1130.0967 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Slumping oil prices spark multi-billion-dollar oil mergers. I'm Myron 
+Kandel at the "CNN Financial News" desk in New York with this edition 
+of "Dollars & Sense." It's now official -- Exxon and mobil are merging 
+in a $77 billion stock deal. If the deal passes regulatory hurdles, 
+they are expected to be steep, it would be the world's largest industrial 
+merger ever. The Exxon-mobil tie-up comes amid depressed prices. A 
+meeting of OPEC failed last week to resolve overproduction issues. 
+Oil prices have slumped to their lowest level in a dozen years. 
+</TEXT>
+</DOC>

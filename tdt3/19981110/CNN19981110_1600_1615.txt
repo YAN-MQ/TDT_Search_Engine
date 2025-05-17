@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981110.1600.1615 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up -- the first big snowstorm of the season cripples the northern 
+plains, and it's still moving. We know what you did last winter. We'll 
+tell you where it's headed in the next half hour. I'm Chuck Roberts, 
+this is "CNN Headline News." 
+</TEXT>
+</DOC>

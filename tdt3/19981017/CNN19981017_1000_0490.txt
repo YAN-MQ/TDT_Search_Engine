@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981017.1000.0490 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the United States is next. And still 
+ahead -- how safe is apple cider? Experts say it could pose a health 
+risk. 
+</TEXT>
+</DOC>

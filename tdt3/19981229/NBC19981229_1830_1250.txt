@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NBC19981229.1830.1250 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.S. military released gun camera video of yesterday's dust up 
+between american fighter pilots and Iraqi forces in the northern no-fly 
+zone. The split-screen image shows anti-aircraft fire -- the plume 
+of smoke on the right, and the view from the U.S. jet on the left. 
+American pilots fired three missiles and dropped six bombs on Iraqi 
+surface-to-air missile sites. 
+</TEXT>
+</DOC>

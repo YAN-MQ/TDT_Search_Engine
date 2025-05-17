@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981109.2130.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Central American leaders are appealing to the international community 
+in help with dealing with the devastation left by hurricane Mitch. 
+The president of El Salvador held a summit today to discuss recovery. 
+More on these stories and others in 15 minutes. 
+</TEXT>
+</DOC>

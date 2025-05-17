@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981106.1830.0293 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another bad week in Japan. For the first time Japanese government 
+bonds are losing value as they mature. Japanese investors are buying 
+them because they are more nervous about putting their money in Japanese 
+banks or stocks. 
+</TEXT>
+</DOC>

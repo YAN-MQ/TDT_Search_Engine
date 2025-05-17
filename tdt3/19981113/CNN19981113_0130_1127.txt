@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981113.0130.1127 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Agriculture department researchers have developed a device to guard 
+against salmonella in chickens. The system clears disease-causing 
+organisms from the air in poultry houses, protecting chickens from 
+the bacteria. In a test, the system reduced salmonella by 95% in week-old 
+birds and in hens that lay eggs. The usda has applied for a patent 
+on the system. Several companies are interested in developing it for 
+commercial use. 
+</TEXT>
+</DOC>

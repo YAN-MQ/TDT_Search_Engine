@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981129.1830.1406 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Other news tonight -- by an overwhelming majority, voters in Switzerland 
+have rejected a proposal to legalize drugs and sell them at government-run 
+outlets. Opponents argued that such a policy would turn Switzerland 
+into a haven for drug abusers. 
+</TEXT>
+</DOC>

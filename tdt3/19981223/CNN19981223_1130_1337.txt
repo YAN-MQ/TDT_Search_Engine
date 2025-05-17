@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981223.1130.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Finally, looks like Roger Clemens will remain with the blue Jays. 
+The five-time cy young winner withdrew his demand to be traded. 
+</TEXT>
+</DOC>

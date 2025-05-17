@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981011.1600.1494 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"Star wars" tops "entertainment weekly's" list of the 100-best works 
+of science fiction. The magazine says George Lucas' 1977 film was 
+the prescription for a cynical audience numbed by everything from 
+Vietnam to Watergate to drugs. Number two and three are "star trek," 
+and "the twilight zone." The rankings are based on a work's quality, 
+influence on pop culture and impact on the collective imagination. 
+</TEXT>
+</DOC>

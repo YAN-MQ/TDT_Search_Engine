@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981019.1830.0763 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another good day on Wall Street. The Dow Jones industrial average 
+rose almost 50 points. The NASDAQ climbed nearly 28 points. 
+</TEXT>
+</DOC>

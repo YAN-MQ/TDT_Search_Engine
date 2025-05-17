@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981221.1600.1009 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The international monetary fund sees a slowdown in the U.S. economy 
+next year. I'm Jan Hopkins in New York with this edition of "Dollars 
+& Sense." The IMF predicts that the U.S. economy will expand only 
+by 1.8% next year. That's half the growth rate of this year, 3.6%. 
+the IMF says the U.S. economy may also face additional risks from 
+a potential drop in stock prices. The IMF painted an overwhelmingly 
+pessimistic outlook for Russia, saying that economy is headed for 
+free fall in 1999. And in Asia, IMF officials say that Thailand should 
+emerge from recession next year, but south Korea and Malaysia will 
+continue to battle falling output. 
+</TEXT>
+</DOC>

@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> NYT19981213.0202 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Monday, Dec. 14: A court-appointed 
+panel of experts has concluded that existing scientific evidence does 
+not show a link between silicone breast implants and systemic disease. 
+U.S. Judge Sam Pointer Jr., who is overseeing breast-implant lawsuits 
+in the federal courts, convened the panel to advise him on medical 
+evidence surrounding implants. His approach was unusual in that he 
+sought expert testimony independent of either side in the litigation. 
+That strategy may also be useful in other complex cases where juries 
+and judges are forced to choose between battling experts who may be 
+biased. Lawyers from both sides will now have the opportunity to question 
+the expert panelists in depositions and to use that testimony in implant 
+trials. The findings should make trials somewhat easier to conduct, 
+and may cause more plaintiffs to settle their claims against the implant 
+manufacturers. Well before the panel's report, thousands of cases 
+had been settled. Last month, Dow Corning Corp., once the leading 
+maker of silicone implants, and representatives of implant plaintiffs 
+formally agreed to a plan that will pay some 170,000 claimants $3.2 
+billion over 15 years for suffering and the costs of implant removal. 
+Both sides decided that it was better financially to make a deal than 
+to fight out the science in court. The new report, which will not 
+affect that settlement, puts forward solid conclusions based on multiple 
+studies. But the panel's findings do not represent the last word on 
+implant safety. A National Cancer Institute study of 13,500 women 
+who have had implants is looking at the long-term health impacts. 
+Results from that study will not be available until next year. A panel 
+convened by the Institute of Medicine, an arm of the National Academy 
+of Sciences, is also continuing to review the medical evidence. The 
+report from Pointer's panel shows how much is known. Other scientists 
+are still researching aspects of implants that are not yet known. 
+</TEXT>
+</DOC>

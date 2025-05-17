@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981110.2130.0208 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sources tell CNN, a settlement between the tobacco industry and eight 
+state attorneys general is near. The states are seeking to recover 
+the cost of smoking-related medical expenses. Two of the attorneys 
+general involved tell CNN the deal would mean paying the states about 
+$200 billion over 25 years. The settlement likely will be made public 
+later this week. 
+</TEXT>
+</DOC>

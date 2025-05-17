@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981103.1130.1350 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Labor talks are scheduled to resume later this week in an effort to 
+end the four-month-old NBA lockout. Tuesday would have been opening 
+day. Mike Sammond, "CNN Headline Sports." 
+</TEXT>
+</DOC>

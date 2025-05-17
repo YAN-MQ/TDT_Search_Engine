@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NYT19981111.0140 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+As its antitrust trial moves into the fourth week, Microsoft Corp. 
+finds itself trying to deflect a flood of charges of threats and bribes. 
+The litany of shameful misconduct, according to the government, was 
+directed not only at Microsoft's rivals but just about everyone in 
+the industry _ including personal computer makers, Internet service 
+suppliers and others. nn 
+</TEXT>
+</DOC>

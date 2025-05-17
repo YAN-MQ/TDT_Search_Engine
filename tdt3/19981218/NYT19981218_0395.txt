@@ -1,0 +1,68 @@
+<DOC>
+<DOCNO> NYT19981218.0395 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Energy Department reported Friday that it had found ``no show 
+stoppers'' so far to block its plan to bury much of the United States' 
+nuclear waste in the Nevada desert near Las Vegas and that it was 
+on schedule to make a formal recommendation to the president by 2001. 
+In what it called its ``viability assessment'' released Friday, however, 
+the department did identify major gaps in its knowledge of the geology 
+of the site, Yucca Mountain. But officials promised to answer questions 
+raised by scientists outside the department about water in the mountain, 
+the most probable means by which radioactive contamination could escape 
+beyond the site. The energy secretary, Bill Richardson, said in a 
+telephone interview, ``The fact that no show stoppers have been identified 
+is a step forward.'' ``We are admitting additional work is needed,'' 
+Richardson added, ``but it's in the national interest to proceed forward.'' 
+Opponents of the plan, however, say that enough problems with Yucca 
+Mountain are known to disqualify it as a nuclear-waste repository. 
+A coalition of 219 environmental organizations submitted a petition 
+to the agency last month saying that even in the Nevada desert, rain 
+will percolate through the mountain in a few decades, picking up radioactive 
+material on the way. Then, environmentalists argue, the water will 
+travel horizontally to wells beyond the site over hundreds of years, 
+yet quickly enough to deliver the materials while they are still dangerously 
+radioactive. A statement from Public Citizen, the organization founded 
+by Ralph Nader that helped organize the 219 groups, said, ``We object 
+to the content of the report for its optimistic conclusions.'' But 
+Ernest Moniz, the energy undersecretary, said one of the gaps in knowledge 
+was how fast water would move underground, and how much it would dilute 
+any radioactive contaminants. The estimates in the report might be 
+``too conservative'' or too pessimistic, he said. The Nuclear Regulatory 
+Commission, an independent federal agency, is supposed to decide whether 
+to grant a license for construction of the repository, based on criteria 
+set by the Environmental Protection Agency. The EPA, however, has 
+not yet set rules, one of the reasons the process is uncertain. The 
+report included, for the first time, a preliminary design for the 
+proposed repository on the edge of the Nevada Test Site where the 
+Energy Department used to explode nuclear bombs. The department, under 
+tremendous pressure because it missed a deadline of February 1998 
+to begin accepting waste from nuclear-powered reactors, hopes to open 
+a repository in 2010, with waste being loaded until 2033. The documents 
+released Friday anticipated sealing the repository in 2116, but raised 
+the possibility of keeping the tunnels through the mountain open for 
+300 years, until 2316, to ensure that the radioactive material was 
+not leaking. The department said it would cost $18.7 billion to license 
+and build the repository and to load it with more than 70,000 tons 
+of waste from power plants and bomb factories. The costs in 1998 dollars, 
+including expenses since 1983 and 100 years of monitoring, would be 
+$43 billion, the department said. The money would come from a tenth-of-a-cent-per-kilowatt-hour 
+charge that the department collects from nuclear utilities, which 
+should be enough to pay for the whole program, officials said Friday. 
+But in exchange for the fee, the department was supposed to have begun 
+accepting wastes last February; now it faces penalties for being late, 
+under contracts it signed with utility companies. The period of maximum 
+exposure, said the report, is after 300,000 years. At that point, 
+the report estimated, doses to people drinking from wells 12 miles 
+away would be about 300 millirem a year, which would be about equal 
+to present-day radiation from natural sources. That would be 10 to 
+20 times higher than the limits now being discussed, but no one has 
+decided yet whether radiation-protection standards should have to 
+extend so far into the future. The debate over Yucca Mountain may 
+focus on a more immediate future, of a few thousand years. The viability 
+assessment on the Yucca Mountain Project is available on the Web at 
+http://domino.ymp.gov/va/va.nsf/. 
+</TEXT>
+</DOC>

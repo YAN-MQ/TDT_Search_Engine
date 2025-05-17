@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981102.1130.0706 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+No one knows exactly what causes cataracts. We do know that a chemical 
+change occurs in the eye causing cloudiness and that condition may 
+be due to old age, injury or disease. The cataract forms on the eye 
+when the normally clear lens becomes cloudy and opaque. Cataracts 
+usually develop in both eyes, but at different rates. Patients usually 
+notice a loss in vision, but never complete blindness. The first indication 
+of a problem is commonly blurry or hazy vision, and a Change in the 
+perception of colors. An optometrist can diagnose the condition during 
+a vision exam. Surgery is the only method proven to treat cataracts. 
+Most people wait until cataracts start to interfere with their daily 
+activity before having them removed. The procedure is relatively uncomplicated 
+and has a 95% success rate. 
+</TEXT>
+</DOC>

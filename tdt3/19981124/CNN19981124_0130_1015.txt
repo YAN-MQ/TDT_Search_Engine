@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> CNN19981124.0130.1015 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Internet stocks were among the biggest winners Monday, with some company 
+gains in the double digits. Bill Tucker has more. High-tech stocks 
+caught the same merger fever that drove the blue chips to record highs 
+Monday. News that America online is in talks to buy Netscape sent 
+Internet stocks soaring. The online auction company E-bay -- and this 
+is not a typo -- soared $46 a Share. That company went public at $18 
+a share in September. Amazon.com soared $37 and change, and Yahoo 
+gained more than $30 a share, as investors bet on a continued Internet 
+explosion. The Internet is on a secular growth curve that's independent 
+of the economy. It's just like, I think, the cable networks were in 
+the mid-80s. It's just like bio-tech was when we were going through 
+a recession in 1991. They're getting funding. The Internet is growing. 
+Corporate America is embracing them. The Internet gains were part 
+of a broad-based rally for the nASDAQ composite. It closed at 1977 
+on a gain of 49 points. Volume was a heavy 951 million shares. The 
+NASDAQ's big caps also did their part. Microsoft gained more than 
+$5 a share. Intel more than $1. And Cisco, whose routers carry 85% 
+of the Internet, rose to a 52-week high. This huge rally still leaves 
+the composite 37 points shy of its all-time high reached in late July, 
+when the NASDAQ peaked at 2014. Bill Tucker, "CNN Financial News," 
+New York. 
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981030.1130.1011 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A number of economic reports driving the markets today. The nation's 
+enomy expanded at a faster pace than expected during the third quarter. 
+The commerce department says Gross domestic product surged 3.3% -- 
+that's almost twice the rate recorded in the second quarter. Consumer 
+spending, which accounts for two-thirds of total GDP, helped offset 
+a decline in exports and lower business investment. A rebound in auto 
+inventories also helped overall output. But sales of new homes fell 
+last month, down 1% in September to an annual rate of 830,000 new 
+homes. That's the third straight month of declines. Economists had 
+expected a modest rise. 
+</TEXT>
+</DOC>

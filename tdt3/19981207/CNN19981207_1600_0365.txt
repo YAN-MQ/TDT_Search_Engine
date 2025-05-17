@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981207.1600.0365 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Massachusetts, it's beginning to look a lot like springtime with 
+temperatures reaching above 70 degrees. Some parts of the state received 
+the warmest weather recorded for the month of December. 
+</TEXT>
+</DOC>

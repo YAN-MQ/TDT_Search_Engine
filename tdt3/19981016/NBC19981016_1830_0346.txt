@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981016.1830.0346 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One more note on the economy -- the downside of low inflation. The 
+government announced today that next year's cost-of-living increase 
+for the 44 million Americans on social security will be just 1.3%. 
+that's the smallest cost-of-living raise in 12 years. The average 
+check will go up just $10 a month. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981213.1130.0570 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After a successful construction and assembly mission, the shuttle 
+"Endeavour" crew is preparing to leave the space station behind. It's 
+set to undock from the space station and return 0 earth on Tuesday. 
+Yesterday, astronauts completed a third spacewalk, adding hand rails 
+to the station adjusting connections and deploying a stuck antenna. 
+NASA estimates it will take about 160 similar missions over the next 
+five years to complete and maintain the space station. The next mission 
+scheduled in may. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981031.1300.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In our top stories -- at a news conference today, real estate investor 
+abe hirschfeld handed over a check for $1 million to Paula Jones. 
+To get the money, Jones must agree to drop her sexual harassment suit 
+against the president and settle out of court. 
+</TEXT>
+</DOC>

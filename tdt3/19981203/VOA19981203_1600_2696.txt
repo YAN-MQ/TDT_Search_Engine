@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> VOA19981203.1600.2696 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Scientists reporting in a recent issue of the journal "Nature" say 
+they have new evidence for the argument that human-caused emissions 
+of greenhouse gases are causing a rise in global temperatures. Jessica 
+Berman reports. The study examines more than a hundred years worth 
+of temperature data for the northern and southern hemispheres. From 
+the data, the researchers derived average yearly temperatures and 
+compared them to average annual readings 20 years before and 20 years 
+ahead of whatever year they were examining. Lead researcher Tom Wigley 
+is a senior scientist at the National Center for Atmospheric Research 
+in Boulder, Colorado. Mr. Wigley says investigators were looking for 
+what he calls the memory effect of the climate system. And I can explain 
+that just by giving you a simple example of what might happen if there 
+were no human factors involved at all. The temperatures this year 
+are to some degree related to temperatures from last year or maybe 
+the last few years because, if last year were a warm year, then the 
+oceans would have warmed, and the oceans retain their heat for a reasonable 
+period of time. So that warming from the previous year would have 
+a knock-on effect for this year so that, in the absence of any human 
+effect, then you would see some sort of memory of the temperature 
+record, but it would be a rather short term memory. In other words, 
+if I went from 1998 back to 1988, for example, then, you know, what 
+occurs this year would have no memory or relationship to 1988 or previous 
+years. But that is not what Mr. Wigley says he and his colleagues 
+observed. He says the data revealed a very substantial memory effect 
+of hemispheric temperatures. And the question is, you know, why is 
+that there if memory can only be explained by some slow external forcing 
+of the climate system. Mr. Wigley says there are two things that might 
+account for the lingering rise in temperatures over a period of decades. 
+One possibility involves 11-year cycles of sun spot activity in which 
+storms in the sun's atmosphere could warm earth's climate. So the 
+question then is if we account for the solar effect -- from the temperature 
+record if we remove the solar effect, do we get back to the short-term 
+memory situation, and the answer, if we just look at the sun's effect 
+alone, is that we cannot get back to the short-term memory that we 
+would expect to occur in the absence of any of these other factors. 
+So if sun storms alone aren't causing long-term rises in earth's temperatures, 
+atmospheric scientist Tom Wigley says the other possibility is a manmade 
+cause, the burning of fossil fuels. And if we then try to look at 
+the effect of both human activities and the sun together and subtract 
+those factors from the record, then we do get back to what we would 
+expect to occur in the absence of these external forcing effects. 
+So what that means is, in order to explain the observation, we need 
+to include both natural solar influences and human influences. Experts 
+say earth's temperatures have risen about.6 of a degree Celsius this 
+century. Many blame the greenhouse effect caused by the accumulation 
+of so-called greenhouse gases in the earth's upper atmosphere. Jessica 
+Berman, VOA NEWS, Washington. 
+</TEXT>
+</DOC>

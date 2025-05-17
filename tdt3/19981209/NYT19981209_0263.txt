@@ -1,0 +1,125 @@
+<DOC>
+<DOCNO> NYT19981209.0263 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+How do you cope with the serious illness of a child? Some ways are 
+primal, and others are learned on the job. I tried both the old and 
+the new during the last year, after my 10-year-old son, Peter, was 
+told that he had ulcerative colitis. But when he was hospitalized 
+just a few weeks ago to have his colon removed, I packed my laptop 
+computer along with his favorite blanket and stuffed animals. In another 
+era, I would have paced in the family waiting room with my address 
+book and a bag of quarters to pass on hospital news to friends and 
+relatives. But on that day, my connection was achieved with a Web 
+site on his surgery and hospital stay. Since Peter got sick, in November 
+1997, I have used the Internet for many things related to his illness. 
+It was natural for me: as the founder and general manager of NFL.com, 
+I've been running an extremely busy Web site for more than four years. 
+That makes me just slightly younger than John Glenn in Internet years. 
+I rely on the Internet every day for research and communication; still, 
+I could never have anticipated its significance as our bridge from 
+the confinement of the hospital to the world. Peter had begged me 
+for months to help him create a personal home page. When I finally 
+got around to it, he was too weak to participate. Too many months 
+of steroids had weakened his bones, distorted his features and bloated 
+his body. My handsome and skinny 10-year-old was trapped in a form 
+that seemed stolen from the Cartman character on ``South Park.'' Last 
+summer, as Peter played with old friends and made new ones, we worked 
+with his doctors to try new drugs and new therapies, hoping to avoid 
+surgery. Peter's spirits never flagged. When he became too weak to 
+bike around his beloved summer haunts on Fire Island, he borrowed 
+an adult tricycle. He had a pinch runner for softball games, he finished 
+``The Lord of the Rings,'' and he played endless games of Monopoly 
+with his sisters and dad. According to Peter, it was the best summer 
+of his life. I wouldn't rate my own summer quite so highly, squeezed 
+between Peter's medical needs and work, with pockets of time when 
+I lost myself on the Internet, looking for miracles and sharing information 
+about the disease with others on line. But no miracles materialized, 
+and on Nov. 1, we were finally preparing Peter for surgery. I alternated 
+between fussing over him with chicken soup that he didn't have the 
+appetite to eat and banging on my computer keyboard. It was a strange 
+dual role. I could do little to ease Peter's discomfort, so the hassle 
+of giving myself a crash course in Web design was a good distraction. 
+Despite my experience at the NFL Web site, I had never really done 
+the heavy lifting myself. Other people, far more proficient in Internet 
+technology, had created the basic site architecture. Now I was the 
+uncertain Webmaster of www.kirschner.org. My goal was to open a Web 
+site that would provide basic information about Peter's recovery as 
+well as answer general questions about colitis, colectomies and how 
+to get in touch with us. The site had to be easy to use and visually 
+appealing. Most important, and most difficult to achieve, it had to 
+be interactive. I spent the better part of the day before Peter's 
+surgery huddled over the computer and weeping as I listened to the 
+television coverage of the New York Marathon. Just one year before, 
+I had run the marathon for the first time. From the exhilaration and 
+pride of that moment to the terror and melancholy of this day was 
+too far to fall. We arrived at Mount Sinai-New York University Medical 
+Center on a Monday morning at 6:45. In addition to the usual patient 
+paraphernalia, I carried a cellular phone, a laptop, a digital camera, 
+a digital tape recorder, a microphone and assorted plugs, wires and 
+adapters. The surgery began at 8:30 a.m. We were prepared to wait 
+for at least three hours. Mercifully, by 10 a.m., Dr. Stephen Dolgin 
+sent Nan Lim-Sulit, a nurse practitioner, to tell us that all had 
+gone well, that the doctor was nearly done and that Peter would be 
+in the recovery room shortly. It was a true act of kindness. By early 
+that afternoon, Peter was sleeping deeply in his hospital room, tubes 
+and wires connecting him to various intravenous pain medicine and 
+nutrients. While he rested, I, too, got wired. An adjustable hospital 
+bed table made an admirable mobile desk. The Web site was up and running. 
+My first technical challenge was just logging on to the Internet through 
+the hospital's unpredictable telephone system. I had to dial in again 
+and again, frequently losing the connection midstream. As Peter became 
+more alert, he and I settled into a routine. His job was to rest and 
+submit to the hospital staff's questions and examinations. In addition 
+to good old-fashioned mothering, my duty was to update the home page 
+in the evening, adding digital photos and audio clips. Peter's pediatric 
+gastroenterologist, Dr. Keith Benkov, and Dolgin submitted gracefully 
+to posing for the home page with their patient and his stuffed animals. 
+Peter particularly loved to show visitors a picture in our online 
+family album that was taken before he became sick and strikingly ``cushingoid,'' 
+exhibiting the moon-faced steroid effect named after a real Cushing. 
+The hospital staff, too, seemed to enjoy the Web site. Three medical 
+students trooped in one day, having heard about the site when Peter's 
+case was presented in pediatric rounds. Modern medicine! On the third 
+night, I tried to install a new computer game for Peter. To my horror, 
+my brand-new laptop crashed. Suddenly, I was staring dumbly at a screen 
+that was beyond Windows, beyond DOS, a relic from some prehistoric 
+setup protocol. A call to the computer help line at first brought 
+no relief, as Stan, the laconic technician, diagnosed a fatal system 
+board error. Send it back tomorrow, he commanded. ``Just think up 
+one more fix,'' I pleaded. ``The hospital setting, Peter's illness 
+_ I need desperately to get back on line!'' I was just about ready 
+to offer him my Super Bowl tickets when he offhandedly suggested a 
+voodoo reboot with keyboarding combinations I had never heard of. 
+Suddenly, there was the friendly face of Windows back again. Thanks, 
+Stan. The best feature of the Web site was a guest book, which was 
+eventually signed by more than 100 people. (A counter on the home 
+page has registered more than 1,000 visits, probably suggesting that 
+our guests have been on the site about 10 times each.) I had wrested 
+these features from the software late the night before surgery, and 
+the victory was worth the effort. Every evening, I rolled the computer 
+over to Peter's bedside and we read the guest book together. Every 
+single message was a little jolt of energy for Peter and me. Our oldest 
+visitor was well into his 80s, and many of Peter's fourth-grade classmates 
+signed the book on their own or with their parents. There are a few 
+clowns in every crowd: my nephew revealed his diabolical plot to alter 
+Peter's photos digitally and send him nude around the Internet. A 
+business colleague offered to handle advertising sales on this highly 
+trafficked site. The site documented Peter's first walk in the hospital, 
+his first meal, his return home and his triumphant welcome back to 
+school just 15 days after surgery. Recently we celebrated his last 
+dose of steroids. At some time in the future, he will return to the 
+hospital for reconstructive surgery, but we are grateful for each 
+strong new day and are not looking too far ahead. Was this all a little 
+too much like ``The Truman Show,'' as I produced a site that invited 
+people to experience Peter's illness and recovery in something close 
+to real time? Perhaps it seems uncomfortably close to the wacky stories 
+of live medical events on the Internet, where total strangers are 
+sharing everything from childbirth to open heart surgery. For now, 
+I'll beg off on the deeper ethical considerations. All I know is that 
+the Internet enabled us to create a living community that temporarily 
+knit together everyone close to us in a deep and emotional connection. 
+Digital never felt so warm. 
+</TEXT>
+</DOC>

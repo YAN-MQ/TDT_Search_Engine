@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981010.1600.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- Congress is working through the weekend 
+trying to wrap up work on several bills and adjourn for the fall campaign. 
+The most crucial issue still unresolved is the 1999 federal budget. 
+</TEXT>
+</DOC>

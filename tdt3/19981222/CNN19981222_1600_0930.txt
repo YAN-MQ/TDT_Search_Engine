@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981222.1600.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here is a check of the day's top stories. Winter is officially here 
+in much of the country. Normally balmy southern California is no exception. 
+North of Los Angeles, interstate 5 was closed for seven hours by snow 
+and ice. 
+</TEXT>
+</DOC>

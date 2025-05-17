@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981106.2130.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Palestinian authority President Yasser Arafat is promising Israelis 
+he will track down the people responsible for today's suicide bombing 
+in jerusalem. Both suspects were killed, 21 bystanders were hurt. 
+</TEXT>
+</DOC>

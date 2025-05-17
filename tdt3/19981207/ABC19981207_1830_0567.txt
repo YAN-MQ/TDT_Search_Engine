@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981207.1830.0567 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At the international space station tonight -- that's a phrase we will 
+hear more regularly in the months and years ahead -- they are hooking 
+up the electrical connections between the first two components. As 
+one astronaut said, they are basically putting an office building 
+together up there. 
+</TEXT>
+</DOC>

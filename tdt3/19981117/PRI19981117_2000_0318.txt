@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> PRI19981117.2000.0318 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Housing prices are rising faster than inflation in many cities. The 
+national median price for an existing house was $132,700 in the third 
+quarter, up nearly 5 percent from the same period a year before. That's 
+more than double the retail inflation rate of around 2 percent. Prices 
+were up the most on the west coast, and in some parts of the south. 
+I'm Cory Flintoff, NPR News. 
+</TEXT>
+</DOC>

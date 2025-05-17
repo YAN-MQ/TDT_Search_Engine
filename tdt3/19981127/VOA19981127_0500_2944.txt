@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981127.0500.2944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In light trading, with many foreign investors on the sidelines, particularly 
+American investors who were taking off the US holiday Thursday, the 
+DK 225 Index closed down 138 points in Friday trading, to end the 
+week at 15,069. 
+</TEXT>
+</DOC>

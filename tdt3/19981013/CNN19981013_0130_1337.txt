@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981013.0130.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+monday night football -- mark brunell's 56-yard touchdown pass to 
+keenan mccardell late in the game gave the jaguars a 28-21 win over 
+the dolphins. jacksonville is 5-0. 
+</TEXT>
+</DOC>

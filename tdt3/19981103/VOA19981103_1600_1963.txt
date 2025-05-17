@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981103.1600.1963 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Astronauts aboard the U.S. Space Shuttle Discovery have used the shuttle's 
+robot arm to retrieve a solar research satellite. The shuttle crew 
+today plucked the satellite out of orbit for the return to Earth in 
+the Discovery's cargo bay. The crew had released the satellite Sunday 
+to gather data on the sun's atmosphere which ejects a solar wind that 
+sometimes disrupts communications and power supplies on Earth. 
+</TEXT>
+</DOC>

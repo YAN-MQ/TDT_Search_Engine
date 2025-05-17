@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981213.1000.0509 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for today and on into Monday. An area of low pressure has 
+produced some heavy rains in the southeastern United States, it's 
+going to move very slowly off the coast. In fact, some clouds and 
+showers could linger right on through Monday, and perhaps even into 
+Tuesday, right along the coastline. High pressure builds into New 
+England and into the western gulf of Mexico, with generally quiet 
+weather. A strong front is pushing across the Rockies and into the 
+northern plains by Monday evening. It will produce rain and mountain 
+snow. It produced some freezing rain in parts of the northwest on 
+Saturday. As we look ahead into Tuesday, you can see that there will 
+be generally quiet weather across much of the nation with rain in 
+the northwest, some snow showers over the upper midwest and some lingering 
+showers in the southeast, as I said. Temperatures mostly from the 
+30s to 50s, but warmer in the south. Looking ahead to Wednesday, still 
+some snow showers around the Great Lakes, and then Thursday it gets 
+wetter across the northeast, with some showers in the northwest. Don't 
+forget, four-day forecasts at CNN.com. 
+</TEXT>
+</DOC>

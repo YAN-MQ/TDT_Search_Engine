@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981110.2130.0504 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And later -- forecasters propose 
+a new system for rating winter storms. 
+</TEXT>
+</DOC>

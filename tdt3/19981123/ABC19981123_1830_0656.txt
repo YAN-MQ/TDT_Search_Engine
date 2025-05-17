@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981123.1830.0656 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Boris Yeltsin is in the hospital again, this time he has pneumonia. 
+He did feel well enough after getting some antibiotics to visit with 
+the chinese president today. A spokesman says his condition has stabilized 
+but he has a slight fever. 
+</TEXT>
+</DOC>

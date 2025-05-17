@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981212.1130.0595 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA is headed back to Mars to look for evidence of water. 
+</TEXT>
+</DOC>

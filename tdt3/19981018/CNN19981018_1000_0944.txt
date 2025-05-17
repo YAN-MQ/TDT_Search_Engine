@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981018.1000.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A pair of hurricanes is threatening Mexico's pacific coast. Madeline 
+is in the west, with the stronger Lester in the south. 
+</TEXT>
+</DOC>

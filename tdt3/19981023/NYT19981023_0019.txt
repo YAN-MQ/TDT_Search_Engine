@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> NYT19981023.0019 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+John Kifner, a reporter for The New York Times, received the 1998 
+John Chancellor Award for Excellence in Journalism at a dinner in 
+Philadelphia on Wednesday night. Kifner, 56, now a metropolitan reporter 
+for The Times, won the award for foreign and domestic reporting over 
+the course of his 30-year-career, which has included coverage of the 
+Iranian revolution, the Persian Gulf war, as well the 1968 Democratic 
+convention. The award is given in honor of John Chancellor, the NBC 
+television correspondent and anchor who died in 1996. It carries a 
+$25,000 prize. 
+</TEXT>
+</DOC>

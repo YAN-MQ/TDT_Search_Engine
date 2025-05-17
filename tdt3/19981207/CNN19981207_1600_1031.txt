@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981207.1600.1031 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Two Japanese companies are strengthening their ties. Nissan motor 
+and electronics giant hitachi are developing advanced technology for 
+vehicles and auto components. On their to-do list -- ecofriendly cars, 
+an automated driving system and state-of-the-art brake systems. Japanese 
+automakers have been forming alliances with domestic and overseas 
+rivals as Japan's recession and economic turmoil in Asia push down 
+profits. 
+</TEXT>
+</DOC>

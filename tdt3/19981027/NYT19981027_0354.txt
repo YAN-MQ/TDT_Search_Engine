@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> NYT19981027.0354 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A federal judge has refused the recording industry's request to halt 
+production of a hand-held device that can record and play back digital 
+music found, often illegally, on the Internet. Within hours of the 
+court's announcement late Monday, Diamond Multimedia Systems, the 
+San Jose company that makes the device, known as the Rio, began producing 
+it. The Recording Industry Association of America, the powerful trade 
+group that had sued to prevent Diamond from shipping the Rio, vowed 
+Tuesday to appeal. The Rio, which sells for $199, can store up to 
+60 minutes of music, functioning as a sort of a personal stereo, much 
+like portable CD and tape players. But given the near-CD fidelity 
+of the digital recordings, the record industry sees the Rio as far 
+more dangerous than cassette tapes. The industry fears that by enabling 
+users to grab unlicensed digital music off the Internet with the click 
+of a mouse, the device will encourage widespread music piracy. Earlier 
+this month, the trade group asked U.S. District Judge Audrey Collins 
+in Los Angeles for a preliminary injunction preventing Diamond from 
+shipping the Rio. Her denial of the injunction effectively enables 
+Diamond to manufacture and ship the Rio for the holiday season. The 
+case underscores the formidable challenge facing the music industry 
+as it tries to protect the rights of musicians and distributors at 
+a time when illegal music can be distributed freely, anonymously and 
+widely over the Internet. The RIAA, which represents 90 percent of 
+the creators, manufacturers and distributors of commercial recordings, 
+said it had found dozens of sites that in all offered tens of thousands 
+of unlicensed recordings free. Forrester Research Inc., a market research 
+firm in Cambridge, Mass., estimates that 10 million people already 
+have software that enables them to get and listen to MP3 files, the 
+audio format the Rio supports. Even Microsoft Corp., media player 
+for Windows is capable of playing MP3 files. The Rio weighs less than 
+2.4 ounces. After being attached to a computer with a cable, it finds 
+music on the Internet and stores it. Eric Schmitt, a research associate 
+at Forrester, said it was the first of several similar devices expected 
+to hit the market in coming months. Diamond Multimedia says it does 
+not condone piracy and that it is not fair to blame the company if 
+some people use its product illegally. ``If the recording industry 
+wants to go after piracy, it should go upstream to the pirates themselves,'' 
+said Ken Wirt, Diamond's vice president for corporate marketing. The 
+request for a preliminary injunction hinged primarily on whether the 
+Rio met the definition of a digital audio recording device under the 
+Audio Home Recording Act of 1992. That law requires makers of digital 
+audio recording devices to pay artist organizations royalties of 2 
+percent of the wholesale price of the device. Although Judge Collins 
+said the court was ultimately very likely to find that the Rio met 
+the definition, she refused a key request of the trade group _ that 
+Diamond be forced to install a technology that would prevent the device 
+from copying unlicensed music files. Cary Sherman, general counsel 
+for the RIAA, said that since it was logistically impossible to go 
+after all the people who offer pirated music on the Internet, the 
+association thought it made more sense to regulate the technology 
+used to ``receive'' the music. Manufacturers of such devices ``have 
+a moral obligation to protect creative works,'' he said. Andrew Bridges, 
+a partner with Palo Alto-based Wilson Sonsini Goodrich &AMP; Rosati, 
+, which is representing Diamond, argues that the association is not 
+entitled to derail new technology while it determines how to protect 
+its members. ``Are they saying no one can develop a new technology 
+without their permission?'' Bridges asked. 
+</TEXT>
+</DOC>

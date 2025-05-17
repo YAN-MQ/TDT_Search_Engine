@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> ABC19981102.1830.0917 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Still "on the money" -- a strong day on Wall Street. The Dow Jones 
+industrials were up more than 114 points, to close at 8706. On the 
+NASDAQ today, stocks gained more than 29 points. Incidentally, the 
+NASDAQ has a parent company, the national association of securities 
+dealers. And today, they merged with an American institution, the 
+American stock exchange. Soon, it is said, they'll merge with the 
+Philadelphia stock exchange. 
+</TEXT>
+</DOC>

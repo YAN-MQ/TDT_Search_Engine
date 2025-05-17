@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981024.1300.0275 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Many people don't know it, but saliva can contain enough DNA to positively 
+identify a person. A suspected rapist now under arrest in St. Petersburg, 
+Florida, found out the hard way. Police had the man under surveillance, 
+but didn't have enough evidence to arrest him. Until he spit out of 
+his car window. A quick thinking officer mopped up the saliva with 
+a towel, and took in a Sample for testing. DNA in the saliva matched 
+DNA in semen collected at the rape scenes. The suspect now faces a 
+variety of charges. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981125.0130.0474 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is up next. And still ahead -- researchers 
+say they may have discovered a new way to treat baldness. 
+</TEXT>
+</DOC>

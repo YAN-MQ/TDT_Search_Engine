@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981015.2130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- action, reaction -- the federal reserve 
+lowered interest rates for a second time in three weeks today. And 
+that sent stock markets soaring. Investors say it's a sign the fed 
+is worried about shaky financial markets. 
+</TEXT>
+</DOC>

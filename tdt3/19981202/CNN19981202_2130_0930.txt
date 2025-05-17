@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981202.2130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the weather outlook is not promising for the launch of space shuttle 
+"Endeavour" at 3:56 eastern time tomorrow morning. "Endeavour" is 
+carrying the first American-built piece of the international space 
+station. 
+</TEXT>
+</DOC>

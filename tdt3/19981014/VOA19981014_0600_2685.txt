@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> VOA19981014.0600.2685 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+A very popular component of the internet is the World Wide Web. The 
+web is the place where people go to be entertained, to get news, to 
+be educated and to conduct business. As Dan Noble reports this important 
+place in cyberspace is being made accessible to people with a variety 
+of disabilities. The World Wide Web consortium the W3C is it called, 
+is an international group jointly run by the MIT laboratory for computer 
+sciences in the United States. The National Institute for Research 
+and Computer Science in France and Keyo University in Japan. The group 
+which includes more than 275 organizations helps to develop standard 
+industry specifications and serves as a suppository of information 
+about the Web. Not long ago, the consortium started what it calls 
+the Web Accessibility Initiative for people with disabilities. The 
+Web Accessible Initiative is something that's been hosted at the W3C 
+for over a year now and it's a very interesting project. This is Accessibility 
+Initiative Director, Judy Brewer. They elected to host this project 
+internally as a but to do it in a especially a multi-stake holder 
+way so that it would involve industry and government and representation 
+from the disability community and from accessibility research organizations 
+based universities and stuff all working together to try to come up 
+with common solutions that everyone could use. Judy Brewer says that 
+one of the more obvious things about the Web that it is very visual 
+medium. There are images and icons that can make it easy to get information. 
+That's not easy if you're visually impaired. Now, you can imagine 
+if the images don't have some kind of alternative text that someone 
+who can't see that image doesn't know where they're going. You think 
+about somebody who has a hearing disability. And, if you put an audio 
+file on the Web, then someone with a hearing disability doesn't have 
+access to that unless it's captioned in some way. At the same time, 
+you think of somebody with a physical disability or a cognitive disability 
+and there are different ways that you can design a website or web-based 
+application so they're either easier to use for somebody with a physical 
+or cognitive disability or harder to use. And, we're obviously trying 
+to figure out the things that would make it easier. Many high-tech 
+companies are already working to make their products accessible to 
+as many people as possible. Among them is Microsoft which has an Office 
+of Disabilities headed by Greg Laning. We unfortunately have to do 
+a little bit of education for most of the people who have never even 
+thought about this idea. But, it's not that hard when you point out 
+the number of people who have disabilities. Really, the latest statistics 
+shows almost 1 person in 5. And even 1 out of 8 persons working on 
+the internet today. And we all want to be able to keep using the computers 
+and keep taking advantage of all the benefits that bring us. Among 
+the projects Microsoft is working on is one involving in what Greg 
+Laning calls Closed Captioning and Audio Description. That means you 
+can take anybody and take a piece of multi-media content that might 
+be a video or even a audio file. And add closed captioning for a person 
+who's deaf or hard of hearing. An audio description for a person who's 
+blind. And at the same time, it allows a person who's so-called disabilities 
+that they don't speak the right language to access that information. 
+Because the captioning and the other descriptions can be in multiple 
+languages at the same time. And every piece of audio or video on the 
+World Wide Web can have captioning in a whole host of languages. The 
+World Wide Web is becoming an important part of the way we are entertained, 
+the way we learn, and the way we conduct business. Making it accessible 
+to everyone is a goal high-tech experts say is well within the realm 
+of possibility. I'm Dan Noble. 
+</TEXT>
+</DOC>

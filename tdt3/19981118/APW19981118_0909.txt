@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> APW19981118.0909 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Unemployment in Russia has reached 11.5 percent, with 8.4 million 
+people out of jobs, according to estimates by the State Statistics 
+Committee released Wednesday. That is a 4.7 percent increase since 
+October, the committee said. The official unemployment rate is only 
+2.5 percent, or 1.8 million people, the committee said, according 
+to the ITAR-Tass news agency. Many Russians do not register as unemployed, 
+often because they don't want to waste time on the procedure for the 
+sake of negligible benefits. The statistics committee apparently included 
+these people in the larger estimate. Many of those who are officially 
+employed are in fact also out of work, as idle factories and troubled 
+companies send scores of employees on forced vacations. 
+</TEXT>
+</DOC>

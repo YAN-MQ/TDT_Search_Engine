@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981021.2130.0978 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks ended higher today, led by gains in the technology sector. 
+The broader market was mostly flat as investors remained unsure about 
+the market's direction. 
+</TEXT>
+</DOC>

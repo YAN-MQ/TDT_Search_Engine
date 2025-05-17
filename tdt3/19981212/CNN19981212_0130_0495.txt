@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981212.0130.0495 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen Maginnis. 
+The start of the weekend is going to be a chilly one through the interior 
+west. Temperatures mostly in the 30s across the central Rockies. Salt 
+Lake City is expecting a high temperature of only about 34 degrees. 
+Temperatures begin to warm up across the central plains. High pressure 
+starts to push in and it looks like most of the moisture could be 
+located along the gulf coast and into the southeastern United States. 
+We will expect yet another pacific northwest storm. Those rivers and 
+streams beginning to fill up, and snow levels down to around 3,000 
+or 4,000 feet. For Alaska, Hawaii and the Caribbean, a breezy day 
+as far as trade winds are concerned across Honolulu and through Hilo. 
+Look for 83 in San Juan and minus 12 for Fairbanks, Alaska. The extended 
+forecast shows the east and the northwest on Sunday to be rather unsettled. 
+For Monday, temperatures really begin to rebound across the central 
+plains. And then by Tuesday, expect snow showers through the Great 
+Lakes. For more weather information, log on to CNN.com. 
+</TEXT>
+</DOC>

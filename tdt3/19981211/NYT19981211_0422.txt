@@ -1,0 +1,72 @@
+<DOC>
+<DOCNO> NYT19981211.0422 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The corporate earnings pre-announcement season is opening on a sour 
+note with bad news from the likes of Merck, Coca-Cola, Boeing, Newell 
+and Sears, Roebuck, as well as from several utility companies that 
+have been hurt by the unseasonably warm weather. The financial crisis 
+in Asia and elsewhere is an aggravating problem for some, like Boeing. 
+But for others, like Newell, a maker of consumer products, it may 
+be that the slowdown is finally emerging in the United States. Newell 
+said last week that sales had slumped for its Calphalon cookware and 
+Rolodex files. But investors are going to have trouble sorting out 
+how Wall Street analysts think fourth-quarter profits will finally 
+shake out when the earnings announcements are made early next year. 
+As of now, they can get two distinctly different signals from the 
+most closely watched firms that collect Wall Street earnings forecasts. 
+IBES International says that the analysts' earnings forecasts it compiles 
+for the 500 companies in the Standard &AMP; Poor's index indicate 
+that overall operating profits will fall 0.5 percent in the fourth 
+quarter, compared with the period in 1997. With the decline of 6.2 
+percent in the third quarter, this would be the first two-quarter 
+decline in earnings since 1991. But the First Call Corp. says the 
+analysts it tracks predict that overall operating earnings will grow 
+by 4.5 percent in the fourth quarter. That would not be a bad rebound 
+from the 3.1 percent decline that First Call calculated for the third 
+quarter. Charles Hill, First Call's research director, expects the 
+final number to be lower, but still around 4 percent. (Coke's own 
+earnings downgrading Friday is in the IBES number and will lower First 
+Call's this week.) One reason for the gap is that some of the analysts 
+are different. First Call, for example, does not use earnings estimates 
+from analysts at Standard &AMP; Poor's. The policies at each firm 
+are different for updating forecasts when analysts change their numbers. 
+But the main difference seems to be how each firm compares the current 
+quarter with the previous one. IBES compares the earnings estimates 
+for the 500 companies now in the S&AMP;P to the earnings for the 500 
+companies that were in the index a year earlier. First Call adjusts 
+the year-earlier S&AMP;P 500 to reflect the makeup of the current 
+index. There have been 43 changes in the S&AMP;P 500 index this year. 
+Chrysler is gone. BankAmerica and Nationsbank merged and Union Planters 
+was added. MCI and Worldcom merged and RJR Nabisco was added. ``There 
+are a record number of changes because of mergers,'' said David Blitzer, 
+chairman of the index committee at S&AMP;P. ``The fact that they are 
+dealing with a different composition would make a difference.'' Unfortunately, 
+all these reasons do not explain fully the gap between the estimates, 
+and it might take a lot of computer time _ and cooperation between 
+the two firms _ to find an explanation. But there is little doubt 
+that the divergence is not helping the credibility of the data. ``It 
+worries me that we are three percentage points off in the third quarter 
+and almost five percentage points off in the fourth quarter,'' Hill 
+said. ``I wouldn't have a clue of where we could be doing something 
+wrong on this.'' What do investors do? First Call is comparing apples 
+to apples, and that is probably better. But all investors should remember 
+that there is a bigger problem with the analysts who make the forecasts 
+that the two companies compile. Year in and year out, they are virtually 
+always too optimistic and spend most of their time scaling back earlier 
+predictions. This means that both the IBES and First Call earnings 
+forecasts for the first and second quarters of 1999 are likely to 
+be revised downward. That is even a surer bet than usual given the 
+new signs of a slowing American economy. The Federal Reserve's current 
+regional economic survey showed that retail sales were weaker than 
+expected, manufacturing was ``generally softer'' and growth slowed 
+in five regions. And American exports dropped $1.2 billion in the 
+third quarter, reflecting the disappearance of demand from the rest 
+of the world as Asian and developing economies slow down or sink into 
+recessions. ``My boss asked me what will happen to the earnings forecasts 
+in the first and second quarter,'' said Joseph Abbott, United States 
+research manager at IBES. ``I told him I was sure they were going 
+to go down. But I don't know how much.'' 
+</TEXT>
+</DOC>

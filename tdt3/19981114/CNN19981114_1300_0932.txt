@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981114.1300.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- Iraq appears to be backing down 
+in the latest standoff over U.N. weapons inspectors. Iraq's ambassador 
+to the U.N. says Baghdad will now allow inspections to resume without 
+conditions. 
+</TEXT>
+</DOC>

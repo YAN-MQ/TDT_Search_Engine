@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981227.1130.1327 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Phoenix edged Los Angeles, 2-1. Coyotes have beaten the kings in all 
+three meetings this season and improve their overall record to 20-6-4. 
+</TEXT>
+</DOC>

@@ -1,0 +1,82 @@
+<DOC>
+<DOCNO> NYT19981118.0394 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Microsoft Corp. has decided ``absolutely'' to continue to support 
+the Java programming language in the wake of a ruling on Tuesday in 
+which a U.S. judge ordered the company to change its Java software, 
+a Microsoft executive said Wednesday. In a preliminary ruling, the 
+judge found that Microsoft had violated its licensing contract with 
+Sun Microsystems Inc., inventor of the Java language, by altering 
+it so that it was tailored for Microsoft's Windows and incompatible 
+with Sun's Java technology. Judge Ronald Whyte of U.S. District Court 
+in San Jose, Calif., told Microsoft it could no longer ship the incompatible 
+software and gave the company 90 days to comply with his order. After 
+the ruling on Tuesday afternoon, Paul Maritz, a Microsoft group vice 
+president, said the company was weighing its options and that ``the 
+option of not supporting Java is open to us.'' But Tod Nielsen, Microsoft's 
+general manager in charge of dealing with software developers, said 
+the company was ``absolutely going to support Java, and we will support 
+it as long as there is a desire for it,'' among programmers. Maritz's 
+comment on Tuesday, Nielsen said, was intended as one of a number 
+of ``hypothetical options'' available to Microsoft in the aftermath 
+of the judge's ruling. The ruling does curb some of Microsoft's practices. 
+For example, the company may not contractually require software developers 
+to use Microsoft's version of Java exclusively, nor may Microsoft 
+add commands to Java that result in programs that run only on Microsoft's 
+Windows operating system. But the main element of the judge's order, 
+according to Microsoft, is the requirement that the company include 
+additional commands that make it compatible with Sun's Java standards. 
+``Though there are some restrictions on what we can do,'' said Tom 
+Burt, an associate general counsel for Microsoft, ``Microsoft still 
+has the right to create its own version of Java.'' Rather than curbing 
+its Java offerings, Nielsen said Microsoft would comply with the judge's 
+order by giving ``software developers another choice'' among the Java 
+options that the company includes in products like its Windows 98 
+operating system and its Internet Explorer World Wide Web browser. 
+Still, industry analysts expressed skepticism about Microsoft's court-ordered 
+conversion to the virtues of offering more choice for the thousands 
+of software developers who write programs in Java that are used for 
+everything from animating Web sites to tracking stock prices. Microsoft, 
+the analysts said, had tried to divide Java into different camps _ 
+one aligned with Microsoft, one with Sun _ to undermine the Java threat 
+to Microsoft. The appeal of Java is that it makes it easier to write 
+programs that can run easily on different operating systems, thus 
+weakening the advantage Microsoft enjoys now because most developers 
+write programs tailored for its industry-standard Windows operating 
+system. Many companies, including IBM Corp. and Novell, have licensed 
+Sun's Java technology, and those companies are permitted to fine-tune 
+Java as long as the additions do not make it incompatible with the 
+core Java software. ``But the difference is that Microsoft tried to 
+create incompatibilities,'' said Jeffrey Tarter, editor of Softletter, 
+an industry newsletter. The court ruling could cause some uncertainty 
+among software developers working with Microsoft's version of Java, 
+Tarter said. Perhaps within a year or so, Tarter said, Microsoft will 
+likely regain its influence over the growing community of Java programmers 
+by re-engineering Java so that it can do whatever it wants with it. 
+In this process of ``cloning'' software, engineers who have not had 
+access to Sun's Java programming code are given specifications about 
+what tasks the cloned Java should perform and then told to write code 
+that performs those tasks. The resulting product, Tarter said, would 
+be intended to run existing Java programs but also to run far better 
+than Sun's version on computers using Microsoft's Windows operating 
+system. ``Microsoft got its start doing a knock-off of the old Basic 
+operating system, so that kind of reverse engineering is totally in 
+character,'' Tarter said. Nielsen of Microsoft said there were no 
+current plans for cloning Java, and he described that option as a 
+``long-term technical issue.'' By requiring Microsoft to offer Java 
+that is compatible with Sun's standards, the California court order 
+is likely to make it more difficult for Microsoft to use its dominance 
+of personal computing software to bend Java in its direction. ``It 
+really forces Microsoft to compete on the merits of the product, and 
+these days it rarely does that,'' said Richard Shaffer, a principal 
+of Technologic Partners, a technology consulting firm in New York. 
+``Typically, Microsoft's enormous market power gives it a huge advantage.'' 
+For his part, Nielsen of Microsoft said, ``We feel pretty confident 
+about our ability to write software.'' Michael Morris, Sun's general 
+counsel, said the court order was intended to make the playing field 
+level for all companies in the Java market. ``If Microsoft is happy 
+with that, I'm delighted,'' Morris said. 
+</TEXT>
+</DOC>

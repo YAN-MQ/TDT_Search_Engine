@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981127.1600.0467 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for Saturday morning. You can see a frontal system reaching 
+from the Great Lakes area all the way into the west, but generally 
+dry until you get to the west. We're going to see rainfall in southern 
+California. And as the day goes along, the rainfall will move through 
+southern California into Arizona and eventually into southern Rockies. 
+And at the higher elevations, some of the precipitation will be in 
+the form of snow. This is the same storm system that moved in through 
+the northwest. Another system is approaching that corner of the nation. 
+But temperatures will be warm through most of the country. As you 
+can see, 60s and 70s will dominate. Cooler in the west, with the storms 
+moving through. Your extended forecast -- on Sunday, we're talking 
+about more rainfall in the west. Another storm approaches the great 
+northwest. As we move on into Monday of next week, you can see the 
+rainfall moving into the east. Another storm rolls into the northwestern 
+corner of the United States. And on Tuesday, temperatures still relatively 
+warm. And you can see the storm in the northwestern corner of the 
+U.S. 
+</TEXT>
+</DOC>

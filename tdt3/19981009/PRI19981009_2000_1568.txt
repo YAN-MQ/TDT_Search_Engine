@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981009.2000.1568 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones Industrials ended up on their 
+feet, up 168 points, at 7900. The Nasdaq similarly up 74 points at 
+1493. 
+</TEXT>
+</DOC>

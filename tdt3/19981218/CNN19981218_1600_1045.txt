@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981218.1600.1045 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The food and drug administration has approved a new drug for treating 
+HIV. The drug called ziagen is taken orally twice a day. It's manufactured 
+by Glaxo-wellcome. When used with other HIV medications the FDA says 
+it has been shown to help lower the amount of HIV in the blood. Ziagen 
+is the 15th drug approved to treat HIV. The FDA warns however that 
+at least 5% of patients tested had serious side effects to the drug. 
+Some proved fatal. 
+</TEXT>
+</DOC>

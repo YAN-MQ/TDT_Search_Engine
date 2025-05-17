@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981204.2000.1515 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Time for business news now and the latest from Wall Street. The Dow 
+Jones Industrials posted a 134 point gain to close at 96 today. The 
+NASDAQ also made some gains. It was up 48 points at 2001. 
+</TEXT>
+</DOC>

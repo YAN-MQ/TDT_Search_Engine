@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981230.2130.0308 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+150,000 illegal immigrants will be allowed to stay in the United States 
+temporarily while their home countries recover from hurricane Mitch. 
+The immigration and naturalization service says it will give 18-month 
+work authorizations to migrants from Nicaragua and Honduras. The INS 
+commissioner says it's a humanitarian gesture that will help alleviate 
+the pressure as those countries rebuild from their worst natural disaster 
+this century. Guatemala and El Salvador were also hard hit by Mitch, 
+but migrants from those countries are only getting a 60-day extension. 
+</TEXT>
+</DOC>

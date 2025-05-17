@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981031.1000.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Three days after entering a drug rehabilitation clinic. Lawrence Taylor 
+has filed for bankruptcy. 
+</TEXT>
+</DOC>

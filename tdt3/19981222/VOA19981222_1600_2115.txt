@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981222.1600.2115 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+As expected, the U.S. Federal Reserve, the central bank, has decided 
+to leave interest rates unchanged following three interest rate reductions 
+in the past three months. The decision leaves the key-lending rate 
+in the United States, at 4.75 percent. 
+</TEXT>
+</DOC>

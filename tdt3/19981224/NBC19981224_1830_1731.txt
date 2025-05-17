@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981224.1830.1731 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Nightly News" for this Christmas eve. I'm John seigenthaler. 
+And as we leave you tonight, we want to show you what the folks at 
+norad are tracking in the skies tonight. Looks like something with 
+a sleigh. Merry Christmas. 
+</TEXT>
+</DOC>

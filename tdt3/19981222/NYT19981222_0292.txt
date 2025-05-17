@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> NYT19981222.0292 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Standard &AMP; Poor's lowered its long-term credit ratings Tuesday 
+on Toshiba Corp.'s debt, saying the company's efforts to strengthen 
+itself financially will likely be hurt by a swift erosion in cash 
+flow and adverse global market conditions. The downgrade was sobering 
+because Toshiba, which manufactures everything from batteries and 
+household appliances to power generation equipment and sophisticated 
+computer chips, is regarded here as having gone further than most 
+corporations to overhaul itself. Under its president, Taizo Nishimuro, 
+the company has exited less profitable businesses, streamlined corporate 
+governance and adopted a plan to reduce jobs. The company also intends 
+to reduce the number of affiliates _ and therefore obligations to 
+them _ to 300, from 1,000, by April 1999, and to whittle its labor 
+force to 60,000, from 66,000, by 2000. But Standard &AMP; Poor's was 
+apparently unswayed, pushing the company's long-term ratings to triple-B-plus 
+from A-minus. ``Although these actions will help the company improve 
+its performance over the next several years, the scale and timing 
+of the benefits of restructuring are uncertain,'' the ratings agency 
+said. It pointed to weakness in the semiconductor market, a slowdown 
+in capital investment among Japanese electrical companies and the 
+uncertain demand for personal computers. Toshiba shares, which had 
+risen 50 percent over the last three months on the company's restructuring 
+efforts, fell 4 percent, or 28 yen, on the downgrade news to 677 yen, 
+or about $5.84. A lowered credit rating can make it more expensive 
+for corporations to borrow by issuing bonds, because investors demand 
+a higher rate of return on securities considered more risky. But Toshiba 
+said through a spokesman that the company did not expect the ratings 
+change to significantly increase its borrowing costs. 
+</TEXT>
+</DOC>

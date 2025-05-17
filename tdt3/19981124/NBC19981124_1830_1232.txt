@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NBC19981124.1830.1232 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The desperate state of Russian democracy was on display in St. Petersburg 
+today. Thousands gathered for the funeral of Galina starovoitova, 
+one of the russian parliament's highest profile democratic reformers. 
+She was murdered on the steps of her apartment building last Friday. 
+Police say they have no idea who killed her, but many Russians say 
+there's no doubt it was a politically motivated contract hit. 
+</TEXT>
+</DOC>

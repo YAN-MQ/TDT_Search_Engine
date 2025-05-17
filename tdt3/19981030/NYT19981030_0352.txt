@@ -1,0 +1,77 @@
+<DOC>
+<DOCNO> NYT19981030.0352 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Moore's Law _ which holds that the speed of computing doubles every 
+18 months _ is a concept that is hopelessly alien to the practice 
+of law. The government's antitrust lawsuit against the Microsoft Corp. 
+wound up its second week in federal district court in Washington on 
+Friday, and the case, which was originally expected to be argued in 
+a month's time, now looks as though it might drag on until close to 
+Christmas. Based on the stock market's response, it does not seem 
+as though investors think the government has much of a case. Since 
+the trial began, Microsoft's shares have actually risen slightly, 
+closing at $105.875 Friday. Still, the case remains a wild card for 
+Microsoft's prospects. George L. Priest, the John M. Olin Professor 
+of Law and Economics at Yale Law School, talked about the trial and 
+what it means for business. Q. You have no interest in the case beyond 
+that of a well-informed bystander. What is your take on what has transpired 
+thus far? A. I don't think the Justice Department has shown much of 
+anything yet in the Microsoft case. They have emphasized meetings 
+and memos that are ambiguous at best. But nothing I have read rules 
+out the possibility that the Internet Explorer and its integration 
+into Microsoft Windows is a superior product for consumers than an 
+unbundled browser, such as Netscape's Navigator. And that has to be 
+the ultimate standard: What is the impact on consumers? How are consumers 
+worse off? Q. It seems the Justice Department is bringing an antitrust 
+case in an industry whose lifeblood is speed. Even if the government 
+wins its case, isn't there a risk that competitive conditions in the 
+business will be far different once a remedy is proposed than they 
+were when the case was brought? A. The case will be obsolete by the 
+time it is settled unless the judge rules for the government and slaps 
+some kind of injunction on Microsoft. That would be unfortunate for 
+consumers, the economy and the world. One of the problems is that 
+most of our antitrust law has been developed in the context of manufacturing, 
+where if a firm has a very large market share we know it will take 
+a long time to erode, because of the costs of getting into the market. 
+But this is not U.S. Steel, whose monopoly took 30 years to erode. 
+This is an industry where market share can be overturned in a very 
+short period. Q. What sort of remedy do you think might be imposed 
+if the government wins? A. If the judge puts a limitation on the Microsoft 
+browser, and tells them to unbundle it, that is not so important. 
+It is not a clear gain for consumers, but it will not dramatically 
+affect the industry. As it is, anyone with the mildest level of computer 
+sophistication can download Netscape's Navigator within a matter of 
+minutes. It can't be an important restraint of trade to exclude Navigator 
+when you can get it off the Internet that quickly. Q. What if the 
+court ordered a breakup of Microsoft? A. I don't think Microsoft can 
+be broken up. This is not a company with different plants. What are 
+you going to do, put partitions in the halls of Microsoft's headquarters 
+in Redmond, Wash.? The notion of breaking up Microsoft is lunacy. 
+Q. Still, might a victory over Microsoft embolden the government to 
+take on other high-technology companies? A. I don't think the industry 
+will be thrown into a tizzy if Microsoft loses, if only because Justice 
+does not have the prosecutorial resources to bring massive numbers 
+of suits. This is not like the 1960s and 1970s, when the Warren Court 
+began issuing decisions that effectively agreed with everything Justice 
+brought before them. That type of authority did have a substantial 
+impact on all industrial development in the United States, and it 
+was only in the 1980s and 1990s that that sort of thrust has been 
+reversed. I don't think that is going to happen here. Q. The Microsoft 
+case is capturing the headlines, but the government recently brought 
+an antitrust suit against Mastercard and Visa. Is this the start of 
+a new period of activism by Justice in antitrust? A. I don't know 
+why Justice has gotten more active. It is unfortunate that it seems 
+more activist on the behalf of individual firms that at the moment 
+are not doing as well as their competitors in the marketplace, be 
+they American Express in the Mastercard/Visa case or Netscape Communications 
+in the Microsoft action. I am a strong supporter of antitrust law, 
+as a general matter. But given the increased level of competition 
+in the world, we are going to need fewer antitrust cases. Monopolization 
+will become less relevant because of the possibilities of entry into 
+a given market. We have fewer trade restrictions now, and that allows 
+foreign companies to enter and compete if there is even a threat of 
+dominance. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981124.2000.0324 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+American consumers were more optimistic about the economy in November, 
+encouraged by the rebound on the stock market and fewer worries about 
+domestic politics. The conference board said its index of consumer 
+confidence gained nearly 7 points to 126. This is NPR. 
+</TEXT>
+</DOC>

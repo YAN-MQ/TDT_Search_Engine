@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981120.2130.1332 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some golf -- Mark O'Meara was named the PGA player of the year, while 
+hale irwin won the senior tour player of the year. Russell Biven, 
+"CNN Headline Sports." 
+</TEXT>
+</DOC>

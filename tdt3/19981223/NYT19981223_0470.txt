@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> NYT19981223.0470 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial for Thursday, Dec. 24: How 
+earnest and public-minded it sounded when tobacco company executives 
+warned early this year that the attempt to jack up cigarette prices 
+through the pending national tobacco bill would inevitably lead to 
+smuggling and a black market. No less than Steven Goldstone, the chairman 
+of RJR Nabisco, warned that it was virtually impossible to stop a 
+determined batch of smugglers, given that 14 million cigarettes can 
+fit into a single truck. Goldstone called it ``irresponsible'' to 
+ignore the smuggling that neighboring countries had experienced when 
+they raised cigarette taxes. Well, now it turns out that Goldstone 
+assuredly was right about the dangers of smuggling. The only problem 
+was, he pointed his finger in the wrong direction. This week a marketing 
+subsidiary of his own company pleaded guilty to criminal charges and 
+paid a $15 million fine for actions that enabled others to smuggle 
+cigarettes into Canada. The scheme was hatched after the Canadian 
+government raised tobacco taxes in an effort to cut smoking. Those 
+taxes applied only to cigarettes sold in the Canadian market, not 
+to exports. So cigarettes were shipped from a Reynolds plant in Canada 
+to the United States where the guilty Reynolds subsidiary aided the 
+filing of false statements that they were to be shipped on to Russia 
+and Estonia, a maneuver that exempted them from taxes in both Canada 
+and the United States. In reality, the cigarettes were sold to distributors 
+in New York. The subsidiary has admitted only to customs violations, 
+not smuggling. But in truth, says U.S. Attorney Thomas J. Maroney, 
+the subsidiary knew that the cigarettes were destined to be smuggled 
+back into Canada, in this case through an Indian reservation in upstate 
+New York. RJR Nabisco says it ``very much regrets'' the episode and 
+calls its subsidiary's actions ``inconsistent with the way Reynolds 
+does business.'' It has closed the subsidiary and is taking steps 
+to prevent a recurrence. But the apologies seem a bit late. The tobacco 
+industry has long been accused of looking the other way when it comes 
+to smuggling. Now we know it is even worse. The shame of this episode 
+is that a subsidiary of America's second-largest tobacco company actually 
+joined the criminals. 
+</TEXT>
+</DOC>

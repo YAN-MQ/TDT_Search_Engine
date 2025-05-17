@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981104.1600.0493 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for Thursday. We'll see a few snowflakes across the Great 
+Lakes. Other than that, high pressure builds into the central United 
+States. A cold front will produce rain and mountain snow scattered 
+across the northwest. We could see some showers and storms in Texas, 
+but it's Florida we're focusing on as tropical storm Mitch moves rapidly 
+across southern Florida bringing several inches of rain and some strong, 
+gusty winds. Thursday's high temperatures, 30s and 40s across much 
+of the northern half of the country, mostly 50s and 60s in the south, 
+although it will be a Little warmer in south Florida and across the 
+southwest. Looking ahead to Friday, look for rain and mountain snow 
+through the northwest and into the northern Rockies with cool air 
+across the northern plains. Saturday, rain in the northwest, showers 
+in the northeast and scattered showers and storms through the plains. 
+Then on Sunday, it'll wet in the west and also across the midwest. 
+Don't forget, you can find four-day forecasts for 7,200 cities at 
+CNN.com. 
+</TEXT>
+</DOC>

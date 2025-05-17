@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981012.2130.1343 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A ruling by the Nevada Supreme Court means Mike Tyson's psychological 
+records can go public if he wants a boxing license. 
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981124.1130.0454 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+It's going to be a warm day today over most of the U.S., even some 
+60s through the plains. 80s in the southwest and 70s and 80s are likely 
+all along the gulf coast. Few 30s likely through the northern Great 
+Lakes and parts of the Rockies. Forecast later today on in through 
+the busy travel day on Wednesday, we'll find wet weather continuing 
+in the pacific northwest as yet another storm system moves onshore. 
+In the east, high pressure and, for the most part, dry weather. By 
+late tomorrow, showers continue along that frontal system through 
+the Great Lakes. Pretty mild temperatures though, so most of the precipitation 
+will be in the form of rain. A look now at the extended forecast -- 
+on Thanksgiving day, rain in the northeast. Some snow lingers through 
+eastern Canada and extreme northern sections of the Great Lakes. Showers 
+are likely in Florida, and rain and windy conditions continue in the 
+pacific northwest. Friday, more wet weather from San Francisco through 
+Seattle and Portland. Just a few lingering flurries during the morning 
+hours mainly on Friday in portions of northern New England. And by 
+Saturday, it's dry in the east with wet weather continuing in much 
+of the west. For more weather information, log into CNN.com. 
+</TEXT>
+</DOC>

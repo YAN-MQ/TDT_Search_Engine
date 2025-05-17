@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981010.1300.0469 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Heinz is voluntarily recalling about 300,000 jars of baby food. The 
+company fears the food may have elevated levels of lead. The recall 
+covers two flavors made last year. Heinz says the source of lead was 
+a shipment of carrots from a supplier. For more information, please 
+call 1-800-782-8408. 
+</TEXT>
+</DOC>

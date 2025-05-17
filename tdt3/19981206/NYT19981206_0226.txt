@@ -1,0 +1,75 @@
+<DOC>
+<DOCNO> NYT19981206.0226 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Does anything exist outside culture? Is there anything that we do 
+that is free of the distortions of our tastes and customs? That isn't 
+irrevocably shaped by the languages we speak or our material interests? 
+Is there anything out there that we can assume to be noncultural or 
+transcultural or even universal? Don't count on it. Two years ago, 
+Alan Sokal, a New York University physicist, wrote a satirical paper 
+full of absurdities and scientific howlers arguing that even ``physical 
+reality'' was at bottom a ``social and linguistic construct,'' that 
+even famous numerical constants like pi are culturally dependent, 
+that science _ presumably the most ``objective'' of human enterprises 
+_ is culturally determined. He submitted the paper to the trendy academic 
+journal Social Text as if he was serious. The journal's editors didn't 
+get the joke, neither catching the errors nor thinking the paper's 
+assertions absurd. They published it with pride in a special issue 
+devoted to challenging scientific claims of objective truth. The firestorm 
+set off by Sokal's hoax became an international scandal; more than 
+a hundred reviews, philosophical papers and debates are now posted 
+on Sokal's Web site (www.physics.nyu.edu/faculty/sokal). Yet what 
+was the result? Sokal meant to undermine the extreme relativism latent 
+in the field of ``science studies,'' but the editors defended themselves, 
+and allies stood up for the mocked positions. There were no recantations 
+even after the hoax was revealed. It would have been encouraging if, 
+for instance, even the unchanging nature of pi had been affirmed, 
+but no such luck. Maybe the whole mess suggested that there really 
+is no common ground on which proofs can be made, arguments won, convictions 
+overturned. Science is culture-bound, and so is argument about it. 
+We are all post-modern (colloquially, pomo) relativists: You go your 
+way and I'll go mine. If we meet, it's beautiful. And if we don't, 
+well, that's only to be expected. But now it's happening again. This 
+time, Sokal, joined by Jean Bricmont, a Belgian theoretical physicist, 
+wrote a full-scale polemic that was published in French last year 
+and has just been released here as ``Fashionable Nonsense: Postmodern 
+Intellectuals' Abuse of Science'' (Picador U.S.A.); it is also being 
+translated into Catalan, Chinese, Dutch, German, Greek, Hungarian, 
+Portuguese and other languages. The authors focus their attack not 
+on American relativists but on the ornate French intellectuals who 
+are celebrities at American universities, ranging from critic Julia 
+Kristeva and psychoanalyst Jacques Lacan to sociologist Bruno Latour 
+and philosopher Gilles Deleuze. The accusation: that these star intellectuals 
+display a broad and deep ignorance of science that is matched only 
+by their nerve in cryptically using its vocabulary as a smoke screen, 
+often diminishing science along the way. Thus, the ``erectile organ'' 
+is compared to the square root of minus one (Lacan); poetic language 
+is described with bumbling allusions to set theory (Ms. Kristeva); 
+even Einstein's equation E(EQ)mc2 , is considered a ``sexed equation'' 
+giving ``privilege'' to the presumably male speed of light because 
+it's the fastest (Luce Irigaray). The book's detailed attack on French 
+intellectual life helped make it a best seller in France. At least 
+20 essays appeared in Le Monde alone. And many of the French critics 
+focused not on issues of substance but on cultural matters. Sokal 
+and Bricmont were accused of being pedantic foreign grammarians picking 
+apart elegant (French) love letters. One offended opponent suggested 
+that they were engaged in a typically American spasm of hatred that 
+was reminiscent of Kenneth Starr's report. Another critic proposed 
+that the two authors were like American militarists who, deprived 
+of Cold War government support, sought a new menace to oppose. In 
+other words, proclaimed the French counterattacks, this is a cultural 
+battle, even a political battle, not an intellectual one. This also 
+resembles a response to the first Sokal affair: many arguments made 
+it seem that there aren't just two cultures, as C.P. Snow once famously 
+described the sciences and the humanities; there are only cultures: 
+French and American, left and right, poetic and scientistic. Arguments 
+become battles of taste or the scrabbling of political opponents. 
+Even Sokal is side choosing, explaining that in his attack on post-modern 
+relativism ``my concern is explicitly political'': to rescue the left 
+from its pomo taste makers. Meanwhile, he and his supporters have 
+been denounced for raising the ``specter of left conservatism.'' And 
+science itself becomes another terrain for cultural battles. 
+</TEXT>
+</DOC>

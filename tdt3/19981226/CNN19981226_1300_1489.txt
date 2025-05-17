@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981226.1300.1489 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A U.S.-owned ship is making waves down under. The "sayonara" won the 
+first run in the annual 630 nautical mile race down australia's east 
+coast. The yacht's owner is Larry ellison, the chief executive of 
+computer database giant Oracle. The sailors of the 115-strong fleet 
+are preparing for a busy night. Weather forecasters are predicting 
+strong thunderstorms and gale force winds in the area. 
+</TEXT>
+</DOC>

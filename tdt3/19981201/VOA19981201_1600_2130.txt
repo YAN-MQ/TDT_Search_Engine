@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981201.1600.2130 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. share prices closed higher Tuesday. The Dow Jones Industrial 
+Average finished up 17 points at 9,134, while the broad market indicator 
+was 12 points higher at 1,175. That's the latest. I'm Robert Burns, 
+VOA News. 
+</TEXT>
+</DOC>

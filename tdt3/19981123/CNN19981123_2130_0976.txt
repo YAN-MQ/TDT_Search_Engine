@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981123.2130.0976 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A busy day in mergers and acquisitions sent the Dow Jones industrial 
+average soaring to an all-time high today. The previous high of 9337 
+came in July. 
+</TEXT>
+</DOC>

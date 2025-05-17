@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> NYT19981113.0344 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The stock market finished mixed Friday as investors awaited the meeting 
+of the Federal Reserve policy-makers Tuesday to see whether the central 
+bank would cut its target for short-term interest rates for the third 
+time since September. Many analysts still expect a cut but the subsiding 
+of the financial crisis since the last reduction in October, the continued 
+buoyancy of the U.S. economy and the deal reached Thursday for international 
+assistance for Brazil may make Fed officials decide to wait until 
+their next meeting in December. ``We think the stock market has priced 
+in a Fed rate cut,'' said Christine Callies, chief investment strategist 
+at Credit Suisse First Boston. ``If it cuts, then the market might 
+bounce up for a few days. But if it doesn't, we think the market will 
+have an erratic consolidation'' that will see it trend lower. On Friday, 
+technology and smaller-company stocks faltered while the Dow Jones 
+industrial average and the Standard &AMP; Poor's index of 500 stocks 
+moved higher. Even with the rallies, the major indexes finished the 
+week lower after a four-week surge in which they all jumped 13 percent 
+or more. The Dow rose 89.85 points, to 8,919.59, while the SP climbed 
+8.03 points, to 1,125.72. But the technology-heavy Nasdaq fell 3.07 
+points, to 1,847.99, and the Russell index of smaller-company stocks 
+dropped 2.84 points, to 389.36. In the bond market, the price of the 
+30-year Treasury bond rose 2/32, to 100 4/32. The bond's yield, which 
+moves in the opposite direction from the price, fell to 5.24 percent, 
+from 5.25 percent on Thursday. But while inaction by the Fed might 
+unsettle the market, Ms. Callies said the central bank was no longer 
+the main driver of investors. ``The market is rallying because it 
+is celebrating the absence of disaster,'' she said. ``It had thought 
+the world was going to end.'' This week's mania for Internet stocks 
+continued, with another company soaring after its initial public offering. 
+Friday it was shares of Theglobe.com, which offers free home pages 
+on the World Wide Web. It went public Thursday at 9 a share and then 
+soared 54 1/2 Friday, to close at 63 1/2, in the best first-day trading 
+performance of any stock. Earlier this week, Earthweb also made a 
+debut to a rousing demand from investors, rising 55 1/4, to 69 1/4, 
+in two days of trading. Friday it fell 2 1/4, to 67. Ebay is another 
+Internet offering that has recently soared. ``I think, given what 
+has happened in Ebay and Earthweb, that the after-market demand from 
+retail investors is extraordinary,'' said Henry Blodget, an Internet 
+analyst with CIBC Oppenheimer. The stocks ``are being played, not 
+invested in.'' The retail sales data released Friday would not support 
+another Fed easing, analysts said, because the figures showed that 
+the economy was healthy and, especially, that consumer spending was 
+strong. October retail sales rose 1 percent after an increase of three-tenths 
+of 1 percent in September. The Producer Price Index rose two-tenths 
+of 1 percent in October. But for the year, the index is down five-tenths 
+of 1 percent, at a seasonally adjusted annual rate. That performance 
+does make it possible for the Fed to cut rates without worrying much 
+about inflationary consequences. Several analysts acknowledged that 
+the outlook for the world economy and financial markets was far better 
+than it was on Oct. 15, when the Fed surprised investors with a rate 
+cut in between its regular policy-making meetings. But Richard Berner, 
+chief economist at Mellon Bank in Pittsburgh, said he still expected 
+the Fed to cut its target for short-term rates by a quarter of a percentage 
+point. ``The capital crunch has substantially abated, but it is not 
+over,'' he said. And, he added, the future risks for the economy ``are 
+still tilted downward,'' and he expected that most Fed policy-makers 
+would want to buy some more insurance by cutting rates again. 
+</TEXT>
+</DOC>

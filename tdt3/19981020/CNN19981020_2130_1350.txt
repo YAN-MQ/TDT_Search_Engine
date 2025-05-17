@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981020.2130.1350 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In college basketball news -- Georgia tech learned today that guard 
+Deion glover is out for the season with two torn ligaments in his 
+knee. 
+</TEXT>
+</DOC>

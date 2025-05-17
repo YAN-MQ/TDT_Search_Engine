@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> ABC19981112.1830.0979 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There is no ignoring momentum -- which brings us to a piece of "the 
+cutting edge" technology tonight that is impossible to ignore. ABC's 
+Jack Smith reports tonight on taking the Internet with you when you 
+shop -- in a store. This is how we shop today. We hope we're getting 
+the best price. But now there's brand new technology that uses the 
+power of the Internet to automatically find the best price for us 
+anywhere. A concept that may revolutionize shopping. This is the sort 
+of thing that demonstrates how the Internet really changes the rules. 
+Just scanning the book. The idea is to enter the bar code on merchandise 
+into this specially-equipped, experimental cell phone. It then automatically 
+dials into the Internet and hunts for the same merchandise at a better 
+price somewhere else. When we show this to retailers, there's a collective 
+drawing of breath. The designers took us to a store to show us why. 
+It's just like scanning something in the supermarket? Exactly. This 
+prototype of Internet bargain finder, as it's called, discovered in 
+seconds, that this book, which retails for $27, sells elsewhere for 
+as little as $22. All of the book shops here are selling it for less 
+than the list price. Right. That's the point of the rocket bargain 
+finder. You know where the cash Register is? Here. It's not really 
+over there anymore. I'm making the sale here. I may buy here. Anything 
+with a bar code can be compared this way. And the more that retailers 
+go online, the more there will be for consumers to compare, and the 
+more they gain the upper hand. Scientists think the device, which 
+will eventually fit in your pocket, will turn shopping on its head. 
+Instead of the merchant saying, here's what I have to sell, who wants 
+to buy it? It's going to be the consumer saying, here's what I want 
+to buy, who wants to sell it to me? But if that's a revolution, it's 
+not one that makes retailers, especially small ones, happy. It will 
+drive us out of business. It will drive the hardware, the mom-and-pop 
+hardware stores out of business and will just go on and on. Maybe, 
+but it will also benefit American consumers, a dramatic breakthrough 
+that will use the growing power of the Internet to change what americans 
+do every day. Jack Smith, ABC News, Palo alto, California. Shopping 
+through the Internet is increasingly available to Americans. 25% of 
+households now have access to the net. 
+</TEXT>
+</DOC>

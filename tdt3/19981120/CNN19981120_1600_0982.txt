@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981120.1600.0982 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Not a bad way to end the week. Blue chip stocks closed above the 9100 
+Mark for the first time since July. The Dow industrials are now within 
+2% of their all-time high, also set in july. Trading has been heavy 
+today, due to the expiration of some options and futures contracts. 
+That's known as double witching. The Dow industrials finished the 
+day up 103 points at 9159, led by a strong performance from financial 
+stocks. Weakness in high-tech issues weighed on the NASDAQ all day. 
+</TEXT>
+</DOC>

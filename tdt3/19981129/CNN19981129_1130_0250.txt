@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981129.1130.0250 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Israeli troops are keeping an eye on the border with Lebanon as Israel's 
+cabinet debates whether to launch air strikes. Some ministers want 
+to punish Beirut for failing to control Hezbollah guerrillas who recently 
+attacked Israeli positions. Army commanders oppose any further withdrawal 
+from the security zone between Israel and Lebanon unless the Hezbollah 
+attacks come to an end. 
+</TEXT>
+</DOC>

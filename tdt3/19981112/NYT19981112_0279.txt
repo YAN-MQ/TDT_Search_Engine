@@ -1,0 +1,72 @@
+<DOC>
+<DOCNO> NYT19981112.0279 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In the clearest sign yet of the competition now roaring through Europe's 
+telephone industry, Deutsche Telekom AG of Germany said Thursday that 
+it would slash its long-distance prices by as much as 63 percent. 
+The move comes as Germany's one-time telephone monopoly is rapidly 
+losing market share to an army of new rivals. Germany, along with 
+most other European countries, opened the doors to competition in 
+January. Since then, analysts estimate the company has lost as much 
+as 25 percent of its long-distance business to new entrants. Some 
+of these new rivals are billion-dollar consortiums that are building 
+their own networks, but the vast majority are small companies that 
+re-sell Telekom's own services at lower prices. One of the more visible 
+newcomers is Mobilcom, a small company that started out by re-selling 
+cellular telephone service but has recently begun offering cut-rate 
+regular telephone service. Mobilcom, which went public on the Frankfurt 
+Stock Exchange earlier this year, reported Thursday that profits in 
+the first nine months of the year quintupled to 111.9 million marks, 
+or about $66.4 million. The depth of Thursday's price cuts surprised 
+investors, even though the company had served notice several weeks 
+ago that it would act aggressively. Deutsche Telekom's stock dropped 
+about 2 percent Thursday, as company executives warned that the price 
+reductions would probably hurt profits in the short term. ``That is 
+without question a big dip in our cash till,'' acknowledged Deutsche 
+Telekom's chief executive, Ron Sommer, who attributed many of the 
+company's problems to hostile decisions by German regulators. Under 
+orders from the European Union, most West European governments opened 
+their telephone markets to competition last January. Beyond simply 
+allowing other companies to offer telephone service for the first 
+time, the European Union rules require the traditional monopolies 
+to give rivals access to their networks at reasonable rates. German 
+regulators have been particularly tough, forcing Deutsche Telekom 
+to let rivals use its network for comparatively low prices. Those 
+regulatory decisions have attracted a horde of competitors, from giant 
+enterprises like Arcor, partly owned by Mannesmann AG and the German 
+national railroad, to tiny upstarts. Most of Europe's traditional 
+telephone monopolies are under fire from new competitors. But analysts 
+said that Deutsche Telekom added to its own problems by being slow 
+to revamp its rates, keeping many of its prices too high. Sommer openly 
+acknowledged several weeks ago that his company had lost ground. Though 
+Telekom reported that earnings had risen 22 percent during the first 
+nine months of the year, its revenue has stalled since last summer. 
+Company executives have told analysts that about 15 percent of the 
+calls over its network last June were actually on behalf of rival 
+carriers. Most analysts assume that percentage has climbed to about 
+20 or 25 percent since then. Sommer is now waging a vocal political 
+and legal campaign to modify some of the government's new decisions. 
+Deutsche Telekom has sued to overturn the price regulations and sued 
+to block some of its rivals' advertising. In the most recent spat, 
+the company sued to block Mobilcom from running television and print 
+ads that mimicked Deutsche Telekom's own logos and slogans. Sommer 
+is also lobbying the new government under Chancellor Gerhard Schroeder, 
+arguing that his company is forced to subsidize competitors and that 
+Germany's new and independent telecommunications regulator has been 
+one-sided. Among other things, company executives argue that the government 
+forced the company to spend billions of marks on a new telephone network 
+for eastern Germany as well as new digital phone lines throughout 
+the west. That left the company with a huge load of debt, just when 
+it was losing its protected monopoly. ``What we are seeing today is 
+a price war being waged on Telekom's back,'' Sommer said in a speech 
+today. ``The present situation fills me with worry about the future 
+of our industry.'' Schroeder's new government appears to be sympathetic. 
+Economics Minister Werner Mueller recently said the regulators may 
+have been too tough. In an interview last week with the Suddeutsche 
+Zeitung, a Munich-based newspaper, Mueller said he saw himself ``in 
+the role of defending the ordinary people and Deutsche Telekom employees'' 
+who might be hurt by ``the impact of excessively tough regulation.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981130.1600.0395 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court has let stand a lower court ruling, which upheld 
+the boy scouts' right to suspend the gay leader of one of its programs 
+for young adults. In 1992, the Scouts claimed Charles merino's homosexuality 
+violated the scout oath, which requires members to be morally straight. 
+Merino argued his suspension violated a California anti-discrimination 
+law. A state appeals court decided the law did not apply to the boy 
+Scouts. The Supreme Court declined to review the case. 
+</TEXT>
+</DOC>

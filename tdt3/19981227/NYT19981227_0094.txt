@@ -1,0 +1,97 @@
+<DOC>
+<DOCNO> NYT19981227.0094 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+New statistics released Sunday by the Justice Department are helping 
+criminologists resolve a contentious mystery _ why violent crime has 
+dropped seven straight years after an upsurge in the 1980s. The statistics, 
+showing that robbery fell a stunning 17 percent in 1997, suggest that 
+while there are many factors behind the decline in crime in the 1990s, 
+the crucial ones may be the withering away of the crack market and 
+police efforts to seize handguns from criminals and juveniles. The 
+two crimes that have fallen the most sharply since 1991 are homicide 
+and now robbery, the two most often committed with handguns and most 
+associated with the crack cocaine epidemic in the late 1980s, criminologists 
+say. ``Homicide and robbery were the two crimes most impacted by crack 
+markets, with the biggest increases, and now as crack markets have 
+declined, homicide and robbery have led the way down,'' said James 
+Alan Fox, dean of the college of criminal justice at Northeastern 
+University. The figures on robbery were released Sunday by the Bureau 
+of Justice Statistics, a branch of the Justice Department, as part 
+of its National Crime Victimization Survey. The annual survey, carried 
+out for the Justice Department by the Census Bureau, asks 80,000 people 
+ages 12 and older whether they have been victims of a crime in the 
+past year. It complements the other major national set of crime statistics, 
+the FBI's Uniform Crime Report, which measures crimes reported to 
+police. Overall, the Justice Department said, both violent and property 
+crimes have fallen to their lowest levels since 1973, when the victimization 
+survey was started. In fact, the rate of property crime _ which includes 
+burglary, theft and motor vehicle theft _ has fallen by more than 
+half, to 248 per 1,000 households in 1997, down from 555 per 1,000 
+households in 1973. Property crime, unlike violent crime, has been 
+dropping steadily since 1975. Among the reasons, experts say, are 
+the aging of the baby boom population beyond its prime years for committing 
+crime, the increased use of security alarms and the switch of many 
+criminals from burglary to robbery in the 1980s as a quicker way to 
+make money and buy the crack they needed. Violent crime surged unexpectedly 
+with the crack epidemic starting about 1985, and then began to fall, 
+equally unexpectedly, in 1991. Only in retrospect have law-enforcement 
+authorities and criminologists been able to theorize about the causes 
+of the rise and decline in violent crime. At a conference of leading 
+experts in New Orleans this month sponsored by the Harry Frank Guggenheim 
+Foundation, Alfred Blumstein, a criminologist at Carnegie Mellon University, 
+outlined research on what has come to be the most widely accepted 
+view _ that all of the huge increase in homicide in the late 1980s 
+and early 1990s was attributable to a rise in killing by juveniles 
+and young people ages 24 and under, since homicide by adults ages 
+25 and older has fallen since 1980. This increase in killing was driven 
+by the sudden spread of crack markets and the growing use of high-powered 
+semiautomatic handguns. In fact, Blumstein said, ``The growth in homicides 
+by young people, which accounted for all the growth in homicides in 
+the post-1985 period, was accounted for totally by the growth in homicides 
+committed with handguns.'' Since 1991, homicides have dropped 31 percent, 
+from 9.8 per 100,000 to 6.8 per 100,000 in 1997, while robberies have 
+fallen 32 percent, from 272 per 100,000 to 185 per 100,000 in 1997, 
+according to the FBI. These are the largest declines for any of the 
+major violent or property crimes. Bruce Johnson and Andrew Golub, 
+scholars at the National Development and Research Institutes in New 
+York City, showed the critical role of crack in leading violent crime 
+up and then down. When crack arrived in New York in 1985, it created 
+a huge new market for users and dealers. Unlike heroin, it was sold 
+in small amounts that provided an intense but short-lasting high that 
+required users to go on constant ``missions'' to find more. Thousands 
+of unskilled, unemployed young men from New York's poor inner city 
+neighborhoods jumped into the crack business as sellers, and to protect 
+themselves in an unstable business environment, they acquired handguns. 
+An explosion in homicides and robberies resulted from the combination 
+of impulsive youth, the confused market situation, the paranoia induced 
+by crack and the increased firepower of the new handguns. The sharp 
+drop in violent crime starting in 1991 can be accounted for by the 
+reversal of these same forces, in what Johnson and Golub described 
+as ``an indigenous shift,'' as youths who came of age in the 1990s 
+turned against smoking or selling crack. ``The primary reason'' these 
+young people give for avoiding crack, Johnson and Golub reported, 
+``is the negative role models in their lives. They clearly do not 
+want to emulate their parents, older siblings, close relatives or 
+other associates in their neighborhoods who were enmeshed with crack.'' 
+Crack produced ``devastation'' in their lives, and they now shun or 
+deride anyone who smokes crack. Among other factors that have played 
+a role in the decline in violence, the experts at the New Orleans 
+conference pointed in particular to aggressive new actions by the 
+police in many cities to stop gun violence, either by frequent searches, 
+as has happened in New York, or by improved efforts to trace guns 
+used in crimes and arrest gun traffickers, a Boston tactic. The booming 
+economy of the 1990s has also helped, the experts agreed, providing 
+legitimate jobs to some urban young people who had worked in the drug 
+trade. Evidence on the role of imprisonment in curbing crime is less 
+clear, the experts said. There is no question that the almost quadrupling 
+of the number of people incarcerated since 1970, to 1.8 million, has 
+incapacitated many criminals and prevented many crimes. But since 
+the prison population has expanded steadily over the past 25 years, 
+it does not explain why crime increased sharply in the late 1980s 
+or decreased in 1991. Here, said Fox, it may be necessary to look 
+separately at the incarceration of adults and juveniles, a study which 
+has not yet been done. 
+</TEXT>
+</DOC>

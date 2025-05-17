@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981223.1600.0720 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New research may end concerns over epidurals, which are a type of 
+anesthesia administered to women during childbirth. Some doctors have 
+maintained receiving an epidural makes a woman more likely to require 
+a caesarean section. But a new study of over 2,000 women concludes 
+epidurals are not the cause of C-sections. It says child births that 
+require epidurals are complicated and painful deliveries that likely 
+would result in C-sections anyway. The study appears in the "journal 
+of the American medical association." 
+</TEXT>
+</DOC>

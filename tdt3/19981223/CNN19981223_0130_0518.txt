@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981223.0130.0518 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen Maginnis. 
+Taking you from Wednesday into Thursday morning, there could be an 
+icy mixture all the way from the arklotex region into the lower Appalachians. 
+All the way from Dallas to Huntsville, into Charlotte, North Carolina, 
+could see some freezing rain or some ice. As far as temperatures are 
+concerned, 20s all the way down into Texas. Could see a half-inch 
+accumulation of ice in Dallas. Fairbanks, Alaska, is expecting a high 
+temperature of 10, while breezy conditions will prevail across the 
+Hawaiian islands, and wet and windy through portions of the Caribbean. 
+In our extended forecast, the icy conditions still linger across the 
+southeastern United States, so watch out, it's gonna be slow going 
+on those roads. Going into Friday, temperatures rebound just a bit 
+across the south-central plains, but heavy rain begins to push into 
+the pacific northwest on christmas day, with more icy conditions still 
+possible in the southeast and the mid-atlantic. By Saturday, a nice 
+rebound for the south-central U.S. for more weather information, log 
+on to CNN.com. 
+</TEXT>
+</DOC>

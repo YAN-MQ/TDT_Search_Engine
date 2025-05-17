@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981211.1130.0821 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors won't have a Coke and a smile today. I'm Myron Kandel at 
+the "CNN Financial News" desk in New York with this edition of "Dollars 
+& Sense." Coke warned today its fourth quarter earnings will be well 
+below what analysts expected. Coke said weak deplanned in overseas 
+markets as Japan, Brazil and Russia have taken their toll. Coke shares 
+have lost 27% since July. 
+</TEXT>
+</DOC>

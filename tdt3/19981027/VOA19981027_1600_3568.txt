@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981027.1600.3568 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is your direct connection to America and the world. This is VOA 
+Express. 
+</TEXT>
+</DOC>

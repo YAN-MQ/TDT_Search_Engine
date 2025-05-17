@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981106.1130.1087 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street -- the Dow is up 21 points. The NASDAQ composite 
+is adding 6. that's "Dollars & Sense." Back to you, Denise. 
+</TEXT>
+</DOC>

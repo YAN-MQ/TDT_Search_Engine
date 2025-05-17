@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> CNN19981115.1600.0654 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In two days, the earth will rendevouz with a dense cloud of dust left 
+behind by a Comet. Sherry rauh looks at what that means for stargazers 
+and spacecraft. From earth, it will appear as a dazzling, but harmless, 
+display of shooting stars. Nothing more than a spectacular meteor 
+shower. But the view from a spacecraft orbiting earth would be quite 
+different -- more like driving on a dusty gravel road right behind 
+a big truck. The Leonid shower happens every year without event, when 
+earth crosses the dust trail left by Comet tempel-tuttle, around November 
+17th. They all appear to come from the constellation Leo, hence the 
+name "Leonid." But this year it's expected to be particularly intense 
+-- a storm rather than a shower. That's because the Comet, which circles 
+the sun every 33 years, has just left a fresh trail of dust where 
+its path intersects earth's. Meteors -- small particles mostly from 
+comets -- strike the earth all of the time. But only, very rarely, 
+once every few decades, does the earth's orbit intersect a concentrated 
+cloud of these particles to produce a meteor storm. Because the cloud 
+is so dense and moving so quickly, it could pose a threat to the 600 
+or so satellites orbiting earth -- satellites we depend on for everything 
+from weather reports to telephone calls. For that reason, companies 
+that operate satellites will be watching the storm as closely as any 
+avid stargazer. Sherry rauh, "Headline News." 
+</TEXT>
+</DOC>

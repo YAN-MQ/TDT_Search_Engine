@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981027.1600.2116 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The countdown is continuing for Pioneer astronaut, John Glenn's historic 
+return to space as the outlook for launch day weather improves. Forecasters 
+are now predicting a 70 percent chance of favorable conditions at 
+Cape Canaveral, Florida, Thursday, a 10 percent improvement from the 
+last assessment. But there was still a chance of strong winds and 
+Hurricane Mitch could delay a shuttle discovery's launch. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981119.2130.1320 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The NHL has suspended Tampa bay's andrei nazarov for seven games for 
+cross-checking Colorado's cam Russell in the face. 
+</TEXT>
+</DOC>

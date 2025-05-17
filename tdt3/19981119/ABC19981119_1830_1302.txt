@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981119.1830.1302 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In California today -- NASA tested the latest prototype of the flying 
+wing airplane. It's solar-powered, flies without a pilot, and can 
+go so high, it may one day replace much more expensive and high-maintenance 
+satellites. Not to mention it's fascinating. 
+</TEXT>
+</DOC>

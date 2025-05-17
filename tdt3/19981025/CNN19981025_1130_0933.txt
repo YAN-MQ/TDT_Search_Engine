@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981025.1130.0933 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking top stories -- Israeli prime minister Benjamin Netanyahu 
+is back home today after signing a controversial mideast peace agreement. 
+Netanyahu says he's confident his government will survive, despite 
+the threat of political turmoil because of the deal. 
+</TEXT>
+</DOC>

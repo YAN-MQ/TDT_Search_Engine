@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981214.2130.0497 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for Tuesday morning. Snowfall will continue in the higher 
+elevations of the southwest. However, this is a relatively weak area 
+of low pressure that moved in through California over the weekend. 
+And you can see, as we go through the day tomorrow, the area of precipitation 
+will be diminishing. Meanwhile, a cold front moves through the plains 
+states and into the east. This will bring to an end the very warm 
+temperatures we've been seeing in the northern plains states. Tomorrow, 
+we'll see daytime highs in the 20s and 30s, whereas today, that same 
+area was seeing high temperatures in the 50s. Here is your extended 
+forecast -- windy conditions in the northern plains states as we head 
+on into Wednesday. Temperatures are still relatively mild for this 
+time of year. Moving on into Thursday, you see windy and a rain/snow 
+mix expected in the Great Lakes area. And as we head on into Friday, 
+rain, snow, windy conditions continue in the Great Lakes region. For 
+more weather information, log on to CNN.com -- four-day forecasts 
+for 7,200 cities. 
+</TEXT>
+</DOC>

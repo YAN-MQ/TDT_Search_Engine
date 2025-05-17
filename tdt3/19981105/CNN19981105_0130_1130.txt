@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981105.0130.1130 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Thomas golisano lost his bid for governor of New York, but he'll probably 
+find some comfort in this. The stock of his company, paychex, jumped 
+almost 16% during his campaign as an independent. That means it's 
+worth $126 million more than when he started campaigning. And that's 
+almost ten times what he says he spent on the race. 
+</TEXT>
+</DOC>

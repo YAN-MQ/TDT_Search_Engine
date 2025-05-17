@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> MNB19981020.2100.1702 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Opening arguements continue today in the anti-trust case against Microsoft 
+in its defense strategy, the company says it was aggressive but legal 
+in dealing with competitors and that anti-trust laws don't call companies 
+to act with any civility. Government claims meist used its dominant 
+position in the software market to hurt rivals. The trial is expected 
+to last six weeks or so. Microsoft is part-owner of the MSNBC cable 
+network. 
+</TEXT>
+</DOC>

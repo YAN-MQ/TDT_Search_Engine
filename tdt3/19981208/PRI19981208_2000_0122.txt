@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> PRI19981208.2000.0122 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Electricity has been restored in the San Francisco Bay Area, after 
+a massive power failure left nearly a million people in the dark for 
+much of the day. Utility officials were hoping to have virtually all 
+the service restored before the afternoon rush hour. Officials say 
+the outage began during the morning commute when a construction crew 
+accidentally knocked out a power substation. The outage shut down 
+public transportation, forced businesses to close, and left it up 
+to motorists to figure out what to do at intersections with darkened 
+traffic lights. 
+</TEXT>
+</DOC>

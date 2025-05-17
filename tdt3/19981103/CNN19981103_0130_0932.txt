@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981103.0130.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking top stories -- central America is trying to recover from 
+the devastation of hurricane Mitch. Officials estimate more than 7,000 
+people died in floods and landslides. They say they may never know 
+the exact death toll. 
+</TEXT>
+</DOC>

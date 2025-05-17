@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981103.1130.0752 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For more the latest health news, check out CNN.com/health. I'm Judy 
+Fortin, "Headline News." 
+</TEXT>
+</DOC>

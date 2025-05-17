@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981029.1600.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And south Africa's truth and reconciliation commission has released 
+its report on the apartheid era. It details widespread human rights 
+abuses from 1960 to 1994, both by leaders of the apartheid movement 
+and the African national Congress. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981211.2130.0191 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Other news -- initial reports say at least 50 people have survived 
+the crash of a Thai airways jet in southern Thailand today. 146 people 
+were aboard. Police say they've recovered as many as 44 bodies. They 
+say the Airbus went down as it tried to make an emergency landing 
+in a Heavy rainstorm. The weather and swampy conditions have made 
+it difficult for ambulances to reach the crash site. The Thailand 
+transportation minister says some members of the country's parliament 
+were among those aboard. 
+</TEXT>
+</DOC>

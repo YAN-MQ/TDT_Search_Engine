@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981205.1600.0750 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A check of the day's top stories is coming up in two minutes. 
+</TEXT>
+</DOC>

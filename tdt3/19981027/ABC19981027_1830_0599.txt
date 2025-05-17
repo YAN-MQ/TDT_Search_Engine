@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981027.1830.0599 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"On the money" tonight -- checking the calendar. It's a year ago today 
+that the Dow Jones industrials had their biggest one-day drop ever. 
+Down 554 points by the bell, another black Monday. Today, the Dow 
+was down more than 66 points to close at 8366. The NASDAQ index lost 
+more than seven points. 
+</TEXT>
+</DOC>

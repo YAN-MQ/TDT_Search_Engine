@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981129.1300.0306 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Shoppers are flocking to the malls again today, as the first weekend 
+of the holiday shopping season wraps up. Retailers say, so far, things 
+look pretty good. The telecheck retail index indicates sales on Friday 
+were more than 4% higher than on the same day last year. Telecheck 
+measures the volume of authorized checks written by consumers. The 
+midwest showed the biggest jump in sales, followed by the southeast. 
+Analysts say the growth is due to the healthy economy and increased 
+consumer confidence. 
+</TEXT>
+</DOC>

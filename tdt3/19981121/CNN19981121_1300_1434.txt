@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981121.1300.1434 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Traffic on highway 104 in northwestern Washington state is flowing 
+a lot smoother today. A 300-foot section of the hood canal bridge 
+failed to close yesterday, backing traffic up for miles. The floating 
+bridge got stuck after letting a boat pass underneath. It was reopened 
+late last night, after state crews worked eight hours to fix a hydraulic 
+failure. 
+</TEXT>
+</DOC>

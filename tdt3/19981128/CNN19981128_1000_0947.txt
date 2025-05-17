@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981128.1000.0947 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+House Judiciary committee chairman Henry Hyde says today the panel 
+will carefully review President Clinton's written responses to 81 
+questions it had regarding his testimony in the Monica Lewinsky matter. 
+</TEXT>
+</DOC>

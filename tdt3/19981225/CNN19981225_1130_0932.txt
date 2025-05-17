@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981225.1130.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On this Christmas day, it's time now to check our top stories. Christians 
+in many parts of the world are celebrating the birth of Jesus today. 
+Pope John Paul II celebrated his 21st year as Pontiff by delivering 
+his homily at Saint Peter's basilica. 
+</TEXT>
+</DOC>

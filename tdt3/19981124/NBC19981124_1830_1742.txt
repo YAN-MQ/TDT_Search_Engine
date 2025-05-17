@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981124.1830.1742 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Nightly News" for tonight. Don't forget "Dateline" at 10:00 
+P.M., 9:00 P.M. central. I'm Tom Brokaw. I'll see you back here tomorrow 
+night. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981127.2000.1524 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Markets closed early today on Wall Street and they closed up. The 
+Dow Jones Industrials up 19 points to 9333. The NASDAQ up 31 to 2016. 
+</TEXT>
+</DOC>

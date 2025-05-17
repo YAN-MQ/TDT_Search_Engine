@@ -1,0 +1,104 @@
+<DOC>
+<DOCNO> NYT19981126.0171 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The walls and roof are almost finished on a huge new General Motors 
+diesel engine factory in southwestern Ohio. Several thousand engineers 
+in Michigan, Indiana and Illinois are still developing new diesel 
+engines for future cars, sport utility vehicles and pickup trucks. 
+But the industry's broad plans to put diesels into millions of vehicles 
+early in the next century have suddenly been thrown into confusion. 
+California environmental regulators voted this month to eliminate 
+the more lenient pollution standards that have long prevailed for 
+diesel-powered vehicles. Instead, diesel engines will have to meet 
+the same pollution standards as gasoline-powered vehicles. Gasoline 
+engine standards are being tightened, so regulators say it will be 
+almost impossible to design diesel engines to meet the new rules, 
+despite considerable progress in the design of cleaner diesels. The 
+result is a virtual ban on diesel engines in California, which accounts 
+for a tenth of the nation's auto sales, once the new rules are phased 
+in between 2004 and 2007. Auto industry executives are furious. They 
+had been counting on diesel engines as part of the answer to environmentalists' 
+concerns about global warming and poor fuel economy, particularly 
+the low gas mileage of full-size sport utility vehicles and pickup 
+trucks. The latest diesel engines use as much as 33 percent less fuel 
+per mile as their gasoline counterparts, according to auto industry 
+engineers. And while even the cleanest diesels still produce slightly 
+more soot and smog-causing gases than gasoline engines, diesels emit 
+up to 20 percent less carbon dioxide, a gas linked to global warming. 
+GM in particular had been counting on diesels to improve fuel efficiency 
+and reduce emissions of so-called greenhouse gases. ``It's a major 
+concern coming out of the California regulations,'' said John Smith, 
+GM chairman and chief executive. ``It goes to the fundamentals of 
+what is our long-term strategy for dealing with emissions and so forth.'' 
+Engine manufacturers are even angrier. ``Which environmentalist group 
+is going to be in power tomorrow, so I know whether diesels are going 
+to be the greatest thing or the worst thing?'' asked Timothy D. Leuliette, 
+vice chairman of Detroit Diesel, a unit of the Penske Corp. California 
+regulators say that reducing emissions of greenhouse gases is not 
+their problem, and should be handled by the federal Environmental 
+Protection Agency. ``Our clear, unmistakable authority to enact regulations 
+is to reduce urban smog,'' said Allan Hirsch, a spokesman for the 
+California Air Resources Board. ``Global warming is an international 
+issue and the U.S. EPA ought to be the agency taking the lead.'' The 
+EPA is drafting new pollution standards for vehicles, to be released 
+early next year, and declined to discuss what they would include. 
+The agency has a tradition of adopting regulations slightly less strict 
+than California's. The California Air Resources Board's own technical 
+staff recommended a more lenient standard covering diesels, but the 
+board rejected this idea after hearing strong pleas from environmentalists 
+in the hours before the board's final vote on Nov. 5. Many U.S. environmentalists 
+are dubious about diesels. They point to research indicating that 
+tiny soot particles can cause cancer, and warn that diesels will always 
+create more soot than gasoline engines. Environmentalists also warn 
+that converting to diesels will limit opportunities to tighten pollution 
+rules even further someday. And they contend that diesel engines are 
+not the only way to improve fuel efficiency and reduce emissions of 
+greenhouse gases _ alternatives include building smaller vehicles, 
+developing advanced technologies like fuel cells or even taking such 
+simple steps as installing multivalve gasoline engines, said Daniel 
+Becker, an energy efficiency expert at the Sierra Club. Becker said 
+that in installing diesel engines, automakers were not really interested 
+in addressing global warming. Instead, he said, they want to keep 
+building ever-bigger sport utility vehicles, which earn the highest 
+profit margins, and must install diesels to continue meeting federal 
+fuel-economy rules. The light-truck operations of GM, Ford Motor Co. 
+and DaimlerChrysler AG are all struggling to comply with these rules. 
+Automakers are beginning to install multivalve engines in some large 
+sport utility vehicles, but are reluctant to do so on a wide scale 
+because it hurts the vehicles' towing capacity. And the American public 
+shows little interest in buying small fuel-efficient cars, said Robert 
+J. Eaton, a co-chairman of DaimlerChrysler. Automakers, particularly 
+GM, last tried to push diesel engines during the oil crisis of the 
+early 1980s. But the diesel engines marketed then were comparatively 
+smoky, noisy and smelly. They have virtually disappeared from the 
+U.S. light-vehicle market. Yet since the early 1980s, enormous progress 
+has been made in building better diesels. The latest diesels coming 
+out of the laboratories emit no visible smoke, produce up to 90 percent 
+less soot and generate up to 75 percent less noise than the vehicles 
+of the early 1980s, industry engineers say. Even the smell has faded. 
+Manufacturers have spent heavily on diesel development mainly because 
+of these engines' popularity in Europe. Fuel prices in Europe are 
+four times higher than those in the United States, and Europeans have 
+taken a great interest in global warming. Diesels are now installed 
+in 22 percent of new family vehicles in Europe, compared with less 
+than 2 percent here. Engine factories have been unable to keep up 
+with demand in Europe, and diesels are expected to reach 30 percent 
+of the European market, once the factories catch up. The auto industry 
+has a history of saying that further pollution reductions are impossible, 
+only to find ways to comply with new regulations. Patrick Charbonneau, 
+vice president for engine engineering at Navistar International Corp., 
+which is designing diesel prototypes for the next generation of Ford 
+Expedition and Lincoln Navigator sport utility vehicles, said that 
+research on diesel emissions was not as advanced as research on gasoline 
+engine emissions. Further spending might lead to breakthroughs, he 
+said. But making diesel engines as clean as gasoline engines is particularly 
+difficult because current regulations, particularly in California, 
+allow diesel fuel to be much dirtier than gasoline. California regulations 
+require oil companies to remove almost all of the sulfur from gasoline, 
+for example, because sulfur clogs catalytic converters and allows 
+a vehicle's emissions to soar. But California's rules allow diesel 
+fuel to have nearly 17 times the sulfur of gasoline. 
+</TEXT>
+</DOC>

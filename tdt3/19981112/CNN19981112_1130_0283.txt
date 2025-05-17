@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0283 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A New York literary agent is appearing today before the Maryland grand 
+jury investigating Linda Tripp. The grand jury is hearing evidence 
+about whether Tripp broke Maryland's wiretapping law by secretly recording 
+conversations with Monica Lewinsky. Lucianne Goldberg is expected 
+to testify about her talks with Tripp that led to the tapings. Goldberg 
+has said she incorrectly advised Tripp that taping the phone conversations 
+was legal. 
+</TEXT>
+</DOC>

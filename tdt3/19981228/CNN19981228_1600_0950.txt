@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981228.1600.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the Pentagon says two U.S. warplanes were fired on today with 
+surface-to-air missiles while patrolling the no-fly zone in northern 
+Iraq. They then returned fire on an air defense site and returned 
+safely to base. Iraq claims four of its soldiers were killed. 
+</TEXT>
+</DOC>

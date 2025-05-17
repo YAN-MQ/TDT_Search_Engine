@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981121.1130.0575 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A Chicago meat processor is voluntarily recalling 600,000 pounds of 
+ground beef patties that may be contaminated with a deadly strain 
+of E. Coli. The agriculture department says the patties were produced 
+between June and july, but people may still have some in their freezers. 
+The recall includes -- The meat was sold to retail stores, hospitals, 
+restaurants and food service outlets. 
+</TEXT>
+</DOC>

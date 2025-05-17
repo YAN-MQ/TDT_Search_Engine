@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> NYT19981117.0382 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Asia's economic troubles will depress oil and gasoline prices for 
+nearly a decade, saving drivers roughly 13 cents a gallon in 2000 
+alone, the U.S. Energy Department said Tuesday. While the Asian crisis 
+has already helped cut energy costs, Tuesday's report offers the strongest 
+evidence that the effects will be deep and long-lasting. In the United 
+States, continued low energy prices are likely to restrain inflation, 
+reducing the usual friction between strong growth and stable prices, 
+economists say. Weak Asian demand and heavy global production also 
+reduce the nation's vulnerability to oil-import disruption. But with 
+crude oil at $12 to $15 a barrel, there are few economic incentives 
+for saving energy or using renewable sources to reduce the carbon 
+emissions often blamed for global warming. Falling production costs 
+and the opening of new regions have added to supplies. Analysts at 
+the Energy Department and the oil companies doubt that crude oil prices 
+will necessarily remain at their current level below $13 a barrel. 
+But the department, relying on economic forecasts by DRI/McGraw Hill, 
+sees Asia recovering so slowly that the average price in 2000, adjusted 
+for inflation, will still be below $14 a barrel. That compares with 
+$20.61 predicted by the department last year before the scale of Asian 
+troubles became evident. The Energy Information Administration does 
+not see oil prices returning to where they would have been, excluding 
+Asia's woes, until about 2007. 
+</TEXT>
+</DOC>

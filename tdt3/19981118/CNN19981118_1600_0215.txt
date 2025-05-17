@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> CNN19981118.1600.0215 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers say they may have developed a way to fight disease by 
+implanting cells from cows into humans. But that's also raising a 
+lot of questions. Susan Candiotti reports. Charlie is a clone. Researchers 
+are now looking into whether egg cells from cloned cows like charlie 
+could be combined with human cells. Researchers at Massachusetts-based 
+advanced cell technology claim they've devised a way to take an egg 
+from a cloned cow and replace its nucleus with human genetic material. 
+From the egg, researchers say they can grow human stem cells, blank 
+cells that can develop into any cell in the human body. Researchers 
+hope stem cells can then be removed and customized to repair virtually 
+any damaged human tissue. The goal is not to clone a human being but 
+to make these embryonic stem cells that are identical to the patient, 
+so they will not be rejected by the patient as foreign cells. The 
+specter of creating a stem cell that's part cow, part human prompted 
+President Clinton to fire off a letter to the national Bioethics advisory 
+commission. He said he was "deeply troubled" by experiments mingling 
+human and nonhuman species. The issue was hurriedly added to a previously 
+scheduled Bioethics meeting in Miami. The commission, created by the 
+president, is now launching a study into the legal and ethical questions 
+posed by the potential of stem cell research. Like what is inappropriate 
+for human beings to be doing? How much interference with the natural 
+order of things is acceptable to us? Some ethicists agree the idea 
+of using cows to produce human cells could initially scare some people. 
+You're not going to see minataurs walking around -- half human, half 
+cow. That kind of thing is just not going to happen. What's going 
+to happen is people are going to be uncomfortable with some of the 
+science. They'll use their imaginations to think of reasons to inhibit 
+the science. If the experiments move forward without complications, 
+researchers estimate they're at least 10 to 15 years away from using 
+the new cells to treat disease. The questions is, what medical and 
+ethical complications might arise? Susan Candiotti, CNN, Miami. 
+</TEXT>
+</DOC>

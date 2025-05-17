@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981103.2130.0970 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The markets were open today, even if it looked like they weren't. 
+The Dow Jones industrial average closed unchanged at 8706. That's 
+the first time in nearly two years the market has closed at its opening 
+Mark. 
+</TEXT>
+</DOC>

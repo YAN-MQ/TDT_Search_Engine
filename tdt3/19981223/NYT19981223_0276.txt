@@ -1,0 +1,79 @@
+<DOC>
+<DOCNO> NYT19981223.0276 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Imagine a new communications technology: It is not necessarily secure, 
+it requires people to leave their desks to use it and delivery can 
+take days. Oh, and large attachments cost extra. The technology is 
+called a letter and, for the forerunner of the United States Postal 
+Service, it was the ``killer app'' of its time. But that was 200 years 
+ago. Today, in the face of technologies like fax machines and electronic 
+mail, the Post Office is fighting for its piece of the information 
+age. The service is in the midst of making a hard self-examination, 
+and establishing pilot programs across the country, that could significantly 
+change the face of postal delivery in this country within the next 
+several years. In August, when Postmaster General William J. Henderson 
+announced the formation of the new Postal Service Technology Group, 
+he said the goal was to ``enable us to accomplish our aggressive vision 
+of an information rich mailstream within the next five years.'' So 
+who is supposed to help wrest the wheel of the postal stagecoach from 
+the mud in which it has been mired? Among them are Norm Lorentz, whom 
+Henderson named as the service's first chief technology officer, and 
+Robert Reisner, the postal service's vice president of strategic planning. 
+``What is a 21st century Postal Service?'' is how Reisner puts the 
+question he sees in front of him and his colleagues. For now, the 
+Postal Service's vision of itself in the future is not purely digital. 
+It is more along the lines of a hybrid service, straddling the worlds 
+of physical and electronic communication. At the outset, Reisner dismisses 
+any notion that the world will be a place where all reading takes 
+place on screens. ``There is no way in the next decade you won't need 
+paper, he says. Already, as part of a five-year plan begun in September 
+1997, the Postal Service has undertaken a variety of pilot projects 
+aimed at realizing a post office for the future. PostOffice Online, 
+for example, allows small businesses to purchase products and coordinate 
+shipping through the Internet 24 hours a day. Although similar services 
+exist, the Post Office is hoping to draw customers through what is, 
+effectively, one of the best known brand names in the country. The 
+post office is also thinking about creating ``electronic postmarks'' 
+_ a postal time/date stamp that can be printed on mailing labels and 
+envelopes with a laser printer. This would serve in place of a traditional 
+postal meter for small businesses and private citizens. The Service 
+is also testing programs that function purely electronically. Post 
+ECS (Electronic Courier Service) is a system that makes the transmission 
+of attachment files over the Internet more secure. Similarly, Certificate 
+Authority verifies a sender and receiver through private electronic 
+``keys'' on the Internet. There is also discussion of the Post Office 
+creating an Internet domain for non-profit, educational, government 
+and individual addresses. Creating this future presents formidable 
+challenges. Customers _ especially businesses _ are already opting 
+for digital delivery systems. Electronic banking, alone, poses a substantial 
+threat to the Postal Service's revenues. Some 38 billion pieces of 
+first class mail per year_ representing revenues of about $6 billion 
+_ are directly threatened by such banking, according to a recent Postal 
+Service report. That is about a third of the Postal Service's overall 
+mail volume, and about a fifth of its revenues. (Despite the rise 
+of Spam _ unsolicited Internet mail _ the Postal Service reports that 
+their Class A advertising mail, better known as a junk mail, remains 
+stable). How successful is the Postal Service likely to be in its 
+efforts to catch up? No one can say. Undeniably, it is off to a late 
+start. ``The Postal Service is a government agency,'' said B. Alexander 
+Henderson, a senior technology analyst for Prudential Securities. 
+``Of course they are going to be late.'' Nevertheless, Henderson said, 
+the service ``should be applauded'' for its moves to modernize. He 
+predicted that some steps, like electronic postmarks, could appeal 
+to the 90 percent of small businesses without their own postage meters 
+and could create a substantial market in support products. Moreover, 
+this is not the first time the Postal Service has faced a monumental 
+transition. Similar periods of technological change have occurred 
+since Benjamin Franklin was the first Postmaster General. Everything 
+from steamboats to balloons to ponies have been employed to transport 
+mail. In 1959, a Navy submarine even fired a missile containing 3,000 
+letters in an effort to increase delivery speed. But creating new 
+services to compete these days is a huge technological and organizational 
+challenge, ``given the bureaucracy that we are,'' said Lorentz. And, 
+as a government organization, he added, the Postal Service must get 
+permission for any major changes it wishes to makes. ``We have a lot 
+of owners,'' he said. 
+</TEXT>
+</DOC>

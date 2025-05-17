@@ -1,0 +1,74 @@
+<DOC>
+<DOCNO> NYT19981230.0218 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Ducts are essentially channels designed to direct air from one place 
+to another. They are made of sheet metal and are usually rectangular 
+and in sections. Homes with forced air heating systems have a network 
+of ducts that convey heated air from the furnace to all the rooms 
+in the house. Since ducts have only a few moving parts _ dampers to 
+control the flow of air _ it might seem that they would require no 
+maintenance. This is true enough, provided that the duct work was 
+properly installed and that the seals between sections have remained 
+intact over the years. If not, much of the heated air from the furnace 
+will escape before it can get to the living quarters of the house. 
+By locating and sealing up these leaks, the homeowner can make the 
+heating system more efficient and lower heating costs. The best way 
+to evaluate the efficiency of a heating duct system is to have a heating 
+specialist run a flow hood or blower door test on the ductwork. Both 
+tests are effective in determining the amount of leakage in the system 
+and in pinpointing where the leaks are. The costs for the tests vary, 
+from $250 to $500, depending upon the size of the heating system in 
+a house. The biggest problem that the homeowner may encounter, however, 
+is finding a qualified technician to perform these tests. The tests 
+were only developed and standardized within the last few years, so 
+only a few heating specialists are even aware of them, much less trained 
+to perform them. Still the homeowner should inspect as much of the 
+duct system as possible. Pay particular attention to the seams around 
+the return air plenum, all joints where branch ducts connect to the 
+main line and the junction point where a duct is attached to a room 
+outlet. Sealing leaking air ducts is also important because they can 
+suck up unwanted materials like insulation fiber (if the broken duct 
+runs through the attic) or insecticide (if the duct runs through a 
+crawlspace) and spew it into the house air. If you find a loose duct 
+connection, first clean it with a rag dipped in nonflammable cleaning 
+fluid, then close the gap by installing sheet metal screws through 
+the duct flanges. (Do not use sheet metal screws on clothes dryer 
+ducts because they capture the airborne lint. Eventually, the lint 
+accumulations will clog the duct opening). Finally, seal the joint 
+with aluminum-faced duct tape. Do not use the familiar cloth-backed 
+duct tape for sealing seams and joints. It deteriorates quickly when 
+exposed to heat; for this reason, many local codes prohibit its use 
+on heating ducts. Another way to seal duct seams is with three-inch-wide 
+fiberglass scrim tape. Wrap the seam with the tape, then paint over 
+it with water base duct sealant (these products are available at air-conditioning 
+supply outlets). There may be times when you will want to add or modify 
+an air duct. Even if you don't have a forced air heating system, you 
+may need to install an exhaust fan that requires a duct to carry exhaust 
+air to the outside. Or if you purchase a clothes dryer, you will have 
+to install a duct to carry the hot air through an exterior wall. Working 
+with metal ductwork requires a few specialized tools. You will need 
+tin snips to cut the ducts to length and to cut holes for a connecting 
+branch. You can get by with almost any kind of tin snip, but aviation 
+shears will make the cutting job easier, especially if you have to 
+work in cramped quarters (between joists). Unlike standard tin snips, 
+aviation shears have compound lever-action handles that provide extra 
+power for metal cutting. In addition, they are available with three 
+different jaw configurations for making straight cuts, cutting circles 
+to the left and for cutting circles to the right. The handles are 
+color coded so you can tell at a glance which tool is which. Straight 
+cutting snips have yellow handles, right-cutting snips have green 
+handles and red-handled snips are left-cutting. The shears are good 
+for cutting through a single layer of sheet metal, but use a hack 
+saw with a fine-tooth blade (32 teeth per inch) to cut through the 
+seams. Cutting across these thick seams can quickly dull even the 
+best shears. If you have to install sheet metal screws, you need to 
+drill pilot holes first. For this you will need a machinist's hammer, 
+a prick punch and a drill with suitable bits. Heavy-duty work gloves 
+are essential when handling metal ducts. The sharp edges produced 
+after the metal has been sheared can easily make nasty cuts in your 
+hands. Also, to be on the safe side, wear safety goggles to protect 
+your eyes when working in cramped quarters. 
+</TEXT>
+</DOC>

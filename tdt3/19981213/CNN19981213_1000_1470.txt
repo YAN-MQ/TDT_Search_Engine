@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981213.1000.1470 </DOCNO>
+<DOCTYPE> UNTRANSCRIBED </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Los Angeles film critics association has announced its picks for 
+the best of the movie industry in 1998. 
+</TEXT>
+</DOC>

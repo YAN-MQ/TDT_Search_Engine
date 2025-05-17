@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> NYT19981127.0298 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial for Saturday, Nov. 28: The 
+global financial market can move trillions of dollars around the world 
+within minutes, but the major players are usually viewed as being 
+from one country or another. Even those companies that operate in 
+many countries, such as Citigroup or Merrill Lynch, are still seen 
+as basically American. Now Deutsche Bank, Germany's largest bank and 
+the second-biggest in Europe, proposes to buy Bankers Trust, the seventh-largest 
+American bank, for $9.7 billion in cash. If approved by regulators 
+and shareholders, the merger would create the world's largest financial 
+institution and, perhaps, the first multinational financial juggernaut. 
+Whether it would create the world's most powerful financial institution 
+is another matter. Both Deutsche Bank and Bankers Trust have had problems 
+in recent years and have seen their stocks perform worse than shares 
+of competitors. Deutsche Bank, like other big German banks, engages 
+in both commercial and investment banking. But its efforts to establish 
+an international presence in investment banking have been largely 
+frustrated. It bought Morgan Grenfell, the British investment bank 
+founded by the father of J.P. Morgan that played a major role in financing 
+France in the Franco-Prussian war, but eventually killed the brand 
+name after a reorganization sent many bankers fleeing. It has found 
+it difficult to merge the cultures of commercial and investment banking. 
+Bankers Trust, which decided to get out of retail banking _ that is, 
+banking aimed at individuals as opposed to large corporations _ about 
+two decades ago, seems to have done a better job of moving into investment 
+banking through its acquisitions of Alex Brown in the United States 
+and of Natwest Markets in Britain. But there have been grumblings 
+of discontent at Alex Brown, and Bankers Trust's image has not completely 
+recovered from its derivatives debacle of a few years ago, when it 
+was fined by the Securities and Exchange Commission for deceiving 
+a corporate customer. Deutsche Bank will have to scramble to raise 
+the money needed to close this deal, and regulators should watch closely 
+to be sure that it maintains adequate capital for the far-flung operations 
+it is taking on. Assuming that is done and the deal is completed, 
+Deutsche Bank will face the daunting task of operating what will be 
+the closest thing yet to a genuinely multinational financial giant. 
+</TEXT>
+</DOC>

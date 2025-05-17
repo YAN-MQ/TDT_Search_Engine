@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> NYT19981228.0408 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Mentor Graphics Corp., the maker of software for work stations, has 
+raised its unsolicited takeover bid for Quickturn Design Systems to 
+$14 a share in cash, matching the price offered by a rival, Cadence 
+Design Systems Inc. If the offer, which is set to expire on Jan. 11, 
+is accepted, Mentor would seek only 14.9 percent of Quickturn's stock, 
+the maximum amount it said could be owned without setting off a poison 
+pill defense. Quickturn said on Monday that its board was studying 
+the offer and urged shareholders not to act until it had made a recommendation. 
+Mentor, which made its first hostile offer in August, is still seeking 
+to negotiate a deal with Quickturn to buy the rest of the shares for 
+the same cash price. Quickturn, which is based in San Jose, Calif., 
+and sells specialized computers that can emulate a new chip before 
+it exists in silicon, has rebuffed Mentor's advances before. Mentor 
+earlier this year proposed a friendly transaction, but that deal was 
+rejected. So on Aug. 12, Mentor offered shareholders $12.125 a share 
+in cash in an unsolicited bid for Quickturn. The value of the deal 
+then totaled $209.5 million for the 97 percent of the company's shares 
+Mentor did not already own. But within two weeks Quickturn rejected 
+the offer. The company's president, Keith R. Lobo, said the offer 
+came ``at a moment of weakness for Quickturn's stock price and a moment 
+of desperation for Mentor's design-verification strategy.'' Quickturn 
+soon found another partner. On Dec. 8, Cadence Design Systems agreed 
+to acquire Quickturn in a stock swap valued at $14 a share, or $253 
+million. Cadence, also based in San Jose, and Mentor, based in Wilsonville, 
+Ore., are rivals in the market for the software used to make computer 
+chips. Mentor responded by suing Quickturn and its board, saying Quickturn 
+breached its fiduciary duties by neglecting to wait for a higher offer 
+from Mentor. Mentor's president and chief executive, Walden C. Rhines, 
+said on Monday that ``there has not been much cooperation by the management 
+of Quickturn,'' although the sweetened offer is his company's first 
+step to completing a merger. Any combination with a company other 
+than Cadence would be expensive for Quickturn, which must pay Cadence 
+$17.58 million in breakup fees if that merger is called off. To further 
+complicate matters, Mentor and Quickturn have been locked in a patent 
+litigation battle. Mentor last year acquired a small French company 
+that offers a product similar to Quickturn's but cannot market the 
+product in the United States. The International Trade Commission ruled 
+that Mentor was infringing on a series of Quickturn patents, and the 
+Court of Appeals for the Federal Circuit rejected Mentor's appeal. 
+</TEXT>
+</DOC>

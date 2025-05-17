@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981225.0130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- for the 21st time, Pope John Paul II celebrated 
+christmas in Vatican city. The Pope said he is already looking forward 
+to next Christmas when the catholic church will celebrate Christianity's 
+third millennium. 
+</TEXT>
+</DOC>

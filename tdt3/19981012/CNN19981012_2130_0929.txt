@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981012.2130.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the day's top stories -- republican leaders say the White 
+House and Congress may be close to an agreement on the federal budget. 
+Lawmakers have approved a stop-gap measure that will keep the government 
+running through midnight Wednesday. 
+</TEXT>
+</DOC>

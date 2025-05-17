@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981102.2130.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+checking this hour's top stories -- the united states is sending $3.5 
+million in aid to central american countries devastated by hurricane 
+mitch and its aftereffects. the death toll from flooding and mud slides 
+is now at least 1,300, with some officials putting it as high as 7,000. 
+</TEXT>
+</DOC>

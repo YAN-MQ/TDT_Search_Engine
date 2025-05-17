@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981029.1830.1079 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Consumer products in the news. Saturn, by GM, is about to introduce 
+the first modern three-door car. That is to say, two on one side, 
+one on the other. 
+</TEXT>
+</DOC>

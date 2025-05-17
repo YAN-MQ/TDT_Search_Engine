@@ -1,0 +1,267 @@
+<DOC>
+<DOCNO> NYT19981106.0354 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Back in 1993, Colgate-Palmolive chief executive Reuben Mark received 
+2 million stock options in addition to his salary and bonus. Colgate's 
+board explained that the huge grant was the only one Mark would receive 
+until 1998. But in 1996, Colgate hired two consulting firms, Towers 
+Perrin and Hewitt Associates, to review the company's executive-compensation 
+plans. The consultants found that Mark's long-term incentive package 
+had fallen ``significantly below the median'' of companies they used 
+for comparison. So in 1997, a year early, the board granted him 2.6 
+million more options _ a package it promised would have to last Mark 
+through 2003. In the grand scheme of things, giving Colgate's chief 
+a new grant of stock options a year early is not such a big deal. 
+Sure, his total compensation went up 83.5 percent annually over the 
+last four years, while Colgate's total returns rose an average of 
+25.9 percent. But the company has outperformed the market, and the 
+stock must keep rising for Mark to exercise his options at a profit. 
+Yet this and hundreds of other examples, each with their own twists, 
+help illustrate how hard Corporate America works to make sure that 
+few chief executives feel underpaid. Through an elaborate process 
+fraught with conflicts of interest and marred by questionable assumptions, 
+executive pay is often set with methods imported from Lake Wobegon, 
+Garrison Keillor's imaginary place where ``all the children are above 
+average.'' The issue is not just the hundred-million-dollar payouts 
+that a few chief executives collect by reaping the rewards of huge 
+stock-option grants. Nor is it simply that some executives whose companies 
+do poorly are nonetheless richly rewarded. Rather, an examination 
+of the interplay among chief executives, corporate directors and the 
+consultants who help set pay levels calls into question whether ``pay 
+for performance'' _ the mantra of executive compensation for the last 
+two decades _ has been distorted almost beyond recognition by the 
+maneuvering that goes on behind closed boardroom doors. Performance 
+certainly plays a role in executive compensation. But other forces 
+conspire to escalate pay beyond anything performance strictly justifies: 
+_ By setting their chief executives' pay above the median of whatever 
+peer group of companies they choose for comparison, boards constantly 
+ratchet up the compensation base line. If all companies in the peer 
+group aim to pay in the top quarter of the group, for example, that 
+level will just keep rising. _ Top executives, rather than the board 
+of directors, typically control the hiring and firing of consultants 
+who are brought in to design pay packages. _ Many directors who sit 
+on their board's compensation committees have ties to management that 
+raise doubts about their independence and objectivity. _ Boards justify 
+raises by saying they have to pay their chief executives ``competitively'' 
+in order to retain them, even if those executives are underperforming. 
+Such mechanisms work against anyone trying to set compensation at 
+appropriate levels, said Robin Ferracone, president of SCA Consulting, 
+a compensation and management consulting firm based in Los Angeles. 
+``Those forces tend to loom large and lead to abuses,'' she said. 
+``And when you have a whole string of them, shareholders haven't gained 
+a thing. Instead, they've paid out a ton of money to keep people around 
+who are underperforming.'' A result of all these forces is reflected 
+in a study conducted for The New York Times by Graef Crystal, who 
+edits a San Diego-based newsletter on executive compensation. Crystal 
+looked at the performance of 383 large companies where the same chief 
+executive was in office from 1993 to 1997. An investor who put $100 
+in those companies at the end of 1993 would have had $202.10 four 
+years later, for an annual return of 19.2 percent. So if the pay of 
+the companies' chiefs tracked that performance, their average compensation 
+would roughly have doubled, from $2.78 million in 1993 to about $6 
+million four years later. In fact, according to Crystal's analysis, 
+the executives' pay climbed 38.1 percent a year, to an average of 
+$10.1 million. Who is to blame for this gap between pay and performance? 
+Experts in both pay and corporate governance say that there is no 
+single culprit _ except, perhaps, unchecked human nature. ``It's not 
+evil of management to seek the highest possible pay package they can, 
+because we all try to maximize our value,'' said Charles Elson, a 
+professor at the Stetson University College of Law in St. Petersburg, 
+Fla., and a director of three public companies. ``And it's not evil 
+for a compensation consultant to have an affinity for management. 
+Nor is it evil for a director to feel an affinity for the CEO who 
+appointed them. But it's a process that creates a one-sided result.'' 
+To be sure, pay consultants say many directors have become more vigilant 
+in recent years, in part because rich compensation packages have often 
+come under sharp attack by large shareholders, including pension funds. 
+``The amount of backbone and independence has increased by several 
+orders of magnitude,'' said Ira Kay, global practice director for 
+compensation consulting in the New York office of Watson Wyatt Worldwide. 
+Still, with the average chief executive's pay rising twice as fast 
+as performance over the last four years, such vigilance has not forged 
+a very strong link between pay and performance. Running a large corporation 
+requires a rare set of skills. So it is perhaps understandable that 
+directors would consider their chief executive an above-average boss 
+worthy of above-average compensation. But many companies set their 
+executives' pay by looking at what similar companies pay their executives. 
+And if they all are trying to make their chiefs feel special _ say, 
+by paying them above their peer group's scale _ that can create powerful 
+updrafts for executive compensation. ``There is a huge problem with 
+those surveys,'' said Jay Lorsch, a Harvard Business School professor 
+who specializes in corporate board issues. ``They are self-fulfilling 
+prophecies. There is a ratcheting effect.'' Many companies in the 
+Dow Jones industrial average, for instance, pledge to keep their executives' 
+pay well above the median of their respective peer groups. Philip 
+Morris' goal is to compensate its executives in the ``upper quadrant'' 
+of its peer group. The same goes for Coca-Cola, while IBM shoots for 
+the 75th percentile. American Express uses the third quartile as its 
+reference point. It is not just Dow industrial companies that aim 
+to compensate their executives at levels comparable to that of their 
+peers. GTE's proxy states that the company's philosophy is to be 10 
+percent to 15 percent above ``a median grant posture'' of its comparison 
+group of companies for long-term incentive pay. From 1993 to 1997, 
+the company's stock rose at an average rate of 17.8 percent a year; 
+the pay of GTE chief executive Charles Lee rose an average of 75.8 
+percent a year, to $13.35 million from $2.15 million. Lee received 
+a new grant of stock options every year from 1993 to 1997, for a total 
+of more than one million options. ``The bulk of the chairman's compensation 
+is in long-term incentives that are directly tied to shareholder value,'' 
+a GTE spokeswoman said. Options sometimes are used to motivate underperforming 
+executives, and at other times to reward good past performance. But 
+options issued simply to keep an executive apace with his peer group 
+may have nothing to do with his performance. Many companies first 
+settle on an executive's compensation and then determine what performance 
+will be expected of him, said Jean Head Sisco, a member of the compensation 
+committees of Textron, Nieman Marcus, and Chiquita Brands International. 
+``The status quo should not allow a person to reach the upper percentiles,'' 
+said Ms. Sisco, who is also a partner in Sisco Associates, a management 
+consulting firm based in Washington. ``But it is obvious that at certain 
+companies, that is allowed to happen. Just studying the proxies tells 
+you that.'' When a company's directors want independent expertise 
+as they design their executives' pay packages, they rely on the advice 
+of a small coterie of compensation consultants. The problem is that 
+the selection and hiring of the consultants is typically controlled 
+by management itself. If the executives do not like the opinions offered 
+by their consultants, they can easily replace them with others more 
+willing to act as their advocates before the board of directors. In 
+interviews with 10 consultants, estimates of the number of their prospective 
+clients who have shopped this way for more accommodating advice ranged 
+from 5 percent to 20 percent. A more pliant consultant can, for example, 
+select a more favorable group of peer companies on which to base a 
+chief executive's recommended pay. Or the consultant can make adjustments 
+that benefit the executive in the various parts of a pay package, 
+including salary, bonus, restricted stock and many forms of long-term 
+incentive compensation. ``Unfortunately, anything can be justified 
+in executive compensation, because there are so many rules to the 
+game,'' said Judith Fischer, publisher of Executive Compensation Reports, 
+a newsletter. Experts in the field of corporate governance generally 
+agree that it is a mistake to leave management in charge of hiring 
+compensation consultants. Instead, they say, it should be the responsibility 
+of the board's compensation committee. ``It's the relationship that 
+counts,'' said Ira Millstein, a partner at the New York law firm of 
+Weil, Gotshal &AMP; Manges who advises many boards on governance principles. 
+``Who do you report to? Who hires you? Who fires you? My answer to 
+all three is that it should be the compensation committee.'' It would 
+be unusual, of course, for a company to report in its annual proxy 
+statement that it had left the selection of its compensation consultant 
+to top management. But many compensation consultants say boards often 
+defer to management's advice on which firm to hire. And some large 
+companies acknowledge that their compensation committees follow the 
+lead of management. In the 1997 proxy for Goodyear Tire &AMP; Rubber, 
+for example, the compensation committee said it ``met with the chief 
+executive officer to receive his recommendations regarding 1997 adjustments'' 
+of top executives. It added that it relied principally on surveys 
+to set pay levels, but also considered the chief executive's recommendations 
+``on certain subjective factors, including his evaluation of the performance 
+of each executive officer, the performance of the company and general 
+economic and competitive conditions.'' A Goodyear spokesman said that 
+the chief executive did not make recommendations regarding his own 
+compensation, and that his guidance on his aides' compensation did 
+not influence board decisions on his pay. At other companies, like 
+Cummins Engine, the process is more clearly driven by directors on 
+the compensation committee. ``We've thought of compensation consultants 
+rather like auditors,'' said Hanna Holborn Gray, the retired president 
+of the University of Chicago who has been the chairwoman of Cummins' 
+compensation committee for six years. ``We need an independent perspective.'' 
+Who serves on the compensation committee is as important as where 
+the committee gets its advice. In a 1993 report, the National Association 
+of Corporate Directors wrote that compensation committees ``should 
+be made up exclusively of independent outside directors selected by 
+the outside directors and approved by the whole board.'' The commission's 
+rationale? ``Achieving both the appearance and the reality of independence 
+demands no less,'' the report said. Despite this unequivocal recommendation, 
+however, many compensation committees have members who at least have 
+the potential to engage in mutual back-scratching with the chief executive. 
+Directorship, a consulting firm in Greenwich, Conn., said 67 of the 
+839 large public companies in its data base have current or former 
+executives of the company on the compensation committee. And at 12 
+of those 67, the committee's chairman is a current or former executive. 
+Among them is Occidental Petroleum, which has been criticized by institutional 
+investors over the $95 million paid last year to its chief executive, 
+Ray Irani, to replace his old contract with a new one. A separate 
+study of 1,197 companies by Investor Responsibility Research Center, 
+based in Washington, found that 522 directors on compensation committees 
+had affiliations _ as suppliers or former employees _ that called 
+into question their independence. One example is MBNA Corp. of Wilmington, 
+Del., one of the nation's leading issuers of credit cards. The chairman 
+of its compensation committee is James Berick, whose law firm provides 
+services to MBNA. Also on the committee is Benjamin Civiletti, the 
+U.S. attorney general from 1979 to 1981, who is now chairman of another 
+law firm that counts MBNA among its clients. From 1993 to 1997, MBNA 
+was an impressive stock-market performer, returning 49.5 percent a 
+year, on average. But total compensation for MBNA chairman and chief 
+executive Alfred Lerner rose at roughly three times that rate _ an 
+average of 147 percent a year. In an interview, Berick said his firm 
+bills MBNA for less than $30,000 worth of services a year. Berick, 
+who was a college roommate of Lerner's, said that MBNA shareholders 
+were satisfied and that he considered himself independent. ``The facts 
+are important, and not the perception or appearances,'' he added. 
+Civiletti also said that the volume of legal work his firm did for 
+MBNA was incidental and that he, too, considered himself independent. 
+``I think substance is much more important than possible appearance,'' 
+he said. One common justification used by companies for above-average 
+compensation is that ``competitive'' pay packages are necessary to 
+retain top executives _ even underperformers _ who might otherwise 
+be tempted to leave for a better offer. The laws of supply and demand 
+are certainly at work when a chief executive at one company is actively 
+courted by another company. Many such executives will hire the likes 
+of Joseph Bachelder, a New York lawyer, who has negotiated on behalf 
+of chief executives like George Fisher of Eastman Kodak and Louis 
+Gerstner of IBM. ``As in all matters involving a willing buyer and 
+a willing seller, the interplay of a free market, so to speak, is 
+at work,'' Bachelder said. ``When you're in the middle of a negotiation, 
+you appreciate there is a market for the talents of these CEOs.'' 
+But most of the inflationary effects of executive pay do not occur 
+at hiring time. Instead, chief executives are regularly granted raises 
+on the assumption that they have one foot out the door, even though 
+they may not. As consultants describe the scenario, directors decide 
+that they must pay their incumbent chief executives ``competitively,'' 
+even if their performance alone would not justify such a level. Time 
+Warner, for example, states in its proxy that its compensation committee 
+surveys a broad range of companies that it considers its ``most direct 
+competitors for executive talent.'' So even though Time Warner's stock 
+dropped 15.3 percent from 1993 to 1996 _ a period during which the 
+Standard &AMP; Poor's 500-stock index rose 58.8 percent _ the company 
+gave Gerald Levin, its chief executive, a bonus of $4 million each 
+year. After Time Warner stock rose sharply in 1997, Levin got a $6.5 
+million bonus. ``There are major conflicts between providing competitive 
+pay and pay for performance,'' said Donald Sullivan, who oversaw Towers 
+Perrin's compensation consulting practice before retiring in 1994. 
+``If a company had a bad year _ a period of less-than-stellar performance 
+when bonuses should appropriately suffer _ they will say that we have 
+to stay `competitive,' so let's ignore performance,'' Sullivan said. 
+``It's an absolutely no-lose situation. There is only one side to 
+that coin.''(BOX) SLOWING THE PAY LOCOMOTIVE By ADAM BRYANT c.1998 
+N.Y. Times News Service What will slow the rise in executive pay? 
+A bear market would help, many experts say, because shareholders would 
+start voting down management plans for issuing shares to reward top 
+executives and other employees. Even now, votes against such proposals 
+are rising. Generally, experts say, the key is for directors to act 
+more like shareholders. Charles Elson, a Stetson College law professor 
+who serves on three corporate boards, argued that director nominees 
+should be required to buy a considerable amount of company stock _ 
+say, $100,000 worth _ before joining a board and then be compensated 
+with stock for their services. Then, Elson said, directors will consider 
+the company's money their own and be more likely to resist a chief 
+executive who wants an unreasonably large share of it. ``That way, 
+any penny that is overpaid comes out of the director's pocket as opposed 
+to some vague force known as the company,'' he said. The amounts involved, 
+he acknowledged, may amount to no more than pennies a share, but people 
+nevertheless have a keen sense of what is rightfully theirs. Elson 
+has seen the process work first-hand. When he was appointed a director 
+of Sunbeam Corp. in 1996, he was required to invest $100,000 of his 
+own money to buy 5,000 shares in the company. Indeed, Elson had advised 
+Albert Dunlap, then Sunbeam's chief executive, to impose the requirement 
+on all his directors. With the additional compensation he received 
+in Sunbeam stock in subsequent years, the total value of Elson's holdings 
+rose to $250,000. But after the company foundered earlier this year 
+under Dunlap's leadership, the value of Elson's holdings fell steeply, 
+to less than $50,000 at one point. And it was Elson who, in June, 
+made the motion to the Sunbeam board to remove Dunlap. The Sunbeam 
+board has been widely reported to be fighting with Dunlap over his 
+severance pay. ``Having a large equity stake in a company,'' Elson 
+said, ``really wakes you up.'' 
+</TEXT>
+</DOC>

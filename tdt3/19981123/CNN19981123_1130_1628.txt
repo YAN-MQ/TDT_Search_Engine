@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981123.1130.1628 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The day's top stories are next, including the latest on a possible 
+merger between two cyberspace giants. I'm Toria Tolley. This is "CNN 
+Headline News." 
+</TEXT>
+</DOC>

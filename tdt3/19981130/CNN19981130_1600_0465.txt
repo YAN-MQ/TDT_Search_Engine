@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981130.1600.0465 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One of the deadliest hurricane seasons ever ends today. 14 tropical 
+storms formed in the atlantic basin between June 1st and today. Ten 
+grew to hurricane strength. The two most destructive storms were Mitch 
+and georges. They caused more than 11,000 deaths, and at least $2.5 
+billion in property damage. Despite the season's official end, one 
+hurricane is still active in the atlantic. Hurricane Nicole is 800 
+miles southwest of the azores. It is not expected to threaten land. 
+</TEXT>
+</DOC>

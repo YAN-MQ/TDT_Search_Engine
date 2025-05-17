@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981230.1130.0473 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up, how serious is the potential problem because caused by 
+the year 2000 computer bug? First, this look at the forecast. 
+</TEXT>
+</DOC>

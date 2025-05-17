@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NBC19981012.1830.1248 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here at home, three American scientists are celebrating their shared 
+nobel prize in medicine for making the discovery that led to the development 
+of Viagra. Doctors Robert furchgott, ferid murad, and Louis ignarro 
+discovered that nitric oxide can boost the body's cardiovascular system. 
+Besides Viagra, the discovery could lead to new treatments for asthma, 
+arthritis and cancer. 
+</TEXT>
+</DOC>

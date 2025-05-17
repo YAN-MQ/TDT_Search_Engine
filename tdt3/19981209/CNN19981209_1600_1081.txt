@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981209.1600.1081 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The NASDAQ extending its reach on the Internet. The stock exchange 
+teaming up with broadcast.com to broadcast quarterly conference calls 
+and also to allow investors to submit questions to company executives. 
+100 companies listed on the NASDAQ will participate in the pilot program. 
+</TEXT>
+</DOC>

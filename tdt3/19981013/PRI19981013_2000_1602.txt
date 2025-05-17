@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981013.2000.1602 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today the Dow Jones Industrial is closed down 63 to 
+7938, the Nasdaq down also 36 points to 1510. 
+</TEXT>
+</DOC>

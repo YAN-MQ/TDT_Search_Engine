@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981126.1600.0462 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the U.S. is next. And still ahead 
+-- why your Thanksgiving dinner may be a little more expensive this 
+year. 
+</TEXT>
+</DOC>

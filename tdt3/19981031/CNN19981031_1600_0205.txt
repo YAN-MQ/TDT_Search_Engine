@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981031.1600.0205 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Israel and the United States have signed an agreement to try to stop 
+the proliferation of ballistic missiles and weapons of mass destruction 
+in the Middle East. Israeli prime minister Benjamin Netanyahu and 
+President Clinton signed the agreement today. The countries will establish 
+a committee to try to solve the problem. Israel says its arch-enemy 
+Iran is working on nonconventional warheads that could reach its borders. 
+</TEXT>
+</DOC>

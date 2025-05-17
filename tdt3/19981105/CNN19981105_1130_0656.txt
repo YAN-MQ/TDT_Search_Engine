@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981105.1130.0656 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new survey shows drivers spend almost $6 billion a year on car problems 
+caused by poor roads. At the same time, states spend less than $3 
+billion a year fixing those same roads. The report comes four months 
+after President Clinton signed a national transportation Bill calling 
+for $167 billion in highway improvements. The survey concludes states 
+will probably spend that money on new roads rather than repairing 
+old ones. The worst states for potholes according to the report are 
+Arkansas, maryland, Colorado, North Carolina and Oklahoma. 
+</TEXT>
+</DOC>

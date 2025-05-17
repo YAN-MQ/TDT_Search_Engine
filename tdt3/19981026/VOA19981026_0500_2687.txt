@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> VOA19981026.0500.2687 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Microsoft, the world's largest independent producer of computer software, 
+is in the courtroom as a defendant. In a trial that began on Monday, 
+October 19, the U.S. Department of Justice charges that the Redmond, 
+Washington-based company is a monopoly violating American anti-trust 
+laws. Dan Noble has details. Microsoft is big. It has more than 25,000 
+employees worldwide, and its stock is valued at $260 billion. Today, 
+Microsoft's Windows Operating System is used on 90 percent of the 
+world's personal computers. Its applications programs, like word processing 
+and spreadsheets, dominate the industry. Bill Gates, the company's 
+co-founder and chief executive officer, is one of the world's richest 
+people. Microsoft's Web browser, software that makes it easier for 
+people to get information from the Internet, is capturing a large 
+share of the market. Microsoft is an incredibly successful company. 
+This is Wendy Goldman Rohm, a journalist from Evanston, Illinois, 
+and author of "The Microsoft File: The Secret Case Against Bill Gates." 
+The book is highly critical of Microsoft. It cemented its monopoly 
+position actually in the late '80s. And at that time, it was Microsoft 
+DOS that was running on basically all computers all over the world 
+-- that is, Intel-based personal computers. And at that time, they 
+began using what was known as word processor licensing, which in effect 
+forced computer makers to pay a royalty to Microsoft for every computer 
+they shipped. As a result of Microsoft's effort to bundle or put together 
+various software products, Wendy Goldman Rohm says that it became 
+very difficult for computer manufacturers to include products from 
+other software companies. It's not illegal to be a monopoly. But it 
+is illegal to maintain your monopoly position through predatory means 
+and by abusing your market power. First is through superior skill, 
+is the exact wording of the anti-trust laws. Henry Tang is an attorney 
+specializing in intellectual property with the New York City law firm 
+of Baker & Botts. Mr. Tang has been following the Microsoft case. 
+The primary charge that has to do with Microsoft bundling is Internet 
+Explorer software together with its Windows Operating System by bundling 
+their Internet Explorer and, in effect, offering it for free, they 
+are driving companies like Netscape, which also provide Internet browser 
+software, out of business. According to Henry Tang, the case is, in 
+his words, very important to the software industry. If Microsoft should 
+prevail, then they would be free to bundle virtually any application 
+of theirs with their operating system. A defeat in court for Microsoft 
+would chip away at its domination of the software industry. Again, 
+Henry Tang. Particularly in the case of the Netscape Navigator software, 
+which is a piece of software that can run on different operating systems 
+and which can, in itself, act as a platform for application programs. 
+What a loss would do to Microsoft would be to have its current monopoly 
+diluted somewhat. The trial is expected to be a speedy one. U.S. district 
+judge Thomas Penfield Jackson, who's hearing the Microsoft case, has 
+limited the number of witnesses. A decision is expected some time 
+early next year. Regardless of the outcome, court observers expect 
+that whichever side prevails, an appeal to a higher court is just 
+about inevitable. I'm Dan Noble. 
+</TEXT>
+</DOC>

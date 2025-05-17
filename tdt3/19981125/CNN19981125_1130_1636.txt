@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981125.1130.1636 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That was reporter Scott withers. The morning's top stories are just 
+two minutes away. I'm Toria Tolley. This is "CNN Headline News." 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981028.2130.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- tens of thousands of people in Honduras 
+were forced to leave their homes after hurricane Mitch dumped up to 
+25 inches of rain in some areas. The storm has uprooted trees and 
+washed out roads and bridges. 
+</TEXT>
+</DOC>

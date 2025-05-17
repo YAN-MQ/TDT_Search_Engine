@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981223.2130.0490 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for Thursday, Christmas eve. A frontal system will be pushing 
+into the northwestern United States, with rain and snow across the 
+southeast. Not too much change in the weather -- rather cold and icy 
+from Texas up into the carolinas and Virginia. The rest of the country 
+will be quiet but cold, as well. Thursday's highs -- single numbers 
+and teens through the north central part of the country. The warmest 
+air, across the extreme south -- we're talking southern florida, where 
+we'll see 60s and 70s. Looking ahead to Friday, Christmas day, icy 
+problems will continue through the mid-atlantic, with rain and snow 
+in the northwest. On Saturday, snow around the Great Lakes, more rain 
+and snow for the northwest. And on Sunday, temperatures will moderate 
+in the southern half of the country. We'll look for 50s and 60s, 70s 
+in south Texas. In fact, just 20s and 30s across the north, with most 
+of the rain and snow confined to the north, as well. Don't forget, 
+four-day forecasts, more than 7,200 cities, on CNN interactive. The 
+address -- CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981126.1130.0481 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+On this Thanksgiving day, it's pretty warm in a lot of locations, 
+especially in the southwest. Forecast highs into the 80s in the plains. 
+We'll see temperatures well into the 60s today. Coldest weather through 
+the northern Great Lakes. Check your forecast weather maps -- a wet 
+day in the northeast. It's gonna continue through much of the day 
+today and on into early tomorrow. High pressure though building into 
+the southeast. Another fine day of weather expected there. And we're 
+looking for more wet weather along the west coast. That'll inching 
+down the California coast by late tomorrow. The extended forecast 
+shows rain into southern California, including Los angeles and San 
+Diego, during the day on Saturday. We'll find snow as you head inland 
+into the Rockies. And warm weather continues through much of the midwest, 
+into the 60s, cities like Chicago and Milwaukee, and as far north 
+as Minneapolis. On Sunday, showers will be scattered over the northern 
+Great Lakes. We'll find rain again moving into the pacific northwest. 
+Snow is expected inland there. Scattered showers expected along the 
+Mississippi river valley during the day on Monday. For more weather 
+information, log into CNN.com. 
+</TEXT>
+</DOC>

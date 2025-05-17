@@ -1,0 +1,89 @@
+<DOC>
+<DOCNO> NYT19981118.0073 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Prepare for the next Internet feeding frenzy. Sharks from several 
+industries are already circling the nascent market for products and 
+services that will enable consumers to receive and pay their monthly 
+bills online. Electronic billing systems are expected not only to 
+save merchants and banks billions of dollars in printing, paper and 
+postage costs, but also to save time and deliver a new level of convenience 
+for consumers. And the customer base is already a captive audience. 
+By some reports, 60 percent of the 62 billion pieces of first-class 
+mail delivered annually by the U.S. Postal Service are bills. Calculating, 
+verifying, creating, mailing, collecting and processing those 37 billion 
+statements have been estimated to cost $370 billion _ an average of 
+$10 a bill, according to the report ``On Bills, Banks and Bill (Gates),'' 
+published by Diamond Technology Partners (www.diamtech.com), a Chicago-based 
+consulting firm. Diamond estimates that presenting and paying bills 
+electronically could save 10 percent of that amount _ a huge incentive 
+for large companies, in particular, to embrace e-billing. Merchants 
+have already said they would be willing to pay as much as 40 cents 
+a bill for such a service, instantly creating a market with a $15 
+billion potential. Last week, Netscape Communications Corp. announced 
+plans to offer Web-based e-billing software for online sellers. Transpoint, 
+a joint venture of Microsoft Corp., First Data Corp. and Citigroup, 
+plans to introduce its e-bill service this quarter. And the Integrion 
+Financial Network, a consortium of banks, financial services and technology 
+companies including Checkfree, IBM, RSA Data Security and Visa USA, 
+is preparing to start an e-bill pilot with one of its owners, Bank 
+One, in January. One version of an e-bill system would allow merchants 
+to send monthly bills in an e-mail format that could be forwarded 
+directly to a customer running bill-payment software like Quicken 
+from Intuit. Another would allow consumers to view all their bills 
+from one Web site. But the potential impact of e-bills could be much 
+more significant than cost savings and simple convenience. William 
+Fenimore, chief executive and managing director of Integrion, says 
+that although e-bills are inevitable, such sweeping change comes slowly 
+to big financial institutions. ``The biller community is further ahead 
+than the banking community in terms of distributing these bills and 
+getting them paid,'' he said. And that disparity presents an opportunity 
+for the law of unintended consequences to kick in. That is because 
+the Internet has given many different kinds of companies _ from Microsoft 
+and Intuit, to brokerage firms and insurance companies _ the ability 
+to offer financial services more cheaply and without the regulations, 
+including those governing consumer privacy, that banks and other financial 
+institutions must obey. Because merchants and financial institutions 
+are unlikely to build e-bill technology themselves, many will be forced 
+to yield their precious customer data to a technology or service provider 
+_ Microsoft's Transpoint venture, for example _ to run the system 
+for them. Clearly, companies like Integrion, with owners that are 
+almost all banks, are a hedge against that. But that hedge may not 
+hold. Once companies start delivering digital bills, says Gordon Bell, 
+a senior researcher for Microsoft, other opportunities present themselves 
+rather quickly. Bell says he has for years encouraged Microsoft's 
+chairman, Bill Gates, to create a version of the Checkfree service. 
+``The other thing is to give WebTV away to do just this kind of thing, 
+with a bank account or whatever,'' he says. Some analysts say that 
+such opportunities will forever change the balance of power between 
+customers and merchants. Referring to software applications, Chunka 
+Mui, a partner in Diamond Technology, said, ``The real reason this 
+is a killer app is because the technology provides a platform for 
+doing other things.'' Mui predicts that e-bill systems will start 
+a new ``aggregator'' business that enables people to pay all their 
+bills online in one place, rather than with individual merchants all 
+over the Web _ as well as allowing those merchants to deliver precisely 
+aimed junk advertising. ``All these folks are talking about how this 
+becomes the marketing machine from heaven,'' he said. ``What they 
+don't understand is that once these bills are in digital form, they 
+are infinitely controllable by the customer. It won't take 25 seconds 
+for someone to realize, `I could make a lot of money selling a filter 
+for this junk.''' What is more, he said, ``It would only take another 
+25 seconds to say, `Hey, if I work for the customer and not for the 
+merchants, maybe I can create an alliance of consumers.''' To date, 
+there are few consumer bill aggregators. One new start-up, Cyberbills.com 
+in Santa Clara, Calif., recently began a consumer service that sends 
+customers all their bills electronically. Mui says that such a service 
+_ started as a cost-saver for merchants _ is actually ``stealth technology,'' 
+a first step in returning the power over personal information to consumers 
+who are tired of being bombarded with e-mail spam and junk advertising 
+in all media. ``It's about aggregating power,'' says Mui. ``It's not 
+about selling information to merchants. It's about going to the people 
+and saying, `I know what you've bought _ let's do price comparisons 
+for shopping, let's provide a direct connection to the seller when 
+you have problems, things like that. This bill becomes the interface 
+for so much _ it's a tremendous window onto the electronic world.'' 
+NYT-11-15-98 1610EST 
+</TEXT>
+</DOC>

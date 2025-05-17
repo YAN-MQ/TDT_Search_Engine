@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981226.1000.0477 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An oil spill is causing an ecological disaster in California. That 
+story, after this look at the extended weather forecast. 
+</TEXT>
+</DOC>

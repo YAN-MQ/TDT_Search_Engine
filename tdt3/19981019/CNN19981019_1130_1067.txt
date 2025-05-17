@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981019.1130.1067 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The battle between the justice department and Microsoft is finally 
+under way. Opening statements are taking place in federal court in 
+Washington. The federal government, along with 20 states, is suing 
+Microsoft, claiming it has been operating as a monopoly. The suit, 
+filed last spring, charges Microsoft with using its dominance in personal 
+computer operating systems to stamp out competition. The trial is 
+expected to last three months. 
+</TEXT>
+</DOC>

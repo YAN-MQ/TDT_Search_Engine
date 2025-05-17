@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981218.2130.0595 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+CNN has learned first lady Hillary Clinton will meet with democrats 
+on Capitol Hill tomorrow. She will give what's being described as 
+a pep talk and thank them for their support of the president. Asked 
+about impeachment today, the first lady did not directly comment on 
+the house debate. She says she believes most Americans share her approval 
+and pride in Mr. clinton's work as president. 
+</TEXT>
+</DOC>

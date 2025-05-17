@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> APW19981022.0523 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+After months of talks, Hong Kong will open the territory's international 
+direct dial telephone market to competition, officials said Thursday. 
+Beginning in January, an ``unlimited number of operators'' can try 
+to sell long-distance services to telephone users in the territory, 
+said K.C. Wong, secretary for information technology and broadcasting. 
+Hong Kong Telecommunications Ltd., which formerly held a monopoly 
+over the services, recently agreed to surrender its lock on the market 
+for 6.7 billion Hong Kong dollars (U.S. dlrs 858 million) in compensation. 
+Any new operators will use infrastructure set up by Hong Kong Telecom. 
+</TEXT>
+</DOC>

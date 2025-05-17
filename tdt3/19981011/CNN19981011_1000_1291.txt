@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981011.1000.1291 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+18th-ranked Texas A&M upset number two Nebraska, 28-21, ending the 
+huskers' 19-game winning streak. 
+</TEXT>
+</DOC>

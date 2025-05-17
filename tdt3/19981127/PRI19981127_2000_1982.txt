@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> PRI19981127.2000.1982 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Those are the news headlines from the BBC newsroom in London. This 
+is Alan Dow. You're listening to "The World." "The World" is brought 
+to you buy the Capital Group Companies investing throughout the world 
+for individuals and institutions. This is "The World," a co-production 
+of the BBC World Service, PRI and WGBH in Boston. I'm Tony Kahn. 
+</TEXT>
+</DOC>

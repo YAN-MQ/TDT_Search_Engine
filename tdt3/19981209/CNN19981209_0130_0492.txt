@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981209.0130.0492 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather" update. 
+Snow showers will be seen in the Rockies by Wednesday morning, as 
+rain showers linger in the east. One cold front moves through Nova 
+Scotia, continuing to drag across portions of Florida. Cooler temperatures 
+are due into the eastern United States. Also watch a front move through 
+the Great Lakes, trailing down into Mexico, with increasing showers 
+for the western gulf coast states. The northeast gets a little bit 
+of a break as the northwest sees another storm system head in from 
+the pacific. Rain and snow will be in the forecast as early as Thursday. 
+Temperatures will be in the 20s and 30s for most of the Rockies, with 
+40s, 50s and 60s along the pacific coast. 50s and better southward 
+from cape hatteras, with temperatures in the northeast staying in 
+the 30s and the 40s. The extended forecast includes rain Thursday 
+for the northwest, with flurries across the Great Lakes. A few thunderstorms 
+could be seen in the gulf. Thunderstorms move eastward through Friday, 
+with snowfall expected for the lakes. And we keep a few showers in 
+the south into Saturday. The extended forecast for more than 7,000 
+cities is at CNN.com. 
+</TEXT>
+</DOC>

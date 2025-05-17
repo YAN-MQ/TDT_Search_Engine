@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981028.1130.0937 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane Mitch is hovering off the northern coast of Honduras. It's 
+causing heavy rain and flooding over much of the area. 14 deaths are 
+blamed on the storm. 
+</TEXT>
+</DOC>

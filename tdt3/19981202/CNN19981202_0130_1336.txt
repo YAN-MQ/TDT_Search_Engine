@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981202.0130.1336 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+rob ticktin, "cnn headline sports." 
+</TEXT>
+</DOC>

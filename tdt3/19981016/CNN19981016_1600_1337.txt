@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981016.1600.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+To golf and the world match play championship in England where Tiger 
+Woods has defeated Ian woosnam in a playoff. Tomorrow's semifinals 
+will pit Woods against Lee Westwood and Mark O'Meara against vijay 
+Singh. 
+</TEXT>
+</DOC>

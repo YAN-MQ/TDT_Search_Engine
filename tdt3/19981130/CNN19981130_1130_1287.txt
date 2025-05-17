@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981130.1130.1287 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm Anthony Keith James, and this is "CNN Headline Sports." Randy 
+Johnson has waved goodbye to Houston. He agreed to a four-year deal 
+to throw for Arizona for just under $53 million. The contract gives 
+him the highest average yearly salary behind Mo Vaughn. 
+</TEXT>
+</DOC>

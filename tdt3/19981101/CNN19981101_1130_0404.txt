@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981101.1130.0404 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+350 miles above the earth, the crew of space shuttle "discovery" is 
+awake and working. NASA gave them a wake-up call this morning with 
+a song called "this pretty planet" by Tom chapin. The astronauts' 
+main project today is the release of the Spartan satellite. The plan 
+is for Spartan to study the sun before being retrieved Tuesday. Instruments 
+on Spartan will take readings of the sun's corona to determine the 
+origins of the solar winds. Scientists hope to learn more about how 
+the solar winds affect the earth. This afternoon senator John Glenn 
+is scheduled to take part in his first news conference aboard "discovery." 
+Tonight, Glenn is scheduled to wear a web-like helmet with 23 sensors 
+that measure everything from the depth of his breathing to how much 
+he snores. 
+</TEXT>
+</DOC>

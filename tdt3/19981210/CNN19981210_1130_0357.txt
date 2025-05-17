@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981210.1130.0357 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The centers for disease control and prevention is issuing some controversial 
+guidelines concerning the virus that causes AIDS. It is recommending 
+that states report all cases of HIV infection, either by the patient's 
+name or an anonymous identifying code. Most states document all people 
+with AIDS, but not those who are just HIV positive. State health officials 
+are expected to go along with the recommendations, to ensure federal 
+funding. Medical experts say the information is needed to get a better 
+handle on the virus. 
+</TEXT>
+</DOC>

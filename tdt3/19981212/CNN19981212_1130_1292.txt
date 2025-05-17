@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981212.1130.1292 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Yesterday, number 11 Indiana breezed past Boise state 0-66 in the 
+opener of the hoosier classic. A.J. guyton scored 26 points. Indiana 
+faces bowling green in today's final. 
+</TEXT>
+</DOC>

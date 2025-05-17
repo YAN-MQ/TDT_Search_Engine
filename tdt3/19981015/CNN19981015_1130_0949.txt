@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981015.1130.0949 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And a government study of school violence suggests the problem may 
+not be as serious as once believed. It shows fewer students bring 
+weapons to school and 90% of public schools have had no violent incidents. 
+</TEXT>
+</DOC>

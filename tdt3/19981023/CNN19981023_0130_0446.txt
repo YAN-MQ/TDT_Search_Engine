@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981023.0130.0446 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Weather forecasters are keeping an eye on tropical storm Mitch. The 
+13th named storm of the atlantic hurricane season could soon become 
+a Hurricane. The storm stalled over the Caribbean Thursday night, 
+centered 450 miles south of Kingston, Jamaica. 
+</TEXT>
+</DOC>

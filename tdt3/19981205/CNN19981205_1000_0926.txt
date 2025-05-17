@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981205.1000.0926 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here is a check of our top stories this morning. President Clinton's 
+legal team is asking for three or four days to present its impeachment 
+defense before the house Judiciary committee. The committee is offering 
+wrong day. 
+</TEXT>
+</DOC>

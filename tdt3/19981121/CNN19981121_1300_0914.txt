@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981121.1300.0914 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+U.N. weapons inspectors remain on the job today despite a dispute 
+with baghdad. Iraq is refusing to turn over documents requested by 
+chief weapons inspector Richard Butler. 
+</TEXT>
+</DOC>

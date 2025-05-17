@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981128.1600.1374 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+matt yallof, "cnn headline sports." 
+</TEXT>
+</DOC>

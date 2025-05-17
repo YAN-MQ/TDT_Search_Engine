@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981118.1600.1463 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+David Bowie is returning to some familiar territory. That, and more, 
+in this "Hollywood Minute." This is Dennis Michael with the "Hollywood 
+Minute." 
+</TEXT>
+</DOC>

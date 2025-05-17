@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981107.1000.1056 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One new product that doesn't seem to be earning many fans is the new 
+$20 bill. A poll by quicken.com found most respondents unimpressed 
+with the updated currency. Half said the new 20s, redesigned to help 
+cut down on counterfeiting, remind them of monopoly money. That's 
+"business this week," David Daniel, "CNN Headline News." 
+</TEXT>
+</DOC>

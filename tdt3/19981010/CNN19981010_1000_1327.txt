@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981010.1000.1327 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The NHL regular season began Friday night out in Japan. Calgary and 
+San Jose skated to a three-all tie. Mike ricci scored the game-tying 
+goal with 2:18 left in the third. 
+</TEXT>
+</DOC>

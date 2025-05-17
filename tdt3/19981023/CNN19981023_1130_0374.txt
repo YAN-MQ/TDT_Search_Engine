@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981023.1130.0374 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal government says many African-Americans and southerners 
+aren't aware that babies should sleep on their backs to reduce the 
+risks of sudden infant death syndrome. Experts say this may reflect 
+a lack of access to pediatricians' advice on how to put a baby to 
+sleep. Researchers believe many sids cases occur when babies sleeping 
+on their stomachs suffocate in their bedding. 
+</TEXT>
+</DOC>

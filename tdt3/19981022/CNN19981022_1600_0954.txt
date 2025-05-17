@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981022.1600.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Fisher-price is recalling up to 10 million power wheels cars and 
+trucks. The consumer product safety commission says the battery-powered 
+toys can overheat and cause fires. 
+</TEXT>
+</DOC>

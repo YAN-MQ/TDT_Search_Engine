@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981015.1600.0927 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- President Clinton says it's a good day 
+for America. Negotiators reached a budget agreement 14 days into the 
+fiscal year. It includes money for more teachers, defense, and anti-drug 
+programs. 
+</TEXT>
+</DOC>

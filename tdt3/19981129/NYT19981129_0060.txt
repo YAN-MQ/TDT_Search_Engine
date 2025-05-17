@@ -1,0 +1,64 @@
+<DOC>
+<DOCNO> NYT19981129.0060 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Computer animation is pushing into new territory on the wings of an 
+unlikely fleet of cartoon airplanes _ characters in a series for preschoolers 
+that began Nov. 2 on the Learning Channel on cable television. Traditional 
+animators who create two-dimensional characters like those in the 
+shows ``South Park'' and ``Rugrats'' now routinely use computer graphics 
+to replicate the hundreds of frames needed to make a character move. 
+But the creators of the new show, ``Jay Jay the Jet Plane,'' are using 
+an entirely different method called real-time performance animation 
+in which the facial expressions of as many as seven actors are detected 
+by sensors and fed into computers, giving expressive vitality to animated 
+characters. The so-called digital motion-capture technique has never 
+been used for an entire 24-minute show, according to Bruce Johnson, 
+a former Hanna-Barbera executive who started Porchlight Entertainment 
+in Los Angeles to create children's programming. ``Jay Jay'' is a 
+joint venture of Porchlight, Chris Walker's Modern Cartoons and the 
+character's creator, David Michel, a Dallas executive who hopes to 
+convert the airplane stories he made up for his son into a licensing 
+franchise. Digital motion-capture technology has existed for a decade, 
+but its use has been limited to a single virtual character for video 
+or CD-ROM games and for special effects in feature films, such as 
+the figures who dangled from ropes in ``Titanic.'' Animated films 
+like ``Antz'' from Dreamworks SKG and ``Toy Story'' from Walt Disney 
+get their three-dimensional quality through the costly, time-consuming 
+process of adding realistic lighting and backgrounds by computer. 
+Motion-capture makes animation more affordable by speeding production 
+and lowering costs; it also improves production values by giving characters 
+the humanistic qualities animators strive for, said Joan Collins Carey, 
+a visual-effects producer who is assembling a documentary on computer 
+animation. ``The direction Chris is going is leading the rest of the 
+industry,'' she said. ``This is very good for studios that want to 
+kick out content.'' To orchestrate all the ``Jay Jay'' elements _ 
+seven character performers, two walk-on live-action characters, miniature 
+sets and seven model airplanes _ meant spending $1 million during 
+the last year converting a missile plant in Oxnard, Calif., into a 
+studio. Proprietary software that synchronizes 35 Compaq Alpha NT 
+computers does the job. Like a situation comedy, ``Jay Jay'' uses 
+several cameras that shift the audience's point of view. ``We're shooting 
+11 minutes of production animation a day,'' said Douglas Rask, the 
+show's producer. ``It's a volume unheard of in animation.'' Modern 
+Cartoons falls short of the Holy Grail of animation: the simulation 
+of human motion naturally. ``Jay Jay'' characters rely only on actors' 
+faces; their bodies are airplanes. But Walker thinks the show has 
+achieved a breakthrough. ``We've industrialized cartoon production 
+with motion-capture,'' he said. ``I've been working toward this for 
+12 years.'' The cable network, owned by Discovery Communications and 
+distributed to 70 million homes, has licensed 26 episodes for each 
+of three years. The partners hope to turn a profit by selling foreign 
+broadcast rights and merchandising. It's a path well trod by characters 
+like Barney and Teletubbies, and ``Jay Jay'' has an advantage they 
+lacked. Even before his first regular series, the character was well 
+known to the preschool set. In the last four years, his creator, Michel, 
+has sold 250,000 ``Jay Jay'' videos that featured some of the same 
+production techniques, mostly using direct-response advertising on 
+two children's cable channels, Viacom's Nickelodeon and Time Warner's 
+Cartoon Network. The Learning Channel ``is not a destination point 
+for preschoolers,'' Michel said. ``They've made a big commitment in 
+giving us a time slot.'' 
+</TEXT>
+</DOC>

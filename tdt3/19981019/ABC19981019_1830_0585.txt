@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981019.1830.0585 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Nigeria, more than 500 people have died as a result of a ruptured 
+fuel pipeline that caught fire over the weekend. It's still smoking 
+today. It was sparked by skafen jers who poked holes in the pipeline 
+to siphon off fuel. 
+</TEXT>
+</DOC>

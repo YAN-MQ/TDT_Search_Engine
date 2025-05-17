@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981222.2000.1529 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow Jones Industrials picked up 56 points to finish the day today 
+at 9,044. The NASDAQ lost 17 points to close at 2,121. 
+</TEXT>
+</DOC>

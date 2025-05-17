@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981116.1130.0985 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow industrials starting the week with a bang, soaring past the 
+9000 mark for the first time since July. Investor optimism ahead of 
+tomorrow's federal reserve meeting. NASDAQ composite is gaining 18 
+points. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981013.1130.0370 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The American medical community is urging patients to tell their doctors 
+what dietary supplements they are taking. Some herbal medicines can 
+interact with prescription drugs. Germany is supplying much of the 
+data on herb/drug interactions to U.S. doctors in two new handbooks. 
+Herbs are sold as prescription drugs in Germany. On another front, 
+there is an effort under way in the United States to test herbal medicines 
+for their active ingredients to try and ensure uniform potency. 
+</TEXT>
+</DOC>

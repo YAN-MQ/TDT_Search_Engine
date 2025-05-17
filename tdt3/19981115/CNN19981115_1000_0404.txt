@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981115.1000.0404 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Traffic jams aren't just a big-city problem anymore. Researchers for 
+the Texas transportation institute say their study of the 70 largest 
+urban areas shows Los Angeles is still the most gridlocked city. But 
+roadway congestion in small and medium-sized cities is growing at 
+a Much faster rate than in big urban areas. Commuters in small and 
+medium-sized cities are spending four times as long in traffic as 
+they did in 1982. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981029.1130.0109 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is on his way to join the lengthy list of dignitaries 
+expected at the Kennedy space center. He'll be the first president 
+since Nixon to watch a space launch. While in Florida, the president 
+also plans to attend several fund-raisers in palm beach. 
+</TEXT>
+</DOC>

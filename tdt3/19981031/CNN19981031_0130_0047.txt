@@ -1,0 +1,49 @@
+<DOC>
+<DOCNO> CNN19981031.0130.0047 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"CNN Headline News." From Atlanta, I'm David Goodnow. NASA is investigating 
+why an aluminum panel fell off space shuttle "Discovery" during launch. 
+Mission controllers say the mishap could have been disastrous, and 
+they want to know if the missing piece will have a safety impact when 
+the shuttle lands next week. In space Friday, the shuttle crew, including 
+John Glenn, began its experiments. Tony Clark reports. The first full 
+day on orbit was a busy one for the crew of "Discovery" -- setting 
+up experiments like the advanced gradient heating furnace, designed 
+to create alloys in microgravity, as well as a system designed to 
+grow crystals in space, and trying out an electronic nose, a Device 
+to check for various gases in the shuttle. There are also a number 
+of medical experiments under way on the astronauts themselves. What 
+I've been involved with here is a body core temperature measuring 
+device, where I take a pill about the size of the biggest vitamin 
+pill you ever saw, and it monitors my -- monitors my core body temperature 
+and it's recorded on a little device that you can see right here on 
+my waist. Friday, the crew unhooked the shuttle's remote manipulator 
+arm and slowly maneuvered it up and around, in preparation for Sunday's 
+deployment of the Spartan satellite. The arm will be used to lift 
+a satellite out of the shuttle's payload bay and leave it in space 
+for two days of observations of the sun's corona. Just about 40 seconds 
+away from deploy of pansat. The astronauts also deployed the Navy's 
+small pansat communications satellite. It will be used for educational 
+purposes by the naval postgraduate school in California. The satellite 
+will be used as a space bulletin board, very similar to e-mail except 
+it uses amateur radio. There also was a bit of nostalgia, as the shuttle 
+orbited 343 miles above earth. Residents in perth, Australia, turned 
+on all the lights in town, just as they did 36 years ago when John 
+Glenn passed over in his Mercury capsule. And once again, Glenn was 
+able to look down and see Australia's city of lights. We got a good 
+view of perth, a nice glow. And it's spread out. And it's been a long 
+time ago I looked at the same thing from a little lower altitude, 
+but it looks beautiful up here, and you can pass that along to the 
+people of perth. Everything appears to be running smoothly on "discovery." 
+NASA engineers are still trying to figure out why the door covering 
+"Discovery's" drag chute fell off during launch. They believe the 
+chute is still packed in its compartment and will not affect the mission 
+or the landing. The only other real problem the shuttle has experienced 
+has been a leaky hose in a drinking water system that was being tested. 
+The astronauts changed back to their old water processor, so all in 
+all, this shuttle mission has gotten off to an excellent start. Tony 
+Clark, CNN, Johnson space center. 
+</TEXT>
+</DOC>

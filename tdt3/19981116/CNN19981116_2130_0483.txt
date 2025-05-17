@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981116.2130.0483 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. Later -- why many satellite 
+operators around the world will be keeping their fingers crossed tomorrow. 
+</TEXT>
+</DOC>

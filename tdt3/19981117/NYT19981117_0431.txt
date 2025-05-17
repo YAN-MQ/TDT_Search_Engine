@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> NYT19981117.0431 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+At the request of President Clinton, the ethical implications of creating 
+hybrid human-cow cells were discussed by the National Bioethics Advisory 
+Commission at its meeting Tuesday in Miami, but at least in the public 
+portion of their discussion, none of the commissioners voiced concern 
+about the creation of the hybrid cells. Clinton requested the discussion 
+last week in a letter to the commission's chairman, Dr. Harold Shapiro 
+of Princeton University. Clinton said he was ``deeply troubled'' by 
+news that Advanced Cell Technology, a small biotechnology company 
+in Worcester, Mass., had created the hybrid cells. The company proposes 
+to use the technique to take any body cell from a patient, return 
+it to its embryonic form and use it to grow any of a variety of body 
+tissues for possible transplant back into the patient. One advantage 
+of the technique is that the patient would receive tissues made from 
+his own cells. Another is that no cells would be taken from human 
+embryos or fetuses. Noting that scientists had been fusing together 
+cells of different origin for years, Dr. David Cox of Stanford University, 
+a member of the commission, said, ``We should tell the president there 
+is nothing new in cells fused from different eggs.'' The hybrid cow-human 
+cells consist of the nucleus of a human cell inserted into a cow egg 
+whose own nucleus has been removed. Factors in the cow egg are thought 
+to make the human cell nucleus revert to its embryonic form. Because 
+the proteins of a cell turn over rapidly, the cow proteins are expected 
+to be rapidly replaced by human proteins. The mitochondria of the 
+cell, however, are likely to remain cowlike, giving rise at least 
+initially to cells that are not wholly human. An outside expert who 
+spoke to the commission by telephone, Ralph Brinster, a physiologist 
+at the University of Pennsylvania, said of the cow-human hybrid cell, 
+``Most scientists would not regard it as a chimera.'' Chimeras are 
+animals made from the cells of two different individuals by injecting 
+the embryonic cells of one into the embryo of another. Making human 
+chimeras is widely regarded as unethical. Dr. Michael West, president 
+of Advanced Cell Technology, attended the commission's meeting and 
+was invited speak. In response to questions, he said he did not believe 
+the cells formed in his procedure, called embryonic stem cells, were 
+capable of forming a fetus if transferred to a uterus, something he 
+said he had no intention of doing. Asked how he would prevent the 
+technique from being misused, such as in cloning a person, he suggested 
+that the cloning of humans should be made a crime. The commission 
+members said they would draft a reply to Clinton. 
+</TEXT>
+</DOC>

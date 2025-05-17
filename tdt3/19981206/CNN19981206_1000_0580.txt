@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981206.1000.0580 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended forecast for more than 7,000 cities can be found on your 
+PC, the address is CNN.com. 
+</TEXT>
+</DOC>

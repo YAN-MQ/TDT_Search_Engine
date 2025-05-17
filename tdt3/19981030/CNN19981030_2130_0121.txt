@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981030.2130.0121 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It was a strong day on Wall Street capping a strong week and a strong 
+month. The Dow rose 97 points to close at 8592 a 15% rebound in just 
+three weeks. We'll review the numbers again in "consumer news." 
+</TEXT>
+</DOC>

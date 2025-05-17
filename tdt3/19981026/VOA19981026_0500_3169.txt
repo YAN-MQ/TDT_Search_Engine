@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981026.0500.3169 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And Japan's Fuji Bank says it has set up a virtual bank on the Internet. 
+Teaming up with three other financial firms, Fuji and its partners 
+will offer savings accounts, loans and market endowment insurance. 
+That's the latest in financial news. I'm Victor Vidi. 
+</TEXT>
+</DOC>

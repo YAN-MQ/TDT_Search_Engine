@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> VOA19981103.0500.1260 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Microsoft Chairman Bill Gates is again denying charges by the U.S. 
+government that his gigantic computer company used its considerable 
+influence to eliminate competitors. During testimony Monday, the vice 
+president for Software Engineering at Apple Computer testified that 
+Microsoft was threatening to withdraw its technical support for the 
+popular business software known as Office Suite if Apple would incorporate 
+Microsoft's Internet browser into its computer operating system. Prosecutors 
+asked Mr. Gates about a memo allegedly sent to him by colleague Don 
+Bradford. The Justice Department says the note discussed how Microsoft 
+could work through Apple to frustrate Netscape's success. Questioned 
+by prosecutors about the memo, Mr. Gates gave a curt denial. Was it 
+your understanding in February of 1998 that Microsoft was trying to 
+get Apple to do something to disadvantage Netscape? no. Do you know 
+why Mr. Bradford would have written it in February of 1998 and sent 
+a copy to you? I'm not sure. The Microsoft anti-trust trial is in 
+its third week. The proceedings are expected to continue here in Washington 
+for at least three more weeks. 
+</TEXT>
+</DOC>

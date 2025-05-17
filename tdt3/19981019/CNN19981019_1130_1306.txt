@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981019.1130.1306 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An arbitrator will rule on the NBA players' grievance regarding guaranteed 
+contracts today. The union claims that players with guaranteed contracts 
+must be paid during the lockout. The NBA contends its decision not 
+to pay players is entirely legal during a Work stoppage. 
+</TEXT>
+</DOC>

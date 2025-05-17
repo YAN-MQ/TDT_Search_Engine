@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981129.1600.1283 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Indianapolis lost in Baltimore. The Ravens came back in the Colts 
+first trip to Baltimore. 
+</TEXT>
+</DOC>

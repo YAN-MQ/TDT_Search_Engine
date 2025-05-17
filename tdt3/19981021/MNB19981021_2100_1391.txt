@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> MNB19981021.2100.1391 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In business news, the antitrust trial against Microsoft continued 
+in a Washington courtroom today. Lawyers cross-examined the C.E.O. 
+of Netscape about his claims that Microsoft somehow tried to Bully 
+the smaller company in dividing up the lucrative browser market. Net 
+scape said Microsoft threatened to drive it out of business. Microsoft, 
+as part-owner of MSNBC cable network, says it did nothing illegally. 
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> NYT19981209.0315 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The easiest way to create a free home page is through community sites 
+like www.tripod.com, www.geocities.com or www.angelfire.com. America 
+Online and most other Internet service providers also offer free home 
+pages. But your free personal Web site will probably have a complicated 
+address and be only a few megabytes. And your host will probably put 
+ads on your pages. But you can register an available domain name at 
+internic.net for an annual fee of $75, as I did. ISPs like Earthlink, 
+AT&AMP;T Worldnet and Mindspring will do all of the above for you 
+for a monthly fee starting around $20. To design the site, software 
+tools are available through community sites. I used Microsoft Frontpage 
+($140) and bought the book ``Frontpage 98, Fast and Easy,'' by Coletta 
+Witherspoon (Prima Publishing, $16.99). An inexpensive way to spice 
+up your Web site with pictures is to scan in ordinary photographs, 
+which can be done at many copying centers or photo-processing shops. 
+Digital audio is a nice addition and relatively accessible; to use 
+the one built into Windows, go to Programs, then Accessories, then 
+Multimedia, then Sound Recorder. Keep the sound clip short, save the 
+file, and add it to your site. I rigged our Web site to open with 
+my son's voice saying, ``Welcome to my Web site.'' 
+</TEXT>
+</DOC>

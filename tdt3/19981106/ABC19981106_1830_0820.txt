@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981106.1830.0820 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+California has taken an important step toward cleaner air. As of the 
+year 2004, the state air resources board will require all new sport 
+utility vehicles, pick-UPS and minivans meet the same tough emissions 
+standards as cars. 
+</TEXT>
+</DOC>

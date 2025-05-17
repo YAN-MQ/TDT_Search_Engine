@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> VOA19981106.0500.2869 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Finally, researchers from the University of North Carolina at Chapel 
+Hill have discovered a new set mechanism for our circadian body clocks. 
+These clocks, driven by light and darkness, calibrate the 24-hour 
+rhythms of our bodies. These were once thought to be set by pigments 
+in the eye's retina. So how do blind people manage? In the "Proceedings 
+of the National Academy of Sciences," the researchers described a 
+new set of light-sensitive pigments found in cells all over the body 
+that send circadian signals to the brain. So sightless or not, we 
+all march to the same drummer. Well, that's it for today. I'm Brian 
+Sislack, inviting you to join me next time for another edition of 
+Science World. 
+</TEXT>
+</DOC>

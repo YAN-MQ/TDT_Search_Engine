@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981022.1830.0719 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In California today, the autopsy results for Olympic gold medal winner 
+florence Griffith-Joyner, who died last month. The coroner said she 
+suffocated during an epileptic seizure that occurred while she was 
+sleeping. There were no unusual drugs in her body. 
+</TEXT>
+</DOC>

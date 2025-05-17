@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981211.0130.0916 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The first astronauts have entered the international space station. 
+The crew of space shuttle "endeavour" will continue its work on the 
+station this week. A third and final space walk is scheduled for Saturday. 
+</TEXT>
+</DOC>

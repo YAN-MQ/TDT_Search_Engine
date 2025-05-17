@@ -1,0 +1,95 @@
+<DOC>
+<DOCNO> NYT19981102.0196 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Although eclipsed by the attention given John Glenn's return to space, 
+the crew of the shuttle Discovery is conducting one of the most ambitious 
+and diverse programs of scientific and commercial research yet attempted 
+on a nine-day mission. Along with the aging-related research involving 
+Glenn, the seven-member crew is methodically working through scores 
+of experiments ranging from solar physics and astronomy to the design 
+of new drug delivery systems, studies of artificial bone, and testing 
+insulation material for the construction industry. A major event planned 
+for Tuesday is the recovery of the Spartan solar observation spacecraft, 
+which was released from the Discovery on Sunday for two days of studies 
+centering on the Sun's hot, outermost layer, the corona. The 3,000-pound 
+Spartan has been trailing the Discovery by about 30 miles. It is to 
+be snared by the shuttle's robot arm and returned to Earth in the 
+orbiter's cargo bay. Glenn is being poked and prodded during the mission 
+because of similarities between what happens to astronauts in space 
+and bodily changes due to age, like loss of bone and muscle mass, 
+greater susceptibility to infection and sleeping difficulties. The 
+experiments require him to provide 10 blood samples and 16 urine samples 
+while in space. Speaking from the shuttle on Sunday, Glenn said he 
+did not like being stuck with needles and tried to avoid Dr. Scott 
+Parazynski, the crewmate responsible for most of the blood collection, 
+whom the senator sometimes calls ``Igor'' or ``Count Dracula.'' ``As 
+much as I like Discovery, there's no place to hide when he comes after 
+me,'' Glenn remarked. The bloodletting is part of a ``protein turnover'' 
+experiment to study muscle wasting by tracking protein building and 
+breakdown. Data are collected in six three-day sessions held before, 
+during and after the flight. Each session, including two in space, 
+requires five blood samples each taken from the 77-year-old senator 
+and a fellow crew member, 35-year-old Pedro Duque. In order to track 
+the formation of new protein from amino acids, both men take capsules 
+of alanine, an amino acid tagged with a special molecule that can 
+be found in newly built protein. Simultaneously, the subjects intravenously 
+receive another tagged amino acid, histidine, which measures protein 
+breakdown. Along with blood, urine samples will also be returned to 
+Earth, where the tagged molecules will be measured. In addition, Glenn 
+and another crewmate, Dr. Chiaki Mukai, 46, are doing sleep studies 
+by wearing specially instrumented suits and caps to measure breathing, 
+chest expansion, eye movement and brain waves when they go to bed. 
+Most of the Discovery's crew members either conduct or take part in 
+long hours of research, with little free time. And these undertakings 
+do not include some experiments that require little or no human attention, 
+like work on an electronic nose for detecting toxic compounds. The 
+nose is a three-pound box full of chemical sensors connected to a 
+small, palmtop computer. The sensor array, developed by NASA and California 
+Institute of Technology researchers, is designed to detect a variety 
+of gases and gas mixtures by mimicking the way the human nose detects 
+changes in the air. Because astronauts in the confines of the planned 
+international space station must breathe filtered and recycled air, 
+researchers say they need a monitoring system that detects the accumulation 
+of potentially harmful gases before they become a problem. Many of 
+the more than 80 experiments aboard the Discovery are housed in a 
+pressurized laboratory in the cargo bay that is connected to the shuttle's 
+crew quarters by a tunnel. This laboratory, privately owned and operated 
+by Spacehab Inc., of Vienna, Va., contains research like an experiment 
+with aerogel, the lightest solid known. Aerogel, which has a hazy 
+blue appearance, is a porous material so light and ethereal that it 
+has been nicknamed frozen smoke. Tests show that a single window pane 
+of aerogel has the insulation properties of up to 30 panes of glass 
+and trapped air. If this material can be made transparent, perhaps 
+by modifying under weightless conditions the size or uniformity of 
+pores that compose most of it, aerogel could revolutionize the thermal 
+window industry, scientists at the space agency say. Spacehab also 
+houses a bioreactor, a device that allows cell cultures to be grown 
+in space in rotating cylinders. Astronauts are tending several experiments 
+for growing human cells, including research into making artificial 
+and synthetic material more acceptable for human implantation by seeding 
+it first with bone cells. This work, researchers said, could lead 
+to synthetic bone to repair limbs damaged by accidents or for dental 
+reconstruction. Other experiments, like the Hubble Space Telescope 
+Orbital Systems Test, or HOST, developed by NASA's Goddard Space Flight 
+Center in Greenbelt, Md., are in the shuttle's open cargo bay. A platform 
+in the bay contains several instruments and devices tentatively scheduled 
+to be installed on Hubble during its next servicing mission in the 
+year 2000, said Rud V. Moe, payload coordinator at Goddard. The Discovery 
+is flying at an altitude of about 340 miles, twice the normal shuttle 
+orbit, mainly so the HOST package is exposed to conditions normally 
+found at Hubble's elevation. The instruments include a faster computer 
+with more memory to control the telescope's operations and a solid-state 
+data recorder that will back up a similar device installed two years 
+ago in place of Hubble's original mechanical tape recorder. HOST is 
+also demonstrating a mechanical refrigeration system that could cool 
+detectors on Hubble's Near Infrared Camera and Multi-Object Spectrometer, 
+a valuable instrument that is no longer working because it has exhausted 
+its supplies of super-cold liquid coolants stored in pressurized bottles. 
+The instrument requires cool detectors to measure the heat of distant 
+objects. The new system, if shown to work in space, could extend the 
+operation of the infrared instrument for more than five years, Moe 
+said. 
+</TEXT>
+</DOC>

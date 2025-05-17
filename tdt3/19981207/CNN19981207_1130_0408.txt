@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981207.1130.0408 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Scientists are getting a good look at the first close-up pictures 
+of the North Pole of Mars, sent back by the Mars global surveyor spacecraft. 
+They say the pole looks unlike anything they've ever seen, with smooth 
+slopes in some places, deep Gorges and steep cliffs in others. But 
+it's also smaller and holds less water than expected. Other geologic 
+features suggest Mars may have once had a big ocean, although the 
+Martian North Pole doesn't have enough water to fill one. Still, scientists 
+say because the polar ice is made of water, there is hope of finding 
+traces of ancient life. 
+</TEXT>
+</DOC>

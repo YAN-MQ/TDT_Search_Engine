@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981230.1130.0483 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+Bitterly cold Arctic air continues to funnel in through the midwest, 
+dropping temperatures and will be moving into the east today behind 
+the arctic front. By late tomorrow, we are looking for high pressure 
+to be centered in the midwest. That will continue to bring the cold 
+temperatures in, while the northwest has another storm system set 
+to move inland. That will keep things stormy in much of the northwest. 
+Forecast temperatures today are again below zero for highs in parts 
+of northern Minnesota and into North Dakota. Single-digit readings 
+cover the western Great Lakes, while we watch the colder air even 
+funneling into the southeast. A look now at the extended forecast 
+-- on Friday, we expect a storm to develop back through the plains. 
+That will spread snow through the central and northern plains. Rain 
+and thunderstorms further to the south. Temperatures will be on the 
+cool side over much of the northern U.S. as we head into Saturday, 
+could see significant snows over parts of the midwest, as low pressure 
+moves up towards the Ohio river valley. Rain and thunderstorms along 
+the gulf coast. Snow is expected through much of the Great Lakes during 
+the day on Sunday. For more weather information, log into CNN.com. 
+</TEXT>
+</DOC>

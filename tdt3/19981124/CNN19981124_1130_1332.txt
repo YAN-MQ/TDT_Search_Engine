@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981124.1130.1332 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And in case you missed it, the Atlanta Braves signed free agent outfielder 
+brian Jordan to a five-year, $40 million deal. Rob Ticktin, "CNN Headline 
+Sports." 
+</TEXT>
+</DOC>

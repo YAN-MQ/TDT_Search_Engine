@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981028.1600.0509 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Thursday. As one cold front pushes into the plains states 
+with rain and thunderstorms, a second, right behind it, will spread 
+another round of rain and mountain snow showers across the Rockies, 
+with some windy conditions, as well. A front pushing into the northwest 
+will spread some rain showers that way, while across the northeastern 
+U.S., it'll be cool and windy with a chance of some showers. Highs 
+on Thursday through that region, just in the 40s. We'll see 30s and 
+40s from the northern Rockies to the northern plains, but still mild 
+across the south, plenty of 70s and 80s. Looking ahead to Friday, 
+showers and storms push eastward through the southwest, with snow 
+in the rocky mountains. We'll see windy weather and showers across 
+the northeast, as well. For Saturday, showers and storms through the 
+plains, more rain showers in the northwest, and then Sunday, showers 
+northeast, northwest, showers and storms through the plains, and cool 
+across the northern Great Lakes. Don't forget, you can find four-day 
+forecasts for 7,200 cities on CNN interactive at CNN.com. 
+</TEXT>
+</DOC>

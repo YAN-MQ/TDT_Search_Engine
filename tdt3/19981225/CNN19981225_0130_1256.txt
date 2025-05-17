@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981225.0130.1256 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Duane Walker, "CNN Headline Sports." NBA officials have penned January 
+7th as the date it will cancel the season if an agreement is not reached. 
+It would be the first time a major pro sports league has had to cancel 
+its entire season for any reason. 
+</TEXT>
+</DOC>

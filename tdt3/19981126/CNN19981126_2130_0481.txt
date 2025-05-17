@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981126.2130.0481 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News" forecast. Lingering snow and rain in the northwest 
+behind a winter storm system that caused very high winds along the 
+west coast yesterday. Into the evening, that area of low pressure 
+causing rain and snow in the northeast begins to push into Maine and 
+southern Canada. The front associated with it pushes out to sea. While 
+most of the nation will see beautiful weather, a dry front pushing 
+into the Great Lakes by Friday evening, more snow and rain on the 
+way for the northwest as a trough precedes another winter storm system 
+into the northwestern U.S. high temperatures on Friday in the 30s 
+for New England, the northern Rockies, otherwise, very warm in the 
+south. 70s with 80s in southern Texas. Your extended forecast shows 
+those warmer temperatures on Saturday. Rain and snow throughout the 
+western third of the country. Windy in the northern plains. On Sunday, 
+rain and snow in the northwest. Showers from the four corners region 
+into Missouri with showers over the Great Lakes. On Monday, we'll 
+see snow in the Great Lakes turning into showers. As you push toward 
+the gulf coast, rain and snow continuing in the northwest. Remember, 
+you can get your four-day forecast for more than 7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

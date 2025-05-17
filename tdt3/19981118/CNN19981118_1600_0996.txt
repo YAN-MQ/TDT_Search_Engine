@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981118.1600.0996 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After a lackluster morning, the Dow industrials managed to edge past 
+the 9000 Mark. 
+</TEXT>
+</DOC>

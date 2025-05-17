@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981214.1600.1368 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"The NFL performance of the week" goes to Kent Graham, the giants 
+quarterback was 21-33 for 265 yards and two touchdowns, as New York 
+shocked denver, 20-16. The win snapped the Broncos' 18-game winning 
+streak, and shut down their bid for a perfect season. 
+</TEXT>
+</DOC>

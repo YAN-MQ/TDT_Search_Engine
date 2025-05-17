@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981228.1600.2129 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street, US share prices closed mixed, Monday. The Dow Jones 
+Industrial Average was up nine points, closing at 9227, while the 
+broad market indicator the Standard and Poor's 500 was down just one 
+point at 1225. I'm Robert Burns, VOA News. 
+</TEXT>
+</DOC>

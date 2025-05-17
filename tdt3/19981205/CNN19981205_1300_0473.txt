@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981205.1300.0473 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Mercury topped out at 37 degrees in the northwest territories 
+of Canada yesterday. And some residents say that's too hot. The normal 
+high for this time of year up there is three below. Seal and caribou 
+hunters say the weather is keeping them off the ice. The warmth is 
+not limited to Canada. On the east coast of the United States, the 
+highs have been about 30 degrees warmer than average. 
+</TEXT>
+</DOC>

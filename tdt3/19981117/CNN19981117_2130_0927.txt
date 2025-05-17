@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981117.2130.0927 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And it appears the Leonid meteor shower has not damaged any of the 
+600 satellites circling earth. 
+</TEXT>
+</DOC>

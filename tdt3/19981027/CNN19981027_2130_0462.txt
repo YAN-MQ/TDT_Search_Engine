@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981027.2130.0462 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new study finds low expectations and social pressure can result 
+in low iq scores. Researchers at the University of Iowa divided students 
+into several groups. Before giving the test, researchers told some 
+right-handed students that right-handers did not score well on iq 
+tests, and those who did score well were resented. Researchers told 
+some left-handed students the same thing about left-handers. The students 
+who were told they would score lower did. Researchers say this could 
+explain certain discrepancies in test scores. The study suggests that 
+members of minority groups are more likely to have negative expectations 
+for a positive performance. In other words, if people expect to be 
+punished in some way for getting a High score, then they're lakely 
+to score lower on the test. The study is published in the American 
+journal of sociology. 
+</TEXT>
+</DOC>

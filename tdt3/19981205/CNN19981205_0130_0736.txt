@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981205.0130.0736 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Top stories are next. And later, in consumer news, capitalism meets 
+the classroom. How advertisers are making their way onto school computers. 
+Another nokia discovery: small words are hard to read. Which is why 
+at nokia we makes wireless phones with screens that are... big. So 
+they're easier to read. Inspired technology with a human touch. 
+</TEXT>
+</DOC>

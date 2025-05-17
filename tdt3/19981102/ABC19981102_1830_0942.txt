@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981102.1830.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a first -- the mutual fund state street global advisors, has 
+been granted a patent for a computerized stock-picking technique. 
+It uses complex equations to figure out the best stocks to buy. Rivals 
+say state street hasn't cornered the market on the market, but may 
+be trying to make investors believe it knows something others don't. 
+</TEXT>
+</DOC>

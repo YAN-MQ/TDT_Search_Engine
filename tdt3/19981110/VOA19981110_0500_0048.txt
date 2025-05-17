@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981110.0500.0048 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+President Clinton has been questioned by the U.S. Justice Department 
+in a preliminary probe into whether he benefited illegally from political 
+advertisements in the 1996 elections. I'm Francis Alonzo, VOA News. 
+</TEXT>
+</DOC>

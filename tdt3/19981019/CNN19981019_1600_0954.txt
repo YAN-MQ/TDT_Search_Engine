@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981019.1600.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Mr. Clinton has offered federal disaster assistance to victims 
+of weekend floods and tornadoes in Texas. The storms have claimed 
+the lives of 14 people. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981212.0130.1357 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In baseball news, the Cincinnati reds bolstered their pitching staff 
+by signing lefty Steve Avery to a one-year $1.5 million deal. Duane 
+Walker "CNN Headline Sports." 
+</TEXT>
+</DOC>

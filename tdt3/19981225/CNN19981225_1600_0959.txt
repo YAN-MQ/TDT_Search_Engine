@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981225.1600.0959 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Those stories and more in 15 minutes. It's a quiet day on Wall Street 
+since the stock market is closed for the christmas holiday. There 
+is still some consumer news to tell you about. Let's go to New York. 
+</TEXT>
+</DOC>

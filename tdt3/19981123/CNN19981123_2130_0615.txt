@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> CNN19981123.2130.0615 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A house committee has given the federal government a "D" for its overall 
+efforts to correct the year 2000 bug. Rick Lockridge explains why 
+in this edition of "tech trends." How you been doing, you been feeling 
+all right? He's fine. But Medicare officials and a lot of other government 
+types might feel distinctly unwell after seeing a congressional report 
+card on the year 2000 computer problem. All of them cannot continue 
+to act as though the problem is going to solve itself. Horn's technology 
+subcommittee assigned letter grades to some 24 government agencies 
+based on the agencies' own progress reports. He says the fact that 
+there are still so many "Cs," "Ds" and "Fs," proves that the problem 
+is more a lack of leadership than a lack of computer skills. It is 
+a management problem, not just a technical problem. Only three government 
+agencies earn "As" on horn's card -- the small business administration, 
+the social security administration and the national science foundation. 
+Among the laggards -- education, transportation, defense. Failing 
+-- justice, energy, health and human services -- the agency that runs 
+Medicare. Horn says some agencies, like the FAA, show signs of improvement 
+but still have a lot of work to do before the public will feel confident 
+about Y2K day. I told Mrs. garvey, the administrator, that I'd be 
+happy to ride on a plane on January 1st, provided she was on it also. 
+Some other agencies, such as the department of energy, draw horn's 
+scorn. After all, who wants an "F" managing nuclear materials? The 
+one agency many Americans probably wish would succumb to the bug is 
+the IRS. But the agency is among a passing, if unimpressive, group, 
+getting "Cs" and "ds." Only a couple of semesters left to bring those 
+Cs and Ds up, for as horn, the Stern schoolmaster, says, the final 
+exam will be pass/fail. Rick Lockridge, CNN, Washington. 
+</TEXT>
+</DOC>

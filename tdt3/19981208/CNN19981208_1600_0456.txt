@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981208.1600.0456 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers say bartenders in California are breathing a little easier 
+since a law went into effect last January that prohibits smoking in 
+bars. A study of 53 bartenders in San Francisco indicates the reduction 
+in their exposure to secondhand smoke has led to improved lung function 
+and overall respiratory health. The study is published in "the journal 
+of the American medical association." 
+</TEXT>
+</DOC>

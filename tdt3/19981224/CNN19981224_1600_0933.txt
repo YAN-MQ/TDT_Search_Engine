@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981224.1600.0933 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Let's get you caught up on the top stories. Across much of the U.S., 
+motorists are battling wintry driving conditions. Dozens of people 
+have been killed in crashes on roads covered with ice and snow. 
+</TEXT>
+</DOC>

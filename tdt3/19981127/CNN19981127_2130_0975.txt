@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981127.2130.0975 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stock traders worked only half a day today. Interest in oil and Internet 
+stocks helped push up the Dow Jones industrial average 18 points to 
+close at 9333. 
+</TEXT>
+</DOC>

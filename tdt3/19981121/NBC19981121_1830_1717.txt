@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981121.1830.1717 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's "NBC nightly news" for this Saturday. I hope to see you weeknights 
+on the news on cable at 9:00 eastern on MSNBC and again on CNBC each 
+night at 10:00. A Curry will be here tomorrow. I'm Brian Williams 
+reporting tonight from New York. Good night. broadcasting company, 
+Inc. 
+</TEXT>
+</DOC>

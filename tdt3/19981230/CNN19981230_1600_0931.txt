@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981230.1600.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- U.S. fighter jets launched missiles and 
+laser-guided bombs at an Iraqi air defense station today. U.S. and 
+British military officials say the planes responded after Iraq fired 
+at British fighters in the southern no-fly zone over Iraq. 
+</TEXT>
+</DOC>

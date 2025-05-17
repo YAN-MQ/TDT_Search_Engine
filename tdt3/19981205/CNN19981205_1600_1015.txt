@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981205.1600.1015 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Boeing, which had already said it would eliminate 28,000 jobs, announced 
+plans to slash 20,000 more. In all, the world's largest commercial 
+aircraftmaker is reducing its workforce by some 20% over the next 
+two years, as the Asian economic crisis forces it to cut production. 
+The first pink slips went out this week. And Johnson & Johnson, amid 
+a major sales slump, said it's eliminating 4,100 jobs, more than 4% 
+of its workforce, and closing 36 factories. Amid all that, some surprising 
+good news on unemployment -- the labor department reported this week 
+the jobless rate fell to just 4.4% in november. 
+</TEXT>
+</DOC>

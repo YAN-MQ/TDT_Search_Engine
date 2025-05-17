@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981109.1600.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a look at our top stories -- the house subcommittee is hearing 
+from lawyers and scholars to determine if President Clinton's actions 
+in the monica Lewinsky case warrant impeachment. Next week the full 
+Judiciary committee will open an inquiry against Mr. clinton. 
+</TEXT>
+</DOC>

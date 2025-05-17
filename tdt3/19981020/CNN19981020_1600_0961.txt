@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981020.1600.0961 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the rain is letting up in south Texas, but the damage is done. 
+The guadalupe river continues to crest at record levels, causing severe, 
+widespread flooding. 
+</TEXT>
+</DOC>

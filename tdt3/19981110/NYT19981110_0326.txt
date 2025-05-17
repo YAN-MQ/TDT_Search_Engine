@@ -1,0 +1,123 @@
+<DOC>
+<DOCNO> NYT19981110.0326 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Two large drug companies say they have developed a new class of drugs 
+that can relieve pain and inflammation without the gastrointestinal 
+side effects of current drugs. The companies, G.D. Searle and Co., 
+a division of Monsanto Co., and Merck and Co. reported results of 
+tests of the new drugs Tuesday in San Diego at the annual meeting 
+of the American College of Rheumatology. It remains to be seen if 
+the results will hold up in further tests, or if the Food and Drug 
+Administration will accept the companies' claims for the drugs. But 
+the companies said low doses of the new drugs appeared to be as effective 
+in relieving pain and inflammation as the highest doses of nonsteroidal 
+anti-inflammatory drugs, like ibuprofen and dicolfenac. They reported 
+that the new drugs, called cox-2 inhibitors, do so without causing 
+stomach pain, bleeding or ulcers _ the major side effects that thwart 
+the use of the other painkillers. Drug companies have long sought 
+to discover such drugs, which would be an enormous boon to people 
+who, like those with arthritis, need to take painkillers daily. The 
+drugs have generated enormous publicity as the companies and some 
+eager doctors have hailed them as the start of a new era both for 
+patients and for the drug's makers, who stand to profit greatly if 
+the companies' claims are proven. But the meeting provided the first 
+display of the companies' results from large and long-term studies 
+of cox-2 inhibitors. The results have not yet been scrutinized independently 
+by other scientists. Yet the promise is tantalizing, the company officials 
+say, since ulcers and bleeding can be serious, even deadly, side effects 
+of current drugs. About 13 million Americans take nonsteroidal anti-inflammatory 
+drugs, according to data supplied by Merck. Of them, 76,000 are hospitalized 
+each year for ulcers caused by the drugs, and about 7,600 die from 
+those ulcers. About one in three people who take the drugs for long 
+periods end up with gastrointestinal bleeding. The large studies have 
+found no such complications with the new drugs. Searle, which is based 
+in Skokie, Ill., presented data Tuesday from a 12-week study of 1,004 
+patients with osteoarthritis who were randomly assigned to take one 
+of three doses of its drug, celecoxib, or the nonsteroidal anti-inflammatory 
+drug naproxen or a placebo. The two highest doses of celecoxib were 
+as effective as naproxen in relieving pain and inflammation, the company 
+reported, but those taking the new drug had no more gastrointestinal 
+side effects than those taking the placebo. On Dec. 1, an advisory 
+committee to the FDA will decide whether to recommend that Searle's 
+drug be approved for treating arthritis patients. Merck, of Whitehouse 
+Station, N.J., said it would send its marketing application to the 
+FDA by the end of the year. For now, scientists are finding themselves 
+in a sort of equipoise. Some are daring to hope that a new age is 
+dawning while others are cautious. ``This might be hyperbolic,'' said 
+Dr. Lawrence J. Marnett, associate director of the cancer center at 
+Vanderbilt University and a consultant to Monsanto, which is based 
+in St. Louis, ``but I think it's going to be revolutionary.'' But 
+Dr. Michael Lockshin, an arthritis expert who is director of the Barbara 
+Volcker Center at Cornell University's medical school in New York 
+City, is less comfortable making predictions. ``I'm looking at this 
+with a stand-back-and-see-where-it-goes attitude,'' he said. ``I'm 
+just not standing here with my tongue hanging out waiting for these 
+drugs.'' And Dr. James R. O'Dell, chairman of the rheumatology department 
+at the University of Nebraska Medical Center in Omaha, warned that 
+cox-2 inhibitors were not miracle drugs as safe as placebos. Aspirin 
+and similar drugs, for example, can decrease blood flow to the kidney. 
+``That problem may be lessened but may not be eliminated with cox-2 
+inhibitors,'' he said. To the scientists, cyclooxygenase was not new. 
+It was made all the time, in virtually every cell, and it was blocked 
+by aspirin and other nonsteroidal anti-inflammatory drugs. But here 
+was something they did not know: A different cyclooxygenase, abbreviated 
+cox, that was only made when cells were growing, which occurs during 
+inflammation. Because aspirin blocks inflammation and also causes 
+bleeding _ an effect that has nothing to do with cell growth _ all 
+three scientists had the same reaction. ``I immediately thought that 
+this is telling us something very exciting about aspirin and aspirin-like 
+drugs,'' said Dr. Daniel L. Simmons, director of the Cancer Research 
+Center at Brigham Young University in Provo, Utah. It meant, Simmons 
+and the other discoverers of the enzyme realized, that aspirin and 
+similar drugs might be blocking both cyclooxygenases. And if there 
+were a drug that blocked just one of the enzymes, the one that is 
+made in growing cells, if might soothe pain and inflammation, caused 
+by the proliferation of white blood cells of the immune system, without 
+causing bleeding problems and ulcers. But Dr. Simmons and the directors 
+of the other two research groups, Dr. Harvey R. Herschman, the director 
+for basic research at the cancer center at the University of California 
+in Los Angeles, and Dr. Donald A. Young, a biochemist at the University 
+of Rochester, were basic scientists, not drug developers. Drug companies, 
+however, rushed to the scene as soon as they learned what had been 
+found. Monsanto learned about Dr. Simmons' work by sheer coincidence, 
+at a seminar. Simmons was then invited to the company on April 15, 
+and two weeks later, Simmons gave Monsanto his cox-2 materials. In 
+return, Simmons said, he sought and received a two-year, $100,000 
+research grant from Monsanto. Merck's scientists got started almost 
+a year later, also learning about cox-2 by happenstance. Dr. Bennett 
+Shapiro, director of the company's basic research, met the discoverers 
+of cox-2 at a small scientific meeting that he had considered skipping. 
+Once he heard their discovery, Shapiro was stunned. He went back to 
+Merck where, he recalled, ``I said, `I really think we ought to hit 
+this hard.''' By summer, 150 scientists, virtually the entire laboratory 
+at a Merck research center in Montreal, were doing nothing else but 
+looking for drugs that most efficiently blocked cox-2. In record time, 
+Searle and Merck began testing their drugs in patients with arthritis. 
+Shapiro said the speedy time from laboratory to the FDA, six and a 
+half years, was all but unprecedented. By contrast, Shapiro said, 
+the Merck laboratory that took on the cox-2 project had spent 20 years 
+on its previous project, which culminated in the development and marketing 
+of an asthma drug. While the cox-2 studies were under way, the companies 
+realized that they might have more than just an arthritis drug on 
+their hands. ``Several bombshells hit the scientific world,'' Young 
+said. First was the observation that people who take nonsteroidal 
+anti-inflammatory drugs have about half the incidence of colon cancer 
+as those who do not take the drugs. The cox-2 inhibitors may be just 
+as effective as aspirin or similar drugs, said Dr. Raymond N. DuBois 
+of Vanderbilt. In 1993, he found that 85 percent of colon cancer tumors 
+had ramped up their production of cox-2. Merck and Monsanto are now 
+starting studies to see if cox-2 inhibitors can prevent colon cancer. 
+Other studies found that there was less Alzheimer's disease in people 
+who took nonsteroidal anti-inflammatory drugs. Merck and Monsanto 
+said they were also starting studies to determine if the drugs could 
+prevent that disease. In addition, Young said, there is hope that 
+cox-2 can prevent the breakdown of bone that occurs in osteoporosis. 
+``These would be some of the most exciting drugs of the century if 
+it all works out,'' Young said. For now, O'Dell cautioned, all that 
+can be said is that the new drugs are as effective in alleviating 
+pain and inflammation in arthritis patients as the existing nonsteroidal 
+anti-inflammatory drugs, but safer. 
+</TEXT>
+</DOC>

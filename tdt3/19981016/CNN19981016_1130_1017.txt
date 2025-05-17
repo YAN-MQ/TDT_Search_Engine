@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981016.1130.1017 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Inflation remained in check for the month of September. Falling prices 
+for gasoline and clothing helped keep the consumer price index unchanged. 
+Excluding volatile food and energy costs, the so-called "core rate" 
+inched up 0.2%. a substantial rise in medical and prescription drug 
+costs a factor there. 
+</TEXT>
+</DOC>

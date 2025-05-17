@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981014.1130.1338 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The NBA has wiped out the first two weeks of the season after yesterday's 
+labor talks ended without a settlement. Both sides are expected to 
+go back to the bargaining table later this week. 
+</TEXT>
+</DOC>

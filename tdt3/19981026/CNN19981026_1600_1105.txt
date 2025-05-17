@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981026.1600.1105 </DOCNO>
+<DOCTYPE> UNTRANSCRIBED </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Economists had predicted an increase, still sales are nearly % above 
+year ago levels. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981013.2130.0927 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- NAto is waiting to see whether Yugoslav 
+President Slobodan Milosevic will make good on his promise to end 
+his crackdown on ethnic Albanians in Kosovo. Milosevic has until Friday 
+to follow through on the agreement. 
+</TEXT>
+</DOC>

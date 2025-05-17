@@ -1,0 +1,65 @@
+<DOC>
+<DOCNO> NYT19981117.0370 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A senior IBM executive accused Microsoft Corp. Tuesday of imposing 
+contract restrictions on software developers that prevented OS/2, 
+IBM's computer operating system, from effectively competing with Microsoft 
+Windows. John Soyring, director of network computing software for 
+IBM Corp., took the witness stand Tuesday afternoon in the government's 
+antitrust suit against Microsoft. In the early 1990s, he was in charge 
+of developing OS/2. For part of that time, OS/2 was being jointly 
+developed by IBM and Microsoft as a replacement for MS-DOS, the Microsoft 
+operating system that preceded Windows. In written testimony, Soyring 
+largely blamed Microsoft for OS/2's tiny 6 percent market share. Though 
+the suit does not include complaints about Microsoft's monopoly hold 
+over personal-computer operating systems, its competitive business 
+practices are central to the case. Soyring testified that Microsoft 
+provides certain programming tools that software developers use to 
+write programs that run on Windows machines. Developers rely on those 
+tools, he said, but Microsoft forbids their use in writing software 
+for other operating systems. As a result, Soyring said, if a company 
+wants to create a version of, say, a word processing program for OS/2 
+computers, it would have to ``recreate much of the application from 
+scratch,'' making it difficult to ``justify the cost of offering the 
+application on OS/2.'' Microsoft, in a statement Tuesday, said, ``IBM 
+made decisions with its OS/2 operating system that were not well received 
+by consumers and did not make it easy for developers to make great 
+applications for their platforms.'' In November 1989, when IBM and 
+Microsoft were still collaborating on OS/2, they designed it to run 
+only on expensive computers with more memory than was typical at the 
+time. Until hardware caught up, the companies said, customers could 
+use Microsoft's new product, Windows. Eventually, however, the computing 
+world turned to Windows, and Microsoft ended its partnership with 
+IBM. The government also played a short clip from the 20-hour deposition 
+last summer of Bill Gates, chairman of Microsoft, in which he was 
+asked about Microsoft's relationship with IBM. In an e-mail message 
+last November, Gates wrote that he was unhappy with IBM because ``the 
+Java religion coming out of the software group is a big problem.'' 
+Java is the programming language created by Sun Microsystems that 
+can be used on any operating system. As in previous parts of the deposition 
+shown in court, Gates said he did not recall much about his e-mail 
+message or about other topics on which he was questioned. Gates did 
+volunteer that he had wanted IBM to stop criticizing Microsoft, adding 
+that he had ``talked about rhetoric being lowered on both sides.'' 
+Soyring _ like a previous witness, Glenn Weadock, who ended his testimony 
+Tuesday _ also said IBM saw no advantage in integrating a Web browser 
+with the company's operating system. ``Indeed,'' he said, ``integration 
+could be inefficient and disadvantageous to customers'' because it 
+could ``increase the size of the operating system and therefore the 
+size of the hardware required to run it effectively.'' As Weadock 
+finished his testimony earlier in the day, the government showed memorandums 
+and played deposition excerpts from executives of several large corporations 
+_ including Boeing, Packard Bell NEC and Gateway _ who offered similar 
+sentiments. ``Generally, Gateway wants to have flexibility on anything 
+associated with the Internet,'' Jim Von Holle, a Gateway executive, 
+wrote in an internal company memo last April. ``We want Microsoft 
+to provide us with the technology, not make decisions and choices 
+for us or our customers.'' Jon Kies, a Packard Bell NEC executive, 
+said in a videotaped deposition that ``it wouldn't make sense to have 
+two very large programs installed'' _ Microsoft's browser and another 
+that a user might choose to use instead _ ``taking up hard disk space 
+and potentially confusing customers.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981213.1600.1499 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Los Angeles film critics association has announced its picks for 
+the best of the movie industry in 1998. The Steven Spielberg war epic 
+"saving private Ryan" took the best picture award. It also won for 
+best director and cinematographer. Two women tied for best actress 
+-- Ally Sheedy, for her role as a lesbian drug addict in "higher art," 
+and Fernanda Montenegro, who played an elderly woman in "central station." 
+The best actor award went to Ian McKellen for his role in "gods and 
+monsters." 
+</TEXT>
+</DOC>

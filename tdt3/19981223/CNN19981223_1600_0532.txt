@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981223.1600.0532 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for later today. Snowfall, ice, rain, all continue in 
+parts of the southeast. Much of the nation continues in the deep freeze, 
+but it's in the south where we're seeing travel problems with slick 
+roads due to the ice associated with the moisture overriding this 
+cold air. Then as the rainfall falls through the cold air, it begins 
+to freeze. You can see it's gonna continue to be a problem right through 
+tomorrow night. Although conditions are expected to improve by tomorrow, 
+things will begin to warm just a little bit in the south. But much 
+of the nation is very cold today. As you can see, the upper midwest, 
+the plains states, in the single digits for high temperatures today. 
+We take a look at our extended forecast. You can see that things tend 
+to warm just a little bit by Friday. We move on into Saturday, and 
+a big storm continues to roll in through the northwestern portion 
+of the United States. And on Sunday, temperatures continue to moderate 
+throughout much of the nation. For more weather information, log onto 
+CNN.com. four-day forecasts, for 7,200 cities. 
+</TEXT>
+</DOC>

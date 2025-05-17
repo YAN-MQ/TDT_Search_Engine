@@ -1,0 +1,211 @@
+<DOC>
+<DOCNO> NYT19981014.0190 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Just inside the entrance of the public library here hangs a photograph 
+of the building's namesake, John Henry Faulk, a radio performer and 
+humorist famous for his uncompromising defense of free speech. Faulk, 
+who was blacklisted in the McCarthy era but sued his blacklisters 
+and won, died in 1990. Were he alive today, Faulk would no doubt shake 
+his head at the tangle over free speech in which the Faulk Central 
+Library and the Austin Public Library branches now find themselves. 
+The Austin Public Library is one of hundreds of public libraries around 
+the country grappling with the question of whether to keep objectionable 
+material on the Internet from reaching computers intended for public 
+use, and, for those libraries that have decided on blocking, how much 
+blocking to do. After much soul-searching, the Austin library installed 
+filtering software on most of its computers, a decision that divided 
+the community, as it has many others. In Loudoun County, Va., a group 
+of library patrons who object to the county library's filtering software 
+on its computers, along with the American Civil Liberties Union and 
+Web publishers, have filed a court case challenging the constitutionality 
+of the practice. On the opposite side of the continent _ and the debate 
+_ in Livermore, Calif., a parent is suing the public library, accusing 
+it of failing to restrict minors' access to pornographic Net content. 
+Similar conflicts are taking place across the country. The First Amendment 
+issues raised by Internet filtering may seem clear enough when public 
+debate is at full tilt. But people's positions are less clear in private 
+as they struggle with their commitment to free speech and their desire 
+to protect children. Austin's two-year struggle, which is still unresolved 
+even though filtering software is on most Austin library computers, 
+reflects the national debate in all its complexity. At every step 
+of the way, librarians around the nation have watched Austin in search 
+of guidance, confirmation or any hook on which to hang a policy of 
+their own. Like her counterparts across the nation, Brenda Branch, 
+the energetic, high-spirited director of the Austin library, has been 
+at the center of the discussion. Like many other librarians, she has 
+always considered the defense of free speech to be part of her job 
+description. For most of the 23 years she has been at the Austin library, 
+that stand has presented her with no personal conflict. Ms. Branch's 
+problems began in the summer of 1996, when computers with unrestricted 
+access to the Internet were placed in the main library and its 19 
+branches. ``Upholding freedom of speech becomes so second nature to 
+librarians that unrestricted access was our natural fallback position,'' 
+Ms. Branch said. ``We almost didn't question it.'' When staff members 
+saw children looking at questionable sites, they resorted to an ad 
+hoc method of control _ cajoling them to move elsewhere. They suddenly 
+felt thrust into the role of parents. But things remained relatively 
+quiet until a branch librarian happened to walk past the library's 
+printer one day and saw a graphic depiction of child pornography emerging. 
+``One look at this and you knew it was illegal stuff,'' Ms. Branch 
+said. As the librarian was pulling the offending document out of the 
+printer, whoever had sent the print command disappeared. Coincidentally, 
+a few days later, another library employee shot off an angry letter 
+to the local newspaper, the mayor, the City Council and the city manager, 
+charging the library with making pornography available, in violation 
+of the state's ``harmful to minors'' statute. Texas is one of several 
+states with a law prohibiting an adult from knowingly displaying material 
+considered harmful to anyone younger than 18. ``All of a sudden, it 
+was like the dam broke,'' Ms. Branch said. She met with her staff 
+members, she said, and many of them broke down and told her how uncomfortable 
+they felt with unfettered Internet access. Ms. Branch's employees, 
+it turned out, were worried that they could be arrested if they were 
+thought to be exposing children to pornography, however inadvertently. 
+Lawyers for the city reinforced those fears. One option, which the 
+library swiftly rejected, was to remove Internet access from the libraries 
+altogether, Ms. Branch said. The lawyers then recommended strongly 
+that the library install software to filter objectionable material. 
+Within two weeks, the library had installed Cyber Patrol, a filtering 
+program popular among parents but much maligned among civil libertarians, 
+on the 52 public computers with Internet access. In its haste, the 
+library installed the software at full throttle. The product was set 
+up at its most restrictive so it blocked Web sites promoting ``intolerance,'' 
+``alcohol and tobacco'' and ``illegal gambling.'' Filtering products 
+often work by searching Web sites for strings of what appear to be 
+unseemly text. Such a method can cause the words ``Essex County,'' 
+for example, to be blocked, or ``chicken breast.'' Cyber Patrol looks 
+for keywords, not text strings. The company also maintains a proprietary 
+list of site addresses that it chooses to block, and it updates the 
+list regularly. Within a week, a stack of written complaints two inches 
+thick had arrived on Ms. Branch's desk. Many library patrons objected 
+to being subject to any censorship. Others complained about the software's 
+hamhanded blocking, which censored harmless sites while giving ready 
+access to others filled with obscene language and images. One library 
+user conducted an Internet search for ``toys.'' At the top of the 
+search results was ``Toys 4 Lovers.'' At the same time, patrons trying 
+to retrieve Web sites dedicated to Georgia O'Keeffe and Vincent Van 
+Gogh were confronted by a computer screen flashing a yellow Cyber 
+Patrol police badge. An HIV Information Center was also found to be 
+off limits. People even complained that sites containing the names 
+John Henry Faulk were banned, presumably because of the proximity 
+to one another of the letter F, U and K. ``It's operating like the 
+KGB!'' one person complained. Another wrote, ``Incensed that you would 
+tell me as a parent what my child should see and what they should 
+not see.'' But Cyber Patrol says its software would not exclude those 
+kinds of sites. Ms. Branch's office in the Faulk Central Library in 
+downtown Austin is playfully decorated with stuffed animals and dishes 
+of candy. On her door frame is a magnet that reads: ``Don't rush me. 
+I'm making mistakes as fast as I can.'' Inspired more by Gidget than 
+gravitas, Ms. Branch's office betrays no trace of the somber situations 
+in which the librarian has found herself. Ms. Branch, 51, was named 
+director of the Austin public library system in 1991. She said the 
+only previous experience that foreshadowed the current debate occurred 
+in 1992, when Madonna's graphic book ``Sex'' sparked an outcry from 
+some parents and church groups on the the religious right. During 
+the Madonna incident, as Ms. Branch refers to it, she was in frequent 
+touch with the American Library Association. ``The ALA was an incredible 
+source of support,'' she said. ``I really depended on them for information 
+and legal advice.'' When the issue of filtering Internet content arose, 
+however, the ALA left Ms. Branch trapped squarely between library 
+science and the politics of her community. In late 1996, a few months 
+after the library introduced Internet access, Ms. Branch sought guidance 
+from the ALA about whether to install filters. She was surprised to 
+get a sharp letter in reply, in which the ALA endorsed the idea of 
+unrestricted Internet access for adults and minors alike. In July 
+1997, the ALA issued a formal resolution condemning the use of filtering 
+software that blocks access to constitutionally protected speech and 
+recommended parental discretion. According to the ALA's Office for 
+Information Technology Policy, 11,600 of the nation's nearly 16,000 
+libraries offer Internet access, and some 15 percent of those have 
+installed filtering software. Most libraries, including many with 
+filters, have an ``acceptable use'' policy in place, which urges patrons 
+to use the Internet responsibly. ``Our policies are very carefully 
+considered,'' said Richard Matthews, deputy director of the Office 
+for Intellectual Freedom at the ALA. ``We certainly have addressed 
+the First Amendment implications of our stance against filtering, 
+and to take any position accepting something less than that ideal 
+stance would be unacceptable.'' Ms. Branch said she found the ALA's 
+policy frustrating because it fails to take into account the practical 
+considerations of exposing children to what she calls ``some of the 
+horrifying stuff out there.'' That horrifying stuff is precisely what 
+has given rise to the pro-filtering position among a number of Austinites. 
+``If we live in a society that requires one to be 21 to drink, 18 
+to smoke, and last I understood, 18 to purchase porno magazines, why 
+is it free and acceptable to view porno on the Internet at a public 
+library?'' one Austin parent wrote to Ms. Branch. ``My biggest dilemma,'' 
+Ms. Branch said, ``is how to balance the rights of adults with the 
+need to protect youth.'' Shortly after Austin installed filters, the 
+ACLU condemned the new practice. ACLU lawyers investigated the possibility 
+of filing a lawsuit to challenge the constitutionality of the library's 
+action. Austin has long been known as a city more liberal than the 
+rest of the state. For nearly eight years, the city has been home 
+to Electronic Frontiers-Texas, a small but active group of civil libertarians 
+who focus on the rights of those who travel in cyberspace. When members 
+of EF-Texas heard about the library's filters, they joined forces 
+with the ACLU and complained to the City Council, which controls the 
+financing for the library. Invoking an analogy often used when discussing 
+library filtering, Jon Lebkowsky, an EF-Texas member, said, ``It came 
+down to a fundamental question: Are you taking books off the shelves, 
+or are you exercising the library's prerogative to select some books 
+and not others?'' In March 1997, city officials convened a community 
+roundtable, with Ms. Branch and other librarians, EF-Texas, the ACLU, 
+the city, and Jennifer Padden, a representative of the local PTA. 
+After several weeks of debate, the library disabled the keyword blocking 
+and reduced the number of categories being filtered out to four: ``gross 
+depictions,'' ``sexual acts,'' ``partial nudity'' and ``full nudity.'' 
+Now there are four unfiltered computers scattered around the library 
+system, with plans to have one unfiltered computer at each branch 
+by this time next year. The screens for the unfiltered machines are 
+in specially built recessed tables that keep the computer screens 
+well out of public view. Only patrons 18 and older may use an unfiltered 
+machine, and they must present proof of age. Minors cannot use the 
+machines even if they have parental permission slips or are accompanied 
+by parents. Now that fewer categories of Web sites are blocked and 
+unfiltered computers are available to adults, Ms. Branch said, complaints 
+about the filtering have diminished sharply. A library customer who 
+objects to the blocking of a certain site can complain to the library 
+staff, who can ask Cyber Patrol to stop blocking the site. Everyone 
+agrees that the current setup in Austin is a fragile compromise. From 
+the point of view of EF-Texas and the ACLU, which calls filtering 
+``censorship in a box,'' it is an unacceptable one. ``The least filtering 
+we're likely to get is still more filtering than any of us want,'' 
+said Jim Robinson, an EF-Texas member who opposes filters. But EF-Texas 
+members aren't completely in unison. While Robinson is unwavering 
+in his stance against any and all filtering, others, like Lebkowsky, 
+are less so. ``There's the potential for libraries to become like 
+adult arcades if access to hard-core porn isn't somehow restricted,'' 
+said Lebkowsky. He said ``minimal filtering'' might be the solution. 
+Ms. Padden, of the PTA spoke out passionately at the community roundtable 
+in favor of filtering, yet the computer she has at home is unfiltered. 
+When her children go on line, she goes with them. ``I'd like to think 
+I've raised my kids with my values, and they respect them,'' she said. 
+``But there are probably 10 times more kids whose parents don't have 
+the time or the computer capability to understand what their kids 
+are looking at or doing at the library.'' Some version of mandatory-filtering 
+legislation for public libraries and schools may become law as part 
+of the appropriations bill being considered this week in Congress. 
+Librarians in Austin and elsewhere are also watching the Loudoun County 
+case. Ann Beeson, an ACLU lawyer who spends much of her time on Web 
+cases, said: ``We hope the decision coming out of Loudoun will heavily 
+influence how other jurisdictions proceed. If we get a strong decision 
+in our favor, we'll feel even more confident in challenging other 
+jurisdictions trying to impose mandatory filtering.'' Eugene Volokh, 
+a law professor at the University of California at Los Angeles, speculated 
+that a court might be more likely to accept Internet filtering that, 
+like Austin's, would affect only children. ``Then again,'' he added, 
+``it's conceivable that a court will say the library has a completely 
+free hand, that blocking the Internet is more like not buying the 
+book in the first place.'' Ms. Beeson, who is monitoring cases or 
+controversies in several cities several cities simultaneously, said 
+the ACLU continued to watch Austin closely. ``It's still not off the 
+radar screen,'' she said. ``We've just been eminently patient with 
+Austin.'' Ms. Beeson said she approved of the plan to place an unfiltered 
+machine in every library branch, but she objects to the library's 
+uncompromising restrictions on minors, particularly older teen-agers. 
+But Ms. Beeson said she also sympathized with Ms. Branch. ``Like many 
+librarians, she's been caught between a rock and a hard place,'' Ms. 
+Beeson said. ``Her instincts are in all the right places, but she's 
+in a very awkward position.'' 
+</TEXT>
+</DOC>

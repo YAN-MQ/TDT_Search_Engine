@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981124.1600.1111 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And for a quick recap, the Dow closed down 73 points today, the NASDAQ 
+composite was off 11. That's "Dollars & Sense," Toria, back to you. 
+Thanks, Valerie. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981207.1830.0675 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Russia, squeezing the consumer even harder. The Russian currency 
+has fallen to its lowest value since last summer. In August, a single 
+ruble was worth about 16 cents. Today, it's worth about a nickel. 
+</TEXT>
+</DOC>

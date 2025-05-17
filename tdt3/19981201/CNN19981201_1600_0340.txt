@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981201.1600.0340 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Secretary of state Madeleine Albright spoke to delegates today at 
+an international conference on the Holocaust. The goal of the Washington 
+gathering is to help determine the fate of artworks and other property 
+looted by the Nazis during world war II. Albright learned just last 
+year that three of her Czech grandparents died in the Holocaust. More 
+than 40 countries are taking part in the four-day conference. 
+</TEXT>
+</DOC>

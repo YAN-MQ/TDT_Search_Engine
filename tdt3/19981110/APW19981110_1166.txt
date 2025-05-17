@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> APW19981110.1166 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+AMERICAN LEADERS NEW YORK (AP)-Sales, 4 p.m. price and net change 
+of the 10 most active American Stock Exchange issues, trading nationally 
+at more than $1. Name Volume Last Chg. SPDR 11,183,800 113 Down 5-16 
+TrexMedical 2,147,600 11 Down 2 15-16 FstAustPrm 1,844,100 5 13-16 
+Down 1-16 Cablevsn s 1,071,900 46 3-16 Up 2 1-2 ViacomB 759,400 60 
+7-8 Up 3-16 NaborsInd 707,600 17 3-4 Down 1 1-4 PriceComm s 635,300 
+8 1-8 Down 1 WEBS Japan 546,700 9 11-16 Down 1-16 AudioBookC 513,900 
+11 1-8 Up 3 Keane 485,000 36 7-8 Down 1-4 
+</TEXT>
+</DOC>

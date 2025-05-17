@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981208.1130.0967 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+AT&T goes shopping in a big way. I'm Myron Kandel at the CNN financial 
+new ps desk in New York with this edition of "Dollars & Sense." AT&T 
+is buying IBM's corporate global networking division for $5 billion 
+in cash. The move improves AT&T's ability to provide business customers 
+with high-speed data services and Internet access. 
+</TEXT>
+</DOC>

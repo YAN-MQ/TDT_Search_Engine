@@ -1,0 +1,47 @@
+<DOC>
+<DOCNO> NYT19981211.0308 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The first of two NASA science probes embarked Friday on a 416-million-mile 
+voyage to Mars, catapulted from Earth by a Boeing Delta 2 rocket. 
+The spacecraft, called Mars Climate Orbiter, is programmed to make 
+the first full-scale study of Martian weather. It should settle into 
+a Mars orbit 260 miles above the planet in September, followed closely 
+by a companion spacecraft, Mars Polar Lander, which is scheduled to 
+be launched on Jan. 3 atop an identical Delta 2 rocket. Their $356 
+million mission: Find water. The orbiter was to have been launched 
+on Thursday, but engineers needed a day to solve an on-board computer 
+software problem that was discovered in a routine pre-flight test. 
+``We have acquired the spacecraft signal,'' Bruce Buckingham, a space 
+agency spokesman, said when the probe escaped Earth's gravity about 
+50 minutes after it was launched at 1:56 p.m. from the Kennedy Space 
+Center here. ``Climate Orbiter is on its way to the red planet.'' 
+The orbiter is the third in a series of nine probes to be launched 
+by the National Aeronautics and Space Administration through 2005, 
+with the goal of returning a sample of Martian soil to Earth. The 
+first two probes, Mars Global Surveyor and Mars Pathfinder, which 
+carried a rock-exploring rover, arrived on Mars last year. NASA tentatively 
+plans eight dual-spacecraft missions over the next 15 years to search 
+for living organisms and to scout suitable landing sites for a human 
+expedition. Together, Mars Climate Orbiter and Mars Polar Lander will 
+look for water in the Martian soil and atmosphere. ``If you want to 
+look for life, either fossilized life or extant life, on another planet, 
+you have to follow the water,'' said Edward Weiler, NASA's associate 
+administrator for space science. ``That's what these two missions 
+are all about.'' Unlike earlier NASA probes, which gathered weather 
+information over limited regions of the planet, Mars Climate Orbiter 
+will look at the entire planet. The orbiter will track seasonal changes 
+as well as the movement of water vapor and dust, observing how moisture 
+evaporates from the ground and migrates through the air for an entire 
+Martian year _ 687 Earth days. Before it begins its work as a weather 
+satellite, the orbiter will act as a radio relay for Mars Polar Lander. 
+The lander is designed to parachute lightly to the Martian surface 
+in December 1999 after releasing two basketball-sized probes that 
+will crash-land and drill beneath the surface near the planet's south 
+pole. The lander itself will use a robot arm to dig up soil and measure 
+its water content. For about three months _ longer, if it is able 
+_ the lander will beam images and data through the orbiter back to 
+Earth. 
+</TEXT>
+</DOC>

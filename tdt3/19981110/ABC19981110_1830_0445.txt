@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981110.1830.0445 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There have been very bad test marks released today for more than 90% 
+of small sport utility vehicles. The crash tests were done by the 
+insurance institute for highway safety. And they find that in a controlled 
+crash, only one out of ten deserved a Good rating. That was the 1999 
+Subaru forester, the 1999 Isuzu amigo was rated poor. All the other 
+small SUVs were judged to be only acceptable or marginal. 
+</TEXT>
+</DOC>

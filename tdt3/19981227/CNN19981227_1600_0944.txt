@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981227.1600.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Iraq's vice president is demanding an end to air patrols in the no-fly 
+zone, threatening to fire on warplanes entering Iraqi airspace. 
+</TEXT>
+</DOC>

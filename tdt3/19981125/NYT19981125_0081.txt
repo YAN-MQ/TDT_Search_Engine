@@ -1,0 +1,52 @@
+<DOC>
+<DOCNO> NYT19981125.0081 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+I'm not an attorney _ although I do play one when I sit in front of 
+my computer monitor. There are several computer programs that allow 
+users to print out legal documents with the blanks filled in for buyers 
+and sellers, landlords and tenants, plaintiffs and defendants. The 
+Texas Bar Association has mounted a legal challenge against them because 
+Texas law prohibiting the practice of law without a license also applies 
+to publishing companies as well as individuals. But that should be 
+of little concern to home users, particularly those in other states. 
+Simple legal documents are available in office supply stores, and 
+courts have held they're protected as a freedom of speech issue. The 
+main concern users should have is that legal documents are sometimes 
+challenged in court. Make sure you have the confidence that the documents 
+produced by the software are capable of withstanding such a test. 
+For everyday situations, the end product will work fine. Quicken Business 
+Law Partner 4.0 from Parsons Technology is the newest release in an 
+ever-growing field of legal software. It contains more than 100 customized 
+documents for small business, including worksheets, forms and letters 
+covering a variety of situations: employment, consumer issues, credit, 
+real estate and other matters. It also contains a dozen new government 
+forms, an interview process to determine what forms are needed, password 
+protection for documents, and a spellchecker. For more information, 
+visit the company's Web site: www.parsonstech.com. Forbes' guide for 
+buyers Looking to purchase a computer? Forbes' Small-Business Home-Office 
+Technology Buyers' Guide for the fall offers glimpses and advice on 
+desktops, notebooks, monitors, modems, printers, copiers, scanners, 
+multifunction scanners, fax machines and networking. It discusses 
+operating systems and office suites. The magazine, a supplement to 
+Forbes' regular publication, is aimed mainly at small business, but 
+it does contain some advice for the home user trying to decide between 
+a Windows/Intel based computer and Apple's Macintosh. The brief article 
+notes that Apple has made a comeback recently under the re-established 
+leadership of company founder Steve Jobs, and it says that ``if everyone 
+else at your company or in your line of work is still using a Mac, 
+it probably still makes sense for you to own one, too.'' But that's 
+about as good as the article gets for the case of buying an Apple. 
+It goes on to point out that for general customers, ``the picture 
+is more mixed. Some home users may still find Apple's vaulted ease 
+of use attractive, but this advantage is more than outweighed by the 
+fact that fewer and fewer software programs are being written for 
+the Mac. This could change following the launch of Apple's next-generation 
+Mac operating system late next year. In the meantime, however, most 
+consumers should opt for the safer, if more conventional, PC.'' (Lonnie 
+Brown is The Ledger's associate editor. He can be reached by e-mail 
+at LonnieB001(AT)aol.com. His recent computer columns are on the Internet 
+at http://www.theledger.com/business/tech/) NYT-11-20-98 1209EST 
+</TEXT>
+</DOC>

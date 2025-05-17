@@ -1,0 +1,82 @@
+<DOC>
+<DOCNO> NYT19981118.0211 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In the late 1800s, if a patient was thought to have a fever, a nurse 
+or doctor might well have wedged a mercury thermometer a foot and 
+a half long into the patient's armpit and waited. And waited. When 
+doctors started using mercury thermometers in the mid-19th century, 
+the instruments were so large that the mercury typically took almost 
+a half-hour to heat up for a temperature reading _ unthinkable for 
+people today, who have become accustomed to getting a temperature 
+reading in just seconds with an instant ear thermometer. Manufacturers 
+of ear thermometers say the ear is the best place to measure body 
+temperature because the eardrum is a couple of inches from the hypothalamus, 
+the area of the brain that, among its many duties, regulates body 
+temperature. The ear thermometers are slowly replacing mercury thermometers 
+_ the gag-provoking oral thermometer and the squirm-inducing rectal 
+one. These two types, also known as contact thermometers, can get 
+inaccurate temperature readings because of breathing or saliva, in 
+the case of oral thermometers, or poor circulation in the torso, in 
+the case of rectal thermometers. But how does an ear thermometer, 
+whose probe never actually touches the surface of its target, the 
+eardrum, achieve an accurate reading? And how does it do so without 
+using a drop of mercury? When something is warm, it gives off energy. 
+The hotter an object, the higher the frequency of the electromagnetic 
+radiation it gives off. Very hot objects, like light bulbs, radiate 
+what people call light _ electromagnetic radiation in the visible 
+portion of the spectrum, from violet to red, or 350 to 400 nanometers 
+to 750 or 800 nanometers (a nanometer is a billionth of a meter). 
+The hotter a light bulb filament gets, the greater the intensity of 
+the light. Reducing the heat changes the color of the light. Dimming 
+a light bulb, for example, changes the color of the light from yellowish 
+to reddish. Just like the filament of a light bulb, the human body 
+radiates heat, which can be detected as infrared radiation, or infrared 
+light. Although infrared light cannot be seen by the human eye, it 
+can be detected by sensors designed to measure the radiation frequencies 
+below the visible range. It is possible to determine someone's temperature 
+by measuring the amount of infrared radiation being emitted. Ear thermometers 
+operate on this principle, calculating temperatures by measuring the 
+infrared radiation that emanates from the eardrum and its surrounding 
+tissue. The most widely sold ear thermometers for home use contain 
+something called a pyroelectric sensor, a detection device that responds 
+to infrared radiation. The first pyroelectric ear thermometer, called 
+the Thermoscan, was invented by Dr. Jacob Fraden, a biomedical electronic 
+engineer in San Diego, and introduced to hospitals and doctors' offices 
+in 1990. Now they are in wide use by professionals and in the homes 
+of happy parents who never want to pick up another fragile tube containing 
+mercury. Of course, the new thermometers can cost three times as much 
+as the mercury ones, or more. A pyroelectric ear thermometer works 
+like this: When you insert the probe into the ear canal and press 
+the trigger button, a shutter in the probe (like a camera shutter) 
+snaps open. When the shutter opens, infrared heat from the eardrum 
+zigzags down the barrel of the probe and hits the pyroelectric sensor; 
+the absorption of the infrared energy warms the sensor and changes 
+its electrical conductivity. The sensor then sends an electrical signal 
+indicating the amount of heat to a circuit board, where it is amplified, 
+converted into a digital signal and sent to a microprocessor, which 
+ultimately turns it into a digital temperature readout. Another kind 
+of sensor used in ear thermometers, called a thermopile, performs 
+a continuous measurement of emitted infrared energy, rather than taking 
+a snapshot. Because a thermopile sensor takes an average of five temperature 
+readings, it must be left in the ear several seconds longer than necessary 
+with a pyroelectric ear thermometer. Manufacturers of thermopile thermometers 
+say they are more accurate because they conduct several temperature 
+scans. Pyroelectric thermometer manufacturers, however, say that as 
+long as the probe is pointing directly at the eardrum when it is in 
+the ear canal, several scans are not necessary. Regardless of what 
+type of sensor is used to determine body temperature, every ear thermometer 
+contains either a four-bit or eight-bit microprocessor. Using a complex 
+mathematical approach that takes into account the ambient temperature, 
+the microprocessor converts the signal measuring the infrared radiation 
+into degrees Fahrenheit or Celsius, and displays the number on a screen. 
+The new thermometers have made life easier for sick children and are 
+now helping sick animals, too. After Fraden sold Thermoscan to Gillette 
+Co. in 1995, he developed a veterinary version, now marketed by Advanced 
+Monitors Corp., The thermometer's probe is longer because horses, 
+cows and dogs, for example, have deeper ear canals than humans (as 
+well as body temperatures that average several degrees higher than 
+humans'). 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981201.1600.0562 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Texas officials are using a heat-seeking helicopter in their pursuit 
+of death row escapee Martin gurule. Prison officials say the chopper 
+detects a heat source, and then determines whether it's coming from 
+a small animal or a person. The manhunt is now in its fifth day. Some 
+500 officers and 70 tracking dogs are on the trail. Officials say 
+they're also investigating a stolen truck in the area, although there 
+is no evidence linking the theft to gurule. 
+</TEXT>
+</DOC>

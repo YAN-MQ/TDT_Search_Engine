@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981102.1130.0469 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Lava is flowing from Europe's tallest and most active volcano, Italy's 
+Mt. etna. Officials say there is no immediate danger to residents 
+on the slopes of mt. Etna because the new lava is being absorbed by 
+old, dry lava. The volcano has been in minor activity for months. 
+The last major eruption was in 1992. 
+</TEXT>
+</DOC>

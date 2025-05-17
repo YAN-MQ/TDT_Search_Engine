@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981025.1130.0429 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A Japanese volcano that killed 700 people in the 17th century is erupting 
+again. No one has been hurt this time. Mt.Komagatake sent a 2,300-foot 
+plume of smoke into the air today, but no lava flow is reported. Ash 
+coated cars in a town six miles away. The 3,700-foot volcano last 
+erupted two years ago. It's located on Japan's largest northern island. 
+</TEXT>
+</DOC>

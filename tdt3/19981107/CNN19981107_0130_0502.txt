@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981107.0130.0502 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"Headline News" forecast. Our first major winter storm of the season 
+pushes ashore Saturday morning on the west coast, bringing lots of 
+rain and snow to the western section of the country. In between that 
+frontal system and a second frontal system in the plains states, we're 
+going to see lovely weather, with high pressure over the area, and 
+high pressure in the east, but a good bit of snow from Missouri to 
+the Great Lakes through Sunday morning. High temperatures on Saturday, 
+very chilly over the northern Rockies and the northern plains, we're 
+talking 20s and 30s, and cool across most of the nation. Your extended 
+forecast showing cool temperatures prevailing over the northern third 
+of the country, with rain and snow in the west, a snow/rain mix in 
+the western Great Lakes and the northern plains, with thunderstorms 
+on Sunday along the gulf coast. Most of the nation seeing wet weather 
+on Monday, with heavy snow over the rockies in the forecast. And on 
+Tuesday, the rain pushes to the east, it's going to be windy, and 
+we're going to see snow in the northern plains. And remember, you 
+can get your four-day forecast for more than 7,200 cities at CNN.com. 
+</TEXT>
+</DOC>

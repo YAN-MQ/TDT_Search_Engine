@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> NYT19981202.0481 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Biota Holdings Ltd. said Wednesday that its collaborator, Biostar 
+Inc., had received clearance from the Food and Drug Administration 
+to begin marketing the first rapid diagnostic test kit for flu. Biostar, 
+based in Boulder, Colo., will market the kit in the United States, 
+Europe and New Zealand, sharing profits with Biota, a biotech company 
+based in Melbourne, Australia. Biostar has not yet set a price for 
+the test, which can be performed in doctors' offices in less than 
+15 minutes, using samples from saliva, mucus or a throat swab. Biota 
+said clinical studies showed the test's sensitivity approached or 
+surpassed conventional methods that can take several days to provide 
+results. Although there would be some benefit now for patients to 
+know whether their symptoms are from flu or a common cold, the real 
+significance of the test will come next year with the expected approval 
+of new influenza drugs. 
+</TEXT>
+</DOC>

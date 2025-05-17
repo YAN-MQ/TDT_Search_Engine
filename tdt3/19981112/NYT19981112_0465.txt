@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> NYT19981112.0465 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+New York state hospitals have achieved the lowest death rate for coronary 
+artery bypass surgery in the eight years that state officials have 
+been monitoring the procedure, a high-risk form of open-heart surgery 
+in which a machine temporarily takes over the functions of the patient's 
+heart. Among the 32 hospitals statewide allowed to perform cardiac 
+surgery, the average death rate per 100 patients dropped to 2.44 in 
+1996, the latest year for which data are available, from 2.52 the 
+year before. Moreover, the rate has fallen from an average of 3.52 
+in 1989, which represents a decline of more than 30 percent since 
+then. Looked at another way, more than 97 percent of the patients 
+who underwent the 20,078 operations statewide in 1996 survived. It 
+takes a year to collect, verify and evaluate hospital information 
+for the annual survey, said Wayne Osten, 49, the state Department 
+of Health official who directed the study. One of the toughest tasks, 
+he said, is coming up with statistical measurements so that different 
+hospitals, with patient populations that have varying degrees of illness, 
+can be compared fairly. Kenneth Raske, a hospital administrator and 
+president of the Greater New York Hospital Association, said New York 
+state's data is by far the most comprehensive of any state's. ``What 
+is striking about the report,'' he said, ``is that the risk has dropped 
+so dramatically that this major surgery now looks almost mundane.'' 
+In coronary artery bypass graft surgery, arteries from the chest or 
+veins from the legs are removed and used to divert, or bypass, blood 
+around vessels too blocked to deliver blood efficiently to the heart 
+muscle. A heart-lung machine functions as the patient's heart during 
+surgery. The procedure is considered riskier than a pacemaker insertion 
+but less risky than a heart transplant. The best-performing hospital 
+in the survey, for the third year in a row, was St. Joseph's Hospital 
+Health Center in Syracuse. In 812 bypass operations performed in 1996, 
+seven people died, for a raw death rate of 0.86 percent and an adjusted 
+rate of 1.1 percent. The adjusted rate assumes that St. Joseph's patient 
+population looked exactly like the statewide mix, which it did not. 
+``We do seemingly small things,'' said Dr. Mehdi Marvasti, St. Joseph's 
+director of cardiac surgery. For example, if a patient has had a stroke, 
+a stroke specialist examines him before the operation to reduce the 
+probability that he will have another stroke following, or even during, 
+surgery, Marvasti said. After the operation, St. Joseph's four senior 
+cardiac surgeons do their hospital rounds together so that all know 
+something about every cardiac patient, Marvasti said. ``If I miss 
+something, then another doctor might see it,'' he said. ``It's three 
+additional pairs of eyes.'' The worst-performing hospital was Arnot 
+Ogden Medical Center in Elmira. Six patients out of 135 cases in 1996 
+died, giving the hospital a raw death rate of 4.44 percent and an 
+adjusted rate of 5.93 percent. ``Our small number of cases plays havoc 
+with the statistics,'' said Anthony Cooper, president of Arnot Ogden. 
+``Just to give you one example, one patient was operated on in 1995 
+but died in 1996. If he had died in 1995, our score would have improved 
+by 15 percent.'' Taking into account the different numbers of operations 
+performed and different patient populations, 29 of the 32 hospitals 
+have broadly similar death rates within a statistically significant 
+margin of error. Three _ St. Luke's-Roosevelt, St. Vincent's and Lenox 
+Hill, all in Manhattan _ were beyond that margin but not by a large 
+degree. The report is available online at http://www.health.state.ny.us/nysdoh/consumer/heart/homehear.htm. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> VOA19981222.0500.2974 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Share prices in Tokyo tumbled over 2.5% today, with the benchmark 
+DK average closing below 14,000 for the first time in about two months. 
+The index shed 373 points. Prices closed sharply lower on selling 
+by institutional investors, especially financial institutions following 
+a steep decline in bond prices. Australian, Taiwan, Philippine shares 
+all closed higher. Hong Kong shares ended the day off seven-tenths 
+of one percent. The dollar strengthened against the Yen in early Europe 
+trading from its late Monday New York quote of 116.23 Yen. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981204.0500.0337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The U.S. dollar fell against the yen Friday afternoon, while prices 
+on the Tokyo Stock Exchange finished lower. 
+</TEXT>
+</DOC>

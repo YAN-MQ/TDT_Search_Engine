@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981118.2130.0967 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A survey of 766 California doctors suggests many physicians in managed 
+care believe the financial pressures of HMOs interfere with patient 
+care. Most of the primary care physicians polled say they are under 
+the gun to see more patients and refer fewer to specialists. The survey 
+comes after several large groups of doctors defected from HMOs in 
+four other states. An industry official says the survey is flawed 
+and exaggerates any unhappiness. The study is published in the "New 
+England journal of medicine." 
+</TEXT>
+</DOC>

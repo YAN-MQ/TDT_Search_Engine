@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981109.1130.0412 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New studies show that music could help rehabilitate people with speech 
+and language problems. Researchers presented the findings of three 
+different studies on how music affects the brain. One study shows 
+the cerebellum is larger in men with musical training than if they 
+had no training at all. Two other studies show how different regions 
+of the brain respond to the sound of different types of music. 
+</TEXT>
+</DOC>

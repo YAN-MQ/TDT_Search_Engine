@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981201.2130.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Oklahoma hired Florida defensive coordinator Bob stoops as the sooners' 
+fourth head coach since Barry switzer resigned under pressure in 1989. 
+</TEXT>
+</DOC>

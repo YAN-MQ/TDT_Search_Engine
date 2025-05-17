@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> CNN19981027.2130.0626 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Damage to homes can easily be seen after a hurricane blows through. 
+But widespread damage to a coastline may be more difficult to gauge. 
+Ann Kellan looks at how the experts do it in this edition of "tech 
+trends." This hurricane season reinforces how blowing winds and driving 
+rains wash valuable land to sea. See the road behind there is completely 
+-- Oh, wow, it's nothing but sand. To assess a hurricane's impact, 
+researchers survey changes on the ground, like this North Carolina 
+beach where September's hurricane Bonnie blew sand inland onto the 
+roads. And researchers take to the skies in a twin otter plane to 
+get an exact measurement of how hurricanes like Bonnie, georges and 
+Mitch change the profile of the coasts. We're looking to see where 
+the sand went. Did hurricane Bonnie deposit sand on the beach or did 
+it take sand away? So the laser system is right here. This machine 
+bounces laser beams from the plane to the ground and back to precisely 
+measure the nooks and crannies along the coast. From this data they 
+will compile 3-D images, like these taken of the california coast 
+after last winter's rains and floods from El Nino. So we have maps 
+from before the hurricane passed through and we have maps from after. 
+Comparing the before-and-after maps researchers can assess the damage 
+and the changes. I see a lot of roofers. Yeah, a lot of roof damage. 
+All this helps community planners decide where to build and places 
+to avoid. How far back from an eroding shoreline you should be to 
+optimize your chances for safety and rather than getting wiped out 
+in a major event. While Bonnie had a minor impact on the North Carolina 
+coast, researchers are mapping other shores to see whether storms 
+like hurricane georges and Mitch are leaving a more lasting impression. 
+Ann Kellan, CNN, top sail beach, North Carolina. 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> PRI19981022.2000.1672 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+One final piece of electronic business news before we go. In America, 
+the Internet and E-mail are clearly an everyday part of life, but 
+it's more unusual to have access to the World Wide Web in Ghana. So 
+one company's come up with a solution. Africa Online has set up an 
+exclusive deal with local post offices where E-mails can be sent or 
+received for a small fee. More Ghanaians can now get their own E-mail 
+address. One thing, of course, they'll have to go to the post office 
+to send or collect them. That's THE WORLD business this Thursday. 
+I'm Patrick O'Connell in New York. 
+</TEXT>
+</DOC>

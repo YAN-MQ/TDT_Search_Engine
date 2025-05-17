@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> ABC19981113.1830.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Surprisingly strong retail sales last month, up 1%. 
+</TEXT>
+</DOC>

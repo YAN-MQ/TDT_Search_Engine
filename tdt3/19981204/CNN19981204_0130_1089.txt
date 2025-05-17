@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981204.0130.1089 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The IRS is introducing two programs to make it easier to file your 
+taxes electronically this year. Pin codes will be sent to 12 million 
+taxpayers who used computer software to prepare their returns last 
+year. The codes will take the place of signatures. And for the first 
+time ever, people can pay their taxes with a credit card. 
+</TEXT>
+</DOC>

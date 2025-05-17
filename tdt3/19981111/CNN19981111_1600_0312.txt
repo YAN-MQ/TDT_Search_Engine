@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981111.1600.0312 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A veteran's day parade was John Glenn's last mission with his shuttle 
+"Discovery" crew mates. The astronauts were honored with other American 
+heroes in Houston today. Tens of thousands of spectators turned out 
+for the city's first-ever veterans day parade. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981024.0130.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The national guard is on-duty in parts of Texas to prevent looting 
+in flood-damaged areas. The waters have caused an estimated $500 million 
+in damage. 
+</TEXT>
+</DOC>

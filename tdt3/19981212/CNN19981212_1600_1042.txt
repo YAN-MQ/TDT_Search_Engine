@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981212.1600.1042 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the Dow industrials dropped four days in a row with Friday's loss 
+of almost 20 points. For the week, the Dow was down just over 2%. 
+</TEXT>
+</DOC>

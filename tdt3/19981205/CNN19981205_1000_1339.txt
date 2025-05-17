@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981205.1000.1339 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Patrick Roy made 25 saves for his 42nd career shutout as Colorado 
+blanked st. Louis 2-0. 
+</TEXT>
+</DOC>

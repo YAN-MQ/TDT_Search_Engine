@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981031.1000.0521 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News" weather update. 
+A strong cold front will move across the southern plains and bring 
+showers and thunderstorms from Nebraska southward into Texas. Some 
+storms could be strong, and we could also see heavy rain in some areas. 
+A cold front will move through the pacific northwest going into Sunday, 
+and that means rainfall from the pacific coast into Idaho and Montana. 
+A low-pressure storm finally moves away from the northeast coast, 
+so winds will begin to diminish as a high-pressure Ridge and cooler 
+air pushes across the Great Lakes and into New England. Again, near 
+record high temperatures can be expected across the gulf coast states 
+with 60s, 70s and 80s in today's forecast. 40s and 50s are expected 
+for the Great Lakes and southward through the four corners region. 
+On the extended forecast -- by Monday, a mix of rain and snow is expected 
+across the northern Rockies and the northern plains with strong thunderstorms 
+along the gulf coast. Temperatures begin to cool across the northern 
+plains and the northeast on tuesday with a continued mix of rain and 
+snow. Showers and scattered thunderstorms are expected southward into 
+the southern plains and the gulf coast. The forecast for more than 
+7,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

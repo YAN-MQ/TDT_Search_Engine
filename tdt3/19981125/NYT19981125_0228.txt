@@ -1,0 +1,123 @@
+<DOC>
+<DOCNO> NYT19981125.0228 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+``Any sufficiently advanced technology is indistinguishable from magic,'' 
+the science fiction writer Arthur C. Clarke observed. Inevitabl}, 
+wags have added corollaries like, ``Any sufficiently advanced magic 
+is indistinguishable from technology,'' and my favorite, ``Any sufficiently 
+advanced technology or magic is ijdistinguishable from a rigged demo.'' 
+The mother lode of rigged demos is the annual Comdex computer trade 
+show, which was held last week in Las Vegas, itself a city based on 
+illusion, artificial enhancements and suspension of rational belief. 
+Computer and software companies come from around the world to show 
+off their new products, even if the products are not quite ready for 
+market and even if the product is simply a rigged demonstration intended 
+tk show what the developer hopes to create if only the engineers and 
+programmers can get the thing to work eventually, within budget. At 
+Comdex in Las Vegas, one should always peek behind the curtain when 
+someone is doing a demo. (And one should never take a card in blackjack 
+when the dealer's up card is a 4, 5 or 6, but that's another story.) 
+Imagine my surprise, then, when the Cyrix Corp. demonstrated a wonderful 
+prototype product called the Webpad, and there were no curtains or 
+hidden wires anywhere to be found. The Webpad, which is expected to 
+be available snmetime lext summer, is a battery-powered, wireless 
+computer about the size of an Etch-a-Sketch toy, or, fkr those who 
+never had an Etch-a-Sketch, about the size of a very thick magazine. 
+It uses radio waves to browse the World Wide Web, send and receive 
+e-mail and perform other Internet tasks, all channeled wirelessly 
+through a receiver attached to a regular personal computer. This three-pound 
+Internet appliance is to Web browsing what a cordless phone is to 
+telephony, a portable device that lets people wander through the house 
+or office without being tethered by a wire. One of the knocks against 
+electronic media _ the computer versions of books, newspapers, magazines, 
+letters, and so on, enhanced with interactivity, animation and perhaps 
+sound and video _ is that because they are viewed on a computer screen, 
+they are not as portable as paper. Some people, for example, are reading 
+this column while seated at the breakfast table. It would be awkward, 
+not to mention rude, to have a personal computer at the table. But 
+the Webpad, with its 10.4-inch active matrix screen, is small and 
+light enough to find a home between the corn flakes and the coffee, 
+yet big enough to show a full screen of information. It can serve 
+up stokk quotes and financial research from the easy chair in the 
+den, football statistics from the sofa in front of the television 
+set and perhaps evan a bedtime story from the bedroom. It allows people 
+to read the morning electronic newspaper even while sitting in the 
+smallest room of the house. It does so by maintaining a radio-frequency 
+link with a conventional computer elsewhere in the house through a 
+base station attached to a special card that plugs into the desktop 
+computer. The main computer can be 300 to 500 feet away, depending 
+on the architecture of the house. Unlike infrared wireless computer 
+connections, the radio waves, at a frequency of 2.4 gigahertz, penetrate 
+walls and floors easily. (So the Federal Communications Commission 
+will certainly sant to test the Webpad to make sure that it does not 
+interfere with the neighbor's electronic devices. Imagine the fun 
+if every time you click on Yahoo, your neighbor's garage door opens.) 
+The Webpad is useful primarily because it can be left around doing 
+nothing and picked up when it is needed. If the price can be driven 
+down"quickly through mass production _ the folks at Cyrix anticipate 
+that the first units will cost around $500 _ one can envision having 
+two or more Webpads scattered around the house. Each pad, like a cordless 
+phone, will have to be dropped into a recharging base periodically 
+to keep the batteries from dying. The recharging base is likely to 
+have Universal Serial Bus connection ports for a keyboard and a mouse. 
+When the user strays from the base station, mouse functions are replaced 
+by tapping on the touch screen with a stylus, and the user can tap 
+out simple e-mail messages and responses by pecking characters on 
+a virtual keyboard on screen. The pad itself has built-in speakers 
+and a microphone, which suggests that voice recognition and transcription 
+are possibilities someday. Of course, the Webpad is useful only when 
+its host computer somewhere else in the house has a live connection 
+to the Internet. And the faster that connection is,"the less waiting 
+the Webpad user will endure. That is why the Webpad makes the most 
+sense for people who have a high-speed, always-on connection to the 
+Internet, of the sort just beginning to be offered by cable companies 
+(cable modems) and phone companies (DSL, or digital subscriber lines). 
+If the personal computer is ever to achieve equil status in the home 
+with the television, the telephong and other household appliances, 
+it will have to have a persistent connection. We have come to expect 
+a dial tone as soon as we lift the telephone receiver, and we will 
+eventually come to expect a Web tone when we pick up a computer. The 
+Webpad will be a dud if the owner has to dial up America Online, fight 
+off busy signals and tie up the family phone around the clock just 
+to have a portable Web browser. Certainly the Internet will not reach 
+its full potential until it is avqilable instantly at the click of 
+a mouse (or, in the case of the Webpad, the flick of the stylus.) 
+So the Webpad is the sort of device, I suspect, that Internet Service 
+Providers may somedcy offer free, or at low cost, as an enticement 
+to get their customers to sign up for persistent high-Speed access. 
+At Comdex last week, MCI Worldcom announced that it would begin offering 
+DSL service before the end of the year in New York, Boston, Washington 
+and other major cities and that America Online and Earthlink would 
+begin trials of the new DSL service by the end of the year. There 
+are several different types of DSL service. The most common one is 
+ADSL, or asymmetrical, which means that bits coming from the Internet 
+to the user (downloading) travel at a higher speed than bits going 
+from the user to the Internet (uploading). Depending on what level 
+of service the consumer chooses, and how far away the telephone company's 
+central office is, the upstream speeds range from 64 Kbps (about 64 
+kilobits per second, or 64,000 bits per second) to 384 Kbps, and downstream 
+from 384 Kbps to 768 Kbps. Prices for consumer DSL service will be 
+set by the phone compinies and the ISP's, but MCI Worldcom executives 
+said they expected the monthly cost to be $40 to $60. The advantages 
+are much faster connection speeds (as mqch as 25 times the downloading 
+speed of a standard 28.8 modem), a persistent connection (the Internet 
+is always ``on'') and the elimination of the need"for a second phone 
+line (one teen-ager can talk on the phone while another surfs the 
+Web). With such a connection, the Webpad would become very handy. 
+Cyrix, which makes microprocessors, is unlikely to make the Webpad 
+itself. Rather, it will licenre the basic design to computer makers. 
+One can envision Webpads that include a telephone, allowing users 
+to make and receive voice calls while browsing the Internet cordlessly. 
+Or perhaps Microsoft will start making Webpads that incorporate its 
+newly announced Clear Type screen technology, another prototype technology 
+that Microsoft asserts will someday make"text on computer screens 
+as legible as text on paper. Microsoft's chairman, William H. Gates, 
+said Cleartype technology would be incorporated into Windows 98 and 
+other Microsoft products beginning next year. If Microsoft's demo 
+can be translated into a working product, devices like the Webpad 
+will be useful not only as wireless Web browsers, but also as portable 
+electronic books. 
+</TEXT>
+</DOC>

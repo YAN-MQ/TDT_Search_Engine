@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981214.1130.0367 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In a referendum on statehood for Puerto Rico, "none of the above" 
+appears to have come out on top. Voters in the U.S. commonwealth had 
+a number of choices in the referendum. The statehood option received 
+a little over 46% of the vote. But "none of the above," the option 
+being pushed by anti-statehood forces, received over 50% of the vote. 
+A 1993 vote on the issue produced very similar results. 
+</TEXT>
+</DOC>

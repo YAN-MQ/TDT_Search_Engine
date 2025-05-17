@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> NYT19981011.0211 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Monday, Oct. 12: New Jersey 
+may soon be positioned to convert its car-pool lanes on Interstate 
+287 into regular lanes, thanks to the footwork of some members of 
+its congressional delegation. They crafted legislative language that 
+would relieve New Jersey of the obligation to repay Washington $140 
+million in federal money spent building the lanes. This maneuver is 
+the latest expression of growing opposition in New Jersey and Long 
+Island, N.Y., to special lanes for car pools _ an unfortunate attitude 
+in a region of congested roads and poor air quality. Instead, officials 
+ought to be emulating cities elsewhere that have found ways to get 
+more out of underutilized car-pool lanes. The San Diego region provides 
+a good example of how market forces can cut congestion. On Interstate 
+15, an eight-mile stretch is free for buses, vans and car pools of 
+two or more. Solo motorists pay a toll, generally from 50 cents to 
+$4, pegged to the time of day and congestion. By purchasing access 
+to lanes that speed one's commute, these motorists, along with car 
+poolers, free up space in regular lanes. Revenue from this creative 
+pricing finances bus service in the I-15 corridor. Except for a long-range 
+study or two, the New York region has not begun to address managing 
+demand in an equally imaginative fashion. Instead, some politicians 
+want to turn high-occupancy vehicle, or HOV, lanes on the Long Island 
+Expressway into general-occupancy lanes. Jerseyans want to end HOV 
+lanes on I-287 and I-80. None of this augurs well for a region that 
+hopes to add tens of thousands of jobs _ and thus commuters _ in the 
+years ahead. 
+</TEXT>
+</DOC>

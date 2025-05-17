@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> NYT19981222.0365 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Time said in an editorial for Wednesday, Dec. 23: The 
+Supreme Court's unanimous ruling this month denying the police blanket 
+authority to search a car after ticketing the driver for a minor traffic 
+violation, such as speeding, was an important victory for privacy 
+rights. At issue was an Iowa law that extended the power police now 
+have to conduct a warrantless search when a driver is arrested. The 
+new law allowed such searches even in routine traffic stops where 
+there was no arrest and no suspicion of any criminal activity. Had 
+the court gone the other way, such intrusions _ unnecessary to insuring 
+officer safety or preserving evidence _ would have become widespread. 
+The laudable ruling was a rare departure for a court that had just 
+watered down privacy rights in the home by validating the peeping-Tom 
+behavior of a Minnesota police officer. The officer saw two men bagging 
+cocaine in a third person's basement apartment by peering through 
+a gap in closed venetian blinds before obtaining a search warrant. 
+A state court tossed out the narcotics convictions of the two men, 
+concluding that the officer's warrantless snooping amounted to an 
+illegal search of guests in a home. But a majority of the Supreme 
+Court said the two men had ``no legitimate expectation of privacy'' 
+in a home belonging to someone else that for them was ``simply a place 
+to do business.'' Yet as Ruth Bader Ginsburg noted in a spirited dissent, 
+the refusal to honor the privacy rights of guests inevitably undermines 
+the established privacy rights of the host, by giving police new incentive 
+to pry illegally. 
+</TEXT>
+</DOC>

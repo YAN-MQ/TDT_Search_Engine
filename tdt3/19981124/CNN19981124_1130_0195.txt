@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981124.1130.0195 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A after surging into record territory yesterday, the Dow Jones industrial 
+average has fallen back some this morning. We'll have a complete wrap 
+of market action at 46 minutes after the hour in "Dollars & Sense." 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981216.2130.0508 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The weather forecast is next and then scientists are looking to outer 
+space to get more information on how life started on earth. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981204.1130.0393 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An earthquake shook the San Francisco bay area this morning, but apparently 
+caused little damage and no injuries. The quake was centered near 
+the town of Richmond, which is about ten miles northeast of San Francisco. 
+It had a magnitude of 4.1 and hit shortly after 4:00 pacific time. 
+</TEXT>
+</DOC>

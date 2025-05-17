@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981012.1830.0227 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Washington today, America is still without a budget. White House 
+chief of staff Erskine Bowles and his deputy, John Podesta, were on 
+Capitol Hill trying yet again to hammer out a deal with republican 
+leaders in Congress. It could still be days away. In the meantime, 
+Congress has passed a measure to keep the government open two more 
+days while they negotiate. 
+</TEXT>
+</DOC>

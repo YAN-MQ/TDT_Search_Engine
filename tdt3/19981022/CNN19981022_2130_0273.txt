@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981022.2130.0273 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In California, the state is reminding homeowners that no property 
+is worth a life. People are being urged to heed evacuation orders 
+if there's a wildfire nearby. Firefighters are trying to extinguish 
+three large fires that have burned 15,000 acres in southern California. 
+That task could be made more difficult by the Santa Ana winds. They're 
+in the forecast for the weekend. 
+</TEXT>
+</DOC>

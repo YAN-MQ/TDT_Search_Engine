@@ -1,0 +1,59 @@
+<DOC>
+<DOCNO> NYT19981110.0437 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+New York City and New York State agreed Tuesday to pay $49 million 
+to settle a civil lawsuit brought by a whistle-blower who charged 
+that New York fraudulently collected hundreds of millions of dollars 
+in federal funds between 1990 and 1994 for required foster care services 
+that were not provided. The settlement, approved on Tuesday by Judge 
+Denny Chin of U.S. District Court for the Southern District, includes 
+no admission of wrongdoing, but requires the city and the state to 
+give federal officials access to foster care computer records over 
+the next three years so they can determine whether the city is providing 
+mandated services to children in foster care. Nicholas Scoppetta, 
+the city's commissioner of the Administration for Children's Services, 
+criticized the terms of the settlement. ``By taking back $49 million, 
+the United States is penalizing the city and state for what is essentially 
+a record-keeping failure by overburdened foster care workers,'' he 
+said Tuesday. But Mary Jo White, the U.S. attorney for the Southern 
+District of New York, issued a sharp retort. ``It is unfortunate that 
+the city seeks to minimize and blame others for the serious conduct 
+and failure'' that led one of its own child welfare officials to file 
+the lawsuit, Ms. White said. The city will pay $14 million and the 
+state, which oversees the city's system and collected most of the 
+federal money, will pay $35 million. The services at issue include 
+caseworker visits to foster homes, interviews with foster children, 
+the monitoring of birth parents and foster families, and long-term 
+planning reviews every six months. ``We would hope that the city would 
+expend its efforts in establishing a system, as mandated by Congress, 
+that insures that children promptly receive the critical social services 
+necessary for their welfare,'' Ms. White said. Besides requiring the 
+city and state to provide these services to receive foster care reimbursement, 
+the federal government offers ``incentive funds'' to child welfare 
+systems that can demonstrate that more than 90 percent of their foster 
+care cases are in compliance with these legal requirements. Federal 
+prosecutors contended that New York misled federal officials to collect 
+these incentive funds during the administration of Mayor David Dinkins 
+and the first year of the Giuliani administration. If prosecutors 
+had prevailed in a trial, New York risked having to return $100 million 
+in foster care money, Lorna Goodman, an assistant corporation counsel 
+for the city, said Tuesday. Ms. Goodman said the charges of fraud 
+were baseless. Bracha Graber, the whistle-blower, will receive $4.9 
+million under the settlement. Ms. Graber, a former midlevel employee 
+of the city's child welfare agency, said she would use a substantial 
+portion of the award to establish a foundation to provide scholarships 
+for foster children. Carl H. Loewenson Jr., Ms. Graber's lawyer, said 
+Ms. Graber had repeatedly refused to participate in the falsification 
+of computer records and brought the activity to the attention of her 
+superiors to no avail. She finally turned to federal prosecutors, 
+suing the city and state under the whistle-blower law known as the 
+False Claims Act for triple the amount of actual damages, estimated 
+in the complaint to be at least $37.4 million. But in June, Judge 
+Chin ruled that neither a state nor a municipality could be named 
+as a defendant under the False Claims Act. That issue is pending in 
+an unrelated case before the U.S. Court of Appeals for the Second 
+Circuit. 
+</TEXT>
+</DOC>

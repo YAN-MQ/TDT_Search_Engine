@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981203.1130.0922 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA will try again tomorrow to launch space shuttle "endeavour." 
+Today's launch was canceled after an alarm sounded in the cockpit. 
+</TEXT>
+</DOC>

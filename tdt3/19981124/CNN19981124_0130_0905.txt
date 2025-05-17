@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981124.0130.0905 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- Susan McDougal has been acquitted of stealing 
+$50,000 from famed conductor zubin mehta. A juror called it an open 
+and shut case for McDougal, who claimed the trial was motivated by 
+the Whitewater investigation. 
+</TEXT>
+</DOC>

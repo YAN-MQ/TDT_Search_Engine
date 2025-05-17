@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981122.1600.1333 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At Madison square garden this afternoon, world number two Martina 
+Hingis defeated world number one Lindsay Davenport in the season-ending 
+chase championships. Hingis won the first two sets, dropped the third, 
+came back and won the fourth. Davenport, however, will finish the 
+season as the top-ranked player in the world. 
+</TEXT>
+</DOC>

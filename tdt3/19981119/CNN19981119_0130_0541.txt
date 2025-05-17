@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981119.0130.0541 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Why did the salmon cross the road? Because the banks of its river 
+home overflowed. A rain storm near Shelton, Washington, had the local 
+salmon a little confused about the boundaries of their natural habitat. 
+Some of the salmon who followed the river's flow across a local street 
+were forced to Dodge traffic and pedestrians until they made it safely 
+back into deeper water. 
+</TEXT>
+</DOC>

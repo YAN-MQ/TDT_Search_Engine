@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981026.2130.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And senator John Glenn, the first American in orbit, is getting ready 
+for the launch on Thursday of space shuttle "discovery." Glenn and 
+his crewmates arrived at the Kennedy space center in Florida today. 
+</TEXT>
+</DOC>

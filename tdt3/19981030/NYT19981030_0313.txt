@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> NYT19981030.0313 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+As everyone surely knows by now, the global financial crisis has frightened 
+lenders, making them very reluctant to buy Corporate America's IOUs. 
+Unless a company is among the elite _ an IBM or a General Electric 
+or an AT&AMP;T _ borrowing money has become an ordeal. Such tightfistedness 
+on the part of lenders can dry up economic activity. Companies borrow, 
+for example, to buy new machinery and computers, and then pay off 
+the debt from revenue the new equipment produces. Or they stockpile 
+raw materials and finished merchandise, and repay the debt as the 
+goods are sold. Shrink such activity long enough and a recession could 
+ensue. So it comes as pleasant news that banks are not pulling back 
+in their lending to large corporations as other lenders are _ in fact, 
+they are lending more, partly offsetting the pullback by the others. 
+These other ``lenders'' are the mutual funds, the pension funds, the 
+insurance companies, the Wall Street investment houses and the wealthy 
+individuals who usually buy corporate IOUs, in the form of long-term 
+bonds and short-term commercial paper issued by the nation's large 
+companies. Lately, scared by the world financial turmoil, these investors 
+have been sticking to risk-free Treasury securities instead. The nation's 
+banks are not as skittish. According to new Federal Reserve statistics, 
+bank loans to business, adjusted for seasonal variations in lending, 
+rose by $11.3 billion in September, compared with a rise of $7.6 billion 
+in August, the month the credit crisis started. Then, in October, 
+bank loans to all business rose by $25 billion in the first three 
+weeks, to a total of $940 billion. Much of this $940 billion is going 
+to smaller companies, which come to banks for most of their financing. 
+But large companies account for the recent surge in loans _ companies 
+like Seagram, Bridgestone/Firestone and Jefferson Smurfit, a paper 
+manufacturer. The surge in bank lending has not been enough to offset 
+entirely the decline in the sale of corporate IOUs. New offerings 
+of commercial paper have fallen by nearly $20 billion in recent weeks; 
+on top of that, the sale of high-yield corporate bonds, sometimes 
+called junk bonds, has almost disappeared. These sales normally raise 
+$20 billion a month for companies that lack top-of-the-line credit 
+ratings. Still, the rise in bank lending ``is somewhat alleviating 
+what would otherwise be a severe credit crunch, and the question is, 
+How long will it keep doing that?'' said Alan Blinder, a Princeton 
+University economist. The great hope is that the global financial 
+crisis will lift early next year. Or by then, the people who used 
+to invest in corporate IOUs, which pay higher interest rates than 
+the Treasuries they are investing in now, will cease to be so nervous 
+and start buying again. Until the crisis lifts, companies can somehow 
+get by, everyone hopes, either by postponing projects or by borrowing 
+from banks _ if not all the money they want, then at least some of 
+it. But there is a concern that, even in these final weeks of 1998, 
+the rise in bank lending may be less than meets the eye, and less 
+a support of the national economy than the Federal Reserve's statistics 
+might indicate. Rather than signaling a flow of new loans, much of 
+the lending appears to be borrowers' drawing on existing lines of 
+credit established months ago. What's more, while bank loans for general 
+business activity are rising much faster than in the first half of 
+the year, real estate lending is weak. Bank real estate loans are 
+rising much more slowly now than in the first half of the year. Home 
+mortgages are flowing fast enough, but loans for the purchase or construction 
+of office buildings, plants and other commercial structures are not. 
+Banks like to sell to others the real estate loans they originate, 
+and thus limit the amount of risk they bear in the event of defaults. 
+That is easy for home mortgages, because federal agencies are big 
+purchasers of these loans. But commercial real estate loans must be 
+sold into a market of private investors, and investors are not buying 
+these commercial bank loans. ``Applications for commercial mortgages 
+are way up, but the banks are not increasing what they have on the 
+books, not yet,'' said Dennis Yeskey, regional managing director of 
+real estate services for Deloitte &AMP; Touche. A similar ceiling 
+is likely to limit the growth of bank lending for standard business 
+activity, despite the recent surge in such lending, because banks 
+do not like to carry huge loans on their books. So they syndicate 
+corporate loans, parceling out portions of a big loan to other banks. 
+And loan syndication is not rising. Jefferson Smurfit, for example, 
+sought recently to borrow $4 billion in new bank loans, but had to 
+settle for just $550 million. ``The banks are not going to take that 
+kind of risk,'' said James Davis, president of Loan Pricing Corp., 
+which monitors bank lending. And that is why the banks, for all the 
+current surge in corporate lending, are not likely to sustain the 
+U.S. economy through a financial crisis that lasts past January. 
+</TEXT>
+</DOC>

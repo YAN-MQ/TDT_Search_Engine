@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981026.1130.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the most powerful hurricane of the season is drifting slowly across 
+the western Caribbean, in the direction of central America. Hurricane 
+Mitch has top sustained winds of about 155 miles an hour. 
+</TEXT>
+</DOC>

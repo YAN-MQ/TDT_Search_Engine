@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981024.1600.0509 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News weather 
+forecast" for Sunday. We're looking for a rather pleasant day across 
+a lot of the country. There could be a few rain showers across the 
+upper midwest and thunderstorms in southern Texas, and it will still 
+be wet and windy with mountain snow across the western part of the 
+country. An area of low pressure will drop southward across Nevada 
+and Utah, spreading rain showers into the great basin region with 
+snow in the higher elevations. Forecast highs on Sunday just 40s and 
+50s from the Great Lakes into New England. We'll see 70s and a few 
+80s down across the south. Looking ahead to Monday, rain and thunderstorms 
+with mountain snow pushed southeastward. The coolest air, once again, 
+New England, 40s and 50s. On Tuesday, we'll see showers and storms 
+spreading eastward. Highs just in the 40s and 50s over New England 
+again. For Wednesday, look for rain showers from the northwest into 
+the northern Great Lakes. 50s and 60s north, 70s and 80s south. Don't 
+forget, you can find four-day forecasts for more than 7,200 cities 
+at cNN.com. 
+</TEXT>
+</DOC>

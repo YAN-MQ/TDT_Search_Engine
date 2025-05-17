@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981204.2130.0967 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street closed higher today, but not enough to erase all of the 
+week's losses. For the week, the Dow lost 317 points. 
+</TEXT>
+</DOC>

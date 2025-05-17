@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981201.0130.1613 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Introducing the ultimate vacuum for the unmotivated. A robotic version 
+made its debut in Hong Kong today. It has built-in radar to help it 
+find open spaces to clean. Manufacturer, electrolux, says the robot 
+can pick up 97% of household dirt, compared to 75% by the average 
+human. 
+</TEXT>
+</DOC>

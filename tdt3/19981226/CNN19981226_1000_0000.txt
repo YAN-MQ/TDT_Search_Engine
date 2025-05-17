@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981226.1000.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's back to the malls for shoppers looking to take advantage of after-Christmas 
+sales. "CNN Headline News." I'm Judy Fortin. 
+</TEXT>
+</DOC>

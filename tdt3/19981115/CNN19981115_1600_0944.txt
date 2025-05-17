@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981115.1600.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The United Nations security council is meeting to consider the Iraqi 
+situation. The chief U.N. weapons inspector says his teams can return 
+to Iraq within 24 hours once they are given the go-ahead by the council. 
+</TEXT>
+</DOC>

@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> VOA19981214.0500.2633 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Les Carpenter, along with Paul Westpheling. This is VOA News Now. 
+</TEXT>
+</DOC>

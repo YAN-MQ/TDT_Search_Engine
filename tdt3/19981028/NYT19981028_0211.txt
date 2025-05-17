@@ -1,0 +1,67 @@
+<DOC>
+<DOCNO> NYT19981028.0211 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Once considered an engineering folly in a world of film and video 
+cameras, digital still cameras have become a booming industry in the 
+last decade. Kodak introduced its first digital camera in 1991, an 
+expensive model bought mostly by photojournalists _ and well-heeled 
+photojournalists at that, because it cost more than $20,000. Four 
+years later, Kodak offered the first digital camera it marketed to 
+less affluent consumers: the DC40, which cost less than $800. Now 
+Kodak, just one of many camera companies going digital, sells a complete 
+line of digital cameras. The industry is growing so fast that sales 
+revenue is increasing about 30 percent to 40 percent a year. Digital 
+cameras come in four varieties and two price ranges: expensive and 
+``if you need to ask. ...'' They cost a lot because of the complexity 
+of manufacturing the charge-coupled devices, or CCDs, at the heart 
+of nearly all digital cameras. The CCDs take the place of film in 
+these cameras. A photographer who wants a larger or better photograph 
+needs a camera with a larger CCD for greater resolution. Larger CCDs 
+cost more money, and the largest cost a lot. In the merely expensive 
+range is the basic consumer model, which usually costs a few hundred 
+dollars and is almost always less than $1,000. This is the basic point-and-shoot 
+type of camera many people might take on vacation. Its resolution 
+_ 640 by 480 pixels, for a total of 307,200 _ is adequate for small 
+prints and most computer applications, like sending family snapshots 
+on the Internet and illustrating Web pages. For more resolution or 
+larger prints, the next level up is the 35-mm single-lens-reflex camera. 
+Cameras like these are used by professional photographers like photojournalists 
+and are made by many of the major camera companies: Kodak, Leica, 
+Canon, Nikon and others. But you may need a friend at the bank to 
+get one. They range in cost from a few thousand dollars to about $30,000. 
+The next two types are for professional photographers who need even 
+higher-quality photographs. The third type has a removable back that 
+attaches to either medium-format or 4-by-5 cameras and is typically 
+used where extreme definition is needed for things like brochures 
+or magazines. The fourth is a camera that is really a scanner in a 
+camera's body; it registers an image pixel by pixel in such detail 
+that it is used for poster-size reproductions of stationary objects. 
+But even though much attention has been paid to digital cameras with 
+CCDs, breakthroughs in a related technology could revolutionize cameras 
+as we know them. CCDs deliver enough pixel density to make a good 
+photograph look good. But an improved chip called CMOS (pronounced 
+SEA-moss), for complementary metal oxide semiconductor, is expected 
+to be the next big step for digital imaging. The pixels in both CCD 
+and CMOS chips convert photons into electrons, but they differ in 
+how information moves off the chip. CMOS chips are much cheaper to 
+manufacture, and there is room on CMOS chips to include circuits for 
+things like image stabilization. CMOS chips have been around for about 
+30 years, but they have needed to be extremely large to deliver the 
+same pixel density as a CCD chip. So that has slowed the pace of their 
+adoption by manufacturers, even though they can operate with much 
+less power than CCD chips. Peter M. Davies, director of Kodak's marketing 
+program for digital and applied imaging, predicted that CMOS chips 
+would eventually be capable of images with the same clarity as CCDs 
+and be much cheaper. CMOS cameras will be able to operate much longer 
+without changing batteries. Kodak recently signed agreements with 
+both Motorola and Intel to develop a high-density CMOS chip, but Davies 
+said that effort would probably not lead to CMOS cameras by Kodak 
+for another year or 18 months. Marc J. Loinaz, a researcher at Bell 
+Labs, part of Lucent Technologies, said that as CMOS chips became 
+smaller, digital cameras would eventually be limited in size only 
+by lens sizes. ``If there ever is a Dick Tracy video watch,'' he said, 
+``it'll use CMOS chips.'' 
+</TEXT>
+</DOC>

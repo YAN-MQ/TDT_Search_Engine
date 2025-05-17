@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981213.1830.1083 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Up in space today, the "endeavour" astronauts released the fledgling 
+international space station. The next order of business? Preparing 
+for Tuesday's trip home. 
+</TEXT>
+</DOC>

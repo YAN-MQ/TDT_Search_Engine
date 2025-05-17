@@ -1,0 +1,110 @@
+<DOC>
+<DOCNO> NYT19981029.0330 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The government approved use of the drug tamoxifen Thursday to help 
+prevent or delay the development of breast cancer in healthy women 
+who have a very high risk of getting the disease. The manufacturer, 
+Zeneca Pharmaceuticals, said it would distribute computer disks, developed 
+with the National Cancer Institute, to doctors to help them assign 
+precise scores on a risk table to individual women. The scores would 
+then be used to help a doctor and patient decide whether to prescribe 
+the drug. Zeneca said it would immediately start promoting the drug 
+among doctors and then conduct a large advertising campaign aimed 
+directly at women early next year. The company said it would run advertisements 
+in widely circulated magazines and newspapers and might run commercials 
+on television and radio as well. The computer disk includes a series 
+of questions to assess a woman's risk of developing breast cancer. 
+Older women, women with a family history of breast cancer, women first 
+menstruated before the age of 12 and women who first became pregnant 
+after the age of 30 are at increased risk, researchers say. For women 
+with one or more of these factors, doctors may conclude that the benefits 
+of tamoxifen outweigh the possible side effects, which include blood 
+clots in the lungs or major veins and cancer of the lining of the 
+uterus, officials said. The medication has been used for more than 
+20 years to treat breast cancer. But Thursday the Food and Drug Administration 
+approved a new use, to reduce the incidence of breast cancer. Federal 
+officials said it was apparently the first anti-cancer drug to be 
+approved for people who do not have the disease. Studies by the National 
+Cancer Institute found that for women at high risk of getting breast 
+cancer tamoxifen reduced the chances of getting it by 44 percent, 
+though it does not eliminate the risk, and the long-term effects of 
+taking the drug are not yet known. Dr. Michael Friedman, the acting 
+commissioner of food and drugs, said, ``FDA strongly advises women 
+and their doctors to carefully weigh the benefits and risks of tamoxifen 
+before patients use the drug.'' Zeneca declined to estimate the size 
+of the prospective new market for tamoxifen. But Mary Lynn Carver, 
+a spokeswoman for the company, said that ``29 million women are at 
+increased risk for breast cancer and should discuss their risk with 
+their doctors and determine if tamoxifen therapy is appropriate.'' 
+The drug costs $80 to $100 a month, Ms. Carver said. The recommended 
+course of therapy lasts five years, but the protective effects appear 
+to last five years after a woman stops taking the drug, she added. 
+Zeneca sells tamoxifen under the name Nolvadex. The company, based 
+in Wilmington, Del., is a subsidiary of Zeneca Group PLC, an $8.6 
+billion bioscience company based in London. A business analyst who 
+follows the pharmaceutical industry said he estimates that sales will 
+increase 20 to 30 percent. ``The safety profile is not perfect for 
+a product that would be used on a large patient base or for a long 
+time,'' said the analyst, Sergio Traversa, of Mehta Partners. Ms. 
+Carver, the Zeneca spokeswoman, said that sales of tamoxifen in the 
+United States totaled $320 million last year. Eli Lilly &AMP; Co. 
+is also aiming at the breast-cancer prevention market and Traversa 
+noted that the company is studying the anti-cancer properties of its 
+drug Evista, which seems to have fewer side effects. The computer 
+disk Zeneca will distribute to doctors calculates a score for each 
+patient, based on the woman's answers to various questions. Zeneca 
+says a woman with a score of 1.67 or greater should talk to her doctor 
+about her breast-cancer risk and the use of tamoxifen. Ms. Carver 
+gave these hypothetical examples of how the risk-assessment system 
+works: _ A 45-year-old Hispanic woman, who had her first menstrual 
+period at the age of 12 and and her first child at the age of 38. 
+Her mother died of breast cancer, and her sister is being treated 
+for the disease. The woman has a risk score of 2.4 and should therefore 
+consider taking the drug. _ A 40-year-old white woman, who had her 
+first menstrual period at the age of 12 and has not had any children. 
+Her mother and sister have had breast cancer, and a breast biopsy 
+found that the woman had abnormal non-cancerous cells. The woman has 
+a risk score of 5.9 and should therefore discuss the possibility of 
+taking tamoxifen with her doctor. _ A 35-year-old black woman, who 
+was 15 when she had her first menstrual period and was 20 when she 
+had her first child. No close relatives have had breast cancer. She 
+herself has had two breast biopsies that found abnormal non-cancerous 
+cells. Her score is 1.1, so she is not a candidate to use the drug. 
+Cynthia Pearson, executive director of the National Women's Health 
+Network, a women's health advocacy group, said healthy women should 
+be cautious about using the drug approved Thursday. ``This is a premature 
+approval,'' she asserted. ``There's no way to know yet whether tamoxifen 
+can truly prevent breast cancer or merely delay it.'' In addition, 
+Ms. Pearson said she worried that heavy advertising could lead to 
+overuse of the drug. Women, she said, may underestimate the danger 
+of ``serious, even fatal complications.'' Scientists do not know exactly 
+how tamoxifen works, but they have a good idea of one possible mechanism. 
+Estrogen, a hormone, is believed to stimulate the growth of cancer 
+cells, and tamoxifen is believed to block the action of natural estrogens 
+in breast tissue, thus inhibiting the growth of breast cancer cells. 
+Federal officials and Zeneca executives sounded a similar note in 
+describing the significance of Thursday's decision. Health and Human 
+Services Secretary Donna Shalala said, ``Today's action provides an 
+important new option for some women at heightened risk of breast cancer,'' 
+the second leading cause of cancer death among American women. Zeneca 
+Pharmaceuticals president Robert Black said: ``For the millions of 
+women who are at high risk of developing breast cancer, there is now 
+something they can do to reduce the risk of developing the disease. 
+It's a new option, a choice, that many women will have available to 
+them as they discuss their health with their doctors.'' Clinical trials 
+of tamoxifen were halted 14 months early, in March of this year, after 
+scientists found that the drug sharply reduced the incidence of breast 
+cancer. Friedman of the FDA said that the risk of uterine cancer for 
+women taking tamoxifen was about three times the risk for women in 
+the general population not taking it. Zeneca said that such cancer 
+occurred in 20 to 30 women among every 10,000 treated with tamoxifen 
+in a year. By contrast, it said, current data indicate that there 
+are 7 cases of such cancer each year for every 10,000 healthy women 
+in the general population. The large-scale test of tamoxifen involved 
+13,388 women at high-risk of breast cancer. Half took the drug and 
+85 of them developed breast cancer; half took a placebo and 154 of 
+them developed breast cancer. 
+</TEXT>
+</DOC>

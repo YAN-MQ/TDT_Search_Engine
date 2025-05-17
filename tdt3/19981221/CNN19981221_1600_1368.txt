@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981221.1600.1368 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The "NFL performance of the week" was turned in by Jamal Anderson. 
+The falcons' running back rushed for 147 yards and scored two touchdowns 
+as atlanta beat Detroit, 24-17. The win gives the dirty birds just 
+their second divisional title and their first NFC west crown in 18 
+years. 
+</TEXT>
+</DOC>

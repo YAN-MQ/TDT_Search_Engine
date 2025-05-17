@@ -1,0 +1,79 @@
+<DOC>
+<DOCNO> NYT19981230.0389 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The president of Intuit Inc. stated Wednesday that Microsoft Corp. 
+could use its market power to gain control over ``major areas'' of 
+Internet commerce and asked the courts to give Microsoft's rivals 
+equal access to its Windows operating system and desktop screen. The 
+47-page written testimony of William Harris of Intuit, maker of Quicken 
+personal-finance software, brings two new issues into the Microsoft 
+antitrust trial: Microsoft's potential impact on the fast-growing 
+field of Internet commerce, and possible steps to curb Microsoft's 
+power. Both issues have been much debated outside the courtroom. The 
+government's case against Microsoft focuses mainly on its use and 
+alleged abuse of the market power derived from its dominant position 
+in the market for personal-computer operating system software. Microsoft, 
+the Justice Department says, has used its Windows monopoly to try 
+to thwart the challenge posed by software used to browse the World 
+Wide Web, pioneered by Netscape Communications Corp., and by Java, 
+an Internet programming language developed by Sun Microsystems Inc. 
+Most of the computer industry witnesses for the government have testified 
+on the tactics Microsoft used to undermine the Netscape-Sun challenge 
+_ namely, that Internet software could weaken Microsoft's grip on 
+personal-computer software. In his testimony, Harris, who is scheduled 
+to take the stand on Monday, does deal with one such episode involving 
+Intuit in 1997. To obtain prime placement on the Microsoft desktop, 
+Harris said, Intuit had to agree to bundle Microsoft's browser with 
+Intuit's online personal finance software and not bundle Netscape's 
+browser. The arrangement was negotiated for placement on a feature 
+of Microsoft's Internet Explorer browser called Active desktop. Microsoft, 
+Harris said, wanted Active desktop to be ``a new user interface for 
+Windows'' that would ``provide a choice of Internet Web sites that 
+could be directly accessed from the desktop.'' Intuit, he said, was 
+prepared to pay ``a substantial fee'' for this prime desktop real 
+estate. ``But,'' Harris added, ``Microsoft offered us this placement 
+instead in return for our agreement to forego future business dealings 
+with Netscape.'' The government points to such testimony as evidence 
+that Microsoft has used its market power stemming from Windows, which 
+runs on more than 90 percent of personal computers sold, to unfairly 
+hamper Netscape. Microsoft replied in a statement that Intuit chose 
+Microsoft's Internet Explorer browser over Netscape's Navigator because 
+by 1997 its software was superior. In fact, in his testimony Harris 
+wrote, ``The recommendation of our technical team was to use the Internet 
+Explorer.'' But he added that it was Intuit's judgment that Netscape 
+could deliver the browser capability Microsoft had, though a bit later. 
+And Harris said he preferred to work with Netscape because it was 
+not an Intuit competitor _ Microsoft's Money competes with Quicken 
+_ and at the time Netscape's browser was used by many more computer 
+users than Microsoft's browser. Yet Harris goes beyond the Internet 
+software market by arguing that Microsoft can use its operating system 
+dominance to influence or control Internet commerce and programming. 
+With Windows 98, the operating system upgrade introduced in June, 
+Microsoft has closely integrated Internet Explorer with Windows. As 
+a result, Harris said, Microsoft's start-up page _ an all-purpose 
+Web site, or portal, with links to many other sites _ will ``become 
+the default portal in the Windows operating system.'' A featured spot 
+on that start-up site, now called MSN.com, is regarded as prime real 
+estate by other Web sites offering everything from news to travel 
+services to personal finance information, according to Harris. Based 
+on his assumption about the importance of the operating system as 
+a ``choke point,'' and its growing importance in the future, Harris 
+called on the court to impose a sweeping sanction on Microsoft that 
+he terms ``operating system neutrality'' _ essentially a guarantee 
+that the company enjoy no advantages in new software or Internet commerce 
+markets from its operating system monopoly. In the Microsoft case, 
+the subject of remedies will be taken up only if Judge Thomas Penfield 
+Jackson rules against Microsoft _ and then there will be a separate 
+hearing. What weight, if any, the views of Harris would have is uncertain. 
+Microsoft called the remedies section of his testimony ``an entirely 
+new and irrelevant concept Harris cooked up on his own'' based on 
+``speculation and half-baked analyses.'' Industry analysts have also 
+noted that Microsoft's Active desktop initiative proved a failure 
+because people did not use it that much. Its failure has led many 
+analysts to suggest that placement on the Windows desktop, while useful, 
+may not be as important for Internet commerce and programming sites 
+as Microsoft had hoped or rivals like Intuit had feared. 
+</TEXT>
+</DOC>

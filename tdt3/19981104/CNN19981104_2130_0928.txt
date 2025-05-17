@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981104.2130.0928 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a look at our top stories -- President Clinton is celebrating 
+the strong democratic showing in this year's midterm election. He 
+says the results show voters are interested in issues and not partisan 
+politics. 
+</TEXT>
+</DOC>

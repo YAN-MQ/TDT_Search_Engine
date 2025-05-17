@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981202.1130.1256 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm Anthony Keith James, and this is "CNN Headline Sports." Clemson 
+has a new football coach. Tommy bowden is leaving Tulane to coach 
+the tigers. The report says, bowden reportedly will not coach Tulane 
+in the liberty bowl. He replaces Tommy west, who was fired last month 
+just before completing a 3-8 season. 
+</TEXT>
+</DOC>

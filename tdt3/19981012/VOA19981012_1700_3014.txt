@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981012.1700.3014 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+South African stocks were mostly higher Monday, amid gains in global 
+markets and expectations that interest rates could decline further. 
+The benchmark Johannesburg All Share Index rose 151 points to close 
+at 5213, its biggest gain in two weeks. The industrial index rose 
+207 points at 5755. The All Gold Index fell sharply, however, losing 
+71 points to close at 1192. 
+</TEXT>
+</DOC>

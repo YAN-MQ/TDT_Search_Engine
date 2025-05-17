@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981106.2130.0993 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The next time you buy a cup of coffee, thank El Nino that the price 
+isn't higher. Hurricane Mitch wiped out coffee, sugar, and banana 
+crops in central america. But analysts say that probably won't lead 
+to higher prices. El Nino weather spawned bumper crops for world producers, 
+and that should easily make up for the losses. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981215.2000.0229 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+With the time at four minutes past the hour you're listening to THE 
+WORLD. I'm Derrick Stoffel in the BBC newsroom in London. This is 
+PRI. 
+</TEXT>
+</DOC>

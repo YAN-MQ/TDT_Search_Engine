@@ -1,0 +1,88 @@
+<DOC>
+<DOCNO> NYT19981118.0252 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+What causes cancer? Almost anyone today could tell you that among 
+them are carcinogens, viruses, heredity or the body simply wearing 
+itself down: anything that prompts living cells to grow uncontrollably 
+and choke off the health of their host. Fine. But what exactly causes 
+this to happen? In his fascinating new book, ``One Renegade Cell: 
+How Cancer Begins,'' Robert A. Weinberg explains the exciting discoveries 
+in the field that have taken place in the last few decades, including 
+work at the Oncology Research Laboratory at the Whitehead Institute 
+for Biomedical Research at the Massachusetts Institute of Technology, 
+where he is the director. (He is also a professor of biology at MIT.) 
+A distillation and update of his earlier book, ``Racing to the Beginning 
+of the Road: The Search for the Origin of Cancer,'' ``One Renegade 
+Cell'' not only presents a clear and comprehensive overview of where 
+cancer research stands today; it also offers a breathtaking picture, 
+both wonderful and frightening, of the fantastic intricacy of aberrant 
+cellular functioning. ``Cancer is a disease of damaged genes,'' Weinberg 
+asserts. This is the ``major insight'' afforded by ``the scientific 
+revolution that began two decades ago'' and ``continues to this day,'' 
+revealing ``the invisible forces that create human cancer.'' What 
+damages the genes? In the mid-1970s, at the beginning of the revolution, 
+the answer was fought over by two warring camps, one of which had 
+evidence that carcinogenic chemicals caused genes to mutate and spur 
+out-of-control cellular growth, and the other of which knew that viruses 
+caused tumors to develop. Eventually, in 1982, what Weinberg calls 
+``a common thread'' was found. Both carcinogens and viruses turned 
+out to produce cancer genes called oncogenes, echoing ``the term oncology, 
+which refers to the specialty of treating tumors, and the Greek word 
+onkos, meaning a lump or mass.'' Weinberg concludes, ``The cell, responding 
+to the orders issued by the oncogene, began a program of unconstrained 
+proliferation.'' That seemed all there was to the disease. But others, 
+pointing to epidemiological data, found this explanation too simple. 
+If all it took to produce cancer was a single trigger, then how did 
+one account for the steeply rising age-dependent curve of cancer incidence, 
+which indicated ``that a multitude of events, happening in succession 
+one after another, must occur before a result is achieved, in this 
+case a diagnosed tumor''? So in what follows, Weinberg unfolds the 
+intricate details of what is now known about this assuredly complex 
+process. What it comes down to is not only genetic events that stimulate 
+the harmful growth of cells but also events that inhibit the beneficial 
+prevention of that growth, like a loss of the cells' ability to commit 
+assisted suicide, or apoptotic death, when surrounding cells are threatened. 
+Thanks to what is now understood, the author is able to account for 
+forms of the disease related to frequent cell growth, like colon cancer, 
+which may result in part from the rapid turnover of the colonic epithelial 
+cells, or breast cancer, which he says may be on the rise because 
+of ``modern nutrition and reproductive habits, which have collaborated 
+to increase the number of menstrual cycles that women experience during 
+their lifetimes.'' But any summary of ``One Renegade Cell'' is bound 
+to distort Weinberg's marvelously compact explication. Little grounding 
+in biology is required to comprehend it, yet it makes clear everything 
+from how cells communicate by means of protein, to DNA replication 
+and the way an apparatus within the cell copy edits the results. What 
+is particularly striking is the analogy Weinberg draws between cancer 
+cell growth and Darwinian survival of the fittest. The only glitch 
+is that sooner or later, evolving cancer cell populations ``kill the 
+host organism'' that is ``vital to their own survival.'' In Weinberg's 
+estimate, such cancer cell growth will afflict 40 percent of the American 
+population at some point in their lives. ``Half of these people will 
+be cured and the other half will eventually die of this disease.'' 
+What benefits will the developments he describes here so succinctly 
+yield? In his concluding chapter, ``An End to the Scourge: Using the 
+Knowledge of Cancer's Causes to Develop New Cures,'' he comes out 
+first for prevention, the identification and elimination of discrete 
+causes of the disease, in particular certain aspects of diet and behavior. 
+Surprisingly, he exonerates Western industrialism, pointing out that 
+``the rates of most kinds of cancers have held steady over half a 
+century, a time when environmental pollution has increased substantially.'' 
+Despite this rise, he writes, ``it seems that nearly half of current 
+cancer could be prevented through avoidance of tobacco use and high-fat, 
+high-meat diets.'' As for the rest, Weinberg foresees new methods 
+of early detection and smarter, less harmful drugs resulting from 
+``increasingly detailed information on the metabolisms of normal and 
+cancerous cells.'' He concludes: ``Those who engineer these successes 
+will view the discoveries of the last quarter of the 20th century 
+as little more than historical curiosities. But for the moment, we 
+allow ourselves to see things quite differently. We can glory in having 
+lived while the foundations were being laid. We have moved from substantial 
+ignorance to deep insight. We have lived through times of great excitement!'' 
+Something of this excitement is conveyed in the details of ``One Renegade 
+Cell.'' ONE RENEGADE CELL How Cancer Begins By Robert A. Weinberg 
+170 pages. Science Masters Series. Basic Books. $21. 
+</TEXT>
+</DOC>

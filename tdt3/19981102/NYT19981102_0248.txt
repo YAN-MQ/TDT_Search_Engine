@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NYT19981102.0248 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Blustery winds from the northwest circulating around 
+nearly stationary low pressure over New Brunswick will deliver very 
+chilly air to the Northeast on Tuesday. Afternoon temperatures will 
+be far below seasonal averages. Clouds will be abundant over northern 
+New England, where mountain flurries and valley sprinkles will occur. 
+There will be several hours of sunshine near the southern New England 
+coast. As the chilly air seeps south of the Mason-Dixon line, low 
+pressure in the western Carolinas will send a wedge of mild, moist 
+air northward. As the warm air glides up and over the expanding dome 
+of cool air, the result will be areas of rain and drizzle over the 
+middle Atlantic states. The heaviest rain will likely occur across 
+southern Virginia, where up to one-half inch of rain may fall. Farther 
+south, patchy thundershowers will precede an associated cold front 
+traversing the Deep South. Moist winds from the east will prevail 
+from the Ohio valley to the southern Plains states, sponsoring an 
+expansive area of low clouds with embedded pockets of light rain and 
+drizzle. Over the western Plains, showers will be greater in number 
+as the east winds are forced to ascend the sloping terrain. Cold air 
+will change the rain to snow across western Nebraska. Snow will also 
+fall in the higher elevations of the northern Rockies. A stream of 
+Pacific air will invade the Northwestern states. Showers will develop 
+near the coast and press inland. Snow will be confined to the highest 
+elevation of the northern Cascades. Meanwhile, sinking air currents 
+will prompt abundant sunshine over the Southwest. FOCUS: Rare Ice 
+Storm Freezing rain glazed McGrath, Alaska, for much of Sunday night, 
+an unusually long ice storm for this town nestled in the western interior 
+of the state. Moreover, by 4 a.m. on Monday, nearly a third of an 
+inch of rain had been measured, all of it freezing on contact with 
+the ground and other cold objects. This is an unusually high total 
+of freezing rain at McGrath, given the town's great distance from 
+moisture in the Bering Sea and Gulf of Alaska. With regard to both 
+duration and amount of freezing rain, such an ice storm is expected 
+to occur in McGrath only once in every ten to twenty years. 
+</TEXT>
+</DOC>

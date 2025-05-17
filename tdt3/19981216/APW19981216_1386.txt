@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> APW19981216.1386 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Traces of the virus that causes AIDS have been found in the semen 
+of men who responded well to aggressive drug therapy, causing scientists 
+to remind HIV-positive men to continue practicing safe sex. The discovery 
+was first reported by The Associated Press last month when it was 
+presented in Denver at the annual meeting of the Infectious Diseases 
+Society of America. It is now being published in Thursday's issue 
+of the New England Journal of medicine. Researchers at Thomas Jefferson 
+University in Philadelphia said they discovered the HIV provirus _ 
+the genetic component of the AIDS virus _ still in the semen cells 
+of four of seven men whose blood levels of HIV had been reduced to 
+undetectable levels. In test-tube experiments, the scientists were 
+able to grow the AIDS virus when they combined tiny provirus samples 
+from the patients with blood from individuals who had never been infected. 
+The study suggests that HIV-positive men whose health has dramatically 
+improved after taking the AIDS drug cocktail might still be able to 
+transmit the virus to others. The researchers described these provirus 
+reservoirs as the ``Trojan horse'' of AIDS, and said they may lurk 
+in the brain and retina cells, too. Determining how to eradicate these 
+last traces is the ``endgame'' in the two-decade battle against AIDS, 
+they said. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981205.1600.0403 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronauts on the space shuttle "endeavour" are beginning to tackle 
+the first task in assembling the international space station. They're 
+preparing to unload the 25,000-pound unity Module from the shuttle's 
+cargo bay using the 50-foot-long robot arm. Tomorrow, they'll connect 
+it with the Russian-made zarya control Module that was put into orbit 
+two weeks ago. The crew also will test spacesuits and jet-powered 
+backpacks that will be used during construction of the space station. 
+</TEXT>
+</DOC>

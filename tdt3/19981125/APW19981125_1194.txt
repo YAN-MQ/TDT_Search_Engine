@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> APW19981125.1194 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+AMERICAN LEADERS NEW YORK (AP)-Sales, 4 p.m. price and net change 
+of the 10 most active American Stock Exchange issues, trading nationally 
+at more than $1. Name Volume Last Chg. SPDR 4,262,000 118 7-8 Up 1-4 
+Keane 1,587,400 30 3-8 FstAustPrm 1,085,800 5 15-16 Up 1-16 Hasbro 
+678,100 34 3-8 Up 5-8 NaborsInd 614,500 15 Down 1-2 Cablevsn s 595,500 
+43 7-8 Up 2 1-2 GenovDrg 536,000 295-8 Up 1-4 GaylordCont 510,900 
+5 5-16 Up 1-4 WEBS Japan 426,600 10 3-8 CdnOcci g 420,500 14 Down 
+67-256 
+</TEXT>
+</DOC>

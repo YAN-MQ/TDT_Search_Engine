@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981226.1300.0501 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News" weather update. 
+An area of low pressure will continue moving off the east coast as 
+a cold front moves through the Great Lakes and New England. Scattered 
+snow showers are possible as this frontal system heads eastward. Also, 
+look for a reinforcing shot of cold air to move in from Canada, as 
+a New cold front pushes into the dakotas by Sunday. Two areas of low 
+pressure in the west will cause snow showers for the rockies and rain 
+along the pacific northwest coast. High temperatures will be moderating 
+in most of the south with 40s, 50s and 60s on tap. Southern Florida 
+will see temperatures in the 70s. It remains cold across the north 
+with temperatures in the single digits, teens, 20s and 30s from the 
+northeast coast through the Rockies. The extended forecast includes 
+heavy rain and snow in the northwest Monday, snowfall across New England 
+and a mix of rain and snow for the Ohio and tennessee river valleys. 
+Tuesday, you'll see heavy rain moving to the mid-atlantic coast with 
+showers and a few thunderstorms in the extreme southern portions of 
+florida. Look for heavy rain to continue in the west. That changes 
+to a mix by Wednesday. The extended forecast for more than 7,000 cities 
+is at CNN.com. 
+</TEXT>
+</DOC>

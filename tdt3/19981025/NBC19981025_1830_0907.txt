@@ -1,0 +1,72 @@
+<DOC>
+<DOCNO> NBC19981025.1830.0907 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In "focus" this evening -- lessons learned the hard way about transacting 
+business in cyberspace. NBC's Soledad O'Brien has our report. 29-year-old 
+Frank brucato, a New York City transit cop, had been investing in 
+the stock market for about a year, hoping to ride the bull market 
+and make a profit. I was going to use the money to buy a ring for 
+my girlfriend, sometime next year, and use the money to buy a house 
+with. Considering himself a savvy investor, he relied heavily on research 
+from the web, discussions with other investors. And when he heard 
+rumors about merger plans for a stock he already owned, he says he 
+bought more, $22,000 worth of mountain energy, a coal and gas exploration 
+company based in Houston. You always want to be on the next Microsoft 
+or Intel, basically a company that's going to emerge and do good. 
+The stock did great, rising in value from 50 cents a share, when he 
+bought it, to a high of $1.75. but in July, as the market hit its 
+all time high, the mountain energy stock was plunging. The security 
+and exchange commission announced a two-week halt on trading to look 
+into the "information disseminated about the company." The stock now 
+trades for pennies a share and Frank's $22,000 investment is now worth 
+about $400. Officials at the SEC will neither confirm or deny whether 
+they are continuing to investigate mountain energy. And the CEO believes 
+the company's stock was manipulated by others. The S.E.C. monitors 
+the market and keeps and eye on stocks on the web in their Internet 
+market watch group. You can't sort bad information from good information. 
+And information that Dom comes across the web has an or ra of credibility. 
+And there's not only bad information, the SEC has seen cases of out-and-out 
+fraud on the Internet. One of the biggest involved a company called 
+systems of excellence, which the S.E.C. calls a classic example of 
+a pump-and-dump scheme. In return for company stock, a newsletter 
+pumped investor interest in the stock, while insiders were dumping 
+it. Sga goldstar looked like a well established purveyor of disinterested 
+investment advice. In fact it was two individuals, operating from 
+an office in Tennessee who published investment recommendations in 
+exchange for bribes. The publisher of sga goldstar pled guilty to 
+securities fraud, and went to prison. Charles Hutto, the chairman 
+and CEO of systems of excellence, was also sentenced to prison for 
+fraud. Some start-up companies turn to the Internet to raise money 
+and in some cases hold stock offerings on the net. Not all of them 
+are safe places to invest. Matthew bowin is in jail, but the pitch 
+from his company still appears on the web. He gave investors the chance 
+to get in on the ground floor of interactive products and services. 
+He placed ads on financial web sites, and raised over $140,000 in 
+six months. Bowin was convicted on 54 counts of embezzlement, selling 
+unqualified securities and operating a financial scheme. Due to be 
+sentenced Friday, bowin now faces up to ten years in prison. Authorities 
+have recovered none of the money. Hi, my name is Dave baer, managing 
+-- The state of North Carolina, shut down netware international and 
+accused chief executive David baer with running a unchartered, U.N. 
+insured bank. By the time the netware assets were seized by federal 
+authorities, they seized over $2.3 million. Working out of this storefront 
+in mooresville North Carolina, the company offered deals on computers, 
+faxes, pagers and huge returns on accounts. Customers had to sign 
+other members. And were promised under some plans -- no taxes, ever, 
+on their money. I'm told that over 2,000 people have sent this organization 
+money. David baer denies he was ever in the banking business. Just 
+last month, the federal government brought criminal charges against 
+him for fraud. The federal deposit insurance corporation is monitoring 
+Internet banking. Netware international is one of six "banks" the 
+fdic has written special alerts about over the past two years. According 
+to the office of the comptroller of the currency, three of those banks 
+claim to be based in a place called malchesiak. The U.N. says it's 
+not on its roster. The state department's never heard of it. Cyberspace 
+is a virtual world, but you can loses real money. Soledad O'Brien, 
+NBC news, New York. For more on the dangers of Internet fraud, check 
+the "Internet underground" on our web site -- MSNBC.com. it includes 
+links to watchdog groups. 
+</TEXT>
+</DOC>

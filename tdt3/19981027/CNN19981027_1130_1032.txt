@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981027.1130.1032 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Consumer confidence slipped last month. According to a New York-based 
+private research group, consumer confidence fell much more than expected 
+in October. This is the fourth monthly drop in a row. Recent declines 
+in the stock market and global financial turmoil have been testing 
+consumers' confidence. Just last June, confidence grew to a 30-year 
+high. The conference board says while confidence remains high by historical 
+standards, further declines could impact spending. Taking a look at 
+the bond market -- 
+</TEXT>
+</DOC>

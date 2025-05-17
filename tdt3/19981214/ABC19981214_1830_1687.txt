@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981214.1830.1687 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is our report on "World News Tonight." There will be more on 
+the president's trip to Gaza later this evening on "Nightline." I'm 
+Peter Jennings. Have a good evening. See you tomorrow. Good night. 
+</TEXT>
+</DOC>

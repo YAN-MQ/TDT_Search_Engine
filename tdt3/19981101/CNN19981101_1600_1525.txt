@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981101.1600.1525 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Music was making waves on a beach in Sydney, Australia, today. A 65-piece 
+orchestra played to the sounds of the ocean as freshwater beach became 
+a natural amphitheater. The Symphony on the sand was a black-tie affair, 
+and that didn't seem to bother the surfers. Some rode the waves in 
+formal attire to the sounds of classical music. 
+</TEXT>
+</DOC>

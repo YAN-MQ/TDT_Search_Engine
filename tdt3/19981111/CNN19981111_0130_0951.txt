@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981111.0130.0951 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Tipper Gore is promising an additional $10 million in U.S. aid 
+to hurricane Mitch victims in central America. She and a congressional 
+delegation delivered medical supplies to Honduras tuesday. 
+</TEXT>
+</DOC>

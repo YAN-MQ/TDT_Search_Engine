@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981027.0130.0483 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Our extended weather forecast is next. And later -- a new drug is 
+making some paralyzed mice walk again. Could it also work on people? 
+</TEXT>
+</DOC>

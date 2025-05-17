@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981020.2130.0993 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The securities and exchange commission is going after 6 brokerage 
+firms for not reporting how they are preparing for the "year 2000" 
+computer bug. It's the first time the S.E.C. has enforced "year 2000" 
+disclosure rules. Computer systems around the world are expected to 
+interpret the last two digits of the "year 2000" as the year 1900. 
+</TEXT>
+</DOC>

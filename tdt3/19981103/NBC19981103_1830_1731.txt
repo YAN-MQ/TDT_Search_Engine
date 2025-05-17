@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981103.1830.1731 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have all the latest election results on this NBC station with 
+special NBC news coverage beginning at 10:00 eastern. And results 
+throughout the night on MSNBC on cable. And on miss NBC.com. that 
+is "Nightly News" for Tuesday. I'm Tom Brokaw. I'll see you tomorrow 
+night. 
+</TEXT>
+</DOC>

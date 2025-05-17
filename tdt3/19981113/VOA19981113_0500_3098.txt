@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981113.0500.3098 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Here in the United States, the Dow Jones, the Dow Jones Industrial 
+Average closed at 8829, up nearly 6 points, Thursday, with the broad-based 
+Standard and Poors 500 Index closed down 3 points at 1117. Traders 
+say there has not been much enthusiasm on Wall Street lately. Maybe 
+the market gets nervous as it approaches the 9000 mark. In any case, 
+some analysts believe shares are still overvalued. And further corrections 
+are coming. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981211.2130.0982 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That announcement from Coca-Cola didn't help Wall Street. The drop 
+occurred despite a positive report from the commerce department that 
+indicates retail sales rose in November. 
+</TEXT>
+</DOC>

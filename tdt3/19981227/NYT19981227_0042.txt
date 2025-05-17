@@ -1,0 +1,134 @@
+<DOC>
+<DOCNO> NYT19981227.0042 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Had a celebrant dozed off last New Year's Eve and not come to until 
+now, he might woozily take a look at the Internet business and conclude 
+that it had been an uneventful year. After all, the leading online 
+service is still America Online, the most popular site on the World 
+Wide Web is still Yahoo, and people are still transacting the most 
+electronic commerce through Amazon.com. All these companies are growing 
+briskly, as online use increases, just as they were a year ago. But 
+what if our Net van Winkle were to groggily dispatch a series of e-mails 
+to Internet investors and financiers, asking what he had missed? At 
+first, of course, he might be flamed by those incredulous that anyone 
+could sleep through all that ruckus. Internet stocks soared early 
+this year before stalling and then plunging in a terrifying free fall 
+in October, only to pull out and zoom even higher than before. Meanwhile, 
+initial public offerings by Internet companies were exploding into 
+the firmament like fireworks. For all the bombast, though, a look 
+back at the year's events indicate that our sleepy celebrant's initial 
+observation might be fairly accurate. In the Internet business, the 
+forces propelling the leading companies like America Online, Yahoo 
+and Amazon.com remained the same _ even if the pace picked up faster 
+than anyone might have expected. And yet the tumultuous year does 
+seem to yield at least five lessons about the Internet industry and 
+the stocks associated with it: _ The big get bigger and the small 
+fade away. At first glance, the Internet seems to favor David over 
+Goliath, as any upstart can open an online store or an electronic 
+publication. But it appears that the first capable pipsqueak to shoot 
+a slingshot in any given area may grow to giant size so quickly than 
+any new challengers have been kept at bay. ``Some very powerful franchises 
+have been built on the Internet in an incredibly short time,'' said 
+Fred Wilson, a principal with Flatiron Partners, a New York venture 
+capital firm. ``Some of these companies will be the leaders of the 
+economy in the next millennium.'' The best example is Amazon.com, 
+which continues to widen the gap between itself and its better-known 
+book-selling competitor, Barnes &AMP; Noble. And in the year's third 
+quarter, Amazon.com's first full quarter selling compact disks, it 
+became the country's leading online music retailer. (It's not an accident 
+that the two other leading music stores, CD Now and N2K, have chosen 
+to merge in order to attempt a new assault on the emerging Amazon.com 
+giant.) ``Being a successful Internet company is not as easy is it 
+might appear,'' said Derek brown, an analyst with the investment bank 
+of Volpe Brown Whelan &AMP; Co. _ When investors spot a category leader, 
+there is no limit to what they will pay to own the stock. The main 
+lesson of 1998, said Keith Benjamin, an analyst with BancBoston Robertson 
+Stephens, is ``just don't fight the tape.'' It's fruitless, Benjamin 
+has concluded, to try to find rational explanations for the astronomical 
+Internet stock prices sliding across the ticker. The fact that, in 
+the stock market, America Online is worth almost as much as Walt Disney 
+and that Yahoo is more valuable than CBS is simply not relevant, he 
+said. ``The market opportunity here is big enough that that is what 
+we should be focused on for any given segment,'' he said, ``and competitive 
+position is the most critical factor in judging these stocks'' Such 
+judgment, of course, involves far more forethought than many investors 
+may be applying. Yet, while much of the upward pricing pressure has 
+come from individual investors, increasingly the big boys have started 
+to compete for the relatively small number of shares in circulation 
+for the leading Internet companies, which has pushed prices every 
+higher. ``Institutional portfolio managers learned to `embrace' Internet 
+stocks in the second half, for a simple reason,'' said David Readerman, 
+an analyst with Nationsbanc Montgomery Securities. ``The stocks were 
+going up, and their relative performance suffered by not owning enough 
+of them.'' _ Everybody wants to be an Internet company. Imagine the 
+frenzy if someone introduced the anti-gravity diet, where no matter 
+how much you ate, the scale would still register you as weightless. 
+That is the equivalent of what the stock market has offered to Internet 
+companies, which are not penalized for gluttonous spending far in 
+excess of their meager incomes. So it's no surprise that all sorts 
+of other companies, weary of weighing in every quarter with the traditional 
+measure of profits or losses, would want to belly up to this brave 
+new training table. Witness the lighter-than-air feat of K-Tel International's 
+stock, when the company _ best known for hawking music compilations 
+late at night on UHF television stations _ announced it was moving 
+onto the Web. K-Tel's stock quadrupled in two weeks, and even now 
+is up 80 percent from its pre-Web days, closing last Thursday at $12.5625. 
+``The public is in love with the Internet and believes that Internet 
+stocks are the way to play the future,'' Wilson said. ``But the public 
+is not particularly adept at picking the good ones from the bad ones.'' 
+Even old-fashioned companies like Fingerhut, the catalog merchant, 
+have hired publicists to convince investors that their various Web 
+sites qualifies their stocks for Internet-style valuations. _ Investors 
+are very selective in accepting initial public stock offerings (except 
+when they'll buy anything.com). After the sharp drop in Internet stocks 
+at the end of the summer, when most companies gave up much of their 
+gains for the year, there was nearly a month when no initial public 
+offerings were bought to the market. Finger-wagging financiers warned 
+that it would be very difficult for any but the very best Internet 
+companies to go public. Then the market devoured offerings from Broadcast.com, 
+the leading Internet audio service, and Ebay, the leading Internet 
+flea market. And suddenly, all sorts of companies were going public 
+that were hardly leaders in anything. One such offering was for Theglobe.com, 
+an online chat service that has many fewer users than many of its 
+competitors, but still saw its shares jump from $9 to $97 on the first 
+day of trading in October. It now lingers at $38. One sign that the 
+death of outrage, much noted in Washington, is equally applicable 
+on Wall Street is that Zapata, a fish oil processor, has just resurrected 
+its much-ridiculed plan to transform itself into an Internet service 
+under the name Zap.Com. Zapata's shares nearly doubled in price last 
+Wednesday, when the company issued a press release announcing its 
+comeback. The shares closed last Thursday at $12.375, down $1.875. 
+_ The power is in the portals. Reading his e-mail, Net van Winkle 
+wouldn't know what people meant when they wrote of ``portals.'' A 
+year ago, services like Yahoo and Excite were known as search engines, 
+although they had already started to offer other portal services like 
+news and shopping guides, in order to keep their vast audience on 
+their sites longer. This past year, these companies and others doing 
+business as portal sites, along with America Online, were the main 
+beneficiaries of all the money that was pumped into Internet public 
+offerings. How come? Because all of the emerging commerce sites, like 
+Ebay, and online communities, like Geocities, spent millions of dollars 
+to buy advertising and other promotions on the popular portal sites. 
+``It was the Tom Sawyer phenomenon, where all of the neighborhood 
+kids paid Tom Sawyer in order to paint the fence for him,'' said Michael 
+Parekh, an analyst with Goldman, Sachs &AMP; Co. ``One-third to one-half 
+of the money raised by Internet IPOs,'' he said, ``was immediately 
+given to the portals.'' So what about next year? Would these lessons 
+become all the more evident after another 52-week nap? They could. 
+But then again, 1999 might be the year when even some of the Internet 
+giants are toppled. Maybe Walt Disney's new Go network will steal 
+some of the the thunder of Yahoo. Or the upstart Buy.Com, which sells 
+books and computer products at a loss in order to make money on advertising, 
+could surge past Amazon. Or maybe Congress will figure out how to 
+impose sales taxes on Internet purchases, slowing the growth of electronic 
+retailing. With expectations and many Internet stock prices at such 
+giddy heights, it might not take much of a disappointment to set off 
+a major, negative mood swing. ``Valuation is the risk in 1999,'' Readerman, 
+the analyst, said. ``When the stocks stop performing, the herd who 
+rushed in could just as easily reverse course, as everyone tries to 
+get out first.'' And that kind of a crash could be a little harder 
+to sleep through. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981025.1130.0948 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is in San Francisco today to wrap up a two-day fund-raising 
+trip to California. 
+</TEXT>
+</DOC>

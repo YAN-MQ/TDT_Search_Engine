@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> NBC19981229.1830.1589 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"Living better" tonight -- for about 3 million Americans, it's the 
+first thing they think of in the morning, and the very last thing 
+at night. Rheumatoid arthritis can cripple quality of life. Tonight, 
+there's word that new medications are on the way. But that raises 
+the question, "at what cost?" Here's NBC's chief science correspondent 
+Robert Bazell. John DeSheplo suffered terrible debilitating pain from 
+rheumatoid arthritis, but he suddenly feels better. My first injection 
+was on a Thursday night. And really, by that weekend, my life was 
+substantially different. The improvement comes from a new drug approved 
+last month by the food and drug administration. It's a product of 
+biotechnology where drugs are discovered by directed scientific research, 
+not at random like they used to be. This is the most dramatic new 
+drug that has come across in the last decade. Researchers at the immune 
+response corporation designed the drug, called enbrel, based on new 
+discoveries about how body fights infection. Rheumatoid arthritis 
+occurs when the immune systems goes haywire, what's called an autoimmune 
+disease. For reasons we don't understand, the body tends to attack 
+its own tissue rather than protect it. Here is how rheumatoid arthritis 
+does its damage. White blood cells that usually fight germs, instead, 
+attack the cartilage that cushions the joints. The result -- a smooth, 
+healthy joint becomes as pockmarked as the surface of the Moon, stiff 
+and often painful. I feel like a tin man, very stiff. I wish someone 
+would come along and oil me. To stop the attack on the joints, scientists 
+first learned that a Chemical messenger in the body summons the white 
+blood cells to the joints. Then they designed the drug to block the 
+messenger and shut down the inflammation. Doctors emphasize that though 
+effective, it is not a cure. I don't think there will be a cure for 
+rheumatoid arthritis. What I am hoping for is that we would be able 
+to develop better drugs where we truly can put a larger percentage 
+of the patients into remission. Indeed, the FDA also approved a second 
+cutting-edge drug called arava. And companies are developing several 
+more. But there can be a big problem with these new biotechnology 
+drugs. Price. A year's course of enbrel costs more than $12,000 and 
+often insurance does not cover medications. But when other treatments 
+have failed, for rheumatoid arthritis and many other conditions, the 
+new biotech drugs, whatever the price, offer the best hope for "living 
+better." Robert Bazell, NBC news, New York. 
+</TEXT>
+</DOC>

@@ -1,0 +1,268 @@
+<DOC>
+<DOCNO> NYT19981106.0283 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Corporate root canal. It's an apt phrase for the pain of installing 
+those monster, run-the-whole-show software packages that coordinate 
+a manufacturer's entire business from the time raw materials come 
+in the door to the time the customer pays the invoice. Yet companies 
+find the software's promises of slashed costs and supercharged productivity 
+irresistible, so the programs, known as enterprise resource planning 
+software, or ERP, are spreading fast. AMR Research, a research firm 
+in Boston, estimates that worldwide sales of enterprise software and 
+related services like maintenance and training totaled $10.9 billion 
+last year. And the Gartner Group, a research firm in Stamford, Conn., 
+expects sales to keep growing by at least 20 percent a year. ERP programs 
+are pricey, costing a minimum of $300,000 for a tiny shop and rising 
+into the hundreds of millions for a global giant like Coca-Cola or 
+General Motors. But analysts say that nearly every sizable manufacturer 
+in the United States and Europe either has ERP, is getting it or is 
+considering getting it soon. The boom has meant big business for consultants 
+like Arthur Andersen and for software vendors like Peoplesoft and 
+Oracle from the United States and Baan of the Netherlands. And it 
+has been a bonanza for the German giant SAP AG, which owns more than 
+a third of the enterprise software market. Its sales of ERP products 
+ballooned to $3.35 billion last year, from just $633.6 million in 
+1993. But popularity does not mean painlessness. Like oral surgery, 
+the process of installing enterprise software is never quick or easy 
+and can often be a scary mess. Whole departments must be retrained, 
+jobs redefined, and procedures discarded or rebuilt from scratch. 
+The inevitable glitches and unforeseen consequences can drive workers 
+crazy for months. And no two installations are exactly alike. Though 
+its core is packaged, off-the-shelf computer coding, an ERP program 
+lets a company choose from a myriad of preset configurations and options. 
+Should customers be tracked by name, location or account number? Should 
+sales reports be generated weekly, daily or hourly? Should labor costs 
+be aggregated plant by plant or apportioned among product lines? ``There 
+are 8,000 switches that you can flip to manipulate the software to 
+handle business processes your way,'' said Mark Gulling, ERP program 
+manager for Eastman Kodak, which began installing ERP software from 
+SAP in September 1997 and does not expect to be finished until 2001. 
+SAP is trying to make the process easier for its customers. It now 
+offers a product called Asap _ officially, Accelerated SAP, but the 
+pun on ``as soon as possible'' is quite intentional _ that uses a 
+methodical question-and-answer format to guide customers through the 
+software's many options. ``The big goal is to have no surprises,'' 
+said Werner Dilzer, SAP's global director of implementations. But 
+that goal is still some distance off, as can be seen in the experiences 
+of three SAP customers in the ERP front lines. One made just about 
+every mistake in the book; another succeeded from the start, and the 
+third is only starting _ but trying to learn from predecessors' mistakes. 
+BROTHER INDUSTRIES: Learning the Ropes, The Hard Way Back in early 
+1996, Brother Industries (USA) in Memphis, the American typewriter- 
+and word processor-making arm of Brother Industries Ltd. of Japan, 
+figured that installing SAP's enterprise software in eight months, 
+tops, would be a snap. Brother would simply dump all the data from 
+its existing software systems into the new data base. And while the 
+company was at it, why not simultaneously change over from a big mainframe 
+computer to a client-server system, based on desktop computers, that 
+nobody in the company had yet been trained to use? And of course, 
+the information technology people could run most of the project. Yeah, 
+right. ``They figured, it's packaged software, they didn't have to 
+train anyone _ four information systems folks could easily teach 250 
+users how to run it,'' said Samuel A. Cox, the chief information officer 
+hired by Brother in mid-1997 to clean up the resulting mess. Everything 
+that could go wrong did. Plants chronically ran low on raw materials 
+because no one had fed vital data to the new system about how long 
+it took to get parts from Brother's suppliers in mainland China _ 
+often six weeks or longer by the proverbial slow boat. Emergency air-freight 
+shipments, though expensive, might have been a solution, except that 
+all the pertinent vendor information was now locked up in new computers 
+that no one had thought to equip with surge protectors; they kept 
+crashing with every thunderstorm. ``This was a real case of garbage 
+in, garbage out,'' Cox said. The project team was made up almost entirely 
+of technologists who did not really understand what the system was 
+supposed to accomplish. For example, the team added up how many people 
+worked on each assembly line and the volume of parts and materials 
+ordered by each plant, figuring that the arithmetic was nuanced enough 
+to account for costs. But the numbers proved far too broad-brush for 
+operations executives who needed an accurate gauge of the cost of 
+making each product. They needed to know how employees' time was divided 
+over work on the line, coffee breaks and training; how many parts 
+were actually used and how many wound up as scrap. Safety glasses, 
+work gloves and other general-use materials needed to be factored 
+out. So did a lot of obsolete data. For years, employees had added 
+new parts numbers to the data base but never bothered to delete the 
+out-of-date ones. When the time came to switch to the SAP system, 
+half the 10,000 capacitors, screws, resistors, and such listed in 
+the data base were inactive. But the information was still dumped 
+into the new system. The huge amount of deadwood data slowed down 
+everything from checking for duplicate parts orders to analyzing the 
+supplier list. Even worse, when Brother's employees started adding 
+the additional information that the SAP software required _ the time 
+that each part sits in inventory before it is used, say, or the ratio 
+of bad to usable parts in each shipment _ they labored to find data 
+for twice as many parts as necessary. By the time Cox arrived, the 
+new system was far over budget and months behind schedule. He immediately 
+joined forces with Douglas Price, who at the time was Brother's vice 
+president for manufacturing, to figure out what the company's operations 
+people actually needed. ``Sam understood that SAP is not about hardware 
+or systems or software, but about the user community and its needs,'' 
+said Price, who was later wooed away from Brother to become a consultant 
+on SAP software for Pricewaterhouse Coopers. Together, Cox and Price 
+did the groundwork that should have been done at the outset, analyzing 
+labor and unit costs and waste rates at each plant and feeding the 
+data into the system. Finally, Cox said, the program began doing what 
+it was meant to do: keeping materials flowing, logging orders in, 
+sending bills out, highlighting the most efficient operations and 
+red-flagging the least. Once the system was debugged, Brother found, 
+for example, an inefficiency in its keyboard assembly line that it 
+could correct by giving line workers a simple insertion tool. And 
+it learned that productivity was greater in areas of its plants that 
+did not arbitrarily shift workers from line to line, so it now keeps 
+teams of people working together on the same models. Now that it has 
+tamed manufacturing control functions, Brother is expanding the program. 
+Starting in November, a sales and distribution module will rapidly 
+convert sales orders to production orders. Next on the agenda are 
+production planning and warehouse management. CULTOR FOOD SCIENCE: 
+Getting It Right The First Time In a sense, Cultor Food Science in 
+Ardsley, N.Y., a subsidiary of Cultor Ltd. of Finland, was a shoo-in 
+for getting a workable ERP program up and running in just six months. 
+In early 1996, the company acquired the food ingredient division of 
+Pfizer Inc., sending Cultor Food's annual sales from $150 million 
+to $400 million in one big jump and challenging it to integrate a 
+much larger operation into its own. ``Sure, there's always resistance 
+to change, but it helps when there's no entrenched system to replace,'' 
+said Richard Baratta, the company's director of finance. Still, the 
+biggest factor in Cultor's successful adoption of enterprise software 
+was probably its extensive preparation. Cultor's management began 
+by figuring out which specific sorts of data, reports and control 
+systems it needed and then challenged software program vendors with 
+a kind of test: Show us how your program processes orders overseas, 
+prove that it can track our product from our shipping dock through 
+a European middleman to an ultimate user, and show us how you account 
+for on-paper profit transfers among plants. ``We knew what information 
+we needed, and we weren't buying any program until we were sure it 
+could provide it,'' Baratta said. SAP got the highest marks on the 
+test, so in mid-1996, Cultor assumed the role of student: It bought 
+the SAP package and became one of the first companies to try its Asap 
+product. The company assembled a team of six, drawn from both the 
+newly acquired Pfizer division and the old Cultor and including both 
+technical and operations managers. Cultor gave the team a separate 
+project room and established 48-hour deadlines to make decisions. 
+Team members talked frequently with operations people to see whether 
+the evolving program was really meeting their needs. It didn't always. 
+The human resources department dropped out of the project when it 
+became clear that the system could provide only 40 percent of the 
+data it needed. Manufacturing, on the other hand, signed up for the 
+program late in the game. ``If you're already setting up systems to 
+track raw materials coming in and product going out, it makes no sense 
+to have this production planning gap in the middle,'' Baratta said. 
+Other departments made bad choices and had to backpedal. Sales initially 
+insisted that the system account separately for orders to each of 
+Cultor's three product divisions, even if the orders came from the 
+same customer. Within a few weeks, sales managers saw that this method 
+caused duplication and made the company miss chances to combine orders 
+into one shipment. Cultor returned to accounting for orders by customer, 
+not by division. Then came a training blitz that did not stop with 
+just a few department heads. It reached, for example, to the quality 
+manager who for years had set aside Friday afternoons to enter a week's 
+worth of quality test results but now would have to enter them as 
+soon as the tests were completed. ``The SAP program won't add product 
+to the inventory list unless it's passed inspection, so our inventory 
+records wouldn't make sense otherwise,'' Baratta explained. Cultor 
+also learned the importance of keeping all its plants and divisions 
+in the loop. Many Cultor plants use one another's products as ingredients 
+and were accustomed to faxing orders back and forth. When the North 
+American plants became the first to implement the new software, they 
+stopped the practice, assuming that the system would handle internal 
+order processing electronically. It does _ but the European plants, 
+not yet on the new system, weren't alerted to check for incoming electronic 
+orders. ``We didn't do a great job of communicating,'' Baratta acknowledged. 
+Even so, Cultor managed to get five plants in three countries running 
+on ERP software in just six months. Its advice to others? ``Remember 
+that time is money with SAP,'' Baratta said. ``So get it up, get it 
+running, tweak it if you have to, but don't discuss, discuss, discuss. 
+If you make a wrong decision, you can always change it later.'' VISTEON 
+AUTOMOTIVE: Taking It Slowly, To Dodge Pitfalls Most veterans of ERP 
+installations say two important ingredients for success are narrowing 
+scope and bringing users on board. If so, Visteon Automotive Systems 
+should do just fine. Visteon, the $17 billion, 80,000-employee automotive 
+components unit of Ford Motor Co., started installing SAP enterprise 
+software only in late August and is early in the process. But for 
+a year now, Stephen Delaney, Visteon's vice president for supply and 
+process leadership, has eaten, breathed and slept ERP He and his project 
+team built an extensive wish list by interviewing every employee who 
+would use the new software. Then they drafted 50 specific goals related 
+to speeding up the order-to-shipment process, cutting costs and increasing 
+productivity. They dropped any request that did not directly advance 
+those goals. For now, Visteon's system will not bother with data about 
+tariffs and customs procedures, nor will it include manufacturing 
+data. Why? Feeding those masses of information into the system might 
+distract attention from the need to improve the handling of costs, 
+materials planning and order processing. ``Manufacturing is not a 
+weak area for us,'' Delaney said. ``We know we have to fix up our 
+transaction analysis first.'' Users made 115 requests for data reported 
+in ways that deviated from the program's standard formats, but the 
+project team whittled those down to a handful. The accounting department 
+wanted to stick with software it had grown to love; the ERP team said 
+no. ``Accounting transactions are the blood cells running through 
+the veins of the business transactions, and doing it outside SAP would 
+take away from the business process,'' Delaney said. Once the company 
+bought the SAP package, Delaney assembled 60 people from Visteon operations 
+and 40 from information technology and set them to configuring the 
+software full-time. He sequestered them in a leased building across 
+the street from Visteon's Dearborn, Mich., headquarters and declared 
+it off-limits to their old bosses and colleagues, except for ERP business. 
+The group reports to Delaney, who in turn reports to Visteon's president. 
+The team is setting what Delaney calls ``inchstones'' instead of milestones. 
+The team sets weekly goals for configuring the system and tracks the 
+hours spent on each goal. As each portion of the program is installed, 
+the productivity gains or cost savings are measured against expectations. 
+``We will be able to see, almost person by person, what we are doing 
+right and what we have to rethink,'' said Dave Bent, director of processes 
+and systems. In the works is a bonus system for team members who consistently 
+meet their inchstones. For now, Visteon is installing SAP software 
+only in its smallest division, a $700 million glass unit that employs 
+about 400 people, does most of its business in North America and does 
+not have thousands of permutations and combinations of its product 
+to account for. But representatives from other plants are participating 
+in the glass project to make sure it incorporates functions that their 
+operations will need. The glass division is scheduled to switch to 
+the new system next July, and Delaney wants it to run for at least 
+six months before he starts rolling out the SAP software to other 
+units. Will it work? Ask him in 2002, when the whole company is supposed 
+to be up and running. SOME PAINKILLERS FOR THE START-UP By CLAUDIA 
+H. DEUTSCH c.1998 N.Y. Times News Service The pitfalls of installing 
+enterprise resource planning programs _ software packages that coordinate 
+a manufacturer's entire operation _ are legion. Technology and operations 
+workers may find themselves working at cross-purposes, for example, 
+or management may fail to set or enforce deadlines. Or maybe the company 
+is biting off more sweeping changes than it can chew. Vendors, consultants 
+and rueful been-there, done-that customers say the companies that 
+avoid the worst headaches have these characteristics in common. _ 
+The project has a high-level sponsor. ``Middle management makes the 
+system work, but middle management takes its clues heavily from senior 
+management,'' said David Alschuler, a vice president of the Aberdeen 
+Group, a market research firm in Boston that has studied ERP installations. 
+_ The goals are specific and manageable. For example, a program can 
+be set up to allocate inventory efficiently _ to large customers first, 
+to high-priority countries first, or to fill orders as they come in. 
+But it can't do all three at once. _ Business changes are made before 
+the software is configured. If the company is about to start selling 
+over the Internet, for example, the new sales system is put in place 
+before locking in the way the ERP software will handle sales and distribution. 
+_ End-users are on the project team. The system has to do what operations 
+managers need, not what technologists think they need. ``The IT department 
+may be facilitating this, but it is the operations people who will 
+really drive it,'' said D. Michael Travis, head of Arthur Andersen's 
+ERP consulting practice. _ The team is sequestered. Freed from regular 
+duties, team members work in a separate project room where they can 
+kick around ideas without distractions from regular bosses and colleagues. 
+_ The team can make final decisions, but on short deadlines. ``A wrong 
+decision is better than no decision, because at least something is 
+getting done,'' said Werner Dilzer of SAP, the German software giant. 
+_ Implementation is gradual. Madness lies in trying to roll out a 
+system simultaneously to every plant in 20 countries. Taken one country 
+or business unit at a time, it becomes manageable. _ Ample time is 
+spent on training. An administrative assistant who enters a purchase 
+order once a month might need only a day's lesson; a person responsible 
+for the checking and recording of inventory probably needs at least 
+a week. _ Old security blankets are discarded. Companies may be tempted, 
+for example, to force the system to keep generating paper reports 
+just because the staff is used to them. Inevitably, though, people 
+will make changes on paper and forget to enter the changed data in 
+the system. Better to scrap the paper reports entirely. 
+</TEXT>
+</DOC>

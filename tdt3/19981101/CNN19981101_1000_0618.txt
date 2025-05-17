@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981101.1000.0618 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The FBI says in at least four of seven cases, letters allegedly containing 
+anthrax that were sent to clinics that perform abortions, did not 
+contain the deadly bacteria. Letters arrived Friday at four clinics 
+in Kentucky and Indiana. The letters announced "you have just been 
+exposed to Anthrax." Authorities are still trying to determine the 
+nature of the powdery substance in the letters. 
+</TEXT>
+</DOC>

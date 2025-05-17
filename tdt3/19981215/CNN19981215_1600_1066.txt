@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981215.1600.1066 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Consumer electronics retailer best buy announcing third quarter results. 
+For the three-month period last month, best buy says its profits doubled 
+from a year earlier. Best buy is the nation's largest volume specialty 
+retailer of name-brand consumer electronics, personal computers, entertainment 
+software and appliances. 
+</TEXT>
+</DOC>

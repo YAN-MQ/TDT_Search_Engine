@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981109.1600.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court has let stand a ruling that requires presidential 
+aid bruce Lindsey and other White House attorneys to testify before 
+a grand jury over the Monica Lewinsky matter. Lawyers for the president 
+argue Lindsey's testimony was protected by attorney/client privilege. 
+</TEXT>
+</DOC>

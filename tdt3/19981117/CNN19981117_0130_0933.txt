@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981117.0130.0933 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And CNN has learned Mr. Clinton overruled the advice of his top advisers 
+in calling off air strikes against Iraq last weekend. Secretary of 
+state Madeleine Albright and defense secretary William Cohen had argued 
+Iraq's promises were not genuine. 
+</TEXT>
+</DOC>

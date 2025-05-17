@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981208.0130.1285 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Well, after two weeks of officiating blunders, the NFL is considering 
+bringing back instant replay for this season's playoffs. The system 
+would be similar to the one used in preseason experiments. 
+</TEXT>
+</DOC>

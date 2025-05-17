@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981018.1130.0711 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In New York City, an elevator at the park central hotel suddenly plunged 
+into the basement yesterday. Police say the cable snapped as the elevator 
+was passing the 20th floor on its way down. 15 people suffered minor 
+injuries. Authorities are still investigating the accident. 
+</TEXT>
+</DOC>

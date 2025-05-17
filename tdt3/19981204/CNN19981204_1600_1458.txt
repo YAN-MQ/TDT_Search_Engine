@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981204.1600.1458 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An update on show biz softball, the "Frasier" team recently edged 
+out "the tonight show" team by a score of 14-12. 
+</TEXT>
+</DOC>

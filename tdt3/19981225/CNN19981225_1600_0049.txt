@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981225.1600.0049 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Yet another quest to circle the globe nonstop in a balloon has come 
+to an end. One week after taking off, British tycoon Richard Branson 
+and his two copilots on board the ico global challenger landed near 
+Honolulu today. The decision to abort the mission came after the crew 
+became stuck in a Low-pressure system. Ground controllers say weather 
+was not the only problem. I think we learned a lot after this mission. 
+Unfortunately, a lot of it was -- a lot of our lessons were political. 
+But having said all that, the weather got us in the end. If you're 
+going to be defeated on the round-the-world balloon flight, it's best 
+to be defeated by weather rather than political problems. The balloonists 
+traveled 8,000 miles or about half the distance of the journey. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0655 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Research could have an impact on the future of organ transplants according 
+to the "New York Times." Scientists at a biotechnology company say 
+they have found a way to make human cells revert to the embree onic 
+state from which all other cells develop. Researchers say that was 
+done by fusing human cells with cow eggs creating a hybrid cell. The 
+company says the research could eventually be used to grow replacement 
+body tissue from a patient's own cells. 
+</TEXT>
+</DOC>

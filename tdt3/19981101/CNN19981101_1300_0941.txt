@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981101.1300.0941 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is traveling to Baltimore to attend services at 
+an african-American church today. He's expected to appeal for blacks 
+to turn out for Tuesday's elections. 
+</TEXT>
+</DOC>

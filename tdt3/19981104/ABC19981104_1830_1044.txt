@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981104.1830.1044 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sales of cars and trucks were unusually high last month. Sales were 
+up at General Motors and Ford. Chrysler, Toyota and Honda had their 
+best October ever. 
+</TEXT>
+</DOC>

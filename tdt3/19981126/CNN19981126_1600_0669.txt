@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981126.1600.0669 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This week on the "cold & flu report" -- winter is approaching. And 
+along with cold weather comes the yearly rise in the common cold and 
+the flu. Contrary to popular belief, doctors say it's not the cold 
+weather that makes us sick, it's the fact that cold weather drives 
+us indoors. That means more contact between people and more opportunity 
+for diseases to spread. Wintertime also means we'll be turning the 
+heat up. The hot, dry air produced by heaters sucks the moisture out 
+of our nasal passages making us more susceptible to infection. The 
+two ways to lessen this problem are to use humidifiers and drink plenty 
+of liquids. 
+</TEXT>
+</DOC>

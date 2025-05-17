@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981118.1600.0466 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Thursday. Our blizzard-like conditions over North Dakota 
+and Minnesota will move northeastward into sections of Ontario and 
+Quebec, although snow will linger across the western Great Lakes. 
+By Thursday evening, we'll see some rain and snow pushing into the 
+northeast and some rain showers along a frontal boundary all the way 
+down toward the gulf coast. There's a big storm off the coast in the 
+northwest that will cause some wet and windy weather this weekend. 
+Thursday's highs just in the 20s and 30s across the north-central 
+U.S. it'll still be pretty mild in the southeast -- 60s, 70s and even 
+some 80s. Looking ahead to Friday, look for rain and snow in the northeast 
+and some heavy rain and wind developing in the northwest. On Saturday, 
+the rain continues northwest. And Sunday, that is the area of focus 
+with rain continuing right into sunday. Highs a little milder through 
+the plains, some 60s, in fact. The coolest air will be across the 
+northeast. 
+</TEXT>
+</DOC>

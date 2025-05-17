@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981027.0130.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Retiring senator John Glenn and the crew of the shuttle "discovery" 
+is preparing for Thursday's scheduled launch from Kennedy space center. 
+At 77, Glenn will become the oldest person in space. 
+</TEXT>
+</DOC>

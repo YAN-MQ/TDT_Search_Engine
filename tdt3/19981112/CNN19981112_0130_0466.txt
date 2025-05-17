@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981112.0130.0466 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The midwest's first winter storm is subsiding but power crews are 
+trying to restore electricity for more than 1 million people in several 
+states. Wind gusts of 93 miles an hour were reported in parts of Wisconsin. 
+Meteorologists say the blizzard was one of the most powerful ever 
+to hit the midwest and the strongest low-pressure system in 25-years. 
+It brought more than a foot of snow to some places and is being blamed 
+for at least seven deaths. 
+</TEXT>
+</DOC>

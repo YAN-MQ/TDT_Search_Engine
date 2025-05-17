@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> VOA19981130.1600.0995 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The U.S. Supreme Court has heard arguments in a case that could affect 
+the shape of congressional election districts nationwide and billions 
+of dollars in federal financial aid. The Clinton administration asks 
+the court to allow statistical sampling in the year 2000 census. The 
+administration says statistical sampling will provide a more accurate 
+count of minorities and inner city residents who allegedly were under 
+counted in the 1990 census. This is VOA News Now from Washington. 
+I'm Tony Riggs. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981202.1600.1042 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Deutsche bank making headlines once again. The company is buying the 
+Belgian business of credit lyonnais. The price tag, about $590 million. 
+This comes just two days after the German bank confirmed its $10.1 
+billion buyout of bankers trust. 
+</TEXT>
+</DOC>

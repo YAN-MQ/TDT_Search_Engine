@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> ABC19981202.1830.0220 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton said today he was "very concerned" about the prospect 
+of more layoffs at Boeing, which is the nation's biggest exporter. 
+Mr. Clinton said an economic recovery in Asia is the key to getting 
+companies like Boeing back on track. But Asia is not the only problem. 
+At Boeing headquarters near Seattle, here's ABC's Brian Rooney. For 
+the people who make Boeing's jets, this is a familiar cycle of boom 
+-- and now the bust. The whole time I've worked here it's been hire 
+a bunch of people, lay them off, hire a bunch of people, lay them 
+off. I grew up with this. My dad is a retired Boeing engineer and 
+he was laid off. Boeing blamed much of its trouble on the downturn 
+in the Asian economy. Two dozen jets parked in the Arizona desert 
+are evidence that with a slump in air travel, several Asian airlines 
+can't afford to buy the planes they ordered. But much of this is the 
+result of internal problems that came during the boom while Boeing 
+tried to fill record orders for airplanes too quickly. Usually when 
+they produce sort of the peak of the cycle, when they're producing 
+the most airplanes, they make the most money. That didn't happen this 
+time because of the production problems. In a two-year period, Boeing 
+hired 445,000 new workers, many of who had to be trained and at the 
+same time was having trouble getting parts in time to put them in 
+the planes. So basically, what they do is put the plane together then 
+they have to take the plane apart to put a particular component in 
+it. One Boeing official said this morning that it has taken 20% to 
+30% more hours of labor to build jets than it did in 1992. And some 
+analysts said Boeing announced even bigger layoffs just to impress 
+investors, with its determination to cut costs and make profits. Analysts 
+also question whether Boeing actually will lay off 48,000 employees. 
+Despite cutting back, Boeing still plans its biggest production run 
+ever next year. Given the production problems, it could be hard to 
+make planes and money with so many fewer workers to do it. Brian Rooney, 
+ABC News, Seattle. 
+</TEXT>
+</DOC>

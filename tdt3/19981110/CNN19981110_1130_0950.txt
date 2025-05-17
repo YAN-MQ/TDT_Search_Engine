@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981110.1130.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+thanks, catherine. after a pessimistic start, the dow industrials 
+are reversing earlier losses. right now, the dow is currently up 3 
+at 8901. the dow had been down 43 points earlier. nasdaq composite 
+is up one. in the bond market -- 
+</TEXT>
+</DOC>

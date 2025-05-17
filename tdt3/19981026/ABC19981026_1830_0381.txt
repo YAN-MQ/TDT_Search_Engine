@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981026.1830.0381 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The price of personal computers keeps coming down, so computer sales 
+are up. 14% in the last quarter. 
+</TEXT>
+</DOC>

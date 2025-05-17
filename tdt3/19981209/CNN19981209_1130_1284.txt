@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981209.1130.1284 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Home court advantage comes to an end. I'm Anthony Keith James, and 
+this is "CNN Headline Sports." Iowa rallied from 18 down in the second 
+half to upset number ten Kansas, 85-81, snapping the jayhawks' 62-game 
+home win streak. Kent McCausland led Iowa back, hitting two of his 
+five three pointers in the final 1:40. 
+</TEXT>
+</DOC>

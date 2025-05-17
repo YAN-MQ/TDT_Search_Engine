@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> NYT19981111.0441 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In an unusual move, a prominent nonprofit human rights organization 
+has developed and will sell to the public an Internet filter that 
+blocks access to several hundred Web sites that the organization says 
+advocate bigotry. The organization, the Anti-Defamation League, unveiled 
+the filter Wednesday at its annual national meeting in Boston. The 
+device is intended for use by parents and is called the ADL Hatefilter. 
+Most Internet filters have been created and marketed by businesses. 
+Although many of those products block sites espousing intolerance, 
+the devices are generally used to screen out online pornography. The 
+ADL filter bans sites that preach anti-Semitism, racism, homophobia 
+and other forms of bigotry. Among the off-limits Web pages are Ku 
+Klux Klan sites and the white supremacist Aryan Nations site. Abraham 
+Foxman, national director of the Anti-Defamation League, said the 
+project had been undertaken to bring his 85-year-old organization's 
+experience in fighting anti-Semitism and other forms of prejudice 
+to the Internet. Foxman said the ADL ``stands with a certain reputation 
+and credibility on this subject.'' ``Hate out there is rampant,'' 
+he said. ``You used to have to make an effort to get hate. Now it 
+comes into your home unsuspected.'' Some critics of filtering devices 
+have questioned whether they are appropriate shields against offensive 
+material or high-tech censorship. Karen Schneider, a librarian who 
+has written a book about Internet filters, said the Anti-Defamation 
+League's effort was misguided because she believed that it sought 
+to fight prejudice with an electronic version of eye-averting. ``I 
+find it disturbing that the Anti-Defamation League thinks that the 
+way to prevent anti-Semitism is to hide it from the people who care 
+about anti-Semitism,'' Ms. Schneider said. But Foxman said it was 
+appropriate for parents to try to keep hate speech from their homes. 
+``If I as a parent decide I don't want access to this or I don't want 
+my child to have access to this, that's not censorship,'' he said. 
+`That's exercising my constitutional right.'' But as of Tuesday, the 
+device was not foolproof. When a user working on a computer with the 
+filter running tried to reach three sites likely to be caught by the 
+filter _ her access was blocked. But when she tried to reach a white 
+nationalist site called rahowa, standing for for ``racial holy war,'' 
+she was still able to view the group's home page even though she was 
+denied entry to most of the site. When the problem was pointed out, 
+it was corrected shortly afterward. Jonathan Wallace, a founding member 
+of the Censorware Project, a group that opposes filtering, said filtering 
+technology was still so crude that it was always imperfect, and that 
+it ended up either blocking legitimate material, missing objectionable 
+sites, or both. ``People market these products as if they protect 
+a child 100 percent,'' Wallace said. ``What if it protects a child 
+40 percent?'' When the filter is in place, a user who tries to call 
+up a proscribed site instead sees a page that says: ``Hate Zone. Access 
+Restricted.'' There is also a button that takes the user to an ADL 
+``Stop Hate'' Web site, with information about bigotry. The filter 
+is based on technology developed by Cyber Patrol, a popular filtering 
+product made by The Learning Company in Cambridge, Mass. It costs 
+$29.95 for the first three months, and $29.95 for every year afterward. 
+A spokeswoman for the Anti-Defamation League said the price was meant 
+to offset the costs of developing and maintaining the filter, not 
+to generate a profit. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981019.1600.1666 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We're back in two minutes with the afternoon's top stories, including 
+the latest on the Paula Jones case. I'm Chuck Roberts. Keep it tuned 
+to "Headline News." 
+</TEXT>
+</DOC>

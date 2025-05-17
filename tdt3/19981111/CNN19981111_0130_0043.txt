@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981111.0130.0043 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+From the northern plains to the northern Mississippi valley, people 
+are feeling the fury of the season's first major snowstorm. Tens of 
+thousands of people are without electricity after strong winds and 
+heavy snowfall knocked down power lines across the region. The storm 
+also is making for treacherous road conditions. Hundreds of miles 
+of highway have been closed from Nebraska to Minnesota, as have schools 
+across the region. At least two storm-related deaths are reported. 
+In Chicago, the winds and rain are weakening. Utility crews battled 
+all day Tuesday against the gusts, some as strong as 65 miles an hour. 
+Some airlines canceled morning flights at O'hare and Midway airports. 
+The storm has already dumped up to two feet of snow in the Rockies, 
+knocking out power for thousands of people in Colorado and New Mexico. 
+Outages are reported from Nebraska and South Dakota, into Illinois 
+and arkansas. Officials in the dakotas say there are hundreds of stranded 
+vehicles along the interstate, and people are being warned to stay 
+off the roads. 
+</TEXT>
+</DOC>

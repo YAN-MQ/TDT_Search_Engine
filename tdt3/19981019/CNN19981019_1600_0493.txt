@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981019.1600.0493 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hundreds of firefighters continue to struggle with a fire near lake 
+Piru in california's Ventura county, officials say it may have been 
+started by a Spark from a welder's torch. Another wild fire north 
+of Santa Barbara has burned at least 2,200 acres in the Los padres 
+national forest. Forest service officials say light winds and dry 
+conditions fueled the fire over the weekend and have been hampering 
+fire-fighting efforts. 
+</TEXT>
+</DOC>

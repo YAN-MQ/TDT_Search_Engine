@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981022.2130.0974 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For the seventh day in a row, the Dow Jones industrial average posted 
+a Gain. Analysts say the cut in interest rates may be partially responsible. 
+The market closed at 8533 up nearly 14 points. 
+</TEXT>
+</DOC>

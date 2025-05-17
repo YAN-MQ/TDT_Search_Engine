@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981031.1000.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A real estate developer raises the stakes for Paula Jones by $1 million. 
+Democrats attack house speaker Newt Gingrich, as election day approaches. 
+And halloween is becoming a big treat for merchants. 
+</TEXT>
+</DOC>

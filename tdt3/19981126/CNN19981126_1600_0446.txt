@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981126.1600.0446 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The pacific northwest is recovering from its second strong storm system 
+in three days. Heavy rain and strong winds set off mud slides, toppled 
+trees, blew over mobile homes, and left many residents without power. 
+Flood watches are in effect for several of Oregon's coastal counties. 
+The rain should continue through this afternoon. 
+</TEXT>
+</DOC>

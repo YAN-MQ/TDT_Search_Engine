@@ -1,0 +1,93 @@
+<DOC>
+<DOCNO> NYT19981129.0075 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+By the time an e-mail message reaches a resident of Grants, N.M., 
+an isolated town 75 miles west of Albuquerque, it has traveled where 
+few Internet transmissions have gone before. The town's primary Internet 
+provider, Cibola Internet Services, is linked to cyberspace by a satellite 
+about 23,000 miles above the Earth. At $1,700 a month, the service 
+is not cheap, but the alternative was even less appealing: Cibola's 
+owner, Louis Uttaro, said he had waited six months for the local phone 
+company to install a high-speed line with a monthly fee of $2,200. 
+Thousands of businesses, schools and Internet service providers in 
+remote areas have turned to satellite access to the Internet because 
+land lines are either unavailable or too expensive. Yet service by 
+satellite is still a small player in the Internet marketplace, and 
+industry analysts are skeptical that traditional satellite connections 
+such as that provided to Cibola will ever be affordable enough to 
+play a large role in the overall market. Nonetheless, two California 
+start-up companies say they have engineered ways for more people to 
+use the same satellite simultaneously to gain access to the Internet 
+and thus make the technology more affordable and widespread. The goal 
+of these companies is to offer less expensive alternatives to a T1 
+line, the high-speed connection that most Internet service providers 
+and large corporations lease from local telephone companies. A T1 
+line can handle 1.5 million bits, the smallest units of information 
+handled by a computer, a second. One company, Tachyon Inc., based 
+in San Diego, plans to begin testing its technology in Europe within 
+a month, offering high-speed access, equal in some cases to what is 
+offered by a T1 line, for $400 a month. The second company, Aloha 
+Networks Inc. in San Francisco, plans to start a similar service, 
+called SkyDSL, within six months. Both systems cost several thousand 
+dollars to install and are aimed at businesses, not individual consumers, 
+and at buyers primarily outside the United States. ``This works in 
+Dubuque, in Mazatlan, in Dubai _ anywhere there is not good cable 
+and good service,'' John Koehler, president of Tachyon, said. ``Our 
+business is to provide communication links from anywhere to the Internet.'' 
+The satellite companies do not plan to compete directly with dial-up 
+access, digital subscriber lines, cable modems or T1 lines, which 
+can cost $350 to $3,000 a month, depending on how far the line must 
+be stretched. ``Land lines aren't going to go away,'' said Nicholas 
+Negroponte, founder of the Massachusetts Institute of Technology's 
+Media Lab and a member of Tachyon's board. ``If you want to move bits 
+from a specific point in Manhattan to a specific point in London, 
+there is no better way than to stretch a fiber line between them.'' 
+But he sees Tachyon's solution as having great potential in regions 
+devoid of telephone and cable lines. ``I'm looking for ways that rural 
+communities and developing nations can get Internet access long before 
+they can get wired or even wireless terrestrial structure,'' he said, 
+``and this is the only way of doing it for the next four or five years.'' 
+Analysts are skeptical, though, that the technology will enjoy widespread 
+success. Abhi Chaki, a senior analyst with Jupiter Communications, 
+a market research firm in New York, projects that by 2003 at most 
+2 percent of online households in the United States will use satellite 
+access to the Internet. And he says he does not think that overseas 
+markets will grow as much as the start-up companies expect. Chaki 
+said customers would not be very likely to switch from land lines 
+even if the satellite technology improved, in part because they would 
+perceive it as unreliable. ``If technology alone were responsible 
+for owning market share, you'd see Apple and Betamax owning the markets,'' 
+he said. Even the proponents of satellite access acknowledge that 
+the technology presents some serious challenges. The way satellite 
+access works varies by company, but in general, when an Internet user 
+requests a connection to a Web page, the signal first travels through 
+a land line to a satellite dish, typically on the roof of the company 
+or the service provider. The dish then transmits the signal at least 
+22,300 miles into space via radio waves to a geostationary satellite 
+_ one that is always in the same position in relation to the equator, 
+so that the ground antenna never has to move. The satellite sends 
+the request back to Earth, where it is directed to the Internet. Once 
+the information is retrieved, it is sent by the same process back 
+to the user. The whole process takes only seconds. But one drawback 
+of satellite-based Internet access is that the data do not travel 
+at the same speed in both directions. Data sent from the satellite 
+down to the user travel at speeds of 500 kilobits to 2 megabits a 
+second, but the speed of information sent from the user up to the 
+satellite is typically not much greater than that delivered through 
+a standard 56 kilobit-per-second modem. Bigger satellites and more 
+transmission power are required for a faster trip up, and most businesses 
+would find the cost prohibitive, industry analysts say. The unequal 
+speed coming and going, known as asynchronous bandwidth, may be fine 
+for individuals who typically send out, or ``upload'' to the network, 
+only e-mail and Web page requests, and it is common with some nonsatellite 
+forms of Internet access. But it is a problem for corporations that 
+want to maintain Web pages. A second sticking point with satellite 
+access is that the distance the data must travel can cause delays. 
+A third is that the geostationary satellites cost about $2 million 
+a year to lease, yet can process only a limited number of simultaneous 
+data streams _ about 400 sources at a time, said Jim Omura, president 
+and chief executive of Aloha. 
+</TEXT>
+</DOC>

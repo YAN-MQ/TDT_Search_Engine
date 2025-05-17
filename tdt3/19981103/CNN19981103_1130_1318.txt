@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981103.1130.1318 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Ohio state is the new number one in the latest championship rankings 
+ranking. UCLA falls to third. 
+</TEXT>
+</DOC>

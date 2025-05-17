@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981107.1000.0469 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A White House official says President Clinton plans to ease some of 
+the sanctions against Pakistan and India. The two countries were punished 
+for performing nuclear tests earlier this year. Mr. Clinton apparently 
+is satisfied with the steps taken by both governments to comply with 
+the comprehensive test ban treaty and the dialogue between them over 
+the disputed territory Kashmir. 
+</TEXT>
+</DOC>

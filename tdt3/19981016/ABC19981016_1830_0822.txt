@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981016.1830.0822 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It was another good day an Wall Street. The Dow Jones industrial average 
+rose for than 117 points. For the week, it was the largest gain in 
+points ever. On the NASDAQ markets, stocks were up nearly 10 points. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981108.1600.0960 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Germany is among the European countries considering waiving debt 
+payments for central American countries hit by hurricane Mitch. The 
+storm killed more than 10,000 people. 
+</TEXT>
+</DOC>

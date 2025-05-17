@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981118.2130.1028 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+High-tech companies say it may take more than passwords to protect 
+private information on the Internet. In fact, many companies at the 
+comdex computer trade show in Las Vegas have been pushing "biometrics" 
+as the next wave of network security. It uses small computer attachments 
+to read eyes, fingerprints or other personal features that cannot 
+be stolen, shared or forgotten. It's a $25 million-A-year industry. 
+Industry analysts say that could expand to $1 billion by 2000. 
+</TEXT>
+</DOC>

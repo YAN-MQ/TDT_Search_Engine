@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> NYT19981230.0248 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+When champagne flows New Year's Eve, those sparkling, heady bubbles 
+may owe their origin as much to computer chips as to yeast and sugar. 
+Don't worry _ winemakers will still taste at strategic points as grapes 
+turn themselves into champagne or chardonnay or sauvignon blanc. There 
+are still some things even the most talented circuit can't do. But 
+microprocessors have definitely invaded the vineyard. Digital images 
+taken from 15,000 feet above the vineyards of the Napa Valley in California 
+help spot properly ripening grapes. Computer-controlled cages can 
+rotate hundreds of bottles of sparkling wine far more efficiently 
+than any human, neatly collecting sediment for removal while preserving 
+all those tiny bubbles. Computers are now in the sky above California's 
+vines and in the earth below, in the fermentation tanks and even on 
+the presses that gently squeeze the grapes. Throughout California, 
+computer technology is being adopted by wineries like Beringer Vineyards, 
+a large winery in St. Helena, where Ed Sbragia, the winemaker, uses 
+a laptop to check the temperature of the fermentation tanks, and Cakebread 
+Cellars, a small family-owned winery in Rutherford, which is developing 
+an online library. ``Winemakers like to preserve the image of handcrafted 
+wine, where people hop into the barrels and crush the grapes with 
+their feet,' said James Laube, the author of ``California Wine'' (Wine 
+Spectator Press, 1995) and a senior editor at Wine Spectator magazine. 
+``In fact, computers are absolutely involved in the producing of excellent 
+wines, whether they are on the presses or monitoring the fermentation 
+tanks.'' Larger companies like Beringer and Mondavi rely on technology 
+in part because they are dealing with so many grapes. ``A mom-and-pop 
+operation where the owners walk through their 10 acres of grapes has 
+less need of computers,'' Laube said. Most of all, technology has 
+helped eliminate flawed wines with less desirable characteristics. 
+``The computer has helped people become better grape growers and better 
+winemakers, and the result is better wine,'' Laube said. ``Ten to 
+15 years ago, a much more variable quality of wine was being made. 
+Today there are very few defective wines, a huge upside for consumers.'' 
+Jack Cakebread and his sons Dennis and Bruce are using an online library 
+so their growers, scattered up and down the valley, can check and 
+compare moisture, pruning and tasting records, even if some of them 
+have to borrow their children's computers to do it. ``Wine is about 
+taste,'' Bruce Cake-bread said. ``Computer technology, particularly 
+in irrigation management, can help make the wine taste better.'' Cakebread 
+looks after the flavor of his wine in part with the help of a neutron 
+probe, a hand-size device with a built-in radioactive source that 
+measures soil moisture during the growing season. If a lot of water 
+is percolating through the soil, neutrons will be slowed by collisions 
+with the hydrogen atoms in the water. The device measures the number 
+of slowed neutrons, a reliable indication of moisture. Of course, 
+not every winemaker has a laptop in the tasting room. At Ridge Vineyards 
+in the Santa Cruz Mountains above Cupertino, Calif., for instance, 
+no computer is permitted to monitor the temperature of the winery's 
+complex, highly regarded reds as they ferment in their stainless-steel 
+tanks. ``We measure the temperature by hand,'' said Paul Draper, who 
+has been the winemaker at Ridge for 29 years. 
+</TEXT>
+</DOC>

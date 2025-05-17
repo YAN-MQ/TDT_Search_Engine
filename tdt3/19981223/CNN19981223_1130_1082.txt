@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981223.1130.1082 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's official, the New York stock exchange will remain in the big 
+apple. The trading floor was at the center of a real estate tug of 
+war between New York and New Jersey. Garden state offered $1 billion 
+in incentive to air tract the nyse. The offer from New York City was 
+not quite as much, but enough to convince the big board to move to 
+a new state of the art building still on Wall Street. 
+</TEXT>
+</DOC>

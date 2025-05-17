@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> CNN19981030.1600.0587 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Danny canal went home from the hospital today after making medical 
+history in Miami. The 13-year-old underwent three multiple organ transplants 
+involving his liver, pancreas and stomach. Elizabeth Cohen reports 
+the boy's experience highlights the debate within the medical community 
+about how organs for transplant are allocated. More than 4,000 people 
+will die each year waiting for an organ transplant. There simply aren't 
+enough organs to go around. So how is it decided who gets them? You 
+might think it's based on which patients are the sickest. But it's 
+not. It's based largely on geography. Here's an example -- let's say 
+a patient in New York desperately needs a Heart transplant. He's on 
+the verge of death. And let's say another patient, one in neighboring 
+Connecticut, also needs a Heart transplant, but is healthy enough 
+to wait a few months. And then a heart becomes available in Connecticut. 
+Under the current organ transplant system, the patient from Connecticut 
+gets the heart, even though he doesn't need it as badly. Some bioethicists 
+think this method of giving out organs locally is unfair. What's in 
+patients' best interests much of the time is to have a national distribution 
+system. Health and human services secretary Donna Shalala agrees. 
+She asked Congress for a national system, but Congress put her plan 
+on hold while it asked the institute of medicine to study the issue. 
+In the meantime, the current system stays in place. One major point 
+of contention -- some critics say rich people have a clear advantage. 
+They can afford to travel around to doctors in various cities, getting 
+on several different waiting lists at a time. When we have situations 
+where people can double dip or triple dip or quadruple list themselves, 
+it just tells you geography isn't fair. But the united network for 
+organ sharing, which is responsible for organ transplant allocations, 
+opposes a nationalm. If I have an organ here in Los Angeles and I 
+ship it to New York, the likelihood of that organ getting in within 
+12 hours is pretty small. The institute of medicine report is due 
+out in may. But until then, patients like Danny canal will continue 
+to spur on debate. Elizabeth Cohen, CNN, Atlanta. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981020.1600.0347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Firefighters in southern California are struggling to fully contain 
+two fires that have charred about 7,000 acres. Two dozen planes and 
+helicopters and 1,700 firefighters are trying to bring the fires under 
+control. Calmer winds and cooler temperatures have helped in the effort 
+today. Yesterday flames came within 200 yards of some homes, and a 
+condominium complex was evacuated. A 3,800-acre wildfire in Ventura 
+county is now 50% contained. A 3,300-acre blaze in Los padres national 
+forest is 40% contained. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> APW19981021.0839 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+PARIS (AP) The Ariane 5 rocket, the most powerful in the European 
+series of unmanned rockets, made its third and final test launch Wednesday, 
+an apparent success. The rocket blasted off from its space base in 
+Kourou, French Guiana, on the northern shoulder of South America, 
+sailing into the heavens apparently without a hitch. European officials 
+had been holding their breath for the launch, interrupted briefly 
+by a halt in the countdown. MORE 
+</TEXT>
+</DOC>

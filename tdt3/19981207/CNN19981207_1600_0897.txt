@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981207.1600.0897 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton today announced a plan aimed at ending waste and 
+abuse in the Medicare program. He says the plan will save the government 
+$2 billion in health payments. 
+</TEXT>
+</DOC>

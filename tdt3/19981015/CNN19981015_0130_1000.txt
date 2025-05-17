@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981015.0130.1000 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The auto sector helped boost retail sales by a modest amount in September. 
+Overall retail sales rose just 0.3% last month. That follows a meager 
+two-tenths rise in August. But auto sales jumped 0.9% in September, 
+the best gain in four months. 
+</TEXT>
+</DOC>

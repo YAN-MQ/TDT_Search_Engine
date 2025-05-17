@@ -1,0 +1,91 @@
+<DOC>
+<DOCNO> NYT19981113.0115 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+During a lunch break at work this summer, Allen Crane tapped into 
+the Internet on his desktop computer, looking for life insurance. 
+Within half an hour, Crane, a recently married computer programmer 
+in Fort Worth, had looked at prices from a couple dozen companies. 
+Later, he talked with his wife, Laura, and then, on another lunch 
+break, went back to an Internet site called Quickquote and bought 
+a $500,000 policy. ``I liked being able to comparison-shop,'' Crane 
+said. Internet shopping is booming these days, and shares in companies 
+like Amazon.com, which peddles books, and Ebay, an online auction 
+service, are surging. But it is not just books, collectibles and electronic 
+gear that are popping up on computer screens. As Crane's experience 
+shows, more and more people are searching the Internet for good deals 
+in insurance as well. Forrester Research in Cambridge, Mass., says 
+it expects Internet insurance sales to approach $155 million this 
+year and to soar to $4 billion within five years. Two years ago, when 
+insurance sales were just beginning on the Internet, about the only 
+kind you could buy was term life, the least complicated form of life 
+insurance. But now, several Internet distributors are offering auto 
+insurance _ listing various companies' offerings on a single Web site 
+_ and some have added homeowners', health and disability policies, 
+too. The pricing of auto insurance, with its many variables, is difficult 
+to translate over the Internet. But because it is mandatory in almost 
+every state, it holds the most potential. ``Eighty million households 
+have to buy or renew auto insurance each year,'' said Linda Maurer, 
+a spokeswoman for Insweb, an Internet distributor in Redwood City, 
+Calif., that is betting heavily on auto insurance. ``About four million 
+people buy term life.'' For most people, shopping for insurance is 
+not quite as onerous as major surgery. But it is a long way down the 
+pleasure list from planning a vacation in the tropics. Many customers 
+say they just want to see what is available, know how much it will 
+cost, make decisions and pay. Right now, the Internet can handle most 
+of those desires for comparison-shopping. Closing the deals is another 
+matter _ few can actually be completed on line. And most companies 
+still refuse to lop off the commissions they would otherwise pay an 
+agent. Information on life insurance seems to be easiest to come by. 
+Customers can peruse a wide range off offerings and choose coverage 
+with the click of a mouse. But customers must sign and return an application, 
+and the policies generally will not take effect without a visit from 
+a paramedic who takes blood and urine samples and checks blood pressure. 
+For other insurance, distributors are not yet able to do more than 
+provide a handful of prices. Shoppers often have to wait to get prices 
+in a return e-mail or telephone call from an agent. Even so, some 
+people say the Internet saves them time and money. In about an hour, 
+Shirley Mathews, a retired commercial insurance administrator in Cincinnati, 
+lined up full coverage for the three cars that she and her 28-year-old 
+son drive. She got a price of $1,400 a year, $300 less than for her 
+current policy. Ms. Mathews is an experienced Web surfer. But it still 
+took a while to find a distributor _ in her case, Insweb.com. Punch 
+in the words ``life insurance'' or ``auto insurance'' and hundreds 
+of Internet sites will pop up, representing individual companies or 
+agents, distributors with multiple listings and billboards. Without 
+an Internet address from an article or an advertisement, there is 
+little alternative to trial and error. ``That's one of the biggest 
+problems with the Internet,'' said Dan Wager, an insurance agent who 
+runs Quickquote in Incline Village, Nev., which provides prices for 
+28 companies. ``But it's still a lot better than going through endless 
+interviews with agents who typically represent only one or two companies.'' 
+Larry Laurence, the chairman of Itech Automated Life Insurance Quotation 
+Systems in Point Richmond, Calif., which sells policies from 60 companies 
+through a combination of the Internet and agents, warns that shopping 
+for life insurance by computer is not without pitfalls. People with 
+medical conditions like high blood pressure, for example, are apt 
+to apply for the lowest-priced coverage, then, when they are turned 
+down, accept a more expensive policy from the same company even though 
+better deals may be available elsewhere. An agent, Laurence said, 
+could help these customers find alternatives. Another company that 
+combines research on the computer with an agent's advice, Answer Financial 
+Inc. in Los Angeles, sells exclusively through workplace groups. It 
+offers life, auto and homeowners' insurance from 55 companies. To 
+be sure, agents can be helpful. But Jay Angoff, a former Missouri 
+insurance commissioner, cautioned that agents will be agents, however 
+well-intentioned. ``The legal duty of the agent to the customer is 
+very, very minimal,'' he said. ``The agent does not have a duty to 
+inform the customer about other coverage that is available or that 
+might be beneficial. The agent is the company's agent and not the 
+customer's agent.'' The Internet, of course, is hardly going to make 
+agents disappear. Steven Aldrich, the president of Quicken Insure 
+Market in Alexandria, Va., sees a combination of machines and agents 
+well into the future. ``About a third of the people are going to be 
+very comfortable buying online, without any human contact,'' said 
+Aldrich, whose company is owned by Intuit Inc., the financial software 
+concern. ``Others are going to be happy to finish up with a telephone 
+conversation. And another third are going to use the Internet to find 
+an agent who will walk them through the entire process.'' 
+</TEXT>
+</DOC>

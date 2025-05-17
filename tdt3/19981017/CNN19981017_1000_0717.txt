@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981017.1000.0717 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In a legal battle over book selling, Wal-Mart is suing Amazon.com, 
+the company that sells books on the Internet. Wal-Mart accuses Amazon 
+of recruiting former employees and targeting vendors to try to learn 
+more about its records on sales, inventory and customer buying habits. 
+Wal-Mart is asking for a court order to prevent Amazon from duplicating 
+any of its technology. An Amazon spokesman says his company is not 
+interested in getting trade secrets. 
+</TEXT>
+</DOC>

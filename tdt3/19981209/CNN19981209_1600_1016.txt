@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981209.1600.1016 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some good news for the troubled aerospace giant Boeing -- TWA has 
+ordered 50 of Boeing's new and smaller 717 jets. It also has options 
+for 50 more. That order has a potential value of $3 billion. This 
+comes on top of yesterday's order from a European carrier for $335 
+million of those planes. Boeing just last week announced layoffs and 
+production cutbacks due to the economic turmoil in Asia. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981103.0500.1191 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock prices in the United States were up strongly Monday as the October 
+rally continued into the first trading day of the new month. The Dow 
+Jones Industrial Average gained 114 points to 8706. That's more than 
+one percent. The Standard & Poor's 500 Index is up almost 13 points, 
+and the NASDAQ composite gained 29. 
+</TEXT>
+</DOC>

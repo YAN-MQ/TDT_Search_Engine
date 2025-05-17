@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981221.1600.1485 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The mission to our planet will continue into the next millennium. 
+NBC has quietly renewed "3rd rock from the sun" for the 1999-2000 
+season. This is Dennis Michael with the "Hollywood Minute." 
+</TEXT>
+</DOC>

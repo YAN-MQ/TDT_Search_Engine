@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981102.2000.1603 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+For the fourth day, stocks advanced on Wall Street. Today the Dow 
+ended 114 points up to close at 8706. The Nasdaq was also up 29 points 
+to 1801. 
+</TEXT>
+</DOC>

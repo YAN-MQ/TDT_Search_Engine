@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> NYT19981222.0291 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+At its last meeting before the adoption of a single currency, the 
+European Central Bank signaled Tuesday that there would be no immediate 
+cuts in interest rates when the euro is introduced next month. At 
+a meeting on Tuesday of its central council in Frankfurt, the bank 
+set a narrow one-month interest rate corridor around its main lending 
+rate of 3 percent, apparently aimed at smoothing money market operations 
+and avoiding rate volatility in the infancy of the new currency. Wim 
+Duisenberg, the Dutch president of the central bank, said Tuesday's 
+decisions were intended to demonstrate that the bank ``does not want 
+to give any signal for a further easing in the foreseeable future.'' 
+The moves came less than three weeks after 10 of the 11 nations in 
+the euro zone simultaneously cut their main refinancing rate to 3 
+percent. The 11th, Italy, dropped its rate to 3.5 percent. Duisenberg 
+said Rome could theoretically remain out of step until Dec. 31, when 
+the Italian central bank loses its autonomy within the European Central 
+Bank system. From Jan. 4, when money markets reopen after the New 
+Year's holiday weekend, through Jan. 21, the bank's marginal borrowing 
+rate, its most expensive, will be set at 3.25 percent, and the deposit 
+rate, the least expensive, at 2.75 percent, creating a narrow corridor 
+around the central refinancing rate of 3 percent set on Dec. 3. At 
+its next meeting, on Jan. 21, it said it would change this rate range, 
+lifting the marginal rate to 5.5 percent and lowering the deposit 
+rate to 2 percent, in a move perhaps intended to assure the flexibility 
+required to deal with any global economic slowdown. This would be 
+done without budging the key refinancing rate, which would stay at 
+3 percent. These rates are used by the central bank to limit the interest 
+rates charged each day by commercial banks. The 2 percent deposit 
+rate is even lower than the German central bank's comparable discount 
+rate, of 2.5 percent. Duisenberg said the narrow interest corridor 
+for money market rates aimed at ``smoothing the adaptation for the 
+participants in the euro money market during the initial days of monetary 
+union.'' Citing signs that recessions in emerging-market economies 
+were beginning to dampen European growth, economists said the decisions 
+left the bank room to maneuver if conditions worsened. ``It's a conservative 
+range of interest rate targets,'' said J. Paul Horne, chief European 
+equity market economist at Salomon Smith Barney in London, describing 
+the interest rate environment as ``extraordinary and without precedent,'' 
+given the extremely low levels of inflation and dangers of global 
+slowing. Horne said that the market meltdown in Russia last summer 
+was having a ``fairly serious'' slowing effect on European economies, 
+most notably in Britain. ``They've got to leave themselves lots of 
+leeway to react credibly and appropriately,'' Horne said of the central 
+bankers. But Duisenberg, speaking at a news conference after the bank's 
+last meeting before it assumes rate-setting control for the countries 
+embracing the single currency, was at pains to discourage expectations 
+of any further rate cuts soon. He noted that the 3 percent key rate 
+set early this month was ``very low by historical standards.'' The 
+key rates are comparable to the Federal funds rate in the United States, 
+the target rate for overnight loans between banks, which is now 4.75 
+percent. The European bank will set monetary policy for Germany, France, 
+Italy, Spain, Portugal, the Netherlands, Belgium, Finland, Luxembourg, 
+Ireland and Austria in January, after these countries lock their exchange 
+rates together to form a common currency. Coins and banknotes will 
+not be introduced for three years, but all interbank transactions, 
+as well as the pricing of equities and bonds within the zone, will 
+be done in euros. 
+</TEXT>
+</DOC>

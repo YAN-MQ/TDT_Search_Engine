@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> APW19981021.1141 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Ariane 5 rocket, the most powerful in the European series of unmanned 
+rockets, sailed into the heavens above South America Wednesday in 
+a final test launch hailed as a success. The lift-off from its space 
+base in Kourou, French Guiana, on the northern shoulder of South America, 
+came at 13:37 p.m. local time (1637 GMT) -- well within the launch 
+window despite a half-hour halt in the countdown. The successful third 
+test of Ariane 5, powered with solid-propellant boosters, followed 
+a failure in 1996 and a test last year that was only partially satisfactory. 
+Just 31 minutes after lift-off, Flight 503 successfully simulated 
+the launching, at an altitude of 1,500 kms (932 miles) of a mockup 
+satellite that was part of its payload, the 2.6-ton MAGSAT 3. Arianespace, 
+the commercial arm of the European Space Agency, said that Ariane 
+5 ``left no doubts as to its ability to deliver payloads ....'' Confirming 
+Ariane 5's capacity to lob satellites into geostationary transfer 
+orbit was the prime goal of the test. The Ariane 5 also dropped a 
+capsule with instruments to measure various functions. The capsule 
+was to be recovered in the Pacific Ocean. ``Today Europe confirmed 
+its lead in space transport systems for the 21st century,'' a statement 
+by Arianespace said. French President Jacques Chirac and Prime Minister 
+Lionel Jospin offered congratulations. The success ``will allow Arianespace 
+to maintain its role as world leader in space transport,'' Jospin 
+said in a statement. The first commercial flight of the new launcher 
+is set for the first quarter of 1999. Current satellite launch capacity, 
+using the less powerful Ariane 4 and Ariane 5 is now 12-15 launches 
+a year until 2001, Arianespace said. European officials, 6th graf 
+pvs (eg) 
+</TEXT>
+</DOC>

@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981223.0130.0976 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A critical announcement from the fed affected the markets. 
+</TEXT>
+</DOC>

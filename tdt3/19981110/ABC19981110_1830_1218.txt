@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> ABC19981110.1830.1218 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We take another look at genetic engineering. What can be done, already 
+is in many case as stonding. The drug company chyron said it is testing 
+a genetically engineered protein which they believe will enable them 
+to make new blood vessels. It might be enormously effective against 
+heart disease. The drug companies in general have a huge stake in 
+genetics. Here's ABC's Bill Blakemore. Millennium pharmaceuticals 
+is part of a modern day gold rush, find the genes that cause disease. 
+All the way from cancer to osteoporosis to asthma to schizophrenia, 
+depression. It's a scramble by the world's drug companies. They're 
+spending billions of dollars and creating some of the highest technology 
+known to science. Robots that can sort out thousands of different 
+genes from one diseased organ in a matter of hours. And other machines 
+that can read those genes. So this describes a specific Gene? This 
+is a specific Gene. It's represented here. a-g-c-t. You're reading 
+a Gene. When they find a Gene that triggers a disease, they rush to 
+claim it. The potential profits are so great, drug companies have 
+swamped the U.S. patent office with thousands of applications for 
+sole rights to genes they've discovered. But the business risks are 
+also great. It can take three years and many millions of dollars to 
+find a Gene that causes disease. And even when they find one, they're 
+still only halfway there. They now have to find a drug to affect that 
+Gene. In these freezers, they have samples of more than 2 million 
+different chemicals. Dozens of those chemicals may be the basis of 
+cures for our worst diseases. The challenge is to match the right 
+chemical to the right disease. So they test each chemical on the guilty 
+Gene, hoping one will have an effect on it. We have a great hit right 
+here. The hit, if we're lucky, will become a drug. Producing just 
+one successful drug may take 10 to 15 years and cost $500 million. 
+Not even one genomic drug is on the market yet. But the companies 
+are lured by a vision of medicine transformed. Some day we're all 
+going to be able to walk into the doctor's office, they're going to 
+have our genome on a chip and they're going to say that you have certain 
+tendencies toward certain diseases. Then, the hope is, drug companies 
+will produce exactly the medicine you need. With great rewards for 
+the companies, and all of us, if it works. Bill Blakemore, ABC News, 
+Cambridge, Massachusetts. 
+</TEXT>
+</DOC>

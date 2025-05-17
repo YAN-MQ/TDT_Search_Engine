@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> CNN19981024.1300.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The government's antitrust lawsuit against computer software giant 
+microsoft is under way in a Washington courtroom. Steve young looks 
+at the first few days of trial. Bill Gates didn't ap pear at the courthouse 
+in person. The trial began with the government introducing excerpts 
+from his pretrial deposition on videotape. A key subject all week 
+has been a 1995 meeting attended by Microsoft and netscape executives. 
+The government claims the meeting included a suggestion by Microsoft 
+toivvy up the browser market with Netscape. Lead government attorney 
+David boyes portrayed Gates as a liar, contrasting his pretrial depositions 
+with company E-mails. Gates testified he was not aware of the 1995 
+meeting, and of the alleged market allegation charge until much later. 
+Boyes then introduced dozens of E-mail messages between Gates and 
+senior company executives, showing he was spearheading the anti-Netscape 
+strategy. Microsoft says other parts of Gates' deposition will prove 
+he testified truthfully. Bill Gates acknowledges on five or six different 
+occasions that he was aware of the meeting shortly after it occurred. 
+So the way the government tried to portray that is very, very misleading. 
+Microsoft attorney John Warden opened his case Tuesday trying to refute 
+the governments charges. He argued Microsoft fights hard, but that 
+antitrust law is not a code of civility. He complained the government 
+has mystified the software market by looking at only windows-based 
+PCs. Warden claimed would-be, new competitors face no structural barriers 
+put up by Microsoft. The first and only witness so far has been the 
+governments. Netscape's CEO, Jim barksdale, who's endured nearly three 
+days of grueling cross-examination. Steve young, "CNN Financial News," 
+at U.S. district court in Washington. 
+</TEXT>
+</DOC>

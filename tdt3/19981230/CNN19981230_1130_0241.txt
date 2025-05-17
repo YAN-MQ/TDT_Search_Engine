@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981230.1130.0241 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An Oklahoma grand jury will submit its report on the bombing of the 
+Murrah federal building today. The grand jury has spent a year and 
+a half interviewing witnesses about a Possible conspiracy and coverup. 
+Three people have been sentenced in connection with the bombing. A 
+former state lawmaker who is conducting his own investigation says 
+the government knew about the attack beforehand. But Oklahoma's attorney 
+general says that's unlikely and doubts the grand jury will report 
+any new evidence. 
+</TEXT>
+</DOC>

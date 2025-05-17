@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> ABC19981105.1830.1553 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Finally, technology. A problem with the light receptors in the back 
+of the eye. 10 million Americans have impaired vision because of it. 
+Now, for the first time, thanks to a computer chip, scientists may 
+be able to replace the retina. Here's ABC's Jack Smith. When you think 
+of computer chips, you think of computers. But what about chips in 
+human beings? Incredible as it may seem, it is about to happen. Scientists 
+are trying to put silicon chip technology into the human eye to make 
+a sort of bionic eye. It's the first time humans and machines have 
+been merged in this way. The leading edge of a breakthrough that soon 
+may actually cure blindness. We can restore vision by creating an 
+electrical induced prosthesis to place into the eye. Using computer 
+chip manufacturing techniques, scientists are etching thousands of 
+microscopic solar cells onto a tiny silicon chip. Artificial sensors 
+in place of the natural ones in the damaged retinas of blind people. 
+These are the little solar cells? Right. And there are how many of 
+these in each chip? There are proximately 4,000 to 5,000. When the 
+chip is implanted in the back of the eye and light strikes those tiny 
+solar cells, they turn it into electrical signals that travel through 
+the optic nerve to the brain and are interpreted as an image. And 
+with this process, the brain, when it receives a signal should not 
+be able to tell the difference whether it came from a natural, healthy 
+retina, or from our implant. Doctors think blind people might see 
+something like this with the implant. And it will improve as they're 
+able to cram more microscopic solar cells onto each chip. They've 
+already succeeded in testing it in animals, and trials with humans 
+in two years will determine if it works in blind people. Researchers 
+think it will. And they will actually be able to see again? That is 
+what we're hoping. a potentially unprecedented breakthrough combining 
+the latest in medicine and computer technology that may soon treat 
+and even cure one of mankind's oldest scourges, blindness. Jack Smith, 
+ABC News, Stanford, California. 
+</TEXT>
+</DOC>

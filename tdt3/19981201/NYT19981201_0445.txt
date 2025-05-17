@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> NYT19981201.0445 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In an e-mail to his executive staff on Tuesday, Bill Gates, chairman 
+of Microsoft Corp., said that the government's antitrust case was 
+seriously undercut by America Online's planned $4.2 billion purchase 
+of Netscape Communications Corp. The government, Gates wrote, ``must 
+be VERY dismayed at this merger,'' because it proved that Microsoft's 
+move to give its browser away was not predatory pricing but a recognition 
+of its ``competitive price, which is zero.'' ``Why is Netscape worth 
+$4 billion,'' Gates wrote, ``despite making its browser available 
+for free,'' as it later did to match Microsoft. ``Browsers are like 
+network TV,'' Gates said. ``The traffic alone makes it a great business.'' 
+It is not predatory to price a product profitably, he said, adding, 
+``It's called the marketplace at work, and it helps consumers.'' David 
+Boies, the Justice Department's lead trial lawyer, accused Gates of 
+revisionist history. Internal documents from late 1995, when the company 
+decided to give away the browser, he said indicated ``it was Microsoft's 
+explicit purpose to cut off Netscape's air supply.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> PRI19981210.2000.0225 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Scientists have announced that for the first time, they have completed 
+the gene map of a living creature. It's a worm called sea elegant. 
+It's about as big as a head of a pin and lives for only three weeks. 
+At four minutes past the hour, this is Alan Dow in the BBC newsroom 
+in London. You're listening to THE WORLD. 
+</TEXT>
+</DOC>

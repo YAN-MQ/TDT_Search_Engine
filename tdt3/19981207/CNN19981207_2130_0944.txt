@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981207.2130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Two astronauts from the shuttle "endeavour" are in the midst of a 
+six-hour space walk to hook up electricity in the core of the new 
+space station. They plan to make about 40 cable connections and set 
+up equipment. 
+</TEXT>
+</DOC>

@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> NBC19981231.1830.0700 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NBC news "in depth" tonight -- the military and the millennium bug. 
+You'll be hearing a lot about the so-called "Y2K" computer problem, 
+the potential computer glitch that could cause havoc at the turn of 
+the century when the year becomes 2000. It's estimated that bringing 
+the world's computers up to date could cost from $1 trillion to $2 
+trillion. For the military, the cost of not acting could be catastrophic. 
+NBC's Jim Miklaszewski tonight, "in depth." Everything in America's 
+military arsenal, whether it shoots, floats, flies or marches, depends 
+on computers. But a once in a century computer glitch, known in the 
+Pentagon as the "Millennium bomb," could bring this mighty war machine 
+to a halt. If we left things as they are right now, the military would 
+effectively shut down. Shut down, because computers wouldn't be able 
+to operate. Most computers use only the last two digits of the calendar 
+year, so when the year 2000 rolls around, they'll read "00" and think 
+it's 1900. In high-risk military operations, that could be deadly. 
+Somewhere, someplace, there will be people who die as a result of 
+the Y2K problem. The scope of the Pentagon's problem is mind-boggling. 
+25,000 separate computer systems could be affected. We're doing our 
+best, but there are going to be some nasty surprises, because the 
+problem is so big. Aircraft and ships could be sent off course, cruise 
+missiles may not find their targets, satellite data could be lost. 
+A top priority -- fixing the computers that control nuclear weapons. 
+We will be able to control our nuclear weapon. So at the stroke of 
+2000, nuclear weapons aren't --? They're not going to be launching 
+or anything of that sort. But what about other nuclear powers? Deep 
+beneath a Colorado mountain, the north American air defense command 
+stands watch against a missile attack. The Pentagon wants to share 
+this early warning information with Russia and china, because if their 
+computers go blank at midnight 2000, they could think they're under 
+nuclear attack. Because of anxieties about the possibilities of a 
+sneak attack, forces could be ordered to a higher state of alert level 
+that could lead to accidental war. The Pentagon will spend at least 
+$4 billion to defuse the millennium bomb, and officials here are confident 
+they'll do it. But critics claim they started too late and all the 
+fixes won't be done in time. The cost of failure could be much higher. 
+If the Pentagon needed any reminder, it is the 28 American soldiers 
+killed by an Iraqi Scud during the gulf war. The patriot anti-missile 
+battery that might have saved them failed, in part, because it's computer 
+clocks were out of sync. Something America's military leaders are 
+determined to never let happen again. Jim Miklaszewski, NBC news, 
+the Pentagon. 
+</TEXT>
+</DOC>

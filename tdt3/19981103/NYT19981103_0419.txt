@@ -1,0 +1,52 @@
+<DOC>
+<DOCNO> NYT19981103.0419 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Wednesday, Nov. 4: Gov. 
+Christie Whitman's plan to open the underutilized car-pool lanes on 
+Interstates 80 and 287 to all vehicles may well pacify irate motorists 
+in northern New Jersey. But it is a short-term response that can only 
+delay the kind of creative experimentation necessary to improve traffic 
+flow in the New York metropolitan area, which is notorious for dirty 
+air, bottlenecks and rush-hour jams. On the face of it, opposition 
+to these high-occupancy-vehicle, or HOV, lanes sounds reasonable. 
+I-80's lanes have met the minimal target of carrying 700 vehicles 
+an hour, but those on I-287 never did. So why not convert them to 
+regular lanes, easing traffic flows for everyone? The answer lies 
+in the state's own forecasts. Even if the HOV lanes are converted, 
+I-287 will be congested by 2005 or 2006, while I-80 is already close 
+to capacity. Not only does New Jersey want to drop these two HOV lanes, 
+it intends to walk away from repaying Washington the $240 million 
+in federal aid spent building them. Members of the state's congressional 
+delegation inserted language in the omnibus budget bill waiving $140 
+million that built the I-287 HOV lanes. They are seeking another waiver 
+for the I-80 lanes. These maneuvers could encourage other states to 
+seek similar relief just when officials nationwide ought to be daring 
+and creative. On Long Island, for example, critics of the state-funded 
+car-pool lanes on the Long Island Expressway want New York state to 
+open them to all traffic on an experimental basis, an idea the state 
+rejected. The fact is that HOV lanes can serve a useful purpose if 
+used creatively. Houston, California's Orange County and San Diego 
+have taken that path. The most innovative experiment is in the San 
+Diego region. Officials there have employed electronic toll collection 
+to turn underused HOV lanes into toll lanes. Solo motorists pay a 
+variable toll tied to time of day and congestion to use the lanes, 
+which remain free of charge for buses, vans and car pools of two or 
+more. Use of the fast-moving lanes has risen, opening up space in 
+other lanes and generating revenue for an express bus service. The 
+New York metropolitan region cannot pave its way out of congestion. 
+Expanding rapid-rail alternatives takes years. That makes congestion 
+pricing an attractive strategy that the region has been reluctant 
+to pursue. The New York State Thruway Authority runs a very modest 
+experiment at the Tappan Zee Bridge for trucks. Drivers pay higher 
+tolls during the morning rush hours and a lower toll if they cross 
+before that and use the E-Z Pass electronic toll system. The authority 
+is also studying congestion pricing for motorists. The Metropolitan 
+Transportation Authority, which has a huge interest in speeding traffic 
+flow (and reducing pollution) at bridge and tunnel crossings, is not 
+even that far along. Communities have had the option to experiment 
+with congestion pricing since late 1991. The only major obstacle on 
+both sides of the Hudson is political inertia. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981129.1830.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Israeli prime minister Benjamin Netanyahu visited Israel's troubled 
+northern border today. Seven Israeli soldiers have been killed in 
+southern Lebanon in the past two weeks, in Israel's self-proclaimed 
+security zone. For the second straight day today, Israeli warplanes 
+struck guerrillas targets in the region. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981128.1600.0948 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+nearly 40% of handguns used to commit crimes were reportedly purchased 
+from licensed dealers within the last three years. a "new york times" 
+report cites new government research. 
+</TEXT>
+</DOC>

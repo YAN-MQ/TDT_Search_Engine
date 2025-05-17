@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981207.1830.1232 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+News about Americans' health tonight. And the numbers are encouraging. 
+The life expectancy rose to 76.5 years. And the infant mortality rate 
+was 7.2 deaths per 1,000 births, a record low. The national center 
+for health statistics also says deaths from heart disease, liver disease, 
+diabetes and AIDS were all down last year. 
+</TEXT>
+</DOC>

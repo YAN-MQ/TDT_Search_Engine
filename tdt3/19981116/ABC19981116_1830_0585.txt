@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981116.1830.0585 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones industrial average closed above 
+9000 for the first time since late July. The Dow was up more than 
+1 points, finishing at 9011. On the NASDAQ market, stocks were up 
+13 points. 
+</TEXT>
+</DOC>

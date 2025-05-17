@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981030.2130.0991 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There's more evidence that the economy is expanding at a substantial 
+pace. U.S. Gross domestic product jumped 3.3% in the third quarter. 
+That's nearly twice the second quarter's rate, but still well below 
+the torrid growth of the first quarter. Strong consumer spending helped 
+offset a decline in exports and business investments. 
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981101.1300.0678 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some people have criticized Glenn's participation as being more of 
+a NASA publicity stunt than real science. Today on CNN, NASA administrator 
+Dan Goldin defended the crew's research and the mission. When John 
+Glenn first approached me, I asked my staff to call the White House 
+and asked that this discussion be mine. I had no discussions with 
+the president, vice president or staff of the White House. This is 
+not NASA's program, it is America's program. And it's peer reviewed, 
+good, meritorious science, the scientific community supports it. Most 
+of the science was selected before we selected John Glenn. Glenn is 
+the oldest astronaut ever. In 1962, he became the first American to 
+orbit the earth. 
+</TEXT>
+</DOC>

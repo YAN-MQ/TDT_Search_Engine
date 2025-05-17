@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981130.1830.1347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Washington today, the attorney general Janet Reno said she needs 
+another 60 days to decide if an independent counsel should investigate 
+Harold ickes, the president's former deputy chief of staff. The question 
+is whether Mr. Ickes lied to a Senate committee investigating campaign 
+finance violations about White House assistance to the teamsters union. 
+</TEXT>
+</DOC>

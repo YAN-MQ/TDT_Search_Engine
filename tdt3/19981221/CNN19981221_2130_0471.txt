@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981221.2130.0471 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for Tuesday. It is turning wintry, as very cold high pressure 
+builds through the central and eastern United States. A cold front 
+will drop all the way down into Florida and the gulf coast, with some 
+rain and snow in the forecast in south Texas and across New England. 
+We'll also see cold weather building into the southeastern part of 
+the country. Tuesday's highs -- subzero over the upper midwest and 
+northern Rockies. We'll see temperatures below the freezing Mark from 
+New York into Texas and across the pacific northwest. The only warm 
+air really will be across Florida, where we'll see anything from 60s 
+to a couple of 80s. Looking ahead to Wednesday, you can see how cold 
+it's going to be across much of the country, with either snow in the 
+Great Lakes to an icy mix down through the Ohio and Tennessee river 
+valleys. On Thursday, we'll see precipitation mostly on the east coast 
+and in the south, with some rain and snow in the northwest. Then for 
+Friday, Christmas day, rain and snow from the Great Lakes to the gulf 
+coast and in the northwest and still rather cool. Don't forget, four-day 
+forecasts, 7,200 cities, at CNN.com. 
+</TEXT>
+</DOC>

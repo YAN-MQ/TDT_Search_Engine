@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981109.1130.1283 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The 49ers rallied from a 16-point deficit for a 25-23 win over Carolina. 
+Wade richey connecting on a 46-yard field goal with 33 seconds left. 
+</TEXT>
+</DOC>

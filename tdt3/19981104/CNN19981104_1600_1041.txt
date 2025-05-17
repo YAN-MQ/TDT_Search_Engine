@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981104.1600.1041 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another sign that economic turmoil overseas has rippled to our shores. 
+A fresh report by the federal reserve shows that economic growth moderated 
+in the last two months. According to the fed's beige book survey of 
+business conditions, manufacturing took a particularly hard hit. The 
+report did not indicate is whether fed policymakers will cut interest 
+rates at their meeting November 17th. 
+</TEXT>
+</DOC>

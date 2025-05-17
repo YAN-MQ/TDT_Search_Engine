@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981205.1600.0976 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mergers, layoffs and profit-taking are the talk of the financial world 
+this week. David Daniel looks at "business this week." While holiday 
+shoppers massed at the malls, megacorporations were on a mission to 
+merge. Germany's Deutsche bank set out to create the world's largest 
+financial services company this week, deciding to buy New York-based 
+bankers trust for $10.1 billion. And Exxon and mobil confirmed the 
+rumors, announcing an $80 billion merger that would create the world's 
+largest oil company. Analysts say the deal could lead to as many as 
+12,000 job cuts. That was just part of the nearly 36,000 job cuts 
+announced this week. 
+</TEXT>
+</DOC>

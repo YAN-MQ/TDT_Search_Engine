@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981214.2000.1609 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Today, the Dow Jones Industrials lost 126 points to close at 8,696. 
+The NASDAQ was down 63 points on the day to 1,967. 
+</TEXT>
+</DOC>

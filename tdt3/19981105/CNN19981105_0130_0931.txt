@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981105.0130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a check of our top stories -- house speaker Newt Gingrich may 
+be facing a challenge to his leadership. Several congressional sources 
+tell CNN, Gingrich has been warned of broad dissatisfaction with him 
+following disappointing results for republicans in the midterm elections. 
+</TEXT>
+</DOC>

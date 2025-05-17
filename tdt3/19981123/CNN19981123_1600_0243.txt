@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981123.1600.0243 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new report finds high school graduation rates in the United States 
+are falling behind the rest of the industrialized world. The organization 
+for economic cooperation and development in Paris reports that U.S. 
+graduation rates are below 75%. Other countries in that range include 
+Canada, Mexico and Spain. But countries like Belgium, Japan and Poland 
+have rates over 93%. The report suggests U.S. rates are not necessarily 
+getting worse, but other countries are getting better. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981230.1830.0830 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones industrial average was down more 
+than 46 points, to close at 9274. On the NASDAQ, stocks were down 
+more than 14 points. 
+</TEXT>
+</DOC>

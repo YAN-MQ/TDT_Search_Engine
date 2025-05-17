@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981125.2130.0948 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks closed slightly higher today. The market is closed tomorrow 
+for Thanksgiving. 
+</TEXT>
+</DOC>

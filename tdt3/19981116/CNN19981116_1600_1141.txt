@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981116.1600.1141 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And back on Wall Street -- the Dow finishes up 91, the NASDAQ up 13. 
+</TEXT>
+</DOC>

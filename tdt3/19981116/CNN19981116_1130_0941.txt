@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981116.1130.0941 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Vice President Al Gore announced a $10 billion commitment to the economic 
+crisis in Asia today. He's standing in at the Asia/pacific economic 
+cooperation conference for President Clinton. 
+</TEXT>
+</DOC>

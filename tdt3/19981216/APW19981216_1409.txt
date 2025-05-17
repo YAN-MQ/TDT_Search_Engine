@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> APW19981216.1409 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Anti-aircraft guns opened fire in Baghdad, creating loud explosions 
+over Baghdad Wednesday. 
+</TEXT>
+</DOC>

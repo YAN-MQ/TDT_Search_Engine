@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981029.2130.0358 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Still "Mitch," but no longer a hurricane. The storm we've been tracking 
+all week was downgraded to a tropical storm today. The system's top 
+winds are now about 60 miles an hour. Because Mitch is relatively 
+stationary, it has been dropping rain, 25 inches in some areas, causing 
+flooding and mud slides. Hard hit are parts of Mexico on the Yucatan 
+peninsula, Belize, Guatemala, and especially Honduras, where the center 
+of the storm has been hovering for days. The associated press is reporting 
+at least 36 deaths from the storm. While Mitch is now sitting well 
+over land, the national hurricane center warns it could strengthen 
+if it moves back over open water. 
+</TEXT>
+</DOC>

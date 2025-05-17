@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981230.1600.1001 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One of the year's megamergers moves closer to completion. I'm John 
+metexas in New York, and this is "Dollars & Sense." The federal trade 
+commission has approved the $57 billion merger of British petroleum 
+and Amoco. That clears the final hurdle for the new oil giant. But 
+first the FTC is requiring bp and Amoco to sell 134 gas stations and 
+nine oil terminals. Bp-Amoco will have a market capitalization of 
+more than $140 billion. It will rank as one of the world's top three 
+oil companies. 
+</TEXT>
+</DOC>

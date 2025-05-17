@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981106.2130.0492 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronauts an the space shuttle are packing up. But NASA is warning 
+tomorrow's landing may be a bumpy one. Mission controllers are worried 
+about a door that popped off at launch. NASA says the shuttle could 
+hit the runway hard if the chute pops open. Still, they say that is 
+unlakely unlakely. NASA sent crews to a back-up location in California 
+because of clouds in the forecast. 
+</TEXT>
+</DOC>

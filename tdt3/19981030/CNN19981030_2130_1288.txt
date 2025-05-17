@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981030.2130.1288 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With "CNN Headline Sports," I'm Russell Biven. It was a roller coaster 
+ride for vijay Singh today in round two of the tour championship. 
+He was 5 over par on the first four holes, but then battled back to 
+shoot even par and take a two-stroke lead heading into Saturday's 
+third round. 
+</TEXT>
+</DOC>

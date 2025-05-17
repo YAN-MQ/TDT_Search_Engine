@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981221.1600.0475 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First -- the extended national weather forecast. This is a look at 
+your "CNN Headline News Weather," begins with our forecast weather 
+map for this evening. You can see the cold front continue its movement 
+to the east coast behind this front, snowfall along the front, rainfall. 
+And mixed in between, some ice. It's been a problem throughout the 
+day today in parts of the midwest. Area of high pressure is moving 
+in behind this, and that means that by tomorrow night, things dry 
+out throughout much of the nation, although it will remain rather 
+cold, daytime highs today, only in the single digits for much of the 
+midwest, the northern plains see highs remaining below zero throughout 
+much of the day. Relatively warm today in parts of the southeast. 
+In your extended forecast, that rainy, snowy mix is expected in parts 
+of the middle and lower Mississippi river valley as we move into Wednesday. 
+The temperatures warm just a bit. Thursday, rain showers possible 
+along the gulf coast. Snow showers possible in the Great Lakes area. 
+And as we move on into the latter part of the week, we'll be looking 
+at a Bit of rainfall still in parts of the south and icy mix possible 
+in the Great Lakes area. For more weather information, log on to CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981211.1600.0499 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the U.S. is next. Still ahead -- 
+why the Supreme Court granted a last minute stay of execution for 
+a death-row inmate in Texas. 
+</TEXT>
+</DOC>

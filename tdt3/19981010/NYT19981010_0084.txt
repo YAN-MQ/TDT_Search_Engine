@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> NYT19981010.0084 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Clouds will yield to sunshine from the Hudson Valley westward Sunday 
+as low pressure moves sluggishly from the Maine coast toward Nova 
+Scotia. The rain will persist in northeast New England and scattered 
+showers will linger over the higher terrain of the central sections. 
+Fog will be common in the valleys of the central Appalachians, but 
+sunshine will dominate much of the Middle Atlantic region, with seasonably 
+mild readings. Mainly sunny, pleasant conditions are expected from 
+the central Lakes to the Gulf Coast. The morning will feature patches 
+of dense fog in the Tennessee Valley, but afternoon sunshine will 
+boost temperatures to above normal readings. A weak cold front will 
+dissipate across southern Florida, but variable clouds and widely 
+separated showers are expected. A surge of warm air will reach from 
+the Plains into the Mississippi Valley. Moisture will begin to stream 
+north from the western Gulf of Mexico leading to clouds in east Texas. 
+Farther north, clouds will form in the Missouri Valley as mild, moist 
+air rises over cool air to the north. Showers will develop from eastern 
+Nebraska to the Dakotas. Cold rain will be driven by gusty winds from 
+central North Dakota to eastern Montana. Wet snow will taper off in 
+the Big Horn mountains early as winds blow from the northwest. Sunshine 
+and cool weather is likely in the central Rockies until clouds arrive 
+from the Northwest later on. An offshore storm will bring rain to 
+western Washington with showers spreading inland. The Southwest will 
+be sunny and a bit cooler, but dry. Focus: Shrinking Surplus The year 
+began quite wet from Washington to Boston with most of the Northeast 
+ending the spring with a rainfall surplus of nearly 10 inches. However, 
+since the summer, the Middle Atlantic region has turned very dry, 
+while New England has stayed moist. Thursday and Friday, Boston tallied 
+more than 3 inches of rain, raising the year to date rainfall to more 
+than 48 inches, which is 18 inches above the normal precipitation 
+to date. Washington only measured a trace of rain, helping to shrink 
+their surplus to a mere three inches above the normal precipitation. 
+</TEXT>
+</DOC>

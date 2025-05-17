@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981023.1130.0939 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Texas governor George W. bush is getting a first-hand look at record 
+flooding in Texas. Today, five more counties are expected to be declared 
+eligible for federal disaster aid. 
+</TEXT>
+</DOC>

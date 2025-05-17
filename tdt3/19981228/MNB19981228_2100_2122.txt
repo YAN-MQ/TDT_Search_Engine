@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> MNB19981228.2100.2122 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton had what he labeled some good news for older Americans 
+today. He announced that the social security administration has fixed 
+the so-called millennium bug in its computers. That means benefit 
+checks can be sent out on time come the year 2000. Despite today's 
+success story, computer experts note this is just one federal agency, 
+one that was very worried about senior citizens marching into the 
+streets in protest burning torches and there are many others that 
+have not fixed the bug as yet. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981119.2130.0964 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Increased interest in technology stocks helped push stocks higher 
+on Wall Street. The Dow Jones industrial average gained almost 15 
+points to close at 9056. 
+</TEXT>
+</DOC>

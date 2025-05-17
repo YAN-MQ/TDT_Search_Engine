@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981023.1830.0715 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Well, "on the money" tonight Wall Street, the Dow Jones industrials 
+down more than 80 points today to close at 8452 on the NASDAQ market, 
+stocks lost a little more than 8.75. 
+</TEXT>
+</DOC>

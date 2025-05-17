@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> NYT19981210.0488 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Ever since Worldcom Inc. took over MCI Communications Corp. in September, 
+a rueful joke has been making the rounds at MCI's headquarters in 
+Washington. ``When Bernie is done, this place will look like a neutron 
+bomb hit it,'' one MCI employee says, referring to Worldcom chairman 
+Bernard Ebbers. ``Why?'' another asks. ``Because the building will 
+be standing, but the people will be gone.'' Ebbers' penchant for cutting 
+jobs as a way to make his mergers reach their aggressive financial 
+goals is well known. But at MCI, far fewer employees will lose their 
+jobs as a result of the $37 billion takeover than some in the industry 
+_ including within MCI _ had expected, and the cuts will not be concentrated 
+in Washington. Friday, the company, which is now known as MCI Worldcom 
+Inc., intends to inform about 2,000 employees, or 2.7 percent of its 
+75,000-person work force, that their jobs will be eliminated, according 
+to executives close to the company. Some on Wall Street had speculated 
+that the company would eliminate as many as 3,750 jobs, or 5 percent 
+of its work force. The executives said the job cuts would be concentrated 
+in the combined company's network operations unit and in its software 
+development operation. The jobs would be lost in dozens of places 
+but primarily in Richardson, Texas, Carey, N.C., and Tulsa, Okla. 
+The joke around headquarters had emerged from the fear that Ebbers 
+would focus his job-cutting attention on corporate operations like 
+the legal department, the regulatory affairs group and public relations. 
+But instead of broad cuts at headquarters, Ebbers' team appears to 
+have asked that existing employees in Washington take on broad new 
+responsibilities. MCI Worldcom declined to comment. The job cuts are 
+part of a program to cut $900 million from the combined company's 
+sales, general and administrative expenses next year. It was unclear 
+Thursday what portion of that goal the company intends to meet by 
+eliminating jobs, but an annual cost of $100,000 a worker for 2,000 
+workers would yield savings of $200 million. Over all, Ebbers intends 
+to cut the combined company's costs by $2.5 billion next year. Apart 
+from the administrative savings, most of the cost reduction are expected 
+to come from moving communications traffic off of systems leased from 
+other carriers and onto networks owned by MCI Worldcom. 
+</TEXT>
+</DOC>

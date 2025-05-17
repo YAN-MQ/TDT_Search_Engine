@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981027.1600.0971 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Blue chip stocks post their third-straight loss on Wall Street. For 
+the final numbers and corporate news, let's go to Myron Kandel in 
+New York. Myron? Thanks, Toria. An early broad based rally disappeared 
+today on Wall Street. A rumor that Brazil planned to devalue its currency 
+sent shivers through the market here, despite the fact Brazil's government 
+denied the plan was in the works. The Dow Jones industrials closed 
+with a loss of 66 points at 8366. The Dow was up 100 points in early 
+trading. America online has just reported its quarterly earnings, 
+they beat Wall Street forecasts by 3 cents a share. AOL also announced 
+their 2 for 1 stock split. But in after hours trading, that stock 
+is down an eighth at 120 7/8. Other stocks didn't do as well -- 
+</TEXT>
+</DOC>

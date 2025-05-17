@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981218.1600.1023 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Ericcson, the world's number three mobile phone maker warning of bleaker 
+earnings. The company's chairman telling a Swedish magazine that analysts 
+expectations for 1999 profits may be too optimistic. Declining orders 
+in Latin America and much of Asia are to blame. Already in the process 
+of cutting 20,000 jobs, another 10,000 jobs could now be affected 
+at ericcson. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981221.1130.1290 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Duane Walker, "CNN Headline Sports." The Jacksonville jaguars have 
+won the AFC central despite an embarrassing loss at Minnesota. Randy 
+Moss caught a touchdown. 
+</TEXT>
+</DOC>

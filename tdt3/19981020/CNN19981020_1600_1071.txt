@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981020.1600.1071 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Justice department and Microsoft attorneys returned to court in Washington 
+today on day two of the landmark antitrust trial. Microsoft's lead 
+attorney wrapped up his opening statement in two hours. John Warden 
+said the government is wrong in saying Microsoft operates as a Monopoly. 
+He said Microsoft is not creating any barriers to other software companies 
+and said there is no law against playing hard in the business world. 
+And Microsoft shares, during the session, fell 2 11/16 to 10 3/8. 
+Microsoft just announced its earnings for the quarter, well above 
+expectations, 62 cents a share. 
+</TEXT>
+</DOC>

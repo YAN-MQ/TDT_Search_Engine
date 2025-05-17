@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> ABC19981123.1830.1551 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Finally, "your money" and how the military can sometimes spend first. 
+We're talking tax dollars how. We're talking in this specific case 
+about the military communications systems and how expensive it can 
+be to assume. Here's ABC's John Martin. At military trade shows, you 
+hear lots of questions. How much band width are we using right now? 
+But here's one the Pentagon often does not ask -- does this gear work 
+in the countries where it plans to use it? Not always, say Pentagon 
+auditors. They found $39 billion worth of U.S. weapons and equipment 
+overseas that cannot be used. It's an operational crisis because these 
+weapons systems will not perform as well as you want, because they 
+can't use certain frequencies. Why aren't the frequencies available? 
+Because Pentagon officials, who refused to talk to us on camera, never 
+obtained permission from foreign countries to use them. Liftoff. That 
+didn't stop the Pentagon. In one case it sent gear into space over 
+a nation that, surprise, was already using the frequencies. These 
+satellites, part of a Navy navigational system, do not work properly 
+over Japan because the Japanese did not give them clearance. Cost 
+-- $396 million. In Europe, the Pentagon wanted to fly this unmanned 
+craft, but did not get frequency approval. Result -- $900 million 
+worth of drones are on hold. The same for $7 billion in surveillance 
+aircraft. Outh Korea, patriot missiles operate on the same frequency 
+as local cell phones. The missile manufacturer says there's no problem 
+but the agon inspector general says there is. If a patriot missile 
+were overpowered by strong bursts of cell phone transmissions? The 
+most likely thing it would do, it would, in effect, just jam the command 
+and control signal and, in effect, disable the guidance system. The 
+missile could go in any direction? It could go anywhere. Congress 
+is just beginning to give the Pentagon some static about this. They 
+need to be, using taxpayer dollars to buy equipment that they can 
+use, and if they're not doing that. The system is broke. The senator 
+wants hearings to clear the air, being on the wrong wavelength is 
+wasting billions of dollars. It's "your money." John Martin, ABC News, 
+Washington. 
+</TEXT>
+</DOC>

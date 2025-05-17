@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981103.1600.1357 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Steffi Graf today won the first singles match she's played in nearly 
+two months. Coming back from hand surgery, graff defeated Romania's 
+ruxandra dragomir in straight sets. It's the first time in 13 years 
+she's competed as an unseeded player. 
+</TEXT>
+</DOC>

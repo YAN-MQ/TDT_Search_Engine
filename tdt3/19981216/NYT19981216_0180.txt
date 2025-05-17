@@ -1,0 +1,96 @@
+<DOC>
+<DOCNO> NYT19981216.0180 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+It's open season on Deer Hunter. Since its debut last holiday season, 
+more than a million copies of the lo-fi Bambi-hunting simulation have 
+been shipped, and bandwagoneers have spawned countless imitations. 
+Walk into a computer store or a Wal-Mart, which commissioned Deer 
+Hunter in the first place, and you'll see a wall of rifle-and-shotgun 
+expeditions to every hunting ground on earth, to say nothing of the 
+fishing titles. GT Interactive Software, which publishes Deer Hunter 
+under its Wizardworks label, has made a cottage industry out of the 
+genre, releasing a herd of follow-up titles into the retail wilderness: 
+Deer Hunter Extended Season (the add-on pack), Rocky Mountain Trophy 
+Hunter, Bird Hunter, Bow Hunter, Deer Hunter II 3D and Browning Elk 
+Hunter. Partridge in a Pear Tree Hunter is presumably in the works 
+for holiday '99. But in the meantime, we can look forward to Alaskan 
+Expedition, which adds grizzly bears and caribou to the menu, and 
+Grand Slam Turkey Hunt, which is endorsed by the National Wild Turkey 
+Federation. (There are 2.5 million wild-turkey hunters in the United 
+States, and their software needs will not be denied.) For people who 
+like shooting things on screen but don't necessarily consider themselves 
+the ``hunting type,'' there is Carnivores for PC (www.wizworks.com), 
+which takes Deer Hunter back to the Jurassic age so players can trudge 
+through steamy prehistoric jungles in search of tyrannosaurs, triceratops 
+and velociraptors. In addition to the standard shotgun, crossbow and 
+sniper rifle, you get tranquilizer darts. But basically, it's the 
+same game. Hunker down, wait for the critters to appear, then shoot 
+them. It's obviously a formula that works. Even hard-core console 
+developers have ventured into the woods with titles like TNN Outdoors 
+Pro Hunter (www.tnnhunter.com), which harnesses the Unreal engine 
+(the software that powered this year's breakthrough first-person shooter) 
+to produce an experience that combines real-world wildlife with the 
+modus operandi of Quake (i.e., shoot anything that moves). Instead 
+of going after a single prey species, as in most hunting titles, TNN 
+Outdoors Pro Hunter lets you pick off anything that crosses your path, 
+from white-tailed deer and elk to wild turkeys, doves, rabbits and 
+quail. If you are really determined and an excellent shot, you can 
+fire at squirrels. And you can do it with a .357 Magnum. It's a starkly 
+absurd comment on the National Rifle Association's party line. Or 
+a good laugh, depending on your politics. But more than anything, 
+the confluence of Deer Hunter and Doom illustrates that most computer 
+games are hunting games. You may be gunning for terrorists or space 
+aliens (be vewy vewy qwiet, I'm hunting extwa-tewwestwials) but you're 
+still stalking and shooting. Hunting games are everywhere, and people 
+don't seem to have a problem with them _ as long as they're figurative. 
+It's only the literal hunting games that push our buttons because 
+real-world recreational hunting is freighted with associations about 
+culture, politics and social class. Deer Hunter's mind-boggling commercial 
+success shows us something about how the demographics of computing 
+have changed since PC's dipped below the $1,000 mark, now that people 
+are buying software for $19.99 at Wal-Mart. Computer software, once 
+a medium of the elite, is becoming a medium for the masses. And that 
+creates a certain amount of tension for the former. And where there 
+is tension, there is humor. Witness Deer Avenger, a parody of Deer 
+Hunter by Brian McCann, a staff writer on ``Late Night With Conan 
+O'Brien,'' published by Simon &AMP; Schuster Interactive. You play 
+the title character, Bambo, a camouflage-clad buck out for blood. 
+Your arsenal includes a slingshot loaded with deer dung, an M-16, 
+a bazooka and a stream of snide one-liners. Your quarry is big-bellied 
+rednecks, goofy Minnesotans. Oh, yeah, and over-equipped yuppies _ 
+moronic cartoons irresistibly drawn to hunter calls like, ``Help! 
+I'm naked and I have a pizza!'' Like Deer Hunter, the game offers 
+you a choice of locations: Connecticut (``picturesque, peaceful Colonial 
+New England. A breathtaking backdrop for vengeance''); Minnesota in 
+winter (``10,000 frozen lakes and a lot of dumb hunters'') and West 
+Virginia (``come for the hunting, stay for the wacky dancing, banjo-playing, 
+inbred freaks''). Deer Avenger makes fun of the software, cracking 
+jokes at Deer Hunter's low-resolution graphics and interminable pace. 
+``So,'' the deer snorts, ``this is what you bought a Pentium for. 
+Can you believe how great these graphics are? This action alone is 
+worth the price of the game.'' But mostly, it just pokes fun at hunters. 
+Instead of deer droppings and tree scratchings, they leave beer cans, 
+toilet paper and freshly wrinkled pornographic magazines. When you 
+spot them, you hear, ``Well, well, well, if it isn't that guy from 
+`Deliverance,''' or an audio clip of dueling banjos. And when they 
+die, they say things like, ``I'm coming to meet you, Beulah!'' Some 
+laughs are more comfortable than others. It's easy to laugh at yuppie 
+sportsmen with their cellular phones and sport utility vehicles and 
+Ralph Lauren hunting outfits because when you're making fun of people 
+at the top of the socioeconomic totem pole, humor is a leveling device. 
+And if you happen to be one of those people, it's self-deprecating 
+charm because you can afford to take a shot at yourself. But if you're 
+making fun of the beer-swilling, tobacco-chewing, incestuous rednecks, 
+it's a less comfortable laugh because you're spitting down. (Unless 
+you happen to be a redneck, in which case it's recreational self-loathing, 
+which can also be quite funny.) Deer Avenger takes a lot of cheap 
+shots at what the software industry euphemistically calls the ``Deer 
+Hunter demographic.'' But it's good to see products like this coming 
+out of the New York media establishment because parody, not imitation, 
+is the sincerest form of flattery. It validates Deer Hunter's success 
+in a way that the copycats cannot. As the killer buck likes to say, 
+``Bonjour, Bubba.'' 
+</TEXT>
+</DOC>

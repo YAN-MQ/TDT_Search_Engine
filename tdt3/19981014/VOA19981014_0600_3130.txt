@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981014.0600.3130 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Intel Corporation 3rd quarter earnings beat forecasts on higher sales 
+in its computer chips, net income falling less than 1 percent to 1.6 
+billion from the same level in last year's 3rd quarter. 
+</TEXT>
+</DOC>

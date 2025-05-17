@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981201.1130.1256 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Baltimore has a new Belle. I'm Anthony Keith James and this is "CNN 
+Headline Sports." The dollars continue to fly in the majors. The Orioles 
+have signed free-agent slugger Albert Belle. The deal, a reported 
+five years for $65 million. Last season, Belle batted .328 with a 
+team record of 48 doubles, 49 homers and 152 rbi. 
+</TEXT>
+</DOC>

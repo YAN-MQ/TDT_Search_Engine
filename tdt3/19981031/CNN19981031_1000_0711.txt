@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981031.1000.0711 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A ruling by a federal appeals court means 1,000 Chrysler cars may 
+no longer be the subject of a recall. The government ordered the recall 
+of 1995 Cirrus and Dodge stratus models after they failed a seat belt 
+strength test. Chrysler sued, saying the cars were safe. The matter 
+went to court. Yesterday, the appeals court sided with Chrysler. It 
+said the government's regulations were so confusing, extraordinary 
+intuition or the aid of a psychic would be needed to figure them out. 
+The government says it will rewrite the rules. 
+</TEXT>
+</DOC>

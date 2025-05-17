@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> ABC19981204.1830.1211 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Usually our report Usually our report on "cutting edge" technology 
+has a fairly futuristic edge to it. Tonight, while it is certainly 
+the future we are looking at, high-tech it is not. ABC's Richard Gizbert 
+gets it cranked up in south Africa. This is a story about power, the 
+power of an idea. British inventor Trevor bayliss thought a windup 
+radio would be tailor-made for Africa, where electricity is scarce 
+and batteries are expensive. A south African company, baygen, bought 
+into the idea but found the cost of the radio was too high for the 
+African market. End of story? Hardly. Because baygen was already building 
+on bayliss' idea and looking beyond africa. They've made a windup 
+flashlight. 30 seconds cranking buys you 7 minutes of light, courtesy 
+of the same bayliss generator the radio has. It's the engine of windup 
+technology, and it's low-tech look is deceptive. This crank and the 
+spring it's connected to are definitely low-tech. But there are a 
+few high-tech bits in here that have been crucial in transforming 
+what was an inspired but very basic idea into something that people 
+would actually buy. There's a solar panel for sunny days and electronics 
+that store power and regulate the spring, so it only unwinds when 
+necessary, preserving energy. These changes make the new radio more 
+marketable. Crank it up and it plays for an hour, twice as long as 
+the original model. More products are coming. The U.S. military isooki 
+at windup laine detector but the application that really has them 
+excited around here is this one. This laptop computer is running off 
+the energy generated in this flashlight. In effect turning the flashlight 
+into? A generator. Absolutely. a windup generator that could connect 
+to and power any battery-operated device anywhere. The technology 
+is there and can be adapted to any product. The more they build and 
+sell in the first world, the cheaper the radio becomes for the third 
+world. And that would be the realization of a simple idea, which has 
+since spun off into an industry. Richard Gizbert, ABC News, cape town, 
+south Africa. 
+</TEXT>
+</DOC>

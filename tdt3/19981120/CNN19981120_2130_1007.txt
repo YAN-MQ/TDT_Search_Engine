@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981120.2130.1007 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+News of gains in overseas markets encouraged investors today, and 
+that helped the Dow end at a four-month high. It closed up 103 points 
+at 9159. It was up almost 240 points for the week. 
+</TEXT>
+</DOC>

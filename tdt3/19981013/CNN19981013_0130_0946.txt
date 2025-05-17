@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981013.0130.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+congressional sources tell cnn congress and the white house are on 
+the verge of agreeing on a federal budget. the deal would use more 
+than $15 billion of the surplus. 
+</TEXT>
+</DOC>

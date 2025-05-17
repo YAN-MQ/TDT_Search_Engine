@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> NYT19981207.0505 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial Tuesday, Dec. 8: Even the 
+most die-hard Jets fan knows that the team's come-from-behind victory 
+over the Seattle Seahawks on Sunday was outright robbery _ a gift 
+not from the deity, as the Jets coach, Bill Parcells, would have it, 
+but from a linesman whose eyes or mind must have wandered. Vinny Testaverde 
+clearly came up short when he tried a quarterback sneak in the final 
+seconds, but an official signaled a touchdown, even though video replays 
+showed that the ball never crossed the goal line. Seattle's hopes 
+of making the playoffs were shattered, and the Jets' hopes of winning 
+the division remained intact. This fiasco came after a botched call 
+the week before that allowed the New England Patriots to beat the 
+Buffalo Bills, thanks to a pass that was ruled complete even though 
+video replays showed that the receiver was out of bounds. The Patriots 
+went on to win after another highly questionable call, knocking the 
+Bills out of a first-place tie and keeping the Pats in playoff contention. 
+Such season-turning mistakes are ample reason for the National Football 
+League to reinstate instant replay to confirm or overturn questionable 
+calls. Some critics of instant replay feel the number of bad calls 
+is too small to warrant concern, or that human error is part of the 
+game, or that subjective judgment will still be required to evaluate 
+the videotapes, or that taking time out to review videotapes interrupts 
+the flow of the game. Never mind that commercials interrupt the flow 
+far more often. Instant replay is no panacea. The tape can be inconclusive, 
+and its evaluators can make mistakes. But videotapes can make some 
+calls definitively and can provide an additional angle of vision. 
+When technology can prevent a game- or season-turning injustice, to 
+refuse to use it is unreasonable. 
+</TEXT>
+</DOC>

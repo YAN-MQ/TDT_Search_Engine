@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981231.1600.1009 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An historic turning point in international finance is just hours away. 
+I'm Beverly Schuch in New York with this edition of "Dollars & Sense." 
+The launch of Europe's single currency takes effect at 6:00 P.M. eastern 
+time tonight. The Euro will turn the 11 participating nations into 
+a new economic super power that will rival the United States. The 
+rate set today values the Euro at $1.17. the new currency will pose 
+a Big challenge for the European central bank as it tries to prove 
+that monetary union can succeed without political union. 
+</TEXT>
+</DOC>

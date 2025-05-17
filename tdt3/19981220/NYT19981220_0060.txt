@@ -1,0 +1,97 @@
+<DOC>
+<DOCNO> NYT19981220.0060 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+After a bruising year and a large-scale restructuring, Adobe Systems 
+Inc. delivered higher-than-expected earnings and strong revenue for 
+its fourth fiscal quarter. But while praising the company's improved 
+management and new products, analysts generally retained a cautious 
+outlook on Adobe's stock. Most agree that Adobe management has done 
+a very job job of turning the company around. They said they expected 
+Adobe to return to sustained strong earnings growth, but probably 
+not in the next two quarters, so there is no need to chase the stock 
+at this point. But a longtime Adobe bull said this is exactly the 
+time to buy shares, before the strong growth potential of forthcoming 
+products is obvious. A new threat is Photo Draw 2000, a combined photography 
+and graphics program from Microsoft, which has long coveted Adobe's 
+lead in the publishing and imaging software business. But most analysts 
+said the Microsoft product, which will likely be bundled with the 
+Office 2000 suite, lacks the power and capability demanded by graphics 
+professionals, who are Adobe's core market. Adobe's consumer product, 
+Photo Deluxe, benefits from bundling itself, as it is packaged with 
+most of the new digital cameras. Adobe had a large presence in Japan 
+and suffered early from the recession there. As a result, it reported 
+a 33 percent drop in third-quarter earnings on a 3 percent drop in 
+revenue, and announced that it was cutting 350 employees, or about 
+12 percent of its work force. The weakness attracted a hostile takeover 
+offer from its leading rival, Quark, which was later withdrawn. Sales 
+to Japan remain depressed, but Adobe received a quick payoff from 
+the restructuring combined with unexpectedly strong sales of a new 
+version of Illustrator, its core graphics product, to deliver fourth-quarter 
+earnings several cents above the consensus of forecasts. Acrobat, 
+Adobe's portable document-formatting software, although an older product, 
+also had record sales, driven by its widespread use on the Internet. 
+Adobe reported late Wednesday that its earnings for the fiscal fourth 
+quarter, ending on Nov. 27, totaled $50.3 million, or 78 cents a diluted 
+share, up 7.5 percent from the period a year earlier. Revenue rose 
+8.6 percent, to $246.7 million. Roughly 2 cents a share came from 
+an increase in the value of Adobe's venture capital fund, and about 
+6 cents from the repurchase of 6.8 million shares. Without those items, 
+Adobe earned 70 cents a share; analysts had expected 64 cents, according 
+to First Call. Adobe shares had actually fallen in advance of the 
+earnings report, on rumors the earnings would fall below forecasts, 
+and then bounced back on Thursday, climbing $5.73, or 15 percent, 
+in Nasdaq trading. On Friday, it gained a further 62.5 cents, to $44.50. 
+But analysts made only modest changes in their first-quarter 1999 
+estimates, and did not change their recommendations on the stock. 
+Of 11 polled by First Call, eight rate Adobe a hold, three a buy and 
+just one a strong buy. Among the analysts who retained a hold rating 
+on Adobe was Jay Vleeschhouwer of Merrill Lynch. ``We do think they 
+can do 15 percent revenue growth across fiscal 1999 as a whole,'' 
+he said, ``but the bulk of that growth is likely to come at the end 
+of the year. At a management level, the move to improve financial 
+and operational controls should improve the predictability of the 
+business.'' John Warnock, Adobe's chairman and chief executive, said 
+he was not surprised that analysts' ratings remained unchanged. ``We 
+went through a major restructuring, and they are looking for more 
+than one quarter,'' he said. But he said he was confident of the company's 
+ability to deliver more strong results in the coming year, adding, 
+``We're very focused on operational efficiency, setting goals for 
+ourselves and measuring our performance against those goals. I am 
+intensely involved at all levels.'' Like any software company, Adobe's 
+sales increase with the release of new programs. The release of the 
+latest version of Illustrator drove record sales in the fourth quarter, 
+aided by Photoshop, Adobe's software for the digital management and 
+manipulation of photographs, the latest version of which is roughly 
+two quarters old. A major upgrade to Pagemaker, Adobe's page-layout 
+program, is expected in March or April. Some analysts are already 
+calling it a ``Quark killer.'' But Robert Fagin of CIBC Oppenheimer 
+downgraded Adobe from a buy to a hold last week because he thinks 
+the new Pagemaker, code-named K-2, is really an enterprise-level product, 
+meaning that it will be critical to the operations of the big publishers 
+who use it. Approaching the dreaded year 2000, corporations will defer 
+deploying any such programs, including K-2, he said. ''This is not 
+an Adobe-centric issue,'' Fagin said. ``Fundamentally, the company 
+has turned a corner, but there's a macro issue looming in the future 
+that will be difficult for any software company that deals with corporations.'' 
+He added: ``We think K-2 is a great product. Over a three-year period, 
+it could be a half-billion-dollar opportunity. We just think it will 
+start six months late.'' Warnock takes issue with that analysis, pointing 
+out that many big publishers have substantial year 2000 problems that 
+he said could be resolved by deploying K-2. But in any case, he said 
+Adobe expects early sales to be driven by existing Pagemaker users, 
+not big corporations. ``The Pagemaker market really is the small graphics 
+arts houses that have two or three Macintoshes,'' he said. ``They 
+can do their Y2K evaluation in a weekend.'' Michael Murphy, editor 
+of the California Technology Stock Letter, also said that the year 
+2000 worry is misguided, and added that any damage it does to Adobe 
+shares presents a buying opportunity. ``They will have a May-quarter 
+launch for K-2, and it will be a very fast conversion,'' he said. 
+``All of us Pagemaker users are crying out for the change. We expect 
+to see a steady increase in estimates for 1999 as management proves 
+they can successfully introduce these new products and bump up the 
+growth rate while maintaining the recent cost cuts.'' His advice: 
+``Buy on a dip to $45 for a target of $75.'' 
+</TEXT>
+</DOC>

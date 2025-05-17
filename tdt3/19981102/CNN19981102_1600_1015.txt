@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981102.1600.1015 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A videotaped deposition by Bill Gates has been released to the public, 
+you can watch the Gates testimony on CNN financial network airing 
+the testimony right now. Much of the content of the tapes deal with 
+Microsoft's business practices with rivals Netscape and apple computer. 
+</TEXT>
+</DOC>

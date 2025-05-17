@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981221.1130.0476 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney from the CNN weather center with your "Headline 
+News weather" update. A strong cold front moving east Ward across 
+the nation ushering in cold temperatures for the Rockies and plains 
+states. Snowfall in New England and there's a chance of showers mixed 
+with snow as fart south as Louisiana and Texas. In the west a storm 
+across the puget sound could mean rain and snow showers mixed. Honolulu 
+will see 83 degrees. Hilo 79, partly cloudy as Anchorage. Temperatures 
+will stay cold in the west. Wind chill temperatures well below zero. 
+Look for readings in the 50s and 60s from the chesapeake bay south 
+Ward into Florida. The extended forecast includes an ice mission across 
+the Ohio and Tennessee river valleys with windy conditions into Texas. 
+Rain showers will be possible in southern Texas stretching up through 
+the Great Lakes. Christmas day, rain and snow across most of the Rockies 
+with a continued mix of precipitation in the east. The extended forecast 
+is at CNN.com. 
+</TEXT>
+</DOC>

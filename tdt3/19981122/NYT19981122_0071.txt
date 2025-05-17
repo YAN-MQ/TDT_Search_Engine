@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> NYT19981122.0071 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST After a brief reprieve on Sunday, another episode 
+of stormy weather will batter the Northwest and northern California 
+on Monday as a powerful Pacific low churns toward Vancouver Island. 
+As a surge of very moist air is lifted by an approaching cold front, 
+heavy rain will occur along the northern California coast on Monday 
+morning. The area of excessive rain will shift into northwest California 
+by afternoon. Local flooding is likely, particularly in those areas 
+that have recently received substantial rain. As the damp air is lifted 
+and cooled by the higher terrain, heavy snow will accumulate in the 
+Siskyou and Sierra mountains, mainly above 6,500 feet. Meanwhile, 
+windswept heavy rain will also occur in western parts of Washington 
+and Oregon where some exposed coastal locations measure wind speeds 
+past 60 mph. Generally tranquil conditions will cover the remainder 
+of the nation as the jet stream retreats toward Canada. In the East, 
+breezes from the southwest will direct unseasonably mild air toward 
+the northeastern states. Amid ample sunshine, afternoon readings will 
+reach the 60s from the Ohio Valley to southeastern Pennsylvania. Meanwhile, 
+a large high-pressure system will promote dry and warm weather from 
+the southern Plains to the lower Mississippi Valley. A moisture-starved 
+cool front will bring clouds and a few sprinkles to the Great Lakes 
+on Monday. Elsewhere, an area of showers will surround low pressure 
+over the northeast Gulf of Mexico while partly sunny and humid conditions 
+persist in southern Florida. Focus: All About Wind High-wind warnings 
+were discontinued for western Washington late on Saturday as wind 
+speeds dropped below 40 mph. Steady strong winds are caused by large 
+horizontal pressure contrasts in the atmosphere. Extreme gusts occur 
+when turbulent air motions, similar to eddies in a rushing stream, 
+mix winds from aloft to the earth's surface. Winds at altitudes of 
+10,000 feet, undaunted by friction, commonly exceed 50 mph, providing 
+added energy for ground-level winds. Early on Sunday, a high-wind 
+watch was issued, in anticipation of strong winds developing Monday. 
+</TEXT>
+</DOC>

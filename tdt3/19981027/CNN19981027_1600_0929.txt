@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981027.1600.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- with Serbian forces heading out of Kosovo, 
+NATO says it has decided not to go ahead with air strikes for the 
+time being. The organization says it will still use force if needed 
+to halt Serb violence against ethnic Albanian separatists. 
+</TEXT>
+</DOC>

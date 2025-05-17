@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NBC19981224.1830.0516 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And now the latest on those balloonists trying to fly nonstop around 
+the world. Today Richard Branson and his crewmates crossed the half 
+way point, over 8,000 miles so far, high above the pacific ocean. 
+They're heading toward America's west coast. And they hope to beat 
+some nasty weather and fly over the pacific northwest tomorrow and 
+celebrate Christmas at 31,000 feet with some Turkey stew. 
+</TEXT>
+</DOC>

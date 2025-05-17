@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981213.1600.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is urging Israelis to keep the hope of peace alive. 
+He met with prime Minster Benjamin Netanyahu today as part of his 
+three-day trip to the region to try to shore up the troubled peace 
+accord. 
+</TEXT>
+</DOC>

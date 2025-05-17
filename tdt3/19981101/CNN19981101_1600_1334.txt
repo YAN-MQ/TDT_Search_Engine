@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981101.1600.1334 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In golf, vijay Singh is trying to win the season-ending tour championship. 
+Singh began the round with a one-stroke lead after shooting a 70 Saturday. 
+The last golfer to lead this tourney was Tom Watson in '87. Colin 
+Montgomerie finished atop the European PGA tour money list for an 
+unprecedented sixth straight year Sunday after finishing third at 
+the Volvo masters, which was won by northern Ireland's Darren Clarke 
+with a 9 under par 63. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981117.1130.1000 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Let's continue. Bonds are slightly higher ahead of the fed's decision. 
+The 30-year U.S. treasury is up 10 check in price, the yield at 5.26%. 
+</TEXT>
+</DOC>

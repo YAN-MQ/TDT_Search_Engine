@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981029.1130.1652 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have the latest on this historic day at the Kennedy space center 
+in two minutes. I'm Denise Dillon. This is "CNN Headline News." 
+</TEXT>
+</DOC>

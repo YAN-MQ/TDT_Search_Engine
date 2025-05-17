@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981028.0130.1112 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A California company that offers pet insurance says business is booming. 
+Veterinary pet insurance says it expects more than a 200% increase 
+in business this year. The company says it has sold more than 700,000 
+policies since its founding 18 years ago. Premium plans start at $49 
+and $159 a year and cover more than 6,000 known medical conditions. 
+</TEXT>
+</DOC>

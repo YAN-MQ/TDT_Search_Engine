@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981120.1600.1137 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And that is the late nest the news. On Wall Street, the Dow once again 
+finishing up. The NASDAQ closing up 8 points. 
+</TEXT>
+</DOC>

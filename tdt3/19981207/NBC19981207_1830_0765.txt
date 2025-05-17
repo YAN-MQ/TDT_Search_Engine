@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981207.1830.0765 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street starts the week on a high with the Dow Jones industrials 
+climbing more than 54 points. The NASDAQ rose almost 37 1/2 points, 
+a record close. The five widely held stocks were up. 
+</TEXT>
+</DOC>

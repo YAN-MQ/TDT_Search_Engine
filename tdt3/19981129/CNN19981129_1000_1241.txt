@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981129.1000.1241 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Rob Ticktin, "CNN Headline Sports." We begin in Alaska, where cincinnatti 
+upset top-ranked Duke, 77-75. And they did it in style. With just 
+one second left, the bearcats Melvin Levitt broke a 75-75 tie. William 
+Avery appeared to then tie it, but time had run out. 
+</TEXT>
+</DOC>

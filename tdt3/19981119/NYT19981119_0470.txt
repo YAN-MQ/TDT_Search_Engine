@@ -1,0 +1,86 @@
+<DOC>
+<DOCNO> NYT19981119.0470 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Microsoft Corp. has kept the price of personal computer software ``significantly'' 
+higher than would be expected if the company faced real competition, 
+an economic consultant testified Thursday in the Microsoft trial. 
+Frederick Warren-Boulton, an economist and government witness, did 
+not estimate precisely how much higher Microsoft has kept prices because 
+of its monopoly power, but he asserted that it was ``significantly 
+above 5 percent.'' In addition, Warren-Boulton said he had been told 
+about new data that the Justice Department had recently received from 
+Microsoft in response to a subpoena showing that the price the company 
+charged computer makers for the Windows operating system had ``increased 
+substantially over the last two years.'' Earlier witnesses called 
+Microsoft a monopoly and testified that it used its market muscle 
+with abandon. But most of them were industry executives who said they 
+were victims of anti-competitive behavior by Microsoft. And while 
+several mentioned in passing that they thought consumers as well as 
+competitors would benefit if Microsoft's power were curbed, Warren-Boulton 
+said he had researched the matter in an effort to measure any harm 
+to consumers from Microsoft's business tactics. Consumer damage is 
+a tricky issue for both sides _ potentially damaging for Microsoft 
+but difficult for the government to prove. Several studies have concluded 
+that Microsoft has kept software prices higher than they would be 
+if there were more competition in the markets that Microsoft dominates. 
+For example, two consumer groups, the Consumer Federation of America 
+and the Media Access Project, issued a report last month asserting 
+that the price of Microsoft's industry-standard Windows operating 
+system was more than double what it would be in a competitive market. 
+Such studies, however, are inherently speculative, in part because 
+they often compare Microsoft's software prices with price trends in 
+hardware, which tend toward steady decline. Microsoft counters that 
+it is constantly adding new features to its products so that on a 
+performance-adjusted basis, the company has kept its software prices 
+quite low. Microsoft's economic expert, Richard Schmalensee, a professor 
+at the Massachusetts Institute of Technology, will testify to that 
+effect later in the trial. Warren-Boulton testified that every software 
+company has to add new features to remain competitive. The testimony 
+of the government's expert witnesses, like Warren-Boulton, is mainly 
+to provide context for the case. The government is not contending 
+that Microsoft's monopoly in the operating system market is illegal. 
+But the government must convince the court that Microsoft is a monopoly 
+before it can argue that it is illegally abusing monopoly power. Microsoft 
+fiercely denies that it is a monopoly, though more than 90 percent 
+of personal computers sold today run its Windows operating system, 
+which controls the basic operations of a personal computer. In Thurday's 
+cross-examination of Warren-Boulton, Michael Lacovara, a Microsoft 
+lawyer, attacked the assertion that Microsoft was a monopoly. His 
+questions were designed to get Warren-Boulton to concede that the 
+company had to keep coming out with new products and innovations to 
+satisfy customers if it was to retain its market share. Throughout 
+the company's Redmond, Wash., campus, the belief is that a potentially 
+deadly competitor is always just around the corner _ an attitude common 
+to many big companies in the computer industry. Warren-Boulton agreed 
+that Microsoft had to move fast. But, he added, ``Every monopolist 
+faces competition and potential competition.'' Lacovara asked if Linux, 
+the free Unix operating system whose core was written by a University 
+of Helsinki student eight years ago, did not pose a potential threat 
+to Windows because several of Microsoft's chief competitors are writing 
+software to run on it. While Linux has several million devotees around 
+the world, it holds a minuscule share of the operating-system market, 
+and Warren-Boulton fairly laughed at the proposition that it threatened 
+Microsoft. ``Whatever role Linux may have, it is not expected to constrain 
+the monopoly power of Microsoft,'' he said. ``If you truly believe 
+this product is going to constrain Microsoft's market share, then 
+run, don't walk, to your broker and sell Microsoft stock short.'' 
+Lacovara then asked Warren-Boulton if in January 1995, he would have 
+predicted that Netscape Communications might pose a threat to Microsoft. 
+The witness responded that at that time, he would not have known what 
+Netscape was. At one point in court Thursday, a Justice Department 
+lawyer raised the issue of an interview given by Microsoft's chairman, 
+Bill Gates, to The Associated Press. Gates was quoted as saying that 
+the Justice Department's repeated showing at the trial of excerpts 
+from his videotaped deposition last August was ``more about government 
+PR than the substance of the case.'' During the deposition, Gates 
+said, he was constantly fending off government lawyers who were trying 
+to ``put words in my mouth.'' David Boies, the Justice Department's 
+lead trial lawyer, said that Gates ``seems to be indicating more and 
+more that he wants to come'' to testify at the trial. The government 
+could have called Gates as a witness but chose not to do so. Thursday, 
+Boies challenged Microsoft's legal team to call Gates as a defense 
+witness. 
+</TEXT>
+</DOC>

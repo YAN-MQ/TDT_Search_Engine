@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981125.1830.1094 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here in New York, the stars of tomorrow's Thanksgiving day parade 
+are beginning to take shape. This year, they will be flying under 
+new rules. Last year a spectator was injured when strong winds caused 
+the balloons to break a lamp post. Tomorrow they will be stopped if 
+the winds are heavy. 
+</TEXT>
+</DOC>

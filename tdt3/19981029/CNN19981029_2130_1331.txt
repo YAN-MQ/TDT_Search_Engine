@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981029.2130.1331 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In baseball, the padres have resigned first baseman Wally Joyner to 
+a Two-year deal worth $6.7 million, plus an option for the year 2001. 
+</TEXT>
+</DOC>

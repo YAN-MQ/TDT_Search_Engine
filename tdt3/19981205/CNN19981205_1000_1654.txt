@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981205.1000.1654 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First, an illuminating example of holiday cheer in Colorado. For the 
+34th year, Herman and laurine dingess are regaling their neighbors 
+with their Christmas lights. 
+</TEXT>
+</DOC>

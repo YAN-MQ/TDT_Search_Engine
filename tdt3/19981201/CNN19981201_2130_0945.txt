@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981201.2130.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Boeing says it plans to cut 20,000 jobs in addition to the 28,000 
+layoffs announced earlier this year. The company is scaling back production 
+of several jetliners because of asia's failing economy. 
+</TEXT>
+</DOC>

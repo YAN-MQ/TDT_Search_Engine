@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981223.1600.0365 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Authorities is Los Angeles are breathing a Sigh of relief now that 
+a fire is extinguished. It broke out in a facility that stores titanium. 
+Titanium can explode if hit by a direct stream of water. 
+</TEXT>
+</DOC>

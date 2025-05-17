@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> CNN19981013.2130.1016 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Many hotels that cater to business travelers are taking steps to make 
+it easier to stay in touch with the office while on the road. Lori 
+Waffenschmidt has the story in this edition of "working ahead." American 
+express reports two-thirds of business travelers surveyed have laptops 
+in tow. Road Warriors used the computers much more frequently than 
+in the past. They were very high-productivity tools. The downside 
+-- getting information quickly. Typically, business travelers traveling 
+with laptops are used to kind of chunka, chunka, chunking along. Now 
+hotels are installing high-speed Internet connections. At the Hyatt 
+San Jose, guests can log in via an I-port hook-up. Most of our guests 
+are used to high-speed, either for isdn or through T1 line, in their 
+office. They don't want to be stalled out on a 28.8 modem, sitting 
+there waiting for their -- their office to come online. Some rooms 
+have just the I-port connection with free Internet time. Other business-plan 
+rooms have PCs hooked up to the Internet, and guests pay to surf the 
+web by the day or the minute. But corporate firewalls, in place for 
+online security, may block access from your hotel. Most traveling 
+professionals really need to access their proprietary corporate E-mail 
+and also obtain data and information from their internal corporate 
+networks. And right now, in most cases, that's almost impossible to 
+do from public access Internet. Other hotels, such as Hilton, are 
+also testing high-speed Internet connections. Lori Waffenschmidt, 
+CNN, reporting. 
+</TEXT>
+</DOC>

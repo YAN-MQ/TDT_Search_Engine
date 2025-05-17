@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981012.1600.0970 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks kick off the week on an up note. For the closing numbers and 
+the day's consumer headlines, let's go to Kitty pilgrim at our "CNN 
+Financial News" desk in New York. Kitty? Chuck, blue chip stocks have 
+recaptured the 8000 level. They gained more than 100 points in the 
+first 15 minutes of trading today, by the closing bell, the Dow industrials 
+were up 101 points, 8001 is the level. The Dow was even hire, at one 
+point it gained 184 points. The broader markets ended all higher, 
+the NASDAQ composite up 53. Among today's technology winners -- now 
+there was no action on the bond market, which was closed for the Columbus 
+day holiday. 
+</TEXT>
+</DOC>

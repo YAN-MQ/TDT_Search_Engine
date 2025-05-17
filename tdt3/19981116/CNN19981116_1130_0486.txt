@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> CNN19981116.1130.0486 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News" weather. 
+Another cold day anticipated today. Back through the upper midwest 
+some highs will not make it above freezing. Temperatures warm along 
+the gulf coast and still warm in the southwest. Forecast weather maps 
+from later today on into Tuesday show some wet weather along the southeastern 
+atlantic coast and by tomorrow moving into the northeast. Storm system 
+in the west will be pushing into the Rockies and could bring some 
+heavy snows into parts of Idaho and Montana beginning later on tonight 
+and on into tomorrow. Take a look now at the extended forecast -- 
+rain and snow likely through the upper midwest during the day on Wednesday. 
+Rain will continue in the pacific northwest as temperatures remain 
+mild along the gulf coast states. On Thursday, we'll find a storm 
+system back through the Great Lakes producing a mix of precipitation, 
+snow through the upper midwest, then gradually changing to rain as 
+you head further to the south. Showers and storms will be likely, 
+too, in the southeast. And on Friday, it will be the northeast that 
+will be wet with snow and ice back through parts of eastern Canada, 
+gradually changing to rain as you head into the northeastern U.S. 
+colder temperatures will be filtering through the upper midwest. For 
+more weather information, log into CNN.com. 
+</TEXT>
+</DOC>

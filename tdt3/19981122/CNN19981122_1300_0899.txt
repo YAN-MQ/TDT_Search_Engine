@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981122.1300.0899 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton visited American troops stationed near the demilitarized 
+zone on the Korean peninsula. He urged vigilance, saying there are 
+signs of a north Korean arms buildup. 
+</TEXT>
+</DOC>

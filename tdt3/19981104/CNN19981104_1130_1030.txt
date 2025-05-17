@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981104.1130.1030 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Factory orders rose 0.4% in September, lower than economists had predicted. 
+</TEXT>
+</DOC>

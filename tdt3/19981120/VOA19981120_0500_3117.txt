@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981120.0500.3117 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In some other news this morning, German producer prices fell a greater-than-expected 
+4/10 of a percent in October from September. It was led by a dropping 
+of prices from our non-precious metals. 
+</TEXT>
+</DOC>

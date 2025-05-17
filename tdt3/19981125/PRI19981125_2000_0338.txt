@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981125.2000.0338 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is NPR. Support for NPR comes from SAP, business software featuring 
+Team SAP, people, processes, and products working for customer success, 
+800-2831SAP. This is THE WORLD, I'm Lisa Mullins. 
+</TEXT>
+</DOC>

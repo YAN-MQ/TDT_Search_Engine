@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981030.0130.0947 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA managers say the door that covers the shuttle's drag chute came 
+off after liftoff and hit an engine. They say it shouldn't pose any 
+problem when "discovery" lands. 
+</TEXT>
+</DOC>

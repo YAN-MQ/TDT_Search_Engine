@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981117.1830.0416 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There's a depressing item -- employees at the Internal Revenue Service 
+have been stealing some of your money. An audit by the government's 
+general accounting office finds that in 2 1/2 years, some IRS employees 
+stole $5.3 million sent in by taxpayers. In one instance, a check 
+made out to the IRS was altered to read, "I.R. smith." 
+</TEXT>
+</DOC>

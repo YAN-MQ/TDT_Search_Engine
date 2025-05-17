@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981111.2130.0516 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now the extended weather forecast. This look at your "CNN Headline 
+News Weather" begins with a look at your forecast weather map and 
+rainfall in Texas and a low pressure center in the southwest. The 
+storm in the southwest moved in through California bringing in rainfall 
+and some snowfall as it moved inland. But it is a weak area of low 
+pressure. We'll continue to monitor its progress. The moisture in 
+Texas may spread to the north and eventually across parts of the southeastern 
+United States. Meanwhile, a bad storm that plagued parts of the east 
+coast moves away. Here is your forecast weather map for high temperatures 
+tomorrow. And as you can see, cold air slides in behind a cold front 
+coming in from the north. Moderate temperatures in most other places. 
+Extended forecast calls for showers throughout Texas and parts of 
+the southeast. Temperatures will be only in the 30s in the upper midwest 
+on Friday. As we move on into Saturday, we see some rain showers through 
+parts of the east. The southeast may see some thunderstorm activity. 
+And on Sunday, we're looking at rain showers and thunderstorms covering 
+much of the east. For more weather information, log on to CNN.com, 
+four-day forecasts for 7,200 cities. 
+</TEXT>
+</DOC>

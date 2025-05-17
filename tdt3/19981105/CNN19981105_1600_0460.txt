@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981105.1600.0460 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Israeli prime minister Benjamin Netanyahu says he's confident his 
+cabinet will ratify the mideast peace accord brokered in Maryland. 
+He presented the deal to his ministers today. Israel has agreed to 
+hand over 13% more of the West Bank to the palestinians over the next 
+12 weeks. Netanyahu says Jewish settlers in the West Bank, who oppose 
+the deal, will have a voice in deciding what territory is turned over. 
+The Israeli cabinet will vote on the accord by Sunday. 
+</TEXT>
+</DOC>

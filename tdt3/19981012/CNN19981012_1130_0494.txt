@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981012.1130.0494 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News" weather 
+forecast. A cold front moving into the northwest will keep some rain 
+in that area. A cold front will also drop into the southeast, but 
+there won't be much rain involved, although we'll see showers moving 
+from the northern plains across the Great Lakes with perhaps some 
+snow mixed in. Some showers will also occur across Florida today. 
+High temperatures will range from 40s and 50s through the north-central 
+United States to 80s and 90s across the south. Looking ahead to Wednesday 
+-- look for some rain across the north-central part of the country 
+with rain in the northeast and northwest as well. On Thursday, most 
+of the rain will be from the northwest into the northern Rockies with 
+some thunderstorms in Florida. Highs will range from the 40s and 50s 
+in the north to mostly 80s across the south. Then on Friday, most 
+of the wet weather moves to the north-central United States. We'll 
+see 40s and 50s in the northern Rockies again to some 80s across the 
+south. 
+</TEXT>
+</DOC>

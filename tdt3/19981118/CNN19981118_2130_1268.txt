@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981118.2130.1268 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Texas slugger Juan Gonzalez today was named the American league's 
+most valuable player. He drove in 157 runs, the most in the A.L. in 
+49 years. The Indians, eager to add some punch to an ailing bullpen, 
+sent outfielder brian Giles to Pittsburgh for lefty Ricardo rincon. 
+</TEXT>
+</DOC>

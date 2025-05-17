@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981204.1830.0322 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today, investors were encouraged by the news about 
+lower unemployment. The Dow Jones industrial average was up more than 
+136 points to close at 9016. On the NASDAQ, stocks were up more than 
+48 points. 
+</TEXT>
+</DOC>

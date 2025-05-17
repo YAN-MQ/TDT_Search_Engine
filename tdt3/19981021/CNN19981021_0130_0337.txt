@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981021.0130.0337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new federal spending Bill is expected to win quick approval in the 
+Senate wednesday. The House of Representatives passed the $500 billion 
+measure Tuesday, in a Vote of 333-95. The Bill would fund one-third 
+of the federal government. 
+</TEXT>
+</DOC>

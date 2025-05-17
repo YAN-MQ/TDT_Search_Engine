@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981205.1000.0672 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Exxon and mobil announce their merger. Analysts estimate thousands 
+of people could lose their jobs. 
+</TEXT>
+</DOC>

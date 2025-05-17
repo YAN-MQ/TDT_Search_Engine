@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981010.1000.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+By unanimous vote, Congress keeps the government running with a temporary 
+spending measure. After voting to hold impeachment hearings, republican 
+lawmakers must now meet with White House lawyers to work out the details. 
+And how some people are trying to avoid getting bitten by the so-called 
+millennium bug. This is "Headline News." I'm Judy Fortin. 
+</TEXT>
+</DOC>

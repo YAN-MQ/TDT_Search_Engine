@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981122.1600.1379 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now for "diskette world" travel news -- notebook computers are traveling 
+lighter with built-in superdisk drives. Only the superdisk drive works 
+with both regular floppies and 120-megabyte superdisk diskettes. Floppies 
+everywhere are thrilled because a built-in superdisk is two drives 
+in one, and other drives 9999are on the way out. We can save a little. 
+SUPERDISK can save a lot. Together, we can save the world. Get it 
+in Hewlett Packard notebooks. 
+</TEXT>
+</DOC>

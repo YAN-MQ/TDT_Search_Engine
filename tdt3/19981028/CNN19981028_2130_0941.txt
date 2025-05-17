@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981028.2130.0941 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton has announced a $156 million initiative aimed at 
+helping stop the spread of AIDS in minority communities. Studies show 
+blacks now account for more than half of all new HIV infection cases 
+and are eight times more likely than whites to contract the virus. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981129.1000.1364 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Pete Sampras was bounced from the atp championships in three sets 
+by alex corretja. Pistol Pete squandered three match points. 
+</TEXT>
+</DOC>

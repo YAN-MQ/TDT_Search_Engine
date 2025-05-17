@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981117.1130.0242 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Right about now, the biggest shooting star show in more than 30 years 
+is reaching its peak in the skies above north America. Unfortunately, 
+we can't see it. Asian countries have had the best view so far of 
+the leonids meteor shower, but Californians got a glimpse last night. 
+The shower is the result of earth's annual passage through the tail 
+of comet tempel-tuttle. The tiny, fast-moving particles of space dust 
+could damage some satellites, but they pose no danger to people. 
+</TEXT>
+</DOC>

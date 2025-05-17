@@ -1,0 +1,49 @@
+<DOC>
+<DOCNO> NYT19981108.0071 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Ira Magaziner, the author of the Clinton administration's ill-fated 
+national health plan, who most recently has led government efforts 
+to foster the growth of the Internet and electronic commerce, said 
+Friday that he would leave the White House before the end of the year. 
+The announcement came as the administration prepares to turn over 
+governance of the Internet to a private, multinational organization 
+and heads into a period of presumably tough negotiations with the 
+European Union over data-privacy issues. Magaziner, a senior assistant 
+to the president for policy development, has led a push for industry 
+self-regulation of how personal data on consumers is collected and 
+used, a stance that has placed the United States at odds with the 
+European Union. He said, however, that he was satisfied he had completed 
+the main job by moving the broad issue of electronic commerce onto 
+the world's agenda. Although he has not set a departure date and was 
+not prepared to say what he would do next, Magaziner said he hoped 
+to wrap up his duties in the next month and move back to Providence, 
+R.I. His wife and children moved back there a year ago, and he has 
+been commuting since then. Magaziner joined the administration five 
+and a half years ago to draft what turned out to be a doomed effort 
+to create a national health care system. Then he turned to the Internet, 
+where he has been aggressively trying to shape domestic and international 
+policy for electronic commerce and the Internet. In addition to helping 
+win passage of two federal laws imposing a moratorium on new Internet 
+taxes and protecting digital age copyrights, he successfully pushed 
+for international agreements to keep the Internet duty-free and to 
+set standards for international payment systems. Brian O'Shaughnessy 
+of the Internet Alliance, an association of companies with Internet 
+interests, said: ``I think it's pretty clear to say that at a time 
+when there was a lot of confusion about where the industry was going 
+both domestically and internationally, Ira Magaziner was the guy who 
+rolled up his sleeves and got into the nitty-gritty of how technology 
+works, what the effect would be on our society, and then took those 
+notions and began to be the evangelist for the Internet industry in 
+a global marketplace.'' In June 1997, after studying the Internet 
+for 15 months, Magaziner released the administration's ``Framework 
+for Electronic Commerce,'' which called for a hands-off, market-driven 
+approach to Internet regulation. His philosophy then and now is that 
+while the Internet is growing rapidly, it could be slowed by government 
+intervention. Since then, he has led efforts to hand administration 
+of the network over to private ownership and has traveled widely, 
+pushing other nations to endorse his tax-free, unregulated approach 
+to the medium. 
+</TEXT>
+</DOC>

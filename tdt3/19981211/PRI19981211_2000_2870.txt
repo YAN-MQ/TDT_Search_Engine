@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> PRI19981211.2000.2870 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+You're listening to PRI, Public Radio International. 
+</TEXT>
+</DOC>

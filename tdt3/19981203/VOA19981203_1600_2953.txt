@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981203.1600.2953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Time for business news. Here's Breck Ardery with the latest on Wall 
+Street. Well, it was a very bad day, with the Dow Jones Industrial 
+closing at 8,879. That was down 184 points, or 2 percent. The Standard 
+& Poor's 500 Index closed at 1,150, down 21 points. The NASDAQ was 
+off by 40. 
+</TEXT>
+</DOC>

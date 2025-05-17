@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981113.0130.1347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In pro football news, Denver quarterback John Elway will be sidelined 
+for this Monday night's encounter with the Kansas city chiefs. He's 
+still bothered by a rib injury. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981104.1600.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the concern now is possible starvation for survivors of hurricane 
+Mitch in Nicaragua and Honduras. Rescuers are unable to reach thousands 
+of people who badly need food and medical supplies. 
+</TEXT>
+</DOC>

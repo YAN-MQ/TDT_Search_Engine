@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981030.1600.0366 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is campaigning in New York today for democratic 
+congressman Charles Schumer. He is challenging incumbent republican 
+senator Alfonse D'Amato. The president is speaking at a fund-raiser 
+in Brooklyn and meeting with clergy members in Queens. Before leaving 
+Washington, Mr. Clinton urged voters to go to the polls tuesday, saying 
+big things that will affect every American are at stake, including 
+social security, health care and education. 
+</TEXT>
+</DOC>

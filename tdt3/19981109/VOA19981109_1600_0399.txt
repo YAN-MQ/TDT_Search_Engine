@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981109.1600.0399 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now coming to you from Washington. I'm Steve Norman, 
+along with Frank Wydis. 
+</TEXT>
+</DOC>

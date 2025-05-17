@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981103.1600.1051 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Despite forecasts that consumer confidence has been slowing, consumer 
+demand for cars has yet to reflect a downturn. Chrysler is reporting 
+record sales once again. The automaker says its domestic car and truck 
+sales rose 20% in October, the company's fourth sales record in the 
+last six months. General Motors and Ford motor are expected to report 
+later in the week. Shares of Chrysler down 5/8 at 48 3/8. General 
+Motors down 1 3/16. 
+</TEXT>
+</DOC>

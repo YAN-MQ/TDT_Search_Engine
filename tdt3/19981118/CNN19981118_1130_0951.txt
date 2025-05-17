@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981118.1130.0951 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks have been trading in a narrow range all morning. The federal 
+reserve's rate cut not providing much inspiration for investors. Some 
+analysts say the fed's move was already built into the market. 
+</TEXT>
+</DOC>

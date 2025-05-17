@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> APW19981222.0989 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Italian telecommunications regulator said Tuesday that it will 
+leave local telephone tariffs unchanged and reduce regional and long-distance 
+rates in the first stage of repricing. As of Feb. 1, regional rates 
+will drop by 7 percent and international rates will fall by 9.6 percent. 
+The first phase of repricing will be followed by moves in March and 
+July. In that second phase, the authority will switch many calls to 
+local tariffs from regional tariffs. Measurement of phone calls in 
+seconds instead of usage units will be phased in between April 1 and 
+June 30. The regulator also aims to switch tariff setting for mobile 
+phone calls to mobile operators from fixed-line operators. As part 
+of a European Union agreement, Italy is to complete the necessary 
+repricing of long distance and local phone tariffs by July. 
+</TEXT>
+</DOC>

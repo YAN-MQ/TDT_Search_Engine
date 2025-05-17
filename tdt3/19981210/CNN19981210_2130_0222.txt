@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981210.2130.0222 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+American astronaut Robert cabana and Russian cosmonaut sergi krikalev 
+have become the first people to enter the international space station. 
+Today, they floated side by side in the American-made unity Module, 
+then flipped on the lights. For the next two days, the crew will be 
+routing air ducts from shuttle "Endeavour" to the station and setting 
+up a communications system. And they plan to fix a faulty battery 
+in zarya, the Russian-made section of the station. 
+</TEXT>
+</DOC>

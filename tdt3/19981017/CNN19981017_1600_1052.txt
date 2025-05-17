@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981017.1600.1052 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Consumers coughed up cash for cars, but not much else in September. 
+The government reported this week, retail sales rose a modest 0.3% 
+last month, weaker than Wall Street had expected. Car sales made up 
+a full two-thirds of that increase. That's "business this week," David 
+Daniel, "Headline News." 
+</TEXT>
+</DOC>

@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> PRI19981202.2000.0229 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow Industrial's lost 69 points today. They close at 9,064. 
+</TEXT>
+</DOC>

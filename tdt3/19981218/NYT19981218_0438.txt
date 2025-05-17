@@ -1,0 +1,188 @@
+<DOC>
+<DOCNO> NYT19981218.0438 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Every so often, late at night, David Woodland steals away to the den 
+of his home in Aberdeen, Wash., so that he can check stock prices 
+on the Internet. Woodland, a 68-year-old retired insurance salesman, 
+delights at how, with the click of a mouse, he can tap into the facts 
+and fortunes of Wall Street. ``If I get a bright idea late at night,'' 
+Woodland said, ``I go into the office, fire up the computer and put 
+a buy or sell order in.'' In a little town near Kitty Hawk, N.C., 
+Nick Van Lear, 70, is also logging into the World Wide Web, checking 
+his stock portfolio on Microsoft Investor and plotting his next market 
+move. Van Lear, a retired corporate executive, spends a few hours 
+a day online. ``I gave up golf,'' he said. ``I thought it was right 
+for me before I retired, but then I realized it took up too much time. 
+Now I've discovered a new hobby.'' While online trading is popularly 
+regarded as the province of day traders in their 20s and 30s, jumping 
+in and out of the market to make quick profits, it is now being invaded 
+by millions of people like Woodland and Van Lear _ seasoned investors 
+who bring much larger accounts and more stability to this fast-growing 
+corner of the markets. Microsoft Corp. says more than 20 percent of 
+the people who use its popular Microsoft Investor software are older 
+than 50. And E(ASTERISK)Trade, the fast-growing online brokerage firm, 
+says a quarter of its customers are over 55, up from 19 percent in 
+June 1997. ``This is a big, big part of the market,'' said Joe Ricketts, 
+chairman of Ameritrade Holdings, another large online brokerage firm. 
+``I thought it would take a generation for online investing to permeate 
+society, but it is happening much faster than we ever dreamed of.'' 
+Older Americans' new interest in online investing has been felt on 
+Wall Street; after all, no other group of Americans has so much money 
+tied up in the stock market, and no other group has so much time to 
+devote to finances. So traditional brokerage firms are scrambling 
+to hold an important pool of customers. ``Our average client's age 
+is in the upper 50s, so that is a large part of our client base,'' 
+said Ellen Breslow, director of individual retirement planning services 
+at Salomon Smith Barney. Indeed, online investors 55 and older are 
+typically well-educated and wealthy, according to At Plan, a market 
+research firm that tracks consumer behavior on the Web. About 66 percent 
+have college degrees; 35 percent have postgraduate degrees; about 
+23 percent have incomes of $100,000 or more (compared with 18 percent 
+for the broader adult population), and 28 percent manage an investment 
+portfolio worth more than $250,000. ``In the last 18 months, we've 
+seen a real surge in the older generation,'' said Blake Darcey, chief 
+executive pf DLJ Direct, the fast-growing online brokerage unit of 
+Donaldson, Lufkin &AMP; Jenrette, based in Jersey City, N.J. ``We 
+had people putting in $30,000, but now there are people bringing in 
+$1 million.'' The low cost of doing business online _ now as little 
+as $7 a trade _ and the excitement of riding a bull market are the 
+lures for many older investors _ just as they are for the young. Plus, 
+older investors are taking up the cyberspace totem of ``empowerment.'' 
+They are dismissing their full-service brokers, who offer research 
+and investment advice but often charge more than $100 a trade, and 
+instead are picking their own stocks, after downloading companies' 
+annual reports and other research basics. ``These things are incredible 
+tools, now in the hands of an individual investor,'' said Carol Potts, 
+56, a retired crafts designer in Santa Barbara, Calif. ``There's no 
+reason for me to have a financial adviser. I'm very analytical, and 
+I like to get involved in research.'' For many such investors, the 
+Internet is making them bolder. According to a survey this fall of 
+630 people over 50 by Charles Schwab &AMP; Co., many older investors 
+say the Internet has made them more confident about their investments 
+and more willing to trust their own judgment. But such confidence 
+may also cause some to gamble away their retirement nest eggs, financial 
+experts warn. ``Frankly, for many this is like online gambling,'' 
+said Jeremy Siegel, a professor of finance at the Wharton School of 
+the University of Pennsylvania. ``It's almost like being at the blackjack 
+table. People can get in and out immediately, and with a profit. And 
+they can reverse their bet at any time.'' Of course, such a warning 
+holds for investors of any age. But if stocks enter a bear market, 
+Siegel said, it could prove particularly disastrous for retirees, 
+who are so dependent on their savings. Other financial experts warn 
+that older investors online could be vulnerable to stock fraud. The 
+Securities and Exchange Commission in late October accused 44 stock 
+promoters of fraudulently recommending stocks on the Internet, and 
+regulators are concerned that older Americans are particularly vulnerable 
+to such schemes. ``Older Americans have long been a favorite target 
+of con artists _ and the Internet is the newest high-tech way for 
+crooks to pick investors' pockets,'' said Denise Voigt Crawford, former 
+president of the North American Securities Administration Association, 
+a band of state regulatory agencies. The rush of seniors to online 
+investing begins, of course, with desktops and Internet access. The 
+Schwab survey found that 40 percent of people over 50 had a home computer, 
+up from 29 percent three years ago, and that 70 percent of those had 
+Internet access at home, up from 17 percent in 1995. Jupiter Communications, 
+which tracks new media, says more than 7 million people 55 or older 
+were online this year, up from 3.8 million just two years ago. By 
+2002, the number is expected to grow to nearly 11 million. ``The stereotypes 
+really don't fit,'' said Fran Middleton, 70, a founder of Senior Net, 
+a San Francisco group devoted to bringing technology to people over 
+50. ``If a large senior center opens and they say, `We're going to 
+have classes on computers,' they're swamped. I see this time and time 
+again. They'd say, `We have chairs for 25,' and 200 people would turn 
+up.'' ``If you're at home, you get calls all times of the day: `Do 
+I have a stock for you,''' said Len Bovarnick, a retired entrepreneur 
+who now divides his time between Norwood, Mass., and West Palm Beach, 
+Fla. ``Well, I don't want these people to call. I can do it myself.'' 
+Wall Street has certainly noticed the graying of cyberspace. DLJ Direct 
+has created a special category for wealthy investors, most of whom 
+are older. These customers have special privileges like access to 
+initial public offerings and proprietary Wall Street research. Discover 
+Brokerage, a unit of Morgan Stanley Dean Witter, is now offering Treasury 
+securities online because of demand from its older customers. ``We 
+have definitely seen an aging of our client base,'' said Tom O'Connell, 
+executive vice president of Discover. While Merrill Lynch, the nation's 
+largest brokerage firm, has no plans to offer discount online trading, 
+it is preparing to allow customers who pay an annual management fee 
+to make a set number of trades over the Internet. And Schwab, the 
+giant discount broker and one of the Web's earliest and most ardent 
+advocates, has teamed up with Seniornet to train older investors how 
+to invest online. The growth of online investing, of course, coincides 
+with one of the greatest bull markets in history, the explosion of 
+mutual funds and investing clubs, and a mania for hot Internet stocks 
+like Yahoo and Amazon.com. In a time of golden returns, everyone is 
+a pro, and as a result, people of all ages are dismissing their brokers, 
+managing their own money and doing their own research. Online trading 
+has nearly doubled in each of the last two years and now accounts 
+for about 10 percent of all stock trades, retail and institutional, 
+according to Bill Burnham, an online analyst at Credit Suisse First 
+Boston. Don Gimpel, 69, and Orvis Adams, 73, are two such investors, 
+and they are basking in the glow of a great market, casting about 
+the Net for information about stocks. Gimpel, a retired engineer, 
+likes to hand out a 40-page document filled with his favorite investment 
+sites on the Web, more than 500 of them. For instance, he logs onto 
+the personal Web site of Edward Yardeni, the chief economist of Deutsche 
+Bank Securities; he also tracks monthly economic trends and pulls 
+Federal Reserve data off the Web. ``There's no excuse for flying blind 
+anymore,'' Gimpel said. ``The data are here.'' While Adams trades 
+through National Discount Brokers, which offers online trading, Gimpel, 
+like a number of older investors, uses the Web to do research and 
+then telephones a full-service broker. Some older investors say they 
+like the comfort of having a broker available in emergencies. Dwight 
+Bale, 69, a retired Boeing aircraft inspector in Auburn, Wash., is 
+another who keeps a foothold in both investing worlds. ``If something 
+goes wrong, I can go pound my fist on a desk and say, `I want my money 
+back,''' he said. Still, the danger, said Siegel of the Wharton School, 
+is that investors who use the Web can imagine that they have a great 
+advantage over others even though millions of individuals and institutions 
+also have access to up-to-the-minute data, on and off the Web. ``You 
+get this herd mentality,'' Siegel said. ``But don't forget, everyone 
+knows more. You may have an edge over the past, but you may not have 
+an edge over everyone else. And if everyone knows more, it means it's 
+already computed in the price.'' That is part of the argument of full-service 
+brokers, who say their business is not in jeopardy. People value knowledge 
+and sound advice, they say, even if it comes at a premium _ and that 
+is not about to change. Advisory services include estate planning, 
+management of personal trusts and information on other complex topics, 
+said Ms. Breslow of Salomon Smith Barney. ``The kind of advice we 
+give you're not going to find on a Web site somewhere,'' she said. 
+John Steffens, vice chairman of Merrill Lynch, said: ``We think advice 
+is our business. And the transaction is the least important part of 
+the business. There's nothing inherently wrong with trading on the 
+Internet, but the concept of trading all you want is how it's being 
+positioned.'' The ads for online trading services, Steffens said, 
+``are `Let's get a hunch and bet a bunch' or `More trading is better' 
+_ they're positioning it as entertainment.'' He added: ``Many of us 
+know it's not so simple. It's very hard to beat the S&AMP;P; very 
+few pros beat the S&AMP;P.'' Regulators are also watching online trading 
+carefully. Mary Schapiro, president of the regulatory arm of the National 
+Association of Securities Dealers, which operates the Nasdaq market, 
+shares a growing concern about suggestions that fast money can be 
+made by pointing and clicking. ``It's easy to push the button, but 
+it's not easy to invest,'' she said. ``The risk with a senior citizen 
+is if they lose a significant part of their money, they may not be 
+able to earn it back.'' For that reason, the association, while in 
+favor of the growth of online investing, is thinking about questions 
+of ``suitability'' _ whether online investors are making trades that 
+are suitable for their personal financial situations. At a full-service 
+broker, such trades, in theory at least, would be reviewed for their 
+appropriateness. Online, they may go unchecked _ and, in fact, may 
+be fueled by chat rooms, some of which are supported by online brokerage 
+firms that say they offer no advice. ``Suitability is not an issue,'' 
+said Christos Cotsakos, chief executive of E(ASTERISK)Trade. ``The 
+brokerage model is predicated on the notion that the customer is dumb. 
+But the advice you get is not necessarily right. ``We take our responsibility 
+very seriously, and we believe people want to make their own decisions.'' 
+Investors like Woodland, the retired insurance salesman _ who also 
+balances his checkbook with Quicken personal finance software _ are 
+not worried. ``To me, it's the freedom to walk into my little office 
+here and take charge of my business,'' he said. ``I'm not in the insurance 
+business anymore; I'm in the investing business.'' Woodland logged 
+again onto his computer. ``A good half the people I know out here 
+in this community are on the Internet,'' he said. And what about his 
+children? Did they get him started? He laughed. ``I think I introduced 
+them to the Internet,'' he said. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981229.1130.0940 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Power remains out for some 0,000 people in four southern states who 
+were hit by winter weather last week. At least three people have died 
+from the cold. 
+</TEXT>
+</DOC>

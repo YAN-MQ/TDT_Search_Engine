@@ -1,0 +1,89 @@
+<DOC>
+<DOCNO> NYT19981120.0424 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+It was a sunny afternoon in Tucson last March when Mary Meeker sprinted 
+past a cluster of computer executives chatting at PC Forum, an annual 
+gathering of the digirati. Ms. Meeker, an analyst at Morgan Stanley 
+Dean Witter, is best known for her coverage of Internet companies. 
+``Mary, would you sell Yahoo when it hits $5 billion?,'' a reporter 
+shouted from the crowd. Yahoo, the top-rated site that guides people 
+to destinations on the World Wide Web, had already become the darling 
+stock of high-technology investors. Despite tiny sales and microscopic 
+profits, it had surged to a total market value of $4 billion. Ms. 
+Meeker paused, looking quizzical. The reporter pressed ahead. ``How 
+about $10 billion?'' he asked. ``No,'' she said. Then, throwing out 
+a value that would have seemed unthinkable at the time, he barked, 
+``$20 billion?'' ``If I believe in the company, I buy the stock,'' 
+she answered, impatient with the question. Then she zoomed off. So, 
+too, would Yahoo's stock market value. It shot past $5 billion in 
+April, hopped over $10 billion in September and is now at $18.8 billion. 
+And Ms. Meeker, like most of the other analysts who follow the stock, 
+continues to rate Yahoo a strong buy. Almost every type of investor 
+thinks about valuation in one way or another. The trick of the game, 
+after all, is to buy low and sell high _ and that requires a way to 
+measure if a stock price is more or less than it should be. But analysts 
+and investors who are bullish on companies like Yahoo _ or on other 
+new stars like Amazon.com, the bookseller, and Ebay, the on-line auctioneer 
+_ are just not interested in the question of whether these stocks 
+are climbing too high. If you have to ask, as they say on the Internet, 
+you just don't get it. ``If we had been overly focused on value, I 
+don't think we would have been able to take the leap of faith to own 
+these things,'' said Pamela Cutrell, a vice president of Essex Investment 
+Management, one of the few institutional investors that have been 
+active in Internet stocks. Ms. Cutrell argues that Internet companies 
+are growing so fast that they are bound to become more valuable. Of 
+course, many investors who focus on the value question washed their 
+hands of Internet companies long ago _ if they ever sullied them in 
+the sector to begin with. Indeed, that has been the style of professional 
+investors. ``These are not pension fund-type stocks,'' said Shaun 
+G. Andrikopoulos, an analyst with BT Alex Brown. Most trading in such 
+issues is in lots of a few hundred shares, indicating that individual 
+investors, not mutual funds or other institutional investors, are 
+the usual players. Of course, brokerage firms and their analysts cannot 
+simply wash their hands of these stocks, no matter how unreasonable 
+the valuations may seem. There is too much money to be made in underwriting 
+the stock offerings of the endless stream of Internet companies. Some 
+analysts justify their recomendations with the multiple-multiplication 
+method. In this approach, the analyst forecasts continued, rapid growth 
+for sales, and just maybe earnings, for the company for several years. 
+Then the analyst calculates what the stock would be worth if the company 
+achieved those sales forecasts and its stock traded at a certain, 
+enormous multiple. A good example of this is the justification used 
+two weeks ago by Rakesh Sood, the Goldman, Sachs analyst, for a report 
+predicting a $150 stock price within 18 months for Ebay, a company 
+that Goldman had brought public in September at $18 a share; it now 
+trades at $147. The analyst estimated that the revenue of Ebay, which 
+lets consumers auction their attic collectibles, would triple from 
+$43 million to $126 million in 2000. If the company exceeded his published 
+estimate by 50 percent (``Optimistic,'' he wrote, but hardly unthinkable) 
+and it warranted a price-to-sales multiple of 35, then its stock would 
+be worth $150. Others, however, don't bother with the mathematical 
+contortions to back up their picks. ``Never let valuation get in the 
+way of a good Internet story,'' Andrikopoulos said. ``The only way 
+to look at Internet stocks is based purely with what is happening 
+with the underlying fundamentals.'' Andrikopoulos used to cover computer 
+stocks, to which he applied the old-fashioned idea that analysts should 
+recommend selling stocks as they became over-valued. He learned his 
+lesson with Yahoo's stock when he downgraded it in June 1997. After 
+the stock tripled, he upgraded it last April, and it has more than 
+tripled since. Now, Andrikopoulos has a buy recommendation on every 
+Internet stock he covers. One analyst who argues that some small measure 
+of gravity may apply even on the Internet is Paul W. Noglows of Hambrecht 
+&AMP; Quist, the San Francisco brokerage firm that specializes in 
+small companies. After championing Yahoo for years, Noglows dropped 
+his rating to a hold in July, after its market value hit $10 billion. 
+``I love Yahoo on a fundamental basis,'' he said, ``but I don't think 
+its value should be the same as Viacom or CBS.'' Viacom, he said, 
+is expected to post revenue of $15 billion next year, versus $315 
+million for Yahoo. Noglows has become a virtual Jeremiah among Internet 
+analysts because he dares to speak of value. His initial rating for 
+Broadcast.com, the on-line music and news provider, was a hold, a 
+shocking move since his firm was among the underwriters. ``I am a 
+huge believer that the Internet will dwarf anything we have seen before,'' 
+he said. ``But I don't think that people are buying these stocks to 
+hold for the next 10 years. I think this is a game of the greater 
+fool.'' 
+</TEXT>
+</DOC>

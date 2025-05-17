@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0241 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers are taking the unusual step of recommending that students 
+be immunized against the flu. The flu usually isn't life threatening 
+for kids. But researchers say about 45% of them get the flu and pass 
+it on. They say stopping the flu at school would reduce its impact 
+on adults. 
+</TEXT>
+</DOC>

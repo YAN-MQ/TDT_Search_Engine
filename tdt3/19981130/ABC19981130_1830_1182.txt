@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981130.1830.1182 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is the end of the hurricane season, according to the calendar, 
+anyway. It was the deadliest in 200 years and one of the most enduring. 
+There is still hurricane Nicole, way out in the atlantic, the tenth 
+hurricane of the year. There were also four tropical storms in the 
+atlantic. In the pacific this year, there were nine hurricanes. 
+</TEXT>
+</DOC>

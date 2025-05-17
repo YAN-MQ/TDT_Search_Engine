@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> VOA19981120.0500.3086 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Microsoft under investigation and facing a court trial on government 
+charges of violating antitrust laws in the U.S. is also having difficulties 
+in Japan. The Japanese Fair Trade Commission has issued a warning 
+to the software maker's Japanese unit. Japan's watchdog unit raided 
+Microsoft offices just after the justice department began its investigation. 
+The Japanese investigation centers on Microsoft's inclusion of its 
+Internet Explorer in its Windows '95 operating system, much the same 
+as the investigation in the U.S. 
+</TEXT>
+</DOC>

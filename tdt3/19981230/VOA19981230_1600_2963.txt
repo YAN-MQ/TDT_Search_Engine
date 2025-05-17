@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981230.1600.2963 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow Jones Industrial Average closed at 9274. That was down 46 
+points. Standard & Poors 500 Index closing at 1231. That was down 
+nine points. The NASDAQ was down 14. Now a decline brought an eight 
+session winning streak for the industrial average to an end. Now that 
+index would have to gain more than 100 points tomorrow to end the 
+year at a record high, but some traders are still hopeful. 
+</TEXT>
+</DOC>

@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> VOA19981118.0500.2698 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+For oil tankers in Alaska's Prince William Sound, icebergs around 
+the Columbia Glacier pose a serious hazard. While most icebergs can 
+be seen with surface radar and avoided by ships, some icebergs don't 
+show up on radar screens. As Doug Schneider reports, researchers are 
+looking for ways to detect these undetectable hazards. Although it 
+is a clear, sunny day here in Alaska's Prince William Sound, Captain 
+Bob Dessatel stares only at the sonar screen as he guides his fishing 
+vessel past several large ice bergs. The echo of the sonar pinging 
+away on the ice ahead and the ocean floor below, sounds like something 
+out of a World War II submarine movie. Dessatel guides his boat slowly 
+forward. Using only the sonar images that show the portion of the 
+iceberg that lies just beneath the surface of the water. You have 
+seen a bunch of icebergs within a short pattern, for instance, but 
+you cannot quite see beyond that where an open league may be. You 
+might get through one or two of them and then you could actually get 
+in a open league. Icebergs can and have caused big problems for ships 
+traveling through Prince William Sound. The danger is especially high 
+to tankers loaded with millions of barrels of oil from the nearby 
+TransAlaska pipeline terminal in Valdez. Especially worrisome are 
+icebergs that float beneath the surface of the water. Conventional 
+surface radar cannot see such ice bergs. In 1994, the 89,000 ton tanker, 
+Overseas Ohio, struck just such and iceberg, tearing a 20-foot hole 
+in the bow. Alexander Kotleroff is with the Prince William Sound Regional 
+Citizen's Advisory Council. A group that works with the oil industry 
+to prevent oil spills. If no one found anything and end up, they smashed 
+right into it, then it costs about a $1 million to repair. To keep 
+tankers from hitting these so-called neutrally buoyant icebergs, Kotleroff 
+is testing sonars used by the fishing industry to see if they can 
+be adapted for use in iceberg detection. Originally built to find 
+schools of migrating polluk and other fish, the sonar on Bob Dessatel's 
+167-foot troller is today being tested to see if it can accurately 
+detect submerged icebergs. Dennis Sotoberg is the vice president of 
+Wesmar Electronics, the company that makes this state of the art fish 
+finder. Right now, we are running the sonar at a range of 250 fathoms. 
+That is to the outer edge. We use color in our sonars. The color represents 
+a density or the strength of the echo being returned. After a full 
+day of field trials, the sonar offered mixed results. It did detect 
+icebergs below the water surface, but too often the sonar did not 
+provide an accurate depiction of all the icebergs in the ship's path. 
+While great at finding schools of fish, the sonar isn't quite what 
+Alexander Kotleroff is looking for. But he is not giving up. Later 
+this year, he plans to test a new marine radar that is reported to 
+be able to pick up objects as small as a bird. When you are looking 
+at icebergs, you want to look at the large pieces and the small pieces 
+and to be able to distinguish which is which. We would put a unit 
+out there that would transmit the data back to the VTS station, the 
+vessel traffic system. And then when the tankers would be leaving, 
+they would ask for an ice report and instead of having an ice report 
+from the last vessel that came in, they would get an ice report from 
+that particular moment. Although reliable sonars do exist that could 
+detect icebergs, such sonars are available only to the military. So 
+until a reliable ice berg detection system is developed for civilian 
+use, tankers in the Sound will be limited to just six knots, or about 
+seven miles per hour. Tanker captains also will continue to rely on 
+lookouts, searchlights, and their own surface radars. For Arctic Science 
+Journeys, this is Doug Schneider reporting from Valdez, Alaska. 
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981207.1600.0959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There's a transatlantic deal in energy. I'm Jan Hopkins at the CNN 
+Financial Newsdesk in New York with this edition of "Dollars & Sense." 
+Scottish power is buying Oregon-based Pacificorp in a deal valued 
+at nearly $8 billion. Pacificorp is the third largest utility west 
+of the Mississippi. It serves customers in seven states. It's the 
+first takeover ever of a major U.S. utility by an overseas company. 
+We've grown from being Scotland's largest utility to the largest utility 
+in the U.K., serving gas, power, electricity and telecoms. We've been 
+looking for the last 12 months in the U.S., and we're very pleased 
+to be putting this transaction together with Pacificorp, one of the 
+largest electricity companies in the USA. The deal is still subject 
+to regulatory approval. 
+</TEXT>
+</DOC>

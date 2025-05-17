@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981124.2130.1464 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Take a peek inside this northwestern University dorm room in evanston, 
+illinois, and you'll find a replica of Michelangelo's work from the 
+sistine chapel. It took the former resident six days to complete. 
+The dorm president says it shows the creativity that is a part of 
+an education. The school, however, is going to repaint the room. 
+</TEXT>
+</DOC>

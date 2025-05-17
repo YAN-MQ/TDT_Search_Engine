@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981230.2130.0525 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new study suggests when people get warnings about Tainted foods, 
+they don't always pay attention. The study examined a salmonella outbreak 
+in 1994 caused by bad ice cream. The researchers found more than 0% 
+of the public heard the health warning. But in 31% of households, 
+someone ate the ice cream anyway. In all, 225,000 people got sick. 
+A researcher says the media needs to make it clearer that no one should 
+eat recalled food. 
+</TEXT>
+</DOC>

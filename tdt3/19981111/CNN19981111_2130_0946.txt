@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981111.2130.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There were a number of parades and celebrations across the country 
+to Mark veterans day. President Clinton signed legislation that would 
+increase benefits for disabled veterans and survivors of those who 
+died serving their country. 
+</TEXT>
+</DOC>

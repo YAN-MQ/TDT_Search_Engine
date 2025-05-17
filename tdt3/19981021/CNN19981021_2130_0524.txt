@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981021.2130.0524 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News weather" 
+forecast for Thursday. We'll continue to see wet weather across the 
+western part of the country, especially the southwest with some showers 
+and storms along the cold front from Texas through the gulf coast 
+into Florida. A trough of low pressure moving across the northeast 
+could produce a few rain showers as well. Cool, high pressure though 
+will settle into much of the eastern United States. Highs on Thursday 
+will just be in 40s and 50s from New England into the Great Lakes, 
+in the Ohio valley and into the mid-atlantic. Look for mostly 70s 
+in the gulf coast. Some 70s in the northern plains and 70s and 80s 
+through the desert southwest. Looking ahead to Friday, showers will 
+continue across the southwest with some moving into the northwest. 
+On Saturday, the wet weather will be across the northwest. Sunday, 
+still scattered showers northwest and through the great basin. Things 
+do warm up just a bit across the eastern United States, there will 
+be 50s over northern New England, some 80s in Florida. Don't forget, 
+you can find four-day forecasts for 6,100 cities on CNN interactive 
+at CNN.com. 
+</TEXT>
+</DOC>

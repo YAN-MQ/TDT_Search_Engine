@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981020.1600.0512 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News weather 
+forecast" for Wednesday. As cold air continues to sink across the 
+eastern U.S., we'll see some snow, mixed with rain over the eastern 
+Great Lakes during the evening hours. Look for some showers or storms 
+across Florida, and wet weather across west texas and the southwestern 
+United States. Southeast Texas won't see as much rain, but they'll 
+continue to see river flooding. High temperatures on Wednesday, just 
+in the 40s and 50s around the Great Lakes and the northeast. Some 
+70s and 80s in the south and also in the southwest. Looking ahead 
+then to Thursday, we'll see cold air over the northeastern United 
+States, with a mix of rain or snow showers and scattered showers across 
+the southwest once again. Then on Friday, look for 40s and 50s in 
+the east, 70s and 80s across the southwestern part of the country. 
+We'll see some scattered showers continuing in the southwest as well. 
+Finally, for Saturday, rainy and wet across the northwest. Don't forget, 
+your four-day forecast for 6,100 cities on CNN interactive at cNN.com. 
+</TEXT>
+</DOC>

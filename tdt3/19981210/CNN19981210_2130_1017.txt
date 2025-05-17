@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981210.2130.1017 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The number of Americans without health insurance is increasing. A 
+new study by the health insurance association of America estimates 
+there are 43.5 million uninsured Americans. And it projects that the 
+number will grow by about 10 million by the year 2007. According to 
+the study, the uninsured aren't getting medical coverage because they 
+can't afford it. 
+</TEXT>
+</DOC>

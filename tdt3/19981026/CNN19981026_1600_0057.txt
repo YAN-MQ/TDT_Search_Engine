@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981026.1600.0057 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors on Wall Street are recovering from a scare, but not one 
+that has anything to do with Asian economic turmoil or corporate earning 
+reports. The New York stock exchange says it halted trading for an 
+hour this afternoon because of an equipment failure. When trading 
+resumed, the Dow Jones industrial average bobbed up and down, eventually 
+ending down, 16.47 points. We'll have more on this story in "Dollars 
+& Sense" at 16 past the hour. 
+</TEXT>
+</DOC>

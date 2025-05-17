@@ -1,0 +1,124 @@
+<DOC>
+<DOCNO> NYT19981116.0207 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In the Greek myths, a terrible price is always paid by humans who 
+seek to live forever, as if to discourage people from even the thought 
+of sharing in the defining attribute of gods. Tithonus, a youth with 
+whom Aurora, the goddess of the Dawn, fell in love, was granted immortality, 
+but as he grew more bent and decrepit longed only for one other gift, 
+the relief of death. Chastened by such cautionary tales, we meekly 
+accept that death is as inevitable as the dawn, knowing that our bodies 
+will run down like an aging automobile when they exceed their design 
+limit. So it was almost disquieting rather than uplifting to hear 
+scientists at Geron Corp. in Menlo Park, Calif., talk about ``immortalizing'' 
+certain cells that they hoped to derive from the recently isolated 
+human embryonic stem cells. Surely the scientists were speaking metaphorically. 
+They were not. The study of aging is undergoing a possibly profound 
+change, and a handful of biologists, whose hubris has not yet been 
+punished with a thunderbolt from Mount Olympus, are beginning to think 
+about interfering with the mechanisms that make the body mortal. Immortalizing 
+a cell is of course very different from making an individual live 
+forever. But because people are made of cells the two concepts have 
+a deep and maybe exploitable link. For decades biologists have known 
+that the body's mortality is mirrored on the cellular level by an 
+immutable rule called the Hayflick limit. Dr. Leonard Hayflick, now 
+of the University of California, San Francisco, discovered that when 
+tissue cells are taken from the body and cultured in a laboratory 
+dish, they grow and divide about 50 times _ the number varies with 
+the kind of tissue _ and then lapse into senescence. In January, Geron's 
+biologists announced an electrifying finding: They had learned how 
+to make human cells break the Hayflick limit. The physical basis of 
+the Hayflick rule is a section of DNA known as the telomere, which 
+gets shorter each time the cell divides. When the telomeres reach 
+a certain minimum length, the cell is thrown into a terminal crisis. 
+All cells possess a gene, known as the telomerase gene, which can 
+restore the telomeres to their youthful length. But in most cells 
+the gene is permanently repressed and inactive. Geron's discovery 
+was that by inserting a copy of the telomerase gene in active form 
+into cells, it could make them grow and divide indefinitely. For cells, 
+the ability to divide indefinitely into two identical daughter cells 
+is immortality. (The cell's atoms and molecules are continually being 
+replaced, but its structure and informational content are unchanged 
+from day to day.) For an individual, making clones of oneself in perpetuity 
+would hardly count as living forever. What stands between a person 
+and immortality is that almost all the body's cells are mortal and, 
+though they turn over, eventually cease to replace themselves efficiently. 
+Two categories of body cell, however, are immortal in the cell's sense 
+of being able to divide indefinitely. One is the essence of life, 
+the other of death. Cancer cells eventually learn how to unlock the 
+bolted down switches on the telomerase gene, and with this last defense 
+in their hands can defy all the body's careful control mechanisms 
+and run rampant. The other kind of immortal cell is the all-purpose, 
+embryonic stem cells from which the whole organism develops. In embryonic 
+stem cells, too, the telomerase gene is active, and the cells can 
+divide indefinitely as long as they remain embryonic. As the fetus 
+develops, however, the embryonic stem cells differentiate, meaning 
+that they progress down a variety of different pathways to become 
+the specialized cells that form each of the body's different tissues. 
+In the biologist's view it is differentiation, not expulsion from 
+Eden, that makes us mortal. As cells differentiate, they repress the 
+telomerase gene. Some, like most brain and heart cells, seem never 
+to divide again once the organism has reached maturity. Others, like 
+skin and blood cells, can regenerate from stem cells specific to their 
+tissue, but these tissue stem cells, descendants of the embryonic 
+stem cells, also have a finite lifetime. How then are embryonic cells 
+generated from parents whose cells are irreversibly differentiated? 
+In the embryo, a small number of stem cells are set aside, before 
+embryonic development begins, and protected from differentiation. 
+These special cells, known as embryonic germ cells, migrate to the 
+developing ovary or testis, where they generate the egg or sperm for 
+the next generation. Thus there is a special lineage of cells that 
+permanently resist terminal differentiation, cycling indefinitely 
+from embryonic stem cell to embryonic germ cell, to oocyte or sperm, 
+to fertilized egg and embryonic stem cell again. At each cycle the 
+cells spin off a new body as the temporary vehicle to carry them forward 
+on their unending journey. Geron's second amazing advance of the year 
+was the isolation of human embryonic stem cells by two groups of researchers 
+whom the company financed. One reason for its success was that under 
+its visionary founder, Michael West, the company worked with leading 
+academic scientists in the telomere field. Because the embryonic stem 
+cells were known to maintain permanently youthful telomeres, the company 
+was drawn into the stem cell field and repeated the coup of signing 
+up many of the leading university scientists in the field. With its 
+human embryonic stem cells and its telomerase gene, Geron has acquired 
+two scientifically fascinating properties, though of course commercial 
+pay-off may be years away. What the company hopes to do is to guide 
+the embryonic stem cells down specific paths of differentiation toward 
+becoming the specialized cells of heart, blood or any other desired 
+tissue. Before being injected into a patient, these specialized cells 
+could be immortalized by adding the telomerase gene in active form. 
+The tissues they formed in a patient would then be permanently youthful. 
+(There would of course be a problem of immune rejection, which Geron 
+has not yet addressed. West, now at another company, said last week 
+that he hoped to sidestep rejection by generating embryonic stem cells 
+from the patient's own body cells; their differentiated state would 
+be reversed by fusing the cell with a cow's egg.) If biologists can 
+immortalize some of the body's cells by the Geron method, could they 
+in time learn how to immortalize them all? Dr. William Haseltine, 
+chairman of Human Genome Sciences in Rockville, Md., believes a solution 
+lies with the tissue stem cells that provide for the regeneration 
+of tissue like blood and skin. Tissue stem cells, descendants of the 
+embryonic stem cells, may exist for many or all tissues but only a 
+few have so far been identified. These tissue stem cells also get 
+old in time and start to generate tired or compromised cells. Haseltine's 
+idea is to replace them, before they start to do harm, with tissue 
+stem cells immortalized with telomerase. All the body's tissues would 
+thus be continuously and reliably regenerated from permanently youthful 
+tissue stem cells. ``This is a clearly articulated vision of human 
+immortality that will be introduced slowly over the next 50 years,'' 
+Haseltine said. Dr. Thomas Okarma, Geron's vice president for research, 
+commented sternly that his own company had no such plans. Making the 
+body immortal ``is indeed fanciful and certainly something we don't 
+even contemplate here,'' he said. ``We are much more interested in 
+dealing with the 20 or so degenerative diseases that have no present 
+treatment and could be addressed with immortalized cells.'' The embryonic 
+stem cells, immortal seeds in our mortal bodies, have a pedigree that 
+stretches back more than 3 billion years to the first cell. Their 
+survival mechanisms are sophisticated. Even the telomerase system 
+is far from understood. Still, the cell is a mechanism and, absent 
+the gods' fury, it can one day be made to operate closer to our desire 
+than evolution's uncaring design. 
+</TEXT>
+</DOC>

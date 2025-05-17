@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981129.1130.1348 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Golf -- Tom Lehman and Mark O'Meara each collected $150,000 on the 
+first day of the skins game. Fred couples and Greg Norman came up 
+empty on day one. The event concludes today in beautiful La Quinta, 
+California. Matt Yallof, "CNN Headline Sports." 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981101.1130.1282 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In tennis, Richard Krajicek trounced Yevgeny Kafelnikov to win the 
+eurocard open. With the win, the Dutchman moves into the provisional 
+eighth spot for the season-ending atp tour world title later this 
+month. 
+</TEXT>
+</DOC>

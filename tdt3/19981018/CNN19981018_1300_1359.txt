@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981018.1300.1359 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A shocker for you in auto racing -- Jeff Gordon won the Nascar Winston 
+cup pepsi 400. 
+</TEXT>
+</DOC>

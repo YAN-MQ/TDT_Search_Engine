@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981202.1130.0426 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+'tis the holiday season, but in some places, spring is in the air. 
+Record high temperatures are hitting areas from the Rockies to the 
+northeast. Temperatures in some places are as much as 20 degrees above 
+normal. Some ski resorts say it's even too warm to keep artificial 
+snow frozen. And sporting goods stores report a drop in ski equipment 
+sales, while mountain bikes and in-line skates continue to sell strong. 
+</TEXT>
+</DOC>

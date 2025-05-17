@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981031.1130.0578 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new telephone becomes available tomorrow. It's expensive and bulky 
+but the manufacturer says it's the wave of the future. Rick Lockridge 
+has a look at it in tech trends. It is the new space race -- a race 
+among rival consortiums, each seeking to encircle the earth with satellites 
+to bring phone and pager services to places that have never had them 
+before -- to connect the unconnected. We also see the opportunity 
+of business people traveling now to more remote areas and actually 
+have the opportunity to conduct business there, where in the past 
+they could not. The front-runner in this new race is iridium. With 
+72 working satellites already in orbit, this deep-pocketed partnership 
+promises to bring truly global phone and paging capabilities to the 
+world on November 1st. But those services will not be inexpensive 
+-- $3,000 for the phone, up to $3 a minute for satellite talk time. 
+We may be slightly more expensive. But we believe that our telecommunication 
+services is going to be far superior. Unlike older satellite phones, 
+which require a large, unwieldy antenna, the new satellite phones 
+are much more portable, they look like early cellular phones, and 
+in fact, can make regular cellular calls. But press a button, swing 
+out the big antenna on back, and you are ready to make a call through 
+a satellite 500 miles overhead. Your call bounces from one iridium 
+satellite to another before being beamed to its destination on earth 
+-- wherever that destination might be. Iridium is going to cover, 
+and actually today does cover, every square inch of the earth -- from 
+pole to pole, all the way around the equator everywhere. However, 
+dozens of countries have not yet given permission to iridium to transmit 
+satellite phone calls within their borders. Some may never do so. 
+Still, iridium remains hopeful, and says it believes it can sign up 
+all the holdouts, eventually. 
+</TEXT>
+</DOC>

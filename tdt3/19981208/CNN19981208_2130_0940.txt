@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981208.2130.0940 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks ended lower today on Wall Street. Market analysts say investors 
+cashed in on profits after a string of strong performances by stocks, 
+especially in the technology sector. 
+</TEXT>
+</DOC>

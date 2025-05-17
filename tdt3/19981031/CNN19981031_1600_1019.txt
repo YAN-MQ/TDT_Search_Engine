@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981031.1600.1019 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Internet bookseller, Amazon.com, says it lost $45 million during the 
+third quarter. But that's actually better than expected, and the company's 
+stock increased $7 this week. 
+</TEXT>
+</DOC>

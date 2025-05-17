@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981203.1600.0902 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton has announced new regulations aimed at making drinking 
+water supplies safer. They will require improved filtration and set 
+new standards to prevent infections by a waterborne parasite. 
+</TEXT>
+</DOC>

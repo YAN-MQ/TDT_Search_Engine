@@ -1,0 +1,89 @@
+<DOC>
+<DOCNO> NYT19981111.0287 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+It's a very special time for a computer game about anticompetitive 
+business tactics. While the Department of Justice scrutinizes Microsoft, 
+we can play Railroad Tycoon II on our Windows-compatible PCs, build 
+simulated choo-choo empires on the Internet and wallow in the fantasy 
+of untrammeled monopoly power. Of course, we all oppose monopolies 
+on principle. But when you're not playing for real-world stakes and 
+you're the robber baron, it's easy to enjoy. In the words of Mel Brooks, 
+it's good to be the king. Like its predecessor, Sid Meier's classic 
+Railroad Tycoon, Tycoon II takes place in the unregulated heyday of 
+19th-century industrial expansion, when magnates like Cornelius Vanderbilt 
+and Jay Gould could strong-arm rivals, collusively divide the marketplace, 
+use the stock market as their personal piggy bank and bribe the government 
+with relative impunity. Leveraging an essential service to crush your 
+rivals was standard operating procedure. No one could prosecute you 
+for making the entire chain of supply an essential part of your operating 
+system. Running a ham-fisted monopoly did not require an army of lawyers. 
+Corporate life was simpler then. Tycoon II evokes that era in sepia 
+tones, literally. On a tactical level, the game is about laying track, 
+building stations, buying locomotives and transporting cargo. As with 
+many strategy games, there is an impressive depth of logistical detail 
+and clockwork: dozens of engines to choose from, 34 types of cargo, 
+5 styles of railroad station architecture, construction expenses, 
+loading logistics and the minutiae of routing. But on a deeper level, 
+Railroad Tycoon II is about vertical integration and financial management. 
+You can make a tidy profit hauling goods and raw materials from one 
+place to another. But why not buy the mines, refineries, mills, factories 
+and storefronts while you're at it? It makes everything smoother and 
+easier and more profitable. And it makes the shareholders happy. And 
+ultimately, that is the be-all and end-all of this game. At its core, 
+this is a game about the stock market. If you're foggy about bond 
+ratings, book value and five-year weighted returns, prepare to master 
+the basics of corporate accounting. Because your mission, at the end 
+of the day, is to drive up the price of your stock by reducing your 
+debt relative to the size of your assets and by showing a solid profit 
+over a number of years. (I know it sounds loony, but that's how it 
+worked before Internet companies started going public.) If you get 
+bored milking the cash cow, you can resign as chairman, hold onto 
+all your high-yielding stock and buy control of another company or 
+start a new one from scratch. If there are enough players on the map, 
+you don't need to lay a single rail _ you can just invest in other 
+people's companies and play Railroad Tycoon II strictly as a stock 
+market game. You can be the Paul Allen of the railroad industry. A 
+good chunk of your success, on a macro level, hinges on timing bond 
+issues, buying out your partners, leveraging your shares and short-selling 
+your competitors. Rest assured that if you get in over your head with 
+borrowed money or borrowed stock, your opponents will seize the opportunity 
+to drive you into bankruptcy. ``It's a pretty wide-open simulation 
+of corporate business warfare as it existed then and as it exists 
+now,'' said Phil Steinmeyer, Railroad Tycoon II's producer, who worked 
+as a consultant for the Chicago and Northwestern Railroad before starting 
+a computer game company. ``I was a programmer working primarily on 
+back-office stuff. We were trying to deal with and computerize waybilling, 
+a settlement system for railroads that was 150 years old. We reduced 
+the amount of humans needed to process that by about 80 percent through 
+computerization, just creating very advanced rules system for evaluating 
+the way bills came through. The traditional view that the railroad 
+is a bunch of guys out there with pickaxes and tons of engineers and 
+firemen is outdated now. It is, to a large extent, an operational 
+and information management task.'' It's a network. It requires large 
+capital investments. It hauls traffic. In some ways, the railroad 
+network is not unlike the telecommunications network, which has also 
+spurred an enormous economic transformation and has similarly outpaced 
+the government's ability to deal with it. Undeniably, there are parallels, 
+which is why 19th-century antitrust laws are being used to scrutinize 
+the software industry. But there are also substantial differences 
+that create a certain degree of legal uncertainty. And where there 
+is legal uncertainty (and vast amounts of money), there are lobbyists. 
+In their era, the robber barons lobbied ferociously, albeit unsuccessfully, 
+to thwart federal regulations. ``And in a void of government regulations 
+about the software industry,'' Steinmeyer said, ``we're seeing Microsoft 
+throw cash at the government. We're seeing Microsoft's opponents throw 
+cash at the government, in terms of high-powered lobbyists and all 
+manner of ways that corporations influence the government. It's not 
+quite so direct and crass as it might have been in the 1800s in terms 
+of flat-out bribes. But it is the modern equivalent thereof. ``And 
+I wouldn't be surprised if as the computer industry ages a bit, people 
+look back on Bill Gates the way they look back on Cornelius Vanderbilt. 
+Some will view him as a scoundrel who was a monopolist and a vicious 
+individual. And others will look at him as the guy who built the software 
+industry. And both views, to some extent, will be true.'' (Railroad 
+Tycoon II; developed by Poptop Software; published by Gathering of 
+Developers; CD-ROM for Windows 95, 98 and NT; $49.95.) out 
+</TEXT>
+</DOC>

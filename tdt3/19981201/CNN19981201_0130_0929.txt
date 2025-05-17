@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981201.0130.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And a new system of instant background checks for prospective gun 
+owners went into effect Monday. It replaced a five-day waiting period 
+implemented by the five-year old brady law. 
+</TEXT>
+</DOC>

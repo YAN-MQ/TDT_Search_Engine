@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981205.1830.0855 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+When "NBC nightly news" continues in a moment -- justice, fairness 
+and faith. 
+</TEXT>
+</DOC>

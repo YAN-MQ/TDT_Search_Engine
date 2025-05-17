@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981118.0130.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the fed's interest rate cut gave many stocks a boost. one exception, 
+hewlett-packard, which dropped five points. that helped push the dow 
+jones industrial average down 25 points. 
+</TEXT>
+</DOC>

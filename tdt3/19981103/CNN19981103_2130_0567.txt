@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981103.2130.0567 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronauts on board the shuttle "discovery" hauled in the Spartan 
+satellite today. The observatory was released two days ago to take 
+pictures of the sun's outer atmosphere. Senator John Glenn was busy 
+as well on "discovery." He finished the second of four wired-up sleep 
+sessions today and continued work on a muscle protein experiment. 
+</TEXT>
+</DOC>

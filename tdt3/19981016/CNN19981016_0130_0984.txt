@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981016.0130.0984 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks shot up Thursday after the federal reserve cut interest rates 
+for the second time in three weeks. The Dow Jones industrial average 
+closed up 330 points at 8299. 
+</TEXT>
+</DOC>

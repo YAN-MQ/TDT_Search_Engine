@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981122.1830.1584 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A bit of movie news -- according to studio estimates, "the rugrats 
+movie" grossed about $28 million this weekend. In second place, the 
+political thriller, "enemy of the state." Winner for the past two 
+weeks, "the waterboy," dropped to third place. 
+</TEXT>
+</DOC>

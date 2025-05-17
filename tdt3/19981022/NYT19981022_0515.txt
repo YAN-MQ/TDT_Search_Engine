@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> NYT19981022.0515 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Paloma Partners Management, a Greenwich, Conn., firm that runs hedge 
+funds, acknowledged Thursday that it had been battered by the recent 
+turmoil in the bond markets but insisted that it was still in sound 
+financial health. The firm, which operates more than 10 funds and 
+is said to have at least $1 billion under management, issued a statement 
+in response to increasing speculation about its well-being. ``To allay 
+concerns and set the record straight, Paloma's funds are financially 
+sound and our portfolios are in strong cash positions,'' Donald Sussman, 
+chairman and chief executive, said in the statement. Rumors about 
+hedge funds have abounded since the near-collapse of Long-Term Capital 
+and the recent troubles at firms like Ellington Capital and D.E. Shaw. 
+Despite their secretive natures, many funds are being forced to be 
+more open about their positions. 
+</TEXT>
+</DOC>

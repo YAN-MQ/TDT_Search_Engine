@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981112.1600.0506 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at "CNN Headline News Weather" begins with a look at Texas. 
+The lone star state has been experiencing heavy rainfall, particularly 
+in the southeastern portion of the state, over the last 12 to 24 hours, 
+and more rain on the way. Rainfall will cover Texas by Friday morning. 
+And as we put our map in motion, you can see the low-pressure center 
+and the associated frontal boundary spreading some of the rainfall 
+to the north and east. Much of the rest of the U.S. will be rather 
+quiet, although we do see a new storm moving in through the northwestern 
+corner of the United States. Temperatures will be rather moderate 
+after a cold blast with a big storm that moved across the country 
+earlier in the week. As far as your extended forecast is concerned 
+-- in the east, a widespread area of scattered showers and thunderstorms. 
+However, probabilities are not high for rainfall in the northeast 
+and the mid-atlantic. We may see some thunderstorms along the gulf 
+coast, however. Moving on into Sunday, you can see showers still possible 
+in the southeast and the northwest. And as you head on into the work 
+week next week, showers and thunderstorms again possible in parts 
+of the east and northwest. For more weather information, log on to 
+CNN.com. 
+</TEXT>
+</DOC>

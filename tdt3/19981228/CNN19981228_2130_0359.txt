@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981228.2130.0359 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+chuck roberts, "cnn headline news." we'll have a complete look at 
+the national weather forecast in just a few minutes. 
+</TEXT>
+</DOC>

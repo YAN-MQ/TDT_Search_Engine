@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> NYT19981213.0151 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Microsoft's archrivals, Sun Microsystems and Oracle, plan to announce 
+a joint effort on Monday to make corporate computer users less reliant 
+on Microsoft's Windows software. Sun and Oracle intend to create network 
+server computers that users of desktop machines can draw upon for 
+many of their basic computing activities, reducing the need for a 
+full-blown desktop operating system like Windows. The move is also 
+meant to slow the rapid rise of Microsoft's office-network version 
+of Windows, called Windows NT. It is a strategy that Sun and Oracle 
+have pursued in the past, so far without success. The new plan is 
+based on a cross-licensing agreement the two companies signed earlier 
+this month. The agreement gave Oracle the ability to use a portion 
+of Sun's Solaris operating system software to create simple server 
+computers that would be designed to run Internet and office data base 
+applications. The agreement also permits Sun to add Oracle's data 
+base software to the Solaris operating system, which competes with 
+Windows NT from Microsoft. The plan conforms to a strategy that has 
+been outlined by Oracle's chairman, Lawrence Ellison, in his effort 
+to fight Windows and Windows NT by doing away with the need for an 
+operating system. Last month Ellison announced that Oracle planned 
+to introduce a new version of its Oracle 8 data base program code-named 
+Raw Iron, which he said would be sold by makers of PC server computers, 
+including Compaq, Sun Microsystems, Hewlett-Packard and Dell Computer 
+as an adaptation that would, in effect, render the operating system 
+invisible to the user. The new strategy is a refinement of Ellison's 
+attempt in years past to persuade corporate computer managers to simplify 
+their networks by replacing the personal computer on a worker's desktop 
+with a simpler terminal called a network computer. That effort had 
+the support of Novell, Sun, Netscape and a number of other Microsoft 
+rivals. The companies began plotting an alternative to the personal 
+computer in 1995, based on the idea of inexpensive desktop computers 
+that would download software via corporate networks. But the approach 
+has been slow to develop, in part because of the sharply falling cost 
+of personal computers and in part because computer makers have been 
+slow to offer commercially viable systems. But Ellison and his allies 
+have not given up. In its most recent iteration, the network computing 
+idea now calls for almost all computing tasks to be centralized on 
+servers, so that users' own computers will do little more than act 
+as monitors for the server computers. Sun Microsystems, for example, 
+has begun developing an experimental version called Newt, which the 
+company describes as an ``ultra-thin client.'' The device would have 
+the advantage of reducing the costs of operating corporate computers 
+while centralizing and simplifying their management. But it requires 
+a relatively bureaucratic style of computing that takes away a great 
+deal of the freedom to which users have become accustomed as they 
+use PC's. Microsoft executives deride the Sun-Oracle approach as a 
+style of computing that went out of fashion with the mainframes and 
+minicomputers that held sway in the 1960s and 1970s. But the criticism 
+has not deterred Ellison, who is promising a vast drop in the complexity 
+and cost of computing for small businesses. 
+</TEXT>
+</DOC>

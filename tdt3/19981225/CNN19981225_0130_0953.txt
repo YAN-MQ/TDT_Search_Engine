@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981225.0130.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And doctors say they have become more optimistic about the chances 
+that the octuplets born in a Houston hospital this month will survive. 
+</TEXT>
+</DOC>

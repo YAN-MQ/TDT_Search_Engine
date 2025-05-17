@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981019.1830.1003 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There is more information on our web site, ABCNEWS.com, on the Internet, 
+of course, or through American online. 
+</TEXT>
+</DOC>

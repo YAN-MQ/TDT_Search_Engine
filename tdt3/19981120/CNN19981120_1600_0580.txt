@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981120.1600.0580 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The first piece of the international space station is finally in orbit. 
+The 24-ton section rocketed into space today after being delayed for 
+a Year. The 41-foot-long component will provide power and communications 
+for the international space station, which is scheduled to be completed 
+in 2004. It will take 45 more flights to put 100 more pieces into 
+orbit. 16 nations are sharing the cost of the $30 billion project. 
+</TEXT>
+</DOC>

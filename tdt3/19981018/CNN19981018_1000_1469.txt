@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981018.1000.1469 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+About 300 skydivers gathered in Fayetteville, West Virginia, for the 
+19th annual bridge day. There, yesterday, the brave participants jumped 
+from the new river Gorge bridge, 876 feet high. Two of the daredevils 
+were hurt in the process. The bridge is the second highest in the 
+United States, bested only by the royal Gorge bridge, which towers 
+1,000 feet over the Arkansas river in colorado. 
+</TEXT>
+</DOC>

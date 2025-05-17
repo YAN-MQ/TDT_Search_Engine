@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981015.1130.0926 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Time now for the top stories -- Israeli prime minister Benjamin Netanyahu 
+and Palestinian leader Yasser Arafat are in Washington for yet another 
+summit. They are trying to cut a deal for the withdrawal of Israeli 
+troops from the West Bank and stricter Palestinian laws against terrorism. 
+</TEXT>
+</DOC>

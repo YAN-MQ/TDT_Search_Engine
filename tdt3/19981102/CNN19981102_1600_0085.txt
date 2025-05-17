@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981102.1600.0085 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There was also nasty weather in the United States over the weekend. 
+Hundreds of people were forced to evacuate in parts of Oklahoma and 
+Kansas, after a slow-moving storm dumped nearly a foot of rain in 
+some areas. Many roads remain closed, and while the rain should taper 
+off today, forecasters expect more flooding. We'll have a complete 
+look at the national weather in the "headlines news extended forecast" 
+at eight minutes past the hour. 
+</TEXT>
+</DOC>

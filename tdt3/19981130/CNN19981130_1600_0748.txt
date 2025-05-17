@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981130.1600.0748 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Top stories are coming up in two minutes. Then, an update of Wall 
+Street in "Dollars & Sense." Still ahead -- the voices behind the 
+bugs in the nation's number one movie. Now for "diskette world" travel 
+news -- notebook computers are traveling lighter with built-in superdisk 
+drives. Only the superdisk drive works with both regular floppies 
+and 120-megabyte superdisk diskettes. Floppies everywhere are thrilled 
+because a built-in superdisk is two drives in one, and other drives 
+9999are on the way out. We can save a little. superdisk can save a 
+lot. Together, we can save the world. Get it in Hewlett Packard notebooks. 
+Ah, the good old days of supermarket shopping. Where nothing stood 
+between you and your next meal. Nothing. But today, there are materials 
+that help lock out harmful contaminants and reduce spoilage. Keeping 
+us safe and the food we eat fresh. Plastics make it possible. So now, 
+the rest is history. 
+</TEXT>
+</DOC>

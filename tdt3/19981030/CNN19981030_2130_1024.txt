@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981030.2130.1024 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+British airways is scaling back plans for an alliance with American 
+airlines, at least for now. The move is in response to demands from 
+European regulators that the airline give up flights at London's heathrow 
+airport. British airways says that's unacceptable and would rather 
+relax ties with american airlines. American airlines says it is committed 
+to its pact with B.A. and would offer its own version of a phased-in 
+alliance in order to secure regulatory approval. 
+</TEXT>
+</DOC>

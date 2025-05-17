@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981010.1130.0422 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A newly declassified CIA study shows the agency did not fully inform 
+Congress of reports that link nicaraguan contras to drug trafficking 
+in the 1980s. A 410-page version of the report has been posted on 
+the CIA's web site. It says the CIA knew of drug allegations against 
+at least 58 people belonging to various contra groups. The CIA had 
+a policy of assisting the contras in their fight against Nicaragua's 
+communist government. 
+</TEXT>
+</DOC>

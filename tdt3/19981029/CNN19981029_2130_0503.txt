@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981029.2130.0503 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"Headline News" forecast. Later for Thursday, we're going to see snow 
+and snow showers over the central Rockies, beautiful weather in the 
+northwest and the gulf coast with rain developing over Arkansas and 
+Missouri along a frontal system and rain in the northeast. That rain 
+will continue in the northeast through Friday evening, and we'll see 
+rain approaching the northwest coastline by Friday evening, as well. 
+Widespread rain throughout the southern Rockies, into the Texas Panhandle 
+on Friday afternoon. High temperatures on Friday -- a pocket of 30s 
+in the Rockies, generally cool in the north, and warm in the south. 
+Your extended forecast -- snow showers and thunderstorms over the 
+central and southern Rockies with rain and showers in the northeast 
+and the northwest. That rain continues on Sunday with the rain in 
+the Rockies pushing to the east. Highs only in the 30s over northern 
+Minnesota. That continues on Monday, with the rain in the northeast 
+and northwest becoming more widely spread. We'll see a few thunderstorms 
+in the southern plains. Remember, you can get your four-day forecasts 
+for more than 7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

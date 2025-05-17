@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> NYT19981023.0498 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A federal judge has dealt a serious blow to Orange County's chances 
+of recovering further damages from Wall Street securities firms in 
+connection with the county's 1994 bankruptcy. In a ruling issued late 
+Thursday, U.S. District Court Judge Gary Taylor rejected the main 
+legal argument the Southern California county has been using in its 
+lawsuits against more than a dozen securities firms. ``It basically 
+means their primary case against the rest of the Street is going to 
+be eliminated,'' said George Simon, a lawyer with Foley &AMP; Lardner 
+in Chicago. He represented Fuji Securities, which was being sued by 
+Orange County in the case before Taylor. J. Michael Hennigan, a lawyer 
+representing Orange County, agreed that the theory rejected by Taylor 
+represented ``the heart of the case against the brokers.'' He said 
+the county planned to appeal. The county has been arguing that its 
+former treasurer, Robert Citron, was not authorized by state laws 
+and the state constitution to enter into some of the risky transactions 
+he undertook that eventually led to the county's bankruptcy. Therefore, 
+the county argued, the transactions, known as reverse repurchase agreements, 
+should be void and the county compensated by the brokers. But Taylor, 
+in a 36-page ruling, concluded that ``although they may have been 
+unwise, speculative, or unduly risky'' the transactions were not unauthorized 
+and not void. ``There was authority to act,'' he said. Orange County, 
+which lost more than $1.6 billion in the bankruptcy, has recovered 
+$739 million in settlements, including $400 million from Merrill Lynch 
+&AMP; Co., the Wall Street firm that served as its financial adviser 
+and as underwriter of $875 million of Orange County bonds. Morgan 
+Stanley Dean Witter settled for $69.6 million, Nomura Securities for 
+$47.9 million and Credit Suisse First Boston for $52.5 million. The 
+county also reached settlements with a law firm and its accounting 
+firm. Those existing settlements will not be affected by Thursday's 
+ruling, Hennigan said. He also said the county had reached, but not 
+yet announced, settlements with three other parties, two of them securities 
+firms. One is Bear, Stearns &AMP; Co., which agreed to pay $6 million 
+$7 million. He would not identify the other two parties. The ruling 
+seems to raise questions about whether the firms that did settle should 
+have done so. But lawyers familiar with the litigation say some of 
+the companies, particularly Merrill Lynch, were sued on other grounds 
+as well as the one rejected by Taylor. Lawyers say that Thursday's 
+ruling will make it harder for the county to reach lucrative settlements 
+with the roughly dozen other brokerage firms it has sued. Still, the 
+county does have other arguments it can use against some of these 
+brokers. The county has also sued Standard &AMP; Poor's Corp., the 
+credit rating agency that is a unit of McGraw-Hill Cos.; Rauscher 
+Pierce Refsnes, a bond underwriter, and Brown &AMP; Wood, a law firm. 
+Taylor's ruling is expected to have little bearing on these cases. 
+Fuji Securities, a New York-based unit of Japan's Fuji Bank, played 
+a relatively minor role in Orange County and decided not to settle 
+because it thought it did no wrong, Simon, the company's lawyer said. 
+``All Fuji ever did was respond to bids from the county,'' he said. 
+In the reverse repurchase agreements, the county sold securities to 
+brokers and agreed to buy them back in the future, usually in less 
+than 180 days. It then invested the proceeds from the sale in riskier 
+but higher-yielding securities, hoping to make a profit even after 
+subtracting the costs of the reverse repurchase agreement. 
+</TEXT>
+</DOC>

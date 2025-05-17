@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> VOA19981203.0500.0050 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm David Chadwick, VOA News. Today's scheduled launch of the Space 
+Shuttle Endeavour with the component of the International Space Station 
+on board has been canceled. The launch was called off seconds before 
+lift off because engineers could not find the cause of an equipment 
+alarm. Problems during the countdown delayed the launch past a narrow 
+window. The shuttle wants to rendezvous with a Russian-made module 
+of the space station already in orbit. U.S. space agency officials 
+say another launch attempt will not be made for at least 24 hours. 
+</TEXT>
+</DOC>

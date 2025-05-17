@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> MNB19981222.2100.0227 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Meteorologist Janice huff will be with us to take a look at the holiday 
+forecast across the nation a little bit later on in this broadcast. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981103.2130.0424 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The United States is taking steps to beef up security at its embassies 
+and diplomatic facilities around the world. The state department announced 
+today that President Clinton has signed a Measure that will, among 
+other things, cover costs incurred by the August bombings of the U.S. 
+embassies in Kenya and Tanzania, upgrade physical security at U.S. 
+embassies around the world and provide additional funding for anti-terrorism 
+programs. 
+</TEXT>
+</DOC>

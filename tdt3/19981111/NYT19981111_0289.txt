@@ -1,0 +1,69 @@
+<DOC>
+<DOCNO> NYT19981111.0289 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Pick up a phone while your computer is connected to the Internet, 
+and you hear what sounds like the braying of an electronic donkey. 
+Somewhere inside that set of squawks might be a picture of your grandmother, 
+an e-mail to your boss or perhaps the newest version of Doom slowly 
+downloading to your computer. Bits and bytes have been turned into 
+audio chatter by a technological workhorse: the modem. The mystery 
+unravels a bit when you consider a modem's full name: MOdulator/DEModulator. 
+A modem takes digital information, in the form of single binary digits 
+(bits), and passes those bits through a series of steps to repackage, 
+or modulate, them into analog signals _ sound waves, in this case 
+_ so the bits can be passed over a regular phone line. The process 
+is reversed as the modem deciphers, or demodulates, information coming 
+in from the phone line. Before modems, computers had to be ``hard 
+wired'' together, even over long distances, to talk to one another. 
+Modems have made communication cheaper and easier, eventually leading 
+to the Internet. Although phone companies' switching equipment turns 
+analog signals into digital ones for transmission over long distances, 
+the weak leak is still the analog hookup between a home or business 
+and the phone company. A modem translates between the computer's digital 
+world and the phone line's analog audio world. The computer sends 
+out information packets as a series of ones and zeros. Since a telephone 
+carries information in the form of electrical signals representing 
+sound waves, the quality of transmission can vary widely from place 
+to place. One house might have clean lines, while clicks and radio 
+stations might intrude upon the lines of the house next door. The 
+distance from a switching station can also affect clarity. A phone 
+line carries only the small range of frequencies in which most human 
+conversation takes place: about 300 to 3,300 hertz. The modem works 
+within these limits in creating sound waves to carry data across phone 
+lines. But modem designers have become increasingly clever at squeezing 
+more bits into that tonal range. Software that runs in the modem analyzes 
+data for repetitive information, like the space character repeated 
+100 times in a row or the word ``the'' occurring over and over. Before 
+transmission, these patterns are replaced with symbols or codes. The 
+receiving-end modem takes the codes and reconstructs the original 
+redundant bits, sending them to the receiving computer without any 
+loss of information. Modems use different tones to represent different 
+bits of data. Each set of tones is called a symbol. Baud measures 
+the number of symbols, or discrete units of information expressed 
+by phase and amplitude modulation, per second. The measurement is 
+named for Jean-Emile Baudot, a Frenchman who developed a binary code 
+in the 19th century. Modems were first widely used in the late 1960s. 
+They ran at 110 baud, sending one bit per symbol, or 110 bits per 
+second (bps). The 300-baud modems that showed up in the early 70's 
+were an enormous improvement, akin to the leap from 9,600 bps to 28.8 
+kilobits per second (kbps). But the breakthrough that led to today's 
+fastest modems was the idea of sending several tones at the same time, 
+creating a mini-symphony of sounds in each symbol. So starting with 
+the 1,200-baud modems that came into general use in the early 1980s, 
+each symbol has been carrying many bits at once, not just a single 
+bit. Phone line quality has also continued to improve, so more tones 
+can be used over a greater frequency range. A 33.6-kbps modem, for 
+instance, transmits about 9.8 bits of data per symbol (data for correcting 
+errors are also sent), at a rate of about 3,429 symbols per second. 
+The 56K (56 kbps) modems run no faster than 33.6 kbps ``upstream,'' 
+to an Internet service provider, and about 40 to 50 kpbs ``downstream,'' 
+with data coming from the ISP to the user's computer. The transmission 
+is all digital on the ISPs end, allowing it to do a better job encoding 
+information for sending, but the specialized equipment the ISP uses 
+is not available for a user's modem. Today's modems have more computing 
+power than the personal computers that connected to them in the 110-baud 
+days. But their function is still the same: turning bits into boops. 
+</TEXT>
+</DOC>

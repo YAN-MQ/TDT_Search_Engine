@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> CNN19981021.1130.0526 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "Headline News weather." It's 
+going to be rather autumn-like over the Great Lakes extending into 
+the northeast today. Forecast highs only in the 40s and 50s. One more 
+mild day in the southeast before the cool temperatures move in, with 
+the cool weather already in place in the Rockies. Check your forecast, 
+later today to late day Thursday shows more wet weather from west 
+Texas into New Mexico, extending into Arizona and parts of Utah. Some 
+higher elevation snows are possible. Look for high pressure to build 
+in through much of the southeast. That will bring some cooler weather 
+as an area of tropical weather moves through the southern bay of Campeche, 
+bringing some wet weather in through northern Mexico. The extended 
+forecast now, on Friday it will be coolest in the northeast back through 
+the Great Lakes, only in the 40s and 50s once again. Scattered showers 
+will continue in the Rockies. And it's warm over much of the west. 
+On Saturday, we do find, again, warm temperatures in the southwest. 
+Pretty dry much of the midwest and the east. We'll find some rain 
+in the pacific northwest. On Sunday, more scattered showers expected 
+there as cooler temperatures push in through the northern Rockies 
+and the northwest. For more weather information, you can log in to 
+CNN.com. 
+</TEXT>
+</DOC>

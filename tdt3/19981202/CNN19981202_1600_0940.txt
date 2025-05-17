@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981202.1600.0940 </DOCNO>
+<DOCTYPE> UNTRANSCRIBED </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street is making headlines today as well. We'll update you on 
+the closing numbers. 
+</TEXT>
+</DOC>

@@ -1,0 +1,74 @@
+<DOC>
+<DOCNO> NYT19981224.0198 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Standard &AMP; Poor's 500-stock index hit a new high last week. 
+The Dow Jones industrial average of 30 stocks did not. Since June, 
+the S&AMP;P is up 37 percent, while the Dow is up 20 percent. Measured 
+over the last two years, the divergence is even wider, with the S&AMP;P 
+up 60 percent and the Dow up 38 percent. These are unusually wide 
+gaps between the two most popular and closely watched indexes, which 
+usually move at about the same pace, up or down. The divergence leaves 
+investors wondering how strong the market has really been this year. 
+The S&AMP;P's bettering of the Dow is likely to fuel its own growth 
+in the new year, said Greg A. Smith, chief investment strategist at 
+Prudential Securities, as investors throw money at index funds based 
+on the S&AMP;P. Much of the divergence is explained by what is going 
+on in the American economy. While computer shares have soared recently, 
+manufacturing stocks, especially those of many exporters, have been 
+crushed by economic turmoil in the rest of the world. The energy industry, 
+meanwhile, has been hit hard by lower oil prices. In sum, the venerable 
+Dow is more heavily loaded with the companies that are being hurt 
+and short on those that are doing well. In the last four weeks, announcements 
+of expected disappointments in earnings have often been from Dow companies. 
+Nine of the Dow 30 _ Merck, Boeing, Minnesota Mining and Manufacturing, 
+Union Carbide, Coca-Cola, J.P. Morgan, Caterpillar, Sears and Procter 
+&AMP; Gamble _ said their fourth-quarter profits would be below expectations. 
+But other factors are at work, too. One is the fact that the two indexes 
+are calculated differently. Since the Dow is based on price, Dow stocks 
+with higher prices have a bigger impact on the change in the total 
+index. The S&AMP;P is based on the change in a company's market capitalization 
+_ the product of the change in price and the amount of stock outstanding. 
+The bigger a company's market cap, the bigger its impact. In the last 
+year and a half, investors have been favoring a very small group of 
+big, well-known stocks. More of them are in the S&AMP;P than in the 
+Dow. Thirteen stocks, according to Merrill Lynch, accounted for over 
+half of this year's move in the S&AMP;P. But only five of them _ Wal-Mart 
+Stores, IBM, Merck, Exxon and General Electric _ are in the Dow. Those 
+not in the Dow, but in the S&AMP;P, were Microsoft, Intel, Cisco Systems, 
+Lucent Technologies, Dell Computer, Pfizer, Home Depot and Time Warner. 
+At the end of November, 50 stocks accounted for half the total market 
+capitalization of the S&AMP;P 500, its greatest bias toward bigness 
+in 16 years. David Blitzer, chairman of the index committee at S&AMP;P, 
+noted that if the S&AMP;P 500 index were calculated on a basis that 
+weighed each stock price equally _ which would bring it closer to 
+the way the Dow is calculated _ it would be up only 10.8 percent through 
+November. That is because almost half of the stocks in the S&AMP;P 
+are down for the year. But in an index that favors big market caps, 
+the stocks that have dropped have much less impact because the better 
+performers are so much bigger. In addition, it is not the best price 
+gainers that account for most of the jump in the S&AMP;P 500. Instead, 
+it is the companies whose market capitalizations have increased the 
+most. The 10 S&AMP;P stocks with the biggest price moves through Wednesday 
+were Dell, EMC, Apple Computer, Ascend Communications, Lucent Technologies, 
+Cisco Systems, Unisys, MCI Worldcom, Staples and Providian Financial. 
+Only three of these are among the top 10 movers of the S&AMP;P. General 
+Electric was one of the top movers of the S&AMP;P, but its price is 
+up just 34 percent, well below Dell's increase of 242 percent. Microsoft, 
+having a big year, is up 117 percent. Providian Financial, the 10th-best 
+performer, is up 130 percent. The question is what index reflects 
+best what is going on. John A. Prestbo, editor of the Dow Jones indexes, 
+said: ``Despite the vast difference in the stocks and the difference 
+in the calculation, over time the Dow and the S&AMP;P correlate 95 
+percent of the time. They are both telling the same story about the 
+market.'' Blitzer of S&AMP;P argues that his index is a better reflection 
+of the entire economy because it is bigger than the Dow and because 
+it is changed more regularly with the addition and subtraction of 
+stocks. America Online will be added this week. But he acknowledges 
+that most individual investors focus on the changes in their stocks' 
+prices and, therefore, would probably be more comfortable with the 
+Dow. ``The Dow,'' he said, ``is an index that the average guy would 
+relate to more.'' 
+</TEXT>
+</DOC>

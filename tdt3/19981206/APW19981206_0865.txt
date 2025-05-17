@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> APW19981206.0865 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Former coup leader Hugo Chavez elected president of Venezuela, according 
+to official results. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981126.0130.0935 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Americans are on the move as they drive, ride and fly to be closer 
+to friends and loved ones for Thanksgiving. 
+</TEXT>
+</DOC>

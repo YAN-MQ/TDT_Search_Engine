@@ -1,0 +1,98 @@
+<DOC>
+<DOCNO> NYT19981221.0092 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Imagine you could save the Social Security system from bankruptcy 
+by raising every American's retirement check _ without increasing 
+taxes. Such is the radical cure proposed by Martin Feldstein, a chief 
+economic adviser to President Ronald Reagan and a professor of economics 
+at Harvard University, who made his case earlier this month at a conference 
+sponsored by the White House. Everyone agrees that the system needs 
+to be fixed quickly, because otherwise it will begin to run out of 
+money early in the next century as the baby-boom generation reaches 
+retirement age. But the obvious solutions _ reducing benefits, raising 
+taxes and postponing retirement _ are unappealing. Another option 
+is privatization, which calls for part of the current payroll tax 
+to be steered into private retirement accounts that would be invested 
+in potentially high-yield stocks and bonds. The income from these 
+accounts could then ease the burden on the existing Social Security 
+system. But most privatization plans scare politicians because they 
+would expose retirees to the vagaries of the stock market. Enter Feldstein, 
+who proposes privatization with a clever twist. His plan calls for 
+keeping the existing Social Security system intact. But he would also 
+create private investment accounts for all workers, equal to 2 percent 
+of their Social Security earnings, paid for with general government 
+revenues. At retirement, workers would hand over the accumulated balance 
+in their accounts to an investment or insurance company in exchange 
+for a lifetime annuity: a guaranteed annual income until death. Feldstein 
+would pay for these private accounts by tapping about a trillion dollars 
+in projected federal surpluses over the next decade. Also, workers 
+would keep only 25 percent of the annual income from their annuity. 
+The balance would be returned to the Treasury. The plan's major selling 
+point is that workers come out ahead no matter how poorly their investments 
+fare. They will begin receiving checks at retirement equal to the 
+amount paid by the current system plus 25 percent of the income from 
+their retirement annuity. The plan would thus sidestep the criticism 
+of other privatization plans, most of which rely on cutting benefits, 
+raising taxes or subjecting retirees to the risk that their checks 
+will sink below current levels. ``The plan reflects the magic of compound 
+interest,'' said Sen. Phil Gramm, R-Texas. (Gramm has proposed a similar 
+idea.) Henry Aaron and Robert Reischauer of the Brookings Institution 
+have called the plan ``imprudent,'' pointing to the large financial 
+risks and even larger political risks. Many of the House and Senate 
+onlookers at the session came away thinking more about magic than 
+imprudence, putting Feldstein's idea at the forefront of the privatization 
+debate. But do the numbers add up? According to the nonpartisan actuaries 
+at the Social Security Administration, the answer is sort of, kind 
+of, maybe. In an analysis completed this month, they concluded that 
+the plan would erase nearly all of the projected deficit using Feldstein's 
+optimistic assumptions about the profit that workers would earn on 
+their investment accounts and about the fees they would pay to investment 
+funds for administering their accounts. But when the actuaries adopted 
+more conservative assumptions _ estimates more in line with those 
+of independent analysts _ the Feldstein plan closes about two-thirds 
+of the projected deficit. Congress would need to close the remaining 
+gap with tax hikes and spending cuts. The actuarial report appears 
+kind to Feldstein, but their analysis also exposes the proposal's 
+hidden pitfalls. The plan would siphon trillions of dollars from the 
+federal Treasury, money that could otherwise have been used to pay 
+off the federal debt. A larger federal debt, in turn, requires the 
+government to spend more on interest payments. But Feldstein argues 
+``that there is no chance that Congress would use those trillions 
+to pay down the debt.'' In addition, Aaron and Reischauer point out, 
+the money spent to create private accounts is money that Congress 
+can no longer spend on other pressing needs _ including Medicare, 
+whose financial predicament is far more alarming. Critics also warn 
+that if the projected surpluses disappear, then the government would 
+have made reckless promises to pay pensions that it could no longer 
+afford. Then there is the issue of fairness. Feldstein maintains, 
+correctly, that virtually every retiree's income would rise under 
+his plan. But the increases would raise benefits more for high-wage 
+workers than for low-wage workers. Critics like Aaron and Reischauer 
+see no reason for Congress to risk increasing the deficit decades 
+into the future in the service of a plan that primarily rewards the 
+rich. For many critics, the most ominous threats are political. Consider 
+a middle-income worker 10 years after the plan takes hold. He notes 
+that 12 percent of his earnings are dedicated to a public system that 
+produces only a trickle at retirement. But the 2 percent of his earnings 
+that go into his private investment account grow at a gaudy 7 percent 
+or more a year. The public account looks like a poor deal because, 
+unlike the private accounts, it is saddled with paying off the debt 
+from the early years of Social Security, when the system paid far 
+more in benefits than it collected from workers in taxes. But economists 
+note that if the private accounts paid their share of this debt burden, 
+they too would look like lousy investments. However misguided, many 
+people will demand that more of their payroll taxes go into the high-flying 
+private accounts. But that would whittle away at the public system 
+_ the part of program that makes disproportionately large payments 
+to low-wage workers. Ultimately, the decision about revamping Social 
+Security depends as much on politics as on economics. The country 
+must decide how much of its income it wants to transfer to retirees. 
+Feldstein says the elderly ought to collect more. Critics like Reischauer 
+and Aaron think that as the number of workers shrinks relative to 
+the number of retirees, as predicted, the work force can ill afford 
+to spend more. Once that question is resolved, the rest is financial 
+engineering. 
+</TEXT>
+</DOC>

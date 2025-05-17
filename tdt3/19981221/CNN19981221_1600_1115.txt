@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981221.1600.1115 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Security specialists warn there's a new software virus being spread 
+by e-mail. It's called the Ms word macro 97 class virus. As its name 
+implies, the virus infects Microsoft word files. It has also caused 
+several networks to crash. Apparently, the virus gives the E-mail 
+recipient a message telling the user that he or she "is a big stupid 
+jerk." 
+</TEXT>
+</DOC>

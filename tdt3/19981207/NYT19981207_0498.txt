@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> NYT19981207.0498 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Trying to reverse New York state's shrinking share of grant money 
+for biomedical research, 10 of the state's academic medical institutions 
+are joining to create a large center for the industry. The complex, 
+the New York Structural Biology Center, will be owned and operated 
+by the 10 medical institutions in the consortium and is expected to 
+open on the campus of the City University of New York sometime next 
+year. The center will house complex and enormous machines that employ 
+high-field magnets used to study molecules, a costly and highly coveted 
+type of biomedical research. The consortium will consist of the Albert 
+Einstein College of Medicine, the City University of New York, Columbia 
+University, Cornell University, the Memorial Sloan-Kettering Cancer 
+Center, the Mount Sinai School of Medicine, New York University School 
+of Medicine, Rockefeller University, the State University of New York 
+at Stony Brook, and the Wadsworth Center, as well as the New York 
+State Department of Health. Officials said the consortium was unusual 
+for a few reasons. The participating medical institutions are far 
+more accustomed to competing with one another than combining forces, 
+and an agreement of this scale is extremely rare. The complex's size 
+of 34,000 square feet in a place as cramped as New York City is uncommon. 
+Although the medical institutions will own and operate the center, 
+its construction is being financed by private investors. That infusion 
+of cash from a group of New York City businesses underscores the private 
+sector's desperation to draw and maintain a core of research wizards 
+that have recently opted for other cities. It will take about $20 
+million to build and operate the new center initially. Health officials 
+say that a large pool of cash and a collaborative rather than competitive 
+strategy is needed if New York state hopes to fight its way back to 
+being the top recipient of federal grants. 
+</TEXT>
+</DOC>

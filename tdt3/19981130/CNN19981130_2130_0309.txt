@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981130.2130.0309 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Effective today, gun purchases shouldn't take as long, but they may 
+be more complicated. A new national system provides instant background 
+checks on all gun purchases, including rifles and shotguns. That means 
+the usual number of computer records checks by the FBI and state authorities 
+will double to an estimated 12.4 million per year. On average, that 
+many firearms are sold each year in the United States. Officials say 
+they may have problems implementing the system because december is 
+the busiest month of the year for gun sales. 
+</TEXT>
+</DOC>

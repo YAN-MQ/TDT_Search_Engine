@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981018.1600.0284 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A weekend of wicked weather in south Texas has claimed at least six 
+lives. Two were killed when twisters churned through trailer parks 
+and tornado warnings are still in effect for several counties in the 
+southeastern part of the state. In the San Antonio area, at least 
+four people have drowned in flooding that is said to have overtaken 
+every Creek, river, drainage system, road and highway. The heavy rain 
+moved toward Houston today leaving roads off of interstate 10 impassable. 
+</TEXT>
+</DOC>

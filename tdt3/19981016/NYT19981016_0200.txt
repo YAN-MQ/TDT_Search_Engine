@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> NYT19981016.0200 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Caterpillar Inc., the world's largest manufacturer of construction 
+and earth-moving equipment, said Friday that third-quarter profits 
+fell 12.7 percent because of weaker sales in Asia and greater competitive 
+pressures that forced the company to lower prices around the world. 
+The results, which were well below Wall Street's expectations, helped 
+deepen the gloom surrounding Caterpillar and other companies that 
+continue to suffer from a global economic crisis that is slowing worldwide 
+demand for farm and earth-moving equipment. Shares of Caterpillar, 
+which is based in Peoria, Ill., fell $1, or 2.1 percent, to $47 in 
+trading on the New York Stock Exchange. ``It certainly looks like 
+the competitive landscape has gotten worse,'' said David Bleustein, 
+an analyst at Paine Webber. ``There is much more pricing pressure 
+than there was three months ago.'' Caterpillar said, however, that 
+revenue growth was strong, with sales of $5.17 billion in the third 
+quarter, up 12.5 percent from a year ago, largely because of rising 
+sales spurred by lower prices, huge discounts and strong demand for 
+its equipment in the United States and Europe. Profits for the quarter 
+were $336 million, down from $385 million a year ago. That translated 
+into 92 cents a diluted share, down 9 percent from $1.01 a share a 
+year ago. Wall Street analysts had forecast earnings of $1 a share. 
+Slowing demand for farm and construction equipment in Asia and Latin 
+America and Caterpillar's acquisition of Perkins Engines in February 
+cut into profits. Caterpillar was also hurt by its foreign currency 
+exposure, because of the strong dollar, and by a heavier sales mix 
+of equipment that had lower profit margins. 
+</TEXT>
+</DOC>

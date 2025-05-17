@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981105.1130.0311 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Voter turnout in Tuesday's elections was average or slightly below 
+average. Analysts estimate 36% or 37% of the voting-age population 
+cast ballots compared to 38.4% in the 1994 midterm elections. Official 
+numbers won't be available for weeks after absentee and write-in ballots 
+are certified. High African-American voter turnout and lack of a clear 
+republican message are credited with helping democrats make narrow 
+gains. 
+</TEXT>
+</DOC>

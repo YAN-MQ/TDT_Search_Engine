@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981125.1600.0189 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Aaa estimates 33.6 million Americans will travel 100 miles or more 
+from home this Thanksgiving holiday. That's up 2% over last year. 
+28 million will drive to their destination. The rest will fly, take 
+a train, or ride a bus. 63% of travelers will stay with family and 
+friends. 23% plan to stay in a hotel. 
+</TEXT>
+</DOC>

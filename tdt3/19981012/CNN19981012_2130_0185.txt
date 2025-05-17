@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981012.2130.0185 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Democrats and republicans are still at odds over a comprehensive budget 
+agreement, but will have more time to reach a deal. Congress has agreed 
+to a stop-gap measure that will keep the government running through 
+midnight Wednesday. Congressional and White House negotiators will 
+meet again tomorrow. Republicans are calling for a tax cut. The president 
+is insisting they add more money to education reform instead. 
+</TEXT>
+</DOC>

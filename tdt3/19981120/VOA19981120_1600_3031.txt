@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981120.1600.3031 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Once again, Dow Jones Industrial average closed today up 103 points. 
+This is Breck Artery. Thanks, Breck. 
+</TEXT>
+</DOC>

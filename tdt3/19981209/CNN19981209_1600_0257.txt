@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981209.1600.0257 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After a day of rest, two astronauts aboard the space shuttle "endeavour" 
+are conducting another space walk at this hour. Jerry Ross and James 
+Newman are attaching two 100-pound antennas to each side of unity 
+-- the American-made part of the international space station. The 
+space walk should take seven hours. Connecting the antennas will allow 
+the crew of the space station to communicate with their colleagues 
+on earth. Stay tuned to "CNN Headline News" for the latest on the 
+space walk. 
+</TEXT>
+</DOC>

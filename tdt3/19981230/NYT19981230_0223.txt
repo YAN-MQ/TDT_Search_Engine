@@ -1,0 +1,208 @@
+<DOC>
+<DOCNO> NYT19981230.0223 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Jews may be the People of the Book, but they have come to cherish 
+the CD-ROM, particularly the CD-ROM's ability to store a lot of religious 
+text and teach children about the traditions of Judaism in an entertaining 
+fashion. The two major distributors of Judaic software are the Davka 
+Corp. (www.davka.com), based in Chicago, and Torah Educational Software 
+(www.torahscholar.com), in Jerusalem. Davka, which has been around 
+since 1982, grew out of the Institute for Computers in Jewish Life. 
+CD's with Judaic graphics and Hebrew-language software are the most 
+popular categories in Davka's catalog of more than 100 titles, said 
+Rabbi Irving Rosenbaum, the company's president. Torah Educational 
+Software was started in 1991 by a newly Orthodox Jew who became fascinated 
+with Bible codes. He emigrated from the United States to Israel and 
+runs TES with another American businessman who moved to Israel. In 
+the last couple of years, Hebrew word-processing software has been 
+a big part of TES' business. The company distributes what may be the 
+most comprehensive _ and expensive _ CD-ROM in the Jewish market: 
+Bar-Ilan University's Judaic Library version 6.0. It sells for $698 
+and contains the Torah, the Talmud and about 200 other religious texts. 
+The CD is the fruit of Bar-Ilan's Responsa Project, which has been 
+transcribing religious texts for computer use for 30 years. The first 
+version of Judaic Library sold for $1,200, but each subsequent version 
+has come with more text, an improved search engine and a lower price 
+tag. Initially, there were rumblings of criticism among Orthodox Jews 
+of the use of CD-ROM technology, Rabbi Rosenbaum said, but the disks 
+are now stocked by religious-supply stores, like those in the Borough 
+Park neighborhood of Brooklyn. Sales of religious CD's in Orthodox 
+neighborhoods tend to be of the Hebrew-only variety. The study of 
+holy texts is the ultimate priority in the Orthodox world, and many 
+publishers of Judaic software say they expect something of a buzz 
+when DVD disks arrive with the layout of the Talmud page on the screen 
+mimicking the way the pages appear in bound copies. The devotion to 
+Torah study has led some Jews to justify the counterfeiting of software. 
+But last week, a rabbinical court in Jerusalem ruled that it was a 
+sin to make unauthorized copies of CD-ROM's. The rabbis said that 
+while counterfeiting was not the equivalent of stealing, it was like 
+trespassing and that Jews who bought bootleg CD's were ``helping the 
+sinner.'' Religious Jews, in pairs of study partners, have been reading 
+and discussing their holy books in study halls for millenniums. It 
+is most unlikely that the advent of digital technology will change 
+that. But in this technological age, CD-ROM's are likely to become 
+an increasingly important tool in that learning. A Nightmare Told 
+in Words and Pictures SURVIVORS: TESTIMONIES OF THE HOLOCAUST (Survivors 
+of the Shoah Visual History Foundation; two-disk set for $29.95, or 
+$69.95 for two sets with a study guide; Macintosh 7.1 and up and Windows 
+95 and up.) This set of CD-ROM's features accounts from the huge digital 
+archive of the Survivors of the Shoah Visual History Foundation. Something 
+of a technological marvel, the 150-terabyte archive (a terabyte is 
+a trillion bytes or 1,000 gigabytes) contains videotaped oral histories 
+from close to 50,000 Holocaust survivors. The foundation was started 
+by the director Steven Spielberg after he made the film ``Schindler's 
+List.'' The recording of survivors' accounts began in 1994. This CD-ROM 
+compilation uses the stories of four survivors _ Bert, Sol, Sylvia 
+and Paula _ to teach the history and geography of the Holocaust to 
+students in grades seven and above. (A 32-page study guide created 
+by Facing History and Ourselves, a Holocaust education group, comes 
+with the purchase of a two-set teacher's pack.) The CD-ROM is narrated 
+by Leonardo DiCaprio and Winona Ryder, two Hollywood heartthrobs the 
+foundation no doubt hopes will draw in young people. The graphic design 
+of the CD-ROM is muted, which is appropriate given the horrific nature 
+of the information conveyed. Over a charred parchment background, 
+sepia photographs and occasional snippets of black-and-white newsreels 
+appear and dissolve as in a movie. One very effective aspect of the 
+CD's interface is revealed by placing a pointer on a photograph. The 
+contrast darkens and a couple of lines explaining the context of the 
+picture appear in a window below it. A total of 80 minutes of survivors' 
+accounts is divided into nine time periods: before the war, after 
+the war and year by year, starting in 1939 and ending in 1945. Students 
+can follow the progress of a particular survivor throughout the course 
+of the Holocaust or track all four of them in any given period. A 
+map of Europe is available for each time period. A valuable index 
+of terms, locations, historical figures and events benefits from the 
+Shoah Foundation's extensive cataloguing of the oral histories. You 
+highlight a selection in a frame on the left of the screen and definitions 
+appear in a frame on the right; the definitions range from a sentence 
+to several paragraphs. A two-sentence entry on Birkenau, for example, 
+explains that it was a death camp added to the Auschwitz complex in 
+1941 and that more than a million Jews were murdered there ``with 
+horrible efficiency.'' The index devotes three paragraphs to war criminals 
+and war crimes, mentioning the Nuremberg trials and the Cold War's 
+impact on prosecutions and listing prominent Nazis who were never 
+brought to justice and a couple who were. The shortcomings of Testimonies 
+of the Holocaust are minor. You have to sit through the same two-and-a-half-minute 
+introduction every time you start up the CD-ROM. Some screens scroll 
+down in a jerky fashion, leaving users wondering whether they have 
+gone too far down in the text. And then there is the background music, 
+somber strings that play while no one is speaking. It just isn't necessary 
+and gets to be slightly grating after a while. But this is an excellent 
+educational resource, thoughtfully designed and thorough in its presentation. 
+The foundation gets high marks for approaching this task by telling 
+the stories of four individuals, putting faces and voices to the horrors 
+of the Holocaust. From the Torah to the Zohar SONCINO CLASSICS COLLECTION 
+(Davka; $589; Macintosh 6.5 and up, and Windows 3.1 and 95.) The Soncino 
+Classics Collection is a high-end title from the Davka Corp. It contains 
+the complete English, Hebrew and Aramaic texts of the Torah; the Talmud; 
+a collection of teachings and interpretations of Biblical verse known 
+as the Midrash Rabbah, and the Zohar, the principal text of Jewish 
+mysticism. The disk also includes Hebrew-only versions of a number 
+of Talmudic commentaries. And the Hebrew version of the Bible has 
+vowels and cantillation marks, which will be useful for those who 
+are learning to read or chant the Torah. Hebrew and English text can 
+also be displayed in windows that scroll by simultaneously. For a 
+sense of the enormous amount of text on this disk, I called up one 
+of the five books of Moses in English and put my scroll bar on automatic 
+pilot. (``In the beginning'' seemed like a good place to start.) It 
+took nearly five minutes to scroll through the 50 chapters of Genesis. 
+One drawback is that users are unable to search for a particular weekly 
+Torah portion, or parsha, as it is known in Hebrew, by name. The parshas 
+have Hebrew names and are read each week. The coming parsha is Vayechi, 
+and after consulting a hard copy of the Old Testament, I found that 
+it begins with Chapter 48 of Genesis. Only then was I able to track 
+it on the CD-ROM. The English translation of the Talmud on the Soncino 
+Classics CD-ROM seems to have more footnotes than actual text. In 
+a six-paragraph chapter, I found 34 footnotes. And the text is diligently 
+indexed: in the English Talmud, there are 23 citations for the word 
+``goat'' and 37 for ``poor.'' Of course, that's nothing compared with 
+Moses, who had 1,432 citations in the Talmud. When you search for 
+Moses, a results window appears, listing all the lines in which Moses 
+is mentioned. Double click on Moses in any one of those lines, and 
+a new window comes up immediately with the portion of the Talmud where 
+that particular citation is found. The search word is highlighted, 
+and you can scroll up or down to read enough of the Talmud to get 
+the context of the citation. The CD-ROM allows you to pick from eight 
+colors, including magenta, for the background and text. You may use 
+any font available on your computer for the English text. Because 
+it has English as well as Hebrew and Aramaic versions of the texts, 
+this disk can be used by beginners and advanced students. For all 
+but the most advanced scholars, it will be more than adequate. My 
+rabbi assures me that if you drop this CD-ROM, it isn't necessary 
+to kiss it, even though the disk contains the Almighty's name in a 
+digital form. A Not Too Triumphant Effort TRIUMPH OF SURVIVAL:THE 
+STORY OF THE JEWS IN THE MODERN ERA, 1650-1990 (Davka; $59.95; Macintosh 
+6.5 and up, and Windows 3.1 and later.) This two-disk CD-ROM set is 
+based on the book of the same name by Berel Wein, a rabbi and prolific 
+historian. Rabbi Wein clearly has an impressive command of Jewish 
+history and these disks cover a lot of ground, but they are also a 
+classic example of why using a multimedia format for its own sake 
+is a waste of megabytes. The short videos of showing Rabbi Wein sitting 
+at a desk in his study lecturing on particular periods are unnecessary. 
+The information would be more efficiently presented as text. And the 
+video clips of brief television-reporter-like stand-ups by the rabbi 
+(at Theodor Herzl's grave in Jerusalem or the original Carmel Wine 
+factory) are frustrating. We don't want to see the historian. We want 
+to see these places of historical significance. The producers went 
+through the expense of shooting on location. Better to have panned 
+the scenes and left the historian at home. There are some compelling 
+clips. We get to watch a black-and-white film of David Ben Gurion 
+declaring the Jewish state on May 14, 1948. There is color news footage 
+of Palestinian youths throwing stones at Israeli troops during the 
+intifada, Israeli civilians wearing gas masks during the Persian Gulf 
+war and mourners reciting Kaddish at Yitzhak Rabin's funeral. Triumph 
+of Survival uses audio, too, and the problems there are more evident. 
+I clicked on a couple of ``hear audio'' links in a section on the 
+Orthodox resurgence in America, and there was no sound. A picture 
+came up instead. What the producers call ``audio stories'' on Jewish 
+personalities are really cursory off-camera segments, 30 to 40 seconds 
+long, by Rabbi Wein. Better to have a fiery sound bite of Meir Kahane 
+or an excerpt of a classroom discourse of Rabbi Joseph Soloveitchik, 
+one of the latter-day giants of Orthodoxy. Rabbi Wein's succinct sketches 
+of a wide range of Jewish historical figures _ from the Chofetz Chaim 
+to Abraham Joshua Heschel _ will be valuable for students who hanker 
+for a greater understanding of Jewish history. A number of photographs, 
+maps and other graphics load instantly and help illuminate that history. 
+Telling the Story for Children WHO STOLE HANUKKAH? and THE INTERACTIVE 
+HAGGADAH (Jerusalem Multimedia Productions; $24.95 and $29.95, respectively; 
+Macintosh 7.0 and up and Windows 3.X and 95.) These two CD-ROM'S, 
+both with a holiday focus, are multilingual _ they can be viewed in 
+English, Hebrew, Russian, French or Spanish. Both feature Gumby-like 
+characters in colorful settings that are a collage of drawings and 
+photographs. And the English version provides transliterated prayers 
+for children who can't read Hebrew. Who Stole Hanukkah? requires the 
+installation of Intel's Indeo video software, which comes on the disk. 
+The game revolves around a missing jar of oil from the Holy Temple. 
+Kids have to solve a series of puzzles to track down the jar. The 
+CD-ROM's were produced in Israel with support from the Jewish Agency, 
+a quasi-governmental group. The voices of many characters are a little 
+too cute, and the Hanukkah CD-ROM suffers from a programming glitch: 
+when a hot-linked object or character is clicked on, a white box replaces 
+it for a couple of seconds before whatever replaces it appears, giving 
+users cause for alarm. You wonder if the software is faulty. The content 
+ranges from serious to silly. The CD provides sources in the Book 
+of Maccabees and the Talmud for Hanukkah traditions. And for children 
+weaned on MTV, three talking candles do a Motown version of ``Rock 
+of Ages.'' The Interactive Haggadah begins with a family seated at 
+a Passover table. Click on the wine goblet, and you hear the blessing 
+recited over the wine. Click on the matzah, and the matzah blessing 
+is chanted, followed by instructions for making shmura matzah. When 
+users enter the kitchen, they find recipes for matzah balls, potato 
+kugel and other Passover delicacies. Dragging ritual items like bitter 
+herbs or the shank bone onto the Passover plate triggers clever clay 
+animations that explain the significance of the items. My favorite 
+portion of the program is a multiple-choice exam given by the father 
+figure leading the Seder. ``What was the area of Egypt where the Jews 
+lived?'' he asks. The answer is Goshen, but Seward Park and Brooklyn 
+are the other choices. ``Who were the two midwives who refused to 
+obey Pharaoh and saved Hebrew babies?'' If you guess Thelma and Louise, 
+a buzzer informs you that the answer is incorrect. I assumed that 
+the karaoke version of ``Dayenu'' on my ``Reggae Passover'' CD was 
+the last attempt at mixing karaoke and the exodus from Egypt. I was 
+mistaken. The Interactive Haggadah comes with an instrumental version 
+of the Four Questions for your karaoke Seder. It's enough to keep 
+Elijah from coming in. 
+</TEXT>
+</DOC>

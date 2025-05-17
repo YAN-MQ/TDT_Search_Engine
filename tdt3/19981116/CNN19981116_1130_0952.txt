@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981116.1130.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And it might disrupt about 500 satellite operations, but it's likely 
+to be quite a spectacular light show. Astronomers say the most intense 
+meteor shower in 33 years will be visible in the U.S. tomorrow afternoon. 
+</TEXT>
+</DOC>

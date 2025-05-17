@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981225.1130.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And authorities say bad weather may have caused a bus crash in New 
+Jersey. Eight people were killed and 16 injured yesterday when a passenger 
+bus overturned. 
+</TEXT>
+</DOC>

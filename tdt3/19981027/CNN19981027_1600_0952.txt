@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981027.1600.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Russian President Boris Yeltsin has checked into a sanitarium 
+near moscow. His aides say the 67-year-old leader is suffering from 
+exhaustion. 
+</TEXT>
+</DOC>

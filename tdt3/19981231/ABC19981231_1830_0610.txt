@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981231.1830.0610 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones industrials lost more than 93 
+points to close the year at 9181. On the NASDAQ market, stocks gained 
+more than 25 points. This brings to a close a tumultuous but profitable 
+year for the markets. Over the 12 months, the Dow gained more than 
+1,200 points, an increase of 16%. 
+</TEXT>
+</DOC>

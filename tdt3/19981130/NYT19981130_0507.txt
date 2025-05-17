@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> NYT19981130.0507 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial Tuesday, Dec. 1: A new national 
+computerized system for conducting instant background checks of prospective 
+gun purchasers went into effect yesterday. The rules for the new ``instant 
+check'' system call for the FBI to conduct background checks before 
+the sales of all firearms, not just of handguns, the previous focus 
+of concern. This broadened coverage is potentially a big advance for 
+public safety. But gun control advocates are correctly worried that 
+the mandatory ``cooling off'' period previously required before a 
+purchaser could take possession of a gun is expiring with the beginning 
+of the federal background checks. The new system has limitations that 
+could allow convicted criminals, the mentally ill or other prohibited 
+purchasers to walk out of a store with a weapon. Some states will 
+continue to check their own files. But for now, at least, the more 
+than 500 people hired by the FBI to field calls from the nation's 
+gun dealers and pawnshop owners lack immediate access to some critical 
+state and local records, including involuntary admissions to mental 
+hospitals, domestic violence misdemeanors and arrests too recent to 
+be in the computer. A minimum three-day waiting period makes sense 
+to give local police time to participate in the background search 
+and to defuse impulse crimes of violence. Congress, which eliminated 
+the waiting period as a gift to the gun lobby, ought to promptly reinstate 
+it. 
+</TEXT>
+</DOC>

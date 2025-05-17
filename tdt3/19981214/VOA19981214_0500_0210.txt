@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981214.0500.0210 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Share prices in Tokyo finished two percent lower Monday depressed 
+by a gloomy Central Bank business survey and concern about Wall Street's 
+near term outlook. Joban Central Bank says business confidence has 
+tumbled to its lowest level in years. A bank survey released Monday 
+revealed that a majority of the companies from major corporations 
+to smaller firms believe economic conditions are worsening. 
+</TEXT>
+</DOC>

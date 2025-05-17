@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981123.2000.0327 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones Industrial Average gained 215 
+points to close at a record 9374. Advances led declines by a 3-2 margin 
+in heavy trading. Corey Flintoff, NPR News, Washington. 
+</TEXT>
+</DOC>

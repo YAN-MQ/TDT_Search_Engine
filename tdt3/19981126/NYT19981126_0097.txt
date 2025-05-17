@@ -1,0 +1,155 @@
+<DOC>
+<DOCNO> NYT19981126.0097 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For more than a year, advertisements from investment houses and articles 
+in the financial press have touted the benefits of the new Roth IRA. 
+Yet few people seem to be paying attention. Surveys find that no more 
+than one in 20 eligible Americans has put retirement money into a 
+Roth. Perhaps this will capture your imagination: If you make a single 
+$2,000 investment in a Roth IRA and it earns the historical average 
+return for stocks of large companies, your heirs could withdraw money 
+from the account for the next 80 years, pocketing nearly $1.3 million 
+without paying a penny in income taxes. Interested now? Then read 
+carefully, because while the figures can get complicated, the Roth 
+is one of the biggest single investment tax breaks Congress has ever 
+given to middle-class Americans _ especially those who are diligent 
+savers. And if you want to move money from another retirement plan 
+to a Roth on the most favorable terms, you have just over a month 
+in which to act. A warning: Not everyone can profit from a Roth IRA. 
+Eligibility for a full, $2,000-per-person annual contribution is limited 
+to spouses who together make less than $150,000 and single people 
+earning no more than $95,000; smaller contributions are allowed for 
+couples who make up to $160,000 and singles earning up to $110,000. 
+But these boundaries encompass 95 percent of taxpayers. And the income 
+eligibility limits for starting a Roth are more liberal than those 
+for making tax-deductible contributions to traditional IRAs, which, 
+for people with pension plans, rapidly phase out once spouses together 
+earn $50,000 and individuals earn $30,000. A worker without a pension 
+can contribute $2,000 to a traditional IRA regardless of income. (And 
+anyone can make a nondeductible contribution to a traditional IRA, 
+though experts recommend this route only for those who cannot qualify 
+for any other savings plan.) The other big difference between the 
+two types of accounts involves the timing of tax payments. A Roth 
+is built with money you have left after you pay the government, but 
+it allows you to withdraw money tax-free at retirement. By paying 
+up front, you are essentially betting that tax rates will not fall 
+in the future, or that you won't be in a lower tax bracket when it 
+comes time to withdraw money from your account. So Roths make sense 
+for people who expect their incomes to rise in the future, especially 
+diligent savers who expect to have more income in retirement than 
+they are earning today. In traditional IRAs, by contrast, you use 
+pre-tax dollars to contribute to the account, but your withdrawals 
+are taxed. In essence, you're assuming that you will be earning less 
+in retirement than during your prime saving years, so your withdrawals 
+will be taxed at a lower rate than if you had paid your taxes up front, 
+as with a Roth. But even then, you'll be paying taxes on the money 
+you withdraw at high ordinary income rates, even though much of the 
+growth in your IRA will be capital gains. With a Roth, by contrast, 
+you pay at ordinary rates on your initial contributions, but pay no 
+taxes at all on the money that grows in your account. So why are relatively 
+few Americans taking advantage of the Roth, which became part of the 
+tax code last January? A big reason, financial planners say, is that 
+people have become so accustomed to deferring taxes whenever possible 
+_ a generally sound strategy _ that the idea of paying a tax sooner 
+rather than later is hard for many people to grasp. ``Even though 
+intellectually you can analyze that if you pay this tax up front you 
+will be better off in the long run, it is so against what we are programmed 
+to do that many find it difficult psychologically,'' said Steve Mitchell, 
+a senior vice president at Fidelity Investments, the largest mutual 
+fund company. John Barth, a principal in the retirement services group 
+at Vanguard, another mutual fund giant, said his firm's analysis of 
+customer calls found ``a lot of uncertainty'' about the Roth. ``People 
+say if you pay the taxes first, then what is the benefit?'' Barth 
+observed. The reluctance to accelerate tax payments also seems to 
+be discouraging many people from converting their traditional IRAs 
+into Roth accounts, even though the math, for many, makes a compelling 
+case for the switch. Couples filing jointly with less than $100,000 
+in adjusted gross income (the last figure on the front of the Form 
+1040 tax return) can roll any amount of money from a 401(k), traditional 
+IRA or similar retirement savings vehicle into a Roth. The income 
+limit is the same for singles. But as with any contribution to a Roth, 
+taxes must be paid up front in exchange for the right to withdraw 
+the money tax-free at retirement. That requirement discourages many 
+prospective users of the Roth, according to Barth; they simply don't 
+have the money to pay the income taxes. And this is where time is 
+of the essence: Rollovers completed by the end of December get a special 
+tax break _ Congress says you can take four years to pay the income 
+taxes. If rollovers are made next year or later, the money is due 
+all at once. For all the benefits of the Roth, financial advisers 
+say there are other retirement savings plans that trump it. Experts 
+say you should save all you are allowed in a 401(k) or 403(b) (the 
+latter for teachers and other public and nonprofit employees) or similar 
+plan before you put money into a Roth _ so long as your employer is 
+matching your contributions with more than 10 cents for every dollar 
+you save. Bob FitzSimmons, a certified financial planner in Lincoln, 
+Neb., offers this advice: First, put as much money into your 401(k) 
+as your company will match; then put $2,000 into a Roth. Then, if 
+you can afford to save more for retirement, add unmatched money to 
+your 401(k) up to the $10,000 annual maximum. His logic is that the 
+match is the most valuable benefit, followed by the tax-free income 
+from the Roth and, finally, additional tax-deferred savings in the 
+401(k). Put another way, if your employer does not offer a match, 
+you would need to contribute $2,778 to a 401(k) to get the same retirement 
+income as $2,000 in a Roth, assuming that you are in the 28 percent 
+tax bracket. Even without a match, the 401(k) has one practical advantage. 
+Because your contributions will be automatically deducted from your 
+paycheck, you are more likely to follow through on your retirement 
+savings program than with a Roth, said Mitchell of Fidelity. Still, 
+Roth IRAs have a number of twists that make them an appealing retirement 
+planning tool _ and not just for baby boomers. If you are a teen-ager 
+working after school, or a young adult just starting out _ and if 
+you are more Puritan than prodigal in your thinking about money _ 
+the Roth is an ideal savings vehicle. After all, your tax rate looks 
+almost certain to rise in the future. Consider this example: A 16-year-old, 
+in the 15 percent tax bracket, saves $2,000 from her job selling toys 
+at the mall. Her money earns 10.9 percent annually, the historical 
+long-term return for stocks of large companies. Through hard work 
+over the years, she becomes marketing director for a chain of toy 
+stores and finds herself in the top 39.6 percent bracket when she 
+retires at age 66 and withdraws the balance in her retirement account. 
+If she had put that original $2,000 into a Roth (which means she paid 
+$300 in taxes back when she was 16), she would have accumulated $352,864. 
+But if she had saved in a traditional IRA and then paid taxes on her 
+withdrawal, she would be left with just $213,130. Even if she had 
+been disciplined enough at 16 to invest the extra $300 in a taxable 
+account, she would have added less than $10,000 to her wealth. In 
+short, for every after-tax dollar in a traditional IRA, she would 
+have $1.57 in her tax-free Roth account. Roths can also figure in 
+the plans of the elderly. If you qualify for a Roth conversion (that 
+is, your income is $100,000 or less) but have enough wealth to be 
+subject to estate taxes (that is, assets of more than $625,000), your 
+heirs will get more money if you roll over your traditional IRA or 
+other tax-deferred plan into a Roth. That is because the taxes you 
+pay up front on the conversion ``reduce the size of your estate and 
+avoid the tax-on-a-tax at death, when you pay both estate and income 
+taxes,'' said Sanford Schlesinger, an estate tax partner with Kaye 
+Scholer Fierman Hays &AMP; Handler, a New York law firm. Estate taxes 
+aside, by making a single contribution to a Roth and naming a young 
+child as the beneficiary, an elderly person can generate a cool million 
+for a grandchild or great-grandchild, assuming Congress makes no changes 
+in the rules. Here is how: Assume that an heir is born today and made 
+the beneficiary of a new $2,000 Roth account. If the benefactor leaves 
+the account untouched and dies in 5 years, the child, under IRS actuarial 
+tables, will have about 75 years to withdraw the money, taking 1/75th 
+the first year, 1/74th the next and so on until the account is emptied. 
+If the account earns historical average returns, the child will collect 
+nearly $1.3 million _ and the fund will grow faster than the withdrawals 
+until the last few years of the heir's projected life expectancy, 
+according to Seymour Goldberg, a tax lawyer and certified public accountant 
+in Garden City, N.Y., who runs seminars on Roth IRAs. ``With proper 
+planning, you can accomplish a tremendous stretch that lets money 
+grow untaxed for decades,'' Goldberg said. The Roth IRA is named for 
+Sen. William Roth, R-Del., who is chairman of the Senate Finance Committee. 
+In an interview last week, Roth said he would ask Congress next year 
+to raise the annual ceiling on contributions to both traditional IRAs 
+and Roths to $4,000 or $5,000. The limit has been $2,000 since 1981, 
+when IRAs were created. Roth also wants everyone with $1 million or 
+less in annual income to be eligible. ``At first blush, the Roth IRA 
+is a little difficult to understand,'' he acknowledged. ``But if you 
+can afford to pay the taxes at the beginning, you are much better 
+off. ``The compounding of interest is wonderful,'' he said, ``and 
+when your money is never taxed, it is amazing.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,123 @@
+<DOC>
+<DOCNO> NYT19981220.0095 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Reports of a drastic falloff in the 18- to 34-year-old television 
+audience this season, costing the broadcast networks tens of millions 
+of dollars, have touched off an angry debate between the networks 
+and the company that provides the measurements they live by. Broadcasters' 
+relations with Nielsen Media Research, always tense, have degenerated 
+to the point where an NBC executive accused Nielsen of ``something 
+approaching fraud'' for reporting that the young-adult viewing audience 
+has plunged 6 percent this fall, compared with its level a year earlier. 
+Nick Schiavone, senior vice president of research for NBC, made that 
+accusation in an interview on Friday in which he described Nielsen's 
+measurements as seriously flawed. ``If we don't get an answer soon,'' 
+about how Nielsen intends to correct its data, Schiavone said, ``then 
+they are in breach of their contract with us.'' With the economics 
+of network television already at a crisis point, a reported decline 
+in viewing by the young adults highly prized by advertisers has enormous 
+financial implications. Schiavone estimated that NBC has lost $66 
+million in advertising revenue since September because of Nielsen's 
+audience data. That loss comes at a time when NBC's profits are already 
+in steep decline because of the departure of ``Seinfeld'' and the 
+enormously inflated cost of other shows, like ``E.R'' and ``Mad About 
+You.'' Nielsen's reports of a 6 percent decline in television viewing 
+throughout the day by adults between the ages of 18 and 34 applies 
+to all channels, not just network channels, both in broadcast and 
+cable television. The latest data mean that the average young adult 
+viewer is watching a little over half an hour less each day, according 
+to Barry Cook, senior vice president of research for Nielsen. The 
+networks argue that such a drastic change in viewing habits is simply 
+not plausible. But Nielsen, without venturing a reason for the shrinking 
+audience, argues that a separate study it has conducted not only validates 
+its initial findings but suggests that the falloff may be even worse 
+_ as much as 10 percent. Cook dismissed the networks' accusations 
+of flawed data. ``They are losing focus on what is happening,'' he 
+said, citing what he described as a long-term trend line that shows 
+diminishing viewing by younger adults that goes back to 1991. But 
+Schiavone's contentions at NBC have been backed by research executives 
+at the other networks, all of whom dispute Nielsen's findings as outside 
+the realm of statistical probability. ``A change in viewing habits 
+this radical just doesn't make sense,'' said Alan Wurtzel, senior 
+vice president of research for ABC Inc. Wurtzel noted that a similar 
+problem in 1990, later corrected by Nielsen, wound up costing ABC 
+$30 million. David Poltrack, executive vice president of research 
+for CBS, said, ``The problem with this is that even if Nielsen eventually 
+corrects the problem, in the interim you're losing money, big money.'' 
+One potential outcome of this dispute is renewed hope for a rival 
+ratings service, Smart, which has been mounted on an experimental 
+basis by Statistical Research Inc., a company based in Westfield, 
+N.J., that is best known for measuring radio network audiences. Smart 
+_ which stands for Systems for Measuring and Reporting Television 
+_ is still seeking a partner with the financial clout to establish 
+a full-fledged national rating service to compete with Nielsen, which 
+has held a monopoly on television measurement for most of the history 
+of the medium. As a bit of evidence contradicting Nielsen's data, 
+Poltrack cited results from the Smart experimental system now operating 
+in Philadelphia. Smart's ratings there show a slight increase this 
+fall among viewers in the 18-to-34 category. He also pointed to the 
+fact that viewing levels for other age groups tracked by Nielsen have 
+not demonstrated a comparable one-year collapse. Poltrack and other 
+network research executives contend that the problem lies in Nielsen's 
+methods. They say young viewers are notoriously resistant to the daily 
+button-pushing required in the Nielsen ``people meter'' system and 
+argue that Nielsen has consistently had trouble keeping the level 
+of young adults willing to participate its in survey at acceptable 
+levels. The Smart system is designed to streamline the button pushing 
+while also using program codes that automatically track each show 
+that the television tunes in. But Cook, of Nielsen, said that this 
+season's fall-off simply looked excessive when compared with an uptick 
+in viewing reported by Nielsen last fall. And he suggested that last 
+year may have actually been the the anomaly. He said a ``unified study'' 
+that measured the same young viewers known to be in the Nielsen sample 
+both last year and this year indicated a full 10 percent drop-off 
+in television viewing in the 18-to-34 group. He declined to offer 
+any theory for the dropoff. But he dismissed suggestions that it might 
+be related to higher use of the Internet because another Nielsen study 
+had previously indicated that Internet users were already light viewers 
+of television _ and so would not account for such a significant change 
+from last fall. The network researchers attacked Cook's unified study, 
+saying the sample included viewers who had been participants for as 
+little as a single day in the month measured during both years, and 
+that it did not include the same number of viewers from one year to 
+the next. Cook acknowledged that ``billions of dollars are at stake'' 
+for the networks and for every television channel that sells commercial 
+time in advance to advertisers. The sales are based on audience forecasts, 
+and the networks have to give away free commercials to make up for 
+any shortfalls. But Cook suggested that the networks should have made 
+their estimates to advertisers on the basis of the longer-term trend, 
+not on the uptick recorded last fall. He also noted that it was not 
+surprising that NBC was leading the charge against Nielsen, because 
+the network's ratings have taken a particularly precipitous fall this 
+season _ 25 percent fewer households, compared with last year, he 
+said. ``This is most alarming to some people who sold the audience 
+ahead of time,'' Cook said. ``They should have hedged their promises.'' 
+That suggestion only added fuel to the outrage among some of the network 
+executives, who accused Nielsen of trying to glibly explain away a 
+serious problem with its measurement methods. Among other things, 
+Wurtzel noted that Nielsen's first response to network complaints 
+earlier this month about younger men falling out of its survey was 
+to suggest, in a letter sent to ABC, that the cause was lower interest 
+rates for home buyers. (If more young people were moving, Nielsen 
+argued, there was a higher rate of turnover in its sample.) NBC does 
+clearly seem the most willing to take the fight with Nielsen to an 
+active stage. Schiavone said the network intends to challenge Nielsen's 
+credibility. He said the company may decide to file suit for breach 
+of the network's $12 million-a-year contract with Nielsen, on grounds 
+that the company is not conducting accurate measurements. And he said 
+it was not out of the question that NBC might turn to Smart. ``If 
+I put the $12 million we pay to them in with the $66 million we've 
+lost, then paying $7 million for an alternate service starts to sound 
+cheap to me,'' Schiavone said. A lawsuit is certainly more likely 
+to come from NBC than from any other network. NBC, according to another 
+senior executive, who spoke on condition of anonymity, was very close 
+to filing a breach-of-contract suit against the ratings company in 
+1996. One thing NBC promises will not happen, Schiavone said, is a 
+decision to shrug Nielsen off as a necessary evil. ``Every Nielsen 
+client is a hostage assumed by the Nielsen management to be either 
+stupid or forgetful,'' Schiavone said. ``Whether Nielsen is demonstrating 
+active negligence or passive negligence, their actions are unforgivable.'' 
+</TEXT>
+</DOC>

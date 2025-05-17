@@ -1,0 +1,211 @@
+<DOC>
+<DOCNO> NYT19981014.0211 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Deliriously happy but a bit overwhelmed? Jumping for joy and compulsively 
+biting your nails? You must be a bride-to-be. Planning a wedding can 
+be a trying experience. In the five months since our engagement, my 
+fiance and I have made it a priority to keep a positive attitude. 
+But even the most determined couple can fall victim to the pressures 
+and oddities involved with putting a wedding together. Already our 
+apartment has become crowded with engagement paraphernalia. What do 
+we do with the cards, the pattern catalogs and the catering menus? 
+How should I organize the guest lists, transportation requirements 
+and hotel reservations? I realized I would need some help the day 
+my fiance and I stood staring blankly at seemingly indistinguishable 
+forks as we tried to choose our flatware pattern. A fork is a fork 
+is a fork until you consider eating with it for the rest of your lives. 
+It was then that we decided to seek a higher authority. I first tried 
+some wedding planner books that I received as gifts. If you take this 
+route, there are some wonderful possibilities: books that offer advice 
+on every aspect of your wedding and specially designed albums and 
+journals to document your event planning. There are even a few that 
+offer a combination of organizational tools and etiquette and planning 
+advice. These books have areas for writing information and ideas and 
+keeping lists. A hard-copy album is great as a memory of the event, 
+but it did not accommodate the constant need to edit the written information. 
+I then turned to my trusty computer and compiled lists and notes in 
+my word-processing and spreadsheet programs. Although that was an 
+improvement, I was still searching for a better way. There are a lot 
+of different types of software available to help plan a wedding. While 
+some are little more than spruced up or preformatted spreadsheets, 
+others provide guidance and ideas for planning. I searched for a combination 
+that would help me plan the event and avoid etiquette missteps and 
+would prevent me from forgetting anything important. All the programs 
+reviewed here helped with the guest lists and budgeting, and all three 
+helped me accomplish more than I could have done on my own.I looked 
+for programs that would take some of the worry out of the planning, 
+would help keep track of all the details I was sure I would forget 
+and would be fun to use. Above all, I looked for programs that would 
+keep the happiness and romance in the planning. That's a lot to ask 
+of any piece of software. The Experts On Elegance EMILY POST'S COMPLETE 
+GUIDE TO WEDDINGS (Multimedia 2000; $19.95; Windows 3.1 and later.) 
+This software is the answer for the traditional yet technologically 
+adept bride. It balances planning tools and worksheets with helpful 
+and reliable etiquette lessons. Within a week of my engagement, I 
+had received a copy of the book ``Emily Post on Weddings.'' The book 
+provided more than enough information about how to proceed with plans 
+but lacked the organizational details of the CD-ROM to help me with 
+the actual planning. The guide is set up as a visit to a professional 
+wedding consultant. The opening screen has a video welcome from Elizabeth 
+and Peggy Post, relatives of Emily and etiquette experts in their 
+own right. In the Planning Center, at the top of the screen is a section 
+for personal wedding information and links to different worksheets 
+and note cards, which change in each section of the program. On the 
+left of the screen is a list of topics on which video or written advice 
+is offered. At the top of the list is always advice from Elizabeth 
+Post. Most of the other information is presented by Peggy Post. The 
+bottom of the screen offers a basic utilities list that remains constant 
+throughout the program. There is a planning calendar and notepad, 
+and buttons leading to file management, printing, help and exit. The 
+most important button on the utilities bar is marked Places to Go. 
+That navigational tool links to the program's 12 main sections, which 
+include such topics as the budget, guest list, photography and music. 
+The true gems of the program are the sections on style. For the botanically 
+ignorant, the flower section provides pictures and descriptions of 
+many popular flowers as well as advice on purchasing, decorating and 
+choosing a bouquet style. The music area has audio clips of traditional 
+music for the ceremony. There are also worksheets for both the ceremony 
+and the reception. Creating your invitation is a breeze with the Posts' 
+help. There is guidance on grammar, timing, paper and font choice 
+and invaluable detail about how to handle nontraditional couples. 
+Throughout the program, there is concise advice on etiquette. If a 
+bride is in the military or from a split family, or if the groom's 
+family is serving as host of the wedding, the Post women have the 
+answers. There are some cosmetic downsides to this program. The Places 
+to Go menu appears on top of the screen and blocks the list of options 
+behind it. While the user can close the menu easily, it becomes tedious 
+when jumping from screen to screen. The spreadsheet and information 
+storage areas of the program are elegantly laid out but a bit difficult 
+to get used to. I also found that some of the spreadsheets did not 
+cross-reference each other as easily as I would have liked. The strengths 
+of the Emily Post program easily outweigh the downsides, and the program 
+is beautifully designed and fun to use. It maintains an air of elegance 
+and excitement through such stressful topics as whom to invite and 
+how to budget. But grooms should take heed: while the information 
+in this software is valuable to both of you, the language and tone 
+is directed toward your future wife. Keeping Track of Every Detail 
+THE ESSENTIAL WEDDING PLANNER (The Learning Co; $14.95, discontinued 
+by manufacturer; Windows 3.1 and later.) Are you tied to your Franklin 
+Planner or glued to your Week-at-a-Glance? Then this program should 
+feel like home. The Essential Wedding Planner is designed to look 
+like a six-ring organizer. This organizer, however, has spreadsheets 
+and worksheets that go far beyond what can easily be achieved with 
+paper and pen. The first section, with a pink tab, is a yearlong checklist 
+of what a couple should accomplish by certain dates. The to-do dates 
+can be altered by hand if a couple wishes to set their own schedule. 
+The checklist breaks up the tasks into 12 manageable steps. The software 
+provides an additional page, preformatted as a checklist, for adding 
+items specific to your wedding. The announcements section, marked 
+with a blue tab, gives you the option of either writing an original 
+announcement of your forthcoming marriage or filling in the blanks 
+on a preformatted announcement. The yellow-tabbed event schedule acts 
+as a calendar, with spaces to enter the dates of wedding-related events 
+like showers and engagement parties. The next four tabbed sections 
+offer an area for guest information and the tracking of invitations, 
+RSVP's, gifts and travel needs. These well-designed pages have fields 
+for all the necessary information and display just one guest (or party) 
+per page. The invitation-tracking links to the guest information and 
+allows you to record which events the guest will or will not attend. 
+It does not, however, keep a running total. The gift area takes a 
+step beyond many of the available programs and provides a place to 
+record up to four gifts per guest (for shower, engagement and wedding 
+gifts and one other gift). It also provides a check box for gifts 
+that need to be returned and an area to record when you sent a thank-you 
+note. All four of these sections cross-reference the guestinformation, 
+so you need to enter data only once. The final two sections, table 
+assignments and expenses, are thoughtfully designed and comprehensive. 
+While the table assignments area does not take the pain out of deciding 
+whom to seat next to that dreadful great-aunt, it provides a useful 
+tracking tool. The program graphically shows an area for each table, 
+allowing you to better envision your seating decisions. The expense 
+area provides a page for each expense, including fields to enter vendor 
+names and phone numbers as well as cost. There is a section for writing 
+notes about each expense, which is valuable when you are trying to 
+lower the cost of some items. A spreadsheet links to this page and 
+can be called up at any time to view the overall budget. While the 
+simplicity of this program is its greatest strength, it is at times 
+also a weakness. The program fails to provide consistent, adequate 
+detail. I found that it was easy to draft and print out an announcement, 
+but difficult to go back and edit it. The guest section allows you 
+to view one guest per page but not the entire list at once. One more 
+caveat: the Learning Company recently discontinued this title, but 
+it may still be available through many vendors. A Sense Of Romance 
+WEDDING WORKSHOP (Micro Precision; $29.99, Macinotsh and Windows 3.1 
+and later.) Wedding Workshop is a wonderful combination of planning 
+tools and helpful, entertaining advice. It is also graphically appealing 
+and extremely thorough. It covered all the topics, concerns and areas 
+of potential stress that a couple are likely to encounter while planning 
+their special event. The main screen, the Planning Center, offers 
+a traditional menu bar along the top. It is here that the user enters 
+most financial information. The pop-up menus have areas for estimates 
+and expenses for everything from jewelry to the wedding cake and the 
+honeymoon. Included on this menu bar are links for guest information, 
+a help menu and to-do lists. Unlike the to-do list in other programs, 
+these are created by the couple themselves _ a helpul organizational 
+lesson in itself. While the manual states that the program provides 
+an initial list of tasks, my list was empty. The to-do lists include 
+fields for entering each project, the person in charge, the timing 
+and the date completed. The menu bar also includes individual reports 
+on the many occasions leading to a wedding. The status of guests, 
+gifts received, expenses and projects to be completed can be printed 
+from this menu bar as well. While I would have liked to have been 
+able to have viewed these reports on the screen, the printed reports 
+came in handy for times when I was away from the computer and for 
+permanent records. The Planning Center screen is filled with 10 buttons, 
+each leading to a different section, either organizational or informational. 
+There is a utilitarian button for the guest list and for attendant 
+worksheets and the overall budget. The attention to detail is impressive. 
+Every linked screen offers all the information relevant to the topic. 
+There is no need to flip from section to section to find information 
+on budgeting, head counts or contacts because the program cross-references 
+all details for the wedding couple. For example, the guest list window 
+shows a list of all invited guests and a count of how many invitations 
+have been sent and how many RSVP's received. Any name can be highlighted 
+from the list and details retrieved about that specific guest. There 
+is space to list the children invited, and the wording for both the 
+inner and outer envelopes, accommodations and the guest's special 
+needs. Gift information is available with the click of a mouse, providing 
+fields to record gifts for engagement, shower, wedding and other gifts. 
+There are check boxes for thank-you's sent and gift descriptions. 
+Details about every guest can be found without backtracking to the 
+main menu. Another outstanding feature of this program is the availability 
+of reference materials on the central screen. While clicking on the 
+user's menu was helpful, I was more impressed by the Tips and Etiquette 
+and Romantic Ideas buttons. The Tips and Etiquette section consists 
+of a 79-page book, which is read using Adobe Acrobat Reader, that 
+offers advice on how to plan a wedding and a lot of wonderful tips 
+on how to survive the whole experience gracefully. The tips range 
+from how to buy a diamond to how to estimate how many guests will 
+actually attend. The Romantic Ideas button leads to a copy (Acrobat 
+reader again) of Gregory J.P. Godek's book ``1001 Ways to Be Romantic.'' 
+It is refreshing that Wedding Workshop remembers why people marry 
+in the first place. Here are some Web sites devoted to wedding planning. 
+While I would not recommend these as your only planning tools, they 
+provide useful contacts and often invaluable supplementary advice. 
+THE KNOT: www.theknot.com _ If you decide not to use planning software, 
+this comprehensive and extensive site is the best substitute. The 
+Knot has many useful, high-quality components, including fashion information, 
+a searchable bridal gown database, a gift registry, beauty and etiquette 
+tips, and planning and budgeting tools. The planning area is personalized, 
+and the budgeting pages keep track of expenses and help you understand 
+what factors into each cost. Features include cost information for 
+the average American wedding, 56 Ways to Save and a Groom's Section. 
+The articles for men are interesting, but the site is not aimed at 
+the couple planning their wedding together. WEDDING CHANNEL: www.weddingchannel.com 
+_ This provides a wealth of information and links to pages where you 
+can make many of your wedding purchases and purchasing decisions. 
+You can browse your way through fashion, gifts, accessories and many 
+other wedding products and services. The site includes an online registry, 
+a virtual store and even a travel agency for honeymoon arrangements. 
+The impressive vendor list and business directory are useful both 
+for large urban areas and rural areas. The Groom's Section is a nice 
+idea but unimpressive. WEDDING BELLS: www.weddingbells.com _ This 
+has a simple, easy-to-follow layout and offers links to topics like 
+fashion, etiquette, planning, wedding services and travel ideas. The 
+Strange but True section provides interesting historical trivia. The 
+Trends and Traditions section contains personal anecdotes and traditions 
+and trends from around the world. 
+</TEXT>
+</DOC>

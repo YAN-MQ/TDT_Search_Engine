@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981025.1830.1030 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In the pacific, typhoon babs, which killed more than 150 people in 
+the philippines, is now a tropical storm. Today, the storm brought 
+torrential rains to Taiwan. 
+</TEXT>
+</DOC>

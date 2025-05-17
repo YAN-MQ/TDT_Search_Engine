@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981104.0130.0538 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen Maginnis. 
+For Wednesday, a frontal system slides across the southeast. In its 
+wake, we will expect some cooler and breezy conditions. And a rejuvenated 
+Mitch will bring some moisture across the Florida peninsula. We'll 
+continue to monitor that. And there's a frontal system that slides 
+across the pacific northwest. In between, we're looking at temperatures 
+mostly in the 30s and 40s, from the Canadian provinces, the Great 
+Lakes, into Kansas and Nebraska and across northern sections of Texas. 
+Expect a day that will be cloudy in Anchorage, Alaska, and 38 degrees. 
+26 in Barrow. 83, Hilo. And San Juan, 84 and some showers. Our Thursday 
+forecast, mostly 30s and 40s all the way from Montana into the ohio 
+valley, the Great Lakes, the northeast and into New England. For Friday, 
+some 70s can be found in the desert southwest. But we're also expecting 
+a storm system to develop across the Rockies and the pacific northwest. 
+Scattered showers can be found across the midwestern states going 
+into saturday. For more weather information, log on to CNN.com. 
+</TEXT>
+</DOC>

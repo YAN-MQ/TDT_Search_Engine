@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981208.2130.0182 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+CNN has learned former republican governor William weld of Massachusetts, 
+will testify tomorrow in support of the president. The White House 
+is hoping his testimony will sway moderate house republicans who still 
+are undecided about impeachment. 
+</TEXT>
+</DOC>

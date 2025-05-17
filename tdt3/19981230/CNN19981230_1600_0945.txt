@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981230.1600.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A grand jury is releasing its report today after an investigation 
+into possible conspiracy and cover-up in the Oklahoma City bombing. 
+The jury interviewed 117 witnesses over its 18-month investigation. 
+</TEXT>
+</DOC>

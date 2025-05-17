@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> PRI19981126.2000.2324 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+If you're watching TV today, chances are you've run across a football 
+game or two or three. But in Singapore, football fever of a different 
+sort has gripped the nation. Twenty-one soccer teams from the Asia 
+Pacific region have gathered at the National University of Singapore 
+to compete against each other in a unique tournament. It's not the 
+World Cup. It's Robocup. THE WORLD's Clark Boyd reports. The game 
+starts. OK, maybe it's not quite as exciting as last summer's World 
+Cup final between Brazil and France, but the Robocup in Singapore 
+might be more intellectually compelling. On a field the size of a 
+ping pong table. Teams of five small robots dance and weave, duck 
+and dribble. Well, sort of. As organizer Trigal Trony explains, these 
+robotic Reynaldos are controlled by cameras hung over the field. They 
+have actually two cameras overhead, each taking a measure of half 
+the field and sending them back to a central computer whereby. There 
+is two defenders. As far as I can see, there's two attackers and one 
+Coquitos. The Asia Pacific Robocup is part of something called the 
+Robot World Cup Initiative. The idea behind it is to use these soccer 
+playing bots to develop our understanding and use of artificial intelligence. 
+It's the brain child of Japanese researcher, Dr. Hirohaki Catano, 
+who says robotic soccer is not just a game. We have several possible 
+application and one of the things - We have the art pick. We have 
+the light skill disaster. We'd like to have a autonomous robotic system 
+to go into the disaster side and then rescue the people. And the other 
+thing will be intelligent traffic system, and probably in the future, 
+we're going to have a lot of synthesis in the camera on highways and 
+on city street. And then we like to control the traffic flow much 
+better so that we can significantly reduce the traffic congestion. 
+Robo soccer is certainly a hit in Singapore. Every university and 
+technical college in the country is fielding a team in the tournament, 
+and robotics classes are creeping into Singapore's high schools. Tshua 
+Yau Chung explains why Singaporeans are Robocup crazy. Singapore is 
+also currently promoting a lot of artificial intelligence and trying 
+to build the island to so-called intelligent islands, a lot of information 
+technology. And Robocup is seen as something that is able to - a layman 
+is able to associate with so they will enjoy the game. Where on the 
+other hand, the researchers in Singapore will be able to try out their 
+research in the lab onto something that the public can see. And if 
+the public doesn't think that the mechanized soccer action is as fast 
+and furious as the real World Cup, Dr. Catano says just give them 
+some time. Down and low, like five years and ten years, I think the 
+performers be much better, and also, we probably seen legs all over, 
+which is a two leg and a four leg must like humans or a dog. And then 
+the door was pressed up in football. I think that will be marvelous 
+entertainment. In fact, Dr. Catano hopes that the Robot World Cup 
+initiative will eventually produce full-size humanoids that will challenge 
+the likes of Brazil's Reynaldo, Italy's Roberto Baggio and Germany's 
+Yuergen Clinton. Well, let's just hope that by the time Cyber Cup 
+2010 rolls around, Robo hooligans aren't wandering the streets itching 
+for a fight. Of course, we could always call in Robocop. Your move, 
+creep. 
+</TEXT>
+</DOC>

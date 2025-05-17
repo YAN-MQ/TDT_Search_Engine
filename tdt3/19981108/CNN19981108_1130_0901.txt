@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981108.1130.0901 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- John Glenn says he's feeling great after 
+returning from a nine-day space mission on space shuttle "discovery." 
+Glenn will undergo medical tests today at Johnson space center in 
+Houston. 
+</TEXT>
+</DOC>

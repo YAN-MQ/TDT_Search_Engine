@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981126.2130.0553 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The death toll remains -- topped 100 following a collision between 
+two trains this morning in India. 250 others were injured after seven 
+cars from one train jumped the tracks. Another train on a parallel 
+track slammed into the derailed cars. 1,700 passengers were on both 
+trains. It's India's worst train crash in three years. 
+</TEXT>
+</DOC>

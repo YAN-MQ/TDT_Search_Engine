@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981128.0130.0327 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With millions of Americans out there shopping, some took up the challenge 
+to buy nothing. The editor of a publication called "adbusters," estimates 
+1 million people in 15 countries would go without making a purchase 
+on Friday. They're part of a simplicity movement committed to consuming 
+less. "Adbusters" says developed nations make up 20% of the world's 
+population but produce 86% of the waste. 
+</TEXT>
+</DOC>

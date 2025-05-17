@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981203.2130.0405 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Health care company Johnson & Johnson is cutting its workforce. It 
+says it will eliminate 4,100 jobs in the United States and overseas 
+to free money for research and development and better compete in the 
+drug business. The New Jersey-based company says the cuts will be 
+made over the next year and a half by closing 36 of its 158 manufacturing 
+plants. 
+</TEXT>
+</DOC>

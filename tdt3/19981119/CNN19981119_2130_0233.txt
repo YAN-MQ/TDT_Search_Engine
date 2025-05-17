@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981119.2130.0233 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The first piece of the long-delayed international space station is 
+scheduled to be launched from Russia tonight. As miles O'Brien reports, 
+the collaboration with the United States is expected to give the Russian 
+economy a major boost. I'm sorry, we don't have that story at this 
+time. 
+</TEXT>
+</DOC>

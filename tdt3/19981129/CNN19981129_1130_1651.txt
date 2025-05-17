@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981129.1130.1651 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have all the day's news in the next half hour, including a look 
+at how travelers are faring on their Thanksgiving treks home. Now 
+though, let's take a listen to this year's world duck-calling championships 
+out of Arkansas. I'm Sean Callebs. This is "CNN Headline News." 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981126.1600.0927 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And heavy rain is triggering mudslides in the pacific northwest and 
+renewing concerns about flooding. The second storm in three days hit 
+the area with wind gusts near 100 miles per hour. Thousands of people 
+are without electricity. 
+</TEXT>
+</DOC>

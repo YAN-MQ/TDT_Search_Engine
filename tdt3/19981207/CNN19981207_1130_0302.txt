@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981207.1130.0302 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton wants to ensure not one dime of Medicare money is 
+spent wastefully. He'll unveil a package of legislative initiatives 
+today to help the government save $2 billion in health payments. Mr. 
+Clinton's plan would crack down on Medicare fraud and abuse. Details 
+include eliminating markups in the prices Medicare pays for drugs, 
+preventing providers from billing Medicare for services not provided 
+and requiring private insurers to notify Medicare when they cover 
+a claim. 
+</TEXT>
+</DOC>

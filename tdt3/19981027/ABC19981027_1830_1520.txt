@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> ABC19981027.1830.1520 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The price tag, one of the reasons NASA is so focused on public relations 
+this week is plain and simple money. There just isn't enough money, 
+government money, to do everything the space agency would like. So 
+is it possible that the answer may be less government and more private 
+enterprise? Here's ABC's Jane Clayson. Main engine start and liftoff. 
+Space travel is expensive. Every rocket is a one-shot launch. Both 
+sets are gone. Right now, th launches, you throw away the equivalent 
+of a jetliner every time you fly. So, private companies are racing 
+to design reusable Rockets. Looking good, Pete. Pete Conrad commanded 
+the "Apollo 12" mission to the Moon. He says the private sector can 
+do it much cheaper than the government. The primary objective with 
+what we're trying to do is cut the cost per pound to orbit by about 
+70%. And these may be the answer -- reusable Rockets, with air bags. 
+And parachutes. Here's a prototype that takes off like a rocket and 
+lands like a Helicopter. This technology being tested on old fighter 
+jets, would actually tow a Spacecraft into Once released, ro its payload 
+and lands like an airplane 30 minutes later, ban with innovations 
+like these, supersonic deliveries are not far off. Send a package 
+from New York -- expect it in Tokyo 45 minutes later. And if freight 
+can soar through suborbit, why can't humans? One company has signed 
+up 60 people for a $98,000 a seat space ride. Another advertises an 
+cable. You can do it, too, ride a rocket into space. Burt Rutan has 
+spent $7 million developing the proteus rocket. He says, soon anyone 
+can go to space. The reason it hasn't happened no one has had a sense 
+that can you profit from it. No one has a sense that you can even 
+technically do it. So, don't be surprised, the entrepreneurs say, 
+in 20 years, to see space cruise ships, space hotels, fueling stations, 
+even asteroid mining in space. All of it, private enterprise. 20 years 
+from now, government spending in space will probably be 5% or less 
+and 95% of it is going to be in the commercial world. As space becomes 
+the final "money making" frontier. Jane Clayson, ABC News, Los Angeles. 
+</TEXT>
+</DOC>

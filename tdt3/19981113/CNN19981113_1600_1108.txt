@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981113.1600.1108 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street, the Dow is up 89, the NASDAQ down 3. 
+</TEXT>
+</DOC>

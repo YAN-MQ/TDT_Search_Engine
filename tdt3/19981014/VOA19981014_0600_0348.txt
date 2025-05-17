@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> VOA19981014.0600.0348 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From Washington, this is VOA News Now. I'm Frank Whitis. 
+</TEXT>
+</DOC>

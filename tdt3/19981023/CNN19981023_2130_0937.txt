@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981023.2130.0937 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Top stories this evening, after nine days of tough negotiations, president 
+clinton, Israeli prime minister Benjamin Netanyahu, Yasser Arafat 
+and jordan king Hussein signed an interim peace deal today. 
+</TEXT>
+</DOC>

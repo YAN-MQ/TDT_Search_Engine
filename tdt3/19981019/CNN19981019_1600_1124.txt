@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981019.1600.1124 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street, the Dow finished the day up 49 points, the NASDAQ 
+up 27. That's "Dollars & Sense," back to you, Chuck. Jan, thanks. 
+Baseball's world series continues tomorrow in San Diego. Will the 
+basketball season ever get under way? "Headline Sports" is next. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981229.1600.3003 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Once again, the Dow Jones Industrial Average closed up 94 points. 
+This is Breck Ardery. Thank you, Breck. 
+</TEXT>
+</DOC>

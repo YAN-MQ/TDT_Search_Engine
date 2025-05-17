@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981101.1000.0981 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The most famous landmark in Paris is closed for the weekend because 
+of a Strike. Workers at the Eiffel tower walked off the job Friday 
+to demand management hire more staff. The strikers want 32 new workers 
+added to the payroll, but management is only planning to hire 25. 
+The strike could keep the tower closed until at least tomorrow. 
+</TEXT>
+</DOC>

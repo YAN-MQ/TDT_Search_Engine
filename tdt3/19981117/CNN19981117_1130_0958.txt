@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981117.1130.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There's a Gray cloud over Wall Street. Stocks continue falling sharply 
+in this hour. Weighing heavily on the Dow, shares of Hewlett-Packard, 
+falling nearly $6. The computermaker posted better than expected earnings 
+for the latest quarter, but revenues were disappointing. The broader 
+markets are all lower, with the NASDAQ composite losing 14 points. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981220.1000.1238 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Rob tick tin, "CNN Headline Sports." We kick things off in the NFL 
+where the jets are the AFC east champions. They defeated Buffalo 17-10 
+to claim their first divisional crown. Vinny Testaverde tossed a pair 
+of touchdowns. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981224.0130.1649 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up in two minutes -- a fresh look at the day's news, including 
+the latest on the winter weather. 
+</TEXT>
+</DOC>

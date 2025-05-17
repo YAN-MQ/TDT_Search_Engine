@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> APW19981106.0845 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The German subsidiary of General Motors Corp., Adam Opel has recalled 
+about 60,000 new Astra models for inspections after customers reported 
+steering troubles, the automaker announced Friday. Astra owners complained 
+of grinding noises or resistance when turning the steering wheel. 
+They will not be charged for the inspections. Opel recalled a previous 
+Astra model for problems with the neck of the gas tank. 
+</TEXT>
+</DOC>

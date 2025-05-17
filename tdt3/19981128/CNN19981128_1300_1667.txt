@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981128.1300.1667 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll update the top stories in two minutes, including President Clinton's 
+answers to 81 questions, and how they're being received on Capitol 
+Hill. I'm Sean Callebs, and this is "CNN Headline News." 
+</TEXT>
+</DOC>

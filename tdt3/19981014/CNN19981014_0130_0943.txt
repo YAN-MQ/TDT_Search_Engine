@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981014.0130.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Congress will resume budget negotiations Wednesday morning. Both sides 
+have agreed to spend an additional $1.1 billion on education, but 
+disagree on who should control the money. 
+</TEXT>
+</DOC>

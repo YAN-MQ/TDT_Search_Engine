@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981221.1130.1303 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The falcons claim the NFC west title for the first time since 1980 
+after winning over Detroit. The team found out after the game that 
+kof Reeves had been readmitted to the hospital after the win. 
+</TEXT>
+</DOC>

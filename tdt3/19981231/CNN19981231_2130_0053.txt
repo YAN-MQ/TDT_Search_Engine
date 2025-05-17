@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981231.2130.0053 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Parts of the eastern United States are still digging out tonight after 
+yet another snow storm. More than four inches fell in southwestern 
+Virginia today. That made driving slippery, but state police say it 
+caused only minor injuries. Road crews in Kansas city, Missouri, are 
+bracing for snowfall. Significant ice accumulations are expected tomorrow. 
+</TEXT>
+</DOC>

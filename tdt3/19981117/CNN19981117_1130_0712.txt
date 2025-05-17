@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981117.1130.0712 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Check out CNN.com/health for the latest health news online. For "your 
+health," Kristy Lawson, "CNN Headline News." Checking the top stories 
+now. 
+</TEXT>
+</DOC>

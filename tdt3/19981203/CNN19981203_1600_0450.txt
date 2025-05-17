@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981203.1600.0450 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Friday. A strong storm in the west will move into the 
+rocky mountains producing some heavy snow as low pressure drops along 
+the California coast line, keeping their weather unsettled as well. 
+Low pressure will also push into the Mississippi river valley with 
+some showers and thunderstorms. We'll see a few showers passing out 
+of New England as a cold front moves that way. It will be a little 
+cooler in the northeast on Friday. 40s, 50s, a few 60s in southern 
+New England. Just 20s and 30s from the great basin into the upper 
+midwest. The southeast will remain mild. Looking ahead to Saturday 
+-- rain in the northwest, snow in the Rockies and showers around the 
+Great Lakes. On Sunday, snow in the northern Great Lakes region, showers 
+and thunderstorms farther south with rain continuing in the northwest. 
+And then Monday, it's pretty wet in the east. Showers continue in 
+the northwest, and as you can see, it is turning cooler around much 
+of the country. 
+</TEXT>
+</DOC>

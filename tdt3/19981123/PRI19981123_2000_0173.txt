@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> PRI19981123.2000.0173 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The merger negotiations between America Online and Netscape Communications 
+could add some wrinkles to the government's anti-trust case against 
+Microsoft. From member station WNYC, Carrie Nolan reports. A top lawyer 
+for Microsoft said today that merger discussions between AOL and Netscape 
+will serve to undercut the federal government's case against his company. 
+Attorney William Newcombe maintains that in light of the talks, Microsoft's 
+competitors have always had the ability to successfully compete against 
+the computer giant. The government and 20 states have charged that 
+Microsoft operates an illegal monopoly in the computer software marketplace. 
+AOL and Netscape have confirmed their talks but say that nothing has 
+been finalized. The proposed merger could also involve Sun Microsystems, 
+which would enable that company to distribute its Java technology 
+to AOL's 14 million subscribers. For NPR News, I'm Carrie Nolan in 
+New York. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981020.1600.1110 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Excite, the Internet directory company, has entered an agreement with 
+sportsline USA. Sportsline will be the exclusive provider of sports 
+information for excite's web site. The deal covers all sports news, 
+including scores, analysis and columns. The two companies will share 
+revenues from the channel, including advertising and merchandise sales. 
+</TEXT>
+</DOC>

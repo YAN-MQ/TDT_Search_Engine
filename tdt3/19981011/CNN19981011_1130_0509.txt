@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981011.1130.0509 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended national weather forecast is next. And still ahead -- 
+they're all the rage in some parts of Europe. So why haven't smart 
+cards caught on in the United States? 
+</TEXT>
+</DOC>

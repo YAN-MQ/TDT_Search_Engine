@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981024.0130.0403 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Russia has voted to block a U.N. security council resolution that 
+would allow NAto to intervene in Yugoslavia if monitors in the province 
+of Kosovo come into danger. The motion is supported by the United 
+States and other countries. But Russia claims it violates the U.N. 
+charter. 
+</TEXT>
+</DOC>

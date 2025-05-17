@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981210.1600.0335 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Not exactly a housewarming party. But there's a celebration aboard 
+the new international space station this afternoon. The astronauts 
+from the space shuttle "endeavour" have entered the station. You're 
+looking at a live picture right here. Once inside, they turned on 
+the lights and snapped a few pictures for posterity. The historic 
+moment marks a new era in space exploration. Over the next two days, 
+the astronauts will install a communications system. But it will take 
+five years and 40 more shuttle missions before the space station is 
+completely finished. 
+</TEXT>
+</DOC>

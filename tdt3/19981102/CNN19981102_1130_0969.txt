@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981102.1130.0969 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street's rally is picking up steam. For those numbers, let's 
+go to Valerie Morris in the "CNN Financial News" newsroom in New York. 
+Valerie? Thanks, Catherine Stocks are accelerating their gains on 
+Wall Street. All the major indices are up more than 1%. Pushing them 
+higher, nice gains in financial markets from Asia to Europe. The Dow 
+industrials picking up where they left off last week. Right now the 
+Dow is up now 114 points at 8706. The high of the day, 119 points. 
+Some big winners on that blue-chip index -- Goodyear tire, Coca-Cola 
+and american express. NASDAQ composite is gaining 24 points. 
+</TEXT>
+</DOC>

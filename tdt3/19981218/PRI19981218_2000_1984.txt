@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981218.2000.1984 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From the BBC, you're listening to the World. The World is brought 
+to you by the Capital Group Companies, investing throughout the world 
+for individuals and institutions. This is the World, a co-production 
+of the BBC world service, PRI and WGBH in Boston. I'm Lisa Mullins. 
+</TEXT>
+</DOC>

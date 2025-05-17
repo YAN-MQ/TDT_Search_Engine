@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981230.1130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Time to check our top stories -- CNN has learned U.S. warplanes have 
+fired on Iraqi targets again, this time in the southern no-fly zone. 
+The Pentagon says the Iraqis fired six to eight surface-to-air missiles 
+at british planes patrolling the zone. U.S. planes fired missiles 
+and other precision bombs at the battery. 
+</TEXT>
+</DOC>

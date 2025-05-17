@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981123.1600.1131 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A transatlantic bank merger may be close at hand. Germany's Deutsche 
+bank announcing today it is preparing to buy bankers trust. The $9.2 
+billion deal still has to be finalized, but if it goes through, it 
+would create one of the world's largest financial services companies. 
+The deal also would be the largest takeover of a U.S. financial company 
+by an overseas bank. Deutsche bank has long sought a foothold in the 
+U.S. stock and bond underwriting business. 
+</TEXT>
+</DOC>

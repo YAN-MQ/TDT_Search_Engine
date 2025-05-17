@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981028.2130.0992 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Starting Monday, Americans will be able to buy U.S. savings bonds 
+a new way, under the government's "easy-saver plan." The treasury 
+will deduct the costs of purchasing bonds directly from customers' 
+bank accounts. They will be able to choose the dates they want the 
+treasury to charge their accounts. The government hopes the new program 
+will increase sales of U.S. savings bonds. 
+</TEXT>
+</DOC>

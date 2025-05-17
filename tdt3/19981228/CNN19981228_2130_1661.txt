@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981228.2130.1661 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+i'm lynne russell. this is "cnn headline news." 
+</TEXT>
+</DOC>

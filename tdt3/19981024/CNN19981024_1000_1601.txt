@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981024.1000.1601 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have more news in two minutes, including the latest on the historic 
+mideast peace deal. I'm holly Firfer. And this is "Headline News." 
+It is signed and sealed, but will it deliver a final agreement on 
+peace in the Middle East? A sniper's bullet kills a New York doctor 
+who performed ... for the battle of welfare of exotic animals. And 
+the battle of the browsers begins in Washington. We'll look at the 
+first week of the Microsoft trial. 
+</TEXT>
+</DOC>

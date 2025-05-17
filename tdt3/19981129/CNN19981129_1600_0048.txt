@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981129.1600.0048 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"CNN Headline News." I'm Kate snow. With the Thanksgiving weekend 
+winding down, one more event remains for millions of Americans -- 
+the trip home. This is one of the busiest travel days of the year, 
+whether on the road, in the air, or on the rails. The only major airport 
+reporting significant problems is San Francisco international. Rain, 
+fog and low clouds are causing arrival delays of up to two hours. 
+Airlines, Amtrak and aaa are all advising travelers throughout the 
+country to get an early start and bring plenty of patience. I am just 
+trying to be like a sheep and go with it. I figure it'll take as long 
+as it'll take, and try to stay relaxed and get to the end of it. Hopefully, 
+it won't be as bad as it could be. I'd rather do this than drive, 
+that's for sure. An estimated 6 million Americans will be flying this 
+weekend. 
+</TEXT>
+</DOC>

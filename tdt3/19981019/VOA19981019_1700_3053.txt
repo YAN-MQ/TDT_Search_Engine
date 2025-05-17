@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> VOA19981019.1700.3053 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The much anticipated antitrust file between the U.S. government and 
+that computer giant Microsoft is now underway here in Washington. 
+Observers say the crowd could determine the course of the software 
+industry for years to come. We have more from VOA's Rick Nunez. In 
+one corner is the Department of Justice. In the other corner is Microsoft, 
+a mammoth software maker that generates $14 billion a year in revenue. 
+The Justice Department says Microsoft has abused its position as the 
+world's preeminent maker of computer software to cut off business 
+to potential rivals. The legal proceedings could take up to eight 
+weeks. Microsoft Chairman Bill Gates, one of the richest men in the 
+world, is not expected to take the stand in person. But in a videotaped 
+statement played in court, he denied his firm tried to suppress its 
+competitors. Microsoft General Counsel, William Newcomb told reporters 
+outside the courthouse he is confident the company will prevail. The 
+relevant evidence, the admissible evidence will show that Microsoft 
+is a vigorous but a very fair competitor and that as a result of our 
+competition and our innovation, customers have benefited. Mr. Newcomb 
+considers the lawsuit an example of excessive government regulation 
+which he says could jeopardize the stability of the computer industry. 
+A spokeswoman for the Justice Department refused to comment on the 
+trial. Prosecutors accused Microsoft of illegally exploiting its dominance 
+of computer operating systems to seize control of the Internet browser 
+market. Browser software allows computer users to access text, pictures 
+and sound from the worldwide web. The Justice Department complaint 
+centers around the Microsoft software known as Windows. The software 
+helps computers run different programs and 80 to 90 percent of all 
+computers use Windows. Microsoft allegedly tried to monopolize the 
+Internet browser market by including its own browser in the Windows 
+system. Prosecutors say the move gave the company an unfair advantage 
+over competing Internet software made by Netscape. Computer systems 
+analyst Jeff Sachs says many consumers are not aware they can choose 
+from different browsers, sometimes free of charge. Most people at 
+home, if they just bought a computer, are not immediately going to 
+try to go download something else. They're just getting used to the 
+computer in the first place, so which browser is built into the computer 
+as they bought it is pretty important. Mr. Sachs says the trial could 
+have a major effect on software competition and the availability of 
+quality programs on the computer market. Rick Nunez, VOA News, Washington. 
+</TEXT>
+</DOC>

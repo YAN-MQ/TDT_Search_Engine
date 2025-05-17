@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> NYT19981120.0375 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Not even solid sales in the United States and a weak yen that made 
+those sales more valuable could save Toyota Motor Corp., Japan's largest 
+car manufacturer and one of its most financially sound companies, 
+from a decline in profits. Expenses largely unrelated to Toyota's 
+core auto business chipped away at the company's consolidated earnings, 
+which fell 20 percent, to 192.6 billion yen, or $1.6 billion at current 
+exchange rates, in the six months that ended Sept. 30. Of Japan's 
+top five car manufacturers, only Honda Motor Co., which derives three-quarters 
+of its sales outside Japan, and Mazda Motor Corp. posted profit increases 
+in the same period. Sales increased 11.4 percent, spurred by gains 
+in North America and Europe, and income on an operating level crept 
+up 1.2 percent. Toyota's operating profits on a stand-alone basis 
+inched forward, albeit by a scant 0.1 percent, as cost-cutting measures 
+and higher exports offset a 14.4 percent decline in its domestic car 
+sales. But higher depreciation costs due to plant expansion in the 
+United States and Canada, and other non-auto-related expenses, such 
+as a paper loss on the company's securities portfolio and losses on 
+stakes it holds in 62 companies on a nonconsolidated basis, led to 
+a drop in bottom-line profits. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981101.1600.0518 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended national weather forecast is next. And then -- the remnants 
+of hurricane Mitch bring devastating flooding and mudslides to Nicaragua. 
+</TEXT>
+</DOC>

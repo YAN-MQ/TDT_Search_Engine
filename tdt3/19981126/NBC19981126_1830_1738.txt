@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981126.1830.1738 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's "Nightly News" for this Thursday. I'm John seigenthaler. From 
+all of us here at NBC news, have a wonderful Thanksgiving. 
+</TEXT>
+</DOC>

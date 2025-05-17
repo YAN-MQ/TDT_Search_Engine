@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981211.1130.0400 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA is hoping a multi million dollar spacecraft helps them learn 
+more about the surface of Mars. Allard beutel reports. The Mars climate 
+Orbiter is the first of two spacecraft that make up NASA's Mars 98 
+mission. Scientists hope this $328 million project will help them 
+better understand how the red planet's climate has changed over time 
+and where water is located now on Mars. This mission won't directly 
+search for life. But NASA says water is the key to finding it. If 
+you want to look for life, either fossilized life or other life on 
+another planet, you have to follow the water. The Orbiter is scheduled 
+to arrive at Mars in September, 1999. Once in orbit, it will use a 
+technique for several weeks called "Aerobreaking." In this tricky 
+maneuver, the spacecraft dips into the planet's upper atmosphere and 
+the resulting friction helps reduce its speed and put it into a more 
+circular orbit. After it's in position over the planet's poles, the 
+Orbiter will await the arrival of its counterpart, the Mars polar 
+lander, which is scheduled to launch January 3rd and touch down on 
+Mars next December. The Orbiter will spend the first three months 
+of its mission serving as a Radio relay satellite for the lander. 
+After that, it'll spend two years taking images of the surface to 
+look for daily and seasonal weather patterns. It will also scan the 
+atmosphere and monitor its changes. The Orbiter will basically track 
+the movement of water vapor and dust in the atmosphere of Mars over 
+the whole globe. It's sort of like a satellite, a weather satellite. 
+It can observe how the water evaporates from the ground, how it moves 
+up into the air, how it dissipates, the roll that dust plays in that 
+process and it can do it over the whole planet. After its mapping 
+mission is over, the Orbiter will serve up to two years as a communications 
+relay for future Mars Landers. Allard beutel, "Headline News." 
+</TEXT>
+</DOC>

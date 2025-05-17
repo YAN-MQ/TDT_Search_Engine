@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981013.2130.0976 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Two strikes put the brakes on General Motors' third-quarter earnings. 
+G.M. announced today, a loss of more than $800 million. Still, that's 
+not as bad as many analysts were expecting. Chairman Jack Smith says 
+G.M. is going all out to recover from the strikes, which essentially 
+shut down north American production for much of the summer. 
+</TEXT>
+</DOC>

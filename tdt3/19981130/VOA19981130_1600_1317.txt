@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981130.1600.1317 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And if you like cricket, Australia's cricket team has taken a one 
+to nothing lead in the Action series defeating England by seven wickets 
+and the second test in Perth. 
+</TEXT>
+</DOC>

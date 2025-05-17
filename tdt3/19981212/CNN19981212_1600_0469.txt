@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981212.1600.0469 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the U.S. is next. And ahead -- Italy 
+says it's time to take the lean out of the leaning tower of pisa. 
+</TEXT>
+</DOC>

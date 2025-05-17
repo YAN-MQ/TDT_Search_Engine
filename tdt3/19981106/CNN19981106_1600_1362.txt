@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981106.1600.1362 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And after a disappointinging company, the Detroit tigers have begun 
+the rebuilding process. Rob Ticktin, "CNN Headline Sports." 
+</TEXT>
+</DOC>

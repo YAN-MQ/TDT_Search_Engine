@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981125.1130.1003 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some popular technology companies are out with earnings. Novell said 
+quarterly profits rose nearly 500% from a year earlier. And software 
+company intuit reported a quarterly loss, though it was in line with 
+forecasts. Intuit makes quicken personal finance software as well 
+as tax-preparation programs. Its strongest quarters are usually the 
+winter and spring, when Americans file their tax returns. Intuit is 
+down more than $2. Intuit stock lost more than $4 yesterday. And novell 
+is up three-quarters of a point. 
+</TEXT>
+</DOC>

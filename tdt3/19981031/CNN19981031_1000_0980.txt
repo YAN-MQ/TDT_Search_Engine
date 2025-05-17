@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981031.1000.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hormel foods is recalling 2.2 million frozen hamburgers because of 
+concern they may be contaminated with listeria, a bacterium that causes 
+nausea and fever. Quick meal brand hamburgers, cheeseburgers and bacon 
+cheeseburgers are the products affected. Hormel recalled a smaller 
+number of cheeseburgers last week after detecting the presence of 
+the bacteria. Listeria can kill young children, the elderly and people 
+with weak immune systems. Anyone with questions about the recall can 
+call Hormel at 1-877-446-7635. 
+</TEXT>
+</DOC>

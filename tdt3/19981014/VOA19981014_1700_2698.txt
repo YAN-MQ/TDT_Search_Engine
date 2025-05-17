@@ -1,0 +1,64 @@
+<DOC>
+<DOCNO> VOA19981014.1700.2698 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And mention lasers and our thoughts often turn to Luke Skywalker battling 
+an arch-villain each armed with weapons of concentrated light. Imagine 
+the biggest laser in the world. As Brian Sislak reports it's not a 
+science fiction fantasy. It is soon to be reality and it's not from 
+Hollywood either, but it is based in California-Livermore to be exact, 
+roughly 60 kilometers from San Francisco and it's enough to make George 
+Lucas and Steven Speilberg green with envy. What it will be is the 
+world's largest laser. It consists of 192 laser beams, each of which 
+are about a foot in diameter in a building that's about the size of 
+a municipal football stadium. That's William Hogan. He's senior scientist 
+for the National Ignition Facility, NIF for short at the Lawrence 
+Livermore National Laboratory. Now, half way complete, this $1.2 billion 
+laser will after the turn of the millennium attempt something never 
+done before to ignite a fusion reaction that will put out more energy 
+than it took to start it. Fusion, the Holy Grail of nuclear physics, 
+is the opposite of fission, the atom splitting process that powers 
+conventional nuclear reactors. Fusion derives energy from pushing 
+together or fusing the nuclei of heavy hydrogen atoms, deuterium and 
+tritium, into helium. It's the same reaction that fuels our sun and 
+all the other stars. As Bill Hogan describes it, the star fuel the 
+NIF laser will turn into energy will be in a capsule no bigger than 
+the one your pharmacist gives you. The target is a cylinder made out 
+of gold, about the size of a cold capsule, inside of which is a little 
+bb sized spherical shell of plastic and inside of that spherical shell 
+of plastic is a very tiny amount of deuterium, tritium fusion fuel. 
+So what we're trying to do is to use the lasers to compress and heat 
+that little bb-sized capsule of fusion fuel to enormous temperatures 
+and pressures to cause the fusion reaction to ignite. The temperature 
+will be 100 million degrees Celsius and the fuel will achieve 20 times 
+the density of lead. Those are the same conditions that exist inside 
+the center of the sun, or any other star for that matter. The objective, 
+says William Hogan, is to get a fusion profit of 10 times as much 
+energy coming out of the reaction as the laser puts into it. But, 
+it will be the first time that fusion has ever done that. If we fail, 
+we are not an energy source. If we succeed, then it would pay for 
+the country to consider it in one of our options for an energy source. 
+Lasers represent one road towards the so far elusive goal of profitable 
+or sustained fusion. The dominant approach to date has involved the 
+Tokenmac, a circular tube inside which magnets compress hydrogen fuel 
+until it gets hot enough to fuse and ignite. Bill Hogan says neither 
+of the competitive fusion approaches has yet achieved the desired 
+objective. But,... At this time, we're both approximately at the same 
+position with respect to the fact that we both think the next machine 
+we build could be a net energy producing machine. We happen to be 
+in the middle of construction. The magnetic fusion people have not 
+gotten approval to proceed with a large machine of the type that would 
+use magnetic fields to compress. And so, we may have a little bit 
+of an advantage right now. William Hogan says the Livermore group 
+does have a potential competitor in France. Like the Livermore laser, 
+the French device will have the duel purpose of doing fusion research 
+and simulating nuclear weapon decay. If all goes as planned, the Livermore 
+laser will be fully online in 2003 with the first ignition experiments 
+in 2005. Even if that ambitious timetable is met, experts say a practical 
+demonstration of fusion generated electric power probably will not 
+occur until 2025. But if and when it does, it will realize the dream 
+of clean limitless energy from hydrogen one of the most abundant elements 
+in the universe. I'm Brian Sislak. 
+</TEXT>
+</DOC>

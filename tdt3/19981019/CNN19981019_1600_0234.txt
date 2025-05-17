@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> CNN19981019.1600.0234 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The first day of the government's antitrust suit against Microsoft 
+has wrapped up in Washington. Government lawyers showed jurors videotaped 
+excerpts from pretrial interviews with Microsoft chairman and founder 
+Bill Gates as part of their opening statements. They argued he was 
+behind a controversial meeting with rival Netscape to divide the market 
+for Internet software. Microsoft is expected to present its opening 
+statements tomorrow. Don Knapp looks at who's involved. The best-known 
+face in the government's antitrust case against microsoft won't likely 
+appear inside the Washington, D.C., courtroom. But Bill Gates hasn't 
+shied away from defending his company from government scrutiny. These 
+operating systems are based on ideas, and no company owns the factory 
+for ideas. Not as nearly well known as Gates, Microsoft's number two 
+man steve balmer. He took the helm in July. Net worth -- $12 billion. 
+On the government's side, Joel Klein heads the justice department's 
+antitrust division and has been leading the charge against Microsoft 
+from the beginning. David boies has been called the government's hired 
+gun and no stranger to antitrust cases. Ironically, he was a defense 
+attorney for IBM in the government's first big antitrust case against 
+a computer giant. He won it for IBM. While eight of Microsoft's own 
+executives top the company's witness list, some of the biggest names 
+in American technology will take the stand for the government. Representatives 
+from America online Intel, intuit, IBM, apple and Boeing will appear, 
+as will the CEO of Netscape, the Internet browser company that's lost 
+much of its market share to Microsoft's Internet explorer. James barksdale 
+may have given a preview of his testimony earlier this year on Capitol 
+Hill. How many people here have use a PC without Microsoft operating 
+system? Gentlemen, that's a monopoly. All the players in the Microsoft 
+case are playing for keeps. And the stakes are huge. Whoever wins 
+will may well define the future of the computer industry. Don Knapp, 
+CNN, San Francisco. 
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981022.1600.0486 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News weather" 
+forecast for Friday. Very cool, high pressure will continue to push 
+eastward in the eastern United States. But on the back side of it, 
+we'll already begin to see some areas warming up just a bit. We will 
+continue to see some showers and mountain snow showers through the 
+southwest. There's also rain headed toward the northwest. Friday's 
+highs looking like much of the country will see 60s and 70s. Just 
+40s into New England, though. There will be some 80s, but they'll 
+be confined to the desert southwest. Looking ahead to Saturday, rain 
+and windy weather moves into the northwest. There could be some thunderstorms 
+in southern Florida. Temperatures will be in the 60s mostly across 
+the north, 70s and 80s in the south. On Sunday, scattered showers 
+in the upper midwest, and moving toward the rocky mountains with cooler 
+weather through that region. And on Monday, showers in the northwest 
+through the plains states and a few thunderstorms are possible in 
+Florida. Don't forget you can find four-day forecasts for more than 
+7,200 cities on cNN interactive at CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> NYT19981116.0409 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+When Michael Kinsley _ editor of the online magazine Slate, which 
+is owned by Microsoft Corp. _ first heard that Microsoft was going 
+to trial in an antitrust lawsuit filed by the Justice Department, 
+he knew he would not emerge unscathed. How does a magazine owned by 
+a giant corporation cover its parent's antitrust trial? ``My initial 
+thought was, `Can we get away with skipping it?''' Kinsley said. But 
+he felt he would disappoint readers if he did not cover some aspects 
+of the trial. Kinsley hired the rapier-witted journalist and author 
+Michael Lewis to post his impressions from Washington. On Oct. 19, 
+Lewis fired off his first tart dispatch. He wrote that Microsoft's 
+chairman, Bill Gates, looked in his videotaped testimony ``as if he 
+had swallowed a bad oyster.'' He continued, ``I doubt any sane and 
+reasonable man could come away from today thinking anything but that 
+Microsoft is guilty of many awful things, and if those things aren't 
+strictly illegal, they should be.'' Lewis' correspondence seemed mightily 
+unfettered by Microsoft. He referred to a Microsoft lawyer, John Warden, 
+as ``a great Hogarthian ball of pink flesh with jowls that ripple 
+over his white, starched shirt.'' Lewis dismissed the ``ineptitude'' 
+of the Microsoft lawyers. In his last missive on Nov. 5, he described 
+another Microsoft lawyer as having ``the warmth of a corpse.'' He 
+added, ``If the courtroom population were asked to vote who in the 
+chamber was most likely to be a vampire, he'd win.'' Kinsley joked 
+about the close relationship between Slate and Microsoft in his regular 
+letter from the editor. On Oct. 23, he posted a disclaimer of sorts 
+in his weekly ``Read Me'' column: ``Lewis' views do not reflect those 
+of Slate magazine, its editors, or its advertisers. Especially its 
+editors.'' His disclaimer set the press critics in motion. The New 
+York Observer pointed out how difficult it was for Slate to cover 
+the trial and keep the ``whole enterprise honest when that doesn't 
+interfere with the mother corporation's interests.'' Then, after the 
+``vampire'' salvo, Lewis resigned. The Internet magazine Salon published 
+an article last week suggesting that higher powers at Microsoft had 
+asked for Lewis' resignation. Readers of Slate began to e-mail in 
+complaints. Lewis, who is a contributor to The New York Times Magazine, 
+said Monday that he and Kinsley had long ago agreed that he would 
+write the column only for a limited time, and that he intended to 
+return to work on a book about Silicon Valley to be published next 
+year. Lewis pointed out that ``there were so many conflicts of interests 
+here it was impossible to keep track of them, to be honest.'' Kinsley 
+said he had tried to solve the problem by asking Lewis to write the 
+impressionistic essays for which Lewis is well known, rather than 
+straight reporting. Lewis was replaced on Nov. 10 by Herbert Stein, 
+former chairman of the Council of Economic Advisers under Presidents 
+Nixon and Ford. Stein _ who opened his first column with a lengthy, 
+drowsy football metaphor _ wrote only two columns, turning it over 
+last Friday to Jodie Allen, Slate's Washington editor. Ms. Allen began 
+her column by announcing her fidelity to Microsoft: ``I will not pretend 
+to be an objective observer of the Microsoft trial. You wouldn't believe 
+me if I did.'' 
+</TEXT>
+</DOC>

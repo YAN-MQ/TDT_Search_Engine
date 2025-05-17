@@ -1,0 +1,104 @@
+<DOC>
+<DOCNO> NYT19981028.0124 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Microsoft Corp.'s defense in the antitrust trial that began last week 
+boils down to one question: Where's the harm? John Warden, Microsoft's 
+lead lawyer, never quite uttered those words. But he nonetheless posed 
+the question in hundreds of ways in his raspy baritone drawl during 
+three days of cross-examining the government's lead witness, James 
+Barksdale, executive of Netscape Communications Corp. The Justice 
+Department and 20 states accuse Microsoft of being a new-age monopolist, 
+bullying other companies so that it could stifle competition in the 
+Internet software market. Netscape, the early leader in the market 
+for software used to browse the World Wide Web, was the main target 
+of Microsoft's illegal campaign, the government contends. Warden used 
+his combative cross-examination of Barksdale as a forum for trying 
+to make Microsoft's case. With his pointed questions, Warden sought 
+to establish that while Microsoft was assuredly aggressive and powerful, 
+there was scant evidence that its behavior resulted in the effects 
+that classic antitrust doctrine deems illegal _ namely, raising prices 
+or restricting output so that consumers suffer. The government contends 
+that Microsoft bundled its Internet Explorer browser with its industry-standard 
+Windows operating system and gave the browser away free to crush Netscape. 
+Microsoft replies that it folded its browser into its operating system 
+as a convenience to consumers. Warden tried to drive home the point 
+with a sarcastic question: ``Mr. Barksdale, do you think consumers 
+would be better off if Microsoft had not given the browser away free, 
+in your hypothetical world?'' Barksdale replied that in the long run 
+he thought consumers would benefit if Microsoft had not made the browser 
+free because the move had eliminated the incentives for other companies 
+to enter the browser market with innovative products. Still, Warden 
+made his point: To side with the government, a court must favor a 
+would-have-been world of hypothetically greater innovation instead 
+of the present, which has not yet created widespread consumer dissatisfaction. 
+Where's the harm? From every imaginable angle of interrogation, Warden 
+hit the same theme. The government has contended that through exclusionary 
+deals with computer makers and gateway services to the Internet like 
+America Online, Microsoft made it more difficult and expensive for 
+Netscape to distribute its browser. Microsoft's power to engage in 
+this exclusionary behavior, the government adds, derives from the 
+``chokehold'' monopoly the company enjoys because 90 percent of all 
+personal computers run the Windows operating system. But isn't it 
+true, Warden asked pointedly, that 26 million copies of Netscape's 
+browser were downloaded over the Internet during the first eight months 
+of this year? ``I wouldn't dispute the number,'' Barksdale replied. 
+Warden then introduced internal Netscape documents showing that the 
+company plans to distribute 159 million copies of its browser over 
+the next 12 months. He asked Barksdale for an estimate of the number 
+of Web sites from which computer users can download Netscape software, 
+and Barksdale replied that there were said to be more than 20,000 
+such Web sites. ``Isn't it true,'' Warden asked, ``that any home user 
+who has a PC and an Internet connection may freely choose at no cost 
+Netscape's Web-browsing software?'' Barksdale replied testily, and 
+reasonably, that most people don't take the time and trouble to download 
+software. That, he said, gives Microsoft a big advantage because of 
+its deals making Internet Explorer the main browser offered by leading 
+personal computer companies and America Online, which are the key 
+distribution channels to home users. Still, Warden's point was made. 
+Microsoft's monopoly appears to be a pretty leaky chokehold, at least 
+when it comes to software distribution in the Internet era. Where's 
+the harm? And Warden got personal with Barksdale. Microsoft's strategy 
+against Netscape may have been to ``cut off their air supply,'' in 
+the memorable phrase of one senior Microsoft executive. And competing 
+with Microsoft has been difficult, but the result could scarcely be 
+characterized as financial ruin for Netscape and its leaders. Warden 
+asked Barksdale to calculate the value of his Netscape shares. More 
+than $100 million, he replied. Where's the harm? With this line of 
+defense, antitrust experts say, Microsoft is playing a strong hand. 
+As William Kovacic, a visiting professor at the George Washington 
+University Law School observes: Since the mid-1970s, when the United 
+States began facing more global economic competition, federal courts 
+have tended to view big companies as engines of innovation and economic 
+efficiency that should be left alone, unless their behavior can be 
+proved to harm consumers. The judgment of the courts, Kovacic notes, 
+has been that the antitrust laws should not be used to put ``saddlebags 
+on thoroughbreds.'' But in its case, the government is asking the 
+court to weigh considerations beyond the current welfare of consumers 
+and health of the industry that Microsoft dominates. ``The Justice 
+Department is saying that we want the race of modern capitalism to 
+be a fast one, but we also want to make sure that the winner succeeds 
+because he is the fastest runner not because he tripped the guy next 
+to him,'' said Carl Shapiro, a professor at the University of California 
+at Berkeley and a former senior official in the Justice Department's 
+antitrust division. The government has contended that in specific 
+meetings with Netscape, Intel and Apple Computer, for example, Microsoft 
+sought to intimidate rivals and bully its partners to help it curb 
+competition. Look closely at what Microsoft did, the prosecutors say, 
+and the picture that emerges is of a monopolist at work, illegally 
+using its market power to squelch competition. Microsoft's strategy 
+for refuting these contentions is twofold: fiercely dispute the Justice 
+Department's evidence by mustering any available e-mail or snippet 
+of deposition testimony that can be used to undermine the government's 
+interpretation of events, and constantly return to the theme that 
+even if Microsoft behaved badly, there is little evidence to show 
+that the economy or consumers were hurt as a result. The linchpin 
+of the Microsoft defense is that, yes, the company may be big, powerful 
+and even nasty at times _ ``the antitrust laws are not a code of civility 
+in business,'' Warden reminded the court _ but the company presides 
+over a sector of the economy for which it is hard to argue that the 
+``dead hand of monopoly'' is at work. In other words, Microsoft is 
+asking: Where's the harm? NYT-10-25-98 1835EST 
+</TEXT>
+</DOC>

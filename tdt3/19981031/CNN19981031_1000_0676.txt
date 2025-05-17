@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981031.1000.0676 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After eight hours of sleep, the shuttle astronauts are beginning their 
+second full day in space. The "discovery" crew will continue work 
+on 83 research projects. John Glenn faces some ghoulish tasks, appropriate 
+for halloween. He'll give blood and urine samples, and also receive 
+amino acid injections. The poking and prodding are part of scientific 
+studies comparing the effects of aging to the effects of space travel. 
+Glenn will also talk with students at John Glenn high school and elsewhere 
+on the benefits of math and science study. 
+</TEXT>
+</DOC>

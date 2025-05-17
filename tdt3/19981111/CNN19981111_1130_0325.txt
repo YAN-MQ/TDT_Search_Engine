@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981111.1130.0325 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The first winter storm of the season has moved north into Canada, 
+but winds in the Great Lakes area are still gusting at 60 miles an 
+hour. The winds, ice and snow brought down power lines, leaving thousands 
+of people in at least six states without electricity. At the peak 
+of the storm, blizzard conditions closed hundreds of miles of interstate 
+highways. At least seven storm-related deaths are reported. 
+</TEXT>
+</DOC>

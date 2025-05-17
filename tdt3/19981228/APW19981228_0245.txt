@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> APW19981228.0245 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A nuclear reactor was restarted at Ukraine's Yuzhnaya power plant 
+following brief unscheduled repairs, officials said Monday. Reactor 
+No. 3 was restarted Sunday after plant operators fixed the facility's 
+cooling system. The reactor was shut down Saturday because of hydrogen 
+leaks, the state nuclear energy company Energoatom said. The shutdown 
+led to an electricity shortage and forced officials to delay repairs 
+at the Zaporizhia nuclear power plant, where one reactor was to have 
+been stopped Saturday. Ukraine's five nuclear power plants provide 
+more than 40 percent of the former Soviet republic's energy needs. 
+Three of the country's 14 reactors are currently undergoing repairs. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981023.1600.1484 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Shania Twain is performing at a concert where the audience may be 
+more famous than she is. The country singer is set to perform in Oslo, 
+Norway, at the annual nobel prize ceremonies in December. 
+</TEXT>
+</DOC>

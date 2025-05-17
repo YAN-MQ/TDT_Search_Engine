@@ -1,0 +1,179 @@
+<DOC>
+<DOCNO> NYT19981125.0230 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+``It's never too late to have a happy childhood!'' suggests a colorful 
+magazine advertisement from Lionel, the world's best-known manufacturer 
+of toy trains. And between Thanksgiving and Christmas, tens of thousands 
+of relatively inexpensive electric train sets will be bought by parents 
+and grandparents, ostensibly for boys and girls who will never see 
+an actual New York Central steam engine belching black smoke. But 
+in a sign of the times, in addition to starter sets for children age 
+8 and older that cost as little as $100, the really big kids (read: 
+grown-ups) will also be carrying home Christmas locomotives in a wide 
+range of prices that are so accurately detailed and so crammed with 
+high-tech electronics and sound systems that their realism is nothing 
+short of amazing. Some of those engines cost as much as $1,500, and 
+that may not include any rolling stock. This year's train purchasers 
+will probably be people who remember the mythical holiday mornings 
+when father and son played engineer on a circle of track running around 
+the Christmas tree, uncoupling and coupling the boxcars and caboose 
+and dumping a flatcar load of logs on a make-believe siding. Lionel 
+obliges this nostalgia with engines and freight or passenger cars 
+that have changed little since the 1940s. The trains still run on 
+two-and-one-quarter-inch-wide, three-rail ``O gauge'' track that was 
+adopted back in 1915, the middle rail providing the AC power. The 
+locomotives and cars are large and substantial, perfect for small 
+and careless hands, unlike the small model trains that run on HO (half-O) 
+tracks. The steamers smoke when you squirt an oily concoction down 
+the stack, and a simulated air whistle (or electronic horn in the 
+case of a diesel) sounds when you push a button on the transformer. 
+But the venerable toy-train maker, which was founded in 1900 by a 
+24-year-old named Joshua Lionel Cowen, has some serious competition 
+these days. An upstart company, MTH Electric Trains, says it has captured 
+50 percent of the $100 million O-gauge market since 1993 by making 
+more prototypical trains, and Lionel has had to fight back. One of 
+the ways to fight is with technology. And Lionel has responded with 
+a digital attack, in terms of sound, special effects and a computerized 
+command center that allows much more control of what the trains do 
+and how many trains you can run at once. Traditional toy-train controllers 
+use variations in the power supplied to the track for limited control 
+of a locomotive. Increase the power and the train speeds up; decrease 
+the power and the train slows down; interrupt the power and the engine 
+changes direction. No longer. In 1995 Lionel introduced the Trainmaster 
+Command Control System, which turns the entire track layout into an 
+antenna for a hand-held remote control that looks just like a television 
+remote-control device. Digital signals that tell a train what to do 
+are transmitted from the controller to a base unit, sent over the 
+tracks and picked up by a receiver in the engine. The system, which 
+uses five microprocessors, enables an operator to run two or more 
+trains independently of each other as well as control such things 
+as couplers, ``animated'' cars (a giraffe's head pops up and down 
+in a hole in the roof, for example), switches and a variety of layout 
+accessories. At least two competitors have adopted the Lionel train-control 
+system. Lionel has also introduced a microprocessor-controlled motor 
+that promises smoother running at low speeds and more power for hauling 
+a long freight train than with its legendary Pullmor motor. And then 
+there are the special effects, which are optional in some midpriced 
+trains. Steam locomotives, for example, come with microprocessor-controlled, 
+CD-quality digital sound: authentic whistles and bells; steam puffing 
+and smoke chuffing that is synchronized to the speed of the engine; 
+squealing brakes on curves; radio chatter between engineers and train 
+dispatchers and freight yard or passenger station effects, including 
+the conductor's ``All aboard!'' All of the audio effects are squeezed 
+onto a tiny ROM (read-only memory) chip that holds about 20 seconds 
+of sound. Two separate boards are used, one for the ROM and microprocessor, 
+the other for the amplifier and power supply. In the case of steam 
+locomotives, the sound system is placed in the spacious tender, which 
+on real trains was filled with coal and water. The latest innovation 
+is infrared communication between the main control board in the locomotive 
+and the sound system. Microprocessors are also found in railcars and 
+trackside operating accessories. The newest version of Lionel's classic 
+Aquarium Car, which also has a radio receiver controlled by the remote 
+device, features singing whales swimming past back-lit rippled-glass 
+tank windows and the sound of sloshing water when the car is in motion. 
+``I really got a kick out of it and so did my kids,'' wrote Martin 
+Eibeck, a Pittsburgh toy train hobbyist on Compuserve's Train Net 
+forum. Lionel is not alone in producing computerized devices that 
+delight kids of all ages. MTH offers a 1950s drive-in with a Chevy 
+and a Thunderbird that pull up and are served by roller-skating carhops. 
+With real diner sound, of course. ``Technology has been the savior 
+of toy trains,'' said Brad Fisher, a train enthusiast in Bellefonte, 
+Pa. ``If there is going to be a future to this hobby, we need to draw 
+in younger participants. Look at their entertainment choices: video 
+games, computers, digital music. The modern sound systems have had 
+the greatest impact. They make today's trains seem so real.'' However, 
+not everyone is enthralled with all the new technology. ``I get a 
+bit annoyed with the constant chuffing sounds and the whine of the 
+diesels,'' said Roger Fry of Bedford, Texas ``I either turn the volume 
+down or put it to sleep.'' Opinions also differ on the prodigious 
+smoke output. ``Too much of a good thing,'' said Joe Marchione of 
+Absecon, N.J. ``It's great if you have a wide-open space, but in my 
+train room, you need oxygen after two minutes.'' One thing is for 
+sure: these are definitely not your grandfather's toy trains. History 
+doesn't record when a toy train first ran on a track around a gaily 
+decorated fir tree in an American living room, a scene that soon became 
+engraved in our holiday tradition. But it probably happened in the 
+early 1890s and the brightly painted tinplate locomotive, imported 
+from Germany or England, would have been powered by a clockwork motor 
+or even live steam. In 1896, a now-forgotten electrical supply company 
+in Ohio name Carlisle &AMP; Finch became the first U.S. electric-train 
+maker when it sold a polished-brass trolley powered by wet-cell batteries. 
+That toy may have inspired young Joshua Lionel Cowen, who was mechanically 
+inclined and fascinated by the world's newest marvel _ electricity. 
+In 1901 he produced an open-top, battery-operated railcar that he 
+sold to New York City merchants as window dressing. His idea: the 
+circling train, carrying small items of merchandise, would bring customers 
+into the store. It did, but a lot of them wanted one of the electrical 
+toys for themselves. And a railroad empire _ the Lionel Lines _ was 
+born. In a few years, Lionel's rather crude toy trains were being 
+powered by transformers that converted 120-volt household current 
+to a safe 16 volts, and while the company experimented with an electronic-control 
+system after World War II, the technology to run electric trains didn't 
+really change much until the Trainmaster Command Control was introduced. 
+More realistic, die-cast steam locomotives appeared in the late 1930s, 
+but prototypical detail was slow to come to O-gauge trains until the 
+early 1990s, when a Lionel consultant named Mike Wolf began to develop 
+very realistic trains. Wolf went on to found MTH (for Mike's Train 
+House). The variety of O-gauge trains that are available today from 
+Lionel, MTH and other manufacturers like K-Line, Williams, Weaver 
+and Atlas is unprecedented. They range from a 32-inch-long model of 
+the most powerful steam engine ever built _ a 24-wheel monster (the 
+Yellowstone) that hauled ore from Minnesota iron mines to the port 
+of Duluth _ to the gas-powered doodlebug that carried passengers and 
+freight on little-used branch lines back in the 1920s. In fact, Chris 
+Smithson, a spokesman for MTH Electric Trains in Columbia, Md., said 
+that Wolf wants the company to produce replicas of every steam engine, 
+every diesel, every freight car ever made. And Bob Grubba, director 
+of engineering for Lionel Corp. in Chesterfield, Mich., said that 
+a dozen or so newly tooled locomotives would be on the shelves in 
+his company's familiar orange-and-blue boxes over the next year. MTH 
+even makes a New York City subway train that rattles over the D Line 
+from 205th Street in the Bronx to Coney Island in Brooklyn, with the 
+speaker blaring as it announces stops at Yankee Stadium, Columbus 
+Circle, Rockefeller Center, Times Square, Herald Square, Chinatown 
+and Prospect Park. Bruce Brown, a toy train hobbyist in Falls Church, 
+Va., told cyberengineers on Compuserve's Train Net forum that the 
+sound effects ``brought back fond, almost tearful memories'' for his 
+wife, a New Yorker. But MTH's MTA set could be improved, Brown said, 
+by covering the sides of the four cars with graffiti. Smithson said 
+that MTH tries to find the builder's blueprint for all of its locomotives. 
+``Diesel manufacturers like General Electric are still in business, 
+but a lot of steam-engine blueprints are out there, too,'' he said. 
+``And if the actual engine exists, we'll go out and take pictures.'' 
+Some details like steam pipes will be three-dimensional on the high-end 
+scale-size models, which are 1/48th actual size, but will be molded 
+into the cast-aluminum boiler or plastic shell of semiscale locomotives 
+in the less expensive Rail King line. But Lionel has also introduced 
+a locomotive called the Phantom whose futuristic profile and Halloweenish 
+sounds will never be seen or heard on a real railroad. The model has 
+created a lot of controversy on toy train discussion groups. Traditionalists 
+hate it. Kids love it and demand one of their own. Like MTH, Lionel 
+is going for sound verisimilitude. Recently Grubba was packing up 
+his digital recording equipment for a field trip in the South to capture 
+the sounds of real locomotives for the next generation of Lionel trains. 
+``The Tennessee Valley Authority has a Fairbanks-Morse Trainmaster,'' 
+he said. ``There aren't many of those left running. Then there's a 
+Hudson in Chattanooga.'' The genuine locomotive sounds and other effects 
+will be mixed at the state-of-the-art California studio of the singer 
+Neil Young, an investor in the latest reincarnation of Lionel, which 
+has had several owners in recent decades. But he's not the first hugely 
+popular vocalist to be a toy-train enthusiast. Frank Sinatra built 
+a full-size version of a plastic Lionel freight station on his Palm 
+Springs estate to house an elaborate 12-by-24-foot layout and cabinets 
+full of trains from early tin-plate to modern days. You could say 
+he was the chairman of the board of his own railroad. Some high-tech 
+trains and their features: NEW YORK CENTRAL HUDSON with Vanderbilt 
+tender, digital sound, smoke, electrocouplers, command control and 
+a four-car set of heavyweight passenger cars, from Lionel: $1,499.90. 
+SOUTHERN PACIFIC GS-4 DAYLIGHT steam locomotive with digital sound, 
+smoke, remote-controlled couplers and a five-car streamlined passenger 
+set, from MTH: $1.249.90. SOUTHERN PACIFIC SD-40 DIESEL with four 
+loaded coal cars and a bay-window caboose, all with the weathered 
+Warhorse look; digital sound, and command control, from Lionel: $899.95. 
+UNION PACIFIC VERANDA gas-turbine engine with die-cast tender, four 
+flywheel-equipped motors, two operating smoke systems, digital sound 
+effects and lighted cab interior, from MTH: $699.95. 
+</TEXT>
+</DOC>

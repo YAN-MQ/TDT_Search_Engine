@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981102.1600.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And astronauts aboard the shuttle "discovery" are taking a half-day 
+off after four days of steady work. NASA puts in these midmission 
+breaks to prevent fatigue. 
+</TEXT>
+</DOC>

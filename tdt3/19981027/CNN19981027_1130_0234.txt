@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981027.1130.0234 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton will hold a White House roundtable discussion this 
+afternoon on social security and women. It's an important election 
+issue for many female baby boomers. On average, women live longer 
+and earn less than men. The conference will be beamed via satellite 
+to audiences in ten cities. The event was originally scheduled Friday, 
+but was postponed due to the mideast peace talks. 
+</TEXT>
+</DOC>

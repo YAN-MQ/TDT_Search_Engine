@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981110.0130.0466 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News" weather 
+forecast through Tuesday. An area of low pressure will move through 
+the western Great Lakes region, actually in a northward direction, 
+drawing cold air behind it, pulling warm air up in front of it. Meanwhile, 
+behind it, several inches of snow are in the forecast for the upper 
+midwest. It will be windy throughout this system. A second system 
+pushes into the west, with more rain and mountain snow as well. Tuesday's 
+highs will range from the 30s over the northern Rockies and northern 
+plains, to 70s and 80s across the far southeast. Looking ahead to 
+Wednesday, rain moves into the northeast, with some thunderstorms 
+farther south, with rain and snow in the west again. On Thursday, 
+a rain and snow mix through the Great Lakes, with some thunderstorms 
+out into the southern plains. Friday, it's pretty wet in the eastern 
+half of the country and still cold through the north central U.S. 
+don't forget, four-day forecasts on CNN interactive at CNN.com. 
+</TEXT>
+</DOC>

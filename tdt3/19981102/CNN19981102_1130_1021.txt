@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981102.1130.1021 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Americans went shopping with intensity last month and they dipped 
+into their savings accounts to foot the tab. The nation's savings 
+rate fell in September into the Negative column, down to minus 0.02%. 
+that's the first Negative rate in 60 years. The wealth effect is beginning 
+to dissipate and consumers are going to have to limit their spending 
+to their income. For that matter, income growth is slowing down because 
+job growth is slowing down. Consumers spent freely, even though their 
+incomes rose just modestly by 0.02%. that compared to their spending 
+which rose 0.05%. 
+</TEXT>
+</DOC>

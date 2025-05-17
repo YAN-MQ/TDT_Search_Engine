@@ -1,0 +1,137 @@
+<DOC>
+<DOCNO> NYT19981230.0322 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Early this year, Bonnie Black, a Hollywood talent agent, got a call 
+from a casting director who was working against a deadline that even 
+the toughest cinematic hero might have had trouble beating. The casting 
+director had less than 20 hours to find an actor to play the role 
+of an FBI agent on the television series ``Players.'' Such last-minute 
+requests are common in Hollywood, where scripts can change with a 
+moment's notice and actors are sometimes jettisoned just before filming 
+begins. But technology helped solve the problem handily: Ms. Black 
+told the casting director to log on to an online casting service, 
+look up an actor's resume and photograph, and download the actor's 
+digital video clip to judge if he was right for the part. ``In this 
+case, the video took the place of the audition,'' Ms. Black said. 
+``The actor went straight to the producers and got hired on the spot 
+for a recurring role.'' (The series has since been canceled.) Now 
+that technology has transformed Hollywood's special effects, it is 
+beginning to have an effect on how actors are discovered. These days, 
+casting directors can go to electronic search services to seek ``extremely 
+attractive young ladies with good hair, good teeth, good bodies,'' 
+as one request put it, and to field electronic resumes and photographs 
+from talent agents who are pushing their clients. They can also do 
+keyword searches of databases, looking, for example, for an Asian 
+woman who is 5 foot 6 and 25 to 30 years old and can speak French. 
+So far, these online services have had a modest impact on Hollywood's 
+traditional casting system. But many people in the entertainment industry 
+predict that electronic casting will become dominant as younger, more 
+computer-adept executives replace the veterans. The two major electronic 
+casting services in Hollywood are Castnet (www.castnet.com), owned 
+by Entertainment Internet, and The Link (www.submitlink.com), set 
+up by the Academy of Motion Picture Arts and Sciences and Breakdown 
+Services. Both online systems provide similar services to clients 
+but have subtle differences. They serve as a line of communication 
+between casting directors and talent agents, who for years have used 
+messengers to send out actors' portfolios and notices for acting jobs. 
+With computers, organizing an audition for an episode of ``Diagnosis 
+Murder,'' for instance, can be completed in minutes instead of hours 
+or days. ``Casting directors have never had a tool like this,'' said 
+Richard Horgan, the president of Castnet, which began in 1996. ``They 
+can sit in an office with Oliver Stone and look up all of the Caucasian 
+males under 30 who have appeared in his movies. And talent agents 
+can submit hundreds of resumes and photos for a role much faster and 
+without wasting so much paper.'' The Link has access to about 38,000 
+actors. Their portfolios are actually on The Link's sister service, 
+the Academy Players Directory On-Line. To get into the directory, 
+actors must be a member of a union and pay a $75 annual fee. Their 
+photographs, agents' names and phone numbers are also included in 
+the hardcover version of the directory, which, depending on whom you 
+talk to in the industry, is either the Hollywood bible or is used 
+primarily as a doorstop. The Link provides casting calls for nearly 
+500 acting parts per week but does not transmit video or audio clips. 
+Nearly 10,000 actors have paid the $149.95 annual fee to get their 
+resumes and one photograph on Castnet (26,000 actors are being listed 
+by the service at no charge, on a trial basis). Posting video clips, 
+audio clips and additional photographs costs extra. The actors also 
+gain access to a chat room and audition scripts. In addition, they 
+can send casting directors electronic postcards to tell them of their 
+latest on-screen successes and can solicit talent agents for representation 
+without spending money on stamps. One thing actors do not have access 
+to is either service's list of available roles, known in Hollywood 
+as ``breakdowns.'' Only talent agents can view those (Castnet generally 
+posts a dozen or so roles each day, and The Link six times that number). 
+Most studios limit access to such information because they do not 
+want to be besieged by aspiring actors. Security measures have been 
+installed to keep out trespassers and to protect child actors from 
+pedophiles. For example, clients usually get access to Castnet by 
+dialing in to the service directly and using a password, instead of 
+going through the Web. Recently, Taylor Jacobs, a talent agent in 
+Burbank, Calif., was scrolling through the breakdowns on Castnet, 
+as he does several times a day, when he came across a notice for a 
+black actor, 40 to 50 years old, to play a ``smart, quick-witted'' 
+political adviser ``with lots of energy'' on the PBS television series 
+``On Common Ground'' at a pay rate of $200 to $375 per day. He went 
+to the bottom of his computer screen where his clients were listed 
+and clicked on one of the names. Within a few seconds, he had submitted 
+the name electronically, with a resume and photograph, to the show's 
+casting director. ``Actors who are submitted have a two- to four-hour 
+advantage over those who are sent by hard copy,'' Jacobs said. ``That 
+can be incredibly advantageous.'' Casting directors can log on to 
+their computers to look at the dozens and sometimes hundreds of files 
+that are sent to them for each open acting role. And they can arrange 
+auditions by e-mail. ``I've logged in while in Hawaii and Belize,'' 
+said Billy Da Mota, a casting director who specializes in commercials. 
+``The point is that I don't miss a job. I can be on vacation and log 
+in on my computer from wherever I can plug in my laptop.'' Often, 
+talent agents encourage actors to post their portfolios on one of 
+the major online services to improve their chances of being selected 
+for an audition and to make it more convenient for the agent. Joan 
+Messinger, a talent agent in Beverly Hills, Calif., pointed to the 
+hundreds of files on actors in her office and said emphatically, ``If 
+I can get away from not going to that shelf and pulling a picture, 
+I'll do it.'' But online casting has yet to significantly reduce the 
+amount of paper changing hands. After submitting actors' portfolios 
+online, many talent agents also send out hard copy, too, just to be 
+safe. Castnet is free for the 130 talent agents and 240 casting directors 
+who have access. Some use the service as much as possible, others 
+only occasionally. In all, 39 percent of Hollywood's agents and casting 
+directors use online casting services to send or receive actors' photos, 
+according to a survey of 120 people published in November by Back 
+Stage West/Drama-logue, a trade publication. The movie industry has 
+been especially resistant to online casting. Filmmakers are generally 
+less rushed than their television counterparts and would probably 
+have little chance of landing a star like Bruce Willis from an electronic 
+posting. As a result, Rob Ash, an actor from Sherman Oaks, Calif., 
+who is a member of Castnet, has only modest expectations. He said 
+electronic casting still needed to gain acceptance in the film and 
+television industry before it would have much effect on his career, 
+which has been fairly limited partly because he is 6 foot 7. Ash said 
+he had found an agent through Castnet after submitting an electronic 
+resume. He also landed an interview on the dating show ``Change of 
+Heart'' after seeing a talent search posted on Castnet's actors' forum, 
+where small productions often post casting calls. ``I'm not foolish 
+enough to think that I can get lots of auditions from this,'' Ash 
+said. ``But it's great in an emergency situation. If an actor slips 
+and breaks a leg, it's easy for casting directors to sign on and find 
+a replacement fast.'' For some actors, paying to get online may be 
+more of a waste of money than a smart career move, said Sheila Manning, 
+a casting director in Los Angeles. She said actors living outside 
+the major entertainment centers had little chance of success online, 
+especially for commercials, which are sometimes cast in a matter of 
+hours. ``Clearly, I'm not going to call someone from Norman, Okla., 
+because I have to see them the next day for an audition,'' Ms. Manning 
+said. And online video clips are often not useful, she said, because 
+they take too long to download and are too small on a computer screen 
+to be of much use in judging whether an actor is right for a role. 
+In the end, online casting can help only up to a point. While technology 
+may help actors get auditions, they must, in the end, be able to impress 
+producers in person, at auditions. ``When choosing actors for audition, 
+they are just buying an image: `I need a balding guy,' '' said Gary 
+Bolen, an actor from Valencia, Calif., a Castnet member who regularly 
+works on commercials and soap operas. ``Once you're there, you have 
+to deliver.'' 
+</TEXT>
+</DOC>

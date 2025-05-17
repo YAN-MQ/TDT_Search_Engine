@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981205.1000.0647 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Monday -- a new national system of instan background checks for prospective 
+gun buyers goes into effect. It's expected to double the amount of 
+checks conducted because it requires approvals from people buying 
+long guns an shotguns, not just hand kbuns. 
+</TEXT>
+</DOC>

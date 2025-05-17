@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981029.1130.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The excitement over the space shuttle launch is beginning to spill 
+over onto Wall Street. Let's get the details from Valerie Morris at 
+the "CNN Financial News" newsdesk in New York. Valerie? Thanks, Denise. 
+Stocks got off to a lackluster start this morning, but are now beginning 
+to pick up some steam. That as investors Ponder a batch of corporate 
+earnings, as well as some economic news. Shares of Amazon.com are 
+jumping -- 6 1/2 at 123 9/16. The online book and music retailer reported 
+a quarterly loss of $45 million after yesterday's closing bell, which 
+is better than expected. 
+</TEXT>
+</DOC>

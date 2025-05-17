@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981017.1000.1037 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Third-quarter reports were rosy for two of the big three automakers. 
+Massive cost-cutting continues to pay off for Ford, which registered 
+a $1 billion profit for the third quarter. Chrysler set an earnings 
+record with $682 million in third-quarter profits. Only General Motors, 
+devastated by the summer's two parts plant strikes, reported a third-quarter 
+loss -- $809 million. 
+</TEXT>
+</DOC>

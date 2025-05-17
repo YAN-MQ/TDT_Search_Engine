@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> NYT19981106.0415 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Impressive indeed, this John Glenn rally in the stock market. In the 
+seven trading days since Glenn was lifted into space, the Dow Jones 
+industrial average has rocketed 7.2 percent. Even more remarkable, 
+the Dow has rallied 19 percent from its Aug. 31 low. Of course, anytime 
+a market moves up this far this fast, it leaves plenty of investors 
+behind. Those who sold stocks during the late summer or early fall 
+are kicking themselves for their caution. But chasing stocks after 
+a nearly 20 percent spurt doesn't feel right, either. What should 
+investors do? Buy junk bonds. Because of their outsized risk, these 
+securities are regarded more like stocks than bonds. But unlike equities, 
+junk bonds have not yet rallied from depressed levels. That is because 
+there's still less liquidity in the junk market; trading isn't near 
+the usual volume for this arena. Fears of a credit pullback and another 
+travesty like the one that befell the Long-Term Capital Management 
+hedge fund have kept the market frozen for high-yield bonds. Although 
+the first signs of a thaw are emerging, these bonds still trade at 
+exceptionally high yields relative to Treasury bonds with comparable 
+maturities. For example, the yield on Merrill Lynch's High Yield Master 
+index now stands at 5.76 percentage points above 10-year Treasuries. 
+That is down from the peak spread of 6.44 percentage points on Oct. 
+16, but still well above the historical average spread of around 4 
+percentage points. Junk bonds look especially compelling if you believe 
+the bulls' case for stocks. This view says that there is no recession 
+on the horizon, that further interest rate cuts from the Federal Reserve 
+Board will make sure none appears, that worries of a credit contraction 
+are overblown and that corporate earnings will not be as weak as previously 
+thought. If the bulls are right, junk bonds will be big money makers 
+for investors. But an appealing aspect to buying junk bonds at current 
+levels is that the reward potential is great and that the chance of 
+disaster is far less than it is in the stocks that are back to their 
+all-time highs. Even if the nation slips into a recession and default 
+rates rise on junk debt, prices of these already depressed bonds are 
+not likely to crater. If prices do fall a bit, investors collect a 
+considerable yield for their trouble. That high-yield bonds have not 
+yet responded to the Fed's recent rate cuts at least partly reflects 
+investor unease about rising defaults among issuers of risky debt. 
+Defaults have averaged 3.3 percent of all issues annually since 1971, 
+but hit a low of 1.4 percent in the spring of 1997. Recently, the 
+rate has crept up to 2.6 percent. But Martin Fridson, chief high-yield 
+strategist at Merrill Lynch, says the market in junk bonds is so beaten 
+down right now that even a 5.5 percent default rate wouldn't trash 
+it. Indeed, according to Fridson's calculations, junk's current premiums 
+to Treasury yields are roughly the same as what they would be if default 
+rates were 13 percent. Nobody believes that defaults are going to 
+rise to double digits. The reason that the spreads grew as wide as 
+they did was that liquidity evaporated. ``In effect, you're already 
+at a spread consistent with a default rate three or four times where 
+you actually are,'' Fridson said. Because of the high costs associated 
+with buying individual junk issues, high-yield mutual funds are the 
+way to go for most investors in this market. Funds rated highly by 
+Morningstar, and with relatively high yields and low expenses, include 
+Fidelity High Income, Legg Mason High Yield Primary and Vanguard High-Yield 
+Corporate. 
+</TEXT>
+</DOC>

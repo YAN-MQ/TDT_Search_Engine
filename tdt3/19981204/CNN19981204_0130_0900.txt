@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981204.0130.0900 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Among our top stories -- NASA says it's hoping for an on-time launch 
+for space shuttle "endeavour" early Friday morning. The lift-off had 
+to be scrapped Thursday after a cockpit alarm signaled a Dip in hydraulic 
+pressure. 
+</TEXT>
+</DOC>

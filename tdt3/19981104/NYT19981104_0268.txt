@@ -1,0 +1,62 @@
+<DOC>
+<DOCNO> NYT19981104.0268 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Sinks, toilets and urinals in many public restrooms use infrared sensors 
+to detect the presence of a person and activate the plumbing. There's 
+no creepy voyeur lurking behind that small, dark sensor panel, just 
+a lot of circuitry. On the wall or on the faucet, depending on the 
+fixture, there is a black window about an inch long. Behind it is 
+a light-emitting diode that is about the diameter of a ballpoint pen 
+and gives off infrared light. It has a wavelength of 850 nanometers 
+(850 billionths of a meter) and is not visible to the human eye, which 
+can see only the spectrum from violet to red, ranging from 350 or 
+400 nanometers to 750 or 800 nanometers. The system is designed to 
+save water by keeping people from leaving the faucets on and to reduce 
+the spread of germs on faucets. ``No-hands operation promotes hygiene 
+and helps prevent the spread of dangerous bacteria,'' the Sloan Valve 
+Co.'s promotional materials say. The use of automatic plumbing fixtures 
+``provides a hygiene-rich environment that projects a positive message 
+to the user,'' Sloan adds. Because faucets and fixtures are touched 
+less often, they need fewer repairs and less scrubbing, which lowers 
+maintenance costs, faucet manufacturers say. But automatic fixtures 
+can also make life more complicated. Especially when it comes to toilets. 
+With the automatic toilets at the new electrical engineering building 
+at the University of Washington in Seattle, ``it's a riot,'' said 
+Martin A. Afromowitz, a professor. ``You sit down and sit forward 
+or back, and if your head's down, it flushes. We get triple-flushed 
+and quadruple-flushed. It can give you a heart attack when you don't 
+expect it.'' Other variables can also fake out the automatic-flushing 
+system. ``Eighty percent of women hover,'' said Steve Bissell, senior 
+product manager for the Kohler Co. in Kohler, Wis. ``They never sit 
+on the fixture, or they sit much farther from the sensor. But the 
+average man is the one who sets up the sensor.'' Such confusion can 
+keep the toilet from flushing on its own. Kohler has built in a system 
+to keep the toilet from flushing at the wrong time. It programs the 
+sensor to wait for three seconds after the end of the reflected-light 
+signal indicating that the toilet is in use before flushing. ``Children 
+are a problem because they can be very tiny,'' said John Lauer, manager 
+of installation engineering at Sloan, in Franklin Park, Ill. ``We 
+always have on toilets a manual override button. It gives the person 
+a little bit of personal control.'' The sensors may react differently 
+to different colors because lighter shades reflect more light. But 
+that was more of a problem in the early 70s, when sensors were less 
+precise and underreacted to dark colors. While the sensors generally 
+seem to have worked well enough to have gained broad acceptance, at 
+least in airports, there are still a number of factors that can cause 
+malfunctions. Sensors' functions can be affected by a change in the 
+amount of light in a room, perhaps caused by dying fluorescent light 
+bulbs. The ``touchless faucets'' are not cheap _ they range in price 
+from around $300 to around $600. The assumption is that they will 
+reduce water use, perhaps by up to 50 percent, even though they also 
+consume power for operation. Most of them use AA or AAA batteries, 
+which can last for two years, manufacturers say. Infrared plumbing 
+technology has been around longer than one might expect. It has been 
+a big hit since the opening of the 40-year-old Madonna Inn in San 
+Luis Obispo, which has what it calls a ``world famous'' men's bathroom 
+and ``caveman'' room. Both feature urinals made of heavy rock formations. 
+When motion is detected in the room, waterfalls run over the rocks, 
+ready to serve. 
+</TEXT>
+</DOC>

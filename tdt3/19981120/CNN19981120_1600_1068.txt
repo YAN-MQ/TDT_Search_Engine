@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981120.1600.1068 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A big debut for another high-tech initial public offering. Computer 
+literacy is up gaining almost $10 a share today. The company, which 
+sells computer training materials on the web, was priced at $10 a 
+share. Checking other recent IPOs -- the globe.com jumps another 3 
+5/16. That stock was priced at $9 a share last week. And earthweb 
+adds 2 13/16 to 49 13/16, up from its initial price of $10 a Share. 
+</TEXT>
+</DOC>

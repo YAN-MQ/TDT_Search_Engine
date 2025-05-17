@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981110.1600.1095 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Got news for buyers isn't necessarily good news for retailers. Comp 
+USA blamed plunging profits and soft sales to biggest customers, but 
+the 65% drop in quarterly profits still beat Wall Streets expectations. 
+The Dallas-based company also said next quarter may not be much better. 
+Expecting prices and corporate sales to fall further. 
+</TEXT>
+</DOC>

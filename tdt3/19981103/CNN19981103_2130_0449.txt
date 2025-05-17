@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981103.2130.0449 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.S. Supreme Court is debating how much authority police should 
+have during traffic stops. At issue is whether police have the right 
+to search people or the car of a Person ticketed for a routine traffic 
+violation. During today's arguments, several justices expressed doubts 
+about giving law enforcement such broad power. The court is expected 
+to rule in the case by July. 
+</TEXT>
+</DOC>

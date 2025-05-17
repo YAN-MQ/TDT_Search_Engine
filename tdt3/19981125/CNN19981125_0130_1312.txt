@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981125.0130.1312 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Phoenix coyotes ran their unbeaten streak to 12 games along with 
+the best record in the NHL with a win over Chicago. Keith Tkachuk 
+scored two goals and set up another in the 3-2 final. 
+</TEXT>
+</DOC>

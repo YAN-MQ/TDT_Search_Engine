@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981125.1130.1116 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street -- the Dow is down 27 points. The NASDAQ, though, 
+is up about 7 1/2. That's "Dollars & Sense." Back to you, Toria. Thanks, 
+Valerie. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981109.1600.1055 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Auto companies are trying to make cars and light trucks lighter. One 
+key ingredient of that recipe is aluminum, and now General Motors 
+is entering into a long-term multi-billion dollar deal to buy aluminum 
+from canadian-based alcan aluminum. The deal will provide GM with 
+aluminum at steady prices. GM says it plans to increase aluminum in 
+its cars by 7% a year. 
+</TEXT>
+</DOC>

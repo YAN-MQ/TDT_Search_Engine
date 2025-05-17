@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981119.0130.0411 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Britain has tested a live tomahawk cruise missile for the first time. 
+The submarine "hms splendid" fired the missile from beneath the ocean 
+wednesday at a test building on San Clemente island off the California 
+coast. The missile traveled a good 500 miles before hitting the Mark. 
+The "splendid" is the first British sub to be equipped with the U.S.-made 
+tomahawks. 
+</TEXT>
+</DOC>

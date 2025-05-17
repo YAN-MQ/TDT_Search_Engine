@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981030.1600.0487 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the U.S. is coming up next. And 
+still ahead, the debate in the medical community over how to allocate 
+human organs for transplant. 
+</TEXT>
+</DOC>

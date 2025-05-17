@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981216.0500.2289 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The U.S. space shuttle "Endeavour" is back on earth after wrapping 
+up a 12-day mission. The main achievement of the flight was the assembly 
+of the first block of the international space station which will serve 
+as a research laboratory for 16 nations. The space station partners 
+will spend the next five years completing the project which will require 
+dozens of additional space flights. 
+</TEXT>
+</DOC>

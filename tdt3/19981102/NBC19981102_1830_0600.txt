@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981102.1830.0600 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+on the american economic front, november got off to a roaring start 
+today. the dow jones industrials, ending the day up more than 114 
+points. the nasdaq, rising more than 29 points. 
+</TEXT>
+</DOC>

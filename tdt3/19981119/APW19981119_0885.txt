@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> APW19981119.0885 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Since Danes tend to hoard when they get nervous, the state bank Thursday 
+slowed destruction of old bank notes to make sure it has enough cash 
+on hand in case depositors panic over the so-called millennium bug. 
+Many fear that the turn of the year 2000 will leave computers, including 
+those use by banks, crippled because older programs might crash when 
+the year turns from '99 to '00. Some computers might not recognize 
+the year 2000, or interpret '00 to mean the year 1900. While the state 
+Central Bank said there was no evidence that Danes had begun hoarding 
+bank notes, it was taking no chances. ``We want people to know that 
+that we have enough notes so there is no reason to start hoarding,'' 
+Bjarne Skafte of the central Nationalbanken told The Associated Press. 
+The bank plans to stockpile an extra 20 billion kroner (dlrs 3.2 billion) 
+in cash by 2000 simply by slowing down the rate at which it shred 
+olds currency notes. Earlier this year, word of an impending strike 
+by bank workers had Danes hoarding gasoline, food and other products. 
+Usually placid Danes were actually getting into scuffles when supplies 
+began to dwindle. Henrik Theil, of the Danish Bankers' Association, 
+said the thought of Danes hoarding cash and products on the even of 
+the new millennium was not a pleasant one. ``We would like to avoid 
+(again) see grownup Danes fight over (a package of) yeast in supermarkets,'' 
+Theil said. 
+</TEXT>
+</DOC>

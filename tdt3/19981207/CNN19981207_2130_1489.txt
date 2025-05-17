@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981207.2130.1489 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"The Hollywood reporter" says the FBI will release parts of its files 
+on frank Sinatra tomorrow. The information may shed light on allegations 
+Sinatra had ties to the mafia. The late entertainer steadfastly denied 
+he had underworld ties. 
+</TEXT>
+</DOC>

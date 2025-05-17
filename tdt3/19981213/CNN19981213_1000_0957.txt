@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981213.1000.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And space shuttle astronauts will be steering away from the international 
+space station today and making other preparations for their return 
+to earth tuesday. 16 nations are contributing to the $60 billion space 
+station. 
+</TEXT>
+</DOC>

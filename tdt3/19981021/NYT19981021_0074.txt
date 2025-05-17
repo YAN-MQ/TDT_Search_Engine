@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> NYT19981021.0074 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Monday, Oct. 19: A new 
+report by the American Association of University Women shows that 
+a troubling gender gap in computer use exists in high schools. Girls 
+make up only a small percentage of students who take high-level computer 
+courses that might lead to technology careers. Yet they are more likely 
+than boys to take data-entry classes, the high-tech equivalent of 
+typing. The report also found that girls tend to use computers in 
+limited ways, such as for word processing, while boys are more likely 
+to use computers to solve problems or to develop their own programs. 
+In one study, girls consistently rated themselves as less competent 
+in computers than boys. This suggests that many girls are starting 
+to see the high-tech world as a masculine domain. Some of the gender 
+gap is created outside the classroom. Computer toys are more heavily 
+marketed to boys, and most computer games and even educational software 
+have more male characters than female characters. But teachers sensitive 
+to these issues could help turn the situation around. In 1992, the 
+association raised the nation's awareness of a gender gap in enrollment 
+in math and science courses in high school. In less than a decade, 
+that gap has been narrowed because educators worked to increase girls' 
+participation. Now educators must insure that girls are not inadvertently 
+left out of the computer revolution. NYT-10-18-98 2214EDT 
+</TEXT>
+</DOC>

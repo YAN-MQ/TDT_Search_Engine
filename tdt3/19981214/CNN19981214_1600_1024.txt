@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981214.1600.1024 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An unspecified number of job cuts are in the offing at royal Dutch 
+shell. The company's chairman told analysts today the company is in 
+the process of "Clearing out its cupboards," partly because of slumping 
+oil prices. Royal Dutch shell also plans to take a fourth quarter 
+charge of $4.5 billion and sell 40% of its chemicals business. 
+</TEXT>
+</DOC>

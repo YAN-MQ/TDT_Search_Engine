@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981124.1600.2959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+We had a down day on Wall Street with the Dow Jones Industrial Average 
+closing at 9,301. That was down 73 points. The Standard & Poor's 500 
+Index closed at 1,183. That was down 5 points. And NASDAQ was off 
+by 11. Analysts say that, after yesterday's 214-point gain in the 
+Industrial Average, profit taking was inevitable. The selling was 
+unrelated to any fundamental factors. 
+</TEXT>
+</DOC>

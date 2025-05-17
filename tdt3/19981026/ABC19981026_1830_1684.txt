@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981026.1830.1684 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tomorrow we'll take a look at getting to space on the cheap. That 
+is our report on "World News Tonight." later on "Nightline," why the 
+Marines are fighting to save a struggling company. I'm Peter Jennings. 
+Have a good evening. 
+</TEXT>
+</DOC>

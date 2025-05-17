@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981120.1600.1097 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+But one high-tech company is suffering today. Corporate softwaremaker 
+Bea systems losing almost half its stock market value today. Bea shares 
+plunged down more than $13 a share after the company warned weak asian 
+market and slowing capital spending will hurt future profits. 
+</TEXT>
+</DOC>

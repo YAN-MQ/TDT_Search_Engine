@@ -1,0 +1,159 @@
+<DOC>
+<DOCNO> NYT19981026.0176 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A millennium-old volume, defaced by mildew and scorched around the 
+edges, will go on the auction block on Thursday, and scholars hope 
+that expert examination of the relic will reveal nuances in the thinking 
+of Archimedes _ the greatest mathematical genius of the ancient world. 
+The volume, a 10th-century copy of writings by Archimedes (who died 
+in 212 B.C. at the hands of a Roman soldier), is the oldest and presumably 
+most authentic copy of Archimedes' major works to survive. Christie's 
+of New York City, the auctioneer selling the little book, expects 
+it to bring about $1 million. However, the sale of the work may face 
+a challenge. The Orthodox patriarch of Jerusalem has claimed that 
+the manuscript was stolen in the 1920s and belongs to him, news agencies 
+reported. The Greek minister of culture, Evangelos Venizelos, told 
+Agence France-Presse that he supported the patriarch's claim. Christie's 
+spokesman, Vredy Lytsman, said on Monday that the auction house was 
+``still satisfied that the consigner has a legal right to sell the 
+document,'' and that the auction would take place as scheduled. The 
+volume has been inaccessible to scholars since the early years of 
+the 20th century. Technologies developed since then may extract new 
+knowledge about Archimedes from the text and diagrams. The 174 pages 
+of text, bound in modern times into a book 7{ by 6 inches, spent some 
+1,000 years in the hands of various owners and following a trail as 
+twisted as that of the fictional Maltese Falcon in the 1930 novel 
+by Dashiell Hammett. Archimedes, a Greek who spent most of his life 
+in the city of Syracuse in Sicily, is remembered especially for the 
+mathematics he devised that prefigured the invention of calculus, 
+and for his discovery of the physics of flotation. A superb inventor 
+and engineer, his machines for pumping water, raising enormous weights, 
+and destroying enemy ships earned him a reputation among his Roman 
+foes as a kind of magician. The volume being auctioned, technically 
+called a ``codex'' to distinguish it from a scroll, is a palimpsest 
+(pronounced PAL-imp-sest). That is, its original inked copy of Archimedes' 
+texts was washed off, probably in the 13th century, so that the expensive 
+vellum on which it was written could be reused by the Byzantine church 
+or monastery that owned it. The upper text, clearly legible, consists 
+of commonplace instructions for conducting religious rites, like marriages 
+and exorcisms. The priceless underlying 10th-century text, almost 
+obliterated by washing, is the only surviving version of Archimedes' 
+``Method of Mechanical Theorems'' and ``On Floating Bodies'' _ the 
+great scientist's two most celebrated works. The Archimedes originals 
+disappeared in the distant past, possibly destroyed in the fires and 
+looting that demolished the great library of Alexandria, Egypt, in 
+the third century. New techniques for reading the faint traces of 
+the older text have accentuated its enormous importance. Experts commissioned 
+by Christie's have revealed new detail, especially in geometric diagrams, 
+by exposing pages to ultraviolet radiation. This causes the vellum, 
+which is preserved animal skin, to glow, improving the legibility 
+of the writing. The experts also digitized images of the writing and 
+applied a computer program to suppress the 13th-century text and religious 
+illustrations while enhancing the underlying writing and geometrical 
+diagrams. The later religious text was written at right angles to 
+the Archimedes text _ a fact that facilitated the separation of the 
+two texts. Mathematicians and historians of science have been visiting 
+Christie's recently to look at the treasure. ``Just seeing and touching 
+the Archimedes Palimpsest was a thrilling emotional experience for 
+me,'' said Dr. Sherman Stein, a professor of mathematics at the University 
+of California, Davis. Like many other mathematicians, Stein is fascinated 
+by Archimedes' legendary triumphs in mathematics, physics, engineering 
+and weaponry. ``I recently finished writing a book about Archimedes,'' 
+Stein said, ``but because this palimpsest has turned up, I'll have 
+to revise one chapter. It won't change the substance, but some subtleties 
+of Archimedes' methods have come to light.'' After languishing in 
+obscure libraries for nine centuries, the Archimedes Palimpsest was 
+rediscovered in 1907 in the Convent of the Holy Grave in Constantinople 
+(renamed Istanbul in 1930). The New York Times reported the discovery 
+on page 1 of its July 16, 1907, issue. The discoverer, Dr. Johan Ludvig 
+Heiberg, a professor of philology at the University of Copenhagen, 
+was not permitted by Turkish authorities to remove the manuscript, 
+but he was allowed to copy it the best he could, and he later translated 
+the legible parts. Heiberg got another look at the manuscript two 
+years later _ the last scholarly inspection of the treasure. In 1918, 
+the Ottoman Empire was dissolved by Turkey's defeat in World War I, 
+and book collections in Constantinople were broken up. A Christie's 
+manuscript expert, Dr. Felix de Maraz Oyens, said in an interview 
+that some time after 1920, the palimpsest passed into the hands of 
+a French family that has owned it ever since. Christie's declines 
+to identify the family, which has put the document up for auction. 
+From the time of Heiberg's investigations in the early 20th century 
+until the document was entrusted to Christie's, it had never been 
+examined by anything more sophisticated than a magnifying glass. ``That 
+would be a terrible loss,'' said Dr. Chris Rorres, a mathematics professor 
+at Drexel University and an amateur Archimedes scholar. ``The rigorous 
+mathematical proofs devised by Archimedes have come down to us from 
+various sources, but only his `Method of Mechanical Theorems,' recorded 
+in this palimpsest alone, lets us see how he arrived at his proofs. 
+It is a bit like a structure in which the scaffolding goes up first, 
+then the building, and finally the scaffolding is taken away, leaving 
+only the final result. Archimedes' `Method' is the only remnant of 
+his work that lets us see the scaffolding,'' Rorres said. The Archimedes 
+``method'' starts by experimenting with physical objects and then 
+looking for the abstract principles that underlie their interactions. 
+In his introduction to the Method, Archimedes wrote: ``It is easier 
+to supply the proof when we have previously acquired, by the method, 
+some knowledge of the questions than it is to find it without any 
+previous knowledge.'' According to Roman writers who chronicled the 
+life of Archimedes, the mathematician was a devoted subject of Hiero 
+II, ruler of Syracuse, and spent part of his career designing and 
+building weapons to defend Syracuse _ catapults, pulley hoists and 
+levers for disabling enemy ships and siege towers. The ancient historians 
+Polybius, Plutarch and Pliny the Elder all mention such inventions, 
+although none was alive in Archimedes' lifetime. Some Greco-Roman 
+historians also assert that during the Roman siege of Syracuse from 
+214 to 212 B.C., at the height of the Second Punic War, Archimedes 
+used bronze mirrors to focus sunlight on Roman ships and set them 
+on fire. This anecdote, among many others about Archimedes, has been 
+called into question by various scholars, although Dr. Ioannis Sakkas, 
+a Greek engineer, demonstrated in 1973 that the feat is technically 
+possible. With the help of 50 sailors holding 31 bronze-coated mirrors, 
+he set fire to a wooden boat 160 feet offshore. Many historians believe 
+that Archimedes was not the inventor of the Archimedes Screw, a rotary 
+pump commonly used in Egypt for irrigation. Rorres said, however, 
+that there were no references to the device in Egyptian texts prior 
+to the time of Archimedes, and that he therefore might have invented 
+it. But another famous anecdote _ that Archimedes leapt naked from 
+his bathtub and ran through the streets of Syracuse shouting ``Eureka'' 
+(``I have found it'') after solving a problem _ seems unlikely. According 
+to the story by the Roman architect Vitruvius, Hiero asked Archimedes 
+to examine a gold wreath intended to adorn the statue of a goddess, 
+and to determine whether the goldsmith had adulterated the wreath 
+with silver. In the Vitruvius version, Archimedes notices that when 
+he steps into a tub full to the brim with water, some water spills 
+from the tub. Vitruvius wrote that Archimedes placed a weight of pure 
+gold equal to the weight of the wreath in the tub and then filled 
+the tub to the brim. Archimedes then supposedly took out the gold 
+and replaced it with the wreath, reasoning that a wreath adulterated 
+with silver would occupy more volume than an equal weight of pure 
+gold, and would cause water to spill. But Rorres challenged this version, 
+saying that the amount of spillage would have been much too small 
+to measure using the means at Archimedes' disposal. Instead, Archimedes 
+would probably have invoked his own Law of Buoyancy and Law of the 
+Lever, first balancing the gold weight against the wreath in air and 
+then balancing the two objects in water. An imbalance in water would 
+clearly reveal adulteration, he said. Be that as it may, Archimedes 
+scorned the practical devices he designed as intellectually inferior 
+to his mathematical theorems, and none of his writing refers to devices 
+or engineering. In his will Archimedes asked that a cylinder circumscribing 
+a sphere be placed on his tomb, illustrating what he apparently considered 
+the most important geometrical relationship he had proved: that the 
+volume of a sphere is two-thirds that of a circumscribed cylinder 
+of the same dimensions. At the age of about 75, Archimedes was supposed 
+to have been sketching a geometric proof at the moment Roman troops 
+under Marcellus overran Syracuse in 212 B.C. and killed the Greek 
+sage. Marcellus apologized to Archimedes' relatives, and the sphere-and-cylinder 
+symbol was placed on his grave, where the Roman politician Cicero 
+sought and found it 137 years later. Byzantium, the successor of the 
+Roman Empire in the eastern Mediterranean, was the custodian of the 
+Archimedes Palimpsest for centuries, but Archimedes' admirers give 
+the Romans little credit. Dr. George F. Simmons of Colorado College, 
+Colorado Springs, commented in ``Calculus Gems'' that ``the Romans 
+were so uninterested in mathematics that Cicero's act in cleaning 
+up Archimedes' grave was perhaps the most memorable contribution of 
+any Roman to the history of mathematics.'' Mathematicians hope the 
+Archimedes Palimpsest will command more respect by its new owners. 
+</TEXT>
+</DOC>

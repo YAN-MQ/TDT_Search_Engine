@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981022.1130.1076 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Also reporting earnings this morning -- bankers trust lost $488 million 
+after heavy trading losses during the quarter. And the company announced 
+a restructuring program which will include job cuts. Let's look at 
+the stocks -- 
+</TEXT>
+</DOC>

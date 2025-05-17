@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981024.1000.0879 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- the stage is now set for negotiations 
+for a Permanent peace agreement in the Middle East. An interim land-for-peace 
+accord was signed at the White House yesterday, by Israeli prime minister 
+Benjamin Netanyahu and Palestinian authority President Yasser Arafat. 
+</TEXT>
+</DOC>

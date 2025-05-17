@@ -1,0 +1,66 @@
+<DOC>
+<DOCNO> NYT19981120.0437 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Struggling to respond to President Clinton's request for immediate 
+advice on the hybrid cow-human cell announced earlier this month, 
+the National Bioethics Advisory Commission has delivered a guarded 
+and somewhat tentative reply, based on the few facts available to 
+it. The chairman of the commission, Dr. Harold Shapiro, the president 
+of Princeton University, said in a letter to Clinton that the news 
+raised ``concerns about crossing species boundaries and exercising 
+excessive control over nature.'' The proposed use of the hybrid cells 
+to grow human tissues for transplant into a patient would or would 
+not raise new ethical issues, depending on the nature of the cells, 
+Shapiro said. The cells are obtained by fusing a human skin or blood 
+cell with a cow egg whose own nucleus has been removed. The cow egg 
+is thought to make the nucleus of the human cell revert to the embryonic 
+state. The human nucleus then takes over control of the cell, displacing 
+most of the cow proteins with human proteins, and the cell divides 
+into a cluster of embryonic stem-like cells, according to Dr. Michael 
+West, president of Advanced Cell Technology, who announced the technique 
+earlier this month. As embryonic stem cells have the potential to 
+develop into any tissue of the body, West's company hopes to grow 
+whatever replacement tissues a patient might need from his or her 
+own cells. Shapiro's letter pointed to the ambiguous nature of the 
+cells apparently created in the technique. If the embryonic cells 
+that result from the human cell-cow egg fusion are capable of developing 
+into a fetus when transferred to a uterus, then they raise the same 
+``important ethical concerns'' as any other research on human embryos. 
+But if the embryonic cells are not capable of developing into an embryo, 
+then ``we do not believe that totally new ethical issues arise,'' 
+Shapiro said. His letter implies that the only issue raised in this 
+case would be that of mingling human and animal cells, noting that 
+this is done routinely for certain medical purposes. The ability of 
+the embryonic cells to grow into an infant cannot at present be determined. 
+The original experiments were taken only to a very preliminary stage, 
+and no scientific tests were performed on the cells that resulted. 
+Other experts said they would need more evidence to know if human 
+embryonic, stem-like cells had indeed been produced, as the company 
+asserted, although one expert, Dr. John Gearhart of Johns Hopkins 
+University, said when shown a photograph of the cells that they could 
+be embryonic stem cells. West said previously that his company had 
+no intention of transferring the embryonic cells created in this way 
+to a person's womb and that it would be wrong to do so. Shapiro said 
+the commission also held this view. Thus, it seems unlikely that the 
+potential of the cells to become a person will be tested directly. 
+In his letter to the commission a week ago, Clinton said he was ``deeply 
+troubled'' by news of the cow-human hybrid cells. In interviews, several 
+commission members expressed a somewhat lesser level of alarm while 
+saying they understood the reasons for the president's concerns. Dr. 
+Carol Greider, a biologist at Johns Hopkins, said that the thought 
+that someone might transfer to a uterus the embryonic cells created 
+by the hybrid technique was deeply troubling, but that she had fewer 
+problems with the company's stated purpose of making transplantable 
+tissues. ``I think there are some ethical issues there but they are 
+much less worrisome,'' she said. The commission plans in a later report 
+to address a second issue that Clinton raised, the ethical problems 
+and medical benefits of research on human embryonic stem cells derived 
+from human tissue. Earlier this month two groups of university scientists 
+isolated embryonic stem cells from embryos and from aborted fetuses, 
+the first time that these primordial cells had cultured in the laboratory. 
+The company that sponsored the research, the Geron Corp. of Menlo 
+Park, Calif., also plans to use the cells to grow transplantable tissues. 
+</TEXT>
+</DOC>

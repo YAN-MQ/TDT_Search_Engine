@@ -1,0 +1,144 @@
+<DOC>
+<DOCNO> NYT19981011.0118 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Microsoft's legal department could keep a travel agent fully occupied 
+these days. In addition to dispatching lawyers from Redmond, Wash., 
+to federal court in Washington, D.C., the company is currently defending 
+itself against lawsuits filed by software companies in San Jose, Calif., 
+Salt Lake City and Bridgeport, Conn. Although Microsoft has said these 
+three other suits are without merit, it has so far been notably unsuccessful 
+in its efforts to have them dismissed or delayed _ or to have a change 
+of venue to the presumably less burdensome and friendlier environs 
+of Redmond. And the possibility exists that any evidence dug up in 
+these corporate suits could reinforce the government's case. Whatever 
+the differences among the three competitor suits, all make the same 
+contention that lies at the heart of the federal-state antitrust suit 
+against Microsoft: They argue that the company has tried to use its 
+dominance to forestall competition. The oldest of these three pending 
+suits was filed in July 1996 by Caldera Inc., of Orem, Utah, which 
+sells DR-DOS, a competitor to Microsoft's MS-DOS, the operating system 
+underlying Windows. The next, filed in October 1997, came from Sun 
+Microsystems Inc., of Palo Alto, Calif., the creator of Java, a programming 
+language. The most recent, filed in August, was brought by Bristol 
+Technology Inc., of Danbury, Conn., which makes software tools that 
+enable programs originally written to run on Windows to also run on 
+other operating systems. Like any large corporation, Microsoft over 
+the years has been the subject of many legal actions. It has won some 
+of these _ notably in 1992, after years in court, when a judge ruled 
+against Apple Computer Inc.'s claim that Microsoft's Windows software 
+infringed on Macintosh copyrights. The software giant has lost some 
+_ like tiny Stac Electronics Inc.'s 1994 claim for patent infringement, 
+which resulted in Microsoft's settling the matter by buying a majority 
+interest in Stac. And Microsoft has settled others, most recently, 
+for undisclosed terms, a licensing dispute with AT&AMP;T over access 
+to the programming code underlying Microsoft's Windows NT software. 
+But it is the pending the suits by Caldera, Sun and Bristol that are 
+most noteworthy right now because of their parallels with the federal-state 
+antitrust case. Caldera filed its antitrust suit against Microsoft 
+on July 24, 1996, the same day it completed the acquisition of the 
+DR-DOS product from Novell Inc. (Novell had acquired the program's 
+creator, Digital Research Inc., in 1991.) Although DR-DOS essentially 
+duplicated the functions of MS-DOS, Microsoft could never challenge 
+the product on legal grounds because MS-DOS itself was derived from 
+CPM, an older operating system created by Digital Research. Any chance 
+for competition in desktop computing between MS-DOS and DR-DOS is 
+now history. But Caldera officials see a market opportunity for DR-DOS 
+in small hand-held devices, where their product competes with Microsoft's 
+version of Windows for consumer-electronics products, called Windows 
+CE. And Caldera's suit alleges that Microsoft used its market power 
+to thwart sales of DR-DOS through unfair pricing practices and license 
+agreements, as well as false statements and ``vaporware'' announcements 
+suggesting that improved versions of MS-DOS were forthcoming. ``We 
+felt as a smaller company we were in a unique position to bring the 
+lawsuit forward,'' said Bryan Sparks, chief executive of Caldera, 
+which is majority owned by Raymond J. Noorda, former head of Novell. 
+``We weren't beholden to Microsoft for anything,'' Sparks said, ``so 
+if they were to retaliate, they couldn't do much.'' One of the more 
+striking claims to come from Caldera's suit is the testimony leaked 
+to the news media that is said to have been given in the deposition 
+of Stefanie Reichel, a former Microsoft account manager in Germany. 
+According to lawyers familiar with her testimony, Ms. Reichel's deposition 
+alluded to the destruction and withholding of evidence that would 
+have been relevant to the Justice Department's previous investigation 
+of Microsoft, which the company settled in 1995. At a hearing in Salt 
+Lake City on Sept. 28, Microsoft requested that Caldera be served 
+with a contempt order, claiming it was illegally sharing confidential 
+information safeguarded by protective order. But U.S. District Judge 
+Ronald Boyce granted Caldera the right to attempt to substantiate 
+Ms. Reichel's testimony. The judge also denied Microsoft's request 
+for a 120-day delay of the trial, which is scheduled to begin next 
+June. Microsoft contends that MS-DOS has been totally subsumed by 
+the Windows 95 and Windows 98 operating systems and that any competitive 
+issues with DR-DOS were covered in the 1995 Justice Department settlement. 
+But Caldera officials assert that MS-DOS is alive and well and running 
+under Windows 95 and 98 _ just as it did under earlier versions of 
+Windows. ``We can run Windows 95 or 98 on top of DR-DOS; they are 
+absolutely separable,'' Sparks said. ``Windows 95 is essentially a 
+walking antitrust violation because it ties together two products 
+with no benefit to the consumer.'' nn In the case of Sun Microsystems, 
+which filed its suit on Oct. 7, 1997, the issue is breach of contract 
+and false advertising, not antitrust. And yet, this suit, too, accuses 
+Microsoft of anti-competitive behavior. Sun's suit, filed just two 
+weeks before the Justice Department set in motion the legal events 
+leading to the impending government antitrust trial, stems from a 
+license Sun granted to Microsoft in 1996 to use and distribute Java 
+_ a Sun technology and programming language for use on the Internet. 
+One of the key features of Java is that programs written with it are 
+supposed to work with any operating system. But Microsoft made modifications 
+to the Java code that allows its version of Java to work only with 
+Windows computers. In Sun's view, this Windows tailoring negates the 
+cross-platform purpose of Java and violates the terms of Microsoft's 
+license. Last March in San Jose, U.S. Judge Ronald Whyte made an interim 
+ruling in Sun's favor, issuing a preliminary injunction that forbids 
+Microsoft from using a Java-compatible logo on its products. Sun is 
+now seeking to block all Microsoft shipments of Java-based products 
+that do not meet its compatibility tests. At a hearing in San Jose 
+on Sept. 10, Sun's attorney, Lloyd ``Rusty'' Day, argued that Microsoft 
+wanted ``to kill cross-platform Java and grow the polluted Java market'' 
+by encouraging software developers to abandon its cross-platform ability. 
+Day focused his remarks on a Microsoft Java product called VJ (plus 
+plus) 6.0, a new software ``tool kit'' for creating Java-based programs. 
+VJ (plus plus) 6.0, he said, forces outside software developers to 
+create Java programs that are ``locked into the products that Microsoft 
+alone distributes.'' But Microsoft's lawyer, Karl Quackenbush, said 
+the case was fundamentally about a contract, in which he said ``Microsoft 
+got broad rights to modify, adapt, create, derivative works of the 
+technology.'' Quackenbush said the features added to VJ (plus plus) 
+6.0 did not violate the licensing agreement because software developers 
+were free to turn them off if they wished and to create Sun-standard 
+Java programs with the product. ``Maybe Sun wishes Microsoft would 
+not have gone forward and made these enhancements,'' he said. ``That 
+doesn't mean it's a breach of contract.'' The most recent suit alleging 
+anti-competitive behavior against Microsoft came from Bristol, which 
+filed on Aug. 18. The suit contends that Microsoft injured Bristol 
+and the rest of the software industry through ``predatory'' control 
+of the Windows application programming interfaces _ the bits of codes 
+that outside programmers use to assure that their products will work 
+properly with the Windows operating system. At issue is Bristol's 
+product Wind/U, a program that lets Windows programs run on computers 
+that use the Unix operating system. Bristol executives said they had 
+initially developed Wind/U without access to Microsoft application 
+programming code, but modified it after Microsoft granted Bristol 
+a license in 1994. Although Microsoft then publicly endorsed Bristol's 
+products for several years, Bristol said Microsoft was now refusing 
+to update the license to cover Microsoft Windows NT 4.0, Windows NT 
+5.0 and subsequent releases _ at least not under terms that Bristol 
+says are technically or economically viable. ``I think that what happened 
+was NT got this big share of the market, then Microsoft said now that 
+we've got this foothold we no longer want people to run Windows applications 
+on Unix,'' said Keith Blackwell, Bristol's president and chief executive. 
+Microsoft, however, says that Bristol's private antitrust suit, like 
+the government's case, is groundless. Jim Cullinan, a Microsoft spokesman, 
+said Bristol had sought to license Windows NT 4.0 and 5.0 at the same 
+terms as it paid for NT 3.0, even though the later programs are considerably 
+larger. ``We thought negotiations were ongoing until Bristol filed 
+this suit,'' Cullinan said, adding that Bristol's primary competitor, 
+Mainsoft Inc., ``has signed a contract accepting terms very similar 
+to what we offered Bristol.'' Bristol seeks an injunction, pending 
+a trial, that would prevent Microsoft from blocking Bristol's access 
+to Windows source code. A hearing in Bridgeport is scheduled for this 
+Wednesday; Microsoft's trial is set to begin in Washington next Monday. 
+</TEXT>
+</DOC>

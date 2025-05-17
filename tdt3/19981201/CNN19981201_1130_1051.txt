@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981201.1130.1051 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Vanderbilt University is the recipient of a multi-million-dollar gift. 
+The school received at least $340 million worth of Ingram Micro stock, 
+the largest contribution ever made to a college or University. 
+</TEXT>
+</DOC>

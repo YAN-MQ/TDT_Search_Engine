@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> PRI19981111.2000.0341 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is NPR. Support for NPR comes from CNN presenting Cold War, a 
+weekly documentary series narrated by Kenneth Branna, Sunday nights 
+at 8 p.m. and midnight eastern on CNN. The World is made possible 
+in part by Merc, pharmaceutical research dedicated to preventing disease 
+and improving health. Merc committed to bringing out the best in medicine. 
+This The World I am Tony Kahn. 
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981216.0130.0513 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for Wednesday. We continue to see cooler weather moving across 
+the north central part of the country as some rain lingers along the 
+Carolina coastline. By Wednesday evening, it should be moving away. 
+There will be a few showers through the southwest and in coastal sections 
+of Washington. Otherwise, we look for quiet weather. Still windy in 
+southern California. Wednesday's high temperatures, 60s and 70s in 
+the southwest. Mostly 60s in the southeast. Just 20s and 30s over 
+the upper midwest. Looking ahead to Thursday, we'll see snow around 
+the Great Lakes with some showers in the far northwest. For Friday, 
+snow showers continuing in the northeastern part of the country with 
+highs in the 20s and 30s. Then Saturday, snow showers northeast, rain 
+showers northwest. And finally, we see some teens over northern Minnesota. 
+Don't forget, you can find four-day forecasts for more than 7,200 
+cities. The address, CNN interactive at CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,71 @@
+<DOC>
+<DOCNO> NYT19981125.0258 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Telephones used to be more predictable. They were generally tethered 
+securely to a wall, and when they rang, well, they rang. Today, telephones 
+are adrift, floating like dandelion seeds throughout the environment, 
+and they don't ring. They warble. Lately, the cunning little mobile 
+phones that people like to carry _ the ones that also send e-mail 
+and receive stock market quotations _ have been emitting more elaborate 
+sounds. During a recent lunch in a Berlin restaurant, for instance, 
+one of my companions suddenly had what sounded like an especially 
+squeaky Brandenburg concerto emanating from his pocket. It was his 
+mobile phone. Indeed, the Finnish company Nokia and the Swedish company 
+Ericsson sell phones that offer a wide selection of programmed musical 
+rings _ from a Scott Joplin rag to ``Auld Lang Syne'' _ but you don't 
+hear these melodic snippets very often in the United States. Not yet, 
+anyway. In some European countries, where upwards of 40 percent of 
+the population is equipped with a mobile phone (compared to 23 percent 
+here), there is greater need for a distinctive ring. At least, that's 
+the simple explanation. The very newest mobile phones allow owners 
+to program favorite tunes or original compositions. The brightly colored 
+Ericsson CF 768 is packaged with a chart that assigns musical notes 
+to each button on the key pad, and explains how to produce sharps, 
+flats and rests. Following instructions found on an independent Web 
+site run by a 21-year-old Australian computer programmer (www.nogi.net), 
+a repository of hundreds of songs specially arranged to be played 
+on the Ericsson, I punched in a tinsely version of Herb Alpert's ``Tijuana 
+Taxi.'' It's an arduous process, and at the end, I felt strangely 
+satisfied, as if I had mastered a piano etude. Beyond helping mobile-phone 
+owners to pick out their ring in a crowd, the individualized, anthemic 
+sound is a way of humanizing a technological device. ``A cellular 
+phone is a personal product,'' reasoned Gary Dorfner, a senior product 
+line manager for Ericsson. ``You want to create an affinity with the 
+users, so they say, `Hey, this is my phone.' '' Ben Rubin, who teaches 
+a course called Sonic Design at New York University's Interactive 
+Telecommunications Program and who has designed a system that would 
+replace the electronic bleeps of the New York subway's turnstiles 
+with more pleasing musical sounds, doesn't think the music played 
+by mobile phones is any kind of improvement. ``I don't want to hear 
+the `William Tell' Overture when my phone is ringing,'' he said. Rubin 
+does, however, concur with the Ericsson marketers about the significance 
+of distinctive rings. ``I want my ring to be short, quiet, complex 
+and uniquely mine,'' he declared, ``an expression of my taste.'' Rubin 
+believes that the existing sounds are ``too primitive to fulfill my 
+desires.'' But then, he hasn't heard the latest from Finland. ``The 
+annoyance of ringing mobile phones in public places has been discussed 
+a lot in Finland,'' said two Nokia technologists, Seppo Helle, a user-interface 
+software designer, and Outi Kortevaara, an audio specialist, who replied 
+jointly to questions I sent to them by e-mail. ``The issue may be 
+here more acute since Finland currently has the largest mobile phone 
+penetration in the world _ over 50 percent.'' Nokia is about to introduce 
+a mobile phone, the 9110, with rings that Helle and Ms. Kortevaara 
+say are ``softer and cleaner,'' due to improved speaker technology. 
+It will, they add, produce natural sounds, not cheap electronic imitations. 
+Helle sent along a file of two dozen surprising new ringer noises. 
+Some are musical: a classical guitar piece, played on a real guitar 
+that retains much of its natural resonance, and an intentionally fuzzy 
+rock guitar solo. Some are funny: a human voice imitating the b-r-r-ring 
+of a telephone ring. Undoubtedly these sounds, refreshing on the first 
+listen, will quickly become a form of noise pollution. But all of 
+them _ with the possible exception of a long, horsy laugh _ are far 
+less irritating than any existing ring. One more thing: Dorfner spoke 
+to me from his own cellular phone. He told me he had adjusted his 
+phone to emit ``a quiet little beep,'' because he was attending a 
+gathering of Ericsson executives. If everyone in the room had their 
+ringer programmed to play ``Stairway to Heaven'' or the theme from 
+``Star Wars,'' well, you can imagine. 
+</TEXT>
+</DOC>

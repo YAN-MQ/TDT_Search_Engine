@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981221.1130.1656 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First, tens of thousands of people turned out the celebrate the 300th 
+anniversary of Vietnam's ho Chi Minh city, formerly known as Sigh 
+gon. This is "CNN Headline News." I'm Linda Stouffer. 
+</TEXT>
+</DOC>

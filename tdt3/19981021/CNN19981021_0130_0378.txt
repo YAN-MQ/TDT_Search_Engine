@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> CNN19981021.0130.0378 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's time for the medical community to catch up with other professions 
+and get online. At least that's what Dr. Tom Ferguson wrote in this 
+week's "journal of the american medical association." Ferguson says 
+Internet-savvy patients would like greater digital access to their 
+physicians. But he says only 1% or 2% of doctors offer the option. 
+He says it's time for them to start, or they could soon find themselves 
+at a disadvantage. There are many benefits for the patient. For one 
+thing, it's convenient. So convenient that people can ask about things 
+that they probably wouldn't bother to go to the doctor to ask about. 
+Another advantage is that there's a complete record for the communication. 
+So instead of having to rely on their memories for all the things 
+the doctors had, all the names, dosages, times, directions for self 
+care. It's all written down so you can refer to it, share it with 
+family members. You can also forward copies of your doctors E-mail 
+to friends, family members, other doctors if you want to. A Boston 
+hospital has found computers can cure one widespread problem, doctor's 
+unreadable handwriting. It found the number of serious medication 
+errors dropped by more than half once doctors started typing their 
+prescriptions into a computer. The computer also limited doses to 
+appropriate amounts and double checked for other problems like drug 
+allergies. The report is in this week's journal of the American medical 
+association. 
+</TEXT>
+</DOC>

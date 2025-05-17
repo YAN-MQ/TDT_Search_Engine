@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> APW19981108.0387 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Tommy Flowers, a British electronics engineer who developed a vast, 
+pioneering computer that cracked German military communications in 
+World War II, has died. He was 92. Flowers' son Kenneth said Sunday 
+that his father died from heart failure at home in London on Oct. 
+28. An engineering graduate of the University of London, Flowers joined 
+the British Post Office, then responsible for all national communications, 
+in the 30s and experimented in electronic telephone transmissions. 
+In World War II, Flowers was sent to Bletchley Park, 50 miles (80 
+kms) from London where mathematicians, cryptographers and other experts 
+worked on breaking Germany military codes. Flowers secretly developed 
+Colossus, a one-ton machine that revolutionized the first part of 
+decoding by pinpointing wheel setting used by German operators for 
+coded messages. The Germans were using a then-sophisticated machine 
+known as Lorenz. ``Colossus had all the characteristics of the computer 
+although it wasn't thought of as a computer at the time,'' Kenneth 
+Flowers said in a telephone interview. ``It could think and made decisions. 
+Up to then these machines had been used just to make numerical calculations.'' 
+Flowers' breakthrough lay in devising an electronic machine to do 
+what had previously been done mechanically, his son said. By the D-Day 
+invasion of June 1944 Flowers had produced one more Colossus which 
+worked five times as fast as his original one. By the end of the war 
+in 1945, 10 machines were in operation. Flowers received an honor, 
+Member of the British Empire, for his work in the 40s, but remained 
+largely unknown to the wider public because the work was kept secret 
+until the 70s. Bletchley Park is now a tourist attraction with the 
+German's Lorenz machines on display and a replica of the Colossus, 
+which Flowers saw switched on by the Duke of Kent, a cousin of Queen 
+Elizabeth II, on June 6,1996. Flowers is survived by his wife, Eileen, 
+sons Kenneth and John, and three grandchildren. The funeral will be 
+held Monday at Hendon Crematorium in north London. 
+</TEXT>
+</DOC>

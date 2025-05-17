@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981218.1830.1254 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street ended the week on a high. The Dow Jones industrial average 
+rose more than 28 points. The NASDAQ climbed 42 point to a record 
+close. For the week, the Dow finished up 82 points. NASDAQ rose 57 
+points. 
+</TEXT>
+</DOC>

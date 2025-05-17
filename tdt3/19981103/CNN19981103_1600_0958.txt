@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981103.1600.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the crew of space shuttle "discovery" is set -- has retrieved 
+the spartan satellite. It was destroyed ployd Sunday to study the 
+sun's atmosphere. 
+</TEXT>
+</DOC>

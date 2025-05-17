@@ -1,0 +1,109 @@
+<DOC>
+<DOCNO> NYT19981130.0325 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Should parents pay a blood bank to store the blood from their newborn 
+baby's umbilical cord and placenta, in case that child or another 
+family member ever needs it to treat cancer or leukemia? Expectant 
+parents are being urged to do so by companies that have sprung up 
+during the past few years to sell cord-blood banking as a form of 
+``biological insurance'' against such dreaded diseases. The pitch 
+is based on reports in medical journals, such as a major study published 
+last week in the New England Journal of Medicine, showing that cord 
+blood can sometimes be used in place of a bone marrow transplant. 
+Like bone marrow, cord blood is rich in stem cells, which can churn 
+out many different types of cells to rebuild a patient's blood supply 
+and immune system after high doses of radiation and chemotherapy. 
+A patient's own cord blood, or that from a relative, is more likely 
+than cord blood from an unrelated donor to be a good tissue match 
+and to be accepted by the recipient's body. Some experts in bone-marrow 
+transplantation and blood banking frown on the cord-blood business, 
+arguing that people are being frightened into wasting money on a service 
+they will probably never need. Moreover, private companies are growing 
+in tandem with public banks, and some scientists worry that private 
+banking will limit public access to cord blood. They are concerned 
+because the cord blood in private banks remains the property of the 
+donor family and is not available to patients seeking a compatible 
+donor. But the companies say that however remote the possibility that 
+the blood will be needed, people who choose to bank their own cord 
+blood have a right to do so. In most cases their cord blood would 
+be thrown away in the delivery room if they did not pay to bank it. 
+There are only a few cord-blood banks in the United States, and most 
+hospitals do not have specially trained staff members to collect the 
+blood. Like bone marrow, cord blood must be matched to the recipient 
+by tests for six inherited traits that determine an individual's tissue 
+type. Cord blood does not have to be as precisely matched as bone 
+marrow, but still, the closer the match, the better the odds of success. 
+The weaker the match, the more likely it is that the recipient's body 
+will reject the transplant, or the transplant will attack the recipient's 
+tissues, in a life-threatening reaction called graft vs. host disease. 
+The companies that freeze cord blood and bank it point out that a 
+person's own cord blood is a perfect match, and a sibling's cord blood 
+a more likely match than a specimen from a stranger. Promotional literature 
+for one company, Cord Blood Registry, in San Bruno, Calif., emphasizes 
+that people with cancer in the family may have a special interest 
+in cord-blood banking, along with those who have the hardest time 
+finding matches. Those include members of racial minorities, especially 
+families in which the parents are of different races. A spokeswoman, 
+Scoti Kaesshaefer, said the company reaches parents-to-be by promoting 
+itself to doctors, nurses and childbirth educators, and by leaving 
+information at hospitals. For example, the company is distributing 
+copies of newspaper articles suggesting that cancer among children 
+is on the rise. The company also has a Web site and an 800 number. 
+Cord Blood Registry describes itself as the largest private cord-blood 
+banking firm in the country. It has stored 10,000 samples during the 
+past three years: 1,500 in 1995, 3,000 in 1996 and 6,000 in 1997. 
+The company charges an initial fee of $1,200 to collect a sample and 
+freeze it, and then $95 a year to keep it stored in liquid nitrogen 
+at the blood bank at the University of Arizona. Customers include 
+people with perfectly healthy children, who just want extra peace 
+of mind, as well as some families who have lost a child to leukemia 
+or another disease and fear for the health of their other children. 
+In its three years of operation, eight customers have retrieved their 
+cord blood for use in medical treatment, said Ms. Kaesshaefer. All 
+eight samples were used for siblings or relatives, she said. The largest 
+public-access bank of cord blood, at the New York Blood Center in 
+Manhattan, has collected 8,686 specimens in six years. Nearly 800 
+of those samples have been used to treat patients, many of them children, 
+in the United States and overseas. Dr. Pablo Rubinstein, who directs 
+the cord-blood program at the New York Blood Center, said there is 
+a compelling medical argument against using a patient's own cord blood 
+in some cases. In some young children with leukemia, he said, malignant 
+cells are present at birth in the cord blood, and transfusing those 
+cells back into the child later might contribute to a relapse. In 
+addition, he said, bone marrow from a donor could help destroy diseased 
+cells, an effect known as graft vs. leukemia. A person's own cord 
+blood might not have that effect, and in some cases even a sibling's 
+might not. Dr. John Wagner, associate director of bone marrow transplantation 
+at the University of Minnesota in Minneapolis, said that for a child 
+being treated recently, he deliberately rejected cord blood from a 
+sibling in favor of a well-matched unit from an unrelated donor, hoping 
+to take advantage of its antileukemic effect. Dr. Robertson Parkman, 
+director of bone marrow transplantation at Children's Hospital in 
+Los Angeles, said he saw no point in banking cord blood for most families. 
+``It's motivated by fear,'' he said. But in families with an ill child 
+who might need a bone-marrow transplant, he said, it makes sense to 
+save cord blood from any siblings born later. Medical centers with 
+transplant programs will often perform that service, he said. So will 
+some of the private companies, without a fee. When a bone-marrow donor 
+could not be found for 4-year-old Joshua Kelton, who was suffering 
+from leukemia, his parents, stationed at a military base in Honolulu, 
+conceived another child in the hope that the baby's tissues would 
+match Joshua's. They did, and Cord Blood Registry collected the cord 
+blood at birth, stored it in Arizona for a month, and then, when Joshua 
+was ready for the procedure, transported it to a medical center at 
+Stanford University. Joshua was treated with his infant brother's 
+cord blood in August, and has been declared free of leukemia. ``Right 
+now, he's 100 percent,'' his father said in a telephone interview, 
+``a normal child, the way he was before this happened.'' But the Keltons' 
+experience is hardly representative. That the family was certain it 
+would need the cord blood sets it apart from most families that store 
+the blood. Wagner is wary of the hard sell of some of the cord-blood 
+companies. ``My concern is that it be presented fairly to expectant 
+mothers, who are already fairly vulnerable,'' he said. ``I have a 
+lot of obstetricians and parents calling me and complaining it's too 
+late, they missed the opportunity. Others call saying, `Should I do 
+this?' It's hard to answer. I don't want to bias them.'' 
+</TEXT>
+</DOC>

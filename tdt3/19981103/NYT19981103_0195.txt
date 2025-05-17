@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981103.0195 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST At 3 p.m. CDT Tuesday, the remnant circulation of 
+winds that once were Hurricane Mitch regenerated into a minimal tropical 
+storm about 50 miles west-southwest of the city of Campeche on the 
+Yucatan Peninsula of Mexico. On Wednesday, the marginal tropical system 
+will move eastward across the Gulf of Mexico toward Florida. With 
+moisture gathering ahead of the system, clusters of showers and thunderstorms, 
+some heavy, will develop over the peninsula and will likely intensify 
+Wednesday night and into Thursday as the tropical system approaches. 
+Heavy rain and flooding are possible over the southern half of the 
+Florida peninsula. Meanwhile, fog and patchy drizzle will dampen much 
+of the Front Range of the Rockies on Wednesday as moist winds from 
+the east continue to be forced up the sloping terrain. Light, patchy 
+snow will dust higher elevations across parts of Colorado and Wyoming. 
+Light to moderate rains will affect the Pacific Northwest Coast on 
+Wednesday as a Pacific disturbance moves inland. The focus of moderate 
+rains will likely occur on west-facing slopes of the Coastal Range, 
+Cascade and Olympic mountains. Patchy light snow will continue over 
+the mountains of northern New England as a low pressure system which 
+has been stalled over the Canadian Maritimes for several days continues 
+to circulate cold, moist air southward from Quebec. Sprinkles of rain 
+will fall in the valleys. However, moist air moving eastward will 
+dry on descent from the Appalachians, setting the stage for a partly 
+to mostly sunny day along much of the Northeast Seaboard. FOCUS: ILKS 
+OF FOG Fog blanketed the Front Range of the Colorado Rockies early 
+Tuesday as moist winds from the east gently glided up the sloping 
+terrain. This ilk of fog is called upslope fog. More traditionally, 
+ground fog, sometimes called valley fog, forms on a clear night with 
+light winds as the ground rapidly loses its heat to space. In turn, 
+the ground chills a layer of overlying air, coaxing invisible water 
+vapor to condense into tiny water droplets. Another type of fog called 
+advection fog forms when moist air passes over cool ocean waters. 
+The wind then carries or advects the fog inland. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981015.2130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The White House and Congress have struck a deal on a federal budget. 
+The $500 billion agreement still must be voted on in the house and 
+Senate and signed into law. 
+</TEXT>
+</DOC>

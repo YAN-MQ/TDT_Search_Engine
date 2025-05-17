@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981228.1600.0940 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Workers in Washington state are trying to reopen two major mountain 
+passes blocked by heavy snow. The threat of possible avalanches has 
+stranded about 4,000 holiday travelers in the area. 
+</TEXT>
+</DOC>

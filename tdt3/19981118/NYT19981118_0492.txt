@@ -1,0 +1,83 @@
+<DOC>
+<DOCNO> NYT19981118.0492 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Java, the programming language at issue in the contract dispute between 
+the Microsoft Corp. and Sun Microsystems, is fundamentally different 
+from other computer languages like C, C(plus plus), Pascal or Basic. 
+Other programming languages are dependent on the underlying operating 
+system that controls the basic functions of the computer running the 
+programs. A program written in C(plus plus) for an Apple Computer 
+Macintosh will not work on a personal computer using the Microsoft 
+Windows operating system. But Java _ invented by Sun Microsystems, 
+which controls Java licensing _ is intended to act as a lingua franca 
+of computing. Java enables software to be used over networks _ especially 
+over the Internet _ by many kinds of computers running sundry operating 
+systems. Thanks to Java, a graphic artist with an Apple Macintosh 
+computer running the Mac operating system, an engineer on a Sun Microsystems 
+Sparc work station running a version of the Unix operating system 
+and a student with a Pentium-chip personal computer running the Microsoft 
+Windows operating system can all play poker with one another on the 
+Yahoo World Wide Web site. That's because the poker game is written 
+in Java, which can operate on those different computers at the same 
+time, over the network. But this works-anywhere flexibility also means 
+that, from a programmer's point of view, Java makes all operating 
+systems equal. And that poses a serious threat to Microsoft, whose 
+market dominance is based the fact that its Windows operating system 
+is the industry standard _ controlling the basic operations of some 
+90 percent of PCs sold. Revolutionary as Java may sound, though, programs 
+written in this language are not always impressive. For any given 
+computer to use a Java program, each line of code _ or each block 
+of reusable code known as an ``object'' _ must be interpreted before 
+it can be understood by the operating system, which then must translate 
+it yet again for its instructions to be understood by the computer's 
+microprocessor chip. Even though Java's speed has improved a great 
+deal in the last 18 months, all this translating means that running 
+a Java program can still be excruciatingly slow compared with running 
+the same program written in a language like C. And yet the Java interpreter, 
+known as the ``virtual machine'' or VM software, is also the language's 
+greatest strength. It allows for the ``write once, run anywhere'' 
+capability that enables programmers to create a single piece of software 
+that can be understood by any major operating system. Thus, Java software 
+can not only cut development time for individual programs but can 
+also result in programs that have a much larger potential market than 
+programs written in other languages. In addition, once a user installs 
+Java _ which happens automatically when a Web browser is installed 
+_ the Java virtual machine resides permanently on the user's hard 
+drive. From then on, it stands ready to run a Java program whenever 
+it is needed. This is what is known in computer jargon as a ``platform'' 
+_ that is, foundation software on which other programs run. The advantage 
+this holds for the Internet is that tiny bits of Java code, known 
+as applets, can be sent to and used by any kind of computer that has 
+a Java virtual machine. The small size of the applets makes them usable 
+even on computers with slow Internet links like dial-up modems. All 
+of this poses a threat to Microsoft because it marginalizes the importance 
+of Microsoft's platform, the Windows operating system. In the conventional 
+computing world, in which programs run on only one operating system, 
+Microsoft's Windows tends to be a self-perpetuating monopoly. If a 
+user has invested several thousand dollars in software that will run 
+only on Windows, he is not likely to switch to a Macintosh computer 
+or to install, say, a Unix operating system, because in addition to 
+the cost of the new machine, he will have to buy all new software. 
+But if at some point in the future that same user could purchase all 
+Java software, he would have much more freedom to change computers 
+and operating systems. While that is not now possible, a number of 
+major software developers, including International Business Machines 
+Corp., its Lotus subsidiary and Corel Corp. have committed to major 
+development of Java software. Sun's lawsuit traces to Microsoft's 
+obtaining a Java license from the company in 1996 and then setting 
+to work altering parts of the virtual machine. To be sure, some changes 
+made Java run more efficiently on Windows machines, but other alterations 
+stripped the translator of certain capabilities _ functions that Sun 
+contends Microsoft wanted to keep the sole province of the Windows 
+operating system. The Sun lawsuit asserts that these changes violated 
+the 1996 licensing agreement. And many in the software industry are 
+watching this case with great apprehension: If Microsoft is allowed 
+to distribute a nonstandard form of Java, the resulting industry fragmentation 
+would mean that different Java code would have to be written for different 
+operating systems. That might remove a threat to Microsoft, but for 
+the lingua franca of computing, the resultant babble of variants would 
+destroy the Java language's greatest strength. 
+</TEXT>
+</DOC>

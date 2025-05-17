@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981231.2130.0221 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stay tuned for the latest extended weather forecast as always at 8 
+minutes and 38 minutes past the hour. 
+</TEXT>
+</DOC>

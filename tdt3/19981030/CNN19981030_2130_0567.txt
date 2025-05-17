@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981030.2130.0567 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tropical storm Mitch is now being blamed for 127 deaths. At last check, 
+the storm was hovering over Honduras. One report puts top wind gusts 
+at 60 miles-per-hour. Many roads are completely washed out in Honduras, 
+Nicaragua, and Belize, and tens of thousands of people are in shelters. 
+</TEXT>
+</DOC>

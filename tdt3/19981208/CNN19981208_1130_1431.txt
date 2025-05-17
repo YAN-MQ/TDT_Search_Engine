@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981208.1130.1431 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New pictures from the galileo spacecraft are showing a fault line 
+on the surface of europa, one of Jupiter's moons. Scientists are comparing 
+it to the San Andreas fault on earth. They say the fault doesn't appear 
+to be active but studying it may teach them about the earth's movement. 
+Europa is covered by an icy crust. Because water may be under the 
+crust, scientists speculate europa may support some life forms. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981115.1830.0687 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Things were quiet today in Indonesia, the world's fourth most populous 
+nation with 16 people have died in the latest round of anti-government 
+violence. Pro-democracy activists are calling for a general strike 
+tomorrow and the military is bracing for more unrest. 
+</TEXT>
+</DOC>

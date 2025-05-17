@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981014.1600.1120 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Lsi logic, a maker of semiconductor equipment, will eliminate 1,200 
+jobs or 17% of its payroll. 
+</TEXT>
+</DOC>

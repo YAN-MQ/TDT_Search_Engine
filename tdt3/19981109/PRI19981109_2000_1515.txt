@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981109.2000.1515 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow Jones Industrial closed down today 78 points to 8898 while 
+the NASDAQ was up 4 points to 1861. 
+</TEXT>
+</DOC>

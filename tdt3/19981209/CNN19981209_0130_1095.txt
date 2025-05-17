@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981209.0130.1095 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Computer chipmaker Intel is licensing its Pentium processor design 
+to the energy department. Intel isn't collecting royalties for the 
+deal, which will aid in the development of custom-made, radiation-proof 
+processors for space and defense purposes. The chips could increase 
+processing power tenfold. Intel says the deal will save taxpayers 
+$1 billion in development costs. 
+</TEXT>
+</DOC>

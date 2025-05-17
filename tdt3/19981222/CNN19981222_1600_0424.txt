@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981222.1600.0424 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Thousands of gas stations across the country will be forced to shut 
+down, at midnight tonight. That's when the federal government begins 
+enforcing a nationwide order to replace or upgrade outdated underground 
+storage tanks. The requirements were announced ten years ago, but 
+the EPA says about 20,000 gas stations will miss the deadline and 
+must shut down their pumps until they comply. The regulations affect 
+all businesses with underground fuel tanks and are aimed at preventing 
+spills and leaks that can poison groundwater. 
+</TEXT>
+</DOC>

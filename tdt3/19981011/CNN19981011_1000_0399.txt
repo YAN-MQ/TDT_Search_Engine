@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981011.1000.0399 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The University of Virginia is setting up a committee to review the 
+school's medical center. Uva has been embarrassed by three mistakes 
+made public in recent months, including mixing up two newborns in 
+1995, switching the bodies of dead babies, and giving a mother only 
+the placenta of her baby to bury after it died. Virginia governor 
+Jim Gilmore also has sent the state medical examiner to investigate 
+procedures at the center's morgue. 
+</TEXT>
+</DOC>

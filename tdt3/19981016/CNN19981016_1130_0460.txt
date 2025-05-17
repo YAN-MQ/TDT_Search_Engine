@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981016.1130.0460 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A change in the diet of killer whales poses a threat to the ecology 
+off the coast off western Alaska. The whales are eating sea otters, 
+which has brought on a population boom for sea urchins normally kept 
+in check by the otters. The sea urchins are stripping the undersea 
+kelp forests the whales turned to sea otters about 10 years ago when 
+the population of their normal food -- sea lions -- declined sharply. 
+</TEXT>
+</DOC>

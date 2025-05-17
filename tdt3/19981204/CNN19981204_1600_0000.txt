@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981204.1600.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On a day of good economic news, President Clinton calls for a hike 
+in the minimum wage. The space shuttle "endeavour" blasts off with 
+a delivery for the international space station. And in Miami, there's 
+another twist to the mayoral contest that just won't end. This is 
+"CNN Headline News." I'm Chuck Roberts. 
+</TEXT>
+</DOC>

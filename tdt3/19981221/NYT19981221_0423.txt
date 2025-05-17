@@ -1,0 +1,165 @@
+<DOC>
+<DOCNO> NYT19981221.0423 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Two small studies have shown that over the course of just a few weeks, 
+one dose of experimental drugs injected directly into the heart can 
+greatly relieve, or even eliminate, the chest pain of coronary artery 
+disease by encouraging the growth of new blood vessels to bypass clogged 
+arteries, according to researchers in the United States and Germany. 
+The research is at a preliminary stage, and the drugs have yet to 
+be tested in large groups of people. Even if the results hold up, 
+it may be years before any therapy is available for patients who suffer 
+from such chest pain, or angina. One of the treatments under study 
+is gene therapy to produce a protein called vegF, for vascular endothelial 
+growth factor. The other entails injection of a protein called FGF-1, 
+for fibroblast growth factor. Each drug is given in a single injection, 
+through a surgical incision in the chest. In effect, both treatments 
+aim to allow patients to grow their own heart bypasses by sprouting 
+thin ``collateral'' blood vessels, in a strategy called therapeutic 
+angiogenesis. The same gene therapy involved in one of these treatments 
+has been shown to be effective in building new blood vessels in the 
+legs, but these reports are the first to assert that gene therapy 
+has produced new vessels in the heart. The coronary gene therapy research, 
+led by Dr. Jeffrey Isner of St. Elizabeth's Hospital in Brighton, 
+Mass., and Tufts University, is reported in Tuesday's issue of Circulation, 
+a journal published by the American Heart Association. The protein 
+therapy is being developed by Dr. Thomas-Joseph Stegmann of Fulda, 
+Germany, a leading figure in the field, who discussed his work in 
+interviews. So far, tests of both therapies are in the first stage, 
+where research determines whether the treatment is safe to patients. 
+Ordinarily researchers do not make claims for effectiveness until 
+later stages, involving testing on larger groups of people, are completed. 
+But the researchers said in interviews that they were struck by the 
+improvements reported by more than 20 participants in these early 
+trials, even patients whose pain could not be controlled by other 
+drug therapy or bypass surgery. And the editor of the journal decided 
+that Isner's results, though preliminary, were significant enough 
+to warrant publication. Nearly all the participants reported substantial 
+pain relief, and some who were virtually homebound before receiving 
+the injection have painlessly resumed swimming, working out on exercise 
+bicycles and pursuing other physical activities. Pain relief usually 
+began about three weeks after the procedure, which, on average, took 
+about an hour in an operating room, with the patient under general 
+anesthesia. The hospital stay was about four days. Pain relief, even 
+elimination of pain, has persisted in all participants who showed 
+improvement, the researchers said. ``How long that will remain effective 
+is anybody's guess,'' said Isner, the first of whose patients received 
+the injection only 10 months ago. St. Elizabeth's Hospital, with which 
+Isner is affiliated, has formed a company to test his therapy in larger 
+trials. As for Stegmann, he is a co-founder of Cardio-Vascular Genetic 
+Engineering Inc. of Irvine, Calif., which aims to develop angiogenesis 
+treatment for coronary artery disease. Dr. Valentin Fuster, head of 
+cardiology at Mount Sinai Medical Center in New York City, said, ``It's 
+exciting, but you should be cautious about what will be the impact 
+of all of this.'' Fuster, president of the American Heart Association, 
+said he doubted that it would ``become a panacea for everyone'' with 
+angina and coronary heart disease. He was among experts interviewed 
+who said much more extensive research, taking years, would be needed 
+before these or similar therapies found their way into standard medical 
+practice, if they ever did. One important concern was that the two 
+studies involved a small number of patients. Another was that none 
+could receive a placebo, or dummy substance, as scientific controls 
+to allow more rigorous comparisons. For ethical reasons, the Food 
+and Drug Administration and hospital committees whose function is 
+to protect volunteers from harmful research declined to allow researchers 
+to subject a control group to the rigors of sham surgery that offered 
+them no benefit. Yet another concern was uncertainty about the long-term 
+benefits. Many doctors remember a number of drug and surgical therapies 
+for angina and other conditions that appeared spectacular initially 
+but that failed in the longer run. Nevertheless Isner's report ``is 
+very compelling,'' said Dr. Jonathan Marmur, a cardiologist at Mount 
+Sinai. ``The benefit reported is pretty convincing,'' Marmur said, 
+``and requires confirmation with control studies.'' Marmur and some 
+other experts expressed optimism that these or similar treatments 
+might one day be administered through less invasive procedures than 
+chest surgery. For example, they might be administered through a tube 
+inserted into a leg or an arm and threaded to the heart, a procedure 
+known as cardiac catheterization. Such approaches are now being tested 
+in small numbers of patients in trials at major medical centers in 
+the United States. Additional studies are on the drawing boards, with 
+the ultimate aim of giving the therapies intravenously in the arm. 
+Although she expressed caution about Isner's report, Dr. Judith Swain, 
+who heads the department of medicine at Stanford University, said 
+she believed that the idea of using angiogenesis treatments for coronary 
+artery disease was ``an absolute winner.'' ``The biotechnology and 
+device companies,'' Dr. Swain said, ``are all salivating'' over the 
+potential of these therapies. VegF, the protein produced in Isner's 
+therapy, is thought to be the body's signal to grow new blood vessels, 
+and the therapy is the same as the one with which Isner's team has 
+reported success in treating blocked arteries in the legs of 75 patients 
+since 1994. In part because the newly grown blood vessels are much 
+narrower than coronary arteries, there was no guarantee that the therapy 
+that worked in the leg would do so in the heart. So the FDA was cautious 
+when, earlier this year, it allowed Isner's team to begin injections 
+into the heart. It authorized testing on only 30 patients, at a rate 
+of only about one a week, and with initially tiny doses. In the report 
+being published Tuesday, Isner's team described dramatic success with 
+each of the first five patients treated with vegF in its study. In 
+an interview, Isner described similar benefits in 15 additional patients, 
+who were treated after the report had been written. Isner said his 
+team was administering the injections as fast as the FDA would allow 
+and hoped to complete the initial safety trials in 1999. One sign 
+of success was that patients reported using substantially fewer nitroglycerine 
+pills to relieve angina: 9.8 tablets per patient per week, from a 
+previous average of 53.9. Special approval from the FDA would be needed 
+if a patient required a second injection because pain relief had waned. 
+But such a case has not arisen, Isner said. The doctors also reported 
+objective scientific evidence of improvement from tests like heart 
+scans, electrocardiograms and special X-rays known as coronary angiograms. 
+The tests were performed shortly before the therapy and were repeated 
+60 days thereafter. Doctors not involved in the study scored the tests, 
+without knowing when and on whom they had been performed. The doctors 
+said that the angiograms showed evidence of new collateral blood vessels 
+and that no patient had evidence of a new heart attack. The German 
+study grew out of one that Stegmann's team reported earlier this year, 
+also in Circulation. In the earlier study, which began nearly six 
+years ago, Stegmann injected FGF-1 into the hearts of one group of 
+patients undergoing coronary bypass surgery. Another group had bypass 
+surgery without the FGF-1 injection. Stegmann's report that the group 
+treated with FGF-1 could sprout new blood vessels sent waves of enthusiasm 
+through the world of cardiology. Follow-up tests showed that the improvement 
+in the FGF-1-treated patients had persisted, Stegmann said, and that 
+``FGF-1 injections did not create uncontrolled growth of blood vessels, 
+as some had feared.'' Because both therapies were given at the same 
+time, however, Stegmann's team could not be certain about the relative 
+contributions of the FGF-1 and the bypass surgery to the improvement 
+that the participants reported. The next step was to give FGF-1 alone. 
+Last month Stegmann's team began injecting FGF-1 into the first of 
+20 patients, in a study due to end by spring. In the month following 
+the injection, angina pain was abolished in two of the first four 
+patients who received FGF-1, and pain was greatly relieved in the 
+other two, Stegmann said in providing details of the unpublished findings. 
+All experts agree that extensive further research is needed to determine 
+which therapy is the safest and most powerful, in what amounts it 
+should be administered, how often the injections have to be given, 
+and whether there are less invasive ways of providing the treatment. 
+Isner's gene therapy entails injecting naked DNA, so called because 
+it is not inserted into a virus or some other material. If naked DNA 
+is injected directly into a vein, rather than into the heart muscle 
+as Isner administered it, enzymes that are designed to attack any 
+foreign substance will destroy it. Other researchers are testing vegF 
+coated with membranes, or inside a virus that has been crippled so 
+it will not cause illness. The studies will also test the safety of 
+such coatings. In one trial, involving some 100 participants at about 
+a dozen medical centers, researchers are testing whether FGF-4, a 
+chemical cousin of FGF-1, and vegF protein will be effective if injected 
+in a cardiac catheterization. Marmur, of Mount Sinai, is conducting 
+a study testing two forms of therapy. One is a version of vegF made 
+by Genentech Inc., a subsidiary of Roche Holding Ltd. The other is 
+FGF-4 that has been inserted into an adenovirus, a cold virus; it 
+is made by Berlex Laboratories of Wayne, N.J. The study, which includes 
+participants who will receive a placebo as a control, is also being 
+conducted at William Beaumont Hospital in Royal Oak, Mich.; Duke University 
+in Durham, N.C.; Johns Hopkins Hospital in Baltimore; the Mayo Clinic 
+in Rochester, Minn.; the University of Michigan; the University of 
+Minnesota in Minneapolis; the Minnesota Heart Clinic in Edina, Minn.; 
+the University of Pittsburgh; the University of Vermont in Burlington; 
+Washington Hospital Center in the District of Columbia; the University 
+of Washington in Seattle, and the Veterans Affairs Hospital in San 
+Diego. Stegmann said his team expected to do a similar catheter study 
+to inject FGF-1 next year. Isner said his team hoped to gain approval 
+next year to inject naked DNA vegF in cardiac catheterizations. 
+</TEXT>
+</DOC>

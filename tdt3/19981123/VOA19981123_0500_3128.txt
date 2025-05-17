@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981123.0500.3128 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Train service across much of Europe was expected to slow to a crawl 
+today as transport workers protest plans for further deregulation. 
+</TEXT>
+</DOC>

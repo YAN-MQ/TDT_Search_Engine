@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981116.1600.1133 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For all the latest market news, including a special report on the 
+Microsoft antitrust trial, check out our web site at -- cnnfn.com 
+you can use the site to get stock quotes and all the day's business 
+news. 
+</TEXT>
+</DOC>

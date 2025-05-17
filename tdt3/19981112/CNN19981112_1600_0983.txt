@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981112.1600.0983 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+surging oil stocks managed to pull the Dow industrials out of a losing 
+streak, but just barely. The blue chips finish the day -- up almost 
+6 points at 8829. The broader markets though were mostly lower. The 
+NASDAQ composite losing 11 points. Despite stocks' muted performance 
+today, Internet stocks continued to soar. AOL jumped 4 1/4. 
+</TEXT>
+</DOC>

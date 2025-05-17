@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981120.1600.1045 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is the Voice of America coming to you from Washington. I am Erin 
+Brummet with Victor Morales, bringing you this hour of VOA News Now. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981028.1130.0965 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks move higher on Wall Street. Valerie Morris is standing by at 
+the cnnfn newsdesk in New York with a Check on the markets and more. 
+Valerie? Thanks, Catherine. Stocks are making a comeback on Wall Street 
+after sliding into Negative territory at the open. Investors taking 
+heart after Brazil's government announced a new fiscal austerity plan 
+to bring the country's economy back from the brink of collapse. Dupont 
+is the biggest loser on the Dow. 
+</TEXT>
+</DOC>

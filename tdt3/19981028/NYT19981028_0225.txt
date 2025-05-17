@@ -1,0 +1,186 @@
+<DOC>
+<DOCNO> NYT19981028.0225 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Daniel Shiffman, a lanky 25-year-old who is a self-proclaimed computer 
+geek, was never an athletic powerhouse. At the small private high 
+school he attended in his native Baltimore, he was often ``well down 
+near the bottom of gym class,'' he recalled with a chuckle. But when 
+he is playing games on line, sitting in a loft apartment in downtown 
+Manhattan that he shares with three Net-smart roommates and 16 computers, 
+Shiffman, a financial planner and freelance computer consultant, is 
+a nimble giant of a competitor. His opponents, all sitting at their 
+own computers somewhere (anywhere, as long as they are connected to 
+the Internet), know only that he is a master player, capable of wielding 
+a computer joystick with the alacrity of Wayne Gretzky on the ice 
+and pounding his keyboard with speed and accuracy that might make 
+boxing champ Evander Holyfield wince. His game is Myth: The Fallen 
+Lords, a world of magical characters, intricate strategies and sudden 
+death. Each player can play against all the other players or in teams. 
+As many as 16 can participate in a game session. The manufacturer 
+of this wildly popular game, Bungie Software, offers advice that gives 
+a glimpse into the game's free-for-all: ``Kill your enemies. Kill 
+your friends' enemies. Kill your friends.'' ``It's become an obsession 
+of mine,'' Shiffman said happily earlier this month in an interview 
+at the Internet World conference in New York. ``The novelty is that 
+you are not playing yourself in a dark corner of a room somewhere, 
+but you are interacting with actual people.'' Shiffman has joined 
+the swelling ranks of people who are finding greater challenges and 
+just more downright fun by using their computers to play the cagiest 
+opponents of them all: other people. They are using the sophistication 
+of Internet connections to play opponents all over the world in games 
+like Myth and Ultima Online or to go full throttle in the cockpit 
+of a MiG-29 fighter jet, matching wits and heat-seeking missiles against 
+scores of other chairbound fighter pilots _ in Manhattan, Denver or 
+anywhere _ all in the same virtual space that appears on the computer 
+screen as the airspace over central Africa. In what might seem an 
+odd turn, high-powered computers are also being called upon by people 
+who want to play only old favorites, like Checkers, Scrabble and Spades, 
+with distant opponents. Internet game players can, for example, fly 
+World War II-era sorties over wartorn Europe, then reminisce later 
+with fellow cyberaces in virtual lounges _ if they survive their missions. 
+Depending on the game, the talking is done in text-based chat or with 
+full telephony that allows players to speak to one another as if they 
+were on a conference call. All of that tends to make the games even 
+more addictive, players, and people who criticize the games, say. 
+Over all, computer-based games, including television-console games 
+like Nintendo and Sony Playstation, amounted to a $5 billion industry 
+last year, according to Forrester Research in Cambridge, Mass., which 
+studies Internet use and trends. Only 3 percent of that revenue is 
+attributed specifically to computer games played over the Internet. 
+But by 2002, Forrester forecasts, online gaming will account for close 
+to a quarter of an estimated $8 billion computer game industry. Last 
+year, a Forrester report noted that a poll of a wide variety of game 
+developers found that 76 percent had Internet games under development. 
+``People are becoming more familiar with PCs,'' said Seema Williams, 
+a research analyst at Forrester. ``More and more consumers have six 
+months to two years of experience with them. They are more open now 
+to playing games on line.'' In a report in April, Ms. Williams noted 
+that more than a million users of Microsoft's online Internet Gaming 
+Zone had registered to play its most popular game, Spades. America 
+Online, which recently announced a redesign of its popular Games Channel, 
+noted that more than 3.4 million individuals visited the channel in 
+August, logging more than six million hours of play. America Online 
+_ the world's largest online service, with more than 13 million members 
+_ also discovered that who is actually playing its online games defies 
+widely accepted stereotypes. For example, 76 percent of AOL's players 
+are 18 or older, 51 percent of them are 35 or older and most surprisingly, 
+given the commonly held conventions about computer gamers, slightly 
+more than half of the gamers between 25 and 49 years old) were women. 
+``Playing games on line is one of the hottest new forms of entertainment,'' 
+said Lawrence Schick, executive director of interactive entertainment 
+for AOL. ``It's not just the kids who are playing. Mom and Dad are, 
+too.'' Ultimately, it is the human-to-human interaction that makes 
+Internet games especially enticing, players say. IBM's silicon chess 
+whiz, Big Blue, notwithstanding, playing against a computer simply 
+cannot compare with using a computer to play against real people, 
+Internet game makers say. The makers of television-console game systems, 
+like Nintendo and Sony Playstation, have long known this. Many computer 
+game experts said console games, a $2.6 billion industry, owes much 
+of its success to the fact that people play such games against other 
+people. But people play console games with people in the same room; 
+none in the United States are capable of linking players across the 
+vastness of the Internet. Even in the quicksilver world of computer 
+innovation, the world of multiplayer Internet games is relatively 
+new. The sonic boom in online gaming occurred only a couple of years 
+ago, when smarter computers, programs and fundamental improvements 
+in the Internet itself made online games seem to come to life with 
+dazzling graphics and blazing speed, explained John R. Taylor III, 
+vice president for strategic development at the Kesmai Corp. ``It 
+is satisfying to see where things have evolved,'' said Taylor, who 
+co-founded Kesmai, one of the oldest companies specializing in online 
+multiplayer games, in 1982. The early Internet games took shape in 
+a text-defined computer world of MUDs _ Multi User Dungeons, relatively 
+primitive multiplayer programs _ and Unix operating systems. Since 
+then, games have progressed to the point of evoking convincing 3-D 
+environments that offer movie-quality visuals with CD-quality soundtracks 
+and sound effects. But oddly enough, with all the technology, what 
+is most important is that they deliver real people as opponents. ``Even 
+with all the sophistication that computers have, there is a trick 
+or pattern to the way computers play,'' said David Campana, 30, an 
+engineering manager. He said he much preferred playing the personal 
+computer version of the action game Quake II against people rather 
+than against his computer's integrated circuits. ``When you play against 
+people, all bets are off,'' Campana said. ``You never know how people 
+are going to react. It's much better.'' Actually, the Internet is 
+not the only game in town. Many of the most advanced CD-ROM computer 
+games can be played with multiple players on a local area network, 
+or LAN, an in-house network in which the computers are wired to one 
+another, as well as with players on the Internet. On a LAN, any computer 
+on the local network that meets the game's minimal speed, space and 
+power requirements can usually be used to join the action. David Campana, 
+who works for a technology company in Princeton, N.J., said that while 
+he enjoyed playing action games on line, he preferred to play his 
+favorite game, Quake II, on a LAN at his office after office hours. 
+Sometimes more than a dozen of his co-workers stay late to play the 
+game. On a LAN, all the players have identical connections to the 
+in-house network, which is generally not true for players competing 
+over the Internet. Connections vary wildly on the Net, depending on 
+modem speed, the computer's location service provider, and whether 
+some players have superfast connections like cable and T-1 lines. 
+Invariably, players with slow connections are at a disadvantage when 
+drawing their weapons against players with faster connections. In 
+the lexicon of online game players, slow players are often victims 
+of what is called ``latency.'' In Quake II, a game that can be won 
+or lost on a hundredths-of-a-second response, a player with slow connections 
+can appear practically arthritic. But setting up and maintaining a 
+LAN to play games is expensive and cumbersome. And some players can 
+run into the same problem with LAN games that they run into in real-life 
+games: finding someone to play with when you are ready to play. On 
+the Internet, that's is seldom a problem. At any given time, millions 
+are bustling from Web site to Web site, looking for someone to play. 
+And the Web also offers the ancillary benefits of chat rooms, rankings 
+and message boards to compare strategy notes. But to play on the Internet, 
+players need an intermediary, what Ms. Williams at Forrester calls 
+a ``cyberrec room.'' These services, called game centers, are proprietary 
+online services, with names like Kesmai's Game Storm and Mplayer.com, 
+that allow two or more players to compete electronically. Many of 
+these centers also offer chat rooms and message boards to help players 
+of similar interests and skill levels find one another for online 
+games. No two game centers are exactly alike. Some, like Mplayer, 
+are free. Others charge a fee, like Game Storm, which costs $9.99 
+a month (but games are free and can be downloaded from the Internet 
+or from a disk that is mailed to members), and some, like America 
+Online's Games Channel, which is exclusively for AOL members, has 
+two rates for its more advanced games. On AOL, for example, Blackjack 
+and Virtual Pool each cost 99 cents an hour to play, and Air Warrior 
+II is $1.99 an hour. Another major distinction among game centers 
+is whether they provide something called a ``persistent universe'' 
+or ``massively multiplayer gaming. In a persistent universe, the computer-generated 
+world is changed continuously as players enter, affect it in various 
+ways, and exit. Such environments _ like the mysterious medieval land 
+of dragons and sorcerers of Ultima Online, a pay-for-play game _ exist, 
+almost organically, whether 5,000 people are playing or no one is 
+playing. ``The characters' attributes are stored in the database,'' 
+said Chris Holden, chief executive of Kesmai, based in Charlottesville, 
+Va., explaining persistent-universe gaming. ``So when a player comes 
+back, he can pick up right where he left off.'' Left the game and 
+forgot to put your sword away? Ask another player still on line to 
+put it back in your castle for you. That is possible in persistent-universe 
+gaming, which tends to be very expensive to maintain and support. 
+Other online games are in the peer-to-peer category. Devotees of persistent-universe 
+games refer to these game centers disparagingly as ``dating services.'' 
+Services like TEN and Mpath are peer-to-peer, which means that they 
+match up players for games that last only as long as the competitors 
+are playing. When players lose or quit, ending the game, that particular 
+computer world also dies. Many of these companies, Ms. Williams said, 
+are supported by advertisers that pitch anything from new computer 
+games and computer-game magazines to M &AMP; M candies between matches 
+to a mostly male audience of young adults. Both kinds of online games 
+have indirectly created an often unexpectedly strong sense of community, 
+players and game makers say. ``It's all about social interaction,'' 
+Holden said, ``people talking and making friends _ and enemies, for 
+that matter. Anything that happens in real life when people gather 
+can happen on line.'' Regular online players often organize themselves 
+into teams, squadrons or guilds, depending on the game. Some players 
+meet off line to discuss the game or deepen friendships made on line. 
+Holden's colleague, Taylor, said he had met his wife while playing 
+one of his company's Internet games. Ms. Williams said the emerging 
+Internet game world was ``a new community and a new way to interact 
+with that community.'' Yet for Daniel Shiffman in his Manhattan apartment, 
+his online Myth game is mostly just that: a game. ``But a really amazing 
+one, a perfect combination of strategy and fighting,'' he said with 
+a chuckle. 
+</TEXT>
+</DOC>

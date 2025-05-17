@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981019.1830.1493 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Brief review of the main story, the government and Microsoft began 
+doing battle in federal court today. The government accused Bill Gates 
+today of taking part in a meeting in which the government says they 
+tried, Microsoft, to Bully Netscape into not competing. 
+</TEXT>
+</DOC>

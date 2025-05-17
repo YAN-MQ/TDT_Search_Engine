@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981112.1600.1117 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For all the latest market news, check out our web site at cnnfn.com. 
+And back on Wall Street -- the Dow finished up almost six points, 
+the nASDAQ off 11. 
+</TEXT>
+</DOC>

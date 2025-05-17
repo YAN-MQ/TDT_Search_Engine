@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> PRI19981022.2000.0089 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+A coalition of civil liberties groups today filed suit in federal 
+court to try to stop a new federal law aimed at curtailing access 
+to pornography on the Internet. NPR's Eric Westerville reports. A 
+coalition led by the American Civil Liberties Union includes booksellers, 
+media outlets, and medical professionals. They charge that the newly 
+enacted Child Online Protection Act could be used to suppress Internet 
+discussion of such topics as reproductive rights, sexuality, AIDS, 
+or the arts. The new law regulates data given away free of charge 
+on commercial Internet sites and is intended to stop children from 
+gaining access to materials deemed inappropriate. There are exemptions 
+for material with redeeming social, political, or artistic value, 
+but the ACLU charges that the law suppresses free speech because it 
+could end up criminalizing the posting of information that has a legitimate 
+use for adults. The coalition is part of a group that helped fight 
+the Communications Decency Act which the U.S. Supreme Court overturned 
+last year. Eric Westerville, NPR News, Philadelphia. 
+</TEXT>
+</DOC>

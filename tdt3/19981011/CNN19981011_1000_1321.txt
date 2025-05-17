@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981011.1000.1321 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Travis McGriff caught a touchdown pass and also threw a touchdown 
+pass as number six Florida won its 25th straight home game, 22-10, 
+over 11th-ranked lsu. 
+</TEXT>
+</DOC>

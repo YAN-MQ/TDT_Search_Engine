@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981102.1600.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- rescuers in Nicaragua are pulling victims 
+alive and dead from rivers of water and mud. The rain from what was 
+hurricane Mitch has submerged towns all across central America, where 
+officials say as many as 7,000 people may have been killed by the 
+storm. 
+</TEXT>
+</DOC>

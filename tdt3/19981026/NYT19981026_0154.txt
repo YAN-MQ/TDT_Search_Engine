@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> NYT19981026.0154 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+India's one billion Hindus still generally observe a caste system 
+which prohibits members born into one caste from marrying into another. 
+The system is thought to have prevailed for more than 2,000 years, 
+long enough to have impressed a subtle genetic signature on the population, 
+according to a team of American and Indian biologists. Although marriage 
+within one's own caste is strongly preferred, women are occasionally 
+allowed to marry men of higher caste, with their children assuming 
+their father's status. This practice gives rise to a rigidly stratified 
+population in which women have slight upward mobility but men none. 
+Population geneticists can track the lineages of men and women separately 
+by looking at regions of DNA that are inherited exclusively through 
+the male line (the Y chromosome) or the female line (the mitochondria, 
+cellular organelles bequeathed by the egg and not the sperm). Sampling 
+DNA from people of various castes in Andhra Pradesh, a province in 
+southern India, the biologists report in last week's issue of Nature 
+that there is indeed a significant genetic distance, as measured by 
+the number of differences in the DNA, between women in the higher 
+and lower castes. The differences can be explained by a low level 
+of gene flow carried by women moving one way in a firmly layered system. 
+If women moved both ways, or not at all, there would be little difference 
+between the castes. The differences in DNA from the Y chromosome, 
+on the other hand, were minor and probably arose from random mutation, 
+the researchers say. The DNA differences in question make no difference 
+to the people involved because they are not part of the genes. Population 
+geneticists prefer to study non-gene DNA because it changes quite 
+often, whereas most mutations in the genes are harmful and quickly 
+eliminated. Dr. Michael J. Bamshad of the University of Utah, a co-author 
+of the study, said that he and his colleagues at Andhra University 
+in India hoped to extend their methods to explore the population history 
+of India and the role of different groups in the caste system. ``There 
+has been a greater Asian influence in the lower and middle castes, 
+and a greater Caucasian contribution to the upper castes,'' he said, 
+a finding which probably reflects the Indoeuropean invasion of India. 
+The genetic traces of women trickling up through the caste system, 
+Bamshad said, ``demonstrates that social proceses such as mating patterns 
+can leave an indelible imprint on the human genome. It also shows 
+how powerful genetic analysis is for revealing human history.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,49 @@
+<DOC>
+<DOCNO> NYT19981105.0532 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In an embarrassing blunder that illustrates the pitfalls facing the 
+government in the Information Age, the Bureau of Labor Statistics 
+inadvertently posted part of its closely guarded jobs report on the 
+Internet a day before the report's scheduled release. As a result, 
+some investors got an advance peek at the economy's performance in 
+October. ``We have procedures in place,'' Katharine Abraham, the bureau's 
+commissioner, said. ``They obviously didn't work.'' By the end of 
+the day, Ms. Abraham said she would not be able to explain what went 
+wrong until Friday at the earliest. Monthly job data are normally 
+released on a Friday, usually the first one of the following month. 
+The main concern about security involves the circulation of information 
+within the government. The bureau normally releases manufacturing 
+employment figures to the Federal Reserve two days before the official 
+report is released so that the central bank can use it to estimate 
+industrial production. On Thursday night, it provides a complete report 
+to the Council of Economic Advisers, which briefs the president's 
+economics team and passes the data along to the Treasury and the Fed. 
+Thursday's glitch was not the first involving the bureau's four-year-old 
+World Wide Web site. Two years ago, a report on producer prices was 
+posted the night before it was scheduled for release. Unlike Thursday, 
+though, bureau staff almost immediately discovered the mistake and 
+retrieved the report. This time, a full 24 hours before the jobs report 
+was scheduled to be released, a table reviewing job increases and 
+declines by industry was mistakenly posted on the bureau's Web site 
+(www.bls.gov). It was a background table prepared for internal use 
+that had only recently been added to the charts the bureau makes available 
+with its jobs report. Raymond Stone, head of the Stone &AMP; McCarthy 
+brokerage firm, was one individual who found it while browsing the 
+site. Stone alerted the bureau _ but also shared the report, which 
+showed that job growth in October was much softer than had been expected, 
+with his clients. ``Some people use the Web to make vacation plans, 
+some people use it to buy a new car,'' he said on CNBC Thursday. ``I 
+go look at economic data.'' The leak did not particularly rattle financial 
+markets. ``We're lucky that markets are fixated on other things and 
+that they're paying much less attention to economic data,'' Bruce 
+Steinberg, chief economist at Merrill Lynch &AMP; Co., said. ``It's 
+a pretty shocking event, and it had an impact, but it didn't have 
+the impact it could have had.'' Lawrence Katz, an economist at Harvard 
+University and a former chief economist at the Labor Department, said 
+he assumed the leak had been an innocent mistake. ``In the past, even 
+when there have been rumors of a leak, it's been taken very seriously,'' 
+he said. 
+</TEXT>
+</DOC>

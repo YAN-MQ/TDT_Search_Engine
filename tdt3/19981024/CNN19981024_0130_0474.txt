@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981024.0130.0474 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"Headline News" forecast. A beautiful Saturday morning for the central 
+and eastern sections of the country as well as for the central Rockies. 
+As we work our way into Saturday afternoon, rain and snow move into 
+the rockies and we'll see rain move into the extreme southern portions 
+of Texas by Sunday morning. But the central and eastern sections of 
+the country continue looking beautiful with fall-like weather. And 
+temperatures feeling very fall-like -- highs in the 60s and 70s. 50s 
+in the northeast and northwest. Your extended forecast shows rain 
+and windy conditions out west on Sunday with thunderstorms throughout 
+the extended forecast period in southern texas. On Monday, the rain 
+diminishes over the Rockies. We'll still see some scattered showers. 
+And then on Tuesday, scattered showers still in the southern Rockies 
+and showers moving into the northwest with a warm-up throughout the 
+extended period over the U.S. and remember, you can get your four-day 
+forecast for more than 7200 cities at CNN.com. 
+</TEXT>
+</DOC>

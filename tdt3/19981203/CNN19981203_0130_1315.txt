@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981203.0130.1315 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+To the ice, the coyotes unbeaten streak is over. They lost to Edmonton 
+4-3. Murray netted the game-winner. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981119.1130.1092 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Infoseek are losing ground today. The shares of 34 of 13/16, after 
+Netscape communications announced ht may ends an agreement to link 
+to the site. It would greatly reduce the amount of traffic to the 
+site. Therefore, lowering its appeal to advertisers, which are infoseek's 
+main source of revenue. 
+</TEXT>
+</DOC>

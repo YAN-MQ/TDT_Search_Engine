@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981106.0500.2063 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+It is 10 hours 35 Universal time. This is NEWS NOW, coming to you 
+from Washington. 
+</TEXT>
+</DOC>

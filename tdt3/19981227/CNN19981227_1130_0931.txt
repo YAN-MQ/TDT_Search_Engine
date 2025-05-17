@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981227.1130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- expect more crowds at airports and on 
+the road today as holiday travelers return from the Christmas weekend. 
+Travel should intensify by midweek as new year's approaches. 
+</TEXT>
+</DOC>

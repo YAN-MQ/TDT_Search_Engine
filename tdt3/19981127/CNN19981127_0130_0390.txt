@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981127.0130.0390 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's a somber Thanksgiving weekend for some American families who 
+lost loved ones when Swissair flight 111 crashed off Nova Scotia. 
+They will return to the crash scene Friday to remember those who died. 
+Search operations are also resuming in the waters off Peggy's cove. 
+Searchers began dragging the bottom again this week in hopes of recovering 
+more pieces of the downed MD-11 jetliner. All 229 people aboard the 
+aircraft were killed when it plunged into the sea in September. 
+</TEXT>
+</DOC>

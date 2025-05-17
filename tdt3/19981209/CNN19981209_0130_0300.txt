@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981209.0130.0300 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Most Americans apparently don't want the house Judiciary committee 
+to recommend an impeachment probe of President Clinton. A CNN/"USA 
+today" Gallup poll taken Tuesday night indicates 59% of americans 
+think the committee should vote against impeachment. 34% say it should. 
+Of the 59% of Americans who are against impeachment, 8% said it was 
+because they believe the president did nothing illegal. 48% said even 
+if his actions were illegal, they were "not impeachable." 
+</TEXT>
+</DOC>

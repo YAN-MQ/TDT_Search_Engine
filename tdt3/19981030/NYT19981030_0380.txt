@@ -1,0 +1,77 @@
+<DOC>
+<DOCNO> NYT19981030.0380 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+On his second day in orbit, 77-year-old John Glenn was feeling fine, 
+eating well and working hard Friday, and so were all the astronauts 
+aboard the space shuttle Discovery. They got busy early, deploying 
+a small communications satellite, processing metal alloys and semiconductor 
+materials, and studying the effects of space weightlessness on the 
+human body and how it relates to aging. For old times' sake, the people 
+of Perth, on the western coast of Australia, had their lights on in 
+full glow and Glenn saw them as the shuttle passed to the north, just 
+as he had done so memorably on his first space flight, on Feb. 20, 
+1962. In a televised report from Discovery, Glenn smiled and declared, 
+``It's been a great ride so far.'' He said the launching on Thursday 
+``was quite different from the ride I got long, long ago.'' And he 
+said he was enjoying the freedom to float weightlessly in the shuttle, 
+which is far more spacious than the tiny cockpit he occupied on his 
+first flight. Glenn said he had suffered no motion sickness and was 
+eating heartily, and he joked that in weightlessness a speck of food 
+stuck on his glasses. ``To be able to float freely up here, I just 
+wish everyone could experience this,'' Glenn said. Mission officials 
+said the shuttle was also performing well. They said the missing cover 
+of a parachute compartment, which fell off during the launching here, 
+was not expected to curtail the flight or pose a hazard during the 
+vehicle's descent and landing. Engineers are still investigating the 
+cause and possible implications of the malfunction. At a news conference 
+at the Johnson Space Center in Houston, Jeff Bantle, the mission operations 
+manager, said the absence of the insulation-covered aluminum panel 
+should not expose any vital shuttle systems to dangerously low temperatures 
+in orbit or to high ones during re-entry into the atmosphere for landing. 
+The plan now, he said, was not to attempt to deploy the stowed parachute 
+on landing to assist in braking the shuttle's speed on the runway. 
+Bantle said this plan would not add any ``significant risk'' or require 
+that Discovery change its landing site from the Kennedy Space Center 
+to Edwards Air Force Base in California, where the breadth of the 
+flat desert gives pilots a wide margin for error. For the first half 
+of the shuttle program, the vehicles landed safely without using such 
+so-called drag chutes at touchdown. Technicians here recovered pieces 
+of the panel scattered around the launching pad from which Discovery 
+took off on Thursday for its planned nine-day mission. The astronauts 
+were instructed to use a camera on the end of the shuttle's robotic 
+arm to investigate the tail section where the parachute door had been. 
+It is not yet clear whether the parachute is still tucked inside the 
+opening, though engineers think it remained in place and is not likely 
+to deploy prematurely. Aside from the missing door, Bantle said, ``The 
+orbiter is in very good shape.'' David Williams, a physician and the 
+director of life sciences at the Johnson Space Center, reported that 
+Glenn ``is really enjoying being back in space, and he's doing really 
+well.'' Glenn is retiring from the U.S. Senate in January and is making 
+his return to space 36 years after he became the first American to 
+orbit Earth. He is the oldest person to travel in space. ``You could 
+hear the excitement in his voice,'' Williams said. ``I think he's 
+doing a fantastic job.'' The whole crew, the doctor said, appeared 
+to be well and extremely busy and productive during their first 24 
+hours in orbit. Using a terrestrial expression, he said, ``From a 
+medical perspective, this crew hit the ground running.'' The crew 
+is commanded by Lt. Col. Curtis Brown of the Air Force. The other 
+astronauts are Lt. Col. Steven Lindsey of the Air Force, Dr. Stephen 
+Robinson, Dr. Scott Parazynski, Pedro Duque and Chiaki Mukai. Duque 
+is from Spain, and Mukai is from Japan. When Discovery flew north 
+of Australia Friday morning, the glowing lights of Perth were clearly 
+visible, as Glenn had been told to expect. Looking out a shuttle window, 
+he radioed to Mission Control: ``I've got a real good view of Perth, 
+two big centers of light. I think Perth's grown a little since I saw 
+it from this angle last time.'' In the afternoon, Brown, Lindsey and 
+Robinson were at the controls when one of the shuttle's payloads was 
+released out of the cargo bay. This was the Petite Amateur Naval Satellite, 
+or Pansat, a small communications satellite designed by students at 
+the Naval Postgraduate School in Monterey, Calif. Although its main 
+purpose is to train military officers in designing, building and operating 
+satellites, Pansat will function for at least a year in the amateur 
+radio frequency range as a kind of space bulletin board for ham radio 
+operators. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> MNB19981211.2100.1358 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+You've been standing by for us all day long and we appreciate it. 
+Thank you, Brian. 
+</TEXT>
+</DOC>

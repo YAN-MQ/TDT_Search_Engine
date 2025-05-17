@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981219.1000.0911 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another round of missile attacks in Baghdad. President Clinton meets 
+with his national security team today to discuss the effectiveness 
+of the campaign and whether to continue it. 
+</TEXT>
+</DOC>

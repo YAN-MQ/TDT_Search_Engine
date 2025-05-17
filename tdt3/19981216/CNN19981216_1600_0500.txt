@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981216.1600.0500 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for Thursday morning. Windy conditions will continue in 
+the west, particularly so in the southwest. The Santa Ana still blowing 
+through southern California. It may weaken a bit during the day tomorrow. 
+But still windy conditions and warm temperatures. Speaking of temperatures, 
+cold air, frigid air, finally making its way down through the upper 
+midwest behind a cold front that will move through the Great Lakes 
+area. Some snowfall will slide across the northern plains states and 
+into the upper midwest. Your forecast for high temperatures indicates 
+that frigid air that I was telling you about, moving down into the 
+Great Lakes area, and cold temperatures cover parts of the east, but 
+still relatively mild throughout much of the west. The extended forecast, 
+on Friday, snow showers possible in the Great Lakes area. You can 
+see the cold air in the north. As we move on in through the weekend, 
+on Saturday, snow showers are possible in the New England states, 
+and as we head on into Sunday, snow possible in the Great Lakes area. 
+Showers to the south of that, and you can see the very cold air finally 
+making its way across the Canadian border. For more weather information, 
+logon to CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981115.1000.0431 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Boeing and the FAA are investigating whether cracked hydraulic valves 
+that were intended to correct possible flaws made their way into the 
+rudder assemblies of 1,000 737 jets. Cracks were found in nine valves 
+still at the manufacturer. Boeing says the planes are safe to fly, 
+even with the faulty valves. The national transportation safety board 
+is investigating whether a Potential flaw in the 737's original rudder 
+assembly could have caused several 737 crashes. Boeing says there's 
+no proof of any such link. 
+</TEXT>
+</DOC>

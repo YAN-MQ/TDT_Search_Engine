@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> PRI19981204.2000.0256 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+A new analysis of radiation in the earth's atmosphere suggests that 
+solar disturbances may have caused the loss of a key communication 
+satellite last year. NPR's Christopher Joyce has more. The satellite 
+was Galaxy 4, and it malfunctioned for a no apparent reason on May 
+19. Some 45 million pager customers lost service. So did numerous 
+broadcasters including National Public Radio, that use the satellite 
+to send signals around the world. Dan Baker at the University of Colorado 
+and a team of atmospheric scientists now say solar flares and high-speed 
+solar winds created an intense flux of electrons in the earth's atmosphere 
+in early May. They say those electrons could have triggered the failure. 
+The scientists note that at least two other satellites experienced 
+serious problems the same month. Up to now, Galaxy IV's operator, 
+PanAmSat, has not determined a specific cause for the loss of the 
+satellite. The scientists published their findings in Theos, the Journal 
+of the American Geophysical Union. Christopher Joyce, NPR News, Washington. 
+</TEXT>
+</DOC>

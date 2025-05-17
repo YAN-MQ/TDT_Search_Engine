@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981211.1830.1012 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Minnesota today, a natural gas explosion leveled part of downtown 
+St. cloud, about an hour northwest of Minneapolis. Four people were 
+killed, including two gas utility workers who were investigating a 
+report of a gas leak. At least ten people were hurt. One of them is 
+in critical condition. 
+</TEXT>
+</DOC>

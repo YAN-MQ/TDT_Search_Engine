@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981012.1130.0390 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Maintenance crews are searching for the source of fumes that caused 
+problems aboard a northwest airlines jet. The jet was forced to land 
+in Indianapolis last night when many of the 95 passengers and crew 
+became dizzy and nauseated. Medics met the plane at the gate. A flight 
+attendant was hospitalized, treated and released. The plane was En 
+route from Charlotte, North Carolina, to Minneapolis. Passengers were 
+placed on other flights. 
+</TEXT>
+</DOC>

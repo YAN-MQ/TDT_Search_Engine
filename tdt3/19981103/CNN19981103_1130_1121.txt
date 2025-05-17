@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981103.1130.1121 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+You can get the latest consumer news on our financial web site. Just 
+log onto cnnfn.com. you can also use the site to get stock quotes 
+and advice on personal finance. 
+</TEXT>
+</DOC>

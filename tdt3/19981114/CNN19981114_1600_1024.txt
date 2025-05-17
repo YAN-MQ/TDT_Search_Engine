@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981114.1600.1024 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Dow corning has detailed its plan to emerge from bankruptcy and settle 
+lawsuits over silicon breast implants. The company filed for protection 
+from creditors 3 1/2 years ago after 170,000 women filed suit. Most 
+of the claimants are expected to receive between $12,000 and $60,000 
+each. 
+</TEXT>
+</DOC>

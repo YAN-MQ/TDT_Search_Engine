@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981223.0130.1654 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Speaking of the president, he had some young visitors at the White 
+House today. They came to hear his rendition of "twas the night before 
+Christmas." I'm Denise Dillon. This is "Headline News." 
+</TEXT>
+</DOC>

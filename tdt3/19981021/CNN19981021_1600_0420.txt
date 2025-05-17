@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981021.1600.0420 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A European-made ariane five rocket successfully lifted off today from 
+french guiana. It's the most powerful unstaffed rocket produced by 
+the European space agency. Today was the third and final test launch 
+for the ariane five before it is used commercially. The launch was 
+meant to confirm the rocket's capacity to place satellites in orbit. 
+</TEXT>
+</DOC>

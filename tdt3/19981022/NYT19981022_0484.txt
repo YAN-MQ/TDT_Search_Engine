@@ -1,0 +1,146 @@
+<DOC>
+<DOCNO> NYT19981022.0484 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The global financial turmoil has jolted big banks across Europe and 
+the United States, but few can match the woes in Switzerland. First 
+came the agreement this summer by the biggest Swiss banks, led by 
+Credit Suisse Group and UBS AG, to pay $1.25 billion to settle a suit 
+brought by Holocaust survivors concerning plundered wealth that had 
+been stored in Swiss banks. Then, in September, Credit Suisse acknowledged 
+it had lost at least $500 million through its activities in Russia. 
+Most analysts say the total losses could easily be twice that. And 
+three weeks ago, the chairman of UBS abruptly resigned after the bank 
+lost $780 million in connection with the near-collapse of Long-Term 
+Capital Management, the hedge fund in Greenwich, Conn. More bad news 
+is probably on the way. Most analysts say Credit Suisse will have 
+to write off at least another $500 million in Russian debt, while 
+UBS faces a mountain of potential trouble in Latin America _ not to 
+mention the lingering possibility of more bombshells from wayward 
+derivatives trading. All this has gravely undermined the elite mystique 
+of Swiss bankers as being too stable and sure-footed to be tripped 
+up by the lure of fast money. Such stumbling also carries international 
+significance, given the global reach of both institutions. After its 
+merger in January with Swiss Bank Corp., UBS is by some measures the 
+world's biggest bank. And though both banks can easily handle their 
+losses, their dignity and credibility will be far more difficult to 
+repair. Indeed, the very notion of a ``Swiss'' bank is under strain. 
+Two of UBS' top executives now are American, including the man who 
+is charged with redefining ``risk'' for the entire institution: a 
+33-year-old derivatives wizard from Chicago named David Solo. UBS 
+is also still struggling with a sweeping reorganization in the wake 
+of its merger with Swiss Bank and its trading catastrophe with Long-Term 
+Capital. ``What we have had so far are only profit warnings,'' said 
+George Koh, an analyst at Paribas Capital in London. ``But sooner 
+or later they are going to have to take new provisions'' for expected 
+losses. How much? UBS has not spelled out much about its exposure 
+to risky loans; its looming losses are unclear but are expected to 
+be big. At Credit Suisse, which has provided detailed information 
+about its loan portfolios and trading activities, Koh and others are 
+betting on $1 billion in additional losses just from Russia and Brazil. 
+Amid the turmoil, the two banks appear to be responding in very different 
+ways. Ever since UBS stunned the industry by announcing that its chairman 
+would resign, the bank has hunkered down in silence to rethink its 
+strategy toward higher-risk activities like proprietary securities 
+trading and investment banking. UBS executives refused to be interviewed, 
+but the bank told shareholders recently that it was re-evaluating 
+its ``risk profile.'' Some industry experts speculate that UBS might 
+go so far as to sell or spin off its investment bank, Warburg Dillon 
+Read, though most analysts say it will simply hew to a far more conservative 
+tack. At Credit Suisse and its investment bank, Credit Suisse First 
+Boston, executives remain almost pugnaciously determined to stick 
+to their strategy. ``Some European banks will decide this is a business 
+they do not want to be in,'' said Richard Thornburgh, Credit Suisse's 
+chief financial officer. ``It appears to us that there is an opportunity 
+here to capitalize on the reduction in capacity.'' Though UBS and 
+Credit Suisse face different problems, both have been expanding in 
+more profitable but riskier areas. Because of Switzerland's historic 
+role as an international financial center and the country's small 
+domestic market, both banks are far more internationally minded than 
+other European banks, and far less dependent on traditional commercial 
+lending. UBS became one of the world's biggest banks when it merged 
+with Swiss Bank Corp. early this year. But the giant new bank is now 
+having intense heartburn because of its problems in Russia and Asia 
+and its disastrous involvement with Long-Term Capital. The bank revealed 
+last month that it had lost $780 million through a complex series 
+of transactions with the American hedge fund, in part because top 
+bank executives had failed to realize the extent of their exposure. 
+Hoping to restore some of the bank's lost credibility, Matthis Cabiallavetta, 
+the chairman, resigned along with other top executives on Oct. 2. 
+Analysts say the problems appear to have originated at the old UBS, 
+which lost more than $450 million on derivatives trading in 1997. 
+Executives from the old Swiss Bank, which had a much bigger business 
+in derivatives, are now largely in control of the combined operation. 
+Marcel Ospel, who built up much of Swiss Bank's investment banking 
+business, is UBS' chief executive. Solo, the 33-year-old chief operating 
+officer of UBS' Warburg Dillon Read, has been named to the new job 
+of ``chief risk officer.'' But UBS' problems extend beyond its adventures 
+with hedge funds. Many were dismayed Sept. 24 when UBS announced a 
+loss of $468 million in emerging markets, much of it in Russia. Just 
+four weeks earlier, the bank had said its losses in Russia were only 
+about $133 million. UBS also has a big exposure to Latin America, 
+which has become infected by much of the currency turmoil that hit 
+Asia and Russia. Total exposure in Latin America is about $3.56 billion, 
+but the bank has taken provisions adding up to less than 10 percent 
+of that amount. That percentage would be ``certainly too low,'' said 
+Morgan Stanley in a recent report, should the region endure more financial 
+turmoil. Credit Suisse's biggest problem is Russia. In a bold bid 
+to capitalize on the reconstruction of Russia after the fall of communism, 
+Credit Suisse First Boston became the dominant dealer in Russian government 
+bonds, accounting for 40 percent of the trading activity. It also 
+became a big lender to Russian companies and municipalities. All told, 
+Credit Suisse has estimated its exposure in Russia _ through government 
+bonds, currency contracts, loans and trading activities _ at about 
+$3 billion. The bank has set aside about $1 billion in provisions, 
+but most analysts now assume it will need to set aside far more. ``My 
+assumption is they have another half-billion or billion to go,'' said 
+John Leonard, an analyst at Salomon Smith Barney in London. Thornburgh 
+of Credit Suisse conceded that more provisions may well be necessary, 
+but said the ultimate extent of the losses will depend in large part 
+on how the Russian government restructures its bonds and how Russian 
+banks decide to meet their commitments. ``The mistake we made in Russia 
+was that no one ever thought that you would get the combination of 
+a devaluation, a default and a fall of the government _ and effectively 
+the government has fallen,'' he said Thursday. Credit Suisse's Russia 
+problems come in several flavors. As of early September, it had trading 
+positions in Russian government and corporate bonds worth $147 million. 
+It also had about $1 billion in loans to government agencies or big 
+Russian companies, like the natural-gas conglomerate Gazprom, and 
+about $571 million in loans to other corporations and banks. Many 
+loans were made in the expectation of underwriting future bond offerings, 
+whose proceeds would be used to pay off the loans. But bond offerings 
+are now virtually impossible, and the bank is waiting to see what 
+happens. One of the biggest dangers is in currency contracts, which 
+are usually entered with Russian banks to hedge against a devaluation 
+in the ruble. These contracts were crucial for investors buying up 
+Russian bonds, which pay high interest rates _ but only in rubles. 
+Credit Suisse said it has about $1.1 billion worth of these contracts 
+on its books, money that Russian banks theoretically owe it in the 
+wake of the ruble's plunge in value since the summer. But the Russian 
+government has imposed a moratorium on paying off these contracts. 
+``The criticism that everyone can make is that our concentration on 
+Russia was too high,'' Thornburgh said. ``But there was nothing wrong 
+about the activity in itself. This is what banks do.'' In the wake 
+of Russia's economic collapse, Credit Suisse said last week it would 
+eliminate about 100 jobs in that country. But in most parts of their 
+business, bank executives say they have no intention of retrenching. 
+To be sure, Switzerland's two big banks are hardly alone. Scores of 
+other big American and European banks, from Deutsche Bank in Germany 
+to BankAmerica, have taken big losses in Asia and Russia. Spain's 
+biggest banks have huge exposure in Latin America, as do American 
+and German institutions. Compared with Japan's big banks, many surviving 
+only on life support, the giant Swiss institutions are bastions of 
+robust health. For all the problems, some analysts argue that the 
+Swiss banks retain important advantages over rivals like Deutsche 
+Bank or ABN-Amro of the Netherlands. With the advent of the euro as 
+a single European currency _ even though Switzerland will remain outside 
+the new currency zone _ the overwhelming trend in Europe is toward 
+a handful of money-center banks, said Hans Kaufmann, an analyst at 
+Bank Julius Baer in Zurich. ``What will happen in the new euro area 
+is that major companies will not need 11 different local banks,'' 
+Kaufmann said. ``They will go for the major banks that are capable 
+of organizing large-scale economies. At the end of the day, there 
+is only one way you can survive and that is by being efficient.'' 
+</TEXT>
+</DOC>

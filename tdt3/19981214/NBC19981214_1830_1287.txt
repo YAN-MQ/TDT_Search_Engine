@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981214.1830.1287 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+News from the brave new world of Gene therapy. Scientists have come 
+up with a new way to inject new genes into aging muscles. The result 
+-- strong new muscle tissue just like the kind you have when you're 
+young. The bad news is, the experiment's only been tried on mice. 
+It may be years before this experiment can be tried on humans. 
+</TEXT>
+</DOC>

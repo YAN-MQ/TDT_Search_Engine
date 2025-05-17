@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981128.0130.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Two people have been killed and more than 30 are injured after a bus 
+crashed over a bridge and onto an apartment building in Seattle Friday. 
+Police say the driver lost control after a passenger apparently shot 
+him in the arm. 
+</TEXT>
+</DOC>

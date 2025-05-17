@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981214.1130.0993 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Barbie goes shopping. I'm Myron Kandel at the "CNN Financial News" 
+desk in New York and this is "Dollars & Sense." Toy giant Mattel which 
+makes Barbie, will buy the learning company for $3.8 billion in stock. 
+The learning company makes such educational software as Rita rabbit 
+and national geographic programs. In summer they acquired other software. 
+Mattel warned today that earnings for the fourth quarter and the year 
+will be significantly weaker than expected. 
+</TEXT>
+</DOC>

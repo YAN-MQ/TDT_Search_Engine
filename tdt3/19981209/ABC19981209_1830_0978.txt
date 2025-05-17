@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981209.1830.0978 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"On the money" tonight, TWA is growing again. The airline is buying 
+nearly $4 billion worth of new planes. 50 planes will come from Boeing, 
+and 75 from Boeing's competitor, the european Airbus industries. 
+</TEXT>
+</DOC>

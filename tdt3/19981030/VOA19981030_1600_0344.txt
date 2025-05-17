@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981030.1600.0344 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+You're listening to VOA News. I'm Pat Bodnar in Washington. I'm Susan 
+Yackee with Tom Crosby, and this is VOA News Now from Washington. 
+</TEXT>
+</DOC>

@@ -1,0 +1,125 @@
+<DOC>
+<DOCNO> NYT19981101.0151 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Spurred by fierce competition for students, colleges and universities 
+from Florida State to New York University are plunging headlong into 
+the rapidly evolving world of online education, a world that barely 
+existed five years ago. In recent years, technologically adventurous 
+professors worked the Internet into their courses, posting the syllabus 
+or readings, sometimes responding to student queries. Some of the 
+more proficient put courses online. But only recently have universities 
+begun to offer whole programs and degrees on line, where a student 
+can sign up for a bachelor's, a master's or even a law degree _ the 
+1990s version of a correspondence course. No college can be certain 
+whether the programs will attract enough students to justify the considerable 
+expense _ $50,000 or more to create and support each class. But school 
+officials say that if they do not stake out territory in cyberspace 
+now, someone else will. ``This is the hottest and most sweeping development 
+I've ever seen,'' said James H. Ryan, a vice president at Pennsylvania 
+State University, who has been in higher education for 35 years. ``It's 
+like being in a roller coaster; it's a thrill a minute.'' But even 
+as universities stampede onto the Internet, significant questions 
+have yet to be answered. How good is the education? Who owns the courses 
+_ the university or the professors who create them? How should faculty 
+members be paid? What works best in online teaching? And will a degree 
+from a virtual university be worth the actual paper it is printed 
+on? Frank Mayadas, a program officer at the Alfred P. Sloan Foundation 
+in New York, which has financed programs to improve online teaching, 
+said the picture was mixed. Some online degrees, like Stanford University's 
+master's degree in electrical engineering or Drexel University's masters 
+in information systems, are sound, Mayadas said. But he is skeptical 
+that other offerings will endure. ``The predictability we associate 
+with higher education institutions isn't there yet,'' he said, ``and 
+it needs to be there for this to become a credible source of education.'' 
+Still, online classes are a considerable step up from correspondence 
+schools. Internet bulletin boards function as virtual classrooms for 
+students and teachers who can participate at any time, from anywhere, 
+using a computer and a modem. Instructors post lectures and assignments; 
+students turn in papers and tests and discuss their studies with classmates 
+and professors in online conferences. Michele Acuna of Saugus, Calif., 
+a 34-year-old mother with two teen-agers who is working on a bachelor's 
+degree from the University of Phoenix, signs on almost every day to 
+the Hewlett Packard computer in her bedroom for a communications course. 
+Her professor is in Utah. ``I do a lot at night when my children are 
+in bed,'' she said. ``That's the beauty of this stuff _ you can do 
+it at 3 a.m.'' No one knows exactly how many colleges operate on the 
+Internet. But what is clear is that the trend is picking up speed 
+nationwide: _ New York University announced this month an audacious 
+plan to create a profit-seeking subsidiary to market Internet courses. 
+The venture would allow NYU to raise millions of dollars through a 
+stock offering or private partnerships. _ The University of Phoenix, 
+a for-profit behemoth that has officials at many traditional universities 
+scared because of its rapid spread online, has nearly 5,000 students 
+in its online program, more than double the number two years ago. 
+_ Western Governors University, an online college sponsored by 17 
+states and Guam, was started this fall to improve access to college 
+education for adults and to help accommodate an expected crush of 
+students without building classrooms. The university offers associate's 
+degrees in liberal arts and applied science. _ The California Virtual 
+University, a consortium of nearly 100 California universities and 
+colleges, opened this fall with more than 1,600 online courses. _ 
+The Open University _ Britain's 29-year-old pioneer in distance education 
+for college students _ has applied for American accreditation and 
+is striking cooperative agreements with universities like Florida 
+State University. _ Penn State established its online ``World Campus'' 
+in February with just four courses and expects to have 30 courses 
+by next February. _ Florida State will begin offering courses next 
+fall for a bachelor's degree, but will concentrate on course work 
+for juniors and seniors. The proliferation of online programs has 
+many traditional educators scratching their heads. A committee of 
+the American Association of University Professors concluded last year 
+that online learning could be ``a valuable pedagogical tool to increase 
+access to higher education.'' But it warned that developments could 
+compromise traditional notions of academic quality, academic freedom, 
+intellectual property rights and instructors' workloads and compensation. 
+In some cases, long-standing safeguards of faculty members' rights 
+may suffice, it said, but in others, those protections may need reworking. 
+Unlike a traditional classroom course, for which a professor creates 
+and delivers each course, the professor becomes more dispensable online 
+after putting the course together in a form that can be sent out again 
+and again. Another instructor can be assigned to answer questions 
+and grade papers. Universities are creating different arrangements 
+to determine who owns what. Penn State, for example, is splitting 
+revenues with the faculty members who develop the courses and their 
+departments, while New York University says its new subsidiary will 
+hold ownership rights for the online courses. The student body for 
+most online courses is part-time adults in continuing education programs 
+or full-time degree-seekers who take most of their work in traditional 
+classrooms. But the trend is to make it possible to earn a degree 
+online rather than just take a few individual classes. Jeremy Carlo, 
+a sophomore majoring in applied math and physics at the New Jersey 
+Institute of Technology, took a computer science course online in 
+the spring when he could not fit the regular course into his schedule. 
+He found the flexibility a mixed blessing. ``It was nice that you 
+didn't have to be somewhere from 4 to 5:30 twice a week,'' Carlo said. 
+``The negative is that you really have to keep on top of the work.'' 
+Ms. Acuna is using her computer for all of her courses. She said she 
+had always wanted a college degree. But as a single mother with a 
+full-time job as an operations manager for a retail chain with night 
+and weekend shifts, she could not commit to regular-class attendance. 
+She looked into several online programs before enrolling as a business 
+major at the University of Phoenix. At $370 a credit ($465 for graduate 
+work), Phoenix charges more than the local community college. Phoenix 
+students typically take one course at a time for five weeks, and then 
+have a week off before starting the next. The only requirement Ms. 
+Acuna was not able to fulfill at home was the university's entrance 
+examination, which she took at a local school. In her current communications 
+course she and her five classmates write essays, read them and discuss 
+them in teams _ but talk about little else. There is no sense of a 
+campus community, but she does not mind. Now that Internet education 
+is taking clearer shape, some university officials are taking a closer 
+look at the business aspects. Active marketing is a major component 
+of the NYU plan. Rather than aiming to put all the courses it can 
+on the Web, the university is hoping to start with a dozen or so niche 
+courses _ like computer and management courses that will be attractive 
+to people in industry. As these courses bring in revenues, others 
+will be added. ``Online is a big, important field in higher education, 
+but it does not have a business model that works,'' said Gerald A. 
+Heeger, dean of Continuing and Professional Studies at NYU, who is 
+directing the university's new online enterprise. ``The dirty, little 
+secret is that nobody's making any money,'' Heeger said. But someday 
+they will, he added. 
+</TEXT>
+</DOC>

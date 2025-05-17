@@ -1,0 +1,50 @@
+<DOC>
+<DOCNO> NBC19981105.1830.0916 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NBC news "in depth" tonight -- a medical milestone and a potential 
+revolution in the treatment of deadly diseases that strike so many 
+of us. We all know the human body is incredibly complex. It contains 
+nine major organ systems and more than 110 organ and tissue types. 
+The foundation for it all -- human cells. Now, a new study in the 
+journal "science," says scientists have figured out how to reproduce 
+cells that may help cure major illnesses. Here's NBC's chief science 
+correspondent Robert Bazell tonight, "in depth." For the first time, 
+scientists have learned how to grow the most basic building blocks 
+of the human body in a laboratory. They are called "embryonic stem 
+cells," and their potential for treating disease is mind-boggling. 
+It is a big deal to us, absolutely. The human body is made of specialized 
+cells -- hair cells, skin cells and those that make up muscle, blood, 
+nerves -- every organ in the body. But the embryonic stem cells have 
+the amazing capacity to become any kind of cell. This could be a resource 
+for growing cells and transplanting them into the body in cases where 
+there are diseased organs or where there are injuries, and you need 
+tissue replacement. In other words, one day, some of the 4 million 
+Americans suffering from Alzheimer's might be treated with stem cells 
+to replace the brain cells they have lost. Or the cells might repair 
+the damage to spinal cords, now considered permanent in 250,000 Americans. 
+Stem cells could repair the damaged heart muscle in some of the 20 
+million americans with heart disease and could treat others illnesses 
+ranging from diabetes to cancer. Isn't it true that there's almost 
+no area of medicine that couldn't potentially benefit from these cells? 
+I guess I agree with that statement since you could form virtually 
+any cell type, then, obviously, that pretty much covers the human 
+body. Until now, the stem cells existed only in embryos at the very 
+beginning of life, a few days after fertilization. But Dr. John gearhart 
+and his team at Johns Hopkins, along with a second group at the University 
+of Wisconsin, managed to harvest the stem cells and make them grow 
+continually in the laboratory, creating, in effect, an endless resource. 
+When will clinical trials with these cells begin? No one knows. Scientists 
+have many technical obstacles to overcome. But even these experts 
+are amazed at how fast the work is progressing. And with the progress, 
+inevitably, come ethical concerns. Some critics argue that the embryonic 
+cells are a form of human life. Others disagree. I think if we regard 
+these cells as prepregnancy cells, which are nothing more than cells, 
+we're in a far better position to explore these potentials in research 
+and in human medicine The ethical debates will continue. But most 
+scientists believe that growing the stem cells marks yet another major 
+milestone in a scientific revolution that will ultimately save many 
+lives. Robert Bazell, NBC news, Baltimore. 
+</TEXT>
+</DOC>

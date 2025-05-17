@@ -1,0 +1,85 @@
+<DOC>
+<DOCNO> NYT19981101.0094 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The front-line soldiers of the body's immune system are the T-cells, 
+which identify, attack and eradicate infection or disease. But like 
+troops facing an enemy in battle, T-cells can be outnumbered. Cancerous 
+cells or such viruses as HIV can multiply and overwhelm them; once 
+the immune system is thus disarmed, disease or infection can spread 
+freely. Unfortunately, the body cannot simply call in more troops; 
+T-cell production does not work that way. Vaccines and drugs like 
+the protease inhibitors given to HIV patients are meant to stimulate 
+the body's production of T-cells, but their effects are limited. That 
+has led to research in adoptive immunotherapy, or the science of giving 
+patients the T-cells their bodies cannot produce. First, those cells 
+have to be grown in a laboratory in huge numbers. One reason the body's 
+T-cells are at least initially so efficient is that they are essentially 
+programmed to fight specific diseases. T-cells bear receptors on their 
+surfaces that recognize specific viruses or malignant cells. The T-cells 
+grown in a lab, however, tend to lose their ability to recognize specific 
+diseases. Though scientists have grown T-cells in culture for decades, 
+they could not grow them for extended periods of time, or in large 
+numbers. Now two researchers at the Fred Hutchinson Cancer Research 
+Center in Seattle have patented a method of growing large numbers 
+of a patient's own T-cells that remain able to identify specific diseases. 
+Dr. Stanley Riddell and Dr. Philip Greenberg, both professors at the 
+University of Washington, say their technique makes it possible to 
+withdraw a small amount of a patient's blood, isolate the T-cells 
+needed to fight a specific disease, grow billions more of them in 
+less than a month and then give those additional cells back. ``What 
+we've done is essentially accomplished the kind of cell proliferation 
+that occurs in the body when it encounters infection,'' Riddell explained. 
+When a healthy person's T-cells meet enemy cells, their receptors 
+are activated, and they multiply; within 20 hours the number of disease-specific 
+T-cells in the body can double, Riddell said. ``You quickly go from 
+a very few cells that recognize the pathogen to having many,'' he 
+said. ``That's important in order to kill the virus before it kills 
+you.'' From that fact, the researchers knew that in order to grow 
+similar cells in a lab, they would have to isolate T-cells with specific 
+disease receptors. ``What's new here is that we spent time defining 
+the conditions used in the culture to expand the cells rapidly,'' 
+Riddell said. ``We tried to provide the one thing we knew was required, 
+the T-cell antigen receptor signaling. When that receptor engages, 
+the first signal tells the T-cell to activate and divide. We provided 
+that signal, and then used a large number of the filler cells that 
+regulate the T-cell's actions. ``That lets us clone out T-cells specific 
+to a tumor or virus, and give them back to the patient,'' he said. 
+The ability to grow billions of T-cells ``provides you with an enormous 
+immune response, much greater than can be grown naturally in the body.'' 
+Riddell said healthy people use about 10 percent of their T-cells 
+to fight an infection like mononucleosis. ``That's probably in the 
+range of several billion cells,'' he added. ``We know that to control 
+acute infection, you need an enormous number of T-cells.'' Researchers 
+hope T-cells can be grown to fight cancerous cells as well as specific 
+viruses, but Riddell cautioned that cancer presents a separate set 
+of problems. ``The difficulty with cancer is that cancer cells don't 
+display the antigens that T-cells can see,'' he explained. In other 
+words, without the signal to turn on their receptor, T-cells often 
+overlook cancer cells. One exception is melanoma, which does emit 
+an antigen. Riddell and Greenberg have licensed their invention to 
+Targeted Genetics Corp., a Seattle biotechnology company that has 
+used it in human clinical trials for treatment of HIV and late-stage 
+melanoma, and to treat hepatitis B in chimpanzees. The invention received 
+patent 5,827,642. Self-Opening Envelope Could End Paper Cuts Ever 
+used a butter knife, a ballpoint pen or a finger to open mail when 
+there was no letter opener within reach? Those improvisations often 
+leave envelopes in a jagged mess, and fingers with paper cuts. Carlos 
+Castro, president of Lanyard Envelopes Inc., in Budd Lake, N.J., has 
+patented an envelope with a built-in opener. He has added a piece 
+of string to conventional envelope design, creating an opener that 
+mimics those small packages containing adhesive bandages. Castro's 
+envelopes follow the conventional pattern cut from a blank sheet of 
+flat paper stock. Large flaps on three sides are folded inward to 
+form the body of the envelope, and a fourth shallow flap serves as 
+the top lip. But Castro glues a piece of string to the fold between 
+the front of the envelope and one of the side panels. The string attaches 
+to a small tab that extends from a corner of the back of the envelope 
+where the folding side and center panels meet. If one pulls on the 
+tab, the string slices through the fold along the envelope's edge 
+from bottom to top, leaving that side open. Castro received patent 
+5,752,652. Patents are available by number for $3 from the Patent 
+and Trademark Office, Washington, D.C. 20231. 
+</TEXT>
+</DOC>

@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981216.2130.0640 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Scientists are hoping an asteroid will clue them in about early life 
+on earth and teach them how to protect the planet from other asteroids 
+hurtling our way. Anne Kellan has details, in this edition of "tech 
+trends." a NASA spacecraft is about to begin the first closeup study 
+of an asteroid in orbit. The probe is called N.E.A.R. -- short for 
+"near earth asteroid rendezvous" -- And its target is the asteroid, 
+433 eros, an irregular-shaped lump of rock 24 miles long that's hurtling 
+through space about 250 million miles from earth. On January 10th, 
+N.E.A.R. will go into orbit around eros and start a Gradual descent 
+toward the surface, taking pictures and readings as it goes. There 
+are several reasons for wanting to learn more about asteroids. Asteroids 
+are samples of the material from which the planets formed, and the 
+asteroids also tell us about the earliest stages of planetary evolution. 
+To understand our own origins, the origin of earth and the origin 
+of life on the earth, we must unlock the secrets of asteroids and 
+comets. They also hit earth every now and then. And understanding 
+their composition might help scientists deflect or destroy one headed 
+towards earth. And asteroids could be a source of minerals or water 
+to be tapped by future space explorers. We have engines started. We 
+have ignition. We have liftoff of the Delta rocket carrying the N.E.A.R. 
+spacecraft. N.E.A.R. started its journey to eros almost three years 
+ago. Scientists hope to find out how dense the asteroid is. That will 
+give them a pretty good idea whether it's solid rock or made of smaller 
+pieces stuck together. They'll also be looking to see what minerals 
+are on the surface of eros. After almost a year of gathering scientific 
+data, N.E.A.R. may try something more risky -- hovering very close 
+to the asteroid or even touching down gently on its surface. Ann Kellan, 
+CNN. 
+</TEXT>
+</DOC>

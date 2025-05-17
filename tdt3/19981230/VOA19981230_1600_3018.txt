@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981230.1600.3018 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Once again, the Dow Jones Industrial Average closed today down 46 
+points. 
+</TEXT>
+</DOC>

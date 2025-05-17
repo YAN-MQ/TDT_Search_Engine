@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> APW19981014.1202 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The French company Alstom has signed a contract to supply Turkey with 
+an electricity plant worth 2.1 billion francs (dlrs 380 million), 
+the company said Wednesday. The coal-fired plant will be located in 
+the Canakkale region of western Turkey. Alstom will supply the turbines, 
+alternators as well as the control system and electricity distribution 
+system, Alstom announced. 
+</TEXT>
+</DOC>

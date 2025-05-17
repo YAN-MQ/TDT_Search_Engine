@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981030.2130.0466 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A ruptured gas main touched off an explosion and fueled a spectacular 
+fire today in Chicago. Flames that were visible from two miles away 
+shot up the side of an apartment building for elderly people. 500 
+residents were evacuated safely. Heat from the fire could be felt 
+a block away. The gas main was damaged by a construction crew. Four 
+firefighters and six police officers were hurt, none seriously. 
+</TEXT>
+</DOC>

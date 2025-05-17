@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981029.1600.2922 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+It's time now for business news and here's Breck Ardery with the latest 
+from Wall Street. 
+</TEXT>
+</DOC>

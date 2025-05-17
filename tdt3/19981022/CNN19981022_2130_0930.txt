@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981022.2130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Top stories -- Israeli and Palestinian negotiators are said to be 
+very close to resolving their last differences on an interim agreement 
+on Middle East peace. Sources say an announcement could come as early 
+as tonight. 
+</TEXT>
+</DOC>

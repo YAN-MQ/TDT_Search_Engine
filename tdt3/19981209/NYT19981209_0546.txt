@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> NYT19981209.0546 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Playing the white knight, Cadence Design Systems Inc. agreed Wednesday 
+to acquire Quickturn Design Systems Inc., which has been the subject 
+of a hostile takeover bid by the Mentor Graphics Corp. Cadence said 
+it would swap stock worth $14 a share, a total of $253 million, for 
+Quickturn. Mentor had bid $12.13 a share in cash, but its offer was 
+rebuffed by Quickturn, which has been battling the deal in the Delaware 
+courts. Mentor said Wednesday that it was reviewing its options in 
+light of the competing offer. Cadence's shares closed at $29.1875, 
+down 81.25 cents on the New York Stock Exchange. Quickturn's shares 
+closed at $13.8125, up $1.625, and Mentor's shares at $8.75, down 
+$1.25, both in NASDAQ trading. Cadence, based in San Jose, Calif., 
+and Mentor, based in Wilsonville, Ore., are bitter rivals in the market 
+for the electronic automated design software used to fashion new chips. 
+Quickturn is a leader in the related market for specialized computers 
+that can emulate a new chip design before it is crafted in silicon, 
+providing a kind of virtual verification that the circuitry will work 
+as intended. Mentor acquired a small French company with an emulation 
+and verification product last year, but cannot market it in the United 
+States because of a court order stemming from a patent-infringement 
+suit by Quickturn. That suit comes to trial in Oregon in February. 
+Mentor originally proposed the merger as a friendly deal that could 
+put an end to the litigation, but the offer was spurned by Keith R. 
+Lobo, Quickturn's president and chief executive. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981125.1600.3130 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now. I'm Erin Brummett with Tony Riggs. It's Universal 
+Time. 
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981031.1600.0515 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News" weather update. 
+An area of low pressure will move across the southern Rockies and 
+the southern plains as we head through Sunday. That will mean abundant 
+rain across portions of Texas, Oklahoma and Kansas, spreading into 
+Illinois and Iowa. In the northern regions, this could be mixed with 
+rain and snow, especially across the higher elevations of Texas and 
+New Mexico. A cold front moving onto the west coast will mean continued 
+a shower chance for Washington, Oregon and Idaho. High pressure and 
+cooler temperatures will be building into the northeast with near 
+record warmth expected across the south. Temperatures will be in the 
+80s for southern Texas and Florida south of lake okeechobee. Look 
+for 70s and 60s up through the chesapeake bay into the southwest with 
+40s and 50s dominating the weather map for most of the northern two-thirds 
+of the nation. The extended forecast includes a mix of rain and snow 
+Monday across the plains states with showers and strong thunderstorms 
+through the Mississippi valley. Scattered showers will move eastward 
+through Tuesday with a new round of rainfall moving onto the northwest 
+coast. Cooler temperatures around lake superior on Wednesday. The 
+extended forecast is at CNN.com. 
+</TEXT>
+</DOC>

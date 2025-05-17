@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981103.0130.0422 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Government attorneys played portions of the Microsoft chairman's videotaped 
+deposition at his company's antitrust trial Monday. The tapes, which 
+were recorded last summer, also were released to the public Monday. 
+In the deposition, government lawyers ask Bill Gates about a disputed 
+meeting two years ago between Microsoft and rival Netscape in which 
+microsoft allegedly offered to divide the Internet browser market. 
+Are you aware of any instances in which representatives of Microsoft 
+have met with competitors in an attempt to allocate the market? Objection. 
+I'm not aware of any such thing. And I know that it's very much against 
+the way we operate. It would be against company policy to do that? 
+That's right. A Microsoft spokesman says the tapes were played to 
+distract attention from what he calls "the weakness of the government's 
+case." 
+</TEXT>
+</DOC>

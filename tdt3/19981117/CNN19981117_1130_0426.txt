@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981117.1130.0426 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Time now for the national extended weather forecast. Then -- an update 
+on a recent student murder plot in Wisconsin. 
+</TEXT>
+</DOC>

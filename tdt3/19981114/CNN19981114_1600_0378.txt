@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981114.1600.0378 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is pledging more aid to help central America recover 
+from hurricane Mitch. In his weekly radio address, Mr. Clinton said 
+the United States will offer an additional $45 million in equipment 
+and services. We want to do everything we can to help, now and over 
+the long run. To quickly address the catastrophe, I ordered $80 million 
+in emergency aid. The president says he is also considering debt relief 
+for Nicaragua and honduras. Mitch killed an estimated 10,000 people 
+last month. 
+</TEXT>
+</DOC>

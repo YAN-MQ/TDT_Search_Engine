@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981122.1000.0303 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's the anniversary of one of the most traumatic events in American 
+history. 35 years ago today, President John F. Kennedy was assassinated 
+in Dallas. In contrast to some past anniversaries, no large-scale 
+events are expected in Dallas to Mark the solemn day. 
+</TEXT>
+</DOC>

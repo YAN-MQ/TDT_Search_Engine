@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> PRI19981208.2000.0339 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is NPR. Support for NRP comes from Sudexo Marriott Services. 
+Providing innovative approaches to food and facilities management 
+services throughout North America. On the web at sudexomarriott.com. 
+The World is made possible in part by Merc, pharmaceutical research 
+dedicated to preventing disease and improving health. Merc, committed 
+to bring out the best in medicine. This is The World, I am Tony Kahn. 
+</TEXT>
+</DOC>

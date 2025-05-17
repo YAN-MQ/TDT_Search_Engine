@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981013.1130.0464 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney from the CNN weather center with your "Headline 
+News weather" update. Showers are possible early this morning across 
+Washington and Oregon, southern Texas and southern Florida. As a cold 
+front moves on shore in the northwest, look for increasing chances 
+of rain and snow in the higher elevations. Also, look for a chance 
+of rainfall and snow across portions of lake huron and northward, 
+and into portions of New England. Mostly rainfall through Wednesday, 
+as a low-pressure storm tracks to the east. High pressure will build 
+across portions of the south, and we continue to see pleasant temperatures 
+in your forecast. Honolulu today will see a high of 87. Look for 46 
+degrees at Juneau, with highs in the mid 80s across the virgin islands. 
+Most of the nation will see 40s and 50s in the north. 60s, 70s and 
+80s in the south, with 90s still holding onto the desert southwest. 
+On the extended forecast, snow showers, rain and wind expected across 
+the northern tier states on Thursday, with thunderstorm chances increasing 
+for southern Texas on Friday. A few showers will continue across the 
+puget sound, with scattered thunderstorms in the central plains for 
+the weekend. The forecast for more than 6,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

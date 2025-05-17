@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> MNB19981028.2100.3170 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We are back live tonight at the Kennedy space center in Florida where 
+our coverage of tomorrow's shuttle launch will continue in a moment. 
+First, though, tonight, a major story out of Moscow today, president 
+yeltsin's spokesman announced the Russian president would be turning 
+over day-to-day responsibility to running the government to Yevgeny 
+Primakov prim. Yeltsin entered a hospital outside Moscow yesterday. 
+The Kremlin says he's suffering from exhaustion. It's not clear yet 
+when he will return to work, but his spokesman insists he will serve 
+out the remaining two years of his term. 
+</TEXT>
+</DOC>

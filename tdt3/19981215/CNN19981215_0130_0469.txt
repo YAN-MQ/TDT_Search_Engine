@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981215.0130.0469 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court has agreed to hear a case about whether federal 
+law requires some mentally disabled people to be placed in community-based 
+programs rather than state mental facilities. A lower court ruling 
+says officials in Georgia discriminated against two people by confining 
+them to a state mental facility. Georgia's appeal to the Supreme Court 
+is supported by 22 other states who say the Americans with disabilities 
+act does not require community placement if appropriate treatment 
+is available at the state level. 
+</TEXT>
+</DOC>

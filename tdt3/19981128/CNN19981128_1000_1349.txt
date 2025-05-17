@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981128.1000.1349 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Michigan state topped central Florida 87-64. Jason cline got it done 
+with 19. 
+</TEXT>
+</DOC>

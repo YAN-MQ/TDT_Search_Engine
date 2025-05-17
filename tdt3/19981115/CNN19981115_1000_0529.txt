@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981115.1000.0529 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather update." 
+A persistent trough of low pressure will keep rain in the gulf coast 
+states for Sunday. Look for showers and snow across portions of Maine, 
+continuing northward into new Brunswick and Nova Scotia, as a frontal 
+system moves off to the northeast. Two fronts in the central plains 
+will mean cooler air across the plains states and the Rockies and 
+a chance of snow in the central Great Lakes. A new frontal system 
+moving into the northwest also generates a chance of rain and high-elevation 
+snows across the northern Rockies. Temperatures will be on the chilly 
+side today for most of central Canada into the lake superior and lake 
+Michigan areas. Highs will only be in the 20s and 30s. Look for 40s 
+and 50s across the eastern U.S., with 60s and 70s from the virginias 
+down into Texas and across the southwest. The extended forecast on 
+Tuesday includes heavy rainfall in the northwest, with snow and a 
+mix of rain and snow for the Great Lakes to the chesapeake bay. Scattered 
+thunderstorms are possible into Florida through Wednesday, and we'll 
+see mostly a heavy mix in the Great Lakes Thursday. The extended forecast 
+is at CNN.com. 
+</TEXT>
+</DOC>

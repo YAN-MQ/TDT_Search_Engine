@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> APW19981124.1233 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+LONDON (AP) - Share prices fell Tuesday on the London Stock Exchange. 
+The blue-chip Financial Times-Stock Exchange 100-share index closed 
+down 50.1 points, or 0.86 percent, at 5,798.3. Volume was ... graf 
+2 pvs 
+</TEXT>
+</DOC>

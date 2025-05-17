@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981019.1130.0978 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some wheeling and dealing is sending stocks on Wall Street higher 
+today. Kitty pilgrim has the details from New York. Kitty? Judy, investors 
+are in a buying mood today amid relative calm in overseas markets. 
+Merger activity is also sending buyers to the market and helping to 
+lift stocks. The Dow is up -- NASDAQ composite is up 12 points. Recently 
+literally over the last couple of days, the environment seems to become 
+more positive now. We've got four deals announced this morning. The 
+reason for that is because of the fact that the market appears to 
+have bought put in a bot bottom and investors are looking favorbly 
+about share prices going forward. 
+</TEXT>
+</DOC>

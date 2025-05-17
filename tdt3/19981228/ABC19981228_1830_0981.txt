@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> ABC19981228.1830.0981 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+People aren't just shopping for books and toys on the Internet, the 
+number of people investing online has nearly doubled in just one year. 
+ABC's Betsy Stark reports, while the number of online investors has 
+gone up, so has the number of online scams. One day, while California 
+lawyer zane Smith was surfing the internet for investment ideas -- 
+one of these advertising banners had a Little thing that said the 
+next Microsoft. Smith clicked on the ad, which took him to the web 
+site of a new company called interactive products and services. It 
+described plans to make a wireless mouse and keyboard in one. Smith 
+E-mailed for the prospectus, which impressed him. So I invested $1500, 
+that was supposedly for 300 shares of stock. Retired engineer tobias 
+Anthony invested $5,000. Unfortunately for both men, interactive products 
+and services was a sham. There was nothing valid about it at all. 
+None of the claims. ta-da. It's that easy to lose your money. Stock 
+regulators say the case is a good example of just how easy it is to 
+deceive investors on the Internet. While the scams themselves are 
+as old as the stock market, the Internet has provided an effective 
+new medium for perpetrating them. Everything that comes across the 
+Internet looks very professional and very authoritative and there's 
+no sort button you can push so that the bad information goes to one 
+side and the good information goes to another side. What's more, in 
+the time it takes a telemarketer to dial one phone number, an Internet 
+stock promoter can reach millions of people all over the world. This 
+is a problem we think is prevalent and persistent and it's a problem 
+that we are going to continue to go after. Regulators are now cracking 
+down. This fall, in its first-ever Internet sweep, the SEC charged 
+44 stock promoters with using the web to defraud investors. But its 
+work is far from over. Online investors send the agency hundreds of 
+new leads every day. Betsy Stark, ABC News, New York. 
+</TEXT>
+</DOC>

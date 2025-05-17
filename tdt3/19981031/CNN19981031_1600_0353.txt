@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981031.1600.0353 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new CNN/"USA today" Gallup poll finds voters are pretty much evenly 
+split in their support of the two major political parties. It found 
+48% of likely voters say they favor a democrat for Congress, and 45% 
+favor a republican. 7% are undecided. 44% say they approve of the 
+job Congress is doing. 48% don't. And 57% of democrats say they are 
+very motivated to vote, compared to 62% of republicans. 
+</TEXT>
+</DOC>

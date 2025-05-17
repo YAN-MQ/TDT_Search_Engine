@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981226.1300.0591 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tuesday -- the federal reserve decided not to change short-term interest 
+rates, saying a boost in consumer spending is keeping the U.S. economy 
+strong. 
+</TEXT>
+</DOC>

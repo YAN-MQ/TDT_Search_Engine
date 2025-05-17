@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981014.0130.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a check of our top stories. Yugoslav President Slobodan Milosevic 
+has agreed to comply with U.N. demands and end his crackdown on ethnic 
+Albanians in Kosovo. NAto has given Milosevic until Friday to follow 
+through or risk air strikes. 
+</TEXT>
+</DOC>

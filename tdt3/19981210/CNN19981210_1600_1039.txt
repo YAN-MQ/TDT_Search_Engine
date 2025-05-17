@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981210.1600.1039 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The ax could fall soon in the aftermath of another big merger. Published 
+reports say the new MCI Worldcom plans to eliminate more than 3,700 
+jobs. This could be as much as 5% of that company's workforce. The 
+company would neither confirm nor deny the job cuts. An MCI Worldcom 
+spokesman did say, however, the company hopes to cut costs by more 
+than $1 billion next year. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981216.1830.1508 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow Jones industrial average was down more than 32 points to close 
+at 8790. On the NASDAQ, stocks were down 3 points. 
+</TEXT>
+</DOC>

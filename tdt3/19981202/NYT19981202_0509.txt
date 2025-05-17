@@ -1,0 +1,108 @@
+<DOC>
+<DOCNO> NYT19981202.0509 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Republicans seeking to challenge a 21,000-vote lead that would make 
+Eliot Spitzer, a Democrat, the next state attorney general of New 
+York, at one point charged that 1,000 votes might have been cast in 
+Manhattan by dead voters. While the accusation conjures visions of 
+an all-powerful Democratic political machine at work _ something not 
+seen in Manhattan for at least a generation _ an examination of computer 
+files by The New York Times turned up no pattern of vote fraud, and 
+found not one phantom vote from beyond the grave. The inquiry found 
+the names of several thousand people who remained on the voter rolls 
+even after their reputed deaths. But it counted only a handful of 
+votes cast by voters listed by the Social Security Administration 
+as having died. And it turned out that all but one of these voters 
+were alive and living in Manhattan and were found to have cast legal 
+ballots; in that one instance, a son with the same name as his father 
+said he had mistakenly signed next to his father's name in the voting 
+book. The New York City Board of Elections has often been vilified 
+as an outdated and mismanaged bureaucracy, and in the fight over the 
+race for attorney general, Republicans working for the incumbent, 
+Dennis Vacco, have cited what they said were a number of irregularities, 
+including the charge about dead voters. They ultimately pulled back 
+and acknowledged that they could not prove that dead voters cast ballots, 
+but contended that they found enough problems to cast a cloud over 
+the election results. The Times' inquiry found no pattern of problems 
+with dead voters, but it did find evidence that the city Board of 
+Elections had made a considerable effort to clean up the rolls and 
+remove the names of ineligible voters. The Times compared the rolls 
+of all voters registered in Manhattan last year with a list provided 
+by the Social Security Administration of the 17.4 million Americans 
+who have died since 1990. The comparison turned up the names of nearly 
+8,000 people registered to vote in Manhattan who had the same first 
+name, last name and date of birth as dead Americans. The Times narrowed 
+the list to 4,600 of the deceased who had lived in the same ZIP code 
+where New Yorkers of the same name voted. The Times then checked a 
+random sample of more than 900 of these 4,600 registered voters in 
+nearly 200 election districts to see whether anyone had signed his 
+or her name in voting books. Only four voted, fewer than half of 1 
+percent. Assuming that the same pattern held for the 4,600, that would 
+amount to 19 votes. Assuming that the pattern held for all 8,000 votes, 
+it would amount to 38 invalid votes. And even if the same pattern 
+held across all of New York City, it would amount to only 132 votes 
+_ far short of the 21,000-vote lead that Spitzer has over Vacco. In 
+reviewing the four cases, The Times found that three of the people 
+who voted were reported to be alive by neighbors, relatives or a doorman 
+or by their own testimony. Their continued existence was later confirmed 
+by the Social Security Administration as well. The fourth case appeared 
+to be a vote from beyond, but that vote also had a logical explanation. 
+While Bethel Harris died in 1992 at the age of 81, the signature of 
+Bethel Harris was in the voting book in the polling place in the community 
+room of the Washington Heights Co-op. But the culprit turned out to 
+be his son _ who is also named Bethel Harris. The younger Harris, 
+44, said he had voted in every election for the last 26 years, accompanying 
+his mother, Claudia. ``I vote every time, elections, primaries and 
+whatever, and I have been voting since I was 18,'' he said. The first 
+year after his father died, Harris voted on a paper ballot. Mrs. Harris 
+said her son discovered that while his own voting card had been removed 
+from the files, his dead father's card remained. The next year, and 
+in general elections and primaries since, Bethel Harris Jr. showed 
+up at the polls, signed the book under the name Bethel Harris and 
+voted. He did not notice, Mrs. Harris said, that the date of birth 
+listed on the voting form showed his father's birthday in 1917 in 
+small print, rather than his own. Moreover, his signature is similar 
+to his father's. Board of Elections officials pieced together a slightly 
+different account of the younger Harris' voting history, but confirmed 
+that he was eligible to vote, voted legally, and is now listed as 
+a voter in his Washington Heights building. When The Times phoned 
+and knocked on the doors of the other purportedly dead voters, it 
+found them very much alive. Jose Romero, a retired hospital security 
+guard who lives on the Upper West Side, said, ``I'm still alive, and 
+well.'' Romero and his daughter said that the date of death listed 
+for Romero was actually the date his wife died. Neighbors said that 
+another voter, Antonio Pagan, was alive and well on Riverside Drive. 
+One neighbor said that Pagan, 65, told her his Social Security check 
+had stopped coming for a while, until he convinced the agency that 
+he was alive. And Board of Elections officials said they had called 
+the fourth voter, Sally Anderson, and confirmed that she too was alive 
+and entitled to vote. When Thomas Spargo, a lawyer for Vacco's campaign, 
+announced that he had a list of dead Manhattan voters who may have 
+cast ballots, dozens of Republican campaign workers spent days poring 
+over signature books in boxes haphazardly scattered across a room 
+at the Board of Elections' Manhattan headquarters, on Varick Street. 
+But after reporters from The Times began reviewing signature cards 
+at the Board of Elections late last week, Spargo acknowledged that 
+the attorney general did not have any lists of dead voters, only lists 
+of people listed as being dead who may have voted. And Monday, Spargo 
+acknowledged that the number of irregularities his volunteers had 
+found could not affect the result, all but conceding Vacco's defeat. 
+He said then that the Vacco campaign had found ``a significant number 
+of irregularities.'' But he added that ``in certain cases, because 
+of a lack of a date of birth in the Board of Elections records and 
+people being in the same household with the same name, we didn't always 
+have the most accurate information.'' Asked about The Times' findings, 
+Assemblyman Herman Farrell, the Manhattan Democratic Party chairman, 
+said they showed that the Republican charges were completely unfounded 
+and demonstrated that the kind of major voter fraud alleged by the 
+Republicans made no sense today, in an age without either powerful 
+or efficient organizations. ``It is not about being powerful enough; 
+it is about being efficient enough,'' he said. ``If I were efficient 
+enough to organize dead voters, I would be far more effective at getting 
+live voters to the polls.'' An analysis by Aristotle Industries, which 
+resells lists of registered voters to candidates, indicates that the 
+voter rolls of New York City and state are cleaner than average. 
+</TEXT>
+</DOC>

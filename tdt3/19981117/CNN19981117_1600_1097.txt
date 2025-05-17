@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981117.1600.1097 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Online retailer Amazon.com is not content with its growing share of 
+the online books and music market. Today it begins selling movies 
+via its Internet service. Amazon plans to cross-market videos with 
+books and music, such as by promoting a soundtrack alongside a hit 
+movie. Amazon's next undertaking -- selling software over the Internet. 
+</TEXT>
+</DOC>

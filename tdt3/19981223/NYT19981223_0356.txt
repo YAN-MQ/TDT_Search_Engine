@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981223.0356 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Ice-storm warnings were issued Wednesday for parts 
+of the Gulf States as freezing rain and freezing drizzle coated trees 
+and power lines from Texas eastward. The stage was set for icing once 
+an Arctic front stalled across the South this week, insuring only 
+a thin layer of cold air next to the ground. Ice will again glaze 
+parts of the South Thursday as a thin layer of Arctic air holds steady 
+and relatively warm, moist air from the Gulf of Mexico flows inland 
+and rises over the thin Arctic wedge. The greatest risk of icing will 
+extend from the Tennessee Valley to the southern and central Appalachians 
+and then east to North Carolina and southern Virginia, where lifting 
+of Gulf air is augmented by a pocket of strong jet stream winds. North 
+of this icing zone, a stripe of light to moderate snow will fall across 
+northern Virginia, Maryland, Delaware, southern New Jersey and southeast 
+Pennsylvania. A dusting to two inches of snow are likely, with accumulations 
+of three or four inches in the mountains and along the coast, where 
+Atlantic moisture is drawn into the fray. Storminess will resume in 
+the Pacific Northwest as a jet stream disturbance races inland near 
+Vancouver Island. Increasing onshore winds from the Pacific will import 
+ocean moisture into western Washington and Oregon, paving the way 
+for rain. Heavy snow will fall in the Cascades. Snow will also fall 
+across eastern Washington and Oregon, with freezing rain or sleet 
+affecting areas where a deep layer of cold air retreats in the face 
+of advancing Pacific air. Focus: Shallow Chill Freezing rain glazed 
+Birmingham, Alabama, Thursday, as air temperatures near the ground 
+hovered at 31 degrees. Yet, 5,000 feet aloft, temperatures were close 
+to 50 degrees. Such a vertical variance indicates the shallowness 
+of the Arctic air mass that invaded the Deep South this week. The 
+caricature of the Arctic air mass resembles a wedge of cheese, with 
+the thinnest part of the wedge directly behind the front that marked 
+the leading edge of Arctic air. But the front stalled across the South, 
+keeping cities such as Birmingham in shallow chill, which set the 
+stage for freezing rain. 
+</TEXT>
+</DOC>

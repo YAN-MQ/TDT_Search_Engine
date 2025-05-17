@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> APW19981209.0684 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Japanese corporate managers are more pessimistic about business conditions 
+than ever but expect an improvement next year, according to a Ministry 
+of Finance survey released Wednesday. The survey's business sentiment 
+index for big corporations, a measure of managers' outlook on the 
+economy, sank to minus 31.2 for the October-December quarter, the 
+worst since the ministry began the survey in 1983. The index stood 
+at minus 28.8 a quarter earlier. The index is the difference between 
+the percentage of companies that say the economy is worsening from 
+those that say it's getting better. In the January-March quarter, 
+the business sentiment index for all big corporations is expected 
+to improve to minus 10.6, while in the April-June period the index 
+is expected to rise to minus 0.6, the survey showed. The ministry 
+surveyed 10,959 companies in November: 3,580 manufacturers and 7,379 
+non-manufacturers. Replies were received from 81 percent of the companies. 
+</TEXT>
+</DOC>

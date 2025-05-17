@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981107.1000.0947 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+John Glenn's return to space is scheduled to end today when space 
+shuttle "Discovery" returns to earth. Cloudy skies could delay or 
+divert the landing. 
+</TEXT>
+</DOC>

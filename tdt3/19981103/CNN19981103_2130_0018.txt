@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981103.2130.0018 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Let's lead with big news from the big apple in New York's heated Senate 
+race, the "CNN Headline News" is projecting that Chuck Schumer has 
+defeated al D'Amato. Senator pothole, the bitter campaign marks the 
+end of his 18 years in the senate. 
+</TEXT>
+</DOC>

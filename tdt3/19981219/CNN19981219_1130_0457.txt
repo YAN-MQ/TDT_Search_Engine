@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981219.1130.0457 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+while the house was discussing his political future, president clinton 
+today delivered a videotaped address to the arab world explaining 
+his decision to bomb iraq. 
+</TEXT>
+</DOC>

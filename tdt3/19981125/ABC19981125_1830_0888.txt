@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981125.1830.0888 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Share of mobile shot up 5% today on news that it may be about to buy 
+rival exxon. If it goes through, it will be one of the largest industrial 
+mergers ever. 
+</TEXT>
+</DOC>

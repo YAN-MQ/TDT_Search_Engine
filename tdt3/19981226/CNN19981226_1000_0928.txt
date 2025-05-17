@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981226.1000.0928 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a check of our top stories -- attention holiday shoppers -- 
+the stores want you back -- today. Retailers are offering deep discounts 
+to get customers in the door. Some of the best buys will be on cold 
+weather clothing, merchandise that didn't sell well because of an 
+unusually warm fall. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981203.2000.0241 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+At four minutes past the hour, this is Alan Dow in the BBC Newsroom 
+in London. You're listening the World. 
+</TEXT>
+</DOC>

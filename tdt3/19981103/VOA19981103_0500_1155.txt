@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981103.0500.1155 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Good morning, Charlene. Good morning, Les. Share prices are higher 
+on the major European stock exchanges as we speak. The London's FTSI 
+up but just barely. The FT100 is ahead by four points at this hour, 
+and in Paris, the CAC40 is up 32, and the DAX in Frankfurt is up ten. 
+The London morning gold fixing of $290.10 an ounce is up ten cents 
+from the close in New York. 
+</TEXT>
+</DOC>

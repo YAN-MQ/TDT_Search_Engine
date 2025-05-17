@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981208.1600.1044 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In other news, Northrop Grumman says it will eliminate 1,100 jobs. 
+The cuts, due to Boeing's decision to reduce production of the 747 
+jumbo jets. They make key parts for the Boeing planes. 
+</TEXT>
+</DOC>

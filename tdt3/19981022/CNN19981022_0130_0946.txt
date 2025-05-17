@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981022.0130.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton has declared 20 counties in Texas disaster areas, 
+after five days of flooding. Heavy storms have dumped more than 20 
+inches of rain and caused 22 deaths. 
+</TEXT>
+</DOC>

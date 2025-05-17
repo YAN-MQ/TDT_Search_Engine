@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981129.1000.0477 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A Seattle television station says police have identified the shooter 
+in friday's bus crash. The unconfirmed report describes the gunman 
+as an unemployed, well-behaved man who visited a homeless Shelter. 
+Three people eventually died after a city bus plunged 50 feet off 
+a bridge after its driver was shot. Police are still looking for a 
+motive for the attack, but say the shooting may have been a murder-suicide. 
+As of this time, we do not have information regarding the catalyst 
+for this incident. It's a real tragedy. We don't know at this point 
+why he fired at the bus driver or what started that process. We are 
+still looking for those answers. 19 passengers remain hospitalized. 
+One is in critical condition. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981225.1600.1318 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm thinking Christmas in Hawaii can't be too bad. Its double header 
+day in the sunny state. Oregon and Colorado are in action at the aloha 
+bowl. Later tonight, air force squares off against Washington. 
+</TEXT>
+</DOC>

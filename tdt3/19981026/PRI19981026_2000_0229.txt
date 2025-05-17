@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> PRI19981026.2000.0229 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow loss 20 points to close at 8432. This is NPR News. 
+</TEXT>
+</DOC>

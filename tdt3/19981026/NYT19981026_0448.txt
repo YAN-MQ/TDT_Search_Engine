@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> NYT19981026.0448 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Alex Mandl, who resigned as president of AT&AMP;T in 1996, has kept 
+a low profile recently. Ever since his new company, Teligent, went 
+public last fall, he has kept his head down _ quietly securing additional 
+financing, building networks and constructing a sales force. Mandl 
+hopes to make his triumphant return to the forefront of the telecommunications 
+industry today as Teligent announces that it is open for business 
+in 10 of the nation's largest markets, including New York, Los Angeles, 
+Chicago and Washington. Like many other companies, Teligent hopes 
+to woo business customers away from phone companies with an integrated 
+bundle of local, long-distance and data communications services. But 
+unlike most new communications carriers, Teligent plans to use wireless 
+technology to transmit digital data at high speeds. Using advanced, 
+foot-wide antennae, Teligent hopes to offer clients savings of up 
+to 30 percent under the rates charged by older carriers. Teligent, 
+based in Vienna, Va., has had minuscule revenue _ $3.3 million last 
+year. But as the former heir apparent at AT&AMP;T, Mandl, Teligent's 
+chairman, has had the credibility on Wall Street to line up major 
+financing, with about $1.4 billion available. That is enough to finance 
+the company through the year 2000, Mandl said on Monday. So as many 
+small telecommunications stocks suffer after concern over financing, 
+Teligent's shares have held up well, closing on Monday at $29.875, 
+up $1.0625, in Nasdaq trading. That is relatively close to its high 
+of $35.375 in February and above its initial offering price of $21.50. 
+(Last week, Winstar Communications, another new wireless company that 
+is Teligent's archrival, secured $2 billion in financing from Lucent 
+Technologies.) 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981016.1600.1350 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In tennis, top seed Marcelo Rios and American Jim courier both won 
+their quarterfinal matches today at the heineken open in Singapore. 
+</TEXT>
+</DOC>

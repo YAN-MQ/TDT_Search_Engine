@@ -1,0 +1,47 @@
+<DOC>
+<DOCNO> NYT19981125.0188 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Moss, a four-year-old interior design store on 146 Greene St. in SoHo, 
+has added four new floors, but customers will not climbing stairs 
+to reach them. Instead, they will be clicking a mouse. That's because 
+Moss' new floors exist within a computer program and can be reached 
+only through what could be Manhattan's first virtual elevator. Murray 
+Moss, the store's owner, has wanted to expand for quite some time. 
+But it occurred to him that a larger physical space might not be the 
+best solution. ``I asked myself what my products would look like virtually,'' 
+said Moss, who is 49. So he and Ron Ryan, a graphic designer, created 
+a computer graphics program that allows customers to choose an image 
+of an elevator to lift them digitally to virtual floors with animated 
+displays of furniture. It even plays elevator music. The virtual elevator 
+of this cyberstore is reached on a large-screen Macintosh G3 computer 
+monitor, which is near oil-and-vinegar set created by the Italian 
+industrial designer Ettore Sottsass, a shrimp bowl by Nambe, a manufacturing 
+firm based in New Mexico, and a silver inflated lounge chair by Ilkka 
+Suppanen. On the monitor, you choose one of the four floors. Two digital 
+voices, who introduce themselves as Fred and Princess, tell the story 
+of the virtual Moss store. ``For some time, we have wanted to expand,'' 
+the voices say in unison, ``But Barbara and Ken Cooke, our upstairs 
+neighbors, weren't ready to move.'' Moss explained later that he had 
+never really had a conflict with his upstairs neighbors. ``I just 
+thought it was a cute story,'' he said. Only two floors of the virtual 
+Moss building are occupied. If you click on the second floor, the 
+doors close and the elevator lifts you to Kartell(AT)Moss, which features 
+a display of Italian furniture by Kartell (some of which Moss also 
+displays in the store.) For the virtual display, Ryan created animations 
+out of photographs of the furniture that show qualities that cannot 
+be easily displayed in the physical store. One animation, for example, 
+shows a Kartell chair being assembled. Moss does not want the computer 
+display to be a substitute for his actual displays. ``I want it to 
+be an extension of the physical experience,'' he said. Moss said sales 
+of Kartell furniture had doubled since he added the computer display. 
+The fifth floor features designs by the Swiss furniture manufacturer 
+Vitra. The remaining two floors are still vacant. Moss said he planned 
+to open a digital art gallery on the third floor and to rent the fourth 
+floor. Even though there is no limit to the number of virtual floors 
+he can build, he said he would honor the neighborhood's very real 
+zoning limit of five floors. ``Although,'' he added, ``I reserve the 
+right to make each floor as big as I want.'' 
+</TEXT>
+</DOC>

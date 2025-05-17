@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> CNN19981021.0130.0610 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Lawyers are preparing for day three of the Microsoft antitrust trial 
+in washington. For a recap of day two here's Johnathan Karl. A day 
+after the justice department depicted Bill Gates as an unscrupulous 
+and dishonest monopolist, Microsoft hit back. We will show that the 
+government's case is a groundless exercise designed to benefit just 
+a handful of Microsoft's competitors who do not compete with us on 
+the merits of their technology. In it's opening statement, Microsoft 
+lawyer John Warden accused the government of trying to demonize Bill 
+Gates. "The government's case is long on rhetoric and short on substance," 
+he told the court. Microsoft has very good counsel. But they can't 
+change the law. They can't change the facts. And they really can't 
+change the subject. The subject matter is what Microsoft did that 
+was anti-competitive. The justice department accuses Microsoft of 
+illegally using its monopoly power to try to destroy other companies, 
+such as Internet browser manufacturer Netscape. Warden said Microsoft's 
+actions are not illegal, just smart business tactics. Warden called 
+Netscape a "Ward of the state" unable to compete because its technology 
+is inferior. He faced off against Netscape CEO Jim barksdale, the 
+government's lead witness. The evidence this afternoon demonstrated 
+that Netscape has had a consistent policy of attempting to use the 
+government as part of it's overall competitive process against Microsoft 
+for over three years. Microsoft's cross-examination of barksdale continues 
+Wednesday. In an effort to speed up the trial, the judge has ordered 
+that all witnesses submit their direct testimony in writing. And the 
+justice department says that it wants a speedy trial because every 
+day of delay is another day for Microsoft to solidify its market dominance. 
+Jonathan Karl, CNN, Washington. 
+</TEXT>
+</DOC>

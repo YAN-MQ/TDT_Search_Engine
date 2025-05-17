@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981212.1130.1331 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jamie langunbrunner broke a two-all tie as Dallas topped Montreal 
+3-2. The stars are unbeaten in their last four games. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0528 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The biggest day of protests so far filled the streets of Jakarta, 
+indonesia, today. The demonstrations turned violent when protesters 
+clashed with police. The students are protesting a government plan 
+for gradual political reform. According to state-run radio, several 
+protesters were injured and at least one policeman was hurt in the 
+confrontation. 
+</TEXT>
+</DOC>

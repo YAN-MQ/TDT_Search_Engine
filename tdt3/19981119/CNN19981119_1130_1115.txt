@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981119.1130.1115 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Right now, the Dow is up 4. the NASDAQ is up nearly 18. 
+</TEXT>
+</DOC>

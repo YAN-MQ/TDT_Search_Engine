@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981227.1000.1356 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Penguins slipped past the senators, 2-1, in overtime. Jagr netted 
+the game-winner. 
+</TEXT>
+</DOC>

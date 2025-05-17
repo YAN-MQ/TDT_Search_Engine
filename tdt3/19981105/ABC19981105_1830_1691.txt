@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981105.1830.1691 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is our report on "World News Tonight." Don't forget "Nightline" 
+later. I'm Peter Jennings. I hope you have a good evening. See you 
+tomorrow. 
+</TEXT>
+</DOC>

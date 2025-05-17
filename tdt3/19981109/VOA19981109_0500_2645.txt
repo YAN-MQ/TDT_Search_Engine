@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> VOA19981109.0500.2645 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In 1990, scientist around the world began work on the human genome 
+project, a massive effort to identify the estimated 80,000 genes in 
+human DNA. Information gathered from that project so far have already 
+helped us learn more about diseases and other health matters. Experts 
+say in future years our understanding of life will improve even more 
+as scientist study the genetic makeup of other organism. Genetic and 
+evolutionary researchers met recently in Chicago to discuss what they've 
+learned about the building blocks of life and where their work will 
+take them next. VOA's Michael Leland has details. The Human Genome 
+Project is not expected to be completed for another 5 to 7 years, 
+But Stephen O'Brien of the National Cancer Institute says it has already 
+helped scientist learn more about some 50 hereditary diseases and 
+why some people get them. Years ago, we didn't understand very much 
+about cancer, but we're learning a lot more about the genes that are 
+involved and variants that are distributed among human individuals 
+are really telling us a lot about why some individuals get sicker 
+than others with certain diseases. The Human Genome Project is an 
+effort not only to identify the human body's estimated 80,000 thousand 
+genes, but also to determine the sequences of chemical compounds up 
+to 3 billion separate substances called nucleotides that make up human 
+DNA. Mr. O'Brien says those sequences are what make one person different 
+from another in appearance, personality, and resistance to disease. 
+That variation can explain a lot of the differences in hereditary 
+diseases, behavior, and resistance to infectious disease and resistance 
+to cancer and talents and all kinds of things. In the near future, 
+Mr. O'Brien says scientist will begin mapping the genetic sequence 
+of the mouse in hopes of learning more about human diseases and developing 
+new therapies. Genetic research has been underway for years in the 
+plant kingdom. Scientist in the United States have used genetic information 
+to develop new strains of corn as well as potato plants the produce 
+their own insecticide. Mr. O'Brien says agricultural genetics is a 
+fast growing field. I would say that in the plant kingdom there's 
+probably 20 species that have genome projects that are developing. 
+Tomato is very advanced. Rice is something that has really been committed 
+by particularly in the Asian part of the world because it is a food 
+stock. They really have committed themselves to go ahead sequencing 
+rice. Scientists are also using genetic information to better understand 
+evolution. From the State of Michigan, Wayne State University Professor 
+Morris Goodman is a pioneer in the field molecular philo-genetics, 
+the evolutionary history of a species based on its genetic characteristics. 
+He says genetic research has turned up additional evidence that humans 
+and chimpanzees are each others closest relatives, sharing roughly 
+99 percent of their genes. Mr. Goodman says it's now important to 
+identify the nucleotide sequences of DNA to understand what turns 
+certain genes on and off. It's become quite clear for those of us 
+concerned with these problems that it will be a great help if we could 
+sequence the genomes a group of other organisms and in particular 
+for the regulatory sequences. It would be very valuable to have a 
+set of primate genome sequence starting with the chimpanzee. Mr. O'Brien 
+of the National Cancer Institute predicts that once researchers are 
+able to complete the Human Genome Project, they will learn enough 
+about the process to one day be able to map the genetic makeup of 
+one new mammal each year. Michael Leland, VOA News, Chicago. 
+</TEXT>
+</DOC>

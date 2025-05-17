@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981121.1300.0448 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the U.S. is next. And after that, 
+a murder in Russia could spell trouble for the country's reform movement. 
+</TEXT>
+</DOC>

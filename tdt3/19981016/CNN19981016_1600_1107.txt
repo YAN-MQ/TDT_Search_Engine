@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981016.1600.1107 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The winning bid for south Korea's troubled Kia motors is expected 
+to be named on Monday. Analysts say Ford is likely to emerge as the 
+winner. Ford already holds 17% of Kia with Japanese partner Mazda. 
+But Ford will have to beat out other bidders, including one of south 
+Korea's highly leveraged conglomerates. For all the latest market 
+news, check out our web site at cnnfn.com. you can use the site to 
+get stock quotes and all the day's business news. 
+</TEXT>
+</DOC>

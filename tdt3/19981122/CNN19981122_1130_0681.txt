@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981122.1130.0681 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"The New York Times" reports Deutsche bank, Germany's largest bank, 
+is close to buying bankers trust. Board members of bankers trust reportedly 
+are scheduled to vote on the $9 billion deal today. Announcement of 
+the sale is expected tomorrow. It would be the largest takeover ever 
+of a U.S. financial institution by an international bank. 
+</TEXT>
+</DOC>

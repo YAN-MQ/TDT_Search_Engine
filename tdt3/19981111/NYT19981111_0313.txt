@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NYT19981111.0313 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Brisk breezes will persist from the Great Lakes to the Northeast, 
+though winds will not be as strong as Wednesday. A second surge of 
+chilly autumnal air will advance across the eastern Lakes Thursday 
+afternoon. Only spotty showers will precede this cold front, given 
+the lack of moisture in the air. Friday, in the wake of the front, 
+temperatures from the Middle Atlantic states to New England will be 
+5 to 10 degrees lower than Thursday. High pressure will move toward 
+the Middle Atlantic coast by Thursday night. Sinking air currents 
+associated with the high will prompt abundant sunshine from the interior 
+Southeast to southern New England. Some high clouds will arrive Thursday 
+afternoon from Virginia northward as a cold front approaches from 
+the northwest. A moistening jet stream disturbance will move through 
+the Southwest Thursday. Ahead of this pocket of cold air near 18,000 
+feet, surface winds will turn onshore across Texas and Louisiana. 
+Patches of rain and drizzle will then develop near a stalled front 
+from eastern New Mexico to the Gulf Coast. Heavier rain with embedded 
+thunderstorms will expand eastward Thursday night across eastern Texas 
+and the lower Mississippi Valley. Given the disturbance's slow movement, 
+areas of heavy rain will linger into Friday. A surge of mild air from 
+the Pacific Ocean will spread across the Northwest. A moist, onshore 
+flow will deliver rain to northwest Washington, with scattered showers 
+elsewhere along the Washington and Oregon coasts. Periods of snow 
+will fall in the Cascades with lighter snow expected farther east 
+in the Bitterroots. Focus: Record Low Pressure The storm that raked 
+across Minnesota on Tuesday was the most intense disturbance on record 
+to move through the region. The atmospheric pressure fell to 28.43 
+inches of mercury at Albert Lea airport in southern Minnesota, marking 
+the lowest pressure on record in the state. Several other sites in 
+Minnesota also measured record low barometric pressures. In addition, 
+the storm brought 70 mile an hour wind gusts and heavy snow to western 
+sections of Minnesota. In comparison, the lowest pressure during the 
+Blizzard of 1993 on the East Coast was nearly identical at 28.42. 
+inches. 
+</TEXT>
+</DOC>

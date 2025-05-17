@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> PRI19981012.2000.0339 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Cory Flintoff, NPR News. This is the world, I'm Tony Conn. 
+</TEXT>
+</DOC>

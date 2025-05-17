@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981103.2000.0347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Embarrassed Swiss officials admit they told a 105-year-old man to 
+report to elementary school due to a computer error. The computer 
+took the last two digits of his date of birth to mean he was born 
+in 1993 instead of a century earlier. 
+</TEXT>
+</DOC>

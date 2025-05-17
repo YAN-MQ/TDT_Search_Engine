@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981013.1830.0768 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Washington today, the Supreme Court has let stand a controversial 
+amendment to the Cincinnati city charter. It's an amendment that bans 
+ordinances that protect gay people from discrimination. The court's 
+refusal to hear the case is confusing because the Cincinnati amendment 
+is similar to one in Colorado that the justices ruled was unconstitutional. 
+</TEXT>
+</DOC>

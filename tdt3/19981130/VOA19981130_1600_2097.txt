@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> VOA19981130.1600.2097 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The countdown is underway for the U.S. space agency's first launch 
+for the international space station. The Space Shuttle Endeavour is 
+due to lift off early Thursday morning from Cape Canaveral, Florida 
+with five U.S. astronauts and one Russian Cosmonaut. The crew in a 
+series of complicated maneuvers and space walks will attach the U.S.-built 
+unity module to a Russian-built component that was launched ten days 
+ago. Over the next five years, U.S. shuttles and Russian rockets will 
+carry out 45 missions to assemble the station, an outpost for research 
+and platform for space exploration. 
+</TEXT>
+</DOC>

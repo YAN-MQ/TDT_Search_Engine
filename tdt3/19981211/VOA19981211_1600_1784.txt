@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981211.1600.1784 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And coming up in just a few seconds, we'll have the latest world news. 
+This is VOA News Now. Now the latest world news. I'm Dave DeForest, 
+VOA News. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981217.1130.1341 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In top 25 action, the fourth-ranked bearcats of Cincinnati beat Minnesota, 
+but needed overtime to do it, 62-61. Clemson topped South Carolina 
+for the fifth straight time, 70-66. And number 20 Arkansas ran by 
+Louisiana 95-57. Jerome Jurenovich, "CNN Headline Sports." 
+</TEXT>
+</DOC>

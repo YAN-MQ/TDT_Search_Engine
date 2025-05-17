@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981030.2130.0135 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA is conducting an investigation to determine why a drag-chute 
+door was ripped off the space shuttle "discovery" yesterday just before 
+liftoff. The 11-pound door hit an engine nozzle. NASA's operations 
+director says it could have been disastrous if the door had hit the 
+engine just a foot away and pierced a hydrogen-cooling line. 
+</TEXT>
+</DOC>

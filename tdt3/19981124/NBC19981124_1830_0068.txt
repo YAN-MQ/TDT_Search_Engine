@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NBC19981124.1830.0068 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Good evening. Two of the most powerful forces on the Internet are 
+merging a marriage of technology, marketing, service and commerce 
+that is expected to be an instant dynasty. American online and Netscape 
+hope to control a huge chunk of the fast-growing Internet business 
+getting you to a world of buying opportunities and information swiftly 
+and easily. We begin with NBC's Mike Jensen on the prospects and consequences. 
+It's a merger of giants. America online, with 14 million subscribers, 
+30 million visitors every month -- the biggest of the companies that 
+connect people to the Internet. Netscape -- 9 million customers, one 
+of the biggest companies that steer people to specific web sites once 
+they get on the Internet. The announcement made, of course, on the 
+Internet. We think the time is right to take this step. The step creates 
+a company big enough to compete head-to-head with Microsoft in a high 
+stakes game. Millions of web sites that sell almost every product 
+made. $7 billion worth of merchandise this year alone. All so much 
+a part of the mainstream that a new Hollywood movie called "You've 
+got mail" isn't about the post office. It's about the Internet. With 
+the Internet part entertainment, part commerce, it's not surprising 
+that AOL, which is capitalizing on both, is run by the creator of 
+MTV and by the man who used to run pizza hut. Trying to make AOL the 
+one place people will go when they turn on their computer. They might 
+want to watch television to be entertained. They might drive to the 
+mall to buy a product. You can do all that in better ways on the Internet. 
+The new merged company, with revenues of more than $3 billion will 
+have enormous clout. AOL is becoming the General Motors of the Internet. 
+Consumer groups say that's bad. Too much power in the hands of one 
+company. But at the Internet cafe in New York, no one seemed worried. 
+I think it will allow Netscape to compete more effectively with Microsoft. 
+Analysts say there'll be more big Internet mergers, that there are 
+dozens of major companies now, but in five years, there may be only 
+three or four powerhouses dominating the industry. Mike Jensen, NBC 
+news, New York. 
+</TEXT>
+</DOC>

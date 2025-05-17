@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981111.2130.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is sending more U.S. firepower to the Persian gulf, 
+as the standoff with Iraq escalates. Americans are paying tribute 
+to their war veterans. And how computers are giving some inner-city 
+residents new opportunities. From Atlanta, Lynne Russell with your 
+"CNN Headline News." 
+</TEXT>
+</DOC>

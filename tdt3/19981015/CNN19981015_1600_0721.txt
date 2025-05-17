@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981015.1600.0721 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Top stories are next, then we'll have the latest on Wall Street's 
+wild day in "Dollars & Sense." 
+</TEXT>
+</DOC>

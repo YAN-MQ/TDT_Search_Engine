@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> PRI19981126.2000.1826 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+For THE WORLD, this is Pamela McCall in the BBC newsroom in London. 
+The Chilean government is sending a mission to Europe to try to win 
+freedom for the country's former military leader, General Augusto 
+Pinochet. The general cannot leave Britain because the country's highest 
+court ruled that he's not immune from prosecution. He is currently 
+in a clinic in London and faces possible extradition to Spain for 
+alleged genocide and torture. 
+</TEXT>
+</DOC>

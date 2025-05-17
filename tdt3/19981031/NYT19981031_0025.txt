@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> NYT19981031.0025 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Letters claiming to contain the deadly virus anthrax were sent to 
+five abortion clinics in three states on Friday, sending dozens of 
+people to the hospital and causing the evacuation of a clinic in Indianapolis. 
+Preliminary tests in at least two of the cities indicated that the 
+letters did not contain the virus. Delbert Culp, the president of 
+Planned Parenthood of Central and Southern Indiana, told The Associated 
+Press that threatening letters were received at clinics in Indianapolis, 
+Bloomington and New Albany, Ind. FBI officials said a clinic in Louisville, 
+Ky., and another in Knoxville, Tenn., received similar letters. A 
+spokesman for the Indianapolis Police Department said 31 people were 
+sent to hospitals after the clinic there received a letter containing 
+a powdered substance the letter said was anthrax. He said that tests 
+were still being performed to determine the identity of the powder, 
+but that no one was complaining of symptoms. A spokesman for the FBI 
+in Louisville said preliminary tests showed the substance in the letter 
+received there was probably not anthrax. 
+</TEXT>
+</DOC>

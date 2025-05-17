@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981011.1300.0505 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "Headline News weather," I'm Karen McGinnis. A 
+fairly vigorous frontal system begins to push onshore, Vancouver island 
+and coastal sections of British Columbia, Washington and into Oregon. 
+Some of the winds may gust in excess of 50 miles an hour. A developing 
+storm system across the U.S./Canadian border. Farther to the north, 
+look for some snowfall. To the south, breezy conditions. As we head 
+into the southeast, high pressure is going to be in control and temperatures 
+will be fairly mild, readings mostly in the 70s. In Fairbanks, Alaska, 
+expect a cloudy day and 40 degrees. In our extended forecast, heavy 
+rainfall is anticipated for Tuesday in coastal sections of Washington, 
+also into Oregon. And still windy through the midwestern United States. 
+For Wednesday, look for unsettled weather conditions into the Great 
+Lakes, where some of the coldest readings will be reported. Then for 
+Thursday, more rain for the northwest, also beginning to push into 
+the northeast into New England. 
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981015.2130.0510 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"Headline News forecast." Heavy snow in the forecast for the northern 
+Rockies through Friday. Windy conditions from the southern plains 
+into the central plains, and by Friday we'll see a good bit of rain 
+moving into the northern plains region with the rain beginning to 
+move out of New England by Friday evening. Beautiful weather on the 
+east coast with high pressure sitting along the mid-atlantic coastline. 
+Windy conditions continue over the southern plains with patchy rain 
+along the Texas coastline. High temperatures for Friday, in the 40s 
+for the northern Rockies and New England, otherwise, 50s and 60s in 
+the north, 70s and 80s in the south. Your extended forecast showing 
+heavy snow and rain in the northern plains and western Great Lakes 
+turning into just plain rain and thunderstorms as you push to the 
+south. On Sunday, that rain moves to the east, we'll see scattered 
+showers and thunderstorms from the Great Lakes to Texas. And then 
+on Monday, less rain, just scattered thunderstorms over the south 
+with a few showers in the northeast and in the northwest. 
+</TEXT>
+</DOC>

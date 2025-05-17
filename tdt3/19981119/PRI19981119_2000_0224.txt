@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981119.2000.0224 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street, the Dow Jones Industrials moved up 15 points to end 
+up at 9056 on volume of 6669 million shares. 
+</TEXT>
+</DOC>

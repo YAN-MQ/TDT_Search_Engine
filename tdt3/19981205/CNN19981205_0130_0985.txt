@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> CNN19981205.0130.0985 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some people are saying schools are giving up a lot in exchange for 
+thousands of dollars worth of free computers. Susan Lisovicz has the 
+story. You can start reading to see what the next one is so that you'll 
+know which link to go to. This California computer lab is wired with 
+thousands of dollars of free, cutting-edge equipment. While the students 
+learn to surf the net, the companies that provided the equipment are 
+learning something about them. Microsoft, Compaq, Intel and other 
+participating companies in the zapme! Netspace can access data gathered 
+on the students as a way to market to them. Most retailers, most distributors 
+and manufacturers spend millions of dollars every year to find out 
+what type of money is available in a Particular community, what the 
+interests are, the age mix, the employment mix, things like that. 
+That's just a basic cost of doing business for most companies. Zapme! 
+Also carries online advertising targeted at kids, not unlike channel 
+one, the controversial cable channel used in more than 12,000 schools. 
+Critics say zapme! Is simply a cyberspace variation of corporate predators 
+in the classroom. Zapme! Is set up to snoop and survey children as 
+they browse on the Internet, and to send that data to advertisers 
+and marketers, who will then use it to hone their advertising and 
+marketing practices even better. And that's just wrong. But those 
+concerns are secondary to some schools, which may be hard-pressed 
+to provide even the most basic of resources. Zapme! Says its network 
+of 15 high-speed computers translates into $9,500 of free equipment 
+a month. We've had a very overwhelmingly positive response to the 
+zapme! Netspace. In the first 90 days, over 9,000 schools in America 
+have applied for the zapme! Netspace. The interest in zapme! Underscores 
+the growing role the Internet is playing in the classroom. The question 
+is, is that important role that it will be playing, will it have a 
+sponsorship component in it or won't it? Zapme! Says it expects to 
+have 100 schools online by the end of the year. Susan Lisovicz, "CNN 
+Financial News," New York. 
+</TEXT>
+</DOC>

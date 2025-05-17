@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981102.2130.0502 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+this is meteorologist valerie voss with your "cnn headline news weather" 
+forecast for tuesday, election day. low pressure will push slowly 
+eastward through the ohio and tennessee valleys, producing some rain 
+showers, perhaps a few thunderstorms along the gulf coast. we'll see 
+some rain across the northern plains, and in some places it could 
+be mixed with or change over to snow, with snow definitely in the 
+higher elevations. another frontal system will push into the northwest 
+with rain in the forecast through that region. our coldest air, the 
+northern plains and northern new england, where highs tuesday will 
+be just in the 30s. we'll see 60s and 70s and a few 80s in the south. 
+looking ahead to wednesday, look for rain in the northwest with a 
+mix of rain and snow showers over the northern rockies and plains. 
+a few scattered showers and storms in the southeast. on thursday, 
+more rain and snow through the northwest with some lingering showers 
+in the southeast. then on friday, rain and snow showers in the mountains 
+will stretch from the northwest into the northern plains states. 
+</TEXT>
+</DOC>

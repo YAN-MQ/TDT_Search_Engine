@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> NBC19981203.1830.0328 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And from the world of medical science tonight, a major new study on 
+the causes of breast cancer and a familiar villain. NBC's chief science 
+correspondent Robert Bazell has more. The study out today adds a strong 
+piece of evidence to what has been a contentious scientific debate 
+-- do pesticides increase the risk of breast cancer? For at least 
+one pesticide, the answer appears to be yes. Scientists in Denmark 
+followed more than 7,000 women for almost 20 years. This study sort 
+of reopens the question of the relationship of pesticides to breast 
+cancer. The Danish scientists tested for several chemicals. They concluded 
+-- only one mattered, a pesticide called "dieldrin." The researchers 
+found that for women with high concentrations in their body of dieldrin, 
+the risk of breast cancer was twice as high as it was for women with 
+low concentrations. Dieldrin is no longer for sale in this country. 
+But farmers in the United States used it widely on many crops from 
+1950 to 1974 when the environmental protection agency ruled it could 
+be used only to kill termites. The manufacturer agreed to stop selling 
+it altogether in 1987, largely because it caused cancer in lab animals. 
+And although dieldrin is no longer used, it is still around, remaining 
+in the environment and the human body for up to 100 years. Most significantly, 
+dieldrin is one of several chemicals still in use that can mimic the 
+effects of the female hormone, estrogen. Some scientists and environmentalists 
+have been warning these chemicals could increase breast cancer risk. 
+Here we're able to see that measured exposure to a pesticide 20 years 
+earlier appears to be related to an elevated risk. Up to now, several 
+studies, including the respected Harvard nurse's study, have found 
+no link between pesticide exposure and breast cancer risk. But many 
+activists and breast cancer survivors like Nancy Evans refuse to accept 
+that conclusion. I think we need to get the pesticides out of the 
+nation's food supply. When you heard you had breast cancer, did you 
+start to think, "What in my life could have caused it?" I think everybody 
+asks that question. You know, "what did I do?" Or "what was I exposed 
+to, what happened that made me have cancer?" And with today's study, 
+Evans and others now have solid evidence that at least one pesticide 
+might be a cause. Robert Bazell, NBC news, New York. 
+</TEXT>
+</DOC>

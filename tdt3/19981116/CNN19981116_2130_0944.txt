@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981116.2130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+U.N. personnel have started returning to Iraq. Weapons inspectors 
+are expected back tomorrow. The United States is warning Iraq it will 
+attack if Baghdad doesn't fulfill its promise of full cooperation 
+with the inspectors. 
+</TEXT>
+</DOC>

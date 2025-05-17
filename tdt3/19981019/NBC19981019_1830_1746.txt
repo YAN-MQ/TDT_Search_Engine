@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981019.1830.1746 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Nightly News" for Monday. Don't forget "Dateline" at a special 
+time tonight at 8:00, 7:00 central. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981028.1830.1687 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+You can watch live ABC News coverage of the launch. John Glenn going 
+back into space. Our coverage starts at 1:00 eastern time. Hope you 
+join us. 
+</TEXT>
+</DOC>

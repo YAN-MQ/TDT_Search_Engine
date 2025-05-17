@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981129.1000.1335 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Number five Maryland won the Puerto Rico shootout, 87-52 over Pittsburgh. 
+Leron profit led the terps with 23 points. In the third-place game, 
+number four Kentucky defeated UCLA, 66-62, to avoid consecutive losses 
+for the first time since 1994. 
+</TEXT>
+</DOC>

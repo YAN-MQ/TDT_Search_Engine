@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> CNN19981019.1130.0142 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal antitrust suit against Microsoft is going to trial today 
+in U.S. district court in Washington. Rusty Dornin reports, the outcome 
+of the case could affect millions of computer users. What you see 
+is what you get. Nine out of ten people who get a personal computer 
+see Microsoft windows on their screen. They have a large invasive 
+monopoly. It's hard for the public to understand, but if the government 
+doesn't step in, consumer choice will be eradicated. Lack of choice 
+is one of the reasons government prosecutors say they are going after 
+the software giant. They claim Microsoft controls too much of our 
+cyberworld. Unfairly and illegally. Is the whole question of innovation 
+ensuring that the right incentives are available in the market, so 
+America's companies will innovate in this critical market in terms 
+of our economy. Innovation say Microsoft executives is exactly why 
+their company is so healthy. They say that's what free enterprise 
+is all about. The government will use the companies own internal memos 
+and E-mail as evidence accusing Microsoft of bribing, bullying and 
+trying to force people to use their products. We don't agree with 
+those stories. What's important is to look at consumers, and ask them 
+about Microsoft. Ask them about the products, and what you find is 
+a great deal of support. The big beef started with Internet browsers. 
+The government claims Microsoft pushed out competitors by bundling 
+its browsers in Windows 98. Microsoft says its main competitor made 
+poor business moves and shot itself in the foot. Critics worry Microsoft 
+could end up controlling things like online banking, buying tickets 
+for travel and entertainment to name a few, not to mention controlling 
+the lucrative market for software. All of us who have companies of 
+significance who are threatened by microsoft would certainly encourage 
+the kind of competitive environment that would challenge Microsoft. 
+Microsoft says government prosecutors have more than one agenda. There's 
+no doubt that the department of justice is trying to drift this lawsuit 
+into other areas. The trial could last six weeks or more. If the government 
+wins the case, it raises the possibility, however remote, of a breakup 
+of the software giant. Rusty Dornin, CNN, San Francisco. 
+</TEXT>
+</DOC>

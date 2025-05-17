@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981130.1600.3023 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In other financial markets, in London, the Financial Times 100 Share 
+Index ended the day down 100 points at 5,744, while in Paris, the 
+CAC40 Index was down 108 points at 3,843. 
+</TEXT>
+</DOC>

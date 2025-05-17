@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> NYT19981029.0374 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The illicit drug known as ecstasy may cause long-lasting nerve cell 
+damage in the brains of heavy users, according to a report published 
+Thursday by scientists at Johns Hopkins University. The study compared 
+the brain scans of 14 men and women who reported having used the drug 
+from 70 to 400 times with the scans of control subjects who said they 
+had never used it. The heavy users of ecstasy, formally known as MDMA, 
+showed a significant decrease in brain cells responsible for reabsorbing 
+serotonin, a messenger chemical involved in mood, appetite, pain perception, 
+sexual drive and memory. People who take ecstasy on a recreational 
+basis ``are unwittingly putting themselves at risk,'' the scientists 
+said. The research team, led by Dr. George Ricaurte, a neurologist, 
+developed a novel technique for tracking the cells, called serotonin 
+transporters, using positron emission tomography, or PET scanning. 
+Transporter cells are embedded in nerve cell membranes at the tips 
+of thin projecting fibers called axons. The reduction in serotonin 
+transporters in heavy users, Ricaurte said, is an indication that 
+serotonin nerve endings, where the transmitter is released, have been 
+damaged. It is still unknown whether people who have used ecstasy 
+less frequently _ taking it a few times over the course of years, 
+for example _ incur similar damage. Nor is it clear what if any effects 
+the nerve damage caused by heavy use might have on behavior. But Ricaurte 
+said his team found early indications that MDMA had some effects on 
+memory. People who have taken ecstasy say that it makes them feel 
+closer to other people and puts them more in touch with their emotions. 
+One psychotherapist described it as ``penicillin for the soul.'' Ecstasy 
+is a hybrid of the stimulant methamphetamine and the hallucinogen 
+mescaline. It was synthesized more than 80 years ago as an appetite 
+suppressant, and became popular as a street drug in the 1970s and 
+early '80s. The compound was banned in 1985 by the Drug Enforcement 
+Administration after truck drivers began using it as a stimulant. 
+Ecstasy still has a following in the all-night club scene and is valued 
+by some psychotherapists, who say it helps break down psychological 
+barriers. The study, published in the medical journal Lancet, lends 
+support to earlier work by the Johns Hopkins team, which found evidence 
+of damage to serotonin nerve endings in primates and other animals 
+given doses of ecstasy equivalent to those taken by some humans, when 
+differences in body mass and other factors are taken into account, 
+the researchers said. Subjects in the study were screened to make 
+sure they had not used other drugs, like marijuana, cocaine and barbiturates, 
+that could affect the results in the period immediately before the 
+study. The study's results leave open the question of whether the 
+damage from MDMA is reversible in humans. In studies in baboons, brain 
+alterations triggered by ecstasy were still present a year after the 
+animals were given the drug. The study offers ``a warning that this 
+kind of drug use can produce long-lasting abnormalities in the brain,'' 
+said Dr. John Mann, a Columbia University psychiatrist and chief of 
+neuroscience at the New York State Psychiatric Institute. ``People 
+take a lot of stuff that affects their brains thinking that it's harmless, 
+and it might not be.'' 
+</TEXT>
+</DOC>

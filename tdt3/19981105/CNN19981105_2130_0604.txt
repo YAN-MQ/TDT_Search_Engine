@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> CNN19981105.2130.0604 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+They're not computer experts, just people without jobs. But some welfare 
+recipients have joined the battle against the year 2000 computer bug. 
+Ann Kellan explains in today's edition of "tech trends." Don't laugh 
+while you're saying your grace. Okay. Rosslin Davis, a widow, raising 
+four children alone, worked as a Manager in a department store then 
+lost her job. After I lost my job, I lost my house, couldn't afford 
+to pay my bills. You want to get ready for school? Suzanne blevins 
+was just as low. I'm divorced. I couldn't keep a job. I smoked crack 
+cocaine and alcohol, and I've been clean now for over a Year. Two 
+women on welfare, both determined to get off. They're part of an experiment 
+called "tekaid." Combining the resources of mitretek, a technology 
+think tank, Virginia tech, and government. The goal is to turn welfare 
+recipients into computer programmers. After rigorous testing, including 
+aptitude and personality tests, 51 welfare recipients were selected. 
+Their next challenge -- pass two months of intense computer training. 
+Take your resume. The culmination of all the work is a job fair. I've 
+learned a lot as far as just a basic computer. Did any of them spark 
+your interest? Yes, all of them. Every table I went to. Will there 
+be any job offers made? Absolutely. We have an internship program, 
+most of which is during the summer. There may be an opportunity to 
+expand that program. Who did you talk to? Oh, I've talked to so many 
+different people. And I'm really excited. huh? I don't care. I know. 
+Suzanne blevins' hard work paid off. She accepted a job with computer 
+science corporation. It's helped me to find a better career so I can 
+become self-sufficient. I want kisses. Rosslin Davis got a job offer, 
+but because of the location, turned it down, and is interviewing for 
+other jobs. Her children, she says, are as excited as she with her 
+progress. I promised my son Joshua when I started that every day I 
+would teach him what I learned. And we've been doing that every night, 
+I've taught him, so he's going to be the youngest Y2K programmer ever. 
+Ann Kellan, CNN, Fairfax county, Virginia. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981116.2130.1291 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Big news in baseball today, but we begin at Arrowhead stadium where 
+the 9-0 broncos are running with the 4-5 Kansas city chiefs. Now Denver 
+is without star quarterback John Elway, so bubby brister is leading 
+the troops, and he already has a 38-yard touchdown run. 
+</TEXT>
+</DOC>

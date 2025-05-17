@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0427 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Learning to play a musical instrument as a kid may increase brainpower. 
+A University study in Hong Kong tested 60 adults and found those with 
+at least six years of musical training before age 12 were 16% better 
+at recalling words read to them from a list than those without musical 
+training. Researchers suggest musical training may be an entertaining 
+and useful way to improve verbal memory in children. 
+</TEXT>
+</DOC>

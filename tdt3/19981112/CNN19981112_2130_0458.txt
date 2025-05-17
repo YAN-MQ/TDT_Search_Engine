@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981112.2130.0458 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In yerington, Nevada, two small planes collided, killing three people. 
+Some burning debris from the collision landed on a house, setting 
+it on fire. The only person inside escaped unharmed. The national 
+transportation safety board is investigating. 
+</TEXT>
+</DOC>

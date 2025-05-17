@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981207.1600.2950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The state of South Carolina has withdrawn from that anti-monopoly 
+lawsuit against the Microsoft computer software company. The suit, 
+filed by the federal government and 20 states, claims Microsoft is 
+attempting to drive the Netscape company out of the Internet browser 
+market. However, South Carolina says it sees no evidence of that. 
+Microsoft stocks soured to a record high on the news, and it was part 
+of the reason that the Nasdaq was so strong today. 
+</TEXT>
+</DOC>

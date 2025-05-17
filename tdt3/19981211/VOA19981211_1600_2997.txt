@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981211.1600.2997 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The price of gold was down sharply in New York trading, falling $3.30 
+to $290.80 an ounce. The U.S. dollar was lower in New York against 
+the other major currencies. 
+</TEXT>
+</DOC>

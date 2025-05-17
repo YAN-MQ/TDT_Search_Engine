@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> ABC19981203.1830.1317 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+As Ned Potter just mentioned, road traffic is an increasing source 
+of noise, not so much from cars, but from the tires, and roads in 
+Europe, they have found a way to muffle the volume by as much as 70%. 
+ABC's Richard Gizbert reports, starting in London. This looks like 
+any other busy four-Lane road, but it doesn't sound like one. It's 
+much quieter. I live in that house there. I don't hear half the traffic 
+going by. For that, he can thank traffic noise experts at this lab 
+in paris. Some of that noise is going here. It's absorbed by tiny 
+rubber granules, recycled from old tires. If you mix this with the 
+stuff that most road surfaces are made of -- two types of gravel and 
+the binder that glues it all together -- what you get is a rubber 
+road. They've experimented with rubber in roads before, but as recycling 
+projects, not to combat noise pollution. To understand how to make 
+a quiet road, one must first dissect traffic noise. It used to be 
+the engine was the main culprit, but now -- It's not from the car 
+engines. The noises between the tires hitting the road surface. This 
+car is on a rubber road. Listen to the difference when it hits a harder, 
+conventional surface, in about two seconds. The company that makes 
+rubber roads has taken the extraordinary step of advertising them 
+on French TV. It believes everyone should know that even if they cost 
+10% more, there are alternatives to the noise that surrounds us. Richard 
+Gizbert, ABC News, Paris. 
+</TEXT>
+</DOC>

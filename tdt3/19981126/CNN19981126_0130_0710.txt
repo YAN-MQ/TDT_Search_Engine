@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981126.0130.0710 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At least five people were killed after an explosion ripped through 
+an oil refinery on Wednesday. The explosion happened at a refinery 
+plant 60 miles north of Seattle. Witnesses say the explosion shook 
+the ground and filled the ground with black smoke. 
+</TEXT>
+</DOC>

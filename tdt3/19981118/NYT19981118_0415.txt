@@ -1,0 +1,72 @@
+<DOC>
+<DOCNO> NYT19981118.0415 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Many California doctors say the bonuses and other financial incentives 
+that managed care organizations give them for speeding up office visits 
+and restricting care compromise the quality of care, according to 
+a survey of doctors reported Wednesday in The New England Journal 
+of Medicine. But, the survey added, when health maintenance organizations 
+include incentives based on patient satisfaction and quality, or the 
+theory that better care is often cheaper care, doctors believe the 
+quality does indeed improve, along with their satisfaction. Anecdotal 
+accounts of physician discontent with managed care are commonplace, 
+but The New England Journal's editor, Dr. Jerome P. Kassirer, said 
+this analysis, by a doctor-led group of researchers at the University 
+of California at San Francisco, breaks ground in examining the link 
+of financial incentives to such unhappiness. The article, ``Primary 
+Care Physicians' Experience of Financial Incentives in Managed Care 
+Systems,'' is based on a survey conducted two years ago of 766 primary 
+care, office-based, independent doctors who have HMO contracts and 
+of salaried doctors for California's big HMO, Kaiser Permanente. The 
+average age of the doctors _ pediatricians, internists, family practitioners 
+and obstetrical-gynecologists _ was 49, and an average of 56 percent 
+of their patients were members of HMOs. The doctors' average annual 
+salary is $130,000, which includes bonuses and other incentives that 
+typically accounted for 7 percent of their pay, or $10,500. The Blue 
+Cross and Blue Shield Association, made up of 55 state and local affiliates, 
+saw the study less as a rebuke than as fodder to support changes in 
+the health care system that it has begun to endorse. ``Managed care 
+is a work in progress,'' said Patrick Hayes, the association's president 
+and chief executive. ``There's no question about our needing to reinvent 
+managed care as it has been implemented in the last 10 or 15 years.'' 
+The study does not try to establish whether the incentives have led 
+to an actual decline in the quality of care, but it warns that they 
+may. In analyzing the survey, Dr. Kevin Brumbach, Dr. Andrew B. Bindman 
+and their team found that 38 percent of the doctors, or 291, were 
+subject to financial incentives to control costs. These included limiting 
+referrals of patients to specialists, limiting the use of hospitals 
+and prescriptions and raising their productivity by seeing more patients. 
+Of the 291 doctors, the study said 28 percent ``reported that they 
+felt pressure to limit what they told patients about treatment options.'' 
+A much higher proportion, 57 percent, felt pressured to restrict their 
+referrals, and a nearly a third of these doctors said the pressure 
+was severe enough to compromise the quality of care. And 75 percent 
+of the doctors, or 575, said they felt pressured to see more patients. 
+A third of these doctors, too, said care was compromised. By contrast 
+two other incentives, quality and patient satisfaction, pleased the 
+doctors, particularly at Kaiser. Ten percent of the office-based doctors 
+and 31 percent of those at Kaiser said the quality of care was an 
+incentive. Patient satisfaction was a criterion for 11 percent of 
+the independent doctors and for 45 percent of those at Kaiser. The 
+study added that the Kaiser doctors felt more pressure than the independent 
+doctors to see more patients, and faster. But it also said that ``they 
+were the least likely to report feeling pressure to limit referrals 
+or to restrict what they told patients about treatment options.'' 
+The California Medical Association saw Wednesday's report of the study 
+as ammunition to force changes in laws governing HMO contracts with 
+provisions that the association says undermine good care. On Tuesday, 
+the California Department of Corporations rejected an association 
+petition urging the changes; within a week, the association plans 
+to appeal. ``This state has gone from the leading edge in managed 
+care to the bleeding edge,'' said Dr. Jack Lewin, the association's 
+chief executive. ``Doctors are at this point burnt out.'' Concluding 
+a two-page editorial on discontent among doctors that was based on 
+the study, Kassirer of The New England Journal writes: ``There has 
+been an undercurrent of unhappiness among physicians for many years, 
+but the complaints seem more widespread and strident now. One thing 
+we know: disgruntled, cranky doctors are not likely to provide outstanding 
+medical care.'' 
+</TEXT>
+</DOC>

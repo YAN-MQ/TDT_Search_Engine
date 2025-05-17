@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981017.1600.0314 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The house and Senate will vote Tuesday on a $500 billion federal spending 
+bill. Because of the delay in the vote, Congress passed another stopgap 
+resolution to keep the government running until the Bill is completed. 
+President Clinton focused on the economy in his weekly radio address. 
+Mr. Clinton said the United States must protect its own prosperity 
+while working to stabilize global markets. Our economy is the strongest 
+in a generation, we have a budget surplus and new jobs, unemployment 
+at a 28-year low, inflation at historic lows. Wages are once again 
+on the rise. More than ever, this economic strength rest upon the 
+strength of an increasingly interdependent world. Our own recent growth 
+depends on exports of American goods and services, but over the past 
+year, the world's markets in turmoil, countries are having a hard 
+time managing their own economies and affording American goods, from 
+computer chips to jumbo jets. 
+</TEXT>
+</DOC>

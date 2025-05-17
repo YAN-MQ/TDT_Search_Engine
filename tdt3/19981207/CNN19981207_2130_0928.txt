@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981207.2130.0928 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- White House spokesman Joe Lockhart says 
+President Clinton's "contrition is real" and his lawyers will not 
+focus on criticism of Ken Starr in the president's defense tomorrow. 
+They plan to call 14 witnesses over a 30-hour period. 
+</TEXT>
+</DOC>

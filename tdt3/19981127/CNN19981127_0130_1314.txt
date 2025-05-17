@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981127.0130.1314 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Number 11 Tulane completed an unbeaten season at 11-0 by rolling over 
+louisiana tech 63-30. 
+</TEXT>
+</DOC>

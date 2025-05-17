@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981230.0130.0218 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The White House says President Clinton will travel to Mexico and central 
+america in midfebruary. He plans to meet with leaders in the region 
+and visit areas hit by hurricane Mitch. 
+</TEXT>
+</DOC>

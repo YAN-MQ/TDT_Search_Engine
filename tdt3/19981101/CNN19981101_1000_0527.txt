@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981101.1000.0527 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News" weather update. 
+A persistent area of low pressure in the southern plains will continue 
+moving eastward with strong thunderstorms and heavy rain possible 
+for texas, northward into Nebraska and Missouri. This low will continue 
+moving eastward as we head through the work week. Look for increasing 
+chances of rain across the deep south. A Ridge of high pressure will 
+build into the Great Lakes. There's still a chance you could see some 
+snow flurries across northern maine as the low-pressure storm moves 
+off the eastern seaboard. Elsewhere, fairly quiet weather for the 
+western U.S. you may see some showers along the pacific coast, continuing 
+inland and changing into snowfall. Readings will be in the 40s and 
+50s for most of the northern U.S. and 60s and 70s in the southwest 
+through Texas and into the middle atlantic coast. Our extended forecast 
+includes heavy rain Tuesday for the pacific. Look for snowfall and 
+scattered thunderstorms from the plain states into the deep south. 
+You'll also see heavy rain on Wednesday to the west and much colder 
+temperatures settling into the northern plains with snow possible 
+in the Great Lakes through Thursday. The forecast for more than 7,000 
+cities is at CNN.com. 
+</TEXT>
+</DOC>

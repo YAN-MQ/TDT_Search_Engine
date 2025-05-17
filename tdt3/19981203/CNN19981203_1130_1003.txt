@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981203.1130.1003 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Lowe's said its November sales improved nearly 7%. It opened eight 
+new stores in November. 
+</TEXT>
+</DOC>

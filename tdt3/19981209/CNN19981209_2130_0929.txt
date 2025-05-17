@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981209.2130.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a check of our top stories -- President Clinton is facing four 
+articles of impeachment. The charges are perjury, obstruction of justice 
+and abuse of power. House Judiciary republicans released their draft 
+articles even before the president's lawyers finished making his case. 
+</TEXT>
+</DOC>

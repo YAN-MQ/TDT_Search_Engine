@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981212.1000.0484 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One witness said it was like an earthquake. A natural gas explosion 
+in downtown St. cloud, Minnesota, yesterday killed four people and 
+injured 16 others. Investigators say they don't know what ignited 
+the gas, which apparently came from a pipeline broken by construction 
+workers. Two of the workers were among the dead. The explosion destroyed 
+three buildings and sent debris a block away. St. cloud is about 70 
+miles northwest of Minneapolis. 
+</TEXT>
+</DOC>

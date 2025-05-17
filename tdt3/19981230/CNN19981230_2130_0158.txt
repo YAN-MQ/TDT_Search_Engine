@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981230.2130.0158 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A house investigation concludes U.S. national security has been harmed 
+by technology deals with China. The house select committee on national 
+security investigated two U.S. companies that used cheap Chinese Rockets 
+to launch their satellites, Loral and Hughes electronics. It concluded 
+China conspired to obtain U.S. missile technology and apply it for 
+military purposes. The investigators say the companies helped the 
+Chinese improve their rocket technology after several failed launches. 
+</TEXT>
+</DOC>

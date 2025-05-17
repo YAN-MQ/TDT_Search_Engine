@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981023.1600.1362 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In tennis, Pete Sampras has withdrawn from the Lyon grand prix in 
+France. The world's number-one player is suffering from back spasms. 
+Mike Sammond, "Headline Sports." 
+</TEXT>
+</DOC>

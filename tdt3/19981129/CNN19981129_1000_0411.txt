@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981129.1000.0411 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Voters in Switzerland appear to be rejecting a clause to their constitution 
+to legalize drugs. Polls published for Swiss television forecast a 
+3-1 majority opposes the proposal. Under the plan, all narcotics, 
+from marijuana to heroin, would have been sold at government-run outlets 
+and stores. Opponents say legalizing drugs would make Switzerland 
+a haven for drug addicts from all over Europe. Backers say it would 
+eliminate the black market, reduce the power of the mafia, and make 
+addictions easier to treat. The plan was expected to fail, but proponents 
+hope a sizable losing vote will encourage Swiss lawmakers to further 
+liberalize drug laws. 
+</TEXT>
+</DOC>

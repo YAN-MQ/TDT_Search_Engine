@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981116.1130.0710 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+You've heard that laughter is the best medicine. Psychologically speaking, 
+that may seem pretty obvious. But research has shown that laughter 
+does indeed have an effect on most of the major physiological systems 
+of the body as well. In the immune system, laughter is thought by 
+some to increase the number of activated T-cells and natural killer 
+cells. That doesn't mean a funny joke will keep you from getting an 
+infection, but some researchers suggest it can help increase your 
+resistance. Laughter is also used as a treatment because it can encourage 
+muscle use and help get a patient's mind off disease. Check out CNN.com/health 
+for the latest health news online. For "your health," Kristy Lawson, 
+"CNN Headline News." 
+</TEXT>
+</DOC>

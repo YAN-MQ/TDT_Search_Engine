@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981023.0130.0951 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the autopsy report has been released on the woman who ran like 
+the wind. Forensics experts in California say Florence Griffith Joyner 
+suffocated during an epileptic seizure in her sleep. 
+</TEXT>
+</DOC>

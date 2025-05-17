@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981106.1130.0897 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+John Glenn and his six fellow crewmates aboard shuttle "discovery" 
+are wrapping up their experiments and stowing gear. "Discovery" is 
+scheduled to land in Florida tomorrow afternoon. 
+</TEXT>
+</DOC>

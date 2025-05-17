@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981224.1130.0423 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The last sign of a daytime highway speed limit has been lifted in 
+Montana. The state Supreme Court said the requirement for "reasonable 
+and proper" speed did not warn motorists when they were driving fast 
+enough to get a Ticket. That law had been on the books for more than 
+40 years. A federal speed limit replaced it in the 1970s, but it was 
+restored after congress repealed the federal limit in 1995. The attorney 
+general says he'll ask the next state legislature to establish a 75 
+mile per hour speed limit. 
+</TEXT>
+</DOC>

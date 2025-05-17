@@ -1,0 +1,111 @@
+<DOC>
+<DOCNO> NYT19981226.0093 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In the late 1940s, when William Levitt began building what became 
+the model for modern suburbia _ the 17,000-house complex known as 
+Levittown, N.Y. _ the Long Island developer employed radiant heating, 
+a design element rarely used at the time. Instead of using hot air 
+or heavy radiators to heat his houses, Levitt instead used warm water 
+pumped through copper pipes soldered together in the cement slab on 
+which the house rested. The system provided homeowners with an efficient, 
+comfortable source of central heating. Unfortunately, it also created 
+some problems when chemicals in the cement conspired with chemicals 
+in the solder to eat through the copper, causing the system to fail. 
+As a result, many Levittown homeowners switched to conventional systems. 
+While residential radiant heating systems are still the exception 
+rather than the rule, heating experts say, modern materials and installation 
+techniques have made such systems more efficient, more comfortable 
+and far less likely to fail than their predecessors. ``The optimal 
+heating technology today is radiant heat,'' said Frank Finkel, president 
+of Davis &AMP; Warshow, a plumbing- and heating-supply company in 
+Maspeth, Queens, New York City. ``And the technology today far surpasses 
+anything that was available at the end of World War II.'' Finkel said 
+that the cause of the problems with the radiant-heating systems installed 
+in Levittown 50 years ago _ a chemical reaction that deteriorated 
+the copper pipe _ was no longer a factor in modern radiant-heating, 
+or hydronic, technology. ``There are dozens of reputable companies 
+that make plastic or rubber radiant-heat tubing that carries a lifetime 
+warranty against defects,'' Finkel said, noting that the tubing now 
+used in radiant-heat systems was highly flexible yet able to withstand 
+high pressures and temperatures. In addition, he said, most manufacturers 
+build into their tubing what is known as an oxygen barrier to prevent 
+any chemical reaction from occurring between the tubing and whatever 
+it happens to be encased in. ``This stuff really works,'' Finkel said. 
+Brian Gelber, president of Stan Gelber &AMP; Sons, a heating and air-conditioning 
+company in Uniondale, agreed. ``Radiant heat is far superior to any 
+other kind of heat,'' Gelber said. ``And that's because instead of 
+heating air, you're heating mass.'' Gelber explained that with conventional 
+heating systems _ such as forced-air systems, baseboard hot water 
+systems and steam or hot-water radiators _ the heat is transferred 
+from the heat source to the air in the room. But since air moves around 
+a lot and is not very good at holding heat to begin with, he said, 
+it is difficult to maintain a constant temperature from room to room 
+and even within individual rooms. Moreover, Gelber said, in a conventionally 
+heated house, the objects in a room are typically colder than the 
+air surrounding them. As a result, such objects will actually draw 
+heat from a person on or near them. With a radiant-heating system, 
+Gelber said, the system functions not by heating the air in a room, 
+but by heating the objects in it. Such objects include things like 
+furniture, tables, appliances, carpet, draperies and even walls _ 
+starting from the floor and moving up. ``It's like having a gigantic, 
+low-temperature radiator encased in the floor,'' he said, explaining 
+that since objects in a room retain heat better than air, they are 
+less likely to ``steal'' heat from a body in close proximity. ``It 
+is an extremely comfortable form of heat,'' he said. Ideally, Gelber 
+said, a hydronic system provides the most even heating when the heating 
+tubes are installed during construction and embedded in a solid material 
+like a cement slab or a ``mud'' layer under a tile floor. Embedding 
+of the tubes, however, is not essential. This makes it possible to 
+install radiant heat even in existing houses. ``If you have an existing 
+wood or tile floor, and have access to the space between the joists 
+below, you can retrofit with radiant heat,'' Gelber said. In such 
+a case, he explained, the flexible tubing is ``laced'' through the 
+spaces between the joists, stapled to the undersurface of the floor 
+and then covered with reflective material and insulation. ``One question 
+we're always asked is whether the heat from the tubing will dry out 
+the wood floor,'' Gelber said. This, he explained, is not so because 
+the surface area of the heat source is so large _ essentially, the 
+area of the floor itself _ that it only needs to be heated to about 
+80 degrees. To do that, he said, the water in the heating tubes must 
+be maintained at about 100 degrees _ not so hot that it would dry 
+the wood. ``Conventional boilers operate at about 180 degrees,'' he 
+said. To compensate for the difference in temperature, he said, water 
+going from the boiler to the hydronic tubing is cooled by passing 
+it through a mixing valve. In fact, Gelbert said, the mixing valves 
+used in hydronic systems also make it possible to use one boiler to 
+run both a conventional hot water-heating system and a radiant-heating 
+system at the same time. ``That's the beauty of hydronics,'' he said, 
+explaining that a homeowner can install radiant heating in just one 
+or two rooms _ the kitchen and bathroom, for example _ while using 
+the existing hot water heating system for the rest of the house. Kolyn 
+Marshall, a sales engineer for Heatway, a manufacturer of radiant-heating 
+products in Springfield, Mo., said that in most cases a number of 
+mixing valves are used in conjunction with room thermostats to regulate 
+temperature on a room-by-room, or zoned, basis. Small circulator pumps 
+then move the water through circuits in the room or zones. ``Typically, 
+we'll recommend ]-inch diameter tubing in 200-foot circuits,'' Marshall 
+said, adding that circuits of up to 300 feet can be installed when 
+half-inch diameter tubing is used. The most common concern regarding 
+the use of hydronic tubing _ the possibility of future leaks _ is 
+generally addressed as soon as the system is in place. ``We always 
+recommend a 24-hour pressure test,'' he said, adding that the test 
+is to make certain that all the fittings are tight and that the installer 
+didn't inadvertently staple through one of the tubes. Of course, there 
+is one other factor to be considered when contemplating the installation 
+of radiant heat: the cost. ``It's not a low-budget option,'' said 
+Aris Crist, an architect in Greenwich, Conn. In most cases, he said, 
+installation of a radiant-heating system will cost one-and-a-half 
+to two times more than a conventional hot-water baseboard system. 
+And though similar boilers can be used for either system, he said, 
+the increased expense is attributable to the cost of high-quality 
+tubing and the mixing valves used to regulate the temperature of individual 
+circuits. While the additional expense is often recovered over time 
+in reduced energy costs, Crist said, saving money is generally not 
+the primary motivation for installing a hydronic system. ``People 
+who have experienced the benefits of a hydronic system firsthand,'' 
+he said, ``will usually find the money in their budget to install 
+one.'' 
+</TEXT>
+</DOC>

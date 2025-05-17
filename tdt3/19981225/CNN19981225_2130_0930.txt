@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981225.2130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the day's top stories -- a pacific weather system has forced 
+an early end to the latest attempt to fly a balloon around the world. 
+Richard Branson, Steve Fossett and their pilot landed near Hawaii 
+and were picked up by coast guard helicopters. They took off from 
+Morocco a week ago. 
+</TEXT>
+</DOC>

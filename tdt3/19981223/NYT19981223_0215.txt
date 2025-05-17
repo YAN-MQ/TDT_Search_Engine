@@ -1,0 +1,98 @@
+<DOC>
+<DOCNO> NYT19981223.0215 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+On screen, a Tomahawk missile rushes over the ocean. It is the Persian 
+Gulf at night, and there is cloud cover, but you can see the texture 
+of the waves. From the starboard side, the camera rolls around the 
+circumference of the missile to follow it from behind. And you can 
+see the flare, a flash of light from the rocket's rear and a misty 
+condensation trail, reflected in the water. This is a computer game. 
+This is ``NBC News Special Report.'' On Wednesday, Dec. 16, while 
+the nation channel-surfed between air strikes and impeachment, NBC 
+was broadcasting footage from Jane's Fleet Command, a strategy simulation 
+game scheduled for release this spring. The credited source was Electronic 
+Arts, the nation's largest publisher of entertainment software. ``They 
+realized that they could use our 3-D models and things like that much 
+quicker than they could develop their own,'' said Kristen McEntire, 
+a spokeswoman for Electronic Arts. ``They don't have the internal 
+resources to build a 3-D model of a carrier in an afternoon. We've 
+already got it built. We've got the detailed models. We know how the 
+elevators work and how they bring the plane up from the hangar bay 
+and how it launches off the carrier, the whole thing. We can do 27 
+different angles of it at different times of day. We can give them 
+ready-made footage in one second, and we know it's accurate. ``We 
+actually played the game, recorded the whole thing and supplied them 
+with several hours of footage of different scenarios: nighttime attacks, 
+daytime attacks, different types of missiles. Launches from airplanes, 
+launches from ships. ``It's easier for us to do it on the fly,'' Ms. 
+McEntire said, ``because the game comes with a detailed mission editor 
+so the player can place targets in different parts of the world and 
+then turn on the game and see how it plays out. It takes 10 minutes. 
+You just go drop drop drop drop _ you just drop things in where you 
+want them and say go. NBC had all different sorts of situations already 
+recorded. And when the time came, they selected the scenarios that 
+fit what actually happened and credited Jane's Combat Simulations 
+and Electronic Arts.'' The Jane's brand, in this case, was rather 
+important because Jane's Information Group is a 100-year-old publisher 
+that supplies the defense community with reliable information about 
+military equipment _ things like ships, tanks, satellites, tracking 
+systems, who's looking to buy surface-to-air missiles, who wants to 
+unload fighter planes for extra cash. If you want a down-to-the-millimeter 
+description of every fighter plane on earth, you can buy Jane's All 
+the World's Aircraft on CD-ROM for $1,145. If you want the entire 
+encyclopedia of everything that rolls, flies or floats, it will set 
+you back $16,000. Jane's Defense Weekly is a must-read for 20,000 
+military officials, intelligence officers and defense contractors 
+in 165 countries. These people are hard core. The consumer products 
+are, as they say in the marketing department, a ``brand extension'' 
+for Jane's. It's a licensing deal between the bible of the defense 
+industry and the 900-pound gorilla of video game publishing. Jane's 
+bumps up the name recognition. Electronic Arts gets the military equivalent 
+of a Good Housekeeping Seal of Approval for its air combat simulations. 
+And news outlets like NBC can feel less squeamish about using computer 
+game footage to illustrate world events on the nightly news. There 
+is some residual discomfort about this. Duane Emery, the ``Dateline 
+NBC'' program coordinator who originally procured the Fleet Command 
+footage, did not use the g-word when he passed it on to the producers 
+of the ``NBC News Special Report.'' ``They knew that it was from Jane's 
+Combat Simulations,'' Emery said. ``And I said to them that this was 
+a product not out on the market yet. But I don't say that it's a computer 
+(italics)game.(end italics) I don't refer to any of these kinds of 
+things as games. Most of the people that do computer simulations don't 
+even call them games. That's why they call them flight sims. They're 
+a game, technically, but they're a lot more technological. And I'd 
+prefer that you not use the term `game' when you're talking about 
+this broadcast. ``We use Electronic Arts (italics)technology(end italics) 
+that they incorporate into a simulation. We do not pull our information 
+off a video game. Plus, this was something that was in development. 
+They built something for us, too. We have a B-52 that doesn't appear 
+in the game, OK?'' Methinks the program coordinator protests too much. 
+Because it is a computer game. But then, so is most of America's military 
+activity, if you believe the Pentagon's press releases about the smart 
+bombs and remote air strikes and precision missile-guidance systems 
+(which sometimes aren't so precise), or if you turn on the news. Because 
+damage and death on the news is abstract. Targets hit, buildings destroyed, 
+a tally, a scoreboard. We saw the Persian Gulf in 1991 through the 
+cross hairs of a laser gun sight on CNN. And ever since then, we have 
+understood war as something tactical and technological and mediated. 
+Something very close to a computer game. So computer game footage 
+on television feels familiar. Virtual cruise missiles in the moonlight 
+are more credible than the ghostly night-scope footage _ images filmed 
+in another dimension (or stolen from ``The X-Files''). Three-dimensional 
+models of military hardware seem more authentic than the lantern-jawed, 
+flak-jacketed correspondents looking stern for the camera, playing 
+War Reporter. They seem more real, in a way, than the impeachment 
+hearings. Virtual weapons are so perfectly measured. You can study 
+them from any angle. All the details are known. And it's all contained 
+on the surface of a CD-ROM, $49.95 at Software Etc. ``And after the 
+product ships,'' Ms. McEntire promised, ``we'll be able to do real-world 
+scenarios like the attack in Iraq and put the new missions up on our 
+Web site for free download for our customers.'' So you can replay 
+the war on your home computer, just as they do on television, with 
+the same brand of data the real generals use. So the military strike 
+and the media coverage and the computer game will all look the same. 
+Viva convergence. 
+</TEXT>
+</DOC>

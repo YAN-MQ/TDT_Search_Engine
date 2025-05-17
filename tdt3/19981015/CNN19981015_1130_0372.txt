@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981015.1130.0372 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If you're at low risk for heart disease when you're middle-aged, chances 
+are you'll spend fewer Medicare dollars on hospital services when 
+you get older. That's according to a study in today's "New England 
+journal of medicine." Researchers say the most savings were associated 
+with heart disease risk factors that are preventable -- smoking, high 
+blood pressure and high cholesterol. 
+</TEXT>
+</DOC>

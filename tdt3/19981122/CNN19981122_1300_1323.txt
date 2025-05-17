@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981122.1300.1323 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On the ice, the Phoenix coyotes are arguably the hottest team in the 
+NHL. They have nine wins and two ties in its last 11 games, including 
+last night's 3-2 win in OT over Edmonton. Rick tocchet netted the 
+game winner with 52 seconds left in the extra period. 
+</TEXT>
+</DOC>

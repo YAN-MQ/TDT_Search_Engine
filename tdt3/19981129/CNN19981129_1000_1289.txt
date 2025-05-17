@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981129.1000.1289 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now to the wild finishes -- in Athens, Georgia tech broke a seven-game 
+losing streak to the bulldogs, 21-19. Brad Chambers 35-yard field 
+goal with two seconds left was the gamewinner. 
+</TEXT>
+</DOC>

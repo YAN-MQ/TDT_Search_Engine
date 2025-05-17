@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981130.1600.1052 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Ping slips on the way at Sweden's Volvo, the automaker says it plans 
+to trim its staff by 5300, about half the cuts and they'll take place 
+in sweden, half the cuts in Sweden. The other half overseas. Volvo 
+says it expects to save more than a third of a billion dollars result 
+of that move. Volvo blames slow demand. 
+</TEXT>
+</DOC>

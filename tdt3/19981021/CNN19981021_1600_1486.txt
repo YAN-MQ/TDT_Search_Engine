@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981021.1600.1486 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Samuel L. Jackson is headed for radio city music hall next February 
+for espn. The actor will host the Espy awards for the sports network 
+on Monday, february 15th. The actor is reportedly an avid golfer. 
+This is Dennis Michael with the "Hollywood Minute." 
+</TEXT>
+</DOC>

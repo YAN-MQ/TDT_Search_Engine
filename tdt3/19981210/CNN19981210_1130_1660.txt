@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981210.1130.1660 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stay with us. Excerpts from President Clinton's deposition are being 
+played on Capitol Hill today. That story and more in two minutes. 
+I'm Toria Tolley, this is "CNN Headline News." 
+</TEXT>
+</DOC>

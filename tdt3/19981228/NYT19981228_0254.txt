@@ -1,0 +1,83 @@
+<DOC>
+<DOCNO> NYT19981228.0254 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Life and death lie nowhere so close together as in the human cell's 
+counting device for limiting how often it can divide. The device is 
+a sort of tally stick that gets shorter at each division. When it 
+runs out, the cell dies. The telomere, as biologists call the device, 
+is overruled in only two kinds of cell and as a result both are immortal, 
+in the sense that they can go on dividing indefinitely with no sign 
+of growing old. One is the cells of the germline, the egg cells and 
+sperm-generating cells, that remain ever youthful from one generation 
+of people to another. The other is tumor cells. Biologists announced 
+last January that they had learned the death-defying secret known 
+to germline and tumor cells, that of how to override the telomere-shortening 
+system. The discovery stirred a euphoric ferment of proposals for 
+immortalizing the various body tissues that are especially prone to 
+give out in old age and disease. But a little knowledge is a dangerous 
+thing. Would the revitalized tissues gain the endurance of germline 
+cells or the lethal exuberance of tumor cells? The two teams of biologists 
+that announced their telomere-override method in January now report 
+in the journal Nature Genetics that their cells are still growing 
+and dividing with no sign of cancerous tendencies. One team, led by 
+Choy-Pik Chiu of Geron Corp., which owns rights to the telomere-override 
+component, says its laboratory cultures of immortalized cells have 
+doubled more than 200 times, with their anti-cancer genes still in 
+good order. This confirms the idea that the cells will ``provide therapeutic 
+opportunities for age-related diseases,'' the Geron scientists assert. 
+Usually cells divide only 50 times or so, depending on their type, 
+before telomere shortening drives them into senescence. The other 
+team, headed by Woodring Wright and Jerry Shay at the University of 
+Texas Southwestern Medical Center in Dallas, said their altered cells 
+had gone through 280 doublings, also without showing any of the wayward 
+behavior typical of cancer cells. Both groups enabled their cells 
+to defeat the telomere-shortening system by activating an enzyme called 
+telomerase, which builds telomeres back up to their normal length. 
+In normal cells an essential component of the enzyme, the template 
+on which it rebuilds the telomeres, is absent because the gene that 
+makes it is switched off. To immortalize their cells, the two groups 
+inserted into them a switched-on form of the human telomerase template 
+gene. Does the new result mean that cells with activated telomerase 
+can be transplanted into patients' bodies without creating an extra 
+risk of cancer? The two experiments mean nothing of the kind, in the 
+view of Robert Weinberg, a leading cancer biologist at the Whitehead 
+Institute in Boston. ``They are both kind of nonresults,'' he said. 
+``Both groups report that putting telomerase into normal cells does 
+not per se create a cancer cell, which is a straw-man issue because 
+no one expected it would. The real problem is whether the telomerase-bearing 
+cells are more predisposed to undergo changes that make them into 
+malignant cells.'' For a normal cell to become a cancer cell, it must 
+defeat the various safety circuits that protect against runaway growth. 
+Incipient cancer cells are thought to accumulate mutations in the 
+genes that underlie these circuits. Probably four or five separate 
+genes must be knocked out before a normal cell becomes a fully developed 
+tumor cell. One of the cell's safety circuits is the telomere-shortening 
+system. Indeed it may be the cell's last-ditch defense against tumors. 
+An incipient cancer cell that has knocked out all the other genes 
+restraining its growth can divide only so many times before the telomeres 
+drive it into senescence. Perhaps the final hurdle for a successful 
+tumor cell is to activate its telomerase gene. All that the new experiments 
+show, in Weinberg's view, is that the general regulatory circuits 
+of the cell are unaffected by the presence of active telomerase. But 
+a cell with activated telomerase has certainly taken one of the five 
+steps down the road to cancer, in Weinberg's view. ``The question 
+is whether you are one big step or one small step nearer, and one 
+can't know that from their experiments,'' he said. Dr. Calvin Harley, 
+Geron's chief scientific officer, said it was unfair to say that no 
+one had thought telomerase activation would cause cells to become 
+cancerous. Overproduction of telomerase might well have deranged the 
+cells' regulatory mechanisms, an important concern that had now been 
+laid to rest, he said. But the company's plan is not to give patients 
+cells with permanently activated telomerase, if it can avoid doing 
+do. Rather, the hope is to develop drugs that will switch on telomerase 
+temporarily, just long enough for it to rebuild the telomeres back 
+to their youthful length. ``The responsible approach in the therapeutic 
+development of telomerase is not to constitutively activate the enzyme 
+but to control its regulation,'' Harley said. Asked if Geron had yet 
+developed drugs to switch the telomerase gene on and off, Harley said, 
+``We have some data,'' but he added that the company's research is 
+focused on understanding cells with permanently activated telomerase. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981201.1130.0916 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Exxon and mobil have announced plans to merge. The proposed deal between 
+the nation's two largest oil companies is estimated to be worth more 
+than $80 billion. 
+</TEXT>
+</DOC>

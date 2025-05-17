@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981107.1600.1471 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A Canadian ice breaker has finished its year-long mission in the Arctic 
+icecap. Its purpose was to measure changes in ice, sea life and the 
+Arctic atmosphere. Researchers found ten times more sea life than 
+anyone thought. And the Arctic ice actually got thinner during the 
+project. It was the most ambitious research expedition ever in the 
+Arctic. The collected data will be used to create accurate models 
+of Arctic climate. 
+</TEXT>
+</DOC>

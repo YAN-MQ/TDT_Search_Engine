@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981223.0130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- the first big cold wave of the season 
+is sweeping across the U.S. on its first full day of winter. 
+</TEXT>
+</DOC>

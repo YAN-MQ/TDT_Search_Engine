@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NBC19981018.1830.0213 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mexico is under threat from heavy weather. Two hurricanes are swirling 
+off the pacific coast. 800 miles of coastline is threatened. The northern 
+storm, Madeline, is expected to make landfall tomorrow. Hurricane 
+Lester to the south is the stronger storm, with winds of 100 miles 
+per hour. It appears to be headed out to sea, but could influence 
+the weather in acapulco. 
+</TEXT>
+</DOC>

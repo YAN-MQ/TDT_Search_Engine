@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981113.2130.0974 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new study raises questions about the privatization of social security. 
+The employee benefit research institute finds fully privatizing social 
+security into individual accounts presents huge logistical hurdles, 
+administrative problems and additional costs for employers. The study 
+concludes creating 148 million individual social security accounts 
+may be the largest undertaking ever attempted in U.S. financial markets. 
+The report says no system to date has the capacity to administer that. 
+Supporters of personal investment accounts say they still are the 
+best option, and the problems can be overcome. 
+</TEXT>
+</DOC>

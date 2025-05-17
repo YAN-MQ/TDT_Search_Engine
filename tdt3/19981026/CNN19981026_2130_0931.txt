@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981026.2130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Top stories this evening -- hurricane Mitch is growing into one of 
+the strongest atlantic storms ever recorded with sustained winds reaching 
+180 miles an hour. The national hurricane center says the category 
+5 hurricane is at least three days from landfall. 
+</TEXT>
+</DOC>

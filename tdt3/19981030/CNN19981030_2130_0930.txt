@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981030.2130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories. John Glenn is hard at work on the space 
+shuttle. He had a number of tests today. 
+</TEXT>
+</DOC>

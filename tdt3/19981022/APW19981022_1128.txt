@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> APW19981022.1128 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+AMERICAN LEADERS NEW YORK (AP)-Sales, 4 p.m. price and net change 
+of the 10 most active American Stock Exchange issues, trading nationally 
+at more than $1. Name Volume Last Chg. SPDR 8,012,600 108 Up 1 3-8 
+FstAustPrm 2,250,400 55-8 NaborsInd 1,089,900 18 1-8 Up 3-4 AstdLiving 
+1,066,700 12 1-2 Down 1 1-2 TWA 970,300 4 13-16 Up 1-4 ForstLabs s 
+710,500 38 11-16 Down 1-16 MilestoneSci 677,200 1 7-16 Up 7-16 Cablevsn 
+s 673,300 47 7-16 Up 3 3-16 GreyWolf 592,300 1 7-16 Up 1-8 DJIA Diamnds 
+565,500 85 1-4 Up 3-16 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981026.1830.1041 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Other news, in Richmond today, a jury ordered nationwide insurance 
+to pay $100 million to settle a lawsuit filed by an equal opportunity 
+housing group. The suit alleged that nationwide discriminated against 
+blacks by denying them homeowner's insurance. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981209.2130.0992 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Economic growth is slowing for much of the country. The federal reserve 
+says growth in 5 of its 12 regions has weakened, and strengthened 
+in only one -- New York. The five districts with slower growth are 
+-- Atlanta, Boston, Dallas, kansas city and St. Louis. Analysts blame 
+a dip in consumer spending and fallout from Asia's economic crisis 
+for the drop. The other four districts -- Chicago, Minneapolis, Richmond 
+and San francisco remained unchanged. 
+</TEXT>
+</DOC>

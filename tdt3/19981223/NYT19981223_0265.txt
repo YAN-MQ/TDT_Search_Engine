@@ -1,0 +1,80 @@
+<DOC>
+<DOCNO> NYT19981223.0265 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Sometimes the future works just the way it's supposed to. Soon after 
+I got a Rio PMP300, the portable player for MP3 music files, I went 
+to a Metallica concert. The band played songs by Diamond Head, a band 
+whose original lineup made albums between 1979 and 1983; as a critic, 
+I wanted to double-check what it sounded like. Since I don't have 
+any Diamond Head albums, I went on line to the Ultimate Band List 
+Web site (www.ubl.com), searched for Diamond Head and found a site 
+with a few Diamond Head songs as MP3s. They weren't the songs that 
+Metallica had played, but I couldn't be picky. Downloading two of 
+them with my home modem took about 10 minutes per 4-minute song; then 
+I drag-and-dropped them into the Rio's memory and listened on headphones. 
+They sounded at least as full-bodied as a cassette on a Walkman _ 
+an improvement over the sound card that came with my computer, which 
+compares unfavorably with Dixie cups and string. Having confirmed 
+that Metallica owes Diamond Head plenty, I deleted the songs from 
+the Rio and, later, from my hard drive. Meanwhile, I couldn't help 
+looking at the teetering piles of CDs in my office and imagining all 
+that plastic gone, with the whole library in cyberspace instead. Not 
+so fast, the recording business says. No money changed hands so I 
+could listen to Diamond Head, and the major recording companies consider 
+my gleanings piracy, pure and simple. Nobody paid Diamond Head or 
+its label for the right to hurl their music into cyberspace, where 
+MP3 files can be not just downloaded but copied, retransmitted or 
+recorded onto CDs. Diamond Head didn't get a nickel when I listened 
+to the songs. The Recording Industry Association of America, the trade 
+organization for the major labels, has lately been busy searching 
+for MP3 sites and sending cease-and-desist letters to their operators. 
+Recording companies own the master recordings; they paid to make them. 
+Some Web page providers now forbid users putting MP3s on their sites. 
+But there are still hundreds and probably thousands of sites where 
+MP3s are available, whether it's a handful (as on the Diamond Head 
+site) or hundreds on categorized, alphabetized lists. Alta Vista, 
+the search engine (www.altavista.com), even suggests as a sample search 
+question, ``Where can I download MP3 files for instrumental music?'' 
+Hoisting the Jolly Roger is easy enough. Plug ``MP3'' and a band name 
+into a search engine, and something downloadable will turn up, although 
+it probably won't be exactly what you're looking for. MP3 sites are 
+unpredictable. One, Ripper, will hand over the free songs only after 
+you've stayed at certain hotels in Czechoslovakia. A hip-hop site 
+demanded that anyone who entered vouch that they were not from the 
+recording-industry association and urged users to delete downloaded 
+songs after 24 hours _ which it couldn't, of course, enforce. Clicking 
+through sites, I found live Pearl Jam and Radiohead songs (one apparently 
+recorded from a television on a cassette), house-music remixes of 
+songs by Chinese pop stars, full albums by Bone Thugs-n-Harmony and 
+obscurities from alternative-rock bands like Slint. I also found plenty 
+of dead ends and sites that had been shut down or stripped of MP3s, 
+including the one that promised rarities from Joy Division and New 
+Order and specifically refused to include anything from commercially 
+released albums. Most of the sites shared an almost messianic enthusiasm 
+for the MP3 technology and an eagerness to trade music, not to profit 
+from it. One site demanded that users upload one song for every three 
+they downloaded. There are non-pirate MP3s around. Goodnoise (www.goodnoise.com) 
+sells songs for 99 cents and albums for $8.99 from various labels, 
+including the entire catalog of SpinArt Records; some songs are available 
+free as samples, while downloading the albums requires a credit-card 
+number. Some musicians use home-recorded MP3s to promote themselves 
+outside the realm of recording contracts and labels, at Web sites 
+like www.iuma.com and www.free-music.com. Even some established bands 
+_ to the disgruntlement of their recording companies _ can't resist 
+the idea of getting music to their fans instantaneously. Soul Coughing 
+offers an ``MP3 o' the Month'' of a live performance or a song that 
+doesn't appear on their albums, urging fans to ``Collect 'em All!'' 
+(www.soulcoughing.com). Even with MP3 compression, music that sounds 
+better than a transistor radio occupies nearly a megabyte per minute, 
+which quickly clutters a hard drive; songs don't fit on 1.44 MB floppy 
+disks. The Rio's 32 MB memory encourages an impermanent, constantly 
+changing playlist, downloading at whim and deleting when the mood 
+passes. The next time I wanted a song, I'd download it again. But 
+that's the ideal. Finding music on line is easy; finding a particular 
+song is a time-consuming, sometimes futile process, and it will be 
+until the major labels agree on a way to get their cut of the action. 
+Until that happens, I can only dream of empty shelves. 
+</TEXT>
+</DOC>

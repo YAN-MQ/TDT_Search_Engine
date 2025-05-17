@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981014.0130.0431 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Authorities in tultepec, Mexico, say Tuesday's deadly explosion was 
+caused by a gas leak that set off gunpowder from nearby fireworks 
+factories. The blast destroyed four city blocks, killing at least 
+ten people. At least 50 more are injured or missing. Emergency crews, 
+assisted by the army, are searching for survivors. A red cross official 
+says the main explosion probably set off a chain reaction among dozens 
+of nearby makeshift factories. 
+</TEXT>
+</DOC>

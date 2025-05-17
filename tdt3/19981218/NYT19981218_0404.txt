@@ -1,0 +1,70 @@
+<DOC>
+<DOCNO> NYT19981218.0404 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+General Motors Corp. sent a top technology executive here recently 
+to promote the latest version of its EV1 electric car, which has new 
+batteries that are supposed to double the driving range to 140 miles 
+between charges. ``We're still going after the innovator who wants 
+the latest,'' said Frank Pereira, the GM brand manager for advanced 
+technology vehicles. ``This will reach a greater circle of people. 
+It will have utility for more of them.'' In an effort to dispel consumer 
+reservations over the costs associated with the aerodynamic two-seater, 
+GM also lowered by $1,000, to $500, the cost of installing a home 
+recharger _ a requirement of ownership, since the charging process 
+takes several hours. There are just 300 public charging sites in Southern 
+California and the San Francisco Bay area. There are 43 charging sites 
+in Arizona; GM also leases its electric car in Phoenix and Tucson. 
+Also this month, Ford cut the cost of its home recharging equipment 
+to $295 and lowered the lease price of its electric Ranger pickup 
+to $349 or $450 a month, depending on the batteries. GM will produce 
+just 500 of the 1999-model EV1s, including the new version equipped 
+with a pack of 26 nickel-metal-hydride batteries that cost $35,000 
+a car. The nickel-metal EV1 will lease for $499 a month for three 
+years, including the cost of the charger. GM will also offer a so-called 
+high-capacity version, with improved lead-acid batteries that are 
+supposed to increase the range by 20 percent and will lease for $424 
+a month. Last year's EV1, with conventional lead-acid batteries, cost 
+$399 a month. The new model looks just like its predecessor, whose 
+range turned out to be generally less than the predicted 90 miles 
+between charges. Demand for the EV1 has been tepid since its introduction 
+in December 1996, with only about 540 being leased. Sales did not 
+even budge after a local utility company offered employees a $100-a-month 
+subsidy last summer, said Robert Randall, an EV1 salesman in the Orange 
+County city of Irvine. ``That proved to us price was not the issue.'' 
+California is the nation's proving ground for electric vehicles, sparked 
+by state regulations requiring that 10 percent of all vehicles sold 
+in the state be emission-free starting in 2003. About 1,700 electric 
+vehicles have been sold in the last two years, including models from 
+Toyota, Honda and Ford. Chrysler plans to start selling an electric 
+minivan here next year. The state is also a battleground over the 
+best method for recharging electric cars. The EV1 uses an inductive 
+system that transmits energy through a paddle, in the form of alternating 
+magnetic fields. Ford's electric Ranger, Honda's EV Plus and Chrysler's 
+Epic van use conductive charging, drawn from a copper plug similar 
+to those used for clothes dryers and electric ranges. Toyota is switching 
+its 1999 RAV4-EV to inductive charging, from conductive. The charging 
+dispute is akin to the Beta vs. VHS battle in videocassette recorders, 
+or the Apple vs. Microsoft split in personal computers. The two methods' 
+technical merits and cost differences were hotly debated at the industry 
+conference in Phoenix this month where Ford and General Motors made 
+their announcements. Left unresolved, the squabble over a single charging 
+standard will hurt the industry, said Tom Gage, business manager of 
+AC Propulsion Inc. in San Dimas, Calif., which makes electric vehicle 
+motors powered by lead-acid batteries. For electric cars to become 
+more than niche vehicles, charging sites must be ubiquitous and batteries 
+must cost less, Gage said. The true economic costs of the batteries 
+and the charging infrastructure are being masked by subsidies from 
+utilities, governments and the automakers. ``At some point, it has 
+to become a real business,'' he said. Mark Sterner, an EV1 owner from 
+Riverside, Calif., said he expected nickel-metal-hydride batteries 
+to assuage fears of running out of charge, as happened to him one 
+cold day when he was driving into headwinds between mountains. Instead 
+of calling a tow truck, he settled into a motel in Banning, an isolated 
+desert town on the way to Palm Springs, to use a portable 110-volt 
+emergency recharger. ``They look at you funny when you say you only 
+want a place for three hours,'' he said. He plans to get one of the 
+new, longer-range EV1s soon. ``No more nights in Banning,'' he said. 
+</TEXT>
+</DOC>

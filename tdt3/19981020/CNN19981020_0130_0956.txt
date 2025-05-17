@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981020.0130.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And federal prosecutors are charging Microsoft with using illegal 
+business tactics to crush competitors. Those comments came during 
+opening statements in the government's antitrust suit against the 
+software giant. 
+</TEXT>
+</DOC>

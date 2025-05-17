@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981114.1000.0706 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Authorities suspect a welder's torch may be responsible for a fire 
+at the new Arena being built for the NBA's Miami heat. Flames could 
+be seen shooting from the American airlines Arena along the waterfront 
+yesterday. Construction on the 20,000-seat facility began in January. 
+Team officials say they don't expect the fire to delay the Arena's 
+planned opening in December of next year. 
+</TEXT>
+</DOC>

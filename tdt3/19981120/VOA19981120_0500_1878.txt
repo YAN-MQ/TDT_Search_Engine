@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981120.0500.1878 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And the first section of the long planned international space station 
+has been successfully placed in orbit after lift off from the Russian 
+launch site in Kazakstan. The Russian space station module, Zadia, 
+was launched atop a Russian booster rocket early today. Ten minutes 
+later, ground control announced the capsule had separated from the 
+rocket and entered orbit. The American space shuttle Endeavor will 
+rendezvous with Zadia in two weeks to deliver a connecting module. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981029.0130.1290 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Duane Walker, "CNN Headline Sports." The NBA lockout continues. Owners 
+and players met for most of Wednesday evening, trying to iron out 
+their differences and put an end to the lockout. League officials 
+were forced to cancel two more weeks of the regular season, a total 
+of 194 games have been lost. 
+</TEXT>
+</DOC>

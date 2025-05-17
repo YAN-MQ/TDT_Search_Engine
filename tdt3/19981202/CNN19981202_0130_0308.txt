@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981202.0130.0308 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+countries across the world marked a somber occasion tuesday -- world 
+aids day. health advocates and government officials used the event 
+to renew calls to stop the spread of the disease. china is expecting 
+a sharp increase in the number of cases over the next two years. it 
+has established a 12-year plan to stop the spread of aids. while aids 
+rates have fallen in industrialized countries, the number of cases 
+has increased in asia and africa. 
+</TEXT>
+</DOC>

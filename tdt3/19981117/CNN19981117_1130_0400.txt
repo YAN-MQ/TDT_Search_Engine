@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981117.1130.0400 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Argentina, scientists have discovered a huge dinosaur nesting site. 
+Their findings, outlined in the journal "nature," describe thousands 
+of six-inch fossil eggs along with embryo remains. Scientists say 
+the eggs were laid 70 to 90 million years ago. They believe the large 
+number of eggs suggests dinosaurs converged at the site to lay them. 
+Researchers believe a catastrophe, perhaps a flood, kept the eggs 
+from hatching. 
+</TEXT>
+</DOC>

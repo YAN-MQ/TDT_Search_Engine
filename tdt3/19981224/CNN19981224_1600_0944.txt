@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981224.1600.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Christians around the world are beginning their observance of Christmas. 
+In the West Bank city of Bethlehem, where the Bible says Jesus was 
+born, services will be held in four languages. 
+</TEXT>
+</DOC>

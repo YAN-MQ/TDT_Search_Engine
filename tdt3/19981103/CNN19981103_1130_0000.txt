@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981103.1130.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The campaigning is over. Polling booths are open. But how many Americans 
+will actually vote? Astronauts aboard the space shuttle "discovery" 
+prepare to recover the spartan satellite. And another snag stalls 
+the latest Israeli-Palestinian peace agreement. "CNN Headline News." 
+I'm Catherine Callaway. 
+</TEXT>
+</DOC>

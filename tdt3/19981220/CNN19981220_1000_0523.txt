@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> CNN19981220.1000.0523 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News forecast." Heavy snow over the four corner's region, 
+extending into South Dakota in the morning. Rain along the eastern 
+seaboard with snow in the northern Sierra-Nevada mountain range. In 
+the afternoon, the snow spreading into Minnesota into the Great Lakes 
+region as the rain exits the east coast. Snow developing in the Sierra-Nevada 
+mountain range in central California. By Monday morning snow over 
+the Great Lakes region extending as far south as Kansas and Missouri. 
+Continued snow over the four corners region with snow developing over 
+seattle. Very chilly tonight. Subzero, double-digit temperatures in 
+the northern Rockies and northern plains. Warmer temperatures along 
+the gulf coast. High temperatures reflect that frontal system becoming 
+stationary. Behind the front, subzero highs for the northern plains 
+and the northern rockies. Your extended forecast showing continued 
+very cold temperatures in the north, scattered snow across the country 
+with the heavy rain/snow mix over the Great Lakes. Continued snow 
+showers in the northwest, snow/rain mix in the northeast with thunderstorms 
+along the gulf coast. Tuesday, snow showers in the northwest as well 
+as the Great Lakes region with scattered showers along the gulf coast 
+Wednesday. Remember, you can get your four-day forecast for more than 
+7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

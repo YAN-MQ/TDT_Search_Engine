@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981230.1830.0840 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Two giant mergers were approved today by the federal government -- 
+the $53 billion combination of oil companies Amoco and British Petroleum, 
+and the $40 billion merger of AT&T and the cable industry tci have 
+both been given the green light. 
+</TEXT>
+</DOC>

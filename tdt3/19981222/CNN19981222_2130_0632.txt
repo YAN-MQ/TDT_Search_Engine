@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981222.2130.0632 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Today is the deadline for service stations to comply with an environmental 
+regulation. They are supposed to install leak proof, underground gasoline 
+tanks. The deadline was set ten years ago after some leaking tanks 
+contaminated drinking water. Stations that don't comply can be fined 
+or shut down. Many people complain the rules will drive mom and pop 
+stations out of business. Already, some of them have closed rather 
+than pay upwards of $100,000 for the new tank. 
+</TEXT>
+</DOC>

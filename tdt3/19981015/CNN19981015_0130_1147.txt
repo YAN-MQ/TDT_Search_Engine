@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981015.0130.1147 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street, stocks closed Wednesday in positive territory. The 
+Dow Jones industrial average rose 30 points to close at 7968. 
+</TEXT>
+</DOC>

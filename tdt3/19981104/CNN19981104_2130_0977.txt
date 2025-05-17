@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981104.2130.0977 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street got a boost today. Analysts say election wins by democrats 
+helped soothe investors who were concerned republican victories could 
+increase President Clinton's chances of being impeached. The Dow Jones 
+industrial average ended up nearly 77 points to close at 8783. 
+</TEXT>
+</DOC>

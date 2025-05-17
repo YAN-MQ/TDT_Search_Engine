@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981116.2130.1665 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More news in two minutes, including details on a new tobacco settlement. 
+Lynne Russell, "CNN Headline News." 
+</TEXT>
+</DOC>

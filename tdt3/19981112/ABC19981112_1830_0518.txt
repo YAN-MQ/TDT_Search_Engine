@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> ABC19981112.1830.0518 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This week we've been taking "A closer look" at genetic engineering, 
+tonight, the incredible potential of another new discovery. We -- 
+stem cells in the lab. Those are the cells which are basically the 
+building blocks of the body. This week, yet another advance. Making 
+stem cells by combining cells from humans and cows. ABC's John McKenzie 
+explains. The human body is made up of more than 100 billion cells, 
+each one playing a very specific role in the heart and the lungs and 
+the brain. But one type of primitive cell will create any tissue, 
+anywhere in the body. It's called an "embryonic stem cell." Now, scientists 
+in Massachusetts say they've found a way to turn some of your own, 
+highly-specialized cells into those basic, all-purpose stem cells. 
+It involves the stuff science fiction, creating embryonic cells that 
+are part human, part cow. Cow eggs. We have a lot of information because 
+we've used those in cloning procedures before. They're readily available. 
+If it works, this approach has huge implications. These hybrid stem 
+cells could be used to replace any of your own cells that aren't working 
+right, treating Parkinson's disease or diabetes or heart disease. 
+The potential in developing approaches to treat disease is absolutely 
+vast. In theory, it could even be used to grow your own replacement 
+body parts, including the kidney and bladder, lungs and cartilage. 
+Since they'd be your own cells, there wouldn't be the problem of ejection. 
+According to research team, in this technique a scientist took an 
+unfertilized egg from a cow and removed its nucleus, the command center 
+containing all the cow's genes and DNA. The scientist then took on 
+of his own cells, scraped from the inside of his cheek, and fused 
+it with what remained of the cow's egg. Quickly, the human nucleus 
+began to take control. The result, an embryo that divided and grew, 
+creating a cluster of what appeared to be human embryonic stem cells. 
+This research has yet to be formally reviewed by scientists. Those 
+working on the project first wanted to see how comfortable the public 
+would be with creating these new embryos with crossing the barrier 
+between humans and other species. John McKenzie, ABC News, New York. 
+</TEXT>
+</DOC>

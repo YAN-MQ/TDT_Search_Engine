@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981125.2000.0332 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In stocks, the NASDAQ composite index gained 20 points today to close 
+at 1914. 
+</TEXT>
+</DOC>

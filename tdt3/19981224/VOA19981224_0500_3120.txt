@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981224.0500.3120 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Government officials have approved Hong Kong Telecommunications' acquisition 
+of a local Internet company despite fears the deal will drown out 
+market competition. Hong Kong Telecom will control 51 percent of the 
+growing Internet market after buying Starr Internet. The director 
+general of the government's telecommunications authority, says his 
+office will modify the license of Hong Kong Telecom's interactive 
+multimedia services to insure the market is not run by the monopoly. 
+</TEXT>
+</DOC>

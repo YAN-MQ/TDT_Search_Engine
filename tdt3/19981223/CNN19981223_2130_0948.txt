@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981223.2130.0948 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An Arctic cold front is blanketing much of the United States. Many 
+roads and highways have iced over, causing dozens of fatal traffic 
+accidents. 
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981103.1600.0977 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors had a tough time matching yesterday's stellar gains. Beverly 
+Schuch is standing by at the cnnfn newsdesk in New York with all the 
+closing numbers and more. Beverly? Thanks, Denise. Would it appear 
+they didn't even try, stocks turn in a lackluster performance today 
+on Wall Street, following yesterday's solid gains. Investors taking 
+a bit of a breather as they cashed in and took some profits and headed 
+for the election polls. Blue chip stocks bounced in and out of the 
+plus column all session. With the day ending unchanged at 8706. The 
+Dow had been up 38 points earlier. City group and McDonald's each 
+lost more than $2 a share. The broader markets today ending mostly 
+lower, the NASDAQ losing 12 points. Bond prices recovering lost ground 
+today -- 
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981204.1130.0121 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The space shuttle "endeavour" is now in orbit after an early morning 
+launch. In the shuttle's cargo bay is the second Module of the international 
+space station. On Sunday, the "endeavour" is expected to link with 
+the Russian Module already in orbit. Astronauts will then connect 
+the two modules, beginning construction of the space station. A third 
+Module will need to be added before astronauts can live in the station. 
+NASA's chief says the station is a major step towards the human habitation 
+of space. If we ever expect to go to Mars or back to the Moon with 
+major colonies or go to research stations on asteroids, we got to 
+learn how to do this. We're going to have to assemble large structures 
+in space and we can't even use our eyes. Sometimes we will have to 
+use synthetic vision on video screens. This is where we want to be. 
+With a projected price tag of $60 billion, the station is the most 
+expensive scientific undertaking ever attempted. 
+</TEXT>
+</DOC>

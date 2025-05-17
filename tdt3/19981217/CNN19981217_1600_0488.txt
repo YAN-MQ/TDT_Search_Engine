@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981217.1600.0488 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for Friday morning. Snowfall is expected in the Great 
+Lakes area, the upper midwest parts of the northern plains states, 
+as cold frigid air spills across the Canadian border behind a cold 
+front that will continue to move to the south and east as we go through 
+the day tomorrow. Meanwhile, nice weather will continue in parts of 
+the southeast. In southern California, the Santa Ana has died down 
+so temperatures should return to normal. However, you can see daytime 
+highs tomorrow only in the teens in the northern plains states and 
+the northern Rockies. It gets even coder as we head through the weekend. 
+Some places on Saturday will see high temperatures remaining below 
+zero. And as we head on into Sunday, even colder in that same region. 
+Snow is possible again in the Great Lakes area. Some showers to the 
+south. As we move on into Monday, thunderstorms are possible in parts 
+of the south and snow showers are likely to continue in parts of the 
+Great Lakes area. For more weather information, log on to CNN.com. 
+four-day forecasts for 7,200 cities. 
+</TEXT>
+</DOC>

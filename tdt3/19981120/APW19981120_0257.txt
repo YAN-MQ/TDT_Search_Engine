@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> APW19981120.0257 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Prices on the Hong Kong Stock Exchange closed lower on profit-taking 
+Friday. The Hang Seng Index, the market's key indicator of blue chips, 
+fell 79.94 points, or 0.8 percent, closing at 10,233.36. On Thursday, 
+the index had gained 99.88 points. Turnover amounted to 8.46 billion 
+Hong Kong dollars (U.S. dlrs 1.08 billion), up from Thursday's 7.14 
+billion Hong Kong dollars (U.S. dlrs 915 million). Brokers said investors 
+took profits following recent gains in share prices, discounting an 
+expected cut in local interest rates. After the market closed, leading 
+Hong Kong banks announced that they were cutting their prime lending 
+rates by 0.25 percentage point to 9.50. Brokers said the cut in local 
+interest rates was expected after U.S. interest rates were reduced 
+on Tuesday. Among properties, Sun Hung Kai Properties fell 1.75 Hong 
+Kong dollars to 55.50, and Cheung Kong fell 1.50 dollars to 57.25. 
+In the banking sector, HSBC Holdings fell 5.00 dollars to 186.50, 
+and Hang Seng Bank fell 1.00 dollar to 67.00. Elsewhere, Hutchison 
+Whampoa fell 1.25 dollars to 55.25, and Swire Pacific ``A'' fell 50 
+cents to 35.00. 
+</TEXT>
+</DOC>

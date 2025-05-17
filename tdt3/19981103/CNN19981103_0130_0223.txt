@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981103.0130.0223 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Be sure to watch Headline News Tuesday night for updated reports on 
+all the elections. Chuck Roberts will bring you the returns as they 
+come in, starting at 7:00 p.M., eastern time. 
+</TEXT>
+</DOC>

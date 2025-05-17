@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981203.0276 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+On Tuesday, the U.S. Supreme Court once again chopped a hunk out of 
+what remains of the Fourth Amendment's guarantee against unreasonable 
+searches and seizures. A 6-3 majority ruled that a short-term visitor 
+to a home or apartment doesn't have a reasonable expectation of privacy 
+_ meaning, of course, that neither does the homeowner or renter. A 
+police officer was told by an informant that two men were measuring 
+out drugs in a garden apartment. The officer managed to get a peek 
+in the window through a gap in the blinds, saw what he believed to 
+be two men bagging cocaine, left and came back with a warrant to search 
+the premises. According to the Minnesota Supreme Court which had the 
+case first, the officer climbed over bushes, crouched down by the 
+window, and peered into the apartment through a small gap in the blinds. 
+The state supreme court determined that the officer's actions violated 
+the Fourth Amendment and threw out the conviction. The nation's highest 
+court disagreed. Chief Justice William Rehnquist wrote the opinion 
+for the majority. Because the two men engaged in measuring out cocaine 
+were not overnight guests of the woman who leased the apartment, they 
+cannot have an expectation of privacy, he wrote. While we understand 
+the government's concern about illegal drugs, this logic slices the 
+law pretty thin. Transparently thin. This is clearly jurisprudence 
+aimed at a conclusion. The high court was not going to let these men 
+free, no matter how the Fourth Amendment's protections had to be twisted. 
+If the renter had invited a lover over for an afternoon delight, would 
+there be no reasonable expectation of privacy? Does that mean that 
+unless the renter asked the lover to stay overnight, the renter would 
+not be secure from unreasonable searches? What if you invite your 
+friends into your home in order to plan a political campaign to beat 
+an incumbent city councilman, could the police peek in your windows 
+to spy on what the group was planning? In trashing a visitor's rightful 
+expectation of privacy from the outside world, the court trashed the 
+homeowner's right too. This decision creates bad law, law that puts 
+all of us in jeopardy. 
+</TEXT>
+</DOC>

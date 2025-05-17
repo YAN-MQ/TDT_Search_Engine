@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981105.1830.0933 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another step forward in bringing down long distance rates. Sprint 
+is the first big company to offer long distance calls for a flat fee 
+-- $25 a month for an unlimited number of calls on the weekends. 
+</TEXT>
+</DOC>

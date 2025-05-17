@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> NYT19981014.0005 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Congressional leaders revived legislation Tuesday that would nearly 
+double the number of employment visas available for skilled foreign 
+workers. The measure, which is sought by high-technology industries, 
+appeared dead on Friday night, but budget negotiators agreed Tuesday 
+to include it in the omnibus spending bill that Congress is trying 
+to finish this week so it can adjourn. ``This is a big victory for 
+the economy, which is being fueled in large part by our high-tech 
+industries,'' said the author of the legislation, Sen. Spencer Abraham, 
+R-Mich. ``The legislation strikes the right balance in safeguarding 
+America's competitive edge and protecting U.S. jobs.'' The final proposal 
+represents a hard-fought compromise with the White House, which had 
+opposed Abraham's original measure because of concerns that it lacked 
+proper protections for American workers. Silicon Valley companies 
+have pushed hard for the visa legislation, contending that they cannot 
+find enough skilled Americans to fill crucial jobs. The industry won 
+another victory Tuesday with the passage of the Securities Litigation 
+Uniform Standards Act, which is intended to protect technology and 
+other start-up companies from lawsuits in state courts over stock 
+price fluctuations. The compromise measure, now endorsed by both houses 
+of Congress, imposes a single national standard for such suits. The 
+legislation to increase the number of so-called H1-B work visas, a 
+result of months of wrangling with the White House, appeared to have 
+been killed on Friday night after Sen. Tom Harkin, D-Iowa, questioned 
+the validity of the high-technology industries' claims of worker shortages 
+and blocked a final vote. The final version increases from 65,000 
+to 115,000 the number of H1-B visas available in each of the next 
+two years and sets the number at 107,500 in the third year. It requires 
+that if 15 percent or more of a company's work force consists of employees 
+on H1-B visas, it must attest that they have not replaced American 
+workers. Companies hiring H1-B workers with master's degrees or higher 
+or at salaries of $60,000 or more would be exempt from that requirement. 
+There are also special exemptions for small businesses and start-up 
+companies. The legislation also authorizes the Labor Department to 
+investigate suspected abuses of the program and imposes a $500 filing 
+fee on visa applications and renewals. The more than $75 million raised 
+by these fees would be used for training and scholarship programs 
+for U.S. citizens. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981221.1600.3032 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Meanwhile, in other world markets, in London the Financial Times 100 
+share index ended the day up 135 points at 5876.5, while in Paris 
+the KAQ 40 Index was up 112 points at 3803. The DAX Index in Frankfurt 
+was up 160 points at 4827. 
+</TEXT>
+</DOC>

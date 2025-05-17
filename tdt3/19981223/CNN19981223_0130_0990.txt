@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> CNN19981223.0130.0990 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Aaa has released its list of best cars, minivans and sport utility 
+vehicles. Ed Garsten has the winners. The aaa rated vehicles based 
+on value, performance and safety and named its top choices in 11 categories. 
+The top sedan under $30,000 is the Chevy Malibu. It's surprisingly 
+agile, it's easy to get in and out of. It holds a lot of cargo, and 
+it's certainly priced right. But the aaa says the Oldsmobile intrigue 
+and Acura 3.2tl are also good choices in that price range. In the 
+$30,000 to $35,000 range, the BMW 328i scored best. It's well balanced, 
+it's muscular, it's luxurious. It does everything right. In the $35,000 
+to $40,000 price bracket, the Saab 9-5 wagon was tops, according to 
+the aaa. The wagon boasts superior styling and a unique cargo handling 
+system -- not a wagon, not a car, not even a truck, but a little of 
+each. The Subaru forester was the top sport utility vehicle under 
+$25,000. Over $25,000, the completely restyled Jeep grand Cherokee, 
+which offers a Larger load area than previous models. And the top 
+minivan was the Ford windstar, with side air bags, remote-powered 
+side sliding door and backup warning system. The best vehicle overall, 
+regardless of price or category, was the Mercedes s500. Even at 50 
+grand, a good value, says the aaa. Now, it has a more powerful engine. 
+It's lighter, and it's more economical. And it has a whole host of 
+safety and convenience features. To come up with its ratings, the 
+aaa tested more than 180 cars, minivans and station wagons, putting 
+them through 20 separate tests. Ed Garsten, CNN, Detroit. 
+</TEXT>
+</DOC>

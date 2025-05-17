@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> APW19981030.1054 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Early results from Friday's Al-Ahram International Tennis Championship: 
+Anna Kournikova of Russia defeated Maria Antonia Sanchez Lorenzo of 
+Spain: 6-4, 6-4. Arantxa Sanchez-Vicario of Spain beat Olga Barabanschikova 
+of Belarus: 1-6, 6-2, 6-3. 
+</TEXT>
+</DOC>

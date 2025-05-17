@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981116.2130.1033 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Compaq computer is unveiling a line of personal computers that offer 
+faster connections to the Internet via telephone and satellite. The 
+PCs utilize high-speed communication equipment so users can maintain 
+constant Internet access rather than dialing up each time they go 
+on line. Users will be able to receive data as fast as 1.5 million 
+bits a second. 
+</TEXT>
+</DOC>

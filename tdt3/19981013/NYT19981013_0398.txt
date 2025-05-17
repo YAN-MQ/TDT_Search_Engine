@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> NYT19981013.0398 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Ford Motor Co. announced plans Tuesday for mass production of a new, 
+gearless car transmission to be produced in a joint venture that could 
+also become a new model for labor relations in the auto industry. 
+The new transmission, which uses a system of pulleys instead of gears, 
+allowing many subtle gradations of power to speed, improves fuel economy 
+by 10 percent to 15 percent, Ford said. Large-scale installation of 
+the new transmission would help Ford meet federal fuel-economy regulations 
+in the United States and compete in foreign markets where gas prices 
+are high and fuel economy is important to car buyers. Ford said that 
+it would form the joint venture with ZF Friedrichshafen AG of Germany, 
+which had patented a design for a so-called continuously variable 
+automatic transmission. Ford will own 49 percent of the venture and 
+ZF will own 51 percent. The two companies said they would begin installing 
+the transmissions in 2001 model-year cars and would install a million 
+of the new transmissions annually by 2005 at a Ford transmission factory 
+in Ohio. The transmissions would be installed mainly in small Ford 
+cars in the United States and abroad. But Ford also planned to sell 
+some to other automakers overseas, said Jacques Nasser, the president 
+of Ford's worldwide automotive operations, who will become Ford's 
+chief executive at the end of the year. Ford's choice of a joint venture 
+to build the new transmissions also opened the door for it to make 
+the first use of an unusual provision in all of the Big Three's labor 
+contracts since 1996. The provision allowed the automakers to pay 
+lower wages in any new auto parts businesses that they enter through 
+joint ventures. Nasser said that all current employees at the company's 
+transmission factory in Batavia, Ohio, would remain Ford employees. 
+But any future hires would be employees of the new joint venture, 
+and Ford would eventually like to have a separate labor agreement 
+at the factory, he told reporters Tuesday. 
+</TEXT>
+</DOC>

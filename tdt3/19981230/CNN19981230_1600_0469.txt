@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981230.1600.0469 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up -- why you should be concerned about the year 2000 computer 
+bug. But first -- the extended weather forecast. 
+</TEXT>
+</DOC>

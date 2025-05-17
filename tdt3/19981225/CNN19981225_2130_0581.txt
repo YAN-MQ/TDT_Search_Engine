@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> CNN19981225.2130.0581 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Iraq has been left behind in the Internet boom. Years of economic 
+sanctions and political restrictions have kept web surfing and E-mail 
+out of the country. Marsha Walton has more, in this edition of "tech 
+trends." The United Nations says war and sanctions have left Iraq's 
+communications system in terrible shape. That's one reason the country 
+has no E-mail or web sites originating from inside its borders -- 
+an assessment echoed by Iraq's ambassador to the U.N. Right now, the 
+whole country has no Internet access, given the downgrading of our 
+telecommunications systems and the regime of the sanctions. Iraqi 
+ambassador nizar Hamdoon says Iraq would like to connect its citizens 
+to the wired world. This is essential for the people in this age to 
+try to open up to information and get access to all data that are 
+available. This is disingenuous. Human rights activist Eric Goldstein 
+says Iraqi leaders would never tolerate the free exchange of ideas 
+the net makes possible. It's illegal even to own a computer modem 
+in Iraq. Iraq is one of the most repressive governments in the region 
+and in the world. So the Internet is the natural enemy of this kind 
+of intolerance. U.N. sanctions have also kept most computer components 
+from entering the country. But Goldstein isn't convinced it's all 
+economics. If Iraq had the will, they could have the Internet set 
+up in spite of the sanctions. It's clearly not in their interest to 
+do that. Iraq's only official web site originates from its U.N. mission 
+in New York. But many sites share the voices of Iraqis living in other 
+parts of the world. Groups like the Arab-American action network in 
+Chicago spread whatever information they can gather. The Internet 
+has provided ordinary people with an opportunity to get their story 
+out to the world. The most open societies in the Middle East have 
+the most Internet usage, like Lebanon, Jordan and the Palestinian 
+areas. Other countries such as Syria and Saudi Arabia are lagging, 
+but they are starting to catch up. But not Iraq, though ambassador 
+Hamdoon says there are plans for some Internet access. Now there is 
+an effort to try to establish some uplinks that could provide us with 
+a way of connection, at least for the universities. After years of 
+sanctions, Iraqi leaders say people are more worried about finding 
+their next meal than surfing the net. Marsha Walton, "CNN Headline 
+News." 
+</TEXT>
+</DOC>

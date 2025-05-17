@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981108.1300.0934 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- John Glenn and his six crewmates 
+from space shuttle "discovery" held a news conference to discuss their 
+mission today. Glenn said he had some trouble readjusting to gravity 
+yesterday, but said he feels "great today." 
+</TEXT>
+</DOC>

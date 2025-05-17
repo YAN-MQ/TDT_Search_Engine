@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981119.1600.1296 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Cardinals and Phillies pulled off a trade. The phils get Ron gant 
+in the deal. They'll send Ricky bottalico to St. Louis. Gant hit .240 
+with 26 homers. 
+</TEXT>
+</DOC>

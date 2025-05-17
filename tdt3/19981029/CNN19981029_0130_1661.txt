@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981029.0130.1661 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Americans prepare for what promises to be a historic day of space 
+travel. More on that story in two minutes. I'm David Goodnow. This 
+is "CNN Headline News." 
+</TEXT>
+</DOC>

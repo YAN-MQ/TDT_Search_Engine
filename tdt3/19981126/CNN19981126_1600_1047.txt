@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981126.1600.1047 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A remarkably rosy economic picture remains for many Americans, especially 
+those who have been looking to buy a house or refinance their current 
+loans. In fact, the department of commerce says home ownership in 
+the third quarter of this year hit its highest level since it began 
+collecting data in 1956. This is great news for home buyers. The national 
+average for the 30-year fixed rate fell to 6.78%. it hasn't been that 
+low since October. The 15-year fixed, dropping to 6.43%. and the one-year 
+adjustable down to 5.75%. 
+</TEXT>
+</DOC>

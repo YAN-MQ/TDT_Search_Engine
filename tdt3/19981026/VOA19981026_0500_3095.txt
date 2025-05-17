@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> VOA19981026.0500.3095 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Microsoft Corporation chairman Bill Gates's videotaped testimony is 
+to be offered as evidence in this the second week of the Justice Department's 
+landmark anti-trust court case. The government alleges Microsoft, 
+which has a virtual monopoly in the computer software operating systems 
+market, has given away its Internet Explorer browser for free, hurting 
+competitors like Netscape. Robert Bench, portfolio manager with Altus 
+Investment Management, which has a stake in Microsoft, was asked if 
+breaking up the company is possible. I don't see that as a really 
+big risk. I think the public wants and needs to have standards in 
+computing. We really don't want to spend a lot of time thumbing through 
+manuals and trying to figure out how you do something like cut and 
+paste in two or three different products. So this common user interface 
+that Microsoft has put together has enabled us to use a very complex 
+product much more simply. Mr. Gates has not been called by either 
+side as a witness but has given the government 20 hours of testimony 
+on videotape as it prepared its case against the Seattle-based firm. 
+</TEXT>
+</DOC>

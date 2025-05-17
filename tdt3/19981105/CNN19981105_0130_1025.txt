@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981105.0130.1025 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Citibank and chase Manhattan corporation aren't calling the launch 
+of smart card technology a complete failure, but those banks say they 
+do need to rethink their strategy. Bruce Francis reports. Upscale 
+Deli zabar's is the unofficial capital of Manhattan's upper west side, 
+the neighborhood picked for the smart card test. If you can make it 
+here, you can make it anywhere in the neighborhood. But smart cards 
+that store value for use as electronic cash didn't make it, despite 
+the powerful backing of chase and citibank. There was a tremendous 
+amount of work for the merchant, which, you know, after a deal of 
+time, we didn't want to put up with. The few customers that did use 
+it, when it was successful, they seemed to be pleased. But every time 
+there was a glitch in the system, they were furious. So, many stuck 
+to cash, credit or debit cards. I use my credit cards when I want 
+to charge something. And I like to use cash, because I like to see 
+the money. It looked too complicated. You had to fill out all kinds 
+of forms at the bank. And then there were credit restrictions on it. 
+And, you know, life is complicated. The trial's failure comes two 
+years after a similar program at the Atlanta games proved to be a 
+failure of Olympic proportions. Rival Mastercard has also ended two 
+other trials. But citibank is undeterred. We knew from all the prior 
+programs that keeping merchants trained as usage slowly builds is 
+a difficult task, and indeed -- and indeed it was. But we have firsthand 
+experience now that we're incorporating it into all our future programs. 
+In future trials, smart cards will probably have more functions, like 
+being used for a public transportation pass or a phone card as well. 
+And consumers will probably be offered more perks, like discounts 
+or frequent-flyer miles. Bruce Francis, "CNN Financial News," New 
+York. 
+</TEXT>
+</DOC>

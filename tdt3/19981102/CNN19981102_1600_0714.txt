@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981102.1600.0714 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Police in Portland, Oregon, are about to launch a sting operation 
+to make crossing the street safer. Undercover officers are going to 
+pose as pedestrians. Drivers who fail to let them pass will get a 
+ticket. 49 people have been killed crossing the street in Oregon this 
+year, that's a 40% increase from the same period last year. 
+</TEXT>
+</DOC>

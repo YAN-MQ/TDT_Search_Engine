@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> APW19981207.1441 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+On Thursday, the master alarm blared and red lights flashed just before 
+the shuttle was to lift off. By the time controllers traced the problem 
+to a momentary drop in hydraulic pressure and decided to press ahead, 
+it was too late _ they had missed the cutoff by a second or two. ``Sure, 
+it's frustrating,'' said Bill Readdy, shuttle program director and 
+a veteran shuttle commander. ``But we do things right. We do things 
+by the book, and we're not going to cut any corners even if it means 
+just shaving a second or two.'' The six astronauts crawled out of 
+the shuttle, and two threw up their hands. Cabana held up his thumb 
+and index finger a half-inch apart: ``We were that close.'' The problem 
+was confined to one of Endeavour's three hydraulic pressure units. 
+The pressure dropped just long enough to trigger the alarm, evidently 
+because of a sensitive switch, then returned to normal. NASA engineers 
+spent the day examining the problem, but found nothing wrong with 
+any of the systems and were confident it would not reoccur. Endeavour's 
+12-day flight is already a year late because of a cash crunch in Russia, 
+one of NASA's partners in building the international space station. 
+The one-day delay cost NASA about $600,000, mostly in fuel and overtime 
+pay. Aboard Endeavour is an American-made connecting passageway named 
+Unity. The astronauts will use the shuttle robot arm to capture the 
+Russian space station piece and attach it to Unity. Then, two spacewalkers 
+will hook up all the electrical connections and cables between the 
+two cylinders, and attach handrails and tools for future crews. Secretary 
+of State Madeleine Albright and other dignitaries from around the 
+world gathered again to see Endeavour and its crew off. ``Here we 
+have 16 countries cooperating on a venture to the future,'' said Albright. 
+``This is a good investment.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981202.1130.0339 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+40,000 Chicago-area residents who received blood transfusions between 
+1994 and 1996 are being warned about a risk of possible contamination. 
+A New York blood bank says the blood it supplied Chicago-area hospitals 
+was improperly tested for viral infections, including HIV and hepatitis. 
+Health officials say the chances of infection are remote. No infections 
+have been linked to the blood so far. 
+</TEXT>
+</DOC>

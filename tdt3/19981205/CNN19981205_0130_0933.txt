@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981205.0130.0933 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- President Clinton's lawyers want at least 
+three days to defend Mr. Clinton at his impeachment inquiry next week. 
+The house Judiciary committee has allotted just one. 
+</TEXT>
+</DOC>

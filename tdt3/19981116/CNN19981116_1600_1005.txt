@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981116.1600.1005 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow industrials rocketed past the 9000 level today, closing above 
+the key level for the first time since July 31st. A promising new 
+recovery package from Japanese officials, and easing tensions in Iraq 
+gave the Dow an early reason to rally. The blue chips ending the day 
+up 1 points at 9011. Broader marks were mostly higher. The NASDAQ 
+composite clinging to a 13-point gain. Bonds slipped late in the day 
+and right now the issue is down 25/32 in price. The yield is the 5.30%. 
+</TEXT>
+</DOC>

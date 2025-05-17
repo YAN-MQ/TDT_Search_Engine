@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981109.0500.3147 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Whole sales prices in Japan dropped 1.7 percent in October following 
+a 1.1 percent decline in September. The Bank of Japan attributes the 
+price deflation to the sudden strength of the yen against the dollar. 
+</TEXT>
+</DOC>

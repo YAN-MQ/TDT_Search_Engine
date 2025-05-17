@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981027.2000.2002 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From the BBC Newsroom in London, this is Pamela McCall. You're listening 
+to The World. 
+</TEXT>
+</DOC>

@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981206.1130.0520 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather" update. 
+A cold front will move through the Great Lakes. The remainder will 
+move into the lower Mississippi valley. Continuing northward into 
+New England. Out west, snow is prevalent for the mountain areas and 
+the Monday forecast as a new forecast heads inland. High pressure 
+will keep temperatures very cold. Teens, 20s and 30s will be high 
+temperatures on Sunday for most of the rockies and the plains. Temperatures 
+continuing above normal from near lake Erie into southern florida 
+and southern Texas. The extended forecast includes heavy snow and 
+west. A few thunderstorms may linger in the gulf coasts on Wednesday 
+and snow showers spread into the Great Lakes by Thursday. The extended 
+forecast for more than 7,000 cities can be found on your PC, the address 
+is CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981020.1830.1350 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow Jones industrials gained more than 39 points to close at 8505. 
+On the NASDAQ market, stocks were down more than nine points. 
+</TEXT>
+</DOC>

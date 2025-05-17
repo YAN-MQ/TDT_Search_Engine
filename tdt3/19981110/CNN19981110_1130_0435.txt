@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981110.1130.0435 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+a new study shows the nation's kids are doing more work and less play 
+these days. university of michigan researchers say kids' free time 
+-- what's left after eating, personal care, sleeping or attending 
+school -- is declining. the study found that children on average spent 
+just 30% of their time playing last year. that's down from 40% in 
+1981. researchers say play time is important for kids because it helps 
+them learn and develop social and mental skills. 
+</TEXT>
+</DOC>

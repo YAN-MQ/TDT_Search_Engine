@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981011.1600.0724 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The maker of the anti-impotence drug Viagra has been criticized in 
+a British newspaper for conducting experiments on dogs. A spokesman 
+for Pfizer says it was necessary to test Viagra on dogs so it could 
+get a product license. The "Sunday mirror" reported today beagles 
+were drugged unconscious and underwent gruesome surgery. Pfizer says 
+the dogs received a general anesthetic and felt nothing during surgery. 
+</TEXT>
+</DOC>

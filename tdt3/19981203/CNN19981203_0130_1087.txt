@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981203.0130.1087 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Microsoft chairman Bill Gates and his wife are donating $100 million 
+to help immunize children. The gift is designed to give children overseas 
+access to the same vaccines american children routinely receive. The 
+world health organization says the Gates gift is the largest ever 
+to promote children's vaccinations. 
+</TEXT>
+</DOC>

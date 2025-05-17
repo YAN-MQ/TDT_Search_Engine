@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981227.1600.1277 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In NFL news, giants running back Gary brown, who has led the team 
+in rushing in all but two games this season, has reportedly signed 
+a new four-year deal for nearly $5 million. 
+</TEXT>
+</DOC>

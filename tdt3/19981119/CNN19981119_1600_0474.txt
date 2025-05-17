@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981119.1600.0474 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Friday. Rain and snow will move across the northeastern 
+U.S., moving away with time. We'll also see some rain showers along 
+the east coast with a frontal boundary pushing into that region. Quiet 
+and cool weather will be in between that system and one in the northwest 
+that will bring heavy rain, strong winds and snow to that part of 
+the country. High temperatures Friday just 30s over the upper midwest. 
+Still mild through parts of the southeast. Most of the west will see 
+50s and a few 60s. Looking ahead to Saturday, the heavy rain continues 
+in the northwest with a Few snow showers around the eastern Great 
+Lakes and rain showers in southern Texas. On Sunday, no change in 
+the northwest. It'll be windy through the Great Lakes with some rain 
+or snow in the forecast. Finally, on Monday, temperatures are milder, 
+but it is still wet and windy in the west. Don't forget, you can find 
+four-day forecasts for more than 7,200 cities on cNN interactive. 
+The address is CNN.com. 
+</TEXT>
+</DOC>

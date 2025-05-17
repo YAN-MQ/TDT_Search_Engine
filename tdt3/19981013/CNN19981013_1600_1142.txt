@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981013.1600.1142 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+back on Wall Street, the Dow lost 63 points, the NASDAQ down 36. And 
+that's "Dollars & Sense." 
+</TEXT>
+</DOC>

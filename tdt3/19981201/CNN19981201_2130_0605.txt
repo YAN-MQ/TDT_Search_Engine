@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981201.2130.0605 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The draft is entering the Internet age. Beginning tomorrow, Americans 
+can Register for the selective service system online. The address 
+is www.sss.gov. the post office had been the only place to register. 
+The federal government requires male citizens and male legal immigrants 
+who live in the United States and are between the ages of 18 and 25 
+to Register for military service. 
+</TEXT>
+</DOC>

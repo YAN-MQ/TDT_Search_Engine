@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981119.2130.1000 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Federal regulators have set parameters for direct broadcast satellite 
+providers. The FCC today adopted rules that would require satellite 
+TV companies to reserve 4% of their total channels for noncommercial 
+educational and informational programs and provide inexpensive advertising 
+to political candidates. Companies will be allowed to choose what 
+services occupy those set-aside channels. 
+</TEXT>
+</DOC>

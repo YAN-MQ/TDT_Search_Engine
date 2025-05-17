@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981012.1600.0926 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now for a check of our top stories -- U.S. special envoy Richard Holbrooke 
+is in Brussels, Belgium, to brief NATO ambassadors on his marathon 
+discussions with the leader of Yugoslavia. He has been trying to convince 
+Slobodan Milosevic to end the crackdown by Serb troops on ethnic Albanians 
+in Kosovo. 
+</TEXT>
+</DOC>

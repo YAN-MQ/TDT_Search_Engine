@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981203.0130.0951 </DOCNO>
+<DOCTYPE> UNTRANSCRIBED </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street suffered more losses on Wednesday. 
+</TEXT>
+</DOC>

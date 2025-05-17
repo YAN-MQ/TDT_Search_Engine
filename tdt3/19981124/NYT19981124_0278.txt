@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> NYT19981124.0278 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Novell Inc. reported fourth-quarter earnings that exceeded estimates 
+by Wall Street analysts, and attributed the performance to strong 
+sales of the new version of its network operating system, Netware 
+5. Novell announced its results after the close of the market. Shares 
+of Novell closed at $17.38, down 63 cents, in trading on the Nasdaq 
+market. For the quarter ended Oct. 31, Novell had earnings of $42 
+million, or 12 cents a diluted share, more than five times the $7.2 
+million, or 2 cents a share, reported in the period a year earlier. 
+Revenues rose 10.5 percent, to $297.6 million from $269.3 million 
+in the fourth quarter of fiscal 1997. Analysts expected Novell to 
+earn 9 cents a share, according to the First Call Corporation. ``The 
+strategy is clearly working,'' said Novell chairman and chief executive 
+Eric Schmidt in a telephone interview. ``My strategy was to turn this 
+thing into a viable robust business and I think we have done that,'' 
+he said. ``A lot of it was due to Netware 5, but we saw business up 
+across many product lines.'' Netware 5 is the first release of Novell's 
+operating system to adhere completely to Internet-based standards 
+rather than its own internal set of rules and practices. The program 
+also incorporates Novell's directory services technology for identifying 
+and locating myriad users and computers across multiple networks. 
+During the quarter, Novell signed agreements with Cisco Systems Inc., 
+Lucent Technologies and Nortel under which they will incorporate Novell 
+directory technology in their products. ``My objective to establish 
+Novell as an Internet company is being achieved,'' Schmidt said. ``As 
+we flesh out the strategy, the real value is in applications we develop 
+that use the directory,'' he said. These are primarily network management 
+programs for large enterprises. ``It's a very big space because people 
+have huge problems in this area,'' he said. For the year, Novell reported 
+earnings of $102 million, compared with a loss of $78.3 million in 
+fiscal 1997. Revenues rose 8 percent, to $1.08 billion from $1.01 
+billion. 
+</TEXT>
+</DOC>

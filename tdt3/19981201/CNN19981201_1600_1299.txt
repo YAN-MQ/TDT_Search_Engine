@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981201.1600.1299 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm James Shearer, and this is "CNN Headline Sports." Controversial 
+slugger Albert Belle is on the move again. After two years in Chicago, 
+he has signed with the Orioles for a reported five years and $65 million. 
+Belle hit 49 homers and knocked in 152 runs last year for the white 
+sox and is the active leader in consecutive games played. They're 
+selling out, you know every night, and you know, now you have, you 
+know, 43,000 screaming fans who are rooting for you instead of rooting 
+against you now, and you know, it's definitely going to, you know, 
+make you play better. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981018.1600.0949 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Forecasters say more rain and flooding are on the horizon for Texas. 
+The area near Houston is being hard hit today. Yesterday, San Antonio 
+got 15 inches of rain. 
+</TEXT>
+</DOC>

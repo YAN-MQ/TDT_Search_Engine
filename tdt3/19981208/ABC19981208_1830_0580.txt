@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981208.1830.0580 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"On the money" tonight -- the value of an average home, up by 5% in 
+the third quarter compared to a year ago. 
+</TEXT>
+</DOC>

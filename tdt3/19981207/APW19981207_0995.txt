@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> APW19981207.0995 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A nuclear reactor that was restarted last week at the Yuzhnaya nuclear 
+power plant after lengthy delays was automatically shut down Monday 
+by its safety system, officials said. The shutdown was caused by an 
+unexpected lack of electricity feeding the reactor's control and safety 
+equipment, said a spokesman at the state Energoatom company, which 
+runs Ukraine's nuclear power plants. Plant workers were studying the 
+cause, which did not result in any radiation leaks, the spokesman 
+said. Yuzhnaya's reactor No. 2 was shut down in June for routine repairs 
+and upgrades, and was supposed to be restarted in early October. It 
+returned to work in full only last Friday. Yuzhnaya, Ukraine's second-largest 
+plant, is located in Yuzhnoukrainsk, 280 kilometers (170 miles) south 
+of the capital Kiev. It has three VVER-1000 reactors, which are considered 
+more reliable than Chernobyl-type RBMK reactors. Monday's shutdown 
+was bad news for Ukraine's already overloaded and cash-strapped energy 
+system, which is burdened by customer debts and increased demand for 
+energy during the winter. Ukrainian energy plants are owed more than 
+dlrs 1 billion by consumers and have been working below capacity since 
+October. Energy Minister Oleksiy Sheberstov has warned that his ministry 
+would be forced to cut off electricity to entire regions if even one 
+nuclear reactor is stopped. The Cabinet has been working on a list 
+of enterprises that would be deprived of electricity if demand becomes 
+dangerously high. On Monday, President Leonid Kuchma lashed out at 
+top government officials and Sheberstov's ministry for failing to 
+improve the energy situation, urging them to more carefully monitor 
+energy supplies. He also warned that he would hold energy sector leaders 
+personally responsible for continued problems, Kuchma's press service 
+said. Meanwhile, officials at two other nuclear power plants said 
+they are planning to extend the repairs of two reactors until the 
+end of December, the independent UNIAN news agency said. The two reactors 
+were due to go on line Dec. 6 and Dec. 10, it said. Ukraine's five 
+nuclear power plants provide for more than 40 percent of the former 
+Soviet republic's energy needs. At least 5 of the 14 operational reactors 
+are undergoing repairs. 
+</TEXT>
+</DOC>

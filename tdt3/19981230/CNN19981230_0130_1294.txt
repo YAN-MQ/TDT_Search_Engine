@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981230.0130.1294 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Virginia tech rolled over Alabama, 38-10, in the music city bowl. 
+The hokies picked off three passes and blocked a pair of punts in 
+beating the Crimson tide for the first time in 11 tries. 
+</TEXT>
+</DOC>

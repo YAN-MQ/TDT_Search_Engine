@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981112.1600.1367 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+American Venus Williams has pulled out of the season-ending chase 
+championships because of a knee injury. 
+</TEXT>
+</DOC>

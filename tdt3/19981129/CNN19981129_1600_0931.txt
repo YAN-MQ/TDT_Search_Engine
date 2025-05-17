@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981129.1600.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking on our top stories -- Swiss voters have overwhelmingly rejected 
+a Proposal to legalize heroin and other drugs. Opponents argued it 
+would turn Switzerland into a drug haven. 
+</TEXT>
+</DOC>

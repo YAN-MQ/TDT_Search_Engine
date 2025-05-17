@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981028.2000.0222 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock prices came to a mixed close today on Wall Street. The Dow Jones 
+Industrial Average. The Dow Jones Industrial Average gained six points 
+to close at 8372, but declines led advances by a narrow margin. This 
+is NPR News. 
+</TEXT>
+</DOC>

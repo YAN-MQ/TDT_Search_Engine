@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981125.0130.0459 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A powerful storm has hit the northwestern United States. 0 mile-an-hour 
+gusts blew roofs off of buildings. More than 300,000 homes and businesses 
+are without electricity. A woman was electrocuted by a fallen power 
+line northwest of Seattle. 
+</TEXT>
+</DOC>

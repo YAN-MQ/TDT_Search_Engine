@@ -1,0 +1,99 @@
+<DOC>
+<DOCNO> NYT19981122.0058 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Nothing raises a company's profile like a billion-dollar deal. So 
+it is that the spotlight now shines on BMC Software Inc. and Boole 
+&AMP; Babbage Inc., two companies that have long labored in the obscure 
+world of systems management. Three weeks ago, BMC, based in Houston, 
+agreed to acquire Boole, based in San Jose, Calif., in a stock swap 
+valued at more than $900 million. Analysts praised the merger as bringing 
+together two strong players with compatible cultures. Both companies 
+have consistently met or exceeded Wall Street earnings estimates; 
+both sell to the same major corporate and governmental customers, 
+but their products do not overlap. BMC's shares fell $2 after the 
+deal was announced Nov. 2, to $46.0625; they closed on Friday at $46.8125, 
+down 37.5 cents. Boole shares, which jumped $3.50 on the news of the 
+deal, to $30.125, closed Friday at $30.625, down 25 cents. Systems 
+management software is a broad category of programs that function 
+behind the scenes to make sure that big mainframes and far-flung networks 
+of distributed computers keep working reliably and efficiently. Perhaps 
+the best analog on the desktop is a product like Symantec Corp.'s 
+Norton Utilities, which alerts users to hard disk errors or operating 
+system glitches and then does its best to correct them. But a major 
+corporate computing system, whether based on a traditional mainframe 
+or spread among Unix servers, is a vastly more complex environment 
+than a personal computer, so the products that monitor and trouble-shoot 
+these systems must be powerful and sophisticated as well. And while 
+corporations and other large organizations have always been concerned 
+about maintaining high availability in their core computing systems, 
+the move to electronic commerce and the Internet has made this a strategic 
+need. Companies like FDX's Federal Express, which lets customers track 
+packages on its Web site, depend on BMC's and Boole's programs to 
+keep those systems up and running at all times. Yet these companies 
+have been in business for a long time _ since 1980 for BMC, and 1967 
+for Boole &AMP; Babbage, which was named for two 19th-century mathematicians. 
+And to a great extent, they owe their existence to the federal antitrust 
+suit brought against IBM Corp. three decades ago. The suit was ultimately 
+dropped, but it opened the door for rivals to sell hardware or software 
+compatible with the IBM mainframe. ``Prior to the antitrust suit, 
+companies like Boole &AMP; Babbage did not exist because mainframe 
+software was given away for free,'' said Bob Djurdjevic, president 
+of Annex Research. ``You're dealing with companies that were the pioneers 
+of the software industry, well before Bill Gates finished high school.'' 
+Both Boole and BMC got their starts offering software for IBM mainframes, 
+and they still derive the biggest share of their revenue from this 
+business. But both have also moved into so-called client-server systems, 
+in which computing is split between larger server machines and small 
+clients. Those servers might be mainframes, Unix systems or Wintel 
+machines; the clients could be Sun work stations, personal computers 
+or a bank's network of automated teller machines. ``Typically, we 
+provide all of the tools and controls to make sure these critical 
+applications deliver data to the end user, regardless of platform,'' 
+said Paul Newton, Boole's president and chief executive. Newton plans 
+to remain with the combined company for about a year to oversee the 
+transition. The main difference between the two companies' product 
+offerings is that while Boole's primarily monitor the network itself, 
+making sure servers serve and routers route appropriately, BMC's products 
+work with major applications, like an Oracle database or SAP's R-3 
+software, insuring that data is available and structured correctly. 
+Most big companies use both. When they do their jobs right, products 
+like Boole's Command Post or BMC's Patrol are invisible to end users. 
+But they provide information systems management staff a virtual dashboard 
+with which to monitor problems and optimize performance. In many cases, 
+the programs can spot an error, alert network administrators to its 
+existence and repair the problem without ever interrupting the system. 
+``When the system rolls over and croaks, we get it back up and running 
+in a very rapid, automated manner,'' said Max Watson, BMC's chairman, 
+president and chief executive. Competitors include IBM itself, through 
+its Tivoli unit; Computer Associates; Candle Inc., a privately held 
+company in Santa Monica, Calif., and Platinum Technology. Last week, 
+Platinum sued to block the merger. The company contends that Boole 
+had agreed not to merge with any other company after talks between 
+Boole and Platinum broke down earlier this year and that, in return, 
+Platinum had agreed not to make a hostile takeover bid for Boole. 
+Boole officials said last week that the suit was without merit. BMC 
+has grown faster and enjoyed greater profit margins than Boole, but 
+both companies have had consistent earnings growth. Excluding one-time 
+charges, BMC reported earnings for its fiscal second quarter, ended 
+Sept. 30, of $74.7 million, or 33 cents a diluted share, up 55 percent 
+from the corresponding period a year earlier. Revenue increased 45 
+percent, to $235.9 million. Boole reported earnings for its fiscal 
+fourth quarter, ended Sept. 30, of $10.3 million, or 34 cents a diluted 
+share, up 41 percent from a year earlier. Revenue grew 11 percent, 
+to $58.6 million. Watson said he was confident that the combined company 
+would bring Boole's growth and margin rates up to BMC's levels. ``Boole 
+has a pretty good win rate, they just don't have a big enough sales 
+force,'' he said. ``I anticipate growing them faster than they ever 
+imagined.'' Analysts agree that the merged companies should benefit 
+from a broader product offering and will be well positioned to serve 
+companies moving into electronic commerce and online transactions. 
+``I think the combination is a powerful one that will redefine this 
+space,'' said Jon Oltsik, an analyst with Forrester Research. ``They 
+are moving from tools to make information technology professionals' 
+lives easier, to tools to make applications more readily available 
+to customers. That's a space that not only appeals to the technology 
+folks, but the business folks as well.'' 
+</TEXT>
+</DOC>

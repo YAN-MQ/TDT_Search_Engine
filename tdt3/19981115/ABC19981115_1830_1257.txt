@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981115.1830.1257 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After an eight-month investigation, "The Washington Post" reported 
+today that D.C. police officers shoot and kill people more frequently 
+than any other police force in the country. The situation has received 
+very little attention, partly, "the post" says, because internal investigations 
+of the shootings are secretive and disorganized. 
+</TEXT>
+</DOC>

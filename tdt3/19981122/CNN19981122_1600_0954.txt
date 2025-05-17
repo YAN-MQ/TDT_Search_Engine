@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981122.1600.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And reports from New York say George Steinbrenner has agreed in principle 
+to sell his stake of the New York Yankees to the cablevision systems 
+corporation for a reported $600 million. 
+</TEXT>
+</DOC>

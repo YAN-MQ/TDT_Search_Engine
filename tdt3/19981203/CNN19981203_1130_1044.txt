@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981203.1130.1044 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Separately, Philip Morris announced plans to spend up to $100 million 
+on a Campaign to discourage teenage smoking. The move by the nation's 
+biggest cigarette manufacturers is considered the costly iest campaign 
+of its kinds. 
+</TEXT>
+</DOC>

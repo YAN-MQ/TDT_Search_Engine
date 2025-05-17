@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981205.1130.0499 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News" weather update. 
+A low pressure system and a cold front moved through the Great Lakes 
+and the upper Mississippi valley, as another area of low pressure 
+heads toward the gulf coast. Look for scattered snowshowers early 
+in the period, but a chance of showers and thunderstorms mix with 
+snowshowers in the Great Lakes can be expected through Sunday. A new 
+pacific storm system will mean off-and-on snowshowers for the rockies, 
+with heavy rainfall beginning the weekend in the west. Temperatures 
+will cool dramatically across the western United States, with 40s 
+and 50s along the pacific coast, 20s and 30s for the Rockies and the 
+northern plains. You'll see 40s for the northern Great Lakes, warming 
+into the 70s and 80s for the gulf coast. On the extended forecast, 
+Monday's cold temperatures continue pushing eastward with heavy rain 
+in the west and a few thunderstorms in the east. Thunderstorms Hang 
+on through Tuesday, but heavy rain and a mix of rain and snow can 
+be expected for New England. Look for heavy rain in the west. Gradually 
+tapering to showers by Wednesday. The extended forecast for more than 
+7,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

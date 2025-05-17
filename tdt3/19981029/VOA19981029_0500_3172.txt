@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981029.0500.3172 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. government securities regulators have charged 44 individuals 
+and companies with committing fraud over the computer Internet. In 
+most of the cases, they are accused of promoting the stock of small 
+companies without disclosing their financial interests in those companies. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981107.1130.0910 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The shuttle "discovery" is moments away from touching down at Kennedy 
+space center in Florida after completing a nine-day mission. "Discovery's" 
+landing will plashg the end of John Glenn's return to space. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981219.1300.0517 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We're going to break right now for the extended national weather forecast. 
+We'll resume your coverage in just a moment. 
+</TEXT>
+</DOC>

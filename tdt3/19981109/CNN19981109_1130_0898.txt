@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981109.1130.0898 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A house subcommittee is hearing today from historians and legal experts 
+about what constitutes an impeachable offense. One emerging issue 
+is whether the president's private behavior affected his official 
+duties. 
+</TEXT>
+</DOC>

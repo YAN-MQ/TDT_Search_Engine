@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981115.1000.0311 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Parts of the earth could witness a spectacular but potentially damaging 
+show on Tuesday when the earth passes through the Leonid meteor storm. 
+For about ten hours, the planet will get pelted with dust particles. 
+Most will burn up in the atmosphere. But the fast-moving particles 
+could damage some satellites, including ones operated by the U.S. 
+military. That's of particular concern with American forces poised 
+for action in the persian gulf. But the U.S. space command says there 
+are backup satellites if one is knocked out. 
+</TEXT>
+</DOC>

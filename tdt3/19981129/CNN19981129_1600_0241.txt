@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981129.1600.0241 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Israeli prime minister Benjamin Netanyahu is reviewing government 
+policy towards Lebanon following recent violence in the self-proclaimed 
+security zone. Iranian-backed Hezbollah militia have killed seven 
+Israeli soldiers in the past two weeks. Cabinet members today called 
+for military strikes against water and power supplies in Beirut as 
+retaliation. Netanyahu says his troops will remain in Lebanon as long 
+as needed to ensure the safety of northern Israel. 
+</TEXT>
+</DOC>

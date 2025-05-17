@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981030.2130.1486 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+60 years ago, martians landed in grovers mill, New Jersey. At least, 
+that's what an estimated 1 million people believed when they first 
+heard orson welles' radio adaptation of "war of the worlds" back in 
+1938. An estimated 12 million people nationwide tuned in for the original 
+radio broadcast. The tiny New Jersey town celebrated their dubious 
+place in history with a Dinner party at a fancy hotel. 
+</TEXT>
+</DOC>

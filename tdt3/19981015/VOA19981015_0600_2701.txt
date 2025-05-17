@@ -1,0 +1,47 @@
+<DOC>
+<DOCNO> VOA19981015.0600.2701 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+For years robots have played an important role in the manufacturing 
+of automobiles, now a UN report predicts robots are heading for the 
+home, and heading there soon. Gordon Martin has more from Geneva. 
+Robots are taking over from human beings at a faster pace than ever 
+in the United States, Britain, and other Western industrialized countries. 
+Investment has grown substantially since the start of 1990's more 
+than doubling in Britain, and tripling in the United States, but in 
+Japan, a country already highly reliant on industrial robots, investment 
+has declined. Reflecting a move away from automation in that country. 
+These and other finds are reported in a new study by the Geneva-based 
+United Nations Economic Commission for Europe, the ECE. It forecasts 
+of 40 percent investment gross worldwide, in industrialized robots, 
+between the years 1997 and 2001. The focus of that growth is likely 
+to be in Europe and North America. ECE statistician Ian Calsum says 
+it's inevitable that as more robots move into factories, more jobs 
+are lost. You can calculate, by taking a rule of thumb, that one robot 
+replaces about between 2 and 2.5 people. So something on the order 
+of 1.5 to 2 million people world wide today, or workplaces-you could 
+say- have been replaced by robots. Use of robots is widespread, and 
+continues to grow in the automobile industry, but the working machines 
+are shifting from factories and into the homes. Finding work companions 
+in the ever growing presence of the computer chip. Mr. Calsum says 
+that home computers and the computerized brains in everyday appliances 
+may eventually team up with robots. Bear in mind that the homes in 
+15 - 20 years they will probably contain much more computers or computer 
+controlled equipment than today, stoves, uh, refrigerators, heating, 
+all these equipment, in one way or another be computer controlled, 
+and its very easy for the robot to communicate with these kind of 
+equipment. The UN statistician does not think that robots will replace 
+housemaid, rather he says, maids will come equipped with their own 
+robot. She will be much more efficient, she will come to your home 
+with her -- her robot. That cleans, uh, and vacuum your home. And 
+uh - uh- cleans your bathroom, while she does something more, more 
+skilled. Young Calsum says his report forecasts the use of robots 
+for chores such as mowing lawns, perhaps coupling the mower to a solar 
+powered engine. A range of robotic assistance devices are also envisioned 
+for the elderly and disabled. And it already predicts the day will 
+come, when the steady hand of a robot assists, if not replaces some 
+of the operations now performed by surgeons. Gordon Martin for VOA 
+News Geneva. 
+</TEXT>
+</DOC>

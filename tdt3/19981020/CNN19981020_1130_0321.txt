@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981020.1130.0321 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A growing number of people are trying to find medical information 
+online. But an article in "the New England journal of medicine" found 
+less than 2% of physicians offer digital access to patients. Researchers 
+are discussing the role of online services in the medical world at 
+a conference today, at Duke University. Some say anonymous E-mail 
+consultations are less intimidating than direct contact with their 
+physicians, but others are concerned about liability for physicians 
+online. 
+</TEXT>
+</DOC>

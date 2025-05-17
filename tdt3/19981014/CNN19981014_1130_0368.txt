@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981014.1130.0368 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The nobel prize for economics has been awarded to a Cambridge University 
+professor for his studies of famines and other disasters. The royal 
+Swedish academy of sciences says amartya Sen has helped explain the 
+economic causes of famines and poverty. Sen, who is Indian, studied 
+catastrophes in India, Bangladesh and Africa. He found that lack of 
+food is not always the root cause of famine. 
+</TEXT>
+</DOC>

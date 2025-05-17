@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981110.1830.1225 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Also in Washington -- yet another safety alert on sport utility vehicles. 
+The insurance industry crash test shows that some, did very badly. 
+Only one mod Ms tested did well. The Subaru forester. 
+</TEXT>
+</DOC>

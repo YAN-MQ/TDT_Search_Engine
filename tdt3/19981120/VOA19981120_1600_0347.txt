@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981120.1600.0347 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now, coming to your from Washington. I am Erin Brunet 
+with Victor Morales. 
+</TEXT>
+</DOC>

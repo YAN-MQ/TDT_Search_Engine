@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981103.1600.1315 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A Houston newspaper is reporting that the astros made a contract offer 
+to free agent pitcher Randy Johnson Monday. "The Houston chronicle" 
+reports it's a three-year deal worth between $33 million and $36 million. 
+</TEXT>
+</DOC>

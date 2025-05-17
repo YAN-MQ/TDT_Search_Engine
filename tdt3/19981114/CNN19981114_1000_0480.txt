@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981114.1000.0480 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And later -- the cost of your 
+commute or your road trip could rise if some states get their way. 
+</TEXT>
+</DOC>

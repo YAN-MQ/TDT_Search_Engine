@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> NYT19981021.0194 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Under the Fair Credit Reporting Act, employers who screen job applicants 
+must do the following: _ An applicant must be told in writing that 
+a credit or investigative report will be done. _ An employer needs 
+to get an applicant's signature on a document granting permission 
+to get background information for legitimate business and employment 
+purposes only. _ Before an employer can deny an applicant a job based 
+on a background check, the applicant must be given a copy of the report 
+and a two-page report called Summary of Your Rights Under the Fair 
+Credit Reporting Act, written by the Federal Trade Commission. _ Applicants 
+must be told about their right to ask the prospective employer to 
+describe the scope of any background investigation. If the employer 
+bases its hiring decision at least in part on information in a consumer 
+report, the employer must give the employee the name, address and 
+telephone number of the agency that furnished the report. A full description 
+of employers' responsibilities under the Fair Credit Reporting Act 
+is available on the FTC's Web site (www.ftc.gov/os/statutes/fcra.htm). 
+</TEXT>
+</DOC>

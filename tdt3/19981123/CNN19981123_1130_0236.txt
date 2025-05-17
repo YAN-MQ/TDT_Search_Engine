@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981123.1130.0236 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Georgia Supreme Court has overturned the state's anti-sodomy law, 
+saying it violates the Georgia constitution's guarantee of a right 
+to privacy. The court voted six to one to overturn the sodomy conviction 
+of Anthony powell, who was convicted of sodomizing his 17-year-old 
+niece in 1996. Powell's lawyers had argued that the sex was consensual. 
+The law had been upheld by the U.S. Supreme Court in a landmark decision 
+in 1986. 
+</TEXT>
+</DOC>

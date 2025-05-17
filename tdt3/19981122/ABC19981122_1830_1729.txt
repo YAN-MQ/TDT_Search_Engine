@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981122.1830.1729 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's "World News Tonight" for this Sunday. tomorrow on "Good Morning 
+America," the very latest on the situation in iraq. I'm Elizabeth 
+Vargas in London. Good night. 
+</TEXT>
+</DOC>

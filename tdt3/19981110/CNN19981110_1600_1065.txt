@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981110.1600.1065 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+You may want to be cautious with Internet stocks, but it's a good 
+time to buy a computer. Hewlett-Packard says it will cut prices of 
+its notebook personal computers and accessories by up to 8%. Meanwhile, 
+Compaq computer plans to cut prices by up to 17% on its Internet pcs. 
+Dell computer made a similar price cutting announcement last week. 
+Shares of Hewlett-Packard rising 5/8 today on the news. Compaq is 
+down just a fraction and Dell is up 1 5/16. 
+</TEXT>
+</DOC>

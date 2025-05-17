@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981118.2130.0926 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+House republicans have endorsed Louisiana congressman Bob Livingston 
+as their candidate for house speaker. He would replace Newt Gingrich 
+in the new Congress. 
+</TEXT>
+</DOC>

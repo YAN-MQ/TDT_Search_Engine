@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981013.1130.1046 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Merrill Lynch is cutting 3,400 jobs or 5% of its global workforce. 
+It will also cut about 00 consultants. Merrill expects to save about 
+$500 million in annual costs after the cutbacks. The news comes after 
+Merrill announced a quarterly loss of $164 million. It's first quarterly 
+loss in nearly nine years. Shares of Merrill Lynch currently up at 
+45 1/4. 
+</TEXT>
+</DOC>

@@ -1,0 +1,73 @@
+<DOC>
+<DOCNO> NYT19981119.0473 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Adopting a middle ground between the industry and consumer groups, 
+the federal government Thursday imposed a 5 percent fee on some of 
+the money that commercial television broadcasters may someday generate 
+from the new digital spectrum. As they slowly convert to digital programming, 
+broadcasters hope that viewers will one day be able to use their television 
+sets in the same ways they use computers that can gain access to the 
+Internet _ doing everything from ordering sports tickets and buying 
+clothes to retrieving stock quotes and sending pages of text. It is 
+these ancillary services, as well as special subscriptions and pay-per-view 
+that the rule adopted Thursday by the Federal Communications Commission 
+will tax. Agency officials said that the new rule offered simplicity 
+and certainty and would recover for taxpayers part of the commercial 
+value of the spectrum. ``These were really tough issues because we 
+are being asked to lay the framework for an industry that doesn't 
+exist yet,'' said William Kennard, the commission's chairman. ``We 
+did not want to create a disincentive for the development of the field. 
+We also wanted to do something that was relatively simple'' to administer. 
+But the new rule was immediately criticized by the industry, which 
+said the fee was too high and would discourage innovation. It was 
+also attacked by some consumer groups, which contended that the FCC 
+had written the rule so narrowly that it would effectively permit 
+the broadcasters to use the spectrum, which is considered a public 
+resource, for many commercial purposes without adequately compensating 
+the government. In any event, industry executives and analysts said, 
+the digital spectrum is in so early a state of development that there 
+is little expectation broadcasters will be profiting and paying fees 
+in the near term. ``I have yet to hear of any broadcaster who has 
+a definite business plan,'' said Dennis Wharton, a spokesman for the 
+National Association of Broadcasters. The association had recommended 
+that broadcasters pay just 2 percent on gross revenues and said Thursday 
+that the lower fee ``would have provided greater incentives for broadcasters 
+to offer these types of competitive services.'' All of the nation's 
+television stations are in the process of converting their analog 
+programming to digital broadcasting as part of a transition that is 
+not expected to be completed before 2007. By the end of this month, 
+some 42 stations are expected to be transmitting digital signals as 
+well as on their analog spectrum. The digital spectrum will produce 
+significantly clearer and sharper television pictures. It is also 
+expected to enrich the medium by equipping televisions to handle many 
+of the same online functions as personal computers do. Consumer groups 
+had sought a 10 percent levy on the ancillary uses of the digital 
+spectrum. They also wanted to require such fees for programming like 
+infomercials, home shopping and direct marketing. The commission rejected 
+that proposal after finding that those programs were in line with 
+the traditional commercial ventures that are not now taxed on the 
+analog broadcast spectrum. ``The commission buckled to the broadcasters 
+and will not be giving the public a darned thing,'' said Gigi B. Sohn, 
+executive director of the Media Access Project, a law firm that represents 
+consumer interests. ``By finding that fees do not apply to home shopping, 
+infomercials or direct marketing, they will be applying this fee to 
+very few services. The result is that the public will not be compensated 
+for giving broadcasters billions of dollars of free public spectrum 
+and broadcasters will be unjustly enriched.'' Thursday's rule was 
+a byproduct of Congress' overhaul of the nation's telecommunications 
+law in 1996. Though the government had traditionally held auctions 
+to sell portions of the broadcast spectrum, the new law awarded each 
+broadcast station an extra channel to use during the decadelong transition 
+to digital television. Following an outcry that the government had 
+given away a valuable public resource, Congress instructed the regulators 
+to devise new rules and a payment schedule for those broadcasters 
+that plan to use the digital spectrum. The commission also proposed 
+a rule Thursday that would permit public TV stations to use the digital 
+spectrum for advertiser-supported services. The agency asked for comment 
+about whether there should be limits on commercial activities by public 
+broadcasters. It also asked whether public broadcasters should be 
+exempt from the 5 percent fee imposed on the commercial stations. 
+</TEXT>
+</DOC>

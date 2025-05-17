@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981011.1000.1361 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In golf, the U.S. team of Tiger Woods, Mark O'Meara and John Daly 
+beat Sweden, 2-0, Saturday at the dunhill cup in Scotland. The Americans 
+advance to play Spain in the semis. Mike Sammond, "Headline Sports." 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981120.1600.0444 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new CNN/"USA today" Gallup poll indicates Americans are less afraid 
+of becoming victims of violent crimes than they were five years ago. 
+70% of those surveyed say they feel very safe alone at night in their 
+homes. That's up 9% since 1993. 59% say they feel safe driving at 
+night, a slight increase from five years ago. And half of all Americans 
+are putting more trust in law enforcement. 55% say they are confident 
+the police can protect them from violent crime. That's a 10% increase 
+from 1993. 
+</TEXT>
+</DOC>

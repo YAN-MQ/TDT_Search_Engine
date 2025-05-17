@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981205.1000.1284 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Well, there's no question it's a huge Saturday on the grid iron. Top-ranked 
+Tennessee looks to keep its shot at a national championship alive 
+as it takes on number 22 Mississippi state in is SEC championship. 
+</TEXT>
+</DOC>

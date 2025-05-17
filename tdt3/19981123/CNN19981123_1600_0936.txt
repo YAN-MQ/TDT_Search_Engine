@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981123.1600.0936 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking this hour's top stories -- retired pathologist Jack Kevorkian 
+is daring Michigan authorities to charge him with murder, but prosecutors 
+say they're still investigating. Last night, the CBS program "60 minutes" 
+broadcast a tape of Kevorkian giving a terminally ill man a fatal 
+dose of drugs. 
+</TEXT>
+</DOC>

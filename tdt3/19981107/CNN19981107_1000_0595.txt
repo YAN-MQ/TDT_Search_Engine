@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> CNN19981107.1000.0595 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers are developing a plane which could cut airline travel 
+time down from hours to minutes. Don Knapp examines the hypersoar. 
+One day, travelers may step on a plane like this in San Francisco 
+and step off in New York just a half hour later. It's hypersoar, a 
+hypersonic airplane, designed to fly at ten times the speed of sound 
+on a roller coaster path. It flies in an unusual way. What it does 
+is it pops out of the atmosphere, then skips on the atmosphere, turning 
+its engines on every time it hits the atmosphere, keeping this skipping 
+motion going. You skip across the atmosphere until you get to the 
+designation you want to go to. Hypersoar might also serve as a launch 
+platform for satellites. Right now, it's little more than an idea 
+that's been brewing in Preston carter's head for ten years. But Lawrence 
+Livermore national laboratory thought enough of it to fund initial 
+research. And private aerospace companies already work on special 
+hybrid engines that combine air-breathing jets and rocket motors. 
+Hypersoar passengers would zoom from a runway to the edge of space 
+in ten minutes. Once you get out of the atmosphere, everyone, passengers, 
+crew, become weightless, just like the astronauts in orbit, for two 
+minutes. And then you start hitting the atmosphere and everyone on 
+board is experiencing up to 1 1/2 Gs. Carter says his hypersoar would 
+be twice as efficient as a Boeing 747 and a dozen times faster. If 
+engineers are able to solve the technical problems of getting a plane 
+to bounce around the atmosphere of the world, who'd want to fly like 
+that, alternately pulling 1 1/2 Gs, then being weightless every couple 
+of minutes? We found a few folks who said they would. I would think 
+I would have some fears, but I still, you know, I'd give it a try. 
+This can get you anywhere in the world in less than two hours. That 
+would be fantastic. I hope you do it before I die. Carter is still 
+looking for the $2.5 billion he needs to build a Prototype. If it 
+comes through, the plane could be skipping over the atmosphere within 
+five years. Don Knapp, CNN, Livermore, California. 
+</TEXT>
+</DOC>

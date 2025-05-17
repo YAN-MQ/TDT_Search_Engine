@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981126.1600.1024 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This holiday shopping season, more and more people will be using their 
+computer mouse to make their purchases. According to a ziff Davis 
+survey, about 68 million consumers used the web during the past three 
+months, and 6.4 million of them plan to use the internet to buy their 
+holiday gifts. Improvements in E-commerce infrastructure and technology 
+is expected to make this a record year for online retailers. 
+</TEXT>
+</DOC>

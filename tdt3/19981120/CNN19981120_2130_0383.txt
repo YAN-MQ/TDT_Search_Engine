@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981120.2130.0383 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investigators looking into the crash of Swissair flight 111 say they 
+have discovered one of the three engines was not working when the 
+plane crashed. The lead investigator says small pieces of aluminum 
+have been recovered off peggy's cove, Nova Scotia. He says the metal 
+got so hot before the crash that it melted, and it's too early to 
+say whether there was a fire in the plane before it went down. The 
+plane crashed September 2nd, killing all 229 people aboard. 
+</TEXT>
+</DOC>

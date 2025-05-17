@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981123.1600.1372 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The "NFL performance of the week" goes to Pittsburgh's Dewayne Washington. 
+The defensive back became the first steeler in history to return two 
+interceptions for touchdowns in the same game. Pittsburgh beat Jacksonville 
+28-14 to pull within one game of the jaguars for the AFC central lead. 
+</TEXT>
+</DOC>

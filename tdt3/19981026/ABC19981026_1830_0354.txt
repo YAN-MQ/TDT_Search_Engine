@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981026.1830.0354 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now on to some of the other news today. "On the money" tonight, trading 
+on the New York stock exchange was stopped for an hour today. Their 
+computers were down. Stock prices were mostly unaffected. The Dow 
+Jones industrials were down just over 20 points to close at 8432. 
+On the NASDAQ market, stocks were up a little more than 31 points. 
+</TEXT>
+</DOC>

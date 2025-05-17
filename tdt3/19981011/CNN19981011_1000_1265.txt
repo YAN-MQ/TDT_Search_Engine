@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981011.1000.1265 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The San Diego padres are a win away from their first trip to the world 
+series in 14 years. Sterling hitchcock and four relievers kept the 
+Braves' bats quiet once again, beating Atlanta 4-1 to take a commanding 
+three games to none lead in the national league championship series. 
+</TEXT>
+</DOC>

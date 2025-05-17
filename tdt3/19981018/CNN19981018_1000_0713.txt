@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981018.1000.0713 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A federal judge has temporarily banned production of a device that 
+downloads and plays computer music files, including pirated songs. 
+Major record companies sought the ban against diamond multimedia systems 
+because they claim the Rio portable MP-3 violates a 1992 law that 
+protects the industry against piracy. The palm-sized Rio was scheduled 
+to hit the market next month. It plugs into a computer and can save 
+and replay nearly an hour of cD-quality music. 
+</TEXT>
+</DOC>

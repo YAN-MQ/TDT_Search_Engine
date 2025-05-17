@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981209.0130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers in California say banning smoking in the workplace is 
+helping the respiratory health of workers. They based their findings 
+on a study of 53 bartenders. 
+</TEXT>
+</DOC>

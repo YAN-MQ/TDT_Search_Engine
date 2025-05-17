@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> APW19981102.0985 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+AMERICAN LEADERS NEW YORK (AP)-Sales, 4 p.m. price and net change 
+of the 10 most active American Stock Exchange issues, trading nationally 
+at more than $1. Name Volume Last Chg. SPDR 6,361,500 111 25-64 Up 
+1 25-64 WEBS Japan 1,791,300 10 1-2 Up 13-16 FstAustPrm 1,503,200 
+5 11-16 Up 1-16 NaborsInd 1,110,400 19 1-2 Up 1 Autotote 1,054,700 
+2 Up 3-8 GaylordCont 1,054,400 3 11-16 Up 5-8 AdvMagnetic 713,600 
+10 1-4 Up 3 3-4 PLC Systems 676,100 5 7-16 Up 7-8 ViacomB 666,600 
+59 13-16 Down 1-16 GreyWolf 665,300 1 7-16 Up 1-4 
+</TEXT>
+</DOC>

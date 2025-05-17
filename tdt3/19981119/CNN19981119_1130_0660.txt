@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981119.1130.0660 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Scientists are discovering that damaged heart cells in mice can be 
+replaced with the help of Gene therapy. If the same technique works 
+as well in humans, there could someday be a new way to treat heart 
+patients. Here's how the problem begins -- unlike most other cells 
+in our bodies, heart cells apparently stop regenerating after we're 
+born, even if the cells are damaged by a heart attack. To compensate 
+for the loss, the remaining, living cells enlarge, causing the heart 
+to enlarge, which can lead to a condition known as congestive heart 
+failure. But if the Gene therapy process works, the living cells that 
+remain after a Heart attack would multiply instead of enlarging. So 
+we're hoping that if we can improve the amount of cardiac muscle mass 
+after a heart attack by regenerating those cells that we'll be able 
+to prevent those detrimental effects. Such as heart failure and death. 
+But despite the progress being made in the laboratory, it will likely 
+be years before this technique can be offered to heart patients. Check 
+out CNN.com/health for the latest health news online. For "your health," 
+danae Jones, "Headline News." 
+</TEXT>
+</DOC>

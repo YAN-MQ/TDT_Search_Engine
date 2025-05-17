@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981101.1600.0430 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In a little more than an hour from now, senator John Glenn is scheduled 
+to hold a news conference from "discovery." He's engaged in research 
+that may give some insight into why older people have problems sleeping 
+on earth. Some people have criticized Glenn's participation as being 
+more of a NASA publicity stunt than real science. This morning on 
+NBC's "meet the press," NASA administrator Dan Goldin defended the 
+crew's research. But he admits the flight is also a bit of a tribute 
+to the senator. When I announced he was going back into space, I said 
+he is going to do good science. He is going back into space because 
+America has a hero that we owe another flight. Inspiration is part 
+of life. America feels good about itself today. It felt really great 
+about itself on Thursday. There's nothing wrong with taking pride 
+in our heros. Glenn is the oldest astronaut ever. In 1962, he became 
+the first American to orbit the earth. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981101.1130.0915 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- a leaflet from the military arm of the 
+Islamic group Hamas is threatening violence against the Palestinian 
+authority government. The threat may be in response to the authority's 
+crackdown on Islamic militants as part of the latest mideast peace 
+agreement. 
+</TEXT>
+</DOC>

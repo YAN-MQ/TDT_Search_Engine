@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981018.1000.1352 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In golf -- Tiger Woods and Mark O'Meara won their semifinals and will 
+meet in the championship Sunday. Jim furyk carded a nine under 63 
+and has a three-stroke lead heading into sunday's final round. 
+</TEXT>
+</DOC>

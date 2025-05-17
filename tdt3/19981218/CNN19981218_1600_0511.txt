@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981218.1600.0511 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for Saturday morning. Snowfall in the Great Lakes area, 
+and rainfall along a cold front that continues to push across the 
+country, the first really strong cold front that we've seen this season. 
+In the deep south we can see some thunderstorms along this boundary 
+as it continues its easterly movement. Behind it some windy conditions 
+and some very, very frigid temperatures. As a matter of fact, as you 
+look at the forecast for high temperatures tomorrow, some places in 
+the northern Rockies will see highs remaining below zero. And many 
+places in the upper midwest and northern plains states will see highs 
+in the single digits. The cold air does continue to push to the south. 
+And as we look at our extended forecast on Sunday, you can see the 
+snow, mixed with rainfall in the Great Lakes area, and the windy snowy 
+conditions expected to continue in parts of the west. You can see 
+the very cold conditions that continue on the map too in the west, 
+on Monday. And as we head on into Tuesday, you can see some of that 
+cold air retreats a bit but snow showers are still likely in parts 
+of the Great Lakes area and in the northeast. For more weather information, 
+log on to CNN.com, four-day forecasts for 7200 cities. 
+</TEXT>
+</DOC>

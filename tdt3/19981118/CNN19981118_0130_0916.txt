@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981118.0130.0916 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the federal reserve has cut interest rates for the third time in two 
+months. analysts say the move is designed to reinforce consumer confidence 
+in the market. worldwide economic crises have made some investors 
+cautious. 
+</TEXT>
+</DOC>

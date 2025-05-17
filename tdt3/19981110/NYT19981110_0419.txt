@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> NYT19981110.0419 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Helped by a sharp rebound in bond markets worldwide, Long-Term Capital 
+Management has earned a small paper profit for the banks and brokerage 
+firms that saved it from bankruptcy in September, people close to 
+the hedge fund said. The turnabout in the fund's fortunes is modest, 
+the people said. The portfolio's value has risen no more than 1 percent 
+since the 14 banks and brokerage firms invested $3.6 billion six weeks 
+ago. ``We are ahead by a nose,'' one person, who spoke on the condition 
+of anonymity, said. But the situation has greatly improved from the 
+days just after the rescue, when many of Long-Term Capital's bets 
+looked like long shots. The value of the fund's portfolio fell sharply 
+in late September and early October, just after the rescue, but began 
+to improve late last month. The recovery picked up pace this month, 
+with the fund earning back all it had lost since late September, as 
+markets rallied globally. ``We are not out of the woods yet, and the 
+operative word is caution,'' one person close to the hedge fund said. 
+``But there is a sense of relief.'' The improved results are good 
+news for Wall Street firms, including Merrill Lynch, Goldman, Sachs, 
+Morgan Stanley, J.P. Morgan and Citigroup, that saved Long-Term Capital 
+in an unusual effort brokered by the New York Federal Reserve. Many 
+of those firms were reluctant to risk their own shareholder funds 
+_ $100 million to $300 million apiece _ to prop up a speculative portfolio. 
+But if the good news continues, it would seem to support the view 
+that it was better to rescue the fund and manage its trading positions 
+over months or years than to plunge it into bankruptcy and sell its 
+holdings all at once, which Fed officials feared could worsen global 
+market turmoil. ``We believed for some time that there was value in 
+the positions if we could get past the market crisis,'' said an executive 
+from a firm that participated in the bailout. The stabilization of 
+the fund has not greatly benefited its original investors, whose money 
+was committed well before it nearly collapsed. Long-Term Capital was 
+down more than 90 percent for the year before the rescue, and the 
+recent rebound makes up only a small fraction of that earlier loss. 
+The fund tries to profit by exploiting temporary price differences 
+between related types of bonds, like Treasury bonds and corporate 
+bonds. The price gap between such bonds widened to unusual levels 
+in the summer. Since the Federal Reserve twice cut interest rates 
+in October, that price gap has narrowed. 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> APW19981107.0282 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Leading results Saturday in Rally Australia, the 12th round in the 
+13-race world championship: After stage 19 of 24 1, Carlos Sainz, 
+Spain, Toyota, 2 hours, 52 minutes, 22.2 seconds 2, Didier Auriol, 
+France, Toyota, 2:52:57.6 3, Richard Burns, England, Mitsubishi, 2:53:10.1 
+4, Juha Kankkunen, Finland, Ford, 2:53:10.1 5, Colin McRae, Scotland, 
+Subaru, 2:53:23 6, Tommi Makinen, Finland, Mitsubishi, 2:53:45 7, 
+Freddy Loix, Belgium, Toyota, 2:54:04.6 8, Bruno Thiry, Belgium, Ford, 
+2:55:17.3 9, Possum Bourne, New Zealand, Subaru, 2:56:40.5 10, Sebastian 
+Lindholm, Finland, Ford, 2:59:10.5 
+</TEXT>
+</DOC>

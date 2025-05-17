@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981014.1830.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And we'll take "A closer look" at managed health care and mental health. 
+We've moved from a system that wasted money to one that wastes lives. 
+Our series, "the HMO nation." 
+</TEXT>
+</DOC>

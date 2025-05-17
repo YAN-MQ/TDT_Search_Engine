@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981019.2130.0224 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tropical storm Madeline is expected to weaken as it heads toward the 
+western coast of Mexico. The national weather service predicts Madeline 
+will make landfall within the next 24 hours about 75 miles northwest 
+of mazatlan. The Mexican government has sent 2,000 soldiers and shipments 
+of aid supplies to the area. Hurricane Lester no longer is a threat 
+to southern Mexico. It's moving out to sea. A hurricane watch from 
+acapulco to punta San telma has been canceled. We'll have the extended 
+forecast in just a couple of minutes. 
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981203.0130.0457 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen Maginnis. 
+Temperatures from the northeast to the mid-atlantic, the gulf coast 
+and south central plains, well, those readings are going to be above 
+normal for this time of year. Temperatures that had been quite warm 
+across the northern great plains, we start to see them get chipped 
+away just a bit, especially across the dakotas, not quite as warm 
+as it has been. Here's the reason why. Our frontal system is going 
+to be moving through. As it does, there goes the snowfall across the 
+northern Sierra Nevada. It could be heavy at times. And it looks like 
+flurries across the northern Rockies into the wasatch. And maybe a 
+couple of thunderstorms across the lower Mississippi river valley. 
+And not very nice weather the last couple of days at the Hawaiian 
+islands nor the Caribbean. That looks like it continues with some 
+trade winds across the Hawaiian islands at 45 miles an hour. Our extended 
+forecast for Friday is still very mild along the gulf coast and southeast. 
+On Saturday, you might see some snowfall through the Great Lakes. 
+Then by Sunday, much colder across the interior west. For more weather 
+information, log on to CNN.com. 
+</TEXT>
+</DOC>

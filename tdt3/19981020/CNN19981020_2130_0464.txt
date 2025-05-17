@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981020.2130.0464 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Attorneys for Microsoft say that company's tactics might be aggressive, 
+but they're not illegal. The defense presented its opening statements 
+today in the justice department antitrust lawsuit against the softwaremaker. 
+The government says Microsoft forced Internet providers to distribute 
+microsoft's browser rather than Netscape or other Internet browsers. 
+Lawyers for Microsoft's competitors say there is mounds of evidence 
+microsoft engaged in anticompetitive practices. 
+</TEXT>
+</DOC>

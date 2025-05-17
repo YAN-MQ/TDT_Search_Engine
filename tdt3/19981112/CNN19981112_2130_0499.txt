@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981112.2130.0499 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. Then -- does the Y2K computer 
+bug pose a threat to the nation's arsenal. 
+</TEXT>
+</DOC>

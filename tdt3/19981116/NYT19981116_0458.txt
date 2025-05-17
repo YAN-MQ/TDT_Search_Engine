@@ -1,0 +1,147 @@
+<DOC>
+<DOCNO> NYT19981116.0458 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+As taxi accidents have risen steadily in New York City over the past 
+decade, the most recognizable image of the danger has been that of 
+a yellow cab wrecked on a Manhattan sidewalk, debris strewn about, 
+perhaps a pedestrian pinned against a light pole. But an analysis 
+of newly released accident data shows that car services and livery 
+cabs are actually responsible for the increase. The New York Times 
+analysis of more than 100,000 accidents reported to the state found 
+that crashes involving livery vehicles _ which include call-for-pickup 
+car services, corporate ``black cars,'' some commuter vans and vans 
+for the handicapped _ increased by 60 percent from 1990 to 1997. The 
+number of yellow-cab crashes in the city, the analysis found, has 
+dropped significantly since 1994 after rising during the early '90s 
+and is now only slightly above what it was at the start of the decade. 
+Serious injuries in yellow-cab accidents are down by more than 20 
+percent since 1990, even including the rash of disfiguring facial 
+injuries caused by partitions affixed to the driver's seat since they 
+became standard equipment in yellow cabs in 1994. The number of livery 
+cars has increased significantly over that period while the number 
+of medallion cabs is up only slightly. On a per-cab basis, livery-car 
+accidents were still up 25 percent while yellow-cab accidents were 
+virtually the same in 1997 as in 1990. The analysis sheds light on 
+an overlooked sector of the transportation industry that does most 
+of its business in the boroughs outside Manhattan and that regulators 
+have only recently begun to take seriously, even though livery cars 
+outnumber yellow cabs more than three to one. The diverging trends 
+had been hidden because the State Department of Motor Vehicles lumps 
+all vehicles for hire together as ``taxis'' and because the city's 
+Taxi and Limousine Commission did not track accidents at all from 
+1990 until it passed a broad package of new rules in May. The state 
+agency turned down repeated requests from The Times for data on individual 
+accidents for eight months, saying that generating the data would 
+require an extensive computer run beyond the requirements of the Freedom 
+of Information Law. It finally released the data last week, but still 
+has not furnished it to the taxi commission. Earlier this year, the 
+only data available from the state showed a 40 percent increase in 
+accidents involving all ``taxis'' from 1990 to 1996. This, along with 
+several high-profile yellow-cab crashes, prompted a spate of news 
+articles, including several in The Times, and helped spur a crackdown 
+by the city that included a ticket-writing blitz against yellow cabs 
+and much steeper fines and insurance requirements for all kinds of 
+taxis. But the trends are sharply different in various parts of the 
+city. In Manhattan south of 96th Street, where yellow cabs predominate, 
+accidents involving all ``taxis'' have increased 17 percent since 
+1990, although in recent years the numbers have declined. But outside 
+Manhattan, where yellow cabs are seldom seen except at the airports, 
+accidents involving all cars classified as ``taxis'' have increased 
+by 53 percent since 1990. ``Taxi'' accidents in Brooklyn have jumped 
+even more dramatically, by 81 percent over the decade. Experts and 
+officials offered several possible explanations for the accident pattern. 
+Livery cars, which are only allowed to pick up riders by prearrangement, 
+have been far less regulated over the years than yellow cabs, which 
+can cruise for fares, and several police and taxi commission initiatives 
+during the '90s have applied only to yellow cabs. And Bruce Schaller, 
+a former regulator for the taxi commission, has produced a study showing 
+that the economic boom of the last few years may have done more to 
+increase wages for yellow cabbies than for livery drivers, leading 
+them, he concluded, to drive less recklessly. Eugene Pero, the president 
+of the Livery Owners Coalition of New York, said that much of the 
+increase in livery accidents was due simply to the increase in livery 
+cars _ to about 41,000 in 1997, up from about 32,000 in 1990, according 
+to the commission. (There are 12,187 yellow cabs, up 400 since 1990.) 
+But the increase in accidents has outpaced the growth in the fleet. 
+The accident rate per car for yellow cabs is somewhat higher than 
+that for liveries, but most yellow cabs are driven round the clock 
+while most livery cars are driven less than 12 hours a day. Whatever 
+the reason, the analysis was greeted with an ``I-told-you-so'' by 
+yellow-cab executives, who, along with their biggest insurer, American 
+Transit Insurance Co., asserted for months as they fought the new 
+rules that yellow-cab accidents were dropping. ``I think we've been 
+unfairly blamed and targeted,'' said Ronald Sherman, president of 
+the Metropolitan Taxicab Board of Trade, which represents big fleet 
+owners. ``We would hope that the TLC and the city adjust their enforcement 
+accordingly.'' But the chairwoman of the taxi commission, Diane McGrath-McKechnie, 
+said the agency would not change course. ``This is not a numbers game 
+for the TLC,'' Ms. McGrath-McKechnie said. ``This is about public 
+safety. Whether the numbers go up a little bit or down a little bit, 
+there are still too many accidents, and we need safe drivers for medallion 
+cabs and for livery vehicles.'' The police department, however, said 
+it would consider cracking down on livery cars. This spring, when 
+attention was focused on taxi dangers, a special police department 
+unit that focuses on yellow cabs stepped up its enforcement sharply; 
+tickets written by the unit rose 36 percent for the first eight months 
+of this year over the same period in 1997. ``We have had focused enforcement 
+on livery cabs and will continue to do so,'' said Lt. Stephen Biegel, 
+a police spokesman. ``We'll also review the data and see if a formal 
+unit would be in order.'' Ms. McGrath-McKechnie said the commission's 
+new rules, most of which apply equally to yellow and livery cabs, 
+should bring the two industries into line with each other. And she 
+said she planned to call for votes at the next commission meeting 
+on Thursday on the two proposed rules that the commissioners balked 
+at passing in May. One would require all yellow-cab owners to post 
+a $100,000 bond for accident victims to collect against. The other 
+would lower the penalty-point threshold at which drivers lose their 
+licenses. The Times analysis found that yellow-cab accidents reported 
+to the state increased from about 3,850 in 1990 to a peak of about 
+4,850 in 1994, then decreased to about 3,950 last year. Accidents 
+involving livery cars, which far outnumber yellow cabs, rose steadily 
+from about 6,300 in 1990 to about 9,050 in 1994 and 10,150 last year. 
+The analysis used statistical methods to estimate the distribution 
+of accidents where data was incomplete. Serious injuries in livery 
+accidents, including severe cuts, broken bones, and other internal 
+injuries also increased during the decade, to about 800 in 1997 from 
+675 in 1990. During the same period, serious injuries in yellow cabs 
+dropped to about 350 in 1997 from about 450 in 1990. The Times analysis 
+found that in 1994, when the partitions became standard, the number 
+of yellow-cab accidents in which the most serious injury was to the 
+face or eye jumped dramatically, to 81 from 52. But those accidents 
+represent such a small portion of the total _ 2 or 3 percent _ that 
+the increase was swallowed up by the overall decrease. And by the 
+end of 1997, yellow-cab accidents in which the most serious injury 
+was to the face or eye had dropped below the 1990 level of 46, to 
+36, due at least in part to an aggressive campaign by the taxi commission 
+to get passengers to wear seat belts. Fidel Del Valle, the chairman 
+of the taxi commission from 1991 to 1995, said that until the new 
+rules were passed, most of the enforcement against livery cabs consisted 
+of making sure the cars were properly registered and were not cruising 
+for fares. He said that holders of livery licenses often allowed friends 
+or relatives to work their cars when they were not using them, whether 
+or not they had hack licenses. ``Until the recent rules,'' he said, 
+``there have been no real rules as to the behavior of for-hire vehicle 
+drivers.'' Yellow cabs, meanwhile, have been held to a standard that, 
+whatever its shortcomings, has become more strict over the course 
+of the decade. In 1990, the commission began a persistent-violator 
+program for yellow cabs that has resulted in hundreds of suspensions. 
+In 1995, the police took over enforcement against yellow cabs from 
+taxi commission inspectors and began writing what many yellow-cab 
+drivers complained was a blizzard of nuisance tickets for minor infractions. 
+In 1996, the commission passed a rule requiring owners to buy new 
+cabs every four years at most. Some livery drivers, Pero said, keep 
+their cars on the road for up to 15 years. ``I see cars on the road 
+in the livery industry that I'd be ashamed to put in my fleet,'' said 
+Pero, who runs a fleet of 42 car-service and black cars. Pero agreed 
+that regulation of liveries had been too lax, but like many yellow-cab 
+owners, he said that the commission and the police had gone overboard 
+since the new rules were passed in the spring, and he said he was 
+worried that it could get much harder for him to make a living. ``What 
+has happened in past administrations is that they haven't corrected 
+the industry,'' he said. ``The TLC hasn't protected the public until 
+now. But all of a sudden they implement this stuff on both industries 
+and it becomes chaotic.'' 
+</TEXT>
+</DOC>

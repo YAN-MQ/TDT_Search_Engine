@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981130.1830.1693 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is our report on "World News Tonight." Later on "Nightline," 
+how one man had a huge impact on the city of Seattle. I'm Peter Jennings. 
+Hope you have a good evening. Good night. 
+</TEXT>
+</DOC>

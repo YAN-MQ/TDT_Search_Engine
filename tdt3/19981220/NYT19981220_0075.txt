@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> NYT19981220.0075 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Computer security experts are warning clients about a new software 
+virus that is spread by e-mail, infects Microsoft Word files and has 
+already caused several networks to crash. The virus, officially named 
+the ``MS Word Macro 97 Class Virus,'' creates a pop-up box in Microsoft 
+Word 97 files that addresses the recipient of the e-mail message by 
+name and informs the user that he or she ``is a big stupid jerk.'' 
+Large-scale infections of the virus, which are activated on the 14th 
+of each month, have been reported worldwide, security experts say. 
+The virus itself contains no programming that would cripple a network 
+server, but experts said that a big infection of document files can 
+start a chain reaction on a computer network that in turn can cause 
+a general system failure. ``It is the No. 1 virus in the world right 
+now,'' said Vincent Gullotto, manager of the antivirus emergency response 
+team for Network Associates, a company that develops and publishes 
+antivirus software. In the last few weeks, Gullotto said, he has received 
+thousands of complaints about the virus. In one recent case, he said, 
+the network server of a major U.S. corporation, which he declined 
+to identify, was crippled after 7,000 documents were infected. The 
+company's server was set up to sound alerts upon the discovery of 
+viruses, and the constant alerts brought down the server. ``It basically 
+went into alert overload,'' Gullotto said. On Dec. 15, Don Goff, an 
+adjunct professor of information technology at the University of Maryland, 
+wrote in an e-mail message: ``In the last 48 hours, a `class virus' 
+has been propagating from MS Word attachments to e-mail documents. 
+It manifests itself as a pop-up with the phrase `(recipient by name) 
+is a big jerk.' It is going around Washington, D.C., like lightning 
+_ like a cold through my preschoolers class.'' Noting that ``it has 
+to be cleaned from each file,'' he described the macro virus as ``a 
+pernicious cuss'' and ``a mean little spud.'' The virus infects only 
+machines that are running Microsoft's Word 97 word processing program. 
+Since it was first reported to Symantec, an antivirus software company, 
+in late July, the virus has sprouted 43 different strains, said Eric 
+Chien, a software engineer for Symantec's antivirus research center. 
+Because the original virus was not protected by encryption, it has 
+been easy to alter. Some variants contain references to President 
+Clinton and Monica Lewinsky, and with those variants, pop-up boxes 
+about the relationship appear when users open Word documents. ``If 
+you don't have Word, it's not an issue,'' Chien said. If a user has 
+Word 97, however, and opens the e-mail attachment, he added, ``the 
+virus will infect any other Word document'' on the user's hard drive 
+or network drive. Microsoft Word documents are frequent targets of 
+virus writers because Word enables users to write simple programs 
+known as macros that can, for example, automatically end every letter 
+that a user composes with the word ``Sincerely.'' That functionality, 
+intended to spread instructions through all Word documents on a machine, 
+also helps viruses infect documents, experts said. One of the first 
+Word macro viruses, known as the Concept Virus, is thought to be the 
+most widely dispersed computer virus in the world. Microsoft officials 
+point out that people who use Word can instruct the program not to 
+run macros, an option that is part of Word's built-in protection against 
+viruses. ``You should be careful not to open a document whose source 
+you don't know,'' said Andrew Dixon, a group project manager for Microsoft. 
+One problem the Word Macro 97 virus can create for networked computer 
+systems is that it changes the software registration information. 
+System errors can occur when the registration information on an individual 
+machine does not match information on the network. The virus changes 
+the company name to ``Dr. Diet Mountain Dew,'' and it changes the 
+user name to ``VicodinES/CB/TNN.'' Chien said ``Vicodin'' is the pseudonym 
+of the virus writer, while ``CB'' stands for ``Code Breakers,'' a 
+virus-writing group, and ``TNN'' stands for the writer's own group, 
+known as ``The Narcotic Network.'' Vicodin has been quite active lately, 
+writing and distributing viruses through the Internet, experts said. 
+He even issues press releases, which he attributes to the fictitious 
+``Disassociated Press.'' ``The thing about Vicodin is, he has a sense 
+of humor,'' Gullotto said. But victims are not laughing. As the virus 
+mutates and spreads, antivirus companies, not surprisingly, are recommending 
+that corporations be more conscientious about updating their antivirus 
+software. Goff wrote in his e-mail message that the latest versions 
+of antivirus software defended computers and networks from the virus 
+but that earlier versions did not. Gullotto said, ``I can only preach 
+so much to customers that they need to update.'' 
+</TEXT>
+</DOC>

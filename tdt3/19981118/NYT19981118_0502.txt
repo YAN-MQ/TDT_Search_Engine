@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> NYT19981118.0502 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Thursday, Nov. 19: People 
+who hold views unpopular with Mayor Rudolph Giuliani and his administration 
+routinely have to go to court to win the right to hold marches in 
+New York City. This week a U.S. District Court judge struck down the 
+city's parade permit law as unconstitutional. Judge Leonard Sand found 
+that the law violated First Amendment rights because it sets no time 
+limits on when the Police Department must act on a permit request. 
+In reviewing more than 20 parade requests, the court found that some 
+groups got a quick response. But others were made to wait for weeks 
+or months before getting an answer. In the case before the court, 
+the Million Marijuana March Organization sought a parade permit last 
+January and was finally denied the request in April. The court was 
+particularly disturbed by the delayed treatment of two requests to 
+march against police brutality. The lack of a time frame creates the 
+danger that delay could be used to censor speech. This is the third 
+time in four months that federal judges have ruled against Giuliani 
+for suppressing constitutionally protected protests. The mayor's impulse 
+so far has been to lambaste the federal judges making the rulings. 
+Now that the ordinance has been invalidated, he had better turn his 
+energies toward creating a process that safeguards the free-speech 
+rights of his critics. 
+</TEXT>
+</DOC>

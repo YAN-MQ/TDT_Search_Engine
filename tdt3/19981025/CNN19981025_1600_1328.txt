@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981025.1600.1328 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Lightning struck six soccer players during a match between two local 
+teams sunday in Johannesburg. There were no fatalities, but the six 
+players were injured and carried off the field on stretchers. The 
+game was immediately canceled as paramedics rushed onto the field. 
+</TEXT>
+</DOC>

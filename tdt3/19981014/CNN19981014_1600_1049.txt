@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981014.1600.1049 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some of the other companies reporting earnings today -- Compaq computer. 
+Profits there fell 78%, to $115 million. Still, that was ahead of 
+expectations. 
+</TEXT>
+</DOC>

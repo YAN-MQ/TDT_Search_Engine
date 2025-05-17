@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981029.1830.0705 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For the first time, scientists have evidence that adults can continue 
+to grow brain cells even late in life. Until now, it was thought that 
+brain cells lost as an adult were gone forever. 
+</TEXT>
+</DOC>

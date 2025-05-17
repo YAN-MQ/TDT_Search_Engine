@@ -1,0 +1,75 @@
+<DOC>
+<DOCNO> NYT19981124.0397 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A ruling by a federal judge Monday that barred public libraries in 
+Loudoun County from limiting how patrons use the Internet is binding 
+only in southern Virginia, but it seemed sure to have national implications 
+as librarians across the country began to review their own Internet 
+policies in the wake of the decision in the closely watched case. 
+The judge, Leonie Brinkema of U.S. District Court in Alexandria, Va., 
+is a former librarian herself and wrote that the county library's 
+decision to install computer programs that seek to block sexually 
+explicit material on the Internet ``offends the guarantee of free 
+speech in the First Amendment.'' Such ``filter'' programs have been 
+widely criticized by civil libertarians as ineffective because they 
+fail to screen out all material that might be harmful to minors and 
+in the process block a wide spectrum of material that is not inappropriate. 
+The plaintiffs in the Loudoun case, represented by the American Civil 
+Liberties Union, included the proprietors of sites on the World Wide 
+Web about safe sex, banned books and gay and lesbian teen-agers. All 
+claimed to have been blocked by the software. In striking down the 
+Loudoun County Library board's policy, which required that all library 
+computers connected to the Internet be equipped with a filtering program, 
+Judge Brinkema cited Reno vs. ACLU, the 1997 Supreme Court decision 
+that upheld a ruling that overturned a federal law that sought to 
+prohibit the distribution of indecent material to minors over the 
+Internet. ``It has long been a matter of settled law that restricting 
+what adults may read to a level appropriate for minors is a violation 
+of the free speech guaranteed by the First Amendment,'' she said. 
+The ruling comes as a federal judge in Philadelphia last Thursday 
+issued a temporary restraining order on a new federal law intended 
+to protect children from Internet pornography. And several congressional 
+attempts to require schools to install filter programs failed to pass 
+in the last session. But particularly because public libraries provide 
+free access to the Internet to those who may not have any other means 
+of using it, they have been seen as a crucial site of the struggle 
+over how the medium will be regulated. In the absence of any precedent, 
+librarians and patrons have cobbled together various compromises in 
+an attempt to strike a balance between providing access to the vast 
+array of information on the Internet and protecting children from 
+portions of it that may be harmful. Tuesday, several librarians in 
+communities where the decision to use filters has been particularly 
+controversial said they were carefully reviewing the Loudoun decision. 
+``This will be helpful for decisions in the future,'' said Mike Harris, 
+interim director of the Medina County District Library in Ohio, where 
+last year community members organized an unsuccessful campaign to 
+cut the library's funding unless it installed filters. ``We've been 
+flying a little bit blind here and this gives us a good referral point.'' 
+Brenda Branch, director of the Austin Public Library, where the decision 
+to install filters has endured sustained protest from civil libertarians 
+over the last year, said she had asked the city attorneys to review 
+the Virginia court's decision. Dorothy Field, director of the Orange 
+County Library system in Orlando, Fla., said she would not consider 
+removing the filtering system there. ``We have exercised our role 
+as librarians to choose the material for our selection,'' she said. 
+``What happens in Loudoun County is not going to change anything here.'' 
+The Virginia decision raised the possibility that less restrictive 
+methods, such as using privacy screens or installing filters on terminals 
+that are set aside for children, might be acceptable under the First 
+Amendment. ``We're very pleased with the decision, and we are hopeful 
+that the library board will now put a constitutional policy in place 
+and that this will be the end of the issue,'' said Jeri McGiverin, 
+a retired schoolteacher who helped organize the group of Loudoun residents 
+who initially filed the complaint. Librarians in Loudoun cut off the 
+Internet connections on Tuesday pending a library board meeting next 
+week where a decision will be made on whether or not to appeal. ``I 
+would expect to win on appeal,'' said John Nicholas, the former chairman 
+of the library board who helped install the old policy. ``This is 
+an issue of the library following its historical mandate, which is 
+to select material which is appropriate to the community at hand.'' 
+But Nicholas said the composition of the board had changed since the 
+policy was instituted, and he did not expect a vote to appeal to pass. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> ABC19981021.1830.0554 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On the money tonight -- housing starts are down for the second month 
+in a row. Down 2.5% in September. Stock market volatility seems to 
+be making people hesitant. The price of oil is still down. Drivers 
+are happy. But Texaco, Exxon, and Amoco, all report a steep decline 
+in earnings for the third quarter. On the other hand, usairways and 
+American airlines the cheaper price of jet fuel. Their earnings are 
+up. 
+</TEXT>
+</DOC>

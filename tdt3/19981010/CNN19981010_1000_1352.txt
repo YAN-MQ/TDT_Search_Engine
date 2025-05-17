@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981010.1000.1352 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In golf at the dunhill cup, team USA won a second straight set of 
+matches. John Daly, Tiger Woods and Mark O'Meara all defeated their 
+Japanese opponents. Team USA will next meet Sweden. 
+</TEXT>
+</DOC>

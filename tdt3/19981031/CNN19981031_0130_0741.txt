@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981031.0130.0741 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Top stories are next. After that we have consumer news, including 
+a look at the latest incarnation of Miller time. 
+</TEXT>
+</DOC>

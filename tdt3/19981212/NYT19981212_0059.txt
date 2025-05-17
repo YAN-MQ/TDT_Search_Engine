@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981212.0059 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The president's refrain today is: Don't impeach me; censure me. But 
+back in 1834, the argument was the other way around: Don't censure 
+me; impeach me. That was the gist of President Andrew Jackson's written 
+protest to the Senate against its 26-20 censure of his effort to scuttle 
+the national bank. In effect, the president was admonishing legislators 
+for running roughshod over the Constitution. (Does that ring a bell? 
+Some things never change.) Here are excerpts from Jackson's protest. 
+_ TOM KUNTZ ``The resolution of the Senate is wholly unauthorized 
+by the Constitution, and in derogation of its entire spirit. It assumes 
+that a single branch of the legislative department may for the purposes 
+of a public censure, and without any view to legislation or impeachment, 
+take up, consider, and decide upon the official acts of the Executive. 
+. . . It is only in the exercise of its judicial powers, when sitting 
+as a court for the trial of impeachments, that the Senate is expressly 
+authorized . . . to consider and decide upon the conduct of the President. 
+. . . The Constitution declares that ``the President, Vice President 
+and all civil officers of the United States shall be removed from 
+office on impeachment for and conviction of treason, bribery or other 
+high crimes and misdemeanors''; that the House of Representatives 
+``shall have the sole power of impeachment''; that the Senate ``shall 
+have the sole power to try all impeachments''; . . . (and) that ``no 
+person shall be convicted without the concurrence of two-thirds of 
+the members present.'' . . . The President of the United States, therefore, 
+has been by a majority of his constitutional triers accused and found 
+guilty of an impeachable offense, but in no part of this proceeding 
+have the directions of the Constitution been observed. The impeachment, 
+instead of being preferred and prosecuted by the House of Representatives, 
+originated in the Senate, and was prosecuted without the aid or concurrence 
+of the other House. The oath or affirmation prescribed by the Constitution 
+was not taken by the senators, the Chief Justice did not preside, 
+no notice of the charge was given to the accused, and no opportunity 
+afforded him to respond to the accusation.'' 
+</TEXT>
+</DOC>

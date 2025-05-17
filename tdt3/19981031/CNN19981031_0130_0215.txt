@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981031.0130.0215 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The White House is applauding a federal judge's decision to investigate 
+independent counsel Ken Starr. Newly released court papers confirm 
+judge Norma Holloway Johnson has appointed a special investigator 
+to examine whether Starr and his staff may have leaked secret grand 
+jury information on the Monica Lewinsky matter to the press. In June, 
+Johnson cited six media reports that constitute possible violations. 
+In these latest rulings, she added 18 more. The investigator will 
+have the authority to gather testimony and subpoena witnesses. Starr's 
+office says it's cooperating. 
+</TEXT>
+</DOC>

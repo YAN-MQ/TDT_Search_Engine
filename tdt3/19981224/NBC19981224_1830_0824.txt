@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981224.1830.0824 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Meanwhile, on Wall Street Santa and several very corporate-looking 
+elves rang the closing bell after a half day of trading. The Dow finished 
+the day up nearly 16 points. The NASDAQ was down 1/2 points. The shortened 
+holiday week was a good one for the Dow, up more than 314 points. 
+The NasDaq, up big as well, nearly 77 points. 
+</TEXT>
+</DOC>

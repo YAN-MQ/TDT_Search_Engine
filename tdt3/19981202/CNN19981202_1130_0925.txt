@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981202.1130.0925 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And it's another unseasonably warm day in the midwest. Record high 
+temperatures are being recorded across the nation, including a Balmy 
+66 degrees in Minneapolis. 
+</TEXT>
+</DOC>

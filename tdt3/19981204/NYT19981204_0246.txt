@@ -1,0 +1,148 @@
+<DOC>
+<DOCNO> NYT19981204.0246 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Noam Chomsky is spinning a fable. Chomsky, linguist, teacher, author 
+and social critic, is sitting in a pose so customary it has been captured 
+in scores of photographs taken since he upended the study of language 
+40 years ago. He leans slightly back in his chair, one foot propped 
+on the pulled-out bottom drawer of his desk, hands aloft. His office 
+at the Massachusetts Institute of Technology exudes both a Spartan 
+asceticism and a pleasant disorderliness: the primary decor consists 
+of piles of paper on the floor. Imagine, Chomsky says, that some divine 
+superengineer, in a single efficient stroke, endowed humans with the 
+power of language where formerly they had none. This idea of a single, 
+brilliantly designed language mechanism is the cornerstone of Chomsky's 
+newest _ and most unconventional _ approach to the discipline he founded 
+in 1957. Chomsky, who turns 70 on Dec. 7, is the father of modern 
+linguistics and remains the field's most influential practitioner. 
+Although he has revised his theoretical framework over the years, 
+no modification is as dramatic as the present one, called the Minimalist 
+Program, in which he largely breaks with the last four decades of 
+his own work. The Minimalist Program, said the linguist Morris Halle, 
+Chomsky's longtime colleague at MIT, ``is the most radical thing I've 
+ever heard anybody say in linguistics.'' Though Chomsky's method has 
+changed, his fundamental mission has remained the same: to construct 
+a symbolic representation of the ``language faculty'' _ the inborn 
+mental endowment that allows human beings to acquire, use and understand 
+language. But unlike its predecessors, the Minimalist Program (or 
+Minimalism for short) seeks to do this in the most streamlined way 
+possible, dispensing with concepts that were more or less canonical 
+in Chomsky's earlier work, like ``deep structure'' and ``surface structure.'' 
+``All the properties which were explained in terms of deep and surface 
+structure were really mistakenly described,'' Chomsky said. ``And 
+they ought to be explained, and maybe can be explained better, without 
+postulating these systems.'' Linguists hope his new approach is the 
+start of a major breakthrough. A slender, sharp-featured man with 
+graying wavy hair and wire-rimmed glasses, Chomsky was dressed casually 
+on this morning in a sweater, running shoes and corduroy trousers. 
+His voice is soft and measured, and he speaks as he writes, in perfectly 
+formed sentences that spin out into page-long, reasoned paragraphs. 
+To be in Chomsky's presence, a colleague once said, is to see ``the 
+overwhelming picture of Rational Man standing before you.'' The theory 
+of language that Chomsky introduced in 1957, often called the Chomsky 
+revolution, has been equated with Darwin's theory of evolution and 
+Freud's theory of the unconscious in terms of its importance in the 
+history of ideas: it was the first concerted approach to investigating 
+the human mind through a systematic study of how people produce and 
+understand sentences. For the first half of this century, structural 
+linguistics reigned as the field's dominant methodology. Structuralism 
+viewed language as a purely social phenomenon, like tool making or 
+table manners. Deeper questions of language and mind, including how 
+young children can dope out their native language from the wash of 
+adult talk surrounding them, were never considered. But Chomsky was 
+deeply troubled by this account. In the mid-1950s he began wrestling 
+with questions he felt the structuralists could not answer: If language 
+was simply learned behavior, what gave people the ability to produce 
+and understand an infinite number of sentences, including those that 
+had never before been uttered? How did children acquire language seemingly 
+spontaneously, without being overtly taught? Chomsky was by nature 
+a questioner _ and, where he deemed necessary, an exploder _ of received 
+truths. Over the years, this trait became evident in his political 
+work, including his early opposition to the Vietnam War, his outspoken 
+condemnation of U.S. policy in Central America, East Timor and elsewhere, 
+and his castigation of the mainstream news media in general (and The 
+New York Times in particular) for what he describes as complicity 
+with governmental and business interests. When it came to taking on 
+50 years of structural linguistics, Chomsky was singularly well suited 
+for the task. Growing up in Philadelphia, he was exposed to language 
+scholarship firsthand through the work of his father, William, an 
+eminent Hebraist. As an undergraduate at the University of Pennsylvania, 
+Chomsky studied linguistics, mathematics and philosophy, setting the 
+foundation for his novel perspective. Language, Chomsky came to believe, 
+was rooted not in behavior but in biology _ in an inborn set of principles 
+that speakers unconsciously draw on whenever they produce or understand 
+sentences. The goal of linguistics, he argued, should be to reproduce 
+these principles. Since one couldn't go mucking around in people's 
+brains, the linguist would attempt to mirror the workings of these 
+inborn principles with a set of abstract, quasi-mathematical rules 
+intended to generate the range of possible sentences in a given language 
+_ in other words, a generative grammar. Ultimately, he said, the aim 
+of linguistics was to formulate not just the grammars of specific 
+languages but a ``universal grammar'' as well _ a model of the shared 
+properties that underpin all human language. It is these universal 
+principles, Chomsky argued, that all people are ``born knowing'' and 
+that allow children to acquire whatever native language they're exposed 
+to. In the late 1950s, Chomsky ushered in modern linguistics with 
+the publication of the monograph ``Syntactic Structures'' (1957), 
+which set forth the theory of generative grammar. But early generative 
+grammar was a rococo device. It posited an unconscious level of linguistic 
+knowledge (the deep structure), which was distinct from what people 
+actually say (the surface structure). It also contained a vast set 
+of grammatical operations, called transformations, used to produce 
+the range of constructions found in actual speech: questions, statements 
+and the like. But this thicket of rules presented a major obstacle 
+to the development of universal grammar. A true universal grammar, 
+Chomsky argued, must satisfy two conditions. The first requires it 
+to be detailed enough to describe any possible construction in any 
+human language: questions in Navajo, passive sentences in Japanese, 
+relative clauses in Urdu. This is called the condition of ``descriptive 
+adequacy.'' By contrast, the second condition, known as ``explanatory 
+adequacy,'' required the grammar to be simple enough to reflect the 
+small set of inborn principles that allow humans to acquire and use 
+language. For years, linguistic research was snagged between these 
+two competing demands. ``The entire development of Chomskyan generative 
+grammar is a history of tension between descriptive and explanatory 
+adequacy,'' said Howard Lasnik, a professor of linguistics at the 
+University of Connecticut and a frequent collaborator of Chomsky's. 
+``In order to have a descriptively adequate theory of language, you 
+need to have a rich variety of descriptive devices available. But 
+here's the kicker: The more devices available, the harder the child's 
+task in sorting through the maze of possibilities.'' This impasse 
+persisted until the early 1980s, when Chomsky partly resolved it with 
+a more streamlined framework called Principles and Parameters. ``People 
+were discovering completely new and unexpected properties of languages,'' 
+he said. ``It was beginning to become possible to find what at some 
+level we know must be true: that they're all cast in the same mold, 
+otherwise you couldn't learn any of them. And though they look extremely 
+different, you began to see how they really were variations on the 
+same theme.'' Out of this work, the Minimalist Program emerged in 
+the early 1990s. Minimalism takes as its point of departure an essential 
+fact about language: it is a system of communication connecting sound 
+and meaning. Now comes the unorthodox part: Minimalism speculates 
+that this system has been optimally designed _ that the connection 
+of sound to meaning was forged as simply as possible, as by the divine 
+superengineer of Chomsky's fable. Any theory of language, therefore, 
+should reflect this simple design. To that end, Minimalism jettisons 
+most of the baggage of early Chomskyan grammar. What remains is a 
+single, multipurpose mechanism used to generate the same rich array 
+of sentences that transformations did. Ideally, the Minimalist Program 
+will do what earlier models could not: be both simple and complex 
+enough to fulfill the competing demands of a true universal grammar. 
+Some linguists say it holds out at least a tentative promise. Others, 
+however, find Chomsky's new program difficult to work in, and they 
+continue to use alternative models that have sprung up over the years. 
+``There have been a whole lot of linguists who have adopted it and 
+seem _ for reasons that are incomprehensible to me _ to find it attractive,'' 
+said James McCawley, a prominent linguist at the University of Chicago. 
+``There are others, like me, who find it completely unintelligible.'' 
+As Chomsky is quick to point out, Minimalism is years away from being 
+a full-fledged theory (hence the term program). ``It's difficult, 
+and it's also a shot in the dark,'' he said. ``You don't have any 
+particular reason to believe that it's going to work.'' Should it 
+succeed, however, he will be that much closer to realizing the goal 
+he set for his field 40 years ago. ``The subject,'' Chomsky said, 
+``is trying to find out how humans really work.'' 
+</TEXT>
+</DOC>

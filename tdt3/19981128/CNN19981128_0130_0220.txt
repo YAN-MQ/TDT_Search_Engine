@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981128.0130.0220 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal government is planning to crash test dozens of 1999 model 
+cars and trucks. The national highway traffic safety administration 
+says the tests will cover 63 vehicles. 32 will be tested for front-impact 
+crashes while 31 models will be tested for impact to the driver's 
+side. The tests will give consumers front-impact safety information 
+on 70% of the 1999 model vehicles sold in the United States and side-impact 
+results on 80%. Vehicles will be rated on a scale of one to five stars. 
+Test results will be posted on the Internet as they become available, 
+at, as you see it there, at www.nhtsa.gov. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981015.2130.0288 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The White House praised public schools as one of the safest place 
+for American children, despite a recent rash of school shootings. 
+A conference on school violence opened today with a report that shows 
+crime rates in schools have dropped and 90% of the schools report 
+no violence at all. President Clinton called for annual reports on 
+school violence after the shooting at a Paducah, Kentucky, high school 
+last year. It was just one of several school shootings in which 16 
+people were killed. 
+</TEXT>
+</DOC>

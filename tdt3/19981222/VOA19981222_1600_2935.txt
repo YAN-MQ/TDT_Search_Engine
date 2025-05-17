@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981222.1600.2935 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+It's time now for business news and here is Breck Artery,, with the 
+very latest from Wall street. Stocks were up today on the Dow Jones 
+Industrial Average, closing in 9,044. That was up 55 points. Standard 
+and Poor's 500 Index closed at a record-high 1203. That was up almost 
+1 point. However, there was some profit taking on some stocks in the 
+NASDAQ index. The NASDAQ fell by 17 points after closing at record 
+highs, though, for the past two straight sessions. 
+</TEXT>
+</DOC>

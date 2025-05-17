@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981106.2130.0415 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And later -- why you soon could 
+be paying more to access the Internet. 
+</TEXT>
+</DOC>

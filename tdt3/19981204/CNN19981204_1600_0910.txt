@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981204.1600.0910 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The first U.S. component of the international space station has blasted 
+into orbit. The space shuttle "endeavour" is scheduled to rendezvous 
+with the first russian component Sunday. 
+</TEXT>
+</DOC>

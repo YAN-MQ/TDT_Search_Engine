@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981208.2130.0441 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And still ahead -- how the 
+Internet is changing the way we get our news. 
+</TEXT>
+</DOC>

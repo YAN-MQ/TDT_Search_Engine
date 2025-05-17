@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981010.1600.1027 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Boeing warned 1,100 workers this week, they could be laid off within 
+the next 60 days. It's the first move in the company's drive to eliminate 
+28,000 jobs. A Boeing spokesperson says at least three-quarters of 
+the cuts will be white-collar jobs. 
+</TEXT>
+</DOC>

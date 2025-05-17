@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981011.1300.0169 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+High-tech companies in the U.S. apparently won't be adding larger 
+numbers of skilled immigrants to their payrolls this year because 
+of the efforts of senator Tom Harkin of Iowa. He's blocking action 
+on a Bill to raise the number of so-called "skilled worker" visas 
+from 65,000 a year to more than 115,000 for the next two years. Harkin 
+and other opponents claim high-tech companies have an ulterior motive 
+for wanting the Bill -- to replace U.S. workers with lower-wage immigrants. 
+</TEXT>
+</DOC>

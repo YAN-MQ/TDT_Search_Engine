@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981121.1000.0313 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Federal investigators say five people and a Texas company were involved 
+in a plot to steal more than $4 million in aircraft parts from Kelly 
+air force base. Agents say the operation dealt primarily in selling 
+stolen jet engine components to companies in New York and Arizona. 
+The indictments capped a two-year investigation. 
+</TEXT>
+</DOC>

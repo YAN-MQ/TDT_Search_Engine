@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981230.0130.0965 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Blue chip stocks continued their winning streak today. 
+</TEXT>
+</DOC>

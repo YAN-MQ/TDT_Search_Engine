@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981231.2000.1482 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+A mixed picture on Wall Street today for the end of the year trading. 
+The Dow Jones Industrials dropped 93 points today to settle at 9181. 
+The Nasdaq picked up 26 points to finish the year at 2192. 
+</TEXT>
+</DOC>

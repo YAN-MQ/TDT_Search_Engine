@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981225.1600.1049 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now. I'm Tony Riggs, broadcasting from Washington. 
+It's 21 hours 18, Universal time. 
+</TEXT>
+</DOC>

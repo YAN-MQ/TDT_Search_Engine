@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981105.0448 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Snow will accumulate on the high Plains from western 
+Nebraska to the western Dakotas and along the Front Range of the Rockies 
+from northern Colorado to Montana as a developing low pressure system 
+draws moist air from the southeast up the sloping terrain. Moreover, 
+moist air will cool on ascent, setting the stage for snowfalls of 
+6 inches or more in some areas, with the heaviest snow falling mainly 
+on the highest east-facing slopes. Farther south, scattered showers 
+and spotty drizzle will dampen the region from west Texas to western 
+Kansas. Isolated thunderstorms may develop later in the day across 
+south Texas as moist air from the Gulf of Mexico increases over the 
+region. Meanwhile, coastal rains and mountain snows will develop in 
+the Pacific Northwest from northern California to western Washington 
+as a cold, upper-level low pressure system arrives from the Gulf of 
+Alaska. With the remnants of Tropical Storm Mitch racing northeast 
+across the Atlantic Friday, waterlogged areas in south Florida, which 
+were deluged by as much as 8 inches of rain from Wednesday to early 
+Thursday, will rapidly dry out under ample sunshine. Mostly cloudy, 
+chilly weather will persist from the Great Lakes to the Appalachians 
+Friday as Canadian air is moistened in transit across tepid waters 
+and then forced to rise over land. Splotches of light snow or drizzle 
+will prevail downwind of the southern and eastern shores. Winds from 
+the northwest will dry on descent from the mountains, bringing partial 
+sunshine to parts of the Northeast Seaboard. FOCUS: SEA OF CLOUDS 
+Low clouds hovered over much of the Great Lakes region Thursday. Cumulatively, 
+the Great Lakes act like an inland sea during the cold season, helping 
+to produce clouds downwind of eastern and southern shores whenever 
+invading Canadian air is moistened during transit over relatively 
+warm waters. On Friday, low clouds will persist over much of the Great 
+Lakes region, particularly the eastern Great Lakes, as cold air continues 
+to filter south. In addition, broken bands of snow showers and snow 
+flurries will develop, one of the first installments in the upcoming 
+season of lake-effect snows. 
+</TEXT>
+</DOC>

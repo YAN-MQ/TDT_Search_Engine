@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981128.1000.0959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the White House is dismissing Iraq's claim that deadly nerve gas 
+was planted on one of its warheads. Baghdad says someone tampered 
+with the warhead fragment to make Iraq look bad. 
+</TEXT>
+</DOC>

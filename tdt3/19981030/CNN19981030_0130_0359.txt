@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981030.0130.0359 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The food and drug administration has approved a drug to help prevent 
+breast cancer in healthy women. Tamoxifen has been tested on women 
+considered high risks for the disease. Tests conducted by the drug's 
+manufacturer indicate Tamoxifen reduces the risk of breast cancer 
+by almost half. But one of the drug's side effects is an increased 
+risk of a rare uterine cancer. 
+</TEXT>
+</DOC>

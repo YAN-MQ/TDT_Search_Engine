@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981229.2130.0487 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Up next -- as the millennium approaches, is the world ready for the 
+Y2K computer bug? We'll have that after a check of the extended weather 
+forecast. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> MNB19981127.2100.1674 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street, we should update you on the numbers. The trading day 
+was short. The market got a jump on the holiday weekend, shutting 
+down early. But the Dow ending about 19 points up. For the week, the 
+Dow jumped more than 173 points. NASDAQ rose over 31 today to a record 
+high of 2016. For the week, it was up more than 88 points. Perhaps 
+that's why all the buying optimism out there. 
+</TEXT>
+</DOC>

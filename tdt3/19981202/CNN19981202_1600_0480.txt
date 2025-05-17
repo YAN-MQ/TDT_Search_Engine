@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981202.1600.0480 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Thursday. The northwestern part of the country continues 
+to be wet and windy with mountain snow, as a front pushes south and 
+east and another weak front pushes into the northwest. An area of 
+low pressure will produce a few showers and storms through the south 
+plains. Much of the southeastern U.S. remains quiet and mild. In the 
+northeast, just slightly cooler with a front that drags through. 30s 
+and 40s for northern New England and the northwest. Much of the country 
+though will see 50s or warmer. Looking ahead to Friday, look for rain 
+and snow in the northwest with showers and storms through the Mississippi 
+river valley. Cool in the northwest, still very warm in the southeast. 
+On Saturday, most of the north will see wet weather with the temperatures 
+remaining about the same. Sunday, not much change in temperature. 
+Rain in the northwest. Wind, rain and thunderstorms across the Mississippi 
+valley into the northeast. Don't forget, you can find four-day forecasts 
+for more than 7,200 cities on cNN interactive at CNN.com. 
+</TEXT>
+</DOC>

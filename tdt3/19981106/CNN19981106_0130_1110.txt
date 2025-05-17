@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981106.0130.1110 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The fed ex pilots association is asking its members for the go-ahead 
+to strike. They are expected to put it to a vote the first week in 
+December. The union wants a retroactive 5% pay increase and an additional 
+19% raise over four years. Fed ex has offered a 17% pay raise over 
+five years. If a strike were authorized, it could happen during the 
+busy holiday season, when fed ex ships more than 4 million packages 
+a day. 
+</TEXT>
+</DOC>

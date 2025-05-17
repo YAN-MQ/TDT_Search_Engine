@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981107.0130.0723 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First lady Hillary Rodham Clinton unveiled the latest works of art 
+for the White House sculpture garden Friday. The new exhibit is inspired 
+by the work of rodin, whose famous figure "the thinker" is the centerpiece. 
+Mrs. Clinton has a soft spot for sculpture. She says on her first 
+date with the president, the pair got into the Yale university art 
+gallery by offering to pick up garbage in the sculpture garden. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981211.0130.0926 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the Supreme Court has delayed the execution of a Canadian man 
+in Texas. The high court says it needs to examine whether the man's 
+rights were violated under international law. 
+</TEXT>
+</DOC>

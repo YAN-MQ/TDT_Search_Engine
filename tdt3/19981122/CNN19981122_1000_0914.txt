@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981122.1000.0914 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"The New York Times" reports the government is concerned about the 
+headlights on large vehicles. It reports regulators want to lower 
+the height of the lights, which can cause glare for oncoming drivers. 
+</TEXT>
+</DOC>

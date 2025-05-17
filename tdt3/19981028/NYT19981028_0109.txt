@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO> NYT19981028.0109 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Sun Microsystems plans to unveil a new version of its Solaris operating 
+system Tuesday in an effort to capitalize on Microsoft's delays on 
+its newest version of its NT operating system. The new Solaris program, 
+which is Sun's version of the Unix operating system for its Sparc-based 
+systems and Intel-based servers, has gained increasing market share 
+in the Unix world in the last year largely based on the growth of 
+the Internet server and enterprise computing market. A number of companies 
+are competing for the rapidly growing high-end corporate computing 
+market, including I.B.M., Hewlett Packard and Compaq Computer. Microsoft 
+is also trying to enter the high-end market with a new version of 
+its Windows NT operating system. But Microsoft has been delayed by 
+more than a year and there are industry reports that the system continues 
+to have problems. Indeed, several analysts said an announcement by 
+I.B.M. on Monday that it planned to join forces with Sequent Computer 
+and the Santa Cruz Operation, a Unix software company, indicateed 
+that the market was moving back toward Unix because of Microsoft's 
+delays. ``Clearly the Microsoft marketing machine has made NT a contender,'' 
+said Andrew Allison, an industry analyst, ``but nobody in their right 
+mind would use NT for critical applications at this point.'' Sun executives 
+said they planned to name the newest version of Solaris, which features 
+64-bit addressing and as a result can handle vast data sets, Solaris 
+7. Acknowledging that this is a significant jump in the company's 
+numbering scheme _ the last version was 2.6 _ Sun's officials disputed 
+the obvious marketing connotation of the number 7 with respect to 
+the next version of Microsoft's Windows NT, which is scheduled to 
+be 5.0. Ed Zander, president of Sun Microsystems, said, ``We believe 
+we have a three year lead on Microsoft.'' Most industry analysts contend 
+that such a figure is optimistic. Yet there is evidence that Sun is 
+continuing to pick up market share against all three of its closest 
+Unix competitors for large enterprise computer operating systems. 
+In the second quarter, Sun grew faster, at 37 percent, than all other 
+server vendors except Dell Computer. Sun passed Hewlett-Packard in 
+the second quarter to lead the industry in Unix revenues for the first 
+time. Zander also said he believed that Microsoft would have significant 
+difficulties meeting stability goals necessary for corporate use. 
+The current version of NT is reported to have more than 35 million 
+lines of code, increasing the chances of software errors that will 
+plague developers. By contrast, the version of Solaris scheduled to 
+begin shipping on Tuesday will have between 12 million and 13 million 
+lines of code. Separately I.B.M., Sequent and the Santa Cruz Operation 
+agreed to develop a single software operating system that will control 
+computers running both Intel computer chips and I.B.M.'s own non-Intel 
+based microprocessors. In addition, the partners said a variety of 
+other computer makers will use the new Unix system in their own machines, 
+including Unisys, Groupe Bull, Thomson-CSF, Acer and Fujitsu's ICL 
+unit. NYT-10-26-98 2314EST 
+</TEXT>
+</DOC>

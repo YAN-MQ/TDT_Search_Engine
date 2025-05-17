@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> NYT19981130.0509 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Commodity prices, led by a plunge in oil and natural gas, dropped 
+sharply Monday, pushing one key index to a 26-year low. The persistent 
+weakness of commodity prices continues to hobble many emerging-market 
+countries _ from Russia and Indonesia to Mexico and Chile _ that depend 
+on such exports for economic growth and government financing. Many 
+analysts say they doubt there will be a turnaround in commodity prices 
+until sometime in mid-1999, which means prices are likely to fall 
+further. The turnaround, analysts say, is contingent on a revival 
+of the Asian economies that were hit hard by the financial crisis 
+that began in Thailand in July 1997. The plunge Monday came as commodity 
+prices had been experiencing a slight rebound from the low set at 
+the end of August when the stock market was falling sharply. Since 
+then there had been a rally in some agricultural commodity prices, 
+including wheat, corn, sugar and coffee. But prices for industrial 
+materials remained weak. ``We had a rally that was not steeped in 
+industrial commodities,'' said William O'Neill, director of futures 
+research at Merrill Lynch. The Journal of Commerce index of 17 industrial 
+commodities is down 5.5 percent since the end of August. But now some 
+of the agricultural price gains are slipping, and the price of oil 
+is plunging. By contrast, at the August low in commodity indexes, 
+oil prices were rising. On Monday, the price of oil for January delivery 
+dropped 65 cents, or 5.4 percent, to $11.22 a barrel, its lowest in 
+12 years. During the day the price fell as low as $10.82 a barrel 
+on the New York Mercantile Exchange. The plunge came after last week's 
+meeting of the Organization of Petroleum Exporting Counties failed 
+to extend the group's earlier agreement to cut production. ``The meeting 
+had the worst possible result,'' O'Neill said. ``They didn't even 
+roll over the agreement, and they left people concerned about OPEC 
+in general.'' Natural gas prices, which have suffered because of warm 
+late-autumn weather in the Northeast, dropped 22 cents, or 10 percent, 
+to $1.976 for 1,000 cubic feet. The price has dropped 23 percent in 
+just over two weeks. Prices also fell for home heating oil. Prices 
+for cocoa, silver, gold, live cattle, orange juice, coffee and cotton 
+also slipped. Copper dropped to an 11{-year low. The Goldman Sachs 
+index of 22 commodities fell 3.97 points, to 133.55, its lowest in 
+26 years. The Commodity Research Bureau/Bridge index of 17 commodities, 
+which is more heavily weighted to agricultural products, dropped 1.57 
+points, to 195.42, just above its 21-year low close on Aug. 28. As 
+in August, the weakness in commodity prices is a reflection of the 
+decline in demand for oil, copper and other commodities since Asian 
+countries fell into recession after the devaluation of currencies 
+in 1997. But O'Neill said an additional factor was the prospect of 
+slower growth in the United States and in Europe next year. ``I see 
+evidence, in talking to domestic copper refiners, that their order 
+books are good but are starting to slow down,'' he said. And while 
+demand is the core problem, oversupply of many commodities also plays 
+a role. The breakdown of the OPEC agreement to curb production probably 
+means that supplies will be more than plentiful. And in copper, Chile, 
+which is a major producer, has not curtailed its effort to raise production 
+despite the fall in price, which is down 42 percent since June 1997. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981210.2130.0973 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors seemed scared today by poor corporate earnings and the impeachment 
+hearing on Capitol Hill. 
+</TEXT>
+</DOC>

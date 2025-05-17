@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981027.1130.0257 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+John Glenn's historic return to space tomorrow appears to be right 
+on schedule. Forecasters say there's a 70% chance for favorable weather, 
+although winds from hurricane Mitch are still a concern. Glenn and 
+his shuttle "discovery" crewmates are enjoying some rare leisure time 
+today. During the mission, Glenn will participate in several scientific 
+experiments, including a study on the effects of weightlessness on 
+the human body. 
+</TEXT>
+</DOC>

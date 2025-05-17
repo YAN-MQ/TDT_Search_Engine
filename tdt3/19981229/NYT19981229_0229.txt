@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981229.0229 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Bitterly cold air will pour from southern Canada 
+across the Great Lakes into the interior Northeast on Wednesday. Locally 
+heavy snow squalls will lash areas near the southern and eastern shores 
+of the Great Lakes, especially during the first half of the day. Snow 
+showers will also be common near the northern and central Appalachians, 
+particularly along west-facing slopes. Winds from the northwest averaging 
+15 to 25 miles an hour with frequent gusts over 35 miles hour will 
+intensify the chill of the day. East of the Appalachians, readings 
+will be near or above freezing at dawn, but temperatures will fall 
+steadily during the day. Ample sunshine will develop in the Middle 
+Atlantic states, but plenty of clouds will linger farther north. Heavy 
+snow will gradually end over northern Maine, however, snow showers 
+and flurries will persist in the hilly terrain of New England. The 
+Southeast will turn brisk and chilly in the wake of a cold front. 
+Despite ample sunshine afternoon temperatures will average around 
+10 degrees below the seasonal average over interior sections. A broken 
+band of snow will streak from the northern Plains toward the central 
+Mississippi Valley in advance of a moisture-starved low pressure area. 
+Up to a few inches of snow may accumulate in parts of the southern 
+Missouri Valley by Wednesday night. Onshore breezes will promote some 
+coastal showers in the Pacific Northwest. Intermittent snow will fall 
+along the west-facing slopes from the northern Cascades to the Bitterroots. 
+Meanwhile, the Southwest will be mild and dry. Focus: Snow Drought 
+The nation's capital is not a snowy place. On average, about 18 inches 
+falls each year. But recently, the absence of snow has reached record 
+proportions. On Dec. 23, 0.4 inches of snow fell, ending a string 
+of 378 days without measurable snow at the observation site at National 
+Airport. The previous record was 321 days ending on Feb. 22, 1973. 
+It has now been almost 23 months since the last time there has been 
+an inch of snow on a single day which also is a record for lack of 
+snow. A major winter storm will bring the threat of some snow, ice 
+and rain to Washington this weekend. 
+</TEXT>
+</DOC>

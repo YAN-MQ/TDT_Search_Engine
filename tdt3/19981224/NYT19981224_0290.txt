@@ -1,0 +1,153 @@
+<DOC>
+<DOCNO> NYT19981224.0290 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+On the pine-covered campus with its man-made waterfall, much remains 
+the same at Microsoft's world headquarters. The sodas are still free. 
+Employees are encouraged to take breaks by congregating on the many 
+basketball courts or around whimsical game machines, all part of what 
+is known at Microsoft as the ``Sneakernet,'' the face-to-face contact 
+that company officials say is vital, even as people here spend much 
+of the day communicating via computer. And workers continue to swap 
+stories about the famous ``e-mails from Bill,'' the messages that 
+can pop up at any hour of the day from the company's co-founder and 
+chairman, Bill Gates. One employee in the games group recalls a predawn 
+missive from the leader. ``I just tried out the new version of Monster 
+Truck Madness,'' Gates wrote. ``Here are five things I liked about 
+it and here's what I think we could do better.'' But with the company 
+embroiled in a critical antitrust case in the nation's capital, and 
+ceaselessly depicted by federal prosecutors and competitors as the 
+ruthless bully of the cyber world, the nearly 15,000 workers here 
+have a rude reminder that the high-tech behemoth is not necessarily 
+the master of its own fate. Even as they generally say they remain 
+focused on their own projects and simply trust that company lawyers 
+will prevail in court, the case lurks on the Microsoft campus, a large 
+menace that no one really wants to acknowledge but that can hardly 
+be ignored. ``I have a 75-year-old neighbor and he keeps telling me, 
+`I feel so bad for you, because I worked for AT&AMP;T and we went 
+through all that,''' said Rick Thompson, vice president of the hardware 
+group, who is in charge of everything from a futuristic remote control 
+for computers to product development of an interactive children's 
+toy, referred to at the company as the ``Barney Project,'' as in the 
+big purple dinosaur. Thompson tells his neighbor that the analogy 
+with the breakup of the telephone company does not hold. ``You can't 
+just say, `Oh, Nevada goes to this one, Illinois will go to this one,''' 
+Thompson said. ``Microsoft is not at all like that. It's not the way 
+things work. I just don't think it's going to happen.'' The outcome 
+of the case may not be known for years. And in an industry where technology 
+seems to change at warp speed, many Microsoft employees seem perplexed 
+when asked about the critics' contention that the company can flatten 
+its competition or dominate markets at will. Echoing the view that 
+Gates has expressed repeatedly, they insist that the company has to 
+run just as scared as anyone else. ``I know that right now there are 
+three kids in a garage somewhere coming up with an idea that will 
+make me have to rethink everything I know about what I'm doing today,'' 
+said Marissa Martinez, a program manager for a group that makes sure 
+company products are immune to the year 2000 problem. ``We rely on 
+having that competition. That's just the way this industry is.'' Though 
+virtually no one here says that the antitrust case has distracted 
+them from their work at the company, the matter can take a psychological 
+toll. The company is an American success story and remains widely 
+admired, but the praise is no longer universal, and snippets of news 
+coverage include things like this recent testimony from a government 
+witness: ``Microsoft cannot point a gun to people's heads, but they 
+can make them an offer they can't refuse.'' To hear many of the young 
+workers here (the average age of employees is 34.4) tell it, proffering 
+a Microsoft business card no longer draws a standard response of ``Cool.'' 
+``It's a major bummer,'' said Todd Stevens, a 28-year-old product 
+manager in the action games group. ``It used to be when I told people 
+what I did at Microsoft, they'd want to know what game I was working 
+on. Now it's `What's going on with that trial?''' Stevens shrugs off 
+criticism of the company, likening it to a college football team that 
+wins a bunch of national championships. ``You either love Notre Dame 
+or you hate Notre Dame,'' he said with a laugh. ``Everybody has an 
+opinion.'' For others, especially those whose job it is to worry about 
+integrating a range of Microsoft products, the criticism is more bothersome, 
+especially the argument advanced by Microsoft critics that the company 
+could easily separate technical features like its Internet browser 
+from the rest of its software. ``It's frustrating when you're trying 
+to do what you think is a really good thing,'' said Julie Larson, 
+group program manager for a unit that develops software for designing 
+and managing World Wide Web pages. ``I think they don't fully understand 
+what customers are asking for. They want this increased seamlessness 
+between different applications. This is all driven by what people 
+are asking us for.'' In Washington, D.C., of course, government lawyers 
+are arguing almost the opposite position, that the company has insisted 
+on knitting its own program for searching the Web and other features 
+into its Windows software in a relentless bid to control the market, 
+not to make things more efficient for consumers. As the case unfolds 
+and that issue is debated, many on the campus are angry that the government 
+is already offering solutions as radical as dismantling the company. 
+``All this discussion about breaking up the company borders on the 
+wacky,'' said Brad Smith, an associate general counsel for Microsoft. 
+``From our perspective, it's really unfair and unreasonable that government 
+lawyers are out there touting these aggressive remedies before Microsoft 
+has even put its first witness forward in the courtroom.'' As the 
+company fights its legal case, it is certainly waging the battle on 
+other fronts as well. ``Microsoft and the freedom to innovate,'' proclaims 
+its site on the World Wide Web, perhaps framing the matter a bit one-sidedly, 
+and asking, ``What's your opinion?'' And Gates, presenting a public 
+image far different from that of the rapacious baron described by 
+prosecutors, has been out dispensing grants for libraries and vaccines 
+and talking on ``The Rosie O'Donnell Show'' last week about the intricacies 
+of potty training for his 2{-year-old daughter, Jennifer Katharine. 
+``We're right in the middle of that,'' Gates, the world's richest 
+man, whose wife is pregnant with the couple's second child (referred 
+to by some employees here as ``Gates Version 2.0''), told Ms. O'Donnell. 
+``She watches `Once Upon a Potty.' It's her favorite video, and `Everybody 
+Poops' is her favorite book. She's getting the concepts down but she's 
+not quite there yet.'' Even as Gates has been vilified in some circles, 
+he clearly remains revered on the company campus. Some people seem 
+more incensed by the personal attacks on Gates than by the criticism 
+of the company. ``I didn't know John D. Rockefeller,'' said Kevin 
+Eagan, a director of business development in the hardware group, referring 
+to the mogul whose dominance over oil markets at the turn of this 
+century has invited endless comparisons to Gates' control over computer 
+software. ``But I do know Bill Gates, and in 30 or 40 years when I 
+tell my kids what it was like to work for Bill Gates, I'll tell them 
+this was a normal guy who really was incredibly passionate about technology.'' 
+Jonathan Sposato, 31, a lead program manager who has been designing 
+computer games since he was 13, said: ``I don't get the feeling he 
+wants to control everything or anything like that. He cares very much 
+about certain problems and issues in technology, and he wants to come 
+up with solutions. That's what really drives him.'' And many other 
+employees described Gates as an accessible leader who welcomes e-mail 
+and motivates with notes of his own. ``It was just great to know he 
+tried the game,'' said Jose Pinero, a product manager, describing 
+Gates' e-mail concerning Monster Truck Madness. ``He cares about what 
+you're doing.'' Whatever the dangers posed by the antitrust case, 
+company officials say it has had no effect on their ability to recruit 
+workers. Stafford Mays, a senior diversity specialist who travels 
+around the country in recruiting efforts, including assembling a force 
+of 700 summer interns, says the matter is ``totally irrelevant'' as 
+far as young applicants are concerned. ``It just doesn't come up,'' 
+Mays said. ``They all want to know if they can work on the next version 
+of Windows.'' They also ask numerous questions about what Gates is 
+really like, said Mays, though that is a curiosity that clearly extends 
+far beyond the circle of prospective employees. ``When I tell people 
+I work for Microsoft,'' said Edie Adams, hardware usability and ergonomics 
+manager, ``they always want to know: `Have you ever met Bill Gates? 
+Have you ever been to Bill Gates' house?''' (Virtually every employee 
+meets Gates; invitations to his mansion overlooking Lake Washington 
+are a rarer privilege.) Many people who work here expressed confidence 
+that the company would win the antitrust case, and several pointed 
+to America Online's planned $4.2 billion takeover of Netscape Communications 
+Corp., a deal they say will create a mega-competitor and render the 
+question of a Microsoft monopoly moot. More broadly, though, they 
+insist that the company will continue to face fierce competition on 
+all fronts. ``People say they can't imagine anything other than Windows,'' 
+the operating system that drives nearly nine out of every 10 personal 
+computers, said Erik Strommen, a designer of children's products for 
+the company. ``Well, just blink. That's the way things happen.'' Some 
+employees expressed the fear that Microsoft could win the legal battle 
+but lose the competitive war, its ability to set the technological 
+pace sapped by the fight in the courtroom. Others, though, insist 
+they cannot imagine that happening. ``I don't have to be personally 
+involved'' in the courtroom battle, said Thompson, the hardware group 
+vice president. ``I'm able to keep working on great products every 
+day without distraction.'' Still, he added: ``It bugs me that the 
+perception is out there that Microsoft is not an innovative company. 
+I think we're an unbelievably innovative company.'' 
+</TEXT>
+</DOC>

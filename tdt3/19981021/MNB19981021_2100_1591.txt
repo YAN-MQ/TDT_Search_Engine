@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> MNB19981021.2100.1591 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Texas, the rain has stopped, but a lot of the state is still underwater 
+tonight. Evacuations are continuing southeast of Houston, mostly, 
+as waters from the swollen Colorado river creeps closer to homes, 
+the river is forecast to crest tomorrow evening, 11 feet above flood 
+stage. At least 22 people are confirmed dead now, another five missing. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981028.2130.0248 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane Mitch may be weaker, but it still poses a dangerous threat 
+to the western Caribbean. The storm has washed out roads and bridges, 
+flooded neighborhoods, and killed at least 32 people. Mitch has dumped 
+up to 25 inches of rain in mountain areas and tens of thousands of 
+people in low-lying areas are fleeing their homes. At last report, 
+the center of the storm was 25 miles north of Honduras, with maximum 
+sustained winds of 105 miles an hour. 
+</TEXT>
+</DOC>

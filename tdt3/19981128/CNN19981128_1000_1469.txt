@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981128.1000.1469 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The international space station needs a name, and a Russian TV network 
+is inviting viewers to come up with one. Thousands have responded, 
+and the entries reflect a wide variety of opinion about the multibillion-dollar 
+project, not all of them positive. One viewer suggested calling the 
+station, Armageddon. Others voted for such historical names as galileo 
+and Columbus. And one person wants to name it mommy. Russia's space 
+agency will submit its favorites to the other countries involved in 
+the project. 
+</TEXT>
+</DOC>

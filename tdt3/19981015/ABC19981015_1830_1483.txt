@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981015.1830.1483 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Three studies published today have found that light therapy is an 
+effective treatment for people who become depressed in the winter. 
+It's sometimes called seasonal affected disorder. 60% of people who 
+suffer from the winter blues said they felt better after receiving 
+a concentrated dose of bright light in the morning. 
+</TEXT>
+</DOC>

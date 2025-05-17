@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981230.1830.0403 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A report released today by a special congressional committee claims 
+that technology deals over the past two decades with China have damaged 
+U.S. national security, but a lot of the details were not made public. 
+The investigation was begun after allegations that contributions to 
+the democratic party influenced the illegal transfer of satellite 
+technology to china, which China then used in weaponry. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981212.1130.1303 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Ninth-ranked Purdue boiled Valparaiso 78-70. After scoring just 12 
+points in seven games, Carson Cunningham poured in 18 in just 12 minutes. 
+</TEXT>
+</DOC>

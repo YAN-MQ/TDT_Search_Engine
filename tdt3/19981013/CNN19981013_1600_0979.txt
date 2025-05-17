@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981013.1600.0979 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks on Wall Street succumb to more losses. That ends a two-day 
+win streak. Kitty pilgrim is in New York with all the closing numbers. 
+Kitty? Thanks, Chuck. The day began with only modest declines and 
+finished that the way as well. We did have disappointing earnings 
+that gave investors the jitters. The Dow industrials fell 63 points, 
+7938 was the level a drop of 11 in Eastman Kodak shares to 72 1/2. 
+That hit the Dow particularly hard. Kodak said cost cutting helped. 
+Future sales could show weakness. The broader markets were also lower. 
+</TEXT>
+</DOC>

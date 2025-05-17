@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981014.1130.0959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Israeli prime minister Benjamin Netanyahu is in Jordan, on his way 
+to a summit outside Washington tomorrow. He'll meet with President 
+Clinton and Palestinian leader Yasser Arafat. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981213.1300.1351 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Last night on the ice, Mark Recchi's consecutive games played streak 
+of 570 came to an end when he took himself out of the lineup because 
+of pneumonia. Montreal and Nashville tied at 2. 
+</TEXT>
+</DOC>

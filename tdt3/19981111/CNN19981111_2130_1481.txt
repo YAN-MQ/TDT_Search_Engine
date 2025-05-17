@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981111.2130.1481 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A seven-ton Christmas tree arrived in the big apple today. The 73-foot 
+Norway spruce will be placed at Rockefeller center tomorrow. It will 
+be decorated with over 26,000 light bulbs over the next three weeks. 
+The tree from Richfield, Ohio, is the first Christmas tree from outside 
+New York state to be placed at Rockefeller center. It is scheduled 
+to be lit December 2nd. 
+</TEXT>
+</DOC>

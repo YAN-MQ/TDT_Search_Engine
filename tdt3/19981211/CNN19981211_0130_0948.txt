@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981211.0130.0948 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors seemed scared Thursday by poor corporate earnings and the 
+impeachment hearing on Capitol Hill. The Dow Jones industrial average 
+dropped 167 points, to close at 8841. 
+</TEXT>
+</DOC>

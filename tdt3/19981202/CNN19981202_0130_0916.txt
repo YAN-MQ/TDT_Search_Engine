@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981202.0130.0916 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+job cuts are also expected for 9,000 employees of exxon and mobil. 
+the two oil companies announced an $80 billion merger tuesday, the 
+largest in u.s. history. the deal has to be approved by federal and 
+european regulators. 
+</TEXT>
+</DOC>

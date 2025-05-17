@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981201.1600.1071 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors are digesting some economic reports today. First, manufacturing. 
+National association of purchasing management said new orders in exports 
+and imports declined at many of the nation's factories last month. 
+Construction spending was up moderately in October, powered by strength 
+in commercial and residential building. And an indicator of future 
+economic activity shows signs of moderate growth next year. Leading 
+economic indicators up slightly in October after two months of generally 
+flat results. 
+</TEXT>
+</DOC>

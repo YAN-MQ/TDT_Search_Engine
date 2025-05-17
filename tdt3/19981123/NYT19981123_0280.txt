@@ -1,0 +1,183 @@
+<DOC>
+<DOCNO> NYT19981123.0280 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In 1946, two Chicago psychoanalysts, Drs. Franz Alexander and Thomas 
+French, observed that while some of their patients required years 
+of therapy, others got better after much briefer treatment, sometimes 
+even ``as the result of a few consultations.'' The therapist's task, 
+the analysts asserted in ``Psychoanalytic Therapy,'' should be to 
+provide ``flexible'' and ``efficient'' treatment, ``adjusted to the 
+individual nature of the great variety of neurotic patients.'' The 
+idea that therapy could be brief was radical in an era when psychoanalysis 
+was ascendant and long-term therapy the norm, and the Chicago analysts' 
+work was sharply criticized. Fifty years and a health-care revolution 
+later, short-term psychotherapy _ defined as therapy intended to last 
+anywhere from one session to 15 or 20 sessions _ has become the rule. 
+The vast majority of Americans receive mental health care under insurance 
+plans that closely monitor the course of treatment, set limits on 
+the length of therapy and require authorization for further visits 
+at frequent intervals. People who spend years in psychotherapy pay 
+almost all the costs themselves, and Woody Allen jokes are a relic 
+from a time when ``managed care'' was still just a gleam in a cost-control 
+expert's eye. As a measure of how much has changed, the bible of psychotherapy 
+research, ``The Handbook of Psychotherapy and Behavior Change,'' will 
+omit its customary chapter on brief therapy in its 2001 edition ``because 
+almost all therapy is brief therapy now,'' said the book's editor, 
+Dr. Michael Lambert. Yet the question of how much therapy is enough 
+in different cases remains elusive, bedeviling a field that is struggling 
+to justify every 50-minute hour spent by a therapist in the consulting 
+room. There is a growing consensus that some patients need longer 
+treatment _ and that they do not always receive it. But scientific 
+knowledge lags far behind the fervor of policy makers. ``The type 
+of outcome data that would enable us to use psychotherapy with the 
+precision and certainty with which a physician operates to remove 
+tonsils or gallstones simply does not exist,'' Dr. Carol Shaw Austad, 
+a psychologist at Central Connecticut State University, wrote in ``Is 
+Long-Term Psychotherapy Unethical?'' (Jossey-Bass, 1993). And the 
+issue of treatment duration remains a volatile one, guaranteed to 
+stir debate in any gathering of clinicians, managed-care representatives 
+and employers who pay the bill for their employees' mental health 
+coverage. In response to this dearth of knowledge, researchers around 
+the country are beginning to examine psychotherapy in a much more 
+systematic way than ever before. They are exploring, in carefully 
+designed studies, what the appropriate ``dose'' of psychotherapy might 
+be for different groups of patients, and tracking the progression 
+_ rarely a linear one _ that patients make as they improve. Perhaps 
+most important, investigators are moving outside the laboratory, trying 
+to study effectiveness and length of treatment in real-world settings, 
+a major focus of the National Institute of Mental Health's research 
+program. And while most studies of therapy have been short-term, scientists 
+are now trying to follow patients for longer periods. Meanwhile, in 
+outpatient clinics and private offices, clinicians are developing 
+their own innovations, finding new ways to provide continuing care 
+by challenging traditional assumptions about the timing and frequency 
+of sessions. The notion that therapy should be brief does not stem 
+just from the desire to control costs and prevent the abuse of benefits. 
+Insurers began placing limits on psychotherapy in the 1980's, when 
+employers complained about surging mental health costs, and analyses 
+indicated that a minority of insured employees were using a majority 
+of psychotherapy services. But studies dating from the 1960's and 
+1970's demonstrate that short-term treatments of many different schools 
+are effective for a variety of emotional ills, particularly those 
+that are clearly defined, like phobias and some other anxiety disorders, 
+stress-related conditions, grief reactions, marital difficulties, 
+sexual dysfunctions and some forms of depression. Indeed, Freud was 
+the first brief therapist: He treated the composer Gustav Mahler for 
+impotence while the two men took a few walks together, and he conducted 
+a spontaneous single-session analysis of an 18-year-old woman on a 
+mountain trail. In addition, national surveys have consistently shown 
+that if attendance record is a true indicator, most Americans choose 
+brief treatment, even when longer therapy is available. A 1987 survey, 
+for example, found that of the 3 percent of the population that sought 
+psychotherapy, about a third (33.9 percent) stopped going after the 
+first or second visit. Another third (37 percent) dropped out after 
+3 to 10 visits. Inspired by such statistics and building upon the 
+work of brief-therapy pioneers of past decades, like James Mann, Peter 
+Sifneos, Habib Davenloo, Bernard Bloom and others, therapists have 
+developed an abundance of short-term techniques. These methods, some 
+mainstream, some best described as ``alternative,'' share certain 
+characteristics: They are goal oriented and clearly focused, they 
+take advantage of the continuing benefits of therapy even after the 
+sessions stop, and they play to a patient's strengths. In addition, 
+most play down the influence of unconscious motivation. Managed care 
+companies, for their part, routinely cite the effectiveness of brief 
+treatments and the preferences of patients in justifying their focus 
+on short-term therapy. Yet, as researchers are discovering, people 
+recover from mental disorders at different rates, and their progress 
+does not always conform to the time limits enforced by insurers, or 
+the prepackaged therapies offered by some practitioners. Patients 
+with more severe conditions, for example, get better more slowly. 
+Some illnesses, like depression, are recurrent. And even patients 
+who need only a few sessions of therapy now may in the future want 
+and benefit from further treatment. Dr. Ellen Frank, a professor of 
+psychiatry at the University of Pittsburgh's Western Psychiatric Institute, 
+observed: ``There's been a kind of dogmatism about short-term treatments 
+_ this is a 12-week treatment, or this is a 16-week treatment. For 
+some patients, fewer sessions are adequate. But there are others who, 
+if we're going to take things seriously, we may be talking about weekly 
+therapy ad infinitum.'' Dr. Frank's own research on depression is 
+a case in point. Two methods of brief therapy, cognitive behavioral 
+therapy and interpersonal therapy, have been shown in large clinical 
+trials to be effective _ both alone and in combination with antidepressant 
+drugs _ in treating depressed patients. But people who suffer from 
+one episode of depression are prone to relapse after months or years. 
+Dr. Frank and her colleagues studied 138 depressed patients over a 
+three-year period. All the patients in the study recovered from their 
+initial episode of depression through a combination of drugs and interpersonal 
+therapy. Patients who received no further treatment were more likely 
+to relapse, while patients who received interpersonal therapy monthly 
+or who continued taking medication were more likely to be protected 
+against further illness. Even patients with much milder problems, 
+clinicians are finding, may benefit from a longer-term relationship 
+with a therapist, even if they come in for a session every few months, 
+or for a few weeks every few years. Dr. Simon Budman, president of 
+Innovative Training Systems and an assistant professor of psychiatry 
+at Harvard Medical School, says he often sees patients over a period 
+of years, but intermittently, dealing with different problems as they 
+come up in the patient's life. In this model, much of the ``work'' 
+done by the patient takes place outside of the consulting room, as 
+the therapist adopts a role more like that played by the family doctor: 
+a constant and reassuring figure who can inspire progress at critical 
+times. ``The perspective that everybody can be treated in five sessions 
+or less doesn't take into account the ways that people change,'' Dr. 
+Budman said. ``There is a way to be humane and thoughtful and helpful 
+to people, but at the same time consider the issue of cost, in terms 
+of dollars, human suffering and people's time.'' Researchers have 
+known for some time that the quality of the relationship between therapist 
+and patient, the so-called working alliance, is one of the best indicators 
+of therapy's success, but they are also beginning to discover other 
+predictors of outcome. Patients who get better in therapy, for example, 
+are usually those who show improvement within the first few sessions. 
+And more severely disturbed patients are likely to have worse outcomes. 
+More difficult is establishing exactly how much psychotherapy is required 
+by different types of patients for them to get well. But a growing 
+number of studies indicate that many patients take longer to recover 
+than the length of time provided by the typical insurance plan. In 
+a study of 45 patients seen at a university clinic, for example, Dr. 
+Lambert, the editor of the psychotherapy handbook, and his colleagues 
+at Brigham Young University found that after eight sessions of therapy, 
+only 22 percent of patients had made a significant recovery; after 
+16 sessions, 50 percent had become better, and it took 26 sessions 
+for 75 percent of the patients to meet the criteria for a successful 
+outcome. In a new study, as yet unpublished, Dr. Lambert has elaborated 
+these findings, showing that of 75 outpatients, those who exhibited 
+a ``higher level of distress'' took on average eight more sessions 
+to reach recovery than patients with lower levels of distress. The 
+results, Dr. Lambert says, suggest that to provide adequate treatment, 
+insurance plans should cover at least 20 sessions of psychotherapy. 
+``If I were an employer with a tightly limited plan, I'd feel like 
+I was only serving half my employees, and it's the half who are least 
+in need of help,'' Dr. Lambert said. ``I'm not serving the people 
+with the toughest problems.'' In reviewing 30 years of studies involving 
+more than 2,400 patients, Dr. Kenneth Howard, a psychologist at Northwestern 
+University, was the first to establish this type of ``dose-response'' 
+curve, giving scientists a means of charting therapy's action the 
+way pharmacologists track the efficacy of drugs. Dr. Howard's numbers 
+differ slightly from Dr. Lambert's: He found, for example, that after 
+eight sessions, 50 percent of patients showed measurable improvement. 
+But he also found that patients with diagnoses of conditions like 
+depression or anxiety took 20 sessions to respond to therapy. And 
+patients with more severe problems, like borderline personality disorder, 
+often required a full year of therapy before they showed improvement. 
+Some managed-care companies, aware that it is in their long-term interest 
+to insure that patients get what they need, have become active participants 
+in this type of outcome research. ``We've been selling the idea of 
+quality, and the customers _ employers, the government, whoever _ 
+are saying `Fine. Show us.''' said Dr. Jeb Brown, director of the 
+Center for Clinical Informatics, a firm in Salt Lake City that is 
+a consultant to the managed care industry. Other companies, plagued 
+by debt and eager to curtail losses, evince little interest. Mental 
+health experts predict that the ire of practitioners and the complaints 
+of patients will, in the next few years, nudge the treatment pendulum, 
+now lodged firmly in the ``less is more'' position, back into a more 
+moderate zone. Whether that shift brings the field closer to the goal 
+of matching treatment to patient depends on how much researchers are 
+able to learn, and on the collective decision about what is worth 
+paying for. ``We are a very cost-conscious society,'' said Dr. Hans 
+Strupp, Distinguished Professor of Psychology emeritus at Vanderbilt 
+University, ``and we are a society in a hurry. We can do certain things 
+in a limited amount of time. But with others, we shouldn't fool ourselves.'' 
+</TEXT>
+</DOC>

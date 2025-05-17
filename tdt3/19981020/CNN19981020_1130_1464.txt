@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981020.1130.1464 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers believe they know why there's not much thrill in tickling 
+yourself. Scientists who watched the brains of people trying to tickle 
+themselves found the cerebellum, in the lower back of the brain, tells 
+another part of the brain, "it's just you." But it's too soon to say 
+whether the cerebellum is the only brain region involved in dampening 
+the tickle sensation. The study is published in the November issue 
+of the journal "nature neuroscience." 
+</TEXT>
+</DOC>

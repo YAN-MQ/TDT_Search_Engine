@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> APW19981209.1410 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Share prices rose Wednesday on the London Stock Exchange. The Financial 
+Times Stock Exchange 100-share index was up 53.4 points, or 0.95 percent, 
+at 5,669.1 points. Volume was 824.0 million shares compared with 777.0 
+million Tuesday. 
+</TEXT>
+</DOC>

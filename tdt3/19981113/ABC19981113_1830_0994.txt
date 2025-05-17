@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981113.1830.0994 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The market for companies selling stock to the public for the first 
+time is starting to stir again, especially for Internet stocks. A 
+company called "the globe.com," which helps people create their own 
+web sites, went public today at $9 per share. And they closed the 
+day at $63. 
+</TEXT>
+</DOC>

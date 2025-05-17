@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981015.0130.0546 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "Headline News weather," I'm Karen McGinnis. A 
+storm is developing across the interior west. And as a result, we'll 
+expect those snow levels to drop considerably. And expect some winter 
+storm watches out from southeastern Idaho, across northern Utah and 
+into southwestern sections of Wyoming. Farther to the north and the 
+great plains, it will actually be mild ahead of the frontal system 
+but expect a little bit of rainfall. And high pressure dominates the 
+eastern seaboard. Temperatures will be fairly cool from the Great 
+Lakes into New England and across Montana where temperatures mostly 
+in the 40s there. Expect 80s even into the desert southwest with breezy 
+weather conditions and cooler readings will prevail. And expect cloudy 
+skies in Anchorage, Alaska. Our forecast for Friday shows that storm 
+system exiting the Rockies and into the central plains. There will 
+be a combination of rain and snow and windy conditions. On Saturday, 
+the readings will be milder again across the southwestern U.S., but 
+colder throughout the interior west. And on Sunday, the rain invades 
+portions of Texas. 
+</TEXT>
+</DOC>

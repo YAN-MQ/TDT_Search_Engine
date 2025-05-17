@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981024.1600.1021 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The national football league is offering an alternative in investing 
+by issuing its own ten-year bonds. It's the first of its kind by a 
+professional sports league. Revenue from the bonds will be divided 
+among the league's 31 member teams. 
+</TEXT>
+</DOC>

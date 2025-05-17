@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981109.2130.1390 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Considering how well it handles the elements under the road... it's 
+no surprise that our newest 4x4 performs so well on the road. Introducing 
+the all-new Jeep grand Cherokee now with an exclusive quadra-coil 
+suspension and advanced steering system for a more agile responsive 
+ride on any surface. 
+</TEXT>
+</DOC>

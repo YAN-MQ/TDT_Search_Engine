@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981128.1000.0457 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The death toll stands at 208 in India's worst train accident in three 
+years. The accident happened Thursday when an express train slammed 
+into the cars of another train which had derailed. Police believe 
+they've recovered all the bodies from the wreckage. They still are 
+trying to identify 80 victims. 
+</TEXT>
+</DOC>

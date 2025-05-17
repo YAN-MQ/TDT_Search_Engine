@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981101.1000.0491 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Rescue workers in Nicaragua say relentless rain from what's left of 
+hurricane Mitch is preventing them from reaching mudslide victims. 
+Days of torrential downpours from Mitch, now a tropical depression, 
+have triggered mudslides and record flooding across central America. 
+Several hundred people have been swept to their deaths, and hundreds 
+more are missing. Forecasters say the center of Mitch is about 70 
+miles west-northwest of guatemala city, moving west-northwest. 
+</TEXT>
+</DOC>

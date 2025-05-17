@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981030.1830.0670 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones industrials were up more than 
+97 points closing at 8592. On the NASDAQ market, stocks gained more 
+than 14 points. 
+</TEXT>
+</DOC>

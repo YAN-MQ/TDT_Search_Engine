@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981125.1600.0924 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Americans are on the move today as the Thanksgiving weekend begins. 
+33.6 million people should travel by road and air. 
+</TEXT>
+</DOC>

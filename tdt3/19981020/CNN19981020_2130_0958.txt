@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981020.2130.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Texas governor George W. bush has asked the president to declare 20 
+counties disaster areas. Four days of rain and flooding have killed 
+at least 20 people. 
+</TEXT>
+</DOC>

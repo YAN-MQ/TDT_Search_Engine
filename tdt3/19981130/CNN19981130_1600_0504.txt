@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981130.1600.0504 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Tuesday. A cold front will move rapidly off the east 
+coast with a little rain or icy mix across northern New England. Showers 
+and storms farther to the south. Meanwhile, a front moving into the 
+west will bring rain and mountain snow and very strong winds from 
+California, Oregon, Washington, across the great basin toward the 
+rocky mountains. More wet and windy weather will move into the northwest 
+with the second system as well. Highs on Tuesday, 30s and 40s in the 
+extreme north and across sections of the great basin, but the south 
+remains rather warm. It will cool off a bit in the mid-atlantic region. 
+Looking ahead to Wednesday, it's still wet and windy in the northwest. 
+On Thursday, some showers will move through the plains toward the 
+mississippi river valley while the rain and snow continue in the northwest. 
+And then on Friday, scattered showers around the Great Lakes and Ohio 
+valley, still wet and snowy with windy conditions in the northwest. 
+Don't forget, you can find four-day forecasts for more than 7,200 
+cities at cNN.com. 
+</TEXT>
+</DOC>

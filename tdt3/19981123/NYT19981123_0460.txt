@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> NYT19981123.0460 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In a decision supporting unfettered access to the Internet in public 
+libraries, a federal judge on Monday struck down the Loudoun County, 
+Va., library's policy of using filtering software on all computer 
+terminals. ``Such a policy offends the guarantee of free speech in 
+the First Amendment and is, therefore, unconstitutional,'' Judge Leonie 
+Brinkema of the U.S. District Court in Alexandria, Va., said in the 
+decision. Judge Brinkema wrote that the use of the filters, made by 
+a private company, to limit Internet access was also a form of prior 
+restraint on distribution of speech and asserted that ``a defendant 
+cannot avoid its constitutional obligation by contracting out its 
+decision making to a private entity.'' Judge Brinkema issued a permanent 
+injunction against the filtering policy, but the decision leaves unanswered 
+whether it would be constitutionally acceptable to use filters on 
+terminals that are set aside for children. Loudoun library officials 
+made no statement about an appeal. About 15 percent of libraries have 
+installed filters on at least some of their terminals, according to 
+a recent survey from the American Library Association. The lawsuit 
+challenging the library policy was brought late last year by a civic 
+organization called Mainstream Loudoun as well as a handful of individual 
+patrons. Later, publishers of eight Web sites, from a safe-sex page 
+to an online publication examining ethical issues, joined the suit, 
+saying their speech had been censored by the policy. All eight sites 
+had been blocked at one point by the filtering software, called X-Stop, 
+but were unblocked after the suit was filed, according to Ann Beeson, 
+a lawyer for the American Civil Liberties Union, which represented 
+the publishers. 
+</TEXT>
+</DOC>

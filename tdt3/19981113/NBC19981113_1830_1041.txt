@@ -1,0 +1,47 @@
+<DOC>
+<DOCNO> NBC19981113.1830.1041 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Planning any military operation is always complicated. But this time 
+around, the people who plot strategy and give the orders are contending 
+with something beyond their control -- the equivalent of a Hurricane 
+in space. Our "in depth" reporting continues with NBC's Robert Hager. 
+300 military satellites in the line of fire, not from Saddam hussein, 
+but from a huge meteor storm next week. Blame it on the Comet temple 
+tuttle and the long trail of dust it leaves in space as it sweeps 
+by once every 33 years. Earth will pass near that dust storm next 
+Tuesday creating a spectacular light show of shooting stars, like 
+this, for Asia, where it will be most visible and fears of damage 
+for the U.S. military satellites crucial to guiding a military attack 
+on Iraq. This one has a history of producing the biggest meteor showers 
+that have ever been observed. The danger? The military relies on satellites 
+to relay orders to attack, to guide it's missiles and planes, to pinpoint 
+targets, to assess damage, to spy on the enemy -- watch and listen, 
+and to provide early warning of any Scud missiles fires in retaliation. 
+At a satellite command post in Colorado, the air force gets ready 
+for the meteor shower. Something that we're concerned about. We don't 
+know if it's going to be a gentle shower or a thunderstorm or a Hurricane, 
+so we're prepared for whatever comes. The particles shed by the Comet 
+are no bigger than beans. In fact, most are no bigger than grains 
+of salt. But they travel at tremendous speeds. It's a 150,000 miles 
+an hour. That's about 40 miles per second, something like that. At 
+the University of Dayton, scientists simulated what can happen when 
+an object that speed hits. Watch again, in slow motion. And this is 
+the damage of that impact. But the real danger is electronic. When 
+these solid particles strike a satellite, they can create a charged 
+cloud, a cloud of particles. Like a small lightening strike on a satellite, 
+and that charged cloud can affect the satellite systems. NASA's so 
+concerned, it made sure the shuttle's not in space during the shower. 
+In the Soviet "Mir," cosmonauts will position themselves for a quick 
+escape if there's trouble. And there are concerns for commercial satellites 
+that handle our phone calls, television signals and computer links. 
+What then can satellite managers do? Mostly, they'll try to maneuver 
+satellites so sensitive equipment faces away from the storm and slant 
+big solar panels into the meteoroid dust so the panels won't take 
+the shots broadside. By doing that and being ready to switch to backup 
+satellites if there is trouble, officials hope to escape without disruption. 
+Hope the meteor storm in the sky doesn't interfere with the pending 
+military storm in the desert. Robert Hager, NBC news, Washington. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981011.1600.0496 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And still ahead -- why the 
+Catholic church's newest Saint is sparking controversy. I'm meteorologist 
+rose stabler with your "Headline News forecast." 
+</TEXT>
+</DOC>

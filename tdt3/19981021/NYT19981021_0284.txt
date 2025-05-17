@@ -1,0 +1,89 @@
+<DOC>
+<DOCNO> NYT19981021.0284 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+If there is one institution that would seem to be threatened by the 
+information superhighway, it's the U.S. Postal Service. The world 
+of e-mail, Web pages and software downloads seems to offer everything 
+the old paper-based world of information delivers but offers it almost 
+instantaneously. Many have been wondering whether something known 
+colloquially as snail mail can compete. The answer is that it won't 
+compete directly, but it will keep applying the same kind of computer 
+power that underlies e-mail and other electronic wizardry to the task 
+of moving paper mail. The fact is that new technology rarely destroys 
+the old. It usually melds with the old, allowing both to do what they 
+do best. Last year, letter carriers delivered 630 million pieces of 
+mail a day. The post office now uses computerized sorting machines 
+to route most of the mail. Most bulk mail, like bills, is printed 
+with bar codes that are representations of ZIP codes and easy for 
+computers to understand. The machines direct the path of a letter 
+with house-level precision. Mail with bar codes goes directly to machines 
+that can read the codes. Mail without bar codes but with printed addresses 
+is handled by large mail-sorting machines with built-in cameras for 
+taking pictures of addresses. A computer interprets the images, finds 
+the best matching addresses and directs a printer to mark bar codes 
+on the envelopes to speed further sorting. Today, the post office 
+is concentrating on building even more sophisticated computer systems, 
+with advanced optical character recognition (OCR) technology, that 
+will read handwritten envelopes. Bill Dowling, a vice president for 
+engineering at the Postal Service, said, ``Our online OCR machines 
+handle 40,000 envelopes an hour and 80 percent of machine-printed 
+mail we read.'' When letters without bar codes go into the first sorting 
+machine, the computers try to interpret the address in the fraction 
+of a second between when the letter passes by the camera and when 
+it passes by an ink-jet printer that sprays on bar codes in fluorescent 
+ink. Finding the answer in this short amount of time is called online 
+processing. The original computer machines doing this job relied upon 
+VAX minicomputers, which were manufactured by the old Digital Equipment 
+computer company that is now a division of Compaq. Today, each machine 
+is equipped with 11 additional 200-megahertz Pentium Pro chips that 
+analyze the address images together. These extra chips run a stripped-down 
+version of Linux that the Postal Service customized for high-speed 
+parallel processing of addresses. There are currently 875 OCR machines 
+distributed throughout the country at different sorting centers. Many 
+smaller branches and local post offices have cheaper, faster sorting 
+devices that can read only bar codes. If the computer cannot recognize 
+the address in the short amount of time available to it _ perhaps 
+because the address is handwritten _ the letter and the digital image 
+of the address are put aside for off-line processing. First, a Silicon 
+Graphics computer tries to interpret the image with more sophisticated 
+algorithms (mathematical approaches) that take several seconds to 
+search for an answer. If these computers cannot read the address, 
+the image of the address is finally given to a human, who reads it 
+and types it into the system. Then the batch of envelopes with addresses 
+that were hard to read are processed again. This time, the correct 
+bar code is sprayed on each envelope so it can be sorted at local 
+post offices. Both the printed-character and handwritten-character 
+recognition packages rely heavily on a large database containing every 
+address in the country. ``We have an excellent digit recognizer so 
+we can recognize the ZIP code and correlate the city and state,'' 
+said Ed Kupert, a manager of image-handling technology for the Postal 
+Service. ``Then we can recognize the house number. From this, we can 
+create a lexicon of every street that has a house with that number 
+in the ZIP code, and the computer picks the best match.'' Kupert said 
+the current software recognized about 37 percent of handwritten addresses. 
+The Postal Service hopes to increase this rate to 50 percent with 
+a new software version that will be installed in time to handle the 
+Christmas rush, he added. The Postal Service is also following the 
+lead of other delivery companies and using technology to add new features 
+to the seemingly simple process of delivering a letter. One option 
+would use special bar codes to track the flow of individual envelopes 
+in much the same way that package delivery businesses like Federal 
+Express and United Parcel Service follow packages. Credit-card companies 
+and mortgage holders may want to be able to know if the payment check 
+is really in the mail _ and if so, when it got there, Dowling said. 
+Tracking individual envelopes moving through the system is technically 
+possible, and advertisers are interested in the capability. Dowling 
+said the Postal Service would be able to tell direct-mail companies 
+exactly when a piece of mail arrived, allowing them to coordinate 
+other marketing efforts, like follow-up phone calls or television 
+commercials. Dowling conceded that the Postal Service would face some 
+stiff competition from electronic bill-paying systems using the World 
+Wide Web. But he said the people who assume that Web-based systems 
+will win underestimate the value of printed material to the people 
+sending the bills. ``If you open your utility bill,'' he said, ``you 
+probably get some warm and touchy statement about how good they did 
+during the last heat wave. The bill itself is an advertisement.'' 
+</TEXT>
+</DOC>

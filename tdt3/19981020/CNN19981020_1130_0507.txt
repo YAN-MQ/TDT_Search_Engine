@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> CNN19981020.1130.0507 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "Headline News weather." A 
+cool day today over the northern Great Lakes, only in the 30s and 
+40s in many locations. And the cooler weather has already spread into 
+the Rockies. As we head on over the next couple of days, the cooler 
+air will be building in as high pressure builds in through the upper 
+midwest, spreading the cold temperatures in from Canada. In fact, 
+even cold enough that by late tomorrow, could see some rain and snow 
+mixed through sections of the southern Great Lakes. Most of the wet 
+weather will be in the southwest and into wet Texas, that's associated 
+with some tropical moisture, which could bring some heavy rains in 
+through that region. We check now your extended forecast -- we are 
+looking for showers in portions of the Great Lakes during the day 
+on Thursday. Scattered showers continue in the southwest. Cold temperatures 
+will be spreading through much of the eastern half of the U.S. both 
+Thursday and on into Friday, with 40 degree high temperatures for 
+much of the northeast on Friday. Showers will be scattered in New 
+England. By Saturday, it's dry, most of the U.S. cool temperatures 
+continue from the Great Lakes all the way into the northeast. For 
+more weather information, including four-day forecasts for 6,100 cities, 
+log into CNN.com. 
+</TEXT>
+</DOC>

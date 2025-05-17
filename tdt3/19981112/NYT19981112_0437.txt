@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NYT19981112.0437 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Morton Halperin, a former White House and Pentagon official, will 
+become the new director of policy planning at the State Department. 
+He will replace Gregory Craig, a lawyer who is now coordinating President 
+Clinton's defense against impeachment. The job does not require Senate 
+confirmation. 
+</TEXT>
+</DOC>

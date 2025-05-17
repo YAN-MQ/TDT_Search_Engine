@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981105.2130.0505 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And still ahead -- a program 
+that's turning welfare recipients into computer programmers. 
+</TEXT>
+</DOC>

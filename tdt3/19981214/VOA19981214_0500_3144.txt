@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981214.0500.3144 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And Oracle Corporation and Sun Microsystems are expected later today 
+to announce a pact to sell new business computers that will try to 
+blunt the dominance of Microsoft's operating software. Analysts say 
+Oracle's databased software and Sun's computers could lend employees 
+access computer files using devices that don't require the operating 
+system that runs the basic functions of a computer. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981116.2130.1358 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And a quick look at the new bcs standings show the top five stayed 
+the same this week. Russell Biven, "CNN Headline Sports." 
+</TEXT>
+</DOC>

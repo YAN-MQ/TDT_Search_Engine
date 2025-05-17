@@ -1,0 +1,152 @@
+<DOC>
+<DOCNO> NYT19981102.0234 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+It is midafternoon on the eastern coast of a chronically sleep-deprived 
+nation and if you listen carefully, you can hear the whoosh of cappuccino 
+makers and the ripping open of No-Doz boxes and the yawns of night-shift 
+workers and the sighs of pilots as they check their watches to see 
+how much longer they must keep their aircraft aloft. They are the 
+sounds of the struggle to stay awake, a major enterprise in a country 
+that long ago exchanged the effortless biological cycle of sleep and 
+waking for the tyranny of electric lights, job-plus-kids living, graveyard 
+shifts and packages that absolutely, positively have to be there overnight. 
+About two-thirds of workplace accidents in the United States are caused 
+by human error, studies show, many of them the result of a failure 
+of alertness at critical times. Jet-lag sufferers, all-night workers, 
+the elderly and the multitude of Americans with disorders like sleep 
+apnea and narcolepsy wage a continual battle against excessive daytime 
+sleepiness. And staying awake supports a multibillion-dollar industry 
+that serves up a variety of stimulants, legal and illegal, and sleep 
+promoters, offering hope that a good night's sleep will bring alertness 
+the next day. Yet the search for artificial compounds to enhance wakefulness 
+is a chronicle of limited success. Caffeine, for all its appeal, is 
+not especially potent, and in high doses can be unpleasant, causing 
+irritability, tremor and excessive urination. Amphetamines, the wonder 
+drugs of the 1950s and '60s, quickly opened a Pandora's box of side 
+effects and abuse. The drugs keep people awake, but they also produce 
+euphoria and the jitters, revving up the central nervous system and 
+causing the heart rate and blood pressure to jump. And once the effects 
+wear off, users soon crave more of the drug. Fearful of lawsuits, 
+drug companies gave up trying to improve alertness, and for 20 years 
+have devoted most of their efforts to developing new sleep-promoting 
+drugs, seeking to maximize high quality sleep while minimizing day-after 
+hangovers. But that may soon change. By Dec. 31, the Food and Drug 
+Administration is to decide whether a new compound called modafinil 
+can be marketed as a treatment for excessive sleepiness associated 
+with narcolepsy, a severe sleep disorder that afflicts about one in 
+1,000 Americans. Approval of the drug would also open the door to 
+``off-label'' use, allowing doctors to prescribe it for other conditions. 
+If modafinil goes on the market, many sleep scientists believe, it 
+could usher in a new era of wakefulness compounds and help researchers 
+unlock the mysteries of sleep and waking. But at the same time, the 
+arrival of the drug will raise profound questions about how, as a 
+society, Americans choose to cope with their perpetual lack of sleep 
+and their constant campaign to stay awake. Modafinil, to be sold under 
+the trade name Provigil, is licensed to Cephalon Inc., a small pharmaceutical 
+company in West Chester, Pa. Since its discovery by French scientists 
+in the late 1970s, the compound has stirred interest among sleep researchers 
+because it appears to work entirely differently from other alertness 
+drugs. ``This is the first drug in history to selectively promote 
+wakefulness in a way analogous to how the brain normally wakes up,'' 
+said Dr. Dale Edgar, associate professor of psychiatry and behavioral 
+science at Stanford University, who conducted preclinical trials of 
+Provigil for Cephalon and has done other animal studies of the drug 
+financed by the Air Force Office of Research. ``Modafinil is certainly 
+not a real substitute for getting sleep. That would be a misuse of 
+this drug. But I personally believe it has great promise for a much 
+wider range of sleep disorders.'' In human trials, modafinil appears 
+more effective than caffeine without causing the anxiety, euphoria 
+and cardiovascular effects of amphetamines. Four years of on-the-market 
+experience in France, where the drug is sold as Mododial, and clinical 
+trials financed by Cephalon in this country have revealed few side 
+effects. The most common complaints are mild headache and slight nausea, 
+and these are infrequent. Preliminary studies suggest that modafinil 
+is nonaddictive and that it does not induce tolerance in users. Dr. 
+Jed Black, director of Stanford University's Sleep Disorders Clinic 
+and a participant in the clinical trials, said subjects taking the 
+drug reported feeling ``naturally alert, like they'd taken a good 
+nap and felt good.'' And modafinil does not seem to touch off rebound 
+sleepiness _ the ``crash'' familiar to amphetamine users _ after it 
+is discontinued. If all this sounds too good to be true, it could 
+turn out to be. More than a few promising drugs have shown serious 
+problems once they became widely prescribed. The diet drugs Fen-phen, 
+withdrawn from the market after patients developed heart valve problems, 
+are a case in point. ``You've got to have the drug out there, and 
+you've got to see what it does,'' said Dr. Philip Smith, director 
+of the Johns Hopkins University Sleep Disorders Center, who was not 
+involved in the Provigil trials. ``It would really mean something 
+to have a medication that can stimulate the brain and keep it awake 
+without juicing the whole system. The proof is in the pudding.'' Clinical 
+trials of new drugs are typically small (558 patients at 39 sleep 
+disorder clinics around the country took part in two trials of Provigil), 
+and the studies are almost always financed by the drug company that 
+wants to market the compound, a fact that some experts believe limits 
+the usefulness of the research. And while France has four years of 
+experience with Mododial, prescription of the drug there is tightly 
+controlled, and its users have been limited to patients suffering 
+from narcolepsy or from idiopathic hypersomnia, another relatively 
+rare sleep disorder. Many questions about modafinil remain to be answered. 
+Scientists do not know, for example, how long the drug can keep people 
+awake, and they are only beginning to discover its effects on judgment, 
+reaction time and other aspects of cognitive and physical performance. 
+In one study, by Dr. Ross Pigeau, Dr. Joseph Baranski and their colleagues 
+at the Canadian Defense and Civil Institute of Environmental Medicine, 
+41 military reservists were deprived of sleep for 64 hours, given 
+modafinil, an amphetamine or a dummy medication and were required 
+to perform a repeated series of cognitive tasks. Those subjects on 
+modafinil and amphetamines performed significantly better than those 
+given a placebo. But the modafinil group, while experiencing fewer 
+side effects than the amphetamine group, was also more likely to be 
+overconfident, overestimating abilities after performance declined 
+_ a problem that, if it proved common, could severely limit the drug's 
+use in the general population. The biggest unanswered question about 
+modafinil, however, is: How does it work? Central nervous system stimulants 
+like amphetamines achieve their effects by increasing levels of chemical 
+messengers in areas of the brain associated with arousal, and also 
+with pleasure and locomotor activity. In particular, amphetamines 
+act on a brain chemical called dopamine, which scientists believe 
+is responsible for the euphoria the drugs produce and also their potential 
+for abuse. Modafinil, in contrast, does not appear to affect dopamine, 
+or if it does, it does so only very weakly. Nor does the drug seem 
+to target other neurotransmitters _ adrenaline and serotonin, for 
+example _ affected by amphetamines. Caffeine blocks the action of 
+the chemical substance adenosine, which scientists believe promotes 
+sleep. But modafinil, studies have found, seems indifferent to adenosine 
+as well. Instead, work by Dr. Michel Jouvet, a French sleep researcher, 
+and his colleagues suggests that modafinil increases cellular activity 
+in an area of the brain adjacent to the suprachiasmatic nucleus, or 
+SCN, the body's circadian clock. And this fits nicely with scientists' 
+best guess as to how the brain maintains wakefulness, a theory developed 
+by Edgar of Stanford. According to Edgar's theory, the sleep-wake 
+cycle represents a battle between oppositional forces: the SCN, on 
+the one hand, and the pressure to sleep on the other. The SCN, through 
+communication with other brain areas, acts like an alarm ringing throughout 
+the day to fight back sleepiness and maintain wakefulness. In the 
+morning, when sleep pressure for humans is low, the SCN does not need 
+to work very hard to keep a person awake. But as the day goes on, 
+sleep pressure builds, and the bell rings louder and louder to fight 
+off fatigue. At night, the clock's output diminishes, the clock stops 
+ringing and the built-up sleep pressure rushes in, swooping the tired 
+day warrior into the Land of Nod. Modafinil, Edgar and others believe, 
+may act by somehow invoking the clock's natural alerting mechanism, 
+keeping the alarm ``ringing'' well beyond the time when it normally 
+shuts off. And if this is the case, modafinil and other drugs like 
+it would offer the possibility of literally doing away with sleep, 
+fooling the body into staying ``naturally'' awake for long periods. 
+Would such a drug be a cure for shift workers and jet lagged travelers 
+and overworked mothers with bills to pay and reports to file? Who 
+would be permitted to take it? Police officers? Soldiers? Airplane 
+pilots? These are questions, says Dr. David Dinges, chief of the Division 
+of Sleep and Chronobiology in psychiatry at the University of Pennsylvania, 
+that society will have to address sooner or later, as the new generation 
+of wake-promoting drugs emerges. ``We are on an inexorable march to 
+uncovering the biology of wakefulness and manipulating it,'' Dinges 
+said. Modafinil may not live up to expectations. ``But when such a 
+drug does arrive, it will change the world. Is it OK for us to become 
+a nation that doesn't sleep? Until we know what sleep is for, and 
+why it is so overwhelming, we're not going to be able to say it's 
+OK to find a substitute for it.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981205.1000.0395 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers say they have identified a particular Gene variation that 
+causes HIV to accelerate rapidly and become AIDS. Researchers at the 
+national cancer institute say a small percentage of AIDS patients 
+has the variation. Some forms of the Gene can block the rapid spread 
+of HIV, but other variations can cause the disease to speed up. The 
+discovery could help the search for a vaccine. 
+</TEXT>
+</DOC>

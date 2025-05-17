@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NYT19981031.0068 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A New York Times article and its headline, with excerpts from a Web 
+site praising activities of the ruling Taliban movement of Afghanistan, 
+referred incompletely to the site's relationship to the Afghan government. 
+There is no connection, according to Taliban representatives in the 
+United States, who say that the official Web site is www.taleban.com. 
+N.Y. Times News Service. 
+</TEXT>
+</DOC>

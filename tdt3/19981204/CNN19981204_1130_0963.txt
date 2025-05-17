@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> CNN19981204.1130.0963 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Good news on employment. Even though manufacturing layoffs continue. 
+I'm Myron Kandel at the cnnfn newsdesk in New York with this edition 
+of "Dollars & Sense." The unemployment rate fell in November to 4.4%, 
+the lowest level since last spring. And job creation was surprisingly 
+strong, 267,000 new jobs were created. Helped by a boom in the construction 
+and holiday retail industries. That more than offset continued weakness 
+in manufacturing. Overall, economists say the strong employment report 
+may mean the federal reserve will not cut interest rates again when 
+its policymakers meet later this month. Still, corporate America continues 
+to swing the job cutting ax. Johnson & Johnson will eliminate 4,100 
+jobs, more than 4% of its workforce. The cuts will come over the next 
+18 months as the health care giant closes 36 factories. How do we 
+reconcile strong job growth on one hand, and big layoffs on the other? 
+Underlying all of this is very strong productivity gains and efficiency 
+gains. And also deflationary pressures emanating from those productivity 
+gains. That's forcing big mergers, that's forcing people to try to 
+deal with falling prices and layoffs are one of the ways to try to 
+keep profit growth up when your prices of output are falling. In total, 
+about 36,000 job cuts were announced just this week. That includes 
+cutbacks from such companies as Boeing, Exxon, mobil, and bankAmerica. 
+</TEXT>
+</DOC>

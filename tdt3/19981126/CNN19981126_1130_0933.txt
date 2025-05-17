@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981126.1130.0933 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At least 92 people were killed when two trains collided today in India. 
+141 people were injured. 
+</TEXT>
+</DOC>

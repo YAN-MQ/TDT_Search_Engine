@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981124.1600.0097 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's a done deal! America online announced today it's acquiring Netscape 
+communications in a $4.2 billion stock swap. The key part of the deal 
+could be the involvement of sun Microsystems. Sun should now see widespread 
+distribution of Java, its programming language which allows developers 
+to write applications that will run on any operating system. That 
+could pose a challenge to computer giant Microsoft. 
+</TEXT>
+</DOC>

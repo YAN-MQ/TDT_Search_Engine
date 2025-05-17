@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> CNN19981023.1600.0567 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is the month to promote breast cancer awareness and detection. 
+Doctors in the midwest are about to test a new way to screen for the 
+disease. They say it could be more reliable than the traditional breast 
+X-Ray. Dan Rutz explains. Creating beautiful designs brings a certain 
+satisfaction to briony foy. It also helps distract her from a nagging 
+fear of breast cancer. Her mother died of it at an early age, and 
+like many middle-aged women, briony's breast tissue is naturally lumpy 
+and dense. That makes cancer screening difficult. While a lot of attention 
+is focused on the importance of breast cancer screening, much less 
+is said about its limitations. Blue is bad in this color-coded example 
+of 21st century cancer detection. Professor hadassa degani of Israel's 
+weizmann institute uses mri images, which require no X-Rays, to distinguish 
+cancerous from benign breast lumps. Breast cancer, because of the 
+need to have early detection and accurate means of diagnosis, is probably 
+one of the first areas that I as a woman or as a scientist would like 
+to see this potential of the method being implemented. In Wisconsin, 
+Dr. Frederick kelcz has been using mri for several years as a tiebreaker, 
+to help rule cancer in or out for women whose standard examinations 
+are inconclusive. And it's basically those patients in whom we've 
+done the mammography, we've done the ultrasound. We still can't figure 
+out what's going on and we're somewhat concerned about what we see. 
+Now kelcz and some Chicago area doctors will help test mri as a General 
+screening tool for breast cancer. Women with tumors of unknown origin 
+will be routinely offered mri in addition to biopsies, where suspicious 
+tissue is removed and examined under a microscope. If the electronic 
+imaging proves reliable, it could eventually reduce the need for such 
+surgical biopsies. All women stand to gain if the new technology works, 
+especially those, like briony foy, whose families have been hardest 
+hit by breast cancer. I have four younger sisters, I have nieces, 
+there's a lot of people out there. And not just worried about breast 
+cancer. Once proven to be accurate, degani says the color-code diagnosis 
+could be used for finding cancers elsewhere in the body early enough 
+to save more lives. Dan Rutz, CNN, Madison, Wisconsin. 
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981212.1130.0507 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with the "CNN Headline News Weather" 
+forecast for today and into Sunday. A slow-moving area of low pressure 
+will move from the gulf coast states through the carolinas and Florida, 
+producing generally some light rain and possibly a few thunderstorms 
+in Florida. It will be quiet from New England through the Great Lakes 
+and plains states to the southwest. But a strong storm, once again, 
+will move into the northwest with some heavy rains, mountain snows 
+and strong and gusty winds. Highs today, mostly 30s, 40s and 50s around 
+the country. A few 60s and 70s across Florida and in the desert southwest. 
+Looking ahead to Monday -- the rain and snow and wind pushed toward 
+the northern rocky mountains with some lingering showers in Florida. 
+On Tuesday, cooler air is accompanying that into the northern plains 
+states. We'll see a few snowshowers over the upper midwest. Rain showers 
+in the northwest. Wednesday, same situation. Temperatures range from 
+20s and 30s north to 60s and 70s south. Don't forget, four-day forecasts 
+for more than 7,200 cities at CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981102.1600.0450 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Kids who drink bottled water, rather than tap water, may pay the price 
+in the dental chair. Dentists warn some children are developing more 
+cavities because they are drinking bottled water, which is not fluoridated. 
+Tooth decay declined dramatically when fluoride was added to public 
+water systems. Some producers are responding to parents' concerns 
+by selling fluoridated bottled water. Experts also suggest prescription 
+fluoride tablets. 
+</TEXT>
+</DOC>

@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> APW19981021.0876 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+New techniques may improve the chances of successful bone marrow transplants 
+in cancer victims who do not have good tissue matches with donors. 
+Marrow transplants are a potentially lifesaving treatment of last 
+resort for some victims of leukemia and other types of cancer. However, 
+about one-quarter of patients who might benefit cannot have transplants 
+because doctors are unable to find a closely matched donor. Without 
+a good match of tissue types, the transplant is likely to fail, often 
+because the patient's body attacks the foreign marrow. Now, doctors 
+from the University of Perugia in Italy and the Weizmann Institute 
+in Rehovot, Israel, report a potential way around this in a study 
+in Thursday's issue of the New England Journal of Medicine. The new 
+method, described by Dr. Franco Aversa, appears to offer a reasonable 
+chance of success among those in whom only a partial match can be 
+found. It is based on giving patients much larger than usual doses 
+of donated marrow. The donor receives growth hormone that trigger 
+the release of large numbers of marrow cells into the bloodstream. 
+These cells are then strained from the donors' blood. The marrow is 
+cleansed to remove blood cells that can trigger a misguided attack 
+by the body's immune system. After 18 months, 12 of the 43 patients 
+treated this way were alive and free of disease. However, doctors 
+cautioned that rebuilding of the patients' immune systems was poor, 
+and infections were a common cause of death. In another report in 
+the journal, Dr. Takehiko Sasazuki of Kyushu University in Fukuoka, 
+Japan, reported a way of fine-tuning donor matching using genetic 
+analysis. Their report showed that matching up some of the genes that 
+control the immune system are especially important. They said that 
+this more in-depth matching of donor and recipient can improve the 
+success rate, even when the two sides would ordinarily be considered 
+to have identical tissue types. In an accompanying editorial, Jon 
+J. van Rood and Machteld Oudshoorn of Leiden University Medical Center 
+in the Netherlands said the studies are milestones in marrow transplantation. 
+``It is equally clear,'' they wrote, ``that many other milestones 
+will have to be passed before not only all patients have donors, but 
+also all are cured.'' 
+</TEXT>
+</DOC>

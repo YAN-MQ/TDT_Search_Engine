@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981026.2130.0046 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+From Atlanta, good evening. Lynne Russell with your "CNN Headline 
+News." There have been several powerful storms but not with the force 
+of hurricane mitch. With an average 180 miles an hour of the winds, 
+forecasters say it's the strongest of the season. In Honduras, people 
+are bracing for the worst. The storm has yet to hit. There are reports 
+of flooding. Warnings have been posted for the coast from Nick with 
+a ga to swan island, which is uninhabited. It was centered 110 miles 
+west of the coast of Honduras move ing northwest eight miles an hour. 
+It has become stronger. In Miami, they are expecting it to remain 
+dangerous over the next 24 hours. 
+</TEXT>
+</DOC>

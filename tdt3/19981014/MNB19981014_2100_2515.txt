@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> MNB19981014.2100.2515 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The stock market advanced across the board today. Dow Jones industrial 
+average up 30.5 points. NASDAQ gained 31.5 to close at 1540. 
+</TEXT>
+</DOC>

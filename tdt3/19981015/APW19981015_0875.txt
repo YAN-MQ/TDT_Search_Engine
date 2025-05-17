@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> APW19981015.0875 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+AMERICAN LEADERS NEW YORK (AP)-Sales, 4 p.m. price and net change 
+of the 10 most active American Stock Exchange issues, trading nationally 
+at more than $1. Name Volume Last Chg. SPDR 19,521,600 105 1-32 Up 
+4 15-32 DJIA Diamnds 1,158,700 83 1-8 Up 3 7-16 SP MidCap 1,062,500 
+58 3-4 Up 2 3-32 GreyWolf 1,060,700 1 1-8 Up 1-16 Keane 907,000 345-8 
+Up 2 1-2 ViacomB 878,200 60 11-16 Up 11-16 FstAustPrm 812,300 55-8 
+Up 1-16 PriceComm s 741,300 7 3-4 Down 1-8 NaborsInd 582,600 16 Up 
+2 1-8 NextelST 00 514,100 155-8 Down 2 1-8 
+</TEXT>
+</DOC>

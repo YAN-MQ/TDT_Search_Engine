@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981022.2130.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And in Texas, the flooded Colorado river has topped the record 46 
+foot Mark and could reach 48 1/2 feet by tomorrow. 
+</TEXT>
+</DOC>

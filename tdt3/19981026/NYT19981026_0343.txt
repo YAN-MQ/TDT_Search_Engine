@@ -1,0 +1,49 @@
+<DOC>
+<DOCNO> NYT19981026.0343 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Stock prices were mixed in relatively subdued trading Monday, a session 
+highlighted by a computer glitch on the New York Stock Exchange that 
+caused a trading halt of nearly an hour. The halt was a result of 
+the failure of a switch that sends orders from the exchange to brokers' 
+trading posts. It is the first time trading has been delayed in nearly 
+three years. On Dec. 18, 1995, the start of trading on the New York 
+Stock Exchange was delayed for an hour because of a series of computer 
+glitches. But traders said that since Monday's trading halt took place 
+in the afternoon, it was potentially much more disruptive. ``If this 
+had been a pretty heavy day, it could have been a big problem,'' said 
+one stock trader, who asked not to be identified. As it turned out, 
+trading volume on the New York Stock Exchange was the lightest since 
+Aug. 24, with just 609.9 million shares changing hands. Stocks opened 
+lower but then rose on the strength of a powerful performance on European 
+exchanges. Shares rallied across the Continent after the Bank of Italy 
+followed other central banks and cut interest rates. Better than expected 
+earnings reports from a number of companies also lifted the Dow Jones 
+industrial average early in the day. But it lost ground later. The 
+blue-chip index fell 20.08 points, to 8,432.21. Broader market averages 
+did better, however, and small-cap stocks continued to rally. The 
+Standard &AMP; Poor's 500-stock index gained 1.65 points, or 0.15 
+percent, to 1,072.32. The Nasdaq composite index jumped 31.12 points, 
+or 1.84 percent, to 1,724.98. The Russell 2000 index, which is made 
+up of largely small-cap issues, gained 5.02 points, or 1.37 percent, 
+to 372.07. The Nasdaq, which is laden with high-technology companies, 
+got a big boost from a report showing that in the third quarter worldwide 
+personal-computer shipments surged 13.7 percent. ``People are reading 
+these numbers and thinking that the technology companies can grow 
+in a slow-growth environment,'' said Michael Molnar, a managing director 
+in retail sales and trading at Salomon Smith Barney. Dell Computer 
+rose 4\, to 62{; Intel was up 1 11/16, to 88 15/16, and Cisco Systems 
+gained 2 11/16, to 61 3/8. Among Dow stocks, AT&AMP;T and American 
+Express both posted gains after reporting strong third-quarter earnings. 
+AT&AMP;T rose 7/16, to 64 1/4, after the company said it earned $1 
+a share in the period, better than the 95 cents most analysts had 
+expected. American Express shares rose 1/2, to 88 1/8, after it reported 
+earnings that were slightly above analysts' estimates. Byron Wien, 
+U.S. equity strategist at Morgan Stanley Dean Witter, said third-quarter 
+earnings reports have been something of a pleasant surprise. Wien 
+has spent the last two weeks traveling in Asia. ``When I left, everyone 
+was convinced earnings would be a disaster,'' he said. ``That has 
+not been the case.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> APW19981105.1222 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Determining an accurate casualty count from Hurricane Mitch has been 
+complicated because of downed communications links, duplicate reporting 
+of victims, shifting populations and the general confusion surrounding 
+an international disaster. As the storm hovered over Honduras for 
+five days last week, officials said dozens, then hundreds, then possibly 
+2,000 had died in widespread flooding. That estimate rocketed to as 
+high as 7,000 but was based on reports from multiple and sometimes 
+duplicate sources, including local mayors, radio stations and army 
+helicopter crews. Government Minister Delmer Urbizo said Thursday 
+that 6,076 Hondurans had died. The number of missing had been estimated 
+at 11,000 but was lowered to 4,621 on Thursday. The government lowered 
+its number of homeless from 1 million to 569,007. The movement of 
+people escaping flooding and moving into and out of shelters made 
+a precise count impossible, officials said. Meanwhile, Nicaragua's 
+death toll climbed Thursday from an estimated 2,400 to 4,000, Nicaraguan 
+President Arnoldo Aleman told the Mexican television network Televisa. 
+El Salvador's numbers remained the same: 239 dead and 135 missing. 
+Guatemala said it had 194 dead and an unknown number of people missing. 
+When a precise death count can be made is unknown. In Mexico City, 
+there still is uncertainty over how many died in the 1985 earthquake: 
+The government has said 6,000 killed, while unofficial estimates put 
+the number at 9,500 or more. An engineering firm was helping Honduras' 
+Ministry of Government create a computer database to compile more 
+reliable statistics based on reports from the military, the Red Cross, 
+non-governmental agencies, and state and local officials. The amount 
+of information has increased as telephone lines and access to remote 
+towns is restored, but some areas have yet to be reached, and searches 
+continue for more victims. Reporting from hard-hit capital of Honduras, 
+Tegucigalpa, also was affected by the death in a helicopter crash 
+of Mayor Cesar Armando Castellanos, which provoked confusion in an 
+already-overwhelmed municipal government. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981025.1130.0455 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The leading edge of hurricane Mitch is already bringing rain to Jamaica. 
+At last report, the storm was centered just about 230 miles southwest 
+of kingston. Forecasters say Mitch is getting stronger. Top sustained 
+winds are estimated at 125 mile an hour. Mitch could dump up to five 
+inches of rain on Jamaica before moving along a Track that could take 
+it toward Cuba or the caymen islands. 
+</TEXT>
+</DOC>

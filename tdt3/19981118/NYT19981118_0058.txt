@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> NYT19981118.0058 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+When America Online bought the small Israeli start-up company Mirabilis 
+in June for $287 million, people in the industry scratched their heads 
+and wondered what the buyer was getting. Mirabilis makes a software 
+program called ICQ for chat and instant messaging that has been distributed 
+free to Internet users, who give it a cultish dedication that one 
+executive likened to fans' devotion to the Grateful Dead. Analysts 
+wondered how America Online would recoup its investment in Mirabilis, 
+which had yet to make a profit from its grass-roots chatters, without 
+offending them. Many ICQ members wrote notes of protest on the company's 
+Web site (www.icq.com) after the sale, expressing fears of commercialization. 
+Since the sale, America Online has publicly kept its distance from 
+ICQ, although it is managing the business closely and has installed 
+a senior America Online executive, Fred Singer, as chief operating 
+officer of the Mirabilis unit, now called ICQ. With ICQ's latest version 
+a few weeks away from public release, there are now some clues to 
+a possible strategy. The new software contains all the features of 
+a Web gateway, or portal, built right into its control panel, and 
+to accommodate the large international audience of the product, translates 
+information it finds into any language. A variety of search engines, 
+like Alta Vista and Excite, as well as news, financial and weather 
+sites and a dictionary are among the features provided _ though, at 
+least initially, they are not paying to be included. This means that 
+an ICQ user need not open a separate Web-browser program to find some 
+information. ``This is a communication tool with a sophisticated search 
+integrated into it,'' said Anya Sacharow of Jupiter communications. 
+``It's redefining search and navigation.'' Through ICQ, America Online 
+appears to be seeking to go beyond the so-called portals in keeping 
+Web users within its own confines _ all the better to present advertisers 
+with a semicaptive audience. But there may be limits to America Online's 
+ability to promote ICQ directly. ``AOL can't really put its brand 
+near ICQ, because ICQ users will become totally alienated by that,'' 
+Ms. Sacharow said. Singer said the ICQ user base had grown by 60 percent 
+since the acquisition, to 21 million users. That compares with America 
+Online's subscriber base of 13 million users. Is the new strategy 
+the first step toward introducing advertising into the ICQ community? 
+Singer's answer to that question was cryptic. ``Because the community 
+is so large and powerful, and usage is so high, what we're trying 
+to do is make it better, build an audience,'' he said. ``The good 
+news is if you have a community like this one, and we can continue 
+to provide for them and make them happy, the other issues will solve 
+themselves.'' NYT-11-15-98 1835EST 
+</TEXT>
+</DOC>

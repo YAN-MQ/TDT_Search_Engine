@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981107.1600.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the threat of disease is growing in central America, after hurricane 
+mitch struck the area. 
+</TEXT>
+</DOC>

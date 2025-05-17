@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981206.1130.0587 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Good news on the job front for college seniors. A study released today 
+by Michigan state University indicates a college degree, plus technical 
+or computer skills, should equal a successful job search. Recruiters 
+are hitting college campuses earlier to look for people to hire, and 
+employers are hiring at about the same rate as last year. The school's 
+28th annual recruiting trends survey found that engineering and computer 
+science are the hottest fields. 
+</TEXT>
+</DOC>

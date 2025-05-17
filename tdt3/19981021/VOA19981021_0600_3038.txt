@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981021.0600.3038 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. stocks Tuesday rose 39 points, a fifth straight increase, buoyed 
+by Chase Manhattan and other major U.S. companies reporting better-than-expected 
+earnings, spurring optimism the worst of the bear market is over. 
+The Dow Jones Industrial Average opens for business today at 8,506. 
+That's the first time the Dow has been above 8,500 since late August. 
+</TEXT>
+</DOC>

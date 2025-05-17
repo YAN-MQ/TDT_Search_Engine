@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981106.0130.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the U.N. security council has unanimously passed a resolution 
+condemning Iraq and demanding it cooperate with U.N. weapons inspectors. 
+But it does not authorize the use of military force. 
+</TEXT>
+</DOC>

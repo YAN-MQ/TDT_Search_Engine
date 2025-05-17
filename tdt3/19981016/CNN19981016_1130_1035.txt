@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981016.1130.1035 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Earnings news continue to roll in. Strong sales of prescription and 
+over-the-counter drugs helped boost the profit margin at Merck. The 
+drug giant's third quarter profits rose 14%, beating Wall Street estimates. 
+Dow component caterpillar reporting its profits fell 13% in the third 
+quarter, well below analyst's estimates. And Kellogg's warning that 
+profits will fall about 20% from a year ago. Taking a look at how 
+those stocks are doing -- 
+</TEXT>
+</DOC>

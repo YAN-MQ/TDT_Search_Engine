@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981103.1600.0123 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Michigan, Geoffrey Fieger cast his ballot. He's perhaps best known 
+as an attorney for assisted suicide advocate, Jack kevorkian. He's 
+running against republican incumbent, John Engler. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981125.1130.0503 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Chinese President Jiang Zemin arrived in Japan today for a landmark 
+state visit. He is the first Chinese head of state to visit Japan. 
+During the talks, Japanese leaders plan to apologize for their country's 
+wartime atrocities against China. 
+</TEXT>
+</DOC>

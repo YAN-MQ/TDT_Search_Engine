@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981218.1600.3069 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Once again, Dow Jones Industrial Average closing up 27 points. This 
+is Breck Artery. 
+</TEXT>
+</DOC>

@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> NYT19981029.0407 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In its eighth day, the Microsoft antitrust trial shifted into a slower 
+gear as a senior executive of America Online was led through a painstaking 
+cross-examination in which he was asked to define technical acronyms 
+and parse the fine print of contract terms. By the end of the day, 
+Microsoft Corp.'s defense team had made a few points and scored one 
+clear victory _ it had dragged the cross-examination out so long that 
+the government did not have time to show videotaped testimony from 
+the company's chairman, Bill Gates. Though not scheduled to appear 
+in person, Gates is the absent star of the trial. In the opening session 
+last week, the government used a few minutes of the lengthy taped 
+deposition, showing an apparently uncomfortable Gates saying he was 
+not involved in planning moves that Microsoft made in the Internet 
+software market which the Justice Department asserts were illegal. 
+The Justice Department contends that when set alongside contradictory 
+internal e-mail that Gates himself wrote about those moves, the taped 
+deposition is incriminating. ``We think the videotape offers a pretty 
+fair opportunity to judge Gates' credibility,'' said David Boies, 
+the Justice Department's trial lawyer. Microsoft replies that the 
+videotaped deposition shows that Gates is telling the truth, but is 
+understandably not being too cooperative as the target of a government 
+prosecution. ``What you will see is a witness that doesn't let the 
+government put words in his mouth, and a witness who repeatedly defends 
+Microsoft's right to innovate,'' said Mark Murray, a company spokesman. 
+But the taped testimony will not be seen until sometime next week, 
+at the earliest, thanks to the methodical questioning style of Microsoft's 
+lead lawyer, John Warden. The Justice Department and 20 states suing 
+Microsoft have vowed to show five or six hours of the 20 hours of 
+the pretrial deposition of Gates, taken in August. Yet they want to 
+do it between the scheduled appearances of witnesses at the trial. 
+Court sessions are not held on Friday, and the next government witness, 
+Avadis Tevanian, a senior vice president of Apple Computer is scheduled 
+to take the stand on Monday morning. In court on Thursday, Warden 
+used his second day of cross-examining David Colburn, a senior vice 
+president of America Online, to try to portray Microsoft's dealings 
+with its business partners and competitors as standard practice in 
+the computer industry. The government says that Microsoft used its 
+monopoly power in personal-computer operating systems to persuade 
+America Online, the United States' largest online service, to agree 
+to an exclusionary deal that stifled competition in the market for 
+software used to browse the World Wide Web. Microsoft's main rival 
+in the browser market is Netscape Communications Corp. In March 1996, 
+America Online says it agreed to make Microsoft's Internet Explorer 
+its main browser in exchange for a choice spot on the Windows desktop 
+_ the prime real estate in computing, since 90 percent of new personal 
+computers are shipped with Microsoft's Windows operating systems. 
+Microsoft replies that there is nothing exclusionary or illegal about 
+its contract with America Online. To further his ``everybody does 
+it'' defense, Warden focused on America Online's contract with Netscape 
+for a so-called instant messaging feature within its online service. 
+Instant messaging allows two computer users who are online at the 
+same time to exchange typed messages with each other immediately _ 
+the equivalent of a typed version of a telephone conversation. The 
+language of the September 1997 contract between Netscape and America 
+Online does prohibit America Online from promoting software from Netscape's 
+major rivals on its instant-messaging screens. ``Why,'' Warden asked, 
+``are these prohibitive provisions in the agreement?'' Colburn replied 
+that as part of the deal, Netscape wanted to make sure competitors' 
+products were not promoted _ precisely the kind of conduct Microsoft 
+is accused of doing illegally. When he got his turn with the witness, 
+Boies sought to point out that things that are legal for most companies 
+often are not legal for a company with monopoly power, which the government 
+alleges Microsoft possesses. Besides, Boies asked Colburn whether 
+its instant messaging feature was a method for distributing browser 
+software. Not ordinarily, Colburn replied. Typically, he said, ``a 
+user who comes to the instant messaging area already has a browser.'' 
+Warden finished by asking Colburn whether it was true that although 
+Microsoft's Internet Explorer is the default browser shipped with 
+the online service's software, ``America Online subscribers have the 
+free and unfettered opportunity to use Netscape's browser if they 
+so choose?'' ``Yes,'' Colburn replied, ``if they can figure out how 
+to get it. It's not easy.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981207.1130.0709 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Colon cancer is the number two cause of cancer deaths in the United 
+States. But if detected early, it is often curable. Which is why researchers 
+at Johns Hopkins University began looking for the earliest possible 
+sign of the disease. What they found is a genetic defect in four out 
+of ten colon cancer patients. It's a Gene that fails to do its job 
+of shutting down cell growth. What's unusual here is that we see the 
+same abnormality, not just in the cancer, but also in the normal tissue 
+of the same patients. The next step is to learn if having this defect, 
+greatly increases the chances of getting colon cancer at some time 
+in life. For the latest health news online, check out CNN.com/health. 
+for "your health," armie jarin, "Headline News." 
+</TEXT>
+</DOC>

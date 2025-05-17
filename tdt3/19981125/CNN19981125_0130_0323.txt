@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981125.0130.0323 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have more on the economy, including Wall Street numbers, in 
+consumer news at 46 past the hour. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981201.1130.1036 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's a treat for some, an addiction for others. Starbucks is happy. 
+The coffeemaker says its sales jumped 6% for the four-week period 
+ended november 22nd. That's compared to the same period last year. 
+</TEXT>
+</DOC>

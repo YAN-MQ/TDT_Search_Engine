@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981204.2130.0915 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The nation's unemployment rate fell 0.2% last month thanks in part 
+to holiday hiring. The labor department reported the November unemployment 
+rate was at 4.4%. 
+</TEXT>
+</DOC>

@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> NYT19981207.0417 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Here are the major options to shore up Social Security, with their 
+pros and cons: INDIVIDUAL INVESTMENT ACCOUNTS PROS: An opportunity 
+for nearly all workers to build wealth by investing in stocks and 
+bonds. Higher rates of return than from the current system. Still 
+receive a guaranteed benefit payment but lower than under the current 
+system. CONS: Individuals face the risks of financial markets. Unequal 
+benefits depending on investing skill or luck. Costs of administering 
+140 million accounts would be steep. Would require deep cuts in guaranteed 
+benefits or large tax increases. GOVERNMENT INVESTMENT PROS: Much 
+lower administrative costs than individual accounts. Market risks 
+would be spread across income levels and generations. Returns could 
+close a substantial portion of the financial gap facing the system. 
+CONS: Makes government a major force in stock and bond markets, raising 
+the possibility of Washington meddling in private enterprise. Investment 
+decisions subject to politics. RAISING RETIREMENT AGE PROS: Would 
+reflect increased life expectancies. Further increases would keep 
+constant the portion of adult life spent in retirement. Could eliminate 
+some long-term problems. CONS: Already scheduled to rise gradually 
+over the next two decades to 67. People who do physical work cannot 
+be expected to continue working longer than they do now. Raising the 
+age would hurt older workers who lose their jobs. CAP ON TAXABLE EARNINGS 
+PROS: Raising the amount of income taxed from the current limit of 
+$68,400 puts much of the burden for fixing Social Security on those 
+who can afford it most. Cap leaves a greater portion of total earnings 
+untaxed than in the past. CONS: Amounts to a substantial tax increase. 
+Social Security is already a relatively bad deal for upper income 
+people, and raising the cap would make it worse. REDUCING COST OF 
+LIVING ADJUSTMENTS PROS: Many economists think the consumer price 
+index overstates inflation and gives Social Security recipients a 
+bigger increase than is justified. CONS: Some economists think the 
+consumer price index understates the cost of living for the elderly. 
+REDUCING BENEFITS FOR THE WEALTHY PROS: Places the burden on those 
+who can most afford it either through tax increases or benefit reductions. 
+Cutting benefits by 30 percent for people with retirement income above 
+$60,000 a year and by 85 percent for people with retirement income 
+over $110,000 a year would eliminate three-quarters of the program's 
+long-term problems. CONS: A big tax increase. Taxing benefits might 
+unduly hurt people who get high levels of benefits but have little 
+or no other income. 
+</TEXT>
+</DOC>

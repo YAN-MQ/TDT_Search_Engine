@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981211.1600.1046 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Declining food and energy costs led to a surprising drop in producer 
+prices last month. We know manufacturing is quite weak. In fact, it's 
+in decline. And to see weak producer numbers in that kind of environment's 
+really not surprising. But we're also seeing soft cpi numbers, particularly 
+in the service sector, and that's unusual when you're operating so 
+close to full employment as we are today. That cpi report, by the 
+way, comes next week. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981227.1830.0591 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Across southern states, electrical workers are racing to restore pour 
+to homes and businesses. In Virginia, families are still waiting it 
+out in shelters. Virginia power officials open to have service restored 
+to all customers by wednesday. 
+</TEXT>
+</DOC>

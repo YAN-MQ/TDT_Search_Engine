@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981128.1600.1530 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+visit cnn.com/online for links to this and other sites. that's "what's 
+on-line." 
+</TEXT>
+</DOC>

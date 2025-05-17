@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981221.2130.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton will begin the holiday week focusing on anything 
+but impeachment. 
+</TEXT>
+</DOC>

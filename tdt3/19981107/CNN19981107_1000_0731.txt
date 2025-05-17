@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981107.1000.0731 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Many health experts say it's the first installment of one of the best 
+online medical resources available. "USA today" reports a comprehensive 
+emergency medical textbook is being linked to Internet search engines 
+this week. Emedicine.com works by letting users input specific medical 
+symptoms. The site then suggests several possible causes of the problem. 
+400 doctors contributed to the site. Drug companies are sponsoring 
+links. 
+</TEXT>
+</DOC>

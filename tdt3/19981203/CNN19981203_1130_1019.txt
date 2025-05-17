@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981203.1130.1019 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Federated department stores' November sales fell 0.2% despite what 
+the company said was a strong showing over Thanksgiving weekend. 
+</TEXT>
+</DOC>

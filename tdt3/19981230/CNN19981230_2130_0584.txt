@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> CNN19981230.2130.0584 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+1999 is right around the corner, but it may take longer to get here 
+than you think -- one second longer, that is. Anne Kellan explains 
+in this edition of "tech trends." On December 31st, just before the 
+clock strikes midnight in Greenwich, England -- that's 7:00 P.M. eastern 
+standard time -- the world gets an extra second, a leap second of 
+time. Astronomers say it's needed to keep the world's clocks in sync 
+with the earth's rotation. And we now know that the rotation of the 
+earth is slowing down very slightly. And that's why we have a leap 
+second. The tide causes the earth's rotation to slow down. About every 
+year or year and a half, we do need to add a leap second to take into 
+account the slowing down of the rotation of the earth and to synchronize 
+atomic time with astronomical time. Astronomicaclocks keep time according 
+to the earth's rotation, while atomic clocks are more precise and 
+keep time by the unchanging vibrations or oscillations of a radioactive 
+atom. U.S. naval observatory master clock. The amic clock, the world's 
+official timekeeper, has had 22 leap-second adjustments since 1972. 
+Without tjem, those lost seconds would add up. Imagine thousands of 
+years from now, sunrise occurring at noon, or sunset at midnight. 
+The U.S. naval observatory in Washington, D.C., is in charge of making 
+sure that extra second is programmed into computers onboard global 
+positioning satellites that send out the correct time to people on 
+earth. If seconds matter a lot to you, this $200 watch by sharper 
+image has a tiny receiver in it that picks up signals from the atomic 
+clock. What can you do to get in sync with earth's "real time"? On 
+new year's eve, when your glass is in the air and the countdown is 
+under way, "wait a second!" Ann Kellan, CNN, Atlanta.@ 
+</TEXT>
+</DOC>

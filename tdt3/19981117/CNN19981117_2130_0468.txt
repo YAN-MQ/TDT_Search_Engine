@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981117.2130.0468 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Wednesday. Rain and snow move away from New England 
+to be replaced by high pressure. High pressure will also build into 
+the northwestern U.S. but we will see some lingering snow showers 
+over the northern Rockies as a storm moves into the upper midwest, 
+producing rain and snow, and in fact, near-blizzard conditions in 
+some parts of North Dakota and Minnesota because of strong winds associated 
+with this system. Highs through that region will be in only the 20s 
+and 30s on Wednesday. We'll see 30s and 40s across the northeast and 
+some mild 60s, 70s and a few 80s in the south. Looking ahead to Thursday, 
+we'll see snow from the northern Great Lakes, with showers and thunderstorms 
+farther south. Some showers push into the northwest as well. Then 
+on Friday, a mix of rain and snow in the northeast, showers and storms 
+in the southeast and rain and wind in the northwest and just some 
+lingering snow showers northeast on Saturday. 
+</TEXT>
+</DOC>

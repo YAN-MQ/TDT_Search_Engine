@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> MNB19981027.2100.3467 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+John Glenn, flying for the second time in space today. He circumstanceled 
+the earth three times in 1962, and the first American orbital mission. 
+The flight crew is expected to arrive at launch pad 39-B at about 
+11:15 this morning, another hour and 15 minutes. Com check, over. 
+You're clear. Welcome aboard, John Glenn. All systems are go aboard 
+discovery. Weather continuing to look very good. It seems it appropriate 
+to say to E shuttle discovery crew, good luck, have a safe flight, 
+and to say once again, "godspeed, John Glenn." T minus 10, nine, eight. 
+We have a go. Five, four, three, two, one. Booster ignition and liftoff 
+of the discovery with a crew of six astronaut heroes, one American 
+legend. 
+</TEXT>
+</DOC>

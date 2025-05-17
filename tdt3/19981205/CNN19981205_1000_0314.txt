@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981205.1000.0314 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A federal jury in Manhattan has awarded $750,000 to the family of 
+a 5-year old boy killed by an air bag. Yesterday, jurors ruled Daimler-Chrysler 
+was 50% responsible for Michael crespo's death during a family vacation 
+to Puerto Rico in 1995. This case is the first of its kind to reach 
+trial. Daimler-Chrysler is denouncing the verdict. It says crespo's 
+father drove their rented minivan the wrong way on a Street and hit 
+another car head on. The company says the boy would have lived, had 
+his father made sure he was wearing a seat belt. 
+</TEXT>
+</DOC>

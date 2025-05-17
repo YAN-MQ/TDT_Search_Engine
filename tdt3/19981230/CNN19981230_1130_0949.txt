@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981230.1130.0949 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A grand jury report is due today in the bombing of the Oklahoma City 
+federal building. They have returned one indictment. No details on 
+who is indicted. 
+</TEXT>
+</DOC>

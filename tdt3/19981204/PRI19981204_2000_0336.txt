@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> PRI19981204.2000.0336 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is NPR News. Support for NPR comes from Sodexho Mariott Services, 
+proving innovative approaches to food and facilities management services 
+in health care, education, and corporations. Sodexhomarriott.com. 
+The World is made possible, in part, by Merc, pharmaceutical research 
+dedicated to preventing disease and improving health. Merc, committed 
+to bringing out the best in medicine. This The World, I am Lisa Mullins. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981212.0130.0391 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Officials say the death toll has climbed to at least 80 people after 
+the crash of a Thai airways jet in southern Thailand Friday. At least 
+50 of the 146 people aboard survived. Police say the Airbus went down 
+as it tried to make an emergency landing in a heavy rainstorm. The 
+weather and swampy conditions have made it difficult for ambulances 
+to reach the crash site. 
+</TEXT>
+</DOC>

@@ -1,0 +1,123 @@
+<DOC>
+<DOCNO> NYT19981103.0261 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Currency traders attacked the lira in August, and were repelled when 
+the central bank intervened to make it clear that it would maintain 
+Italy's link to the euro, the single continental currency that comes 
+into official use on Jan. 1. Antonio Fazio, the Italian central bank 
+president, disclosed details of this summer's unheralded currency 
+battle in testimony before a Parliament committee last Thursday. With 
+the Russian financial system in meltdown and global investors shunning 
+risk, he said, traders had bet heavily that the lira would sink in 
+value, buying futures contracts that would insure big gains if it 
+did. They backed off when the central bank signaled through its own 
+purchases of the lira on the open market that come what may, Italy 
+would support its own currency in preparation for the introduction 
+of the euro, the currency that will replace it. For Italians, the 
+strength afforded by the lira's lock to the euro was reassuring. Indeed, 
+while the advent of the new currency is still weeks away, the euro 
+is already a financial force, both in currency trading and in European 
+capital markets, where it has begun to alter the ways in which governments 
+do business. As the euro approaches, European capital markets are 
+melding together. After Jan. 1, all securities will be denominated 
+in euros, and the currency will be used for electronic commerce. Not 
+until January 2002 will euro notes and coins enter circulation. But 
+a vigorous market for euro-style bonds _ so-called euro-fungibles, 
+government or corporate securities issued with the pledge of payment 
+in euros _ already exists. After a fitful start in 1997, fresh issues 
+of these securities averaged $16.6 billion a month in the first half 
+of 1998. Paola Lamedica, a bond strategist with Paribas in London, 
+called the volume ``above any realistic expectation,'' despite a slump 
+since August, when global markets plunged. Now, with new bonds denominated 
+in euros, and thus no currency-exchange risk, investors in Milan, 
+like those in Paris, can shop Europe for the lowest prices and highest 
+yields, and they are doing so, she said. As a result, countries that 
+are comparative spendthrifts, such as Belgium or Italy, are likely 
+to find it harder to finance their operations if they continue paying 
+their way by accumulating debt. So high was the level of public debt 
+in the two countries _ more than 120 percent of their gross domestic 
+products, double that of Germany and France _ that European officials 
+bent the rules to admit Italy and Belgium to the euro club, in which 
+total debt was not supposed to exceed 60 percent of national output. 
+Both countries have pledged to bring the level down. So is the party 
+over? Not necessarily, experts say, though the price of an entry ticket 
+may have gone up dramatically. In the past, accumulating debt had 
+been relatively easy, given the captive audience European nations 
+enjoyed for their government securities. With high savings rates and 
+a lackluster stock market, for example, Italians scooped up their 
+government's notes as the investment of choice. Now, however, there 
+will be a wide range of options. Indeed, Vincent Truglia, managing 
+director for sovereign risk at Moody's Investor Service in New York, 
+compares Europeans to New Yorkers in the 1970s, when the city's fiscal 
+crisis left few local financial institutions feeling obliged to purchase 
+municipal bonds. ``There's no large captive audience anymore,'' he 
+said of Europe as the new currency approaches. Lacking a central European 
+government and the equivalent of U.S. Treasury bonds, European nations, 
+much like American states and Canadian provinces, he said, will be 
+competing with each other, ``at lower prices and higher interest rates.'' 
+In fact, some analysts use that comparison with North American markets 
+for state and provincial bonds to estimate future European bond spreads. 
+Stephane Vanadia, bond strategist with Lehman Brothers in London, 
+believes that future spreads between, say, Italian and German bonds 
+will rarely exceed 50 basis points, or one-half of a percentage point, 
+except perhaps in times of severe economic stress. ``It could be raised 
+in case of recession,'' he said, but in normal market conditions, 
+he expects 20- to 30-basis-point spreads. This past February, Italy 
+offered the largest euro-denominated bond issue thus far, bonds worth 
+the equivalent of $7.2 billion. Sweden and Finland have followed suit 
+with lesser amounts. The appetite for these bonds has been ferocious. 
+Much of the buying, traders say, is by Japanese banks and other financial 
+institutions eager to broaden their bond portfolios, which had been 
+overweighted toward the dollar because of the fragmentation of European 
+currencies. Indeed, some of the dollar's recent weakness is attributable, 
+they say, to Japanese institutions' liquidating dollar holdings in 
+exchange for the euro. So where are the limits for European governments? 
+Analysts say that, in part at least, the Maastricht treaty, the 1991 
+agreement establishing the single currency, which sought to give the 
+euro a firm foundation by requiring low inflation and public debt 
+levels, will rein in European spending. Under the treaty terms, governments 
+whose deficit levels exceed 3 percent of output or debt levels surpass 
+60 percent of output are threatened, theoretically, with penalties. 
+While that may be fine as long as European economies grow, a severe 
+test will come whenever European economies slip into the next recession, 
+and governments are tempted to spend their way out of it. Still no 
+one is quite sure whether the proposed penalties will stick. And with 
+left-leaning governments now in power in Germany, France and Italy 
+_ the major nations among the 11 first-stage euro participants _ there 
+is political demand for neo-Keynesian pump priming to stimulate growth 
+and reduce unemployment. Given that political pressure, and the hard 
+realities of high joblessness, their interpretation of Maastricht's 
+guidelines may prove to be extremely liberal. Despite Maastricht's 
+strictures, said Truglia of Moody's, ``the bottom line is governments 
+are free to do what they want.'' Thus, bond markets, searching for 
+criteria to judge risk, are adding Europe's political risks to the 
+calculation of economic fundamentals _ and notably, the risk of nations' 
+backing out of the euro. ``From a theoretical point of view,'' Ms. 
+Lamedica of Paribas said, ``it's definitely possible,'' given that 
+neither the Maastricht treaty nor subsequent agreements forbid it. 
+And indeed, among the criteria Vanadia of Lehman Brothers uses to 
+judge national risk is a ``cessation risk,'' _ the chance that a country 
+might reintroduce a national currency. Indeed, speculators who attacked 
+the lira in August were betting on just that. On Aug. 28, Fazio said, 
+as the dollar took a beating against European currencies, Italy's 
+central bank noticed heavy trading in lire and German marks, as traders 
+bet that the lira, with the dollar, would be pulled down. In forward 
+contracts pegged to Jan. 2, 1999, one day after the euro's introduction, 
+speculators bet that as many as 999 lire would be needed to purchase 
+a German mark, against 988 then. In the end, the central bank _ by 
+merely showing its face, and then by spending about $300 million supporting 
+the lira's value _ fended off the attack. Paradoxically, many experts 
+believe that of the three largest nations in the euro club _ Germany, 
+France and Italy _ France runs the greatest risk of leaving, because 
+of low public acceptance of the single currency. In a referendum, 
+only 51 percent of the French voted in favor of adopting the euro; 
+in recent public opinion surveys, support has dropped to about 45 
+percent. In July, though, Paribas canvassed thousands of its clients 
+and found that only 13 percent believed there was a chance of the 
+euro agreement breaking down, compared with 39 percent in December 
+1997. ``The main threat,'' Ms. Lamedica said, ``would be political 
+disquiet over fiscal policy, if you entered a period of stress.'' 
+</TEXT>
+</DOC>

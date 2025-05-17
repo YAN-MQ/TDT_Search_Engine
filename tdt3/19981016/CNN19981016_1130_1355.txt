@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981016.1130.1355 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In golf, there's a three-way tie for the lead as the third round of 
+the Las Vegas invitational tees off today. Robert damrun, David ogrin, 
+and Bob tway are all at 11 under par. Mike Sammond, "Headline Sports." 
+</TEXT>
+</DOC>

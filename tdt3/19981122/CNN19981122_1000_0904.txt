@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981122.1000.0904 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton warns U.S. troops "signs of danger" are intensifying 
+from north Korea. He directed the comment to troops stationed in south 
+Korea, which he's visiting. 
+</TEXT>
+</DOC>

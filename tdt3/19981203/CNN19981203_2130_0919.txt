@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981203.2130.0919 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton announced a plan for tightening government standards 
+for purifying water. He pledged more than $870 million for preventive 
+measures to help purify the country's water supply. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981202.1600.1022 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And 9,000 pink slips will go out to Exxon and mobil employees in the 
+wake of their $80 billion merger announced yesterday. Exxon and mobil 
+plan to slash their combined global workforce by 7%. Together, they 
+plan to save $2.8 billion a year. Much of that is expected to come 
+from the elimination of overlapping positions. 
+</TEXT>
+</DOC>

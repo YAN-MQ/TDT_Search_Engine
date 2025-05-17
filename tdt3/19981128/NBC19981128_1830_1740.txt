@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981128.1830.1740 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's "NBC nightly news" for this Saturday. I'm Soledad O'Brien. 
+I'll see you tomorrow morning on "today" and right back here again 
+tomorrow night. 
+</TEXT>
+</DOC>

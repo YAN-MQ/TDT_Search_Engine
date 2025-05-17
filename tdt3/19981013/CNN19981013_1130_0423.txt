@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981013.1130.0423 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA's Mars global surveyor is sending back images of a violent planet. 
+The spacecraft orbiting Mars has clocked winds at 350 miles an hour. 
+It's also seen evidence of flooding a thousand times greater than 
+any on earth. Planetary scientists say the water may have resulted 
+from an asteroid impact. They say photos show that floodwaters exploded 
+from craters at 100 miles per hour and carved canyons in a matter 
+of weeks. 
+</TEXT>
+</DOC>

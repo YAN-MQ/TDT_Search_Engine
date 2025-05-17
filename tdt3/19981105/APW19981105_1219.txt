@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> APW19981105.1219 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Researchers have isolated and grown human embryonic master cells in 
+a laboratory, a key step toward possibly someday creating heart, kidney 
+and other tissue to replace diseased parts of the body. Reaching a 
+goal sought by hundreds of scientists for years, researchers at the 
+University of Wisconsin, Madison, and at Johns Hopkins University 
+in Baltimore independently cultured human stem cells, the foundation 
+source of cells that during gestation form all of the body's parts. 
+The scientists also demonstrated that the cell lines would transform 
+into specific cell types, with specific functions, such as muscle, 
+bone or nerves. ``It opens the possibility for some dramatic new transplantation 
+therapies,'' said Dr. James A. Thomson of the University of Wisconsin, 
+author of a study to be published in the journal Science. The research 
+demonstrates for the first time that it's possible to culture human 
+cells that have the ability to develop into a wide variety of human 
+tissues, said John Gearhart of Johns Hopkins, author of a study to 
+be published in the Proceedings of the National Academy of Sciences. 
+``For the first time we can start considering this as a source of 
+cell or tissue types for transplant,'' Gearhart said. Although researchers 
+long ago isolated stem cells from mice and other laboratory animals, 
+work on human stem cells has been slowed by controversy. Some anti-abortion 
+groups oppose human embryo research because they consider such an 
+embryo to be a human life. Although it may be a decade or more before 
+any patient benefits from the work, Gearhart and Thomson said that 
+stem cells potentially could be used for such things as: _Growing 
+nerve cells to repair spinal injuries and restore function to paralyzed 
+limbs. _Growing heart muscle cells to replace useless scar tissue 
+after a heart attack. _Making brain cells that would secrete dopamine 
+for the treatment and control of Parkinson's disease. _Growing bone 
+marrow to replace blood-forming organs damaged by disease or radiation. 
+Bone marrow replacement has become an increasingly common therapy 
+for some types of cancers. _Making the islet cells that produce insulin 
+and, thus, creating a lifelong treatment for diabetes. This, in effect, 
+``could be a cure,'' said Thomson. _Making blood cells genetically 
+altered to resist specific diseases, such as HIV, to replace diseased 
+blood cells. Growing entire whole organs is ``another ball game,'' 
+and science is far from ready to attempt that, said Gearhart. Thomas 
+Okarma, research vice president of Geron Corp., a drug research company, 
+said his company hopes to use stem cells to regenerate failing tissues. 
+``Because these cells do not age, they could be used to generate virtually 
+limitless supply of cells and tissue for transplantation,'' Okarma 
+said. In his studies, Thomson isolated the stem cells from human embryos 
+created in a fertility clinic. He said the embryos were ``in excess'' 
+of what was needed and the clinic patients approved of the research. 
+The stem cells were grown in a culture in a way that kept them alive 
+perpetually, but unchanged. When the culture was altered slightly, 
+the cells transformed into basic body cell types, and then into clusters 
+of muscle, cartilage, bone, nerve and intestinal cells. Gearhart's 
+group did similar work, but their starting cell mass came from non-living 
+fetal tissue that had been aborted. From this, they extracted primordial 
+germ cells that then were cultured into stem cells. These, in turn, 
+transformed into other body cell types. 
+</TEXT>
+</DOC>

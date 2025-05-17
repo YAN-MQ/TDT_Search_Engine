@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981021.1600.0449 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+You may have heard HMO patients complain about their medical care, 
+and some doctors are fed up, too. 550 Texas physicians are terminating 
+their contracts with Aetna/U.S. healthcare. Many doctors in Colorado, 
+Georgia and Florida also are leaving their HMOs. They say they don't 
+get paid enough, spend too much time on red tape and want to make 
+life easier for themselves and their patients. 
+</TEXT>
+</DOC>

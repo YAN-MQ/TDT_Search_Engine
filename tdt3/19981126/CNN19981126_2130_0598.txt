@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981126.2130.0598 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Retailers across the country could see their best holiday sales in 
+years. Economists say good employment and income growth are likely 
+to make consumers more confident about spending money. 
+</TEXT>
+</DOC>

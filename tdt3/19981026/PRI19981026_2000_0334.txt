@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981026.2000.0334 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In stocks today, the NASDAQ composite index gained 32 points to close 
+at 1725. This is NPR News. 
+</TEXT>
+</DOC>

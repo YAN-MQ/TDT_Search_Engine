@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981214.1130.0412 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some survivors of last week's Thai airways crash are giving high marks 
+to rescue workers, but a thumbs down to the pilot. They say he should 
+never have tried to land a third time, after failing twice. The Airbus 
+A-310 went down about half a mile from the runway in surat thani, 
+Thailand. It was raining heavily at the time, and the airport's instrument 
+guidance system was out of service. A Thai aviation official says 
+getting that system back on line is a Priority. 101 people died in 
+the crash, including the pilot. 45 people survived. 
+</TEXT>
+</DOC>

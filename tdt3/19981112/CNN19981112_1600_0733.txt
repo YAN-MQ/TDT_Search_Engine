@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981112.1600.0733 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This week on the cold and flu report -- avoiding contact with those 
+who are infected with a cold or the flu is an important health tip 
+to remember. But that may be next to impossible for parents, health 
+care workers and others. Here are two more realistic preventive measures. 
+Wash your hands frequently. It's one of the best ways to remove germs 
+you may have picked up before they find a way into your body. And 
+for the flu, most experts agree, your best prevention is a yearly 
+flu vaccine. 
+</TEXT>
+</DOC>

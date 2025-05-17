@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981202.2130.0384 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another historic shuttle launch is scheduled for early tomorrow, but 
+bad weather could get in the way. A mission weather forecaster says 
+approaching showers and a low cloud ceiling could violate launch parameters. 
+He says the chances for an on-time launch are 40% to 60%. Shuttle 
+"endeavour" will carry the first American piece of the international 
+space station. Construction is already a year behind schedule because 
+of Russian financial problems. 
+</TEXT>
+</DOC>

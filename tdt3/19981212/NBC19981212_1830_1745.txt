@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981212.1830.1745 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's "NBC nightly news" for this Saturday. I hope to see you weeknights 
+on "the news" on cable at 9:00 eastern on mSNBC I'm Brian Williams 
+reporting tonight from Washington. Good night. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981125.1600.1295 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+As Joe DiMaggio celebrates his 84th birthday, doctors say the hall 
+of famer's health is steadily improving. He could be removed from 
+intensive care by the end of the day. Doctors also confirmed the former 
+Yankees great did have a cancerous tumor removed from his right lung 
+last month. 
+</TEXT>
+</DOC>

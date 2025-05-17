@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981011.1300.0469 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If you're looking to save money on gasoline, maybe your next car should 
+be a Chevrolet metro. Two models of the 1999 metro top the EPA's list 
+of the most fuel-efficient gasoline vehicles. The Suzuki swift and 
+a pair of Honda civics round out the top five. Cars getting the worst 
+gas mileage were three ferraris, a Lamborghini and a Rolls-Royce. 
+</TEXT>
+</DOC>

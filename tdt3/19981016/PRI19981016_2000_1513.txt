@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981016.2000.1513 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Today the Dow Jones Industrials closed up 117 points to 8417. The 
+Nasdaq was up 10, 1621. 
+</TEXT>
+</DOC>

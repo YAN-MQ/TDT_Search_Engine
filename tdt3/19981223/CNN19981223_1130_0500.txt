@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981223.1130.0500 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There are two more shopping days until Christmas, but it may not be 
+enough for retailers. Analysts initially predicted a 4% to 5% gain 
+over last year's sales, boosted in part by lower wholesale prices. 
+But sales have not reached the predicted highs. Weather appears to 
+have influenced shopping habits. Recent warm temperatures stemmed 
+winter clothing sales. And now, snowstorms could keep many last-minute 
+buyers housebound. Some retailers are hoping after-Christmas sales 
+will compensate for the losses. 
+</TEXT>
+</DOC>

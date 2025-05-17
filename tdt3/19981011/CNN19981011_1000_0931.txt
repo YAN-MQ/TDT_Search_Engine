@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981011.1000.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- U.S. envoy Richard Holbrooke is holding 
+more talks today with Yugoslav President Milosevic. NAto may decide 
+tomorrow whether to launch air strikes against Yugoslavia. 
+</TEXT>
+</DOC>

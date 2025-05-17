@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981227.1830.1723 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's "World News Tonight" for this Sunday. I'm Morton dean in London. 
+Have a good night and a good week ahead. 
+</TEXT>
+</DOC>

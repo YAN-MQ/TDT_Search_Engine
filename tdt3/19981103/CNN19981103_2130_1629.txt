@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981103.2130.1629 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The polls are closing in Nevada, Idaho. There's a winner in the Georgia 
+Senate race. Stay tuned we'll have the latest results for you in just 
+moments. 
+</TEXT>
+</DOC>

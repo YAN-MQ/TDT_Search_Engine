@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981225.2130.0516 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for tomorrow morning. Snowfall will continue in the northwest, 
+certainly at the higher elevations. But rainfall, really, only in 
+the extreme coastal areas. Now the storm is weakening as it moves 
+on shore. Meanwhile, in the southeast, the storm continues to pull 
+away out into the atlantic, carrying the rainfall, the freezing rain, 
+the ice, the snow with it. A few snowflakes will be found in the Great 
+Lakes area as we go through the day tomorrow. But all in all, temperatures 
+are warming. Still cold in the upper midwest, but in the deep south, 
+where we've been seeing the ice and snow, daytime highs will climb 
+into the 40s, 50s, and, in some places in Texas, even into the 60s. 
+So all of that frozen precipitation will be melting. Here is a look 
+at your extended forecast. On Sunday, still some heavy rain and snow 
+in the northwest. A few scattered showers are possible in Florida. 
+You can see, still relatively warm temperatures on the map relative 
+to what we've been going through the last couple of days. And as we 
+head on into Tuesday, precipitation forecast for the east calls for 
+snowfall to the north, a few thunderstorms possible to the south. 
+For more weather information, log onto CNN.com. 
+</TEXT>
+</DOC>

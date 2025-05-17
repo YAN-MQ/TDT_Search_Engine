@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981105.1130.0707 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Acne isn't a fatal condition, but most people wouldn't have believed 
+that when they were teenagers. It's caused by dead skin cells and 
+oils that clog pores, allowing bacteria to build up. Despite popular 
+belief, eating chocolate or greasy foods doesn't cause acne, but dermatologists 
+say people should avoid foods that seem to make the problem worse. 
+While there is no instant cure for acne, there are some basic treatments 
+that can bring relief. Skin should be washed twice a day. Topical 
+creams such as benzoyl peroxide, retinoic acids and antibiotic creams 
+can be used to help unblock pores and promote healing. Ultraviolet 
+light and even natural sunlight may help more severe cases. It takes 
+time, but most people eventually outgrow acne. It usually clears up 
+when the teenage years are over. 
+</TEXT>
+</DOC>

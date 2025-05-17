@@ -1,0 +1,87 @@
+<DOC>
+<DOCNO> NYT19981230.0298 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The most worrisome economic tiding for the new year is that health 
+care premiums for employer-based coverage will rise by 10 percent 
+or more in 1999. The startling figure, based on preliminary data from 
+private employers and the program covering federal employees, is out 
+of line with scant rate increases over the last four years. And it 
+raises the question of whether managed care plans have returned to 
+the days of double-digit rate increases, abandoning their promise 
+to smother medical inflation. There are good reasons to believe the 
+answer is no. The premium increases earlier in the decade were chronic, 
+the symptom of a fee-for-service system lacking financial restraint. 
+Next year's premium increases appear likely to be temporary. Health 
+costs are rising, but not alarmingly so. It is too early to write 
+off managed care as a fleeting has-been. The first task in sorting 
+through the data is to distinguish premiums, which rise and fall in 
+cycles like prices of other types of insurance, from the underlying 
+costs of treating patients. ``It is the long-term trend in medical 
+costs, not recent movements in premiums, that ultimately rules the 
+markets,'' says Paul Ginsburg of the Center for Studying Health System 
+Change. A study by Ginsburg and Jon Gabel of KPMG Peat Marwick shows 
+that while premiums have risen only by 1 percent to 2 percent a year 
+over the last several years, medical costs have been rising by 2 percent 
+to 3 percent. Ginsburg attributes the underpricing of insurance to 
+a familiar strategy by insurers to price low during economic good 
+times to expand their share of local markets. Insurers might also 
+have misjudged how quickly medical costs would start to rise after 
+the onslaught of managed care five years ago. But whatever the reason, 
+the practice of raising premiums by less than costs had to end and 
+will do so with a vengeance next year. Federal employees already know 
+that their premiums will rise by an average of 12 percent or more. 
+Ginsburg expects premiums for employer-based coverage to rise by more 
+than 6 percent next year, about double this year's rise. But beyond 
+the catch-up in premiums, medical costs are also rising. Hospital 
+costs have risen by only 2 percent a year over the last few years 
+but are expected to grow at twice that rate next year. Drug costs 
+are rising by more than 10 percent a year, primarily because patients 
+are taking advantage of a deluge of powerful new treatments. These 
+changes are not necessarily temporary. Ginsburg, based on interviews 
+with employers, attributes some of the cost increases to a backlash 
+against restrictive types of managed care, like health maintenance 
+organizations, that do the best job controlling costs. ``Employers 
+in tight labor markets are reluctant to impose a narrow network of 
+approved specialists because of employee opposition,'' he said. There 
+is a widely held belief that the managed care revolution has run its 
+course. According to this argument, the inflation of medical costs 
+has fallen only because employers are shifting workers from high-cost 
+fee-for-service coverage into lower-cost managed care. But the savings 
+will be one time, because managed care costs are rising at the same 
+rate as those of fee for service. But the Ginsburg-Gabel study says 
+otherwise. The cost increases of nearly every type of health plan 
+have fallen drastically. Shifting among plans explains only part of 
+the cost savings. Prof. Kenneth Thorpe of Tulane University, an architect 
+of the Clinton administration's proposed health care plan, points 
+out that where managed care plans have gained a substantial market 
+presence _ in California, for example _ health costs are rising slowly. 
+But where managed care remains nascent _ as in Louisiana _ health 
+costs continue to soar. Competition, he argues, imposes a useful discipline. 
+Yet, Thorpe suggests, managed care might have done about as much as 
+possible to control costs through financial restrictions. He suggests 
+that to knock more digits off of medical inflation will require other 
+tactics. ``Managed care needs to better monitor physician care, feeding 
+back the results of studies that would tell doctors which treatments 
+work, which do not,'' he said. Beyond that, Thorpe expects managed 
+care to move into ``life-style issues _ helping patients control smoking, 
+drinking, obesity and cholesterol.'' Suppose Thorpe's vision becomes 
+reality, managed care learns to do all the right things and medical 
+costs creep up anyway. At that point, it might be time to relax. No 
+one knows how much Americans should spend on health care. If well-informed 
+consumers choose to spend money out of their own pockets for expensive 
+insurance plans that provide easy access to a panoply of specialists, 
+that should cause little second-guessing. The problem with the double-digit 
+inflation of the early 1990s was that the fee-for-service system drove 
+doctors and patients to excessively expensive and risky procedures, 
+tests and drug regimes. It may turn out that even a disciplined system 
+will prove increasingly expensive. Medical cost inflation has not 
+been as low over the last few years as steady premiums seemed to indicate. 
+Nor will medical costs be nearly as bad as next year's high-rising 
+premiums might suggest. The mundane truth is that health care costs 
+seemed destined to outstrip inflation by a percentage point or two 
+for at least the next year or so. That news is not joyous. But neither 
+is it frightening. 
+</TEXT>
+</DOC>

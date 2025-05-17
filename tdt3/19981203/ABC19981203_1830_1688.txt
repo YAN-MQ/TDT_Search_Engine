@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981203.1830.1688 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is our report on "World News Tonight." Later, on "Nightline" 
+-- the former agricultural secretary, Mike Espy. I'm Charles Gibson. 
+For all of us at ABC News, good night. 
+</TEXT>
+</DOC>

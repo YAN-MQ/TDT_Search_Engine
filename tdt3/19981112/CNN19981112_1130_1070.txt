@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981112.1130.1070 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Chrysler making its final curtain call after 70 years as the nation's 
+number three automaker. Today is Chrysler's last day trading on the 
+big board, as it begins operating with its merger partner, Daimler-Benz 
+of Germany. The new company, Daimler-Chrysler, will become the world's 
+fourth largest automaker. Regular trading in Daimler-Chrysler stock 
+begins next Tuesday under the symbol dcx. 
+</TEXT>
+</DOC>

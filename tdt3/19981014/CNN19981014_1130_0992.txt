@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981014.1130.0992 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street got off to a choppy start this morning, and right now, 
+stocks are struggling to maintain modest gains as investors digest 
+a mixed batch of corporate earnings reports. Keep an eye on shares 
+of apple computer today, the tech stock is expected to report earnings 
+later this afternoon. A modest rise in the U.S. dollar giving the 
+bond market a boost, 
+</TEXT>
+</DOC>

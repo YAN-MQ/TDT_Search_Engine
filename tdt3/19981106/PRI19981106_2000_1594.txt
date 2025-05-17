@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981106.2000.1594 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stocks were on the rise on Wall Street today, thanks to investor optimism 
+about the future direction of the United States. The Dow Jones Industrials 
+gained 60 points today to close at 8975. The NASDAQ climbed 19 points 
+to finish at 1857. 
+</TEXT>
+</DOC>

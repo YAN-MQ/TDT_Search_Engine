@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981105.2000.2005 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is THE WORLD, a co-production of the BBC World Service, PRI, 
+and WGBH in Lisa Mullins. 
+</TEXT>
+</DOC>

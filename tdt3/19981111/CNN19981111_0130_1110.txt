@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981111.0130.1110 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Dell computers is teaming up with Kodak to capitalize on the digital 
+camera craze. Dell says it will sell Kodak digital cameras with some 
+of its personal computers. Kodak predicts the move will boost its 
+market share and increase profits. The companies are hoping to lure 
+PC users who plan to send messages or photographs to family and friends 
+this holiday season. 
+</TEXT>
+</DOC>

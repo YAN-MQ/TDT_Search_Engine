@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981202.1130.0459 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+Forecast temperatures today, again, another very mild day in the southeast. 
+Back through the southern plains and the mid-atlantic, 60s and 70s 
+are anticipated. Cooler weather, though, has snuck in through the 
+upper midwest. Some forecast high temperatures into the 30s. We check 
+your forecast weather maps for later today on into Thursday. High 
+pressure and dry weather expected over much of the eastern half of 
+the U.S. there is a weak weather system in the southwest that will 
+push towards texas and spread showers. A storm in the pacific northwest 
+will continue to spread rain along the coast, both today and on into 
+tomorrow. And snow is expected to continue as well in some of the 
+higher elevations. A check now of the extended forecast. On Friday, 
+we'll find colder temperatures through the northern Rockies, and showers 
+and storms through the Mississippi river valley. Wet weather continues 
+along the west coast. On Saturday, rain is likely in the pacific northwest, 
+with snow back through the dakotas and northern Minnesota and showers 
+back through the Great Lakes. On Sunday, again, the potential for 
+some rain in the pacific northwest. More showers and storms back through 
+much of the plains. For more weather information, log into CNN.com. 
+</TEXT>
+</DOC>

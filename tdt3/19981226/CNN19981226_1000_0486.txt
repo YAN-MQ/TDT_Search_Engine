@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981226.1000.0486 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney from the CNN weather center with your "Headline 
+News weather update." A cold front continues to move off the east 
+coast today. And we're watching an area of low pressure move across 
+the Great Lakes. This will cause snow showers across most of the lakes 
+with a new cold front moving into the northern plains by late Sunday. 
+Look for two areas of low pressure in the west -- one causing showers 
+and snow showers across the Rockies, the other causing rainfall in 
+the northwest. High temperatures will be in the single digits, teens, 
+20s and 30s for much of the northeast and into the Rockies. You'll 
+see 40s, 50s and 60s for the southwest into southern Florida. The 
+extended forecast includes heavy rain and snow in the west on Monday 
+with a mix of rain, snow and even thunderstorms in the east and the 
+southeast. These will continue into Tuesday with snow showers across 
+the northern plains and heavy rain in the pacific northwest forecast. 
+A mix takes over in the west on Wednesday. You'll see snow showers 
+and snow continuing through the Great Lakes, with scattered showers 
+across the southeast. The extended forecast for more than 7,000 cities 
+is at CNN.com. 
+</TEXT>
+</DOC>

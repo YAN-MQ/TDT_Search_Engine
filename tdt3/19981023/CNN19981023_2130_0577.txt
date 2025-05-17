@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981023.2130.0577 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News weather" 
+forecast for Saturday. A cold front pushing into the northwest will 
+bring a round of wet windy weather to the western United States, along 
+with some snow in the mountains. Other than that, look for a few showers 
+through the plains states and some rain showers along Florida's east 
+coast. Things will be warming up in parts of the east. A few 50s in 
+northern New England but the rest of the east will see 60s and 70s. 
+Look for highs in just the 50s across the pacific northwest. Looking 
+ahead then to Sunday, rain and wind through the southwest with a Few 
+showers over the upper midwest as well. For Monday, scattered showers 
+in the southwest, thunderstorms in south texas. Things begin to warm 
+up a bit in the west. On Tuesday, scattered showers will reach from 
+the northwest into south texas. The coolest air will be across northern 
+New England. Don't forget, you can find four-day forecasts now for 
+more than 7,200 cities on CNN interactive. The address is CNN.com. 
+</TEXT>
+</DOC>

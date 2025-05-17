@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981014.0130.0976 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Airlines are cracking down again on carry-on baggage. They have installed 
+plexiglass templates on X-Ray machines. The openings in the templates 
+match the size of a bag that fits under the seat or in the overhead 
+compartment. If the bag can't go through the opening, you can't take 
+it on board with you. United, Delta and continental have been testing 
+the system at New York's laguardia airport. The new rule is to go 
+in effect next month. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981213.1000.1324 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On the ice, Buffalo extended its unbeaten streak to seven games with 
+a 4-1 victory over Boston. Dominik Hasek got his league-leading 15th 
+win and stopped 36 shots. 
+</TEXT>
+</DOC>

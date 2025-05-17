@@ -1,0 +1,206 @@
+<DOC>
+<DOCNO> NYT19981028.0216 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Despite recent stock market fluctuations _ or maybe because of them 
+_ investments remain hot cocktail chatter as boomers fret about how 
+to swing a comfy retirement. The money has to go somewhere, and under 
+the mattress won't do. So how much do you need, and what investments 
+should you choose to be able to retire to that cottage on Martha's 
+Vineyard? While a whole industry of investment firms and financial 
+planners is ready to counsel you, often for a hefty fee, budget-minded 
+do-it-yourselfers are turning to inexpensive software that assesses 
+their investments, tell them how much money they will need in retirement 
+and give guidelines on investing to meet that goal. At their best, 
+these programs are simple, harvesting data from an electronic checkbook 
+to give you an accurate thumbnail appraisal of saving and spending 
+habits that will put you on track for that beach house. At their worst, 
+they resemble an Internal Revenue Service audit. Your experience with 
+them depends largely on your record keeping and financial acumen. 
+If you already have a program like Quicken or Microsoft Money and 
+keep detailed records, projecting your future is a snap. If you keep 
+old bills in a shoebox, you're in for many hours of data entry. If 
+you let your records pile up because you don't know how to organize 
+your finances, however, you might consider using these programs to 
+help you turn that pile of receipts into a sensible balance sheet. 
+I looked at the 20 best-selling financial-planning CD-ROMs and found 
+three comprehensive planners. These programs prod you through a detailed 
+questionnaire to determine your long-term financial status. They were 
+Quicken Financial Planner, which can be purchased separately or as 
+part of the popular Quicken Suite (Quicken products are the top-selling 
+planners); Microsoft's Lifetime Planner, which is integrated in the 
+MS Money Financial Suite, and Plan Retirement Quick &AMP; Easy from 
+Individual Software, which also makes Retire Ready Deluxe, which has 
+more features but was not a top 20 seller. And T.Rowe Price offers 
+a planner you can get by mail on CD-ROM or download. The plans all 
+forecast and suggest investments based on several factors, like how 
+fast you want your money to grow, how much risk you want to take and 
+how various investments (stocks, bonds, funds) have performed over 
+time. Their pie charts telling you how to divide your investments 
+can be found in any personal finance book, and even in many financial 
+firms' brochures. These cyberplanners will not replace a flesh-and-blood 
+financial planner completely, and most offer a disclaimer saying so. 
+To test these programs, I asked Kevin Condon, a partner in Baltimore-Washington 
+Financial Advisors Inc., which offers traditional financial planning 
+services, to feed the real financial dossier of a family his company 
+advises into these programs and compare the results. Condon renamed 
+the family members John, Jane and Lisa Doe. John, 56, an engineer, 
+earns $51,000 a year and plans to retire in seven years. Jane, 50, 
+makes $65,000. She retires in eight years with a pension of $38,000 
+a year and no Social Security because she's a federal employee. Lisa, 
+15, is in a private school that costs $16,500 a year and plans to 
+attend a private college costing about $30,000 a year. The Does are 
+very good savers and have invested $360,000 in 401(k) plans and about 
+$267,000 in mutual funds, individual stocks and bonds and a thrift 
+savings plan. They would like to spend $50,000 next year on a wish 
+list of items. Expenses are low, they carry little debt, and they 
+put aside more than $10,000 a year. Their planners say the Does will 
+be able to pay for Lisa's education and manage a very comfortable 
+retirement. Condon's calculations assume a assuming 3 percent inflation, 
+an 8 percent return on investments before retirement and a 6 percent 
+return after retirement, and adjust the tax each year as income changes 
+(the overall average tax is 25 percent). When Ms. Doe dies, (statistics 
+say that she will outlive her husband), she will leave Lisa an investment 
+portfolio of $3.79 million. Ah, but what do the cyberplanners say? 
+QUICKEN FINANCIAL PLANNER (Intuit, $39.95 for Planner alone or $89.95 
+for Quicken Suite 99 after $20 upgrade rebate; Windows 95, 98 and 
+NT.) Part of the power of Quicken's planner is how well it takes information 
+from your checkbook to determine your spending and saving habits _ 
+provided you already use Quicken's software. The planner will not 
+work with other companies' checkbook files, unless you have a full-featured 
+Quicken program, which will convert them to a Quicken file first. 
+Quicken's financial planner is a straightforward workbook with a lot 
+of text that is not always easy to follow. The printed 34-page users' 
+guide is clearer, telling you what to enter at each step, as well 
+as what items should wait for later steps. We entered some income 
+too early and had to go back and take it out. For those curious about 
+things like why inflation is set at 3 percent, an Expert Advise button 
+leads you to information from the financial columnist Jane Bryant 
+Quinn. To understand how changing your inflation number will affect 
+your outcome, there is a help button. Of all of the planners, this 
+one moves along the most methodically. It specifically asked about 
+a pension, which Jane Doe will receive. But it stumbled over the fact 
+that Ms. Doe, who does not pay Social Security tax, is ineligible 
+for Social Security benefits at retirement. The program insisted on 
+automatically calculating a Social Security benefit for her. We had 
+to split John Doe's benefit between and Ms. Doe and reduce the amount 
+by 33 percent to get the numbers right. ``You have to jury rig it 
+to take out her Social Security,'' said Kevin Condon, our adviser 
+for this project. ``No government employees need apply.'' In planning 
+college for Lisa, Quicken offers detailed expenses for more than 5,000 
+schools, using data provided by the College Board, a nonprofit education 
+association. We clicked on a school and got the costs for tuition, 
+books and living expenses. Condon liked the program's ``what if'' 
+capability, watching how the charts in the final report changed when 
+we fine-tuned the information entered. ``That's a great one, it modifies 
+the whole thing,'' he said. How did the Does make out? Quicken assumes 
+3 percent inflation (the long-term historical average), an 8 percent 
+return on investments before retirement and 6 percent after retirement, 
+with a 17 percent tax rate. (We did change one assumption by lengthening 
+Ms. Doe's life span by 10 years, to 95 years from 85.) When Ms. Doe, 
+the surviving spouse, dies, she leaves $10.66 million. Congratulations, 
+Lisa, you're rich. But is she that rich? Quicken's (and the other 
+cyberplanners') calculation was $7 million higher than that of the 
+flesh-and-blood planners. The discrepancy, Condon's company said, 
+stems from a couple of assumptions these electronic planners make. 
+One is that all cash left after expenses will be reinvested. Condon's 
+group assumes that some of that will be spent and some invested. (They 
+use a modest growth rate of 4 percent.) Second, Condon's plan reduces 
+the size of investment accounts in the Does' later years so Lisa will 
+not get socked by estate taxes, a problem that electronic planners 
+didn't take into account. MICROSOFT MONEY FINANCIAL SUITE 99 (Microsoft, 
+$64.95 (with $25 rebate through Nov. 30, 1999); Windows 95, 98 or 
+NT.) Microsoft has harnessed the power of multimedia for its financial 
+planner, which is an annoyance. Actors woodenly talk you through the 
+planner features on a ``movie'' tour that is worth skipping. There 
+are enough clear prompts as you go through the program itself to help 
+you fill out the forms properly. It takes a little time to grasp the 
+control button layout on the attractively designed page, but it soon 
+becomes clear. Although data entry was clearly explained, the process 
+was not very thorough. It never asked about Jane Doe's pension, and 
+we had to hunt around to find the right area (``other income'') in 
+which to list it. Asking the Help feature, ``Where do I file my pension?'' 
+sent us to a different program, the budget planner. But using ``pension'' 
+in the keyword search sent us to Other Income, right on target. The 
+program also stumbled over a $19,000 revolving loan. It wanted to 
+reduce the amount of available principle, even though it should not 
+for that type of loan. ``It's trying to amortize your loan and give 
+you a tax break you aren't due,'' noted Kevin Condon, our planning 
+adviser. MS Money also could not accept the idea that Ms. Doe would 
+get no Social Security at retirement, but a Microsoft representative 
+said that if we had imported her paycheck information from its checking 
+program, it would have spotted the zero contribution and entered it 
+accurately. It will also handle Quicken files. The program has a college 
+cost estimator that used the same database as Quicken, and it has 
+similarly impressive ``what if'' capabilities. In addition, it has 
+some nice drop-down work sheets and calculators for tallying costs 
+on the spot, and a quiz that determines your risk tolerance to see 
+if your expected returns are in line with how much risk you can stand. 
+MS Money _ assuming 3 percent inflation, an aggressive 9 percent return 
+on investments before retirement and 7 percent after, and a tax rate 
+of 19.05 _ says Lisa will be left a whopping $10.69 million. That's 
+ahead of the human planners by about the same amount as the other 
+cyberplanners. Some glitches we hit in this program might have been 
+avoided if we had first used the Microsoft checkbook program and the 
+budget planner, which would have spotted, for example, our surplus 
+cash and asked us what we wanted to do with it. As it was, we would 
+have had to have gone into Tools, then Options, then picked Stop Saving, 
+all of which would have required more knowledge than a reporter and 
+two professional planners could muster. T.ROWE PRICE RETIREMENT PLANNING 
+ANALYZER (T.Rowe Price, $19.95 on CD-ROM or $9.95 downloaded from 
+www.troweprice.com; Windows 3.1 or later.) The T.Rowe planner starts 
+with a tutorial on why you save, how money grows and how time and 
+risk affect investments. A swift tutorial demonstrates how to enter 
+numbers and use the controls so you don't need a manual, which is 
+a good thing because if you download the software from the Web, there 
+isn't one. The program then moves speedily through personal information 
+in a simple yet comprehensive way. But even though the planner starts 
+out assuming that you don't know what risk is, in the data entry section, 
+it expects you to have an understanding of asset classes and know 
+an annuity from a 401(k). The program's no-nonsense design is underscored 
+by the comments of its expert, Lynn Hopewell, the editor of The Journal 
+of Financial Planning. Clicking on advice about choosing life expectancy 
+numbers elicits this from Hopewell: ``We could give you fancy charts 
+to show your probability of living past various ages. But a simple 
+approach will do the job. Just choose 90. There is only a 10 percent 
+chance any of us will make it beyond that age.'' That kind of blunt 
+commentary has led to the description of the white-bearded Hopewell 
+as ``Burl Ives with an attitude.'' This planner did not stumble on 
+Jane Doe's lack of Social Security benefits, and it did about as well 
+in most other areas as the more complex planners. But it cannot import 
+data from your computerized checking files. And even though its price 
+is a bargain, you pay for it with a word-from-our-sponsor conclusion 
+that divvies your money among T.Rowe Price funds that it recommends. 
+The result: T.Rowe assumes a conservative 4 percent inflation but 
+an aggressive 9 percent return on investments before retirement and 
+a hefty 8 percent return after. The tax rate is 28 percent. But the 
+analysis shows that Ms. Doe still leaves a tidy sum to her daughter: 
+$10.17 million. PLAN RETIREMENT QUICK AND EASY (Individual Software 
+Inc., $19.95, Windows 3.1 and 95) Plan Retirement Quick and Easy lives 
+up to its name fairly well, but this no-frills program leaves little 
+latitude for temporary but large expenses _ like college costs _ that 
+people may need to figure in, even if they mainly have retirement 
+on their minds. This program was organized differently than the others. 
+It asks you to lump investments into taxable and tax deferred, and 
+it expects you to know the difference. It does offer work sheets at 
+the click of a button, but while they will help you get organized, 
+they still don't help with the taxable vs. tax-deferred question. 
+While the program will track two people, presumably married, it will 
+not let them retire in different years. Romantic _ but impractical. 
+It did not have a provision for insurance, and it was the only program 
+whose charts did not register a financial blip (to account for insurance 
+benefits and lowered living expenses) at the death of one spouse. 
+That said, the results were not very far off of the other planning 
+programs. The final $4 million difference is probably the effect of 
+the $170,000 for Lisa Doe's tuition, which was not removed from the 
+investment kitty. (It would have been possible to remove it as a lump 
+sum in the form of a loan. But there was no neat way of deducting 
+it year by year. A new version set for release by December will have 
+this feature.) The program assumes 4 percent inflation, a 7.5 percent 
+return on investments before and after retirement, and an 18 percent 
+tax rate before retirement and 14 percent after. Lisa Doe apparently 
+had to skip college, but her mom leaves her $14.92 million, a nice 
+consolation prize. 
+</TEXT>
+</DOC>

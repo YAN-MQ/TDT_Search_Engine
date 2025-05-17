@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981223.1130.1012 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The economy continues smooth sailing. I'm John defterios with this 
+edition of "Dollars & Sense." Revised figures show the nation's Gross 
+domestic product expanded 3.% in the third quarter. That's robust 
+but slower than reported last month. With the U.S. economy demonstrating 
+continued strong growth despite a world slump, federal reserve policimakers 
+opted to leave short term interest rates unchanged. The decision follows 
+three rate cuts since September. 
+</TEXT>
+</DOC>

@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NYT19981027.0196 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST On Tuesday, a hurricane hunter aircraft found that 
+Hurricane Mitch, once the strongest October hurricane on record and 
+tied for the fourth most powerful overall, had weakened to a Category 
+4 storm on the Saffir-Simpson intensity scale with central winds near 
+150 miles an hour. However, Hurricane Mitch will remain extremely 
+dangerous on Wednesday, as it plods slowly near the Central American 
+coast. A strong cold front will sweep into the interior Northeast 
+on Wednesday. A band of clouds and scattered showers will precede 
+the front. East of the mountains, clouds will increase Wednesday afternoon 
+as the front approaches. Weakening showers will accompany frontal 
+passage Wednesday night. High pressure will remain nearly stationary 
+over the South. Ample sunshine and mild temperatures will prevail 
+from the Tennessee valley to the Southeast and Gulf coasts. Over Florida, 
+patchy clouds and isolated showers will be limited to the extreme 
+south. A corridor of moist air will extend from southern Texas to 
+the upper Plains. Scattered thunderstorms will develop in the humid 
+air ahead of a cold front from Texas to Kansas. A vigorous jet stream 
+disturbance will pivot through the central Plains. Where this disturbance 
+intersects the conveyor belt of moist air, clusters of showers and 
+some strong thunderstorms will develop. Father west, areas of light 
+rain will affect eastern parts of Wyoming and Montana, as moist winds 
+ascend the sloping terrain. Meanwhile, a cold front will promote pockets 
+of rain and higher elevation snow from the northern Rockies to the 
+mountains of Nevada. FOCUS: Sight Loss Meteorologists suffered partial 
+blindness on Tuesday when a system failure occurred on the geostationary 
+satellite that covers eastern North America, South America and the 
+western Atlantic. The loss of sight was particularly serious since 
+clear views of powerful Hurricane Mitch over the western Caribbean 
+were no longer available. Some distorted pictures were available from 
+a satellite stationed over the eastern Pacific as technicians attempted 
+to remotely repair the ailing spacecraft. Meanwhile, reconnaissance 
+aircraft transmitted vital details about the potentially devastating 
+storm. 
+</TEXT>
+</DOC>

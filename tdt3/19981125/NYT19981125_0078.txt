@@ -1,0 +1,71 @@
+<DOC>
+<DOCNO> NYT19981125.0078 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Never has the good old Model United Nations, popular for so long among 
+the earnest high school set, seemed so pallid, so retro, so (to be 
+read with teen-age disdain) 20th century. Last week, 100 youngsters 
+from 10 to 16 years old from around the world attended a global forum 
+at the Media Laboratory at the Massachusetts Institute of Technology. 
+The forum, called the Junior Summit, is to the quaint old Mock United 
+Nations what a personal computer is to an abacus. Connected online 
+for months before they arrived for the summit, equipped with pagers 
+with e-mail functions and Power Point presentation skills, the participants 
+in the summit did not jabber about treaties and points of order. They 
+simply plotted to change the world, using technology. They planned 
+to create an online country, to be known as Nation1, where anyone 
+under 19 could automatically become a citizen. Adults would need a 
+visa, or special permission, to enter. They hashed out the idea for 
+Kidz Bank, an online bank for children's savings that could lend them 
+money for worthwhile projects, and how to develop a digital currency. 
+And they founded an online global newspaper for children. They did 
+not shoot low. ``By the year 2000, our global network shall comprise 
+around 2 million people,'' Steven James Sutton, a 15-year-old from 
+New Zealand, announced in ringing Churchillian tones on Friday as 
+he rehearsed for a presentation before a gathering of diplomats, World 
+Bank officials, corporate sponsors and assorted dignitaries. ``We 
+will have a network of school groups all across the world,'' Sutton 
+declared. ``We will have international events. We will have everyone 
+planting trees on Earth Day.'' Adults tempted to shake their heads 
+in amusement and joke about the days when 30 years was the cut-off 
+point for people who could be trusted, instead of 19, might do well 
+to note: These children are backed by almost unlimited computer power 
+from MIT, as well as millions of dollars from a Japanese magnate. 
+Isao Okawa, chairman of CSK Corp., which makes business software, 
+and Sega Enterprises Ltd., the game-maker, has agreed to contribute 
+$27 million to build a ``Center for Future Children'' next door to 
+the current Media Lab building. The donation, MIT said, is one of 
+the largest the university has received and is believed to be the 
+biggest ever made by a Japanese individual to a foreign institution. 
+It means a major expansion for the Media Lab, already known for its 
+success in winning corporate sponsors. The lab's projects tend to 
+focus on the intersection between technology and people, and range 
+from wearable computers to electronic books. In 1995, Okawa was attending 
+a meeting of the Group of Seven industrialized countries when it struck 
+him that though children have the biggest stake in the future, they 
+have almost no say in determining it, said Mitchel Resnick, the Media 
+Lab professor who is overseeing development of the center's programs. 
+The center will try ``to rethink how children live, learn and play,'' 
+Resnick said. He added: ``We want to rethink technology to make it 
+worthy of children of the future. The kids you see here today could 
+do so much more technologically if we gave them the right tools.'' 
+And with those tools, the thinking goes, childhood itself would change, 
+as children became ever more able to take on new roles. For example, 
+becoming founders of banks and newspapers _ and nations. ``I don't 
+know whether it's a pipe-dream or not, but I think we're going to 
+do this,'' said John Perry Barlow, co-founder of the Electronic Frontier 
+Foundation, which advocates freedom on the Internet, and adviser to 
+the group of youths working on the Nation1 project. ``I've never started 
+a nation before, especially in three days.'' But the children have 
+begun to show, he said, ``how they can start assembling, marshaling 
+and deploying resources in a way that I think will scare the hell 
+out of adults.'' Actually, most of the youngsters' plans would gladden 
+adults' hearts: reducing child labor, improving the environment, helping 
+disabled children and simplifying computing. Now, will adults listen? 
+``There will be those who say, `That's cute, nice to hear your voice,' 
+and go back to what they're doing,'' said Terah DeJong, 15, of India. 
+But some at the global forum formed fast friendships, he said, ``and 
+we expect to continue on for years.'' NYT-11-21-98 1539EST 
+</TEXT>
+</DOC>

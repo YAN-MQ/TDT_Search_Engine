@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981222.1130.1311 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A quick look at the college hardwood, where Stanford cruised past 
+elon college, 82-58. Mark matson finished with 13. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981215.2130.0608 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The congressional joint committee on taxation reports nearly 48 million 
+americans will owe no income taxes for 1998. That's up from 46 million 
+people who owed nothing last year. And it accounts for more than a 
+third of Americans who are required to file tax returns. A new $400 
+per child tax credit is attributed to some of the increase. The IRS 
+says part of the credit may even result in a refund for families with 
+three or more children. 
+</TEXT>
+</DOC>

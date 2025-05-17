@@ -1,0 +1,91 @@
+<DOC>
+<DOCNO> NYT19981228.0293 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+When an airplane crashes, scores of investigators descend on the site, 
+searching for the ``black box'' and piecing together the wreckage 
+in a grim effort to find out what went wrong. The investigators work 
+for an independent government agency, the National Transportation 
+Safety Board _ not for the company that built the plane, not for the 
+airline that flew it and not for the Federal Aviation Administration, 
+which gave its stamp of approval to both the manufacturer and the 
+airline. Air safety is considered too important, and human nature 
+too fragile, to allow the same people who put the plane in the air 
+to lead an investigation of a disaster that might ultimately be traced 
+back to their own mistakes in judgment. By contrast, when a drug harms 
+patients, there is no independent agency to find out what went wrong. 
+There is not even a formal program or system in place to require that 
+early signs of trouble be reported. Instead, the government relies 
+on doctors to report problems voluntarily, and the job of investigating 
+then falls to the same people who put the drug on the market in the 
+first place: the Food and Drug Administration, which approved the 
+drug, and the pharmaceutical company that manufactured it. Writing 
+in a recent issue of The New England Journal of Medicine, three doctors 
+_ Dr. Raymond Woosley of Georgetown University, and Dr. Alastair J.J. 
+Wood and Dr. C. Michael Stein of Vanderbilt University in Nashville, 
+Tenn. _ compared airplane safety and drug safety, noting that adverse 
+reactions to medication kill 100,000 Americans a year _ vastly more 
+than the number who die in plane crashes, which are nonetheless far 
+more thoroughly investigated. The doctors suggested that the United 
+States needed an independent drug-safety agency, analogous to the 
+transportation board, to investigate drug ``crashes,'' and a mandatory 
+reporting system to catch adverse drug effects as early as possible. 
+The diet drug Redux is a case in point. It was taken off the market 
+in 1997, because as part of the weight-loss combination fen-phen, 
+it was found to cause heart-valve damage. Millions of people had taken 
+fen-phen, but because of the lack of rigorous postmarketing surveillance, 
+the authors said, there was little information about how many people 
+were harmed, how the damage occurred and whether other drugs might 
+cause similar problems. A safety board might have been able to make 
+better sense of what happened, Woosley said in a telephone interview, 
+``so that when we approve the next obesity drug, we might not be creating 
+the same problem again.'' Another drug, Posicor, prescribed for high 
+blood pressure, was also taken off the market earlier this year only 
+10 months after it was approved, because of dangerous interactions 
+with more than 25 other drugs. The FDA had received reports of 400 
+health problems and 24 deaths among the 200,000 Americans who had 
+taken it, though it was not known whether these problems had actually 
+been caused by the drug. The allergy drug Seldane was also taken off 
+the market because its interactions with other drugs caused serious 
+heart problems. It had been on the market for five years and had been 
+used by tens of millions of people. (Late last year, it was reformulated 
+and released as Allegra-D.) The proposal to turn over investigations 
+of drug mishaps to a new safety board has not been well received at 
+the FDA. Officials there issued a statement saying that the agency 
+was best equipped to handle the job. ``FDA scientists who review marketing 
+applications,'' it said in part, ``have extensive knowledge of the 
+products and families of related products, which significantly benefits 
+the agency's ability to monitor the products once they are on the 
+market.'' But Woosley said that the article was not meant to criticize 
+the agency or the drug industry. ``Our intention was not so much to 
+find fault as to improve the process,'' he said, adding that a drug-safety 
+board could act as an advocate for the FDA and nudge Congress to provide 
+more money when needed. The board could help industry, too, he said, 
+by providing information about why a drug failed, or data that could 
+even help a company defend itself against unfounded liability suits. 
+Adverse effects will always show up after a drug is approved, Woosley 
+and his colleagues said, writing, ``It is simply not possible to identify 
+all the side effects of drugs before they are marketed.'' One reason 
+is that some effects may not occur frequently enough to show up in 
+studies that include hundreds or even thousands of people. A problem 
+that affects 1 percent of patients, for instance, may be easy to miss 
+in trials, because only a handful of participants may be affected. 
+But if the drug then goes to market and is taken by hundreds of thousands 
+of people, 1 percent translates into thousands of cases. In addition, 
+people who take a drug after it is marketed may be quite different 
+from those in whom it was tested: They may have different illnesses 
+and be taking medications with which the new drug has not been studied. 
+The net effect is that people who take new drugs may unwittingly become 
+subjects in a massive experiment. That experiment needs more careful 
+monitoring, Woosley said. Pointing out that the FDA has speeded up 
+its approval process, approving 92 drugs from 1996 through 1997, almost 
+twice its previous rate, the authors said that better monitoring was 
+needed more than ever. Woosley said more and more drugs with interaction 
+problems would probably come along. ``I believe the people who make 
+decisions at FDA are excellent,'' he said. ``But they shouldn't be 
+put in a situation where they have to second-guess their own decisions. 
+We don't do it with radiation or airplanes. We shouldn't do it with 
+drugs.'' 
+</TEXT>
+</DOC>

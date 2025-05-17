@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> NYT19981221.0369 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In a setback for computer users looking for deep pockets to help pay 
+the cost of dealing with year 2000 problems, J. Baker, an apparel 
+retailer, has dropped its claim that Andersen Consulting, the designer 
+of a computer system Baker installed in 1991, is liable for the system's 
+year 2000 defects. Baker had been threatening to sue New York-based 
+Andersen when the consulting company instead rushed to a Massachusetts 
+state court in August asking for a ruling that there was no basis 
+for such a suit. The contract said nothing about the year 2000. Baker 
+said Monday that as a result of a mediator's report backing Andersen 
+it had agreed that Andersen owed it nothing for year 2000 repairs. 
+Andersen is dropping its request for a state court ruling. Baker, 
+based in Canton, Mass., operates several retail clothing chains, including 
+Casual Male Big and Tall. 
+</TEXT>
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> ABC19981224.1830.1340 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For our regular report about "cutting edge" technology tonight, making 
+that everyday technology we use more efficient. And that means less 
+expensive. Almost all technology requires some kind of power source 
+to operate. The problem is some things use power even when you're 
+not using them. ABC's Lisa Stark reports, now there is a way to fix 
+that. It's lights out at the schardt household, but while the family 
+has called it quits for the night, their electric meter has not. It 
+continues to show a lot of energy is being used while the family sleeps. 
+And it's not just the refrigerator drawing power. It is the coffeemaker, 
+cordless phone, the silent television, and VCR, even the alarm system 
+and the doorbell. All using Watts of energy in stand-by mode. Stand-by 
+power is essentially invisible, you do not know you're using it. Most 
+people do not realize when the TV is sitting in the off position, 
+it is actually using some energy. Inside TVs and VCRs the circuitry 
+runs all the time to pick up the signal from the remote and to maintain 
+the clock and channel settings. It's estimated Americans spend $3.5 
+billion a year just to pay for stand-by power, generating the energy 
+needed for this power produces the same amount of pollution as 7 million 
+cars a year. When you add it up, it's a real impact, both in terms 
+of global warming, air pollution levels and costs to the consumers. 
+For years, no one thought much about this wasted energy, but now sony 
+and other manufacturers are redesigning TVs and VCRs to use less power 
+when the unit is off. For sony, the solution was simple. It basically 
+is two power supplies, one that's on all the time, and one that's 
+only on when the customer is choosing to watch TV. By putting in a 
+separate power supply, sony managed to cut the stand-by electricity 
+use on its television sets from 5 to 13 Watts an hour, to less than 
+one Watt an hour. Nationwide, the energy savings on TV and VCRs alone 
+could be $500 million a Year. The EPA has already worked to reduce 
+stand-by power in computers, it will next take aim at all that stereo 
+gear and there's plenty to target after that. Lisa Stark, ABC News, 
+Washington. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981225.1600.0495 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Authorities in long beach, California, are trying to determine the 
+cause of a water main break. It caused 1 million gallons of water 
+to pour into a residential and business neighborhood. No injuries 
+are reported, but dozens of people were evacuated. They have since 
+been allowed to return home. As many as 30 businesses were damaged 
+because of the water, and several large sinkholes have appeared. A 
+quarter-mile stretch of the pacific coast highway is closed, and could 
+stay that way for days. 
+</TEXT>
+</DOC>

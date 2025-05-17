@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981230.0500.2992 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Bank of Japan says it hopes for a smooth takeoff for the launch 
+of the euro on January 1. On December 31st, the European Union Council 
+will adopt conversion rates set by the European commission for the 
+euro. Once those rates are set, financial institutions will convert 
+prices of European shares and bonds into the euro and reprogram computers 
+to cope with the switch over. Currency dealers in Japan say they prepared 
+for months for this moment and don't anticipate any problems. 
+</TEXT>
+</DOC>

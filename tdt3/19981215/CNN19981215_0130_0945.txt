@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981215.0130.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is preparing to cap off his visit to the Middle 
+East with a summit. He will meet Tuesday with Israeli prime minister 
+Benjamin Netanyahu and palestinian authority President Yasser Arafat 
+at a border between Gaza and israel. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981016.2130.0986 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Intel wants to make sure there's a faster computer memory chip for 
+the new millennium. The world's largest computer chip maker is investing 
+$500 million in Micron technology, a top American manufacturer of 
+memory chips. In return, Intel will get a supply of chips and the 
+right to buy stock in Micron. It's part of Intel's strategy to assure 
+it has the best technology to develop faster computers in the future. 
+</TEXT>
+</DOC>

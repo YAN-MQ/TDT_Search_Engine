@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981116.1130.0476 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Time now for a check of the nation's extended weather forecast. then 
+-- we'll tell you about a light show in the skies. 
+</TEXT>
+</DOC>

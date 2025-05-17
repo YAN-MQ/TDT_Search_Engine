@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981223.0130.1274 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Georgia tech rebouned from a 41-point loss by knocking off North Carolina. 
+Collier scored 17 in the 66 dfrb 64 final. 
+</TEXT>
+</DOC>

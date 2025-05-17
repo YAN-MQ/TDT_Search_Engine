@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981219.1000.0925 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton sends a message to the Arab world to explain his 
+mission. He hopes Arabs will conclude the military action was in their 
+best interest. 
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981224.0130.0231 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Windy, cold, snowy weather is making its way across much of the United 
+States. In some parts of New York, the temperature dropped 25 degrees 
+within ten hours. In Dallas, winter weather is delaying air traffic, 
+and that's having a Ripple effect as thousands of travelers try to 
+get to their holiday destinations. In Memphis, fed-ex says some flights 
+for overnight air delivery service have been delayed because of the 
+weather. A spokesman for fed-ex says the company plans to deliver 
+all of its christmas packages before the holiday. The sudden change 
+in weather has caught a lot of people by surprise. It's changing. 
+I mean, the beginning of December looks like summer out here. And 
+then, all of a sudden, it's snowing. I don't know what the problem 
+is. If it was snow, it would be great, but ice, we don't want, you 
+know? This isn't pretty. It's not covering the trees and the grass 
+and all that, so it's not all that pretty. 
+</TEXT>
+</DOC>

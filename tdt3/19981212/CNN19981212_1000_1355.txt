@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981212.1000.1355 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In baseball news, the Cincinnati reds have signed left-handed pitcher 
+Steve avery to a one-year deal worth $1.5 million. Outfielder Tony 
+Phillips has signed a one-year deal with Oakland. It's his second 
+step with the As. 
+</TEXT>
+</DOC>

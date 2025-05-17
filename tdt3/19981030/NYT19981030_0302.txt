@@ -1,0 +1,95 @@
+<DOC>
+<DOCNO> NYT19981030.0302 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Paying corporate employees with stock options is promoted as a way 
+to align the interests of executives and other workers with those 
+of shareholders. But while investors are encouraged to stick with 
+a stock for the long term and to hold on tight if prices slide, many 
+companies have developed a hair-trigger response to market dips when 
+it comes to options pricing. In October alone, more than 100 companies 
+revealed options repricings, either in announcements or in filings 
+with the Securities and Exchange Commission, a review of these documents 
+found, and analysts expect many more companies to join the parade. 
+By moving quickly when the market was down temporarily, some of these 
+companies gave employees a boost to their wealth when the market leaped 
+back to life _ one that would be shared only by investors who bought 
+new shares during the market dip. Some companies that have announced 
+repricings are tiny, like Interactive Flight Technologies of Phoenix, 
+which makes in-flight entertainment systems for airlines. It went 
+public in 1997 at $8 a share and gave employees options at that price. 
+But when its stock plummeted this fall, Interactive repriced all its 
+options down to 87{ cents. The stock now trades at 62{ cents. A few 
+better-known companies have also repriced options, including Ziff-Davis 
+and CMP Media, the magazine publishers; Reebok, the shoemaker, and 
+Republic Industries, H. Wayne Huizenga's network of car dealerships. 
+Ziff-Davis repriced options for all employees; the other three excluded 
+senior management. An option is the right to buy shares in the future 
+at a preset price. If the stock rises in value, the holder can profit 
+from the difference between the preset _ or ``strike'' _ price and 
+the market price when the option is exercised. Options have become 
+an increasingly important part of corporate compensation, sometimes 
+creating hundreds of millions of dollars in wealth for executives. 
+Many companies have begun extending options plans to lower-ranking 
+managers and rank-and-file workers, as well. Of course, if a stock's 
+market price falls below the strike price, the options are ``underwater'' 
+and cannot be exercised except at a loss. That is supposed to be the 
+chance the holder takes. But in this year's market turmoil, many companies 
+have rewritten options terms to spare their holders from getting wet. 
+Robert G. Monks, a principal in Lens Inc., an investment firm that 
+has long pressed to reign in executive pay, predicted that by next 
+May, when the majority of companies will have filed proxy statements, 
+``repricing options will be virtually universal.'' That view is extreme, 
+said David L. Yermack, an associate professor of finance at New York 
+University's Stern School of Business. His research, published earlier 
+this year, found that smaller companies repriced about 2 percent of 
+executive options annually from 1992 to 1995. He expects 10 percent 
+to 20 percent of companies to reprice options by next May. ``There 
+are enough firms that know how much institutional investors object 
+to repricing options and would not do it under any circumstances,'' 
+Yermack said. ``A clear third of the Fortune 500 would see it as morally 
+reprehensible.'' As for the filings in October, Yermack said that 
+``you would think people would wait more than a month or two after 
+the price drops before doing this.'' The issue was addressed last 
+Monday by John Bogle, the senior chairman and founder of the Vanguard 
+Group of mutual funds, during a speech at a conference sponsored by 
+the Investor Responsibility Research Center. Bogle urged colleagues 
+to ``take a firm stand'' against repricings that are ``grossly unfair'' 
+to shareholders. Monks said options repricings, especially when extended 
+to senior executives, showed that ``the market in executive compensation 
+has been contrived and is not an honest market.'' He denounced what 
+he called ``the fraud of options that are a one-way street _ I win 
+when I win and I still win when my shareholders lose.'' Robert Salwen 
+of the Executive Compensation Corp., a consulting firm in New York, 
+said two recent calls from clients suggested that companies were of 
+two very different minds these days. ``My first call was from a company 
+suffering underwater options that wanted advice on repricing,'' Salwen 
+said, ``and the next call was a company that wants to grant out-of-the-money 
+underwater options as an incentive to executives to bring up the stock 
+price. I've never experienced that juxtaposition before.'' A review 
+of the filings with the SEC also found two significant trends in options 
+repricing. One is to award options that vest, or become eligible to 
+be exercised, in monthly rather than annual increments. That gives 
+employees at least some of their options much sooner. The other trend 
+has showed up at companies like Royal Gold, a Denver concern with 
+royalty interests in Nevada gold-mining operations. Royal Gold repriced 
+all its outstanding options, but reduced their number by 21 percent. 
+Employees were left with the same potential economic value they had 
+before, based on an option-valuation technique known as the Black-Scholes 
+method, said Stanley Dempsey, the company's chief executive. (Some 
+54 percent of the affected options belong to him.) For options holders, 
+there is an upside and downside to such a repricing: If the stock 
+price rises to a level between the old and new strike prices, the 
+holder will now profit. But if the stock price soars above the original 
+strike price, the profit potential is limited by the reduced number 
+of options. Psychologically, however, many workers feel that they 
+are better off with such a repricing: They stand to gain even if the 
+company's prospects are not as rosy as they once might have seemed. 
+Salwen said he expected many companies to adopt this approach, which 
+is more palatable to institutional investors than a straight repricing. 
+But in highly competitive job markets, he said, ``it will not be enough 
+to calm the waters and keep people from walking'' to a rival offering 
+a bigger options package. 
+</TEXT>
+</DOC>

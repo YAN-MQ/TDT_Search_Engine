@@ -1,0 +1,133 @@
+<DOC>
+<DOCNO> NYT19981228.0291 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For six decades, conservationists in Illinois tried to save the greater 
+prairie chickens that once covered the state like its sea of grass. 
+Hunting was banned. Sanctuaries were set up. Predators were driven 
+away. Nonetheless, the showy little birds, beloved for their flamboyant 
+mating rituals, began a headlong population collapse that saw their 
+numbers fall from 25,000 statewide in 1933 to 2,000 in 1962, to fewer 
+than 50 in 1993, though they remained abundant in other Midwestern 
+states. Now a team of geneticists and ecologists from state agencies 
+and the University of Illinois has reversed that decline and, for 
+one of the first times in a wild population, documented how inbreeding 
+and loss of habitat reinforced each other to create an ``extinction 
+vortex.'' They reported their findings in a recent issue of the journal 
+Science. Biologists have suspected a genetic bottleneck _ a sharp 
+reduction in genetic diversity _ in the decline of other animals like 
+the cheetah, the Florida panther and the black-footed ferret. But 
+conclusive ``before'' and ``after'' data were not available to rule 
+out other possibilities like natural disasters, isolation or hunting. 
+In the case of the prairie chicken, said Dr. Alan Templeton, professor 
+of biology and genetics at Washington University in St. Louis: ``You 
+can see the genetic impact of what humans have done quite clearly. 
+In many cases, you can infer it. Here it is documented. That's why 
+it's so compelling.'' Ronald Westemeier, the lead author of the Science 
+article, has studied the prairie chicken, Tympanuchus cupido pinnatus, 
+for 35 years and recently retired as a wildlife ecologist with the 
+Illinois Natural History Survey. The greatest blow to the survival 
+of the Illinois prairie chicken, he said, was the introduction in 
+1837 of the steel plow, the first that could slice through the deep, 
+dense root systems of prairie plants. By the turn of the century, 
+the Illinois prairie had vanished into farms, and the heart of the 
+prairie chickens' range had disappeared. The 2-pound wild bird, which 
+was a staple of the local diet in the 1800s and was brought to Chicago 
+markets by the hundreds of thousands, survived in scattered patches, 
+especially in the south central part of Illinois, where farmers used 
+to grow red top grass, a favorite for nesting, as a cash crop. In 
+1931, the subspecies known as the heath hen (Tympanuchus cupido cupido) 
+became extinct in the eastern United States. Two years later, Illinois 
+banned the hunting of the prairie chicken. In 1962, a sanctuary, now 
+called the Prairie Ridge State Natural Area, was established in Jasper 
+County, about four miles southwest of Newton, Ill. A second grassland 
+sanctuary was established 40 miles away, in Marion County, by the 
+Nature Conservancy in 1967. But privately owned grasslands in the 
+area kept disappearing, along with their prairie chickens. By the 
+1980s, the birds were found only on the two wildlife preserves, cut 
+off by hundreds of miles from populations in other states. ``In the 
+1970s, we thought we knew everything we needed to know about preserving 
+a flock of wild birds,'' Westemeier said. But by 1973, that changed. 
+Their numbers kept falling, he said, adding, ``We found more and more 
+nests with unhatched eggs.'' By 1990, the hatching rate, which had 
+averaged between 91 and 100 percent, had dropped to an extreme low, 
+38 percent in Jasper County. By the mid 1990s, Westemeier said: ``The 
+count of males dropped as low as six on each sanctuary. We had every 
+reason to believe we were going to lose them completely.'' In Illinois, 
+this was unthinkable. Here, as in other Midwestern states where it 
+makes its home, the prairie chicken has a loyal following. ``They're 
+fun,'' said Dr. Dan Svedarsky, a wildlife biologist and member of 
+the Minnesota Prairie Chicken Society. In Rothsay, the ``Prairie Chicken 
+Capital'' of Minnesota, residents have even built a huge, illuminated 
+chicken wire and concrete statue near Interstate 94 to honor the bird. 
+Newcomers to the area, Svedarsky said, cannot believe the real prairie 
+chicken ``puts on such an unusual show.'' Scott Simpson, who manages 
+the Jasper County preserve for the Illinois Department of Natural 
+Resources, agrees. ``Once you've seen them and heard them,'' he said, 
+``it's nothing you forget.'' In a mating ritual that takes place every 
+spring, the male prairie chicken goes to communal mating grounds, 
+called leks, where each male stakes out territory and tries to woo 
+as many hens as possible. There he inflates bright orange air sacs, 
+part of his esophagus, into two orange-sized balloons on each side 
+of his head. As air is drawn into these sacs, it creates a three-syllable 
+``boom-boom-boom'' _ similar to the sound of air being blown across 
+the mouth of a bottle _ that can be heard for miles. While memorable 
+for biologists, the downside of this mating system, said Jeffrey Brawn, 
+an ecologist and co-author of the Illinois study, is that the dominant 
+male contributes disproportionately to the future gene pool, and ``if 
+there are inbreeding problems, they will be exaggerated by this system.'' 
+The researchers here wanted to know whether significant genetic differences 
+existed between the Illinois prairie chickens, which were dying out, 
+and the birds in other states, which seemed to be thriving. Dr. Ken 
+Paige, a co-author and a geneticist at the University of Illinois, 
+was concerned about the possibility of losing ``some of the things 
+that were unique about the Illinois birds'' when plans to introduce 
+prairie chickens from other states were carried out. Juan Bouzat, 
+then a doctoral student at the university, worked with Paige to compare 
+DNA from frozen tissue samples of birds that died in Illinois between 
+1974 and 1993 with DNA from blood samples of birds captured in Kansas, 
+Nebraska and Minnesota between 1992 and 1994. The comparison suggested 
+that all the birds were related but that in recent years the Illinois 
+birds had become less genetically diverse. To investigate that possibility, 
+Bouzat turned to stuffed birds he found at the Illinois Natural History 
+Survey here. Ten had been collected in the 1930s and five in the 1960s. 
+Most came from the same population in Jasper County. Bouzat was able 
+to extract DNA from tissue in the roots of the birds' feathers. He 
+found little genetic difference between the Illinois birds of the 
+1930s and present-day prairie chickens in other states. But he found 
+that the present-day prairie chickens in Illinois had lost one-third 
+of the genetic diversity of the birds that lived in the same sanctuary 
+before the genetic contraction, or bottleneck, took place. Westemeier 
+believes the gene pool diminished to the point of near certain extinction 
+in the early 1970s. To keep the state's prairie chicken population 
+from dying out, Simpson and other wildlife managers from the state's 
+Division of Natural Heritage had begun transplanting birds from Minnesota, 
+Kansas and Nebraska to Illinois. Between 1992 and 1996, they brought 
+in 518 prairie chickens. All were tracked with leg bands and some 
+with radio-telemetry tags. The new and old populations interbred, 
+and hatching rates went back up to 94 percent this year. No major 
+changes in the local environment occurred during that time, so the 
+scientists attribute the success to factors intrinsic to the breeding 
+birds. It was, they reported in Science, ``a unique example of the 
+general scenario predicted by `extinction vortex' models. These models 
+predict that demographic and genetic effects reinforce each other 
+in small populations to increase the probability of local extinction. 
+We believe that the near-complete loss of suitable grasslands and 
+satellite populations in the region drove the greater prairie chicken 
+toward this scenario.'' Robert Lacy, a population geneticist in the 
+department of conservation biology at the Brookfield Zoo in Chicago, 
+said the study has two important lessons: ``One is that there are 
+cases, like the prairie chicken, we can do something about still. 
+In other cases, we're down to the last population.'' He pointed to 
+the black-footed ferret, isolated for up to 50 years and rediscovered 
+in Wyoming in the early 1980s. The last ones were captured in the 
+hope of breeding them in captivity and releasing them into the wild. 
+Although the low numbers have been taken care of, he said, ``the ones 
+being released have lesser genetic diversity'' and, without a genetically 
+healthy population for comparison, there is ``no way of knowing whether 
+the effort to re-establish them will be compromised.'' ``Studies like 
+the prairie chicken caution us not to drop down to a single, isolated 
+population,'' he said. 
+</TEXT>
+</DOC>

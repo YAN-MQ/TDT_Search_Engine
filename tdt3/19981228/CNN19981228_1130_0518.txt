@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981228.1130.0518 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News" weather update. 
+An area of low pressure will continue moving across the gulf of Mexico 
+states, and also look for an area of low pressure to move off the 
+eastern seaboard. Both of these cold fronts will cause a chance of 
+rain and some frozen precipitation in the north. A strong front will 
+be moving through the Great Lakes with the chance of snow, mainly 
+to the north of the front, rainfall expected to the south. A high 
+pressure Ridge building in means cold temperatures to the northern 
+plains as we go into the middle of the week, and a new pacific storm 
+means generally rain for the coast with snow for the rocky mountains. 
+Temperatures across Alaska will be cold today, you'll see 16 degrees 
+at anchorage, with snow, Fairbanks will be 9 degrees below zero. Under 
+partly cloudy skies. Nationwide, temperatures will be mild in the 
+south, you'll see readings in the 60s and 70s with colder temperatures 
+in the teens 20s and 30s for the northern plains, the Great Lakes 
+and New England. The extended forecast includes heavy rain in the 
+northwest, Wednesday, with the rain-snow mix in the west Thursday 
+and snow showers lingering in the east through Friday. The extended 
+forecast for more than 7,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

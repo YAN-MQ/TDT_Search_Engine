@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> CNN19981024.1600.0606 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA says its deep space one spacecraft is on course and in good shape. 
+A rocket carrying the experimental craft took off from cape Canaveral 
+this morning, for its rendezvous with an asteroid in July. One NASA 
+official calls it a flying laboratory because of a host of new technologies 
+it's testing. Some of it seems like the stuff of science fiction. 
+Allard beutel takes a look. You're looking at a spacecraft NASA says 
+will revolutionize the way space exploration is carried out in the 
+next century. It's called deep space one. The main goal of this $150 
+million mission is to test and validate 12 new technologies considered 
+too risky to try on other flights. It's important to keep in mind 
+that a failure of a technology on deep space one, if we can diagnose 
+what that failure is, is actually a success, because we've succeeded 
+in protecting the future missions from taking risks. The most highly 
+anticipated technology on deep space one is something its chief engineer 
+acknowledges he first heard about on star trek -- An ion propulsion 
+engine. The craft moves by electrically charging the gas xenon and 
+spitting out the ionized particles. That constant thrust will add 
+as much as 20 miles an hour every day to deep space one's speed. And 
+it's 10 times more efficient than conventional spacecraft engines. 
+Deep space one's navigation system is just as innovative. By taking 
+pictures of stars and asteroids the craft is designed to know precisely 
+where it's going and how to get there, all without getting instructions 
+from NASA. And if it's not going to the target that we set for it, 
+it will change the direction that it uses for the ion propulsion system 
+or the duration of the thrusting and allow it to return to its target. 
+If all goes as planned deep space one is expected to rendezvous with 
+an asteroid next July and swoop down as close as three miles from 
+its surface. Then it's off to take the first-ever close-up images 
+of comets in the year 2001. But NASA won't have to wait that long 
+to find out whether deep space one is a success. Mission controllers 
+say most of its technologies will get a pass or fail grade within 
+a few months. Allard beutel, "Headline News." 
+</TEXT>
+</DOC>

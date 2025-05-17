@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981022.1130.1025 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Conoco debuted on the big board today in the largest initial public 
+offering ever in the United States. Dupont spinning off 30% of the 
+company for $4.4 billion dollars. And it says it plans to spin off 
+the rest of the company next year to focus on its biotech and agricultural 
+products. Checking shares of conoco -- they're up nearly $2 from the 
+initial public offering price of $23 a share. Before today, Lucent 
+Technologies held the top spot, when it went public back in 1996. 
+</TEXT>
+</DOC>

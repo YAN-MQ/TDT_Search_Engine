@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NYT19981111.0141 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A new technology intended to replace the traditional home videocassette 
+recorder is expected to get an important vote of confidence on Monday 
+with the announcement that a co-founder of Netscape Communications 
+Corp. has invested in one of two companies developing digital television 
+recording systems. nn 
+</TEXT>
+</DOC>

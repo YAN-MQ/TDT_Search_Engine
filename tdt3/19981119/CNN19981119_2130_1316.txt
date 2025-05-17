@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981119.2130.1316 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Patriots plan to move to Hartford in time for the 2001 season. 
+</TEXT>
+</DOC>

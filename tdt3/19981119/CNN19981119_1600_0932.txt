@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981119.1600.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And a high-ranking intelligence official says U.S. embassy bombing 
+suspect osama bin laden has tried to develop chemical weapons to use 
+against american troops in the Persian gulf region. 
+</TEXT>
+</DOC>

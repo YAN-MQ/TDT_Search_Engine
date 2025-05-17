@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> CNN19981231.1600.0331 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Governments and corporations the world over are busy tackling the 
+year 2000 programming glitch. But did you know the bug could be lurking 
+in your home? To show you where and help you debug, here's Kate snow 
+with part three of our series. Even in your own home, tiny computers 
+are hiding everywhere. Experts say the average household has about 
+50 microprocessors that help you cook, clean and communicate. The 
+good news is, most of them are immune to the millennium bug, they 
+simply don't care what day or year it is. You don't need to worry 
+about a regular stove or even a microwave oven, because even those 
+have clocks in them, they generally don't have calendars in them. 
+By and large, most of the systems in the home will work just fine. 
+But some home electronics may encounter trouble in 2000, especially 
+those that keep track of the date. One product that could be affected 
+is your VCR. You might want to check it with a simple test. Program 
+it to December 31st, 1999, just before midnight. Then wait five minutes 
+and see what happens. If you see Saturday pop up on the screen, your 
+VCR knows it's the year 2000. But if your VCR says Monday, it thinks 
+it's 1900. If yours is one of the confused models, don't despair. 
+There's a quick fix for the problem. On January 1st, 2000, set your 
+VCR's clock back to 1972. That's right, 1972. Like 2000, '72 was a 
+leap year that began on a Saturday. So all the dates and days of the 
+week match up. In many homes, the most obvious place to look for the 
+millennium bug is your personal computer. If you have a macintosh, 
+or use windows '98, you should be okay. Windows 95 users may have 
+some minor problems. If you have an older operating system, Ms-dos, 
+for example -- which it's still around -- windows 3.1, are not Y2K 
+compliant. They do not know about the year 2000. If you're concerned 
+about your computer, VCR or other home electronics, many manufacturers 
+have set up web sites that can help. And there are software programs 
+designed to identify and fix Y2K problems. So while your home may 
+not escape the bug completely, there are ways to squash it before 
+it does any real damage. Kate snow, "Headline News." 
+</TEXT>
+</DOC>

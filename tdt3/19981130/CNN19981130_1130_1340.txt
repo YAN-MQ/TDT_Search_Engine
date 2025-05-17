@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981130.1130.1340 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The uconn huskies take over the top spot in the new ap basketball 
+poll, replacing Duke, who lost to Cincinnati in the great Alaska shootout. 
+Maryland moved up three spots to second. North Carolina is third. 
+Duke falling to fourth. 
+</TEXT>
+</DOC>

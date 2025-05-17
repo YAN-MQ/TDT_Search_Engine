@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981120.1130.0915 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A Russian rocket carried the first part of the international space 
+station into orbit today. Officials from 16 nations participating 
+in the project watched the launch in Kazakhstan. 
+</TEXT>
+</DOC>

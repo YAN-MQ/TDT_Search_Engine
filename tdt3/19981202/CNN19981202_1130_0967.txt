@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981202.1130.0967 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The world's largest aircraft maker sharpens its ax. I'm Myron Kandel 
+in New York with this edition of "Dollars & Sense." Boeing sounds 
+an earnings alert and plans massive job cuts. It has reduced its profit 
+forecast for next year by 25% to $IS.5 billion. It's scaling back 
+production of its 747s, 757s, and 767s jets. Boeing blames the economic 
+slowdown in Asia and for employees, Boeing says it's slashing the 
+workforce by 20,000 more employees on top of the 28,000 it said it 
+was cutting back in July. Combined, that's about 20% of Boeing's global 
+workforce. 
+</TEXT>
+</DOC>

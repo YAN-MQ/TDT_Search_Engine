@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> MNB19981028.2100.3270 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+When we come back, we will take a look at what's in the morning papers 
+tomorrow morning. 
+</TEXT>
+</DOC>

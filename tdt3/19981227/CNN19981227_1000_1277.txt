@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981227.1000.1277 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Kansas city continued its domination of the raiders, 31-24. Elvis 
+Grbac tossed the game-winning touchdown to Tony Gonzalez in the third 
+quarter. The chiefs have won 17 of the past 19 meetings against Oakland. 
+</TEXT>
+</DOC>

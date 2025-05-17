@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> NYT19981112.0391 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+After a recount of ballots here in Washoe County this week, Nevada 
+officials announced Thursday that the latest tally showed that the 
+incumbent Democratic U.S. senator, Harry Reid, had defeated his Republican 
+challenger, Rep. John Ensign, by 401 votes, or less than 0.1 percent 
+of the total 435,787 votes cast in the Nov. 3 election. The delay 
+was caused by computer malfunctions and a hand recount of 5,942 misprinted 
+ballots in the county. Statewide, Reid held a 459-vote lead when results 
+were first announced last week. Ensign's local campaign manager, former 
+Gov. Robert List, said he would advise his candidate to seek a statewide 
+recount. The latest vote count _ 208,621 for Reid and 208,220 for 
+Ensign _ will go to the Nevada state Supreme Court for certification 
+Nov. 25. According to the recount, Ensign defeated Reid by 2,162 votes 
+out of 96,123 votes cast in Washoe County. Ensign has until Dec. 2 
+to to request a statewide recount. 
+</TEXT>
+</DOC>

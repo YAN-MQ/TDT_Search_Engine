@@ -1,0 +1,77 @@
+<DOC>
+<DOCNO> NYT19981202.0242 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Rarely has an urban legend been born so quickly and openly as the 
+tale that Sony's NightShot video camera could see through clothes. 
+Jay Leno joked about it: ``Hear about this new video camera that looks 
+through clothes? Well, Sony has recalled it _ and raised the price.'' 
+The government of Malaysia banned the device with its No Lux infrared 
+feature. The titillating tale rippled through the news media like 
+snickers through a sophomore science class. It had only the tiniest 
+grain of truth: in skilled hands, during the day, under just the right 
+conditions, with just the right (gauzy) fabrics, it might be possible 
+to produce an image of a body beneath. The camera could not, of course, 
+see through clothes, and there was no recall. Sony was only slightly 
+embarrassed; what the company had in mind with the No Lux feature, 
+its press release said, was ``to record nighttime activities, such 
+as a new baby sleeping.'' Even though 400,000 units had been sold, 
+the company still modified the infrared transmitters on new cameras 
+to remove even the most-remote possibility of intrusive video taping. 
+The strength of the story was a sure indication of the emotional chords 
+it struck in the collective unconscious. It illuminated the darkness 
+of our fears and fascinations about video surveillance. People are 
+increasingly nervous about being watched, yet they don't seem to have 
+lost their desire to see more themselves _ to see through the dark, 
+through walls, through the murk, to view a hidden order. Sony's camera 
+is not alone. No lux is new luxe: the latest luxury option from Cadillac 
+is a night-vision panel projected onto the windshield, to aid drivers 
+at night. Sales for night-vision equipment, ``civilianized'' from 
+military models by ITT Industries, the manufacturer of material for 
+defense and industry, are booming among boaters and hunters. Veterans 
+swear these models are inferior to less-expensive Russian models sold 
+by catalogs like Quartermaster and U.S. Cavalry; the idea of the magic 
+technology of a defeated enemy, after all, has its own appeal. The 
+Herrington catalog, devoted to the latest gadgets, describes the ITT 
+Night Mariner binoculars it offers as piercing ``the pitch black mysteries 
+of the dark.'' And ITT itself gives us a touching advertisement, showing 
+how its night-vision system found a boy lost in the snow: ``When a 
+child is lost and it's dark on the mountain, your heart breaks.'' 
+The searchers followed footprints ``until new snow fell and covered 
+them. But our Night Vision showed his tracks through the new snow. 
+...'' Here it was again, the modern myth, the most-extreme claim of 
+night vision, to see not just into the night, but through things, 
+like X-rays. Seeing through things means security, as at the airport 
+check-in scanners. Danger seen is danger disarmed; danger seen at 
+night, from a distance, makes for voyeurism. Night vision has been 
+chic since Dan Rather went to Afghanistan and the Gulf War lighted 
+up Baghdad. Creating a world that seems carved out of a single gritty-green 
+mineral is a fixture of film thrillers. In ``Patriot Games,'' Harrison 
+Ford thwarts the IRA terrorists, who are wearing night-vision goggles, 
+by hiding in the basement of a darkened house, then flipping on all 
+the lights at once. The seemingly blinded attackers scream and scratch 
+their eyes in agony. Outdoorsmen, familiar with night vision, snort 
+at the idea. In the film ``Eraser,'' there's an even more fanciful 
+futuristic version of night vision: a scope on a rifle that, like 
+a demonic sonogram, can look into houses, through not only clothes, 
+but also through layers of the body, so that its cross hairs center 
+on a beating heart. Night vision has become a familiar mode on television 
+shows like ``Cops,'' which offer furtive glimpses into the down-market 
+demimonde. The cameras on such shows send out the same sort of waves 
+as the viewer's remote control _ infrared. These waves, with lengths 
+just beyond visible light _ they're cousins to heat waves _ bounce 
+from objects back onto chips that electronically magnify them into 
+images. Spies have long used infrared; Weegee used it to capture nighttime 
+New York. L.A. chopper cops use infrared to pick out the still warm 
+engine of the stolen car from among those peacefully parked. But some 
+of us hope to find something different in the dark. Advertisements 
+for Sony's NightShot show a cat and dog caught in surreptitious embrace, 
+in some high-tech version of Edward Hicks' ``Peaceable Kingdom'' paintings. 
+The implication is that No Lux will reveal not just a secret world 
+of war and crime, but also an ideal, peaceful one _ that it will see 
+through the oppositions of daylight. Is that what we hope to see in 
+the dark? Perhaps the heat of infrared does cast some light after 
+all. 
+</TEXT>
+</DOC>

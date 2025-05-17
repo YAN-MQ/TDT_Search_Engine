@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981112.1600.0964 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Those stories and more in 15 minutes. A modest rally led by big oil 
+companies slips away in late trading. To find out where the market 
+ended, we go to the CNN Financial Newsdesk in New York, where Valerie 
+Morris is standing by. Valerie? That's right, Chuck, 
+</TEXT>
+</DOC>

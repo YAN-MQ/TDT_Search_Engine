@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981128.0130.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's question and answer time. President Clinton responds in writing 
+to the house Judiciary committee. A violent incident in Seattle sends 
+a bus plunging off a bridge and into an apartment complex. And why 
+the Pentagon may not be as ready as it once said about handling the 
+year 2000 computer bug. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981116.2130.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+tobacco companies have agreed to a $206 billion settlement of suits 
+brought by eight states. As part of the deal, cigarettemakers would 
+stop advertising on billboards and public transportation. 
+</TEXT>
+</DOC>

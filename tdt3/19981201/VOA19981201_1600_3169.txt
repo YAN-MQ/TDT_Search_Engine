@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> VOA19981201.1600.3169 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And that's our business report for this hour of VOA News Now. 
+</TEXT>
+</DOC>

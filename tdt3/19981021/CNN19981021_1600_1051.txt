@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981021.1600.1051 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Day three of the government's antitrust case against Microsoft. Prosecutors 
+claim Microsoft launched its allegedly illegal move to conquer the 
+Internet browser market more than three years ago when it made an 
+offer to take a position in Netscape communications. Microsoft lawyers 
+argue Netscape was the first to raise the possibility through a memo 
+written by Netscape's co-founder. Well, the significance of the investment 
+matter is the government is alleging this Microsoft made that a condition. 
+The facts show that it was Netscape that brought that forward. The 
+documents show that Netscape was well aware that Microsoft planned 
+to put the browser into our operating system. Netscape denies a memo 
+was ever written for such a purpose. 
+</TEXT>
+</DOC>

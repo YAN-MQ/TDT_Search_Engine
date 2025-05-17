@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981010.1600.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+U.S. special envoy Richard Holbrooke says there's been no progress 
+in negotiations to stop the violence in Kosovo. He's shuttling across 
+the Balkans in an effort trying to avert possible NATO air strikes. 
+</TEXT>
+</DOC>

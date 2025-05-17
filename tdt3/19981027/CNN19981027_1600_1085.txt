@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981027.1600.1085 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Separately, Mattel is adding a John Glenn play set to its line of 
+hot wheels racing cars and toys. Mattel is trying to capitalize on 
+Glenn's return trip to space. Scheduled for Thursday. 
+</TEXT>
+</DOC>

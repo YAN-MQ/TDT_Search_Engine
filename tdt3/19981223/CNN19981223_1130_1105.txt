@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981223.1130.1105 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The world's largest Internet service provider America online is being 
+added to the S & P. stock is soaring on the news on expectations the 
+mutual funds that track the S & P will need to buy the stock. 
+</TEXT>
+</DOC>

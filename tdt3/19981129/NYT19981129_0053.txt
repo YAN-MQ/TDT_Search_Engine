@@ -1,0 +1,116 @@
+<DOC>
+<DOCNO> NYT19981129.0053 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+To many Americans, the name Ira Magaziner is synonymous with the ill-fated 
+Clinton health care plan. But the presidential adviser's more lasting 
+legacy may prove to be the administration's laissez-faire policy on 
+Internet commerce: no taxes, no government regulations. As Magaziner 
+prepares to take leave of the White House, President Clinton and Vice 
+President Al Gore are scheduled to release with great fanfare on Monday 
+a long-awaited report by Magaziner's interagency working group in 
+electronic commerce. The report _ the foundation of the administration's 
+new Internet commerce policy _ argues for stronger consumer protection 
+and privacy rights, but like Magaziner's 1997 ``Framework for Electronic 
+Commerce,'' it clings to the insistence that these be achieved through 
+self-regulation by industries rather than dictated by the government. 
+``Self-regulation in the digital age will require the private sector 
+to engage in much greater collective action to set and enforce rules 
+than was characteristic of the Industrial Age,'' the report states. 
+Not everyone agrees with that theme, particularly as it relates to 
+consumers. One of Magaziner's most vocal critics, Marc Rotenberg of 
+the Electronic Privacy Information Center, is among those who say 
+that ``self-regulation has been a lot of smoke and mirrors.'' Rotenberg 
+insists that laws are needed to protect consumer interests and personal 
+data in the young and often free-for-all atmosphere of cyberspace. 
+Without such laws, he warns, the United States will open itself to 
+a trade war with Europe, where self-regulation has been declared incompatible 
+with laws guaranteeing strong privacy protections for consumers. The 
+European law, which took effect in October, prohibits any company 
+that does business in the European Union from transmitting personal 
+data to any nation that does not guarantee comparable privacy protections. 
+Magaziner concedes, ``If self-regulation is not working at the end 
+of the year, then I would advocate that government do more.'' On the 
+other hand, he adds: ``I would point out that just passing laws is 
+still not protecting privacy. You still have to put in place an enforcement 
+mechanism and demonstrate that you can enforce the law. So I think 
+it might be fairer for critics to say that no country has found a 
+way to do this adequately.'' Dave Farber, a professor of computer 
+science at the University of Pennsylvania and a board member of the 
+Internet civil liberties group the Electronic Frontier Foundation, 
+says the fact that the United States has won a reprieve from the European 
+Union while both sides search for mutually acceptable privacy protections 
+is a credit to Magaziner. Calling the differences over privacy ``a 
+real nightmare,'' Farber said: ``I think what he has done has kept 
+us from falling off an edge of a cliff. October came and we are still 
+doing business.'' Beyond consumer issues, the report tries to head 
+off moves by the Federal Communications Commission to regulate high-speed 
+Internet access in the United States. ``There are rumblings about 
+the FCC wanting to regulate advanced services,'' Magaziner said. ``We 
+want to make it clear that we think this would be a mistake.'' The 
+report also calls for a series of programs intended to spread the 
+Internet to developing countries quickly, using low-orbit satellite 
+links in areas that lack telephone service; to help small businesses 
+use the Internet, and to update the government's statistical and economic 
+models to help better measure the economic impact of information technology 
+industries. A final report on the administration's _ and Magaziner's 
+_ headway on cyberspace issues, the document details treaties signed 
+and laws passed in the last 18 months to keep the Internet tax free 
+and unregulated and to encourage electronic commerce with new digital 
+copyright and security protections. Those successes, said Harris Miller, 
+president of the Information Technology Association of America, a 
+trade organization, show that Magaziner proved to be ``a pivotal leader 
+at a pivotal time.'' His most important contribution, Miller said, 
+was ``the idea that the Internet and electronic commerce are not going 
+to be like traditional industries in the sense that they need to be 
+heavily regulated from birth.'' While even an outspoken critic like 
+Rotenberg gives Magaziner ``a lot of credit for his energy, his smarts, 
+and his ability to create a coherent vision for the administration,'' 
+he added, ``At the end of the day, it can be fairly asked whether 
+the administration's policy was based on self-regulation or on promoting 
+business interests.'' The paradox is that such criticism is the antithesis 
+of widespread criticism of the plan for a heavily regulated national 
+health care system that Magaziner and Hillary Rodham Clinton proposed 
+during the president's first term. Where the Internet policy is seen 
+as laissez-faire, the health care plan was criticized as government 
+meddling. And shaping Internet policy has been a comparatively low-key 
+effort, consensus driven and largely devoid of the partisan politics 
+that Magaziner largely blames for the health care plan's demise. It 
+was also an effort that began almost accidentally, without any preconceived 
+political notions or agendas, he said. ``Initially, when health care 
+failed, I actually offered to resign,'' Magaziner said in an interview 
+over the weekend. ``The president said no. He suggested that I do 
+something in a different area _ not in health care because Hillary 
+and I had both become radioactive on that subject.'' So in 1995, Magaziner 
+recalled, he and the late commerce secretary, Ron Brown, and Mickey 
+Kantor began holding hearings around the country to develop an economic 
+development strategy. ``There really was almost no electronic commerce 
+on the Internet then,'' Magaziner said. ``But it became very clear 
+to me that if we set the right environment, the Internet and electronic 
+commerce were going to explode.'' He added: ``When I presented that, 
+to be honest, I think a number of people didn't understand. But the 
+president did.'' Magaziner then set out to formulate a new policy 
+for the administration and to sell those goals domestically and abroad. 
+``Initially, there was suspicion of the United States and the fact 
+that the Internet started here and that somehow we were trying to 
+use this whole policy to further the American agenda around the world,'' 
+he said. Eventually, he said, the ``principles we began espousing 
+spread around the world.'' On an issue even more contentious than 
+electronic commerce, Magaziner recently wrapped up an agreement for 
+turning over administration of the Internet's addressing system, which 
+has historically been managed by government contractors, to a private, 
+nonprofit corporation _ a big step in Internet self- governance. Now, 
+Magaziner says he feels his role is played out. ``We accomplished 
+more than the goals we set out for,'' he said. ``I think it is a good 
+time to return to private life.'' After wrapping up his White House 
+duties in the next few days, he will join his wife and three children 
+in Rhode Island and decide what the future holds for him professionally. 
+``I think he did a very good job,'' said Farber of the Electronic 
+Frontier Foundation. ``He was very visible to the Internet community. 
+He tried very hard to get into the culture. He got online. He traveled. 
+He felt he had to meet these people.'' In the end, Farber said: ``He 
+probably decided the whole Internet community is wacko. And it probably 
+is.'' 
+</TEXT>
+</DOC>

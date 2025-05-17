@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> MNB19981120.2100.1559 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Get used to the idea of the international space station, a rocket 
+carrying the first component of the much-anticipated space station 
+took flight early this morning. The Module, named zarya, or sunrise, 
+will serve as the nerve center for the $24 billion project, is said 
+to be functioning properly. This took place in Russia. NASA expects 
+the space station to be completed in five years' time. 
+</TEXT>
+</DOC>

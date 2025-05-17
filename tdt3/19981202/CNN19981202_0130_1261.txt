@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981202.0130.1261 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+rob ticktin, "cnn headline sports." well, baseball season might be 
+over, but it sure was a wild tuesday for oriole fans. first, baltimore 
+signed free agent albert belle to a five-year, $65 million deal, the 
+richest in franchise history. shortly after, the team lost free agent 
+rafael palmeiro to the rangers. texas signed the first baseman to 
+a five-year, $45 million contract. then on tuesday night, the orioles 
+joined the dodgers and mets in a three-team swap. los angeles dealt 
+catcher charles johnson and roger cedeno to the mets for todd hundley 
+and a minor leaguer. new york then shipped johnson to baltimore for 
+armando benitez. 
+</TEXT>
+</DOC>

@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981128.1000.1360 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The red wings used a 7-goal third period to waste the canucks. 
+</TEXT>
+</DOC>

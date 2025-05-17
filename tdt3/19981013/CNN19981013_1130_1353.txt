@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981013.1130.1353 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Pittsburgh Penguins reportedly will file chapter 11 bankruptcy. 
+If a filing occurs, it will not affect Pittsburgh's day-to-day operations. 
+NHL commissioner Gary bettman is on the record as saying he will oppose 
+such a move. 
+</TEXT>
+</DOC>

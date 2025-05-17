@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981210.2130.0582 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The centers for disease control and prevention says 723 Americans 
+die each year from excessively cold weather. In a report released 
+today, the CDC says from 1979 to 1995, 12,000 people died of hypothermia. 
+Hypothermia occurs when the body temperature drops below 95 degrees. 
+Doctors say people can help prevent it by wearing layers of clothing 
+during the cold months and avoiding alcohol. 
+</TEXT>
+</DOC>

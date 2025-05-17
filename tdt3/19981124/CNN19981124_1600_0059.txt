@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981124.1600.0059 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now, back to Wall Street, where the stock market came up a bit short 
+today. Preliminary closing numbers show the Dow Jones industrial average 
+is down approximately 74 points from yesterday's record close of 374. 
+Blue chip stocks recovered this afternoon from an early 81-point loss. 
+But they fell back in the final minutes of trading. Broader markets 
+were lower as well. 
+</TEXT>
+</DOC>

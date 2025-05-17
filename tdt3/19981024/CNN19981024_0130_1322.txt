@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981024.0130.1322 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In baseball news, davey Johnson was introduced as the new manager 
+of the los Angeles Dodgers. He previously managed the Mets reds and 
+Orioles, and led them all to postseason play. 
+</TEXT>
+</DOC>

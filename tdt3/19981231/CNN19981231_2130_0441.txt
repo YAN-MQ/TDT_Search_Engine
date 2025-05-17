@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981231.2130.0441 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New research adds weight to the argument that the human brain is prewired 
+for language and learning begins early. A study published in the journal 
+"science" found infants as young as 7 months notice differences in 
+sentence structure. Scientists say that suggests recognition of symbolic 
+patterns or rules of structure may be a basic mechanism of the human 
+brain. A psychologist says the study sends parents an important message, 
+even babies are ready to learn. 
+</TEXT>
+</DOC>

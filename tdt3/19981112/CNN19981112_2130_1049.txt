@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981112.2130.1049 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The state department is issuing a travel warning, and airlines are 
+working to streamline aircraft production. Lori Waffenschmidt has 
+those stories and more in this edition of "working ahead." Due to 
+increased tension in the Persian gulf, the U.S. state department advises 
+Americans to consider departing Israel and Kuwait. We put out, occasionally, 
+travel warnings when the situation in an entire country is problematic. 
+And we would recommend that people defer travel to that particular 
+country. There is no indication how long the travel warning will be 
+in effect. Head to the Internet at travel.state.gov for further updates. 
+</TEXT>
+</DOC>

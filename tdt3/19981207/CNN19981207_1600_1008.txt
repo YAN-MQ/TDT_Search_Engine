@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981207.1600.1008 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Job cuts have soared over the past three months. Challenger, gray 
+and Christmas reports job cuts top 216,000. That's the worst level 
+in seven years. The lear corporation is the latest company to announce 
+job cuts. The Michigan-based automotive supplier is cutting 2,800 
+jobs around the world. Approximately 1,100 of those will be in north 
+America. The company will also close 18 plants. 
+</TEXT>
+</DOC>

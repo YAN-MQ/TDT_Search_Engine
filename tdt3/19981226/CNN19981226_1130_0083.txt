@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981226.1130.0083 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's an old-time Christmas holiday for hundreds of thousands in the 
+southeastern U.S. this year, as candles and fireplaces replace electricity 
+knocked out by ice storms. Virginia was hardest hit, with nearly 200,000 
+customers without power last night. Utility crews are scrambling to 
+restore service across the region. The weather has also caused havoc 
+on streets and highways. Slick roads have been blamed for at least 
+14 highway deaths. Forecasters aren't calling for more freezing rain, 
+but say the cold snap will probably continue. 
+</TEXT>
+</DOC>

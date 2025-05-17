@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981101.1300.0349 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One of the tightest races in Tuesday's elections is in New York, where 
+republican senator Alfonse D'Amato is locked in a dead heat with democratic 
+challenger Charles Schumer. That contest has set a record for the 
+most campaign contributions of any state race. In California, incumbent 
+senator Barbara boxer is fighting to keep her seat. One poll shows 
+her nine points ahead of republican challenger Matt fong. But other 
+polls say the race is too close to call. 
+</TEXT>
+</DOC>

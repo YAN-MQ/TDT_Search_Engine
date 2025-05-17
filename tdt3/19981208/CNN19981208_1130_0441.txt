@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981208.1130.0441 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+It's turned much colder in the northeast after record high temperatures 
+yesterday in a number of locations, including into the mid-70s in 
+central park in New York. Highs there today back into the low 40s. 
+Some 30s in through northern New England, where highs yesterday were 
+as warm as the lower 70s. It remains cool, too, in much of the western 
+U.S. here's the forecast showing more of the same. Wet weather in 
+the northeast, associated with that front which brought the colder 
+temperatures. We'll see that move off towards the east by late tomorrow. 
+High pressure's building into the west, and that is going to continue 
+to bring the cool temperatures down and mean, again, the threat for 
+more windy conditions in sections of the southwest. Extended forecast, 
+on Thursday, we'll look for thunderstorms along the gulf coast. Some 
+rain in the pacific northwest and flurries back through the Great 
+Lakes as temperatures remain cold through much of the midwest. On 
+Friday, showers and storms will be likely in the southeast. We'll 
+find some more showers in the pacific northwest. And as we head on 
+into Saturday, again, snow showers through the lakes and a few showers 
+likely in Florida. For even more weather information, log into CNN.com. 
+</TEXT>
+</DOC>

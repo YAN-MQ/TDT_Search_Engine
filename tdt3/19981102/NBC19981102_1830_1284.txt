@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981102.1830.1284 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+health news tonight -- the fda has approved a new treatment for rheumatoid 
+arthritis. the bioengineered drug, called "enbrel," helps stop the 
+body's immune system from attacking the joints. an estimated 2 million 
+americans suffer from rheumatoid arthritis, most of them women. 
+</TEXT>
+</DOC>

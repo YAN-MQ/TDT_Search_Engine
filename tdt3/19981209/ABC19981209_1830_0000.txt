@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981209.1830.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On "World News Tonight" this Wednesday, the president's men take their 
+best shot at convincing the Judiciary committee that he does not deserve 
+to be impeached. The controversial anti-loitering law in Chicago. 
+Will the Supreme Court let it stand? And as the computer mouse turns 
+30, we'll take "A closer look" at the future, computers that know 
+what you want, even how you feel. 
+</TEXT>
+</DOC>

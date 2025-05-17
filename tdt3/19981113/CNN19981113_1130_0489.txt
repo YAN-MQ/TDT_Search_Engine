@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981113.1130.0489 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+good news for women who suffer from recurrent urinary tract infections. 
+according to new research, they may not have to keep going back to 
+the doctor. the physician who headed up the study says many women 
+can treat themselves with antibiotics at the first sign of infection. 
+self diagnosis would save patients money and the discomfort of waiting 
+to see a doctor. 
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981125.1130.0434 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+A warm day today over much of the southeast, with highs in the 60s 
+and 70s even seasonably warm through much of the northern Great Lakes. 
+Forecast high temperatures will be in the 40s and 50s. Forecast calls 
+for on this busy travel day, some travel trouble in the pacific northwest. 
+Watch out for morning fog along the gulf coast states to give way 
+to partly cloudy conditions. And by late tomorrow, storm system moves 
+into the northeast, looks like a Wet Thanksgiving for New York City, 
+Boston, Philadelphia and back in towards Washington D.C. extended 
+forecast, on Friday we'll find rain in the pacific northwest, but 
+check out the warm temperatures through the midwest and the southeast 
+with 60s and 70s expected. That warm trend continues on into Saturday. 
+70s into the southeastern U.S. we'll find some snow in portions of 
+the northern Rockies. Good chance for rain, southern California and 
+the pacific northwest on saturday. Dry in the east. Dry, for the most 
+part, in the east on Sunday. We'll find a little bit of mixed precipitation 
+in the Great Lakes as scattered showers continue along much of the 
+west coast. For more weather information, you can log into CNN.com. 
+</TEXT>
+</DOC>

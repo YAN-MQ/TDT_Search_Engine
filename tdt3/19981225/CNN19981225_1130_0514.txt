@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981225.1130.0514 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up next, how a robot may help reveal the secrets surrounding 
+one of the most unexplored areas on earth. But first, on this Christmas 
+day, here's a check of your extended national weather forecast. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981014.1130.0619 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The second largest manufacturer of sprinklers is recalling millions 
+of sprinkler heads. Omega sprinkler heads have failed to activate 
+in nine fires over the last three years. No problems have been reported 
+with central's other models. The company stopped making Omega sprinklers 
+last month. 
+</TEXT>
+</DOC>

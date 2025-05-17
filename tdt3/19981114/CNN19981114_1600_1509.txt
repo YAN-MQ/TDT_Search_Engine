@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981114.1600.1509 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jordan's king Hussein is celebrating his 63rd birthday today. It's 
+an especially happy occasion, considering Hussein says he is cured 
+of lymph gland cancer. In Jordan, news of the king's improving health 
+gave a boost to birthday celebrations. King Hussein is in the United 
+States, undergoing treatment at the mayo clinic. He says his chemotherapy 
+is over, and there is no trace of the lymphoma. 
+</TEXT>
+</DOC>

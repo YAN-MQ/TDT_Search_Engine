@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981205.1130.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the space shuttle "endeavour" is prepping the first segment for 
+the start of construction tomorrow. 
+</TEXT>
+</DOC>

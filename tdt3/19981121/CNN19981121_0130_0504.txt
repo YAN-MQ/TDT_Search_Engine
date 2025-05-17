@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981121.0130.0504 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News" forecast. For Saturday morning, heavy rain and 
+snow in the northwest, isolated showers along the gulf coast, with 
+some lingering showers and snow showers in the northeast. By Sunday 
+morning, most of that rain will be gone along the east coast, isolated 
+showers along the gulf coast, with continued snow and rain in the 
+northeast. Otherwise, pretty nice weather across the nation. The north-central 
+U.S. could see some clouds and drizzle due to a warm front. Highs 
+on Saturday, pretty mild across the nation, Wisconsin and the northeast, 
+however, seeing highs only in the 30s. Your extended forecast for 
+Sunday, showing a warming trend across the nation. Rain, snow and 
+wind in the northwest, a rain/snow mix in the northern plains, with 
+showers over Texas and Florida. On Monday, the warmer temperatures 
+continue, with rain and wind again in the northwest. A rain/snow mix 
+over the northern plains and Great Lakes, with showers over texas. 
+And on Tuesday, that rain/snow mix with showers continues over the 
+northwest and the northern Rockies. We'll see a few showers lingering 
+over Texas. Remember, you can get your four-day forecast for more 
+than 7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

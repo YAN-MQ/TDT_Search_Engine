@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981101.1000.0423 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The air force reportedly withheld information about the possible dangers 
+of exposure to agent orange, a defoliant widely used during the Vietnam 
+war. "The San Diego union-tribune" looked at a $200 million air force 
+study. The newspaper found, the air force drafted two reports based 
+on the study. The released report downplayed the effects of agent 
+orange exposure. The withheld draft reportedly found high rates of 
+birth defects and deaths among the children of exposed veterans. It 
+also found much higher skin cancer rates among the veterans. 
+</TEXT>
+</DOC>

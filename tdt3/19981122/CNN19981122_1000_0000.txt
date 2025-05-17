@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981122.1000.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is "CNN Headline News." Good morning, I'm holly Firfer, in for 
+Judy Fortin. 
+</TEXT>
+</DOC>

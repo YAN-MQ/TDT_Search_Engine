@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981106.0130.0976 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks rose to their highest level in three months Thursday. The Dow 
+Jones industrial averaged jumped 132 points to close at 8915. Analysts 
+say the rise was due in part to federal reserve chairman Alan greenspan's 
+statement that investor fright has lessened. 
+</TEXT>
+</DOC>

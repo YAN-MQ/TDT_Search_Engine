@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> PRI19981021.2000.1980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+European space officials say their latest rocket launch cements their 
+lead in the world market for putting satellites into orbit. They were 
+speaking after the successful launch of a giant Aerean five rocket 
+from the French Guiana in South America. The Aerean five is twice 
+as powerful as its predecessor and can launch two heavy satellites 
+at the same time. From the BBC news room in London, this is Pamela 
+McCall. You're listening to THE WORLD. 
+</TEXT>
+</DOC>

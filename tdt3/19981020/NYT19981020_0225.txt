@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> NYT19981020.0225 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Q. My chiffon and sponge cakes occasionally fall while still in the 
+oven, even if I do not open the door. Why? Q. I recently made a meringue 
+frosting for a layer cake. A day later, the frosting began shrinking. 
+By the third day I was down to a bare cake. What happened? A. Although 
+these two questions may seem to have little in common, in each case, 
+the problem was that the beaten egg whites broke down. When this happens, 
+the air trapped in the mixture is released, causing it to shrink or 
+fall. As egg whites are beaten, their proteins, which start out as 
+tight, irregular coils, begin to unfurl and bond with each other. 
+Ideally, they link together, forming a loose, flexible network. The 
+air that is incorporated into the whites through beating gets trapped 
+by this network and creates that fluffy, white mound. This cloud is 
+relatively unstable, and there are several reasons it might deflate. 
+The most likely is overbeating. When egg whites are overbeaten, the 
+protein network becomes rigid (because the loose bonds between the 
+proteins strengthen). In the meringue frosting, the proteins squeezed 
+the liquid from the foam, bursting the air bubbles and releasing the 
+trapped gas. Hence, the icing shrank. (Even a perfect meringue frosting 
+will eventually break down, but overbeating hastens the process.) 
+A chiffon cake relies on beaten egg whites for leavening. When it 
+is baked, the gas trapped by the whites expands, which causes the 
+cake to rise. Overbeaten egg whites, with their firm protein network, 
+cannot stretch when the gas expands. So the cake either will not rise 
+at all or will rise only until the brittle protein network bursts. 
+Unfortunately, it is easy to overbeat egg whites. The idea is to catch 
+them when they reach their maximum volume, but before they dry out. 
+To make perfectly beaten egg whites, begin beating with an electric 
+mixer set on low. As the whites thicken, increase the speed, and gradually 
+add any sugar. If the recipe calls for cream of tartar, add it now. 
+(Rose Levy Beranbaum, the author of ``The Cake Bible,'' advises adding 
+[ teaspoon cream of tartar per egg white to prevent overbeating.) 
+The whites are ready when they form shiny peaks as the beaters are 
+lifted. If you tilt the bowl, they should slip slightly. If they cling 
+to the bowl, look coarse and clump together, you've overdone it. Then, 
+just start over. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981023.1600.1350 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Los Angeles Dodgers will officially name davey Johnson as their 
+new skipper today. The 55-year-old Johnson will replace interim manager 
+Glenn Hoffman who took over in June when Bill rusell was fired. 
+</TEXT>
+</DOC>

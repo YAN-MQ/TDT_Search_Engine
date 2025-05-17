@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981112.1600.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And several shots were fired last night at a command post in North 
+Carolina, where federal agents are searching for bombing suspect Eric 
+rudolph. The incident is under investigation. 
+</TEXT>
+</DOC>

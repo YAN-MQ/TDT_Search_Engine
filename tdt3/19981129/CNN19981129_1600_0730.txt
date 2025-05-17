@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981129.1600.0730 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It has been slow going for three men trekking across Antarctica. New 
+Zealander Peter Hillary and his two Australian colleagues are trying 
+to make an 1,800-mile journey to the South Pole and back without outside 
+assistance. Bad weather and difficult terrain have hampered their 
+efforts. They set out November 4th but have traveled only 186 miles. 
+The team had hoped to make the entire trip in about three months. 
+85 years ago, a similar expedition failed, with deadly consequences. 
+</TEXT>
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981026.0322 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST The merging of two large high-pressure systems over 
+the East will meet with some resistance as a disturbance at 15,000 
+feet over Lake Ontario migrates toward the southeast. The combination 
+of onshore winds along the New England Coast and mid-atmospheric moisture 
+streaming in from Canada will produce variable clouds and a few sprinkles 
+over the northern Appalachians and in southern New England. Maine 
+will be bright and cool while the Middle Atlantic region will have 
+streamers of clouds, but it will be seasonable. Much of the Southeast 
+will be sunny and pleasantly warm as high pressure settles over the 
+Tennessee Valley. Onshore winds in Florida will bring in ocean clouds 
+and scattered showers, mainly from Orlando southward. Intense Hurricane 
+Mitch, with central winds near 180 mph, will approach the Yucatan 
+peninsula late in the day. A cluster of clouds and showers will weaken 
+as it moves through the Middle West. Winds from the southwest will 
+draw mild, humid air into the region. A cold front will progress through 
+the northeast Plains with just some clouds and shifting winds. Clouds 
+and showers will keep temperatures below seasonal levels in the eastern 
+and central Rockies. A few strong afternoon thunderstorms may form 
+in western Texas. High pressure near Montana will promote bright but 
+cooler conditions. California and the deserts of the Southwest will 
+become mainly sunny and not as cool as in recent days. A cold front 
+will push inland across the Northwest late in the day with windswept 
+showers spreading into western Washington and Oregon. Focus: Monster 
+Storm A hurricane hunter aircraft investigating Hurricane Mitch in 
+the northwest Caribbean Sea on Monday found one of the most powerful 
+hurricanes to ever roam the Atlantic Ocean. With winds near 180 mph 
+and a central pressure of 26.72 inches of mercury, Hurricane Mitch 
+was classified as a catastrophic Category Five storm on the Saffir/Simpson 
+hurricane scale. Only a few other Atlantic storms have reached this 
+intensity. The strongest, and most recent, Hurricane Gilbert, attained 
+winds of 185 mph and a pressure of 26.22 inches of mercury in nearly 
+the same location during September 1988. 
+</TEXT>
+</DOC>

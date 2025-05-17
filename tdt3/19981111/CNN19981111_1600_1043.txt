@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981111.1600.1043 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One company hoping for a solid holiday season -- Compaq computer. 
+The nation's largest PC maker announced today that it will sell computers 
+directly to customers through telephone and Internet sales. The direct-sales 
+strategy is considered one of the keys to the success of dell computer, 
+Compaq's chief rival. The stock is up 1 5/8 on that news. 
+</TEXT>
+</DOC>

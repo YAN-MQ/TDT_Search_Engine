@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981211.0130.0575 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court has delayed an execution scheduled in Texas Thursday 
+night. The high court says it needs more time to consider a Canadian 
+man's claim that his rights were violated under international law. 
+Joseph faulder was convicted of murdering a Texas woman in 1975. Faulder 
+says he was not told of his right to contact the Canadian consulate 
+when he was arrested. Another execution date can't be scheduled for 
+at least 30 days. 
+</TEXT>
+</DOC>

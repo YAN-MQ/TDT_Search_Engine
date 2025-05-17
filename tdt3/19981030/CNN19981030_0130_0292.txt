@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981030.0130.0292 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mitch is just a shadow of Tuesday's category 5 hurricane, but it is 
+still stirring up trouble. Thursday it was downgraded to a tropical 
+storm. At last report it was located near limon, Honduras, with winds 
+of about 50 miles an hour. The national hurricane center says the 
+storm will probably weaken, but could regain strength if it returns 
+to open waters. Mitch is still unleashing heavy rains, causing floodwaters 
+in Mexico and honduras. At least 36 people have been killed. 15,000 
+homes were destroyed, and more than 150,000 people have been evacuated. 
+</TEXT>
+</DOC>

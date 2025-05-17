@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981102.1600.1468 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+You'll be glad to know the Eiffel tower is still standing proud over 
+the city of light, but it's empty. Tower workers are on strike and 
+are demanding more help. An estimated 43,000 visitors have been shut 
+out of Paris' most popular monument since the strike began on Friday. 
+The French government has lowered the country's workweek to 35 hours 
+-- a Bid to increase jobs and lower unemployment. The Eiffel tower 
+management says it's compensated and hired more employees. 
+</TEXT>
+</DOC>

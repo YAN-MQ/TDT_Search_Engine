@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981209.0130.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And officials in San Francisco say a mistake by construction workers 
+cut off electricity to nearly 1 million people Tuesday. It took utility 
+crews seven hours to completely restore power. 
+</TEXT>
+</DOC>

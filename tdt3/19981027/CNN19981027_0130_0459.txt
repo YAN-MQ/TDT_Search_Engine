@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981027.0130.0459 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A jury in Richmond, Virginia, has ordered an insurance company to 
+pay $100 million to settle a discrimination suit. A fair housing group 
+accused nationwide insurance of denying homeowners insurance to African 
+Americans while approving policies for whites under similar circumstances. 
+The plaintiffs also claimed nationwide's marketing efforts were targeted 
+to zip-codes in predominantly white areas. Nationwide says it will 
+appeal. 
+</TEXT>
+</DOC>

@@ -1,0 +1,120 @@
+<DOC>
+<DOCNO> NYT19981223.0241 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Diamond Rio PMP300 personal music player, one of the most significant 
+new products to appear in 1998, comes in a box that promises ``Internet 
+music in the palm of your hand.'' We can all be grateful that Internet 
+music is a new distribution system, not a new musical genre. Having 
+seen computer nerds dancing at their company parties, I can say with 
+little fear of contradiction that as dancers, they are very gifted 
+programmers. But these computer programmers are transforming the music 
+industry. The catalyst is a compression formula called MP3, which 
+is the basis of the $199.95 Rio player, from Diamond Multimedia, and 
+the music industry's sudden intense interest in the Internet. There 
+is nothing new about music on the Internet, of course. More than 40 
+million copies of a free program called Real Player have been downloaded 
+from Real Networks (www.real.com) to enable Web users to listen to 
+music and radio broadcasts ``streaming'' through their computers. 
+But with a few exceptions, the music is transient. It goes in one 
+virtual ear and out the other. MP3, whose formal technical name is 
+MPEG Level 3, is emerging as the most popular format for storing music 
+on computer hard disks and on the Internet. It will eventually be 
+replaced by something better, but for now, MP3 is the Internet software 
+du jour. MP3 allows big audio files to be condensed to about one-tenth 
+their size without significantly harming the music quality. The Rio 
+is the first and so far only portable MP3 player, so there is a lot 
+of pent-up demand for it among MP3 fans, especially young people who 
+are already using their computers as alternatives to dorm-room stereos. 
+Rio-type MP3 players could quickly become an alternative to portable 
+cassette or CD players, and that would further strengthen MP3's role 
+at the desktop. These devices will evolve quickly, as will the technical 
+standards, so cautious consumers may want to wait for the chorus before 
+plunking down a couple of C-notes. Compression is very important for 
+the Rio, and indeed for music distribution over the Internet. MP3 
+allows a 40-megabyte song to be compressed to 4 megabytes or less, 
+so it can be transferred in one-tenth the time. As Internet connections 
+get faster, music downloads that once took hours will be compressed 
+to minutes, and minutes to seconds. MP3 music is often described as 
+``near CD quality.'' Some people, whom I suspect were terriers in 
+their previous lives, can discern the subtle differences between ``near'' 
+CD quality and CD quality, but most normal humans cannot. MP3 music 
+on the Rio sounds better than FM radio. Where is this leading us? 
+On the fastest Internet connections, the kind that record stores and 
+companies like Amazon.com might some day maintain in kiosks in malls, 
+it might be possible to buy and download a song, an album, an audio 
+book, an electronic textbook, a piece of sheet music _ anything that 
+can be digitized and delivered over a computer network _ in less than 
+a minute. The music, or other digital content, might be downloaded 
+into a portable music player like the Rio, or into a digital camera, 
+or a smart cellular phone, or a PC smart card, or a palm-size PC or 
+any other small digital device that has storage capabilities and standard 
+digital interfaces. Once home, the device could be emptied into a 
+PC and the content routed to the appropriate digital playback device, 
+whether it is a digital stereo, a digital television or an electronic 
+book. The Rio PMP300 is in effect a prototype of these future digital 
+devices. It is about the size and weight of a pack of playing cards, 
+so it can be clipped to a belt or tucked in a pocket. It has simple 
+controls and comes with a set of ``ear bud'' speakers. Inside, the 
+Rio has 32 MB of flash memory on a special chip, enough to hold about 
+one hour of compressed digital music. You can increase the capacity 
+of the Rio in 30-minute increments by adding 16 MB memory cards, which 
+cost $49.95 each. Because the music is stored on a chip, there is 
+no skipping or jitter during playback, as there often is with portable 
+CD or cassette players. Even mountain-bikers and jackhammer operators 
+can appreciate a scratch-it-out hip-hop tune without those annoying 
+mechanical jumps and skips. The Rio cannot record music directly from 
+the Internet. It merely plays back MP3-encoded music that has already 
+been recorded onto the hard disk of a personal computer. Once the 
+music is copied into the Rio's flash memory, it can only be erased, 
+but not copied again. The Rio comes with software (for Windows 95 
+and 98 only) that enables computer users to encode their own music 
+collections in the MP3 format, typically through the CD-ROM drive 
+(similar software, both commercial and freeware, is available on line). 
+People who want to digitize and compress their vinyl albums, cassettes 
+and reel-to-reel tapes will have to surmount other hurdles. The Rio 
+itself is easy to set up and to operate, although there is plenty 
+of room for improvement in such areas as changing the sequence of 
+tunes. So, MP3 signals the dawn of cheap, global distribution of near-CD-quality 
+music over the Internet. Why, then, do music industry lawyers reach 
+for the garlic and wolf bane whenever someone mentions it? The Recording 
+Industry Association of America went to court earlier this year in 
+an unsuccessful attempt to block Diamond from introducing the Rio, 
+citing its lack of a copy-protection mechanism. The beauty of digital 
+music, or the horror of it, depending on your point of view, is that 
+you can make an infinite number of copies of an MP3 file without any 
+loss of quality. Without some sort of copy protection, the record 
+companies and the artists they represent have no guarantee that they 
+will be paid. Without that guarantee, the lawyers say, artists and 
+their labels will have no incentive to make music or to pay music 
+industry lawyers. Civilization as they know it will come to an end. 
+Last week, a coalition of music industry and Internet companies agreed 
+to form the Secure Digital Music Initiative, whose ambitious goal 
+is to develop a universal digital copyright protection scheme that 
+will prevent the unauthorized copying of digital recordings. The group 
+believes it can do in less than a year what the entire computer software 
+industry has been unable to do in two decades: stop software piracy. 
+Competition for the Rio is expected to appear at next month's Consumer 
+Electronics Show in Las Vegas, Nev. Earlier this month, Samsung Electronics 
+of Korea announced plans to bring its Yepp MP3 player to North America 
+sometime next year. A ``deluxe'' version of the Yepp includes an FM 
+radio, a voice recorder that can store 40 minutes of speech and a 
+display that shows the song title, artist and even lyrics of each 
+tune being played. Prices were not announced. Creative Labs showed 
+a prototype MP3 player at last month's Comdex trade show in Las Vegas 
+but was coy on the timing of its entry to market. Some companies may 
+be holding off until the Secure Digital Music Intitiative's efforts 
+become clearer. Diamond Multimedia, maker of the Rio, said it will 
+support the SDMI standard when it emerges. But in response to a question 
+sent by e-mail earlier this week, a Diamond spokeswoman wrote, ``It's 
+too early to determine whether or not Diamond's current Rio would 
+support such a standard through software, or if the company will support 
+the standard through a new device.'' In other words, it will be at 
+least a year before the music industry comes up with an alternative 
+to MP3. When it does _ if it does _ the current crop of MP3 players 
+may not work with the new format. In the meantime, MP3-encoded music 
+is proliferating on the Web and the Rio is for now a stylish way to 
+tune in. 
+</TEXT>
+</DOC>

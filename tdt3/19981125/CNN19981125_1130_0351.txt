@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981125.1130.0351 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An estimated 1.3 million Americans are injured each year because of 
+medication errors such as taking the wrong drug or dosage. The institute 
+for safe medical practices estimates 25% to 30% of the problems are 
+caused because health care workers mix up drugs with similar names. 
+More than 1,000 drugs have names that either look or sound alike. 
+The food and drug administration is now testing a computer program 
+that predicts which drugs will be most confusing so drugmakers can 
+change the name or pharmacists can take extra care. There are other 
+ways to avoid medication errors. 
+</TEXT>
+</DOC>

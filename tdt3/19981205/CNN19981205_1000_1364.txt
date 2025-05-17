@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981205.1000.1364 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Finally in golf, Nick price leads by one stroke after two rounds of 
+the million dollar challenge. Russell Biven, "CNN Headline Sports." 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981031.1300.0476 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Clinton administration says the food supply is safer thanks to 
+legislation it sponsored. The law instituted in January requires the 
+nation's 300 largest food processing plants to check for bacteria 
+at critical points in the production process. The administration says 
+the incidence of salmonella in chickens is down by almost half to 
+10.4% because of the law. The incidence of the bacteria in pork dropped 
+more than 3% to 5.5%. 
+</TEXT>
+</DOC>

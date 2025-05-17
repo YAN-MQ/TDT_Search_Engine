@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981106.1600.0978 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The word is bonds. Treasury bonds. And they're heading lower. Let's 
+get an idea of how Wall Street ended the week from Beverly Schuch 
+at the cnnfn newsdesk in New York. Beverly? Not James, but treasury 
+bonds. 
+</TEXT>
+</DOC>

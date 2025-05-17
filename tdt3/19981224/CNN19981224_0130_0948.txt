@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981224.0130.0948 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The justice department has launched an investigation of Salt Lake 
+City's successful bid for the 2002 winter Olympics. The probe will 
+focus on allegations that salt lake officials gave Olympic officials 
+illegal gifts and favors. 
+</TEXT>
+</DOC>

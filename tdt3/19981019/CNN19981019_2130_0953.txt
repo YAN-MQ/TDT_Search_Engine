@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981019.2130.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the antitrust suit against Microsoft began today in Washington. 
+Government lawyers accused the software giant of bullying computermakers 
+into using its Internet software over rival Netscape. 
+</TEXT>
+</DOC>

@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> NYT19981129.0172 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial for Monday, Nov. 30: The Supreme 
+Court will hear arguments today on the legality of the Clinton administration's 
+plan to use statistical sampling in the 2000 census. The purpose of 
+the sampling is to correct for the predictable undercounting of poor 
+minorities by conventional census-taking methods. The court's judgment 
+will be momentous, both for its immediate practical consequences and 
+its symbolic message. Mandated by Article I of the Constitution, the 
+decennial census count is the basic arithmetic of democracy. It influences 
+the division of political power in Congress and the states, and shapes 
+the flow of many government benefits. Absent a statistical adjustment, 
+minority groups will continue to be disproportionately undercounted 
+and the areas they live in will be shortchanged. The discrepancy is 
+not trivial. While the 1990 census missed about 2 percent of the nation's 
+overall population, it missed 4.8 percent of the black population 
+and 5.2 percent of the Hispanic population. Statisticians support 
+the feasibility of using sampling methods to improve the count's accuracy. 
+Before the Court are two recent lower court rulings from Washington 
+and Virginia that held the planned use of sampling as part of the 
+next census to be illegal, at least for the purpose of apportioning 
+seats in Congress. Those rulings relied on a Federal Census Act provision 
+that requires the Secretary of Commerce to use sampling in determining 
+population ``except for'' the purpose of congressional reapportionment. 
+But that statutory language was not meant to bar sampling for reapportionment, 
+merely to make its use discretionary. The House Republicans behind 
+both lawsuits speak in high-minded tones about the potential for political 
+manipulation if sampling is used. What they really fear is not a phony 
+count but the possibility of an accurate count that would increase 
+the political power of predominantly Democratic areas. They also claim 
+that sampling violates the constitutional requirement of an ``actual 
+enumeration'' of the population. But the court should not embrace 
+such a frozen view given the Framers' clear intent to provide a reliable 
+tally. In 1996, the court dismissed claims that the federal government 
+has a constitutional obligation to adjust census results to correct 
+the racially disparate undercount. But it did not say that such a 
+correction is impermissible. For the justices to do so now would disregard 
+the statute and the vital principles of equal political participation 
+and one person, one vote. 
+</TEXT>
+</DOC>

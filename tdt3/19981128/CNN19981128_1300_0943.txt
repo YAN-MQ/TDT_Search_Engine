@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981128.1300.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The first family returned to the White House after cutting short a 
+holiday weekend at camp David. This morning, the president announced 
+$130 million in federal grants to help people with disabilities afford 
+decent housing. 
+</TEXT>
+</DOC>

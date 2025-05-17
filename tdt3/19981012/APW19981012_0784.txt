@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> APW19981012.0784 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+BELGRADE, Yugoslavia (AP) _ U.S. envoy Richard Holbrooke will leave 
+Belgrade on Monday for Brussels to brief NATO envoys on the results 
+of his talks with Yugoslav President Slobodan Milosevic, a U.S. source 
+said. MORE 
+</TEXT>
+</DOC>

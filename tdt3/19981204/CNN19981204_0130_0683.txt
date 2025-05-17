@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981204.0130.0683 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In southeast Utah, three people were injured on a highway Thursday 
+after a Natural gas pipeline exploded. Witnesses say the blast sent 
+a fireball 100 feet in the air and blew trucks across the road. Police 
+say a construction crew may have cut the pipe while installing a new 
+pipeline next to it. The road is expected to be reopened Friday morning. 
+</TEXT>
+</DOC>

@@ -1,0 +1,74 @@
+<DOC>
+<DOCNO> NYT19981226.0078 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+President Clinton will soon propose a $25 million initiative to combat 
+the spread of infectious diseases, including virulent new strains 
+of microbes that resist treatment by antibiotics and other drugs, 
+administration officials said Saturday. Public health officials have 
+become alarmed about the emergence of such ``superbugs'' and more 
+generally about the increasing incidence of infectious diseases once 
+thought to be under control. The extra money will be included in the 
+budget request that Clinton sends to Congress early next year, administration 
+officials said. It represents a 31 percent increase in the federal 
+program to address emerging infectious diseases. Dr. Jeffrey Koplan, 
+the new director of the Federal Centers for Disease Control and Prevention, 
+said the additional money would be used to investigate outbreaks of 
+infectious diseases, to upgrade the laboratories of state and local 
+health departments, to develop new diagnostic tests and to educate 
+doctors and patients about the dangers from excessive use of antibiotics. 
+In addition, federal officials want to improve communications with 
+city and county health departments. In a recent test, the Centers 
+for Disease Control found that it was unable to contact nearly half 
+of the local public health departments within 24 hours. ``Over several 
+decades,'' Koplan said, ``the capabilities of state and local health 
+departments have waned. They don't have the resources to do what they 
+can and need to do. Many county health departments don't have computers, 
+don't have e-mail or Internet capabilities. They report serious diseases 
+on paper in the mail to state health departments and to CDC.'' Such 
+delays make it more difficult for federal officials to track the spread 
+of disease, identify the causes and take action, Koplan said in an 
+interview. By analyzing the genetic characteristics of certain bacteria, 
+scientists can sometimes identify a common source, as they did recently 
+with an outbreak of food poisoning from Listeria that killed four 
+people and sickened 40. Scientists can send the ``genetic fingerprints'' 
+for such bacteria by Internet to the Centers for Disease Control in 
+Atlanta. Laboratory technicians there can compare the genetic data 
+from different parts of the country, reaching conclusions with fewer 
+cases than in the past. But, Koplan said, ``the whole system is only 
+as strong as its weakest link, which unfortunately is often the county 
+health departments.'' The government also wants to beef up its network 
+of doctors, hospitals and laboratories that report cases of infectious 
+disease, so that outbreaks will be detected more rapidly. Some of 
+the new money would be used to investigate the growing threat posed 
+by germs that are resistant to antibiotics. Sens. Edward M. Kennedy, 
+D-Mass., and Bill Frist, R-Tenn., expressed concern about the problem 
+at a recent symposium on Capitol Hill. Overuse of antibiotics in the 
+United States and around the world, fueled by patients who demand 
+antibiotics for every bout of the sniffles, has caused microbes to 
+adapt to these drugs, creating ``superbugs'' that resist the usual 
+methods of treatment. Drug-resistant strains of tuberculosis, gonorrhea 
+and pneumococcal infections _ the most frequent cause of middle-ear 
+infections in children and pneumonia in the elderly _ have become 
+common in recent years. If Congress approves the president's budget 
+request, the Public Health Service would conduct a national education 
+campaign to encourage more judicious use of antibiotics. ``Many people 
+with a fever and cough assume that antibiotics won't do any harm, 
+but that's not true,'' Koplan said. ``They can do harm. They promote 
+the emergence of drug-resistant bacteria. Moreover, many infections 
+are viral. Antibiotics are of no value in treating them.'' Sixty million 
+unnecessary prescriptions are written every year for childhood viral 
+infections that do not respond to antibiotics, and drug-resistant 
+bacteria cause a million ear infections a year, many of them in children, 
+officials said. The Centers for Disease Control wants to develop new 
+diagnostic tests so doctors will know immediately whether a patient's 
+illness is caused by bacteria or viruses, or by some new strain of 
+microorganism. Officials said they also wanted to investigate the 
+use and possible misuse of antibiotics in home health care, a booming 
+sector of the health care industry that is certain to grow as the 
+population ages. Officials want to know whether antibiotics have been 
+misused by patients receiving care at home and whether they too are 
+being attacked by drug-resistant bacteria. 
+</TEXT>
+</DOC>

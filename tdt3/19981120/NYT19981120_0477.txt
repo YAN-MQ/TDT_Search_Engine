@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> NYT19981120.0477 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial for Sat., Nov. 21: For years, 
+conservatives have been trying to break up the Court of Appeals for 
+the 9th Circuit because they have been unhappy with some of the court's 
+rulings on environmental issues and death penalty cases. Republicans 
+in the Pacific Northwest have been particularly vocal in clamoring 
+for their own circuit, believing that the San Francisco-based appeals 
+court does not understand their values. A commission led by former 
+Supreme Court Justice Byron White will report on the issue to Congress 
+next month. Its draft proposal would significantly alter the court's 
+structure without formally cutting the circuit in two. The appellate 
+judges would be assigned to three regional divisions _ one for the 
+Pacific Northwest states, one for northern California, Hawaii and 
+Nevada, and one for southern California and Arizona. These would function 
+as semi-autonomous units, but conflicting rulings would be resolved 
+by a seven-judge panel selected from the entire circuit. Administration 
+would remain under one roof. The plan is more reasonable than splitting 
+the circuit. But it is still a change for which a compelling case 
+has not been made. A simpler way to improve the court's performance 
+is for Congress to fill its vacancies. For most of the last four years, 
+10 out of 28 judgeships in the 9th Circuit have been vacant. Currently, 
+only 22 are filled. In many cases judges from district courts or other 
+circuits are asked to sit on panels hearing oral arguments. Simply 
+reducing the excessive reliance on visiting judges could lead to more 
+consistent rulings. 
+</TEXT>
+</DOC>

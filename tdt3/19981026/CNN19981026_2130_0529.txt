@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981026.2130.0529 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up, the extended weather forecast. What's happening with the 
+latest weather phenomenon, La Nina. 
+</TEXT>
+</DOC>

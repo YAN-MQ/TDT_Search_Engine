@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO> NYT19981119.0479 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Federal Reserve decided to limit its interest rate cut on Sept. 
+29 to a quarter of a percentage point because it was worried that 
+a bigger reduction might exaggerate its concerns about the risks of 
+an economic slowdown, according to minutes of the deliberations released 
+Thursday. But just more than two weeks later, the central bank cut 
+rates again by another quarter of a point after its policy-setting 
+committee decided during a conference call that conditions in the 
+financial markets were deteriorating and that business confidence 
+was eroding, the minutes said. The decision to cut rates a second 
+time on Oct. 15 was made despite continued concern among some members 
+of the Federal Open Market Committee that the move would be interpreted 
+in the markets as a signal that the central bank saw bad news on the 
+horizon, according to the minutes. ``Some members were concerned that 
+a policy move so soon after the late September action might be misread 
+as indicative of a degree of concern about prospective developments 
+in financial markets or the economic outlook that did not represent 
+the committee's thinking,'' the minutes said. ``However, the members 
+generally concluded that the risk of adverse market reactions was 
+worth taking and that the easing actions under consideration were 
+more likely to help settle volatile financial markets and cushion 
+the effects of more restrictive financial conditions on the ongoing 
+expansion.'' The Oct. 15 rate cut did prompt some speculation in the 
+markets that the Fed was concerned about an undisclosed financial 
+problem along the lines of the problems encountered this summer by 
+Long-Term Capital Management LP, a large investment fund. But no such 
+problem emerged, and for the most part the Oct. 15 decision had the 
+effect the Fed intended, helping to calm the markets. The minutes 
+show that the vote on Sept. 29 for the first of the interest rate 
+moves was unanimous. Though a rate cut ``was warranted to provide 
+some insurance against undesirably tight domestic financial conditions, 
+many members saw the need for a cautious policy action,'' the minutes 
+said. ``A more sizable policy move at this point might convey an exaggerated 
+impression of the committee's current thinking regarding the extent 
+of downside risks in the economy.'' No vote was taken during the conference 
+call about the second rate decrease, which was enacted on Greenspan's 
+authority. The Fed cut rates a third time on Tuesday, reducing the 
+federal funds target rate on overnight loans between banks by a quarter-point, 
+to 4.75 percent, and the discount rate on loans to banks from the 
+Federal Reserve system by a quarter-point, to 4.5 percent. The minutes 
+of Tuesday's meeting will be released on Dec. 24. Although the vote 
+to cut rates on Sept. 29 was unanimous, there was disagreement among 
+the committee's 11 voting members about whether to adopt a formal 
+bias toward further rate cuts, a signal that its next move would likely 
+be another rate reduction. Although only a ``small majority'' of the 
+committee's members favored a bias toward further cuts, the entire 
+committee eventually went along. 
+</TEXT>
+</DOC>

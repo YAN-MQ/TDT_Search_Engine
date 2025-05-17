@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> NYT19981122.0079 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Attempts to transmit Internet data over cable-television wires have 
+generally focused on only the largest cable-system operators. But 
+high-speed data options for smaller cable companies and their customers 
+are set to expand over the next few weeks as Internet companies move 
+into rural areas. Softnet Systems, a small company based in Mountain 
+View, Calif., intends to announce an agreement Monday to acquire Intelligent 
+Communications, a private concern based in Fremont, Calif., for about 
+$10.5 million in stock, according to executives close to the companies. 
+Softnet hopes that the deal will enable it to offer small cable operators 
+a direct satellite link to the Internet. And next week at the Western 
+Cable Show in Anaheim, Calif., At Home Corp., an Internet venture 
+that is backed by many of the United States' largest cable carriers, 
+intends to announce a ready-made data solution for small and medium-sized 
+cable operators, according to executives close to At Home. Only a 
+minuscule fraction of U.S. consumers are now able to tap the Internet 
+at speeds faster than the 50 or so kilobits a second allowed by analog 
+modems. The cable television and local telephone industries are vying 
+to be the first to offer widespread Internet access at office-caliber 
+speeds, which are much higher. Last week, Softnet reached deals to 
+sell its operations that distribute office telephone equipment and 
+that create microfiche documents for about $12 million in cash and 
+short-term notes. The company now hopes to focus on its ISP Channel 
+unit, which helps small cable operators get their customers online. 
+Lawrence Brilliant, the chief executive of Softnet, is looking to 
+Intelligent Communications to carry out that strategy. Founded in 
+the early 1990s by former Xerox Corp. executives, Intelligent Communications 
+had about $3 million in revenue last year and owns technology that 
+allows two-way Internet communications using satellites and relatively 
+small dish antennas _ about 5 feet in diameter _ according to executives 
+close to the planned acquisition deal. Softnet's business plan is 
+based on the assumption that satellites provide a more economical 
+way than do expensive high-speed fiber-optic cables to link cable 
+systems in remote areas to the Internet. By contrast, At Home intends 
+to stick with terrestrial links for its new system, according to executives 
+close to the plan. The big difference between At Home's previous deals 
+with cable companies and the new plan is that under the new system, 
+At Home would bear more of the initial cost of creating those links 
+(and cable affiliates would bear less), and At Home would keep a bigger 
+percentage of the future profit. 
+</TEXT>
+</DOC>

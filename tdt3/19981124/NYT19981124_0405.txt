@@ -1,0 +1,73 @@
+<DOC>
+<DOCNO> NYT19981124.0405 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In a series of decisions, New York state's highest court Tuesday expanded 
+the opportunity for tenants to obtain damages from landlords when 
+they are attacked by intruders who gain access to buildings because 
+of broken or nonexistent locks. The Court of Appeals issued three 
+decisions, involving five cases, that tried to broaden the circumstances 
+under which landlords _ including the New York City Housing Authority 
+_ can be held liable for damages when faulty building security contributes 
+to criminal assaults. To collect damages in such cases under New York 
+law, a tenant must convince a jury that the landlord was negligent 
+in maintaining building security and that the assailants were outsiders 
+who got into the building specifically because the door locks were 
+broken or nonexistent. It is often difficult, if not impossible, to 
+prove that a broken lock was directly responsible for an assault, 
+that it was the ``proximate cause,'' as the principle is known in 
+the law. An assailant's identity is often unknown; he might have lived 
+in the building or been visiting someone, or he might have followed 
+a tenant through a locked door. State appeals courts in recent years 
+have generally limited landlords' liability in such cases. But the 
+thrust of most of the court's rulings Tuesday was to make it easier 
+for tenants to collect damages from landlords, even when the identity 
+of an assailant is unknown. The most significant case involved Norma 
+Burgos, who lived in a privately owned building on West 182nd Street 
+in Manhattan. Ms. Burgos was robbed and beaten by two men who pushed 
+into her apartment when she opened her door to go out one afternoon. 
+Ms. Burgos said that locks on the front and back doors of her building 
+were broken and that she had not known her assailants. The owners 
+of the building, Aqueduct Realty Corp., moved to have the case dismissed 
+because Ms. Burgos could not prove conclusively that her assailants 
+were strangers who had entered the building uninvited. The trial court 
+denied the landlord's motion to dismiss, but a state appeals court 
+reversed the ruling, throwing out the case. In a unanimous decision, 
+the Court of Appeals reversed the appellate decision, reinstating 
+Ms. Burgos' case. While the court did not decide whether the landlord 
+was liable, it said Ms. Burgos had offered enough information to enable 
+that decision to be made by a jury. Ms. Burgos' assertions ``are sufficient 
+to raise a triable issue of fact as to whether the assailants were 
+intruders who entered the building through a negligently maintained 
+door,'' Chief Justice Judith Kaye wrote. A related case was brought 
+on behalf of a 12-year-old girl from the Bronx, who was raped and 
+sodomized by an unidentified man who had entered her building in a 
+city housing project by walking through a back door that could not 
+be closed or locked. A jury found that the New York City Housing Authority 
+was liable for damages, but the judge dismissed the case because the 
+girl could not prove that her assailant was an intruder. A state appeals 
+court affirmed the decision, saying that just because the victim did 
+not know the rapist was insufficient proof that he was an intruder. 
+The Court of Appeals reversed the appellate decision Tuesday, and 
+ordered the case returned to state Supreme Court. Kaye said there 
+was significant evidence that the rapist was an intruder. He was seen 
+entering the building through the broken and unlocked door, she wrote. 
+He made no attempt to conceal his identity when he rode on an elevator 
+with the victim and other residents, and he did not select a floor. 
+He simply followed the young woman when she exited at her floor. Even 
+if an assailant is not identified, Kaye wrote, a tenant can successfully 
+sue a landlord for negligence over an assault ``if the evidence renders 
+it more likely or more reasonable than not that the assailant was 
+an intruder who gained access to the premises through a negligently 
+maintained entrance.'' But in another case decided Tuesday, the court 
+upheld lower court rulings that found that the Housing Authority was 
+not responsible for the sexual assault and robbery of a Manhattan 
+girl, 17. Even though the front door of the girl's building in a city 
+housing project had no lock _ and even though her attacker was clearly 
+an intruder _ the court found that the Housing Authority's negligence 
+had not caused the assault. The attacker was a serial rapist who had 
+assaulted women in many buildings, including some that had been locked, 
+the court said in a 5-1 ruling. 
+</TEXT>
+</DOC>

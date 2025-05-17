@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981012.1130.0334 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is cutting short a scheduled fund-raising trip because 
+of the impasse in Congress over the federal budget. He's making himself 
+available for negotiations with republican congressional leaders. 
+Mr. Clinton will travel to New York this afternoon to attend receptions 
+for democratic senatorial candidate Charles Schumer, who's trying 
+to unseat republican Alfonse D'Amato. Mr. Clinton delayed his departure 
+after republican lawmakers criticized him for leaving town in the 
+middle of the negotiations. 
+</TEXT>
+</DOC>

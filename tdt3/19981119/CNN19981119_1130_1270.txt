@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981119.1130.1270 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The New England Patriots are reportedly leaving Massachusetts and 
+heading to Hartford. They made the announcement this morning. Anx 
+deal to move the team must be approved by the NFL owners. 
+</TEXT>
+</DOC>

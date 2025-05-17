@@ -1,0 +1,79 @@
+<DOC>
+<DOCNO> NYT19981019.0079 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The concept of a trillion has shifted in recent weeks from a fuzzy, 
+imprecise and somewhat abstract notion into a hard-edged number like, 
+say, 47 or 254 or 7,453. Indeed, because of the Long-Term Capital 
+Management fiasco, trillion has become the next big thing. (Of course, 
+the federal budget passed $1 trillion several years ago, but nobody 
+pays attention to it.) Before this recent shift in consciousness, 
+a trillion, at least in everyday usage, was an expression more akin 
+to zillion, gazillion and jillion. It was a way of connoting scads, 
+heaps, plenitude and humongosity. In this it was like a light year. 
+No one ever experienced a light year and no one ever saw a trillion 
+anything. It was a poetic concept like all the stars in the heavens 
+and all the grains of sand on the beaches. But when Long-Term Capital 
+Management's troubles became newsworthy in early October, it was reported 
+that the firm had entered into ``exotic financial transactions'' valued 
+at $1.25 trillion. Derivatives and forward contracts might not be 
+universally comprehensible, but the basic image conveyed by the news 
+stories was not at all meant as an abstract concept, like stars in 
+the Milky Way. Anyone who plays poker could understand it; a group 
+of people, a very finite group of people, were sitting around a table 
+and making bets trying to win a pot worth $1.25 trillion, a figure 
+even more impressive when it is represented like this: $1,250,000,000,000. 
+That is quite real. It is so real it is scary. For perspective, it 
+may be useful to note that if somebody wanted to distribute $1 trillion 
+equally among all 240 million Americans, he would have to dispense 
+more than $4,000 to every man, woman and child. Putting a dollar sign 
+in front of very big numbers tends to make them real, though this 
+does not always work for other units of wealth. For example, one can 
+go to the Numismatic Museum in New York and gaze at the quintillion 
+pengo note that circulated in Hungary during a period of hyperinflation 
+after World War II. Despite its 18 zeros, six more than those of a 
+trillion, it is not really awe-inspiring. Even in the heyday of the 
+pengo, one probably couldn't get much for a trillion, or quartillion 
+or quintillion of them. But there is a lesson here. Dollars, like 
+pengos, fluctuate over time. And just as there are forces of inflation 
+and devaluation affecting currencies, so there are semantic shifts 
+in the numbers that come to be associated with money. Take millions 
+and billions, which were as mythical as trillions were before Long-Term 
+Capital helped make them a household concept. There was a time when 
+a million dollars was a pretty high standard. Telling somebody they 
+looked like a million was considered a high compliment. Similarly, 
+a millionaire was a rare species, generally depicted in cartoons as 
+a cigar-smoking person in a top hat. Now, according to ``The Millionaire 
+Next Door,'' a best seller since it appeared in 1997, there are 3.5 
+million of them. That's 3,500,000, households. Though this is not 
+exactly a dime a dozen, it is not one in a million either. And within 
+the last decade, some people began to be designated as billionaires. 
+This has led to some confusion between the categories, notably the 
+assumption that millionaires and billionaires are related subspecies 
+who graze together. This is a fallacy that may be made clear by the 
+following facts: A person with the net worth of $1 is closer in wealth 
+to a person with a net worth of $50 million than the person with $50 
+million is to the person with $1 billion. Much, much closer. After 
+all, the person with $1 is only $49,999,999 behind the millionaire, 
+while the millionaire is $950,000,000 behind the billionaire. This 
+co-mingling of truly fat cats and the merely plump has long bothered 
+John Allen Paulos, a Temple University mathematician who has written 
+entertainingly about mathematics in everyday life. He advocates using 
+scientific notation to describe the rich instead of the indistinct 
+millionaire or multimillionaire, which could mean anyone who possessed 
+more than a million or less than a billion (which the British refer 
+to quite correctly as a thousand million). Paulos thinks exponents 
+would help put the very rich in their appropriate places. For example, 
+if one were to read about a 6 x 107 centerfielder, one could immediately 
+determine that this was a $60 million variety of millionaire. A 3 
+x 106 adolescent baby sitter would be established as a $3-million 
+member of the phylum. And so forth. Greater precision could also be 
+achieved by borrowing from Indian usage. Indians, who number at least 
+8 x 108, have an increasingly useful word _ crore _ which means 10 
+million. And should the time come when the currently awesome trillion 
+turns out to be small potatoes, there is the googol, which is the 
+number 1 followed by 100 zeros, or 10100. And if that's not enough, 
+there is the googolplex which is 10 to the power googol. 
+</TEXT>
+</DOC>

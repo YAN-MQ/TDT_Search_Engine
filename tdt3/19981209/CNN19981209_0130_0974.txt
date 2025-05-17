@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981209.0130.0974 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street dipped a bit Tuesday, as traders cashed in profits. The 
+Dow Jones industrial average ended the day down 42 1/2 points, to 
+close at almost 9028. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981218.2000.0237 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+With the time at four minutes past the hour, I'm Derrick Stoffel with 
+the BBC News room in London. You're listening to the World. 
+</TEXT>
+</DOC>

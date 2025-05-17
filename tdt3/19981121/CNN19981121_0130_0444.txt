@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981121.0130.0444 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The environmental protection agency has dropped plans to post potential 
+disaster casualty figures for chemical plants on the Internet. It 
+says such information on worst case scenarios at 66,000 chemical plants 
+across the country could easily be accessed by terrorists. 
+</TEXT>
+</DOC>

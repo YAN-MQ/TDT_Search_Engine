@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981023.1600.0482 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the U.S. is next. And still ahead, 
+testing a new method of detecting breast cancer. 
+</TEXT>
+</DOC>

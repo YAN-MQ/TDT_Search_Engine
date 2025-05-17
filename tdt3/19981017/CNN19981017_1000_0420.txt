@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981017.1000.0420 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A rough weekend lies ahead for parts of Mexico because of two storms 
+in the pacific ocean. The more powerful of the two at the moment is 
+hurricane Lester. At last report, it has winds of 90 miles per hour 
+and could dump up to ten inches of rain on southern Mexico when it 
+moves near shore today. Farther north, tropical storm Madeleine is 
+over Baja, California, with 65 mile per hour winds. Forecasters say 
+that storm could eventually affect Texas. 
+</TEXT>
+</DOC>

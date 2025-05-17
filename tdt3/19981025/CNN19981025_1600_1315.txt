@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981025.1600.1315 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The new college football poll is out, and, as expected, no change 
+in the top two spots as Ohio state and UCLA remain 1-2. Tennessee 
+is third. Florida and Florida state flipping positions. Nebraska is 
+seventh, followed by Texas A&M, Wisconsin and Penn state. 
+</TEXT>
+</DOC>

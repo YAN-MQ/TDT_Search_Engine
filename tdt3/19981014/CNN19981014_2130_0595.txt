@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981014.2130.0595 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More benefits of taking care of yourself. A new study shows people 
+at low risk for heart attacks need far less hospital care for any 
+reason when they get old. Researchers say that lowers America's Medicare 
+costs. The study appears in the "New England journal of medicine." 
+</TEXT>
+</DOC>

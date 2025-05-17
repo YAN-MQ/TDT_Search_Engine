@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981021.1130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a check of our top stories -- it could be a make-or-break day 
+at the mideast peace talks in Maryland. An Israeli spokesman says 
+the Palestinian side had "retreated" from agreements and commitments 
+that were put on the negotiating table. Palestinians deny that. 
+</TEXT>
+</DOC>

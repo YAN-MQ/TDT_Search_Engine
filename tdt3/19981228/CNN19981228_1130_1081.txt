@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981228.1130.1081 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+SPX, the auto parts maker is cutting 1,000 jobs and closing 25 general 
+signal offices, following its acquisition of general signal in October. 
+Apx says it will take a charge up to $250 million to pay for the restructuring. 
+Some of the charge will also pay for potential environmental costs 
+stemming from the merger. 
+</TEXT>
+</DOC>

@@ -1,0 +1,88 @@
+<DOC>
+<DOCNO> NYT19981123.0472 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The College Board, sponsor of the SAT, the nation's leading college 
+entrance exam, has found in a comprehensive new study that test preparation 
+courses, a multi-million-dollar industry, fail to produce anything 
+other than minimal score increases. The study was immediately and 
+vigorously attacked by spokesmen for the two leading tesing companies, 
+Kaplan Educational Centers and Princeton Review. They said they had 
+clear data showing their courses produce significant increases on 
+an exam that, given the growing competitiveness of college admissions, 
+produces terror in the hearts of high school students. The College 
+Board study of some 4,200 students who took the SAT in 1995-96 found 
+that the roughly 12 percent who took out-of-school coaching courses 
+raised their scores an average 19 to 38 points more than those who 
+were uncoached in the verbal and math sections combined, a small gain. 
+The maximum combined score is 1,600. The rise was bigger in math _ 
+an average of 19 points _ than in the verbal test, where it averaged 
+nine points. And the study found that Kaplan and Princeton Review's 
+coaching both pushed scores up a little more, up to 19 points on verbal 
+and 38 points on math. But most score changes fell within the test's 
+standard error of measurement, which is about 30 points up or down 
+on each section, the study found. ``For every coached student who 
+went up 100 points or more, three either had no increase or their 
+scores went down,'' said Wayne Camara, executive director of research 
+at the College Board. ``The major unique feature of this study is 
+that not only have we looked at gains of coached but also of non-coached 
+students. Coaching firms don't do that.'' Kaplan Educational Centers, 
+the New York City-based firm that, with Princeton Review, dominates 
+the multi-million-dollar test coaching industry, says that the average 
+Kaplan score increase is 120 points from the PSAT to the SAT, and 
+that 28 percent of Kaplan students surveyed improved scores by at 
+least 170 points. Princeton Review advertises a typical increase of 
+140 points. In both cases, the companies say they have used outside 
+firms to survey their students on scores before and after testing. 
+``The largest percentage of our students who come to us do it through 
+word of mouth, and we work with 30,000 students a year,'' said Kevin 
+McMullin, spokesman for Princeton Review. ``We must be doing something 
+right. I would also point out that the College Board markets its own 
+SAT preparation books and materials. If scores can't be improved by 
+preparation, why sell the materials?'' Kaplan and Princeton have long 
+been locked in a public relations battle with the College Board over 
+the effectiveness of coaching and, in recent years, over shares of 
+the test preparation book industry. For the College Board, it is important 
+that the SAT and the numerous other entrance exams it sponsors be 
+seen as objective measures of a student's academic skills. If coaching 
+could significantly improve scores, those who can afford high-priced 
+coaching courses would have an unfair advantage and the value of the 
+tests will be diminished. The issue has taken on an added charge in 
+the past couple years as race-conscious admissions practices at universities 
+have come under attack both legally and politically. Minority students, 
+who tend to score lower on the SAT, have been admitted over whites 
+with higher scores to add racial diversity to campuses. With such 
+practices under attack, the role of the SAT has come under increasing 
+scrutiny, with some minority-rights advocates urging colleges to reduce 
+their reliance on it. The College Board says it publishes preparatory 
+material for the SAT because familiarization with the test, its pattern 
+and pace, improves scores. But commercial coaching, it argues, has 
+minimal value. The report, being issued Tuesday, was written by Donald 
+Powers, a research scientist at the Educational Testing Service in 
+Princeton, N.J., which the College Board hires to administer the SAT, 
+and Donald Rock, an educational consultant. It was subject to peer 
+review, meaning that researchers who were not told its authors' names 
+examined it for scientific validity. It will be published in the Journal 
+of Educational Measurement. Betsy Jane Becker, an educational statistician 
+at Michigan State University who has read the manuscript and has examined 
+and written about coaching studies, said she considered it to be perhaps 
+the finest piece of coaching research yet published. ``It is thoughtful, 
+it uses statistical methods to very good advantage and left nearly 
+no stone unturned,'' she said. The new study is the first to query 
+students seeking coaching about themselves and compare it with those 
+who did not go to coaching institutes. Those who seek coaching, it 
+found, included more Asian-Americans, came from better-educated and 
+higher-earning families, had slightly better grades in school, higher 
+ambitions and had taken more rigorous courses in school than those 
+who had not been coached. Moreover, both the coached and uncoached 
+populations reported doing a fair amount of individual preparation 
+either through taking sample tests or by using materials provided 
+by the College Board or one of the coaching companies to prepare for 
+the SAT. Nonetheless, those who used coaching courses tended to have 
+done more such preparations. ``These are fuzzy lines,'' Powers, the 
+principal author of the study acknowledged. ``But if you ask people 
+why they pay for coaching, it is to increase their scores by substantial 
+amounts. We are saying that that is unlikely to work.'' 
+</TEXT>
+</DOC>

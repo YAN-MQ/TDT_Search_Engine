@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981229.1130.0513 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+It's going to continue to be wet in the pacific northwest, keeping 
+the rainfall along the coast and snow in higher elevations. Cold air 
+will be building in through the midwest dropping temperatures and 
+creating dangerous windchills today. By tomorrow, that high into the 
+southeast, much colder air will be filtering into the southeast as 
+well. 50s and 60s in the southeast. Temperatures falling tomorrow 
+as they will be today through the upper midwest where we'll see some 
+below zero high temperatures in Minnesota and on through North Dakota. 
+Thursday, we're looking for snow showers through the lakes and rain 
+and more mountain snow is expected in the pacific northwest. It will 
+be a snowy new year's leave in the northwest through the Rockies. 
+On new year's day, we'll find showers back through the midwest. As 
+you head further north, that will be changing to snow. Thunderstorms 
+are possible into the southern Mississippi river valley. On Saturday, 
+showers and storms in the southeast and snow through the mideast. 
+For more weather information, log into CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> MNB19981022.2100.2336 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+From "dateline NBC" tonight, cervical cancer, it's a disease that 
+kills thousands of American women every year, but it's almost entirely 
+preventable. While routine testing and early detext have saved a lot 
+of lives over the years, the question remains why are so many women 
+still dying. We have a "Dateline" healthline report for you tonight. 
+Dr. Bob arnot takes a look at a new computer technology that could 
+make a Wrled of difference here. Rod and sylvie were newlyweds and 
+all the dreamt of having a baby, but at age 33, sylvie was diagnosed 
+with invasive cervical cancer and was forced to have a radical hysterectomy. 
+I begged the doctor. I said please let me have the baby first, then 
+you can do whatever you need to. But it was too late. Doctors said 
+sylvie may have had her wish if only the cancer had been found earlier. 
+And the ironny is it could have been. Two 1/2 years ago, her annual 
+pap smear came back normal. But just nine months later, after some 
+disturbing symptoms, a second pap smear showed advanced cancer. How 
+in six to nine months did we get such a serious aggressive cancer? 
+The answer was devastating to Rod and sylvie. It turns out the cancer 
+had been there all along. The first one had been misread. For most 
+women, pap smear are normal every year, but for the small group of 
+women who might have something wrong, the pap smear is far from perfect. 
+It's an excellent test, but it has its limitations. Dr. Diane Solomon 
+is a senior investigator at the national cancer institute in Washington, 
+D.C. what percent of abnormalities does traditional screening miss? 
+One pap smear, about 20% of abnormalities may be miss. A small minority 
+of those women will go on to develop cervical cancer. That's not to 
+say it doesn't work. It decreases the number of cervical cancer deaths 
+by 70%. But there is a built-in problem, human error. A single slide 
+looks almost like a satellite photo. A technologist has to pick through 
+300,000 to 500,000 cells to find as few as 20 abnormal ones. It's 
+like looking for a needle in a haystack. Some technicians are asked 
+to read up to 100 slides a day and complain of fatigue, eyestrain, 
+and fighting to stay awake. This machine could help. It's a computerized 
+screening device called autopap. It can be run 24 hours a day and 
+is more accurate at picking up abnormalities than technologists. About 
+100 of them are currently in use across the country. I stand and watch 
+this sometimes forself minutes, marveling at it. The television monitor 
+isn't broken. It shows how quickly autopap screens 1,000 different 
+images of each pap smear. The computer works so quickly the images 
+appear almost like flickers to people watching. It's high-tech. It's 
+cool. At Salt Lake City arup's labs, Dr. Jay Marshall has been using 
+autopap as a Back-up to traditional screening, kind of like getting 
+a second opinion. It's cauth many misses. Slides called normal or 
+Negative when an abnormality is present. Doctors call these false 
+negatives. I was surprised initially on high-grade, or the most severe 
+lesions, before you actually have invasive cancer, we'll identify 
+about six times the number compared to conventional practice. Conventional 
+screening called this slide normal, but it just had one abnormal cell 
+tucked away. Autopap caught it. The F.D.A. has taken a revolutionary 
+step. For the first time, computers, not people, will be used for 
+initial pap smear readings. That's already the case in some European 
+and Asian countries. In Japan, half of all pap smears read by the 
+compute and ruled normal may be set aside and never reviewed by a 
+human eye. In America, the F.D.A. isn't willing to go that far yet. 
+For now, only 25% of pap smears may be read by the computer alone. 
+The rest must be double-checked by a technologist for abnormalities. 
+It would allow the technologist to focus more simply on those cases 
+that are most likely to have abnormal cells. The company ta makes 
+autopap says one study showed autopap caught 33% more suspicious cells, 
+including two cancers, than technologists working alone. So, is computer 
+screening the answer? Drfment Solomon, from the national cancer institute, 
+is hopeful. I think there's a potential to significantly impact on 
+if false Negative rate. But her main concern is cost. There are so 
+many new technologies right now that you could come out with a $200 
+Bill for cervical screening. That will increase the cost by about 
+10 times. We checked with several experts who said it's too early 
+to know how expensive autopap would be, but it should become more 
+affordable over time. A spokesman for the lab that misread sill ree 
+vie's test says confidential prevents him from discussing the case 
+but say they now use autopap. But the best thing any woman can do 
+is get a pap smear, something 25% to 40% of American women fail to 
+do regularly. The majority of deaths from cervical cancer are in women 
+who have not had regular pap smear. Regular, routine, conventional 
+screening is the best hedge against the risk of cervical cancer. That 
+was Dr. Bob arnot with a "Dateline" health line report tonight. 
+</TEXT>
+</DOC>

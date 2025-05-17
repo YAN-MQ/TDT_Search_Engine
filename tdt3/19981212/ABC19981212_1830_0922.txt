@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981212.1830.0922 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investigators today found the black box from that Thai Airbus jetliner 
+that crashed yesterday while trying to land in heavy rain. They're 
+hoping it will tell them what caused the accident. At least 100 people 
+are dead and 45 survivors remain hospitalized. 
+</TEXT>
+</DOC>

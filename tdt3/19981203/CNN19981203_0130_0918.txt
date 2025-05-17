@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981203.0130.0918 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton's lawyers will appear before the house Judiciary 
+committee to offer a defense in the impeachment proceedings. They 
+will appear next Tuesday, and may call new witnesses. 
+</TEXT>
+</DOC>

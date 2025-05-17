@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981123.2130.0463 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The cost of smoking is going up. Tobacco companies brown and Williamson, 
+R.J. Reynolds and Philip Morris are raising the wholesale price of 
+cigarettes by about 45 cents a pack. It's the largest cigarette price 
+increase in the industry's history. The hike comes just a week after 
+major tobacco companies reached a $206 billion settlement with 46 
+states. Industry analysts had predicted the cost of the settlement 
+would be passed along to smokers. 
+</TEXT>
+</DOC>

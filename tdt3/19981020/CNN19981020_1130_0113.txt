@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981020.1130.0113 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's 4,000 pages long, and many members say they don't know exactly 
+what it contains, but for better or worse, the house is expected today 
+to vote and approve the proposed 1999 federal budget. The Senate is 
+likely to do the same tomorrow. A vote on the $500 billion spending 
+package will officially end the duties of the 105th Congress, just 
+two weeks before election day. Farmers, school districts and the international 
+monetary fund are among the big winners in the proposed budget. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981118.2130.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Yesterday's interest rate cut by the federal reserve was enough to 
+drive markets up a little today. The Dow Jones industrial average 
+gained 54 points to close at 9041. 
+</TEXT>
+</DOC>

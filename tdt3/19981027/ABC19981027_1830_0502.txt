@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> ABC19981027.1830.0502 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At the White House tomorrow, the government and I bixt M will announce 
+the development of the world's fastest computer T certainly sounds 
+lining an astonishing breakthrough. A computer capable of making nearly 
+4 trillion calculations per second. ABC's Jack Smith reports tonight 
+on what that will mean to all of us. Remember IBM's "deep blue," which, 
+last year, became the first computer to beat a human being at chess? 
+Well, the new supercomputer is 20 times faster -- the equivalent of 
+15,000 desktop PCs. This is a new ball game. I mean, it will allow 
+us to do computing, simulation experiments, the kind of physics we 
+absolutely couldn't do before. Built by IBM for government nuclear 
+labs, this machine means breakthroughs in -- nuclear weapons. For 
+the first time, scientists can actually model a nuclear explosion, 
+eliminating the need for controversial testing. Life-saving drugs 
+-- with machines this powerful, drugs that take ten years to find 
+with hit-or-miss lab work can be isolated in just a year and a Half. 
+Climate -- so many probabilities can be assessed so fast, weather 
+can be predicted with real accuracy. Oil exploration -- better computer 
+simulation of where to drill means fewer dry holes, less damage to 
+the environment. Think about it this way. Using a pocket calculator, 
+it would take at least 63,000 years to do what this computer does 
+in a second. Machines this fast will revolutionize science. Jack Smith, 
+ABC News, Washington. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981229.2130.0948 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton wants to expand the definition of murder. He says 
+the charge should apply to children killed after a pattern of abuse. 
+</TEXT>
+</DOC>

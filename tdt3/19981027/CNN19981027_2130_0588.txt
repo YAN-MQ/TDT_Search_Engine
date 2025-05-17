@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981027.2130.0588 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Air force meteorologists are predicting a dramatically improved forecast 
+for Thursday's launch of space shuttle discovery. There had been concern 
+hurricane Mitch could disrupt takeoff. Meteorologists now say there 
+is zero chance bad weather will delay liftoff. That's good news for 
+John Glenn and the rest of the crew who arrived at kennedy space center 
+yesterday. They spent part of today undergoing medical checks. 
+</TEXT>
+</DOC>

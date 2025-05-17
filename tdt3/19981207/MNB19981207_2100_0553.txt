@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> MNB19981207.2100.0553 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There was some good news for the White House attorneys that came late 
+today in the form of an announcement from the justice department, 
+that in at least one pending case there will not be yet another independent 
+counsel. Janet Reno today made it clear there are "no reasonable grounds" 
+to investigate alleged campaign finances violations. 
+</TEXT>
+</DOC>

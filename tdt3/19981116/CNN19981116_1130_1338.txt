@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981116.1130.1338 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At 2:00 P.M. eastern, baseball will announce the American league's 
+cy young winner. Roger Clemens is a favorite to win the award. He 
+led the league in wins, E.R.A. and strikeouts for the second straight 
+season. 
+</TEXT>
+</DOC>

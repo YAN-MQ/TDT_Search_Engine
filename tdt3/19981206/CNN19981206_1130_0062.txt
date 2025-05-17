@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981206.1130.0062 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The crew of the space shuttle "endeavour" are preparing for the most 
+challenging part of their 11-day mission. They will try to attach 
+the first U.S. piece of the international space station called unity 
+to a Russian Module launched into space last month. Astronaut Nancy 
+Curry will use a robot arm to attach the two parts without a direct 
+line of sight and will only use a computerized system to align them. 
+It is so tricky that NASA has given them extra time on their schedule. 
+She used it yesterday to move it into position for today's assembly. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981103.1830.1717 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And a footnote here on earth as part of the exit poll, voters were 
+asked whether they would like a child of theirs to grow up to be president. 
+Just 31% said yes. 
+</TEXT>
+</DOC>

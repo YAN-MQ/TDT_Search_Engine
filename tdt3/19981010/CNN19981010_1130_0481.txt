@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981010.1130.0481 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll check the extended national weather forecast next. And in a 
+moment -- a very private sport is about to go public thanks to satellite 
+technology and the Internet. 
+</TEXT>
+</DOC>

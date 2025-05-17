@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981209.1130.0994 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new European pharmaceutical giant is being born. I'm Myron Kandel 
+at the "CNN Financial News" newsdesk in New York with this edition 
+of "Dollars & Sense." Britain's xeneca has agreed to merge with another 
+company in a deal valued at $35 million. It will become the third 
+largest maker of prescription drugs. Astra makes the ulcer drugs, 
+and xeneca produces a veert of cancer drugs. 
+</TEXT>
+</DOC>

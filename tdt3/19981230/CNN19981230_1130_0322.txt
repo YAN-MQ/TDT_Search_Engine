@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981230.1130.0322 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We check the weather outlook for the entire nation at 8 and 38 minutes 
+past the hour in the "Headline News" extended forecast. 
+</TEXT>
+</DOC>

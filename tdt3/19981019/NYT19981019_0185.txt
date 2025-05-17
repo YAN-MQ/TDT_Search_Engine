@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> NYT19981019.0185 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Good news from England: Statistical criteria may make it easier for 
+a man with stunted perceptual ability to decide whether a woman is 
+sexually attractive, unattractive or just so-so. This breakthrough 
+in sexiness assessment was reported in a renowned British journal, 
+The Lancet, in two papers by Dr. Martin Tovee, a psychologist, and 
+his colleagues at Newcastle University. The gist of the two reports, 
+one published in November and the other in August, was that sexual 
+attractiveness in women was a function of body weight compared with 
+height. Naturally, working this out requires some arithmetic. The 
+sexiness quotient proposed by the Newcastle group, called the body-mass 
+index, is calculated by measuring a woman's weight in kilograms and 
+dividing it by the square of her height in meters. Got that? For Americans, 
+this means we must divide a woman's weight in pounds by 2.205 to get 
+the kilograms, and multiply her height in inches times 0.0254 to get 
+the meters. Then we multiply that number times itself and divide the 
+result into the weight. Simplicity itself. After culling various journals 
+(including Playboy, which the authors cited as ``a source which has 
+been used by previous researchers and which is judged reliable''), 
+they compiled a table of average body-mass indices as follows: fashion 
+models, 17.57; other models (including centerfolds), 18.09; anorexic 
+women, 14.72; bulimic women, 23.66; normal women, 21.86. Investigators 
+in the past had theorized that feminine attractiveness was best gauged 
+by a woman's hip-to-waist ratio, on the grounds that a nice big ratio 
+supposedly signaled fecundity, a quality these scientists equated 
+with sexual attraction. But the Newcastle team tested this hypothesis 
+and found it wanting. Forty male undergraduates at the university 
+served as a panel rating the sexiness of full frontal color pictures 
+of 50 naked women of assorted shapes and sizes, depicted without faces. 
+A graph representing the students' rankings was compared with graphs 
+of the women's body-mass indices and with their waist-hip ratios, 
+and it was found that the students' perceptions matched the body-mass 
+ratios much more closely than the waist-hip ratios. Science marches 
+on. Not to be outdone, the University of Liverpool reported that women 
+who need anthropometric help in picking sexy mates should look above 
+the belt, at their prospects' hands. This conclusion, reported by 
+the magazine New Scientist, came from a study by Dr. John Manning 
+and his associates, who focused on male patients in a fertility clinic. 
+It turned out, he reported, that the men with the lowest sperm counts 
+and poorest sperm motility also had the least symmetrical hands. Manning's 
+group also discovered that men whose ring fingers were longer than 
+their index fingers often had elevated levels of testosterone, and 
+we all know what that means. Despite the scorn that has been heaped 
+on ``anthropometrics'' by Dr. Stephen Jay Gould (author of ``The Mismeasure 
+of Man'') and scores of other leading scientists, the urge to learn 
+about people by measuring them seems to be a deep-seated human impulse. 
+From the phrenologists of the 19th century to the heat-sensitive ``mood 
+rings'' of the 1960s, measurement systems fascinate and entertain 
+even skeptics. But while anthropometric systems are harmless fun for 
+some, they have also kindled bitter disputes. Sir Francis Galton, 
+a cousin of Charles Darwin, was a pioneer in the field of measuring 
+people. Sir Francis might have avoided intense criticism if he had 
+restricted his studies to sexual attractiveness, but he took a different 
+line, seeking to measure intelligence. Having concluded that intelligence 
+was a hereditary trait and that the breeding of stupid people should 
+be discouraged, Sir Francis threw the fat into a sociological fire 
+that still blazes intensely. Despite the bad name anthropometric systems 
+have in some circles, they are sometimes useful to forensic scientists. 
+Alphonse Bertillon, a 19th-century French anthropometrist, devised 
+a system of forensic identification based on the dimensions of parts 
+of a body, especially the head, left arm and left foot. His method 
+impressed Arthur Conan Doyle so much that in ``The Hound of the Baskervilles,'' 
+Sherlock Holmes exhibited jealousy of the famous French scientist. 
+Although most of Bertillon's techniques eventually proved unreliable, 
+the field of forensic anthropology that developed from his ideas still 
+thrives, with varying degrees of success. Still, even the modern version 
+can yield false conclusions. Among the body parts found in the aftermath 
+of the Oklahoma City bombing was a leg whose owner could not be identified. 
+Forensic anthropologists measured and studied the leg and finally 
+concluded it was probably the leg of a white man. But another and 
+more reliable method was available: DNA analysis. To the embarrassment 
+of the anthropometrists, DNA showed that the leg probably came from 
+a black woman. So, dear reader, if your body-mass index or finger-length 
+ratio is less than ideal, do not despair. Anthropometrists have been 
+known to err. 
+</TEXT>
+</DOC>

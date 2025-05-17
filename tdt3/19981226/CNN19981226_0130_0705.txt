@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981226.0130.0705 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some vitamins and dietary supplements claim to make major improvements 
+in your life. Many say you'll lose weight or become fit and strong. 
+Now, the federal government wants such claims substantiated. It's 
+issuing guidelines to regulate what manufacturers say their products 
+can and cannot do. For example, if a product says that University 
+studies prove a certain health claim, the federal trade commission 
+says it had better be prepared to show those studies. Or if a product 
+calls itself "cold away," and says it helps "maintain a Healthy nose 
+and throat during the winter," advertisers had better be able to back 
+up those claims. And it's not just the words manufacturers use, it's 
+the pictures, too. We're looking at the net impression. We're looking 
+at the images you use, the product name, the visuals. Everything put 
+together creates an impression, and consumers take away meaning from 
+that. But the market is too big for the government to be able to police 
+every claim. So, the bottom line remains, Buyer beware. Check out 
+CNN.com/health for the latest health news online. 
+</TEXT>
+</DOC>

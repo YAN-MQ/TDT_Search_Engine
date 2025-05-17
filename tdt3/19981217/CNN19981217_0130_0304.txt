@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981217.0130.0304 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Iraqi radio broadcast an address by President Saddam Hussein after 
+the fourth round of attacks. He said U.S. and British forces had bombed 
+a number of targets, and he called on soldiers and civilians alike 
+to fight the assault. He also accused those nations of cowardice for 
+using long-range missiles. 
+</TEXT>
+</DOC>

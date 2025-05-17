@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> NYT19981203.0528 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Friday, Dec. 4: More than 
+40 years after Dr. Sam Sheppard was convicted of murdering his wife, 
+the Ohio Supreme Court has allowed his son, Sam Reese Sheppard, the 
+chance to clear the doctor's name. Yet even now the local county prosecutor 
+is stubbornly fighting efforts to exonerate Sheppard, whose plight 
+inspired the movie and television series ``The Fugitive.'' The case 
+still captures the public imagination because it shows the evil of 
+a legal system when it is blind to innocence. The court's decision 
+allows Sheppard's son to move forward with a wrongful-imprisonment 
+lawsuit against the state of Ohio. Sheppard served 10 years in prison 
+before the United States Supreme Court overturned the conviction on 
+grounds that the trial had been tainted by excessive press coverage. 
+He was acquitted at a second trial in 1966, but died a few years later 
+a broken alcoholic. New DNA evidence shows that blood spattered at 
+the Sheppard house does not match that of either Sheppard or his wife, 
+indicating that a third person was present at the scene. DNA evidence 
+also suggests that the killer may have been a window washer who was 
+eventually convicted of another murder. Rarely do prosecutors admit 
+that devastating mistakes were made even in cases decades old. The 
+Sheppard case still polarizes lawyers and politicians who feel compelled 
+to defend their actions in the earlier investigation. One Ohio Supreme 
+Court justice who had been an assistant prosecutor in the second trial 
+refused to recuse himself despite his obvious conflict of interest. 
+He voted, unsuccessfully, to block the wrongful-imprisonment lawsuit. 
+But Sheppard arguably got a better shake than many innocent people 
+who have been wrongly convicted. His wealth and professional standing 
+brought attention to the case, and the noted criminal lawyer F. Lee 
+Bailey helped win his acquittal. Sheppard was railroaded into prison 
+for 10 years. Less privileged individuals without resources or able 
+champions have languished even longer in prison, sometimes on death 
+row, for crimes they did not commit. 
+</TEXT>
+</DOC>

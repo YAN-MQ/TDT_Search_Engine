@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981103.0500.1250 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The National Association of Purchasing Management says U.S. manufacturing 
+activity slowed in October for the fifth straight month largely because 
+of continued weakness in export orders. 
+</TEXT>
+</DOC>

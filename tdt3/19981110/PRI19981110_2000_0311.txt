@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> PRI19981110.2000.0311 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The productivity of American workers grew strongly in the third quarter. 
+The Labor Department said productivity grew by 2.3 percent in the 
+three months ending in September. Productivity is defined as the output 
+per worker per hour. And a rising productivity is considered key to 
+the health of the economy. The report said the biggest productivity 
+gains were in manufacturing. This is NPR. 
+</TEXT>
+</DOC>

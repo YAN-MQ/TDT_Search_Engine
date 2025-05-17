@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981018.1600.0584 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Leaders of the fed-ex pilots' union voted unanimously today to seek 
+strike authorization from its members. The union will now send ballots 
+to the delivery service's 3,200 pilots. The pilots have never had 
+a contract. The union says it disagrees with the company on issues 
+such as retirement benefits, pay, work rules and job protection. 
+</TEXT>
+</DOC>

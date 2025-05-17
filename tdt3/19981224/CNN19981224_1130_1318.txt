@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981224.1130.1318 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Buffalo goaltender dominic Hasek recorded his third shutout of the 
+month wednesday stopping Tampa bay 2-0. 
+</TEXT>
+</DOC>

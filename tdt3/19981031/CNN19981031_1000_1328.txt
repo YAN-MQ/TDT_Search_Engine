@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981031.1000.1328 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Elsewhere -- Scott niedermayer agreed to a contract with New Jersey 
+that will pay him in the range of $3.5 million per year. 
+</TEXT>
+</DOC>

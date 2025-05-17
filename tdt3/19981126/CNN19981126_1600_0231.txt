@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981126.1600.0231 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton took time for a round of golf today as the first 
+family spends the Thanksgiving holiday weekend at camp David. Mr. 
+Clinton, the first lady and daughter Chelsea will stay at the presidential 
+retreat through Sunday. A spokeswoman says they'll share Thanksgiving 
+dinner tonight with close family. The White House says that meal will 
+include -- 
+</TEXT>
+</DOC>

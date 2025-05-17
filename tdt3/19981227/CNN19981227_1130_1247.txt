@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981227.1130.1247 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Elvis Grbac hurled a 20-yard touchdown pass to Tony Gonzalez late 
+in the fourth quarter to help lift the chiefs over Oakland, 31-24. 
+</TEXT>
+</DOC>

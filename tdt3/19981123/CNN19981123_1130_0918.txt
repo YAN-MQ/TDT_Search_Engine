@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981123.1130.0918 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton made a brief stop in Guam today on his way back 
+from asia. He told the waiting crowd he would try to help the pacific 
+island in the face of the Asian economic crisis. 
+</TEXT>
+</DOC>

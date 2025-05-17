@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981222.2000.1987 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Those are the news headlines from the BBC Newsroom in London. I'm 
+Derrick Stoffel. You're listening to THE WORLD. This is THE WORLD, 
+a co-production of the BBC World Service, PRI, and WGBH in Boston. 
+I'm Lisa Mullins. 
+</TEXT>
+</DOC>

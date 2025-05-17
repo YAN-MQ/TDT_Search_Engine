@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981222.0500.2957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+German producer prices fell four-tenths of one percent in November, 
+led by cheaper data processing equipment. The drop was larger than 
+expected. Prices for the year fell 1.6%, the largest annual drop since 
+records for unified Germany began. It confirms that inflation is absent 
+in Europe's largest economy. 
+</TEXT>
+</DOC>

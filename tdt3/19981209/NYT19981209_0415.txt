@@ -1,0 +1,92 @@
+<DOC>
+<DOCNO> NYT19981209.0415 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In a spirited Supreme Court argument Wednesday, the city of Chicago 
+defended an anti-loitering law that permits arrests not only of suspected 
+gang members but of anyone else who, standing with ``no apparent purpose'' 
+on a public street near a gang member, defies a police order to move 
+on. ``The Constitution does not protect the right to stand next to 
+a gang member,'' Lawrence Rosenthal, Chicago's deputy corporation 
+counsel, told the justices in what appeared to be an uphill battle 
+to resurrect a 1992 city ordinance that has drawn widespread attention 
+from around the country as a potential model for a new approach to 
+gang violence. Tens of thousands of people were arrested under the 
+law during the three years it was in effect before an Illinois appellate 
+court declared it unconstitutional in 1995. Rosenthal said the law 
+imposed ``at most a minimal inconvenience'' when compared to the ``enormous 
+evils'' visited by gangs on terrified Chicago neighborhoods. Citing 
+U.S. Supreme Court precedents, the Illinois Supreme Court ruled last 
+year that the law was unconstitutionally vague, in failing to give 
+``fair notice'' of what conduct was prohibited. The state court also 
+said the law violated a number of other constitutional rights, including 
+due process, the right to associate with others, and the ``personal 
+liberty of being able to freely walk the streets.'' The city's appeal 
+is one of the most important civil liberties cases of the Supreme 
+Court term, questioning at least implicitly whether several Supreme 
+Court decisions from the 1970s, which sent into eclipse the vagrancy 
+and loitering laws that were once common in American cities, are still 
+good laws. While there was little direct discussion of those precedents 
+in the courtroom Wednesday, several justices expressed serious doubts 
+about Chicago's approach. ``I'm bothered by the seemingly open-ended 
+possibilities of what is and is not an `apparent purpose,''' Justice 
+David H. Souter told Rosenthal. ``Some people with nothing better 
+to do like to sit and watch the cars go by.'' Reflecting the high 
+constitutional and practical stakes in this case, City of Chicago 
+vs. Morales, No. 97-1121, the Clinton administration and 31 states 
+filed briefs supporting Chicago, while a broad coalition of civil 
+liberties and criminal defense groups are supporting the challengers. 
+The law is ``inherently vague and overbroad,'' Harvey Grossman, an 
+American Civil Liberties Union lawyer from Chicago, told the justices 
+Wednesday. ``At its core it defines no conduct,'' he said of the law, 
+adding that it ``requires a police officer to engage in a surreal 
+exercise of determining whether someone has a purpose'' that justifies 
+being allowed to remain on a public street. The law authorizes a police 
+officer who ``observes a person whom he reasonably believes to be 
+a criminal street gang member loitering in any public place with one 
+or more other persons'' to order the entire group to move on and to 
+arrest anyone who remains. Loitering is defined as ``to remain in 
+any one place with no apparent purpose.'' Many of the justices' questions 
+for Rosenthal, Chicago's lawyer, dealt with how the police are supposed 
+to identify the purposeless loiterers to whom the law should be applied. 
+Rosenthal insisted that any concern for the law's vagueness was misplaced. 
+All people have to know is to obey an order to disperse, he said. 
+``A law that says one cannot stand still in the city of Chicago when 
+ordered to move is not vague,'' Rosenthal explained, adding that there 
+was little potential for innocent people to be swept up along with 
+gang members. In gang-ridden neighborhoods, people are afraid to use 
+the streets and are not likely to be on them in any event, he said. 
+But some justices still had questions. ``There is a concern here with 
+the potential for arbitrariness in the way the police enforce it,'' 
+Justice Sandra Day O'Connor said. Justice Stephen G. Breyer asked 
+Rosenthal whether the city council could decide that ``we've had some 
+problems with gangs, so no one can stand on the street.'' There was 
+``nothing vague'' about such a law, Rosenthal said, adding that it 
+was ``certainly rational.'' Breyer was not satisfied. ``Is that all 
+it takes?'' he asked. ``My house isn't very big, it's unpleasant and 
+it's hot. I want to go stand on the street and the city council says 
+you can't?'' Because no ``fundamental right'' was involved, Rosenthal 
+said, such a law should be upheld under the lowest level of constitutional 
+scrutiny, mere rationality. This prompted a friendly intervention 
+from Justice Antonin Scalia, who made his support for Chicago's argument 
+quite clear. ``Do you know anyone who would rather smoke in a bar 
+than stand on the street?'' he asked Rosenthal, and then went on to 
+answer his own question: ``I know several, and they're disabled from 
+doing it, and no one thinks it's a problem.'' When his turn came, 
+Grossman, the civil liberties lawyer, said the city's argument that 
+the law was not vague because it clearly obliged people to move when 
+ordered was nothing more than ``a high level of sophistry.'' The essence 
+of the law, he said, was being found on the street with no apparent 
+purpose. He told the justices that of the 66 defendants on whose behalf 
+he challenged the law, 34 had been charged only with being in the 
+presence of a gang member and were not themselves identified as members 
+of gangs. Breyer asked Grossman to propose an approach that would, 
+in his view, be a constitutional way to attack the problem. The lawyer 
+replied that other cities had laws that ``make distinctions between 
+criminal loitering and innocent loitering,'' for example, making it 
+a crime to loiter with intent to sell drugs or engage in prostitution. 
+The laws make it clear that what is prohibited is ``wrongful conduct,'' 
+he said. 
+</TEXT>
+</DOC>

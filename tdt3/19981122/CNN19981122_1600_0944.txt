@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981122.1600.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton spoke to U.S. troops in south Korea today. He told 
+them they must remain vigilant in the face of provocative nuclear 
+missile tests in north Korea. 
+</TEXT>
+</DOC>

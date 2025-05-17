@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981017.1830.0949 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+there has been deadly weather to report to you tonight in Texas, including 
+a tornado in dallas, and this flooding in San antonio99 Antonio. Three 
+people have been swepted away in high water from swollen creeks. 
+</TEXT>
+</DOC>

@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981110.1600.0498 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News" weather begins with our forecast 
+weather map for north America. And you can see the bad storm that's 
+been producing blizzard conditions in the upper midwest, rainfall 
+and severe weather all along the cold front as it moves through the 
+east. As we go through the day tomorrow, that storm system continues 
+to move rapidly through the east. And by tomorrow evening, most of 
+the precipitation will be off the east coast. Windy conditions will 
+move out of the Great Lakes area. But moving in behind this storm, 
+some very cold weather. Some places in the Rockies, daytime highs 
+only in the teens, 20s and 30s for much of the upper midwest, the 
+plains states into parts of the far west. As far as the extended forecast 
+is concerned, you can see on Thursday few snow showers linger in the 
+Great Lakes area. Another storm system rolls in through the northwest, 
+temperatures moderate somewhat, however. Rain showers continue to 
+spread through the south as we move on into the weekend. And on Saturday, 
+you can see rainfall, at least the threat of such, throughout much 
+of the east. For more weather information, log on to CNN.com, four-day 
+forecasts for 7,200 cities. 
+</TEXT>
+</DOC>

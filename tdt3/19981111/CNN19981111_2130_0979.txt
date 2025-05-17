@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981111.2130.0979 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The blue chips will spend the night in Negative territory for a third 
+straight session. 
+</TEXT>
+</DOC>

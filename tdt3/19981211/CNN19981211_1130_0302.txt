@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981211.1130.0302 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with our "CNN Headline News" weather. 
+Temperatures today, fairly seasonable in most locations. 40s will 
+cover the plains in through the Great Lakes and into the northeast. 
+Some 80s are likely though south Florida cool. Back through the southern 
+Rockies with highs only in the 30s. Still have some wet weather to 
+deal with in Texas and along the gulf coast as low pressure moves 
+very slowly through the weekend along the gulf coast. So tomorrow, 
+much of the southeast will see some wet weather. High pressure continues 
+to build in through the west for fair conditions in through the northern, 
+central Rockies. Back into the pacific northwest, though, a new storm 
+pushing inland will bring rain along the coast, and some mountain 
+snows are expected. A look now at the extended forecast -- on Sunday, 
+showers will continue along the east coast. Some snow possible in 
+sections of the northeast. And another wet day in the pacific northwest 
+is anticipated. By Monday, temperatures really beginning to warm up 
+in the plains and the southeast back into the 60s and the 70s. Snow 
+is expected to continue, though, in the northern Rockies. On Tuesday, 
+the warming trend continues in the south, but turning colder into 
+the Rockies. For more weather information, you can log into CNN.com. 
+</TEXT>
+</DOC>

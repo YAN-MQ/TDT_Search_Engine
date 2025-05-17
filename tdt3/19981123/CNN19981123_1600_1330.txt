@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981123.1600.1330 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Brad Scott is leaving South Carolina, although not by choice. Scott 
+led the gamecocks to their only bowl win four years ago. But this 
+year, the team finished at 1-10 -- the worst record in the school's 
+105-year football history leading to his dismissal. 
+</TEXT>
+</DOC>

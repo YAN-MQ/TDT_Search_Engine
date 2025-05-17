@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981128.1000.1067 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There's a flip side to many company mergers job cuts. That's the case 
+this year, according to the outplacement firm, challenger, gray and 
+Christmas. It finds merger-related layoffs are 48% higher this year, 
+than last year. And more merger announcements are likely before new 
+year's eve. 
+</TEXT>
+</DOC>

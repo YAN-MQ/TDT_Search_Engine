@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981119.2130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the Israeli government has given the final go-ahead for the withdrawal 
+of troops from a part of the West Bank the size of Chicago. 
+</TEXT>
+</DOC>

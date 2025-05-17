@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> PRI19981020.2000.0174 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Securities and Exchange Commission has charged 37 brokerage firms 
+with failing to abide by SEC rules and disclose what they know and 
+how they're preparing to deal with computer glitches in the year 2000. 
+NPR's Kathleen Chalk reports. This is the first enforcement action 
+the SEC has taken since the rules went into effect. SEC Chairman Arthur 
+Levitz said investors have the right to know what steps their brokers 
+have taken to address possible computer failures that could affect 
+their investments. Broker dealers are supposed to provide information 
+about how they're getting ready for the end of the millennium and 
+what contingency plans they've made in case their computers don't 
+work properly. The SEC says it needs this information to identify 
+potential problems and gauge the industry's overall readiness. Nineteen 
+of the 37 firms charged have agreed to settlement offers including 
+censures and fines ranging from 5- to $25,000, depending on how much 
+of the required paperwork they fail to turn in. Kathleen Chalk, NPR 
+News, Washington. 
+</TEXT>
+</DOC>

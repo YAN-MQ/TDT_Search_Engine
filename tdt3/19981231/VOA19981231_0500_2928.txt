@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981231.0500.2928 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And the hour's top news story we're following for you, 11 European 
+countries launched a common currency, the euro, in midnight or at 
+midnight when the New Year's Eve celebrations come to an end in Europe. 
+</TEXT>
+</DOC>

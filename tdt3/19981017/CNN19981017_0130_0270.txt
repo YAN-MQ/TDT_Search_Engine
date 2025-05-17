@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981017.0130.0270 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The government is setting up a new FBI office to help local authorities 
+respond to chemical, biological or nuclear terrorist attacks on American 
+soil. On Friday, attorney general Janet Reno announced the creation 
+of the national domestic preparedness office. It will offer police 
+officers and firefighters one-stop shopping for federal training and 
+equipment to respond to attacks. When a terrorist act strikes the 
+streets or rural areas of America, the first few minutes are very 
+critical. The first people on the scene are often local rescue squads, 
+firefighters and police. They are on the front line. The situation 
+is often chaotic and dangerous. For many victims, what these first 
+responders do in those first few minutes can mean the difference between 
+life and death. The department of defense, department of energy and 
+public health service also will take part in the program. 
+</TEXT>
+</DOC>

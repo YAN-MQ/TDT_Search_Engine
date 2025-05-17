@@ -1,0 +1,105 @@
+<DOC>
+<DOCNO> NYT19981010.0122 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+State health insurance regulators are reporting surging numbers of 
+formal complaints from patients and doctors against health insurers, 
+primarily health maintenance organizations. They say they doubt that 
+the rise implies a deterioration in care. They tie much of it to greater 
+public readiness to fight HMOs and to the insurance commissioners' 
+efforts to encourage people to file complaints. ``We are beating the 
+bushes,'' said Neil Levin, New York state's insurance superintendent. 
+What troubles the commissioners more than the volume of complaints 
+is a broad shift in the nature of them. Disputes with insurers have 
+changed from conflicts over who should pay for care, usually after 
+it has been provided, to conflicts over denials and delay of care 
+and over medication and forms of treatment. ``Before it was about 
+who pays,'' said Patricia Butler of Boulder, Colo., a health care 
+analyst and consultant to insurance commissioners. ``Now it's about 
+whether you get the service at all. You might have your health hanging 
+in the balance, so it's a little more frightening.'' Commissioners 
+say the formal complaints represent possible violations of law and 
+health-plan provisions, and are culled from many more trivial and 
+unsupportable claims. Depending on the state, 40 percent to 80 percent 
+of the complaints are resolved in favor of the patient or the physician. 
+No one records national trends in the number of complaints, but the 
+National Association of Insurance Commissioners predicts that 35,000 
+will be filed by the end of this year. In interviews with 12 insurance 
+departments of mostly populous states with dense concentrations of 
+managed care, those of New York, Connecticut, Illinois, Texas, Ohio 
+and Maryland said complaints had grown at least 50 percent over the 
+last one to three years, far faster than the growth of enrollment 
+in managed care plans. Only one state, Minnesota, reported a decline; 
+other states with increases included Arizona, Florida, New Hampshire, 
+Oregon and Washington. New York reported a sixfold increase in claims 
+against managed care organizations from 1996 through September of 
+this year. It said that 76 percent of the 20,089 claims filed over 
+the period had been settled in favor of the consumers and doctors 
+bringing them. Levin ascribed much of the increase to the travails 
+of one leading HMO, Oxford Health Plans, and to fee disputes with 
+physicians. In Texas, complaints from consumers have been climbing 
+for several years, to 846 in 1996 from 131 in 1993. In the fiscal 
+year ended in August, the number leaped to 4,914, largely because 
+of a new law allowing complaints by physicians. Insurance industry 
+executives say that in spite of the rise, independent surveys regularly 
+show that 80 percent to 90 percent of managed care organizations' 
+enrollees are satisfied with their care, a figure that has changed 
+little over the last decade. ``It's way too simplistic to equate'' 
+the rise in complaints with the quality of care and reach the conclusion, 
+```Aha! Things are getting worse,''' said Bill Pierce, spokesman for 
+the Blue Cross and Blue Shield Association, which represents 55 organizations 
+that sell both managed care and fee-for-service plans. And as enrollees 
+become accustomed to HMOs, he said, they find less to complain about. 
+Pierce said candidates for state and federal office had fanned public 
+fears of HMOs. Charles Kahn, chief operating officer of the Health 
+Insurance Association of America, said that 35,000 complaints a year 
+from the 77 million enrollees whose insurance is subject to state 
+regulation was not a large number. ``You should have zero tolerance 
+for problems,'' he said. ``Inevitably there are going to be some.'' 
+That 80 percent of managed care enrollees are satisfied with their 
+care obscures the views of a less satisfied 10 percent or 15 percent 
+who make much use of the organizations, said Karen Pollitz, an analyst 
+at the Institute for Health Care Research and Policy at Georgetown 
+University. ``In any health plan,'' Ms. Pollitz said, ``the vast majority 
+are healthy and are not using the services.'' Commissioners add that 
+dwelling on the number of complaints masks an issue they say is more 
+ominous: the changing nature of complaints. Kansas, for instance, 
+had only 145 complaints through September. ``But I'm not sure numbers 
+are the best indicator,'' the state insurance commissioner, Kathleen 
+Sebelius, said. ``A mother called us,'' Ms. Sebelius said. ``Her 15-year-old 
+son had attempted suicide and was going to be released from the hospital 
+in 24 hours. She was absolutely frantic. ``She was afraid he'd be 
+dead if he were released. We got him permission to stay an additional 
+week with extra evaluation and to have a plan in place prior to any 
+release.'' Charles Blossom, New Hampshire's insurance commissioner, 
+cited a woman who had had a mastectomy under a fee-for-service plan. 
+After switching to an HMO, she needed another mastectomy, but was 
+not allowed to see the same doctor. ``We got involved and they permitted 
+it,'' Blossom said. In Oregon, which reports a comparatively small 
+17 percent increase in complaints from 1996 to 1997, Joel Ario, consumer 
+protection manager for the Oregon Insurance Division, sees two forces 
+at work. ``There are more genuine problems in the marketplace,'' he 
+said, and ``people are more aware of us.'' Many insurance commissions 
+have installed consumer hot lines and many have put complaint forms 
+on their Web pages. Some publish ``report cards,'' disclosing HMO 
+accreditation levels, levels of patient satisfaction and details of 
+charges and services. ``The public is learning to use the system,'' 
+said Kip May, deputy director of the Ohio insurance department. Through 
+August, 17 states had also opened a new channel for complaints in 
+creating courts of third-party review _ nonpartisan arbitrators, unaffiliated 
+with the industry. Commissioners also report wide variations in complaints 
+from company to company. Using ratios of complaints and plan enrollments 
+to permit fair comparisons, the Texas Department of Insurance reports 
+that last year, Foundation Health received three times the complaints 
+brought against Cigna Healthcare and 10 times those against the Kaiser 
+Foundation Health Plan. Some small HMOs had no recorded complaints. 
+One striking exception to the surge in complaints is Minnesota, which 
+has had HMOs for more than two decades. After years of tight regulation, 
+complaints have dropped over the last few years to 600 or 700, from 
+an average of 1,300 a year in the late 1980s, said Kent Peterson, 
+director for managed care systems in the Department of Health. ``Every 
+member has had the phone number of this office on their membership 
+card for 10 years,'' he said. 
+</TEXT>
+</DOC>

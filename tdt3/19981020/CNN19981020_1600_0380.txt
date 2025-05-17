@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981020.1600.0380 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Victoria, Texas, flooding along the guadualupe river is sending 
+some residents to their roofs and into trees. Boats, helicopters, 
+and even jet skis are being used to rescue them. City officials say 
+the river is expected to rise even higher tomorrow. 60 south Texas 
+counties from San Antonio to Houston are under flood alerts after 
+four days of heavy rain. At least 17 people have been killed. Thousands 
+of residents are being housed in shelters statewide. We'll have the 
+complete extended weather forecast in just a few minutes. 
+</TEXT>
+</DOC>

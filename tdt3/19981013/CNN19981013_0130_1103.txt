@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981013.0130.1103 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+subaru is recalling more than 20,000 vehicles because of faulty oil 
+filters that might cause an engine fire. the recall involves 1998 
+and '99 model subaru legacy cars and station wagons. subaru also says 
+oil filters on legacy, imprezas, and forester models should be checked, 
+if they were taken in for an oil change at a subaru dealer between 
+january 21st and april 7th. the automaker says eight fires have been 
+reported from the problem, but there were no accidents or injuries. 
+</TEXT>
+</DOC>

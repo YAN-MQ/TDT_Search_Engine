@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981105.1600.1644 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll be back in two minutes with all the day's news including the 
+latest on Henry Hyde's plans for the impeachment inquiry against president 
+clinton. I'm Chuck Roberts. This is "CNN Headline News." 
+</TEXT>
+</DOC>

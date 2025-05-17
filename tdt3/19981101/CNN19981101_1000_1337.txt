@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981101.1000.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It was a playoff atmosphere on the ice as Brett Hull drilled to goals, 
+including the game-winner as Dallas beat Detroit 3-2. The Islanders 
+skated past the Flyers 3-2. Tommy Salo stopped 28 shots. Buffalo took 
+care of Toronto 5-3 behind Geoff Sanderson's hat trick. And Dave Andreychuk 
+sent home two powerplay goals in the Devil's 3-1 victory over Florida. 
+</TEXT>
+</DOC>

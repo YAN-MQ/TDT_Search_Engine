@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981110.1600.0439 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new study of arts education in U.S. schools paints a troubling picture. 
+The study found about 20% of schools offer no music or art classes. 
+Education secretary Richard Riley says that's wrong, and he calls 
+it a Serious mistake to short-change children's instruction in the 
+arts. Riley says music and art can help young people learn to think 
+creatively and solve problems. Many school districts have cut back 
+on art and music classes because of tight budgets. 
+</TEXT>
+</DOC>

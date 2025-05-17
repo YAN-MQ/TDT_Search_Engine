@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981110.0130.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court on Monday refused to shield one of President Clinton's 
+closest advisers from testifying before a federal grand jury. The 
+decision could allow independent counsel Ken Starr to question Bruce 
+lindsey in the Monica Lewinsky matter. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981211.1830.1217 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+From cape Canaveral, next stop, Mars. NASA launched the spacecraft 
+Mars climate Orbiter with a camera mounted on the outside of the rocket 
+for a unique view of what it's like to blast away from earth. As fast 
+as it looks, it'll still take ten months for the craft to complete 
+its 416 million-mile trip. 
+</TEXT>
+</DOC>

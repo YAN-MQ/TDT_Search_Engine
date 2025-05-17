@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981118.0130.0541 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the international monetary fund and several other world economic bodies 
+are setting up a debt service trust fund for countries affected by 
+hurricane mitch. the arrangement would suspend interest payments on 
+loans so the governments could rebuild roads and other infrastructure, 
+and the lenders are considering forgiving some debt for the hardest 
+hit countries. mitch killed 11,000 people and caused billions of dollars 
+in damage. 
+</TEXT>
+</DOC>

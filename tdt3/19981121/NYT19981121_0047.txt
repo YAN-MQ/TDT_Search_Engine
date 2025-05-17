@@ -1,0 +1,114 @@
+<DOC>
+<DOCNO> NYT19981121.0047 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Forget E.F. Hutton. These days, when the markets speak, everyone, 
+even Alan Greenspan, listens. That's the message from the Federal 
+Reserve Board's decision last week to cut interest rates for the third 
+time in seven weeks. The reason for the rate reductions was not a 
+slowdown in the domestic economy, which is typically behind a rate 
+cut. Rather the moves were an attempt to eliminate ongoing problems 
+in the international bond markets that first surfaced in August when 
+Russia defaulted on its debt. A perhaps unintended consequence of 
+the Fed's moves is a stock market that has gone up, up and away. In 
+about a month, the Dow Jones industrial average has risen more than 
+1,000 points. This recovery, from the depths of August's despair, 
+is impressive indeed. Compare it, for example, with how stocks acted 
+after the Crash of 1987. Then, according to Peter Canelo, an equity 
+strategist at Morgan Stanley Dean Witter, it took 15 months for stocks 
+to recover half of what they lost. This year, it took less than one 
+month. And yet, many of the world's economic woes that caused the 
+market to go down remain as troubling now as they were two months 
+ago. Most of Asia continues in deep recession, the success of the 
+Brazilian bailout is unclear and earnings at corporations in this 
+country are falling. Many economists think prospects for economic 
+growth next year are tepid at best. And so the market is made up of 
+two voices: one that votes with its funds, another that worries over 
+the economic data. The gulf between these two is wider than it has 
+been in a long time. Those putting their money into stocks are saying 
+that there will be no recession in 1999 and that corporate profit 
+growth next year will not be as disappointing as pessimistic economists 
+predict. Part of their optimism is based on lower interest rates, 
+which mean less onerous borrowing costs for corporations. Bond prices 
+typically also rise when the Fed cuts rates because the new lower 
+prevailing rate of interest paid on debt securities makes those bonds 
+issued previously and at higher rates more valuable. But three interest 
+rate cuts, a balm to both economy and consumer, cannot explain all 
+of the stock market's feverish movement. The rocketing stock market 
+seems to be increasingly unconnected to economic reality. This is 
+not to say that investors are behaving irrationally. Since the market 
+is thousands of individuals making discrete investment decisions with 
+cold, hard cash each day, the market actually tends to see the future 
+better than the economists and market strategists who pop up on television 
+and in the newspaper. No one yet knows, of course, whether the market 
+or the pessimistic pundits will win out next year. What is knowable 
+is which voice is being heeded more these days. It is the voice of 
+the market. How do you search for clues about the nation's economic 
+future? Historically, analysts scrutinized the government's releases 
+of economic data to decide on an investment path. Now people are looking 
+at the market to see which path to take, buying stocks simply because 
+they are going up. More than one Wall Street strategist says that 
+since the market is very good at seeing recessions on the horizon, 
+rising stock prices mean there will be no such thing in 1999. If the 
+market saw a recession looming, stock prices would not be rising, 
+according to this argument. Even the Fed chairman seems riveted on 
+the markets, not on economic arcana such as, say, the U.S. international 
+price index for in-bound ocean line freight. His three recent rate 
+cuts have been strictly the result of disturbing patterns in the bond 
+market. Investors used to watch the Fed to help them make their investment 
+decisions. Now the Fed analyzes investors to help it set monetary 
+policy. This is not to say that the Fed no longer considers economic 
+data, of course. And part of the central bank's increased focus on 
+the bond market is the Fed's quite fitting response to the increasing 
+significance of the bond and stock markets. As more and more individual 
+investors put their savings into stocks, for example, the performance 
+of the stock market becomes more of a predictor of consumer buying 
+patterns. Since the American consumer accounts for two-thirds of the 
+nation's economy, a surging stock market and its resulting wealth 
+creation, has a big effect on businesses everywhere. But there is 
+also something strangely circular in this focus on the financial markets. 
+As investors and policy-makers look increasingly to the markets for 
+wisdom, it becomes the investment equivalent of looking at dancers 
+looking at themselves in the mirror. ``We've lost our anchor,'' said 
+Stan Jonas, managing director of Fimat U.S.A., a brokerage in New 
+York that specializes in futures and derivatives. ``We used to have 
+some idea and take a bit of news and say it means that the Fed is 
+more or less likely to do something. But now it's not the fundamentals, 
+it's what other people think about the fundamentals that are important.'' 
+Not that the market isn't wise. It is, because the market is, at any 
+given time, the sum of investors' current knowledge of the facts that 
+influence investing decisions. But it is not omniscient; sometimes, 
+investors don't have all the facts they need to make an informed decision. 
+But facts are becoming less important to the increasing numbers of 
+investors who buy stocks. After years of a roaring bull market, many 
+players are short term oriented in their trading, investing based 
+on what they think valuations of stocks and bonds will be next month 
+or even next week; the objective is less about long-term investing 
+than it is about investing to outwit the masses. A dangerous thing. 
+Behavior like this is as old as human nature. John Maynard Keynes 
+discussed it in his 1936 book, ``The General Theory of Employment 
+Interest and Money.'' To Keynes, ``professional investment may be 
+likened to newspaper competitions in which competitors have to pick 
+out the six prettiest faces from a hundred photographs, the prize 
+being awarded to the competitor whose choice most nearly corresponds 
+to the average preferences of the competitors as a whole.'' What inevitably 
+happens, he wrote, is ``each competitor picks not those faces which 
+he himself finds prettiest, but those which he thinks likeliest to 
+catch the fancy of the other competitors.'' In the context of today's 
+market, Keynes' observation translates to: What counts is not what 
+we think about the future of the economy or the stock market but what 
+we think most people think about the future of the economy or the 
+stock market. At a recent investment conference in New York City sponsored 
+by Grant's Interest Rate Observer, one of the speakers was Steven 
+Leuthold, a respected stock market analyst known for relying on hard 
+facts and historical data to draw his conclusions on market strategy. 
+Leuthold had been bearish recently, pointing to a raft of figures 
+that put the stock market at overvalued levels. Yet Leuthold said 
+he had become bullish about stocks and felt that the Dow would pierce 
+the 10,000 level within months. The reason for his change of heart? 
+The biggest indicator of all: the crowd. Main Street is in love with 
+stocks, he said, and this made higher stock prices a given. If you 
+can't beat them, get in line. 
+</TEXT>
+</DOC>

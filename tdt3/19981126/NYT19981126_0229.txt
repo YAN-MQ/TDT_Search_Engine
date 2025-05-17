@@ -1,0 +1,90 @@
+<DOC>
+<DOCNO> NYT19981126.0229 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A report commissioned by the Fannie Mae Foundation, an arm of the 
+federally chartered home-mortgage provider, shows the extent to which 
+race plays a determining role in where immigrants live in New York 
+City. The study focuses on the conditions immigrants face in their 
+communities, rather than just their buildings. The study, prepared 
+by the Center for Real Estate and Urban Policy at the New York University 
+School of Law, shows that black and Hispanic immigrants live in city 
+neighborhoods with the highest rates of serious crime, tuberculosis 
+and unsafe buildings, and that their experience is rivaled only by 
+conditions faced by blacks born in the United States. Immigrants from 
+Europe, Asia and the nations of the former Soviet Union, by comparison, 
+live in neighborhoods with fewer deleterious conditions. Titled ``Nativity 
+Differences in Neighborhood Quality,'' the study builds on the findings 
+of a previous Fannie Mae study of immigrant housing. The earlier study, 
+released in May, found that black and Hispanic immigrants lived in 
+the city's most dilapidated buildings, paid the highest percentages 
+of their incomes for rent and had the lowest rates of home ownership. 
+As in the new study, those conditions were matched only by those faced 
+by native-born blacks. ``Our results suggest there is a racial hierarchy 
+of neighborhoods in New York,'' said Michael Schill, director of the 
+NYU real estate center. ``Blacks and Latinos live in worse-quality 
+neighborhoods than whites, regardless of whether they were born in 
+the United States or not.'' The new report was prepared by Schill, 
+Samantha Friedman of the NYU center and Emily Rosenbaum, a sociology 
+professor at Fordham University. It examined six neighborhood conditions: 
+crimes against persons per 1,000 residents; tuberculosis cases per 
+10,000 residents; the percentage of buildings with safety violations; 
+the percentage of the neighborhood population on public assistance; 
+the percentage of subsidized housing units, and the availability of 
+physicians per 10,000 residents. In every category except the availability 
+of physicians, immigrants from the Dominican Republic, other Caribbean 
+countries, Latin America, Africa and Puerto Rico lived in neighborhoods 
+that posted the top four or five rankings, indicating that they faced 
+the worst conditions. For example, in the category of crimes against 
+persons, Puerto Ricans, at 17.58 cases; Caribbeans and Africans combined, 
+at 15.57 cases; Dominicans, at 13.99, and Latin Americans, at 13.02, 
+lived in neighborhoods with the second through fifth highest crime 
+rates, topped only by native-born blacks, at 19.01. In the category 
+of tuberculosis cases per 10,000 residents, Dominicans topped the 
+list, at 34.99, followed by native-born blacks, at 34.37; Puerto Ricans, 
+at 31.66, and Latin Americans, at 29.48. The study was based on data 
+from the 1996 Housing and Vacancy Survey, which is considered the 
+city's best source of housing data, as well as on crime and other 
+housing statistics. The Housing and Vacancy Survey, conducted every 
+three years by the Census Bureau, sampled 15,752 households, of which 
+5,933 were headed by immigrants. Surprisingly, immigrants from the 
+former Soviet Union live in neighborhoods that rank particularly well 
+with respect to crime, disease and unsafe housing _ even when compared 
+with native-born whites. The crime rate for neighborhoods occupied 
+by those immigrants ranked lowest on the list, at 8.69 incidents per 
+1,000 residents, compared with 9.39 for native-born whites. With tuberculosis 
+as an indicator of the prevalence of disease, Soviet immigrants experienced 
+the lowest rates of exposure, 17.52 cases per 10,000 residents, while 
+the rate for native-born whites was 18.31. And in terms of housing 
+safety, the average number of buildings with code violations for Soviet 
+immigrants was 0.14, compared with 0.23 for native-born whites. ``Russians 
+do well on these indicators,'' said Rosenbaum, ``largely because of 
+their concentration in relatively well-to-do neighborhoods like Forest 
+Hills and Manhattan Beach, and even Brighton Beach.'' ``They have 
+a relatively higher proportion with college educations, compared to 
+other groups,'' she said. ``But I think part of it is that they are 
+white. It's really race and ethnicity that drive the difference between 
+the ethnic groups.'' The two groups with higher proportions of college 
+educations than immigrants from the former Soviet Union were those 
+from Southeast Asia, and from India, Pakistan and Bangladesh, taken 
+as a group. In the category of physician availability for every 10,000 
+residents _ based on the location of the doctor's primary office _ 
+immigrants from the Indian subcontinent had the lowest number of doctors 
+in their neighborhoods, 20.64; those from the former Soviet Union 
+had the second lowest number, 20.79, and native-born whites had the 
+most doctors available, 37.61. Naomi Bayer, director of the New York 
+office of Fannie Mae, said the study was commissioned because ``Fannie 
+Mae is committed to eliminating discrimination in the mortgage financing 
+system.'' ``One of the challenges that the study shows we must address,'' 
+she said, ``is how to reach people who may not have access to information 
+about the home-buying process. We really think that there's a great 
+improvement in neighborhood conditions when there's a higher proportion 
+of homeowners.'' Schill said the public-policy implications of the 
+study ``are that stepped-up enforcement of antidiscrimination laws, 
+such as the Federal Fair Housing Act, and investment in minority neighborhoods, 
+such as that promoted by the Federal Community Reinvestment Act, are 
+likely to go a long way in improving conditions of immigrants living 
+in this city.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981105.1600.0959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And new research shows strength-training exercises, along with Mineral 
+supplements, can lessen the effects of osteoporosis. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981011.1000.0445 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Thousands of Israelis were forced to evacuate their homes today when 
+a forest fire engulfed a neighborhood for several hours. At least 
+three people were injured when high winds carried flames from the 
+forest into a populated area in haifa. The fire destroyed about 20 
+homes. 
+</TEXT>
+</DOC>

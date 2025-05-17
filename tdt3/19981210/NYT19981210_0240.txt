@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> NYT19981210.0240 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A unanimous U.S. Supreme Court ruled Tuesday that police cannot search 
+a driver or the driver's car if the original stop was for a traffic 
+violation and the driver merely ticketed. It is a welcome decision 
+to anyone who cherishes privacy. And unexpected. The ruling is one 
+of the few times that the high court, during Chief Justice William 
+Rehnquist's tenure, has defended a person's right to be free of searches 
+while in an automobile. The police do not need a warrant to search 
+an automobile, only probable cause. Understandably, a car might be 
+driven off and evidence destroyed before a warrant could be obtained. 
+The exception to this rule is a car parked in the driveway of the 
+suspect's home. Patrick Knowles was stopped in Newton, Iowa, for speeding. 
+The police officer, following Iowa law, had a choice of arresting 
+Knowles or issuing him a citation. The officer wrote a ticket and 
+then, as allowed by Iowa law, conducted a full search of the car without 
+Knowles' permission and without probable cause. The officer found 
+a bag of marijuana and a pot pipe. Knowles was then arrested and charged 
+with violating laws dealing with controlled substances. Knowles moved 
+to suppress the evidence as illegally obtained. He lost in the Iowa 
+courts and appealed to the U.S. Supreme Court. Rehnquist wrote the 
+opinion for the court. While recognizing that officer safety is a 
+prime concern _ the usual rationale for searching a person under arrest 
+_ Rehnquist noted that a traffic citation puts the police officer 
+in much less danger. He also noted with heavy irony: ``Once Knowles 
+was stopped for speeding and issued a citation, all the evidence necessary 
+to prosecute the offense had been obtained. No further evidence of 
+excessive speed was going to be found either on the person of the 
+offender or in the passenger compartment of the car.'' We applaud 
+the high court. This is a rare victory for privacy rights. We'd like 
+to see more respect for our privacy. 
+</TEXT>
+</DOC>

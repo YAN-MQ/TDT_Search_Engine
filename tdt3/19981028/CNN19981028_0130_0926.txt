@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981028.0130.0926 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- hurricane Mitch is headed toward central 
+america with 140 mile an hour winds. People from Honduras to cancun 
+are heading inland. Forecasters say Mitch could dump up to 20 inches 
+of rain. 
+</TEXT>
+</DOC>

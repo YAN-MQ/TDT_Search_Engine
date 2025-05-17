@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981204.0130.0457 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen Maginnis. 
+Temperatures still holding on. Across the southeastern U.S. from the 
+mid-atlantic to the gulf coast and into southern Texas, mostly 60s 
+and 70s, but cold into the northern rockies. Here's the reason why. 
+Several weather disturbances, one moving out of the great basin promises 
+just a bit of snowfall into the northern Rockies and the great plains 
+where temperatures previously have been quite nice in the last couple 
+of days. Also a little disturbance in the Mississippi river valley 
+and the Ohio valley may trigger a couple of thunderstorms. And more 
+wet weather is expected in the northwest. And more showers and windy 
+conditions in the Hawaiian islands and sections of the Caribbean. 
+Our extended forecast is looking at very cold temperatures in the 
+pacific northwest, but very mild in the southeast and the mid-atlantic. 
+On Sunday, it looks like the snow is flying around the Great Lakes 
+with thunderstorms possible farther to the south. More rain for the 
+pacific northwest. On Monday, lots of cold temperatures into the Rockies, 
+for the Great Lakes and the midwest. For more weather information, 
+log on to CNN.com. 
+</TEXT>
+</DOC>

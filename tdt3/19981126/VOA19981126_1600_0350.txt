@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> VOA19981126.1600.0350 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Erin Brummett, with Tony Riggs and this is VOA News Now from Washington. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981021.2000.0222 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock prices were generally higher on Wall Street today. The Dow Jones 
+Industrial average gained more than 13 points to close at 8519.23, 
+volume 740 million shares. Advances led declines by a small margin. 
+This is NPR News. 
+</TEXT>
+</DOC>

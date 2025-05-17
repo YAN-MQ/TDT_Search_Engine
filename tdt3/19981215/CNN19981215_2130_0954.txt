@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981215.2130.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mr. Clinton met with Israeli prime minister Benjamin Netanyahu and 
+palestinian leader Yasser Arafat this morning to discuss implementation 
+of the wye river peace accord. He says another meeting has been scheduled 
+to discuss snags in the deal. 
+</TEXT>
+</DOC>

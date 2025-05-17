@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981028.2130.0981 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For the first time in three days, the stock market ventured into positive 
+territory. 
+</TEXT>
+</DOC>

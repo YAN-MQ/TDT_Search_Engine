@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981014.1130.0114 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+White House and congressional sources tell CNN they've come up with 
+a framework to finalize a budget agreement. There's word of a compromise 
+on what had been a major sticking point -- education spending. White 
+House officials say republicans are ready to accept spending $1 billion 
+to hire 100,000 new public school teachers, but the GOP isn't budging 
+on its opposition to a $5 billion school construction initiative. 
+Negotiations are continuing again today. 
+</TEXT>
+</DOC>

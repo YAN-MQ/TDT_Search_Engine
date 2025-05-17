@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981109.1600.0276 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+From now on, whenever a president gets advice from an attorney on 
+his staff, details of their conversations may not necessarily remain 
+confidential. The Supreme Court today let stand a lower court's decision 
+that discussions between a president and government lawyers aren't 
+protected by attorney/client privilege. That means presidential adviser 
+Bruce Lindsay can't refuse to answer a Grand jury's questions about 
+Mr. Clinton's conduct in the Monica Lewinsky case. The White House 
+says it's disappointed with the high court's action. 
+</TEXT>
+</DOC>

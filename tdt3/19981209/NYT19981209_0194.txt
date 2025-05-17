@@ -1,0 +1,99 @@
+<DOC>
+<DOCNO> NYT19981209.0194 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Building robots has always been a highly mechanical enterprise. Articulating 
+the joints. Adjusting the center of gravity. Tinkering with different 
+forms of locomotion. Getting all the cogs and sensors to work in tandem. 
+It's all about physical parts. That's why the archetypal sci-fi robot 
+seems paradoxical and silly. Androids have always been symbols of 
+the future, but they're just walking collections of physical and electrical 
+problems, relics of an era when the big pressing questions were all 
+about machines. But the big pressing questions are no longer about 
+machines. They're about information. So building robots seems anachronistic. 
+Unless you're building robots that live inside computers. Witness 
+the Robot Club, which is ostensibly about building machines but is 
+really about software design. As the new kid in town at Columbus High 
+School, you meet a group of gearhead kids. To join their clique, you 
+have to build robots that accomplish an increasingly complex series 
+of tasks, from recycling bottles and cans to spying on violations 
+of hazardous-waste rules at the local biotech corporation. A strong 
+environmental thread runs through the whole story, which is politically 
+correct to a fault and horribly acted by hammy, over-rouged teen-agers. 
+But if you skip the egregious video clips, the game play is brilliant. 
+In the workshop, each robot begins as a stripped-down chassis with 
+empty slots for parts. From a collection of treads, wheels, sensors, 
+scoopers and weapons, you assemble the hardware. Then you switch to 
+the software and the fun begins because the whole thing has to be 
+programmed. And that's the real meat of the Robot Club game: giving 
+the robot the instructions it needs to accomplish its job. For instance, 
+in a very simple, early mission, the robot has to touch a flag and 
+return to home base. The task breaks down into two states: ``find 
+flag'' and ``go home.'' So after attaching a yellow sensor, a purple 
+sensor and treads, which move the robot, you drag the hardware icons 
+onto a point-and-click instruction box and program the robot: _ State 
+No. 1: Find Flag. (a) Point to something yellow (the flag). (b) Turn 
+on the treads. (c) If the robot is touching something yellow, then 
+switch to the task called ``go home.'' _ State No. 2: Go Home. (a) 
+Point to something purple (home base). (b) Turn on the treads. You 
+run the program. If it works, you go to the next mission. If not, 
+you debug it and try again. The first puzzle has just one part and 
+one command you can give that part (the learning curve is very gentle). 
+But as you progress, there are nearly 100 different parts, each with 
+its own set of commands. As the missions become more elaborate, the 
+programming becomes more complex as well. And there isn't one right 
+answer. Some solutions are more elegant than others, but there is 
+always a range of strategies. In Duel Mode, for instance, the goal 
+is to disable another robot before it disables you. The hardware options 
+available include grenade- and tennis-ball launchers, lasers, a force-field 
+generator, a crossbow, a cloaking device, pogo springs, hover pods 
+and a banana gun, all of which consume varying amounts of energy and 
+do varying amounts of short, medium and long-range damage. The options 
+are virtually limitless. It boils down to personal style. ``There 
+can be very different strategies for successful robots,'' said Luyen 
+Chou, executive producer of the Robot Club. ``And they really tend 
+to reflect people's personalities. Like some people tend to always 
+build really big dumb robots that just go around and shoot a lot of 
+stuff. And other people tend to build robots that are very light and 
+smart and fast and do a lot of monitoring of their energy and hit 
+points and a lot of tricky stuff. And it's not clear which strategy 
+is better. Sometimes the big lumbering one tends to beat the smaller, 
+smarter ones, and sometimes it's the other way around.'' One advantage 
+to building robots out of code rather than wires and rivets is that 
+you can try it both ways. If your robot is demolished, it can be reconfigured 
+and reprogrammed in a matter of minutes and sent back into the gladiator 
+ring. You can experiment more, learn through trial and error and perfect 
+the kamikaze force-field-and-banana-launcher strategy because mistakes 
+are less expensive. The other big advantage is that you can test your 
+robot against everyone else's robots on the Internet. If you go to 
+the Robot Club Web site (www.southpeak.com/games/kids/ robotclub), 
+you can upload the robots you've built, download the robots other 
+people have built and watch them duke it out on screen. Code to code. 
+Flare gun to liquid squirter. May the best robot win. If it happens 
+to be yours, there are bragging rights. Your robot becomes the machine 
+to beat. If you lose, build a better 'bot. This looks and feels like 
+a video game. But essentially, it is a programming competition. ``But 
+we never tell anyone that,'' Chou said. ``Because if you tell them 
+that, it's an immediate turn-off. We get a lot of people who were 
+never into programming, but they love the idea of dueling someone.'' 
+These virtual machines aren't robots in the 1950s science-fiction 
+sense. But in a way, they are the ultimate robots because they are 
+pure programming. And programming is the only thing that distinguishes 
+a robot from a run-of-the-mill machine. The reality of robots is factory 
+work. But the robot of popular imagination is a machine that shows 
+signs of intelligent life, not a machine that methodically sucks the 
+air out of vacuum-packed grocery items. Things like Web crawlers, 
+intelligent agents and artificial life forms _ automata that have 
+shed their electromechanical coils _ are much closer to our idea of 
+``robot'' than the real robots. Virtual machines that do the tedious 
+work of gathering data, updating files, tidying up our hard drives, 
+fetching and carrying information, and catering to our whims _ these 
+are the heirs of our sci-fi imagination. When a 3-D animation with 
+hover pods and flamethrowers zooms into view to deliver the news, 
+do your online banking, synchronize your Palm Pilot schedule and update 
+your resume, cue the theremin. (Robot Club; developed by Learn Technologies 
+and published by Southpeak Interactive; CD-ROM for Windows 95 and 
+98; $29.95; for ages 10 and up.) 
+</TEXT>
+</DOC>

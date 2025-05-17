@@ -1,0 +1,79 @@
+<DOC>
+<DOCNO> NYT19981218.0237 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The trip from gown to town can be a bumpy one. Just ask anyone who 
+has invested in small-capitalization stocks. According to a number 
+of impressive academic studies, small-company stocks have significantly 
+outperformed their larger-cap brethren over the long term _ a pattern 
+known as the small-cap premium. Yet in the real world over the last 
+15 years, despite spurts of outperformance, small caps have generally 
+lagged behind. Consider the performance of the Dimensional Fund Advisors 
+9-10 Small Co. fund, the index fund that most closely follows the 
+methodology of the academic studies. It invests in the 20 percent 
+of New York Stock Exchange stocks with the smallest market capitalizations, 
+as well as companies of similar size on the American Stock Exchange 
+and NASDAQ; such companies, on average, are much smaller than those 
+in the typical small-cap fund. DFA 9-10 Small Co. produced a 10.7 
+percent annualized return over the last 15 years, through Nov. 30, 
+according to Lipper Inc., versus 17.2 percent for the Vanguard Index 
+500, which tracks the Standard &AMP; Poor's 500-stock index, a large-cap 
+benchmark. To be sure, small-cap stocks have rallied forcefully since 
+August, leading some people to predict that they will soon reassert 
+their historical dominance. But so far, such a belief is proving, 
+as Samuel Johnson once said, to be a triumph of hope over experience. 
+Impressive as the small-cap rally has been, the large caps have performed 
+even better: The Index 500 gained 22.5 percent from Aug. 31 to Dec. 
+11, versus 13.4 percent for the DFA fund. Several schools of thought 
+have emerged to explain what is happening to the small-cap premium. 
+Each appears to hold a portion of the truth. According to one school, 
+it was wrong to ever think that the small-cap premium was very large 
+in practice. This group says academic studies were seriously flawed 
+because they ignored the higher transaction costs incurred when trading 
+small stocks. Those costs are substantial, according to research by 
+Donald B. Keim, a finance professor at the Wharton School of the University 
+of Pennsylvania. Keim looked at the total costs of trading _ not only 
+commissions and bid-asked spreads, but also the impact of trading 
+on the prices of securities being bought or sold _ between 1991 and 
+1993. He found that total trading costs for the buying and selling 
+of the smallest stocks were sometimes more than 7 percent. For the 
+largest stocks, by contrast, they were about one-half of 1 percent. 
+Such costs can quickly devour the small-cap premium. According to 
+Ibbotson Associates, a Chicago research firm, that advantage, before 
+trading costs, was just 3 percent, annualized, from 1925 through 1981. 
+(Comparable figures are difficult to obtain after 1981, when Ibbotson 
+started taking trading costs into account.) Does all this mean that 
+the small-cap premium was a figment of a few finance professors' misguided 
+methodology? Some people say yes, but Economics 101 tells us otherwise. 
+Assuming a relatively efficient market, small-cap stocks must outperform 
+large caps over the long term, in order to reward investors for their 
+greater risk and lower liquidity. This school holds that there must 
+be a small-cap premium in reality, not just in theory. If so, transaction 
+costs are at most a contributing factor in explaining the lack of 
+a small-cap premium over the last 15 years. One factor that can explain 
+it is the growing institutional dominance of the stock market. According 
+to two Harvard professors, Paul A. Gompers and Andrew Metrick, the 
+fraction of the United States stock market held by large institutions 
+nearly doubled from 1980 to 1996, from 28 percent to 52 percent. But, 
+for a variety of reasons _ including restrictions on what percentage 
+of a company's outstanding stock such investors can hold _ only a 
+tiny amount of that institutional ownership is in small caps. This 
+has hurt the performance of small caps by reducing the demand for 
+them, relative to large stocks. In other words, the increasing institutional 
+dominance of the market has led to enormous stock market share being 
+shifted from small caps into large caps. No wonder that the small 
+caps have had such a hard time keeping up. The good news for small-cap 
+investing is that this trend can't last forever. And when it stops, 
+or reverses, large caps will no longer enjoy their performance advantage. 
+No one can pinpoint when this will happen, but the longer it takes, 
+I believe, the stronger the small caps' subsequent performance. Small 
+caps will someday outshine large caps again. Yet even this silver 
+lining is accompanied by a gloomy cloud. The small caps' relative 
+advantage will not be big enough to pay the huge transaction costs 
+that would accompany frequent trading. Mark Hulbert is editor of the 
+Hulbert Financial Digest, a newsletter based in Alexandria, Va. His 
+column on investment strategies will appear every other week. E-mail: 
+strategy(AT)nytimes.com. 
+</TEXT>
+</DOC>

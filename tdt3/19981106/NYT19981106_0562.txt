@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> NYT19981106.0562 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Saturday, Nov. 7: The breakthrough 
+in growing human stem cells in the laboratory with private funding 
+is not only a stunning achievement, it is a rebuke to Congress for 
+banning federal funding of this exciting research. Scientists are 
+now poised to explore new therapies for dreaded diseases. Yet, thanks 
+to a congressional ban on federal funding for most research on embryos, 
+the government may find it hard to accelerate a promising field or 
+monitor its ethical issues. The research involves cultivating ``human 
+embryonic stem cells'' before they have begun to differentiate into 
+the specialized cells that form the individual parts of the body. 
+It opens the way to grow heart cells for cardiac patients, brain tissue 
+for Parkinson's patients, or bone marrow to treat leukemia and other 
+cancers. Such treatments are years away. Scientists must first learn 
+how to nudge the stem cells to develop into specific tissues and organs, 
+and they must keep the transplanted cells from being rejected by a 
+patient's immune system. Thus the first use of the cells will almost 
+certainly be for research. Whether the government can play a significant 
+role is uncertain. At least one of the studies just reported would 
+almost certainly have been barred from federal funding by the congressional 
+ban on embryo research. This is a sad state given that the gains are 
+potentially enormous and the ethical problems appear minimal. One 
+research team used cells from fertilized eggs that would otherwise 
+have been discarded after treating infertile couples, and the other 
+used cells from already aborted fetuses. They literally created a 
+major advance from cells that would otherwise have been wasted. 
+</TEXT>
+</DOC>

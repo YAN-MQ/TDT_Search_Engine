@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981111.1830.0579 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Earnings are down at some places. Down 65% in the nation's largest 
+computer retailer. There is less profit margin on new computers now 
+and many businesses are keeping their older ones. 
+</TEXT>
+</DOC>

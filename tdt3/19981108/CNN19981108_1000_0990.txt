@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981108.1000.0990 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton will meet with his national security team today 
+to discuss Iraq's latest refusal to cooperate with U.N. weapons inspectors. 
+President Clinton is not expected to make any decisions just yet. 
+</TEXT>
+</DOC>

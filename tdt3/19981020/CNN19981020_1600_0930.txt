@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981020.1600.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories at this hour -- king Hussein of Jordan is 
+in maryland to mediate peace talks between Israeli prime minister 
+Netanyahu and Palestinian leader Arafat. President Clinton also joined 
+the talks, which are said to be in the end-game stage. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981210.2130.0506 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now the extended weather forecast. And in a moment -- scientists are 
+announcing a milestone in genetics, thanks to a tiny worm. 
+</TEXT>
+</DOC>

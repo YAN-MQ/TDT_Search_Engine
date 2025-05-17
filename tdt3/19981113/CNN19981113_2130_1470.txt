@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981113.2130.1470 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Elton John is doing something he hasn't done in 27 years -- write 
+a movie score. "Variety" magazine reports the British singer will 
+compose the music for the Albert Brooks movie, "the muse." John has 
+written songs for "the lion king" and other Disney animated movies. 
+This will be his first complete movie score since "friends" in 1971. 
+</TEXT>
+</DOC>

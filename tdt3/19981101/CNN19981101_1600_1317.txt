@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981101.1600.1317 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For the second straight year, Kenyan John kagwe beat countryman Joseph 
+chebet to win the New York City marathon. Kagwe won in a time of 2:08:45, 
+on the ladies side, Italy's franca fiacconi was the fastest female 
+finisher with a time of 2:25:15, 26 seconds off the record. 
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> NYT19981202.0227 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+K2 SKIS, $565-$795 K2 Skis introduced the first piezo-enhanced sports 
+product in November 1995 and has expanded its piezo-enhanced lineup 
+to approximately one-third of its products. K2 BIKE, MOUNTAIN BICYCLES, 
+$800-$4,000 First released in October 1997, the K2 mountain bicycle 
+``smart shock'' uses the piezoceramic module somewhat differently 
+than other piezo sports products. Instead of converting mechanical 
+impulses to electrical impulses and dissipating the energy, the shock 
+uses an electronic sensor to monitor the need for ``harder'' or ``softer'' 
+shocks. The sensor signals the piezoceramic, which then lets more 
+or less oil through the shock mechanism. This year's models use a 
+Motorola microprocessor within the shock. K2 SNOWBOARD, $500 The Electra, 
+released in June 1997, uses two piezoelectric vibration dampers, one 
+on each edge of the board between the foot and the tip of the board. 
+Advanced Control Experts says tests show an 80 percent drop in destabilizing 
+vibrations. WORTH INC., COPPERHEAD ACX BASEBALL BAT, $279-$299 The 
+company says the Copperhead ACX, released in May, reduces vibrations 
+_ and the sting that accompanies them _ by 50 percent to 70 percent. 
+The ACX piezoelectric module is embedded in the handle. It enlarges 
+the spot where the batter will achieve maximum speed on the ball, 
+so batters hit better with less sting. O'BRIEN INTERNATIONAL WATER 
+SKIS, $589 and $539 Tested by Andy Mapple, a champion water skier, 
+in this year's World Cup Championship, O'Brien's piezo water skis 
+came out in September. They reduce ``chatter,'' for better turns and 
+control. 
+</TEXT>
+</DOC>

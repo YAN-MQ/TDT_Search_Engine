@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981110.2000.0216 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones Industrials Average lost 34 points 
+to close at 8864 in heavy trading. This NPR News from Washington. 
+</TEXT>
+</DOC>

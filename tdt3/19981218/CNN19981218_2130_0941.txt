@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981218.2130.0941 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+U.S. and British forces have begun the third wave of "operation desert 
+fox." Sirens and anti-aircraft fire have been sounding sporadically 
+in Baghdad. 
+</TEXT>
+</DOC>

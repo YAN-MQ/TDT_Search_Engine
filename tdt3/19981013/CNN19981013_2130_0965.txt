@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981013.2130.0965 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street ended a two-session winning streak today. The Dow had 
+gained nearly 270 points on Friday and Monday. 
+</TEXT>
+</DOC>

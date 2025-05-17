@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981027.2130.0052 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The eye of hurricane Mitch is bringing fierce winds and driving rain. 
+The storm is about 5 miles from Honduras with top winds of 150 miles 
+an hour. It's moving west/southwest at 6 miles an hour. At least 11 
+deaths in Honduras are being blamed on the storm. Thousands of people 
+are evacuating. Rainfall totals could reach 20 inches in some areas. 
+Further north in Mexico, the storm is expected to hit cancun and cozumel 
+by the end of the week. The resort cities host tens of thousands of 
+tourists. The hotels, they're being low key with the warnings to guests, 
+saying they don't expect it to be that bad, but just in case they're 
+wrong, plans are being made to evacuate guests to hotels on the mainland. 
+The more luxuryous hotels are located on the peninsula here. Scientists 
+use a variety of high-tech tools to survey hurricanes and their damage. 
+We'll have more on that in our "tech-trends" report in a few minutes. 
+</TEXT>
+</DOC>

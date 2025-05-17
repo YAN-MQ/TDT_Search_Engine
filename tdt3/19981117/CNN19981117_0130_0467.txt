@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981117.0130.0467 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An audit by the general accounting office shows IRS employees stole 
+more than $5 million sent by taxpayers over a recent two and a half 
+year period. The Gao is recommending some basic theft deterrents at 
+ten IRS service centers as a result. It wants surveillance cameras 
+and proper tracking of receipts. 
+</TEXT>
+</DOC>

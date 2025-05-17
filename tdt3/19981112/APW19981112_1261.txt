@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> APW19981112.1261 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The gap in the heart disease death rate between blacks and whites 
+has widened since the 1980s, the U.S. government said Thursday. The 
+Centers for Disease Control and Prevention reported that in the 35-to-44 
+age group, 38.2 blacks per 100,000 died of heart disease each year 
+from 1981 to 1985, compared with 24.3 whites. By 1991-95, the black 
+death rate had dropped to 26, but the white rate had decreased as 
+well, to 15.7. That is a ratio of 1.66 black deaths to one white death, 
+compared with 1.58-to-1 in 1981-85. The gap was even greater between 
+black and white women: Twice as many black women as white women ages 
+35 to 54 died of heart disease between 1991 and 1995. The CDC researchers 
+blamed a higher prevalence of risk factors among blacks such as smoking, 
+diet and diabetes. They said the disparity also could reflect genetic 
+and biological differences as well as less access to medical care. 
+Although death rates began to even out in people older than 65, there 
+were differences in all younger age groups. The gap for people ages 
+45 to 54 went from 1.34 black deaths for each white death in 1981-85 
+to 1.54-to-1 in 1991-95. In the 55-to-64 age group, the black-to-white 
+death ratio went from 1.22-to-1 to 1.34-to-1. 
+</TEXT>
+</DOC>

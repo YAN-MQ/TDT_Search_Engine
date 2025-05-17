@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981028.2000.2006 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is The World, a co-production of the BBC World Services, PRI 
+and WGBH in Boston. I'm Tony Conn. 
+</TEXT>
+</DOC>

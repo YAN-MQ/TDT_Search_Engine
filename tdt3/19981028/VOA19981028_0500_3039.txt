@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981028.0500.3039 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The New York Stock market closed Tuesday sharply lower on rumors of 
+a potential Brazilian devaluation. The Dow Jones Industrial Average 
+lost 66 points and will reopen at 8,366 today. 
+</TEXT>
+</DOC>

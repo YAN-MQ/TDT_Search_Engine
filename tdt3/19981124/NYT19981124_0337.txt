@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> NYT19981124.0337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Intuit Inc. reported a fiscal first quarter loss Tuesday, reflecting 
+the costs of developing tax preparation products to sell in coming 
+months. The loss had been expected. Intuit, which is based in Mountain 
+View, Calif., has been shifting from a traditional packaged software 
+producer to an Internet-based business model. But though its sites, 
+including Quicken.com and QuickenMortgage, are among the most popular 
+on the World Wide Web, more than 90 percent of its revenue still comes 
+from software programs like Quicken, the personal finance package, 
+and -TurboTax. Intuit reported its financial results after the market 
+had closed. In Nasdaq trading, Intuit shares closed at $59.875, down 
+$4.25. Analysts said that the drop reflected profit-taking after Intuit's 
+$6.63 gain in the rally Monday, and that the quarter contained no 
+surprises. For the quarter that ended on Oct. 31, Intuit reported 
+a loss of $49.2 million, which included charges resulting from the 
+amortization of goodwill and other acquisition-related expenses of 
+$22.8 million. It had a net loss of $12.8 million for the first fiscal 
+quarter last year. Revenue rose 17 percent, to $112 million from $96 
+million. Without the charges, Intuit had a loss of $26.8 million, 
+or 45 cents a share, fully diluted. Analysts surveyed by First Call 
+Corp. had expected Intuit to lose 46 cents a share. Lise Buyer, an 
+analyst with CS First Boston, said the quarter essentially matched 
+her expectations, with some growth that was better than expected in 
+QuickBooks, Intuit's bookkeeping software for small businesses. ``The 
+software business is holding its own and they have a huge potential 
+upside on the Internet,'' she said. If the company can persuade the 
+13 million Quicken users to start using its Internet sites, ``they 
+have a huge shot at being the big winner in online financial services,'' 
+she said. Intuit's financial results reflect the seasonal nature of 
+its businesses, particularly its tax return preparation products. 
+The company typically produces most of its annual profits in the January 
+and April quarters and posts losses in the July and October quarters. 
+</TEXT>
+</DOC>

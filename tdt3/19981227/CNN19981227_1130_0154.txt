@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981227.1130.0154 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A tourist who was injured in an accident last week at Disneyland in 
+california has died. Doctors removed the man from life support last 
+night after declaring him brain dead. The man and his wife were struck 
+by a metal cleat from the bow of a sailing ship after a rope tore 
+it free. The wife is in fair condition. A park worker who was also 
+injured remains in stable condition. State officials are investigating. 
+They could fine Disney if any violations are found. 
+</TEXT>
+</DOC>

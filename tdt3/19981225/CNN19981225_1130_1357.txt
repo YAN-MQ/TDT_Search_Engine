@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981225.1130.1357 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The the Minnesota twins cut the team's salary from 27 million to 15 
+million for this upcoming season. Jerome Jurenovich, "CNN Headline 
+Sports." 
+</TEXT>
+</DOC>

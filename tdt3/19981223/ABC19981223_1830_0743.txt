@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981223.1830.0743 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The three balloonists making their way around the world cleared Chinese 
+airspace today. They are moving across the yellow sea and should pass 
+over Japan early tomorrow. Richard Branson, Steve Fossett and per 
+Lindstrand are the first balloonists to make it across Asia. 
+</TEXT>
+</DOC>

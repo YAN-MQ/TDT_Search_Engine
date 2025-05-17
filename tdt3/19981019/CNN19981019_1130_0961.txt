@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981019.1130.0961 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And at least 14 are dead after a weekend of flooding and tornadoes 
+ripped through Texas. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981225.0130.1352 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In NHL news, Phoenix left Winger, Keith Tkachuk will miss Saturday's 
+game against the kings. He has a sprained right knee. Duane Walker, 
+CNN, "Headline Sports." 
+</TEXT>
+</DOC>

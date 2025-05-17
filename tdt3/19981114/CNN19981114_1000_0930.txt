@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981114.1000.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking this hour's top stories -- U.N. officials say Iraq has agreed 
+to allow the resums of the U.N. weapons inspectors without any degrees. 
+They promise to allow a review of the inspection program. 
+</TEXT>
+</DOC>

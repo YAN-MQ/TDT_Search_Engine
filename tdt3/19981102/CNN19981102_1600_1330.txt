@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981102.1600.1330 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The NBA regular season was scheduled to tip off this week. But instead, 
+the players and owners will continue labor negotiations. Today, lawyers 
+from both sides will meet. And on Wednesday, the full negotiating 
+teams have scheduled talks. 
+</TEXT>
+</DOC>

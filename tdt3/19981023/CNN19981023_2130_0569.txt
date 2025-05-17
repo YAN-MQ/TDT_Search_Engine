@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981023.2130.0569 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And coming up -- NASA takes 
+a shot at more economical, long distance space travel. 
+</TEXT>
+</DOC>

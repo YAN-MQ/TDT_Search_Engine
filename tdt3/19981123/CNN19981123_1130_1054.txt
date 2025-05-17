@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981123.1130.1054 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A white knight has galloped to the aid of AMP. Tyco international 
+will acquire A.M.P. for more than $11 billion. A.M.P., the leading 
+maker of electronic connectors, has been fending off an increasingly 
+bitter hostile takeover bid from allied-signal. But A.M.P. welcomed 
+the Tyco offer. It's also more valuable than allied's highest bid. 
+</TEXT>
+</DOC>

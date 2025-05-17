@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> NYT19981028.0233 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For nearly 20 years, Steve Mann has pursued the dream of developing 
+a networked computer that would slip onto the human body as easily 
+as a layer of clothing. In the early 1990s, he wore a miner's helmet 
+that held a video camera and lights, a modem for Internet access, 
+a communications system to broadcast images to the Web, a keyboard, 
+and a string of battery packs that trailed behind him as he walked 
+around the campus at the Massachusetts Institute of Technology. Everyone 
+wanted to talk to the cyberpioneer _ from Time magazine to The National 
+Enquirer, which called him ``Web Man Walking.'' So what is it like 
+to be married to the world's most popular cyborg? Betty Lo met her 
+future husband in 1984 at the McMaster University library in Hamilton, 
+Ontario. She noticed a tall man with ``metallic hair, kind of silver 
+gray in places.'' She asked him about it and Mann replied that his 
+hair had been ``metallized.'' For his devices to work, at the time, 
+he had to render his hair conductive by using metallic dyes that proved 
+to be ``somewhat permanent.'' They were married in the summer of 1993, 
+with Mann the cyborg pulling double-duty as both groom and wedding 
+photographer. Ms. Mann, an economist by training who works as an auditor 
+for the Ontario government, has become a partner in her husband's 
+work. She was also the first human subject to appear in the photographs 
+and videos he took while wearing his cyborg suit. And in what might 
+be interpreted as a gesture of love, Mann, who is now an assistant 
+professor of electrical and computer engineering at the University 
+of Toronto, has fashioned for his wife a cyborg suit of her own that 
+is electronically connected to his. He devised radio links that connect 
+both his suit and Ms. Mann's to an Internet service provider, which 
+allows them to send each other images of what they were seeing. (For 
+more on Mann's cyborg work, visit genesis.eecg.toronto.edu.) The Manns 
+have had fun going out on photographic and video expeditions, although 
+Ms. Mann did not care for the way the earlier helmeted models of her 
+suit messed up her hair. The increase in the speed and power of microprocessors 
+has allowed Mann to shrink his equipment to the point where his cyborg 
+suit consists principally of a pair of sunglasses, a battery-lined 
+suit jacket and a keyboard that can be held in the palm of his hand. 
+``Although his invention has become smaller,'' Ms. Mann noted, ``the 
+amount of clutter he's needed to maintain it hasn't gotten significantly 
+smaller.'' Mann can still attract attention _ and does _ by doing 
+things like leaning toward a store radio to distort the frequency 
+as a way to pass the time while he is standing in line. This fall, 
+Mann attracted a large number of graduate students to a cyborg course 
+at the University of Toronto by putting up campus flyers that advertised, 
+``You will be assimilated,'' a phrase borrowed from ``Star Trek: The 
+Next Generation.'' Mann's days as the world's only cyborg are over, 
+but there are times when he and his wife get borged up and enjoy a 
+completely new kind of spousal communication. ``We understand each 
+other more when we are connected,'' Ms. Mann said. ``It's the same 
+way the left side of your brain is connected to the right side of 
+your body, and so is the right side. There is no argument between 
+the two sides.'' 
+</TEXT>
+</DOC>

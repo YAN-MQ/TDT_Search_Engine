@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981128.0130.0471 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The disaster created by Mitch has prompted weather forecasters to 
+consider a new way of measuring the strength of hurricanes. "The New 
+York Times" reports the national hurricane center in Miami is mulling 
+over a new scale, one that would measure not just wind speed and tidal 
+surge, but geographic and sociological factors as well. Mitch killed 
+an estimated 10,000 people in central America. 
+</TEXT>
+</DOC>

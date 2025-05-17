@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981106.1600.1301 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Rob Ticktin, "CNN Headline Sports." It's been a bittersweet day for 
+Yankees fans. The good news coming down that the team reached an agreement 
+wit free agent third baseman Scott brosius. The deal will reportedly 
+pay the '98 world series MVP $15.75 million over three years. 
+</TEXT>
+</DOC>

@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> NYT19981013.0323 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Stock prices fell Tuesday as the flow of third-quarter corporate earnings 
+reports began to intensify. Many companies have prepared investors 
+with preannouncements about a slide in profits, but investors showed 
+Tuesday that they were looking at more than just the bottom line. 
+Shares of Eastman Kodak were pounded after the company reported a 
+10 percent drop in revenues, due largely to a decline in sales to 
+consumers in emerging markets like Russia and China. Even though revenues 
+sagged, Kodak's net income figures beat analysts' expectations, due 
+in part to cost reductions. That sort of report might have cheered 
+Wall Street at other times, but these are not other times. ``People 
+are suspicious when companies can't pull out top-line growth,'' said 
+Henry Herrmann, chief investment officer at Waddell &AMP; Reed, a 
+mutual fund company in Overland Park, Kan., with $26 billion in assets 
+under management. Kodak's stock fell by 11 3/16, or 13 percent, to 
+72 3/8. That result was responsible for 73 percent, or 46.1 points, 
+of a 63.33 point decline in the Dow Jones industrial average, which 
+closed at 7,938.14. It also contributed to a much smaller 2.91 point 
+fall in the broader Standard &AMP; Poor's 500-stock index, which closed 
+at 994.80. ``Two or three years ago, if a company showed improving 
+earnings growth through lower costs, the market rejoiced,'' said A. 
+Marshall Acuff, an equity strategist at Salomon Smith Barney. ``Now 
+the market senses that the world economy is slowing down, and is focused 
+on growth in the top line, as well as on profits. Kodak gave the market 
+a kind of smack in the face.'' Sagging computer share prices dragged 
+down the Nasdaq composite index, which fell 36.63 points, or 2.37 
+percent, to 1,509.45. Monsanto was another big contributor to the 
+decline in the Standard &AMP; Poor's 500 index. Shares of Monsanto 
+fell 13 3/8, or 26.55 percent, to 37, after it said its proposed $35 
+billion merger with American Home Products had been canceled. American 
+Home Products fell 5, to 45. Nasdaq stocks were dragged down by computer 
+companies like Dell Computer, which lost 3 1/16, to 53. Not every 
+company that reported earnings Tuesday saw its stock price head lower. 
+Johnson &AMP; Johnson rose 1 5/16, to 77 3/4, after a solid earnings 
+report. And Merrill Lynch, which has been clobbered in recent weeks, 
+rose 1 1/16, to 44 15/16, after it reported a net loss of $164 million 
+and said it would lay off 3,400 employees. ``It is hard to imagine 
+things getting a lot worse in the financial sector,'' Bob Gasser, 
+head of block trading at J.P. Morgan &AMP; Co., said. Some market 
+analysts, a group that includes Acuff at Salomon Smith Barney, said 
+conditions have improved over the last week or so, and that the Dow 
+is not likely to successfully test its Aug. 31 low. But Herrmann said 
+he could be happier. ``We have been doing some buying, especially 
+in small capitalization stocks, but nothing wholesale,'' he said. 
+To feel better, Herrmann said he would like to see long-term bond 
+yields rise above short-term interest rates. ``That would allow the 
+banking sector to reliquify itself by extending credit rather than 
+just holding bonds,'' he said. ``I would also like to get a sense 
+that the hedge fund world, which includes big money center banks, 
+has finished unwinding its money-losing trades.'' But even those accomplishments 
+would not do much to help corporate earnings. ``No matter what we 
+do there is going to be material pressure'' on earnings, he said. 
+``There is such an incredible excess of supply that companies don't 
+have any pricing power. It will take us a while to work through that.'' 
+</TEXT>
+</DOC>

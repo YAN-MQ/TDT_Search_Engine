@@ -1,0 +1,145 @@
+<DOC>
+<DOCNO> NYT19981021.0241 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Going through a divorce five years ago, Maralyn Facey watched her 
+lawyer set up child custody and visitation schedules with calendar 
+sheets, a beleaguered paralegal clutching a calculator, and colored 
+pencils spilling across the office floor. A short time later, Ms. 
+Facey, 45, the editor of a newsletter for divorced parents, interviewed 
+Cosmas Demetriou, a single father and Hollywood set designer who had 
+spent $65,000 on a prolonged battle for joint custody of his son and 
+daughter. His experience revealed how the innocent-looking colored 
+pencils and calendar sheets could become weapons of torture as parents 
+fought in court, each side trying to pump up ``quality time percentages'' 
+with the kids in order to get more _ or pay less _ child support. 
+From that initial meeting sprang a new love _ Demetriou _ and a new 
+software program _ Kidmate _ that Ms. Facey developed with Demetriou. 
+Kidmate has a site on the Web (www.kidmate.com) and might be described 
+as the TurboTax of child custody and visitation battles. Priced at 
+$450, it simplifies an unpleasant chore. And it is a tool for the 
+times: More than half of married couples part, many of them two-income 
+families with both parents seeking to share child care. It is no longer 
+the case that divorce automatically relegates the father to a weekend 
+role and the mother to an alimony-collecting caregiver. Today, custody 
+and visitation come in as many flavors as Coffee. Ms. Facey said development 
+costs for Kidmate included $200,000 for programming charges. The software, 
+which went on the market in October 1997 chalked up more than $100,000 
+in sales its first year. By contrast, Quicken, the popular financial 
+software that has been around since the early 1980s, had more than 
+$12 million in sales the same period. But KidMate does not have the 
+same mass market appeal as Quicken. The buyers of Kidmate are mostly 
+matrimonial judges and lawyers in California, New York, Florida, Ohio 
+and Canada. It is also expensive _ ``almost as pricey as a lawyer 
+_ not quite though,'' said David L. Levy, a lawyer and the president 
+of the Children's Rights Council, a national lobbying organization 
+in Washington, D.C. Ms. Facey is hoping that Kidmate will spread beyond 
+professionals and help families involved in divorce. She plans to 
+make available on a Web page (www.kidshare.com) Kidshare, a version 
+of the Kidmate software for $10. KidShare will not have as many features 
+as KidMate, but Ms. Facey believes it will appeal to those who want 
+the convenience of scheduling software that they can e-mail to their 
+lawyers and ex-spouses. For Ms. Facey, the software has become a mission. 
+``I feel like every single piece came out of my body,'' Ms. Facey 
+said. Ms. Facey, who juggles children's soccer matches with cooking 
+dinner, runs her fledgling software business out of a converted family 
+room in her Los Angeles home. ``I've never been so tired,'' she said, 
+``but I've never had this sense of reward. I've had leading judges 
+call me up and say, `Awesome.' '' ``Almost every judge I know has 
+this program,'' said Alexandra Leichter, who has practiced family 
+law in Beverly Hills, Calif., for 26 years and who assisted in reviewing 
+earlier versions of the program. ``It has the potential to make our 
+lives a lot easier.'' Matrimonial judges in New York State recently 
+began using the software package, which Ms. Facey donated to the court 
+system. It has already had an impact on how judges do their jobs. 
+``It can put into visual terms and language terms the often complex 
+kinds of schedules for shared parental time and access to the child,'' 
+said Jacqueline Silbermann, New York's administrative judge for matrimonial 
+matters. Elizabeth Bryson, co-chairwoman of the New York Women's Bar 
+Association's committee on Technology and the Internet for Lawyers, 
+says the Kidmate software smooths over snags that regularly pop up 
+when one parent suggests a schedule change. A simple request like 
+wanting to attend a child's ballet lesson quickly raises hackles. 
+``These situations happen routinely,'' Ms. Bryson said, ``and someone's 
+assistant in the law office has to sit there with colored pencils 
+and try to identify who's getting the child for what week.'' Ms. Facey 
+was divorced in 1993. Overnight, she said, her life went from expensive 
+grocery stores to coupons at discount stores. She said she felt like 
+an alien among her married friends. ``I'm sitting in the car pool 
+lane with people saying, `Oh Jim and I are going out to dinner tonight,' 
+and so I started talking to my single friends. I said, `There oughtta 
+be a newsletter.''' So she began Solo (pages.prodigy.com/Solo/guide.htm), 
+which started with 200 copies in 1994 and today circulates to 6,000 
+single divorced people. Then came the interview with Demetriou. It 
+was Ms. Facey's first attempt at getting the ``men's side of the divorce 
+story,'' and, she recalled, she was particularly tough on him. ``He 
+took every question and refuted it,'' she said. ``Here was a man who 
+put his career second for his kids.'' Ms. Facey was impressed by his 
+priorities. She could not help but notice that he was ``cute,'' she 
+said, but quickly told herself, ``There's no way.'' But she let him 
+start writing articles for Solo, and in time, they decided to combine 
+their talents not only for the software project, but for another chance 
+at romance. They named their software company Lapin Agile, after the 
+Steve Martin play that was Ms. Facey's and Demetriou's first date. 
+Both the business and the relationship blossomed, although Ms. Facey 
+still puts off marriage. ``I'm too busy giving birth to myself,'' 
+Ms. Facey says. KidMate has many features. It immediately calculates 
+custody percentages and graphically represents each child's schedule. 
+It also solves more mundane problems like projecting the day of the 
+week for Yom Kippur in 2001, and dividing up both Christian and Jewish 
+holidays. It can be adapted to include other holidays. Programs have 
+been created to nail down the financial details of divorce, probate, 
+and other species of legal entanglement, but KidMate is the only one 
+that focuses on custody and visitation schedules. Programs like Dissomaster, 
+frequently used by family courts in California; FinPlan, frequently 
+used in New York, and BackCalc, popular in the Washington state courts 
+``all do money, Ms. Facey said. ``They don't do children.'' ``Can 
+you believe that?'' she said. ``You split the furniture and Aunt Martha's 
+silver, but not the kids. Karmically, you have to come back in the 
+next life as a bug.'' Ms. Facey's 8-year-old daughter, Claire Elowitt, 
+carries a printout of her KidMate schedule in her school notebook. 
+It helps Claire to remember if she is spending the weekend at her 
+mother's or her father's, an important detail when deciding whether 
+she can invite a girlfriend for a sleepover: Mom allows them. Dad 
+does not. Ms. Facey believes the software ``empowers kids.'' ``Divorce 
+is death,'' she said. ``It's the death of a dream. You think that 
+you never have to deal with that person again, but now you're going 
+to have to deal with them twice as much. Now everything's an issue 
+... and people need to know how to translate this to the kids.'' Although 
+members of the legal profession are more computer literate today than 
+a decade ago, Ms. Facey still reels when she finds herself introducing 
+a top-notch legal mind to a computer mouse. But despite their appeal 
+to the computer literate of the legal world, programs like KidMate 
+still meet with skepticism from jurists who prefer law libraries and 
+yellow notepads. At a recent training session for members of the New 
+York Women's Bar Association, only about 15 people showed up, and 
+several were concerned that the software would promote certain types 
+of custody arrangements over others. KidMate, for the record, offers 
+a menu of suggested custody arrangements, but can also be customized. 
+``One of the things I noticed was that several matrimonial attorneys 
+who came were extremely skeptical because custody arrangements are 
+so difficult,'' said Ms. Bryson of the association's computer committee. 
+``When they saw it was a calendaring tool, I think it was very interesting 
+to watch the transformation that occurred in the room.'' Ms. Bryson, 
+who has supported various efforts to use computers to reduce paperwork 
+and time pressures in the legal field, said that the resistance to 
+KidMate seems similar to the resistance to technology in general. 
+In a pilot program to enable electronic case filings in the federal 
+courts, Ms. Bryson fielded complaints from law firms who feared increased 
+overhead costs and administration. Still, Ms. Bryson says that programs 
+such as KidMate have the potential to make lawyers' jobs easier and 
+clients' costs lower. ''It's quite different today than it was 15 
+years ago. When lawyers were introduced to technology, you had partners 
+with computers on their desks as basically overblown paperweights,'' 
+Ms. Bryson said. ``But as the utility has increased, it has radically 
+changed the way lawyers look at computers and computer programs.'' 
+Ms. Facey's concerns are more basic and low-tech. She wants the tool 
+out there to help as many divorced families a possible. She plans 
+to put up Web page that enables modest-income families to use the 
+software for just $10 (www.kidshare.com). As for her not being a ``mission 
+person,'' Demetriou begs to differ. ``She is driven. She is dedicated. 
+But I think she had to find her mission later in life. The computer 
+program is part of that mission,'' he said. 
+</TEXT>
+</DOC>

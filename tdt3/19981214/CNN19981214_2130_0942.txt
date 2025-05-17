@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981214.2130.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton has made plans for a three-way summit tomorrow to 
+conclude his mideast trip. He'll meet with Israeli prime minister 
+Benjamin Netanyahu and Palestinian leader Yasser Arafat. 
+</TEXT>
+</DOC>

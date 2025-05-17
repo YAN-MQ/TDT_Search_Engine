@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981209.2130.0751 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up -- a check of the top stories, followed by consumer news. 
+And still ahead -- changing the channels through which television 
+shows are produced. Another nokia discovery: if technology is difficult 
+to learn or program, most people... won't. It's why at nokia we make 
+wireless phones that are easy to use. Inspired technology with a human 
+touch. 
+</TEXT>
+</DOC>

@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> NYT19981116.0412 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A judge has refused to ban a much-disputed procedure used by the Los 
+Angeles district attorney to conceal from defendants the fact that 
+some cases originated in wiretap surveillance from other investigations. 
+Under the procedure, known as a handoff and used dozens of times in 
+recent years, investigators who hear of criminal activity while listening 
+to a wiretapped conversation pass that information to a second set 
+of officers without identifying its source. Those officers then establish 
+independent probable cause for an arrest and the defense is never 
+told of the existence of the wiretap and the tip. Criminal defense 
+lawyers contend that the procedure violates defendants' rights to 
+due process and discovery rights by precluding them from challenging 
+the evidence in court. They also say that it violates state and federal 
+laws that say evidence derived from a wiretap cannot be admitted unless 
+the existence of the wiretap is disclosed. Prosecutors contend that 
+they are entitled to conceal the existence of a wiretap if revealing 
+it would render it useless in another investigation. The public defender's 
+office here sought a ban on the procedure and also asked the court 
+to order the notification of all defendants charged with crimes based 
+on concealed wiretaps. Further, the public defender requested documentation 
+of wiretap applications, orders and transcripts so that new trials 
+could be sought for all those convicted as a result of tips obtained 
+from the wiretaps. But in a ruling last Thursday, Judge Larry Fidler 
+declined to bar prosecutors from using the procedure. He said, however, 
+that prosecutors must inform all defendants when their cases are generated 
+by wiretap surveillance, unless doing so would jeopardize an ongoing 
+investigation, in which case they must get a judge's permission to 
+conceal the source of their information. ``We view it as an affirmation 
+that we were doing the right thing,'' William Hodgman, who oversees 
+the narcotics division of the district attorney's office, said of 
+the ruling. Kathy Quant, a deputy public defender, said she would 
+appeal the judge's ruling. In June, District Attorney Gil Garcetti 
+acknowledged the hand-off procedure had been used to conceal wiretap 
+evidence in 58 cases since 1993, and agreed to inform all defendants 
+affected by the procedure. The hand-off procedure came to light for 
+the first time in March, when lawyers for three men charged in a cocaine 
+trafficking case filed a routine discovery motion and were surprised 
+to find prosecutors seeking confidential hearings with the judge, 
+who ultimately ruled that the wiretap evidence had to be turned over 
+to defense lawyers. That led to a series of hearings in which defense 
+lawyers questioned police and prosecutors about how long and how frequently 
+they had used the procedure. 
+</TEXT>
+</DOC>

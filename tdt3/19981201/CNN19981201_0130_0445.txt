@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981201.0130.0445 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Put down the chips. Pick up some parsnips. A doctor at Johns Hopkins 
+University says his research finds people who eat plenty of fruits 
+and vegetables have more antioxidant activity in their bodies. Antioxidants 
+have been found to neutralize charged molecules, known as free radicals, 
+which can damage healthy cells and cause diseases ranging from heart 
+disease to cancer. 
+</TEXT>
+</DOC>

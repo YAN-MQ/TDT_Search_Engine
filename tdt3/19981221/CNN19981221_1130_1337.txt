@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981221.1130.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Oilers playoff chances stillsy live despite a loss. Oakland is 
+out despite a win. Carolina topped St. Louis. 
+</TEXT>
+</DOC>

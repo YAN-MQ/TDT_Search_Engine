@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981108.1000.1005 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And veteran astronaut John Glenn will talk to reporters today about 
+his second historic space mission. The 77-year-old and the rest of 
+the shuttle "discovery" crew returned to earth yesterday. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981118.2130.0466 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A British attack submarine has successfully fired a tomahawk cruise 
+missile off the coast of California. It is the first such live warhead 
+test by Britain. The submarine "hms splendid" fired the tomahawk missile 
+500 miles to the target on San Clemente island. The splendid is the 
+first British submarine with that capability. Britain had conducted 
+two tests of nonexplosive warheads off California earlier this month. 
+</TEXT>
+</DOC>

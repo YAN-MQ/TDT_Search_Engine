@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> APW19981216.1414 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Anti-aircraft guns opened fire, creating loud explosions over the 
+Iraqi capital early Thursday. MORE 
+</TEXT>
+</DOC>

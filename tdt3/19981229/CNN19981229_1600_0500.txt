@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981229.1600.0500 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather" update. 
+Two low-pressure storms and two cold fronts will be moving across 
+the eastern United States with extensive snow fall for the Great Lakes 
+into New England. Some coastal areas could see rain early until the 
+second front passes through and brings in cooler temperatures and 
+a chance of frozen precipitation. An Alberta clipper will move down 
+the Rockies into the plains states as we head into Wednesday with 
+snow showers possible from near Paducah, Kentucky, back into the northern 
+Rockies. A pacific front will keep things wet across most of the Oregon 
+and washington coasts. High temperatures will range from below zero 
+readings in the northern plains to the 50s, 60s and some 70s across 
+the south and the southwest. 80s in southern Florida. The extended 
+forecast includes rain and wind on new year's eve across the west 
+with snow showers expected for the Great Lakes. The trough starts 
+to flatten out to the west. So you'll see mostly cold temperatures 
+in the north and warmer temperatures in the south with a chance of 
+thunderstorms heading eastward as we move into Saturday. The extended 
+forecast for more than 7,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

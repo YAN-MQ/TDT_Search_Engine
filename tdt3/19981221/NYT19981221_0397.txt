@@ -1,0 +1,97 @@
+<DOC>
+<DOCNO> NYT19981221.0397 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Planes absolutely, positively will not fall out of the sky because 
+of the Year 2000 computer flaw, aviation experts insist. It is possible, 
+though, that some will not leave the gate. And a lot of other computer-controlled 
+systems, from hotel door locks to trains to ordinary traffic signals, 
+could stop working. The Year 2000 problem, known to the digerati as 
+Y2K, occurs when computers that store the year portion of a date as 
+a two-digit number are confronted with the year after 1999 and conclude 
+that 00 means 1900. In isolation, a computer that is confused about 
+the date would be a minor annoyance, but computers that are linked 
+together _ like those in the air traffic control system _ could stop 
+talking to each other and freeze. Almost every industry faces problems, 
+but travel and, specifically, aviation could be particularly vulnerable 
+because of a huge number of linked systems. The Federal Aviation Administration, 
+prompted by Y2K to make its first thorough inventory of hardware and 
+software, counted 155 systems that are ``mission critical'' and must 
+be repaired in the next year. But the agency said that it has found 
+relatively few problems, and has nearly completed its search, having 
+designed fixes for 153 of the 155 systems. It must still make those 
+changes on computers in the field and test them. ``We've got a very 
+short time to finish what's left,'' said Raymond Long, the head of 
+the FAA's $191 million Y2K effort, but he said that the agency would 
+be ready. It is now turning its focus to what others in the business, 
+like airlines and airports, are doing about Y2K. Domestic airlines 
+sound confident that they will avoid Y2K problems, but only after 
+a huge effort. The Air Transport Association, the trade organization 
+made up mainly of the big American airlines, allocated $15 million 
+n 1998 and 1999 on Y2K, mostly on the gathering and dissemination 
+of information; that is more than the group spent on all activities 
+in 1997. But planes will not crash, said Thomas J. Browne, the director 
+of the association's Y2K program. The only part of a plane that really 
+needs to know the date, he said, is the flight management computer, 
+which handles navigation and related chores. Shortly before the plane 
+pushes back from the gate, that computer receives a data feed from 
+a computer on the ground. If the on-board computer cannot handle the 
+data it is given, it will display an error message like ``date out 
+of range,'' Browne said. Unless that can be resolved quickly, he added, 
+``The pilot will look at it and say, `I'm not taking off in this airplane.' 
+'' Thus, he said, ``There's no safety-of-flight issue.'' ``I can imagine 
+an FAA inspector walking in to an airline on Jan. 2 and saying, `All 
+your flights are grounded because all your pilots' medical exams expired 
+100 years ago,' '' Browne said. But the airlines all have written 
+records, too, he said, if such confusions arise. Other computers calculate 
+passenger and cargo loads and integrate weather data to determine 
+how much fuel should be loaded. All that work can be done by hand, 
+but not smoothly and promptly. Foreign carriers, and especially foreign 
+air-traffic control systems, may lag behind their counterparts in 
+the United States. The International Civil Aviation Organization, 
+acting on a motion made by the head of the FAA, has agreed to require 
+all member nations to publicly report by next July 31 their progress 
+in preparing their air traffic control systems for the rollover. KLM 
+Royal Dutch Airlines said that it might ground some flights, depending 
+on how much progress is made at a destination. Other airlines have 
+not made public statements but are watching carefully. Controllers 
+can generally still handle traffic without computers, just much less 
+of it, meaning that a Y2K crisis might make the system work the way 
+it does when there is a computer crash or a big snowstorm. But for 
+planes to fly, lots of other parts of airport systems have to work 
+correctly, including jetways, fueling systems and even airport parking-lot 
+cashier stations. Some airports are checking with the companies that 
+manufacture fire trucks to make sure that the embedded computer chips 
+in those trucks will not lock up; if an airport has no fire truck, 
+it must shut down. Airports differ in their level of preparedness, 
+said Christopher J. Tebo of the American Association of Airport Executives, 
+and the responsibility for equipment, like baggage systems or fuel 
+systems, differs from airport to airport. Airlines that see a problem 
+can spend money immediately to solve it. But, Tebo said, some airports 
+are public entities with cumbersome appropriations processes, and 
+some did not foresee that they would need more resources. ``There's 
+definitely going to be a level of inconvenience the traveling public 
+is going to incur,'' Tebo said. ``I don't know whether it will be 
+having to walk up escalators, or there won't be as many flights to 
+certain destinations.'' If the system runs badly, he said, it could 
+be like a day when a major blizzard disrupts air service _ repeated 
+daily for a month or so. A few travel agencies are sounding cautious. 
+Unicorn Holidays, an English company that specializes in travel to 
+Spain, France and Portugal, does not plan to book any tours for New 
+Year's weekend. The airplanes might work just fine, said Jim Southon, 
+Unicorn's managing director, but any of a thousand things could go 
+wrong and ruin a vacation. The computer that runs a municipal water 
+purification plant could fail _ or one that runs a ski lift, a telephone 
+system, a power system, an oil refinery that makes jet fuel, or the 
+traffic lights on the way to the airport. ``The farther one goes from 
+the states or Northern Europe, the more trouble there will be,'' he 
+said. Or, of course, the outbound portion of the trip, in 1999, could 
+go just fine, but the vacation could be extended involuntarily because 
+something crucial stops working on Jan. 1, delaying the return. Of 
+course, all of the problems that could strike on a trip could strike 
+at home, too, perhaps even in St. Albans, north of London, where Unicorn 
+is based. But, Southon said, ``If you stayed home and got into all 
+types of problems, you wouldn't come back to me and say it's my fault.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981125.1600.0248 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stay with us. We'll have the weather forecast for the U.S. in just 
+a few minutes. 
+</TEXT>
+</DOC>

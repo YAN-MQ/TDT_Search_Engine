@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981222.1600.0500 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map. The cold front moves off the east coast and takes most 
+of the precipitation with it. However, as we put our map in motion, 
+you will see precipitation begin to develop in the lower Mississippi 
+river valley in parts of Texas and louisiana. It will stretch eastward. 
+Some precipitation could continue to develop as we head into tomorrow 
+night. Much of the nation will remain dry. Here is your forecast for 
+high temperatures. It's cold throughout the country. Temperatures 
+are a little bit warmer in the upper midwest and the northern rockies. 
+We move into our extended forecast on Thursday. There is the threat 
+of ice in parts of the south. Temperatures continue to warm ever so 
+slightly as we go through the remainder of the week. On Friday, you 
+can see teens and 20s throughout much of the north a few scattered 
+showers are possible in the southeast. As we move into Saturday, temperatures 
+are considerably warmer. Scattered showers possible in the east. For 
+more weather information log on to CNN.com. 
+</TEXT>
+</DOC>

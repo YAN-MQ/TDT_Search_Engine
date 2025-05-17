@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981019.1130.0647 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Firefighters have their hands full in southern California, where they're 
+battling two fires. The first started Friday and has charred 2,300 
+acres of rocky terrain in the Los padres national forest, northeast 
+of Santa Barbara. The other blaze is burning in eastern Ventura county. 
+It was threatening some homes before it shifted direction. More than 
+1,000 firefighters are involved in battling the fires. 
+</TEXT>
+</DOC>

@@ -1,0 +1,85 @@
+<DOC>
+<DOCNO> NYT19981113.0285 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+What really captivates him, Pierre Omidyar says, are computer-programming 
+challenges. But he says he never expected to get rich tackling them, 
+and recalls that most of his efforts to make money on them failed. 
+With one huge exception. Three weeks ago, Gary Bengier, the chief 
+financial officer of Ebay Inc., the company Omidyar founded in 1995, 
+walked into his office to congratulate him. ``He said, `You're worth 
+a billion dollars today,''' Omidyar recalled in a telephone interview 
+from his headquarters in San Jose, Calif. ``I said, `No,''' his voice 
+still trailing off in disbelief. After all, Omidyar, now 31, had started 
+Ebay on a lark, posting a Web page to help people auction the stuff 
+that was gathering dust in their attics. ``I never had it in mind 
+that I would start a company and one day it would be really successful,'' 
+he said. ``I have just been motivated by working on interesting technology.'' 
+To his surprise, collectors of Barbie dolls, Beanie Babies and household 
+junk of all sorts seized upon Ebay almost immediately, both as an 
+online classified-ad page and as a forum to discuss their common obsessions. 
+And since its public offering in September, the stock has become a 
+more treasured addition to Internet stock portfolios than the Princess 
+Diana bear is to Beanie Baby fans. Indeed, Omidyar's stake in the 
+company is already closing in on $2 billion. Omidyar was born in Paris 
+but moved to Maryland after his father, a surgeon, began his medical 
+residence at the Johns Hopkins University Medical Center. As a teen-ager, 
+he kept sneaking out of physical-education classes to play with the 
+computers in his high school. This modest rebellion turned into a 
+first brush with the financial power of technology: he was hired to 
+write a program to print catalogue cards for the school's library 
+for $6 an hour. Studying computers at Tufts University in Medford, 
+Mass., his entrepreneurship proved little more lucrative. He wrote 
+a program to help Apple Macintosh programmers manage memory and distributed 
+it on line as ``shareware,'' asking users to pay on the honor system. 
+The two or three checks he received barely covered the cost of the 
+post office box he had rented for his receipts. After graduation, 
+Omidyar worked at several companies, designing graphics programs for 
+the Macintosh. In 1991, he founded a company with three friends to 
+write programs for computers that received instructions by pen rather 
+than keyboard. Pen computing turned into one of the more notable technology 
+flops, but the company was sold to Microsoft, which was attracted 
+to a shopping service it had started. Fed up with start-ups, Omidyar 
+took a job as a programmer for General Magic, a developer of mobile 
+computing devices. In his spare time, he made pages for the newly 
+emerging World Wide Web. The inspiration for Ebay came from Pamela 
+Wesley, who is now his fiancee. Ms. Wesley, a collector of Pez candy 
+dispensers, had complained that she couldn't find an efficient way 
+to buy or sell them on the Internet. So Omidyar started a Web page 
+in 1995, allowing people to list items for sale and take bids over 
+several days. The service, first called Auction Web, was free until 
+the page grew so big that it outgrew Omidyar's personal Internet account 
+and had to be moved to a much more expensive business account. So 
+early in 1996, he started charging a few dollars to list an item and 
+collecting a small commission if it was sold. It took just a few months 
+before he quit his day job. ``The biggest clue was that so many checks 
+were piling up at my door I had to hire part-time help to open them 
+all,'' he said. Omidyar had drilled into one of the richest veins 
+of the online world, the desire of people to connect with others who 
+share their interests. And few interests, he came to realize, generate 
+more passion than collecting. ``I thought people would simply use 
+the service to buy and sell things,'' he said. ``But what they really 
+enjoyed was meeting other people.'' Ebay's popularity astounded almost 
+everybody. More than a million people have registered for the service, 
+and they spend an average of 96 minutes a month perusing it, far more 
+than for other major Web sites. Every day, 70,000 new items are put 
+up for sale on Ebay. Its rapid growth and the fact it was one of the 
+Internet's few profit makers made Ebay one of the most eagerly anticipated 
+initial public offerings of 1998. The path, however, was rocky: Last 
+August, on the day before the company began its road show to drum 
+up investor interest, the Dow Jones industrial average plunged by 
+500 points. But by the end of September, the deal was completed, at 
+an offering price of $18. The stock closed on Friday at $123.9375, 
+off $2.0625, making the company worth $4.93 billion and Omidyar's 
+38.3 percent stake worth $1.89 billion. Still, when you ask Omidyar 
+about the high points of the last few years, he doesn't mention money. 
+Rather, he talks of letters from Ebay customers who say their lives 
+have been changed because the company has let them turn their collecting 
+hobbies into careers. ``They became accidental entrepreneurs and found 
+they could quit their jobs,'' he said. Does that sound familiar? He 
+pauses, then acknowledges the point. ``I didn't set out to create 
+a huge business on Ebay,'' he said. ``When it happened, I took advantage 
+of it.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981205.1300.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And two people were killed and several injured in Minneapolis during 
+a Holiday parade. A police Van ran over a curb yesterday, striking 
+onlookers. 
+</TEXT>
+</DOC>

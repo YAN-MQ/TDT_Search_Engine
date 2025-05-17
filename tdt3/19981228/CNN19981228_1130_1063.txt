@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981228.1130.1063 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+General Motors is expected to announce plans for new hybrid buses 
+combining diesel and electric power. "The Wall Street Journal" says 
+GM will deliver a test hib I'd bus to New York City next year and 
+will begin producing more vehicles with its partners in the year 2000. 
+</TEXT>
+</DOC>

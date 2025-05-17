@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981110.1600.0945 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+These stories and more in 15 minutes. Let's get down to business. 
+Investors had trouble making up their minds today. Let's find out 
+where stocks ended the day. Here is Beverly Schuch at the cnnfm newsdesk 
+in New York. 
+</TEXT>
+</DOC>

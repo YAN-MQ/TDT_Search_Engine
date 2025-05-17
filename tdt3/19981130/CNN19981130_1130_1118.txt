@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981130.1130.1118 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Washington Post-reports researchers have found evidence that Ford 
+and General Motors collaborated with adolf Hitler's government. They 
+denied the reports. 
+</TEXT>
+</DOC>

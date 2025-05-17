@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981105.1600.0715 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Today, on the "cold & flu report" -- vitamin C -- should you or shouldn't 
+you? Scientists have been arguing for decades over whether vitamin 
+C can prevent colds. Recent studies have shown that if there is any 
+preventative effect, it's minor, and it only works for some people. 
+However, many experts feel that while vitamin C may not prevent a 
+cold, it may make symptoms less severe if you do get sick. Vitamin 
+C typically comes in supplements of 500 or 1,000 milligrams and is 
+cofsidered to be free of side effects, except at very high doses. 
+Then, it may cause gastrointestinal difficulties. 
+</TEXT>
+</DOC>

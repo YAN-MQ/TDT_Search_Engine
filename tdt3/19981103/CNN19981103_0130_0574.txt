@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981103.0130.0574 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A genetically engineered drug has won FDA approval to help treat people 
+with rheumatoid arthritis. Doctors stress "enbrel" is not a cure, 
+but they say it can help some of the hardest-to-treat cases by reducing 
+the pain and swelling in joints. Enbrel also appears to have fewer 
+side affects than traditional treatments. Patients require injections 
+twice a week at a cost of about $220. The drug should be available 
+by the end of the week. 
+</TEXT>
+</DOC>

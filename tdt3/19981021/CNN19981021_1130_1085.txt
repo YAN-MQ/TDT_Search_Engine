@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981021.1130.1085 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tired of wearing that stuffy suit and tie to work? Well, according 
+to a survey by the executive research firm, management recruiters, 
+formal dress in the nation's workplace may become a thing of the past. 
+A poll of 3,700 corporate managers showed that 42% expect formal business 
+dress to become optional in the near future. Perhaps taking their 
+cues from the casual dress style of some Silicon Valley companies. 
+</TEXT>
+</DOC>

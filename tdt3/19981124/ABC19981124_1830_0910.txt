@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> ABC19981124.1830.0910 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In the northwest today, more than 300,000 people are still without 
+power after a storm that rushed through the region yesterday. There 
+were 90 mile-an-hour winds in Washington state and Oregon, and heavy 
+snow in northern California and Nevada. Forecasters are predicting 
+more bad weather, which brings us to their tools, their newest tools. 
+Here is ABC's Bill Blakemore. The weather battering the northwest 
+will be a lot easier for scientists to understand, because of a powerful 
+new American/Japanese satellite now sending back pictures. The satellite 
+nicknamed trim lets meteorologists see into storm clouds. We've seen 
+hurricane clouds not like any other we've seen. Trim's X-Ray view 
+discovered towers of heavy rain grouped like manhattan skyscrapers. 
+They discovered whenever a very tall rain tower formed, the hurricane 
+suddenly intensify ied. What this rainfall provides us is a signature 
+of the fuel supply that drives the climate engine. Scientists never 
+knew before how to predict when a hurricane would intensify. This 
+may save many lives. This also helping explain and predict the heavy 
+storms already hitting the west this fall. It's teaching us something 
+brand new about the likelihood of lightning damage from storms. Scientists 
+thought lightning cob predicted by the amount of rain. Trim shows 
+it cannot. It found 95% of lightning is over land, but over the oceans, 
+with just as much rainfall, there's almost no lightning. Bill Blakemore, 
+ABC News. 
+</TEXT>
+</DOC>

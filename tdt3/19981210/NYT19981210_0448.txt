@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> NYT19981210.0448 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In a move that could reassert the power of floor traders fearful their 
+positions could be eroded by the 24-hour electronic age, members of 
+the Chicago Board of Trade voted Wednesday to unseat their chairman. 
+After six years in office, Patrick Arbor, who portrayed himself as 
+a champion of technology and change in a world dominated by hand signals 
+and shouting, narrowly lost his bid to lead the largest financial 
+futures and options exchange for an unprecedented fourth term. The 
+new chairman, David Brennan, is a 41-year-old soybean trader who was 
+popular with floor traders and who had managed to win the backing 
+of seven former Board of Trade chairmen in the weeks leading up to 
+the election. Brennan won an 608-589 vote. The late-night count concluded 
+early Thursday. Arbor, a tough-talking commodities trader, had dubbed 
+his opponent a ``member of the flat earth society.'' Thursday, however, 
+he conceded that some of the more than 1,400 voting members of the 
+exchange had soured on his aggressive leadership, his push to align 
+with Eurex, an all-electronic German-Swiss derivatives exchange, and 
+his ill-fated effort to forge a common clearing operation with the 
+board's crosstown rival, the Chicago Mercantile Exchange. ``The push 
+for technology, I think, was maybe too much for the membership to 
+digest right now,'' Arbor, 62, said in an interview. ``This means 
+that the old guard is back; they thought we were going too far.'' 
+Others, however, said the exchange was probably due for a change. 
+Some members had criticized Arbor for investing so heavily in technology, 
+and eroding membership power through alliances. But others say the 
+close vote demonstrated a membership split over which course to pursue. 
+``You can't draw any major conclusions from so close a vote,'' said 
+Leo Melamed, the former chairman of the Chicago Mercantile Exchange. 
+``There's not a major message here.'' And while Arbor was credited 
+for building a new $182 million trading floor and enlarging the board's 
+profile and profitability, Melamed and others said that Arbor's portrayal 
+of Brennan as ``inexperienced,'' ``immature'' and opposed to change 
+was unfair. ``David Brennan's a smart man and he's not going to put 
+his head in the sand,'' said Melamed, who has worked with Arbor and 
+Brennan. ``But there will certainly be a fresh look at things.'' Brennan 
+declined to be interviewed Thursday, but Burt Gutterman, chief executive 
+at Sangamon Trading and a veteran board member, said this of the new 
+chairman: ``There's no Luddite consequences here, despite the spin. 
+David is very knowledgeable about technology.'' For the last few years, 
+the Board of Trade _ like most of the nation's financial exchanges 
+_ has been grappling with how to compete in a world that is rapidly 
+moving toward electronic trading, global financial networks and low-cost 
+trading. Earlier this year, Cantor Fitzgerald moved to trade futures 
+electronically, and in Europe electronic trading of derivatives is 
+growing. If electronic trading comes, though, it could displace the 
+thousands of ``locals,'' the traders who now populate the raucous 
+pits here. While Arbor supported the open outcry system, his electronic 
+course was viewed as less supportive of floor traders. Brennan, however, 
+is now in the hot seat, and some industry officials are already trying 
+to gauge his direction. ``I think he will slow down the evolution 
+of our exchange and change some of the tracks,'' said Leslie Rosenthal, 
+a former chairman of the exchange. ``He's a conservative; he's part 
+of the floor. I think he will be more protective of the open outcry 
+trading pit.'' 
+</TEXT>
+</DOC>

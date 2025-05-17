@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981201.1130.0900 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a check of the hour's top stories -- the house Judiciary committee 
+is hearing from convicted perjurers and legal experts today as it 
+examines the consequences of perjury. Also, republicans would like 
+to expand the inquiry to investigate alleged campaign fund-raising 
+abuses by President Clinton. 
+</TEXT>
+</DOC>

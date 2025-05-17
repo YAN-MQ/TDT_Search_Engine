@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CNN19981228.1600.0116 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If you're on social security and are concerned about how the infamous 
+Y2K bug might affect your payments, your worries could be over. The 
+social security administration says it's finally ready for the new 
+millennium. Ginger Blackstone reports. The social security administration 
+says it has good news for the millions of Americans who rely on benefit 
+checks every month. The social security system is now 100% compliant 
+with our standards and safeguards for the year 2000. To make absolutely 
+certain, the system has been tested and validated by a Panel of independent 
+experts. The system works. It is secure. The threat of the Y2K bug 
+began decades ago, when programmers of early computers used only the 
+last two digits of the year, mostly to save money. But that means, 
+when 2000 hits, older systems will think the year is 1900. There's 
+concern computers with the older technology will crash on midnight 
+of the new millennium. To make sure the federal government stays in 
+business, the Clinton administration set a goal of correcting all 
+critical computer systems by march 31st, 1999. The social security 
+administration says tackling the bug in its department was no easy 
+task. It took 2,800 systems employees, including 700 programmers. 
+We have to keep track of annual earnings for more than 145 million 
+workers. We take 6 million applications for benefits each year, and 
+we make those monthly benefit payments to 48 million Americans. We 
+depend almost totally on modern information technology to get our 
+job done. Millions of Americans rely on these payments, as Ken apfel 
+said, to meet basic living expenses. Thus, it is absolutely critical 
+the systems that make these payments be Y2K compliant, so the citizens 
+who depend on these checks can be sure that their payments will not 
+be disrupted by Y2K problems. So even if other Y2K problems arise, 
+the federal government says social security recipients can be assured 
+-- the check's in the mail. Ginger Blackstone, "Headline News." 
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> CNN19981217.0130.0530 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News forecast." For tomorrow morning, snow from Ohio 
+all the way into Maine. Beautiful weather over most of the nation 
+with clouds and isolated showers during the day as a front pushes 
+over Florida. By tomorrow afternoon, a front pushing into the northwest 
+and northern plains. Snow from the dakotas all the way into Illinois 
+from tomorrow afternoon into Friday morning. Breezy with some clouds 
+along the California coastline. Rain in the Rio Grande valley of Texas. 
+Very chilly tonight, teens, 20s and 30s. Lows right around zero for 
+northern Minnesota. Afternoon highs warming up nicely tomorrow with 
+the exception of the northeast and northern plains. We will see highs 
+in the teens, 20s and 30s. Your extended forecast showing the northern 
+tier of the U.S. seeing very chilly highs for Friday. Heavy snow showers 
+over the Great Lakes. On Saturday, those cool temperatures push southward. 
+Highs in the zeros for North Dakota, northern Minnesota and Montana. 
+Snow showers in the northeast and the northwest. On Sunday, we will 
+see sub-zero temperatures for highs in Montana and North Dakota. Those 
+cool temperatures continue pushing southward with heavy snow over 
+the western Great Lakes. Remember, you can get your four-day forecast 
+for more than 7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

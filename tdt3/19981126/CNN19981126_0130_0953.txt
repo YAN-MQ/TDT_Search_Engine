@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981126.0130.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks closed slightly higher Wednesday. The Dow Jones industrial 
+average gained 13 points to 9314. The market is closed Thursday for 
+Thanksgiving. 
+</TEXT>
+</DOC>

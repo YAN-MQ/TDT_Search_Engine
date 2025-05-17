@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981109.1600.3273 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now. I'm Steve Norman along with Frank Wydis. It's 
+currently 12 hours, 54 universal time. 
+</TEXT>
+</DOC>

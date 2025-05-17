@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981029.2130.0397 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The food and drug administration has approved the use of Tamoxifen 
+as a Possible way to prevent breast cancer in women who are at very 
+high risk of developing the disease. Tamoxifen carries powerful side 
+effects including a higher risk of uterine cancer and potentially 
+fatal blood clots. Women are cautioned to undergo careful screening 
+before taking the drug. Tamoxifen is the first ever drug approved 
+as a cancer preventative. 
+</TEXT>
+</DOC>

@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> PRI19981119.2000.0340 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+A e Taylor, NPR News, Washington. This is The World, I'm Lisa Mullins. 
+</TEXT>
+</DOC>

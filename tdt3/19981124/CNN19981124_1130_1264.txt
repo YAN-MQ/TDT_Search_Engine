@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981124.1130.1264 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Rob Ticktin, "CNN Headline Sports." Officials are feuding over reports 
+that Joe DiMaggio suffered a heart attack last week. They say he is 
+not in grave condition. He will be 84 tomorrow. 
+</TEXT>
+</DOC>

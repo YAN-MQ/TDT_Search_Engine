@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> MNB19981201.2100.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A bit later on we'll have the first look at a big story in tomorrow 
+morning's "New York Times" along with our first glimpse of the Wednesday 
+morning newspapers here this Tuesday night. 
+</TEXT>
+</DOC>

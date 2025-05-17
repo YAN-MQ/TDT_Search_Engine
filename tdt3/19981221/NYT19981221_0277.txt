@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> NYT19981221.0277 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Q. Does the appendix have any use in the human body? A. The vermiform 
+(Latin for worm-shaped) appendix, a dead-end branch of the intestines, 
+plays at least a minimal role in the immune system and is also sometimes 
+regarded as a potential spare part for replacing things like a diseased 
+urinary bladder. Along with the adenoids, tonsils and spleen, the 
+appendix is classified as part of the mucosal immune system, a secondary 
+set of immune organs along the mucus-lined membranes of the body. 
+This system is also called the mucosal-associated lymphoid tissue, 
+or MALT. Like the rest of the gut, the appendix contains nodules called 
+Peyer's patches where certain types of immune cells mature and ``learn'' 
+whether or not to react to foreign substances by calling in cellular 
+troops to attack the invaders. This function of the appendix is most 
+pronounced in the first few decades of life and declines thereafter. 
+However, the appendix is not a specialized immune organ and is not 
+essential to health. Dr. Carol Shoshkes Reiss, an immunologist at 
+New York University, explains that it is a vestigial part of the gut 
+that was important in animals whose diets were composed of more fiber 
+than humans consume. It is not normally full of immune cells called 
+lymphocytes, she said, ``except when it becomes infected, and since 
+it is a pouch, this occurs with some frequency.'' Then lymphocytes 
+and macrophages, which clean up microbial invaders, infiltrate in 
+order to deal with the infection. Readers are invited to submit questions 
+by postal mail to Questions, Science Times, The New York Times, 229 
+W. 43rd St., New York, N.Y. 10036-3959, or by e-mail to: Question(AT)nytimes.com. 
+</TEXT>
+</DOC>

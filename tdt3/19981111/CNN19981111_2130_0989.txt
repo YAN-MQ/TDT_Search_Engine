@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981111.2130.0989 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The wine industry in California has turned into sour grapes this year. 
+Winemakers say they likely will lose tens of millions of dollars in 
+revenue after this year's harvest. The crop yield is down 30% to 50% 
+because of mildew, insects and rain. By comparison, north coast growers 
+in California took in a record $619 million last year. 
+</TEXT>
+</DOC>

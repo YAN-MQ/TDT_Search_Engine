@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981127.1600.0554 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In spite of the civil rights movement and advances in the medical 
+community, African-Americans are more likely to get sick, stay sick 
+longer and die sooner than caucasians. A department of health and 
+human services report finds -- The health and human services department 
+is launching a $400 million program to combat the disparities. 
+</TEXT>
+</DOC>

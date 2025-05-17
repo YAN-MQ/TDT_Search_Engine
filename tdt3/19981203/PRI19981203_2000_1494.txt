@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981203.2000.1494 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Worries over the crisis in emerging markets sent the Dow tumbling 
+today. Here's the latest from Wall Street. The Dow Industrials surrender 
+185 points to close at 8080. The NASDAQ also fell 41 points to 1954. 
+</TEXT>
+</DOC>

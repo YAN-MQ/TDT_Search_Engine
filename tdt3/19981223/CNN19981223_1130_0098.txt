@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981223.1130.0098 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stay tuned to "Headline News," we'll have the latest national weather 
+forecast in just a few minutes. 
+</TEXT>
+</DOC>

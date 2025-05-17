@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981026.1130.1035 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On the economic front, the housing market is beginning to cool off. 
+Sales of previously owned homes dropped in septemeber, falling slightly 
+more than 1% to 4.68 million homes annually. That's just under the 
+record pace set two months earlier. Still sales are nearly 9% above 
+year ago levels. And the national association of realtors predicts 
+that existing home sales are on track to set a new record this year 
+</TEXT>
+</DOC>

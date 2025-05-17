@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981125.1600.0487 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News" forecast. Windy, wet and snow is what you can 
+expect in the northwest later today. We're going to see rain along 
+the frontal boundary from the Great Lakes southward. That rain will 
+be pushing toward the east coast by Thanksgiving day. The central 
+section of the country for Thanksgiving looking nice with high pressure 
+and mild temperatures. That winter storm system moving very slowly 
+in the northwest. High temperatures for today, very mild other than 
+the northern plains and the northeast where we'll see highs only in 
+the 30s. Your extended forecast showing cold temperatures in the extreme 
+northern U.S. on Friday. Rain with showers in the west. Windy conditions 
+in the east. On Saturday, snow and rain throughout the western third 
+of the country with mild temperatures over most of the U.S. on Sunday, 
+rain with scattered showers over the west coast with a rain/snow mix 
+over the Great Lakes. 
+</TEXT>
+</DOC>

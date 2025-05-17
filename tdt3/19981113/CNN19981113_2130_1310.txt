@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981113.2130.1310 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Part of the future home of the Miami heat went up in flames today. 
+The $165 million American airlines Arena was scheduled to open December 
+of 1999. No injuries were immediately reported and officials have 
+not said what caused the fire. 
+</TEXT>
+</DOC>

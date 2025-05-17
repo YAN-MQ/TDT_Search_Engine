@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> CNN19981208.2130.0576 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some news organizations say their web sites have become just as important 
+as their publications or broadcasts. Rick Lockridge looks at the changing 
+face of the way news is covered in this edition of "tech trends." 
+Mr. president, the house Judiciary committee -- News watching on the 
+web. It's become a habit for millions. And three years after the earliest 
+Internet news sites went online, web publishers and broadcasters came 
+to Atlanta to talk about what they've learned. The first thing they've 
+learned is that the early profits they all thought they were going 
+to make are nowhere to be found. They're not too happy about the fact 
+that a lot of these ventures are kind of bleeding money. But analyst 
+Mark maradian says newspapers and broadcasters can't afford not to 
+be online because of the potential payoff later on. They understand 
+very well that that's where the future of advertising is. Advertising 
+is already becoming more aggressive on the web. For example, if you 
+order up a video clip on this particular web site, you have to watch 
+a commercial first. Apply now by clicking on the first USA button. 
+What are we looking for online? Surveys show most Internet news watchers 
+click on national and international stories first. After that, business 
+stories are the most popular, then sports and entertainment news. 
+But news alone isn't enough. Web publishers say Internet customers 
+want more -- more than newspapers or tV can give them. I think that 
+what will win out in the end is good, quality, credible content combined 
+with great services and commerce opportunities. But even though the 
+Internet continues to grow at a phenomenal rate and could reach 100 
+million users worldwide by the end of this year, rosenswag says there's 
+little danger that online web sites will kill off their TV and newspaper 
+counterparts. I think history has shown that one medium doesn't necessarily 
+replace another medium. It actually expands the number that come in 
+and use information. That growth in users and revenue is what the 
+new media moguls are banking on. Rick Lockridge, CNN, Atlanta. 
+</TEXT>
+</DOC>

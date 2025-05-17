@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981111.1130.0934 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.N. has withdrawn the nonessential staff from Baghdad in preparation 
+for a possible U.S. military strike. 
+</TEXT>
+</DOC>

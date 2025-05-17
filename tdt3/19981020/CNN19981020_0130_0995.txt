@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981020.0130.0995 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton has signed legislation to help businesses, organizations 
+and local governments avoid potential problems with the Y2K computer 
+glitch. The Bill creates a web site that offers information and links 
+to the latest solutions. And it establishes limited liability protection 
+so companies and organizations will share information on dealing with 
+the Y2K problem without the fear of lawsuits. 
+</TEXT>
+</DOC>

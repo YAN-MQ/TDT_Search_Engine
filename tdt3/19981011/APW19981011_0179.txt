@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> APW19981011.0179 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+An earthquake with a magnitude of 4.7 struck eastern Taiwan at noon 
+Sunday, rocking a fishing port but causing no injuries or damage. 
+The quake's epicenter was located 6.8 kilometers (4.2 miles) south 
+of the city of Hualien, 110 kilometers (68 miles) southeast of Taipei, 
+the Central Weather Bureau reported. The quake was felt most strongly 
+in the fishing port of Nanao just north in neighboring Ilan county, 
+and in Hualien and Chengkung, a coastal town in southeastern Taitung 
+county, the bureau said. Taiwan is frequently struck by small magnitude 
+earthquakes, and five people were killed in the mountains near Chiayi, 
+200 kilometers (124 miles) south of Taipei, in the aftermath of a 
+6.2 magnitude quake in July. 
+</TEXT>
+</DOC>

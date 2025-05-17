@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981215.1830.0774 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street broke a five-day losing streak with the Dow Jones industrial 
+average climbing about 127 points. The NASDAQ was also up, 45 points. 
+The top five Technology stocks were up today. 
+</TEXT>
+</DOC>

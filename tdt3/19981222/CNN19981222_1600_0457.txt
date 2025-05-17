@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981222.1600.0457 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hospitals are rationing a drug, commonly used to treat leg and lung 
+clots. Some are down to only a few doses of the drug called urokinase. 
+The government last month ordered drugmaker Abbott laboratories to 
+suspend distribution of the drug because of fears of contamination. 
+There were concerns the kidney cells from which the drug is made of 
+were contaminated with bacteria or the heb tight is bvirus. The FDA 
+says it hasn't found any problems yet. No word on how long the drug 
+will be off the market. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981018.1000.0485 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the United States is next. Still 
+ahead -- the campaign for legalizing the medical use of marijuana 
+is growing, despite setbacks in California. 
+</TEXT>
+</DOC>

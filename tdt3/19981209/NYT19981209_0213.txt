@@ -1,0 +1,62 @@
+<DOC>
+<DOCNO> NYT19981209.0213 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+If we ever arrive at that point in history where machines become our 
+masters, it will have all begun with machine vision. Machine vision 
+allows assembly-line robots to locate and identify parts to inspect, 
+count, measure and verify objects in a variety of industrial processes. 
+In other words, for at least some things we can do, they can do them 
+better. ``It's a way of giving computers eyes,'' explained Art Molella, 
+director of the Lemelson Center at the National Museum of American 
+History at the Smithsonian. ``It's obviously something that has revolutionized 
+assembly lines.'' The essential hardware components are relatively 
+common: a video camera, a personal computer, a sensor and a frame 
+grabber, which captures a still picture from a moving video image. 
+There is something slightly menacing about hunks of wire and metal 
+that can see more clearly for some tasks, thus performing them with 
+more accuracy than their human creators _ even if those hunks of metal 
+are still a far, far cry from the Terminator. Machine vision was conceived 
+in the mid-1950s by Jerome H. Lemelson, an independent inventor with 
+more than 500 patents. The Big Three automakers initially rejected 
+Lemelson's suggestions for automating assembly lines. But Japanese 
+automakers did not, and they leaped ahead in quality and productivity 
+for a while. Detroit eventually caught on. But Lemelson's contribution 
+to automotive excellence went largely unrewarded until his patents 
+came through decades later. The importance of machine vision goes 
+beyond its commercial value, Molella said. ``What's more important 
+is the path it has opened toward artificial intelligence and robotics 
+in general,'' he said. ``It has fed the imagination as well as the 
+assembly lines.'' Some machine vision systems, like those used to 
+inspect fruit, can ``see'' in color, but most find black and white 
+adequate. A computer can distinguish between 256 shades of gray. The 
+human eye? About 64 shades. While humans need two eyes for good depth 
+perception, most machine vision systems find one camera sufficient. 
+Since the system knows the actual size of an object it is scanning 
+for, it can use the size of the object's image and the angle at which 
+light from the object strikes the system's lens to calculate its position. 
+Machine vision has humans beat hands down when it comes to consistency. 
+There's no more worrying that the night shift will see things differently 
+from the day shift. Robots are more precise than assembly line workers, 
+said Joe Campbell, vice president for marketing at Adept Technology, 
+a maker of industrial robots in San Jose, Calif. A robot with a machine 
+vision system can be built and programmed to perform a wide range 
+tasks: picking up a single bolt from a jumble on a conveyor belt and 
+screwing it into an engine block, automatically discarding a defective 
+soda bottle in a production line or placing a needle on the hub of 
+a speedometer moving down a conveyor belt and pointing it exactly 
+to zero. Machine vision systems use video cameras and perceive objects 
+by using mathematical approaches that look for patterns in pixelated 
+video images. Many of the mathematical formulas were developed decades 
+ago. The biggest advances in recent years have come from improved 
+cable couplings and faster computers, which allow the systems to work 
+more quickly. The speed at which machine vision systems can perform 
+a function is doubling every couple of years, said Tom Reynolds, general 
+manager of Advanced Control Technologies, based in Laguna Hills, Calif. 
+``Three years ago, we could do 3 inspections a second,'' Reynolds 
+said. ``Now we can do 10; a year from now it will be 20.'' Let's see, 
+that means we humans should be safe from machines' taking over the 
+world until, oh, at least 2033. 
+</TEXT>
+</DOC>

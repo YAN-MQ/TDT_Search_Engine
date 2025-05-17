@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> VOA19981211.0500.2763 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In what the communications industry's report calls the first of a 
+kind, a motion picture recently had its American premier in five theaters 
+across the United States without the need for film. The national release 
+of the Last Broadcast was made possible using technology developed 
+by two companies: America's Texas Instruments and Britain's Digital 
+Projection. Mike Levy, president of Digital Projection's North American 
+operations, says that instead of using traditional celluloid, the 
+new process takes advantage of existing computer technology. The reason 
+Last Broadcast's premier was actually a film that was produced digitally. 
+It was shot on 8-millimeter videotape. All the post- production was 
+done on a desktop, a computer desktop, and then after that was done, 
+it was transferred to videotape. The tape was transmitted to satellites 
+and distributed electronically from there to theaters in Rhode Island, 
+Pennsylvania, Florida, Minnesota and Oregon. No reels of film were 
+involved. Again, Mike Levy. At the theaters, you have two options. 
+It could've been played live, but normally most people would shy away 
+from that because if you have a glitch in the satellite, you have 
+a glitch while you're watching the film. So in this case, the Last 
+Broadcast was actually downloaded via satellite to servers at each 
+theatrical location. These computerized servers in the various theaters 
+captured the digital signals and played them back on a projection 
+screen. Mike Levy of Digital Projection says that the quality of the 
+digital technique is comparable to that of film. We believe that the 
+enabling technologies to deliver electronic cinema already exist. 
+The key, though, is that the cinema industry has been built around 
+celluloid, and at a certain moment we believe the folks from Hollywood 
+will say all right, we think it's better, let's start the transition. 
+It's hard to predict exactly when that'll happen, though. 
+</TEXT>
+</DOC>

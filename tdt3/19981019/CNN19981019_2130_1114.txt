@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981019.2130.1114 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's full speed ahead in California's Silicon Valley. "Working ahead" 
+highlights the inaugural run of the new Altamont commuter express 
+trains today. They can carry 800 passengers each -- a welcome relief 
+for the estimated 36,000 people who commute as far as 100 miles from 
+the San Joaquin valley to the Silicon Valley every day. Monthly passes 
+range from $59 to $279, depending on the distance. 
+</TEXT>
+</DOC>

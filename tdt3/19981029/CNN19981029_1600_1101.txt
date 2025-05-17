@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981029.1600.1101 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+IBM unveiling a personal computer for under $600. It is the first 
+major computermaker to do so. Big blue's aptiva E-series model features 
+300-megahertz speed, but a Monitor must be purchased separately. The 
+new computer hits store shelves next week. IBM hopes its new PC's 
+will attract more first-time buyers, specifically children and grandparents. 
+Meanwhile, Dell computer today announced that it will slash prices 
+of its dimension series PC's by up to 13%. 
+</TEXT>
+</DOC>

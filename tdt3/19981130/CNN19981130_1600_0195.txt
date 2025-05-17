@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981130.1600.0195 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton met with Palestinian leader Yasser Arafat at the 
+White House this morning. He announced the U.S. will increase aid 
+to Palestinians by $400 million, pending congressional approval. Arafat 
+is in Washington to attend a one-day conference designed to garner 
+economic assistance for the West Bank and Gaza. The increase in U.S. 
+aid is expected to prod contributions from the 40 other nations at 
+the conference. The president says every step toward development in 
+the disputed territories is a step towards peace and security. There 
+must be greater investment of private resources in Gaza and the West 
+Bank. Each vote of confidence makes the infrastructure a little stronger. 
+Each investment makes previous investments more likely to succeed. 
+It is good economic policy, and it's the right thing to do. Arafat 
+has claimed he will declare Palestinian statehood next year. Israeli 
+prime minister Benjamin Netanyahu promised he'll walk away from the 
+peace process if Arafat follows through. 
+</TEXT>
+</DOC>

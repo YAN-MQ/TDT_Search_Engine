@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981208.1600.2952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And right now, let's get the latest on all the day's financial news 
+from VOA's Breck Ardery. Well, we had a down day in the stock market. 
+With the Dow Jones Industrial Average closing at 9,027. That was down 
+42 points. Standard & Poor's 500 index closed at 1181. That was down 
+six points. And NASDAQ was down five. Analysts say most of the selling 
+was profit-taking after two straight positive sessions. In which the 
+Industrial Average rose almost 200 points. 
+</TEXT>
+</DOC>

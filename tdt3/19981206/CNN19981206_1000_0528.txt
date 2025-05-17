@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981206.1000.0528 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather" update. 
+A low pressure storm moving across the Great Lakes will drag a cold 
+front into Texas. Showers and thunderstorms could be seen through 
+the Mississippi valley into the gulf of Mexico, with snow showers 
+across the Great Lakes into New England. Late in the period, another 
+in a series of pacific storms enters the northwest coast, with showers 
+through the mountains and inland. Rain showers are expected across 
+portions of the coast. High pressure builds into the nation's midsection, 
+and this keeps temperatures on the cold side westward. Teens 20s and 
+30s are in the forecast for most of the Rockies and northern and central 
+plains. Above seasonal norms continue for the east. On the extended 
+forecast, heavy rain and snow Tuesday in the west, with showers and 
+a few thunderstorms eastward. Snow showers will linger through Wednesday, 
+with a few thunderstorms possible in southern Texas and the western 
+gulf coast through Friday. 
+</TEXT>
+</DOC>

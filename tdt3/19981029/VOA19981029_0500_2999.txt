@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981029.0500.2999 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Singapore's economy diminished 1.5 percent in the third quarter, the 
+first contraction since 1985. Singapore has been hit by a slow down 
+in trade, domestic spending and electronics production. 
+</TEXT>
+</DOC>

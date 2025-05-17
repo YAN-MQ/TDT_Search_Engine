@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981028.1600.0940 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The republican party has unveiled campaign ads for the congressional 
+election next week that refer indirectly to the Monica Lewinsky scandal. 
+Vice President Gore says they show the GOP is more interested in attacking 
+the president than facing the issues. 
+</TEXT>
+</DOC>

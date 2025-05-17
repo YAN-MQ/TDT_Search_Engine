@@ -1,0 +1,82 @@
+<DOC>
+<DOCNO> NYT19981011.0138 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A long-sought compromise to let high-technology companies hire more 
+foreign workers has been derailed in the Senate, and infighting in 
+the final hours of the 105th Congress is threatening final passage 
+of two other cornerstones of the information-technology industry's 
+legislative agenda. Still in limbo as Congress' newest deadline for 
+adjournment neared was a ban on Internet taxes and landmark legislation 
+to protect copyrights in the digital age. The breakdowns, late Friday, 
+came just two days after industry leaders joined House Speaker Newt 
+Gingrich and Republican leaders at a news conference in what turned 
+out to be a premature celebration of the bills' passage. ``It does 
+show that you cannot let up your guard,'' Marc Pearl, general counsel 
+and senior vice president of government affairs for the Information 
+Technology Association of America, said Sunday. ``You must remain 
+vigilant until the bill is signed. Until the measure you don't want 
+is absolutely positively dead. You just can't let go.'' Indeed, Andrew 
+Grove, chief executive of Intel Corp., had foreshadowed the snags 
+on Wednesday, when, appearing via video hookup at the Gingrich news 
+conference, he told the speaker that, at Intel, an order is not complete 
+until the product is shipped. ``These bills haven't shipped yet,'' 
+Grove said, ``and I hope and trust that they do.'' Gingrich replied 
+that the bills were on their way to the loading dock. But time is 
+now running out. Congress was supposed to adjourn at midnight Friday. 
+Budget disputes, however, forced an extension of that deadline until 
+midnight Monday. And while House members are in a hurry to go home 
+for campaign season, more extensions could be necessary. For now, 
+the only major information-technology bill that has actually passed 
+is one involving Year 2000 liability, which encourages companies to 
+share information about whether their computer systems are prepared 
+to handle calendar dates beyond 1999, and about how any related problems 
+can be fixed; the companies would be exempt from lawsuits that are 
+based on the information they have disclosed. Besides the Internet 
+tax bills and the copyright measure, still pending are a half-dozen 
+measures covering matters like Internet gambling, protection of children 
+on the Internet and shielding technology companies from lawsuits based 
+on their fluctuating stock prices. ``We are very concerned,'' Pearl 
+said of the last-minute delays. ``It is always difficult to predict 
+what Congress will do when we are in this kind of breakneck speed 
+to get into a recess. Sometimes good things fall through the cracks.'' 
+One of the victims, apparently, will be the bill sponsored by Sen. 
+Spencer Abraham, R-Mich., to nearly double the number of visas available 
+to highly skilled foreign professionals. Both the House and Senate 
+had passed versions of the bill earlier this year, and a compromise 
+was worked out with the White House last month. But late Friday, a 
+small group of senators blocked a final vote on the compromise measure, 
+effectively killing it for this year. Opponents argue that the industry 
+has exaggerated claims of a worker shortage so it can bring in cheaper 
+foreign labor to keep wages down. ``The programming shortage never 
+materialized,'' said Sen. Tom Harkin, D-Iowa, whose opposition helped 
+blocked passage of the compromise measure. He noted that a number 
+of high-technology companies have reported layoffs. ``There is simply 
+not the shortage that some say,'' Harkin said. In the House, a dispute 
+over the appointment of a former Democratic lawmaker to a key high-technology 
+trade group delayed final passage of a comprehensive digital copyright 
+bill. That measure, the Digital Millennium Copyright Act, would make 
+it a crime to break through the technologies that secure digital copies 
+of software, music and videos and literary works from Internet pirates. 
+It was drafted to implement world treaties for protecting intellectual 
+property on the Internet. But lobbyists and congressional staffers 
+said that Republican leaders yanked the copyright measure from the 
+House calendar late last week, to express their outrage that Dave 
+McCurdy, a former Democratic representative from Oklahoma, had just 
+been named to head the Electronic Industries Alliance, a lobbying 
+group that has been involved in the copyright legislation. ``This 
+piece of legislation should not be an issue that is subject to petty 
+politics,'' Pearl said. ``It has always been one that has had a global 
+implication to it, one that is generally viewed as a tremendous beneficial 
+step forward. So we are just hoping that the leadership will realize 
+that before they pack it in.'' Final passage of the Internet Tax Freedom 
+Act, which would impose a three-year moratorium on any new state or 
+local taxes on Internet commerce or access to the network, was threatened 
+by disputes between House and Senate leaders over changes made to 
+the bill in the Senate on Thursday. The bill is considered crucial 
+for the growth of electronic commerce. Without it, supporters say, 
+there are more than 30,000 state and local taxing entities that could 
+try and lay claim to transactions on the Internet. 
+</TEXT>
+</DOC>

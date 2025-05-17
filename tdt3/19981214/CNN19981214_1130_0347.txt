@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981214.1130.0347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Plan some extra time before you make a trip to the post office today, 
+you could be in for a long wait. The postal service says today is 
+the beginning of the holiday mailing rush and the busiest day of the 
+year. During the holiday season, the post office estimates it handles 
+4.5 billion pieces of mail. 
+</TEXT>
+</DOC>

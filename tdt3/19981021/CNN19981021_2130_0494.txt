@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981021.2130.0494 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Senator John Glenn will have one less task during his stay aboard 
+space shuttle "discovery" next week. The 77-year old former astronaut 
+will not participate in one portion of a Sleep study involving the 
+natural hormone melatonin. The scientist who will supervise the experiments 
+says Glenn failed to meet one of the medical criteria set by the food 
+and drug administration. 
+</TEXT>
+</DOC>

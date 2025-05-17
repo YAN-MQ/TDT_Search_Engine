@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> VOA19981123.0500.3135 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Biometric security devices may be nearer to common use than you think. 
+While intelligent services to view such devices which rely on personal 
+information like fingerprints and voices, it hasn't been available 
+to the general public until now. Companies which make such devices 
+say they offer reliability without badges or memorizing passwords, 
+numbers or codes. These companies expect voice recognition to be the 
+first device to use in banks, on personal computers, cell phones and 
+other portable equipment. That's the latest in financial news. I'm 
+Victor Beatty. 
+</TEXT>
+</DOC>

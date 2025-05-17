@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981109.1600.1078 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's week four of the government's antitrust case against Microsoft. 
+And the attention shifts to the software maker's relationship with 
+chip giant Intel. The government played more videotaped testimony 
+by Microsoft chief Bill gates in court today. In it, Gates denies 
+his company tried to keep Intel out of the software market. Intel's 
+development of a new type of software was halted in 1995, after a 
+Meeting between Gates and Intel's then CEO Andy Grove. Intel's chips 
+power about 90% of the world's personal computers. But software makes 
+up just a small part of its business. 
+</TEXT>
+</DOC>

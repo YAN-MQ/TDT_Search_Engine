@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981028.1130.1104 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Job cuts are on the way at consumer and mortgage lender united companies. 
+The Baton Rouge-based company announcing it will cut 32% of its workforce. 
+That's more than 1,000 jobs. United also says it is under investigation 
+by the justice department and the department of housing and urban 
+development for its lending and pricing practices. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981118.1600.2988 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Once again, Dow Jones Industrial Average today closing up 54 points. 
+This is Breck Artery. Thank you, Breck. Briefly, in other markets. 
+In London, the Financial Times 100 Share Index ended the day down 
+29 points at 5,474, while in Paris the Kack 40 Index was up 15 points 
+at 3,612. 
+</TEXT>
+</DOC>

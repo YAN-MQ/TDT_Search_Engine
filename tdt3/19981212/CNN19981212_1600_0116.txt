@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981212.1600.0116 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Yesterday, the house approved the first three articles of impeachment, 
+sending them to the full house in a largely party line vote. Probably 
+for a vote next week. The first article alleges the president committed 
+perjury in his grand jury deposition in the Monica Lewinsky investigation. 
+The second article charges the president committed perjury in his 
+grand jury deposition in the Paula Jones case. And the third article 
+accuses him of obstruction of justice. Sources say debate on the articles 
+will begin in the full house Thursday. 
+</TEXT>
+</DOC>

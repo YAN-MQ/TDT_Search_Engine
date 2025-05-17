@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981015.2130.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Middle East leaders are meeting in Maryland. Security issues are 
+taking center stage in talks between Israeli President Benjamin Netanyahu 
+and Palestinian authority President Yasser Arafat. 
+</TEXT>
+</DOC>

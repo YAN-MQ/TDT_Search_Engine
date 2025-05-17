@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981223.1600.0212 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A balloon team trying to circle the globe nonstop is expected to fly 
+out of chinese airspace today. British tycoon Richard Branson and 
+two teammates will then head over south korea toward Japan. Yesterday, 
+China agreed not to ground the balloon, even though it had veered 
+off its original course and into unauthorized airspace. The balloon 
+team began its trip December 18th in Morocco. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981102.1130.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Nicaragua's president says flooding from hurricane Mitch is the 
+worst natural disaster to strike the region since 1972. 
+</TEXT>
+</DOC>

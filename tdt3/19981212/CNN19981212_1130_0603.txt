@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981212.1130.0603 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronauts are preparing to release "endeavour" from the space shuttle 
+tomorrow. They finished stocking the outpost with supplies yesterday 
+before turning out the lights and closing the hatches. Today astronauts 
+Venture outside again for the third and final spacewalk. They'll install 
+a large bag of tools on to the station and fix a stuck antenna. 
+</TEXT>
+</DOC>

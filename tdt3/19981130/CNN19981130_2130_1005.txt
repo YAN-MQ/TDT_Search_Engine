@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981130.2130.1005 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Traders cashed in today on the stock market's recent recovery. That 
+sent blue chips plummeting. The Dow Jones industrial average dropped 
+216 points to close at 9116. 
+</TEXT>
+</DOC>

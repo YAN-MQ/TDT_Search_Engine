@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981216.2130.0615 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The government is warning people to be careful about buying items 
+listed on sale. They say one of 30 sale items scans the wrong price 
+at the check-out stand. The national retail federation says it's a 
+low error rate and retailers are taking steps to improve accuracy. 
+</TEXT>
+</DOC>

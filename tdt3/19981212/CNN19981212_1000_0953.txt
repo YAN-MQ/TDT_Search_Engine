@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981212.1000.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And today astronauts from the space shuttle "endeavour" will spacewalk 
+again outside the international space station. They're installing 
+a tool bag and will unjam a stuck antenna. 
+</TEXT>
+</DOC>

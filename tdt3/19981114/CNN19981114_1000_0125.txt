@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981114.1000.0125 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Iraqi citizens are taking part in huge government-organized demonstrations 
+backing President Saddam Hussein. Protesters burned U.S. and Israeli 
+flags and chanted "with our blood and souls we shall defend you, Saddam." 
+State-run newspapers and some mosques in Iraq are calling on Arab 
+countries to declare war on the United States and its allies. 
+</TEXT>
+</DOC>

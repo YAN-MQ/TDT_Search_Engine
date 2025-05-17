@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981206.1300.0870 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking on our top stories -- the space shuttle crew has unloaded 
+the first U.S. component of the international space station. Next, 
+they will attach unity to the Russian Module. 
+</TEXT>
+</DOC>

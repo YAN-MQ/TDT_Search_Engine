@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981125.2130.0468 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And still ahead -- how cell 
+phones are changing health care in Romania. 
+</TEXT>
+</DOC>

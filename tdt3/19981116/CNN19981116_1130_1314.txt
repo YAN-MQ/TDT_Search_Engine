@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981116.1130.1314 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dallas Cowboys survived a late surge by Arizona, 35-28. Emmitt 
+Smith rushed for three TDs. He now has 127 for his career, good for 
+third place on the all-time list. 
+</TEXT>
+</DOC>

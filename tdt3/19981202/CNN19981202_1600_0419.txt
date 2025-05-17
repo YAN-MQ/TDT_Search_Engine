@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981202.1600.0419 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Weather permitting, the second part of the international space station 
+will head in to orbit tomorrow. Space shuttle "endeavour" is scheduled 
+to lift off from Kennedy space center just before 4:00 A.M. eastern 
+standard time. Forecasters predict only a 40% chance of favorable 
+launch conditions. NASA says it is "very tentatively" considering 
+Russia's request for another shuttle flight to Mir, to bring back 
+science equipment that could be used on the space station. 
+</TEXT>
+</DOC>

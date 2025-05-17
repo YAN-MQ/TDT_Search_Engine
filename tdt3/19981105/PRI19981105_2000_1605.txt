@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981105.2000.1605 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. stocks are mixed today. The Dow Jones Industrials ended up 132 
+points to close at 8915. The NASDAQ was also up 13 points to finish 
+at 1837. 
+</TEXT>
+</DOC>

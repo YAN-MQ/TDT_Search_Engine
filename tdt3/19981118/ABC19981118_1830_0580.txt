@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981118.1830.0580 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The overall impart/export figures for September were released today. 
+The U.S. impored $14 billion more in products than it sold to other 
+countries. On Wall Street today, the Dow Jones industrials average 
+was up more than 54 points to close at 041. On the NASDAQ, stocks 
+gained just under 19 points. 
+</TEXT>
+</DOC>

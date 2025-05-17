@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981107.1000.1013 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another person whose pronouncements rock markets had "encouraging" 
+words this week. Fed chairman Alan Greenspan said he sees evidence 
+that investor fright is lessening. However, he said nothing to signal 
+whether the central bank will cut interest rates again any time soon. 
+Investors on Wall Street certainly didn't seem frightened this week. 
+They pushed the Dow close to the 9000 Mark, racking up nearly 400 
+points in gains on the week. 
+</TEXT>
+</DOC>

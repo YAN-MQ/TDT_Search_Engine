@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981117.1130.1075 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's an office supply superstore on the Internet. Staples inked a 
+deal to be the search engine Yahoo!'s office supply merchant. Staples 
+is the nation's largest chain of office product stores. Checking those 
+stocks -- 
+</TEXT>
+</DOC>

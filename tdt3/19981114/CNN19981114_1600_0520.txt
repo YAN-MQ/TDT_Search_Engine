@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981114.1600.0520 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather update." 
+Two areas of low pressure will move across the eastern U.S. as we 
+head through Sunday. In the west, a cold front moving into the Rockies 
+will mean showers and some high-elevation snows. A new cold front 
+system is due in from the west, and it looks like cloudy skies and 
+rain stay in your pacific forecast for the early part of the workweek. 
+A low pressure system should be weakening in the gulf of Mexico, but 
+rain is still on tap for most of the deep south. Temperatures will 
+be in the 60s, 70s and 80s across the southern tier of states, with 
+30s, 40s and 50s to the north. On the extended forecast picture -- 
+look for heavy rainfall in the northwest, a mix of rain and snow for 
+the northern Rockies and the northern plains, and a heavy mix across 
+the Great Lakes on Monday. Thunderstorms could be possible across 
+Florida ending by Tuesday. Heavy rainfall, though, remains in your 
+pacific northwest forecast for tuesday, gradually tapering off as 
+we head into Wednesday. Some snow and showers can be expected for 
+the northern plains into lake superior. The extended forecast for 
+more than 7,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

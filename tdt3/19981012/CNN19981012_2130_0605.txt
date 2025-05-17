@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CNN19981012.2130.0605 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Pretty soon people will be able to page you anywhere in the world. 
+Rick Lockridge explains in this edition of "tech trends." Pagers! 
+They're everywhere. 55 million of them beeping and chirping in the 
+U.S. alone -- fully 20% of Americans now carry one -- on hip, or handbag. 
+I wear it almost 24 hours a day. It is bound to me, So, this is your 
+little lifeline? Basically, yeah. How important is it to you? It's 
+not that important to me, but my boss thinks it is. Now, for everyone 
+with a boss like that, there is the global satellite beeper from iridium. 
+A palm-sized pager with a worldwide reach and a multilingual display. 
+It's able to support 20 languages so you can have it in everything 
+from Chinese to Arabic to Russian to English to just about everything 
+you can think of. Iridium says its satellite pagers will always be 
+within reach of at least one of its 66 low-earth-orbit satellites. 
+The pager and these much-publicized new satellite phones go on sale 
+November 1st. But while the phones will cost $3,000 and won't complete 
+calls to some countries, the $500 to $700 pagers are supposed to work 
+anywhere and everywhere. Is it possible that you would have to be 
+paged at the South Pole? Well, hopefully not. Hopefully I won't have 
+to go there. Iridium spent 11 years and $5 billion launching a global 
+phone and pager network. The company has bet all that money on the 
+premise that busy travelers will pay a premium to stay in touch. But 
+with all those satellites following us around, some may find themselves 
+yearning for the days when belts were just for buckles. I relish the 
+few moments on the plane where they say turn everything off. Is there 
+ever a time when you wish you didn't have it? Absolutely. Late nights 
+and sundays during football. With the advent of the global pager there's 
+only one good excuse left for missing pages from your boss and that 
+one will disappear when somebody invents a battery that never goes 
+dead. Rick Lockridge, CNN, Atlanta. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981228.1600.0298 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+US Social Security computers received a clean bill of health today. 
+The Social Security System is now 100 percent compliant with our standards 
+and safeguards for the year 2000. In a ceremony at the White House, 
+President Clinton hailed the federal agency, calling it a leader in 
+solving the millennium computer problem, often referred to as the 
+millennium bug, or Y2K. But the President added Social Security's 
+policy problems are more complex. 
+</TEXT>
+</DOC>

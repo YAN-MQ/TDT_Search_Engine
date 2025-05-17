@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981020.2130.0501 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News weather 
+forecast" for Wednesday. The rain will ease a bit across southeastern 
+Texas. Although, it will remain wet in western Texas. River flooding 
+will continue to be a problem throughout the state. As cold air sinks 
+across the eastern U.S., we'll see some showers and storms over Florida, 
+a mix of rain and snow across the eastern Great Lakes. High temperatures 
+on Wednesday, just in the 40s and 50s through the northeast quarter 
+of the country. Look for some 70s and 80s across the south and southwest. 
+Looking ahead then to Thursday, just 30s and 40s around the Great 
+Lakes, the Ohio valley and New England with a mix of rain and snow 
+showers. We'll see scattered showers across the southwest some thunderstorms 
+in south Florida. On Friday, scattered showers continue in the southwest. 
+Not quite as cool in the northeast. Saturday, warming up a bit across 
+the northeast. It will be wet and windy in the northwest. Don't forget, 
+you can find four-day forecasts for 6,100 cities on CNN interactive 
+at CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981223.1600.0406 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+U.N. humanitarian workers resumed work today. Their first stop will 
+be to see if the attacks affected the oil for food program. 
+</TEXT>
+</DOC>

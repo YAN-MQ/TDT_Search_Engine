@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981027.0500.3134 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In New York, blue chip stocks ended lower Monday, the Dow Jones Industrial 
+Average shedding 20 points and will reopen today at 8421. 
+</TEXT>
+</DOC>

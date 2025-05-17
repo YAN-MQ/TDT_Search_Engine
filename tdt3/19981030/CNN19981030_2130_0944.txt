@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981030.2130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton said the U.S. economy is the strongest it's been 
+in a Generation and praising a decision by the group of seven nations 
+to endorse his recommendations for the global economy. 
+</TEXT>
+</DOC>

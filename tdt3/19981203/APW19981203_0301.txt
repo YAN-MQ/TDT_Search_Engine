@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> APW19981203.0301 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Shares fell slightly Thursday, with a strong rebound by property stocks 
+staving off a heftier drop. The blue-chip Hang Seng Index slipped 
+9.63 points, or 0.1 percent, to close at 10,046.15. A smaller index 
+tracking Hong Kong real estate companies dropped as much as 3 percent 
+in early trading but then bounced back to show a gain of 2.5 percent. 
+On Wednesday, the Hang Seng had risen 0.8 percent after plunging 7.5 
+percent in the previous three sessions. The sharp turnaround by property 
+companies late Thursday was triggered by news that the Hong Kong Monetary 
+Authority _ the territory's de facto central bank _ will raise the 
+ceiling on mortgage lending to 85 percent of the purchase price from 
+70 percent. That prompted some investors who had sold off real estate 
+stocks to buy them back, said Andrew To, sales director at Tai Fook 
+Securities Co. Market turnover rose as investors cashed in on early 
+gains, hitting 5.61 billion Hong Kong dollars (U.S. dlrs 719 million), 
+compared with Wednesday's 4.54 billion Hong Kong dollars (U.S. dlrs 
+582 million). Property giants led the gainers, with Henderson Land 
+rising 1.10 to close at 38.90 and Sun Hung Kai Properties rising 1.75 
+to close at 56.50. Hang Seng Bank was up 1.00 to close at 66.25. Market 
+heavyweight HSBC Holdings led the losers, falling 2.50 to close at 
+186.50. Hong Kong Electric also fell 0.65 to close at 25.00, while 
+China Telecom fell 0.60 to close at 25.00. Hong Kong's flag carrier 
+Cathay Pacific remained unchanged at 7.65, while conglomerate Swire 
+Pacific ``A'' rose 0.60 to close at 35.30. 
+</TEXT>
+</DOC>

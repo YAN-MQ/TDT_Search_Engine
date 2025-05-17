@@ -1,0 +1,115 @@
+<DOC>
+<DOCNO> NYT19981128.0118 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A potential shortage of tritium, a crucial ingredient of every nuclear 
+weapon, has prompted the Department of Energy to consider whether 
+to recommend starting one of the department's rare public-works-style 
+projects to manufacture more of the radioactive gas. With the department's 
+decision due within three weeks, the issue has set off intense lobbying 
+by congressional delegations from Alabama, Tennessee, South Carolina 
+and Washington state, which are hoping for a share of what could be 
+a $9 billion project. Secretary of Energy William Richardson is juggling 
+issues of cost, risk and image. The two solutions that may be easiest 
+and least expensive are those creating the biggest image problem: 
+using a civilian reactor to make tritium _ and breaking a 50-year 
+taboo on mixing civilian and military atomic projects _ or buying 
+the material from Russia or France. More expensive and technically 
+difficult would be to restart a research reactor that runs on plutonium, 
+which presents safety questions, or to build a linear accelerator 
+100 times more powerful than any yet built in this country. ``I think 
+we have dallied long enough on this decision,'' Richardson said in 
+remarks to reporters last week after a tour of a partly completed 
+Alabama nuclear reactor. The Tennessee Valley Authority gave up on 
+the reactor 10 years ago, but the site is now a potential tritium 
+factory. Richardson also toured the Savannah River Site, a nuclear 
+plant near Aiken, S.C., where an accelerator might go. And on Monday, 
+he is due at the TVA's Watts Bar reactor, a power plant where test 
+production of tritium is already under way. Another possibility is 
+a now-shuttered plutonium-powered reactor at the Energy Department's 
+Hanford, Wash., nuclear reservation. Richardson has repeatedly promised 
+that politics would not be the basis of a decision. But the issue 
+has already been the subject of several votes in Congress and of letters 
+from many members urging favorable treatment of their states. The 
+Energy Department, and the Atomic Energy Commission before it, was 
+once famous for multibillion dollar projects, but since the cancellation 
+of the Super Conducting Supercollider in 1993 and the contraction 
+of the nuclear weapons production complex in the sunset of the Cold 
+War, such projects have become rare. Critics of huge spending on a 
+tritium plant argue that the department should put off spending money 
+until the future size of America's nuclear arsenal becomes clearer. 
+In that, the Energy Department's problem parallels the Pentagon's. 
+The Defense Department has to decide on hundreds of millions of dollars 
+in investments to maintain some nuclear weapons and launching platforms 
+without knowing whether new agreements with the Russians will result 
+in the dismantling of those systems in a few years. The Russian parliament 
+is scheduled to debate the second round of strategic arms reduction 
+talks, known as START II, next month. If it approves the agreement, 
+the date by which new tritium will be needed moves to 2011 from 2005 
+and the amount required will be cut by one third. Tritium, a form 
+of hydrogen, is used to improve the efficiency of fission in uranium 
+and plutonium, and is stored as a gas in nuclear weapons for that 
+purpose. It decays at 5.5 percent a year and must be replenished. 
+The Energy Department's last reactor for producing tritium broke down 
+in 1988, and the department says that by 2005 it will not have enough 
+tritium to keep all existing weapons functional without dipping into 
+a five-year reserve. The time remaining to find a solution is short 
+relative to the years needed to build any new tritium plant, and Richardson 
+has promised to announce a decision by the end of the year. It is 
+already late, in fact, for the accelerator option. An accelerator 
+would make tritium by bombarding tungsten with sub-atomic particles. 
+Even if that project goes forward as scheduled _ which is unusual 
+for first-of-a-kind efforts at the Energy Department _ it will not 
+produce tritium until 2007. But even that may not be too late. The 
+end of the Cold War has bought the department some time. ``If the 
+Cold War had not ended, we'd have run out of tritium long before now,'' 
+said Troy Wade, who was the assistant secretary for defense programs 
+when the last of the production reactors, at the agency's Savannah 
+River Site, broke down. In the interim, the department has cannibalized 
+weapons being decommissioned, giving us ``a cushion we could not have 
+predicted 10 years ago,'' he said. Other experts say that if further 
+arms reduction agreements are reached with Russia, or if the United 
+States simply decides it does not need so many nuclear weapons, then 
+a new tritium source can wait for years, and the level needed to make 
+up for decay _ 2 to 3 kilograms, or up to 6.6 pounds, a year to maintain 
+the current arsenal _ could shrink further. But the department is 
+planning to produce enough tritium to sustain the current arsenal, 
+as specified under the first round of strategic arms reduction talks, 
+known as START I. To do so, the department is considering several 
+unconventional steps. A previous energy secretary, Hazel O'Leary, 
+rejected building a new reactor as too expensive. But in September 
+1997, operators loaded 32 ``target'' rods from the Energy Department 
+into the core of the TVA's Watts Bar reactor, which has been operating 
+steadily since then, its neutrons splitting the lithium metal inside 
+the rods into tritium and helium. This spring, when Watts Bar is scheduled 
+to shut for refueling, the department will remove the targets and 
+recover the tritium. Civilian utilities once avoided military contracts, 
+for fear such projects would sour the public on new reactors. Since 
+no one expects a utility to order a new reactor in the next few years, 
+that objection has died away. But local environmental activists and 
+some foreign policy experts object. As the Congressional Budget Office 
+pointed out in a recent report, ``For years the United States has 
+strongly urged other countries not to put civilian reactors to military 
+uses.'' Using already-completed reactors is the least expensive option; 
+the Congressional Budget Office said buying ``irradiation services'' 
+would cost about $1.1 billion compared with $2.3 billion for helping 
+finish the Alabama reactor, Bellefonte, and about $6 billion for the 
+accelerator. The accelerator may also pose a higher risk of delays 
+and cost overruns. Tritium is also sold commercially for about $30 
+million a kilogram (about 2.2 pounds), and some experts have suggested 
+buying it from France or Russia. ``There's plenty, and at a relatively 
+low price,'' said Richard Garland, a senior fellow for science and 
+technology at the Council on Foreign Relations. If bought far in advance, 
+he said, the seller would have no leverage over the buyer. But Joan 
+B. Rohlfing, a senior adviser to the energy secretary, said that the 
+idea, while it had been discussed, was not practical because the tritium 
+would have to be bought far in advance of need, and every 12 years, 
+half of it disappears through radioactive decay. For the price, she 
+said, the Energy Department could develop its own production system. 
+Buying tritium from Russia also would doubtless be vigorously opposed 
+by many members of the Russian parliament _ which for six years has 
+stalled on ratification of the newest arms control treaty _ as dangerous 
+and unpatriotic. 
+</TEXT>
+</DOC>

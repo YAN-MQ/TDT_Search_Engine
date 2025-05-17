@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981115.1300.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And on Tuesday, earth will pass through a blizzard of tiny meteor 
+particles. Authorities are concerned some satellites may get damaged. 
+</TEXT>
+</DOC>

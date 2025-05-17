@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> VOA19981029.0500.3575 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+It's hours universal time. From Washington, this is VOA News Now. 
+</TEXT>
+</DOC>

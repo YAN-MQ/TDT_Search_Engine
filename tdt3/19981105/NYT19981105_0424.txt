@@ -1,0 +1,218 @@
+<DOC>
+<DOCNO> NYT19981105.0424 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Pushing the frontiers of biology closer to the central mystery of 
+life, scientists have for the first time picked out and cultivated 
+the primordial human cells from which an entire individual is created. 
+The cells, derived from fertilized human eggs just before they would 
+have implanted in the uterus, have the power to develop into many 
+of the 210 different types of cell in the body _ and probably all 
+of them. Because they can divide indefinitely in culture without the 
+signs of age that afflict other cells, biologists refer to them as 
+immortal. Eventually, researchers hope to use the cells to grow tissue 
+for human transplants or to introduce new or improved genes into people. 
+But there is a thicket of ethical and legal issues, as well as technical 
+problems, to be overcome. The cells are obtained from embryos created 
+at in vitro fertilization clinics and so far do not seem definably 
+different from the primordial cells from which an entire individual 
+is created. Though some of the scientists involved in the work see 
+nothing unusual about working with these cells, other researchers 
+say they must be treated differently, given their human potential. 
+Once the work becomes widely known, it may draw criticism from those 
+who say it is wrong to interfere with nature by doing any kind of 
+research on cells like these. Known as human embryonic stem cells, 
+they have eluded capture until now because they exist in this state 
+only fleetingly before turning into more specialized cells, and need 
+special ingredients to be kept alive outside the body. The new cells 
+have many possible uses of which the most promising is to grow new 
+tissue, of any kind, for transplant into a patient's body. The cells 
+may also offer effective routes to human cloning, although both the 
+researchers and their sponsor deny any interest in this application. 
+Another likely use is in gene therapy, the insertion of new or modified 
+genes into body tissue. Two forms of human embryonic cells have been 
+developed, one by a team under Dr. James A. Thomson of the University 
+of Wisconsin in Madison, the other by Dr. John Gearhart and colleagues 
+at the Johns Hopkins University School of Medicine in Baltimore, Md. 
+Thomson's work is reported in this week's issue of Science, and Gearhart's 
+in the Proceedings of the National Academy of Sciences. Congress in 
+1995 banned federal financing of research on fetal cells, including 
+those derived from embryos, and the university researchers whose work 
+was announced today were funded by the Geron Corporation of Menlo 
+Park, Calif., a biotechnology company that specializes in anti-aging 
+research. ``It has potential health benefits which I think are extremely 
+promising, and I am sorry that the law prevented us from supporting 
+it,'' said Dr. Harold Varmus, director of the National Institutes 
+of Health. After an egg is fertilized it divides several times and 
+forms a blastocyst, a hollow sphere with a blob of 15 to 20 cells, 
+known as the inner cell mass, piled up against one wall. It is from 
+these cells that the embryo develops. Thomson grew his embryonic stem 
+cells from the inner cell mass of blastocysts left over from a fertility 
+treatment and due to be discarded. Patients who had undergone fertility 
+treatment donated the blastocysts to be used in research. As an embryo 
+grows and develops its cells become irreversibly committed to their 
+fates as specialized components of the body's organs. A pocket of 
+cells, known as embryonic germ cells, is protected from the commitment 
+process so as to create the next generation of eggs and sperm. Gearhart's 
+group has developed embryonic stem cells from the germ cells of aborted 
+fetuses. The cells developed by the two groups may well be equivalent 
+but this has yet to be proved. If researchers are able to use the 
+cells to grow new tissues, the work could alleviate the shortage of 
+livers and other organs for transplant. Cultures of the cells in the 
+laboratory could be nudged down different developmental pathways to 
+become heart or bone marrow or pancreatic cells. Before reaching their 
+final stages, the about-to-become heart cells, for example, could 
+be injected into a patient's ailing heart. Guided then by the body's 
+own internal regulatory signals, the cells would develop into new, 
+young heart tissue, supplementing or replacing the heart cells already 
+there. The same approach should in principle work with any tissue 
+of the body. Human embryonic stem cells would thus serve as a universal 
+spare parts system. Because the cells grow and divide indefinitely 
+in culture, very few blastocysts would be needed. Many technical problems 
+remain to be resolved. The art of directing embryonic stem cells down 
+specific pathways is in its infancy. But heart muscle cells have been 
+grown from mouse embryonic stem cells and successfully integrated 
+with the heart tissue of a living mouse. Thomson in 1995 isolated 
+the embryonic stem cells of a monkey, and Geron intends to do pilot 
+experiments in these cells. Another problem lies in making grafted 
+cells compatible with the patient's immune system. Dr. Thomas B. Okarma, 
+Geron's vice president for research, said Geron would explore several 
+ways of doing this. One, the least preferred, would be to set up a 
+bank with enough different human embryonic cells that most patients 
+could be matched. Another would be to suppress the self-recognition 
+genes that make the stem cells appear foreign to the patient's immune 
+system or, more elegantly, to replace them with copies of the patient's 
+own self-recognition genes. A third approach would be to convert one 
+of the patient's own body cells back to embryonic form by fusing it 
+with a human embryonic stem cell whose own nucleus had been removed. 
+Embryonic cells may have the power, not yet understood, to rescue 
+an adult cell's nucleus from its specialized state by flicking all 
+the switches on its DNA back to default mode. This reprogramming of 
+DNA is presumably what happened when mice were cloned this July from 
+adult cells. The ethical status of the cells is also likely to be 
+a matter of discussion. They cannot become a fetus, as their blastocyst 
+no longer exists, yet are very similar, if not identical, to the 20 
+or so primordial cells from which the embryo develops. Both research 
+groups refer to their cells as ``pluripotent'' because, when injected 
+into a mouse with no immune system the cells develop into many of 
+the major tissues of the body. The tissues are disorganized and do 
+not develop into a normal embryo. The cells may also be ``totipotent,'' 
+meaning they can form every one of the body's cell types, but the 
+experiment to prove this point would be unethical. The test for totipotency, 
+developed with mouse embryonic stem cells, would involve injecting 
+stem cells into another blastocyst. A normal mouse will usually develop 
+but is composed of a patchwork of cells, some from the blastocyst, 
+some from the injected embryonic stem cells, proving the stem cells 
+retain all their powers. It would be unethical to perform such an 
+experiment on people but if it could be done, it seems likely that 
+the human embryonic cells cultured by the researchers would also prove 
+to be totipotent. If so, they might be capable in principle of contributing 
+to the generation of a new individual. But ethicists say great care 
+must be taken in work involving human embryonic cells. ``Any time 
+you take a cell off a blastocyst, that cell could be used itself to 
+create a human being, so some groups in our society believe that in 
+making it transplantable you have derailed it into becoming a kidney 
+or some other tissue,'' said Dr. Lori Andrews of the Chicago-Kent 
+College of Law, an expert on the laws governing reproductive technology. 
+``Some researchers say `It's just a bunch of cells, why should people 
+care?' But that totally avoids the fact that some people do care, 
+and I'm concerned that if the researchers don't take into consideration 
+the variety of viewpoints about embryos they might ultimately end 
+up with more restrictive regulations,'' she said. Geron, which obtained 
+the exclusive rights to make use of the cells from the researchers' 
+universities, which hold patents on the processes, says it regards 
+them as qualitatively different from other cells used in research. 
+``Because these cells are derived from human blastocysts there is 
+a moral authority here, so we take these cells seriously,'' said Okarma 
+of Geron. He believes that use of the cells is justified because they 
+are something less than a living embryo and life-saving treatments 
+may be derived from them. ``We are not saying the ends justify the 
+means, but that given that the moral authority of these cells is subordinate 
+to that of the embryo, the work we contemplate with them is appropriate,'' 
+he said. But Gearhart said he did not consider the cells that he and 
+Thomson have isolated to have a special moral status because ``they 
+cannot form a fetus _ you cannot take one of these cells and form 
+a being out of it.'' Still, he said he would not argue with Okarma's 
+view that the cells had a different standing to ordinary cells. Johnson, 
+too, said that they were ``special cells.'' Dr. Kevin T. Fitzgerald, 
+a geneticist and Jesuit priest at Loyola University Medical School, 
+said that if the human stem cells are totipotent, ``then you are disputing 
+the viability of life, and we are back to the question of how to justify 
+destroying life for the purposes of scientific advancement.'' The 
+new cells may well reawaken fears of human cloning, although many 
+ethicists have now come around to believing that the public's fears, 
+despite science fiction writers' portrayal of clonal armies of frenzied 
+despots, are largely beside the point. Many experts now predict human 
+cloning is more likely to end up as a rare treatment offered in fertility 
+clinics, no different from the others like in vitro fertilization 
+and egg donation in that they were first bitterly denounced and are 
+now regarded as routine. ``Human cloning will likely also be accepted 
+once it becomes a reality. Most of today's ethical arguments against 
+it were previously used against in vitro fertilization and turned 
+out to be false,'' writes Dorothy C. Wertz, a bioethicist at the Shriver 
+Center, in the current issue of Gene Letter. The availability of human 
+embryonic stem cells suggests a quite different possibility to biologists, 
+who are well aware of how mouse embryonic stem cells have long been 
+used to generate genetically altered mice. The belief that humans 
+can now be modified like mice ``will be the knee-jerk reaction of 
+the academic community,'' Thomson said. He said human embryonic stem 
+cells were unlikely to be used in this way because there were more 
+promising approaches for gene therapy in people. For one thing, the 
+mouse method requires the creation of many embryos in order to obtain 
+the few in which new genes integrate in exactly the correct position, 
+as well as the breeding of a male and female mouse that have been 
+genetically altered. In its present form the technique is evidently 
+inapplicable to humans. The National Institutes of Health and the 
+university scientists it funds often play a leading role in reviewing 
+new biomedical technologies. But because of the Federal funding ban, 
+university scientists cannot get government support to study human 
+embryonic stem cells. But industry can do whatever research it pleases, 
+without necessarily obtaining government approval. Academic biologists 
+believe this asymmetry is unfortunate and that the new technique would 
+receive better and more detached review if the N.I.H and its scientists 
+could take part in the discussion. Varmus said that an expert panel 
+on human embryo research had recommended to the NIH that attempts 
+to derive stem cells from human embryos should be permitted, but Federal 
+efforts along this line were thwarted in 1995, with the Congressional 
+funding ban. Varmus said he believed the public ``will see how important 
+the benefits of this research might be.'' A Senate bill to ban human 
+cloning was defeated in February, the principal argument of its opponents 
+being that its overly broad language would prohibit promising research 
+on human embryonic stem cells. In any event, any ultimate use of human 
+embryonic stem cells may face legal hurdles in the nine states that 
+have outright bans on research on human fetal tissues, Andrews said. 
+Some laws also prohibit payment for embryos, a restriction that might 
+extend to cell lines and tissues derived from embryos. The technique 
+reaches to the central mysteries of life and death. As biologists 
+have recently begun to understand, the body's cells are not inherently 
+mortal. They become mortal only when committed to developing into 
+one or another of the body's mature cell types. These specialized 
+cells have mostly lost the ability to grow and divide but a few, typically 
+those of the skin and intestinal lining, can divide in culture about 
+50 times and then die. In January, biologists at Geron learned how 
+to manipulate the section of DNA that marks off the 50 or so permissible 
+divisions. By reversing the changes in this section of DNA, called 
+the telomere, they created lines of cells that divided well beyond 
+the usual limit and are still going strong, while retaining their 
+youthful vigor and appearance. Biologists refer to these cultured 
+cells as immortal because they are expected to grow and divide indefinitely. 
+Embyronic stem cells are also immortal because, until they become 
+committed to specialized fates, their telomeres are renewed each time 
+they divide. Unlike ordinary cells, they grow indefinitely in culture. 
+In the lineage of living organisms, they cycle indefinitely from the 
+embryo to the germ line to a new embryo. Geron biologists believe 
+they can manipulate the telomeres of the human embryonic stem cells 
+so that the cells stay immortal even as they turn into specialized 
+tissues. Can the mortal body therefore be repaired with new, tissues 
+that remain youthful indefinitely? ``Exactly,'' Okarma said. Critics 
+have said it would be folly to tamper with the telomere division-counting 
+system because it probably arose in evolution as the body's last-ditch 
+defense against any run-away cell likely to become a cancer. Okarma 
+said that new experiments had largely laid this concern to rest by 
+showing that telomerised cells are no more likely to become malignant 
+than are normal cells. These grand schemes may or may not come to 
+pass, but the techniques now at hand for manipulating human embryonic 
+stem cells will at least allow them to be seriously attempted. 
+</TEXT>
+</DOC>

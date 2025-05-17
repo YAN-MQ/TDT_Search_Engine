@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981230.1130.1065 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Further restructuring at inomura securities is cutting 20% of its 
+staff in northern America and Europe and closing offices. They've 
+had a difficult year. They lost $1.7 billion through September primarily 
+from overseas operations. 
+</TEXT>
+</DOC>

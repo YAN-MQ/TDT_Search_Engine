@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981120.0130.0964 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+States have until Friday to decide if they will sign onto the proposed 
+settlement agreement with the tobacco industry. So far, 28 states 
+have indicated they'll participate. It's up to the tobacco companies 
+to decide how many states must sign up for the agreement to go forward. 
+The number of states participating will affect the size of the settlement, 
+which could be $206 billion. The states sued to recover the costs 
+of treating smoking-related illnesses. 
+</TEXT>
+</DOC>

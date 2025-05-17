@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981016.2130.0601 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Just in time to watch the world series from home, Darryl Strawberry 
+was released from the hospital today. He had surgery two weeks ago 
+to remove a cancerous tumor from his colon. The 36-year-old New York 
+Yankees outfielder lost weight while in the hospital, but he says 
+he feels great. He is expected to undergo chemotherapy next, and doctors 
+are giving him a good chance for a full recovery. 
+</TEXT>
+</DOC>

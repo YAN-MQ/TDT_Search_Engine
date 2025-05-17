@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981120.2130.0495 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for Saturday. The first in a series of frontal systems across 
+the northwest will bring a Round of heavy rain and mountain snow along 
+with strong, gusty winds. As it moves inland, however, out ahead of 
+it we'll see warmer temperatures for the central plains states. The 
+east gets cooler as the cold front moves off the coast, but skies 
+will clear except for sections of upstate New York and northern New 
+England, where we could see some rain showers, or down across Florida 
+and south texas, where we could also see a shower or thunderstorm. 
+Highs on Saturday -- 60s through the central plains. We'll see just 
+30s over northern New England. Looking ahead to Sunday, it's still 
+wet across the northwest as temperatures warm up across the country. 
+Monday, still wet in the northwest, a mix of rain and snow for the 
+Great Lakes region with rain showers in Texas. Then on Tuesday, pretty 
+wet across most of the west coast. Temperatures range from 40s north, 
+to 70s south. Don't forget, you can find four-day forecasts for more 
+than 7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

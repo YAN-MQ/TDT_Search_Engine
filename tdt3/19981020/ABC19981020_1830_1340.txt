@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981020.1830.1340 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some third quarter earnings to report today. Better than expected 
+for some. Two big banks included, chase Manhattan and Wells Fargo. 
+IBM and Microsoft did well. 
+</TEXT>
+</DOC>

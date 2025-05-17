@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> CNN19981011.1130.0586 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The justice department accuses visa and Mastercard not only of conspiring 
+to dominate the credit card market but of holding back new technologies. 
+Rick Lockridge reports. Smart cards are called that because they have 
+an embedded microchip that keeps track of more kinds of information 
+and allows more flexible types of uses than the magnetic stripes on 
+traditional cards. But while smart cards have been widely embraced 
+in parts of Europe, they never really caught on in the United States. 
+Despite a pretty good push from visa. So what are the reasons for 
+that? Some of them deal with the fundamental security of smart cards, 
+and the truth is that smart cards are not very secure, they are very 
+vulnerable to attack. And some of them may deal with practices that 
+visa and Mastercard have taken place. In France, you can use the vitale 
+smart card to pay for a doctors visit, and when you do, the card stores 
+your updated patient information. Smart card makers insist there are 
+no security weaknesses in the card, and say a user's money and privacy 
+are always safe. All the data can be in your card or in your pocket. 
+This means privacy, no big brother. But some experts say there's no 
+guarantee Americans will embrace smart card technology, even if the 
+government can loosen visa and Mastercard's alleged strangle hold 
+on the American credit card market. This technology for the smart 
+cards is still somewhat immature. Look for the rise in Internet commerce 
+to possibly decide this issue. Studies show consumers don't like giving 
+their credit card numbers over the net. And new super secure smart 
+cards under development just for Internet shopping could tilt the 
+balance and force American card issuers to get a little "smarter." 
+Rick Lockridge, CNN, Atlanta. 
+</TEXT>
+</DOC>

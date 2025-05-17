@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981226.1130.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And in the southeast, utility crews are working overtime to restore 
+service which was knocked out by ice storms. Hundreds of thousands 
+of people from Virginia to Louisiana were without electricity on Christmas. 
+</TEXT>
+</DOC>

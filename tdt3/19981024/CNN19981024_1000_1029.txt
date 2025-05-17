@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981024.1000.1029 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The new world series winners, the New York Yankees, will be featured 
+on a Limited edition of Wheaties beginning next week. A ten cent donation 
+to charity will be made for each box sold. 
+</TEXT>
+</DOC>

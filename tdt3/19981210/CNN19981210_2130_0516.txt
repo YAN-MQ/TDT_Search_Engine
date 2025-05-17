@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981210.2130.0516 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News weather 
+forecast" for Friday. Much of the nation will be quiet. As the day 
+goes on, an area of low pressure will move only slowly across the 
+gulf states, moving from Louisiana toward Mississippi with some rain 
+and a few thundershowers a possibility. Also a chance of some showers 
+in southern Florida along a frontal boundary. But most of the rest 
+of the nation quiet, with the exception of the northwest where, once 
+again, we'll see another round of rain and mountain snow and some 
+pretty windy conditions, as well. Friday's highs range from 20s and 
+30s over the great basin and rocky mountains to 30s across the northern 
+Great Lakes and northeast, and also some 30s as far south as west 
+Texas. The only mild air will be across sections of Florida and the 
+southeast. Looking ahead to Saturday -- we'll see rain and thunderstorms 
+continuing to move through the gulf coast states, with rain and snow 
+in the northwest. On Sunday, wet on the east coast and in the northwest. 
+Monday, it's the northwest that gets all the rain. Don't forget, four-day 
+forecasts, 7,200 cities, at CNN.com. 
+</TEXT>
+</DOC>

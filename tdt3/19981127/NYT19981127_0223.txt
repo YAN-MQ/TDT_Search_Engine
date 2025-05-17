@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981127.0223 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST On Friday, a swath of energetic jet-stream winds, 
+with speeds up to 195 mph, merged with the western flank of an upper-level 
+low-pressure system off the California coast. As a result, the strengthened 
+low will be a formidable system on Saturday as it moves into the southwest 
+states. Scattered showers and thunderstorms will move across southern 
+California early in the day as the cold core of the upper-level low 
+moves overhead. Heavy snow is possible in the mountains east of Los 
+Angeles. Showers and thunderstorms, a few with small hail, will spread 
+east into Arizona as the upper-level low advances. Rain could be moderate 
+to heavy in some places as tropical moisture carried by a jet stream 
+originating east of Hawaii is drawn into the low's circulation. Rain 
+will likely be heaviest on mountains, where lifting of moist air is 
+amplified by the sloping terrain. Snow will fall at elevations above 
+6,000 feet. Mountain snows and valley showers and thunderstorms will 
+also develop in parts of southern Nevada and Utah. Unseasonable warmth 
+will continue to build from the Front Range of the Rockies to the 
+Plains, except for North Dakota and northern Minnesota, where chilly 
+Canadian air makes inroads. Warm weather will also cover almost the 
+entire eastern third of the nation. Vestiges of cold weather will 
+be found in western Maine, where 3 to 5 inches of snow fell in the 
+mountains late Thursday. Winds from the west-northwest averaging 15 
+to 25 mph will detract from the mildness of the air across southern 
+New England. Focus: Foggy Name Very dense fog shrouded the Texas coast 
+early Friday. Meteorologists, who name fogs by the process by which 
+they form, call such a mist an ``advection-radiation fog.'' Initially, 
+moist air flows gently onshore from the Gulf of Mexico. In technical 
+terms, moisture is ``advected'' or carried inland by weak onshore 
+winds. Once inland, moist air from the Gulf of Mexico cools after 
+sunset while in contact with cooling ground, setting the stage for 
+water vapor to condense into fog. The ground cools because it loses 
+more infrared radiation than it receives from a cloudless, nighttime 
+atmosphere. 
+</TEXT>
+</DOC>

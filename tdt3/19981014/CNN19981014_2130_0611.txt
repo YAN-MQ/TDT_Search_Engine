@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> CNN19981014.2130.0611 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers in Nevada say they've developed a simple instrument that 
+could help prevent future bombing at U.S. embassies. Rusty Dornin 
+has more in this edition of "tech trends." If this truck speeding 
+across the Nevada desert was loaded with a bomb instead of 400 pounds 
+of sand, how would you stop it? Researchers say with this -- a macaroni 
+necklace of pipe. A barrier they say that could be a major roadblock 
+to help prevent this and this from happening again. The bombings in 
+Tanzania and Kenya underscored the vulnerability of U.S. facilities 
+around the world. Developers of the terrorist vehicle barrier tested 
+by Lawrence Livermore laboratory say it's cheap, and it works. This 
+is round, steel pipe, which is available around the world, with a 
+steel cable down the middle. It's loose, seems loose and flimsy, but 
+it's very debilitating to a vehicle. Researchers say keeping this 
+away from the building is half the battle. If it does detonate, you 
+want to to be far away. Distance is your best Ally. You want to keep 
+is far away. Even with the recent bombers, the U.S. is reluctant to 
+turn them into fortresses. You don't want to build a fortress that 
+turns people away so you have to find a way to build something that's 
+generally secure that Nevertheless has an inviting feel to it. Obviously 
+it would be tough to put up a necklace of pipe in many of the worlds' 
+downtown areas. Developers say the decision to use the barrier would 
+have to be on a case by case basis. One case where it might have worked 
+well was in the bombing of the military barracks in Beirut in 1983. 
+Developers say the barrier will work, they just need enough room to 
+use it. Rusty Dornin, CNN, San Francisco. 
+</TEXT>
+</DOC>

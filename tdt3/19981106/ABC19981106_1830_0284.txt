@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981106.1830.0284 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Still "on the money," stock in Geron, the company that financed the 
+breakthrough in stem cell research, we reported on it yesterday, has 
+doubled in value today. 
+</TEXT>
+</DOC>

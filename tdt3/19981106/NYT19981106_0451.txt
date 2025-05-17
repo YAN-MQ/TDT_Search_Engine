@@ -1,0 +1,161 @@
+<DOC>
+<DOCNO> NYT19981106.0451 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+John Olson, an engineer at General Electric Co., was hospitalized 
+for depression for four months in 1991. Soon after he returned to 
+his job at the company's astrospace unit, he was laid off in a widespread 
+downsizing. When a similar position at GE Astrospace, which ultimately 
+became part of Lockheed Martin Corp., opened up a year later, Olson, 
+still unemployed, applied. Although he was told, he said, that he 
+would be recommended for the job, he did not get it. Now, six years, 
+three federal court opinions and thousands of lawyers' hours later, 
+Olson is finally set to go to trial. An appeals court ruled that he 
+had a claim that he was entitled to pursue _ not because he was mentally 
+disabled under federal law but because the company might have discriminated 
+by treating him as if he were. ``It's a very stigmatizing thing,'' 
+Olson said. ``You don't want to let your co-workers know'' about mental 
+problems. With his case scheduled for a jury trial in U.S. District 
+Court in Camden, N.J., in January, he said, he wants to make it easier 
+``for other people who have been discriminated against for suffering 
+from depression.'' Olson's case shows what a legal quagmire is taking 
+shape. Until now, some plaintiffs like him have been caught in a no-win 
+situation: They must show that they are qualified for the job in question, 
+but when they do, courts often rule that they are not disabled. ``It's 
+a horrific Catch-22,'' said Chai Feldblum, a law professor at Georgetown 
+University Law Center who was instrumental in drafting the Americans 
+With Disabilities Act. But guidelines issued last year by the Equal 
+Employment Opportunity Commission and a recent Supreme Court opinion 
+could help employees escape that double bind and win more cases. And 
+there is an explosion of litigation. ``It's one of the fastest-growing 
+areas of employment law,'' said James McDonald Jr. of Fisher &AMP; 
+Phillips in Newport Beach, Calif., who represents management in employment 
+matters. In 1992, the EEOC recorded 91 complaints of discrimination 
+on the basis of emotional or psychiatric impairment, or 9.1 percent 
+of all disability claims. By 1997, with the number of mental disability 
+claims skyrocketing, that had jumped to 2,789, or 15.3 percent, making 
+this, for the first time ever, the largest single category of claims. 
+Complaints outnumbered those related to HIV, cancer, substance abuse, 
+vision, hearing and diabetes-related disabilities combined. And preliminary 
+numbers for fiscal 1998 show yet another increase. Until now, said 
+Susan Stefan, a professor at the University of Miami School of Law, 
+many competent employees with mental illnesses like schizophrenia, 
+bipolar disorder and depression had lost their cases because courts 
+had found they were not disabled. And Olson's lawyer, Stephen Klausner, 
+of Klausner, Hunter &AMP; Rosenberg, in Somerville, N.J., noted: ``If 
+the patient is taking medication, you've got to make sure the dosage 
+doesn't so adversely affect him or her that she can't do the work.'' 
+From 1992 through 1997, companies won 92 percent of all final court 
+decisions under the Americans With Disabilities Act, said John Parry, 
+director of the American Bar Association's Commission on Mental and 
+Physical Disability Law. For mental disability cases, companies won 
+even more often. But in its new guidelines, the EEOC basically said 
+that a mental problem can be labeled a disability even if it does 
+not hurt a person's job performance. And the Supreme Court decision, 
+which concerned HIV discrimination, may increase employees' chances 
+by leading courts to broaden their views of disabilities. The new 
+guidelines have also called attention to employees' rights and helped 
+educate managers, said Peggy Mastroianni, associate legal counsel 
+at the EEOC. ``Human resources departments now understand,'' she said, 
+``that you can have a very productive worker who has a psychiatric 
+illness _ that both things can be true.'' But managing workers who 
+appear to have mental problems is tricky business. When an employee 
+engages in some bizarre behavior, ``it can be a minefield'' for employers, 
+said Harriet Cooperman, head of the labor and employment law group 
+at Weinberg &AMP; Green in Baltimore. If a company takes any action, 
+``it's subjecting itself to liability because the employee can turn 
+around and claim that the employer perceives the employee as having 
+a disability and is discriminating against the employee on that basis,'' 
+Ms. Cooperman said. ``Recognizing a problem and referring the employee 
+to counseling or treatment or suggesting that they get help is the 
+humanitarian thing to do,'' she said, but it can also expose the company 
+to a lawsuit. Thus, employee assistance programs are much more risky, 
+said McDonald, the California lawyer. ``It used to be that employers 
+could set up programs to help employees deal with mental and emotional 
+programs,'' he said. ``But now we see in an increasing number of cases 
+that EAPs are just another source of liability.'' His advice to employers: 
+``Focus on the conduct, not on the condition. Don't try to play armchair 
+psychiatrist.'' And despite the success most companies have had in 
+court, fending off discrimination claims based on mental disability 
+is not easy. ``Unlike a physical condition that is readily, medically 
+diagnosable, a mental condition is often very amorphous,'' said Robert 
+Bernstein, managing partner of the Newark, N.J., office of Epstein, 
+Becker &AMP; Green and a lawyer for GE Astrospace. A mental condition, 
+he said, ``is based on essentially the unverifiable statements of 
+the person who suffers from the condition, so it becomes very difficult 
+to rebut.'' He declined to comment on the merits of the Olson case. 
+Navigating a case through the system is costly. ``These cases can 
+cost more to fully litigate than the damages,'' Ms. Cooperman said, 
+``with attorneys' fees sometimes in the hundreds of thousands of dollars.'' 
+Plaintiffs can find lawyers to take cases on a contingency basis, 
+as Olson did, and thus avoid big legal bills. The GE Astrospace case 
+is a vivid example of how tortured litigating these cases can be. 
+Olson filed a complaint with the EEOC after learning he had lost out 
+on the job, but the agency found no reasonable basis for his claim. 
+Olson then filed a case in U.S. court, citing what he said were violations 
+of federal and New Jersey workplace discrimination law. Again he hit 
+a roadblock. The court dismissed the case, finding that Olson was 
+not disabled. But again Olson did not walk away. Instead, he appealed 
+to the 3rd U.S. Circuit Court of Appeals and finally won the decision 
+allowing his case to go forward. The court also said that because 
+New Jersey's law had a broader definition of disability than did the 
+federal law, Olson had a potential state claim for discrimination 
+on the basis of having a mental disability as well as for being regarded 
+as mentally disabled. Another concern for employers: Under disability 
+law, employers are required to provide reasonable accommodations to 
+disabled employees. For a physical disability, the form this takes 
+is often clear _ it might be a ramp for a person in a wheelchair. 
+But with mental disabilities, accommodation is more complex. Requests 
+for, say, an isolated cubicle or time off to calm down can be misunderstood 
+by managers and resented by co-workers. Accommodating employees is 
+not necessarily a one-shot deal but can be a continuing obligation, 
+as IBM learned the hard way. Elizabeth Criado, who moved from New 
+York state to take a position with IBM in San Juan, Puerto Rico, had 
+been an award-winning marketing representative. But after more than 
+six years she was finding the pressure, including having a new manager, 
+overwhelming. In mid-1994, at her new supervisor's suggestion and 
+on the advice of her doctor, Ms. Criado, then 43, took a leave of 
+absence for anxiety and depression. IBM expected her to return on 
+Aug. 1, but her doctor, she said, faxed the company a letter saying 
+she needed more time. In mid-August, IBM, which said it had never 
+received the fax, sent its own letter _ dismissing her. Ms. Criado 
+called and wrote the company to try to straighten out what she thought 
+was a misunderstanding. But, she said, there was no reply. ``I had 
+put so much of myself in my job,'' she said. ``I had awards all over 
+the place. I went from being Cinderella to the wicked witch overnight.'' 
+Finally she sued, claiming discrimination on the basis of a mental 
+disability. IBM lost. In June, the 1st U.S. Circuit Court of Appeals 
+upheld a jury verdict of more than $500,000, finding that IBM's grant 
+of a single, finite leave did not fulfill its obligation to accommodate. 
+For Ms. Criado, who has not had a full-time job since, it was a bittersweet 
+victory. ``Between what I ended up paying in taxes and lawyers, I 
+could have made more money working,'' she said. IBM disagrees with 
+the decision, saying it had done all it could to balance the needs 
+of the employee with the business. Jeffrey Huvelle, a partner at Covington 
+&AMP; Burling in Washington, who handled IBM's appeal, said: ``If 
+an employee comes with a request, companies now have to be very careful 
+in assessing the information the employee provides. In some cases, 
+that means the company has to consult its own physician or have the 
+person examined by its own physician to see if there is a way of accommodating 
+the workplace demands. The disability law imposes a particular challenge 
+to small companies that don't have in-house medical advice.'' Employers 
+may have to adjust their work standards case by case. ``They are used 
+to enforcing standards of attendance and conduct on a consistent basis, 
+treating everyone alike,'' he said. ``In part they do this to ensure 
+they're not treating people differently based on race, sex or age. 
+But sometimes when an employee has a mental disability, the law now 
+imposes an obligation to take that into account.'' But under the law, 
+an employee's needs cannot undercut the essence of the job itself. 
+Thus, a waitress in Alabama who could not handle the stress of working 
+busy nights and learning menu changes was found unqualified for the 
+job and lost her case. Still, managers should not brush off employee 
+complaints of mental problems, said Christopher Collins, an lawyer 
+at Proskauer Rose in New York. ``It's vitally important that employers 
+can point to a record at the end of the day that they took a request 
+for accommodation seriously.'' For those cases that do make it to 
+a jury trial, depending on state law, there may be no cap on liability. 
+With no limit to punitive damages in New Jersey, Klausner said, there's 
+no telling what Olson could win. 
+</TEXT>
+</DOC>

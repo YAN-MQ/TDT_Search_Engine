@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> APW19981015.0583 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The European Union Commission on Thursday cleared an accord between 
+the EU and Japanese computer chip industries aimed at quick settlements 
+of anti dumping cases. In a statement, the Commission said the agreement 
+between the European Electronic Components Manufacturers and the Japanese 
+Electrical Industries Association will not threaten competition in 
+the European chip industries. The agreement calls for the creation 
+of a common database on prices and supply of certain kinds of chips, 
+to be used when an anti dumping case is brought by either side. The 
+chip makers believe that the database will help to reach rapid settlement 
+in such case. 
+</TEXT>
+</DOC>

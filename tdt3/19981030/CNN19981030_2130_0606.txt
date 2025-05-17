@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981030.2130.0606 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The nation's highest-paid elected official has died. Los Angeles county 
+sheriff Sherman block died at U.S.C. University hospital from cerebral 
+hemorrhaging last night. He was nearing the end of a reelection campaign. 
+Officials say his name will remain on Tuesday's ballot, and an interim 
+sheriff will step in if he wins. Block earned more than $234,000 a 
+year heading up the nation's largest sheriff's department. That's 
+more than the president of the United States makes. 
+</TEXT>
+</DOC>

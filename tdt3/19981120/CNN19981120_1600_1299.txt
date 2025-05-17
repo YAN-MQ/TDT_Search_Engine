@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981120.1600.1299 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jerome Jurenovich, "CNN Headline Sports." NBA owners and players resumed 
+labor talks today. However, don't expect the lockout to end, as both 
+sides said no new proposals are in the works. 
+</TEXT>
+</DOC>

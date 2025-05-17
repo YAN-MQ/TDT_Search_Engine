@@ -1,0 +1,66 @@
+<DOC>
+<DOCNO> NYT19981105.0434 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A premature release by the Labor Department of sensitive job figures 
+brought down interest rates Thursday just as the government was about 
+to borrow $10 billion, upsetting much of Wall Street. The Labor Department's 
+error meant that the Treasury appeared to save more than $200 million 
+in interest costs over the 30-year life of the bonds. It also bloodied 
+bond traders, many of whom had established their usual short positions 
+ahead of the government's auction and had hoped to distribute the 
+new supply of bonds before grappling with the job report scheduled 
+for release Thursday. ``Everybody got whiplashed from this,'' said 
+David Jones of Aubrey Lanston, a specialist in Treasury securities, 
+noting that traders were already reeling from many weeks of market 
+volatility caused by foreign turmoil. The Treasury would make no estimate 
+of the impact on its borrowing costs, though a spokesman did observe 
+that other factors could have intervened between 9:20 a.m., when rates 
+responded almost instantaneously to the leak, and the 1 p.m. auction. 
+But whatever the Treasury's savings, the benefit is likely to prove 
+short-lived, some Wall Street analysts said. ``The bad memories will 
+be carried over to future auctions,'' one predicted, resulting in 
+more cautious bidding. The monthly job figures are generally considered 
+the most important set of economic data, with the change in employer 
+payrolls _ contained in the table that was inadvertently released 
+on the Internet Thursday morning _ usually the figure with the most 
+market impact. After the mistake-induced rally, however, the bond 
+market retreated and interest rates, which move inversely to prices, 
+rose several hundredths of a percentage point for most maturities. 
+The 30-year bond finished at 5.34 percent, up from 5.32 on Wednesday 
+and 5.30 at Thursday's auction. The stock market, down as much as 
+68 points in late morning, rebounded smartly, with the Dow Jones industrials 
+setting the pace with a gain of 132.33 points, or 1.51 percent. The 
+change of heart in both markets was attributed variously to a fuller 
+look at the job figures, to relatively weak demand at the Treasury's 
+auction and to comments made by Alan Greenspan to the Securities Industry 
+Association's convention in Florida. The Federal Reserve chairman 
+said he saw signs that yield spreads and liquidity premiums among 
+bonds of different quality were narrowing again and that it was ``plausible'' 
+that they would ``soon fall into more normal ranges.'' Bond people 
+seemed to interpret this as meaning that Greenspan would find it less 
+urgent to cut short-term interest rates again when his policy body 
+meets on Nov. 17. Stock people may have found in his remarks reassurance 
+that the economy was likely to keep growing and avoid a credit crunch 
+and business downturn that would erode profits. Economists, too, came 
+to differing conclusions after digesting Thursday's figures, which 
+included a rise in first-time claims for unemployment insurance. Shares 
+of banks and brokerage houses were among the biggest gainers. Charles 
+Schwab jumped 4 5/8, to 58 3/8, while Morgan Stanley Dean Witter, 
+Chase Manhattan, BankAmerica, J.P. Morgan and BankBoston all posted 
+gains of more than two points, perhaps buoyed by more European rate 
+cuts and, in Morgan's case, by takeover speculation. Steel stocks 
+had another strong day as the industry pressed its case in Washington 
+against what it contends is dumping by importers. Nucor climbed 1 
+1/2, to 48 3/8, and USX-US Steel climbed 15/16, to 27 5/8. Delta Air 
+Lines, up 2 3/4, to 108 3/4, led a higher airline group. The Standard 
+&AMP; Poor's 500-stock index performed nearly as well as the Dow industrials, 
+rising 15.18, or 1.36 percent, while the Nasdaq market and the Russell 
+2000 advanced fractionally. Greenspan's comments came just as investors 
+prepared to bid on $10 billion of bonds, in the third and last installment 
+of the government's $38 billion debt sale. The new bonds sold at 5.30 
+percent, 1 basis point higher than dealers expected and a sign of 
+dampened demand. 
+</TEXT>
+</DOC>

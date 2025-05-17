@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981214.1130.0484 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+Temperatures today are again quite warm over much of the plains. Into 
+the 50s and 60s today. It is seasonably cool though in sections of 
+the northeast. 20s and 30s expected. And a little on the cool side 
+in the southeast, as well. We check your forecast, looking for low 
+pressure in the southwest to continue to track inland. Not a lot of 
+precipitation associated with it. But we will find some light showers 
+and some mountain snows. In the southeastern atlantic coastal sections, 
+we'll find some showers associated with a weak area of low pressure, 
+and the pacific northwest will see some wet weather as well. A look 
+now at the extended forecast -- on Wednesday, expect windy conditions 
+in through the northern plains. Some scattered showers in the southwest. 
+And look for temperatures again to remain on the mild side. On into 
+Thursday, again, warm temperatures back through the plains and the 
+southeast. Temperatures will be coolest in the Great Lakes with the 
+rain and snow mix anticipated there. On into Friday, rain and snow 
+continue to push in through sections of the northeast. Look for some 
+showers in the southwestern U.S. for even more weather information, 
+you can log into CNN.com. 
+</TEXT>
+</DOC>

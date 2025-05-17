@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981225.1130.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Much of the United States is in the grip of severe winter weather. 
+Hundreds of thousands of southerners have no electricity. And many 
+airports and bus and train terminals have postponed or canceled departures. 
+</TEXT>
+</DOC>

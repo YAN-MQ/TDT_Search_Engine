@@ -1,0 +1,143 @@
+<DOC>
+<DOCNO> NYT19981126.0125 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Most states are behind schedule in renovating their computers for 
+the year 2000, and as a result, it is likely that benefit payments 
+will be delayed, or services interrupted, for some people who receive 
+welfare, Medicaid, food stamps or other types of assistance, federal 
+and state officials say. State employees are working feverishly to 
+fix the problem and to draft contingency plans in case their computers 
+are not ready by Jan. 1, 2000. But some states are lagging, and states 
+that have repaired computers for one program are often behind schedule 
+in fixing computers used for other social programs. Federal officials 
+say the problems could begin as early as January 1999 in some programs 
+like unemployment insurance. People filing claims for jobless benefits 
+typically have a year to draw all the checks to which they are entitled. 
+The last day of this ``benefit year'' is recorded when an application 
+is received. So computers must be able to handle dates with the year 
+2000, starting in January 1999. Randy Johnson, chairman of the Hennepin 
+County Board of Commissioners in Minneapolis and former president 
+of the National Association of Counties, said: ``I'd be surprised 
+if there was not some dislocation and some interruption of services. 
+We are trying to work with our clients, many of whom are elderly or 
+frail, to make sure they know how to reach us if they have problems.'' 
+Many federal benefit programs are administered at the county level, 
+and county officials will have to deal with the consequences if payments 
+are late. The year 2000 problem arises because early computer programmers 
+often used a two-digit format to express the year. In such computer 
+programs, 2000 is often indistinguishable from 1900. If the problem 
+is not corrected, experts say, computers could produce inaccurate 
+data or shut down. A recent survey of states by the General Accounting 
+Office found that many were behind schedule in renovating their computers. 
+Only one-third of the 421 computer systems used for seven major health, 
+welfare and nutrition programs were ready for 2000. ``The compliance 
+rate ranged from only 16 percent of the Medicaid systems to about 
+half of the child care and child welfare systems,'' the accounting 
+office said. Failure to make the necessary repairs ``could result 
+in billions of dollars in benefit payments not being delivered,'' 
+the report said. In addition, it said, states may have difficulty 
+determining eligibility of new applicants, and people already on the 
+rolls may receive late payments or underpayments. Joel C. Willemssen, 
+who supervises the work of the General Accounting Office on computer 
+operations of civilian agencies, called the survey results ``fairly 
+discouraging.'' The federal government had set September 1998 as the 
+target date for computers to be renovated. That date would have allowed 
+time to test the performance of computers and to correct software 
+errors. ``Testing is 60 to 70 percent of the job of getting ready 
+for the year 2000,'' said Wendy Rayner, chief information officer 
+of New Jersey. Steve Kolodney, director of the Department of Information 
+Services in Washington state and chairman of a panel studying the 
+year 2000 problem for the chief information-technology officers of 
+the 50 states, said: ``There is likely to be some dislocation, some 
+disruption of services. I don't think there will be a wholesale failure 
+of these computer systems. But it's inevitable, when so many systems 
+are being renovated, that there will be some delays and hiccups.'' 
+The interruption of services ``won't be for lack of attention or concern 
+among state officials,'' Kolodney said. ``It would occur because we 
+are overwhelmed with the number of fixes that need to be made.'' Many 
+governors, including George Pataki of New York, have formally recognized 
+the year 2000 problem as a priority. But John Koskinen, a White House 
+official who supervises preparations for the year 2000, said, ``We 
+are concerned about some states where it's not a priority of the governor 
+and it's viewed as merely an information technology problem, off on 
+the side.'' Koskinen is chairman of President Clinton's Council on 
+Year 2000 Conversion, an interagency group formed in February. Governors 
+may ultimately be held accountable if benefits are not paid on time. 
+John Thomas Flynn, the chief information officer of California, said: 
+``If social services are disrupted, you'll have more than computer 
+problems. You could have civil disturbances. That's why this issue 
+is a high priority for us.'' Janice Lilja, acting deputy administrator 
+of the federal Food and Nutrition Service, said the government had 
+asked the top welfare officials in each state to certify, in writing, 
+that they had fixed their food stamp computers to cope with the year 
+2000, or that they had some alternative means of delivering benefits. 
+Welfare agencies could issue checks by hand for a few weeks, as they 
+sometimes do after an earthquake or a hurricane. State and local officials 
+could simply assume that everyone on the rolls of a particular program 
+in December 1999 was entitled to assistance in January 2000. Or the 
+federal government could advance the necessary money to the states 
+for a few months, without receiving the data normally required to 
+justify such payments. Likewise, a state having difficulties could 
+seek help from other states with extra computer capacity, or could 
+hire private companies to write checks and perform other tasks normally 
+done by government agencies. Even a state that fixes its own computers 
+may have problems if its repairs are not compatible with those made 
+by the federal government or by counties and cities in the state. 
+In addition, state officials must deal with thousands of providers 
+and vendors of services, who may or may not have made the necessary 
+computer changes. A state Medicaid program, for example, receives 
+tens of thousands of electronic claims from doctors, dentists, hospitals, 
+pharmacies, nursing homes and home health agencies. If such health 
+care providers do not fix their computers to cope with the year 2000, 
+their Medicaid payments may be delayed. Joel Schnedler, deputy director 
+of computer operations for the Missouri Medicaid program, said there 
+would be no problem paying hospitals and chain drug stores that file 
+large numbers of Medicaid claims. But he said he worried about doctors 
+and dentists who filed just a few claims a month. State employees 
+may have to do some ``manual manipulation'' of the data before paying 
+such claims, he said. Koskinen, the White House official supervising 
+preparations for the year 2000, said, ``Six or eight states have difficulty 
+even identifying who operates these electronic data exchanges,'' so 
+they are in no position to test the arrangements. Jeff Jinnett, a 
+lawyer who specializes in technology issues, said several states, 
+including Georgia, Virginia and Hawaii, had passed laws to shield 
+themselves against lawsuits that might be filed if their computers 
+fail. Under such laws, he said, if a person does not receive a benefit 
+check and therefore cannot buy medicine needed to treat a severe illness, 
+the person might be barred from suing the state for damages. States 
+are attacking the year 2000 problem in different ways and vary greatly 
+in their efforts to measure progress. Judi Worsham, data processing 
+manager for the Medicaid program in Oklahoma, keeps track of her work 
+with great precision. ``As of Nov. 5,'' she said, ``we have completed 
+55.07 percent of the work to be done by June 30, 1999, and we have 
+used 56.51 percent of the days available since we started on Jan. 
+1 of this year.'' Health and welfare officials in New York, New Jersey 
+and Connecticut said they had been renovating their computers for 
+several years and foresaw no major problems. ``We are about 95 percent 
+ready for the year 2000,'' said Joyce Thomas, commissioner of social 
+services in Connecticut. But Sarah Mingledorff, deputy commissioner 
+of the Alabama Medicaid Agency, said: ``Our existing computer system 
+is not being touched. We won't upgrade it. We'll put in a new one 
+on Oct. 1, 1999.'' Federal officials said that was a high-risk strategy 
+because information technology projects were rarely completed on time 
+and often required extensive testing to eliminate defects. Alabama 
+has posted a progress report on the Internet. It says, ``Jan. 1, 2000, 
+will be here before most of us are ready.'' Moreover, it shows that 
+the state has done just 6 percent of the necessary work on the computers 
+that track child abuse and neglect cases, and less than 10 percent 
+of the work needed to fix the computers that issue food stamps and 
+welfare benefits. A report prepared for Gov. David Beasley of South 
+Carolina says that ``a significant number of large computer systems 
+will experience year 2000-related failures'' despite the best efforts 
+of state employees. ``Payments to welfare recipients could be severely 
+delayed because compensation systems either halt or produce checks 
+so erroneous that the system must be shut down and checks processed 
+manually,'' the report says. California has upgraded its Medicaid 
+computers, but told the General Accounting Office that it could not 
+provide statewide data on the renovation of computers used to establish 
+eligibility for welfare and food stamps because the computer systems 
+varied from county to county. 
+</TEXT>
+</DOC>

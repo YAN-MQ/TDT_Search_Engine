@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981213.1830.1545 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A major upset in sports -- the Denver Broncos lost today to the New 
+York giants, ending their 18-game winning streak. It also ended their 
+dream of matching the '72 dolphins' perfect season. 
+</TEXT>
+</DOC>

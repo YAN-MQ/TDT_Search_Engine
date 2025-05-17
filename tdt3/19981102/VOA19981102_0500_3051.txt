@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981102.0500.3051 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stocks in Australia, Taiwan, Hong Kong, New Zealand, and South Korea 
+all posted gains. 
+</TEXT>
+</DOC>

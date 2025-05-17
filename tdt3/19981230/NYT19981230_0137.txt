@@ -1,0 +1,186 @@
+<DOC>
+<DOCNO> NYT19981230.0137 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+At a private meeting with executives of Intel Corp. in July 1995, 
+Bill Gates, chairman of Microsoft Corp., sounded a warning. As the 
+companies pursued their joint vision of making desktop machines that 
+could store and crunch ever-increasing amounts of digital data, Gates 
+predicted they would face a looming challenge. ``Once networks are 
+extremely fast,'' Gates said, there was ``no reason intelligence can't 
+be central,'' according to notes taken by an Intel executive at the 
+meeting, which were submitted as evidence in the Microsoft antitrust 
+trial. Centralized intelligence, accessible via fast computer networks, 
+would pose a threat to the dominant role of PCs _ the model on which 
+Microsoft and Intel had built their lucrative businesses. Just three 
+and a half years later, that challenge to the personal computer seems 
+to be at hand. Even Andrew Grove, the Intel chairman, acknowledges 
+that ``the center of gravity is shifting.'' But whether that shift 
+is the beginning of a revolutionary transformation or an evolutionary 
+progression is a matter of fierce debate. In one camp are the executives 
+and technologists who argue that computing is entering ``the post-PC 
+era,'' as advances on many fronts enable a world of intelligent networks, 
+linked by powerful hub computers, feeding data to millions upon millions 
+of so-called information appliances. Instead of the PC continuing 
+to be the center of the computing solar system, they say, the network 
+will become the universe. Information appliances, the post-PC proponents 
+explain, can be thought of as personal communicators _ devices that 
+mainly send and obtain information to and from the network, instead 
+of creating and manipulating information the way personal computers 
+do. The forerunners are digital cell phones, like the Nokia 6160 and 
+the Qualcomm PDQ, and hand-held devices, like the Palm Pilot and the 
+Motorola Pagewriter. And if these diverse digital gadgets are an indication, 
+the information appliance market will likely resemble the consumer 
+electronics business, with a flood of different products in every 
+shape and description, a chaotic grab-bag of wacky failures and well-designed 
+winners _ a world apart from the beige-box monotony of the personal 
+computer industry. The post-PC enthusiasts see a future when everything 
+from a household's car to its coffee maker has its own embedded microchips, 
+ready to receive remote instruction. From work, a person could tap 
+into the Internet to, say, program the video cassette recorder, defrost 
+food and leave a message for a family member. ``We're at the beginning 
+of a new age where we will have an explosion of embedded and personal 
+devices,'' said William Joy, a founder and vice president of research 
+of Sun Microsystems Inc. Paul Horn, a senior vice president for research 
+at IBM Corp., is another adherent to post-PC doctrine. ``The trend 
+is pretty clear toward a proliferation of different computing devices 
+at the individual level being fed specialized information from powerful 
+networks,'' Horn said. ``Instead of millions of personal computers, 
+you have billions of devices eventually.'' But opponents of such thinking 
+_ most notably Microsoft and Intel _ deride the post-PC concept as 
+an amalgam of half-truths expounded by the losers in the PC revolution. 
+The personal computer, the industry incumbents concede, must become 
+smaller, cheaper and easier to use. There is a shift under way, they 
+agree, toward more of the technology and software development being 
+focused not on the desktop but on network hub, or server, computers. 
+Yet all of that, they argue, can and will be embraced by the evolving 
+personal computer industry, which has the capacity to expand both 
+upward to take over industrial-strength corporate computing chores 
+once handled by mainframe computers, and downward into the market 
+for hand-held devices. ``It's not the post-PC era,'' said Craig Mundie, 
+a senior vice president for consumer strategy of Microsoft. ``We're 
+entering the PC-plus era.'' Yes, there will be a place for non-PC 
+appliances, Mundie allows, but they will be ``complementary to the 
+evolving personal computer'' _ anchored to the PC, not divorced from 
+it. What the post-PC revolutionaries underestimate, the PC incumbents 
+say, is the pull of the 250 million people who now use personal computers 
+and who represent the infrastructure of modern computing. Without 
+the personal computer, they say, the Internet would still be 20,000 
+academics sending e-mail to each other from Unix workstations. And 
+they contend that even the star among early information appliances, 
+the Palm Pilot, owes its popularity largely to its ability to swap 
+information with the personal computer. ``When you have hundreds of 
+millions of users, change is evolutionary,'' said Grove of Intel. 
+``Computers will become smaller, cheaper and more mobile. But they 
+will be mostly full-function personal computers because people are 
+going to want their same data in a form they are familiar with for 
+years and years to come.'' Exponents of post-PC computing disagree. 
+``The new era will escape the dependency on the PC,'' said Donna Dubinsky, 
+a co-founder of Palm Computing, creator of the Palm Pilot, which is 
+now part of 3Com Corp. She has moved on to found a new company, Handspring 
+Inc., that hopes to help usher in what she calls ``an era of ubiquitous 
+hand-held computing.'' There is no way, Ms. Dubinsky insists, to bring 
+the next generation of hand-held devices below $100 in price without 
+``disconnecting from the PC'' and making them ``an extension of the 
+network, not the desktop.'' No one argues that the personal computer 
+will go away. Indeed, personal computer shipments worldwide will rise 
+nearly 13 percent annually though 2002, estimates International Data 
+Corp., a research firm. What the post-PC faithful foresee, though, 
+is a shift away from the personal computer as the dominant computing 
+technology. And they can point to projections from International Data 
+that by 2005 more information appliances linked to the Internet _ 
+including set-top boxes, screen phones and hand-held computers _ will 
+be sold than personal computers. The history of the mainframe industry, 
+analysts say, is instructive. These big workhorse computers crunch 
+more data than ever before. But for all intents, the mainframe era 
+ended when the personal computer moved into the mainstream, with the 
+introduction of the IBM PC in 1981. Investment and software development 
+focused elsewhere. And the profit margins on mainframes _ after nearly 
+two decades of pressure from the economics of the microprocessor and 
+the personal computer _ are a fraction of what they once were. Information 
+appliances, notes Steven Milunovich, a managing director of Merrill 
+Lynch &AMP; Co., represent a break in the evolution of the computer 
+industry because they are specialized devices _ designed to perform 
+one or two tasks well _ instead of the general-purpose computers that 
+both mainframes and personal computers have been. All of these new 
+appliances will have digital technology in common, but they will be 
+tailored for dozens and dozens of special-purpose niche markets, catering 
+to different needs and users. It will be a more diverse business, 
+far less susceptible to being dominated by a few leading technology 
+vendors, as Microsoft and Intel rule the personal computer industry. 
+The emerging information-appliance industry has attracted the consumer-electronics 
+giants. Sony Corp., for example, is working to develop a new class 
+of devices, adapted for what Mario Tokoro, head of the company's Information 
+Technology Laboratories, calls the coming era of ``intimate computing.'' 
+``The PC was created in the image of the monolithic mainframe of long 
+ago,'' Tokoro, who is a computer scientist, said. In contrast, Sony 
+expects the information appliance market to produce the Internet's 
+answer to its ``Walkman'' products _ an opportunity for innovative 
+new devices not available in the mature personal computer industry. 
+According to the post-PC doctrine, the obstacle that prevents personal 
+computers from being used by more than some 40 percent of American 
+households is not their cost, which keeps dropping, but their complexity. 
+One of the intellectual leaders of the post-PC movement is Donald 
+Norman, a former researcher at Apple Computer and Hewlett-Packard, 
+whose new book ``The Invisible Computer'' proclaims, ``The Achilles 
+heel of the modern PC is its difficulty.'' The personal computer, 
+Norman says, is the Swiss Army knife of modern technology. ``While 
+it can fill an amazing variety of needs, it isn't particularly good 
+at any one of them,'' he writes. The author's conclusion: ``Information 
+appliances are the solution.'' America Online Inc. believes that information 
+appliances are part of the answer to bringing the 75 percent of American 
+households not yet linked to the Internet into the online community. 
+An information-appliance program is an important element in the long-range 
+strategy behind America Online's $4.2 billion purchase last month 
+of Netscape Communications Corp. _ a deal that includes an alliance 
+with Sun Microsystems, whose Java Internet programming language and 
+Jini technology will be used to feed data to these simple devices. 
+Just before the deal was announced, Marc Andreessen, a co-founder 
+of Netscape, delivered a 12-page memo to Stephen Case, chairman of 
+America Online, sketching his view of the technological opportunities 
+for the combined company to extend its reach in the Internet and in 
+electronic commerce. Internet appliances are clearly part of the plan, 
+enabling America Online subscribers to get their e-mail and do online 
+shopping through simple hand-held devices, for example. ``America 
+Online has a big opportunity to drive the acceptance of these devices,'' 
+Andreessen said. ``It's a consumer company and for these devices to 
+be successful, you have to work backward from consumer behavior.'' 
+At IBM, the strategy is to become the technology plumber for post-PC 
+computing. The company has decided to leave the appliances to others, 
+but it plans to supply components for them, from specialized semiconductor 
+chips that use very little electrical power to tiny disk drives. IBM 
+is also working on specialized hub computers, or servers, that have 
+the software needed to act as a translator for users. These servers 
+could field a request for information from a consumer and then render 
+it in the form appropriate for that user _ whether sent to a pager, 
+cell phone, hand-held device, set-top box or personal computer. Within 
+IBM, the post-PC world is called ``pervasive computing.'' After a 
+yearlong internal study, IBM has set up a pervasive computing unit 
+to make sure the company's various businesses are attuned to this 
+emerging market. ``We concluded this is going to be a big deal and 
+it's going to change the industry,'' said Mark Bregman, general manager 
+for the pervasive computing unit. IBM believes change can come without 
+rapid arrival of high-speed data networks that can deliver movie-quality 
+video and audio to information appliances anywhere _ the obstacle 
+that opponents of the post-PC concept say will forestall any major 
+changes. Bregman says the near-term benefits will be conveniences 
+like calling an 800-number while on vacation and leaving voice-mail 
+instructions so that several specific e-mail messages you are expecting 
+will be forwarded to you for reading on the display screen of your 
+cell phone. Venture capital investment is beginning to focus on the 
+enabling technologies of the post-PC era, including new chips for 
+information appliances, new screen-display technology, and optical 
+networking, which promises to vastly increase the capacity and speed 
+of communications networks. The investment and excitement about post-PC 
+computing has some of the feel of the early 1980s, when the personal 
+computer industry was starting to take off, observed Richard Shaffer, 
+principal of Technologic Partners, a research firm. Today, Shaffer 
+says, the personal computer industry is a mature business. Winning 
+in that business, he explains, is mainly about marketing, manufacturing 
+efficiency and inventory management _ with the success of Dell Computer 
+Corp. as the exemplary case. But, he added, ``We're going back to 
+an era when technology can really make a business difference again.'' 
+NYT-12-27-98 1521EST 
+</TEXT>
+</DOC>

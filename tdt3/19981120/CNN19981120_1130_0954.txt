@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981120.1130.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow industrials shot out of the gate and have so far managed to 
+hold on to those gains. Strength in overseas markets boosting investor 
+confidence. Trading is heavy on this double witching Friday, when 
+a number of stock and index options expire. 
+</TEXT>
+</DOC>

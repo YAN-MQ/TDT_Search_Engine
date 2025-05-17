@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981024.1300.0927 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And NASA launched deep space one. It will test 12 new technologies 
+for future missions. 
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981202.1130.0061 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The house committee says its subpoena power is more important than 
+grand jury secrecy. In a hearing this afternoon, lawyers for the panel 
+are expected to ask that attorney general Janet Reno turn over memos 
+from former prosecutor Charles laBella. He was the head of the justice 
+department's campaign finance investigation. A judge rejected a request 
+for the memo last week because it contained secret grand jury material. 
+The committee believes that the report may contain allegations of 
+criminal wrongdoing by the president during the 1996 campaign. Both 
+LaBella and Louis freeh recommended that Reno appoint a special prosecutor 
+to look into the campaign. Reno did not take their advice. 
+</TEXT>
+</DOC>

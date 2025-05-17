@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981203.1600.2083 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street, U.S. share prices lower at the end of the day. I'm 
+Dave DeForest, VOA News. 
+</TEXT>
+</DOC>

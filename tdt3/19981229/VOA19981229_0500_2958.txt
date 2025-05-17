@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981229.0500.2958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+At 10 hours 49, we're turning to business news. Here's Victor Beadie. 
+In Asia, Japan's benchmark Nikkei stock index closed today's final 
+full session for the year up one percent. Hong Kong shares advanced 
+to half percent. New Zealand and Taiwan shares closed lower. Philippine 
+stocks rose nearly two percent in the final session of 1998. Australian 
+shares also ended higher. The South Korea market was closed for a 
+holiday. 
+</TEXT>
+</DOC>

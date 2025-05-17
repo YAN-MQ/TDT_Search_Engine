@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981024.1000.0433 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+China could be the next target of typhoon babs. The storm has already 
+killed more than 100 people and caused millions of dollars in damage 
+in the Philippines. Forecasters expect babs to gain strength as it 
+approaches Hong Kong by tomorrow. Babs is the second typhoon to ravage 
+the region this month. Typhoon zeb killed more than 100 people when 
+it followed a similar storm track last week. 
+</TEXT>
+</DOC>

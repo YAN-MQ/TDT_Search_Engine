@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981105.0130.1634 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wednesday was a big day for the New York Yankees' Japanese counterparts. 
+About 400,000 people showed up in downtown yokohama for a parade to 
+honor the yokohama baystars baseball team. The baystars won last month's 
+Japan series national championship. It was the first time the often-hapless 
+baystars have won a Japan series since 1960. 
+</TEXT>
+</DOC>

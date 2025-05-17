@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981106.1130.0429 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now, here's the extended weather forecast for the United States. I'm 
+meteorologist Dave Hennen with your "CNN Headline News Weather." Cold 
+temperatures remain today over parts of Montana and the dakotas, where 
+it will not make it above the freezing Mark. Much of the east seeing 
+temperatures in the 40s and 50s all the way back down to the gulf 
+coast. Your forecast weather maps -- later today on into Saturday, 
+first of all, showing high pressure and fair weather, but cool temperatures 
+over much of the east. The west is stormy, and that storm moving into 
+the plains by tomorrow bringing with it heavier snow and heavier shower 
+and thunderstorm activity further to the south. New storm into California, 
+Oregon tomorrow, spreading rain along the coast, and higher-elevation 
+snows are expected. A look now at the extended forecast -- on Sunday, 
+rain could make it into los Angeles as we watch mountain snows develop. 
+A few thunderstorms along the gulf coast during the day on Sunday. 
+By Monday, a significant snowstorm could be developing in the rocky 
+mountains. We'll find heavy snows from Colorado back in through Wyoming 
+and Utah. Look for thunderstorms to be breaking out back through the 
+plains. Much the same on Tuesday as that storm spreads in through 
+the upper midwest. For more weather information, log into CNN.com. 
+</TEXT>
+</DOC>

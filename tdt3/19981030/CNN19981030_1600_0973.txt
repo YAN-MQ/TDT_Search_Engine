@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981030.1600.0973 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks finish the trading week on a high note. Let's get the details 
+from Lauren Thierry at the cnnfn news desk in New York. Lauren? That's 
+right, Sachi, investors sent stocks higher for the second day in a 
+row. Their optimism fueled by some better-than-expected economic news 
+as well as a plan from the world's major industrial countries to stabilize 
+world economies. Part of that plan aims to bolster the international 
+monetary fund with additional resources. The Dow Jones industrial 
+average rose 97 points at 8592. The Dow was up 164 points earlier 
+in the session. The broader markets all ended in the plus column as 
+well, with the NASDAQ composite gaining 14 points. Evidence that the 
+economy is expanding at a sustainable pace. U.S. Gross domestic product 
+jumped 3.3% in the third quarter. That's nearly twice the second quarter's 
+rate, but still well below the torrid growth of the first quarter. 
+Strong consumer spending helped offset a decline in exports and business 
+investments. 
+</TEXT>
+</DOC>

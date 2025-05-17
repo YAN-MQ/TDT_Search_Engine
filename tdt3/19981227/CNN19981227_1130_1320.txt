@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981227.1130.1320 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Brett Hull tallied a pair of power play goals. Dallas defeated Colorado, 
+4-2. Stars have an 11-game unbeaten streak. 
+</TEXT>
+</DOC>

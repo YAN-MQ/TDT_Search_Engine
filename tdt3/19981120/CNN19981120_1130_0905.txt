@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981120.1130.0905 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Ken Starr's ethics adviser Sam dash has resigned. The reason -- a 
+dispute with the independent counsel over whether Starr should have 
+testified in the impeachment hearings. 
+</TEXT>
+</DOC>

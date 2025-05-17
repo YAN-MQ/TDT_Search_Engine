@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981128.0130.0933 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- the White House has submitted president 
+clinton's responses to 81 questions posed by the house Judiciary committee. 
+He stood by his previous statements saying he did not give false or 
+misleading testimony before a federal grand jury. 
+</TEXT>
+</DOC>

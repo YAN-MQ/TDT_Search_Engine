@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981209.1600.0497 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Strong winds are lashing much of southern California today. Speeds 
+of up to 80 miles per hour were reported in some spots. The winds 
+were so bad, they blew over semirigs on interstate 15, causing traffic 
+snarls there. Another Lane was closed by plywood and boards, blown 
+off an overpass under construction. 
+</TEXT>
+</DOC>

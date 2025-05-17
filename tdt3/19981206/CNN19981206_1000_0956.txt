@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981206.1000.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And U.N. secretary-general Kofi Annan is in Tunisia after unsuccessfully 
+trying to persuade Libya to turn over two suspects in the 1988 bombing 
+of Pan Am Flight 103. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981018.1130.0117 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane warnings are posted along Mexico's pacific coast. Forecasters 
+say more than ten inches of rain could fall from each of two hurricanes. 
+At last report, hurricane Lester was about 190 miles southeast of 
+acapulco. It's moving towards the west at eight miles an hour. Its 
+maximum sustained winds are near 100 miles an hour, and they are expected 
+to gain strength later today. Another hurricane, Madeline, is slowly 
+gaining intensity and is threatening mexico's northern pacific coast. 
+Thousands of people have already left coastal areas because of flooding. 
+</TEXT>
+</DOC>

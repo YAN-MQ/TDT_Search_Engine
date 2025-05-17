@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> APW19981102.0770 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Share prices rose Monday on the London Stock Exchange. The Financial 
+Times Stock Exchange 100-share index was up 87.1 points, or 1.60 percent, 
+at 5,525.5 points. Volume was 789.7 million shares compared with 818.1 
+million Friday. 
+</TEXT>
+</DOC>

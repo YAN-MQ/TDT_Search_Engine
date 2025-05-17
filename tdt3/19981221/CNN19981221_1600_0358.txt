@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981221.1600.0358 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton and the first lady are helping out the homeless 
+today. They are volunteering at a soup kitchen. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981111.0130.0926 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- the first big snowstorm of the season 
+to hit the midwest and plains has left tens of thousands of people 
+without power. Snow and high winds have forced authorities to close 
+hundreds of miles of roads. 
+</TEXT>
+</DOC>

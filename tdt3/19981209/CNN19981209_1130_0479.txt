@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981209.1130.0479 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+Temperatures today remain cool in much of the west. Even the southwest 
+will continue to see the chilly temperatures. In the Rockies, highs 
+will only be the 20s. And the eastern seaboard has cooled off as well. 
+That front making its way through. So, temperatures back to near normal 
+for this time of year. Forecast weather map shows high pressure in 
+the west. You'll see some Santa Ana conditions in southern California 
+today, so windy weather from there into the southwest. Look for showers 
+and storms to be most likely in Texas, and heading in through the 
+southern Mississippi river valley over the next 24 hours, as a New 
+system by tomorrow pushes into the pacific northwest. The extended 
+forecast on Friday, most of the wet weather along the gulf coast, 
+into the southeast. Rain is expected in the pacific northwest, as 
+temperatures remain cool over most of the country. On into Saturday, 
+rain and thunderstorms in the southeast once again. Look for temperatures 
+to begin to warm up a bit in the southwestern U.S. and by Sunday, 
+that warming trend spreads over much of the south, as the showers 
+begin to diminish in the southeast, but continue in the pacific northwest. 
+For even more weather information, you can log in to CNN.com. 
+</TEXT>
+</DOC>

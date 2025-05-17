@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981228.1600.0524 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+Low pressure will be tracking through the upper midwest over the next 
+24 hours bringing with it the threat for some snow. Look for another 
+stormy day in the pacific northwest. That will last on into tomorrow 
+as another area of low pressure moves inland. Snow is expected in 
+the northern Rockies. Going to dry out by late tomorrow beginning 
+in the southeastern U.S. a Check of temperatures -- only in the teens 
+for highs for the remainder of today. Back through the upper midwest, 
+ranging into the 80s by the time you make into south Florida. The 
+extended forecast -- on Wednesday, snow showers are expected in the 
+Great Lakes. Some more heavy rain in the pacific northwest. It could 
+find some snow in sections of the northeast. You notice the colder 
+temperatures beginning to move in. As we head into Thursday, snow 
+showers will be scattered through the Great Lakes. More heavy rain 
+into the pacific northwest. Snow as you move inland. And on into Friday, 
+on new year's day, we'll find snow showers through the northern Rockies. 
+Snow showers will continue as well back through the Great Lakes, and 
+much of the northern half of the U.S. will begin to turn much colder. 
+For even more weather information, you log into CNN.com. 
+</TEXT>
+</DOC>

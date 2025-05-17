@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981118.0130.0237 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the chairman of the house judiciary committee has rejected a request 
+from president clinton's lawyers for more time to cross-examine ken 
+starr. in a letter to the white house, henry hyde says he won't extend 
+the time allotted for cross-examination from 30 minutes to 90. the 
+independent counsel is scheduled to testify before the committee on 
+thursday, the first day of the impeachment inquiry. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981021.1130.1112 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+You don't have to wear a suit and tie to get the latest market news. 
+It's there for you at cnnfn.com. day or night, use it to get stocks 
+quotes, check on your portfolio, and access the latest business news. 
+Back on Wall Street -- the Dow is down 47. The NASDAQ composite up 
+just about 2 points. That's "Dollars & Sense." Back to you Catherine. 
+Good to see you, Kitty. We'll have scores and more, next in "Headline 
+Sports." 
+</TEXT>
+</DOC>

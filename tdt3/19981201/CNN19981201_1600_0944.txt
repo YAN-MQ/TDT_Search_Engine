@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981201.1600.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's world AIDS day, and around the globe, people are distributing 
+free condoms and AIDS prevention information. In China, officials 
+unveiled an ambitious program to curb the spread of HIV amid predictions 
+the country could see a dramatic rise in cases. 
+</TEXT>
+</DOC>

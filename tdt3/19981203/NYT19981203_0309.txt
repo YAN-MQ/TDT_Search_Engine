@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981203.0309 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Snow fell at elevations as low as 1,000 feet Thursday in the northern 
+Cascades of Washington as the coldest air mass of the season invaded 
+the Pacific Northwest from the Gulf of Alaska. On Friday, the cold 
+air mass will carve out a cold upper-level trough of low pressure 
+over the West, setting the stage for a variety of weather. Scattered 
+showers and isolated thunderstorms will develop across parts of southern 
+California as a potent jet stream disturbance swings inland on the 
+southern flank of the trough. Snow is possible in the mountains east 
+of Los Angeles. Meanwhile, moderate to locally heavy snow will fall 
+on parts of the northern and central Rockies as the cold, upper-level 
+trough swings east from the Great Basin. Snowfall may be enhanced 
+over the mountains near Salt Lake City as air moistened in transit 
+over the Great Salt Lake is forced to rapidly rise. Broken areas of 
+light snow will spread onto the high plains of eastern Montana and 
+the western Dakotas as a compact jet stream disturbance moves overhead. 
+Scattered showers and isolated thunderstorms, some with moderate to 
+locally heavy rains, will speckle the middle Mississippi, Tennessee 
+and lower Ohio Valleys as a jet stream disturbance draws relatively 
+humid air northward from the Gulf of Mexico. Patches of morning fog 
+and variable clouds will dull parts of the region from the upper Ohio 
+Valley and eastern Great Lakes to the central Appalachians, though 
+unseasonably mild weather will persist. Spotty, light showers will 
+develop gradually from west to east. FOCUS: PLUNGE INTO DROUGHT There 
+is more to the developing drought across the Middle Atlantic States 
+than a lack of rain. In order to assess drought, the amount of precipitation 
+must be weighed against the amount of water that is lost through processes 
+like evaporation. Many days this autumn have been sunny, breezy and 
+relatively warm, three conditions that quicken the rate of evaporation 
+of moisture from the ground and bodies of water such as reservoirs 
+and lakes. Thus, during the last 60 days when precipitation has been 
+sparse, evaporation rates have been high, causing a rather dramatic 
+plunge into drought. 
+</TEXT>
+</DOC>

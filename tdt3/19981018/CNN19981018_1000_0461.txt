@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981018.1000.0461 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In the pacific, typhoon zeb is now a tropical storm. But it did serious 
+damage in Japan before its winds died down. Zeb is being blamed for 
+at least 12 deaths in Japan and almost 100 more in taiwan and the 
+Philippines. It's still positioned over the Japanese archipelago. 
+The high winds forced the postponement of Japan's baseball championship, 
+one of the country's most anticipated sporting events. 
+</TEXT>
+</DOC>

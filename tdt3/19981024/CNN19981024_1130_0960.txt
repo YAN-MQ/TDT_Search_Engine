@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981024.1130.0960 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+forecasters are keeping an eye on hurricane mitch. it's gaining strength, 
+but forecasters expect it to remain in the northwest caribbean sea 
+until at least monday. 
+</TEXT>
+</DOC>

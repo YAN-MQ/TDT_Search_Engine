@@ -1,0 +1,49 @@
+<DOC>
+<DOCNO> NBC19981228.1830.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NBC news "in depth." Tonight, the cure for the common cold. Or is 
+there? The search has been long, elusive, frustrating and costly. 
+According to the most recent figures, Americans miss nearly 21.5 million 
+work days each year because of coughs and colds. And we spend over 
+$3 billion in over-the-counter remedies. But could the days of sniffling 
+and sneezing soon be over? NBC's chief medical correspondent Robert 
+Bazell tonight, "in depth." For Dennis meehan, a bad cold means less 
+joy this holiday season, missed parties, decorations not hung and 
+gifts not purchased. It puts a damper on things, most certainly. For 
+many of us the holidays come with a cold. American adults catch an 
+average of four colds a year, children eight. And they strike most 
+often when cold weather forces us to gather indoors. So are we doomed 
+to endless sniffles and sneezes? Dr. Tony fauci is in charge of infectious 
+disease research for the government. When he testifies before Congress, 
+after the talk of AIDS and other serious diseases, there is a familiar 
+question. There's usually a comment as someone is sneezing up there 
+and says, "and one other thing. When are you guys ever going to get 
+a cure for the common cold?" The answer? Maybe as soon as two or three 
+years. Agouron pharmaceuticals, a San Diego company, designed a new 
+drug now called ag7088. In the test tube it stops the growth of so-called 
+rhinoviruses. They're named for the Greek word for nose, and they're 
+responsible for more than a third of colds. The company is now testing 
+the drug at a facility like this, where people paid a few hundred 
+dollars intentionally get infected with cold viruses. A second company 
+called viropharma is testing a different anti-cold virus drug in people. 
+The results for both drugs should be available by next year. But scientists 
+caution that to win approval, the drugs must prove to be especially 
+good. You really need to have a drug that's effective very, very rapidly 
+and that's very, very safe. Another promising approach, ignore the 
+viruses altogether and concentrate on the body's response the flood 
+of fluids that the body sends to try to destroy the virus but leaves 
+us stuffed and sneezing. We probably wouldn't even care if we had 
+virus in our nose if it wasn't producing symptoms. Antihistamines 
+and decongestants already relieve the symptoms somewhat. But several 
+companies are looking at drugs that could shut down the symptoms altogether. 
+I think this represents the new avenue, if you will, of treatment 
+for the common cold. Until these cutting-edge treatments prove useful, 
+the old-fashioned advice remains best. To avoid infection, wash your 
+hands frequently and stay away from others with a cold. And if you 
+get sick, rest and drink lots of fluids. Robert Bazell, NBC news, 
+New York. Part of the problem in finding the cure is all the moving 
+targets. There are 200 known viruses that cause the common cold. 
+</TEXT>
+</DOC>

@@ -1,0 +1,89 @@
+<DOC>
+<DOCNO> NYT19981230.0275 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Internet is an orchard of unintended consequences. The network 
+itself, with all its content and clamor and chaos, is an unintended 
+consequence of Pentagon research. And like some kind of magic-realist 
+garden plot, it is a place where every seed, whether carefully planted 
+or heedlessly strewn, sprouts into a different species, blossoms into 
+yet another species and bears unexpected mutant fruits. People bend 
+it into shapes you wouldn't expect. And particularly gamers. ``I'll 
+never forget one day, about three months after we launched the service, 
+I went into this room and suddenly Van Halen started coming out of 
+my speakers,'' said Brian Moriarty, co-founder and chief visionary 
+of Mpath (www.mplayer.com), a digital playpen for 2 million online 
+gamers. ``It turned out that one guy had decided that he wanted to 
+play music while people were text-chatting, and so he turned on the 
+CD and jammed his mike up against the speaker. ``Little did I know 
+what this was going to turn into.'' From its inception, Mpath had 
+built voice capability into its service so people could hurl epithets 
+across the Internet as they decimated each other on Quake. But most 
+game manufacturers weren't interested in using their limited available 
+bandwidth for carrying voice data. It was more important to pump up 
+the graphics or deliver more accurate positional information about 
+bullets. Audio capacity was all but ignored in the game space. But 
+it wasn't long before someone figured out how to use it in the chat 
+rooms. ``There was a point,'' Moriarty said, ``when suddenly some 
+kind of critical mass was achieved. You began to see a kind of chat 
+regime. Maybe two talkers instead of one, or maybe three, and then 
+the talkers started to outnumber the typers. Then social pressure 
+began to be felt by these people because everyone was in on this conversation 
+and the typers felt left out. So it snowballed very quickly, in a 
+matter of a few months. And now, when you go in there, most of the 
+users have got to have that microphone. If you go into the public 
+chat areas, it's rare to find someone that doesn't have a microphone. 
+In fact, a lot of users, when they create a chat room, it says, `Mikes 
+only.''' Unlike Internet telephony, which has yet to find its feet, 
+Mpath's voice chat spread in weedy profusion because the technology 
+is cheap (the company's downloadable software is free, the service 
+is free, and headset microphones sell for less than $40) and easy 
+to set up, and because everyone was doing it. And because there is 
+a richness in the human voice and its capacity for nuance: age, sex, 
+social class, regional origin, cadences, rhythm, volume, tension, 
+laughter. A sense of human presence. All of these subtleties, even 
+the intake of breath, are amplified at a distance when you can't see, 
+when all you can do is listen. That's why radio theater was so compelling. 
+That's why the telephone is so compelling _ perhaps more compelling 
+than a face-to-face conversation _ and why videophones are invariably 
+disappointing. As Orson Welles said, the ear is more imaginative than 
+the eye. Of course, people do some of the things one might expect. 
+There are plenty of private chat rooms on Mpath with only two people 
+in them. But there are also channels where far-flung relatives convene 
+conference calls. And there is a sizable religious contingent of armchair 
+preachers. ``They sit around and create their own Christian theme 
+chat rooms and talk Christian and sing Christian and preach,'' Moriarty 
+noted. ``On a good evening, you'll see three or four Christian rooms 
+in chat.'' And then there's the singing. ``This is the fascinating 
+thing that really caught us by surprise,'' Moriarty said. ``We have 
+average Middle American kind of folks in the Southeast and into Texas 
+who have discovered that Mplayer.com is a great way to get on line 
+and sing. Hillbilly John is one of the ringleaders of the country 
+singing group. He goes in there and organizes these live jamborees. 
+Then there's this guy named Conway, and he runs a karaoke radio station 
+on the service, pretty much every day as far as I can tell, and he 
+sings a lot of Elvis in his own radio format. ``It kind of fell on 
+us. All we did was give people the connection, and they discovered 
+it. And now they're going crazy with it.'' Of course, a lot of the 
+singing is horrible. But it is compelling in its horribleness. It 
+is considerably more compelling than a personal home page, several 
+times more compelling than any customized portal interface, and orders 
+of magnitude more compelling than the whistles and bells of the media 
+behemoths. The horrible singing is compelling because it is human. 
+Because when someone gets up to sing, even in the dark, it involves 
+a degree of risk, and it implies trust. ``Even when you hear people 
+singing badly,'' said Brian Apgar, Mpath's co-founder and chief evangelist 
+for chat, ``you can hear in their voice that they're trying. You can 
+hear the feelings and emotions they're trying to communicate. And 
+it makes you feel connected to them. It makes you feel for them. Because 
+they're getting up there and expressing themselves. It's not phony, 
+canned stuff from some major Hollywood conglomerate. It's coming out 
+of somebody's trailer.'' No matter how fast the modems get, nothing 
+in the overdesigned corporate infoglut can evoke the raw empathy of 
+a butchered karaoke tune _ or ``Auld Lang Syne,'' for that matter. 
+Because of all the fantastic things the Internet has on demand, the 
+best thing it can deliver to us is one another. Happy New Year. (E-mail 
+address: Herz(AT)nytimes.com) 
+</TEXT>
+</DOC>

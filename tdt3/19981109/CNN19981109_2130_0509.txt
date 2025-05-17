@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981109.2130.0509 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for Tuesday morning. A big storm is rolling out of the 
+Rockies. And the across the plains states to the north, near-blizzard 
+conditions expected. Heavy snowfall, anywhere from four to eight inches, 
+maybe more than that, accompanied by winds of over 35 miles an hour. 
+As we put this map in motion, the cold front moves through the Mississippi 
+river valley and in to the east. And all along that front, there is 
+the threat of severe weather -- thunderstorms, even the possibility 
+of tornadoes. Meanwhile, by tomorrow night, another weather system 
+moves into the northwestern corner of the United States. It will be 
+cold behind this storm with daytime highs only in the 30s, but much 
+of the east will begin to warm a bit. We take a look at your extended 
+forecast. You can see the storm moving in to the east as we head on 
+into Wednesday. As we move on into Thursday, rain and snow continue 
+in the Great Lakes area. And in the northwest, rainfall is expected. 
+Moving on into Friday, you can see a large portion of the east, could 
+see rain or thunderstorms, but there's not a high probability in this 
+area that we have shaded green. For more weather information, log 
+on to CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981223.0130.1305 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jeff Nielsen scored the game's only goal. Anaheim won out over Colorado. 
+</TEXT>
+</DOC>

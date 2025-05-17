@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981017.0130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking top stories -- Congress has delayed until Tuesday the vote 
+on a $500 billion federal spending package for fiscal 1999. The problem, 
+it will take a little while to print the massive Bill expected to 
+be over a foot thick. 
+</TEXT>
+</DOC>

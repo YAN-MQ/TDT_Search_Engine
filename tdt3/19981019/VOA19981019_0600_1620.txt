@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981019.0600.1620 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+It's time now for many of our FM and AM affiliates to take a two minute 
+break. This is VOA News Now. 
+</TEXT>
+</DOC>

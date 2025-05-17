@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981020.1130.1331 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An arbitrator has rejected the NBA players' union claim that all players 
+with guaranteed contracts should be paid during the lockout. The ruling 
+saves owners from having to pay more than $700 million in salary. 
+The decision affects 226 players, who were hoping to see some cash 
+during the lockout. 
+</TEXT>
+</DOC>

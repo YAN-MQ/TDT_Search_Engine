@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981207.1600.0906 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Attorney general Reno is expected to announce soon whether to recommend 
+an independent counsel to investigate alleged abuses in President 
+Clinton's 1996 campaign fund-raising. Reno also has the option of 
+asking a special court for 60 more days to make a decision. 
+</TEXT>
+</DOC>

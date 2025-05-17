@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981028.1830.1102 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There's another way to save. Next week you can buy U.S. savings bonds 
+by simply allowing the government to take the money directly out of 
+your account. 
+</TEXT>
+</DOC>

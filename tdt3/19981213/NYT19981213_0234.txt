@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981213.0234 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Mayor Rudolph Giuliani on Sunday defended the increasing use of video 
+surveillance, saying that residents have been clamoring for more security 
+cameras to watch out for crime in public spaces. Giuliani was responding 
+to a study released over the weekend by the New York Civil Liberties 
+Union, which found that at least 2,397 surveillance cameras were trained 
+on public streets, sidewalks, buildings and parks in Manhattan. The 
+study recommended that the city regulate the use of surveillance cameras 
+to make sure they do not unnecessarily violate people's privacy. But 
+the mayor said the city was careful not to use video surveillance 
+too liberally. Of the 2,397 surveillance cameras counted in the study, 
+only about 400 were operated by government agencies. The rest were 
+operated by private organizations. ``The fact is that we use cameras 
+very modestly,'' Giuliani said Sunday when asked about the study at 
+a news conference. Giuliani also said that video surveillance had 
+become an effective and popular crime-fighting tool in public housing 
+projects, where the city began installing cameras last year. Only 
+three of the city's 342 housing developments have surveillance cameras 
+so far, said Hilly Gross, a spokesman for the city's Housing Authority. 
+But the Police Department is planning to install cameras at six more 
+developments next year as part of a pilot project, he said. Installing 
+surveillance cameras in housing projects extends to some of the city's 
+poorest residents a security measure enjoyed by residents of luxury 
+apartment buildings, Giuliani said. He said the city had surveyed 
+residents of housing projects and found that 85 percent were in favor 
+of video surveillance. Norman Siegel, the executive director of the 
+New York Civil Liberties Union, said his group did not want to abolish 
+video surveillance, but rather to encourage public discussion of it. 
+The city should limit how long material recorded by surveillance cameras 
+could be kept before it is destroyed, he said. It should also limit 
+access to material recorded by surveillance cameras, and require that 
+signs be posted near all such cameras to warn people that they are 
+being watched, Siegel said. 
+</TEXT>
+</DOC>

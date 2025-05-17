@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981204.2130.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Cadillac may be about to lose its crown in the luxury car sales race. 
+It has been America's most popular luxury car line for 48 years, but 
+it's about to be taken over by Lincoln. Analysts say Cadillac sales 
+have been hurt by its late entry of a sport utility vehicle, and by 
+disappointing efforts to shed its stuffy image. A company official 
+acknowledges Cadillac may even wind up in third place next year, behind 
+Mercedes-Benz. 
+</TEXT>
+</DOC>

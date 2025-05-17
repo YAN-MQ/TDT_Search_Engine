@@ -1,0 +1,125 @@
+<DOC>
+<DOCNO> NYT19981122.0076 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+It slices! It dices! But no matter which way you cut it, K-Tel International 
+has been keeping investors awake at night, much as its commercials 
+for gadgets and records once did for late-night television viewers. 
+Less than two weeks ago, K-Tel shares were soaring after the company 
+announced agreements to sell music over the Internet at Web sites 
+run by Playboy Enterprises and the Microsoft Corp. But last week the 
+stock plunged on news that Nasdaq was threatening to delist the company 
+for lack of adequate assets. Even for Internet-related stocks, where 
+investor enthusiasm is often out of sync with business realities, 
+the tale of K-Tel is an extreme one. Until April, K-Tel was selling 
+music compilations like `` '70s Teen Heartthrobs'' through discount 
+and record stores. On some days, only a few hundred shares in the 
+thinly traded company changed hands. No analyst at a major brokerage 
+firm followed the company. But then K-Tel announced that it would 
+open an Internet record store, and its shares jumped to nearly $40 
+from about $4, adjusted for a subsequent split. The share price fell 
+to earth again, but had two more spikes earlier this month when the 
+company announced its Microsoft and Playboy agreements. On some days, 
+more than 20 million shares changed hands, a huge number for a company 
+that has only 8.3 million shares outstanding and 4 million of those 
+owned by its founder. But if the company has been quick to announce 
+its Internet intentions, it has raised questions about its silence 
+on less favorable developments. Its president and chief operating 
+officer, David Weiner, resigned in September and was replaced the 
+next month by Lawrence Kieves. But K-Tel did not announce these changes 
+until Nov. 3, when reporters, calling about the Playboy announcement, 
+discovered its change in presidents. Then, K-Tel did not announce 
+for about three weeks that it had received a warning that it might 
+be delisted from the Nasdaq National Market because it does not have 
+the required tangible net assets. When that information became public 
+on Tuesday in the company's quarterly filing to the Securities and 
+Exchange Commission, K-Tel's stock, which had been as high as $39 
+the week before, plunged to $10. It closed at $12 on Friday, down 
+31.25 cents. Lawyers have pounced like lions on a slab of raw meat. 
+At least seven shareholder suits have been filed, accusing the company 
+of concealing the Nasdaq warning while orchestrating a public relations 
+campaign to increase the share price so it could raise money. K-Tel 
+executives said in interviews that the company was not legally obligated 
+to announce the Nasdaq letter. They said they did not consider it 
+significant because the company, which is now arranging financing, 
+was confident it could raise the capital required to stay listed. 
+``It's about the 12th letter I've gotten from Nasdaq in my career,'' 
+said Kieves, the new president, who previously worked at several small 
+publicly traded companies. ``People have a microscope on this company 
+and hyper-react to it.'' John Coffee Jr., a Columbia University Law 
+School professor, said a company was under no legal requirement to 
+disclose information before its quarterly SEC filing unless it was 
+trying to sell stock or had made misleading statements. Plaintiffs 
+could contend that it was misleading to announce the Playboy and Microsoft 
+deals without also mentioning the Nasdaq letter, but K-Tel could argue 
+that those deals were not connected to the delisting warning, he said. 
+But Coffee said that even if K-Tel was not legally liable, it might 
+be violating Nasdaq rules by being ``a little lax about keeping its 
+shareholders informed.'' Staying listed will probably not be a problem. 
+The company's founder and chairman, Philip Kives, could restore its 
+assets to the required $4 million, from $900,000 now, with an equity 
+infusion. The bigger problems are finding the tens of millions of 
+dollars that might be needed to compete in the Internet business and 
+fix its existing business. K-Tel, with sales last year of $85 million, 
+has lost money in three of the last four years. In the quarter that 
+ended Sept. 30, it lost $3.1 million as revenue dropped 25 percent, 
+to $18.8 million, partly because it discontinued some businesses but 
+also partly because of slumping record sales. The company has exhausted 
+its credit line and has borrowed $3.4 million from Kives to finance 
+operations, according to its latest SEC filing. Kives, who is 69 and 
+is based in Winnipeg, Manitoba, owns 42.3 percent of K-Tel. He had 
+owned nearly 80 percent, but sold more than 2.6 million shares after 
+the price went up in April. He declined to comment on the situation. 
+A farm boy from Saskatchewan, Kives was peddling knife sets on the 
+Atlantic City boardwalk when he hit upon the idea of using television. 
+In 1962, he started K-Tel, which stands for Kives Television, advertising 
+contraptions like the Miracle Brush lint remover. (The Veg-O-Matic 
+vegetable slicer and dicer actually belonged to a competitor, but 
+K-Tel acquired it.) The company then branched into selling music compilations 
+like ``Hooked on Classics,'' in which classical music was played to 
+a disco beat. K-Tel fell into bankruptcy in 1984 after disco slumped 
+and its investments in real estate and oil and gas turned sour. Its 
+direct sales of gadgets on television are now largely confined to 
+Europe. In the United States, K-Tel mainly sells music compilations 
+through retailers. The new president, Kieves, 50, is related to Kives 
+(their grandfathers were brothers), but the two men did not meet until 
+1986. A Brooklyn native, Kieves spent the first part of his career 
+in government in Washington and New York City, his last post as commissioner 
+of business development under former New York Mayor Edward Koch. Though 
+he was never formally charged with any wrongdoing, Kieves was forced 
+to resign in 1986 for owning about $10,000 worth of stock in a company 
+that was getting some financial assistance from the city. After that 
+he was an executive at several small video-distribution companies 
+and started Network Event Theater, which went public. Kieves said 
+K-Tel's brand name and existing business would give it an advantage 
+in Internet retailing. ``It's a smart extension of our core business, 
+and the market reacted very favorably to it,'' he said. Market leaders 
+like Amazon.com and CD Now are selling $10 million to $15 million 
+of music over the Internet each quarter. If K-Tel could do that _ 
+right now it does not report its Internet sales because they are not 
+significant _ it would practically double its revenue. And Internet 
+music sales are expected to soar. But the market is already crowded. 
+K-Tel's Web site, www.ktel.com, had only 121,000 people visiting in 
+September compared with 2.2 million for CD Now, according to Media 
+Metrix, a New York company that tracks Web traffic. Moreover, Internet 
+competition will require a lot more money than K-Tel has. CD Now paid 
+Yahoo $4 million to appear on Yahoo's portal for two years, and paid 
+$18.5 million for a link with Lycos. CD Now is also merging with its 
+major rival, N2K, to give it more heft. K-Tel has agreed to pay Playboy 
+at least $900,000 over two years. ``Getting into being a category-killer 
+online retailer may have stretched them too thin,'' said Nicole Vanderbilt, 
+senior analyst at Jupiter Communications, a market research firm. 
+She said K-Tel might have been wiser to concentrate on selling its 
+music compilations over the Internet, rather than trying to be a broad-based 
+music retailer. The listing of K-Tel's service on the Microsoft Network's 
+shopping channel might not help much. K-Tel is only one of six retailers 
+listed in the music and video section, and Amazon.com has featured 
+billing. The Playboy deal could be more significant because K-Tel 
+would be the exclusive record vendor on Playboy.com, with 900,000 
+people visiting in September, according to Media Metrix. But K-Tel 
+undoubtedly faced naysayers when it pioneered in selling records on 
+television. ``For us not to take advantage of this new medium,'' Kieves 
+said, ``would be a grave mistake.'' 
+</TEXT>
+</DOC>

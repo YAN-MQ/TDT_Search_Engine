@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981102.1600.0971 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors kick off the month on a high note. Bruce Francis joins us 
+from New York. Hi, Bruce. Stocks rallied across the board today with 
+small cap and technology stocks leading the advance. Investors confidence 
+was boosted by a flurry of merger activities as well, as last week's 
+big gains. The Dow industrials back above the 8700 finishing the session 
+with a gain of 114 points. The Dow had been up 149 points earlier. 
+As for the broader markets, they all added solidly higher, with the 
+NASDAQ soaring 25 points. Bond prices are down. 
+</TEXT>
+</DOC>

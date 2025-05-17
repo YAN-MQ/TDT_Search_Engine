@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981115.1000.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Washington, D.C. police reportedly shot and killed more people 
+per resident than police in any other big U.S. city this decade. "The 
+Washington Post" reports its eight-month investigation shows a pattern 
+of recklessness. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981109.1830.0830 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"On the money" tonight, after it looked the 9000 Mark in the eye on 
+Friday, the Dow Jones industrial average was down 77 1/2 points today 
+to close at 8897. On the NASDAQ, stocks lost more than 4 points. 
+</TEXT>
+</DOC>

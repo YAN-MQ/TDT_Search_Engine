@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981021.1600.0483 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News weather" 
+forecast for Thursday. Cool high pressure will sink into the eastern 
+United States, as two cold fronts move into Florida. We'll see showers 
+and storms across Florida, perhaps along the gulf coast and back into 
+Texas. But most of the rest of the east should be quiet. Maybe a few 
+showers along the trough moving off the coast of New England as well. 
+Wet weather will persist across the west, with an area of low pressure 
+that stretches into the upper atmosphere. The warmest air will be 
+across the southeast, the southwest and in the plains states, mostly 
+60s and 70s. We'll see 50s in the southern Rockies, just 40s and 50s 
+across the northeast and mid-atlantic regions of the United States. 
+Looking ahead then to Friday, look for scattered showers again through 
+the southern and central Rockies, with some showers moving into the 
+northwest. On Saturday, we'll see wet weather in the northwest, and 
+on Sunday, same situation. Things do warm up a bit in the east. Don't 
+forget, you can find four-day forecasts for 6,100 cities on CNN interactive. 
+The address is CNN.com. 
+</TEXT>
+</DOC>

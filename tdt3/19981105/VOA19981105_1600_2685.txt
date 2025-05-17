@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> VOA19981105.1600.2685 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+A promising new AIDS drug is being developed that attacks the Human 
+Immuno Deficiency virus, or HIV at the very beginning of its lifestyle. 
+The drug, known as T-20, is being tested in humans. If everything 
+goes well, the experimental medication could become available in about 
+18 months. VOA's Jessica Berman reports. Unlike other anti-AIDS therapies, 
+T-20 attacks the virus that causes AIDS at an early stage in its life 
+cycle. Michael Sag is a clinical investigator at the University of 
+Alabama Department of Medicine, in Birmingham. What this drug does, 
+is it interferes with the ability of the virus to fuse and enter into 
+the cell. At that stage of the life cycle. Becasue right at the beginning, 
+if the virus tries to enter the cell, this interferes with that process. 
+Dr. Sag explains that existing anti-AIDS drugs such as AZT or 3TC 
+interfere with the viruses production of a unique enzyme called reverse 
+transcriptaze. The AIDS virus needs reverse transcriptaze to take 
+over host white blood cells and turn them into little HIV factories. 
+The newest class of drugs on the market, protease inhibitors, refer 
+to a protein. Protease, secreted by the mature AIDS virus. Without 
+protease, the virus is unable to leave its cell factory, enter the 
+bloodstream, and infect other cells. Researcher Michael Sag led a 
+study of T-20. Which was published in the November issue of the journal, 
+Nature Medicine. He says the findings offered the first proof that 
+it's possible to fight HIV very soon after infection. The proof of 
+concept in this study shows that a third area of attack is viable. 
+And in fact, opens up an entire new vista, or means of drug development. 
+That can develop other agents that can attack this part of pur life 
+cycle. In the study, T-20 was given to 16 HIV-infected men in four 
+different doses. The two low-dose groups showed almost no response 
+to the drug. Prof. Sag says there was roughly a ten-fold decrease 
+in the viral load of men in the third dose group. It was in the fourth 
+dose group, the highest dose group, that we noticed all four patients 
+dropped their level of virus in the bloodstream to undetectable levels. 
+Within 10 to 14 days after starting treatment. The fall in virus in 
+that group was as fast as we've seen with any other drugs. Including 
+protease inhibitors. In the study, investigators report no significant 
+side effects of T-20, which is a peptide. Because they are a form 
+of proteins, peptides are usually well-tolerated by the body. In a 
+News and Views column accompanying the article, University of California 
+researcher Douglas Richman says there's good news and bad news about 
+T-20. Dr. Richman says the good news is that it appears to be at least 
+as effective as existing anti-AIDS therapies. The concern about the 
+compound is it has to be given by injection. So it will not be a very 
+practical drug. Other AIDS drugs are taken in pill form. Even if the 
+drug doesn't become a widespread treatment, Prof. Sag conceives of 
+it playing one very important role. As an antidote for medical personnel 
+who receive needle sticks. Hypodermic needle sticks are the major 
+route of HIV transmission for nurses, medics, and dentists. Dr. Sag 
+says it's possible that T-20, if administered immediately after a 
+needle stick, could prevent an HIV infection from taking root. Jessica 
+Berman, VOA News, Washington. 
+</TEXT>
+</DOC>

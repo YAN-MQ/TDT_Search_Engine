@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981221.1600.0297 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new poll shows the number of Americans who think the president is 
+doing a Good job increased after his impeachment. 
+</TEXT>
+</DOC>

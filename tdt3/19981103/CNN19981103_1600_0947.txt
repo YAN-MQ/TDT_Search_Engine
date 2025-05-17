@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981103.1600.0947 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Rescue and relief teams are pouring in from around the world to help 
+central American survivors of hurricane Mitch. Officials say workers 
+have pulled thousands of bodies from mud and floodwaters. 
+</TEXT>
+</DOC>

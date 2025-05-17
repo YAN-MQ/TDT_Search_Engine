@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981116.1130.1351 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Greg Norman played in his first event since surgery in April. The 
+sharp teamed with Steve Elkington. 
+</TEXT>
+</DOC>

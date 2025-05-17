@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981116.2130.0493 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Tuesday. A storm moving into the western United States 
+will bring some rain and mountain snow from the northwest through 
+the intermountain region to the northern Rockies Tuesday. Meanwhile, 
+some rain and snow over the Great Lakes will push across the northeastern 
+part of the country and we'll continue to see some clouds and rain 
+showers in the southeast as well. Our high temperatures on Tuesday 
+will range from 30s in the north to 60s and 70s south, even a few 
+80s in southern Texas and southern Florida. Looking ahead to Wednesday 
+-- it stays mild across the south with some rain and snow pushing 
+into the northern plains. On Thursday, cool air across the northern 
+Rockies and northern plains, with milder conditions in the east. We'll 
+see anything from snow to thunderstorms from the Great Lakes to the 
+gulf coast. And on Friday, our wet weather pushes eastward with another 
+round of rain and snow in the northwest. 
+</TEXT>
+</DOC>

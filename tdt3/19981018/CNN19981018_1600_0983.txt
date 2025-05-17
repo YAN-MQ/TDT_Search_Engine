@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> CNN19981018.1600.0983 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Low interest rates have helped fuel a boom in the housing market this 
+year. John metaxas offers some advice on how to best play the mortgage 
+game. Volatility in the mortgage market can be very costly if your 
+timing is bad. Consider this -- on Tuesday, October 6th, the average 
+30-year mortgage rate reached a low of 6.58%. but within five business 
+days, it had bounced up more than half a point to 7.1%. on a $150,000 
+loan, that change would have cost you $52 a month, or more than $18,000 
+over 30 years. Borrowers can protect themselves from interest rate 
+moves like this by locking in their mortgage rate before closing. 
+You can lock in anytime you apply for a mortgage or anytime after 
+that point, up until three to five days before you close, depending 
+on the lending institution that you're applying with. Most lenders 
+will let you choose when to lock in your rate, but the length of time 
+they will guarantee the rate varies. Most of the lenders lock in for 
+a 60-day time frame at no expense to the client. If you're going beyond 
+a 60-day time frame -- if you're looking at 90 days, if you're looking 
+at 120 days -- most of the lenders want a fee. Other lenders offer 
+what is known as a "float down" -- if you lock in and rates move up, 
+your rate will not increase. But if rates move down, you'll get a 
+slightly lower rate. It may not be the absolute best rate. It may 
+be, if rates fall by 0.5%, you end up with either one-eighth or one-quarter 
+percent. Of course, locking in can deprive you of the full benefit 
+if rates decline. But mortgage brokers say, if you find a rate that 
+makes financial sense, grab it. No one can accurately predict where 
+rates are going. That's "your money." John metaxas, "CNN Financial 
+News," New York. 
+</TEXT>
+</DOC>

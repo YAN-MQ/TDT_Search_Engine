@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981220.1000.1254 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tampa bay's playoff hops were dashed by Washington 20-16. Trent green 
+found Steven Alexander for the score. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981011.1130.1286 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Today in the national football league, the Patriots host the chiefs 
+as both teams fight for AFC division titles. For the first time since 
+being injured in the season opener, Elvis Grbac will start at quarterback 
+for Kansas city. In other key early games, Carolina is in Dallas. 
+Kerry Collins is on the inactive list. Steve Beuerlein gets the start. 
+And San Francisco and New Orleans are in a three-way tie atop the 
+NFC west. 
+</TEXT>
+</DOC>

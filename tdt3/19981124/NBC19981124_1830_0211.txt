@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NBC19981124.1830.0211 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Then, there is the industry colossus, Microsoft, which has a business 
+alliance with NBC. Since all of the experts are saying this new company 
+is now in the best position to take on Microsoft, Microsoft's lawyers 
+were quick to say this proves there is no monopoly and the federal 
+government should drop its antitrust suit. Not surprisingly, the government 
+has another point of view. NBC's Pete Williams tonight. For Microsoft 
+lawyers, the merger is the first big break in the federal antitrust 
+trial. They say the justice department should now drop the lawsuit 
+and let competition in the software industry police the market instead. 
+The company says it's just like 25 years ago, when market changes 
+eroded the government's antitrust case against computer giant IBM. 
+This deal shows that the government has always been, and will always 
+be, in a dynamic, innovative industry like ours, five steps behind 
+the industry. But the government says the merger proves just the opposite 
+-- that Microsoft's marketing practices are unfair, like insisting 
+on exclusive deals with computermakers smothering Netscape, reducing 
+it to a Takeover target. Because of the blanket that Microsoft was 
+able to put over it, it was simply not able to continue its pattern 
+of innovation and not able to continue to give consumers the choice. 
+Legal experts say they doubt the merger will hand Microsoft a Court 
+victory, noting that the judge in the trial is not Microsoft friendly 
+and has described company CEO Bill Gates as "unresponsive" in his 
+videotaped testimony. One excerpt shows Gates having trouble remembering 
+details about one of his own senior officers. Systems? Systems? Uh-huh. 
+Did he have a title that went with that? Senior vice president, systems. 
+But antitrust experts say the Netscape/AOL deal means even if the 
+judge rules against Microsoft, he won't be harsh. This merger increases 
+the likelihood that any punishment he will impose will be relatively 
+mild, that he will not insist on the breakup of the company or any 
+forced sharing of its intellectual property with its competitors. 
+And antitrust scholars say the trial actually made the merger possible, 
+putting Microsoft in the penalty box while its competitors got bolder. 
+Pete Williams, NBC news, Washington. 
+</TEXT>
+</DOC>

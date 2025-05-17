@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981229.0130.1658 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+All the day's news is just two minutes away, including whether the 
+social security system will be ready for the Y2K computer bug. In 
+the meantime, a look at a ceremony today in Japan that marked the 
+end of the year of the Tiger and the start of the year of the rabbit. 
+I'm Jim Morelli. You're watching "CNN Headline News." 
+</TEXT>
+</DOC>

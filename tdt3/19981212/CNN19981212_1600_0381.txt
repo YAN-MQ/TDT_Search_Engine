@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981212.1600.0381 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Two astronauts from the space shuttle "endeavour" are embarking on 
+the third and final spacewalk to work on the international space station. 
+First, they'll install a tool box outside the space station. Later, 
+they'll test a jet backpack that would help an astronaut who was knocked 
+clear of the station fly back to safety. At the end of the 6 1/2 hour 
+walk, the astronauts will take detailed pictures of the space station. 
+"Endeavour" is scheduled to return to earth Tuesday. 
+</TEXT>
+</DOC>

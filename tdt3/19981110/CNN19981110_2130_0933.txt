@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981110.2130.0933 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's still fall, but already the first winter-like storm of the season 
+is shutting down highways, knocking out electricity and blanketing 
+the midwest and northern plains with snow. Two deaths are blamed on 
+the storm. 
+</TEXT>
+</DOC>

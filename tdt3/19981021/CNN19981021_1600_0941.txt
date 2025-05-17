@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981021.1600.0941 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A public interest group warns teenagers are drinking too much soda. 
+The center for science in the public interest says the average teen 
+gets 18% of their calories from soft drinks. 
+</TEXT>
+</DOC>

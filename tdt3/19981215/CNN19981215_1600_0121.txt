@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981215.1600.0121 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Former republican presidential nominee Bob Dole is recommending that 
+both houses of Congress censure the president in a joint resolution. 
+</TEXT>
+</DOC>

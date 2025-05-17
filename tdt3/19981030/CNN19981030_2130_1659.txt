@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981030.2130.1659 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In two minutes, John Glenn brings us up to date on the shuttle mission. 
+And President Clinton's praise for the economy. I'm Toria Tolley. 
+This is "CNN Headline News." 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981230.1600.1029 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Daimler-Chrysler is recalling more than 700,000 vehicles because of 
+a Potential fire hazard in the fuel injection system. The recall was 
+posted on the web site of the national highway traffic safety administration. 
+The recall covers the Chrysler Concord, LHS and New Yorker models 
+as well as the Dodge intrepid and eagle vision. It covers cars made 
+from June 1992 to July of 1997. The posting did not say if any injuries 
+have occurred. 
+</TEXT>
+</DOC>

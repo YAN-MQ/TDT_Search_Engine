@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981204.0500.0343 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm David Chadwick, VOA News. This is VOA News Now coming to you from 
+Washington. I'm Charlene Porter along with Paul Westpheling. 
+</TEXT>
+</DOC>

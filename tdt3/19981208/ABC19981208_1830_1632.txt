@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981208.1830.1632 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Brief review of the top story. White House special counsel went before 
+the house Judiciary committee today to make the case why Mr. Clinton 
+should not be impeached. He said that while the president's statements 
+were evasive and even maddening, they don't constitute perjury. 
+</TEXT>
+</DOC>

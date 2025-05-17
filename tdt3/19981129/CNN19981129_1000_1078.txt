@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981129.1000.1078 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A thrilling moment in Athens, Georgia, is coming up next in "Headline 
+Sports." 
+</TEXT>
+</DOC>

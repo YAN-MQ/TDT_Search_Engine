@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981203.0130.0224 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA says the chances space shuttle "endeavour" will blast off on 
+schedule have improved to about 70%. A low cloud ceiling had threatened 
+to cancel the launch, set for 3:56 eastern standard time Thursday 
+morning. It only has a ten-minute window in which to hit the precise 
+orbit for a Rendezvous with the new international space station. NASA 
+says if the launch has to be scrubbed, it will be rescheduled for 
+early Friday morning. The six-astronaut crew is bringing a connecting 
+passageway called "unity" to the space station. 
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981120.1600.0148 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Pollsters are weighing in on Ken Starr's testimony. 652 people were 
+questioned between 6:00 P.M. and 9:00 P.M. last night for the latest 
+CNN/"USA today" Gallup poll. 26% of respondents say Starr's presentation 
+was "excellent." 41% rate it "good." % say it was "not so good." And 
+12% rate the presentation "poor." The poll also asked people if the 
+impeachment hearing is accomplishing something worthwhile. 43% of 
+the respondents say yes. 49% say no. Overall, the hearing did not 
+change many minds on the impeachment question. The percentage of respondents 
+who want their representative to vote for impeachment, as well as 
+the significantly higher percentage of respondents who do not, remains 
+statistically unchanged from the period before the hearing. 
+</TEXT>
+</DOC>

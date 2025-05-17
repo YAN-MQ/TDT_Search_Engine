@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981103.1130.0435 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new experimental drug is offering hope to AIDS patients. Preliminary 
+testing of T-20 shows it decreased the AIDS virus by 99% in the blood 
+levels of four patients who took the highest dose. The improvements 
+took just two weeks. T-20 uses a different method than currently approved 
+AIDS drugs. It attacks HIV's ability to penetrate the body's cells. 
+Scientists still need to test for the drug's long-term side effects. 
+</TEXT>
+</DOC>

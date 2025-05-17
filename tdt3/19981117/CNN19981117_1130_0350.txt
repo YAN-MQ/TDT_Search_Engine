@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981117.1130.0350 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The environmental protection agency is launching a program designed 
+to control emissions of the toxic substance, Mercury. The EPA is directing 
+utilities to begin testing how much Mercury is emitted through smokestacks 
+of coal-burning power plants. Testing begins in January. The agency 
+says, it will gather information from more than 1,400 plants around 
+the country. Mercury can cause brain damage. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981205.1000.0638 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A modular merger in space and an oil merger on earth made headlines 
+this week. Chuck Roberts has that and more, in "the week in review." 
+</TEXT>
+</DOC>

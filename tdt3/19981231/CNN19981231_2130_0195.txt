@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981231.2130.0195 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The weather contributed to a freeway pileup today in Michigan. It 
+happened on interstate 75 near grayling, 180 miles north of Detroit. 
+Authorities say the interstate has now reopened. Dozens of cars crashed 
+into one another on the ice-slickened roadway. Officials say one person 
+was killed and several more were injured, some seriously. About 100 
+stranded motorists were bused to shelters. Police say strong winds 
+and light snow created a whiteout. 
+</TEXT>
+</DOC>

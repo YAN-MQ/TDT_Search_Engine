@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981211.1600.0347 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm John Birchard, VOA News. This is VOA News Now coming to you from 
+Washington. I'm Victor Morales, along with Erin Brummett. 
+</TEXT>
+</DOC>

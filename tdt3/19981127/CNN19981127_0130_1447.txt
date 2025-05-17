@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981127.0130.1447 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some turkeys were lucky enough to escape from being a Thanksgiving 
+meal this year. Families across the country adopted turkeys instead 
+of eating them, through the "adopt-A-Turkey" project. If you're interested, 
+you can call the program's toll-free hot line at 1-888-sponsor. For 
+$15 organizers will send you a picture and an adoption certificate 
+of the spared bird. Or you can have your Turkey delivered. 
+</TEXT>
+</DOC>

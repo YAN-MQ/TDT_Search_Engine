@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981223.1600.1319 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Well the bowl season continues tonight in Pontiac, Michigan, with 
+the motor city bowl. Look for a shootout. Louisville's offense puts 
+up 40 points per game. Marshall, despite losing Randy Moss to the 
+pros, you might have heard of him, still scores 30 per contest. 
+</TEXT>
+</DOC>

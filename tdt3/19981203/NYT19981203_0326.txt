@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> NYT19981203.0326 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Raising the stakes in the race to develop the next generation of computer 
+memory chips, Toshiba Corp. and Fujitsu Ltd. announced a joint venture 
+Thursday that they said should allow both companies to reduce costs 
+and development time. ``We aim to have one plus one equal three,'' 
+Kazunari Shirai, senior vice president of Fujitsu, said at a news 
+conference Thursday afternoon. The two companies will invest more 
+than 30 billion yen, or $250 million, to jointly develop technology 
+to manufacture dynamic random-memory access chips. They expect the 
+new technology to be incorporated in manufacturing microprocessors 
+and other types of computer chips whose functions go beyond those 
+of a plain memory chip, saying its diversification beyond personal 
+computers was ``essential'' given the high costs of development. The 
+agreement immediately spurred speculation that the venture might lead 
+to a merger, a suggestion the two companies did not immediately dismiss. 
+Toshiba is making drastic moves, by Japanese standards, to reorganize 
+its bloated business empire, including some small mergers; Fujitsu 
+realigned its business a few years ago and is now the most profitable 
+Japanese high-technology company. Koichi Suzuki, vice president in 
+charge of Toshiba's semiconductor group, said there were no plans 
+for more extensive ties but noted the intense competition that has 
+eroded and in some cases even erased profit margins across the industry. 
+``The term megacompetition has been used quite often recently,'' he 
+said. ``If such factors do prompt it, we will consider'' a merger. 
+The companies said the rising need for cost-efficient development 
+processes drove them together. Suzuki said that IBM and Siemens had 
+also been invited to join the venture, but that they declined. One 
+hundred engineers from both companies will work to create a 1-gigabit 
+memory chip using 0.13 micron processing technology at Toshiba's Advanced 
+Microelectronics Center. 
+</TEXT>
+</DOC>

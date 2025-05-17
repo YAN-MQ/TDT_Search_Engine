@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981029.1830.0692 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A couple of items today about health. In Washington, as expected, 
+the food and drug administration has approved the drug Tamoxifen as 
+a way to prevent breast cancer in women with a very high risk of it. 
+</TEXT>
+</DOC>

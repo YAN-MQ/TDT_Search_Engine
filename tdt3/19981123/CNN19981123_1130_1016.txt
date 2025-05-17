@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981123.1130.1016 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Shares of America online and Netscape are surging today. Netscape 
+confirms it is in talks to be acquired by AOL. The value of the deal 
+appears to be about $4 billion. Netscape also says sun Microsystems 
+may also develop and market Netscape products. And Microsoft is speaking 
+out about the deal. It says the merger would help Microsoft in its 
+antitrust trial with the government. 
+</TEXT>
+</DOC>

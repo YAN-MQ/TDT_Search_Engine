@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981117.1600.0992 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks swung wildly after the fed announcement. The Dow industrials 
+had slipped 80 points before hearing from the fed, and surged after. 
+They finished the day down, still, down 24 points, at 8986. The broader 
+markets finished mostly higher. The NASDAQ composite gaining almost 
+17 points. One bright spot, interest rates -- I think we're going 
+to be stuck right now in a fairly narrow trading range. I wouldn't 
+be surprised if we tacked on 100 points on this current rally here 
+just on the enthusiasm, that, golly, the fed is on our side. However, 
+I think analysts are going to be focusing in on earnings forecasts 
+for next year. And those earnings forecasts have got to come down. 
+One bright spot, interest rate-sensitive bank stocks are surging on 
+the fed rate cut -- with BankAmerica adding 1 5/16, chase up 3 1/4, 
+and city group up a dollar a share. The bond market is giving back 
+some early gains. 
+</TEXT>
+</DOC>

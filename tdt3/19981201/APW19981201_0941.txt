@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> APW19981201.0941 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+More than 3,000 Internet users in Portugal began a 24-hour boycott 
+Tuesday to protest what they call costly and poor service for surfing 
+the Web, news reports said. The protesters urged people to stay off-line 
+until midnight Tuesday (0000 GMT) to protest against Portugal Telecom 
+and the country's three Internet access providers, the Lisbon radio 
+station TSF said. They also complained about having to pay twice. 
+Portugal Telecom charges Internet users up to escudos 208 (about dlrs 
+1.2) for each hour they are on-line. On top of that, the access providers 
+charge as much as escudos 5,000 (about dlrs 30) for 30 hours of Internet 
+use. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981029.1130.1034 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And with the unemployment lines getting shorter, average wages and 
+benefits rose a larger-than-expected 1% for the third quarter. And 
+are up 3.7% over the past year. That means wages and benefits have 
+been rising more quickly than the inflation rate. Something federal 
+reserve policy makers will have to consider when they meet next month. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981120.0130.0713 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The 1990s have seen a decline in the number of women who smoke during 
+pregnancy, though hundreds of thousands still light up. The centers 
+for disease control and prevention found 13.6% of pregnant women smoked 
+in 1996. That's down from 18.4% in 1990. The highest rate of smoking 
+during pregnancy is among women aged 15 to 19. 
+</TEXT>
+</DOC>

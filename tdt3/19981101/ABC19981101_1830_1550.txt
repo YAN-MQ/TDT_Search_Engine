@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981101.1830.1550 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the box office figures, "vampires" was the biggest movie 
+of the weekend. It earned more than $9 million. In second place, "Pleasantville," 
+with $6 million. "Practical magic" was third. 
+</TEXT>
+</DOC>

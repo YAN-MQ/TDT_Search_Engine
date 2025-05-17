@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981207.2000.1148 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+For THE WORLD, I'm Alan Dow in London. And this is PRI, Public Radio 
+International. This is THE WORLD. I'm Tony Kahn. 
+</TEXT>
+</DOC>

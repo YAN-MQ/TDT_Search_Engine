@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> NYT19981118.0496 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Independent counsel Kenneth Starr is scheduled to appear before the 
+House Judiciary Committee on Thursday starting at 10 a.m. ET. Five 
+broadcasters _ CNN, the Fox News Channel, PBS, C-Span and MSNBC _ 
+plan live gavel-to-gavel coverage. C-Span also plans to rebroadcast 
+the day's hearing beginning at 7 p.m. ET. ABC, CBS and NBC will begin 
+live coverage at 10 a.m. ET. Those networks say that the length of 
+coverage has not been determined and that decisions will be made as 
+the hearings progress. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981129.1600.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Millions of Americans fight the crowds on one of the busiest travel 
+days of the year. Swiss voters make their decision on a proposal aimed 
+at legalizing drugs. And researchers say they are one step closer 
+to filling in the bald spot. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981103.1130.0683 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have the day's top stories in two minutes. Then -- a look at 
+the latest numbers from Wall Street. And later -- we go behind the 
+scenes of Ted danson's new TV comedy. 
+</TEXT>
+</DOC>

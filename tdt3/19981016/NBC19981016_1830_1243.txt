@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NBC19981016.1830.1243 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"Living longer, living better" tonight -- an issue that touches just 
+about everyone as we get older, memory loss. If you can't remember 
+where you left your glasses, help may be on the way. Scientists are 
+optimistic. Memory-boosting medicines may be coming soon. Here's NBC 
+chief science correspondent Robert Bazell. Imagine a day when a simple 
+pill can help solve one of the most frustrating problems we all face 
+-- memory lapse. It could help you remember where you left your keys, 
+the birthdays of family and friends, the name of someone you recently 
+met or the news you read last week or last year. Experts say that 
+day could come soon. I think we will have a pill for treating age-related 
+memory loss within a decade. "age-related memory loss." Starting at 
+about age 20, we lose, on average, 6% of our memory every ten years. 
+That means when you're 50, you have 18% less memory than when you 
+were 20. When you're 70, you have 32% less. Generally, you lose the 
+ability to remember new things -- called short-term memory. Long-term 
+memories remain intact. Drugmakers are looking for a way to stop that 
+decline. One company thinks it has found it with a drug tested in 
+these rats. In animals, you can show doubling of memory within five 
+minutes. Gary Lynch's company, cortex, has created a new class of 
+drugs called "ampikines." When given the drug, rats get much better 
+at performing a memory task. In this test, they must press a lever, 
+and after time passes, they must remember which lever they pressed 
+to get a reward. The initial effects were so dramatic that we actually 
+had to replicate this study two more times before we actually believe 
+it ourselves. If these drugs work in humans, they would first be used 
+for treating Alzheimer's and other diseases that destroy memory. Then, 
+cautiously, scientists would try to enhance the memories of healthy 
+people. In fact, researchers are studying more than 50 drugs as possible 
+memory enhancers, though progress can be difficult. I can tell you 
+from our experience over the past 20 years that it's a lot easier 
+to make rats smart than humans. Still, as scientists learn more about 
+how memory works, real promise for "living longer, living better," 
+remembering more. Robert Bazell, NBC news, New York. 
+</TEXT>
+</DOC>

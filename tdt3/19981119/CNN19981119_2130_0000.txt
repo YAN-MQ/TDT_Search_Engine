@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981119.2130.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"CNN Headline News." I'm Kathleen Kennedy, in tonight for Lynne Russell. 
+</TEXT>
+</DOC>

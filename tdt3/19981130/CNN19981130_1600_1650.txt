@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981130.1600.1650 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court hears arguments on whether the next census should 
+be an exact count or an estimate. We'll have that story and more news 
+in two minutes. I'm Chuck Roberts. You're with "CNN Headline News." 
+</TEXT>
+</DOC>

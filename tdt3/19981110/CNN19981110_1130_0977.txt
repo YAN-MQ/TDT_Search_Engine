@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981110.1130.0977 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+despite the nasdaq's dip into negative territory, internet and other 
+technology shares are rising again today, resisting the profit-taking 
+pressures that have begun to weigh on the market. some of the biggest 
+gainers are -- the internet auctioneer went public in september at 
+just $18 a share. the search engine is now the official media sponsor 
+of the national hockey league. the on-line music and home video retailer 
+says microsoft will include its service on the microsoft network. 
+</TEXT>
+</DOC>

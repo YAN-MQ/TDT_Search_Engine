@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981104.0130.1109 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+British airways is sprucing up its long-haul economy class. Tuesday, 
+the airline announced a $150 million effort to upgrade the world traveler 
+cabins in its fleet of long-haul jets. Among the improvements, personal 
+video screens for each passenger, roomier seats and self-service snack 
+bars. Special features for business travelers will also be added including 
+a new home check-in service by telephone. 
+</TEXT>
+</DOC>

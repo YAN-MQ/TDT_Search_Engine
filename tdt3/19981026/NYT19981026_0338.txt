@@ -1,0 +1,69 @@
+<DOC>
+<DOCNO> NYT19981026.0338 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A computer glitch forced the New York Stock Exchange to halt trading 
+for nearly an hour Monday afternoon, setting off a cascade of trading 
+interruptions at stock and futures exchanges across the country that 
+list products linked to the Big Board. Trading of the popular Standard 
+&AMP; Poor's index of 500 stocks was immediately halted on the Chicago 
+Mercantile Exchange. The Chicago Board Options Exchange, the American 
+Stock Exchange, the Pacific Stock Exchange and the Philadelphia Stock 
+Exchange halted trading of options on Big Board-listed stocks. The 
+Chicago Stock Exchange, the Pacific and the Philadelphia exchanges 
+also halted trading in Big Board stocks, as did private exchanges 
+like Madoff Securities that deal mostly with small investors. Institutional 
+investors continued trading on the Instinet, an electronic exchange. 
+The breakdown was the Big Board's first major technology failure since 
+an unrelated electronic communications problem delayed the opening 
+of the exchange for an hour on Dec. 17, 1995. Exactly one year ago, 
+trading was halted because stocks had plunged 554 points during the 
+session, the maximum allowed under trading rules at the time, but 
+that delay did not involve any technical failure. Traders were surprised 
+and uneasy during the pause, but the interruption came on a slow trading 
+day and there was no sense of panic. Many calmly engaged in paperwork 
+or calls to clients. Charles Schwab &AMP; Co., the nation's largest 
+discount broker, posted an online message to clients trading at its 
+Internet site telling individual investors that their orders would 
+be held in a queue for execution when trading resumed. ``It was much 
+like taking overnight orders for execution in the mornings,'' said 
+Thomas Taggart, a spokesman for Schwab. ``Investors didn't know how 
+many were ahead of them in the queue and couldn't be sure of where 
+the market would be when they were filled.'' The exchange said the 
+disruption was caused by a malfunction in one of a group of eight 
+switches that transmit orders from brokers and traders to the computer 
+system that manages trading. The faulty switch began generating inaccurate 
+and duplicate information, essentially ``hogging the highway,'' said 
+Robert Britz, the Big Board's executive vice president who oversees 
+technology. The malfunction may have ended up as more of an embarrassment 
+than a disaster for the exchange. It has spent more than $1 billion 
+on new technology in the past decade to immunize trading from such 
+glitches. But because Monday was such a slow trading day it is not 
+clear that this malfunction had much business impact. Still, the breakdown 
+was a black eye for the Big Board in a era when exchanges increasingly 
+rely on their technical prowess to compete. The faulty switch prevented 
+traders from getting current prices and from executing orders for 
+2,500 of the 3,090 stocks listed on the exchange for more than an 
+hour. The problem began at 12:37, Britz said, but it took about 45 
+minutes to isolate it and determine that trading should be halted 
+to fix it. The problem would not have occurred had the faulty switch 
+failed completely, Britz said. In that case, the system would have 
+automatically plugged in a replacement. Another frustration, Britz 
+said, was that the exchange was only weeks away from retiring the 
+switches. Nearly 600 stocks were unaffected before the halt because 
+they had already been converted to the new system, which turns the 
+traffic control tasks handled by the switches over to a software program. 
+Other exchanges have periodically suffered similar technical breakdowns. 
+During one month in the summer of 1994, the Nasdaq, a computerized 
+over-the-counter market, suffered three separate disruptions including 
+on 34-minute trading halt after a squirrel chewed through a power 
+line and the exchange's backup system failed to kick in. Britz said 
+that the Big Board has several technical failures each day but they 
+rarely cause even the slightest blip because backup systems usually 
+function perfectly. The Pacific Stock Exchange, based in San Francisco, 
+had an even more dismaying day. Hours before it lost business linked 
+to the Big Board, the Pacific exchange was shut for 30 minutes because 
+of a faulty fire alarm. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981121.0130.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the tobacco industry says it will sign a $206-billion settlement 
+with 46 states Monday. Under the agreement, the tobacco industry would 
+give up advertisements on billboards, public transportation and apparel. 
+</TEXT>
+</DOC>

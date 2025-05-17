@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981209.1130.1663 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+All the day's news in two minutes, including the latest on president 
+clinton's impeachment defense before the house Judiciary committee. 
+I'm Kathleen Kennedy. This is "CNN Headline News." 
+</TEXT>
+</DOC>

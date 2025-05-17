@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NYT19981113.0112 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Employee incentive plans are not just for motivating top executives 
+any more, a new survey has found; they are spreading to cover workers 
+on lower rungs of the organizational ladder. But that doesn't necessarily 
+mean that the plans are working. The survey of 159 companies, more 
+than a third of them in the Fortune 500, found that 72 percent now 
+have variable pay plans, up from 47 percent in 1990. Such plans may 
+involve cash awards or gifts for individual or team performance on 
+specific tasks, or benefits like profit-sharing or stock ownership 
+that spread the wealth from companywide success to employees at many 
+levels. Eighteen percent of the companies surveyed said they planned 
+to expand their plans to include more employees in the next year. 
+But only 22 percent of the companies surveyed said their plans had 
+helped them achieve all of their business objectives; 28 percent said 
+their plans had achieved none of them. What went wrong? According 
+to Ken Abosch, a consultant at Hewitt Associates, the Chicago-based 
+firm that conducted the survey, plans may fail to deliver on their 
+intended goals because employees are not told enough about them and 
+are not kept up to date on the plans' progress. Eighty-nine percent 
+of companies that regularly communicated with employees said their 
+plans had met their goals, versus only 57 percent of companies that 
+did not discuss them regularly. There are five keys to a successful 
+plan, Abosch said: _ Goals that are clear and are fully supported 
+by management. _ Goals that are realistic _ not too difficult or too 
+easy to achieve. _ Regular communication with employees about the 
+plan. ``People want a scorecard,'' Abosch said. _ Simplicity. ``It 
+has to pass the elevator test,'' he said. ``Can you explain it on 
+an elevator ride?'' _ Consistency with the company's current goals. 
+``There are very few organizations that have the same business objective 
+for five to seven years,'' Abosch said. As for pitfalls, Abosch listed 
+two: too little oversight and poor plan design. ``The striking thing 
+is the number of companies that don't monitor their plans closely,'' 
+said Abosch, adding that plans often pay out even when business results 
+do not warrant it. 
+</TEXT>
+</DOC>

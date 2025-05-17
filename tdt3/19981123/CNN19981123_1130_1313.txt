@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981123.1130.1313 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Steve young tossed four td passes as the 49ers rallied to dump the 
+saints 31-20. San Francisco, one game back of the falcons in the NFC 
+west. 
+</TEXT>
+</DOC>

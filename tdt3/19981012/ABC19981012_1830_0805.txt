@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981012.1830.0805 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On the money tonight, triple Dith the gains on Wall Street. The Dow 
+rose almost 102 points. The NASDAQ picked up 53 points to close at 
+1546. 
+</TEXT>
+</DOC>

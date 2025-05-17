@@ -1,0 +1,153 @@
+<DOC>
+<DOCNO> NYT19981026.0247 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+One of the most important things travelers buy with their vacation 
+dollars is time _ the precious weeks, days or even hours in which 
+they get to explore undiscovered horizons. That is why it is so annoying 
+to become lost while on a driving trip: it's a particularly expensive 
+waste of time. But the United States military, that swordmaker with 
+the plowshare outlet store, has developed technology that can help 
+keep a car trip on the right path. Since the 1970s, the military has 
+used signals from its network of 24 Global Positioning Satellites 
+to pinpoint targets on earth within inches. This GPS system has been 
+adapted by the civilian market into computers that can guide motorists 
+to their destinations turn by turn. Navigation computers _ featuring 
+full-color maps on dashboard monitors and directions spoken by reassuring-sounding 
+voices _ are a hot option in luxury cars, turning up in such brands 
+as Lexus and Mercedes at a price of $2,000 to $2,500. But less affluent 
+travelers can find their way around, too. Some car-rental companies 
+offer cars equipped with these computers in selected cities. And there 
+are navigation systems that can be run by laptop computers, for use 
+in the family car or a rental car. Unlike CD-ROMs that print out directions 
+on a home computer, these programs work in real time, showing you 
+where you are within 100 yards on a road map and correcting you when 
+you make a wrong turn. After road-testing eight of these systems, 
+I have found my way back to tell you that although the better ones 
+sharply reduce the risk of getting lost (particularly in larger cities), 
+they do not completely eliminate it. There are two different sets 
+of map databases in use; the most carefully researched ones _ which 
+literally offer house-by-house coverage _ encompass about 3,000 cities, 
+accounting for more than half the United States population. But out 
+in Montana, for example, you are on your own unless your destination 
+appears on a major roadway. And the lists of restaurants, banks, shopping 
+centers and other points of interest that these computers include 
+are not complete or fully up to date. Renting a Car With a System 
+The least expensive way to try a navigation computer is to rent a 
+car equipped with one. Hertz has 8,000 cars with on-board navigation 
+computers in 35 cities, said Lauren E. Garvey, a spokeswoman. The 
+cities include Atlanta, Chicago, New York, Washington and Los Angeles, 
+in vehicles ranging from midsize to luxury cars. The cost is $6 a 
+day extra. There are about 800 cars in the Avis fleet equipped with 
+navigation computers, all spread among five Florida airports: in Fort 
+Lauderdale, West Palm Beach, Tampa, Miami and Orlando. The computers 
+are available on Buick Skylarks, Pontiac Bonnevilles or similar-size 
+cars at $6 a day extra. National has had about 500 cars equipped with 
+navigation computers for the last two years in Atlanta and Detroit. 
+``And we really haven't had much response on them,'' said Dan Callahan 
+of National. Spokesmen for Alamo, Budget and Dollar Thrifty said that 
+their companies did not offer cars with navigation systems. Because 
+these systems are designed for one purpose only _ guiding a motorist 
+_ they are very user-friendly (not nearly as difficult to learn as 
+a new program for a home computer). The address or name of a business 
+is entered into the dash-mounted screen from a menu of possibilities 
+by means of a button with four directional arrows, and within seconds 
+the first of a complete set of turn-by-turn directions appears on 
+the screen _ and is spoken by a clear, human-sounding voice. The computer's 
+database includes many major landmarks, hotels, shopping centers, 
+restaurants and even ATMs. The navigation computer is most effective 
+if you know the street address of your destination _ so that, if you 
+are looking for a hot new restaurant in Los Angeles, for example, 
+the computer will get you there even if the place is not in its list 
+of restaurants. If a street address is in a city of 50,000 or more, 
+the navigation computer should be able to come up with directions. 
+And if any confusion along the way leads to a wrong turn, the computer 
+will alert you by voice and by arrows on the screen within less than 
+a minute and redraw the route. Software Kits for Laptops Anyone with 
+a laptop can, for a few hundred dollars extra, have a portable navigation 
+computer as well. Two companies sell kits with the software and the 
+car GPS antenna, about the size of a computer mouse. Travroute, a 
+company in Princeton, N.J., sells Door-to-Door Copilot for $199. It 
+will run on any laptop with a 75-megahertz logic chip, 16 megabytes 
+of RAM and 120 megabytes of hard drive. The kit contains two CDs (one 
+with the route-finding program, the other with street maps for the 
+contiguous 48 states) and the GPS antenna. Or you can buy the system 
+already installed in a Toshiba Libretto, a laptop slightly larger 
+than a daily appointment-planner. Priced at $1,499 or $1,999 depending 
+on the speed, it has voice-recognition technology that lets the driver 
+speak direction requests to the computer, while keeping hands on the 
+wheel. If you make a wrong turn, it lets you know by saying something 
+along the lines of ``Calculating new route.'' Contact Travroute Software, 
+1000 Herrontown Road, Princeton, N.J. 08540; (888) 872-8768 or www.travroute.com. 
+The other kit, Street PC 98, is sold by Liikkuva Systems International. 
+The software, including nine disks covering the contiguous 48 states 
+and the GPS antenna, costs $399. Liikkuva (``mobile'' in Finnish) 
+is at 3330 Cameron Park Drive, Suite 400, Cameron Park, Calif. 95682; 
+(800) 513-9989, www.liikkuva.com. Liikkuva recommends a laptop with 
+a 133-megahertz chip or faster, with 32 MB RAM and a 400-MB hard drive. 
+Because both of these programs work with Windows 95 or 98, they take 
+longer to start than the on-board navigation computers designed specifically 
+for cars, which are ready to go a few seconds after being turned on. 
+Both speak in a computer-synthesized voice that is sometimes hard 
+to understand. Also, these two programs require users to do some navigating 
+themselves _ through a series of commands, text input and icons that 
+built-in car computers don't require. Simply put, you can learn how 
+to use a purpose-built in-car navigation system in one trip, while 
+Door-to-Door or Street PC 98 will take a weekend or more to get used 
+to. On the other hand, you don't have to buy a Mercedes-Benz or rely 
+on a rental-car company to honor your request for a computer-equipped 
+car. Street PC 98, because it uses a more detailed series of street 
+database disks, is more likely to come up with the right set of directions 
+than Door-to-Door Copilot. The makers of Copilot have put all 48 states 
+onto one CD-ROM and have primarily relied on Census Bureau maps. Street 
+PC 98, on the other hand, uses map-database disks created by Navigation 
+Technologies of Rosemont, Ill., whose field representatives gather 
+details on all the streets, businesses and landmarks on its disks. 
+Using Navigation Technology disks is comparable to having someone 
+sitting next to you who has been down the same road before. Using 
+Door-to-Door, by comparison, is like having a person next to you who 
+is reading a street map. Door-to-Door too often acted as if it were 
+new in town, instructing me to do the illegal (like going down a one-way 
+street the wrong way), the impossible (like turning left onto a divided 
+highway) or the incomprehensible (like taking an Interstate southbound 
+when the only choices were east- or westbound). There are other such 
+programs and devices on the market. Datus, part of the South Korean 
+conglomerate Daewoo, sells a device about as big as a large remote 
+control that I did not try. It contains an antenna and screen, and 
+costs $995, plus $349 to $849 for the map data. Contact Datus, 70 
+Las Colinas Lane, San Jose, Calif. 95119; (408) 360-4200. But the 
+portable navigation computer that was the most fun, as well as the 
+simplest, was something called the Avstar Navigator, which costs about 
+$1,500. This one has no keys to press or screen to look at, so it 
+is probably the safest navigation system to use while driving. About 
+the size of a large loaf of bread, it works by voice recognition _ 
+talk to it, and it talks back. It comes with a central processing 
+unit into which the map disks are inserted, a speaker-microphone that 
+you can clip onto a sun visor and a GPS antenna (with the more expensive 
+AVN-2 model, which is the only one I'd recommend). You also get all 
+four map disks, but only one disk is pre-activated; you must pay $89 
+to activate a second disk, $79 for a third, and so on. Until you become 
+truly conversant with it, the Avstar Navigator can be run off a basic 
+set of voice commands. The voice-recognition technology seemed pretty 
+reliable. (Just try to keep the windows closed and be sure to turn 
+down the radio when you speak to it.) And you will usually not have 
+to spell out the entire name of the street you are seeking _ if it 
+is a distinctive name, like Broadway, you could spell as little as 
+B-R-O-A, and the Avstar Navigator will figure out what you want. If 
+you say ``I am lost,'' it will replan the route from wherever you 
+are. It takes a little longer to make a trip request with the Avstar 
+Navigator than it does with a typical in-car navigation computer (at 
+least with the beginner commands), but it is faster than the Street 
+PC 98 or Copilot systems. And Avstar is a truly hands-off navigation 
+system. It's all done by conversation between you and the unit, which 
+speaks in a clear male voice (it even hums when calculating a longer 
+route to let you know it isn't ignoring you). The main drawbacks are 
+twofold: it is bulkier than a laptop, and the four map disks cover 
+only slightly more than half the metropolitan areas included in the 
+full set of Navigation Technologies disks, which are used by most 
+carmakers. I also found the Avstar system a bit balky to start; otherwise 
+it ran fine. Avstar is manufactured by IVS Inc., 121 East Huntington 
+Drive, Monrovia, Calif. 91016; (626) 256-3100; www. avstar.ivs.com. 
+</TEXT>
+</DOC>

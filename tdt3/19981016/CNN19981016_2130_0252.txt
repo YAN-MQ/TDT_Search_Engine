@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981016.2130.0252 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+America's social security recipients are facing the lowest cost-of-living 
+increase in a dozen years. And the reason is falling prices for gasoline, 
+clothing and vegetables. Inflation averaged just 1.4% for the first 
+nine months of the year. Next year, social security recipients will 
+see just a 1.3% cost-of-living adjustment. This translates into a 
+$10 a month raise for the average recipient, from $770 to $780. 
+</TEXT>
+</DOC>

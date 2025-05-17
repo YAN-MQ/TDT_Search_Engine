@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981203.1600.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+No rebound today for the Dow. Good news and bad news make for a down 
+day on Wall Street. "CNN Headline News," I'm Chuck Roberts. 
+</TEXT>
+</DOC>

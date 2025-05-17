@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> VOA19981123.1600.3011 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Well, merger talk dominated Wall Street, and big mergers typically 
+spark optimism in the stock market. Analysts says mergers reflect 
+confidence and also reduce the number of stocks available to buy. 
+The America Online Computer Internet service is in talks to acquire 
+Netscape Communications, the pioneer in the Internet browser market. 
+Deutsche Bank, Germany's largest bank, says it is in advanced negotiations 
+to take over the Bankers Trust Corporation of the United States. That 
+deal could be worth about $9 billion. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981208.0130.0224 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Attorney general Janet Reno has decided against seeking another independent 
+counsel investigation of President Clinton. It would have focused 
+on so-called "issue ads" from the 1996 election which were paid for 
+by the democratic party, not the president's re-election campaign. 
+Auditors for the federal election commission have concluded both the 
+president and republican candidate Bob Dole exceeded campaign spending 
+limits by using such ads. Top justice department officials recommended 
+against seeking an independent counsel. 
+</TEXT>
+</DOC>

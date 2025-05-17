@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981214.1130.1349 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The only top 25 action saw Michigan state roll over Illinois-Chicago, 
+77-33, while Indiana beat Stanford, 3-1, for the NCAA men's soccer 
+title. Jerome Jurenovich, "CNN Headline Sports." 
+</TEXT>
+</DOC>

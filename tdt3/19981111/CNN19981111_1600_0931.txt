@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981111.1600.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Taking a look at this hour's top stories -- President Clinton honors 
+american veterans at Arlington national cemetery. Mr. Clinton used 
+his speech to warn Iraq to comply with U.N. weapons inspection mandates. 
+More troops and planes have been sent to the Persian gulf to prepare 
+for a Possible military strike. 
+</TEXT>
+</DOC>

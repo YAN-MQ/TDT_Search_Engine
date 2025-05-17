@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981226.1130.0115 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+You may soon be paying more for fresh oranges. Freezing temperatures 
+across California's central valley this week have destroyed about 
+75% of the state's orange crop. Hardest hit is Fresno county, which 
+issued a disaster declaration yesterday. Total losses for oranges, 
+lemons and tangerines are estimated at nearly $600 million. California 
+produces about 80% of the nation's whole oranges. 
+</TEXT>
+</DOC>

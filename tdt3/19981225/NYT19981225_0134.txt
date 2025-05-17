@@ -1,0 +1,52 @@
+<DOC>
+<DOCNO> NYT19981225.0134 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial for Saturday, Dec. 26: Two 
+years ago, Congress gave the nation's broadcasters a $70 billion national 
+asset by awarding them, without charge, additional channels for broadcasting 
+digital signals, including high-definition television. This huge giveaway 
+barely made a ripple on the evening news. It was not until the Senate 
+majority leader at the time, Bob Dole, bravely complained about ``corporate 
+welfare'' to the big media corporations that Congress and the communications 
+megapowers agreed that yes, of course, the public should indeed get 
+something back from the broadcasters. The White House offered to create 
+a commission named after Vice President Gore to hash out the possibilities. 
+Unfortunately, that is what the Gore commission has now returned _ 
+a hash of proposals, a vague jumble of voluntary suggestions. In effect, 
+the public-interest advocates on the commission were divided over 
+how best to pay back the public for handing over these airwaves, and 
+the broadcasters conquered. What makes this confusion so disturbing 
+is that without a committed focus on how they must serve the public 
+trust, these media companies can all too easily fall into the gravitational 
+force of ratings, bottom lines and stock prices. Under such pressures, 
+too many broadcasters could shove political debates or educational 
+programs into the night-watch hours or drop such programs altogether. 
+For those looking for solutions, the commission report must be read 
+as a list of suggestions that need more debate and detail. One recommendation 
+deserving more investigation would eventually double the number of 
+public television channels in most communities. When broadcasters 
+complete the transition to digital, the law now says they must return 
+their old analog channels over which they broadcast free now. Although 
+some critics fear that Congress will eventually allow the broadcasters 
+to stall the return of these channels, the commission has suggested 
+that when the time comes to return them, only public television stations 
+should be able to keep both _ the new digital and the old analog channels. 
+As this digital system becomes reality, operators are also learning 
+that instead of one high-definition channel, they can break the signal 
+into six or more channels. The Federal Communications Commission should 
+consider a suggestion that if broadcasters engage in this ``multiplexing,'' 
+they be required to pay for using all the channels or use some for 
+education or public-interest programs. Finally, the commission suggests 
+a voluntary system of giving five minutes of free time a night to 
+political candidates in the month before elections. Five minutes a 
+night would be a major increase in political coverage for some local 
+stations that turn to politics only when they run out of crime. But 
+the question is whether people who resist giving candidates their 
+due _ unless they pay for ads _ would parcel out even these mite-sized 
+time slots voluntarily. The FCC should require at least some free 
+air time for candidates in exchange for all these free channels to 
+broadcasters. 
+</TEXT>
+</DOC>

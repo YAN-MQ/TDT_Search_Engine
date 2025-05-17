@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981024.1000.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Lower interest rates are behind the robust housing market. The percentage 
+of homeowners has jumped to a record 67% to more than 69 million homes. 
+The government says whites still outnumber minority homeowners by 
+a wide margin. 
+</TEXT>
+</DOC>

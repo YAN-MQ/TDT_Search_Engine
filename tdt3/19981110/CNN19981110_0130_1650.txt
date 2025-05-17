@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981110.0130.1650 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First we're going on a love ride with Jay leno. He's riding his Harley, 
+with thousands of other cyclists to raise money for the muscular dystrophy 
+association. I'm David Goodnow, "CNN Headline News." 
+</TEXT>
+</DOC>

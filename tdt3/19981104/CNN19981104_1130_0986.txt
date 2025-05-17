@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981104.1130.0986 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks rising sharply today. Investors reacting positively to yesterday's 
+election results hoping that democratic gains will help lead to a 
+quick resolution of the impeachment process. Strong gains on Asian 
+and European markets also boosting stocks here at home. Shares of 
+General Motors are up at 66 3/16. Just moments ago, the world's largest 
+automaker reported a 6.3% jump in vehicle sales for October. 
+</TEXT>
+</DOC>

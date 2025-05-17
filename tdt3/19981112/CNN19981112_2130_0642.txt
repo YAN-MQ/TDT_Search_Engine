@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> CNN19981112.2130.0642 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's Y2K bug looms as our society approaches the year 2000. Among 
+the bug's many possible victims, the nation's nuclear weapons systems. 
+Rick lock Ridge has more in this "tech trends." For nuclear weapons 
+to work, a lot of things have to go right. Launch, targeting, delivery, 
+all these critical steps are controlled by computer chips. All of 
+those chips have to work together. That reliance on thousands of chips 
+and millions of lines of computer code will appear to make nuclear 
+weapons especially vulnerable to the year 2000 computer bug. Things 
+are connected. No computer system, no information system communications 
+or weapon is totally in isolation. This report by an anti-nuclear 
+weapons group claims the department of defense will be unable to stop 
+the bug from infesting thousands of nuclear weapons all over the world. 
+The report singles out America's submarine-based missiles as well 
+as russia's land-based nukes. It says China and all other nuclear 
+powers will have trouble getting rid of the bug. It recommends deactivating 
+all the world's nuclear weapons so there's no chance of a foul-up. 
+This would get rid of completely the fear of surprise attack because 
+what drives launch and warn sg the fear that there will be a bolt 
+out of the blue. Pentagon officials declined a chance to directly 
+address the report. Bau Pentagon spokeswoman did tell CNN "nuclear 
+command and control centers have been given the highest priority and 
+we feel that we are in pretty good shape there." The only point of 
+agreement is that nobody can predict what the Y2K bug will do or not 
+do until the new century arrives. Rick Lockridge, CNN, Washington. 
+</TEXT>
+</DOC>

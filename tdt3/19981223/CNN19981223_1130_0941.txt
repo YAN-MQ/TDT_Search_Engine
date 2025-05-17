@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981223.1130.0941 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sentiment in Congress many be moving away from trying President Clinton. 
+Five republicans who voted for impeachment have come out in favor 
+of censure. Others are said to support the idea. 
+</TEXT>
+</DOC>

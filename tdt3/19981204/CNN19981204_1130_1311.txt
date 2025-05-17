@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981204.1130.1311 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In case you missed it last night, St. Louis and Philadelphia had a 
+chance to show the nation why they aren't very good. The Eagles beat 
+the Rams, 17-14. Koy Detmer threw a pair of touchdowns. 
+</TEXT>
+</DOC>

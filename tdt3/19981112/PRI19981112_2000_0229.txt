@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981112.2000.0229 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow industrials gained six points today to close at 8830, this 
+is NPR. 
+</TEXT>
+</DOC>

@@ -1,0 +1,99 @@
+<DOC>
+<DOCNO> NYT19981107.0195 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A fact of co-op life is that a board of directors is responsible for 
+the sometimes complicated business of running the building. Co-op 
+bylaws guarantee that the board must be elected by the shareholders 
+_ but provide no guarantee that the election process will be easy. 
+``Voting in co-ops can get pretty messy,'' said Donald Klein, a Manhattan 
+lawyer who specializes in co-op and condominium law. One reason, Klein 
+said, is that co-op voting rules are often based on more complex formulas 
+than the ``one-person, one-vote'' rules covering government elections. 
+Co-ops use three types of voting procedures, he said _ straight voting, 
+cumulative voting and ``one shareholder, one vote'' _ which is the 
+simplest but also the least common. Arthur Gussaroff, a Manhattan 
+lawyer who specializes in government-subsidized co-ops, said that 
+in buildings that use the latter procedure _ most of which are government-subsidized 
+_ every unit is allocated one vote, regardless of the size or value 
+of the unit. Accordingly, when the time comes to vote, each unit owner 
+is entitled to vote one share for each open seat on the board. ``The 
+idea was that every shareholder would be equal,'' Gussaroff said. 
+``They didn't want to create a situation whereby if you have a larger 
+apartment, you have more votes.'' As it turns out, however, most co-ops 
+created under New York state's Business Corporation Law _ which accounts 
+for most of the co-ops in New York today _ take a different approach. 
+``The `one-shareholder, one-vote' formula ignores the fact that shareholders 
+with larger apartments pay a larger share of the maintenance and should 
+therefore have a greater influence in the building's affairs,'' said 
+Bruce Cholst, a Manhattan co-op lawyer. Accordingly, Cholst said, 
+in most co-ops, the number of shares allocated to an apartment is 
+based primarily on the size and value of the apartment in relation 
+to others in the building. And most co-ops, Cholst said, use what 
+is known as a straight voting system to elect directors. With such 
+a system, he said, unit owners are given a specific number of votes 
+equal to their number of shares. Those votes can then be cast for 
+a specific candidate for each board opening. ``With a straight voting 
+system, the number of votes an individual unit owner can award to 
+a particular candidate is limited by the number of votes the unit 
+owner has,'' Cholst said. And while such a voting process may seem 
+democratic, Cholst said, it nevertheless allows for some seemingly 
+undemocratic results. For example, he said, if there are a small number 
+of unit owners who own very large apartments that have been allocated 
+great numbers of shares, it is possible for that small minority to 
+control the building if the number of shares they collectively own 
+gives them a majority of votes. At the same time, Cholst said, with 
+a straight voting system, it is possible for a small number of individuals 
+_ such as investors or a sponsor _ who own a large number of units 
+to exercise control by pooling their votes. And finally, Cholst said, 
+with a straight voting system, if one group of shareholders manages 
+to put together enough votes to constitute a majority, that group 
+will be able to elect its candidates to every seat on the board, preventing 
+the minority from having any influence. There is a way, however, for 
+minority shareholders to get a foothold on the board and have some 
+influence _ if a building allows what is known as cumulative voting. 
+``Cumulative voting is essentially a very democratic process,'' said 
+Arthur Weinstein, a Manhattan lawyer and vice president of the Council 
+of New York Cooperatives. ``It helps assure that a minority group 
+of shareholders can get proportionate representation on the board.'' 
+With cumulative voting, as with straight voting, each unit owner is 
+allocated a number of votes equal to the number of his shares. Unlike 
+straight voting, however, Weinstein said, the votes are then multiplied 
+by the number of seats on the board that are up for election. For 
+example, he said, in a building with straight voting and seven open 
+board seats, a unit owner with 200 shares will have 200 votes to cast 
+for a particular candidate for each of the seven open seats. With 
+cumulative voting, however, that same unit owner would have a total 
+of 1,400 votes to cast any way he or she wishes. ``You can spread 
+them out among several candidates for several seats or you can cast 
+all 1,400 votes for one candidate for one seat,'' Weinstein said. 
+``And therein lie the strategies possible with cumulative voting.'' 
+Generally, he said, if there are opposing groups of shareholders vying 
+for power, it is possible with cumulative voting for a well-organized 
+minority to take control of the board from a less-well-organized majority. 
+``The basic strategy is to gain control of the board,'' Weinstein 
+said. ``So in a contested election for, say, seven board seats, a 
+well-organized minority group of shareholders can throw all their 
+votes to just four candidates while the less-organized majority spreads 
+its votes among seven candidates for seven seats.'' Of course, Weinstein 
+said, if the majority is as well-organized as the minority, it is 
+possible for the more powerful group to undermine the minority's attempt 
+to gain control by using the same four-candidates-only strategy. However, 
+he said, even in that situation, cumulative voting can give minority 
+shareholders the ability to gain at least a foothold on the board. 
+``The minority group can bullet-ballot every one of their votes for 
+just one or two candidates,'' Weinstein said, adding that while such 
+a strategy would not give the minority control, the election of one 
+or two friendly directors would give it the ability to influence actions 
+of other board members. And if the majority tried to duplicate the 
+minority's strategy, by voting for only one or two candidates, it 
+would risk losing control of the other open seats. Cumulative voting, 
+however, has one problem that co-op lawyers must constantly confront. 
+``It's so darn complicated,'' said Stuart Saft, a Manhattan lawyer 
+and chairman of the Council of New York Cooperatives. In fact, Saft 
+said, all the benefits of cumulative voting could be lost if a shareholder 
+makes an arithmetic error when allocating votes among several candidates. 
+``If you mess up,'' he said, ``your ballot is void.'' 
+</TEXT>
+</DOC>

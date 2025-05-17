@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981017.1600.0685 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street apparently is going to stay on Wall Street after all. 
+The New York stock exchange had considered moving several blocks away 
+or even to New Jersey. "The New York post" reports, the mayor and 
+the governor are ready to make a Deal that keeps the stock exchange 
+pretty much where it is. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981126.2130.0448 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers in Colorado say there is new evidence people are to blame 
+for global warming. They say by studying 115 years of global temperature 
+data, they found the release of Greenhouse gases like carbon dioxide 
+explains most of the reason for the phenomenon. Some people thought 
+natural occurrences, like sunspots or volcanoes, were responsible. 
+The findings are published in the journal "science." 
+</TEXT>
+</DOC>

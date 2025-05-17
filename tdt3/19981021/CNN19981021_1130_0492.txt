@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981021.1130.0492 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If you've ever wanted an astronomer's eye view of the heavens, you 
+may soon have the chance. NASA says pictures from the Hubble archives 
+will be posted monthly on the internet. Four pictures, including a 
+natural color picture of Saturn, will be posted tomorrow. The pictures 
+have been selected from a Hubble collection that includes more than 
+130,000 views of space. 
+</TEXT>
+</DOC>

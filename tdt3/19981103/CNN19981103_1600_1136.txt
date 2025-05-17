@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981103.1600.1136 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Meanwhile back on Wall Street, the Dow finishing unchanged, the NASDAQ 
+down 12 points. 
+</TEXT>
+</DOC>

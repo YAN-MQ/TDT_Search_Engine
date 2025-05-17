@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981219.1000.0437 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A check of the extended national weather forecast is next. Then later 
+we'll check the damage and more from operation desert fox. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981106.0130.0481 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And later -- thousands of people 
+in central America face an uncertain future in the aftermath of hurricane 
+Mitch. 
+</TEXT>
+</DOC>

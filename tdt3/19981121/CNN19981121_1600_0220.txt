@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981121.1600.0220 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is continuing his Asian tour by visiting south Korea. 
+He says north Korea should seize a historic opportunity for peace 
+with south Korea and stay away from nuclear weapons. But U.S. military 
+officials tell CNN north Korea may be preparing to conduct another 
+ballistic missile test like it did in August. South Korean President 
+Kim Dae-Jung says he won't tolerate any attempts to build weapons 
+of mass destruction north of his border. 
+</TEXT>
+</DOC>

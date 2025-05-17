@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981013.1600.1344 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A chilly rain is in the forecast for game six of the American league 
+championship series between the Yankees and Indians. New York will 
+try to wrap it up with David cone on the hill, Cleveland going with 
+Charles nagy. 
+</TEXT>
+</DOC>

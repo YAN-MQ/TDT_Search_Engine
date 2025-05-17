@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981109.1130.0449 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Dave Hennen with your "CNN Headline News Weather." 
+Quite a contrast in temperatures today over the U.S., where we'll 
+find 20s through Montana and the 80s by the time you get into Texas. 
+Big storm system responsible for that big change in temperature and 
+this major winter storm will be spreading through the midwest over 
+the next 24 hours, bringing with it heavy snows through the dakotas, 
+back through northern Minnesota and blizzard-like conditions are forecast 
+by late tomorrow. Along that cold front, that is moving into the southeast 
+by tomorrow. Strong to severe thunderstorms are likely. In the pacific 
+northwest, new storm system moving in that will spread some rain and 
+mountain snows inland. A look now at the extended forecast -- rain 
+will be likely in the northeast on Wednesday. We'll find thunderstorms 
+for the mid-atlantic into the southeast and snow showers continue 
+along with windy conditions through the upper midwest. On Thursday, 
+a mix of rain and snow back through the Great Lakes. And rain likely 
+in the pacific northwest as you move inland, some of that in the form 
+of snow. And by Friday, another shot of colder air will be moving 
+in through much of the upper midwest. For even more weather information, 
+log into CNN.com. 
+</TEXT>
+</DOC>

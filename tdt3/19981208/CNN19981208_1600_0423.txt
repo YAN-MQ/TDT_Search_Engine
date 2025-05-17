@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981208.1600.0423 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is a light duty day for the crew aboard shuttle "endeavour" following 
+yesterday's space walk. NASA has confirmed that the Russian and U.S.-built 
+parts of the international space station have been successfully linked. 
+Yesterday, two astronauts connected 40 cables between the two modules 
+during a 7 1/2-hour space walk. In tests, ground controllers in Moscow 
+and Houston were able to send data and power through the cables. The 
+astronauts also had time to attach hand and foothold sockets that 
+will be used by future spacewalkers. When complete, the space station 
+will be bigger than two football fields. 
+</TEXT>
+</DOC>

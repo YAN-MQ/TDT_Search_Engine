@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981012.2000.0226 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock prices closed higher today on Wall Street. The Dow Jones Industrial 
+Average gained 102 points, to close at 8001. This is NPR. 
+</TEXT>
+</DOC>

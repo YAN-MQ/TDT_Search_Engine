@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981030.0130.0532 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News" weather, I'm Karen McGinnis. 
+Still some of the mildest readings can be found all the way from Texas, 
+along the gulf coast into Florida and much of the carolinas. While 
+40s and some 30s prevail across the interior west, 50s for the pacific 
+northwest. Look for temperatures in the low 70s in southern California. 
+For Friday morning, a developing storm system across the southwestern 
+United States becomes a little bit better organized. Snow levels not 
+all that low. You might even expect some thunderstorms to erupt across 
+the central plains as we head into the weekend. High pressure still 
+holds on across much of the east. And we'll continue to monitor the 
+progress of what happens with Mitch, it has been downgraded. Temperaturewise 
+for Anchorage, Alaska, look for 35, and around 81 and breezy in Hilo. 
+Our extended forecast is looking for the mountain snowfall and lower 
+elevation showers coming up for Saturday in the southwestern United 
+States. On Sunday, 30s and 40s into Ontario, it'll come back in the 
+Great Lakes. And then by Monday, scattered showers for the northwest. 
+For more information, log on to CNN.com. 
+</TEXT>
+</DOC>

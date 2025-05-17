@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0962 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the United States is expected to sign an international accord 
+to reduce global warming. 
+</TEXT>
+</DOC>

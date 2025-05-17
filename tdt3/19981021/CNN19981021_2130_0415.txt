@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981021.2130.0415 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Soon you will see new labels on bottles of Tylenol, Advil and the 
+like. The food and drug administration has announced new label requirements 
+for over-the-counter pain relievers. Within six months, manufacturers 
+must add warnings their product can cause liver damage or stomach 
+bleeding for people who have three or more alcoholic drinks a day. 
+Doctors say otherwise the products are safe to use as directed. 
+</TEXT>
+</DOC>

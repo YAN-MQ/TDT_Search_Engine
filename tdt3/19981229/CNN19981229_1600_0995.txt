@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981229.1600.0995 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+'tis the season for optimism among American consumers. I'm Beverly 
+Schuch in New York with this edition of "Dollars & Sense." The conference 
+board says its index of consumer sentiment is holding the month steady 
+after a strong showing in November. That's a good sign the U.S. economy 
+will remain strong as it heads into 1999. A separate report shows 
+sales of previously owned homes rose 2.7% in november. And that's 
+a stronger showing than had been expected. And it puts last month's 
+total sales just below the record level reached back in July. 
+</TEXT>
+</DOC>

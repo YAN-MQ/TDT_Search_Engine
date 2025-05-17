@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981011.1600.1340 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In other baseball news -- today, Felipe alou signed a three-year deal 
+with Montreal, making him one of the highest-paid managers in the 
+league. 
+</TEXT>
+</DOC>

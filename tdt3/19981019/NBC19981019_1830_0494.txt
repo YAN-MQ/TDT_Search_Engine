@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> NBC19981019.1830.0494 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now to the computer giant, Microsoft. And the world's richest man, 
+Bill Gates. There is no question it dominates the computer software 
+market. But is Microsoft abusing that power? That's the centerpiece 
+of the justice department's anti-trust case against microsoft, which 
+is of course associated with NBC news. Pete Williams tonight. Microsoft 
+is so dominant that it's windows computer program touches virtually 
+all Americans either because they own it, use it at work, or do business 
+with someone who does. It runs 90% of the personal computers sold 
+today. But the government claims that Microsoft holds a monopoly by 
+illegally intimidating the competition. To harm competition and to 
+harm consumers, to limit what products can come to market, and to 
+prevent people with new and better ideas from getting a Fair chance. 
+Exhibit a -- a meeting Microsoft officials had three years ago with 
+rival software company Netscape. Government lawyers today accused 
+Microsoft of illegally trying to stop netscape from selling its program 
+to the windows users. In a videotape shown in court, Microsoft's billionaire 
+founder, Bill Gates, told the justice department he didn't know about 
+the Netscape strategy. But government lawyers showed excepts from 
+Gates' own company E-mail messages, urging his executives to shut 
+Netscape out. Microsoft says those comments are just snippets, out 
+of context. And it warns that the government is trying to meddle in 
+the fastest growing part of the U.S. economy. The software industry 
+itself is intensely innovative and competitive. Every year, there 
+are thousands of new products brought to market. There are thousands 
+of new companies being formed. The company insists it must be free 
+to add new features to its products, and some say there is always 
+a risk when the government steps in to a wide open business. The whole 
+high-tech industry, the computer industry, has been a wonderful wild 
+and woolly free for all. Dodge city in the 1880's. This isn't a jury 
+trial. So the issue for the judge -- has Microsoft illegally locked 
+up the business, so the next Bill Gates doesn't stand a chance? As 
+for how big the company is, consider this. Government lawyers prepared 
+their legal briefs using the justice department's latest soft wear, 
+Windows 95. Pete Williams, NBC news, Washington. 
+</TEXT>
+</DOC>

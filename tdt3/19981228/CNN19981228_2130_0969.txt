@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981228.2130.0969 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+one wall street analyst calls it a "feeding frenzy" -- internet stocks 
+rose today, pushing the nasdaq index to a record high. the dow jones 
+industrial average posted its seventh straight gain. 
+</TEXT>
+</DOC>

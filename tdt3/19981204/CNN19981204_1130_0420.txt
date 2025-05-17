@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> CNN19981204.1130.0420 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+A nice warm day again in the southeast and along the gulf coast. Back 
+into the northeast, today, daytime highs into the 60s today. See the 
+colder weather, though, back into the Rockies and extending into the 
+northern midwest, 20s and 30s for highs. Forecast calls for snow to 
+continue to push from the northern Rockies in through the upper midwest 
+as we head on into tomorrow. Look for an area of low pressure in the 
+associated front to bring some showers and storms in through parts 
+of the midwest, and another storm moves into the pacific northwest. 
+More rain along the coast and snow is expected in the higher elevations. 
+Extended forecast for Sunday, snow is expected in parts of Minnesota 
+and back through the northern Great Lakes. Look for temperatures to 
+continue to cool off back in through Rockies and parts of the midwest. 
+Still warm, though, at least on Sunday, into the southeast. That changes 
+around, though, as we head into Monday as the colder temperatures 
+begin to filter in. And we'll find good chances for rain in the pacific 
+northwest and some snow back in through central sections of the Rockies 
+on into Tuesday, with showers and storms likely in the east along 
+with the cooler temperatures. For more weather information, log into 
+CNN.com. 
+</TEXT>
+</DOC>

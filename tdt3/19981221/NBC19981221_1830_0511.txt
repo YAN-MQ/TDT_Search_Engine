@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981221.1830.0511 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street reacted positively to all of this. In fact, at one point 
+today, the Dow Jones industrial average soared over 175 points. By 
+the close, the Dow was up 85 points. The NASDAQ climbed nearly 52 
+points to another record close. 
+</TEXT>
+</DOC>

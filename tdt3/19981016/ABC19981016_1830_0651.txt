@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981016.1830.0651 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There was a depressing report from the United Nations today about 
+the world's poor. For some it's an alarming message. 1 1/2 billion 
+people earn less than 1 dollar a day. Less than half of all children 
+in south Asia do not get enough to eat. And aid from the richer countries 
+is at an all-time low. 
+</TEXT>
+</DOC>

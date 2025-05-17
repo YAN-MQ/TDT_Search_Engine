@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981107.1000.0992 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Week three of the Microsoft antitrust trial began with the long-awaited 
+appearance of Microsoft's billionaire chairman, though not in person. 
+Bill Gates testified via videotape this week as a hostile government 
+witness, appearing alternately argumentative and forgetful as he answered 
+questions about dealings with rival apple computer, and the Internet 
+browser wars. 
+</TEXT>
+</DOC>

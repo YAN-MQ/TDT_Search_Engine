@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981015.1830.0645 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At the White House today, teachers and police officers met with President 
+Clinton and others for a conference on school safety. Despite some 
+widely publicized crime in schools, a new government report shows 
+that 43% of schools had no crime at all, 0% had no serious crime, 
+robbery and rape included, however, more students are seeing gangs 
+in their school. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981103.1600.0512 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.S. Supreme Court heard arguments today as to whether police 
+can search people or their possessions when they have been ticketed 
+for routine traffic violations. A lawyer for an Iowa man says his 
+client's constitutional protection against unreasonable searches was 
+violated when police found marijuana in his car after he was given 
+a speeding ticket. The court is expected to rule in the case by July. 
+</TEXT>
+</DOC>

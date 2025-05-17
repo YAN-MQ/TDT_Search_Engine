@@ -1,0 +1,98 @@
+<DOC>
+<DOCNO> NYT19981122.0121 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Since the case is about digital technology, it seems apt that the 
+most heated debate in the Microsoft trial is about the virtual witness 
+_ Bill Gates on videotape. The Billathon continued last week with 
+the government using more taped excerpts of its deposition of Gates, 
+the chairman and co-founder of Microsoft Corp. By now, with repetition, 
+the Gates tapes have lost much of their punch to shock or amuse. The 
+subject may vary, but each excerpted section is much the same. Hunched 
+forward, staring down, like a student being punished in the principal's 
+office, Gates comes off as forgetful, evasive and endlessly quibbling 
+over the meaning of the simplest business terms like ``market share.'' 
+The joke making the rounds in the industry is that it was the word 
+``share'' that Gates found confusing. But the real issue surrounding 
+Gates now becomes whether the virtual witness becomes a real one. 
+Putting Gates on the stand presents a real risk for both sides. A 
+convincing, disciplined performance by Gates _ who, according to opinion 
+polls, remains an entrepreneurial hero to most Americans _ could bolster 
+Microsoft's defense, legal experts say. Yet Microsoft's defense could 
+be undermined if Gates proved a volatile witness, arrogant and unresponsive, 
+coming off as a man with something to hide, legal experts agree. He 
+is not on the 12-person witness list of either Microsoft or the government, 
+but either side could call him. Each side is permitted to call two 
+rebuttal witnesses. And Judge Thomas Penfield Jackson, who limited 
+the witness lists in the interest of speeding the trial along, has 
+indicated that his ground rules are flexible. Surely, Gates would 
+be welcome on the stand in the U.S. District Court in Washington. 
+But if he is to be a witness, it seems, it will have to be Microsoft 
+that calls him. The government is certainly inviting the Microsoft 
+legal team to take that risk. In his remarks during the daily news 
+conferences on the courthouse steps last week, David Boies, the lead 
+trial lawyer for the Justice Department, was just short of taunting. 
+Asked whether he would call the Microsoft chairman as a witness, Boies 
+said dryly, ``We have a deposition that we're very comfortable with.'' 
+Gates appears to be irritated at the reaction to his deposition tapes. 
+At the Comdex computer trade show in Las Vegas, he told The Associated 
+Press that the prosecutors' use of the tapes was ``more about government 
+PR than the substance of the case,'' and he accused Boies of trying 
+``to put words in my mouth'' during the deposition. In Washington, 
+Boies replied that Gates ``seems to be indicating more and more that 
+he wants to come.'' Strongly suggesting that the Gates tapes are hurting 
+Microsoft and that the company is losing the case, Boies added: ``It 
+wouldn't be unusual to change the game plan if the present game plan 
+isn't working. Maybe that's what you're seeing.'' Microsoft says that 
+all this is ``spin'' and that Gates' deposition performance was a 
+triumph of stonewalling. ``The substance of his deposition testimony 
+has not helped the government's case,'' said Charles Rule, a former 
+senior official in the Justice Department's antitrust division who 
+is an adviser to Microsoft. The legal advice Gates received going 
+into his deposition was clearly to give his adversaries little or 
+nothing to work with. He may have done that to a fault, because he 
+appears to be almost lifeless. The problem with the Gates tapes _ 
+whether a legal one or not _ is that Gates does not come across as 
+Bill Gates, brilliant, passionate about the technology he has championed 
+and thoroughly in command of Microsoft. And that would seem to raise 
+a credibility issue in the case. That view of the Gates tapes, Microsoft 
+says, is uninformed, the reflex impression of people unschooled in 
+the intricacies of the legal process. Depositions involve a lot of 
+jousting over words and nit-picking. Still, with the Microsoft trial 
+moving into its sixth week, six government witnesses have been cross-examined 
+by Microsoft's lawyers. There has been plenty of pausing and parsing 
+of words, but none of the witnesses has displayed the kind of white-knuckle 
+resistance that Gates has demonstrated. Last Thursday, at a meeting 
+in Jackson's chambers, John Warden, a Microsoft lawyer, protested 
+the repeated showing of excerpts of the Gates tapes mainly ``for the 
+purpose of creating news stories day after day after day,'' according 
+to a transcript of the meeting. The judge disagreed. ``If anything,'' 
+he said, ``the trouble is with your witness.'' Later, he added, ``I 
+think it's evident that for whatever reasons, in many respects Gates 
+has not been particularly responsive to his deposition interrogation.'' 
+Still, as much as the Justice Department lawyers seem to be inviting 
+Gates to show up, his appearance would be a risk for the government. 
+There has been a difference of opinion between Boies and Stephen Houck, 
+the lead trial lawyer for the 20 states that are suing Microsoft with 
+the Justice Department. Houck has suggested that the government call 
+Gates, but Boies, colleagues say, has said that is a risk for Microsoft 
+to take. ``You don't call someone who is brilliant and totally committed 
+to beating you,'' Boies was quoted as saying. ``The government's nightmare,'' 
+said William Kovacic, a visiting professor at the George Washington 
+University Law School, ``is that he comes on like Bill Gates, a guy 
+with a deep conviction that what he is doing is right.'' What Gates 
+did not do in his deposition, Kovacic said, was play the time-honored 
+game of politicians, which is to ``sidestep the question and present 
+your vision of the issue.'' Jackson has given the other witnesses 
+plenty of leeway for lengthy yes-but answers. ``The judge would have 
+to let Gates give speeches, because he has let everyone else do it,'' 
+Kovacic said. ``If he didn't, Microsoft would clearly have a bullet 
+to use on appeal, unmasking the judge's bias.'' Other antitrust experts, 
+however, advise Microsoft to stay with its nine lower-level Microsoft 
+witnesses and leave Gates out of the trial. ``I think it would be 
+a mistake, especially with a litigator and cross-examiner as skilled 
+as David Boies,'' said Stephen Axinn, a partner of Axinn, Veltrop 
+&AMP; Harkrider. ``If Microsoft calls Gates, they're crazy.'' 
+</TEXT>
+</DOC>

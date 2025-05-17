@@ -1,0 +1,100 @@
+<DOC>
+<DOCNO> NYT19981018.0105 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Congress moved to rewrite American copyright law earlier this month 
+when it passed two hotly contested pieces of legislation. The first 
+lengthens protections by 20 years for an array of 20th century cultural 
+icons, including Mickey Mouse. The second guarantees online providers 
+of artistic material that their responsibility for copyright infringement 
+will be limited as the digital age progresses. On Oct. 7, a year and 
+a half after the Copyright Term Extension Act was first introduced 
+and after intense lobbying for it from powerful copyright holders 
+like the Walt Disney Co. and Time Warner Inc., Congress passed the 
+bill and extended the life of copyright protection for the creators 
+of original works. Since 1976, copyrights have been good for the life 
+of an artist plus 50 years. The new legislation lengthens copyrights 
+for works created on or after Jan. 1, 1978, to the life of the author 
+plus 70 years and extends copyrights for works created for hire and 
+owned by corporations to 95 years, from the current 75. With its vote, 
+Congress prevented Disney's copyrights for several of its most lucrative 
+cartoon characters from becoming public property in the next few years. 
+Mickey Mouse, first copyrighted in 1928, had been set to pass into 
+the public domain in 2004; Pluto, Goofy and Donald Duck would have 
+followed in 2009. Several days after the copyright extension legislation 
+passed, the House and Senate approved the On-Line Copyright Infringement 
+Liability Limitation Act. That legislation protects Internet service 
+providers from liability for unwittingly transmitting material that 
+infringes a copyright. Both bills generated plenty of controversy 
+during the last year. Opponents argued that they were unconstitutional, 
+stifled creativity and research or threatened privacy and competition. 
+But the proposals had powerful support from large corporations, artists' 
+interest groups and the Patent and Trademark Office. Both bills fit 
+neatly into the patent agency's efforts over the last several years 
+to modify American intellectual property laws so that they ``harmonize'' 
+with those in Europe and Japan. In 1995, controversy raged around 
+a bill that altered the life span of a American patent from 17 years 
+from the date of issuance to 20 years from the date of application 
+_ making U.S. law identical to patent-term laws in Europe and Japan. 
+It passed. The philosophical basis for copyright protection is twofold: 
+to protect the rights of artists to profit from and control the use 
+of their work and to preserve public interest by guaranteeing that 
+eventually the right to use the works will pass into the public domain. 
+Arguments over which of those purposes takes precedence have flared 
+off and on since the first copyright law was passed in 1790. It bestowed 
+protection on artists for 14 years from publication, with an option 
+for a further 14-year renewal. That legislation lasted until 1831, 
+when the initial term was extended to 28 years with a 14-year renewal. 
+In 1909, the renewal term was stretched to 28 years. Then, in 1976, 
+the renewal period was extended again to 47 years and copyright protection 
+for the life of the author, plus 50 years, was given to anything published 
+after 1976. That law seemed to satisfy artists and corporate copyright 
+holders until the expiration date of many valuable copyrights drew 
+near. An impressive list of mid-century works of art were set to lose 
+their copyrights over the next few years, including the songs of George 
+and Ira Gershwin as well as the Disney cartoon characters. This would 
+have happened just as the potential for new uses of characters, songs 
+and images is expanding with new markets on digital television, cable 
+services and the Internet. In Europe, artists and their heirs already 
+had two extra decades to control and profit from copyrighted works. 
+So in the United States, heirs like the Gershwin Family Trust, large 
+corporations like Disney and Time Warner, and organizations like the 
+Motion Picture Association of America and the American Society of 
+Composers, Authors and Publishers began lobbying for a change in federal 
+law. Opponents argued that copyright holders were trying to change 
+the rules of the game they had originally accepted and said that creative 
+and cultural expression would be stifled if the public was not allowed 
+free and fair access to works of art. Copyright holders and their 
+heirs, in turn, insisted that artistic work is property, just like 
+real estate, paintings or jewelry, and that they should be able to 
+pass on their wealth to their descendants. Their supporters said that 
+if American works of art fell into the public domain 20 years before 
+European ones, the United States would lose its advantage in the international 
+trading arena. The global economy was cited as a central reason for 
+the other piece of copyright-related legislation. To protect content 
+on the so-called information superhighway, Congress voted to limit 
+liability for online copyright infringement. Proponents called it 
+a big step forward in freeing companies to expand into electronic 
+commerce and deliver movies, music and other content over the Internet. 
+The bill limits the infringement liability of Internet access providers 
+that unknowingly store, transmit or link World Wide Web users to copyrighted 
+material. Providers like America Online or Yahoo will not be liable 
+if the transmission is initiated by another person, if the storage 
+or transmission happens via automatic technological processes and 
+if no copies of the material are kept any longer than necessary to 
+complete the transmission. The provider is also exempt from liability 
+if it did not know that the material in question infringed a copyright 
+and did not make money from any activity directly related to infringement. 
+The bill is so-called implementing legislation for two treaties agreed 
+upon by the World Intellectual Property Organization, and Congress 
+must still ratify those treaties. Even though the 105th Congress is 
+close to adjournment, other copyright-related proposals are still 
+pending. A list of pending legislation is available on the U.S. Copyright 
+Office's site on the World Wide Web (http://lcweb.loc.gov/copyright/penleg.html). 
+President Clinton is expected to sign both newly passed bills into 
+law. A text of the Copyright Extension Act can be viewed on the Web 
+(http://thomas.loc.gov/cgi-bin/query/z?c105:S.505:), as can a text 
+of the On-Line Copyright Infringement Liability Limitation Act (http://thomas.loc.gov/cgi-bin/query/z?c105:H.R.2281:). 
+</TEXT>
+</DOC>

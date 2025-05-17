@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981214.1600.1488 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some high school students apparently are skipping lunch in favor of 
+more school work. "The Philadelphia inquirer" reports students across 
+the northeast are opting to take an extra class during their lunch 
+break. Some schools are even scheduling special classes to be taken 
+in place of lunch, like science labs or S.A.T. prep courses. Critics 
+of the program say they don't think having students skip lunch is 
+such a good idea. 
+</TEXT>
+</DOC>

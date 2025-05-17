@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981027.1600.0519 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Wednesday. A slow-moving storm system moves from the 
+Rockies into the plains states, bringing some showers and thunderstorms 
+to that region. There will be some mountain snow lingering across 
+the mountains of northern colorado. Meanwhile, another cold front 
+moves into the western United States, behind it cooler temperatures, 
+also some rain and mountain snow. There will be some showers across 
+the northeast, but the southeastern part of the United States should 
+see another beautiful day with readings in the 70s and 80s. 50s and 
+60s north of there, 40s and 50s across the northwestern United States. 
+Looking ahead to Thursday, look for showers in the northwest and northeast, 
+with showers and storms through the central part of the country as 
+well. On Friday, those showers and storms from the west push into 
+the southwest. We'll see rain showers in the midwest and some lingering 
+rain in the northwest and northeast as well. Finally, Saturday, showers 
+and storms through the plains with rain in the northwest, rather cool 
+in the plains as well. Don't forget, four-day forecasts for 7,200 
+cities at CNN.com. 
+</TEXT>
+</DOC>

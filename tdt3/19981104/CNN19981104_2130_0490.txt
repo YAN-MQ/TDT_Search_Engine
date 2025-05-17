@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981104.2130.0490 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And later -- you've got election 
+news. The Internet gives browsers a peek at what the voters have been 
+doing. 
+</TEXT>
+</DOC>

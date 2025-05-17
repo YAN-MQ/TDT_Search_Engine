@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981211.1600.2975 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock prices closed lower in Europe. In London, the Financial Times 
+100 Index was off 96 points, or nearly two percent at 5563. In Paris, 
+the CAC40 Index was down 51 points at 3695. In Frankfurt, the DAX 
+Index was off 107 points at 4543. 
+</TEXT>
+</DOC>

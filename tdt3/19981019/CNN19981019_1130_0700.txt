@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981019.1130.0700 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's every student's nightmare. You've studied hard for the biggest 
+exam of the semester. But when the time comes to take the test, suddenly 
+you've forgotten everything you learned. Researchers say there's a 
+reason for that. A hormone called cortisol interferes with your long-term 
+memory. And cortisol can be triggered by stress. This effect only 
+lasts for a couple of hours, so that the impairing effect in this 
+case is temporary impairment of retrieval. The memory is not lost. 
+It is just inaccessible or less accessible for a period of time. What 
+can be done to prevent it? If it's a test or another event you're 
+worried about, become familiar with the location ahead of time. And 
+there are general techniques to help you relax during any stressful 
+situation. Try slow breathing or close your eyes and imagine a calm 
+place. 
+</TEXT>
+</DOC>

@@ -1,0 +1,91 @@
+<DOC>
+<DOCNO> NYT19981014.0202 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+My friend Liz DeGennaro called the other day to say she was thinking 
+about going on line for the first time. She figured that she would 
+liberate her Macintosh Power PC from the closet, where it has resided 
+in the months since she left graduate school, set up a family computer 
+station in the corner of an almost-renovated bedroom and then ``do 
+a little e-mail, some Web surfing, some research.'' At least that's 
+what I think she said, because her baby, Emma, was cooing into the 
+phone receiver and on my end of the line, my baby was rhythmically 
+hitting my leg with an unplugged surge protector. ``The only problem 
+is I don't know which online provider to use,'' Ms. DeGennaro shouted. 
+``I figured you would be able to recommend one.'' One would think 
+so, especially since I have no fewer than four online accounts, none 
+of which I am willing to give up. I keep multiple accounts because 
+my greatest fear is that at any moment, a system outage will block 
+my access to e-mail. I have even gone so far as to rummage in my husband's 
+desk to find a password to enable me to set up one of his online accounts 
+on my computer, as a backup to the backup's backup. But since I doubted 
+that Ms. DeGennaro shared that little anxiety (and since my baby was 
+now trying to eat the surge protector), I reflexively gave her the 
+same advice I've been dispensing for years: ``You'll be better off 
+with a small local provider. Try Panix _ it's the oldest online provider 
+in the New York area.'' Almost as soon as I hung up the phone, however, 
+I started to doubt my own advice. The conventional wisdom that called 
+for hooking up with a small local provider might have been sound a 
+few years back, when there were far fewer choices and the process 
+of configuring equipment was complicated enough to require hours of 
+hand-holding from sympathetic technical support workers. But in an 
+atmosphere where thousands of online providers, both local and nationwide, 
+compete aggressively for new customers, choosing one has become trickier. 
+I got a firsthand lesson in just how tricky when I went on line to 
+compare features touted on the Web pages of a handful of providers. 
+Each one offered different levels of service, technical support and 
+prices _ and none seemed to have it all. For instance, Echo oozed 
+a sense of online community but offered local dial-up service only 
+in the 212 area code. Mindspring had an excellent graphical interface, 
+a toll-free number for 24-hour tech support and a competitive price 
+of $19.95 a month, but it seemed too generic for a first-time user. 
+GST Whole Earth Networks is reliable and rarely serves up a busy signal, 
+but a phone call to the tech support staff, on the West Coast, is 
+a toll call. And Panix was expensive: $32.50 a month. America Online 
+came the closest to supplying all the items on my wish list. But when 
+I called Ms. DeGennaro to describe the service, she said she would 
+be put off by the cloying user interface, the relentless advertisements 
+and AOL's annoying habit of disconnecting idle users. Thoroughly confused, 
+I phoned Ruth Chatterton, a consultant for Telechoice, a telecommunications 
+consultancy that recently surveyed 1,550 readers of Interactive Week 
+for PC Week magazine to ask about the quality of their online providers. 
+After I explained the situation, Ms. Chatterton said, ``Hmm, you found 
+out that there is no easy answer.'' That's because all Internet access 
+is not created equal: phone lines have quirks, modems can be configured 
+differently and connection speeds vary. ``If you have the same online 
+provider as your friend, and she lives down the street from you and 
+dials into a different phone number, she could have an entirely different 
+service from you,'' Ms. Chatterton cautioned. That said, the survey's 
+respondents said the best online providers _ based on reliability, 
+quality of technical support and price _ were AT&AMP;T Worldnet, GTE 
+Internetworking, MCI Communications, Sprint Communications and UUnet 
+Technologies. But the truth is that choosing a first online provider 
+is as personal a decision as buying your first car. After hours of 
+sorting through the fine print of service agreements, options and 
+price, you might find yourself driving off the car lot in a convertible 
+just because it's red. That's fine, as long as you consider these 
+things first: _ Performance. Ask friends if they are happy with their 
+providers. When you dial, you should connect on the first or second 
+try. Repeated busy signals mean that a provider doesn't have enough 
+phone lines to handle customers' needs. Once connected, you should 
+stay connected. ``Some providers can disconnect you after as little 
+as five minutes of inactivity,'' Ms. Chatterton warned. ``They don't 
+always advertise that feature.'' _ Services. Ask about such features 
+as free storage space for personal Web pages, toll-free dial-up numbers 
+when you travel, the availability of an old-fashioned shell account 
+with a Unix command-line interface, to enable you to telnet in from 
+any computer and technical support. The first time that a software 
+upgrade makes it impossible to check e-mail, you'll be thankful if 
+your provider has a 24-hour, toll-free number. _ Price. Monthly costs 
+can range from $7.95 to $35, depending on how much time you will be 
+on line. A rule of thumb: plenty of nationwide carriers like Mindspring 
+and Earthlink offer good value for less than $20 a month. After I 
+phoned Ms. DeGennaro to report, she said she still did not know which 
+provider to choose and there was no real hurry because she just found 
+out that the guy who was supposed to finish the room renovation was 
+too busy. So I gave her a final piece of advice: go over to a friend's 
+house to take a test drive before deciding. Before she gets here with 
+Emma, I will put the surge protector on a high shelf. 
+</TEXT>
+</DOC>

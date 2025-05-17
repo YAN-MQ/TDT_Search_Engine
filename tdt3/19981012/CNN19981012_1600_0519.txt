@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> CNN19981012.1600.0519 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "Headline News weather" begins with our forecast 
+weather map for Tuesday morning. It's been quite dry through much 
+of the nation, and dry weather generally will continue. Although, 
+some rainfall -- significant rainfall -- will accompany a cold front 
+moving in through the northwestern corner of the United States. Look 
+for some rainfall in the northern Great Lakes area and perhaps a bit 
+of snowfall, too. Now, as we put this map in motion, you can see the 
+cold front in the east moving rather slowly, but the cold front coming 
+in through the northwest moves rapidly down through the far west and 
+into the Rockies, yet much of the rainfall associated with it remains 
+in the northwestern corner of the United States. Some places in the 
+southwest could see a shower or two. We do have some cool weather 
+on the map. As you can see, daytime highs only in the 40s in the upper 
+midwest and Great Lakes area for Tuesday. Meanwhile, for the south, 
+temperatures are still quite warm. In your extended forecast on Wednesday, 
+rain showers cover parts of the north, cool temperatures still in 
+place. We jump ahead to Thursday, and you can see rainfall still in 
+the northwest and still quite cool in that part of the country. And 
+by week's end, we're looking at rainfall covering much of the plains 
+states, northern plains states might see some snowfall mixed in with 
+it. For more weather information, log on to CNN.com, four-day forecasts 
+for 6,100 cities. 
+</TEXT>
+</DOC>

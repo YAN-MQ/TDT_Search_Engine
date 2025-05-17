@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981203.2130.0285 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Just minutes before space shuttle "endeavour" was scheduled to lift 
+off this morning, an alarm sounded. It kept launch controllers at 
+Kennedy space center in Florida busy long enough to ground the shuttle 
+for the day. "Endeavour" missed the launch window by just a few seconds. 
+The crew is scheduled to hook up the second part of the international 
+space station. NASA will try to launch "endeavour" again tomorrow 
+morning. Launch controllers have determined the alarm went off after 
+a momentary dip in hydraulic pressure. 
+</TEXT>
+</DOC>

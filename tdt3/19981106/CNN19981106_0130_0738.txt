@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981106.0130.0738 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Cancer patients will soon have a powerful new way to fight severe 
+pain. The FDA has approved a raspberry-flavored narcotic Lollipop. 
+"Actiq" contains a painkiller that can seep into the bloodstream faster 
+than any pill. It will be available in March. 
+</TEXT>
+</DOC>

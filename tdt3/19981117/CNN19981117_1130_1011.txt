@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981117.1130.1011 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Shares of Daimler-Chrysler are losing 1 1/2. Today is the first day 
+of trading for the new company formed by the merger of Chrysler and 
+Germany's Daimler-Benz, maker of Mercedes Benz. News reports say the 
+newest auto giant will build a beefier full-size pickup truck to compete 
+against the like of Ford's F-series super duty line. And Daimler-Chrysler 
+is reportedly also eyeing the Asian market with a Low-priced four-door 
+sedan. The price tag, about $7,000. No word on when these vehicles 
+would roll off assembly lines. 
+</TEXT>
+</DOC>

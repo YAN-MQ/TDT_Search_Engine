@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981130.1130.1039 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+GE capital, the finance arm of General Electric, is in talks to buy. 
+News reports GE capital could acquire the firm. Japan leasing declared 
+bankruptcy in September with debts of more than $16 million. It was 
+Japan's biggest corporate collapse since the end of world war II. 
+</TEXT>
+</DOC>

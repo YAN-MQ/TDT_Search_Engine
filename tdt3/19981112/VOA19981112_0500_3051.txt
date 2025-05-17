@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981112.0500.3051 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In European markets, not a very good day so far. In Paris, the CAC40 
+is down 23 points. The DAX Index in Frankfurt down 63. The FTSI off 
+67. And the Swiss market index is down 44-1/2. The dollar is quoted 
+at 1.6838 deutsche marks and at 123.13 yen. That's in European trading. 
+</TEXT>
+</DOC>

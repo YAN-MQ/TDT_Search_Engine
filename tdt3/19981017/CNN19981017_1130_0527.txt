@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981017.1130.0527 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney from the CNN weather center with your "Headline 
+News weather update." Showers and thunderstorms will cover most of 
+Texas and the Mississippi valley, Saturday into Sunday, as a cold 
+front moves out of the plains states and into the eastern U.S. look 
+for chillier temperatures across the plains, spreading eastward as 
+we head into the work week. An area of low pressure will also move 
+across Montana and North Dakota, could bring some snow flurries to 
+the area. And by late Sunday, look for continued showers, possibly 
+with heavy rain across Texas. Temperatures in the east will range 
+from the 60s in the Great Lakes to the 80s and 90s for the gulf coast. 
+You'll see some 50s across the extreme northeast. The west will see 
+temperatures mainly in the 40s and 50s, from the U.S./Canada border, 
+southward to near flagstaff and Albuquerque. The extended forecast, 
+continued scattered showers and thunderstorms along the gulf coast, 
+with strong thunderstorm possibilities in the Great Lakes. That changes 
+to a mix of rain and snow on Tuesday, as cooler air moves in from 
+Canada and settles over the eastern U.S. look for scattered thunderstorms 
+along the gulf coast. The forecast for more than 6,000 cities is at 
+CNN.com. 
+</TEXT>
+</DOC>

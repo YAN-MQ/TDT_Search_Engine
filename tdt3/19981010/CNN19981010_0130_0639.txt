@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> CNN19981010.0130.0639 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Law enforcement officials now have a new weapon in their arsenal, 
+the roving wiretap. Susan Candiotti has more on this controversial 
+development. Wiretaps on suspected criminals such as John Gotti helped 
+gather evidence that can put people away for life. You tell this punk, 
+that me, John Gotti, is gonna sever your head off. Roving wiretaps 
+allow law enforcers to listen to any phone a suspect might use, not 
+just a specific phone. In 1997, judges approved only 12 roving wiretaps. 
+A law passed Friday is expected to make it much easier to get the 
+court's permission to use roving wiretaps. It's gonna make a big difference 
+in the ability of the FBI in future years to be able to catch criminals 
+and terrorists in particular and prevent terrorism from taking place. 
+Critics say the new roving wiretap rules are like giving authorities 
+permission to search every home a suspect might walk into. It really 
+chews away at personal privacy like no other investigative technique. 
+Now, this is the room where you have a little bit of everything. At 
+quark international, which sells surveillance equipment to both cops 
+and private citizens, we were shown how simple it can be to thwart 
+a wiretap, even under the new law. Push a button and the sound is 
+scrambled. You'll hear what you're gonna hear and you certainly cannot 
+recognize what we're saying. Someone can tap into this conversation 
+but they won't be able to understand what we're saying. Exactly. Listen 
+to the result. This and other new communication tools are pushing 
+the FBI to find ways to stay ahead of lawbreakers. Authorities insist 
+roving wiretaps will make it easier to catch criminals. Critics argue 
+the new law has created something else -- a newly expanded no privacy 
+zone. Susan Candiotti, CNN, New York. 
+</TEXT>
+</DOC>

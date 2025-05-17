@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981208.2130.0510 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Authorities in Oregon say a Greyhound bus crashed through a guardrail 
+today after the driver had a heart attack and died. Trees kept the 
+bus from falling down into the ocean below. None of the 11 passengers 
+were seriously hurt. 
+</TEXT>
+</DOC>

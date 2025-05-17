@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981117.1130.1102 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street -- the Dow is down 53 points. The NASDAQ composite 
+is losing 14. 
+</TEXT>
+</DOC>

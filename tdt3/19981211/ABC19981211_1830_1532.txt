@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981211.1830.1532 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The space agency is G back to Mars. ( NASA launched a rocket from 
+cape Canaveral today carrying the first of two spacecraft going to 
+the red planet. This is what earth looked like from the rocket. The 
+Orbiter will track the movement of water vapor and dust in the Martian 
+atmosphere. We'll be back with our top story in just a moment. 
+</TEXT>
+</DOC>

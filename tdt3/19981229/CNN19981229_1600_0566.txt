@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981229.1600.0566 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+China is suspending flyover privileges to balloons. The decision comes 
+after a team of balloonists drifted off course and over chinese airspace. 
+Millionaire Steve Fossett, British tycoon Richard Branson and per 
+lindstrand from Sweden were given approval to cross the nation below 
+26 degrees north latitude. But the international team ended up further 
+north and only through diplomatic appeals were they allowed to continue. 
+A team of one Australian and two Americans will be the next to attempt 
+an around-the-world balloon flight. They've been delayed by bad weather, 
+and now expect to take off on new year's day. 
+</TEXT>
+</DOC>

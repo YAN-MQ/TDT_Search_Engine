@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981115.1130.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And scientists warn some satellites could be damaged when the earth 
+passes through a meteor shower Tuesday. 
+</TEXT>
+</DOC>

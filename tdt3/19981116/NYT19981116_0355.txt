@@ -1,0 +1,106 @@
+<DOC>
+<DOCNO> NYT19981116.0355 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Bill Gates, the chairman of Microsoft Corp., stubbornly debated the 
+meaning of words like ``we'' and ``concern'' during an hour of his 
+videotaped deposition shown in court Monday. Even ``market share'' 
+seemed a curiously alien term to a man whose company owns just about 
+all of the market in major product categories of the personal-computer 
+software business. Most significant for the antitrust case against 
+his company, Gates said that he did not recall what he was thinking 
+or what he meant when he wrote in a January 1996 e-mail to top aides, 
+``Winning Internet browser market share is a very, very important 
+goal for us.'' The government used the Gates tape _ the third excerpt 
+from his deposition shown in the Microsoft trial _ to attack Microsoft's 
+defense that it decided to fold Internet browsing software into its 
+Windows operating system to improve its centerpiece product, Windows. 
+Its main rival in the browser market, Netscape Communications Corp., 
+may have been harmed, Microsoft argues, but its actions were guided 
+mainly by its desire to improve its product and to benefit consumers. 
+The Justice Department and 20 states suing Microsoft contend instead 
+that the decision was an illegal scheme to use Microsoft's monopoly 
+in operating systems to increase its share of the browser market, 
+and to stifle competition. Microsoft said Monday that the government's 
+tactic of repeatedly showing portions of the taped deposition is turning 
+the trial into a ``sideshow'' _ a personal attack on Gates, the nation's 
+richest person. But the government argues that the Gates tapes provide 
+important context for its case by showing what Gates, the central 
+actor at Microsoft, did and what he said about it. The deposition 
+excerpts, culled from more than 20 hours of tape, have been selected 
+by the government, though some questions and answers Microsoft wanted 
+to show have been included. The government insists that Microsoft's 
+defense is an exercise in revisionist history. When presented with 
+internal company e-mail and documents from a couple of years ago, 
+the prosecutors say, Gates' evasive performance at his deposition 
+shows the weakness of Microsoft's defenses. ``What we saw today shows 
+that Microsoft was quite concerned about Netscape in early 1996, and 
+that Microsoft was not merely trying to improve its product,'' said 
+David Boies, the Justice Department's lead trial lawyer. Gates has 
+a reputation as a brilliant, hands-on executive whose fingerprints 
+are on every major decision made at Microsoft. Yet his deposition 
+performance is so at odds with that reputation, professing to be forgetful 
+and only vaguely aware of key decisions in the browser market, that 
+it does seem to cast doubt on his credibility. But Microsoft's legal 
+advisers say that in his deposition, Gates was merely taking a characteristically 
+competitive and combative approach to what deposition witnesses are 
+supposed to do _ to try to narrow the questions asked, fence with 
+interrogators and avoid broad or responsive answers. ``A lot of time-consuming 
+jousting goes on in depositions,'' said Joseph diGenova, a former 
+U.S. attorney who is a Microsoft legal consultant. ``A deposition 
+is fundamentally an ugly thing.'' Still, Gates' determined resistance 
+to the questions asked by Boies at his deposition apparently struck 
+even legal veterans as unusual. Judge Thomas Penfield Jackson chortled 
+and shook his head at some of Gates' replies. Microsoft's lawyers 
+laughed a few times. Even Gates flashed a tight smile, once or twice, 
+as he seemed to be enjoying the give-and-take when he felt confident 
+he was giving nothing. Gates paused before answering questions for 
+even longer periods, up to 30 seconds or so, than he had in the earlier 
+excerpts shown. At times, he played a waiting game with his interrogator. 
+At one point, Boies asked, ``Do you understand the question, Mr. Gates?'' 
+``I'm pausing to see if I can understand it,'' Gates replied. At another 
+point, Boies said he would ask another question, since Gates did not 
+have an answer to his previous question. ``I have an answer,'' Gates 
+replied quickly. ``The answer is I don't remember.'' Later, Gates 
+was asked about his e-mail on Jan. 5, 1996, in which he wrote that 
+increasing browser market share was a ``very, very important goal 
+for us.'' Boies asked, ``So you don't remember what you were thinking 
+when you wrote it and you don't remember what you meant when you wrote 
+it; is that fair?'' Leaning forward and grinning, Gates replied, ``As 
+well as not remember writing it.'' The verbal fencing over terms like 
+``market share'' relates to the antitrust case because the government 
+is trying to demonstrate that regardless of Microsoft's courtroom 
+arguments, the company regarded its Internet Explorer browser as a 
+separate product, marketed separately and measured separately. Microsoft 
+says that Internet Explorer is a ``feature'' of its Windows operating 
+system, and not a separate product. Indeed, a U.S. appeals court ruling 
+in a related case agreed that Microsoft should be free to determine 
+what software is included in its operating system as long as there 
+is some consumer benefit from the integration. After the Gates deposition, 
+the government's fifth witness, Glenn Weadock, a computer consultant, 
+took the stand to be cross-examined by a Microsoft lawyer, Richard 
+Pepperman. Weadock's testimony, submitted in written form last Friday, 
+is that many companies, like Boeing, find Microsoft's practice of 
+tightly folding its browser into Windows to be a costly inconvenience. 
+This is especially true, he testified, if corporate customers want 
+to use the Netscape browser with Windows, since Microsoft's browser 
+software is deeply embedded into recent versions of Windows. Under 
+questioning, though, he did say that there is plenty of debate within 
+the industry about what should and should not be in an operating system. 
+Weadock also said some companies undoubtedly find having the browser 
+integrated into the operating system to be an advantage. The issue, 
+he said, was whether consumers had a choice. ``Nowhere in my testimony,'' 
+Weadock said, ``did I say there are no companies that find the integration 
+of Internet Explorer appealing. But there are those who don't, and 
+they can't get rid of it.'' In court on Monday, the government also 
+introduced many new documents into evidence. For example, one internal 
+e-mail from Gateway Inc., a large personal-computer maker, described 
+a conversation with a Microsoft executive in February 1997, suggesting 
+that Microsoft used its market muscle to force PC makers to adopt 
+Internet Explorer. The Microsoft representative, according to the 
+Gateway executive, mentioned Microsoft marketing and sales campaigns 
+to promote Gateway machines, but ``they won't do it if they see Gateway 
+is anything but pro-Microsoft'' on the browser. 
+</TEXT>
+</DOC>

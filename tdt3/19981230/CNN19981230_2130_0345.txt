@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981230.2130.0345 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Most states apparently have met the first welfare to work goal under 
+the 1996 federal law. The Clinton administration says 36 states and 
+the district of Columbia meet the requirement of getti 25% of participating 
+families to work. One state is still compiling data, and the others 
+were not required to meet the goal at this time. The department of 
+health and human services also says new census bureau figures show 
+1.5 million parents who received welfare in 1997 were working in March 
+of this year. 
+</TEXT>
+</DOC>

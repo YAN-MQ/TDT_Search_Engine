@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981125.1600.3003 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The government says sales of existing homes in the United States rose 
+last month and are expected to hit a record level by the end of the 
+year. Low unemployment and low mortgage interest rates are credited 
+for the housing boom. Once again, the Dow Jones Industrial Average 
+closed up 13 points. This is Breck Ardery. Thank you, Breck. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981226.1000.1034 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For some gas station owners, the word from Washington was, shut down. 
+Stations had ten years' notice to replace or upgrade underground tanks. 
+As of this week's deadlines, some 20,000 failed to do so. Many have 
+to close until their tanks conform to EPA regulations designed to 
+prevent spills and leaks that could poison groundwater. That's "business 
+this week," Kurt kasting, "CNN Headline News." 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981010.0130.0046 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"Headline News," I'm David Goodnow. The federal government will remain 
+open at least through Monday midnight. President Clinton has signed 
+an emergency temporary spending measure which prevents the government 
+from shutting down for lack of money. Congress will work through the 
+weekend in hopes of finishing the budget. The nation's spending authorization 
+was supposed to be set by October 1st. But of the 13 appropriation 
+bills needed to keep the government running, only five have been approved 
+so far. Democrats say republicans are ignoring domestic spending needs. 
+Republicans say President Clinton wants too spend too much. 
+</TEXT>
+</DOC>

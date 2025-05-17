@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981030.1600.1086 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In an interesting twist, people who E-mailed a securities regulatory 
+group to report cases of unsolicited messages known as "spam" were 
+then "spammed" themselves earlier this month. The north American securities 
+administration association set up an E-mail address for reporting 
+Internet securities fraud. Since then, individuals have reported nearly 
+1,000 cases of fraud much of which was solicited by spamming. But 
+to their dismay, they were then bombarded with multiple thank-you's 
+which were a result of a computer glitch. The regulatory group has 
+since fixed the problem. 
+</TEXT>
+</DOC>

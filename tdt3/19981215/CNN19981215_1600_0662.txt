@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981215.1600.0662 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Burlington coat factory is recalling hundreds of winter parkas from 
+its stores after discovering the parkas were trimmed with dog fur 
+from China. The New Jersey-based chain operates 250 stores nationwide. 
+It says it was duped by an Asian vendor who said the fur was coyote. 
+An investigator from the humane society discovered the fur was from 
+dogs during a trip to China to investigate the fur trade. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981124.0130.1347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's table tennis. Not ping pong, but table tennis from Yugoslavia. 
+World number one Vladimir samsonov in the near court, georgon person 
+in the far. Person, on the defensive, makes a nice shot, but samsonov 
+finally puts him away for "play of the day." 
+</TEXT>
+</DOC>

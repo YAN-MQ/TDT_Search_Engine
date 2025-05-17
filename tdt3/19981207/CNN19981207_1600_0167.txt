@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981207.1600.0167 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is proposing a crackdown on waste and abuse in the 
+Medicare system. At a White House ceremony today, the president unveiled 
+a plan, he says, could save the government $2 billion in health payments. 
+It includes an attack on drug overpricing. According to the president, 
+Medicare pays as much as ten times more than the private sector for 
+certain prescription drugs. And he says that's "just wrong." We are 
+using new authority we fought for to create new weapons in the fight 
+against fraud. Beginning this spring, we will empower new specialized 
+contractors, Medicare fraud hunters, who will focus on waste, fraud, 
+and abuse. These new fraud hunters, by tracking down scams and waste, 
+can bring real savings to Medicare and strengthen the system for the 
+21st century. President Clinton's plan would eliminate markups on 
+drug reimbursements, stop providers from charging for undelivered 
+care, and require notification when private insurers pay for treatments. 
+</TEXT>
+</DOC>

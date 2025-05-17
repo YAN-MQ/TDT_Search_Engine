@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981212.0130.0487 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Our extended weather forecast is next. And later -- what Americans 
+think about the international space station. 
+</TEXT>
+</DOC>

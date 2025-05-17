@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981121.1000.1430 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Almost 40 years ago, an Alfred hitchcock film called "psycho" turned 
+showering into a terrifying experience. Judging from the reaction 
+in Boston, it may do so again. The Massachusetts bay transportation 
+authority, which runs the city's subway system, is removing posters 
+promoting a remake of the movie after more than a dozen patrons complained 
+they were too graphic. The posters show a woman behind a shower door, 
+standing in a pool of blood. 
+</TEXT>
+</DOC>

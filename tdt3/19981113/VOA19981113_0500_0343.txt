@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981113.0500.0343 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm David Chadwick, VOA News. I'm Les Carpenter with Charlene Porter, 
+bringing you VOA News Now from Washington. 
+</TEXT>
+</DOC>

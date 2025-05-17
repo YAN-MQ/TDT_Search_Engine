@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981013.2130.0547 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New research indicates girls may be closing the gap with boys in math 
+and science. The American association of University women issued a 
+report today that shows girls are taking more courses in those fields 
+and enrolling in more advanced placement courses in English, biology, 
+and languages. But the organization warns girls are lagging in computer 
+skills. It says many girls are taking computer classes that don't 
+teach as many skills as the ones chosen by boys. 
+</TEXT>
+</DOC>

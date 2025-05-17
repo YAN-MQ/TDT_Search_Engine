@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> VOA19981109.0500.2631 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+At 4 hours 44 universal time, you're listening to VOA News Now. 
+</TEXT>
+</DOC>

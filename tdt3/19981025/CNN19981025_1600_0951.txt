@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981025.1600.0951 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Louisiana state police say six people died in a natural gas explosion 
+just 45 miles east of Shreveport. Authorities say the gas well is 
+still burning, and the fire could last for several days. 
+</TEXT>
+</DOC>

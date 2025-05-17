@@ -1,0 +1,67 @@
+<DOC>
+<DOCNO> NYT19981023.0067 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A little knowledge is a dangerous thing, particularly in the way that 
+investment advisers have co-opted the term ``contrarian analysis'' 
+without really understanding it. As originally used a half-century 
+ago, the term referred to a discipline of independent thinking that 
+resisted Wall Street's latest fads and fashions. It is just such independent 
+thinking that has helped investors resist, say, becoming fully invested 
+at market tops and going to cash at bottoms. But most advisers who 
+say they are contrarians today bear little resemblance to the originals. 
+Reflexively, they do the opposite of what they perceive to be the 
+majority belief, thus overlooking the possibility that the majority 
+might be right. Contrarian analysis has become what it was intended 
+to overcome: a fad. Adviser after adviser claims that he is alone 
+in his analysis, and is thus correct, according to today's peculiar 
+contrarian logic. What doesn't occur to such knee-jerk contrarians 
+is that they don't have even remotely similar forecasts. So they can't 
+all be right. The father of contrarian analysis, as far as I can tell, 
+is a Vermonter named Humphrey Neill, who, beginning in the late 1940s, 
+published the Neill Letters of Contrary Opinion. Neill would strenuously 
+disagree with today's contrarians when they assume that the majority 
+is always wrong. As Neill argued, though the majority ``is wrong at 
+the terminals of trends,'' it ``is right, on the average, during the 
+trends.'' Furthermore, because the market spends more time during 
+a trend than at turning points, it follows that the majority is correct 
+more of the time than not. My research into the average recommended 
+equity exposure among investment newsletter editors confirms that 
+Neill was right. The peak of their bullishness came in early 1985, 
+when the Dow Jones industrial average was around 1,250 and their recommended 
+equity exposure was 83 percent. To be sure, many advisers were burned 
+by the 1987 crash. But that was nearly three years and 1,500 points 
+later. Knee-jerk contrarians, who were in cash in 1985, missed out 
+on one of history's great bull-market runs. The majority of investment 
+newsletters are more bearish today than they've been in years. I calculate 
+that from a peak of around 70 percent in July, the average recommended 
+equity exposure has dropped to as low as 14 percent. Knee-jerk contrarians 
+insist that this is a positive sign. Maybe it is. But the bearishness 
+may also be presaging a deeper decline. So what good is Neill's approach 
+as a short-term market-timing tool? Not much. But Neill never claimed 
+it was. And he went out of his way to tell readers as much. Investors 
+may pay a high price for ignoring that. Consider Contrarian's View, 
+a newsletter that in recent years has been bearish. I calculate that 
+since the beginning of 1991, its model portfolios have produced an 
+annualized return of just 3.4 percent, versus 17.2 percent for the 
+Wilshire 5000, a broad market index. An even higher price has been 
+paid by adherents to the Natural Contrarian, which has bet heavily 
+on gold-mining companies. I calculate that since the beginning of 
+last year, a portfolio of its most recommended stocks has lost more 
+than 50 percent on an annualized basis. This doesn't mean you should 
+always invest with the majority. That strategy won't always work either, 
+since there are other periods _ particularly when the market changes 
+course _ when contrarian approaches will succeed. Furthermore, some 
+contrarian approaches actually beat the market over the long term. 
+Consider Investors Intelligence, a newsletter that uses contrarian 
+analysis to time the market. Though it has lagged behind the market 
+since I began tracking it in 1985 _ returning 13.4 percent a year, 
+on average, versus 16 percent for the Wilshire 5000 _ it did so with 
+less than half the risk _ a winning combination. The lesson from all 
+this? There is no substitute for independent thinking. Remember too, 
+the modesty of Neill's claims for his approach: ``It is plainly nothing 
+more than developing the habit of doing what every textbook on learning 
+advises, namely, to look at both sides of all questions.'' 
+</TEXT>
+</DOC>

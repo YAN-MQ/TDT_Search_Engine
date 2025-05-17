@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981105.2130.0959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And what used to be hurricane Mitch has passed over south Florida 
+and moved out to sea. All storm warnings for Mitch have been dropped. 
+</TEXT>
+</DOC>

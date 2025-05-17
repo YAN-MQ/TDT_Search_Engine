@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981023.1130.1325 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A bad back has forced the world's number one tennis player to pull 
+out of the Lyon grand prix tournament in France. Pete Sampras says 
+his back began bothering him yesterday during his win over Todd Woodbridge. 
+The spasms got worse this morning, causing him to withdraw. 
+</TEXT>
+</DOC>

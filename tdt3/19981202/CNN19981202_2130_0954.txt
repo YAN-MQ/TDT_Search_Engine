@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981202.2130.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street suffered more losses today. The Dow Jones industrial average 
+briefly retreated below 9000, down as much as 178 points, before making 
+up some lost ground. The Dow ended down 69 points to close at 9064. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981010.1130.0584 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Doctors say New York Yankees slugger Darryl Strawberry's chances for 
+survival are better than good. They found a malignancy in one of Strawberry's 
+lymph nodes after he underwent colon cancer surgery last week. So 
+far, there's no evidence the cancer spread beyond the lymph node. 
+Doctors say it's possible Strawberry could play ball next season, 
+but they aren't offering any guarantees. 
+</TEXT>
+</DOC>

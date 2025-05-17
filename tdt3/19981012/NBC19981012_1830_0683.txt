@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981012.1830.0683 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street took a cue from overseas markets, which had an up day 
+today, and that was good for the Dow, which gained nearly 102 points 
+to close back above the 8000 Mark. The NASDAQ also rallied, up nearly 
+54 points. 
+</TEXT>
+</DOC>

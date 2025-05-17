@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981101.1600.1357 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For the second time in his career, Richard Krajicek won the eurocard 
+open. The Dutchman stopping Yevgeny kafelnkov in straight sets, 6-4, 
+6-3, 6-3. 
+</TEXT>
+</DOC>

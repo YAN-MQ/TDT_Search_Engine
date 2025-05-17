@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981123.2130.0951 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And a parent's organization has released its third annual list of 
+toys it considers to be violent. "The lion and lamb" project highlights 
+products with graphic portrayals of blood, or which encouraged children 
+to simulate violence. 
+</TEXT>
+</DOC>

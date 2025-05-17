@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981105.0130.1358 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In NFL news, the Buffalo bills named Flutie their starter for the 
+remainder of the season. Duane Walker, "CNN Headline Sports." 
+</TEXT>
+</DOC>

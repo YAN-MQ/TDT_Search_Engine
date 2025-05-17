@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0259 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new study suggests that Alzheimer's disease may have an infectious 
+basis. Researchers examined brain tissues of Alzheimer's patients 
+after they died and found a bacterium had invaded brain cells in regions 
+where Alzheimer's damage can be detected. The study's authors say 
+they don't know if the bacterium helps cause alzheimer's or if it's 
+a risk factor for the disease. 
+</TEXT>
+</DOC>

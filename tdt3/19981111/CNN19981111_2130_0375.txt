@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981111.2130.0375 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In the northern plains, people are dealing with leftovers from the 
+first snowstorm of the season. In South Dakota, interstate 90 and 
+interstate 29 were reopened early this morning. But the highway patrol 
+is urging people to use caution because roads still may be icy. In 
+Wisconsin, utility crews are working to restore power to thousands 
+of customers. Winds that gusted in the 60-mile-an-hour to 70-mile-an-hour 
+range in many areas gradually diminished today. 
+</TEXT>
+</DOC>

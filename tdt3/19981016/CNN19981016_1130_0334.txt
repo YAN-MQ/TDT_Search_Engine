@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981016.1130.0334 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is traveling to Chicago today to help the re-election 
+campaign of Illinois senator Carol Moseley-Braun. She's trailing GOP 
+challenger Peter Fitzgerald in the polls. Mr. Clinton will return 
+to Washington later today. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981022.1600.1339 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Tennessee Oilers got some bad news today, the team losing two-time 
+pro bowl receiver yancey thigpen for about four weeks. He has a hyperextended 
+left knee that will need arthroscopic surgery. Thigpen picked up the 
+injury while running a pass pattern in practice wednesday. 
+</TEXT>
+</DOC>

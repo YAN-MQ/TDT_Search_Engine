@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> NYT19981202.0257 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Q. What is xDSL technology and is it available in New York? A. The 
+term xDSL refers to several types of digital subscriber lines that 
+speed up a user's connection to the Internet. While conventional modem 
+speeds are topping out around 56 kilobits per second, the new technology 
+offers significantly faster speeds. One of the most popular members 
+of the xDSL family is ADSL (for asymmetric digital subscriber line), 
+which promises speeds of up to 8 megabits (8 million bits) per second 
+for data coming to the user; most users will probably see speeds of 
+1 to 4 megabits per second. Uploads can attain speeds up to 1 megabit 
+per second. ADSL is aimed at users who need to download a lot of information 
+in a hurry, like Web pages or digital video, but don't have to upload, 
+or send, a lot of material. ADSL is not universally available yet. 
+Unlike cable modems, which offer fast connection speeds over a shared 
+line, ADSL uses special digital coding to get more speed out of a 
+single phone line. It also allows you to use a single telephone line 
+for both an Internet connection and for regular phone or fax needs 
+simultaneously. An excellent Web site devoted to ADSL, www.adsl.com, 
+contains a table that shows what parts of the country have access 
+to ADSL service (yes, it is available in parts of New York). (italics)Circuits 
+invites questions about computer-based technology, by postal mail 
+to Questions, Circuits, The New York Times, 229 West 43rd Street, 
+New York, N.Y. 10036-3959 or by e-mail to QandA(AT)nytimes.com.(end 
+italics) 
+</TEXT>
+</DOC>

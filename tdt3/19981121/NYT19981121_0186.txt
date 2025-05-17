@@ -1,0 +1,262 @@
+<DOC>
+<DOCNO> NYT19981121.0186 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For many homeowners, the strategy for planning a home renovation project 
+is like the one used when planning a visit to the dentist: Fix whatever's 
+broken, please, and leave everything else alone. There is an argument 
+to be made, however, that home renovation should be less like dentistry 
+and more like holistic medicine, where a tweak here prevents a twinge 
+there and a bit of prevention could head off major problems later. 
+In fact, construction specialists say, almost any renovation project 
+presents opportunities for homeowners not only to address short-term 
+problems or improvements but to realize the long-term benefits of 
+making homes safer, more energy-efficient and less susceptible to 
+the ravages of time and the environment. ``For many architects today, 
+saving energy is the primary focus,'' said Chris Benedict, a Manhattan 
+architect who specializes in energy-efficient design and renovation. 
+``And we're finding that by making energy efficiency our focus, we 
+can't help but end up with healthier, more durable housing.'' Specialists 
+like Ms. Benedict operate from the premise that a house is more than 
+a lifeless collection of wood, plaster, pipes, vents and wires. Houses 
+breathe, they say, inhaling at one place and exhaling at another. 
+Houses have circulatory systems, too _ heating, plumbing, ventilation 
+and electrical circuits _ all of which operate either efficiently 
+or erratically by delivering more or less of whatever is needed to 
+wherever it is needed at the time. And houses can be healthy or they 
+can be sick, such as when moisture, warmth and airborne spores converge 
+to form hidden colonies of mold and mildew; or when a breath taken 
+by the attic draws harmful carbon monoxide from the basement. ``A 
+house must be thought of as a system,'' Ms. Benedict said. ``And the 
+system must be thoughtfully designed.'' Since many existing houses 
+were built before architects and designers fully realized the extent 
+to which individual building elements affect one another, however, 
+most homes can benefit from some retrospectively applied thoughtful 
+design. ``Just about every remodeling project presents a unique opportunity 
+to make your house more efficient, more comfortable and more personally 
+suited to you,'' said Alan Meier, executive editor of Home Energy 
+magazine and a staff scientist at the Lawrence Berkeley National Laboratory 
+in Berkeley, Calif. ``And no matter what kind of change you make, 
+there is a good chance it will affect how the house functions as a 
+system.'' Building an addition to a house, for example, would obviously 
+affect the way heat in the house is distributed, Meier said. But so 
+would removing an existing wall to make one large room out of two 
+smaller ones. ``And it's not just heat you have to think about,'' 
+he said. ``You have to think in terms of all five senses.'' Removing 
+a wall between a kitchen and a dining room _ a relatively common renovation 
+project in older homes today _ will not only alter the way heat circulates 
+through the house, but is also likely to introduce new sounds and 
+smells into the living space, Meier said. ``You don't want whatever's 
+being cooked in the kitchen to permeate the entire living area,'' 
+he said. ``So you need to make sure you've got the proper ventilation.'' 
+Installing proper ventilation, however, is only half the battle; residents 
+have to turn it on for it to be of any use. ``Most range hoods are 
+too noisy,'' Meier said. ``So people don't use them as much as they 
+should.'' One solution, he said, is to install one of the newer, quieter, 
+energy-efficient ventilation fans. Another is to install a remote-mounted 
+fan in an area other than the kitchen (such as in a crawl space _ 
+provided the fan is vented to the exterior of the building) and connect 
+the fan to the range hood with a 6- or 8-inch duct. Of course, any 
+time you have air being pulled out of a house by a ventilation system, 
+you have the same amount of air being pulled in. ``You start with 
+a fixed volume of air,'' said David Johnston, president of What's 
+Working, a construction-industry consulting firm in Boulder, Colo. 
+``Now, you turn on your kitchen fan, or your bathroom fan, or even 
+your clothes dryer, and what you're doing is creating negative pressure. 
+The next thing you know, you're sucking air through every crack in 
+the house to make up the difference.'' Johnston said that with leaky 
+houses, sucking in the necessary air is fairly easy. But easy isn't 
+necessarily good. In the winter, for example, the air getting sucked 
+in is usually cold. That results in drafts, uneven heating and high 
+energy bills. And since cold air holds less moisture than warm air, 
+outside air that enters a house in winter usually ends up lowering 
+the relative humidity inside, making the air dry and the occupants 
+uncomfortable. In fact, Johnson said, in leaky houses, cold outside 
+air can be pulled into the house even when there aren't any ventilation 
+fans doing the pulling. That results from what is known as the ``stack 
+effect,'' in which warm air inside the house rises through cracks 
+and holes in floors and walls to the attic while pulling air from 
+lower parts of the house behind it. ``One place people usually don't 
+suspect is where the pipes come up from the basement to the upper 
+stories,'' Johnston said, adding that since pipes coming through walls 
+often have decorative circular plates that hide the holes around them, 
+many homeowners erroneously believe that the holes are adequately 
+sealed. And pulling air into a house from the basement, he said, can 
+be a problem. ``You can pull all kinds of stuff out of a basement 
+and into the house,'' Johnston said, adding that sewer gas, pesticides 
+and even radon are but a few examples. Even more dangerous is the 
+possibility that improper ventilation in a house can lead to backdrafting, 
+in which carbon-monoxide exhaust from combustion appliances like furnaces 
+or gas water heaters are sucked into the living space rather than 
+going up the chimney. About a year and a half ago, the building at 
+34 Ditmars St. in Bushwick, Brooklyn, was little more than an empty, 
+crumbling shell. Today it is a showpiece for what is possible when 
+a remodeling strategy is developed using thoughtful energy-efficient 
+design. Using grant money from the Joyce Mertz Gillmore Foundation 
+and the New York City Department of Housing Preservation and Development, 
+Ms. Benedict recently rehabilitated the Ditmars Street house and 17 
+other vacant, deteriorated multifamily buildings. In each she incorporated 
+state-of-the-art energy-saving construction and design techniques 
+while keeping her budget as close as possible to the budget for an 
+ordinary renovation. ``The energy-efficiency elements of the project 
+ended up adding about 1 percent to the total cost,'' Ms. Benedict 
+said. ``And I believe that as this kind of construction becomes more 
+common, we can do even better.'' The building at 34 Ditmars St. is 
+a three-story, six-unit frame structure that was built about 100 years 
+ago. Once drafty, noisy and inefficiently heated, the building is 
+now tight, quiet and far more energy efficient than it was even when 
+it was new. Every exterior wall, Ms. Benedict said, is superinsulated 
+with densely packed, blown-in cellulose _ another name for finely 
+shredded newspapers; every electrical outlet and switch box is caulked 
+to prevent drafts from seeping in from behind the walls; every piece 
+of sheetrock is screwed and glued to the studs and sealed at both 
+floor and ceiling, creating a nearly airtight envelope around each 
+apartment; every window is insulated and double-glazed and set in 
+frames that are sealed airtight with caulk; every room has its own 
+heating element and every heating element has its own thermostat, 
+making it possible to take energy-saving advantage of the heat produced 
+by sunlight in the living room or by the stove top in the kitchen. 
+And while Ms. Benedict's rehabilitation work is on a grander scale 
+than most home-improvement projects _ the $4.3 million project involved 
+the gut-renovation of all 18 multifamily buildings _ the design and 
+construction techniques used in the project can be employed in virtually 
+any home where there is a renovation being planned and the will to 
+plan it properly. A homeowner who is planning to re-sheetrock a room 
+or two, for example, can use that opportunity to insulate any uninsulated 
+exterior walls and seal around electrical outlets and switch boxes 
+with caulk. In fact, Ms. Benedict said, any time the interior framing 
+of an exterior wall is exposed, it is a good idea to use expanding 
+urethane foam to seal any holes through which wires or pipes pass. 
+``Air is smart,'' she said. ``If there's a hole to move through, air 
+will find it.'' Homeowners replacing windows, for example, should 
+settle for nothing less than double-glazed, argon-filled windows with 
+a low-emittance _ or low-e _ coating. Argon-filled double-glazing, 
+Ms. Benedict said, has far more insulating ability than single-glazed 
+windows. And the low-e coating, she said, can regulate the amount 
+of heat from the sun entering the room, while keeping heat inside 
+the room from radiating out. Ms. Benedict said that even home-improvement 
+projects as modest as the repainting of a few rooms presents an opportunity 
+to enhance comfort and efficiency by insulating the exterior walls 
+of the rooms being repainted. That can be done without significantly 
+disturbing the interior wall surfaces, she said, by using blown-in 
+cellulose. Generally, Ms. Benedict said, cellulose insulation is injected 
+into the wall cavity through holes cut in the spaces between the studs. 
+The equipment used to blow the cellulose typically remains outside 
+the house, and the holes can be patched relatively easily after the 
+insulation is in place. One of the advantages of using densely-packed 
+cellulose, Ms. Benedict said, is that unlike fiberglass _ which insulates 
+well but does little to stop air circulation _ packed cellulose can 
+virtually eliminate air movement through the wall being insulated. 
+The cost for blown-in insulation, Ms. Benedict said, averages about 
+$1 a square foot. If superinsulating the exterior walls of a house 
+with densely packed, blown-in cellulose is not practical, it is nevertheless 
+possible to reduce unwanted air infiltration by plugging whatever 
+holes may be accessible. ``The best locations for reducing overall 
+leakage are often found at the top and bottom of the house,'' said 
+David Keefe, an energy-efficiency consultant in Fairfax, Vt. ``Leaks 
+at the top of the building, where air usually goes out, often cause 
+condensation problems. And leaks at the bottom can carry moisture, 
+radon _ or whatever else is in the soil gas _ into the house.'' A 
+common site for leaks in a house, Keefe said, is the attic floor. 
+Problem areas include the spaces around plumbing vent stacks, holes 
+for electrical conduits, chases around chimneys, gaps around ductwork 
+and the open tops of interior partitions. Accordingly, Keefe said, 
+homeowners converting an attic into living space have an ideal opportunity 
+to make important improvements that will pay significant dividends. 
+First, he said, all sources of air penetration into the living space 
+should be sealed with expanding urethane foam before installing floors 
+or walls that will make future access difficult. Next, and even more 
+important, he said, is to determine the ``thermal envelope'' of the 
+area. The thermal envelope, he said, is the insulative boundary between 
+the heated area of a house _ typically the living area _ and the unheated 
+portion. During an attic renovation project, he said, it is common 
+for homeowners to install short ``knee walls'' between the attic floor 
+and the sloped roof. If that is done, Keefe said, it is advisable 
+to include within the thermal envelope the triangular space created 
+by the knee walls outside the new living space. That is done by insulating 
+from the bottom of the roof to where it meets the knee wall and then 
+over the top of the living space and across to the other side of the 
+roof. In any case, Keefe said, care should be taken to provide a way 
+for air to circulate through the vents in the soffits (the exterior 
+underside of the roof where it extends beyond the exterior walls of 
+the building) along the underside of the rafters and then out through 
+a vent in the peak of the roof. Proper circulation, he said, will 
+not only keep the living space cooler in summer but will also aid 
+in the prevention of ice dams _ a fairly common problem that can cause 
+serious damage to a house. Ice dams form, Keefe said, when a poorly 
+insulated roof allows heat from the house to melt snow on the roof 
+surface. As the runoff trickles down the roof it eventually gets to 
+the uninsulated eaves at the edge of the roof and refreezes. Then, 
+as more snow melts, the runoff begins to back up under the shingles, 
+where it can leak through the roof surface or even trickle down into 
+the exterior walls. The best way to prevent ice dams, Keefe said, 
+is to keep the roof uniformly cold with proper insulation. Homeowners 
+who are reshingling their roofs, however, can take some extra precautions 
+against the damage caused by ice dams by installing a waterproof membrane 
+under the shingles part way up the roof. Corey McIsaac, supervisor 
+of technical information services for GAF, a roofing-materials manufacturer 
+based in Wayne, N.J., said that roof membranes should be installed 
+at least 24 inches beyond the interior wall line. Just as roofs need 
+fresh air to stay healthy, so do the occupants of a building. In the 
+Ditmars Street property renovated by Ms. Benedict, for example, the 
+techniques used to insulate the building and seal every possible source 
+of outside air infiltration made proper ventilation a necessity. ``A 
+leaky building will have between one and two full air changes each 
+hour,'' Ms. Benedict said, referring to the rate at which inside air 
+is replaced by outside air in a building. ``Our buildings have only 
+one-third to one-half an air change per hour,'' she said, explaining 
+that to achieve that rate, the ventilation fans in the kitchens and 
+bathrooms run at low speeds 24 hours a day. And rather than have replacement 
+air being supplied through a multitude of holes and leaks, Ms. Benedict 
+said, fresh air admitted into her buildings comes through ``trickle 
+vents'' installed over the windows in the bedrooms. Such vents, she 
+said, are equipped with screens and mechanical louvers that allow 
+only a measured flow of air into the room, keeping out wind and insects. 
+Of course, no energy-efficient renovation project would be complete 
+without installation of the most cost-efficient heating system possible. 
+For that, Ms. Benedict contacted Henry Gifford, president of Gifford 
+Fuel Saving, a Manhattan heating-and-ventilation design consulting 
+company. The first thing Gifford did was calculate how much heat was 
+going to be needed in the building by figuring out how much was likely 
+to be lost. In the Ditmars Street project, Gifford said, the three-story, 
+six-unit building was so tightly sealed against heat loss that he 
+was able to install a high-efficiency, sealed-combustion gas boiler 
+with a capacity of only 90,000 BTU _ about one-third of what would 
+normally be installed in a building that size. The boiler burns so 
+efficiently, Gifford said, that it can be vented directly through 
+the exterior wall of the building _ like an ordinary gas clothes dryer. 
+And rather than drawing the air needed for combustion from inside 
+the building, it draws the air from outside, through an intake pipe 
+that extends through the exterior wall. That means there is essentially 
+no potential for backdrafting,'' he said, adding that such a system 
+was almost always preferable to drawing combustion air from inside 
+the house and venting exhaust gases up the chimney. In addition to 
+heating the house, Gifford said, the boiler also heats the domestic 
+water for the building. ``We installed an 80-gallon, stainless-steel 
+hot-water tank,'' he said, explaining that unlike conventional water 
+heaters, which use combustion or electricity to heat water in the 
+tank, the system he installed uses heat produced by the boiler. ``There's 
+a coil from the boiler running through the tank,'' he said. ``The 
+hot water in the coil heats up the water in the tank and then circulates 
+back to the boiler.'' The tank is wrapped in an insulating jacket 
+to minimize heat loss and is guaranteed for 15 years. ``And it'll 
+probably last even longer than that, because there's no fire in it 
+to burn it out,'' Gifford said. When everything is taken into consideration, 
+he said, the $1,200 high-efficiency boiler added about $300 to the 
+cost of the heating system, an amount that should be recovered in 
+fuel savings in a year or two. Another energy-saving feature used 
+in the building _ and one that homeowners installing new heating systems 
+might want to consider _ is a hot-water baseboard heating unit, with 
+its own thermostat _ one in every room. ``That means that there is 
+absolutely no overheating or underheating of individual rooms,'' he 
+said, explaining that the thermostats on each heating unit, which 
+are calibrated to account for being near the floor rather than higher 
+up, allow for individualized room settings that help save energy. 
+``Even when it's sunny all day on one side of the house, and windy 
+all night on the other, the heat load always stays even,'' he said, 
+adding that each thermostat added about $35 to the cost of the baseboard 
+heating units. ``I would say it's worth $35 a room to be comfortable 
+for as long as you own your house,'' he said. 
+</TEXT>
+</DOC>

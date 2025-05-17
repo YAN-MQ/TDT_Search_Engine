@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981105.1600.0966 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Those stories and more in 15 minutes. Stocks end with a bang. Let's 
+get the details from Beverly Schuch at the cnnfn newsdesk in New York. 
+Beverly? 
+</TEXT>
+</DOC>

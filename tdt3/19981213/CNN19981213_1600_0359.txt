@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981213.1600.0359 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Puerto Ricans cast votes today, deciding whether to become the 51st 
+state of the U.S. the island is currently an American commonwealth 
+in which residents have U.S. citizenship but no voting power. Election 
+officials report a high turnout among the 2.2 million registered voters. 
+The ballot initiative included several options, Puerto Rico could 
+remain a Commonwealth. It could push the U.S. Congress for statehood 
+or seek independence. The last time Puerto Rico voted for statehood 
+in 1993, it lost by 2 percentage points. 
+</TEXT>
+</DOC>

@@ -1,0 +1,59 @@
+<DOC>
+<DOCNO> NYT19981224.0199 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Savings bonds have long represented a triumph of convenience over 
+sophistication. Available in denominations as small as $50, they are 
+ideal as gifts. But when it comes to returns, the 30 year savings 
+bonds have usually yielded less than comparable Treasury securities, 
+because the rates are pegged at about 90 percent of a five-year Treasury 
+bond. Now, however, investors may want to take a look at a new type 
+of savings bond, the so-called inflation-indexed variety. These seem 
+to be remarkably good deals at the moment, especially for investors 
+who want to stave off paying taxes on their investments. ``I have 
+clients who would find this very attractive for money that they don't 
+need now but may need in the future,'' said Rosilyn Overton, a financial 
+planner in Flushing, N.Y. The securities, known as ``I bonds,'' were 
+introduced by the Treasury in September. The goal was to bolster sales 
+of savings bonds, which have been flat, as well as to offer smaller 
+investors a bond as resistant to the effects of inflation as the inflation-indexed 
+Treasury bonds introduced in 1997. The I bonds are bought at face 
+value in six denominations, from $50 to $5,000, with the guarantee 
+that their returns, which are paid when the bonds are redeemed, will 
+be protected from inflation for up to 30 years. Rates are adjusted 
+for inflation twice a year _ in early May and November. The current 
+yield is 5.05 percent. That is the sum of the bond's 3.3 percent fixed 
+rate of return and the inflation-adjustment rate of 1.75 percent, 
+which is based on the Consumer Price Index from April through September. 
+That means the bonds are not only already yielding more than traditional 
+Series EE savings bonds, whose current yield is 4.60 percent, but 
+even more than conventional 30-year Treasury bonds, now at 5.0 percent. 
+How does the I bond stack up against the inflation-indexed Treasury 
+bond? The comparison gets tricky, because the Treasury bond is adjusted 
+differently. Its coupon is fixed, at 3.625 percent for the 30-year 
+variety; the principal is adjusted upward with the price index to 
+provide an inflation-adjusted yield. That carries immediate tax implications. 
+Investors owe capital gains taxes each year on the increased principal, 
+in addition to income tax on the payout. By contrast, holders of I 
+bonds, like those of other savings bonds, do not owe tax until their 
+bonds mature or are cashed in. (Holders of plain-vanilla Treasury 
+bonds pay tax on their income.) Some investors may be able to skirt 
+some or all of the taxes on I bonds by applying the earnings toward 
+a child's college costs, although the tax break applies only to single 
+filers with adjusted gross incomes of less than $67,250 or joint filers 
+with less than $108,350. As for convenience, I bonds can be bought 
+at most banks and financial institutions, or through some employers' 
+payroll savings programs. Buying Treasury securities means going through 
+the more tedious Treasury Direct program _ by mail or in person _ 
+or through a broker, who will charge a commission. Moreover, Treasuries 
+start at $1,000, so they are expensive stocking stuffers. Still, I 
+bonds may not be right for every investor's sock. The biggest drawback 
+is the possibility that falling inflation will eat into the inflation-linked 
+earnings rate. In the event of deflation, the I bond's fixed rate 
+may actually be negated _ which means returns can fall to zero. (The 
+bond's principal, however, would not be touched.) There are restrictions, 
+too. Purchases are limited to $30,000 a year. And investors who cash 
+in the bonds within the first five years forfeit three months of earnings. 
+</TEXT>
+</DOC>

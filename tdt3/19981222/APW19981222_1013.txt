@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> APW19981222.1013 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+AMERICAN LEADERS NEW YORK (AP)-Sales, 4 p.m. price and net change 
+of the 10 most active American Stock Exchange issues, trading nationally 
+at more than $1. Name Volume Last Chg. SPDR 5,377,500 120 17-32 Up 
+3-8 FstAustPrm 1,228,600 5 3-4 HarkenEngy 1,103,600 2 Up 1-16 ViacomB 
+1,009,000 70 13-16 Up 1 5-16 Hasbro 864,000 31 Down 1 3-4 TWA 699,400 
+5 5-16 Down 3-16 Calton Inc 683,800 1 1-8 EchoBay 646,800 1 3-4 Down 
+1-16 Keane 605,800 34 3-8 Up 2 1-8 NaborsInd 547,200 12 1-2 Down 1-8 
+</TEXT>
+</DOC>

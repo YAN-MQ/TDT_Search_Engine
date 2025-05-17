@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981203.1600.0169 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal aviation administration has issued an emergency order 
+to airlines operating Boeing 747s. It wants them to stop running fuel 
+pumps in dry tanks because of the risk of explosion. The FAA says 
+fuel pumps could cause hot spots and sparks when operated in dry conditions. 
+246 Boeing 747s registered in the United States are affected by the 
+order. Airlines should leave enough fuel in the plane's center tank 
+and stop using the horizontal stabilizer tank. 
+</TEXT>
+</DOC>

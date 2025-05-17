@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981212.1130.0497 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The national extended weather forecast is next. And still ahead -- 
+a look at what NASA hopes to find during a mission to the red planet. 
+</TEXT>
+</DOC>

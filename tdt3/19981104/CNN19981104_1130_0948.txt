@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981104.1130.0948 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The space shuttle "discovery" is on its seventh day in space. John 
+Glenn is providing data on back aches and heart performance during 
+weightlessness. 
+</TEXT>
+</DOC>

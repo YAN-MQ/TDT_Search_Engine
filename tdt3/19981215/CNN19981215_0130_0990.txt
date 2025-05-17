@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> CNN19981215.0130.0990 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Toymaker Mattel is reporting huge revenue losses for 1998. As Casey 
+wian reports, the company is hoping a major acquisition will help 
+it get back on top. There's no merry Christmas at Mattel, now that 
+the company says its 1998 revenue will fall $500,000 short of earlier 
+expectations. Profit will drop by about one-third. Mattel blames the 
+bombshell on a decision by retailers to reduce inventories. For example, 
+top customer toys "R" us, which itself is struggling financially, 
+has slashed its stock of Mattel products in half this year. It's all 
+part of the toy industry's ongoing conversion to just-in-time inventory 
+management. "Just in time" means that they will not bring product 
+in or pay for product until they absolutely need it. Since perhaps 
+40% of toy products are sold in October, November and december, it 
+means that inventories will stay at the manufacturer or not be ordered 
+or paid for until they absolutely need that product for the consumer. 
+Some analysts are skeptical that just in time will work for toy retailers 
+since hot toys are often hard to predict. Others say Mattel should 
+have seen the industry shift coming much earlier. Mattel also announced 
+a $3.8 billion buyout of software manufacturer the learning company. 
+Analysts view the deal as a belated admission that Mattel can no longer 
+rely on its traditional Barbie and hot wheels product mix. I think 
+Mattel has realized that American consumers are increasingly interested 
+in software and may be decreasingly interested in traditional toys. 
+And so in order to continue its growth, it needs to look outside of 
+the traditional toy industry. The learning company will make Mattel 
+the world's second largest consumer software company behind Microsoft. 
+But Wall Street is losing patience. Mattel has lost more than half 
+its stock market value since this spring. While Mattel says it has 
+no immediate plans to lay off any of its 26,000 workers, CEO Jill 
+barad told Wall Street analysts the company is closely monitoring 
+its cost structure. And that often means job cuts. Casey wian, "CNN 
+Financial News," El Segundo, California. 
+</TEXT>
+</DOC>

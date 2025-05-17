@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981015.1830.1614 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal reserve cut interest rates by another 0.25% today. Wall 
+Street had an immediate reaction. The Dow Jones industrials closed 
+up more than 330 points. 
+</TEXT>
+</DOC>

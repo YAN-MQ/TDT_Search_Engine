@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981124.0130.0225 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new poll shows Americans haven't changed their minds on the subject 
+of presidential impeachment. That's up just a little from a week ago. 
+Meanwhile, two-thirds of those surveyed approve of the way the president 
+is handling his duties. That's unchanged since mid-November and up 
+just a little from early october. 
+</TEXT>
+</DOC>

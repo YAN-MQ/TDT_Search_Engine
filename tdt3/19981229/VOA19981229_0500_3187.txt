@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981229.0500.3187 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+General Motors has developed a diesel electric bus that could be in 
+operation next year in New York City, saving transit fleets millions 
+of dollars in annual fuel costs. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981204.1130.0911 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The shuttle "endeavor" is one step closer to a Sunday rendezvous in 
+space. Crew members will connect an American component to a Russian 
+piece of the international space station already in orbit. 
+</TEXT>
+</DOC>

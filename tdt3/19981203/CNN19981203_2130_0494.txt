@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981203.2130.0494 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for Friday. It'll turn a bit cooler in the northeast as a 
+cold front moves through with a few showers. We'll also see showers 
+in the southern Great Lakes and along a frontal boundary in the middle 
+and lower Mississippi river valley. Look for heavy snows in the rocky 
+mountains as low pressure pushes into that region. Another low pressure 
+center will keep some rain showers or mountain snow over California. 
+Highs on Friday -- 20s and 30s generally in the northwest, but still 
+mild across the southeast. Looking ahead to Saturday, we'll see showers 
+around the Great Lakes, heavy snow in the Rockies and rain in the 
+northwest once again. On Sunday, as cooler air tries to push through 
+the plains states, we'll see showers and storms pushing across the 
+Mississippi river valley, some snow in the upper midwest. Finally, 
+Monday, most of the east sees rain or snow. There'll be showers in 
+the northwest. And things are turning a bit cooler with 20s and 30s 
+over the upper midwest. 
+</TEXT>
+</DOC>

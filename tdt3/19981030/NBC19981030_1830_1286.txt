@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981030.1830.1286 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Health news tonight -- shark cartilage, which fans claimed could actually 
+cure cancer, has finally been put to the test. In the first scientifically 
+controlled experiment of the product, researchers found that the powder 
+had zero effect on tumor growth, no benefit at all. 
+</TEXT>
+</DOC>

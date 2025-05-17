@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981118.0130.0683 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+a federal judge has given microsoft 90 days to change its windows 
+98 software or stop selling it altogether. sun microsystems had sued 
+because it says microsoft's software does not properly recognize its 
+java programming language. a judge agreed that constituted a breach 
+in the contract signed by the two computer companies. microsoft says 
+it will comply with the order while it reviews its legal options. 
+</TEXT>
+</DOC>

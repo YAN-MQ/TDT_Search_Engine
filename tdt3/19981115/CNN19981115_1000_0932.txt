@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981115.1000.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories this afternoon the U.N. security council 
+continues discussions on Iraq's proposal to resume U.N. weapons inspections. 
+Council members were divided on the issue when they adjourned last 
+night. 
+</TEXT>
+</DOC>

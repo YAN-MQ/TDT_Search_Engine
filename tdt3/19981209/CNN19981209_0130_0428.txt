@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981209.0130.0428 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA scientists say new data from their polar spacecraft demonstrate 
+how solar blasts impact the earth. They say when a bubble of charged 
+particles erupts from the sun, a shock wave slams into the earth's 
+magnetic field, squeezing out a stream of gases from the north and 
+South Poles. Scientists have long known about these polar gushes and 
+solar blasts. But this first confirmation of a cause and effect relationship 
+was relationship. Now made known. 
+</TEXT>
+</DOC>

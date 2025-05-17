@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> PRI19981207.2000.0243 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Astronauts on board the Space Shuttle Endeavour have begun a space 
+walk to connect power cables in the world's first international space 
+station. The cables will make the first two sections of the station 
+that will be used by astronauts for experiments and accommodation. 
+NASA spokesman John Arapidy at mission control in Houston says they're 
+breaking new ground. The most visible feature is more than an acre 
+of solar panels designed to capture power from the sun and convert 
+it to electrical power for the station. It will be on a very exciting 
+permanently manned research laboratory that will give us the opportunity 
+to do things that we simply can't do on Earth. Over the next five 
+years, hundreds of components will be added, involving 16 nations 
+and 43 more missions. 
+</TEXT>
+</DOC>

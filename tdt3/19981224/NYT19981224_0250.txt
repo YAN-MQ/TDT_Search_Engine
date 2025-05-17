@@ -1,0 +1,65 @@
+<DOC>
+<DOCNO> NYT19981224.0250 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+U.S. consumers took a late-autumn pause last month from their recent 
+relatively heavy levels of spending as incomes surged and personal 
+savings grew for the first time in four months. Jobless claims also 
+fell last week to their lowest level in more than a year. Together 
+with the recent performance of the stock market, which approaches 
+the end of the year at near-record levels, those signs point to continued 
+economic expansion, economists said. Financial markets reacted positively 
+to the news, with the Dow Jones industrial average rising 15.96 points, 
+to 9,217.99, in an abbreviated trading session. Volume on the New 
+York Stock Exchange measured a mere 247 million shares, the lowest 
+this year. Broader market benchmarks were mixed, with the Standard 
+&AMP; Poor's 500-stock index and the Nasdaq composite index falling 
+slightly and the Russell 2000 index, a measure of smaller company 
+stocks, inching up. Convinced that the Federal Reserve might be satisfied 
+with the economy's progress after three cuts in interest rates this 
+year, bond traders sent prices lower. The yield on the 30-year Treasury 
+bond, which moves in the opposite direction of its price, rose to 
+5.21 percent. The Commerce Department reported Thursday that personal 
+income grew by five-tenths of 1 percent in November, while spending 
+grew by one-tenth of a percent. That makes November the first month 
+since July in which income growth surpassed spending growth. The December 
+holiday season is likely to have brought more spending by consumers, 
+however, and perhaps a return to the negative rate of personal savings, 
+which showed up this fall for the first time since the Great Depression. 
+``I would say that the overall trend is still toward spending and 
+not toward savings, as it has been since the middle of 1997,'' said 
+Kenneth Safian, the president of Safian Investment Research of White 
+Plains. Consumer spending is the main fuel of the domestic economy, 
+but sharp increases in outlays can worry Wall Street that consumers 
+will have to stop and let their incomes catch up with their bills. 
+Safian said, however, that the current environment did not carry such 
+ominous overtones. ``The trend to increased spending is not as severe 
+as it was at other stock market peaks,'' he said. Similarly, too much 
+saving by individuals is seen by some economists as a precursor to 
+recession. The Commerce Department said the savings rate, measured 
+as a percentage of disposable personal income, measured one-tenth 
+of a percent in November, compared with a negative two-tenths of a 
+percent in October. The slower growth in spending last month could 
+be traced to two factors, financial analysts said. Purchases of new 
+cars, which jumped in September and October after the settlement of 
+a strike during the summer by General Motors workers, returned to 
+more normal levels last month. And a spate of mild autumn weather 
+held back spending on electricity and natural gas. The Commerce Department 
+also revised its estimate of personal expenditures for October; it 
+now thinks that spending grew by seven-tenths of a percent rather 
+than five-tenths of a percent as previously estimated. Jobless claims 
+also moved contrary to expectations, falling by 13,000 last week, 
+to 287,000 claims. Economists had been expecting claims to rise by 
+about 12,000, according to Bloomberg News. Last week's level of jobless 
+claims was the lowest since late July 1997. The strength of the labor 
+market probably also contributed to the growth in income, but the 
+gains were spread unevenly across industries, the Commerce Department 
+reported. Wages and salaries were nearly flat, when compared with 
+those of the previous month, in manufacturing and distribution companies. 
+But service companies reported that they paid about 1 percent more 
+in wages last month than in October. Meanwhile, the income of farm 
+owners rose by more than 10 percent last month despite continued declines 
+in commodity prices as subsidy payments by government programs grew. 
+</TEXT>
+</DOC>

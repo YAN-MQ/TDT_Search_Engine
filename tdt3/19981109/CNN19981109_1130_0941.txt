@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981109.1130.0941 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow Jones industrial crept into positive territory, then fell 
+back as investors wait for a good reason to push the blue chip index 
+past the 9,000 level. Right now the Dow is down at this time. The 
+NasDAQ is down AS well. Taking a look at the numbers, the Dow off 
+82 points and the level is 8992. The broader markets down four points. 
+The NASDAQ is down four. All the broader markets are lower. Treasuries 
+30-year bellwether bond jumped with the yield at 5.32% partially due 
+to the weakness in stocks. 
+</TEXT>
+</DOC>

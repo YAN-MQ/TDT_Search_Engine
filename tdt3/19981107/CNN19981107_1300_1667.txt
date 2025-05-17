@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981107.1300.1667 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The speaker of the house is stepping down and potential successors 
+are stepping up. That story and more in two minutes. I'm Sachi Koto. 
+This is "CNN Headline News." 
+</TEXT>
+</DOC>

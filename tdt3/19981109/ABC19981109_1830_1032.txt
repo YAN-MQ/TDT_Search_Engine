@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> ABC19981109.1830.1032 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This week we'll take "A closer look" at the progress or Perle, depending 
+on the point of view, -- they have found a way to insert genes into 
+the heart, which means that patients can grow new blood vessels and 
+create their own heart bypass. There have been a similar medical experiment 
+by scientists at tufts. It's another stunning example of what genetic 
+engineering is capable of. There's a lot to cover this week about 
+science and society. So we'll start with the basics. Here's ABC's 
+Robert Krulwich on what is men the by Jen netic engineering. If go 
+back 3 1/2 billion years, when the very first spec of life appeared 
+on earth, that spec produced another spec and another and eventually 
+-- us. All living creatures, bacteria, plants, animals, all of us, 
+reproduce -- we make copies of ourselves. And the copying instructions 
+are contained in genes, in chemicals called dna. Years ago, scientists 
+discovered that since we are all descended from the same original 
+creature, we're all cousins. No matter how they look on the outside, 
+if you look at their DNA, they're all related. It's Baker's yeast. 
+You and I, for example, share 20% to 30% of the genes in a yeast. 
+That's right. A yeast. The one-celled creatures that we use to bake 
+bread and to brew beer. They have genes, exactly like our genes. And 
+they do for them what they do for us? And they do for them what they 
+do for us. For example, here's a yeast doing what yeast love to do 
+-- making more yeast. But suppose that this yeast got sick and couldn't 
+multiply any more. Can we take a Gene out of me, put it into that 
+yeast, and get it rolling again? That would be very easy for us to 
+do. And by the same token, doctors have taken genes from yeast to 
+fix problems in humans. At the DNA level, all creatures share potentially 
+interchangeable parts. The more highly developed the creature, the 
+more genes we share. If we share 20% with a yeast, it's more like 
+80% with a chicken, 90% with a Cow, and when we get to monkeys, says 
+Dr. Francis Collins, who runs the government's most ambitious Gene 
+project, we get real close. The chimp, our sort of closest relative, 
+99% of the chimp's DNA sequence is identical to ours. Identical? Identical. 
+Since we are so closely related to our fellow animals and even to 
+plants, more scientists are saying why not take the genes that they 
+have and use them to help or heal ourselves? After all, we're family. 
+Robert Krulwich, ABC News. 
+</TEXT>
+</DOC>

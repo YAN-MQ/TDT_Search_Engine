@@ -1,0 +1,88 @@
+<DOC>
+<DOCNO> NYT19981231.0352 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The fourth quarter of 1998, when ``technology'' and ``Internet'' were 
+synonymous with almost instant paper wealth and the stock market staged 
+as stunning a turnaround as any in recent memory, left many professionals 
+rubbing their eyes in disbelief. ``I can't explain it other than to 
+say it is irrational exuberance,'' said Chuck Hill, director of research 
+at First Call. ``It is momentum investing, and there is no logic to 
+it.'' But there was some logic to why stocks rose from an apparent 
+abyss to solid double-digit gains for the year. On Oct. 1, when financial 
+markets appeared on the verge of imploding, the Dow Jones industrial 
+average fell by more than 210 points and closed less than 100 points 
+above 7,539.07, the low it hit on Aug. 31. Since then, foreign markets 
+have staged a comeback. The steep slide in U.S. stock prices was seen 
+by many as a buying opportunity. Third-quarter earnings were not as 
+bad as expected. Perhaps most important, the Federal Reserve Board 
+and more than 50 central banks around the world have cut interest 
+rates. ``This was a liquidity-driven market,'' said Byron Wien, chief 
+U.S. investment strategist at Morgan Stanley Dean Witter &AMP; Co. 
+``The world was awash in it.'' The decline in interest rates not only 
+helped to revive Wall Street's badly shaken psyche, but also propelled 
+the three most widely watched market indexes _the Dow, the Standard 
+&AMP; Poor's 500 and the Nasdaq composite _ to new highs during the 
+quarter. The gains for those measures were undeniably impressive. 
+The Dow rose 17 percent during the quarter. The S&AMP;P's 500-stock 
+index gained nearly 21 percent, its second-best quarter ever. And 
+the Nasdaq, weighted heavily with technology company stocks, performed 
+amazingly, rising 29.45 percent, just shy of its best quarter ever. 
+The strong finish accounted for most of the market's double-digit 
+gains for the year. For all of 1998, the Dow rose 16.1 percent; the 
+S&AMP;P 500 was up 26.67 percent, and the Nasdaq jumped 39.63 percent. 
+But, as was true for most of the year, a mere handful of stocks accounted 
+for most of the market's strength in the fourth quarter. The Russell 
+2000 index of small-company stocks rebounded from Oct. 8, when it 
+closed at 310.28. But the index never came close to regaining the 
+peak of 491.41 it hit on April 21 and finished at 421.96, down 3.4 
+percent for the year. ``If you look at the four major indexes _ the 
+Dow, the S&AMP;P, Nasdaq and the New York Stock Exchange composite 
+_ two of them have Intel, Cisco Systems, MCI Worldcom, Lucent Technologies 
+and Dell Computer,'' said Walter Murphy, a senior market analyst at 
+Merrill Lynch &AMP; Co. ``This is a very, very narrow market,'' he 
+said. ``To me that suggests there is a case to be made that once this 
+rally is over, the market will go through a reasonably substantial 
+retracement.'' Those five stocks, among the biggest and most widely 
+traded, did extremely well. Intel, for example, which started the 
+quarter at 85 3/4, closed Thursday at 118 9/16, up 38.3 percent. Cisco, 
+at 61 13/16 at the end of September, finished the year at 92 13/16, 
+a gain of 50.8 percent. And Lucent Technologies moved from 69 1/16 
+to 109 15/16 Thursday, up 59.2 percent. However, while technology 
+stocks in general and Internet stocks in particular grabbed the headlines, 
+they were not the S&AMP;P 500's best-performing group during the quarter. 
+Transportation issues, battered earlier in the year, gained that distinction, 
+followed by investment banking and brokerage stocks and apparel retailers. 
+Not surprisingly, the steep decline in oil prices hurt energy stocks, 
+particularly oil-service and production companies. Of the four worst-performing 
+groups in the S&AMP;P 500, these stocks occupied three of the slots. 
+Only gold stocks did worse. Among the Dow stocks, none did better 
+than Wal-Mart Stores, which rose 49 percent in the quarter. And none 
+did worse than Eastman Kodak, which fell 6.3 percent despite strong 
+competition from Boeing, which dropped 4.9 percent, and Sears, Roebuck, 
+down 3.8 percent. Then there were the Internet stocks. It is hard 
+to imagine, let alone explain, the rise in a stock like Ebay. The 
+online auction house, which went public in mid-September at 18 a share 
+and was trading at just more than 45 on Sept. 30, finished the year 
+at 241 1/4, a gain of about 435 percent overall. Amazon.com did not 
+do badly, either. The online book, tape and video retailer purveyor 
+started the quarter at 111 5/8. It closed Thursday at 321 1/4, for 
+a jump of 187.8 percent. For the quarter, the 50 stocks that make 
+up Interactive Week's Internet Index _ a list that does not include 
+stocks that have not been publicly traded for less than six months 
+_ posted a gain of 71.4 percent. The golden touch of the Internet 
+seemed to reach nearly any company that operated a Web site. Charles 
+Schwab, the brokerage house that does a lot of business online, was 
+the best-performing stock in the S&AMP;P 500 index for the quarter. 
+Earlier in the week, its market capitalization rose above that of 
+Merrill Lynch, a far bigger, more diversified enterprise. Few expect 
+the current mania to continue. But the excitement generated among 
+investors by the Internet's potential is justified, analysts said. 
+``The Internet is the most exciting business phenomenon since the 
+airplane or television,'' Wien of Morgan Stanley said. ``It is truly 
+a dramatic life-changing event, an open-ended situation investors 
+have not been confronted with for some time. To say that this is a 
+fad is an easy trap to fall into. But this is bigger than that.'' 
+</TEXT>
+</DOC>

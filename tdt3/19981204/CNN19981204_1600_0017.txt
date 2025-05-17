@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981204.1600.0017 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton says the vigorous U.S. economy and promising unemployment 
+figures make the time ripe for another increase in minimum wage. He 
+says the success of earned income tax credits and a stable inflation 
+rate have been good for working families. Unemployment in November 
+fell to 4.4%, the lowest level since spring. The president says this 
+is not the time to become complacent. He says millions of people who 
+are working full-time are living in poverty. This is not a time for 
+self-congratulation or a time to rest. We have more to do here at 
+home and more to stabilize the global economy if we expect growth 
+to continue. We all know about the economic troubles in Asia. We all 
+see sectors of America's steel industry being overwhelmed by imports 
+at fire sale prices. We have all read the headlines about Boeing's 
+layoffs because of the inability of Asian airlines to pay for planes 
+that they have already ordered. 
+</TEXT>
+</DOC>

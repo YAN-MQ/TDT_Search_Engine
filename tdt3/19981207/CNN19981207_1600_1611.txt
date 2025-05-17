@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981207.1600.1611 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up in the next half hour -- the international space station 
+is taking shape in orbit. We'll have details on what is turning out 
+to be a very busy day for the crew of the space shuttle "endeavour." 
+I'm Angela Astore. This is "CNN Headline News." 
+</TEXT>
+</DOC>

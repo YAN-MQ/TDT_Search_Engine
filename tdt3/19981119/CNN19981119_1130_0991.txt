@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981119.1130.0991 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Low interest rates translating INTo good news for home buyers. This 
+week's 30-year fixed rate mortgage dropped to 6.81%. 
+</TEXT>
+</DOC>

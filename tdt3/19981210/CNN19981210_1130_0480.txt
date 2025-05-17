@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981210.1130.0480 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+Temperatures today are again quite cold back through the Rockies and 
+extending into west Texas. Forecast high temperatures into the 20s 
+and 30s today. Still warm in Florida, should make it into the 80s 
+in Miami, up towards orlando. Temperatures, though, further to the 
+north along the eastern seaboard have cooled back into the 40s and 
+50s. Here's the forecast from this evening, taking you through late-day 
+tomorrow, watching low pressure developing along the gulf coast region 
+in texas. This will be spreading northeastward, bringing with it showers 
+and thunderstorms, and snow will continue in through west Texas. High 
+pressure, fair weather expected to continue to dominate the weather, 
+most of the western U.S. and much of the northeast, as well. The extended 
+forecast, on Saturday, we will find wet weather in the southeastern 
+U.S. and rain and mountain snows in the pacific northwest. By Sunday, 
+temperatures begin to warm through the plains back into the 60s in 
+a number of locations. We'll find scattered snow showers into the 
+northeast and showers into the pacific northwest. On Monday, scattered 
+showers, windy conditions in the northwest, just a few showers in 
+Florida. For more weather information, log into CNN.com. 
+</TEXT>
+</DOC>

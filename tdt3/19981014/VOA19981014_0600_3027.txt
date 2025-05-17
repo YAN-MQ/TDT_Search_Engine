@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981014.0600.3027 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The dollar rose against the yen for a third day today after a huge 
+decline last week. The late Tuesday New York quote was 119 yen. 
+</TEXT>
+</DOC>

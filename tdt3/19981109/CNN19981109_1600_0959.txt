@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981109.1600.0959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And President Clinton was interviewed by lawyers from the justice 
+department today regarding campaign ads by the democratic party during 
+his 1996 reelection bid. Mr. Clinton's attorney David Kendall says 
+the president is cooperating with the investigation. 
+</TEXT>
+</DOC>

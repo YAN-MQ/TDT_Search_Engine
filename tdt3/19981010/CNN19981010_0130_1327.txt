@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981010.0130.1327 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The national hockey league opened its season Friday night. The Flyers' 
+John Vanbiesbrouck shut out his former club. Florida routed Tampa 
+bay. 
+</TEXT>
+</DOC>

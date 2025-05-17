@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981116.1130.1108 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Talks of a merger in the pharmaceuticals industry. A German and French 
+company are in talks to join the second largest drug company. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981222.0130.1301 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Toronto got all over the Penguins, 7-1. Mats sundin scored two goals. 
+The leafs have won 10 of their past 11 home games. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981208.0130.1315 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Dallas beat Calgary, 3-2. And the rangers remain red-hot, winning 
+their fifth in a row. 
+</TEXT>
+</DOC>

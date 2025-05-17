@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981028.0500.2931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+That's a familiar theme. It's time now for all your business news. 
+Stock prices are higher in Europe, mainly across the board, after 
+stock prices fell in Asia. Let's get the full story. Here's our VOA's 
+Les Carpenter. Pounded by a string of bad economic reports, Japan's 
+benchmark Nikay stock index plunged 305 points to close the day at 
+13,516. Australian stocks froze, pacing gains in Singapore, Indonesia, 
+and Thailand. Hong Kong's markets were closed today for a holiday. 
+</TEXT>
+</DOC>

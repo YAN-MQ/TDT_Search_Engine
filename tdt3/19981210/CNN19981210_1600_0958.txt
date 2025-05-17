@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981210.1600.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the shuttle "endeavour" astronauts plan to turn on the lights 
+in the international space station. They're making the very first 
+trip into the new facility. 
+</TEXT>
+</DOC>

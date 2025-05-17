@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981123.1130.1110 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Let's recap the Dow. It is up 98 points, close to its high for the 
+day. nasdaq is up 34. That's "Dollars & Sense." Back to you, Toria. 
+Thanks, Mike. 
+</TEXT>
+</DOC>

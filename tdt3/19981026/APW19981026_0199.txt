@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> APW19981026.0199 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A reactor was stopped for scheduled repairs at Ukraine's Khmelnytsky 
+nuclear power plant, officials said Monday. The plant's only operational 
+reactor was shut down Sunday and is to be restarted by Friday, the 
+state nuclear energy company Energoatom said. No radiation leaks were 
+reported during the shutdown. Ukraine's five nuclear power facilities 
+have 14 reactors, five of which are currently undergoing repairs, 
+Energoatom said. The country's nuclear officials said last week the 
+number of malfunctions at nuclear power plants, which was steadily 
+growing in the first half of 1998, had fallen in the past several 
+months. 
+</TEXT>
+</DOC>

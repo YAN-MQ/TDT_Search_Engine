@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981104.1600.2938 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Well a report from the US Central Bank says there are now definite 
+signs of an economic slowdown, however that same report also says 
+there continues to be virtually no inflationary pressure in the US 
+economy. Central Bank Chairman Alan Greenspan may talk about the situation 
+at greater length in a speech tomorrow. 
+</TEXT>
+</DOC>

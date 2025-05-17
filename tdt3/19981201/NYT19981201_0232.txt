@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> NYT19981201.0232 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Another powerful storm will buffet the Pacific Northwest 
+on Wednesday, bringing inclement weather to northwest California and 
+western sections of Oregon and Washington. Windswept heavy rain will 
+douse coastal areas as moist Pacific air is lifted by an approaching 
+cold front. As ocean air is further lifted and cooled by the interior 
+mountains, rain will turn to heavy snow above 4,000 feet with over 
+a foot of fresh snow blanketing the southern Cascades and Klamath 
+mountains by Thursday morning. Meanwhile, showers and higher elevation 
+snow will accompany a small jet stream disturbance crossing the interior 
+Southwest, bringing showers and mountain snow to northern Arizona 
+and western New Mexico. Unusually warm air will continue to cover 
+much of the eastern and central states Wednesday as the jet stream 
+retreats northward into southern Canada. Amid ample sunshine, afternoon 
+temperatures will rise into the 60s from the Front Range of the central 
+Rockies to the Ohio Valley and Middle Atlantic states. Farther north, 
+patchy light sleet will precede the arrival of warmer air across northern 
+New England. Sunshine and mild conditions will also prevail in the 
+Great Lakes, though a few clouds will accompany a weak cool front 
+across the upper peninsula of Michigan. After a cool start, abundant 
+sunshine will boost daytime readings to above normal levels over the 
+Southeast. Farther south, partly cloudy and warm conditions will cover 
+Florida with isolated showers forming near the east coast. FOCUS: 
+Making A Connection A tardy freeze in the southern Plains is related 
+to record rains in the Pacific Northwest. At Oklahoma City, Tuesday 
+marked the latest date on record without a freeze, eclipsing Nov. 
+30 (in 1934) as the latest date for the season's first occurrence 
+of 32 degrees. Persistent jet stream winds from the west over northern-tier 
+states have impeded the plunge of cold air from Canada. This steadfast 
+jet stream also energized and steered a parade of wet disturbances 
+into the Pacific Northwest, where rainfall at Astoria, Ore., reached 
+an all-time November high of 19.60 inches Tuesday. 
+</TEXT>
+</DOC>

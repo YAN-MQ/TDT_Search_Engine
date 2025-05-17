@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NYT19981027.0343 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Toshiba Corp. and Hitachi Ltd. on Tuesday reported losses for the 
+six months ended Sept. 30, illustrating how even Japan's vaunted high-technology 
+companies are vulnerable to its deep economic malaise. The companies 
+blamed the worldwide decline in sales of memory chips, weak consumer 
+demand in their home market and falling capital investment in Japan 
+for the bulk of their problems. Late last week, NEC Corp. also announced 
+losses, and both Toshiba and Hitachi said Tuesday that they did not 
+expect to post a profit until the fiscal year ending March 2000. Fujitsu 
+Ltd. alone among Japan's large memory-chip manufacturers expects to 
+see a profit this year, as the price of the most widely used memory 
+chip, the dynamic-random-access-memory chip, or D-RAM, has fallen 
+roughly 60 percent. In the six months ended Sept. 30, Toshiba lost 
+6.4 billion yen, or about $54 million at current exchange rates, compared 
+with a profit of 22.4 billion yen in the comparable period last year. 
+Sales dropped more than 12 percent, to 1.59 trillion yen, or $13.3 
+billion. Hitachi lost 124.7 billion yen, or about $1 billion, compared 
+with net income of 24.3 billion yen last year. Sales slid more than 
+12 percent, to 1.8 trillion, or about $15.1 billion. The losses were 
+steeper than the forecasts made by Toyo Keizai Inc., a financial data 
+company. Analysts said the companies seemed to have taken write-offs 
+related to their computer businesses that widened their losses. Toshiba 
+and Hitachi have announced plans to realign their sprawling businesses 
+_ Hitachi has almost 1,000 affiliated entities making everything from 
+elevators to PCs to electric power plants _ to focus on profitable 
+enterprises. Hitachi said recently that it planned to pare its fixed 
+costs by 10 percent and merge affiliates. Toshiba has also spun off 
+money-losing businesses and plans to reduce its work force from about 
+66,000 now to less than 60,000 in two years through attrition. Nonetheless, 
+the investment community is pushing for more. ``Toshiba is losing 
+more money on consumer electronics than on D-RAMs,'' said Peter Wolff, 
+a high-technology industry analyst at ING Barings. ``These companies 
+need to do some serious restructuring and decide what businesses they 
+really want to be in going forward.'' 
+</TEXT>
+</DOC>

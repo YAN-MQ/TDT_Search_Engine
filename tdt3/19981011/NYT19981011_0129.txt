@@ -1,0 +1,127 @@
+<DOC>
+<DOCNO> NYT19981011.0129 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The federal government and the Microsoft Corp. may be nearing a historic 
+antitrust showdown. But Microsoft co-founder Bill Gates has largely 
+disengaged himself from the company's legal defense to concentrate 
+on new ways to extend the world's largest independent software company's 
+influence into the next century. And instead of a corporation struggling 
+to stay a step ahead of technological obsolescence _ the argument 
+with which he has tended to rebut his antimonopolist critics in recent 
+years _ Gates boasts in a recent memo to his staff that Microsoft's 
+position in the computer industry is stronger than it has ever been. 
+In fact, the memo contends, one of the company's biggest challenges 
+will be finding ways to continue motivating employees who in many 
+cases are so wealthy from their Microsoft stock that they no longer 
+have an economic need to work. The 14-page, single-spaced memo _ whose 
+title, ``The Era Ahead'' evokes his 1995 best-selling book, ``The 
+Road Ahead'' _ spells out the main opportunities and threats that 
+Gates sees for Microsoft in the next five years. Still, in many ways, 
+the future according to Bill Gates looks very much like the present. 
+The personal computer, in his view, will remain the main business 
+and technology platform from which Microsoft stretches upward toward 
+the province of big mainframe systems, while reaching downward into 
+the realm of hand-held consumer-electronics devices. And the Internet 
+will continue to provide the ties that bind these various products 
+into a Microsoftian whole _ but only, the memo warns, if the company 
+continues to ward off the threats posed by the perceived nemeses of 
+IBM, Netscape Communications, Oracle and Sun Microsystems, all of 
+which the memo cites by name. Distributed within the company in early 
+September, the memo was supplied to The New York Times last week by 
+Microsoft on the condition that it not be quoted directly. Gates declined 
+to be interviewed for this article. The memo's release, presumably, 
+was meant to demonstrate that he is concentrating on Microsoft the 
+business enterprise even while the Justice Department is intent on 
+exposing Microsoft as a marauding monopolist. Yet the memo implicitly 
+also provides further indication that Gates, who is 42 and possibly 
+the world's richest man, is withdrawing from operational management 
+of Microsoft to return to his programmer-geek roots and become the 
+company's chief technologist. It is a personal and professional transition 
+that became evident in July when he gave the position of president 
+to his longtime friend and colleague, Steven Ballmer, who now shares 
+most day-to-day responsibilities with the company's chief operating 
+officer, Robert Herbold. ``This is vintage Microsoft and vintage Bill 
+Gates,'' Herbold said in an interview last week. ``It's all about 
+the core issue for Microsoft, which is developing product.'' Herbold 
+said that the responsibilities Gates had turned over include mundane 
+tasks like the mid-year review of the budget. ``Guess what,'' Herbold 
+said drily. ``Steve Ballmer and I can handle that.'' Before July, 
+according to colleagues of Gates who spoke on condition of anonymity, 
+he had been showing signs of increasing job stress, as Microsoft's 
+battles with the Justice Department and several state attorneys general 
+appeared to overshadow the company's focus on product development 
+and marketing. In a get-away-from-it-all restorative he prescribed 
+for himself, Gates, after deputizing Ballmer, took a summer vacation 
+with friends, including Warren Buffett and William Randolph Hearst 
+III, that also included pure sight-seeing activities, such as glacier 
+watching by boat near Juneau, Alaska, and a train trip through the 
+Pacific Northwest. ``The fun-to-work ratio for Bill is going up,'' 
+said a Microsoft executive, one of several who noted that Gates seems 
+more relaxed lately than he has in years. And yet, the pace of his 
+work does not seem to have slowed much. Last week, for example, he 
+spoke at industry gatherings in San Diego and Denver, and he recently 
+traveled to Europe to speak at industry events and visit Microsoft 
+customers. Back at corporate headquarters in Redmond, Wash., he still 
+schedules meetings at his executive offices from 9 a.m. to 7 p.m., 
+colleagues said. And while his September memo presents a deeply confident 
+view of the company's competitive status, Gates also voices dissatisfactions 
+in it that have been part of the Microsoft litany for nearly two decades. 
+As early as 1981, Gates' stated corporate quests included the development 
+of software that was simpler to use. He is now making that a top priority, 
+to deflect growing criticism that as Microsoft has added supposedly 
+beneficial features to its software, the products are increasingly 
+awkward. True, he places much of the blame on the software that other 
+companies produce for use with Microsoft's Windows operating system. 
+But he directs his own company to solve this problem by writing more 
+rigid programming rules and guidelines for outside software developers. 
+Along with this implicit charge to his engineers to bring the industry 
+to heel, there are also hints at future industry clashes. Gates' memo, 
+for example, describes a new service that may be introduced as Windows 
+Tone, or Wintone _ a computing analogy to the concept of a telephone 
+dial tone. Sun Microsystems has already introduced a similar concept, 
+one based on its so-called Jini software, which is designed to enable 
+different hardware devices to communicate over the Internet. As Gates 
+sees the future, Wintone will assign Microsoft the job of managing 
+PC data over the Internet, which will allow for automatic backup of 
+that data on network storage computers while at the same time employing 
+the Internet to provide automatic updates of the software on users' 
+own machines. To create accessible network ``storage lockers'' for 
+this vast amount of data, Gates describes a new system to be called 
+Megaserver, which will provide computer users with access to their 
+personal information and electronic mail wherever they have an Internet 
+connection. He also notes that in the future the operating system 
+_ the basic command-and-control software of a computer _ will play 
+an increasing role in protecting intellectual property from data piracy 
+by tracking the use of information and preventing illicit copying. 
+Perhaps the most significant revelation, in light of a government 
+lawsuit that posits the monolithic dominance of Windows, is the memo's 
+grumblings about the operating system's various technical shortcomings. 
+He also notes that programs to remove Windows are among the best-selling 
+PC software products and cites that fact as evidence of a fundamental 
+failure by Microsoft to keep its customers satisfied. Gates also discusses, 
+even if he seems to gloss over them, the competitive threats to Microsoft 
+that are coming from outside the personal computer industry. He writes, 
+for example, that a recent agreement involving the three leading wireless 
+telephone makers _ Ericsson, Motorola and Nokia _ and Psion, a small 
+British developer of software for hand-held devices, represents serious 
+competition. And yet he appears to believe that the company's Windows-based 
+Win CE operating system, which is beginning to appear on a variety 
+of information appliances, will stave off the threat the agreement 
+might pose. At the end of his memo, Gates calls for the help of his 
+Microsoft colleagues in meeting the challenges he spells out. He alludes 
+to the sense of privilege he feels in being part of the positive impact 
+he says the company's effort will have on the way people work, learn 
+and communicate. He even suggests a source of further reading, a Web 
+site on Microsoft's internal network. But nowhere in the 10,000-word 
+tome does he mention the one external force that could alter Microsoft's 
+future more fundamentally than the forays of any software competitor: 
+the federal antitrust trial scheduled to begin in Washington next 
+Monday. But then, this is the new, less-engaged, more geeky Bill Gates, 
+who leaves such vexations to his operational subordinates. ``He's 
+not preoccupied with the legal case,'' Herbold said of Gates. Referring 
+to the company's general counsel, Herbold added that ``Bill Neukom 
+will tell us when we need his input.'' 
+</TEXT>
+</DOC>

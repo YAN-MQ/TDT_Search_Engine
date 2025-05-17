@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> VOA19981204.0500.2747 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Monday, the U.S. government working group on electronic commerce 
+released a study that finds a growing share of the world's business 
+is now being conducted over the Internet. The growth is expected to 
+continue. The report was released at the White House in a gathering 
+which brought together key members of the Clinton administration and 
+leaders of the high-technology industry. Among the executives was 
+John Chambers, the president and chief executive officer of Cisco 
+Systems, a company that specializes in the manufacture of equipment 
+that helps to make electronic or e-commerce possible. I do not think 
+it's an understatement to say that 5 percent of the global commerce 
+in the world by the year 2005 will travel over the Internet. By the 
+year 2010, 25 percent of the world's commerce will travel over the 
+Internet. In short, it will change retail forever. John Chambers says 
+that the Internet will also change the way we live. When you think 
+about how it's going to change our lives, it will create a level playing 
+field between small companies and big companies, not only in this 
+country but truly on a global basis, and more and more business and 
+government leaders are understanding the implications of that around 
+the world. President Clinton told the gathering that technology is 
+the engine of tomorrow's economy. He said that his administration 
+is in favor of strong consumer protection and privacy rights, and 
+he called for self-regulation rather than legislation. We have to 
+make ourselves absolutely committed to the proposition that we will 
+first do no harm. We will do nothing that undermines the capacity 
+of emerging technologies to the lives of ordinary Americans and, secondly, 
+that insofar as we can, we will help to create an environment which 
+will enhance the likelihood of success. Information technology now 
+accounts for more than a third of our economic growth. 
+</TEXT>
+</DOC>

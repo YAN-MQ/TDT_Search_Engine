@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981229.0130.0439 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A somber ending for the annual Sydney-to-hobart yacht race in Australia. 
+A small group of people greeted the American crew of "sayonara" Monday 
+as it sailed to victory in hobart. The end of the race was overshadowed 
+by the powerful storm that capsized several boats, killing at least 
+five sailors. One other sailor is still missing. Ships and helicopters 
+from the Australian Navy braved the gale-force winds and 35-foot waves 
+to rescue others washed overboard. Of the 115 yachts entered, 59 had 
+to seek Shelter, and several were abandoned altogether. 
+</TEXT>
+</DOC>

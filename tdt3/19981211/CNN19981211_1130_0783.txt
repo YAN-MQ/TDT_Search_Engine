@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981211.1130.0783 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And NASA will try again today to launch the Mars climate Orbiter from 
+cape canaveral in Florida. Yesterday's launch had to be delayed so 
+NASA could fix a software problem. 
+</TEXT>
+</DOC>

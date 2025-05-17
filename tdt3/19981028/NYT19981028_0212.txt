@@ -1,0 +1,52 @@
+<DOC>
+<DOCNO> NYT19981028.0212 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Picture a cartoon: a woman opens a door labeled ``computer room'' 
+only to find shelves of loose-leaf binders and a surprised group of 
+labcoat-wearing men shuffling papers. ``We're updating the database,'' 
+the caption reads. That cartoon might come close to describing the 
+task facing Bob Mankoff, cartoon editor for The New Yorker and head 
+of the Cartoon Bank, the archive of 60,000 of the magazine's classic 
+cartoons, and an additional 20,000 from other sources. Mankoff, who 
+also is a cartoonist for the magazine, is turning the magazine's paper 
+database into a digital one. On Nov. 30, coinciding with The New Yorker's 
+annual cartoon issue, the magazine plans to redesign the Cartoon Bank 
+Web site. The site, www.cartoonbank.com, will incorporate a searchable 
+database of about 5,000 cartoons, all digitally watermarked to help 
+prevent unauthorized use. Those interested in licensing any cartoon 
+can search on the Web site by keyword or description, and select the 
+cartoon. But they will have to place a phone call to complete the 
+order. Mankoff has a long-time interest in technology. During an interview, 
+he volunteered to count to 32 in binary on the fingers of one hand 
+and he recently rediscovered a cartoon he did at age 7, rendered in 
+his trademark stippled style, showing a rampaging robot with ``TILT'' 
+lighted up on its chest. His interests in computers and cartooning 
+made him an an early believer that a revolution was brewing in the 
+cartoon reprint market. In 1991, he offered to set up an electronic 
+system for New Yorker cartoons. ``I know it wasn't actually practical'' 
+to build a digital database at that point, Mankoff said, ``but I was 
+intrigued by it.'' At the time, the publication gave 100 percent of 
+reprint fees to cartoonists, so it didn't have much incentive. He 
+then founded the Cartoon Bank privately, and represented both New 
+Yorker and other panel cartoonists for a 50 percent cut. With substantial 
+effort, Mankoff built up the library over the years until 1997, when 
+The New Yorker purchased the Cartoon Bank and then shortly thereafter 
+offered him the position of cartoon editor. Mankoff said that many 
+contributors to The New Yorker now made more in reprint rights than 
+they did for the first appearance of their work. He cited Peter Steiner's 
+classic of one canine at a computer saying to another, ``On the Internet, 
+nobody knows you're a dog.'' Steiner has earned more than $30,000 
+for reprints of that cartoon alone, according to Mankoff. Mankoff's 
+goal is to take advantage of the editorial process of six decades 
+that's spawned the enormous number of published cartoons. ``What's 
+extraordinary about this is that these 60,000 cartoons have gone through 
+this process of weeding out,'' Mankoff said. He continually works 
+on improving his methods for production and distribution of the digital 
+files, because he does not want to see the quality suffer for reasons 
+of technology. ``People have said to me, `This cartoon isn't funny,' 
+'' Mankoff noted, ``But they never said, `This cartoon is fuzzy.' 
+'' 
+</TEXT>
+</DOC>

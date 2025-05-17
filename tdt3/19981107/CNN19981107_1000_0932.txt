@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981107.1000.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A check of our top stories -- house speaker Newt Gingrich says he 
+plans to resign from Congress in the wake of the disappointing results 
+for republicans from this week's elections. Sources say Gingrich will 
+step down before the 106th Congress convenes in january. 
+</TEXT>
+</DOC>

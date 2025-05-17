@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981022.1600.1044 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The average for a 30-year, fixed-rate mortgage dipped this week. After 
+last week's sharp Spike, the 30-year, fixed-rate mortgage rate fell 
+to 6.78% this week. Variable rates on personal loans, new-car loans, 
+and credit cards inched higher. 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> APW19981021.0520 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The European Union Commission economic forecasts released Wednesday 
+included the following estimates for unemployment in the 15 EU member 
+nations. They are an update from the previous set of figures released 
+in March 1998. 1998 1999 2000 Austria 4.4 4.3 4.2 Belgium 8.3 7.7 
+7.1 Britain 6.3 6.2 6.2 Denmark 4.2 4.0 3.7 Germany 9.7 9.3 8.9 Greece 
+9.4 9.1 8.9 Spain 18.9 17.2 15.7 Finland 11.6 10.4 9.5 France 11.7 
+11.1 10.8 Ireland 8.7 7.4 6.2 Italy 12.0 11.9 11.6 Luxembourg 2.4 
+2.3 2.2 Netherlands 3.7 3.1 2.6 Portugal 5.7 5.1 4.7 Sweden 8.3 7.7 
+7.0 EU 10.0 9.5 9.0 Euro-zone 11.0 10.4 9.9 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981125.1830.0857 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones industrial average was up more 
+than 13 points to close at 9314. On the NASDAQ, stocks were up 19 
+points. 
+</TEXT>
+</DOC>

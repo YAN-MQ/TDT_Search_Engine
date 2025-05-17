@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981212.1830.0442 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Henry Hyde, chairman of the house Judiciary committee, will be the 
+guest tomorrow morning on "this week" with cokie and Sam Donaldson. 
+</TEXT>
+</DOC>

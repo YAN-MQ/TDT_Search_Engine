@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981118.1600.0360 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+U.N. weapons inspectors in Iraq are back at work. A U.N. spokesman 
+says the group went out on a routine inspection and reported no problems. 
+Officials say the inspectors will probably limit visits to sites where 
+cameras and sensors for long-term monitoring have been installed. 
+They say things might become more interesting later, when surprise 
+checks on suspected weapons sites are held. 
+</TEXT>
+</DOC>

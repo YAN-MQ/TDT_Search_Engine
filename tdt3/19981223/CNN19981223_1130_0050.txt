@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981223.1130.0050 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A touch of the North Pole is here, and it's not even Christmas yet. 
+Frigid Arctic air has spread across the nation. Though ski resorts 
+in the Rockies and elsewhere are welcoming extra snow, at least 29 
+traffic deaths in Texas, Kansas, Missouri, Arkansas and oklahoma are 
+blamed on the weather. A white Christmas came early for folks in Ohio, 
+making driving difficult. The quick change in seasons has hit many 
+parts of the country like a bucket of ice water. In Texas, the Mercury 
+plunged 40 degrees in just a matter of hours. Instead of sunscreen, 
+it's scarves and parkas. In the northeast, the national weather service 
+says it's a new record for lack of snow in Buffalo, New York. The 
+city got it's first dusting of the season yesterday. Usually by now, 
+Buffalo has been covered at least once. 
+</TEXT>
+</DOC>

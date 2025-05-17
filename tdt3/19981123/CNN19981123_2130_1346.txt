@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981123.2130.1346 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After a convincing win against Kentucky, Tennessee is still atop the 
+bcs. Florida's loss to Florida state dropped the gators to number 
+eight. 
+</TEXT>
+</DOC>

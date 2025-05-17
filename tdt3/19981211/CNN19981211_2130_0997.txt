@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981211.2130.0997 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Online bookseller Amazon.com has won the hearts of its customers, 
+even though its competitors have cheaper prices. A recent survey of 
+19 Internet bookstores finds that Amazon, the volume leader in online 
+book-selling, wins high honors for its customer confidence and its 
+user friendly service. Borders and Barnes & Noble win for customer 
+relationships and on-site resources. 
+</TEXT>
+</DOC>

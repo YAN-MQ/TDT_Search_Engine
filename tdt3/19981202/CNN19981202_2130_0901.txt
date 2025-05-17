@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981202.2130.0901 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- President Clinton's lawyers will 
+appear before the house Judiciary committee next week. They say they 
+may even call witnesses to rebut allegations in the impeachment inquiry. 
+</TEXT>
+</DOC>

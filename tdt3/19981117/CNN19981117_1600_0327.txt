@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981117.1600.0327 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Wednesday. A storm developing across the intermountain 
+west will move through the rocky mountains and the northern plains 
+states on Wednesday, producing rain and snow and some windy conditions 
+that could cause near blizzard conditions over parts of the dakotas 
+and Minnesota. Things will be quieter out across the west as the system 
+moves away. Things will quiet in the northeast as well, with high 
+pressure influencing the weather. Cool though, just 30s and 40s northeast, 
+20s and 30s over the northern plains. The southeast rather mild. We're 
+looking for highs in the 60s and 70s. Looking ahead to Thursday, we'll 
+see snow in the northern Great Lakes, rain and thunderstorms through 
+the southeast. Then on Friday, our wet and snowy weather pushes east 
+with rain across the northwest. For Saturday, rain and wind in the 
+northwest. Some snow showers lingering in the northeast. 
+</TEXT>
+</DOC>

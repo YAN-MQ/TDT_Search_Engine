@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981214.1830.0851 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones industrial was down more than 
+126 points to close at 8695. On the NASDAQ, stocks were down more 
+than 62 points. 
+</TEXT>
+</DOC>

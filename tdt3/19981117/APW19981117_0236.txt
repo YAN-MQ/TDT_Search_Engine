@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> APW19981117.0236 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+British inflation hit the government's 2.5 percent target in October, 
+the third consecutive month. The underlying inflation rate has held 
+steady since it dropped from July's rate of 2.6 percent, the government 
+said. At the same time, headline inflation _ which includes mortgage 
+interest repayments _ rose 0.1 percent for the month. The figures 
+are likely to increase the clamor from manufacturers and unions for 
+a further cut in interest rates to protect jobs from the continuing 
+global financial turmoil. The main downward pressure on prices was 
+a fall in motoring costs as a result of reduced insurance premiums 
+and lower used car prices, the government said. The costs of clothing 
+and furniture also fell because of heavy discounting by retailers 
+in the autumn sales. However, the downward effect was partially offset 
+by higher tuition fees for new university students. ``Today's figures 
+show that the government is steering a course of stability with inflation 
+at its target level for the third month in a row, and our public finances 
+are on track to achieve a debt repayment for the year as a whole _ 
+the first time this has happened for nearly a decade,'' said Stephen 
+Byers, chief secretary of the treasury. 
+</TEXT>
+</DOC>

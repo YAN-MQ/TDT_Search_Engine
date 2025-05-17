@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> CNN19981021.2130.0621 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Meanwhile, Netscape released a new version of its browser this week 
+with a Feature designed to get customers to choose Netscape over Microsoft. 
+Ann Kellan has more in this edition of "tech trends." When Microsoft 
+wove its web browser, Internet explorer, into its Windows 98 operating 
+system, Netscape, with its competing browser, cried unfair and has 
+been trying to get even with Microsoft not only in the courtroom but 
+with a new version of its browser, Netscape communicator 4.5. They're 
+delighted to see Microsoft in the hot seat. As far as the new version, 
+I think it's better than Internet explorer. So yeah, they're getting 
+even pushing ahead. If you load Microsoft's Windows 98 on your computer, 
+odds are you'll end up trying Microsoft's web browser, but Netscape 
+is trying to even the odds with Microsoft's Internet explorer and 
+get you to use netscape as your primary browser. It happens automatically 
+unless you uncheck these boxes when you load the new version of Netscape 
+onto your computer. Netscape becomes your default browser. Any software 
+program like this encyclopedia, will automatically link to the internet 
+through the default browser. So is there a better browser? "Technology" 
+editor Bill husted finds the new version of Netscape faster but -- 
+It's almost like the difference between a Chevrolet and a Ford. There's 
+not a great difference in the two products. It's more being familiar 
+with one and just, you tend to stay with the same one you've used. 
+Both, he says, are big and bulky. And Netscape could take an hour 
+to install. Each product gets loaded with new features and most of 
+us just want to cruise the dang web! Ironically, so as the competition 
+wages on between the two browser giants, husted sings the praise of 
+yet another browser, called opera, takes up half the space in your 
+computer and runs twice as fast. Ann Kellan, "Headline News." 
+</TEXT>
+</DOC>

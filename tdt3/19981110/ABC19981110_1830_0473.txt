@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> ABC19981110.1830.0473 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There was another urgent warning today about the year 2000 computer 
+bug. The problem is even more complicated and will be more expensive 
+to fix than anyone had expected. The warning results from a worldwide 
+survey done by the biggest computer consulting firm in Europe. Here's 
+ABC's Ned Potter. With only 416 days to go, the new survey says it's 
+too late to head off all the problems. All we can do now is make sure 
+that the essentials, such as vital phone systems, don't crash, that 
+assembly lines are not stopped by the computers that control them, 
+that power companies not only have plans to keep running, but have 
+tested them. What really matters to us on January 1, 2000, is that 
+the lights go on, and central heating works. The survey says U.S. 
+and European firms will have to spend $858 billion updating their 
+computer systems. That's half the economy of Germany, and the number's 
+gone up 20% in just six months. Economists say the U.S. is far better 
+prepared than other countries. But in today's wired world, one computer 
+crashing on new year's day, 2000, can take many others down with it. 
+Ned Potter, ABC News, New York. 
+</TEXT>
+</DOC>

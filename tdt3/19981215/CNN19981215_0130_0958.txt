@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981215.0130.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the crew of the space shuttle "endeavour" is preparing for its 
+return to earth on Tuesday. Bad weather could delay the landing. 
+</TEXT>
+</DOC>

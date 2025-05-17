@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981225.1830.1114 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There is good news, too. The economy is creating more jobs than layoffs. 
+And most laid off workers find new jobs. 
+</TEXT>
+</DOC>

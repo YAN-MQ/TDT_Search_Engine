@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981224.0189 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST The unseasonable chill that has gripped the West 
+and northern Plains will begin retreating this Christmas Day as westerly 
+winds transport milder air eastward from the Pacific. After a frosty 
+morning in many locations, ample sunshine will boost daytime readings 
+into the 50s and 60s across southern California by afternoon. Farther 
+north, a fast flow of air from the Pacific Ocean will direct a plume 
+of moisture into far northern California and the Northwest. Heavy 
+rain will dampen coastal areas, especially toward evening as a warm 
+front crosses the region. Farther inland, freezing rain will glaze 
+portions of the Columbia River Valley as the moist Pacific air begins 
+to dislodge weighty cold air hovering near the ground. In addition, 
+heavy snow will fall in many of the west-facing mountain ranges of 
+the Northwest and northern Rockies, as the moist air is further lifted 
+and cooled. Expansive high pressure that is splayed across the lower 
+Mississippi Valley and northern Middle Atlantic States will promote 
+dry weather in much of the East on Friday. An exception will be near 
+the southeast coast, where low pressure draws moist air inland. Intermittent 
+chilly rain will occur from south Georgia to eastern North Carolina. 
+Meanwhile, pockets of ice will fall further inland where surface temperatures 
+hover near freezing. In the wake of Thursday's early snow, abundant 
+sunshine and light winds will return to the northeast seaboard. Elsewhere, 
+cool air crossing the warmer waters of the Great Lakes will induce 
+a few snow showers over upstate New York and northern Michigan. Focus: 
+Gelid Bakersfield A push of polar air into California has produced 
+subfreezing temperatures across the southern San Joaquin Valley, damaging 
+much of this year's citrus crop. At Bakersfield, near the southern 
+end of the Central Valley, readings fell to 19 degrees on Wednesday 
+morning, tying the lowest temperature ever recorded. On seven other 
+occasions in the past 70 years, the mercury at the Bakersfield airport 
+has reached this level. Light winds and clear skies on the past several 
+nights have contributed to the unusual chill. The cold snap will end 
+this weekend as milder air from the Pacific returns. 
+</TEXT>
+</DOC>

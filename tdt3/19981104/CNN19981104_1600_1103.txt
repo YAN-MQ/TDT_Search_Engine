@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981104.1600.1103 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the latest in the Microsoft antitrust trial in Washington. Microsoft 
+attorneys today aggressively cross-examined an apple computer vice 
+president. The lawyers hinted that any problems with how apple software 
+worked on microsoft's Internet browser resulted from apple's errors, 
+not sabotage. Shares of Microsoft finishing up about a quarter. 
+</TEXT>
+</DOC>

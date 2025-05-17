@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981120.1830.1737 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Nightly News" for Friday. Brian Williams will be here tomorrow 
+night. I'm Tom Brokaw. I'll see you back here on Monday. 
+</TEXT>
+</DOC>

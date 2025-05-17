@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981125.1830.1734 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Nightly News" for Wednesday. I'm Tom Brokaw. To all of you, 
+a very happy Thanksgiving. 
+</TEXT>
+</DOC>

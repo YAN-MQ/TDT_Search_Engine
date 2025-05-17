@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981206.1300.0455 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather" update. 
+A cold front will move through the Great Lakes, and a lower pressure 
+system near lake Michigan. The remainder of the cold front will drag 
+through the appalachian mountains into the lower Mississippi valley. 
+Showers and thunderstorms will be seen from Texas into the central 
+gulf near chattanooga. Continuing northward through the Great Lakes 
+and into New England. Out west, snow is prevalent for the mountain 
+areas and the Monday forecast as a new pacific storm heads inland, 
+with the rain showers along the coast. High pressure building into 
+the west will keep temperatures very cold. Teens, 20s and 30s will 
+be highs temperatures on Sunday for most of the rockies and the plains. 
+You'll see 40s and 50s along the pacific coast with temperatures continuing 
+above normal from near lake Erie, southward into southern Florida 
+and southern Texas. The extended forecast includes heavy rain and 
+snow in the west Tuesday with snow showers in the eastern United States. 
+A few thunderstorms may linger across the gulf coast states on Wednesday. 
+Snow showers spread into the Great Lakes by Thursday. The extended 
+forecast can be found at CNN.com. 
+</TEXT>
+</DOC>

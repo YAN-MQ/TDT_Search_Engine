@@ -1,0 +1,112 @@
+<DOC>
+<DOCNO> NYT19981216.0111 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+When David Farber stepped down from the public stage of the witness 
+stand in the Microsoft antitrust trial last Wednesday after two days 
+of testimony, he found his own private audience eagerly awaiting his 
+return. And he did not disappoint them. Logging on hours after returning 
+from Washington to his home in Landenburg, Pa., the 64-year-old University 
+of Pennsylvania telecommunications professor dispatched an e-mail 
+message. ``To all those who I have ignored,'' the subject line read. 
+The text of the message went on to say, ``I have never felt so drained.'' 
+In Farber's case, ``To all'' refers to a sprawling network of 25,000 
+Internet users who have maneuvered themselves onto his formidable 
+mailing list over the last decade. His list _ which he calls IP, for 
+``interesting people'' _has a devoted following among the digerati, 
+as well as less technological types. And it gives him unrivaled, if 
+unofficial, influence as a voice of the Internet. That status helps 
+explain why the Justice Department chose Farber as an expert witness 
+for a trial in which a central question is whether Microsoft tried 
+to monopolize the market in Internet browser software. As master of 
+the IP list, Farber typically exercises his opinion almost solely 
+through a selection process in which he forwards three or four items 
+culled from hundreds of information sources that he deems most worthy 
+of attention each day. At most, he may add a one-line precis, as he 
+did with a simple ``Bye bye liberty'' atop a mailing last month citing 
+an Army Times article about the government's expanded antiterrorism 
+surveillance. But in last week's post-courtroom e-mail message, he 
+allowed himself more room for introspection. ``I am endlessly astonished 
+that all too often the trials seem not to be interested in extracting 
+the truth,'' Farber wrote, after a difficult day of cross-examination 
+by Microsoft's lawyer, Steven Holley. ``Oh well.'' Appearing at a 
+trial that has been dominated by software company executives, Farber 
+was the first technologist to testify without an obvious ax to grind 
+or damning e-mail record to refute. His testimony focused on defining 
+the technical terms that are at the core of the dispute: whether Microsoft 
+illegally used its monopoly in the personal computer operating system 
+market to give an unfair advantage to the company's browser software, 
+Internet Explorer. Farber argued that software was ``infinitely malleable'' 
+and that Microsoft had designed its Windows 98 operating system so 
+that consumers could not remove Explorer. Microsoft dismissed Farber's 
+testimony as ``nothing more than an opinion piece on how he thinks 
+Microsoft could have or should have designed Windows.'' But it was 
+an opinion that had a definite appeal among a large segment of Internet 
+users. ``The Internet reaction was like, `Ah-hah, there's our guy,''' 
+said Esther Dyson, editor of Release 1.0, an influential industry 
+newsletter, and chief of an international governing agency for assigning 
+Internet addresses. ``The trial has centered on the Internet, but 
+it's all been about the corporations of the Internet. It was nice 
+to finally have the users and creators represented in the courtroom, 
+as well.'' Even some of those rooting for Microsoft found cause to 
+applaud Farber's appearance, including Scott Bradner, a senior technical 
+consultant at Harvard University. Bradner was in Orlando, Fla., last 
+week at an annual meeting of the Internet Engineering Task Force, 
+an industry association. He said the 2,000 technology enthusiasts 
+at the conference seemed of mixed opinion about the Microsoft trial. 
+But he said he and many others were glad that Farber, a longtime member 
+of the group, had taken the stand. ``There are more and more examples 
+of where technical reality has to be reconciled with the law,'' Bradner 
+said. ``It's important for objective reporters of technology to be 
+able to explain it to judges and juries in a way they can understand.'' 
+Farber is a bald, grandfatherly figure whose tendency to round his 
+Rs into Ws finds him affectionately compared to Elmer Fudd. But it 
+is a demeanor belying a distinguished resume. He grew up in Jersey 
+City, N.J., holds a master's degree in mathematics from the Stevens 
+Institute of Technology, and helped invent the first electronic telephone 
+switch in the early '60s as an engineer at Bell Laboratories. It was 
+there that he also concocted the computer language Snobol and met 
+his wife, GG, before moving to Southern California and helping to 
+organize the Internet. He has been at the University of Pennsylvania 
+since 1989. In addition to teaching a course there on computer ethics 
+and society this term, Farber has been a technical consultant for 
+Intel Corp. and the Internet service provider Earthlink, among others. 
+He serves on the Presidential Advisory Committee on High Performance 
+Computing and Communications, and sits on the board of the nonprofit 
+Electronic Frontier Foundation. But he said in an interview last week 
+that ``the IP list has made me the most famous.'' The list began about 
+11 years ago, when Farber's friend Eric Bloch started a demanding 
+job at the National Science Foundation and complained that he no longer 
+had time to read news, on the Internet or anywhere else. Farber began 
+forwarding items to Bloch and then to others. Soon, the list became 
+to the technology elite what an invitation to Irving (Swifty) Lazar's 
+Oscar party once was to Hollywood's glitterati _ the industry's place 
+to be. And by now, the IP list is widely considered the single most 
+influential source of relevant and up-to-date news about all dimensions 
+of the technological world. When Jon Postel, an Internet founder and 
+a former PhD student of Farber's, died unexpectedly last month, for 
+instance, IPers learned about it before anyone else. Word came through 
+a posting by Farber that was followed by a eulogy from Vint Cerf, 
+a longtime associate who is now senior vice president at MCI Worldcom 
+and chairman of the Internet Society, a professional group. In recent 
+years, Farber said he had enlarged and diversified the list, including 
+homemakers and students who had requested to be added to a group of 
+recipients that also includes Intel's chairman, Andrew Grove, and 
+many leading technology journalists. The Internet has many mailing 
+lists _ 90,095 by one count _ but Farber's may reflect more than any 
+other the power of distributed-information networks. As he adds subscribers 
+to the list, each becomes an additional source of information. And 
+Farber performs the function of a trusted filter. ``He has become 
+a social node in a network of people,'' said David Bennahum, a subscriber 
+to the list and author of a new book, ``Extralife,'' about growing 
+up with computers. ``He helped form the Internet socially by connecting 
+all these important people together.'' Even human network nodes have 
+to rest sometimes, though. Late last week, Farber posted what may 
+be one of his final messages of the year to the IP list: ``After Sunday 
+IP will be off the air and so will I for 10 days as I go off to a 
+place in Hawaii where there are no phones, no radios, no TVs etc. 
+and certainly no EMAIL,'' he wrote. ``Have a good Hanukkah and a Merry 
+Christmas etc.'' NYT-12-13-98 1833EST 
+</TEXT>
+</DOC>

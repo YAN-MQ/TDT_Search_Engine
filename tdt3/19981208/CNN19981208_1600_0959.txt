@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981208.1600.0959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Two of the nation's best known companies are forming an alliance. 
+I'm Jan Hopkins with this edition of "Dollars & Sense." AT&T is buying 
+IBM's global networking business for $5 billion in cash. As part of 
+the deal, IBM is also granting AT&T a five-year $5 billion contract 
+to handle most of IBM's networking needs. In exchange, AT&T will outsource 
+some data management work to IBM. Some 5,000 IBM employees are expected 
+to join AT&T to help run it. 
+</TEXT>
+</DOC>

@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> VOA19981130.0500.0881 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Some people are able to have a small glass of wine if they drink anything 
+at all, and be satisfied with that. Others can consume large amounts 
+of alcohol well into the night and hardly seem effected. Science Correspondent 
+Jessica Berman reports on a study that appears in a recent issue of 
+the journal nature, and it offers a tantalizing clue about why some 
+individuals may become alcoholics. Researchers at the University of 
+Washington in Seattle, focus their attention on a brain chemical called 
+neuropeptide Y or NPY for short. NPY is one of a number of so-called 
+neurochemicals that helps brain cells communicate with each others. 
+It had been thought that NPY helps influence a person's tolerance 
+to beer, wine, and spirits, whether they become a so-called tea totler 
+or a veracious alcoholic. To find out, the researchers bred two groups 
+of mice, those that produced a lot of NPY, and those that produced 
+none of the brain chemical at all. Todd Thiel led the research team. 
+And we found that when you eliminate NPY in these transjenic knockout 
+mice, mice without any NPY drink significant more alcohol than a normal 
+mice. These mice are also less effected by the sedative or sleep inducing 
+effects of alcohol. Investigators observed an opposite effect in mice 
+with high levels of NPY. It didn't take much alcohol to get them drunk, 
+and the rodents took much longer to recover after a bout of drinking. 
+Mr. Thiel says it's too soon to know whether varying amounts of NPY 
+cause similar behavior in people. Now if this is true, that abnormal 
+levels of NPY are in fact related to alcoholism in humans, then feasibly 
+one could consider that it's possible that NPY compounds in the future 
+may be useful for treating alcoholism. But again, a lot of research 
+is necessary before we can really be safe in concluding that NPY might 
+be useful in treating alcoholism. Mr. Thiel says future research on 
+NPY might focus on specific brain regions where the neurochemical 
+is most active. And he says that Scientists want to know why low levels 
+of NPY lead to increased alcohol intake, while levels of the brain 
+chemical appear to dampen the desire for alcohol. 
+</TEXT>
+</DOC>

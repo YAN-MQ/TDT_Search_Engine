@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981130.1130.1351 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Joe DiMaggio, recovering from lung surgery, developed a serious infection 
+during the weekend, but his doctor said today it appears to be under 
+control. 
+</TEXT>
+</DOC>

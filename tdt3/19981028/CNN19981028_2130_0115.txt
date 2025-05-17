@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> CNN19981028.2130.0115 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New drugs used to treat HIV have helped lower the AIDS death rate 
+in the last two years. Now some researchers want to take some patients 
+off those drugs completely. Elizabeth Cohen explains why. Taking a 
+mixture, or so-called "cocktail," of drugs has, for many people, brought 
+the level of the AIDS virus down to undetectable levels in the blood. 
+But now, researchers at the national institutes of health are planning 
+on asking 50 patients to go off the drugs completely. Doctors in Boston 
+are doing a similar experiment. It's sort of hard to imagine, "why 
+would I stop my medicine? If I'm doing okay and the virus is under 
+control, why would I ever want to be in an experiment?" But these 
+are not medicines that are just neutral. You get nasty side effects 
+from these things. Not just nasty, often toxic. Side effects include 
+-- plus, it's hard to take up to 40 pills a day. And at a high price 
+tag -- $12,000-$20,000 a year. Some doctors have taken a different 
+approach with these cocktail drugs. Instead of taking patients off 
+them completely, they've just lowered the dose. Instead of taking 
+all three drugs in the cocktail, participants in the study were assigned 
+to take only one or two. The results, as many as one-fourth of patients 
+saw their HIV levels go back up again. The research is published in 
+the latest "New England journal of medicine." The nih doctors say 
+the results, while disappointing, don't worry them. In their study, 
+they'll insist that volunteers have undetectable levels of the virus 
+for at least a year before going off the drugs, versus the three to 
+six month period in "the New England journal" studies. You very likely 
+have to treat people for a considerably longer period of time if you're 
+even going to think of loosening up or letting down on the intensity 
+of the regimen. Dr. fauci says patients should not stop taking the 
+drugs on their own. His volunteers will be watched for any rebound 
+and put back on the drugs, if necessary. In the meantime, the search 
+is on for new drugs to kill the virus without so many debilitating 
+side effects. Elizabeth Cohen, CNN, Atlanta. 
+</TEXT>
+</DOC>

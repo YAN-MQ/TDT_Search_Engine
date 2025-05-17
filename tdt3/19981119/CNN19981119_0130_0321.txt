@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981119.0130.0321 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new study suggests a sharp drop in the rate of HIV infection among 
+homosexual and bisexual men in at least four U.S. cities. The sampling 
+of 2,800 men in San Francisco, Los Angeles, New York and chicago found 
+an average infection rate of 17%. That's down from estimated highs 
+of as much as 50% in the mid 1980s. One researcher says there are 
+still some grim facts behind the good news. The number of new cases 
+seems to be relatively constant, which is not -- not a very positive 
+thing. There's been big changes, obviously, but at this constant rate, 
+things over the next 10 or 15 years could begin to get bad again. 
+It's important to sort of bring the number of new infections down 
+further. Part of this is contributed by the new treatments where you're 
+going to have more HIV positive men living with the disease for longer 
+periods of time. And that contributes, to some extent, to new infections. 
+Experts do say the new figures indicate a turning point in the course 
+of the epidemic. 
+</TEXT>
+</DOC>

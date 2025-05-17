@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981107.0130.0246 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+John Glenn and the rest of the astronauts aboard the shuttle "discovery" 
+are scheduled to return to earth Saturday. But NASA is again concerned 
+with a piece of landing equipment aimed at bringing Glenn home. "Discovery's" 
+drag chute door accidentally came off during liftoff. Oddly enough, 
+36 years ago during Glenn's Mercury flight, the heat shield came loose. 
+Mission managers say the missing chute on "discovery" should not pose 
+a Problem. A lot of analysis has been done over the week. Thermal 
+analysis. Hot gas ingestion. Aeroanalysis. Vibration, acoustics, all 
+that. We think, of course, that it saw its worst environment during 
+ascent, and the most damage that would be done back there in the aft 
+compartment, and probably has been done. If the chute is still in 
+the compartment, we think that there probably had been some melting. 
+We think the chute will remain where it is in the same situation that 
+it has been all through reentry and post-wheel stop. So we really 
+don't expect any change there at all. Landing crews were sent out 
+at Edwards air force base in California because of gathering clouds 
+forecast over Florida. 
+</TEXT>
+</DOC>

@@ -1,0 +1,53 @@
+<DOC>
+<DOCNO> APW19981013.0276 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Three scientists working at universities in the United States on Tuesday 
+won the Nobel Physics Prize for discovering that electrons on under 
+certain circumstances can form new kinds of particles. The prize went 
+to Robert C. Laughlin of the United States, Horst L. Stoermer of Germany 
+and Daniel C. Tsui, a China-born American citizen. The citation from 
+the Royal Swedish Academy of Sciences said they discovered that electrons 
+acting together in strong magnetic fields can form new types of particles 
+that carry charges that are fractions of electron charges. Laughlin 
+is at Stanford University, Stoermer (pronounced STER-mer) currently 
+is at Columbia University in New York City and Tsui (TSOO-ee) teaches 
+at Princeton University. The award recognizes work that Tsui and Stoermer 
+did together and that was elaborated on by Laughlin. According to 
+the citation, the three discovered a new form of ``quantum fluid,'' 
+which are fluids such as liquid helium that have certain properties 
+in common such as superfluidity. What makes these fluids important 
+for researchers is that ``events in a drop of quantum fluid can afford 
+more profound insights into the general inner structure and dynamics 
+of matter,'' the academy said. It is ''yet another breakthrough in 
+our understanding of quantum physics and to the development of new 
+theoretical concepts of significance in many branches of modern physics.'' 
+The 7.6-million-kronor (dlrs 978,000) prize will be divided equally 
+among the three. Last year's physics laureates, Claude Cohen-Tannoudji 
+of France and William Phillips and Steven Chu of the United States, 
+were honored for developing ways of trapping atoms of gas and cooling 
+them to within a millionth of a degree of absolute zero. The work 
+led to developing extraordinarily accurate atomic clocks. Previous 
+atomic clocks weren't exactly sloppy, being accurate to about one 
+second in 32 million years _ but the improvements made possible a 
+clock that loses just one second every 3 billion years. The 1997 chemistry 
+winners, American Paul D. Boyer, John E. Walker of Britain and Jens 
+C. Skou of Denmark, discovered aspects of how the body's cells store 
+and use energy, a fundamental process that affects everything from 
+the building of bones to the transmission of nerve impulses. On Monday, 
+the medicine prize was given to three Americans _ Robert Furchgott, 
+Louis Ignarro and Ferid Murad _ for their work on discovering properties 
+of nitric oxide, a common air pollutant but also a life-saver because 
+of its capacity to dilate blood vessels. Their finding helped lead 
+to the discovery of the anti-impotence drug Viagra and could also 
+pay off in new treatments for heart disease, cancer and septic shock. 
+The literature prize was awarded last Thursday to Portuguese novelist 
+Jose Saramago. The economics prize winner is to be named on Wednesday 
+and the peace prize on Friday. All the prizes are announced in Stockholm, 
+except for the peace prize which is given in Oslo, Norway. The prizes 
+are presented on Dec. 10, the anniversary of the death of Alfred Nobel, 
+the Swedish industrialist and inventor of dynamite who established 
+the prizes in his will. 
+</TEXT>
+</DOC>

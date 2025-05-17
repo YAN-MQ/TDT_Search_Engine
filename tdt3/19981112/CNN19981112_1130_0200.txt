@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0200 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Israeli army opened more gas mask distribution centers today in 
+preparation for a possible attack by Iraq. The Israeli ambassador 
+to the United States says he believes the risk is very slight. 
+</TEXT>
+</DOC>

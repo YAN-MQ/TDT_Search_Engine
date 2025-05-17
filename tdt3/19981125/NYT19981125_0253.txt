@@ -1,0 +1,166 @@
+<DOC>
+<DOCNO> NYT19981125.0253 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Jennifer Rahel Conover of Fort Lauderdale, Fla., found ``the most 
+priceless gift'' for her husband, Ted, recently, just by surfing the 
+Web, she said. For several years, she had worked through alumni associations, 
+the Department of Veterans Affairs and regional newspapers to try 
+to find David Granger, a college friend of Conover and a fellow World 
+War II veteran. ``I was almost afraid that this Dave Granger, whom 
+I'd never met, might have died,'' she said. ``Otherwise I was sure 
+someone could have helped me find him.'' Then she typed his name into 
+phone directories she found on the Alta Vista and Metacrawler search 
+engine sites and found Granger's phone number and address in Mesa, 
+Ariz. The old friends hope to meet face to face next year. Granger, 
+who lost touch with Conover several years after they graduated from 
+the University of Miami, said he felt a sense of ``awe that they could 
+find me.'' The Internet is full of stories of people who once were 
+lost but now are found: high-school sweethearts reuniting, college 
+roommates catching up on old times, people who need transplants finding 
+lost blood relatives. With ``people finders,'' the search engines 
+that serve as giant phone books, it's easier than ever to find and 
+be found, and that's good news. Mostly. But what if you don't want 
+to be found? What if a friend you served with in the Pacific was the 
+house guest who wouldn't leave? Or your old boyfriend with a drinking 
+problem still thinks you are the hero of his own country-and-western 
+song? Do people finders interfere with the desire for life, liberty 
+and the pursuit of anonymity? The news is mixed. Most people finders 
+are no better than telephone books. Sometimes you can't even find 
+yourself or people you know. But some can be eerily productive _ and 
+potentially damaging. People finders come in a variety of shapes and 
+sizes; many of them are found on search engine sites and other Web 
+portals. Besides phone numbers, some provide fax numbers and e-mail 
+and home-page addresses, and some may eventually offer pager and cellular 
+phone numbers. People finders are popular. In September, Switchboard 
+logged 6.8 million visitors, Infospace 3.5 million, and Anywho 1.5 
+million. These electronic directories can be easier to use than directory 
+assistance or the white pages of a phone book, as their databases 
+do not require surfers to know the full name of the person they are 
+seeking. For example, Anywho lets you type in partial names that begin 
+with or end with certain letters or syllables _ or that rhyme with 
+certain syllables. Wild-card letters are allowed at Whowhere on Lycos; 
+for example, you can type in Franc(star)s if you cannot remember how 
+Francis or Frances spells his or her name. That site also provides 
+searches for e-mail addresses, government officials and people in 
+foreign countries. Some people finders offer lots of bells and whistles. 
+Searchers with Java-enabled browsers can type a surname into Whowhere.com 
+and see, on a rotating globe, the location of all the Carmen Sandiegos 
+in the world. Anywho can connect you directly by phone to a person 
+you found in a search (if you use a dial-up Internet connection, you'll 
+need a second phone line for the call). But for some people who value 
+their privacy, these services may make it difficult to get and stay 
+lost. Many sites provide Web surfers with a map to your house and 
+listings of nearby neighbors, hotels, restaurants and even post offices. 
+(Yahoo's People Search actually puts a big red star on the map in 
+front of your house.) That degree of detail is a little alarming if 
+there are cyberstalkers who want to know where you live. Conceivably, 
+a stalker could get a person's name with a search based on an e-mail 
+address, then find where the person lives. Switchboard.com, which 
+also includes e-mail addresses in its search results, was the last 
+of the people finders to include neighborhood maps, said David Gersh, 
+director for business development at the company, in Westborough, 
+Mass. ``It was a Catch-22 for us, it honestly was,'' he said. ``We 
+were concerned about privacy. Talking to users, we found people were 
+split about wanting maps associated with their own house, but they 
+definitely wanted maps of other people's houses. It was a competitive 
+disadvantage to us not to provide maps.'' The company decided to show 
+a person's street but not the exact location of the person's house. 
+To test the effectiveness _ and the potential intrusiveness _ of people 
+finders, Christopher Dillingham, an adjunct professor of communications 
+at the University of Central Florida, tried to find personal information 
+on line about his former colleagues at the Deland, Fla., police department. 
+He described the search in an article on the Internet. ``Most, if 
+not all, state laws make it a crime to maliciously publish an officer's 
+address,'' Dillingham said. ``Most states also have confidentiality 
+clauses that allow officers exceptions from public record requirements.'' 
+But Dillingham was able to find everyone he searched for, including 
+five former supervisors, and their addresses, maps to their homes 
+and, in some cases, their phone numbers through simple searches on 
+American Directory Assistance. Generally, a lot of personal information 
+about someone can be made public on line legally _ what's legal can 
+vary from state to state. If a phone number is unlisted, Dillingham 
+said, there are still many other places, like utility-company and 
+delivery-service databases, that may make it available. The majority 
+of data searched by the people finders comes from phone books that 
+a handful of companies collect and either scan or retype into one 
+huge database. Info USA, based in Omaha, has 350 workers who type 
+in, verify and update information. It says its database includes 11 
+million businesses, and it is compiling a directory of 110 million 
+households. (According to updated United States census figures from 
+August 1997, the total number of households in the country is 109.8 
+million, and many of them have unlisted phone numbers or no phone 
+service at all, though others have multiple lines.) The company calls 
+all the businesses in its yellow pages at least once a year to verify 
+information. The only way an unlisted phone number can get into Internet 
+people finders, said Lauren Bigelow, director of content development 
+for Alta Vista, is if it was published in an old directory before 
+it was unlisted and if that old directory is used as part of the database. 
+People with unlisted phone numbers can create an electronic listing 
+for themselves on different people finders that simply lists their 
+e-mail addresses or business affiliations. But people who want to 
+protect their privacy must still search out all the people-finder 
+databases they are listed in and ask to be removed, said Susan Scott 
+of Truste.org, a group that promotes privacy rights on line and offers 
+a seal of approval for Web sites that protect users' privacy. Dillingham 
+said people concerned with privacy should use alternate addresses, 
+like post office boxes, when filling out any document that is a public 
+record, like a driver's license application. They should also tell 
+businesses that they do not want their personal information distributed 
+or sold, he said. Someone who really does not want to be found can 
+get a phone number under another name, he said. While people can remove 
+their listings from most people-finder directory pages, public records, 
+like bankruptcy filings, are increasingly becoming available on line 
+and can be used _ often for a price _ to track down those who may 
+leave few other traces. Such public documents record marriages, convictions, 
+real estate purchases, bankruptcies and deaths. ``More and more courts 
+are putting their records on line so you can go and pull up a claim 
+for free,'' said Chris Sherman, a Web search guide at the Mining Co. 
+(www.miningco.com), the human-powered search engine site, adding that 
+such records can be very easy or very difficult to see, depending 
+upon the jurisdiction. He said knowx.com appeared to be the easiest 
+site to use for records searches, and added that such searches could 
+also be done at subscription databases like Lexis-Nexis (www.lexisnexis.com) 
+and West Publishing (www.westpub.com). One site, 1-800-U.S. Search 
+(1800ussearch.com), does background checks for $139. Safeguards are 
+in place to help keep pranksters from changing other people's listings. 
+At Switchboard and Lycos, you can change your listing via e-mail once 
+you have a password. Anywho, which powers people finders at the Excite, 
+Webcrawler and Infoseek portals, requires you to place a call from 
+the number in question to change your directory listing. Switchboard, 
+Alta Vista and Lycos offer the electronic equivalent of Caller ID, 
+a service called either Knock Knock or Who's There, which allows searchers 
+to send queries to people who do not list their e-mail publicly. The 
+site acts as the intermediary, relaying a message to the person found, 
+who can either refuse the query or respond to it. People concerned 
+about their privacy should also be careful about making public postings 
+on line that could come back to haunt them, Ms. Scott warned. ``You 
+have to be very careful now where you decide to post your personal 
+information in a public forum,'' she said, pointing out that bulletin 
+boards and chat lines could be searched, even by potential employers. 
+``If you were part of a chat room when you were in college, and 10 
+years later _ who hasn't changed in that amount of time? _ let's say 
+you're going to apply for a job,'' she said. ``It may or may not be 
+you, it may be somebody with the same name, or it may be something 
+you totally regretted in your life, and you're not the same person 
+now.'' Looking to the future, Sean White, chief technology officer 
+at Lycos, predicted that directories would focus less on information 
+and more on people. ``If I wanted to contact you and you have five 
+e-mail addresses,'' he said, ``you would be able to say, `Here's the 
+primary one I want this mail going to,' or you could say on a particular 
+day, `I'm on vacation, and here's how I want it to be handled.' '' 
+The people finder would route your e-mail for you. Sherman, of the 
+Mining Co., said there was no good one-stop way to find people on 
+line. ``A lot of times, the easiest thing to do is call the reference 
+library in whatever city you think the person might be living in,'' 
+he said. He is looking forward to the centralization of the portals, 
+he said, when the search scene will become more unified. He expects 
+to see more consolidation of databases. ``Yahoo bought Four11.com, 
+and Lycos bought Whowhere,'' he said. ``Hopefully, they'll all have 
+an agreement, and form one standard or directory.'' In Florida, the 
+Conovers are looking forward to meeting Granger. ``Ted has talked 
+about him for years, and I have done my best to locate him for the 
+last five or six years,'' Ms. Conover said. ``I'd almost given up.'' 
+</TEXT>
+</DOC>

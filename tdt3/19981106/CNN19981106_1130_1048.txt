@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981106.1130.1048 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More than 4,000 workers at Levi Strauss are staying home for the holidays. 
+The company is closing seven factories during December and January. 
+The temporary shutdowns occurring in Texas, Georgia, Tennessee and 
+North Carolina. Levi is limiting production after losing market share 
+amid stiff competition from the likes of Tommy Hilfiger and the gap. 
+Idled workers will receive 90% of their pay through unemployment, 
+vacation and holiday pay. They'll go back to work in February. 
+</TEXT>
+</DOC>

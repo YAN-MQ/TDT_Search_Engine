@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> MNB19981123.2100.1293 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After a summer swoon, the Bulls are finally back on Wall Street today. 
+The Dow surpassed its previous high set in July and closed at a new 
+record high of 9374, up 214 points in heavy trading. Also strong gains 
+in the NASDAQ. It closed at 1977, up nearly 50 points also in very 
+heavy trading. With today's final push, the stock market has recovered 
+the ground it lost in the late summer when turmoil overseas prompted 
+fears of an economic downturn. Although the rally has been in progress 
+for weeks, Ron Insana says news today of a couple of high-profile 
+mergers took the market over the top. 
+</TEXT>
+</DOC>

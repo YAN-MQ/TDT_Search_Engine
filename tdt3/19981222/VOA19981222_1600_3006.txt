@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981222.1600.3006 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Once again, Dow Jones Industrial average closing up 55 points. This 
+is Breck Artery. Thank you, Breck. 
+</TEXT>
+</DOC>

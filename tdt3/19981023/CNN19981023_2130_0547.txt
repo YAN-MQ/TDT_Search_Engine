@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981023.2130.0547 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A grand jury in North Carolina has indicted Daniel Edward harrell 
+II on charges he sold more than $14 million worth of illegal cable 
+descramblers. Harrell's lawyer says his client is not a cable TV pirate. 
+Using or selling the descramblers is a federal crime. The cable industry 
+says it loses $5.1 billion a year because of them. 
+</TEXT>
+</DOC>

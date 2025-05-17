@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> CNN19981203.2130.0586 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Robots are taking over for humans in all kinds of dangerous jobs. 
+And these days, it's not just in simple, repetitive tasks. In this 
+edition of "tech trends," Rick Lockridge looks at a complex system 
+designed to make construction safer. a construction site can be a 
+dangerous place to work. One reason -- heavy equipment, from backhoes 
+to cranes, working in close quarters with people. Heavy loads dangle 
+from cables. Often the equipment operator can't actually see what 
+he's doing and has to rely on hand signals or guidance sent by walkie-talkie. 
+Researchers at the U.S. commerce department hope to reduce the danger 
+by developing remote-controlled cranes that don't rely on the physical 
+presence of an operator. This is a Crane that allows you to manipulate 
+objects and control them very precisely, more so than you could with 
+any existing type of Crane. The robotic Crane currently being tested 
+uses sensors, video cameras and the global positioning system to see 
+where it's going and what it's doing. We are sensing the location, 
+the position and the orientation of the machine in real time. That 
+information is wirelessly transferred off the machine to a receiver 
+at the construction site shack. It then goes from there down the Internet 
+to a receiving station. So the operator doesn't have to be sitting 
+in the Crane's cab or even in the same city. The experimental Crane 
+controls its load in eight different directions, unlike conventional 
+cranes, which only maneuver in three directions. That makes it easier 
+to keep the load from swinging out of control and reduces the need 
+for workers to guide it by hand. And a job can be mapped out in advance. 
+It allows us to simulate, ahead of time, planning without actually 
+moving the object on site. Once we have simulated the maneuver, we 
+can actually download the path and the job that's being done by the 
+particular machine to the machine on the construction site and say 
+"go." The first big test for the new Crane will be automatic deployment 
+of welding robots for Navy shipbuilding. Rick Lockridge, CNN. 
+</TEXT>
+</DOC>

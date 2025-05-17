@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> CNN19981229.1600.0139 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Pentagon is dismissing Baghdad's accusation that U.S. pilots initiated 
+yesterday's exchange of fire over the no-fly zone in northern Iraq. 
+Michael Skinner reports, U.S. military officials are releasing cockpit 
+videotape to back their claim. The video begins with one member of 
+the flight of four F-15e fighter bombers spotting a surface-to-air 
+missile launch. The timing is critical here. The Pentagon says the 
+time displayed on the instruments clearly shows Iraq fired first, 
+despite Baghdad's claim to the contrary. The pilots then go over to 
+the attack. The screen is split. The left side shows what the pilot 
+sees as he looks out the front of his aircraft. The head-up display 
+projects flight data on a clear screen in front of the cockpit. The 
+right-side image is taken from the aircraft's "lantirn" laser-targeting 
+pod. In this case, we're seeing what the plane's laser-guided bombs 
+are aiming at. The first F-15e launched two laser-guided bombs at 
+the radar and optical equipment guiding the S.A.M.S. Splash, splash. 
+I'm outside. a second plane fired at the same target. So does the 
+third, but, this time, the control Van, where the missile battery's 
+operators work, is also hit. The fourth plane in the flight could 
+not clearly identify the target and did not take part in the attack. 
+Michael Skinner, CNN. 
+</TEXT>
+</DOC>

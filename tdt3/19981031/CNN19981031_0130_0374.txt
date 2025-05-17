@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981031.0130.0374 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Four abortion clinics in three states received letters Friday claiming 
+to contain deadly Anthrax. Only one of the letters was opened, at 
+this planned parenthood clinic in indianapolis. As a precaution, 31 
+people there had to be decontaminated before being sent to the hospital. 
+They were given antibiotics as a preventative measure. The FBI says 
+all four letters appear to have been mailed from Cincinnati. 
+</TEXT>
+</DOC>

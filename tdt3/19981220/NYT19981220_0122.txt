@@ -1,0 +1,115 @@
+<DOC>
+<DOCNO> NYT19981220.0122 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Americans should be saving like crazy. Baby boomers _ the oldest in 
+the group of 78 million who were born between 1946 to 1964 are due 
+to retire in a decade or so _ are now in their prime earning years. 
+The after-tax return on investments has rarely been better and the 
+proliferation of 401(k) plans, individual retirement accounts and 
+other tax-favored saving plans has made thrift more painless than 
+ever. Instead, Americans are saving less than ever. Indeed, according 
+to the latest government figures, consumers have recently been spending 
+all of their incomes and then some. In September, the personal saving 
+rate slipped below zero for the first time since the Great Depression. 
+October was more of the same. On the surface the reason seems perverse: 
+Economists say the better people feel about their situation these 
+days the less likely they are to put aside extra money for the future. 
+The seemingly imperturbable stock market, strong confidence in the 
+economy and the ease of borrowing all help make consumers feel richer 
+and less inclined to postpone gratification. Some experts warn of 
+dire consequences, but the situation may not be as bad as it looks. 
+Despite the drop in personal savings, the broadest measure of saving 
+_ the national saving rate, which includes not just households but 
+corporations and the government sector _ has rebounded from its low 
+in the early 1990s. ``We have a lot of saving now compared to then,'' 
+said Gary Burtless, an economist at the Brookings Institution. Investment 
+in the nation's capital base certainly has not suffered. Foreigners 
+have been more than happy to send America their extra savings and, 
+given the risks abounding in the rest of the world, seem inclined 
+to continue to do so. Besides, with Asia and Latin America mired in 
+recessions that threaten to spread to Europe and the United States, 
+Americans' grasshopper habits may _ at least for now _ be more boon 
+than bane. ``This is not the time to tell people to stop spending,'' 
+said Gregory Mankiw, an economics professor at Harvard. Finally, the 
+fear that consumers will react to the recent orgy of spending by slamming 
+on the brakes and suddenly turning thrifty seems overblown. Consumers 
+are not as stretched as the saving numbers make it look. Wage and 
+salary income is going up faster than spending, and that is what most 
+households rely on. One reason the official savings rate is falling 
+is that interest income, which goes mainly to the rich, has been shrinking, 
+dragging down overall reported income gains. Most forecasters agree, 
+however, that each individual's own income, job situation, wealth 
+and confidence loom far larger in household spending decisions. Of 
+course, many Americans are passing up a chance to get back $2 in eight 
+years for every $1 they save today. That seems a trifle irrational, 
+even for well-off citizens of a very wealthy country. ``The standard 
+neoclassical view that people make rational trade-offs between present 
+and future and that we're saving the amount that best suits our purpose 
+is obviously wrong,'' said Robert Frank, an economist at Cornell who 
+argues in his new book, ``Luxury Fever,'' that Americans ought to 
+be saving 20 percent of their incomes. Moreover, what is good (or 
+at least acceptable) for the nation is not necessarily what is best 
+for the Joneses. Even optimists concede that one- to two-thirds of 
+baby-boomer households are not saving enough to maintain in retirement 
+the lifestyles to which they have become accustomed. Still, many economists 
+say that focusing on the plunge in personal savings is a bit misleading. 
+For one thing, the personal saving rate is one of the government's 
+least reliable statistics. That is not because the government does 
+not count 401(k)s and pensions or subtract loans. It is because saving 
+is the difference between two very large quantities, overall personal 
+income and overall personal spending. Minuscule changes in either 
+reported income or spending can produce huge changes in the savings 
+rate. Moreover, revisions based on more complete data sometimes paint 
+a different picture than the initial impression left by the published 
+statistics. For example, a rigorously researched 1987 paper, written 
+with another economist by Lawrence Summers, now deputy Treasury secretary, 
+who was then teaching at Harvard, attributed half of the drop in national 
+saving at that point to a decline in household savings. But subsequent 
+revisions of the national income accounts showed that the decline 
+they cited had not actually occurred. It is even harder to interpret 
+the data in a period when households, especially wealthy ones, are 
+reporting lots of profits from investments in the form of capital 
+gains. Last summer, government statisticians started subtracting capital 
+gains, which are not part of the nation's gross domestic product, 
+from personal income. That change, which reflects a shift in accounting 
+practices rather than any real change in household behavior, sliced 
+two percentage points off the published saving rate. None of this 
+is to deny that there have been real changes in savings as well. As 
+stock prices have risen, pushing up the value of assets held by pension 
+funds, corporations have cut back contributions to defined benefit 
+pension funds, which pay a set amount based on previous salary and 
+years of service. With more profit on their investments, corporations 
+do not need to set as much aside to meet their obligations. Pensions 
+are counted as household saving. John Sabelhouse, an economist at 
+the Congressional Budget Office, figures that nearly half the decline 
+in the personal saving rate is a result of the slowdown in pension 
+contributions. Then, too, consumers have been spending part of their 
+capital gains, especially on big-ticket items like houses, furniture, 
+appliances and cars (although, interestingly, not as large a part 
+as historical experience would suggest). More of them have been borrowing, 
+too. Tom Wolfe's down-and-out banker, Ray Peepgas, in his recent best 
+seller, ``A Man in Full,'' is maxed out on 18 credit cards and does 
+not know how he will make it through the weekend unless another one 
+arrives in the morning mail. He is a perfect symbol of the credit 
+revolution of the last five years that has allowed borrowers who previously 
+might have been forced to stop running up debt to keep on spending. 
+And companies that provide credit have been able to discriminate better 
+between different credit risks, tailoring interest charges accordingly. 
+Worse risks may have to pay higher rates, but they can still usually 
+get credit. The big fear is that the majority of baby boomers will 
+wind up working a lot longer than they expected because they have 
+not saved enough for their retirement. Although experts cannot agree 
+on what fraction of baby boomers is headed for trouble, the best estimates 
+range from one- to two-thirds. And everyone agrees that middle-class, 
+middle-aged Americans ought to be more worried about their futures 
+than they appear to be. For all the concerns, however, Americans seem 
+better prepared for retirement than the citizens of most other countries. 
+Thanks to the high-flying stock market, household wealth has swelled 
+by a record $8 trillion in just four years. The net financial worth 
+of American households equals nearly four times their income. German 
+households, by contrast, have a net financial worth of just twice 
+their incomes. 
+</TEXT>
+</DOC>

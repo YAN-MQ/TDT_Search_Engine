@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981022.2130.0987 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Toymaker Fisher-price is recalling up to 10 million battery-powered 
+"power wheels" cars and trucks. It's been determined electrical components 
+in the vehicles can overheat and cause fires even when they are not 
+in use. The consumer product safety commission says the toys have 
+caused 150 fires and 9 injuries. Fisher-price says people should remove 
+the toys' batteries immediately. Repairs can be scheduled by calling 
+1-800-977-7800 or by accessing the company's web site at www.powerwheels.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981029.2130.0150 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton and first lady Hillary Rodham Clinton were among 
+the dignitaries at the space center who watched today's historic launch. 
+The president said he felt like a kid at his first Christmas. Mr. 
+Clinton is the first president to witness a space launch since 1969. 
+</TEXT>
+</DOC>

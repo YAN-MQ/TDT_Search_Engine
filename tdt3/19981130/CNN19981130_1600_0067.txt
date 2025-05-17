@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981130.1600.0067 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Starting today, gun purchases won't take as long, but they may be 
+more complicated. A new national system provides instant background 
+checks on all gun purchases, including rifles and shotguns. That means 
+the usual number of checks will double to an estimated 12.4 million 
+per year. On average, that many firearms are sold each year in the 
+U.S. Sarah Brady, who helped implement the five-day waiting period 
+that this system replaces, says the new method has its faults. Mental 
+health records, for many of the states, are not going to be on the 
+national system. Restraining orders, misdemeanors involving domestic 
+abuse -- those folks are prohibited from purchasing a gun. They're 
+going to fall through the cracks, and this is not a time when we have 
+seen such a wonderful reduction in violence with guns to be able to 
+allow these loopholes to continue. We must tighten up these loopholes. 
+Officials say they may have problems implementing the system, because 
+december is the busiest month of the year for gun sales. 
+</TEXT>
+</DOC>

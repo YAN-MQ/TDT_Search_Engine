@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981124.1600.0916 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a check of our top stories. Attorney general Janet Reno has 
+decided not to order an independent counsel to investigate vice President 
+Al Gore's fund-raising efforts. But she says the investigation of 
+democratic campaign fund-raising will continue. 
+</TEXT>
+</DOC>

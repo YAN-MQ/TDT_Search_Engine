@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> CNN19981105.1600.0314 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Scientists are celebrating a stunning discovery. Researchers in Wisconsin 
+say they have successfully grown cells with the ability to become 
+any kind of cell at all. And that could lead to treatments for countless 
+diseases. Elizabeth Cohen explains. Imagine if, in a laboratory, scientists 
+could create all sorts of human cells -- heart cells -- to repair 
+damage from a heart attack. Liver cells to treat hepatitis. Red blood 
+cells for cancer patients. While it's still a medical fantasy, scientists 
+this week announced they've made a major step forward. Here's what 
+they did. They took a sperm from a man and an egg from a woman. The 
+egg and sperm grew in a Petri dish for several days until they became 
+a Ball of cells called a blastocyst. The researchers then took special 
+cells from within the blastocyst and cultured them, producing what 
+are called human stem cells. Stem cells are blank cells that can develop 
+into virtually any cell in the human body. Scientists don't know how 
+to customize these blank stem cells into brain cells or heart cells 
+or any other specific cell. That's the next step. And then eventually, 
+way down the road, researchers think perhaps they could even grow 
+entire organs. But first there are a number of ethical considerations. 
+Number one -- where did they get the egg and sperm in the first place? 
+In one experiment, they asked couples who had undergone artificial 
+insemination for permission to use eggs and sperm they no longer needed. 
+Scientists then put the eggs and sperm together in the laboratory. 
+But in another experiment, researchers used cells from aborted fetuses. 
+The second ethical concern -- can scientists screen the egg and sperm 
+for diseases 100%? I don't think there's a practical way to test these 
+cells for every genetic condition there is, at least at this time. 
+And lastly, how do you regulate this kind of new technology? These 
+studies used no federal funds. Of course, if the government is not 
+funding it, it has minimal amounts of say about what goes on. The 
+Geron corporation, a biotech firm in Menlo park, California, paid 
+for the research. The company expects it will take another five or 
+ten more years of research until the stem cells become medical cures. 
+Elizabeth Cohen, CNN, Atlanta. 
+</TEXT>
+</DOC>

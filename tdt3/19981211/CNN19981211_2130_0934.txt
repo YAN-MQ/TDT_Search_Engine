@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981211.2130.0934 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And it was a successful launch today for NASA's Mars climate Orbiter. 
+The craft will arrive at the red planet in September of next year. 
+</TEXT>
+</DOC>

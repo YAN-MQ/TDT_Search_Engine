@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981019.1700.3024 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In London, the Financial Times 100 share index ended the day down 
+56 points at 5.078, while in Paris, the CAQ 40 index was up five points 
+to 3,395. Stocks on the DAQ's index in Frankfurt were three points 
+lower at 4,466. The price of gold closed in New York at $296.10 an 
+ounce, down $3.90. The dollar was mostly higher against the other 
+major currencies. 
+</TEXT>
+</DOC>

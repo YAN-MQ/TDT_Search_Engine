@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> APW19981021.0828 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The countdown ahead of the third and final test launch of Europe's 
+Ariane 5 rocket was stopped Wednesday just as the launch window opened. 
+Officials said the countdown for the unmanned rocket, set to blast 
+off from its space base in South America, could be restarted at any 
+moment. The launch window runs from 1600 to 1730 GMT. Technicians 
+at the headquarters of Arianespace, in Evry south of Paris, gave no 
+reason for the stop in the countdown. Arianespace commercializes the 
+European rockets. The Ariane 5 is the most powerful in the series 
+of unmanned European rockets. Wednesday's scheduled launch at the 
+space center in French Guiana, on the northern shoulder of South America, 
+is to be the third and final test launch before the rocket goes into 
+commercial use. The first Ariane 5 launch crashed in June 1996 and 
+the second launch a year ago was less than perfect. ``Flight 503, 
+3rd graf pvs (eg-var) 
+</TEXT>
+</DOC>

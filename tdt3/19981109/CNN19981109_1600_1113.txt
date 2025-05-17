@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981109.1600.1113 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And a trial gets under way in Washington today. The trial of Joe camel. 
+The federal trade commission is seeking a permanent ban on advertisement 
+that features Joe camel even though R.J. Reynolds voluntarily withdrew 
+Joe from ads a year ago. The FTC alleges the company committed unfair 
+trade practice by using the character to attract minors to smoking. 
+It wants them to pay for a consumer education program. 
+</TEXT>
+</DOC>

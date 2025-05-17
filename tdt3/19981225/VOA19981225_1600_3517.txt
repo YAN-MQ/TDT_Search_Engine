@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> VOA19981225.1600.3517 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+We're coming up on 22 hours, Universal time. And that means we're 
+closing down all frequencies to the Middle East, North Africa, and 
+Europe. Except for 1548 kHz medium-wave to the Persian Gulf region. 
+In Europe during the next hour, VOA News Now can be heard on WRN1. 
+Via Astra channel 22. Audio subcarrier 7.38 MHz. VOA News Now continues 
+to East Asia on 7.215, 9.77, 9.89, 11.76, 15.185, 15.29, 15.305, 17.735, 
+and 17.82 MHz short-wave. For our listeners in Africa, tune to 6.035, 
+7.415, 11.975, 12.08, and 13.71 MHz short-wave. Plus 909 and 1530 
+kHz medium-wave. And stay tuned now, as Susan Yackee comes your way 
+with the next hour of VOA News Now. 
+</TEXT>
+</DOC>

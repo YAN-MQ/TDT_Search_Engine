@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981102.1600.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Flooding across Oklahoma and Kansas has forced hundreds of residents 
+to flee their homes. Some areas received nearly a foot of rain over 
+the weekend. 
+</TEXT>
+</DOC>

@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> NYT19981218.0416 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A government advisory group has voted to give a clean bill of health 
+to the artificial sweetener saccharin, which, despite its pink-packeted 
+presence on restaurant tables everywhere, has been classified since 
+1981 as a suspected cause of cancer. The group, the executive committee 
+of the National Toxicology Program, voted 6 to 3 at a meeting Wednesday 
+to recommend that saccharin be removed from the government's list 
+of suspected carcinogens, said a scientist who attended the meeting 
+and who spoke on the condition of anonymity. The toxicology program 
+is part of the Department of Health and Human Services, and its role 
+is to coordinate government programs that evaluate the safety of chemicals 
+to which people are exposed, including substances like saccharin that 
+are added to foods. The program is based in Research Triangle Park, 
+N.C. The committee's vote is not the final word on saccharin, but 
+it carries weight with policymakers. The vote will be considered by 
+the toxicology agency director, Dr. Kenneth Olden, who is to make 
+a recommendation about saccharin in a Report on Carcinogens that will 
+be presented next summer to Donna Shalala, secretary of Health and 
+Human Services, and later to Congress. Officials at the toxicology 
+agency declined to comment on the vote, said a spokeswoman, Sandra 
+Lange. The reason for secrecy was not clear, and several scientists 
+who attended the meeting said they were puzzled by it. Ms. Lange said 
+meeting participants had been instructed not to disclose the vote 
+because executive committee meetings are not public and it is the 
+executive committee's policy to keep its proceedings confidential. 
+The committee action followed votes by three other advisory groups 
+that had been asked to evaluate saccharin studies in people and animals. 
+Two of the other groups, comprising government scientists, had also 
+recommended that saccharin be taken off the official list of suspected 
+carcinogens. But a panel of non-government experts on carcinogens 
+that met in October 1997 voted 4 to 3 to keep saccharin on the list. 
+The toxicology agency's executive committee was asked to take all 
+the earlier results into account when voting. The votes were part 
+of a review process that began in September 1996 when the Calorie 
+Control Council, an Atlanta-based trade group for the diet-food industry, 
+petitioned the toxicology program to have saccharin removed from the 
+list of ``anticipated,'' or likely, carcinogens. In past years, the 
+toxicology program has removed seven substances from the list, either 
+because the evidence of danger was judged insufficient, or because 
+people in the United States were not exposed to the chemicals, said 
+Dr. William Jameson, head of the Report on Carcinogens Group of the 
+toxicology program. About 200 chemicals are now on the list. Jameson 
+said that if saccharin is taken off, it will be the first compound 
+to be removed by means of a review process as rigorous as the one 
+required to put a substance on the list in the first place. Saccharin 
+was first singled out as a possible carcinogen in 1977 by a Canadian 
+researcher. The Food and Drug Administration sought to ban it, but 
+consumers, who would have been left without any artificial sweeteners, 
+protested. Cyclamates, another sweetener, had been banned as carcinogenic. 
+Ultimately, Congress refused to ban on saccharin, but required warning 
+labels. The results of the four recent votes on saccharin, none of 
+which was unanimous, reflect the fact that, despite years of research, 
+scientists still disagree about how to interpret the data. Most studies 
+in people have not found a link between saccharin and cancer, but 
+a few did suggest a connection to an increased risk of bladder cancer. 
+But researchers say that even those studies indicate that if saccharin 
+is carcinogenic, it is only weakly so. In rats, high doses of saccharin 
+do cause bladder cancer, but Dr. Samuel Cohen, a pathologist at the 
+University of Nebraska, says he has found that the saccharin is interacting 
+with a component in rat urine that is not found in human urine. Therefore, 
+Cohen says, the rat studies have no bearing on people. Other scientists 
+have questioned that assertion, and countered that tumors might still 
+form in people by some other mechanism. Saccharin accounts for about 
+one-third of the artificial sweetener sold in the United States. (Most 
+of the rest is aspartame, sold as Nutrasweet and Equal.) The main 
+ingredient in the popular sugar substitute Sweet 'N Low, saccharin 
+is also added to diet pastries, candies, chewing gum, toothpaste, 
+mouthwash, salad dressing and other products. But foods containing 
+it must carry warning labels that state: ``Use of this product may 
+be hazardous to your health. This product contains saccharin, which 
+has been determined to cause cancer in laboratory animals.'' Striking 
+saccharin from the carcinogen list does not mean that the warnings 
+would be dropped immediately: They are required by law. But taking 
+saccharin off the list might open the door to getting rid of them. 
+The Center for Science in the Public Interest, a consumer health group 
+based in Washington, strongly criticized the move to remove saccharin 
+from the list. Dr. Michael Jacobson, director of the center, said 
+the government had been unduly influenced by the diet-food industry. 
+</TEXT>
+</DOC>

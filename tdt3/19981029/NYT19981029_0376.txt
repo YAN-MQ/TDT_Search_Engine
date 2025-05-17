@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> NYT19981029.0376 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The latest New York Times/CBS News Poll is based on telephone interviews 
+conducted Monday through Wednesday with 1,118 adults throughout the 
+United States. Of these, 942 said they were registered to vote. The 
+sample of telephone exchanges called was randomly selected by a computer 
+from a complete list of more than 42,000 active residential exchanges 
+across the country. Within each exchange, random digits were added 
+to form a complete telephone number, thus permitting access to both 
+listed and unlisted numbers. Within each household, one adult was 
+designated by a random procedure to be the respondent for the survey. 
+The results have been weighted to take account of household size and 
+number of telephone lines into the residence and to adjust for variations 
+in the sample relating to geographic region, sex, race, age and education. 
+In theory, in 19 cases out of 20 the results based on such samples 
+will differ by no more than three percentage points in either direction 
+from what would have been obtained by seeking out all American adults. 
+For smaller subgroups the potential sampling error is larger. For 
+example, for 572 ``likely voters'' it is plus or minus four percentage 
+points. For 400 ``more likely voters'' it is plus or minus five. Registered 
+voters were categorized as likely (or more likely) according to their 
+stated intention to vote next week, their expressed interest in the 
+campaign, and their reported voting behavior in past elections. In 
+addition to sampling error, the practical difficulties of conducting 
+any survey of public opinion may introduce other sources of error 
+into the poll. Variations in wording of questions or in the order 
+of questions, for instance, can lead to somewhat different results. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981201.2130.0981 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If you have an "icy rider" toboggan, you may want to take it back. 
+Rubbermaid is recalling 60,000 of them -- the ones with model number 
+2108. The company says the front of the toboggan can break away during 
+a ride. It's made of purple plastic, with a yellow rope. If you own 
+one of these toboggans, contact rubbermaid for a replacement. 
+</TEXT>
+</DOC>

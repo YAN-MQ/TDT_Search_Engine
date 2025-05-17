@@ -1,0 +1,121 @@
+<DOC>
+<DOCNO> NYT19981118.0075 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Microsoft trial is not merely a legal prizefight. With its parade 
+of witnesses and mountains of documents, it has opened a window to 
+the inner workings of Microsoft Corp. and how it deals with the rest 
+of the computer industry, raw material for a digital-age ``Dynasty.'' 
+Last week's episode: Family Feud. The story told in a federal courtroom 
+in Washington was how, from the spring of 1995 to the summer of 1996, 
+an extraordinary rift developed between Microsoft and Intel Corp. 
+_ partners in the most lucrative business relationship in modern capitalism 
+_ and how it was patched up. At the time, people in the computer industry 
+knew about the Microsoft-Intel split over multimedia software developed 
+by Intel, called ``native signal processing,'' or NSP. But the depth 
+of the rift, its significance and the personal animosities involved 
+were not really apparent until last week with the testimony of an 
+executive of Intel and internal e-mail and documents from both companies 
+that were submitted as evidence. The crack in the partnership was 
+repaired personally by the chief executives of the two companies, 
+Bill Gates of Microsoft and Andrew Grove of Intel, over lengthy dinners, 
+which included shouting matches and frequent e-mail dialogues. In 
+the end, Intel backed down from a technology initiative that Grove 
+once described in an e-mail to Gates as ``key to the growth of the 
+PC industry.'' The antitrust issue in the case is: Why did that happen? 
+The government argues that the Intel episode demonstrates how Microsoft 
+unfairly uses its market muscle to bend the industry to its will _ 
+in this case even Intel. Nothing so sinister, Microsoft scoffs. Intel, 
+Microsoft says, was eventually persuaded to stop pushing a misguided 
+technology effort that could have hobbled the rollout of new personal 
+computers running Windows 95, the operating system Microsoft released 
+in August 1995. It was a decision that assuredly helped Microsoft, 
+the company admits, but it was also in Intel's enlightened self-interest 
+because the giant chip maker's main business is selling new computers 
+powered by Intel microprocessors, and the increased demands of each 
+new iteration of Windows sends buyers scurrying to buy more powerful 
+computers. To be sure, Microsoft and Intel often debate which technology 
+standards to champion. But the debate over NSP became a more public 
+and a more significant issue than most. Intel's senior executives 
+had declared at industry conferences that NSP could help encourage 
+more households to buy personal computers because improving audio 
+and video performance would make ``the PC sing and dance.'' And as 
+a software effort, NSP was clearly seen by Microsoft as an unwelcome 
+foray into its domain. ``The main issue was that it was crucial software 
+that Microsoft did not control,'' said Richard Doherty, president 
+of Envisioneering, a research firm in Seaford, N.Y. The e-mail submitted 
+in court sheds light on the ambivalence in the Microsoft-Intel relationship, 
+painting an environment in which they circle each other warily. There 
+is mutual distrust and personal sniping on both sides. Yet ultimately, 
+the benefits to both sides of the sometimes bumpy ``Wintel'' partnership 
+led them back to a pragmatic accommodation. By April 1995, Microsoft 
+had awakened to the potential significance of Intel's NSP effort. 
+After a meeting with Microsoft executives, Gerald Holzhammer, an Intel 
+executive, wrote in an e-mail to his colleagues on April 13, 1995, 
+that Microsoft was ``upset with us being in `their' operating system 
+space _ no surprise there.'' By May, Gates decided to protest directly 
+to Grove. In an e-mail on May 25, 1995, Gates called NSP ``a significant 
+problem here that is on a path to get a lot worse.'' Clearly upset 
+by software being developed at the Intel Architecture Labs in Hillsboro, 
+Ore., he complained to Grove, ``I don't understand why Intel funds 
+a group that is against Windows 95.'' Later, he added, ``In software 
+you have a group that won't allow us to lead and has all the prestige 
+and profits of Intel to drive them forward.'' Commenting on Gates' 
+e-mail, Paul Maritz, a senior Microsoft executive, noted on the same 
+day that there was ``a strong faction within Intel'' that wanted to 
+use NSP as a step toward expanding Intel's intellectual property claims 
+in the industry. ``We have to be very careful about this,'' Maritz 
+wrote in his e-mail to Gates and others, ``given our recent discussions 
+about needing balance to Intel in the market'' _ an apparent reference 
+to Microsoft's work with other chip makers to keep Intel from becoming 
+more powerful. On June 8, 1995, Grove made his appeal for NSP to Gates. 
+Terming it ``key to the growth of the PC industry,'' Grove added that 
+while Microsoft and Intel had ``differences of opinion on the detailed 
+approach,'' he was confident that the two companies could resolve 
+them. In a philosophical digression, Grove wrote, ``I think Microsoft 
+and Intel have special responsibilities toward the PC industry.'' 
+Later, he added: ``If you believe that what we are trying to do is 
+good for the industry, please help us (plural us: Intel and Microsoft 
+and whoever else needs to participate) achieve it. Merely being critical 
+of what we have undertaken is not helpful.'' On June 22, 1995, Maritz 
+wrote to Ron Whittier, an Intel executive, to inform Intel of Microsoft's 
+stance on NSP in no uncertain terms. Microsoft, he wrote, had told 
+personal computer makers that ``we have major issues with NSP and 
+our advice to them is NOT to use it.'' On July 7, 1995, Gates sent 
+an e-mail to a group of Microsoft executives briefing them on a three-hour 
+dinner with Grove two days earlier in San Jose, Calif. ``Fundamentally,'' 
+Gates began, ``Intel and Microsoft have not been doing a very good 
+job of working with each other in most areas.'' ``The main problem 
+between us right now is NSP,'' Gates wrote. ``We are trying to convince 
+them to basically not ship NSP.'' Not known for being awed by the 
+intelligence of others, Gates included an aside about Grove: ``Although 
+Andy is super-smart in software-related areas and in some aspects 
+of the PC market, it is amazing what he doesn't know.'' By August 
+1995, when Windows 95 was released, Microsoft's pressure on Intel 
+and personal computer makers to step back from NSP had succeeded, 
+Steven McGeady, an Intel vice president testified last week. By then, 
+McGeady said, he believed Intel's NSP program had been ``shot in the 
+head.'' In an Oct. 18, 1995, e-mail, Gates told several executives 
+that Intel felt that after Microsoft's ``NSP chill'' personal computer 
+makers would not do anything to fine-tune their machines to exploit 
+Intel's new multimedia chip, the MMX, for Windows 95 ``unless we say 
+it's OK.'' Gates added, ``This is good news,'' because it meant the 
+computer makers ``are listening to us.'' The regular meetings between 
+Gates and Grove continued. While conflicts persisted, especially over 
+what Microsoft viewed as Intel's support for its rivals in the Internet 
+software business, like Netscape Communications Corp. and Sun Microsystems 
+Inc., the Microsoft-Intel relationship clearly was on the mend after 
+the NSP issue was settled. On June 9, 1996, Gates wrote an e-mail 
+to his senior executives, briefing them on a two and a half hour meeting 
+he had had two days earlier with Grove. ``Our relationship with Intel 
+is advancing on many fronts,'' Gates began in a lengthy e-mail sent 
+at 10:26 p.m. on a Sunday. The strengthening of the Microsoft-Intel 
+relationship was a message Gates was eager to communicate to a wider 
+audience. He and Grove had recently given a chummy performance for 
+Fortune magazine. He passed this along in his e-mail to his colleagues: 
+``The Fortune magazine coming out in a week features a joint interview 
+with Andy and I where we are very friendly to each other.'' NYT-11-15-98 
+1505EST 
+</TEXT>
+</DOC>

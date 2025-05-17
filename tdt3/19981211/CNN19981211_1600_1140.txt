@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981211.1600.1140 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For more business news, when you're logged on, check out our web site 
+at cnnfn.com. Next in "Headline Sports" -- how the race for the NFL 
+playoffs is coming along. Jerome Jurenovich, "CNN Headline Sports." 
+</TEXT>
+</DOC>

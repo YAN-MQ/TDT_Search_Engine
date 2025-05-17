@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981124.1830.1017 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"On the money" tonight--- investors on Wall Street were selling stocks 
+today after yesterday's record high. The Dow Jones industrial average 
+was down more than 73 points to close at 9301. On the NASDAQ, stocks 
+were down 11 1/2 points. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981116.1130.1018 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Also weighing on the bond market -- manufacturing activity at the 
+nation's factories slowed in October -- the fourth decline in five 
+months. Industrial production fell by 0.1% last month. Analysts had 
+been forecasting a slight increase. 
+</TEXT>
+</DOC>

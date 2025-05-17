@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981102.1600.1321 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Well, after missing the last five games with a broken collarbone, 
+cowboys quarterback Troy Aikman returns to his team tonight. The Cowboys 
+face Philadelphia on "Monday night football." 
+</TEXT>
+</DOC>

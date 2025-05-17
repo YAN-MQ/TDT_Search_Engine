@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> NYT19981127.0275 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+As the German banking giant Deutsche Bank AG prepared to announce 
+its $9.67 billion acquisition of the Bankers Trust Corp. on Monday 
+in Frankfurt, employees and investors awaited word on several important 
+issues. Chief among these issues is how many employees will be laid 
+off as part of the transaction. Executives involved in the merger 
+negotiations said administrative staff would be cut back to reduce 
+overlapping back office functions. At the managerial and executive 
+level, there are expected to be layoffs among Bankers Trust employees 
+in Europe and Deutsche employees in the United States. Financing also 
+remains unclear. In a statement earlier in the week, Deutsche and 
+Bankers said the purchase would be in cash, but it was not clear whether 
+Deutsche would dip into its own ample reserves to buy Bankers or seek 
+other ways of raising the money. Deutsche Bank said Wednesday that 
+it was not planning to sell its 12 percent ownership stake in DaimlerChrysler, 
+the new company created by the merger of Daimler-Benz AG and the Chrysler 
+Corp., to raise cash. Lawyers in the United States who are experts 
+in American banking law said that the DaimlerChrysler holding would 
+not pose regulatory problems for Deutsche in this country. While it 
+is also known that a Deutsche executive, Josef Ackermann, and Bankers 
+Trust's chairman, Frank Newman, will jointly oversee the new investment 
+banking unit created by the merger, the structure and locations of 
+the rest of the business are not yet clear. Both companies' boards 
+have given preliminary approval to the merger. On Sunday the boards 
+are expected to sign off on tax and legal issues that were resolved 
+during the week. After the Bankers board votes on Sunday, Newman will 
+fly to Frankfurt for the Deutsche board's vote. The transaction is 
+the largest acquisition of an American financial institution by a 
+foreign bank. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981210.1600.0338 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. and Russian shuttle astronauts have entered the international 
+space station for the first time. They're going to complete the communications 
+system. I'm John Burchard, VOA News. 
+</TEXT>
+</DOC>

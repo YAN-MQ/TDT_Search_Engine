@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981013.1130.0702 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Most parents of small children know the painful stressful toll of 
+ear infections all too well. What if there was a way to prevent them? 
+Researchers are studying an experimental vaccine that may protect 
+children from a type of bacteria called pneumocaucus, the most common 
+cause of ear infections of children. The vaccine isn't perfect. There 
+are over 80 types of pneumocaucus. The vaccine covers seven. Those 
+seven types are responsible for about 85% of severe diseases and about 
+65% of middle ear infections. So it will help enormously, but it's 
+not going to eliminate all infections. Studies on the vaccine continue 
+and it could be available in two to five years. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981016.0130.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the FAA is recommending airlines replace the plastic coating on 
+some insulation on their planes. The move was made in part because 
+wreckage from Swissair flight 111 showed heat damage to some insulation 
+that may have come from a fire. 
+</TEXT>
+</DOC>

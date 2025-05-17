@@ -1,0 +1,55 @@
+<DOC>
+<DOCNO> NYT19981231.0357 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Bell Atlantic, the nation's largest local telephone company, is in 
+talks to buy Airtouch Communications, the largest wireless telephone 
+company for $45 billion in stock, executives close to the companies 
+said Thursday night. The deal, which could be announced as early as 
+Monday, would bring New York-based Bell Atlantic, which already offers 
+cellular services along the East Coast, one step closer to creating 
+a nationwide and even international wireless network. Airtouch serves 
+the entire West Coast and has a number of partnerships in Europe and 
+Asia that would expand Bell Atlantic's network considerably on those 
+continents. Among those is a partnership with Mannesmann Mobilfunk 
+of Germany that makes Airtouch one of the biggest providers of cellular 
+services in Europe. In all, international wireless services make up 
+57 percent of Airtouch's operating income, according to Deutsche Bank 
+Research. As with any deal not yet sealed, talks could fall apart 
+at any time. Both boards are expected to meet over the weekend to 
+discuss details. Any deal would also need the blessing of GTE, which 
+agreed last summer to be acquired by Bell Atlantic in a $52.9 billion 
+stock swap. At the time, GTE shareholders complained that Bell Atlantic 
+did not pay a premium for their shares as is typical in large stock 
+acquisitions. But as of Thursday night, GTE executives were said to 
+be supportive of the deal, believing it would be good for the combined 
+companies. Analysts said Thursday that if a deal is reached, the prices 
+of some cellular calls on the newly combined network could be sliced 
+by more than 50 percent. ``With all the increased competition in the 
+industry, rates have been falling around 15 percent to 20 percent 
+annually in wireless,'' said Mel Marten, an analyst with Edward Jones. 
+``If this acquisition doesn't accelerate that amount, it should definitely 
+keep it continuing.'' And beyond lower prices, analysts said that 
+the main impetus for combining cellular networks was the ongoing effort 
+within the industry to offer service plans that can be used anywhere 
+in the United States. Last year, AT&AMP;T introduced its Digital One 
+rate service, which lets users buy 600 wireless minutes at $90 a month 
+that can be used anywhere in the country. Sprint PCS has introduced 
+similar plans. A Bell Atlantic and AirTouch combination, analysts 
+said, would be well positioned to compete against both plans. Based 
+on the closing stock price Thursday, Bell Atlantic has a market value 
+of $87 billion, twice that of AirTouch, which is valued at $41.4 billion. 
+``This deal makes all the sense in the world,'' said Charles A. Morris, 
+manager of the T. Rowe Price Science and Technology Fund, which owns 
+AirTouch stock. ``This allows them to have a national footprint and 
+compete with AT&AMP;T and Sprint PCS.'' Still, any combination of 
+the two companies faces hurdles among both regulators and investors. 
+For one thing, the merger between GTE and Bell Atlantic, which is 
+currently under scrutiny by the federal government, has not yet been 
+completed. Adding another party to that merger could raise even more 
+eyebrows in Washington, even though some industry observers suggest 
+a Bell Atlantic and AirTouch combination is likely to be completed 
+first. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981223.1600.2974 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The orders for durable goods products expected to last three years, 
+or longer, rebounded in the United States last month. Those orders 
+rose by one-percent after a two-percent decline in October. 
+</TEXT>
+</DOC>

@@ -1,0 +1,47 @@
+<DOC>
+<DOCNO> NYT19981116.0206 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A new study suggests that if you have to make a speech at the stockholders' 
+meeting, give your first piano recital or do the tango in a dance 
+contest, you may want to have Mom and Dad _ and anyone else who wants 
+you to excel _ stay home. Two psychologists, Dr. Jennifer L. Butler 
+of Wittenberg University in Springfield, Ohio, and Roy F. Baumeister 
+of Case Western Reserve University in Cleveland, report research showing 
+that people did less well on tasks performed in front of audiences 
+that were rooting for them than they did in front of those who were 
+not. The research was published in the November issue of the Journal 
+of Personality and Social Psychology. To study the effects of supportive 
+audiences, the researchers organized three laboratory experiments. 
+In the first, 40 people were seated before a one-way mirror and asked 
+to count backward by 13 as quickly and accurately as possible starting 
+with the number 1470. Half were told that a friend was seated on the 
+other side of the one-way mirror; half were told that a stranger was 
+there. Those believing they were performing in front of a friend made 
+a median number of 17.2 correct subtractions, 1.7 errors, and a total 
+of 18.9 calculations. Those told they were before a stranger performed 
+more calculations with fewer errors with 23 correct subtractions, 
+2.8 errors and 25.8 calculations. In the second experiment 23 subjects 
+were asked to perform a difficult video game _ flying a simulated 
+aircraft through an obstacle course quickly _ and were told that all 
+observers were strangers. But half of the observers would receive 
+a cash prize, as the performers would, if the performance surpassed 
+a certain score. The other half was told that only the performers 
+would receive cash. Before observers who would receive cash, the performers 
+took 10 seconds longer and crashed four times as often as those performing 
+before an audience with no financial interest in the outcome. The 
+third experiment, with 93 participants, was the same as the second 
+except the subjects were told that a third group of observers was 
+added that would receive the cash prize if the performers failed. 
+In this test, steps were taken to account for possible personality, 
+emotional and skill-proficiency differences among the performers. 
+Here the differences were smaller, but, again, the performers were 
+faster and crashed less often before the adversarial group than the 
+supporting group. Why should this be? Concentration, most students 
+of peak performance agree, is the key to skilled performance. And, 
+Baumeister said, ``people's reactions to those who support them, including 
+fear of disappointing them, may be more distracting than their reactions 
+to those you don't care about them.'' 
+</TEXT>
+</DOC>

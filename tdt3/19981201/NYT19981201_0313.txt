@@ -1,0 +1,45 @@
+<DOC>
+<DOCNO> NYT19981201.0313 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Extending the auction for one of the most attractive communications 
+systems yet put on the block, IBM has postponed the deadline for companies 
+to submit final bids for its global communications network until Dec. 
+8, executives close to the bidding said Tuesday. The auction, expected 
+to raise between $4 billion and $5 billion, was originally scheduled 
+to close Dec. 1, the executives said, but IBM pushed back the deadline 
+to allow bidders to become more comfortable with their final offers. 
+AT&AMP;T Corp., the United States' largest communications carrier, 
+and GTE Corp. are among the four companies that remain seriously interested 
+in acquiring IBM's international network, said the executives close 
+to the bidding. AT&AMP;T, GTE and IBM declined to comment. IBM, the 
+world's No. 1 computer maker, said in September that it was exploring 
+the potential sale of its communications network to focus on its equipment, 
+consulting and electronic commerce operations. IBM would use complicated 
+resale and lease-back arrangements to continue to offer communications 
+services to customers after a deal. (In fact, much of the traffic 
+on the IBM network consists of the company's internal corporate communications.) 
+But IBM would not bear the burden of maintaining and operating the 
+network itself. Perhaps the most valuable elements of the IBM network 
+are its banks of local telephone modems around the world, tied together 
+by international fiber-optic lines. It could take years for another 
+company to replicate IBM's local systems, country by country. That 
+is why as many as 24 companies were initially invited to participate 
+in the auction, though only a dozen progressed past the first round. 
+According to executives close to the bidding, among the communications 
+carriers that subsequently dropped out were Qwest Communications International 
+Inc. and the Global One venture, which includes Deutsche Telekom, 
+France Telecom and Sprint Corp. Qwest and Sprint declined to comment. 
+Rumors swirled around Wall Street and the telecommunications industry 
+earlier this week that AT&AMP;T had offered around $6 billion for 
+the IBM network, but executives close to the bidding said such reports 
+were inflated and premature. Nonetheless, some analysts said Tuesday 
+that AT&AMP;T could potentially be seen as a front-runner in the competition 
+for IBM's system, partly by virtue of its sheer size, which could 
+allow it to pay more for the network and still make it profitable. 
+And Michael Armstrong, AT&AMP;T's chairman, could be in a unique position 
+to understand what IBM likes in a suitor. He worked at IBM for three 
+decades. 
+</TEXT>
+</DOC>

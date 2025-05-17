@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981209.2000.1598 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones industrials closed down 19 points 
+at 9009, the NASDAQ went up 16 points, closed at 2050. 
+</TEXT>
+</DOC>

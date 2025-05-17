@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981103.1600.1485 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+You know something's amiss when election results are posted before 
+the election. That's what happened and the ABC News web site yesterday. 
+During a test posting of election totals. The outcome of races and 
+issues for all 50 states accidentally made it on line. The mock results 
+were available for a couple of hours U ABC News says the numbers were 
+for test purposes only, and did not reflect what the news organization 
+expects to happen. 
+</TEXT>
+</DOC>

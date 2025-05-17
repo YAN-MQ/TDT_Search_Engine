@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981110.2130.0904 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking this hour's top stories -- defense secretary William Cohen 
+says time is running out for Iraq to honor U.N. weapons inspections 
+mandates. Cohen has ordered the aircraft carrier "USS enterprise" 
+to arrive in the persian gulf three days ahead of schedule. 
+</TEXT>
+</DOC>

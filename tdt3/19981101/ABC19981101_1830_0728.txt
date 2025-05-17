@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> ABC19981101.1830.0728 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The space shuttle doesn't have the only exciting technology circling 
+the earth tonight. An international consortium led by Motorola is 
+offering a new phone service. There's nowhere on earth now that is 
+out of reach. Starting today, you can reach out and touch someone 
+just about anywhere. Hello? It's called "iridium," the first hand-held 
+satellite mobile phone system. The cellular customer is out of range. 
+Phone service covers only 10% of the planet. But the new technology 
+covers the globe, from the Amazon to the peaks of the Himalayas. Other 
+satellite phones are at least the size of a briefcase and need to 
+be aimed at a satellite 20,000 miles away. These new satellites are 
+in orbit, just 500 miles up, making the service as easy to use as 
+a cellular phone. When you want to use it in satellite mode, you flip 
+the antenna up, pull it out, and now you are ready to make satellite 
+calls. Calls get beamed to a fleet of 66 satellites, which then relay 
+the call back to earth. Good for people who need a phone where phone 
+lines don't exist. Not just business travelers, but oil riggers, relief 
+organizations, and even U.N. peace keepers. The system cost $5 billion 
+users $3,000. Making a call will cost several dollars per minute. 
+Still, relying on a fleet of moving satellites could result interrupted 
+service. There is always the possible that a satellite will move behind 
+a building or a tree and the system will be cut off. Despite the problems, 
+two other companies are right behind iridium, also betting the hand-held 
+satellite phone is the next big revolution in telecommunications. 
+Do I see it as the wave of the future? Definitely. The world is moving 
+wireless. So as the world gets smaller and smaller, wherever you are, 
+you're only a phone call away. Jami Floyd, ABC News, New York. 
+</TEXT>
+</DOC>

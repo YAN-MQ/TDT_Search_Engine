@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CNN19981011.1300.0587 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At a conference on heart disease in Washington, participants are talking 
+about the advances taking place in cancer research. Louise Schiavone 
+explains why. Dr. judah Folkman -- the Harvard researcher whose cancer 
+studies drew international attention this year -- now foresees a day 
+when many would-be heart surgeries are replaced by sophisticated drug 
+therapies. It is an exciting time in cardiology as it begins to link 
+up with angiogenesis research. Angiogenesis is a process in which 
+blood vessels grow and is directly linked to the growth of tumors. 
+His early laboratory success with a new class of drugs which control 
+that process -- drugs called "angiogenesis inhibitors" -- show it 
+is possible to reduce or eliminate cancerous tumors in mice and potentially 
+in people. Researchers are now applying angiogenesis inhibitors to 
+mice with blocked blood vessels with the goal of reversing the buildup 
+and presence of plaque. We decided to investigate this question in 
+our lab and the hypothesis was simply rewritten. "Is plaque growth 
+angiogenesis dependent? yes or no?" Like tumor growth is angiogenesis 
+dependent." Scientists have found a 70% to 85% reduction in plaque 
+buildup in mice like these treated with angiogenesis inhibitors. Doctors 
+already know the opposite effect using angiogenesis can help grow 
+new blood vessels to relieve those that are blocked. Dr. Folkman now 
+believes the combination of the two could be a powerful development 
+when applied to humans. These therapies, he says -- Might, in fact, 
+displace coronary bypass surgery, much like gastric surgery for bleeding 
+ulcers was displaced by the introduction of the H-2 blockers. Dr. 
+Folkman and other scientists don't know how long it will take to get 
+to that point. In the United States, more than 250,000 people undergo 
+heart bypass surgery every year. Because of the risks involved, in 
+surgery, doctors are excited about the potential offered by these 
+new drug-based alternatives to bypass. Louise Schiavone, CNN. Washington. 
+</TEXT>
+</DOC>

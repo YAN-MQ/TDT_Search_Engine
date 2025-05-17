@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981231.2130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- bitter winter weather is rolling in over 
+much of the eastern United States this new year's eve. Significant 
+snowfall is expected in New England after thousands of without electricity 
+after last week's ice storm. 
+</TEXT>
+</DOC>

@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> APW19981020.1069 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A Star Trek-type implant that enables direct communication between 
+the brain and a computer is allowing a paralyzed, mute stroke victim 
+to use his brainpower to move a cursor across a screen and convey 
+simple messages such as hello and goodbye. Researchers believe the 
+tiny implant the size of the tip of a ballpoint pen is the first device 
+that allows direct communication between the brain and a computer. 
+``Of all things people lose, the ability to communicate is the most 
+frightening thing _ to know what you want to say and not to be able 
+to say it,'' said Dr. Warren Selman, a neurosurgeon at University 
+Hospitals of Cleveland not involved in the research. ``This is the 
+first step to unlocking that.'' Doctors implanted a device into the 
+53-year-old man's brain that amplifies his brain signals. Those signals 
+are then transmitted to a laptop computer through an antenna-like 
+coil placed on his head. Like a computer mouse, the brain signals 
+can move a cursor across the computer screen and point at icons with 
+messages such as ``See you later. Nice talking with you.'' The man 
+can also use the cursor to tell others that he is hungry or thirsty. 
+``It's like we're making the mouse the patient's brain,'' said Dr. 
+Roy Bakay, one of two Emory University doctors who developed the technology. 
+Eventually, researchers hope to use the technology to teach patients 
+to write letters, send e-mail and turn lights off and on via computer. 
+``It opens up a very exciting new chapter in rehabilitation for such 
+patients,'' said Dr. William Friedman, program director and associate 
+chairman of neurosurgery at the University of Florida. The patient, 
+identified only as J.R., suffered a brain stem stroke and is dependent 
+on a ventilator at the Atlanta Veterans Affairs Medical Center. His 
+brain functions normally, but its signals do not reach their intended 
+destination. Six months ago, Bakay and Dr. Phillip Kennedy implanted 
+a tiny glass cone into the man's brain. A substance that encourages 
+nerves to grow prompted the brain's nerves to link up to electrodes 
+in the cone, forming what Bakay calls ``a little brain'' inside the 
+cone. The electrodes can transmit electrical impulses produced by 
+the brain to a computer. To train J.R.'s brain, researchers told him 
+to think about grabbing a glass. The cone is implanted in an area 
+of the brain that can produce signals designed to cause movement. 
+Bakay and Kennedy have been testing the technology on animals for 
+12 years. Kennedy has patented the technology. The first human patient, 
+a woman suffering from Lou Gehrig's disease, was able to control computer 
+signals for 76 days before she died. J.R. is their second patient. 
+The National Institutes of Health have awarded funding to continue 
+research on at least one more patient. For more than a decade, some 
+paralyzed people have communicated with a computer program that translates 
+their coded blinking into letters on a screen. J.R. can blink, but 
+``I think he enjoys doing this,'' Bakay said. Selman expressed caution 
+about using the technology on anybody except patients with long-term 
+paralysis. ``You'd hate to put something in somebody in an area they're 
+going to recover,'' he said. 
+</TEXT>
+</DOC>

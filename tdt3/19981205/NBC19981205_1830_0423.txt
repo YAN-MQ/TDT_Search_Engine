@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NBC19981205.1830.0423 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tonight, "endeavour's" astronauts are moving a step closer to making 
+history, assembling the first pieces of the international space station. 
+After spending much of this day closing in on the Russian piece known 
+as zar ya, the crew began moving the American section, called unity 
+now, in the shuttle's cargo bay, positioning it for the mating of 
+the two pieces tomorrow. 
+</TEXT>
+</DOC>

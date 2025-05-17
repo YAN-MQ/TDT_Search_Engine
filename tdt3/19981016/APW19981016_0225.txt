@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> APW19981016.0225 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Registered unemployment in the Netherlands fell to an unadjusted 4 
+percent in the three-month period ending Sept. 30, down from 5.4 percent 
+in the same period a year ago, the government said Friday. The total 
+number of unemployed people dropped to 271,000, a sharp decline from 
+372,000 in the same period in 1997, according to the Dutch Central 
+Bureau for Statistics. Adjusted for seasonal influences, the third-quarter 
+jobless rate fell to 3.9 percent, down from 5.4 percent a year earlier 
+and down from 4.1 percent in the previous three months ended August. 
+The total number of unemployed reached an adjusted 270,000 in the 
+latest reporting period, down from 370,000 in the same period a year 
+ago and from 279,000 in the period ended August. The CBS pointed out 
+that this rate of unemployment decline has continued in the past two 
+years. 
+</TEXT>
+</DOC>

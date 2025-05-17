@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981121.0130.1146 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+News of gains in overseas markets encouraged investors Friday. And 
+that helped the Dow Jones industrial average end the day at a Four-month 
+high. 
+</TEXT>
+</DOC>

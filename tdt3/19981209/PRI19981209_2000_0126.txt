@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> PRI19981209.2000.0126 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Astronauts from the space shuttle "Endeavour" are out in space again 
+as they install two antennas on the Unity module of the new international 
+space station. The antennas will allow direct communications between 
+the module and Mission Control. The work's being done by experienced 
+space walkers Jerry Ross and Jim Neuman. If they have time, the astronauts 
+will try to release an antenna on the Russia Zarya module that didn't 
+unfurl properly after it was sent into orbit. 
+</TEXT>
+</DOC>

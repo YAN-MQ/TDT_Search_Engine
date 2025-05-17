@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981030.1830.1496 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A brief review of the top story tonight. John Glenn and his shuttle 
+crewmates launch -- weightlessness and wishes everyone could experience 
+it. 
+</TEXT>
+</DOC>

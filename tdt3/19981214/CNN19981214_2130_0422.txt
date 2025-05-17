@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981214.2130.0422 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Los Angeles, campaign fund-raiser Johnnie Chung was sentenced today 
+for illegally giving $28,000 to the democratic national committee. 
+A U.S. district judge could have sent him to prison for 37 years. 
+Instead, Chung got probation and was ordered to complete 3,000 hours 
+of community service. 
+</TEXT>
+</DOC>

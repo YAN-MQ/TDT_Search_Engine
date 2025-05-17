@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981010.1000.1344 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Florida skated past Tampa bay 4-1. Mark Parish scored his first two 
+NHL goals, both where in the final period. 
+</TEXT>
+</DOC>

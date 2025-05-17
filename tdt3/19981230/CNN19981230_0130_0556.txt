@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981230.0130.0556 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Kaiser foundation health plan says it will keep paying for the 
+anti-impotence drug Viagra. This, after a settlement reached with 
+California state regulators. Authorities began investigating Kaiser 
+last summer after the HMO refused to cover Viagra, saying it was too 
+expensive. The state says as long as a doctor prescribes the drug, 
+the company must cover it. The settlement doesn't affect Kaiser's 
+pending request for permission to drop coverage for all types of sexual 
+dysfunction treatments. 
+</TEXT>
+</DOC>

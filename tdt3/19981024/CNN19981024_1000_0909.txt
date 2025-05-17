@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981024.1000.0909 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the Florida meat-processing company, dixie Packers, is recalling 
+108,000 pounds of hot dogs distributed through winn-dixie grocery 
+stores. The usda says they may be contaminated with a potentially 
+lethal bacteria. 
+</TEXT>
+</DOC>

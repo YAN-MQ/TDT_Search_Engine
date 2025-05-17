@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981102.1600.0569 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The crew of the space shuttle "discovery" got a break from their research 
+today. They spent some of the free time admiring what senator John 
+Glenn calls an "Awesome" view of the earth. From the shuttle orbit, 
+about 4,000 mile-wide Horizons of the brown and blue planet are visible. 
+Glenn and the other six astronauts are about half way through their 
+mission and its 83 scheduled experiments. They got about 7 1/2 hours 
+today to relax. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981027.1600.0313 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The White House is holding a roundtable discussion today on issues 
+involving women and social security. It is focusing on how the federal 
+system treats women, and the obstacles that make it difficult for 
+women to support themselves during retirement. On average, women receive 
+smaller pension checks because they live longer and have worked less. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981107.1830.1723 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's "NBC nightly news" for this Saturday. I hope to see you weeknights 
+on the news on MSNBC on cable at 9:00, eastern and pacific and again 
+on CNBC each night at 10:00. Dawn fratangelo will be here tomorrow. 
+I'm Brian Williams reporting tonight from New York. Good night. 
+</TEXT>
+</DOC>

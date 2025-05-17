@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981207.2130.0513 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for Tuesday morning. And you can see rainfall is expected 
+in the east along a cold front as it continues its easterly movement. 
+And imbedded within this, we may find a few thunderstorms. Meanwhile, 
+in the northwest, another storm moves inland with snowfall particularly 
+so at the higher elevations. As the storm in the northwest continues 
+to move eastward, it'll spread some of the snow through the northern 
+Rockies. In the east, rainfall will spread to the east coast. Only 
+northern New England would see snowfall associated with this system. 
+For it remains still rather warm particularly so in the southeast, 
+although the cold air does continue its easterly movement as we go 
+through the day. We extend on to our forecast for Wednesday. And you 
+can see a rain/snow mix expected in parts of the Rockies with the 
+cold air in place. As we head on into Thursday, you can see rain and 
+thunderstorms possible along the gulf coast back through Texas. And 
+by week's end, we're seeing rain showers scattered about in the southern 
+plains states. Snow flurries are possible in the Great Lakes area. 
+For more weather information, log on to CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981015.0130.0736 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A General Motors plant in Janesville, Wisconsin, is taking action 
+to avoid a labor shortage Thursday night. The problem isn't wages, 
+it's football. The green bay Packers are playing a rare Thursday night 
+game so plant managers are setting up about 100 televisions, to allow 
+employees to watch the game at work. When the Packers played on a 
+Monday night last week, 140 employees simply didn't show up, shutting 
+the plant down. 
+</TEXT>
+</DOC>

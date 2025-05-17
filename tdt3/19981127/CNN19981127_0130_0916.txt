@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981127.0130.0916 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+People who live in the pacific northwest are cleaning up after the 
+region was hit by the second storm in less than a week. The weather 
+system toppled trees, and triggered floods and mudslides in oregon 
+and Washington. 
+</TEXT>
+</DOC>

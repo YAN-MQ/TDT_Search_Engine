@@ -1,0 +1,64 @@
+<DOC>
+<DOCNO> NYT19981013.0396 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Buoyed by vibrant demand for microprocessors, Intel Corp. reported 
+unexpectedly strong third-quarter results Tuesday. Although earnings 
+were essentially flat relative to a year earlier, they were well above 
+analysts' estimates, which were raised after Intel advised last month 
+that it would beat its own forecast. The strong results at Intel, 
+the world's leading maker of chips for personal computers, came even 
+as it faces the toughest competition in more than a decade. Last week 
+Advanced Micro Devices Inc. also reported unexpectedly strong results, 
+as well as market research statistics showing it was gaining market 
+share from Intel, particularly in PCs priced under $1,000. National 
+Semiconductor Corp.'s Cyrix division is also making inroads at the 
+low end of the market; IBM remains a threat and newcomers like Integrated 
+Device Technology, Rise, Transmeta and Metaflow loom on the horizon. 
+Intel said it expected fourth-quarter sales to be up slightly from 
+the third quarter, while profit margins would be flat to slightly 
+up as well. Intel had originally forecast third-quarter revenues to 
+be flat relative to the second quarter, later amended that to a gain 
+of 8 percent to 10 percent, and actually reported a 14 percent gain. 
+In another sign of resilience in the chip industry, Cypress Semiconductor 
+Inc., a maker of specialized memory chips, said it remained marginally 
+profitable in the third quarter, defying expectations of a loss. Intel 
+reported results after the close of the market. Intel shares closed 
+at $83.56, down $1.88. Cypress shares closed at $8.81, down 6 cents. 
+``Intel did a fabulous job capturing the demand opportunities out 
+there and that will continue into the fourth quarter,'' said Mark 
+Edelstone, an analyst with Morgan Stanley Dean Witter &AMP; Co. He 
+said Intel benefited from the greater efficiency offered by new chip 
+production technologies that crammed more circuitry into smaller pieces 
+of silicon. For the quarter ended Sept. 26, Intel reported earnings 
+of $1.56 billion, or 89 cents a diluted share, down slightly from 
+$1.57 billion, or 88 cents a share, in the comparable period a year 
+earlier. The share figures reflect an increase in the number of shares 
+outstanding. Revenues grew 9 percent, to $6.73 billion, from $6.16 
+billion in the third quarter of 1997. Analysts had expected 80 cents 
+a share, according to First Call Corp. ``We are pleased with our overall 
+performance in the last quarter,'' said Craig Barrett, Intel's president 
+and chief executive, who added that the results reflected ``growth 
+across nearly all of our geographies and product lines, including 
+strong microprocessor sales.'' Intel officials said they had expected 
+demand to recover in the fourth quarter, due partly to normal seasonal 
+fluctuations, but also because PC manufacturers appeared to have worked 
+through an inventory glut that had depressed microprocessor sales 
+in previous quarters. Actual demand, particularly in the later part 
+of the quarter, proved stronger than they had expected, they said. 
+But Drew Peck, an analyst with Cowen &AMP; Co., cautioned that this 
+level of demand was not likely to last. ``Clearly the personal computer 
+companies are not going to show the same improved results we've seen 
+at Intel, so the only conclusion you can reach is there was significant 
+inventory replenishment taking place in the third quarter,'' he said. 
+``I think results will improve for Intel in the fourth quarter as 
+well, but not nearly so dramatically.'' Intel has responded to increased 
+competition by improving its manufacturing efficiency and cutting 
+operating costs, but also by segmenting its product line. The company 
+now offers the Celeron line at the low end; Pentium II for mainstream 
+desktop and laptop computers, and Pentium II Xeon for work stations 
+and servers. Intel officials said average selling prices had remained 
+flat this year despite greater competition. 
+</TEXT>
+</DOC>

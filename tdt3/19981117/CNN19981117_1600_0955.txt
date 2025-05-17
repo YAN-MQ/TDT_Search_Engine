@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981117.1600.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Thanks, Angela. As anticipated, federal reserve policymakers cut interest 
+rates today in a Bid to stabilize the still fragile world markets. 
+The fed cut the benchmark federal funds rate, the interest banks charge 
+each other on overnight loans, one-quarter point to 4.75%, and cut 
+the less frequently used discount rate one-quarter point to 5%. -- 
+To 4.5%. that's what the fed charges on its own loans to banks. Major 
+U.S. banks like BankAmerica and chase Manhattan quickly cut the prime 
+interest rates one-quarter point in response to the central bank move. 
+Mortgages, credit cards and consumer loans are pegged to bank prime 
+rates. 
+</TEXT>
+</DOC>

@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> PRI19981022.2000.1871 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Truck engine manufacturers will spend hundreds of millions of dollars 
+to settle federal charges that they have violated clean air regulations. 
+NPR's Dan Charles reports. The government claims that the manufacturers 
+of diesel engines for trucks set those engines to pass federal emissions 
+tests in the laboratory but not while driving on the open road. When 
+cruising on highways, the engines were set to maximize fuel economy, 
+burning a so-called lean mixture of fuel and air. That causes a drastic 
+increase in emissions of chemical compounds that turn into smog. Seven 
+engine companies will pay $83 million in fines. They'll spend hundreds 
+of millions more developing cleaner engines and rebuilding old ones 
+when they come in for major overhauls. That usually happens about 
+every three years. Engine builders also will have to meet even tougher 
+emission standards by the end of the year 2002. Truckers said the 
+settlement would raise their operating costs. Environmentalists called 
+it long overdue. Dan Charles, NPR News, Washington. 
+</TEXT>
+</DOC>

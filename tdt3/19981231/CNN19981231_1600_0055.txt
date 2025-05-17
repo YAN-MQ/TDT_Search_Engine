@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981231.1600.0055 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Bone-chilling weather is the rule today over much of the eastern half 
+of the nation. Fresh snow fell this morning on parts of the virginias. 
+More than 14,000 Virginia residents are still without electricity 
+after last week's ice storm. And forecasters warn more icy weather 
+is possible this weekend. New England received its first heavy snowfall 
+of the season yesterday. There were accumulations of nearly eight 
+inches in parts of New Hampshire and Maine. Sub-zero temperatures 
+were the rule this morning from Nebraska to Maine. And wind chills 
+are dropping to 40 and even 60 below zero today, from the upper Great 
+Lakes to northern New England. 
+</TEXT>
+</DOC>

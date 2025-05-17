@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981117.2130.0591 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sun Microsystems is celebrating a legal victory over rival Microsoft. 
+Today, a federal judge granted an injunction to force Microsoft to 
+change its popular Windows 98 operating system. Sun alleges Microsoft 
+polluted the windows version of sun's Java programming language, making 
+it incompatible with operating systems other than Windows 98. The 
+judge gave Microsoft 90 days to modify Windows 98 and its Internet 
+explorer 4.O or pull them off the market. 
+</TEXT>
+</DOC>

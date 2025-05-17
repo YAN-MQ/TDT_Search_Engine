@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981028.2130.0516 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Thursday. As some thunderstorms pull along the cold 
+front into the plains states, a Second cold front right behind it 
+will spread more rain and mountain snow through the rocky mountain 
+states. Also cooler air behind the system. Meanwhile, there's a third 
+system behind that across the northwest spreading some clouds and 
+showers into that area by Thursday evening. A cold front will rotate 
+through the northeast with cool, windy weather and some showers as 
+well. High temperatures on Thursday across the northern half of the 
+country 40s and 50s with 30s over the mountains, look for 70s and 
+80s in the south. Looking ahead to Friday, we'll see showers and windy 
+conditions in the northeast with showers and storms moving through 
+the southwest and into the northwest. Saturday, showers and storms 
+through the plains, rain showers in the northwest. Then on Sunday, 
+rain showers northeast and northwest with showers and storms scattered 
+through the plains. Don't forget, you can find four-day forecast for 
+7,200 cities at CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981013.2130.0387 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The justice department has charged a retired U.S. army sergeant with 
+spying for the former Soviet Union. David sheldon Boone worked as 
+a code breaker for the army's national security agency. He's accused 
+of selling top-secret information to the KGB between 1988 and 1991. 
+The information reportedly included data concerning the U.S. targeting 
+of nuclear weapons, and the movement and capabilities of Soviet troops. 
+An affidavit says Boone was paid $60,000. He was arrested after being 
+lured to Washington for a meeting with an undercover FBI agent, posing 
+as a Russian contact. 
+</TEXT>
+</DOC>

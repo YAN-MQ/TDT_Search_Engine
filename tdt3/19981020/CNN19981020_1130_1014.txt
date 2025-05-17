@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981020.1130.1014 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.S. trade deficit with the rest of the world surged to a record 
+high in August. U.S. exports fell for the fifth month in a row, a 
+result of the financial turmoil around the world. With fewer nations 
+buying American goods, the U.S. trade gap ballooned more than 15% 
+to $16.8 billion. The trade deficit with China surged by 9%. 
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981108.1000.1027 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Americans are spending more of what they earn. But figures that show 
+a shrinking savings rate don't tell the whole story. Kelli Arena reports. 
+Not since the 1930s have Americans spent more and saved less. The 
+consumers relying on credit cards and home equity loans, the national 
+savings rate fell in September to Negative 0.2%, but economists are 
+unfazed. The savings rate has been turning downward fairly steadily 
+for the last four years at a pretty sharp clip and that looks problematic. 
+However, if you were to look at wealth data released from the U.S. 
+government on an annual basis, you'll see that over the three years 
+ending in 1997, we saw the largest real wealth gain on record. He's 
+referring to wealth gained in the stock market through investments 
+such as 401Ks and mutual funds. The government's report does not include 
+increases in those investments when calculating the national savings 
+rate. Many investors do. As long as the market generally continues 
+higher, analysts expect people will continue to spend. Fueling economic 
+growth. The situation is that today's workers have accumulated more 
+wealth and have saved more than their parents or their grandparents. 
+</TEXT>
+</DOC>

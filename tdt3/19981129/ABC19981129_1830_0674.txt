@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> ABC19981129.1830.0674 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Not long ago, only Arkansas and West Virginia had worse 11-emergency 
+coverage than Vermont. But starting this week, it's a different story. 
+ABC's Jami Floyd explains. Ted Jones knew what to do when he had a 
+heart attack. I just called 911. But no one was quite sure just where 
+he was. The dispatcher, he said, "the ambulance is En route, but they 
+don't know where hicks road is." In rural states like Vermont, that 
+is the nightmare emergency response teams face every day -- not knowing 
+where their victim is. But now, Vermont has the first statewide digital 
+satellite-based 911 system, using satellites to map remote locations 
+with pinpoint accuracy. The new system puts callers in touch with 
+dispatchers faster, giving dispatchers more of the information they 
+need to save lives. It will be on their screen, in front of their 
+eyes and Ringing within two seconds of the time when the person dials 
+911. Hi, this is Vermont 911. I received a call from your residence. 
+This is the main call center in Williston, Vermont. 0% of the state's 
+911 calls will come through here, making it Vermont's largest public 
+safety answering point. Setting up the new program has been challenging, 
+because 70% of Vermont residents did not have numbered street addresses, 
+many having only a P.O. box, some, no address at all. So, officials 
+had to remap the entire state. For the last four years, a fleet of 
+high-tech vans has been crisscrossing vermont's country roads. At 
+each stop, a laser range finder sends a signal to a fleet of global-positioning 
+satellites orbiting the earth. The satellites pinpoint the coordinates 
+of businesses, homes, farms and barns, literally every building. And 
+state officials assign each one a new address. The end product, a 
+digitized map of Vermont that forms the basis of the new 911 system. 
+It's gonna save lives, because it gets us to a scene quicker, so we 
+can make rescues quicker. The system is expected to work so well, 
+that other rural states are planning to follow Vermont's example and 
+implement their own high-tech 911 systems. Jami Floyd, ABC News, Williston, 
+Vermont. 
+</TEXT>
+</DOC>

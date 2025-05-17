@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> NYT19981125.0255 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+There are many people finders. Here are some free sites: SWITCHBOARD: 
+www.switchboard.com Database: 120 million listings. Uses Info USA. 
+Includes: e-mail addresses and a knock-knock button, which is used 
+to find out whether listed people want to receive mail from searchers. 
+Alta Vista also uses Switchboard. INFOSPACE: www.infospace.com Database: 
+100 million in United States, 200 million in Europe; 16 million American 
+yellow-page listings. Includes reverse directory, fax numbers, e-mail, 
+partial name searches, European listings. Metacrawler, 555-1212, MSN, 
+Netscape and America Online use Infospace. LYCOS: www.lycos.com Database: 
+more than 90 million phone listings in the United States. Uses Whowhere. 
+Includes E-mail addresses, allows searches by partial spelling. Used 
+by MCI, US West Dex, Ziff-Davis and Mindspring. ANYWHO: www.anywho.com 
+More than 90 million consumer listings in the United States. Includes 
+reverse directory, direct phone connections, partial name searching, 
+Web addresses, fax and toll-free numbers. Used by Excite, Webcrawler 
+and Infoseek. (italics)The following people-finder sites charge for 
+searches:(end italics) KNOWX: www.knowx.com Some searches are free, 
+but costs range up to $65. LOCATEME: www.locateme.com Can search more 
+than 120 million records. Cost: $20 to $30. 1-800-U.S. SEARCH: www.1800ussearch.com 
+Searches for people and does background checks. Cost: $79.95 for finding 
+people. PEOPLE FINDER: www.people-finder.com Access to two billion 
+public records. If you get a match, a name search is $39.95. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981127.1830.1737 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Nightly News" on this Friday after Thanksgiving. Don't forget 
+"Dateline" NBC tonight at 10:00, 9:00 central time. I hope you'll 
+join me tonight and each evening for the news on MSNBC on cable at 
+9:00 and again on CNBC at 10:00. I'm Brian Williams, reporting tonight 
+from New York. Good night. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981201.1600.1331 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mike Tyson is back in court today. The former champ is accused of 
+punching and kicking two men after a minor traffic accident in August. 
+Each charge carries a maximum sentence of 10 years in jail. Tyson 
+is expected to plead no contest. 
+</TEXT>
+</DOC>

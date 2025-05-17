@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981114.1300.0150 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In spite of the move toward a peaceful resolution, a powerful force 
+of U.S. troops, ships and warplanes continues to head to the Persian 
+gulf. They are described as ready to mount sustained attacks to cripple 
+Iraq's potential for developing nuclear, biological and chemical weapons. 
+</TEXT>
+</DOC>

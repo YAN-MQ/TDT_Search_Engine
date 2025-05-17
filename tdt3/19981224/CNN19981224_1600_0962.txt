@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981224.1600.0962 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have those stories and more in 15 minutes. We'll have a report 
+on Wall Street in a moment. 
+</TEXT>
+</DOC>

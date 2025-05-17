@@ -1,0 +1,191 @@
+<DOC>
+<DOCNO> NYT19981223.0201 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Asian board game of Go was the game of the samurai. Among noble 
+accomplishments for Chinese gentlemen, Go ranked with calligraphy, 
+poetry and music. For centuries, Go has been used as a tool to teach 
+military strategy. It is the game from which Japanese businessmen 
+draw metaphors. Now Go is on the Internet, and the ancient game's 
+relatively sudden encounter with modernity has produced a microcosm 
+of the tension that exists between virtual worlds and the real one. 
+Go players can now log onto a computer and play 24 hours a day. The 
+advent of online Go has erased barriers of language and distance, 
+while lifting the game from obscurity in the United States. At the 
+same time, the online version of the game comes at the expense of 
+many traditions surrounding its play. In this country, some local 
+Go clubs, the lifeblood of the Go-playing world, are suffering a decline 
+in membership as more people play from their homes via computer. Go 
+originated in China sometime around 2300 B.C. and was later adopted 
+by Korea and Japan. The game is played on a board divided into a grid 
+by 19 horizontal and 19 vertical lines. Black and white pieces called 
+stones are placed on the intersections of the grid. The object is 
+to win and defend territory by surrounding it with stones. Go is an 
+easy game to learn to play, but it is extremely difficult to master. 
+``I can teach you the rules in 20 minutes, but the strategy will take 
+a lifetime,'' said David Saunders, a lawyer in New York who is an 
+avid player. Go is often compared with chess, another game of skill 
+and strategy, but Go players are careful to distinguish between the 
+two. They view chess as one big bloody skirmish, and Go as an endlessly 
+complex process of negotiating for territory. In China, Japan and 
+Korea, Go is a national pastime, and millions of people play. The 
+United States, by comparison, has relatively few players. The American 
+Go Association has just 1,300 members. The largest and most popular 
+virtual venue for playing Go is the Internet Go Server, or IGS, where 
+hundreds of people _ amateurs and professionals alike _ from around 
+the world play some 4,500 games each day (igs.joyjoy.net). Now owned 
+by NKB, a Japanese communications company, IGS was created in 1992 
+by two American Go players, Tim Casey and Mark Okada. The IGS server 
+is in Tokyo, and Casey and Okada do their administrative work from 
+northern California. As Internet connections in Asia have grown more 
+reliable, the popularity of IGS and other Go servers has soared. Usually 
+at least 250 people are logged on to IGS at any one time. At night 
+in the United States, as people in Asia are starting their day, the 
+server really comes to life, with as many as 700 players logged on 
+at once. Face-to-face games are surrounded by ritual. Before a game 
+in Japan, the weaker player says, ``Dozo o ne gai itashi masu'' (``Please 
+teach me''), to the stronger player, accompanied by a slight bow. 
+By comparison, IGS has all the ambience and decorum of a singles bar. 
+``Fast game, anyone?'' flashes onto the computer screen in ``shout'' 
+mode, for all to see. Some non-English speakers simply send a computer-generated 
+match request to another player. Banter, some of it related to Go 
+and some of it not, is continuous. Face-to-face games can last for 
+hours. Every game on IGS is timed, and many people who play on the 
+server say their games last about 45 minutes. At a local Go club, 
+when two professionals play, the handful of spectators are careful 
+to remain quiet and discreet. If two well-known professionals are 
+playing on IGS, there can be 500 people watching and typing their 
+commentary, which is often very blunt, into a separate kibitzing channel. 
+The players cannot see the comments. For all its intellectual rigor, 
+Go is also very tactile, and its esthetics are carefully prescribed. 
+The board, often made of a Japanese fir-like wood called katsura, 
+is a source of pride to its owner, as are the stones, made of slate 
+and clamshell. Before being played, each stone is held with practiced 
+precision between the forefinger and middle finger, and it is placed 
+on the board with an equally practiced, satisfying clap. All of that 
+contributes to what players describe as the delight of the game. ``There's 
+a lot of pleasure in having that big whap as you put the stone down 
+feel just right,'' said Lloyd Gowen, a longtime player who is president 
+of the San Francisco Go Club. As cyberspace eliminates these dimensions 
+of the game, however, it adds others. Perhaps the biggest appeal of 
+online Go is its convenience. ``You can play Go in your shorts at 
+3 a.m., if that's your pleasure,'' said Saunders, who uses the screen 
+name dsaun on IGS. Saunders is helping to start a scholarship for 
+online lessons for those who cannot afford professional Go lessons. 
+``You can find people your level or stronger or watch people of professional 
+strength 24 hours a day,'' he said. ``It's a larger universe of players 
+than any local Go club has.'' As a result, more players opt to play 
+from home rather than drive to their local Go club. ``A lot of stronger 
+players have stopped going to local clubs because it's difficult for 
+them to get a good game,'' said Okada, a strong player himself whose 
+IGS handle is simply tweet. ``A lot of them are playing on line because 
+there's a stronger variety of players to play with.'' Phil Straus, 
+47, the former president of the American Go Association, discovered 
+IGS. in 1993. ``Suddenly I was able to play people at any strength 
+I wanted 24 hours a day, 7 days a week,'' he said. Even with the arrival 
+of a a new Go club within walking distance of his house, Straus said, 
+he prefers to play on IGS. ``It's harder to get away than to find 
+half an hour to play someone on IGS.,'' he said. He Jian, a 26-year-old 
+player in Hangzhou, in eastern China, said he still played a three-hour 
+face-to-face game with a friend every weekend but had grown addicted 
+to playing on IGS. since he registered last July. He pays $30 a month 
+for his Internet connection, one-fifth his monthly salary. Paul Celmer, 
+34, a player who helped organize the Go club in Chapel Hill, N.C., 
+laments the trend away from face-to-face play. ``It has hurt the intangibles, 
+the romance of the game,'' he said. Further, Celmer said, local players 
+no longer show up at area tournaments. Celmer recounted the lonely 
+tale of Yoshiteru Suzuki, one of the strongest players in the area, 
+who started a Go club there last year. ``There have been times when 
+I have been the only person at his club,'' Celmer said. ``Here is 
+a man willing to share his time and formidable skill, yet most do 
+not want to be inconvenienced by the time it would take to drive to 
+his club. This lack of interest would never have happened in the days 
+before the Internet, I assure you. Suzuki's time and skill would have 
+been as precious as gold.'' At the same time, online Go is helping 
+to attract players who might not otherwise be interested. Susan Weir, 
+an avid Go player and a strong proponent of the cognitive benefits 
+of Go playing, teaches the game to fourth and fifth graders in public 
+schools in Ann Arbor, Mich. On the first Friday of every month, Ms. 
+Weir's students attend a ``cybercamp'' on IGS, where they play people 
+from around the world. With the growing popularity of Go among young 
+people, Ms. Weir and her husband have started a weeklong summer Go 
+camp on the Michigan shore, the first of its kind in the United States. 
+At the camp, only face-to-face games are played. On-line playing has 
+introduced to the Go-playing world a new set of troubles, which may 
+be intrinsic to online life but have stripped the game of much of 
+its dignity. Cheaters _ players who consult books or have someone 
+sitting in for them _ are one problem. So-called escapers _ people 
+who vanish into cyberspace as soon as they start losing _ are another. 
+To cope with the problem of escapers, the IGS administrators imposed 
+a new rule: if an interrupted game is not completed within 30 days, 
+the person who dropped out takes a loss. ``You see lots of shenanigans,'' 
+Okada said. ``It's no different from other corners of cyberspace but 
+still out of character for the Go-playing world.'' Whether on line 
+or off, Go playing is likely to remain human to human for many years 
+to come. Unlike chess, Go has yet to succumb to the computational 
+muscle that helped Deep Blue, a chess-playing computer, beat the world's 
+best chess player in 1997. An expert Go-playing computer program must 
+be able not only to analyze moves but also to recognize complex patterns. 
+Piet Hut, an astrophysicist at the Institute for Advanced Study in 
+Princeton, N.J., and a fan of the game, said it could be several decades 
+before a computer could beat an expert human player at Go. IGS isn't 
+for everyone. For one thing, Internet connections are still expensive 
+in some parts of Asia, especially China, where 20 to 30 people often 
+share one IGS account. For elderly retirees in Japan, who are among 
+Go's most avid players and have no trouble finding an opponent, the 
+Internet is not just unwanted but unnecessary. For others, like Philip 
+W. Anderson, a Nobel-prize-winning physicist at Princeton University, 
+IGS is simply a bad fit. Anderson has played Go for 45 years and began 
+playing on line four years ago. ``I find playing on the Net very frustrating 
+because I don't visualize patterns well on the small screen,'' he 
+said. ``And I think I play a couple of ranks below my true strength 
+as judged by nonvirtual games.'' Thomas Hsiang, an engineering professor 
+at the University of Rochester who is one of the strongest amateur 
+players in this country, said IGS had improved his game, mostly because 
+of the ease with which he can observe professionals' games and play 
+against stronger players. But playing on the Net, he said, has also 
+encouraged some bad habits. ``Internet games tend to be fast,'' Hsiang 
+said. ``One major disadvantage is the tendency to play sloppily.'' 
+Earlier this year, Hsiang represented the United States in the World 
+Amateur Championship in Tokyo. Hsiang held his own quite well in the 
+first seven rounds, he said. Winning his final game would have made 
+him the third-ranked amateur in the world. But while he was leading 
+by a wide margin, he made a careless mistake and lost. ``This can 
+be attributed to my Net habit,'' Hsiang said. ``But, of course, if 
+I had not been practicing on the Net, I would probably have never 
+gotten that far.'' Players like Hsiang still show up at the big tournaments. 
+At next year's annual Go Congress, to be held in San Francisco in 
+July, as many as 400 people are expected to attend. ``People still 
+get a charge out of face-to-face contact, conversations and direct, 
+over-the-board competition,'' Straus said. ``That says to me that 
+people have a craving for physical community.'' The Internet Go Server, 
+or IGS, is the Jones Beach of virtual Go parlors. It's wall-to-wall 
+players. At peak times, as many as 700 people can be logged on at 
+once, some flexing their muscles, others just lounging around and 
+taking in the scene. Still, it is relatively easy to carve out a spot 
+for yourself. You can take an online lesson or watch one. You can 
+observe a match between professional players or watch a replay of 
+an old match. It is also very easy to find someone of your strength 
+to play with. You can reach IGS with the telnet command. (Windows 
+95, 98 and NT machines have telnet software already installed, but 
+Macintosh computers do not.) Telnet software is also available on 
+the Web. A variety of Windows telnet programs are listed at www.davecentral.com/telnetclnt.html, 
+and Macintosh programs can be found at www.cstone.net/rbraun/mac/telnet 
+and www.macatawa.org/mthomas/telnet.html. To play the game with a 
+realistic picture of a Go board, download software from the IGS Web 
+site (igs.joyjoy.net). Then, connect via telnet by typing in the host 
+name igs.joyjoy.net 6969. IGS is free for all players outside Japan. 
+Most players in Japan must pay $20 a month, or $2 per game. If you're 
+looking for a less crowded spot than IGS for your Go match, there 
+is Yahoo's gaming area, games.yahoo.com, which uses a Java-based applet 
+for playing. Go is also available at Microsoft's MSN Gaming Zone, 
+zone.msn.com. The Yahoo and Microsoft sites are not for serious Go 
+players. Unlike IGS, they have no rating system, and there are no 
+official tournaments. That's good for rank beginners, who might feel 
+a bit intimidated by the IGS crowd. There are also several IGS lookalikes, 
+accessible through telnet. One, called the No Name Go Server, or NNGS, 
+is available by telnetting to nngs.cosmic.org 9696. It looks exactly 
+like IGS, but far fewer players go there. 
+</TEXT>
+</DOC>

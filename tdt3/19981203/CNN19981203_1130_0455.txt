@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981203.1130.0455 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At least 28 people, mostly children, died in an orphanage fire in 
+the philippine capitol of Manila today. Officials expect to find more 
+victims in the rubble. 70 people were inside the orphanage at the 
+time of the fire. Surviving staff members said the fire spread so 
+quickly they did not have time to rescue many children. City officials 
+say they suspect faulty wiring caused the fire. 
+</TEXT>
+</DOC>

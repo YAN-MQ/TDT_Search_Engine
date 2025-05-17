@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981110.1130.0188 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the federal government is tightening the rules on flood insurance. 
+the federal emergency management agency has determined that 2% of 
+the properties account for 40% of the claims. fema plans to deny flood 
+insurance to owners of high risk structures who refuse to either elevate 
+them or accept a buyout. the agency says tightening the rules and 
+raising rates for high-risk properties will save nearly $1 billion 
+over 10 years. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981212.1600.1008 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+AT&T reached out and bought something. It's spending $5 billion for 
+IBM's global network business. Those customers include thousands of 
+businesses and more than 1 million internet users around the world. 
+</TEXT>
+</DOC>

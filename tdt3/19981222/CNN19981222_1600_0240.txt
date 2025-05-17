@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981222.1600.0240 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A balloon team hoping to be the first to circle the globe non-stop 
+has cleared a major hurdle in China. Chinese leaders have rescinded 
+an order demanding the three adventurers land in rugged Himalayan 
+terrain without crossing China. They now say the balloon can proceed, 
+as long as it leaves prohibited chinese airspace as soon as possible. 
+The record-seeking journey could last up to three weeks. 
+</TEXT>
+</DOC>

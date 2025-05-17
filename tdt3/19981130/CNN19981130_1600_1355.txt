@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981130.1600.1355 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+San Francisco takes on the giants tonight on "Monday night football." 
+The 49ers, at 8-3, need a win to remain one game back of Atlanta in 
+the NFC west. Anthony Keith James, "CNN Headline Sports." 
+</TEXT>
+</DOC>

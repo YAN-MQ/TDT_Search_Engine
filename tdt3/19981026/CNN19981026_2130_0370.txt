@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981026.2130.0370 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Meanwhile, an Israeli security guard was shot to death today by suspected 
+palestinian gunmen in the West Bank town of hebron. The body of a 
+Palestinian man was found hours later in what appeared to be retribution 
+for the guard's death. 
+</TEXT>
+</DOC>

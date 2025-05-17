@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> NYT19981118.0503 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Thursday, Nov. 19: When 
+one of the Supreme Court's most conservative members, Justice Antonin 
+Scalia, writes a decision strengthening civil rights enforcement, 
+it is worth taking note. It happened this week in a closely watched 
+discrimination case from South Carolina. The decision concerned a 
+collective bargaining agreement between the International Longshoremen's 
+Association and the Port of Charleston. Like most labor agreements 
+these days, it contained a clause requiring workplace disputes to 
+be submitted to arbitration. A federal appellate court interpreted 
+the clause as stripping a longshoreman, Caesar Wright, of his right 
+to sue under the Americans With Disabilities Act. Wright could not 
+go to court with his claim of discrimination, the court said, because 
+his union had effectively waived that right when it negotiated the 
+arbitration clause. Fortunately, a unanimous Supreme Court has now 
+rejected this watering down of federal protection. Vaguely worded 
+arbitration clauses in labor contracts, the justices held, cannot 
+bar access to federal court by employees seeking to vindicate their 
+rights under federal civil rights laws. ``The right to a federal judicial 
+forum is of sufficient importance to be protected against less-than-explicit 
+union waiver'' of the right to go to court, said Scalia, writing for 
+the court. Disappointingly, the court stopped short of finding that 
+even an explicit waiver would be unenforceable. But that may not matter 
+for most employees. Few labor agreements currently contain explicit 
+waivers of federal civil rights claims. 
+</TEXT>
+</DOC>

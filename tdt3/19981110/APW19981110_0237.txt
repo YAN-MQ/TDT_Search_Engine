@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> APW19981110.0237 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Spain's jobless claims rose to 11.11 percent of the active population 
+in October from 11.02 percent the previous month, the Labor Ministry 
+said Tuesday. At the end of October, about 1.8 million people had 
+filed for unemployment insurance, up 15,277 from September, the ministry 
+said. Analysts tend to watch the National Statistics Institute's quarterly 
+unemployment data more closely than the Labor Ministry's monthly jobless-claims 
+data. In the second quarter of 1998, the figure was at 18.9 percent. 
+The quarterly data includes information on people out of work, rather 
+than just on those eligible for unemployment benefit payments. 
+</TEXT>
+</DOC>

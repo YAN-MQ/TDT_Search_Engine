@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981106.1600.1074 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Meanwhile, shares of Merck jumped after the pharmaceutical giant announced 
+a money-back guarantee of its cholesterol-lowering drug, zocor. 
+</TEXT>
+</DOC>

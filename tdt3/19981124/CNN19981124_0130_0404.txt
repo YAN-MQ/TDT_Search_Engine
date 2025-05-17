@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981124.0130.0404 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal government has received a grade of "D" for its efforts 
+to prepare its computers for the year 2000. In its final report of 
+the year, a house panel says one out of three government computers 
+will not be fixed in time. Computers worldwide are expected to crash 
+on January 1st, 2000 because their internal clocks will read January 
+1st, 1900. The house report says the agencies with the biggest problems 
+include the departments of health and human services and the department 
+of energy. 
+</TEXT>
+</DOC>

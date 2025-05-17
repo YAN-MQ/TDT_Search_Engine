@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981110.0130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the day's top stories -- outgoing house speaker Newt Gingrich 
+received a rousing welcome from republicans in Washington Monday. 
+In his first extended public appearance since his decision to quit 
+his post, Gingrich told members of go-pac, he did not want to become 
+an excuse for divisiveness in the republican party. 
+</TEXT>
+</DOC>

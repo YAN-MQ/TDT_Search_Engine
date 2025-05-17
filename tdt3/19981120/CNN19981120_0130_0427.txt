@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981120.0130.0427 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Iraq's news agency reports seven teams of U.N. weapons inspectors 
+visited several sites Thursday. It's the second day of inspections 
+since Iraq agreed to allow the teams to resume their duties. U.N. 
+officials say the inspections went normally. If the monitoring teams 
+certify Iraq has eliminated its weapons of mass destruction, U.N. 
+sanctions against the country could be lifted. 
+</TEXT>
+</DOC>

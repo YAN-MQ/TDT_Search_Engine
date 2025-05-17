@@ -1,0 +1,73 @@
+<DOC>
+<DOCNO> NYT19981206.0136 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+John Chadwick, a self-effacing linguist who played a critical role 
+in deciphering the ancient Greek writings known as Linear B, then 
+spent the rest of his life deflecting credit to his collaborator, 
+died in England on Nov. 24. Chadwick was 78 and a longtime resident 
+of Cambridge. In an era in which astronauts spend weeks in space and 
+sheep are cloned, it is hard to imagine the excitement _ or the controversy 
+_ the two men created in 1953. That was when Chadwick and his colleague, 
+Michael Ventris, announced that they had unlocked the secrets to a 
+puzzle that had confounded scholars for more than half a century, 
+and even determined that Linear B was a style of Greek used 500 years 
+before the age of Homer. The mystery began in 1900 when Sir Arthur 
+Evans, a British archaeologist excavating the ancient Minoan palace 
+at Cnossus, on Crete, discovered clay tablets imprinted with strange 
+pictographs that had been baked kiln-hard and had survived a fire 
+that had destroyed the palace 3,000 years earlier. The 90 or so symbols 
+on these and other tablets later found elsewhere on Crete and in a 
+few places on the Greek mainland, dated to about 1400 B.C., and bore 
+no resemblance to any known writing system. Evans gave them the prosaic 
+name of Linear B, to distinguish the writing from a system he called 
+Linear A. Evans and other scholars may not have been able to decipher 
+Linear B or to account for its origin, but they had no doubts on one 
+point: it was not Greek. That language could not possibly have been 
+used when Crete was under Mycenaean control, they said, and anyway, 
+the entire Bronze Age world was thought to have been illiterate. As 
+a result, when Ventris and Chadwick published their findings, they 
+were widely derided by scholars who felt it was impossible that there 
+had been a Greek-speaking people on Crete hundreds of years before 
+the rise of the Greek city states, notwithstanding the two men's analysis 
+of an apparently consistent syntax and their plausible reading of 
+the tablets as Greek listings of commercial transactions. And then 
+there was the matter of the men's scholarly credentials. Ventris was 
+neither an archaeologist nor a professional linguist, but a 31-year-old 
+architect; Chadwick, 33, who had studied Greek and other languages 
+at Cambridge, had worked as a lowly assistant lexicographer for the 
+Oxford Latin Dictionary before becoming a classics lecturer at Cambridge 
+in 1952. But as Chadwick, an incorrigibly modest man, never tired 
+of pointing out, Ventris was an amateur linguist of genius with a 
+lifelong interest in cryptography. Ventris had been fascinated with 
+the Linear B puzzle ever since he was 14 and happened to attend a 
+lecture given by Evans in 1936. Chadwick, a London native who had 
+served in the Navy in World War II, had only a cursory interest in 
+Linear B until he happened to turn on the radio in June 1952 and heard 
+an interview in which Ventris discussed his outrageous theory that 
+Linear B was Greek. Fascinated, Chadwick wrote to Ventris, and the 
+two men began an intense collaboration. In a matter of months, they 
+produced a complete system to decipher the ancient tablets and eventually 
+translated 300 of them. They were published as ``Documents in Mycenaean 
+Greek'' in 1956, just weeks before Ventris was killed in an automobile 
+accident. By then the discovery of further Linear B tablets on the 
+Greek mainland, all yielding plausible readings by the Ventris-Chadwick 
+system, had persuaded almost all scholars that Linear B really was 
+the earliest form of what evolved into classical Greek. The discovery 
+that an early form of Greek had been spoken and written on Crete and 
+elsewhere from about 1400 to 1150 B.C. forced a vast revision of settled 
+scholarly understanding of the development of the Greek world. Chadwick, 
+who is survived by his wife, Joan, and a son, described the detective 
+work in ``The Decipherment of Linear B'' (1958) and became a leading 
+authority on the Mycenaean Greek language and society, publishing 
+``Mycenaean World'' in 1976. Although the initial inspiration and 
+the breakthrough were clearly Ventris', it is generally recognized 
+that Chadwick's exhaustive knowledge of ancient Greek was indispensable 
+in developing the complete deciphering system, a contribution that 
+has often been overlooked. The entry on Linear B in the Grolier Multimedia 
+Encyclopedia, for example, attributes the discovery to Ventris and 
+makes no mention of Chadwick, which is hardly surprising _ the entry 
+was written by Chadwick. 
+</TEXT>
+</DOC>

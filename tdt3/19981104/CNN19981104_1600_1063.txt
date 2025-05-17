@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981104.1600.1063 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Good news on the auto front. General Motors says sales of car and 
+light trucks jumped 6.3% in October compared to the same month last 
+year. That's a faster rise than expected. GM expects to build 1.5 
+million autos this quarter to keep up with anticipated strong demand. 
+And Ford motor says October vehicle sales rose 2.4%, in line with 
+analysts' forecasts. Ford attributes the rise in part to robust sales 
+of Ford's new 1999 model super duty F-series pickups. Here's how the 
+big three automakers' stock fared -- 
+</TEXT>
+</DOC>

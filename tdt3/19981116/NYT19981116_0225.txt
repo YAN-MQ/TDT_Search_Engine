@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> NYT19981116.0225 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Yogurt, Threat or Not? Q. If I eat a lot of yogurt, will the bacteria 
+in it make me sick? A. There is no evidence of human health problems 
+from yogurt with live bacteria, said Dr. Kathryn Boor, assistant professor 
+of food science at Cornell University, and there is some evidence 
+the bacteria may be beneficial. ``There is a new field of study called 
+probiotic bacteriology that is investigating whether living organisms 
+can help colonize the gastrointestinal tract and keep out bad bacteria,'' 
+Dr. Boor said. It is controversial whether yogurt bacteria survive 
+there, she said, and conclusions must await completion of research, 
+but there is ``better than anecdotal evidence'' of such benefits. 
+The theory is supported by studies of young chicks sprayed with bacteria 
+present in adult chickens. The chicks take up these microbes and are 
+not colonized by harmful salmonella, an effect called competitive 
+exclusion. Dr. Boor said she saw no reason to seek out yogurt without 
+live cultures for fear of danger from the bacteria that ferment milk 
+into yogurt. The most commonly used culture is Lactobacillus delbrueckii 
+bulgaricus in combination with Streptococcus thermophilus. Both are 
+harmless in the gut, if they survive, she said. In Dr. Boor's research 
+in the laboratory, so-called competition studies found this combination 
+``very competent'' in killing a disease-causing microbe like E. coli 
+O157:H7 during yogurt production. Readers are invited to submit questions 
+by postal mail to Questions, Science Times, The New York Times, 229 
+West 43d St., New York, N.Y. 10036-3959, or by e-mail to: Question(AT)nytimes.com. 
+</TEXT>
+</DOC>

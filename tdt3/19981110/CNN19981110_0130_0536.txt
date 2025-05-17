@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981110.0130.0536 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Navy has given up the search for three missing fliers off the 
+coast of virginia. They are presumed dead. The body of another pilot 
+was recovered Monday. The four aviators had ejected from their ea-6b 
+Prowler Sunday night, after it struck another aircraft while practicing 
+landings on the deck of the USS "Enterprise." Chilly ocean temperatures 
+in the search area can lead to hypothermia in a Couple of hours. 
+</TEXT>
+</DOC>

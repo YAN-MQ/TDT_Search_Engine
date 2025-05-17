@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> CNN19981029.2130.0217 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+While today's flight is in no danger, NASA does have a procedure in 
+place should the shuttle encounter some disaster or pose a threat 
+to earth. John Zarrella reports. T minus 30 seconds and counting. 
+About half a dozen times a year, two men sitting at these consoles 
+in a top-secret building hold the power of life and death. We're here 
+to protect the public, and the crew is kind of a secondary issue. 
+These men are flight control officers. If a space shuttle ever goes 
+out of control, they and only they have the authority and ability 
+to destroy the vehicle, whether the crew is still alive or not. If 
+they have to push the button, there's probably a chance that the astronauts 
+are out of the loop anyway. So, they're just protecting the people 
+on the ground. T-minus 20 seconds and counting. It has to be that 
+way, in that the time lines we're considering here are so short, that 
+there isn't time to discuss it amongst a large number of people. Time 
+after time, in their secluded Bunker, they run through simulated shuttle 
+launches -- rehearsing every possible scenario that might require 
+them to terminate a space shuttle mission. Three, two, one -- The 
+first two minutes of flight, while the solid rocket boosters are attached 
+to the vehicle, are the most dangerous. Your heart rate does increase 
+a little bit. You feel a little bit of adrenalin. Inside each booster 
+are explosive charges. If a main engine fails, a booster shuts down, 
+a fire breaks out, the shuttle could be knocked off course and head 
+toward a populated area. Within seconds, the flight controllers must 
+decide whether to throw the toggle switch to destruct. In this simulation, 
+the shuttle stays on course. During an actual launch, if something 
+goes wrong, the flight controllers track where the vehicle is heading. 
+If it approaches predetermined boundary lines, the shuttle must be 
+destroyed to shield civilians from falling debris. This simulation 
+is about over. The launch was smooth. No action was needed. John Zarrella, 
+CNN, cape Canaveral air force station, Florida. 
+</TEXT>
+</DOC>

@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> CNN19981210.1130.0550 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Many people use asprin to treat all kinds of ailments. But studies 
+show it can also cause serious problems if you're not careful. Dr. 
+Steve Salvatore explains. It's been called a "wonder drug," partly 
+because aspirin is cheap and effective. But it's also very powerful 
+and should be used with caution, because aspirin can increase the 
+risk of stroke in some patients. At this point, you're probably confused. 
+Aspirin is supposed to help prevent heart attack and stroke. And it 
+does. But there are two different types of stroke. Aspirin reduces 
+one type and may increase another. A stroke occurs when the brain 
+doesn't get enough oxygen. About 85% of the time its due to a blockage, 
+like a blood clot, which blocks the flow of blood and oxygen to brain 
+cells. 15% of the time a stroke can occur from bleeding into the brain. 
+Researchers say the risk of that kind of stroke, called hemorrhagic 
+stroke, can be increased with aspirin. The biggest concern we have 
+with aspirin is that it can cause bleeding in the stomach as the result 
+of irritation of the lining of the digestive tract, and it seems as 
+well bleeding in the brain. So an aspirin a day may not be for everyone. 
+In populations where the risk of heart attack is low, but hemorrhagic 
+stroke is high, the risk benefit equation that we use in deciding 
+whether to use a medication may be different. And experts say, just 
+who's at greatest risk still isn't clear. We need to come further 
+to understand which people are at greatest risk of bleeding complications 
+in the brain if they take an aspirin. It's still a good idea to take 
+at least a baby aspirin a day if you've had a heart attack in the 
+past or suffered a ministroke. But doctors warn you shouldn't make 
+that decision on your own. Talk with your doctor first to determine 
+your individual risks. Dr. Steve Salvatore, CNN, New York. 
+</TEXT>
+</DOC>

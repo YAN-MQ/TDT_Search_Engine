@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981110.2130.1442 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The rock 'N' roll hall of fame is getting some new members. Today, 
+it announced who would be inducted in March. Musicians are eligible 
+for nomination 25 years after the release of their first recording. 
+</TEXT>
+</DOC>

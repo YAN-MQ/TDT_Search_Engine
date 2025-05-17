@@ -1,0 +1,54 @@
+<DOC>
+<DOCNO> CNN19981117.1600.0489 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+People in Asia have had their chance to see the Leonid meteor shower, 
+which lights up the night sky every 33 years. According to NASA, the 
+Leonid storm can generate between 200 and 5,000 meteors an hour, which 
+is causing some satellite operators to brace themselves. Joining us 
+now is Dale cruickshank from NASA's ames research center. Hello, Mr. 
+cruickshank. We've heard some rave reviews. Can you tell us what the 
+view will be like from this part of the world? Most of the, of what 
+the people in northern America can see has already taken place. And 
+that was you know in the pre-dawn hours today, Tuesday. I could see 
+some very nice meteors from my own backyard, even in a brightly lit 
+urban area. There's a good chance we can see some more stragglers 
+on Wednesday morning and people should look toward the east and overhead 
+between 1:00 A.M. and dawn on Wednesday. There's been some concern 
+about the threat to satellites floating out there. What is the potential 
+for damage? Well, it is a real concern, so far we haven't heard any 
+reports of damage of satellites, but what we know is that the particles, 
+even though they're only the size of a flain of sand or a little bigger, 
+are coming in at such a tremendously high velocity, about 150,000 
+miles, that each one of these grains can pack the punch of a rifle 
+bullet. It depends really on the particular satellite how well it's 
+shielded and hardened against this kind of an attack, but there's 
+a good chance that some of the satellites, in fact, will be hit and 
+possibly even put out of commission. Although as I say, we haven't 
+heard anything about that yet. Explain why this is significant from 
+a scientific standpoint. We have the tools in place now to analyze 
+the light that comes from these meteors as they streak across the 
+sky, and that will in principle tell us something about the Comet 
+from which they came. We've known about this Comet for a very long 
+time, it was discovered back in 1866. But now we have the scientific 
+and technical tools that allow us to analyze the light and give us 
+direct information on what that Comet is made out of. We know the 
+comets are very different from one to another and we don't know very 
+much about this one in particular. Now you tell us most of us probably 
+missed the show in north America, but we can look out our windows 
+again or look skyward between 1:00 A.M. and dawn? On Wednesday morning, 
+that's the best opportunity we have. And I think, because of past 
+performance of this particular meteor shower, i think there's a very 
+good chance people will see things on Wednesday morning, as well as 
+we did this morning. Or else we have to wait what, another 32 years? 
+Another 33 years. Then of course it will still depend on where we're 
+located. It's too hard to predict that far in advance where the best 
+observing sites will be in 33 years. And of course north America was 
+not the best site for this time around. It was really the western 
+pacific Rim, in Japan and eastern China. And that's where the reports 
+are coming from that it is in fact really a Great shower. Well, we're 
+sorry we have to miss that. But thank you very much for joining us. 
+Mr. cruickshank. Dale cruickshank with NASA ames research center. 
+</TEXT>
+</DOC>

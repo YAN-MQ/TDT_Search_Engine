@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981029.0130.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And President Clinton has outlined a $156 million package to help 
+blacks and Hispanics fight the AIDS epidemic. Instead of offering 
+new drugs or treatments, the program will provide money for programs 
+aimed at getting people into facilities for treatment. 
+</TEXT>
+</DOC>

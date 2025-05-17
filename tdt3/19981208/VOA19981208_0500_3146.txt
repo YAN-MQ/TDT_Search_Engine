@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981208.0500.3146 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And U.S. computer chip maker Intel Corporation is expected today to 
+announce a pact to provide microprocessor technology to the Federal 
+government's Sandia national laboratories for creation of radiation 
+resistant computer chips. The project is aimed at cheaper production 
+of chips used in satellites, military reconnaissance equipment, space 
+probes and other communications equipment used in space. That's the 
+latest in financial news. I'm Victor Beatty. 
+</TEXT>
+</DOC>

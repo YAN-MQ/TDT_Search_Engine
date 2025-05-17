@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981129.1130.1227 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Matt Yallof, "CNN Headline Sports." Thanksgiving weekend wraps up 
+with six early games in the NFL today. Jake Plummer and Arizona can 
+move within one game of first-place Dallas if they beat the troubled 
+chiefs. Dan Reeves will make a gametime decision on injured qb Chris 
+Chandler. The falcons face the Rams. Carolina at the jets. Indy visits 
+Baltimore. The jags can go two up on the steelers in the central by 
+beating the bengals. And pride on the line for the Bucs as they face 
+the last-place bears. All other games, late starts. 
+</TEXT>
+</DOC>

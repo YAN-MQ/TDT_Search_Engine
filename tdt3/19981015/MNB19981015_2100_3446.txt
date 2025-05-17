@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> MNB19981015.2100.3446 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We also want to show you this from the news agency tonight. An iceberg 
+larger than the state of Delaware has broken off an ice shelve in 
+Antarctica in what scientists believe may be a sign of global warming. 
+You see it there from the air in this artist assisted satellite rendition 
+named A-38, measures 892 miles long, 30 miles wide. It's part of a 
+slow disintegration. One scientist says the world's oceans were rising 
+at such a rate that millions of homes near sea level and this is important 
+could be under water in just 200 years. Not a long time if current 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981224.1130.1311 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Flyers eeked past the Boston Bruins 2-1, and spread their unbeaten 
+streak to six games. John McLair scored his 22nd goal of the year. 
+</TEXT>
+</DOC>

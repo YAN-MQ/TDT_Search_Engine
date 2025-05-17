@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981030.2130.0501 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler with your "CNN Headline News" forecast. 
+Rain from the southwest into the plains states, into the northern 
+Rockies, where we'll see snow on Friday as we work our way into Friday 
+evening and saturday, rain and snow moving into the northwest. And 
+rain and snow lingering in New England through halloween evening. 
+Beautiful weather along the gulf coast and over most of the western 
+U.S. with heavy rain developing over the central Rockies and the central 
+plains into Saturday evening. High temperatures on Saturday, generally 
+in the 40s and 50s in the north. A cool spot in the central Rockies 
+with highs only in the 30s. 70s and 80s in the southern U.S. your 
+extended forecast showing showers and thunderstorms throughout the 
+central U.S. on Sunday. Showers in the northwest on Sunday. Scattered 
+rain from the northwest to the southeast where we'll see thunderstorms 
+on Monday. And then on Tuesday, cold temperatures in the northern 
+plains with highs only in the 30s. And then, we'll see rain from the 
+northwest all the way to Florida, where we'll see some thunderstorms. 
+Remember you can get your four-day forecast for more that 7,200 cities 
+at -- CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> APW19981112.0544 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The environmental watchdog group Greenpeace claimed Thursday that 
+the French nuclear reprocessing plant at La Hague emits ``worrisome'' 
+levels of radioactive carbon. Greenpeace said an analysis of grass 
+and leaves surrounding the plant showed concentrations of carbon-14 
+that are two to seven times greater than normal levels. ``It is clear 
+that the entire area surrounding La Hague, especially the part downwind 
+from the plant, is seriously contaminated by radioactive carbon,'' 
+Greenpeace said in a statement. Cogema, the state nuclear fuel reprocessing 
+company, accused Greenpeace of using scare tactics. ``I suppose the 
+results are correct, but the impact of such radioactivity levels is 
+negligible,'' said Cogema spokesman Philippe Pradel. Carbon-14 is 
+absorbed by plants, animals and humans, which can't differentiate 
+between stable carbon and the radioactive isotope, Greenpeace said. 
+Earlier this week, Greenpeace said the La Hague plant was emitting 
+high levels of aerial radiation. Spent fuel from the French nuclear 
+power plants, as well as Belgium, the Netherlands, Germany, Switzerland 
+and Japan are reprocessed at La Hague, which is operated by COGEMA. 
+</TEXT>
+</DOC>

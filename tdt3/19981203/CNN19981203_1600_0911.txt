@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981203.1600.0911 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The crew of shuttle "endeavour" will try again tomorrow to carry a 
+Component of the international space station to orbit. Today's planned 
+launch was scrubbed by an equipment glitch. 
+</TEXT>
+</DOC>

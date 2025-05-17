@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981111.1130.0921 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is attending the annual veterans day ceremony at 
+arlington national cemetery. He'll issue a warning to Iraq to end 
+the standoff with U.N. military inspectors or face military action. 
+</TEXT>
+</DOC>

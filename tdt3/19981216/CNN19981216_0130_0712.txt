@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981216.0130.0712 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It has been said that nothing is certain, but death and taxes. But 
+according to a congressional report, nearly 48 million Americans won't 
+owe the IRS anything on April 15th. That's up 2 million people from 
+last year. The increase is attributed in part to a new $400 per child 
+tax credit. And the IRS says families with three or more children 
+could be in for a Refund. 
+</TEXT>
+</DOC>

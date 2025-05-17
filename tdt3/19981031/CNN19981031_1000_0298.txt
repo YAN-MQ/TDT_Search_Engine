@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981031.1000.0298 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The FBI says it's unlikely the powder mailed to four women's clinics 
+in three states was Anthrax, but it's not taking any chances. It's 
+testing the powder, and people who came into contact with it have 
+been checked out at hospitals. No one showed any symptoms of Anthrax 
+exposure. Emergency crews stripped down and scrubbed employees and 
+patients at one clinic in Indianapolis yesterday, after the powder 
+was discovered. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981204.1600.0899 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- President Clinton says low unemployment 
+and a Stable inflation rate are making this the right time for another 
+minimum wage increase. He says millions of full-time workers still 
+live in poverty. 
+</TEXT>
+</DOC>

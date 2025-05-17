@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981125.2130.0241 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Actor Michael J. fox says he has had Parkinson's disease for the past 
+seven years. In an interview with "people" magazine, fox says he underwent 
+brain surgery last March to help reduce the tremors associated with 
+the disorder. Parkinson's disease is a Progressive degeneration of 
+the central nervous system. Fox, who is 37, says he first was diagnosed 
+in 1991 when he noticed an unusual twitch in a finger. He says surgery 
+eliminated the worst tremors and drug treatment is controlling the 
+milder ones. Parkinson's has no known cause or cure. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981018.1130.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Attorneys for Microsoft and federal prosecutors will go into court 
+tomorrow. The federal government accuses Microsoft of bullying companies 
+into using its Internet browser services. Microsoft says its tactics 
+are all legal. 
+</TEXT>
+</DOC>

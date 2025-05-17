@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981111.0130.0490 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast through Wednesday. Our strong storm in the eastern United 
+States moves northward into Canada, taking the snow and wind with 
+it. We will see some rain or snow showers moving through the northeast. 
+Thunderstorms will move across the east coast and off the coast, also, 
+into the gulf of Mexico. Look for a few rain or snow showers along 
+the front through the north-central U.S. and an area of low pressure 
+pulls in across California through the southwest, with some rain and 
+mountain snow as well. Highs on Wednesday anywhere from 30s north, 
+to 60s and 70s south, with some 80s in southern Florida. Looking ahead 
+then to Thursday, rain in the northwest around the Great Lakes and 
+in the south-central part of the country. On Friday, we'll see snow 
+around the Great Lakes, showers in the northwest and some showers 
+and thunderstorms developing in the western gulf of mexico. For Saturday, 
+it will be wet in much of the east, with rain and wind in the northwest 
+as well. Don't forget, you can find four-day forecasts for more than 
+7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

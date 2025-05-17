@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981212.1600.0323 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is away from the political cross fire, at least 
+for now. He and his family are on a three-day trip to the Middle East. 
+The president is trying to preserve the fragile agreement between 
+Israelis and Palestinians, which he helped negotiate in October. Since 
+agreeing to hand over more of the West Bank, Israeli prime minister 
+benjamin Netanyahu has lost some of his political support and faces 
+a vote of confidence in the Knesset next week. He has delayed implementing 
+the agreement during a round of violent palestinian protests. 
+</TEXT>
+</DOC>

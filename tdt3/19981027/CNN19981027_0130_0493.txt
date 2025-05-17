@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981027.0130.0493 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "Headline News weather," I'm Karen McGinnis. The 
+weather headlines coming up for Tuesday will be hurricane Mitch, spinning 
+around across the northwestern Caribbean. Otherwise, high pressure 
+in control across the southeastern United States. That keeps temperatures 
+rather mild and very dry weather conditions. However, a fairly powerful 
+storm system is emerging from the southwestern United States. It looks 
+like snow levels across the Rockies begin to lower. Temperature-wise, 
+it's going to be a little bit cooler as well, across the Great Lakes 
+and Hudson bay and into Idaho, the great basin and the four-corners 
+region -- even into Tucson, Arizona. If you are traveling to Honolulu, 
+look for 86 degrees, and 35 for anchorage, around 86 in San Juan. 
+Our extended forecast is calling for rain and snow to continue across 
+the rockies and gradually for Thursday moves across the high plains 
+with scattered thunderstorms across Texas. And by Friday, a rain event 
+for the midwest and showers for the pacific northwest. And chilly 
+in the northern tier. For more weather information log onto CNN.com. 
+</TEXT>
+</DOC>

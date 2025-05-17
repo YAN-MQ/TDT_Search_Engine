@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981128.0130.1083 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Exxon and mobil have confirmed the oil companies are discussing a 
+possible merger. Sources say if a deal is reached, it could be announced 
+as early as tuesday. Analysts say Exxon, the biggest oil company in 
+the United States is looking to cut costs and competition by acquiring 
+number two mobil. We're in a global market, and because of this, bigger 
+is better. And as a result of that, you can see right down the line 
+in the financials, in the oil sector, in the telecommunications, companies 
+gobbling up other companies and becoming bigger and better. The deal 
+would be worth an estimated $67 billion, which would make it the most 
+expensive merger ever. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981104.1130.0566 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The crew of the space shuttle "discovery" got an early start today. 
+That's the fight song from Japanese astronaut chian mukai's alma mater. 
+Today, the astronauts will be using a 50-foot robotic arm to maneuver 
+the spartan satellite around the shuttle cargo bay relying solely 
+on remote camera views. They retrieved the satellite from space yesterday. 
+</TEXT>
+</DOC>

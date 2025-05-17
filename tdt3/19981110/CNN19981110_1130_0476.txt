@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981110.1130.0476 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+i'm meteorologist dave hennen with your "cnn headline news" weather. 
+a major winter storm will be affecting the upper midwest and, in fact, 
+much of the east over the next couple of days, providing blizzard-like 
+conditions back through the dakotas and northern minnesota at this 
+hour. that front will be moving along the eastern seaboard tomorrow. 
+more showers and storms are expected. look for an area of low pressure 
+to moving into the rockies by tomorrow. and that will weaken, but 
+still some higher-elevation snows are anticipated. a look at high 
+temperatures for the remainder of today -- 70s and 80s along the gulf 
+coast, ranging to the 20s and 30s through the rockies and through 
+much of the upper midwest. the extended forecast -- on thursday, we'll 
+find rain in the pacific northwest and showers on the increase in 
+texas. snow showers will linger back through the great lakes. on friday, 
+more wet weather along the gulf coast. more showers are anticipated 
+in the pacific northwest. and as we head into the day on saturday, 
+look for a warming trend in the east with scattered showers. look 
+for rain and windy conditions to condition in the pacific northwest. 
+for more weather information, you can log into cnn.com. 
+</TEXT>
+</DOC>

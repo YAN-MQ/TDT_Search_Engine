@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981019.2130.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- President Clinton joined talks between 
+Israeli prime minister Benjamin Netanyahu and Palestinian leader yassir 
+Arafat in maryland this afternoon. Negotiators are focusing solely 
+on security issues after a terrorist attack today in Israel. 
+</TEXT>
+</DOC>

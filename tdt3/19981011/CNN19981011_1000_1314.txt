@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981011.1000.1314 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Fifth-ranked Kansas state won its first game in Boulder since 1973, 
+beating 14th-rated Colorado, 16-9. 
+</TEXT>
+</DOC>

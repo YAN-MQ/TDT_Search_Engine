@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981022.0600.3017 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In the United States, stocks set a gaining pattern Wednesday that 
+the markets haven't seen since last February. Prices rose for the 
+sixth straight session, led by a better than expected earnings from 
+computer software giant Microsoft. The Dow Jones industrial average 
+was up 13 points at 8,519, while the broad market indicator, the S&P 
+500, was up 6 points at 1,070. The technology-heavy NASDAQ composite 
+index was 35 points higher at 1,675. 
+</TEXT>
+</DOC>

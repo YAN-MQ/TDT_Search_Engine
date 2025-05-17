@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981229.1600.1097 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The outlook doesn't look quite so rosy for adek laboratories. The 
+company says it found accounting problems that will force it to report 
+poorer financial results for fiscal years 1996 and 1997. Adek was 
+the largest U.S. maker of nuclear medicine imaging equipment. 
+</TEXT>
+</DOC>

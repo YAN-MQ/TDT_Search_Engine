@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981229.1600.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Mr. Clinton unveiled a new initiative to fight violence against 
+children today. He wants the justice department to classify the death 
+of a child from abuse as murder. 
+</TEXT>
+</DOC>

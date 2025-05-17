@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> CNN19981120.0130.0988 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Microsoft is reportedly considering charging an annual fee to users 
+of its windows system, starting in 2001. That news comes from a memo 
+released at the company's antitrust trial thursday. The trial yielded 
+a key question Thursday -- is Microsoft a monopoly? Steve young reports. 
+To prove Microsoft is a monopolist, the government called the chief 
+economist for the justice department's antitrust division under ronald 
+Reagan. Frederick Warren boulton said Microsoft has had a 90% to 5% 
+PC operating system share since 1990. And it's projected to go higher 
+by 2001. But he said monopolies are measured by more than market share. 
+The economist said the clincher in determining that Microsoft is a 
+Monopolist is that it's been able to charge consumers significantly 
+higher than competitive prices. But Microsoft argued the software 
+business moves so fast, the usual definition of monopoly doesn't apply. 
+If we ever stop innovating, we will quickly be passed by other companies 
+in this industry. And that's why Microsoft invests over $3 billion 
+a year in research and development to continually improve our products 
+for consumers. Anybody who walks into a computer store or uses a PC 
+wouldn't have any trouble answering the issue as to whether windows 
+has a monopoly in the PC business. The government witness said Microsoft 
+makes fat profits because software is a digital product. And those 
+rich profits help the company keep its monopoly. The cost of putting 
+windows on new PCs is practically zero. That's because Microsoft gives 
+master copies of windows to computer companies and they absorb the 
+cost of loading windows on to their computers. The economists said 
+Microsoft gets a check just for granting a license. And he said there's 
+evidence that Compaq computer, for example, paid microsoft $750 million 
+in a single year. But late in the day, Microsoft's lawyer got the 
+economist to concede he never would have guessed in 1995 that a major 
+threat to Microsoft would be a company named Netscape. Steve young, 
+"CNN Financial News," Washington. 
+</TEXT>
+</DOC>

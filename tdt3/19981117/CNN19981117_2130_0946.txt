@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981117.2130.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal reserve's interest rate cut gave many stocks a boost on 
+Wall Street. One exception, Hewlett-Packard, which dropped five points. 
+That helped push the Dow Jones industrial average down 24 points to 
+finish the day at 8986. 
+</TEXT>
+</DOC>

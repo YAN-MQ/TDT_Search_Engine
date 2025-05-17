@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981124.0130.1288 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Atlanta Braves signed free agent outfielder Brian Jordan to a 
+Five-year, $40 million deal. Jordan batted .316 last season with 25 
+home runs and 91 RBIs. 
+</TEXT>
+</DOC>

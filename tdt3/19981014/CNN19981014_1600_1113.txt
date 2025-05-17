@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981014.1600.1113 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Meanwhile, international paper said it would cut 1,500 jobs, nearly 
+2% of its workforce. 
+</TEXT>
+</DOC>

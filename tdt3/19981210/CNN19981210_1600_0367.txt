@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> CNN19981210.1600.0367 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA is boldly going back to where no astronaut has been before, the 
+red planet. As John Zarrella tells us, it hopes to launch its red 
+mission to Mars tomorrow. Mars once had water, the one basic ingredient 
+scientists say is necessary for life. The question for them now is 
+-- where did it go? This is really the search for where all the water 
+went we think once existed and flowed on the surface of Mars. It's 
+gone somewhere. 26 months after launching its wildly successful Pathfinder 
+spacecraft, NASA is about to return to Mars. The first vehicle to 
+go is called the climate Orbiter, followed in early january by a lander 
+heading for Mars' South Pole. There are really no instruments on either 
+the Orbiter or the lander on this particular mission that are geared 
+toward looking for life. They are looking for the things that could 
+possibly support life. That being water. The Orbiter will spend two 
+years surveying how the Martian atmosphere works, from temperature 
+and pressure to actual weather patterns on the surface. It will be 
+able to detect if there are cold fronts moving through the areas. 
+It will also watch for dust activity. We know that Mars is sort of 
+like the dustbowl in the U.S. The Orbiter should reach Mars next September. 
+The lander arrives in December. Improved cameras will send back better 
+images than Pathfinder's. By turning the lights on one at a time, 
+we get a green picture, a blue picture and a red picture. We'll but 
+them together and make a true color picture afterwards. The lander 
+is also equipped with a scooper that will dig up soil and analyze 
+it. Scientists say these spacecraft may provide the first concrete 
+evidence that water once flowed on Mars. John Zarrella, CNN, at the 
+Kennedy space center in Florida. 
+</TEXT>
+</DOC>

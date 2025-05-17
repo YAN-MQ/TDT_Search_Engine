@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981111.1600.0272 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Today marks the 80th anniversary of the end of world war I. many European 
+countries use the occasion of armistice day to honor the heros who 
+fought the great war. Britain's queen Elizabeth joined French President 
+Jacques Chirac for the parade in Paris. She then went to the battlegrounds 
+of flanders in Belgium, which saw some of the heaviest fighting of 
+the war. 
+</TEXT>
+</DOC>

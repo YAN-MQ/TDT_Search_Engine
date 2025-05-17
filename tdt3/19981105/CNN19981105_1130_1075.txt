@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981105.1130.1075 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Ticketmaster is suing the Internet music retailer n2k, claiming it 
+defaulted on payments and broke an agreement to become ticketmaster's 
+exclusive on-line music dealer. Under their deal reached earlier this 
+year, n2k agreed to pay ticketmaster $12 million over two years. Ticketmaster 
+says the first installment was due this past week. 
+</TEXT>
+</DOC>

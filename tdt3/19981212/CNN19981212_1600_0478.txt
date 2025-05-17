@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981212.1600.0478 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for Sunday. Wet weather will continue to move slowly through 
+the southeastern states into the carolinas and Florida with rain showers, 
+generally, but a few thundershowers possible in Florida. The weather 
+remains quiet across New England and the Great Lakes, the plains states 
+and southwest. But a strong cold front in the northwest will bring 
+more rain, mountain snow and also some very strong and gusty winds. 
+Highs on Sunday -- 30s and 40s across most of the north and some 60s 
+and 70s into the south. Maybe a couple of 80s in southern Florida. 
+Looking ahead to Monday -- rain, snow and wind push toward the northern 
+rocky mountains with some cooler weather. On Tuesday, temperatures 
+look pretty typical, warming up a bit in the southeast with generally 
+quiet weather. Wednesday, rain showers in the northwest, snow showers 
+around the Great Lakes, temperatures ranging anywhere from 20s to 
+70s and a couple of 80s. Don't forget, four-day forecast at CNN.com. 
+</TEXT>
+</DOC>

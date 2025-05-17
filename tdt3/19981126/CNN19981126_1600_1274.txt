@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981126.1600.1274 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With "CNN Headline Sports," I'm Russell Biven. We begin with the NFL, 
+where a wild one took place in the motor city between Pittsburgh and 
+Detroit. It went to overtime, and on the coin toss, Jerome Bettis 
+appeared to call "Tails." The coin landed on tails, but the refs thought 
+he heard "heads," so Detroit got the ball. And wouldn't you know, 
+Charlie batch led his troops down the field, where jason Hanson kicked 
+the game-winner. 19-16, lions. In the other game, Dallas hosts Minnesota. 
+</TEXT>
+</DOC>

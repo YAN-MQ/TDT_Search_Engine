@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981010.1130.0557 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Smoke continues to gush out of a huge volcano near quito, Ecuador. 
+But experts now say they do not think it will erupt. A state of alert 
+was declared for the area earlier this week, and residents of nearby 
+villages have been practicing evacuation drills just in case. The 
+16,000-foot-tall volcano has erupted 25 times in the past. The most 
+recent eruption in 1993 killed two scientists doing research on the 
+volcano. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981014.2000.1567 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones industrious closed up 31 points 
+to 7969 and the high tech heavy NASDAQ closed up 32 to 1541. 
+</TEXT>
+</DOC>

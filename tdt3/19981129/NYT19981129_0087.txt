@@ -1,0 +1,121 @@
+<DOC>
+<DOCNO> NYT19981129.0087 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+If America Online followed all the advice it was getting for how to 
+take advantage of its pending purchase of Netscape Communications 
+Corp., it would merge its AOL.com Web site with Netscape's Netcenter 
+Web site, it would use Netscape's browser on its online service, and 
+every time someone used the Netscape Communicator program to check 
+for messages, it wuld chirp, ``You've got mail.'' But America Online 
+defiantly puts separation above synergy and would rather own multiple, 
+if somewhat competitive, offerings than create one big homogeneous 
+master brand. ``We look at things like a media company rather than 
+as a technology company,'' said Barry Schuler, president of America 
+Online's main programming division. ``Why does Time Warner have both 
+HBO and Cinemax? Because the audience segments in attitude and behavior.'' 
+And thus rather than blur the lines between the America Online services 
+and those of Netscape, Schuler said his company would more crisply 
+delineate the Netscape brand to appeal to more technologically sophisticated 
+users. This is a very different approach than that taken by most online 
+companies. Microsoft Corp., for example, recently tied together all 
+of its far-flung Internet activities under the MSN brand. But America 
+Online's driving force these days is its president, Robert Pittman, 
+who as one of the creators of MTV concocted a second music channel, 
+VH1, to appeal to an older audience, and then started Nickelodeon 
+to appeal to children. Pittman is fond of saying that while Pepsi 
+may beat Coca-Cola in taste tests, ``In America, brands win.'' As 
+a result, America Online has maintained the separate identities of 
+its other acquisitions: Compuserve, another online service, and Mirabilis, 
+the provider of the ICQ chat service, popular among technologically 
+hip youth worldwide. Users of these services see nary a mention of 
+the America Online name. Some think that all this talk of market segments 
+leads to a confusing overlap of products. ``I think the consumer would 
+be better served if they put all their wood behind a single brand, 
+be it Netscape, ICQ or AOL,'' said George Bell, chief executive of 
+Excite, which bought the Webcrawler search service from America Online 
+and kept it as a separate portal, a strategy Bell now thinks was flawed. 
+``It's really hard to manage not only the multiple businesses you 
+buy but the multiple consumer propositions you keep alive through 
+all those brands.'' Yet, America Online argues it must make changes 
+gingerly, because many of its core users find the whole cyberworld 
+baffling and cannot tell the difference between a browser, an online 
+service and a hard drive. This confusion has been a factor in America 
+Online's phenomenal success. Once a user puts one of its ubiquitous 
+disks into a computer, it automatically installs the software, sets 
+up the modem to dial into the network and handles everything from 
+e-mail to Internet browsing to finding sports scores in one seamless 
+environment. America Online says it will not add any features from 
+Netscape that will make the service more confusing. ``They don't need 
+Netscape to revitalize the AOL brand,'' said Paul Noglows, an analyst 
+with Hambrecht &AMP; Quist, the California investment bank. ``It is 
+continuing to grow and gain momentum.'' Netscape, of course, is most 
+known for pushing the technology in just one piece of that puzzle: 
+browsing. Netscape's browser software, known as Navigator, is the 
+window through which users can view pages on the World Wide Web. But 
+Netscape does not offer a connection to the Internet; that has to 
+be arranged either through an Internet service provider or a corporate 
+network. Nor, until recently, did it provide any information or content. 
+The company's Web site, called Netcenter, was an attempt earlier this 
+year to build a new advertising-supported business when it was forced 
+by competition from Microsoft to start giving Navigator away free. 
+Navigator, a Web guide or ``portal'' service modeled after Yahoo, 
+lures its audience because it is the first screen that many Navigator 
+users see when they start to surf. Netscape's browser and its Web 
+site do bring to America Online several audience groups that are underrepresented 
+in its main service. For example, America Online is very strong among 
+teen-agers, who use it to chat among their friends, and among older 
+adults, who like its simplicity. But Netscape has much greater penetration 
+among college students, who often are given its browser as part of 
+their school networks. Moreover, America Online wants to create a 
+new online service based on the Netscape browser that it hopes it 
+would especially appeal to recent college graduates who need to arrange 
+for online access after losing their accounts at school. ``We think 
+these people are never going to get excited about the AOL brand, but 
+they do have an affinity for the Netscape brand,'' Schuler said. Of 
+course, this risks offending some of the independent Internet service 
+providers who distribute Netscape's browser. But then again, their 
+only alternative is Internet Explorer by Microsoft, which runs its 
+own MSN Internet access service. In fact, America Online says it will 
+continue to use Microsoft Internet Explorer itself in its main online 
+service. The reason is that in return, Microsoft includes a copy of 
+America Online's software in every copy of the Windows software package, 
+saving the company hundreds of millions of dollars a year in mailing 
+out disks. That deal does not give Microsoft much more than bragging 
+rights, though, because the version of Internet Explorer that America 
+Online uses is so well integrated into its own software that most 
+users do not know when it is running. Moreover, it does not contain 
+any of the links to Microsoft's MSN online service that are in other 
+copies of Internet Explorer. Similarly, America Online does not plan 
+to merge the Netcenter site with its own huge AOL.com site. Netcenter's 
+main audience is one of America Online's weakest groups: people who 
+use the Internet during the day at their offices. The company had 
+hoped that daytime users would use its Internet site, AOL.com, as 
+a portal instead of Yahoo. But AOL.com does not appeal to that audience 
+because it is mainly a friendly and colorful site that was designed 
+to be used by people on America Online's proprietary services as their 
+first step onto the Internet. Netcenter, by contrast, has a more businesslike 
+tone. And Netscape has been developing a series of services that combine 
+its software and Web site to appeal to professionals. For example, 
+it will let you move a copy of your file of personal contacts from 
+Netscape's Communicator program, onto its Web site, so that you can 
+look up a phone number from the road (assuming you have the right 
+password). America Online does plan to link Netscape gingerly to its 
+other brands. It will place a button to download Navigator on the 
+software program ICQ chat service users must run in order to send 
+and receive instant messages. There are more than 10 million active 
+users of the ICQ chat service. America Online is working on ways to 
+put more features on that program that will drive ICQ users to advertising-supported 
+Web sites. There may be some link as well with Compuserve, when its 
+new software is introduced at the end of the year. That will lower 
+costs by running Compuserve's service using America Online's vast 
+computer network behind the scenes and pave the way for a marketing 
+blitz that emphasizes Compuserve's traditional appeal as a more sober, 
+professional, less entertainment-oriented service than America Online 
+itself. Now the company has to decide whether to risk a potential 
+delay in the product introduction to replace Internet Explorer with 
+Netscape Navigator in the Compuserve software. But don't expect any 
+chipper voices talking about the arrival of e-mail. 
+</TEXT>
+</DOC>

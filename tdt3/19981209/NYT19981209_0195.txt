@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> NYT19981209.0195 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For those who who have failed to be caught up in the ballroom dancing 
+boom sweeping people back off their feet, the World Wide Web may offer 
+salvation. A new Library of Congress Web site allows users to lace 
+up their dancing shoes and learn steps for the waltz, the Charleston, 
+and the fox trot _ with no need to endure the self-conscious awkwardness 
+that marked many of those old school-gym dance classes. The site, 
+An American Ballroom Companion: Dance Instruction Manuals Circa 1490-1920, 
+memory.loc.gov/ammem/dihtml/dihome.html is a collection of over 200 
+social dance manuals covering etiquette, technique, and dance history. 
+The site also includes some anti-dance treatises. The chronological 
+series begins with a rare fifteenth-century source for the basse danse, 
+a Burgundian court dance, continues through clog dances, waltzes, 
+and ballet, and ends in the ragtime era. ``This site provides an opportunity 
+for people interested in dance to look at rare material not available 
+in most local libraries.'' said Elizabeth Aldrich, a dance historian 
+and choreographer, who served as a consultant on the project. A special 
+feature in the works is 80 video demonstrations of assorted historic 
+dances. The dance demonstrations are set to music and provided as 
+links at relevant places in the dance descriptions, as well as through 
+a video directory. The video clips, each lasting about a minute, include 
+close-up tutorials for particular steps. There are also selections 
+from a reconstructed 1890s ballroom performance in the Library's Great 
+Hall. And what about those with two left feet? Not to worry, said 
+Vicki Risner, a dance specialist at the Library of Congress. ``Anybody 
+who wants to learn how to dance can do so,'' she said. ``Recreational 
+dancers are raving about this site, because it gives them a whole 
+new repertoire.'' Sprinkled throughout the site are rich and entertaining 
+nuggets of dance culture like ``Tips to dancers,'' a 1918 dissertation 
+on ball-room gentility by V. Persis Dewey. Among his subjects, Dewey 
+describes the evils of the ``ballroom snob,'' who is ``grossly conceited'' 
+and does ``underhanded things in the dance hall.'' T. A. Faulkner, 
+in the anti-dance polemic ``From the Ballroom to Hell,'' asks: ``Did 
+you ever know a lady who danced to excess to live to be over twenty-five 
+years of age? If she does she is, in most instances, broken in health 
+physically and morally. Doctors claim it to be a most harmful exercise 
+physically for both sexes ... Is there any wonder that so many women 
+of today are unhealthy?'' For those who feel the music, or at least 
+wish they did, the web offers other resources that cater to dancers 
+of all kinds and every experience level. The U.S. Swing Dance Server, 
+simon.cs.cornell.edu/info/people/aswin/swingdancing/swingdancing.htm 
+l, offers swing music, essays on proper dance technique, and Arthur 
+Murray-style dance instructions. Visitors may order swing videos, 
+enter chat rooms designed for swing-lovers, or simply peruse the latest 
+swing news. Another site, ``Dancing for Busy People,'' www.henge.com/calvin, 
+has instructions for an array of dances, including contradancing, 
+square dancing and quadrilles. The site also has listings of national 
+dance events and articles about dancing. Dancing has arrived on the 
+world wide web. So log on, adjust the volume, grab a partner and tango 
+the night away. 
+</TEXT>
+</DOC>

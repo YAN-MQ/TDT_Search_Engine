@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981028.2130.1468 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Archeologists in Egypt have fished out a piece of antiquity from Alexandria 
+harbor. Divers winched a well-preserved sphinx from the harbor floor 
+today. Archeologists had used global satellite positioning devices 
+to map out an area of the harbor where several statues and other items 
+have been found. Egyptian officials say they may turn the site into 
+an underwater museum, complete with glass-walled viewing tunnels. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981026.1130.1093 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another round of corporate earnings reports released today. AT&T announcing 
+a 68% jump in third-quarter profits, easily beating Wall Street's 
+expectations. The company says growth in its wireless, international 
+and business units offset a decline in its core consumer business. 
+But another Dow component, union carbide, reporting a gloomier forecast. 
+Profits there fell 58% in the third quarter. Union carbide says weakness 
+in Asia especially hurt results. Despite the downturn, the company 
+managed to beat analysts' expectations. 
+</TEXT>
+</DOC>

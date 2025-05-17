@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981020.2130.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sources tell CNN Israeli and Palestinian negotiators are close to 
+a peace agreement. Final negotiations should be completed tonight 
+or early tomorrow. A signing ceremony could take place tomorrow. President 
+Clinton is meeting with the two sides to finalize the details. 
+</TEXT>
+</DOC>

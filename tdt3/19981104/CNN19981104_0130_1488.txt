@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981104.0130.1488 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Singer Peggy Lee is in serious but stable condition following a stroke 
+she suffered on October 27th. Her daughter says doctors are trying 
+to determine whether the stroke caused permanent damage. Lee is best 
+known for her hit "fever." She is 78 years old. 
+</TEXT>
+</DOC>

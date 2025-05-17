@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> ABC19981231.1830.1196 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One more note about "your money." The new year brings a couple of 
+new tax breaks, grab a sharp pencil. Parents in the middle income 
+tax bracket will now be able to deduct $500 for each child under 17, 
+up from $400. For parents with kids in college, the IRS will offer 
+tuition credits up to $1,500 for the first two years of college. And 
+the 2 million people who use their home as an office will be able 
+to claim a deduction for the first time. 
+</TEXT>
+</DOC>

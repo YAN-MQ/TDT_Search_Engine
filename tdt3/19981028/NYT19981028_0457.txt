@@ -1,0 +1,89 @@
+<DOC>
+<DOCNO> NYT19981028.0457 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Delivering a blunt reminder to investors that the World Wide Web can 
+be treacherous, federal regulators said Wednesday that they had accused 
+44 stock promoters of fraudulently promoting more than 235 small companies 
+on the Internet. The Securities and Exchange Commission, which created 
+a special enforcement squad to police Internet frauds, called the 
+civil enforcement action the first such nationwide crackdown. The 
+SEC accused an array of little-known stock promoters in 10 states 
+and the District of Columbia of ``illegally touting securities'' and 
+misleading investors about their relationships with the companies 
+they were promoting. Often, regulators said, the promoters recommended 
+stocks but failed to disclose that they were being paid in cash or 
+stock by the companies they were promoting. Often, the agency said, 
+the promoters sold their own shares as the price of a stock jumped 
+in the period after they pumped up its virtues. ``In all of these 
+cases, the Internet promoters gave ostensibly independent opinions 
+about microcap companies that in reality were bought and paid for,'' 
+Richard H. Walker, director of enforcement at the SEC, said in a statement. 
+``Not only did they lie about their own independence, some of them 
+lied about the companies they featured and then took advantage of 
+any quick spike in price to sell their shares for a fast and easy 
+profit.'' The promoters _ who wrote for online newsletters, posted 
+messages on Web sites and flooded the Internet with junk e-mail _ 
+were paid more than $6.2 million in cash by the companies whose shares 
+they were promoting and were given 1.8 million shares of stock or 
+stock options for their work, regulators said. The SEC said many of 
+the accused had already agreed to settle the complaint by paying fines. 
+Despite efforts by the SEC to combat Internet fraud, however, the 
+scams have become increasingly sophisticated and varied. ``All types 
+of scams are finding their way to the Internet,'' said John R. Stark, 
+chief of the office of Internet enforcement at the SEC. ``You have 
+Ponzi schemes, pyramid schemes, public offerings, oil and gas fraud, 
+every kind of fraud.'' Much of the fraud, investigators say, involves 
+small-time stock promoters, many of whom work out of their homes, 
+and a host of tiny companies hoping to bolster the value of their 
+penny stocks. But the range of schemes appears to have grown enormously, 
+despite repeated warning from regulators that investors must be skeptical 
+about what they find on the Internet. Stark says it is difficult to 
+know who is falling for the misleading stock promotions. ``The profile 
+is really all over the map,'' he said. ``Some people are sophisticated, 
+some are not. There is no typical Internet victim. The fact is no 
+one should be making investment decisions based on what they read 
+over the Internet.'' That small companies in several of these cases 
+paid as much as $300,000 to stock promoters on the Web is an indication 
+of just how powerful a trading and investment tool the Internet has 
+become in recent years and how seductive a vehicle of fraud it can 
+become. In one case, an Internet newsletter called The Future Superstock 
+recommended that its more than 100,000 subscribers buy shares in about 
+25 fast-growing companies whose share prices were expected to double 
+or triple in the following months. The writer of the newsletter, which 
+offers company profiles and ``hot breaking news,'' told subscribers 
+that he had conducted independent research on the companies and that 
+his stock-picking record was excellent. But what the writer, Jeffrey 
+C. Bruss of West Chicago, Ill., did not fully disclose, according 
+to federal regulators, was that the companies he was touting had paid 
+him more than $1.6 million to do so. In fact, he had done little or 
+no research, investigators say, and he misled subscribers about his 
+stock picking record. Efforts to reach Bruss by telephone and e-mail 
+were unsuccessful. In another case, Francis A. Tribble and his company, 
+Sloane Fitzgerald, were accused of sending more than 6 million e-mails 
+to fraudulently promote two small companies, including JT's Restaurants 
+in New York. The SEC said many of the e-mails did not sufficiently 
+disclose Tribble's compensation arrangements with JT's Restaurants, 
+which is owned by his father, Joseph Tribble. Most of the e-mail suggested 
+that it was from independent stock promoters named ``HotStock,'' ``Net-Vest'' 
+and ``Cyber-Stock,'' according to the SEC. Francis Tribble and Sloane 
+Fitzgerald agreed to pay a $15,000 civil penalty, the agency said. 
+Although it is not illegal for a company to pay stock promoters to 
+tout their stock, the promoters are required by federal law to disclose 
+whether they are being paid by a company they are promoting, what 
+form of payment they are receiving and how much they receive. With 
+the huge proliferation of Web sites and bulletin boards, and the increasingly 
+sophisticated methods use to engage in securities fraud, many say 
+there are not enough regulators to begin to patrol the Internet. But 
+regulators also point out that the Internet has become a tremendous 
+tool for those willing to do research on investment opportunities 
+and stock promoters. Already, there are sites devoted to combating 
+stock scams, and the North American Securities Administrators Association, 
+a group of state regulators, says it would like to form a neighborhood 
+``watch'' program in which Internet users could funnel information 
+about potential stock scams to a Web site. ``We have to do what we 
+can,'' said Marc Beauchamp, a spokesman for the association, ``to 
+make sure this medium is not overrun by charlatans.'' 
+</TEXT>
+</DOC>

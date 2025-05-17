@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981128.1600.1671 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+we're back in two minutes, stay tuned. i'm kate snow. this is "cnn 
+headline news." 
+</TEXT>
+</DOC>

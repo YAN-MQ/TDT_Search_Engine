@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981127.0130.1322 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Phoenix coyotes ran their unbeaten streak to 14 games with a 3-2 
+win over New Jersey. 
+</TEXT>
+</DOC>

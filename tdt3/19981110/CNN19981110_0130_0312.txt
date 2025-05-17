@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981110.0130.0312 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Indianapolis, about 481 elementary students and teachers had to 
+flee their Parish school Monday because of an Anthrax scare. It is 
+not clear whether the letter sent to St. Matthew Catholic church contained 
+the deadly bacteria. Just in case, six administrators were scrubbed 
+with soap and water and given antibiotics. The incident comes ten 
+days after a similar threat at a women's clinic in indianapolis . 
+</TEXT>
+</DOC>

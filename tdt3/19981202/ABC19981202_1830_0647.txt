@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> ABC19981202.1830.0647 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We have a report tonight about keeping secrets. In the battle against 
+international terrorism, the FBI and CIA have been trying to get along 
+-- to cooperate and share their secretes more than before. Most people 
+say it's working, but a lot can go wrong. And ABC's John Miller reports 
+tonight on one case where it has in a big way. After the bombing of 
+the two U.S. embassies in Africa, the CIA called on all cooperative 
+intelligence services to share whatever information they had about 
+suspected terrorists with connections to osama bin laden. Some of 
+the most alarming information came from bugs planted by the Italian 
+intelligence service in this apartment house in Turin. The Italian 
+agents were eavesdropping on a terrorist the CIA brought the fBI into 
+the loop. Then the FBI went out of the loop, passing the information 
+on to the italian national police. The Italian police raided the house, 
+arresting three suspectedded terrorists and seizing weapons and ammunition. 
+The problem was, the FBI did not tell the Italian police that their 
+information came from Italian intelligence. In fact, the Italian intelligence 
+agents first learned of the raid live when their bugs recorded the 
+sound of police breaking down the door. Italian intelligence had hoped 
+the bugs would help them identify more members of bin laden's terrorist 
+cells and felt the raid blew their investigation. Officials at both 
+the FBI told us today there was a lack of communication between the 
+two agencies in this case. They pointed communication in this case 
+between the Italian intelligence service and its own police wasn't 
+much better. John Miller, ABC News, New York. 
+</TEXT>
+</DOC>

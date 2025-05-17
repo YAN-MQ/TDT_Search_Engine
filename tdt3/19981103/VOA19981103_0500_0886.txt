@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> VOA19981103.0500.0886 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The United States Congress recently passed and President Clinton signed 
+into law legislation affecting the Internet. The measure requires 
+commercial sites on the World Wide Web to restrict access by children 
+to materials such a pornography that is deemed harmful to minors. 
+A number of civil liberties groups are challenging this law claiming 
+it is an improper restriction of free speech. To find out more about 
+the challenge, Dan Noble went to the headquarters of the Electronic 
+Privacy Information Center in Washington D.C. to speak with the center's 
+counsel, David Sobel. Mr. Sobel, what is the Child Online Protection 
+Act? This bill is the most recent congressional attempt to, as Congress 
+puts it, protect children from inappropriate material on the Internet. 
+This is the second such bill that Congress has enacted. The first 
+one, the Communications Decency Act, was struck down by the Supreme 
+Court as violating the First Amendment rights of people using the 
+Internet. So this is basically Congress' second attempt to address 
+this issue. Well, why are they trying to address it? There has been 
+a lot of concern expressed over the last few years about the nature 
+of material that is available on the Internet and necessarily because 
+it is available on the Internet, also it's available to children. 
+So there are people in Congress who feel that the only effective way 
+to deal with that issue is through legislation. Many of us disagree 
+with that and feel that the only really effective approach to this 
+issue is to spend more time supervising children in the way that they 
+use the Internet, and in developing educational programs. Do you see 
+the law as a potential privacy issue? Well, it is because this particular 
+law in effect requires that when there is sexually explicit material 
+available on a Web site, that the operator of that Web site will be 
+required to basically check the age of whoever is coming to the site 
+and accessing the material. So that necessarily means that the anonymity 
+that characterizes the Internet as we know it now will largely be 
+lost and that people will in effect be required to identify themselves. 
+So in that way, it does raise a real privacy issue. And as I say, 
+it is an assault on the anonymity that has been a very important characteristic 
+of the Internet. What impact does the Internet have on freedom of 
+expression as guaranteed to Americans in the Constitution? Well, I 
+think as the Supreme Court recognized last year when it struck down 
+the first piece of legislation of this kind that Congress has enacted, 
+the court recognized that the Internet in many ways really is the 
+first true embodiment of a lot of the principles that were first recognized 
+in the First Amendment to the United States Constitution, and that 
+the theoretical idea of a marketplace of ideas where everybody could 
+equally participate really only came into being with the creation 
+of the Internet. Obviously, if you owned a newspaper or you owned 
+a television or radio station, you had the ability to speak to a large 
+audience. But it really wasn't until the Internet became widely available 
+to people that every individual, at least theoretically, has the ability 
+to reach, in effect, the entire world. Thank you very much, Mr. Sobel. 
+We've been speaking with David Sobel. He's the counsel for the Electronic 
+Privacy Information Center. From Washington D.C., I'm Dan Noble. 
+</TEXT>
+</DOC>

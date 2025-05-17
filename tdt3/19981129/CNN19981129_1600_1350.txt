@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981129.1600.1350 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tennis -- alex corretja captured his first major title Sunday, defeating 
+fellow Spaniard Carlos Moya at the atp tour world championship. That's 
+in Hanover, Germany. Corretja came from two sets down to avenge his 
+French open final loss to moya. 
+</TEXT>
+</DOC>

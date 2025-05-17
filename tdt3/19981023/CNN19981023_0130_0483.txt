@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981023.0130.0483 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The tobacco industry has a different kind of class-action suit to 
+deal with now. Black smokers and two black health groups are suing 
+because they say the industry violated civil rights statutes by trying 
+to get black people to smoke menthol cigarettes. The plaintiffs claim 
+menthols are more toxic than regular cigarettes, and 70% of menthol 
+smokers are black. The suit claims blacks are 30% more likely to die 
+from smoking-related illnesses than whites. 
+</TEXT>
+</DOC>

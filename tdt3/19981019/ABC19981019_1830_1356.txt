@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981019.1830.1356 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another bad day for the Russians. The Russian currency fell more than 
+5%. There has been an enormous increase this year in the number of 
+Russian poor. The government says 30% of the population now lives 
+below the official poverty line of $32 a month. 
+</TEXT>
+</DOC>

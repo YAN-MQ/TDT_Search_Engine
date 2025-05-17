@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981229.1830.0757 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street appears ready for a big finish to a very big year. The 
+Dow Jones industrial average climbed more than 94 points today, its 
+eighth straight gain: that makes it the Dow's longest winning streak 
+of the year. Much more modest gains for the NASDAQ, which climbed 
+almost 1 1/2 points. 
+</TEXT>
+</DOC>

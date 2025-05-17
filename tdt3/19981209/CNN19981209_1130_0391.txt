@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981209.1130.0391 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Today in Washington, President Clinton has private talks scheduled 
+with lawmakers over the future of social security. White House officials 
+say the discussions are just a warm-up for future negotiations. Yesterday, 
+Mr. Clinton opened a two-day conference addressing the issue of how 
+to deal with the up impending retirement of 75 million baby boomers 
+in 2032. The program is expected to run short of money by then unless 
+changes are made. 
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981126.2130.0023 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is "CNN Headline News." I'm Denise Dillon, sitting in for Lynne 
+Russell. Happy Thanksgiving. High winds and rain couldn't dampen the 
+enthusiasm of the thousands of spectators who turned out for Macy's 
+72nd annual Thanksgiving day parade. New safety restrictions were 
+taken after an accident last year. But blustery weather left its Mark 
+again. Wind gusts up to 30 miles an hour took four giant balloons 
+out of the lineup, including spiderman and the new entry, "wild thing," 
+from the children's book, "where the wild things are." It deflated 
+after it blew into a lamppost. We were coming down the quarter over 
+here and some wind picked up and followed through and caught up in 
+the light here and popped a hole in the side. And we had to deflate 
+it. Despite rain and wind, thousands of spectators lined the streets 
+for the macy's parade. And many of the balloons were kept under control 
+for folks to enjoy. Parades marked the day in many cities. In Houston, 
+Texas, enjoyed temperatures well into the 70s for their thanksgiving 
+parade. 
+</TEXT>
+</DOC>

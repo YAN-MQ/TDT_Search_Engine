@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981031.0120 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Locally heavy rain and some strong thunderstorms 
+will plague parts of the southern Plains and Texas as a potent, slow-moving 
+jet-stream disturbance drifts east from New Mexico. The heaviest rain 
+is expected over portions of northern Oklahoma and southern Kansas, 
+where mild moist air is forced to rise over cooler air in place across 
+the region. Clouds and patchy light rain will streak into the central 
+Mississippi and western Ohio River valleys. Farther south, a broken 
+band of strong thunderstorms may spawn a few tornadoes in the warmer 
+and more humid air over central and eastern Texas. Cool, moist air 
+will continue to circulate around a sprawling low-pressure area south 
+of Nova Scotia, resulting in clouds and a few showers from northern 
+New England to the Adirondacks. Gusty breezes from the northwest will 
+add to the chill of the day. Elsewhere in the Northeast, there will 
+be a mixture of sunshine and a few clouds. Temperatures will be a 
+few degrees below the seasonal average. Most of the interior Southeast 
+and Carolinas will be dry but a bit cooler than in recent days. Sunshine 
+will be plentiful over most of the region, but some low clouds will 
+linger near the western slopes of the southern Appalachians. Unsettled 
+weather will linger over the northwestern states in the wake of a 
+weakening cold front. Onshore winds will promote clouds and showers 
+as well as some snow in the Cascades and northern Bitterroots. Meanwhile, 
+ample sunshine will prevail over most of California and the deserts 
+of the Southwest. Focus: Autumn Twisters Tranquillity is often the 
+hallmark of autumn weather. While the upper atmosphere lingers in 
+summer warmth, autumn's chill gathers at the ground as daylight steadily 
+wanes. When cool air underlies warm, the fast-rising currents that 
+sustain severe thunderstorms are fleeting. On Friday, the spiraling 
+winds of a vigorous jet stream offset autumn's stable atmosphere, 
+spawning several tornadoes in eastern New Mexico and western Texas. 
+The jet stream's swirling energy will still be evident Sunday, and 
+the unusual roar of a few autumn twisters may echo across central 
+and eastern Texas. 
+</TEXT>
+</DOC>

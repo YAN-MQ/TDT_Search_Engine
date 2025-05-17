@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> NYT19981228.0301 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The arcane language of physics is not exactly the stuff of song lyrics, 
+but the Cernettes, billed as the world's first particle physics rock 
+band, have hit the Internet. Even if nonphysicists fail to get their 
+musical jokes, the Cernettes count on a growing audience of admiring 
+scientists. The Cernettes take their name from CERN, the acronym for 
+Europe's pre-eminent high-energy particle laboratory straddling the 
+French-Swiss border near Geneva, with which all the singers are associated. 
+Membership in the four-woman amateur singing group and its band changes 
+from year to year, but the Cernettes' songwriter-lyricist, Silvano 
+De Genarro, constantly provides material to keep his group up to par 
+at the many physics meetings and celebrations where they perform. 
+On the job at CERN, De Genarro, a computer scientist, uses virtual 
+reality to manipulate the virtual counterparts of battleship-size 
+particle detectors that must fit into cramped niches in the laboratory's 
+17-mile circular accelerator tunnel. But in his spare time he writes 
+songs of the doo-wop style popular in the 1950s and '60s. ``The average 
+physicist around here was growing up in those years,'' De Genarro 
+said in an interview, ``and they get a nostalgic kick out of my tunes.'' 
+Some of his songs involve the Large Hadron Collider, or LHC, nearing 
+completion in CERN's circular accelerator tunnel spanning the border 
+between Switzerland and France near Geneva. Here is a typical verse 
+from De Genarro's lament ``Collider'': I gave you a golden ring to 
+show you my love, You went to stick it in a printed circuit To fix 
+a voltage leak in your collector You plug my feelings into your detector 
+You never spend your nights with me You don't go out with other girls 
+either You prefer your collider You only love your collider. Celebrating 
+the LHC, which will be a Mecca for American as well as European high-energy 
+physicists, the Cernettes have renamed themselves ``Les Horribles 
+Cernettes,'' or LHC for short, and they have posted some songs on 
+their Web page: http://sgvenus.cern.ch/musiclub/cernettes. Owners 
+of computers with sound cards can hear the Cernettes (who often emulate 
+the Supremes) croon catchy tunes like ``Strong Interaction'' (``You 
+quark me up, you quark me down, you quark me top, you quark me bottom''), 
+``Antiworld,'' ``Surfing on the Web'' and ``Microwave Love.'' Since 
+its birth in 1954, CERN's achievements have included monumental discoveries 
+in particle physics, a succession of Nobel prizes and the construction 
+of a proton collider that may yield enough energy to discover the 
+elusive Higgs boson _ a theoretical particle supposedly responsible 
+for endowing all matter with mass _ and a magazine read by physicists 
+around the world. But for ordinary people, CERN's most memorable achievement 
+was to invent the World Wide Web as a way to organize and find information 
+on the Internet. The laboratory originally used its Web system as 
+a communication network for physicists, but it grew as the Internet 
+became as universal as the world's postal system. As the Web outgrew 
+the laboratory, CERN cast off its creation, which is now administered 
+by others. De Genarro, an Italian, writes his songs entirely in English 
+``because English is the universal language of physics.'' But this 
+has created something of a language barrier between the CERN laboratory 
+and the French and Swiss people outside it. Most of CERN's neighbors 
+do not understand the jokes in his songs. ``Our concerts are more 
+popular in France than in Switzerland,'' he said, ``because the Swiss 
+seem to think we're too noisy.'' The Cernettes are not the only performers 
+specializing in physics songs. In the United States, Dr. Lynda Williams 
+_ a former go-go dancer who teaches physics at San Francisco State 
+University _ has become a smash hit at physics conferences. Her on-stage 
+gyrations and clever allusions to physics keep audiences of specialists 
+roaring with laughter. One of the theories she tackles is ``supersymmetry.'' 
+Many physicists believe this theory will eventually unite the realm 
+of the ultra large (as described by relativity) and the ultra small 
+(governed by quantum mechanics). The idea is that for every particle 
+of matter there may be an unseen supersymmetric particle of some force 
+carrier, and that for every known force carrier (photons of light, 
+for example) there is an unseen particle of supersymmetric matter. 
+Such particles are called ``sparticles,'' ``squarks,'' and so on. 
+Williams' song, to the tune of George Gershwin's ``S'wonderful,'' 
+pokes fun at the government's cancellation in 1993 of the Superconducting 
+Supercollider (SSC), which would have been the largest accelerator 
+in the world: S'quantum dream, squandered it, Bad publicity. A'awfully 
+sad, S'could of had Our own SSC. But where did the funding go? Must 
+be hiding with the higgsinos S'wonderful, s'marvelous There's still 
+the LHC! 
+</TEXT>
+</DOC>

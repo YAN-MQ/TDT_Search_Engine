@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981115.1000.0342 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It appears the apec economic summit in Malaysia will not end with 
+a deal to cut tariffs. Delegates from 21 pacific Rim nations had hoped 
+to broker an agreement to lift tariffs on more than $1 trillion worth 
+of global trade. One major roadblock was Japan's refusal to lift tariffs 
+on forestry and fish products while the country is in a recession. 
+The pacific Rim heads of state are due to meet in Kuala Lumpur this 
+week. 
+</TEXT>
+</DOC>

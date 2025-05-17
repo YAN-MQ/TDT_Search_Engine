@@ -1,0 +1,110 @@
+<DOC>
+<DOCNO> NYT19981105.0225 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Microsoft Corp. does not go softly into hardware. When it decides 
+to enter a hardware niche, it typically has a good reason. The rise 
+of graphical user interfaces like the Windows shell demanded a mouse, 
+and Microsoft is now the big cheese in computer mice. Microsoft's 
+game-software division is a powerhouse, so the company is trying to 
+conquer the market for game paraphernalia like joysticks, steering 
+wheels and stereo speakers. William H. Gates became a daddy, and now 
+there is the Microsoft Actimates Interactive Barney doll. And now 
+Microsoft is going after the cordless phone business, which says a 
+lot about the company's vision for the future. It is a future that 
+blends telecommunications, consumer electronics and computing, and 
+it envisions increasing reliance on voice commands to control common 
+household devices _ that, not coincidentally, use Microsoft operating 
+systems. Microsoft's latest hardware product is a $199 cordless telephone 
+that connects to a personal computer and uses Windows-based call management 
+software. In theory, the Microsoft Cordless Phone System, officially 
+known as the PC Phone System MP-900, is supposed to harness the power 
+of the PC to improve the way we use the telephone. After a couple 
+of weeks of testing the MP-900, I find it hard to give it a ringing 
+endorsement. Even so, the ideas behind the PC Phone System MP-900 
+are so compelling that I eagerly await version 2.0. The MP-900 is 
+a black, 900-megahertz cordless phone that comes with a desktop cradle, 
+a base station that connects to a PC and a CD-ROM disk with call management 
+software. In general, 900-megahertz phones are significantly superior 
+to the first-generation cordless phones, which operated at 46 to 49 
+MHz. The software enables the user to set up a voice mail system, 
+with separate voice-mail boxes for each member of a family or small 
+business. A voice command system lets the user make calls by simply 
+speaking the name of the recipient, once that name and phone number 
+are entered in a speed-dial directory. Up to 40 names can be entered. 
+For example, to call one's bookmaker, one simply presses the voice 
+command button on the handset and says, ``Call Weasel.'' (Your bookie's 
+name may vary.) The phone looks up Weasel's number in the PC database, 
+dials it and logs the call. It is one of the first successful examples 
+of speech recognition in my house, certainly more impressive than 
+when I try to summon my teen-ager by voice. If the user subscribes 
+to a Caller ID service through the phone company, the software can 
+recognize calls from certain individuals and play a custom greeting 
+whenever that person calls. The phone handset also uses voice synthesis 
+to announce incoming calls. ``Gates, Bill, calling.'' Thus, the user 
+can screen calls even when away from the PC. Voice messages are stored 
+on the computer's hard disk and can be played back, even from a remote 
+location. It sounds great in theory. But to be broadly successful, 
+consumer electronics devices have to be relatively inexpensive, simple 
+to learn, easy to use, reliable and so compelling that people eventually 
+wonder how they ever survived without one. The telephone is one example, 
+and the radio, the television, the VCR, the stereo and the microwave 
+oven are others. By those standards, the Microsoft Cordless Phone 
+has not quite made the connection. First, $199 is a lot to spend on 
+a single-line, 900-megahertz analog cordless phone. For just a few 
+dollars more, you can get 2.4-gigahertz digital spread-spectrum cordless 
+phone with greater range, two-line capability and protection against 
+electronic eavesdroppers. (The problem with many analog cordless phones 
+is that your conversations can sometimes be picked up on the neighbor's 
+baby monitor.) Or you can buy a 900-MHz digital cordless phone with 
+many useful features for much less than $199. Sony just introduced 
+several new 900-MHz digital phones, for slightly more money, that 
+match some of the more appealing features of the Microsoft phone, 
+without the need for a PC. While more than 70 percent of American 
+households have a cordless phone already, fewer than 45 percent have 
+a PC, and of those, not all have the features needed to operate the 
+Microsoft phone. These include a Pentium 90 processor (or faster) 
+running Windows 95 or 98, a vacant serial port, 32 megabytes of RAM, 
+up to 100 megabytes of hard disk space and a Windows-compatible 16-bit 
+sound card with a microphone and speakers. Many of the more appealing 
+features require Caller ID, a subscription service offered by local 
+phone companies. The phone will not work with Windows NT, and there 
+are no plans to create a Macintosh version, Microsoft said. Connecting 
+the MP-900 to my Windows PC was harder than I thought it would be 
+and required much fussing over serial ports. The software installed 
+easily, but it refused to work until other phone extensions on the 
+line were disconnected. The phone's battery must be charged for 10 
+hours before use, which might frustrate users who require instant 
+gratification. The special call management software is relatively 
+easy to configure. But it was unnecessarily difficult to import the 
+hundreds of names and telephone numbers I have collected in Microsoft 
+Outlook into the new phone's directory. The idea of re-entering all 
+those numbers manually was too much to bear. The thought of attempting 
+a link with Sidekick or some other non-Microsoft contact-management 
+software was truly odious. No matter how I tweaked the software, the 
+phone refused to play the custom announcements I lovingly recorded 
+for special callers _ the Wicked Witch theme song for one, the submarine 
+``battle stations'' sound effects for another, and so on. Perhaps 
+the largest drawback is that to take advantage of all the advanced 
+features, you must leave the PC turned on. If the PC is switched off 
+or crashes, the MP-900 becomes a very expensive cordless phone. Nor 
+is there a headset option for the MP-900, which disqualifies it for 
+use as my primary office phone. The sound quality of messages played 
+back through my computer's speakers was erratic, fading in and out. 
+On the flip side, my digital cellular phone is much less reliable, 
+and I still put up with it. On balance, the MP-900 is a clever device, 
+and its call management software deserves to be incorporated into 
+future generations of desktop and cordless phones. But the price is 
+still a bit steep, the inconveniences still outweigh the advantages, 
+and non-PC cordless phone technologies offer some of the same features. 
+In last week's column about Macintosh OS 8.5, a brief reference was 
+made to the ``Revision B'' iMac computer. Apple would neither confirm 
+nor deny what it said were ``rumors'' about the existence of the new 
+model. Here are the details: Since introducing the iMac in July, Apple 
+has made several improvements to the original model, including adding 
+a faster graphics chip and more video RAM (6 MB versus 2 MB). These 
+Revision B iMacs come from the factory with Mac OS 8.5 installed instead 
+of 8.1. NYT-11-04-98 1622EST 
+</TEXT>
+</DOC>

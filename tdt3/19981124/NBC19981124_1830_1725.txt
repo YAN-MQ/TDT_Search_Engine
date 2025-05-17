@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981124.1830.1725 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+As we say good night on this Tuesday before Thanksgiving, a familiar 
+american ritual, one Turkey receives a presidential pardon. But on 
+the south lawn of the White House today, this bird seemed not to be 
+very grateful. 
+</TEXT>
+</DOC>

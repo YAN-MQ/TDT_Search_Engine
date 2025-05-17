@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> CNN19981106.1600.0396 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This will be the last night in space for John Glenn and the shuttle 
+"Discovery" crew. But the weather in Florida could cause a change 
+in plans. Sean Callebs is at the Kennedy space center in Florida with 
+an update. Sean? Well, Chuck, this trip is winding down. Right now 
+NasA is looking at the Kennedy space center as the primary landing 
+site. But the space agency has had to put another crew at another 
+site in california because of weather. And this isn't the only problem 
+right now. NASA is keeping a close eye on the shuttle's drag chute. 
+Remember during launch? An aluminum door that protects the chute fell 
+off. During a briefing, the flight manager downplayed any serious 
+threat. But the shuttle, in her words, "could have a hard landing 
+that might break the spacecraft in the unlikely event the chute deploys 
+early and cannot be jettisoned." You may break the strut. It would 
+do a lot 06 damage to the Orbiter. It's probably not going to deploy, 
+and the mechanism will work. It's been a pleasure working with you. 
+The mission went super smooth. John Glenn waited more than 3 1/2 decades 
+to return to the earth's orbit. But now as the crew stores gear and 
+finishes tests and exercises, Glenn's remaining time in space is measured 
+in hours, not days. NASA physicians explain what Glenn and the others 
+can expect when they leave microgravity and are back on earth. They 
+experience maybe a little bit of light-headedness, particularly if 
+they stand in one spot for a length of time and don't move around 
+much. Most astronauts experience some dizziness, but doctors will 
+decide after landing whether Glenn is up to walking off the ship or 
+whether he needs assistance. Reporting live, I'm Sean Callebs. Thanks, 
+Sean Callebs, at the Kennedy space center in Florida. 
+</TEXT>
+</DOC>

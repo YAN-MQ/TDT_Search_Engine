@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981228.1830.1113 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors certainly took notice today of the big season for Internet 
+sales. Stock for Internet bookseller Amazon.com was up 8%. America 
+online was up 15%. And skymall, a company that caters to airline passengers, 
+reported a big jump in Internet sales. Its stock was up 184%. 
+</TEXT>
+</DOC>

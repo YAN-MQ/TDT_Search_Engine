@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981101.1000.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the space shuttle crew will try to accomplish a major task today. 
+They're releasing the Spartan satellite into space, where it'll study 
+the sun two days and then be retrieved by "discovery." 
+</TEXT>
+</DOC>

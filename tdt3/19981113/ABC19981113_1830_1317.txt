@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981113.1830.1317 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In other news tonight -- it's official. There is a draft deal between 
+eight states and the tobacco industry. As we reported earlier in the 
+week, the states could get more than $200 billion for medical costs, 
+and restrictions on tobacco marketing. If enough states agree to the 
+terms next week, it will be the largest legal settlement in history. 
+</TEXT>
+</DOC>

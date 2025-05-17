@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NYT19981130.0508 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Spurred by competition from the Continent, about 50 of the 1,500 traders 
+on London's futures markets hung up their bright-colored blazers Monday 
+and turned to computer screens, abandoning open-outcry trading in 
+favor of electronic dealing. For the London International Financial 
+Futures Exchange, the switch came as an acknowledgment that it had 
+fallen behind electronic rivals, particularly in Frankfurt, who captured 
+the benchmark German bond contract this year, displacing London as 
+the unchallenged leader of Europe's derivatives markets. Caroline 
+Denton, a spokeswoman for the exchange, said the intention was to 
+transfer the bulk of the exchange's business to electronic screen 
+trading by next July. About 1,500 people work in the exchange's open-outcry 
+pits, but more than 200 of them have been retrained to operate trading 
+screens in the offices of the exchange's 212 members. Ms. Denton said 
+47 member companies took part in trading 75 equity options Monday, 
+and 11,600 contracts were traded. Some traders said the real test 
+would come with busier trading. Ms. Denton said the volume Monday 
+was average for equity options and that the changeover had worked 
+well. The challenge to the London exchange is driven by the planned 
+introduction of Europe's single currency, the euro, on Jan. 1. The 
+currency change has galvanized European financial markets into cross-border 
+deals to strengthen their positions and compete for business in the 
+11-nation euro zone. This year, the futures markets in Frankfurt and 
+Zurich set up a joint exchange called Eurex in direct opposition to 
+the London exchange, just as the stock markets in London and Frankfurt 
+formed what they called a ``strategic alliance'' as the core of a 
+putative pan-European equities market. In a further acknowledgment 
+that the insurgents are gaining ground, the London exchange also announced 
+Monday that starting this month it would use two competing euro interest 
+rates as a reference for euro futures contracts _ the Euribor, which 
+is calculated by 57 mostly European banks, and the euro Libor, which 
+is based on daily quotes from 16 international banks. Traders said 
+it was unclear which rate would be most commonly used and how much 
+they would differ from each other. 
+</TEXT>
+</DOC>

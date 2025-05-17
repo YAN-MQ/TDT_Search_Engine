@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> ABC19981105.1830.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today, stocks were up -- after the federal reserve 
+chairman alan Greenspan reassured investors that credit wasn't in 
+danger of drying up. The Dow Jones industrials were up more than 132 
+points to close at 8915. On the NASDAQ market, stocks were up 13 1/2 
+points. Mr. Greenspan also focused on the danger of traders who move 
+billions and billions of dollars around the world at the push of a 
+button. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981209.0130.0482 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And still ahead -- a massive 
+power outage made it a dark day in San francisco. We'll tell you what 
+sparked it. 
+</TEXT>
+</DOC>

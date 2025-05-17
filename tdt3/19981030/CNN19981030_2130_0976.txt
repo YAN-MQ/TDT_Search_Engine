@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981030.2130.0976 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks rallied on Wall Street today, giving the Dow Jones industrial 
+average its biggest one-month gain in nearly 12 years. 
+</TEXT>
+</DOC>

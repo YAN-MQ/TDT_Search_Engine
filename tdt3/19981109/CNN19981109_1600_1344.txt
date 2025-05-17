@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981109.1600.1344 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Finally, the Vikings learn quarterback Brad Johnson will be out of 
+action three to four weeks with a broken thumb suffered in Sunday's 
+win over New Orleans. Minnesota still does not know the status of 
+its other quarterback, Randall cunningham, who underwent surgery today 
+for injuries to his right knee suffered in the same game. Jerome Jurenovich, 
+"CNN Headline Sports." 
+</TEXT>
+</DOC>

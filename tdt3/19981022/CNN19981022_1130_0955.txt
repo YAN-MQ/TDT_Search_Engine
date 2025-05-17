@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981022.1130.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And, the Colorado river in Texas is rising and threatening to flood 
+more of the state. Record rainfall in the lone star state has led 
+to swollen rivers and swamped towns. 22 deaths are blamed on the severe 
+weather. 
+</TEXT>
+</DOC>

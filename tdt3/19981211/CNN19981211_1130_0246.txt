@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981211.1130.0246 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronauts from the space shuttle "endeavour" will be back at their 
+construction job today. The first two modules of the international 
+space station were powered up yesterday. The work under way now will 
+prepare the station for its first permanent crew. After another space 
+walk tomorrow, the shuttle crew will pack up for a Return to earth 
+Tuesday. 
+</TEXT>
+</DOC>

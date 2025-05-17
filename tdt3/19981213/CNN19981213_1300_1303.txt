@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981213.1300.1303 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In college basketball last night, second-ranked Maryland suffered 
+its first loss with a 103-91 defeat at the hands of number five Kentucky. 
+Heshimu Evans poured in a career high 31 points. Third-ranked Duke 
+rolled over Michigan, 108-64. Trajan langdon had 24 points, including 
+seven three-pointers. And Brendan haywood's putback at the buzzer 
+gave North Carolina a thrilling 75-73 overtime win against North Carolina-Charlotte. 
+</TEXT>
+</DOC>

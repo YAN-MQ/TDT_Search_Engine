@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981011.1000.1332 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Peter Warrick caught seven passes for 190 yards as eighth-ranked Florida 
+state beat Miami for the fourth straight year, 26-14. 
+</TEXT>
+</DOC>

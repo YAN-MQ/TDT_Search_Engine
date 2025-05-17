@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> CNN19981102.1130.0570 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Detecting smoke in the cockpit can be one of the most frightening 
+emergencies for an airline pilot. Dan Ronan explains why that's especially 
+true these days. Pilots say smoke in the cockpit and being forced 
+to make an unscheduled landing can be one of the scariest situations 
+they'll deal with. Not only may the plane have a malfunction, but 
+the pilot's visibility and ability to breathe can be hampered. All 
+the electronic connections come into the cockpit or a compartment 
+underneath them. So if there's an electrical short, you're going to 
+get some kind of smell, like you would if you had a short in the wiring 
+in your home. It may not start a fire, but you smell that acrid smell. 
+In the two months since the Swissair crash, there have been at least 
+eight unscheduled landings because of smoke in the cockpit. That's 
+twice as many reports as the FAA usually receives. Aviation experts 
+say while the rules for landing a plane with smoke in the cockpit 
+have not changed, because of the Swissair crash, pilots may be more 
+conservative. When an accident happens, any kind of accident happens, 
+people become more sensitive to those kinds of incidents. And smoke 
+in the cockpit is one of the really scary things for a pilot. Adding 
+to the equation, many say the mainstream media are more aggressive 
+about reporting aviation issues. But the airlines we spoke with do 
+confirm they are telling their pilots if there's smoke in the cockpit, 
+don't take chances, land the plane. Dan Ronan, CNN, Atlanta. 
+</TEXT>
+</DOC>

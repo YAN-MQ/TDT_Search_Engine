@@ -1,0 +1,71 @@
+<DOC>
+<DOCNO> NYT19981207.0423 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Companies that want to reprice options because their stock price is 
+depressed, but thought that they had months left to act, scrambled 
+Monday to get the job done before Dec. 15, when favorable accounting 
+treatment will end. The Financial Accounting Standards Board has been 
+moving for months to require that repriced options be recorded as 
+an expense, just like wages, on a company's profit-and-loss statement. 
+But in a surprise move, the board decided Friday that regardless of 
+when the new rule is formally adopted it will be effective Dec. 15. 
+``The board created a narrow window to reprice _ and a trap for the 
+uninformed,'' said Brian Foley, an executive compensation lawyer in 
+White Plains, N.Y. That narrow window was criticized by Nell Minnow, 
+a principal at Lens Inc., an investment firm that has fought option 
+repricings. ``The board should make its rule retroactive to Jan 1, 
+1998,'' Ms. Minnow said. ``You shouldn't have a window of any kind 
+because it creates all kinds of perverse incentives for managements 
+to give themselves extra holiday presents.'' Alan Johnson, a New York 
+compensation consultant to companies, said that since Friday ``the 
+accounting firms have been out telling people this is the last bite 
+at the apple.'' Paula Todd, a principal at Towers Perrin, a compensation 
+consulting company, said her company and its competitors ``were counseling 
+clients when the market dipped to not rush, to wait and see what the 
+market was going to do because one of the problems about repricing 
+was to do it prematurely.'' She added: ``So, there are a lot of companies 
+that were sitting tight, trying to be responsible, that now find themselves 
+in a tough spot. This is one of those no-good-deed-goes-unpunished 
+stories.'' She said she worked with two companies Monday that were 
+trying to decide if they would reprice and if they could move fast 
+enough. But at Mercer Management Consulting, the nation's largest 
+compensation advice firm, not one client of its New York office had 
+called by Monday evening to ask how to reprice before next Tuesday, 
+said Yale Tauber, a principal. A Towers Perrin survey, to be released 
+soon, found that repricing was being considered by only about one 
+in six companies that have options priced significantly above the 
+company's current share price. Ms. Todd and Tauber said interest in 
+rapid repricing would be concentrated in high-technology companies 
+that use options as the most important part of a pay package. Stock 
+options have become an increasingly popular way to pay executives, 
+and even some nonmanagerial-level employees, because no expense is 
+recorded on a company's annual profit-and-loss statement, yet the 
+company gets an income-tax deduction. Instead, the expense is treated 
+as a change on the company's balance sheet, where assets and liabilities 
+are recorded. As options have become more common, the practice of 
+repricing them when a company's stock price falls has also spread. 
+Some companies have repriced options three, four or five times in 
+recent years. Since the stock market's dip over the summer, repricings 
+have been disclosed in regulatory filings by more than 100 companies. 
+Timothy Lucas, the accounting board's research director, said that 
+requiring companies to treat repriced options as an expense on their 
+profit-and-loss statement was consistent with a 1972 opinion by the 
+board's predecessor. That opinion held that a variable stock option 
+plan _ in which the number of options or their strike price would 
+be determined based on future events _ had to be treated as an expense. 
+``We think repricing options makes them variable,'' he said. Johnson 
+said the short deadline was part of a pattern by the board to tighten 
+the availability of options that are not recorded as an expense. He 
+noted that the board tried two years ago to require that all options 
+be treated as expenses, but that fierce opposition from corporations, 
+and a Senate vote overwhelmingly supporting the companies, persuaded 
+the board to relent. He said the board ``is doing what all regulators 
+do when they can't get what they want directly.'' ``They are rewriting 
+the regulations to get closer to what they want,'' he said, adding, 
+``The result is more confusing regulations, which creates more fees 
+for people like me, and which is wonderful for people like me, but 
+not for U.S. business.'' 
+</TEXT>
+</DOC>

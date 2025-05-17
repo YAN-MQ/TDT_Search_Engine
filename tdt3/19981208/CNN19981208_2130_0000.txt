@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981208.2130.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Testimony as today's hearings come to a close. The lights are slowly 
+coming back on in San Francisco after a massive blackout. And the 
+crew of the shuttle "endeavour" prepares for another walk in space. 
+</TEXT>
+</DOC>

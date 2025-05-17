@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981022.1830.0203 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here is a single figure which tells us how America is always changing. 
+67% of Americans now own their own home. At least you and the bank. 
+That's a record. 
+</TEXT>
+</DOC>

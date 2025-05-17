@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981027.2130.0403 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton today signed a Bill that would redirect federal 
+funds for "Head start," a preschool program. The Bill designates 60% 
+of new funding for the program must be used to improve quality. Previously 
+75% of new "head start" funding went to enrolling more children. The 
+Bill also creates a test program to allow 50,000 low-income families 
+to save money with a dollar-for-dollar government match. 
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> VOA19981028.1600.2814 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Astronauts on-board the U.S. Space Shuttle are planning a couple of 
+unusual plant experiments, both designed by scientists at the University 
+of Wisconsin at Madison. One study aims to see whether plants can 
+be genetically engineered more efficiently in the weightless environment 
+of space than is possible in earth-bound laboratories. A gene for 
+a compound known to strengthen the human immune system will be inserted 
+into specially prepared soybeans seedlings. When the seedlings return 
+to earth, researchers will grow them and see how possess the new trait. 
+Another plant experiment aboard the Shuttle looks at whether weightlessness 
+changes the way plants produce their fragrant or flavorable essential 
+oils -- complex chemicals that form inside the plant. Scientists know 
+that even slight changes in a plant's environment can change the flavor 
+or aroma of its oils. They believe a spin through weightless space 
+would have a profound effect. For the flavors and fragrance industry, 
+always scouting exotic locales for plants with interesting new tastes 
+and smells, outer space might be the most exotic locale yet. 
+</TEXT>
+</DOC>

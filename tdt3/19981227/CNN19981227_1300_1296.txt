@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981227.1300.1296 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Well, the 15-1 Vikings can sit back as the highest-scoring team in 
+NFL history and watch how things unfold today. In defeating Tennessee, 
+26-16, yesterday, Minnesota set a new high for points in a season 
+with 556, an average of just under 35 per game. 
+</TEXT>
+</DOC>

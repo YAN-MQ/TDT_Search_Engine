@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> CNN19981118.0130.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+at the annual computer convention known as comdex, much of the hoopla 
+this year centers around the latest gadgets. bruce francis reports 
+from las vegas. these dogs are mutts -- part camera, part microphone, 
+part touch sensor, part pc technology. sony will probably introduce 
+them next year for $2,000 to $3,000. more practical -- the memory 
+stick. it can store pictures, sound, data, just about everything using 
+pc-style memory. these are pretty much indestructible. they're lightweight. 
+they have very ruggedized connectors to prevent any kind of problem 
+with connectors on it. so it's designed to be consumer-friendly. sony 
+plans to put it everywhere, including this slide-show picture frame. 
+close to everywhere, it seems, the palm pilot -- with 2 million users 
+now, features like beaming a business card from one unit to another 
+are increasingly common. and like so many devices at the show this 
+year, the palm is getting connected to the internet. this device from 
+jp systems lets your hand-held computer access e-mail. the message 
+from consumers to makers of high-tech gadgets get connected or get 
+lost in the crowd. the value of the device is its ability to connect. 
+and that's why the devices may come and go, interconnectivity of devices 
+is what's important. chipmaker cyrix is also taking that advice. the 
+web pad accesses the internet through a wireless connection to a base 
+station, like a cordless phone. cyrix won't make it, but is talking 
+to manufactures who will, and inexpensively. but the greatest change 
+in the industry may not be technology at all. pc itself, as we know 
+it, kind of is a -- it sits at the center of all this and that, over 
+time, it begins moving itself to eventually, possibly even being free. 
+apple computer's imac may not be free, but the company may be planning 
+to get into the low end of the market. oracle corporation chairman 
+and ceo larry ellison, who also sits on the apple board, tells "cnn 
+financial news" that the company plans to introduce a $500 version 
+of the imac next year. bruce francis, "cnn financial news," las vegas. 
+</TEXT>
+</DOC>

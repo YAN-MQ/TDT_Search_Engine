@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981116.2130.0400 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Millions of Americans are receiving a letter from the government about 
+social security. Lawmakers planned the mailings in 1989. They inform 
+people about benefits and personal social security records. 50 million 
+letters have been sent so far, another 25 million will be sent before 
+April. Part of a plan to phase in annual social security updates for 
+every worker over 25 years old. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981028.2000.1988 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Hurricane Mitch has slowed and weakened slightly, in its passage through 
+Central America. It is currently hovering off the coast of Honduras, 
+but is still posing a big threat with winds of around 150 mph. From 
+the BBC newsroom in London, this is Pamela MCCall for The World. 
+</TEXT>
+</DOC>

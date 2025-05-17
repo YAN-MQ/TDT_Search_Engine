@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981209.1130.1349 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The NBA made the all-star game the latest casualty of the lockout. 
+The league canceled the mid-season classic, scheduled for February 
+14th in philadelphia. Anthony Keith James, "CNN Headline Sports." 
+</TEXT>
+</DOC>

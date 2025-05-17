@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981224.0500.1060 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now. I am Les Carpenter, along with Charlene Porter, 
+we are coming to you from Washington. It is about Universal Time and 
+here is the top news story we are following this hour. 
+</TEXT>
+</DOC>

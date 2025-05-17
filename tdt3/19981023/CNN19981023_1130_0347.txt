@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981023.1130.0347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A commission is recommending health care professionals be tested and 
+reviewed years after they're certified. The Pew health professions 
+commission says current measures do not adequately protect consumers 
+from medical incompetence. While some states require continuing education, 
+none require additional competency tests. The commission says constantly 
+developing technology makes it crucial for those in the medical profession 
+to remain informed. 
+</TEXT>
+</DOC>

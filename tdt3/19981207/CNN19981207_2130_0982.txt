@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981207.2130.0982 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+South Carolina's attorney general says the state is dropping out of 
+the microsoft antitrust lawsuit. He says America online's proposed 
+acquisition of Netscape proves competition exists among Internet companies. 
+In may, the federal government and 20 states filed the suit, claiming 
+microsoft improperly used its dominance to box out competitors. So 
+far South Carolina is the only state to pull out of the case. A spokesman 
+for New York's attorney general describes South Carolina's role in 
+the case as "minimal." 
+</TEXT>
+</DOC>

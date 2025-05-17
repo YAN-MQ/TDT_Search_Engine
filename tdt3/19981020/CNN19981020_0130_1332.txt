@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981020.0130.1332 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Boxer Mike Tyson has won a split decision. Nevada boxing authority 
+has voted to 4-1 Monday to grant the former heavyweight champ a new 
+license. Tyson lost his license last year after his "bite of the century" 
+against evander Holyfield. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981222.1130.1090 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+1998 looks like a banner year for some of the nation's automakers. 
+Daimler-Chrysler is on track to break its annual sales record led 
+by a 13% surge in light truck sales. Ford is also likely to set a 
+light truck sales record. General Motors has been hurt by the long 
+strike by the auto workers but it is gearing up production of its 
+hot-selling SUVs and pickup trucks for 1999. 
+</TEXT>
+</DOC>

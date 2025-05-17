@@ -1,0 +1,112 @@
+<DOC>
+<DOCNO> NYT19981223.0288 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+With technology you can surf the Web, route telephone calls through 
+satellites and send people to the moon and robots to Mars. So what 
+about losing weight? Is there no 500-megahertz weight-reduction machine 
+that translates fat into RAM, for instance? The short answer is no. 
+There are, however, gadgets that are supposed to be able to tell you 
+how fat you are, and many of them are enhanced by microprocessors. 
+In this season of dietary excess, health clubs and appliance stores 
+alike are offering a new generation of inexpensive devices that measure 
+a person's percentage of body fat. Reducing that percentage is up 
+to you, of course. Can the technology measure the proportion of fat 
+in the body? Well, maybe. I found that a person with a well-placed 
+pinch and a carnival barker's gift for sizing up strangers could be 
+just as accurate as the high-technology items with high price tags 
+used in laboratories _ and a far cry more accurate than their mass-market 
+cousins, which have recently broken the $100 barrier in this holiday 
+season. The two home body-fat measurers I tried are the handheld Body 
+Logic Fat Analyzer (HBF-301) from Omron and the Body Fat Monitor/Scale 
+(TBF-611) from Tanita. The first works, the manufacturer says, by 
+sending a very low-voltage current of electricity from one hand to 
+the other hand. The Body Fat Monitor is a scale that also sends a 
+low-voltage current through the body, but the current travels from 
+the front of the foot and returns to the back. Each has a retail price 
+under $100. I was disturbed to learn that my body fat was somewhere 
+between a svelte 16 percent and a husky 27 percent. That was akin 
+to being told that I weighed somewhere between 100 pounds and 160 
+pounds. I tested myself many times before deciding that I must be 
+a flawed subject. So I tested a friend, and her results were similarly 
+skewed. The next day, the makers of the two products told me that 
+these devices were designed to be used once a week as motivational 
+tools and that the timing of the tests _ morning or evening, before 
+or after a meal or drinks, or after working out _ would affect the 
+results. It turns out that I should have used a fancier version of 
+the Tanita scale and fat monitor with an athlete mode, like the TBF-612. 
+Apparently my years as a high-school lacrosse player and as a several-times-a-week 
+runner since then qualified me as an athlete. At least there was some 
+good news in that 26 percent reading. But why would such variables 
+matter in measuring body fat? In spite of their billing, the gadgets 
+actually measure how much body tissues impede the flow of electrical 
+current _ their impedance. The devices record the drop in the speed 
+and strength of the electrical current sent through the body. With 
+fatty tissue, the signal drops more quickly because it impedes the 
+current more than lean tissue. The hard part is determining just what 
+that impedance number means because other factors also affect impedance. 
+Tall people impede the signal more because the signal has farther 
+to travel. Women tend to carry more of their weight in their legs, 
+so their legs impede the signal more. Athletes can have more bone 
+mass, which increases impedance. So an impedance result for someone 
+will not accurately predict body-fat content unless it is compared 
+with the results of people who are similar in various ways _ like 
+age, weight, sex, height and athleticism _ and who have also been 
+tested with some more accurate measuring tool. So the gadgets rely 
+on results from hundreds of clinical studies to interpret impedance 
+numbers. Omron's Body Logic compares its impedance results with results 
+from an underwater weighing method for computing body fat that had 
+been considered the most accurate approach until recently. Body Logic 
+told me that I was 16 percent fat. Tanita's Body Fat Monitor/Scale 
+is modeled on something called the Dexa method, which I later tried 
+and which is now considered one of the most accurate methods. The 
+Body Fat Monitor told me that I was 26 percent fat. The results were 
+confusing, even a little maddening. They sent me to the Body Composition 
+Unit at St. Luke's-Roosevelt Hospital Center in New York, where I 
+tried some more sophisticated tests and found a human being who could 
+best them all. The lab's tests ranged from dunking me in a tub to 
+clawing me head-to-toe with a pliers-like tool called calipers and 
+sending an electrical current from my hand to my foot. But the test 
+the lab considers the most reliable for measuring fat is known as 
+Dexa, or Dual Energy X-Ray Absorptiometry; it does not rely on assumptions 
+about a person's body composition. It produces a picture of each individual, 
+using X-rays of such low power that no one in the room with me wore 
+any protective clothing. The patient lies still while a low-power 
+X-ray machine scans back and forth across the width of the body. With 
+each new line drawn, it moves a bit further south until it reaches 
+the tip of the toes. A digital picture of the body shows not just 
+the percentage of fat but also the percentage of muscle and bone. 
+But in this case, the most sophisticated technology was matched by 
+Dr. Jack Wang, associate director of the Body Composition Unit, who 
+came up with an estimate of 20 percent with one pinch of my waist 
+between his fingers and a gaze at my build. A dead match with Dexa, 
+which had taken a half-hour. Wang's talent is the product of 28 years 
+and some 16,000 tests conducted on people of all races and of a wide 
+range of ages: 4 to 110. Had I read the research on fat testing before 
+I started, I would not have been surprised by any of this. In 1994, 
+the National Institutes of Health conducted a technology assessment 
+conference on devices like these. In its report, it concluded, ``Calculations 
+of an individual's body fat may vary by as much as 10 percent of body 
+weight because of differences in machines and methodologies used.'' 
+It went on to say, ``Digital readouts and computer software calculations 
+and interpretations may give a false sense of data accuracy.'' Carol 
+Benson, who is in charge of research and product development for Tanita, 
+said that since 1994, Tanita had sought the best and most accurate 
+research and had made that research available to the public as well 
+as to scientists. After the conference, the National Institute of 
+Standards and Technology, a federal agency, tested about 10 of the 
+devices to see how well they measured impedance, but not how well 
+the impedance number correlated with body fat content. The accuracy 
+of the devices ranged from within 1 percent to about 20 percent; accuracy 
+falls at the edges of the range of body sizes. A participant at the 
+conference, Dr. Steven B. Heymsfield, a doctor at St. Luke's-Roosevelt 
+Hospital Center who is the deputy director of the Obesity Research 
+Center there, said no standards had yet been set for the devices as 
+fat monitors. But Wang said the home devices could be useful, since 
+50 percent of Americans are overweight and 20 percent are obese, according 
+to the National Health and Nutrition Examination Survey. ``This has 
+an important impact, even if this isn't entirely accurate,'' he said, 
+pointing at the Body Fat Monitor. ``It wakes people up.'' Happy dieting. 
+</TEXT>
+</DOC>

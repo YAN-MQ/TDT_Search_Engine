@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981222.2130.0975 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the federal reserve met today and decided to leave interest rates 
+alone. Recent cuts have helped stabilize U.S. financial markets. 
+</TEXT>
+</DOC>

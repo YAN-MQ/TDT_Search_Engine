@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> VOA19981030.1600.2833 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+A national panel of scientists says over fishing is depleting the 
+world's oceans. The report sustaining marine fisheries released by 
+the National Academy of Sciences says 30 percent of the fish stock 
+worldwide is no longer sustainable. Another 44 percent is being fished 
+near that level. The report calls for a significant reduction in fishing 
+and recommends adopting an ecosystem based approach to managing fisheries 
+rather than putting catch limits on specific species. The report suggests 
+assigning exclusive fishing rights or quotas to discourage over fishing 
+and competition among fishermen. 
+</TEXT>
+</DOC>

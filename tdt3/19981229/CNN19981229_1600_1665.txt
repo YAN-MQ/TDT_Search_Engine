@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981229.1600.1665 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up, people across the country are still reeling from last week's 
+harsh weather, and forecasters say there's more to come. For now, 
+here's a look at a performance by rap artist busta rhymes. I'm Chuck 
+Roberts. This is "CNN Headline News." 
+</TEXT>
+</DOC>

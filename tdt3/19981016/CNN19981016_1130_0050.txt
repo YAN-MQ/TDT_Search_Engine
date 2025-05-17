@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981016.1130.0050 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is "Headline News." I'm Catherine Callaway. Western and Yugoslav 
+officials sign the second of two pacts today. Today's agreement allows 
+two thousand unarmed monitors to travel Kosovo checking whether Yugoslav 
+President Slobodan Milosevic complies with promises to end the crackdown 
+on Kosovo. Milosevic was given until tomorrow to comply with the NATO 
+agreement. But NAto allies could decide to extend the deadline. They're 
+meeting in Brussels today to make that determination. 
+</TEXT>
+</DOC>

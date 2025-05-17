@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981201.0130.1325 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The NFL made air rule change. As of week 14 the call will be made 
+before the toss and a line judge will be present also. Rob Ticktin, 
+"CNN Headline Sports." 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981113.1600.1013 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Surging earnings and soaring sales at Dell computer, but investors 
+were not impressed. They sent the high-flying stock down -- 5 1/4. 
+Even though Dell's quarterly profits jumped 55%. The company credited 
+part of that gain to its rapidly rising sales made over the Internet. 
+Dell has been the company that's led the transition to lower cost 
+methods of selling. The Internet is the ultimate direct model for 
+us, and we see a clear path to over 50% of our business being transacted 
+over the Internet. That is going to happen over the next couple of 
+years. 
+</TEXT>
+</DOC>

@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981204.0278 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Saturday, December 5, 1998: After some of the highest 
+readings ever measured in December Friday, the Northeast will be more 
+seasonable today as high pressure builds eastward from central Quebec. 
+The clockwise circulation around the fair weather system will draw 
+cooler air from eastern Canada and the North Atlantic into New England. 
+The leading edge of this ocean cooled air will push southwestward 
+into the coastal Middle Atlantic States. Clouds and scattered showers 
+will attend a weakening disturbance at 15,000 feet crossing the central 
+Appalachians and this will temper the record warmth. A very mild air 
+flow will continue from the Gulf of Mexico into the Plains and Mississippi 
+Valley. More record maximums are likely in the Middle West and Ohio 
+Valley, but clouds will limit the direct heating from the sun. Fog 
+will be dense across the lower Mississippi Valley Saturday morning. 
+Low pressure near Lake Superior will advance warmer air into Michigan 
+while drawing colder air into the northern Plains. Intermittent light 
+snow is expected from western Minnesota into the Dakotas and eastern 
+Rockies. A second disturbance over western Kansas will produce heavier 
+snow in parts of central Colorado with snow showers farther south. 
+The interior West will be seasonably cold as clouds remain over northern 
+sections and sunshine returns to the Southwest. High pressure moving 
+through California will sponsor sunny skies and more pleasant conditions. 
+A robust cold front entering the Northwest will cause a cold rain 
+to spread down the coast with snow developing across the Cascades. 
+Focus: Snow Levels Snow fell at elevations as low as 1,000 feet in 
+the Cascades of Washington on Tuesday. Below this altitude, precipitation 
+fell as rain. Almost all precipitation that falls over the middle 
+latitudes begins as snow thousands of feet aloft. Even the splotches 
+of rain that will fall over the unseasonably warm Middle Atlantic 
+states Saturday will likely have a snowy start. The profile of temperature 
+below the altitude where snowflakes form determines the type of precipitation 
+that reaches the ground. On Tuesday, the melting level over western 
+Washington was estimated to lie close to 1,000 feet. 
+</TEXT>
+</DOC>

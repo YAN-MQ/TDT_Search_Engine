@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NYT19981101.0087 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Flooding rains will persist in the central Plains 
+as low pressure moves slowly east from Kansas. The heaviest rain, 
+exceeding 2 inches, will shift into Illinois, Missouri and southern 
+Nebraska. Tropical moisture ahead of a cold front crossing the lower 
+Mississippi valley will ignite strong to locally severe thunderstorms 
+from southern Alabama to Tennessee. Residual showers will affect northern 
+Oklahoma and the Ozarks. The circulation between an intensifying storm 
+in New Brunswick and a huge fair-weather system near Hudson Bay will 
+direct increasingly chilly air into the Northeast and Great Lakes. 
+As the colder air crosses the tepid waters of lakes Erie and Ontario, 
+a few lake-induced showers will form. Snow showers will dust the higher 
+elevations of the mountains of New England, with flurries in a few 
+valleys. The northeast coast will have more sun than clouds, along 
+with a stiff wind at times. A new surge of cool air into the mid-Atlantic 
+region will be preceded by streamers of clouds. The sky will look 
+threatening in the Carolinas and Georgia ahead of the disturbance 
+in the Missouri Valley. Several showers will reach the southern Appalachians. 
+Florida will be bright, but very warm. Clouds and showers will dominate 
+the western Plains and Rockies. Some wet snow will fall from western 
+Nebraska to southern Wyoming. Times of snow are expected along the 
+east slopes of mountains from northern Colorado to western Montana. 
+Clouds will break in parts of the Northwest, but more showers are 
+poised just offshore. The Southwest will turn a bit cooler with sunny 
+skies in most of the deserts. Focus: Wettest Wichita When it started 
+raining in Wichita, Kan., late last week, no one expected that nearly 
+6 inches of rain would fall on the final day of October. This made 
+it the wettest day on record, eclipsing another October rainy day 
+in 1985 when 5.03 inches drenched the city. The month ended with 9.42 
+inches at the mid-continent airport, the soggiest October and fourth-wettest 
+month in the past 45 years. Streams of moisture from the Pacific and 
+the Gulf merged over the western Plains as a sluggish storm churned 
+in New Mexico. The result was heavy rain from the Texas panhandle 
+to eastern Kansas. 
+</TEXT>
+</DOC>

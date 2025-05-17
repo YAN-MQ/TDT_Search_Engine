@@ -1,0 +1,88 @@
+<DOC>
+<DOCNO> NYT19981117.0366 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Federal Reserve Board bowed to investors' expectations with its 
+rate cuts Tuesday. But for its trouble, it earned only half-hearted 
+applause from stock and bond traders. There is a good reason for that 
+muted reaction. Ever since investors fled risky markets this summer 
+for the safe haven of U.S. Treasuries, the bond market has been leading 
+the Fed on interest-rate policy, trading at levels that predicted 
+even further drops in key rates. But Tuesday, both stock and bond 
+investors seemed to respond to signals in the Fed's comments that 
+this, its third cut since Sept. 29, could be the last for the year. 
+The two quarter-point cuts Tuesday _ one in the federal funds rate 
+to 4.75 percent, another in the discount rate to 4.5 percent _ was 
+pretty much what stock traders had been counting on from the Fed's 
+monetary policy meeting. Consequently, while the moves briefly helped 
+propel the Dow Jones industrial average to around 9,100 points, up 
+more than 92 points, by the end of the day the rate cuts were not 
+enough to keep the average in positive territory. The Dow ended the 
+day down 24.97 points, closing at 8,986.28. Other indexes reacted 
+more positively. The Standard &AMP; Poor's 500 crept up 3.45 points. 
+The NASDAQ composite ended the day up 16.84 points, almost 1 percent. 
+Bond traders had been less cocky about a Fed cut. When the announcement 
+came, Treasury bonds mustered only a temporary rally, hitting a wall 
+of selling that left the yield on the 30-year bond up just one-hundredth 
+of a percentage point, at 5.30 percent. Yields on bonds with shorter 
+maturities _ notes coming due in two years and five years, for instance 
+_ inched up further. Assessing the markets' reaction to Tuesday's 
+move by the Fed is more crucial than usual because financial-market 
+stress _ not troubling economic figures _ has driven Fed policy in 
+recent months. This is unusual. The last time it happened was in 1987, 
+after the stock market crashed. Had the Fed been looking strictly 
+at recent economic data, it would almost certainly not have cut rates. 
+``Where is the slowdown?'' asked Peter Canelo, U.S. investment strategist 
+at Morgan Stanley Dean Witter. ``What they did today was unnecessary 
+_ it was a precautionary move. The economy is doing well and is going 
+to be doing even better now.'' Indeed, gross domestic product is growing 
+at more than a 3 percent clip, there is a boom in housing demand, 
+and sales of both automobiles and smaller-ticket consumer goods are 
+strong. Consumer confidence is rising again after a couple of troubling 
+dips and the stock market is soaring. None of this would typically 
+signal a need for a drop in rates. Bond-market stability is, however, 
+a more complex matter to measure. The Fed has been looking for signs 
+of a credit contraction there that could push the economy into a recession. 
+If the markets appear to be more stable in the coming weeks, then 
+the likelihood of further rate cuts recedes. By several measures, 
+stability is returning to some of the investment arenas that had been 
+hardest hit by the Russian default and other meltdowns in emerging 
+markets. What had been cavernous spreads in September in the yields 
+between Treasuries and non-Treasury debt like junk bonds or mortgage 
+securities are much narrower now. The yield on Merrill Lynch's master 
+index of high-yield bonds closed on Tuesday 5.37 percentage points 
+more than Treasuries with similar maturities. Though still wide, the 
+gap is a full percentage point slimmer than it had been. Furthermore, 
+investors are piling into junk-bond funds at a furious rate _ roughly 
+$1 billion a week recently _ enlivening a market that had been comatose. 
+``The environment certainly seems to have changed dramatically from 
+late September, when companies were starting to fail for lack of ability 
+to roll over their debts,'' Martin Fridson, chief high-yield strategist 
+at Merrill Lynch, said. That's exactly the reaction from investors 
+the Fed was hoping for. And investors in the stock market are almost 
+swaggering again. Canelo noted that after the market crash of 1987, 
+it took 15 months for stock prices to recover half of what they had 
+lost. Following this summer's market drop, it took less than four 
+weeks to recover half of what stock indexes had lost. One reason stock 
+prices may have rebounded so spectacularly is that the supply of money 
+in the country's financial system has ballooned of late. And while 
+some of this money has flowed into the stock market, the growth may 
+also preclude a recession next year. ``I have never seen a recession 
+take place when money growth is rising at these rates,'' said Lief 
+Olson, director of Absolute Return Investors, an institutional money 
+management firm in New Canaan, Conn. ``With low inflation, continuing 
+growth, and low interest rates, you do not have a recipe for weak 
+growth or recession.'' But even if the nation averts a recession, 
+higher stock prices may not be the result. Daniel Laufenberg, chief 
+U.S. economist for American Express Financial Advisers in Minneapolis, 
+is a bull on corporate earnings for next year, but he thinks stock 
+prices will only tread water in 1999. Why? Because he reckons that 
+interest rates will rise. ``Credit spreads and risk aversion by investors 
+has created the need for the Fed to ease,'' Laufenberg said. ``At 
+some point, the Fed will have to start focusing on economic fundamentals 
+rather than financial market conditions and when they do, I believe 
+the Fed will discover that the fundamentals are still very positive.'' 
+A rate increase next year, he said, could be the result. 
+</TEXT>
+</DOC>

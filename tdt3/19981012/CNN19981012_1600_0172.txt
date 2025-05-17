@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981012.1600.0172 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Congressional leaders are trying to reach agreement on spending measures 
+in the federal budget, but a chief negotiator says a deal might not 
+be reached until midweek. They have more to iron out than just money. 
+White House chief of staff Erskine Bowles is meeting with republican 
+leaders to discuss policy issues, like the 2000 census, abortion and 
+new rules on organ transplants. To avoid a shutdown, the house is 
+preparing a stopgap measure to keep the government running for another 
+48 hours and President Clinton says he'll sign it. 
+</TEXT>
+</DOC>

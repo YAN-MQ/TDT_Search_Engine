@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981026.1830.0371 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In other upS and Downs, AT&T's earnings are up. 68% in the third quarter. 
+Cost cutting, a big increase in cellular service and business phones 
+making the difference. 
+</TEXT>
+</DOC>

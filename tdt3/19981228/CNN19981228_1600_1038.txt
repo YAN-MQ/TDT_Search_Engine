@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981228.1600.1038 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+General Motors also making headlines today. The number one automaker 
+was reportedly planning to build a new transit bus -- Part Diesel, 
+part electric. The hybrid bus is part of GM's answer of pressure to 
+the environmental regulators to say they need them to develop an alternative 
+power vehicle. GM hopes to have the new buses ready for sale by the 
+year 2001. 
+</TEXT>
+</DOC>

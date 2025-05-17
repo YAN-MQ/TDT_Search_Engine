@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981105.0130.0268 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The social security administration plans to make it easier for victims 
+of domestic violence to change their social security numbers. Vice 
+President Gore says under new rules, new numbers will be issued if 
+there is written confirmation about the abuse from a local Shelter, 
+physician or police officer. The procedure is explained on the social 
+security administration web page at www.ssa.gov. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981128.1600.0934 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+checking the afternoon's top stories -- cleanup and an investigation 
+are under way after a shooting and bus crash in seattle, washington, 
+yesterday. police say a passenger shot the driver. the moving bus 
+then veered off a bridge, plunging 50 feet to ground below. three 
+people were killed. 33 others were hurt. 
+</TEXT>
+</DOC>

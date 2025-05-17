@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981211.0130.0222 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+So what are people across the country thinking about the impeachment 
+debate? A CNN/"USA today" Gallup poll of 550 adult Americans indicates 
+most americans surveyed believe President Clinton committed the offenses 
+mentioned in the proposed articles of impeachment. But the majority 
+of those polled do not think the president should be impeached for 
+committing those offenses. All interviews were conducted Thursday 
+evening while the house Judiciary committee was still in session. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981118.0130.1090 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+leaders of daimler-chrysler ushered in their merger tuesday, with 
+trading on the new york and frankfurt stock exchange. the trading 
+balcony on wall street was decorated with grilles of a jeep grand 
+cherokee and a mercedes benz. the marriage of chrysler and germany's 
+daimer-benz creates the fifth largest automotive company in the world. 
+chrysler chairman robert eaton will head the new company along with 
+daimler chairman juergen schrempp. 
+</TEXT>
+</DOC>

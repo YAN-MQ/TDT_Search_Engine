@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981210.2000.1505 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones Industrials closed down 168 points 
+to 8,842. The NASDAQ closed down also, 34 points, to 2,016. 
+</TEXT>
+</DOC>

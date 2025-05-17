@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981125.2130.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For the second month in a row, Americans have spent more than they 
+have earned. Personal income rose 0.4% last month, while consumer 
+spending shot up 0.5%. it's a promising sign for holiday sales. The 
+real estate market is warming up. The national association of realtors 
+reports sales of existing homes increased by 2.1% last month. The 
+increase was fueled by low mortgage rates. And the number of Americans 
+filing for jobless benefits for the first time fell a surprisingly 
+steep 39,000 last week, to 300,000. 
+</TEXT>
+</DOC>

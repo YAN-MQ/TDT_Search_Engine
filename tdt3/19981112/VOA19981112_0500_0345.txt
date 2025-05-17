@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981112.0500.0345 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Steve Norman, VOA News. I'm Charlene Porter along with Les Carpenter. 
+We're coming to you from Washington on VOA News Now. 
+</TEXT>
+</DOC>

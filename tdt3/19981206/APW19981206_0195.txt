@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> APW19981206.0195 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+An Ariane rocket placed a Mexican telecommunications satellite into 
+orbit overnight, after a 24-hour delay due to a technical glitch with 
+the SATMEX 5, officials with the European Space Agency said Sunday. 
+The launch from Guiana Space Center in French Guiana, on the northern 
+edge of South America, took place at 9:43 p.m. Saturday (0043 GMT 
+Sunday), officials said. It was the 114th launch of an Ariane 4 and 
+the 10th of the year, and it was the first time the rocket was using 
+a more-efficient fuel system for the third stage. SATMEX 5, built 
+by U.S.-based Hughes Space and Communications, is the third Mexican 
+telecommunications satellite placed in orbit by Ariane. It was placed 
+in orbit over the Pacific to support TV and telephone relays for the 
+next 15 years. The next Ariane 4 launch is slated for Dec. 21, carrying 
+a U.S. Panamsat. Arianespace, the European Space Agency's commercial 
+arm, also plans next year to begin using its new Ariane 5, after a 
+successful test launch in October. Twice as powerful as the Ariane 
+4, it is to gradually replace Arianespace's workhorse in an effort 
+to maintain the company's lead in the world's commercial launch market. 
+The first Ariane 5 crashed in June 1996 and a launch a year ago was 
+less than perfect, making October's final test launch critical. 
+</TEXT>
+</DOC>

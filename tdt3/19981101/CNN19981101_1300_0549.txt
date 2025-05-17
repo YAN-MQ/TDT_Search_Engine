@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> CNN19981101.1300.0549 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+350 miles above the earth, the crew of space shuttle "discovery" is 
+in day four of its nine-day mission. NASA gave them a wake-up call 
+this morning, with a song called "this pretty planet" by Tom chapin. 
+The astronauts' main project today is the release of the Spartan satellite. 
+It's not the first time a shuttle has carried Spartan into orbit. 
+Miles O'Brien reports. If at first you don't succeed -- NASA is trying 
+once again to successfully launch and retrieve the sun-seeking Spartan 
+satellite. The $10 million reusable device contains two telescopes. 
+Scientists hope it will help us learn more about the sun, and more 
+specifically, how our sun's corona and the so-called "solar wind" 
+affects life here on earth. Those winds bombard our planet with tiny 
+electrically charged particles, often disrupting telephone and television 
+communication. The forces are Titanic. And we can't change those, 
+but we can at least adapt around those, just like we do when we step 
+out of the way of a hurricane or advise people who are in the path 
+that something is coming. This is a reflight of the fourth Spartan 
+mission. Last November, another shuttle crew tried to fly the satellite, 
+but a Combination of failed software and human error left Spartan 
+tumbling out of control. Eventually, two space-walking astronauts 
+had to retrieve the telescope by hand. This time around, NASA has 
+improved the software, the camera at the end of the robotic arm, and 
+is giving the crew more time to troubleshoot any problems. You don't 
+want to make big changes because you could change something that has 
+been proven safe into an unsafe mode. You'd rather make minimal changes 
+and that is what we do. Mission specialist Steve Robinson will be 
+operating "discovery's" robotic arm as Spartan is plucked from the 
+payload bay and sent on its way for a two-day orbital jaunt. After 
+that, "discovery" will maneuver back into close formation with the 
+satellite and, if all goes according to plan, gently grab it for the 
+trip back home. Miles O'Brien, CNN, at the Johnson space center, Houston. 
+</TEXT>
+</DOC>

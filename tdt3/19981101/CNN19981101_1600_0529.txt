@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981101.1600.0529 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News forecast." Heavy rainfall from the central plains, 
+into the gulf coast region of Texas with a powerful frontal system. 
+Some isolated snow and rain in the northwest, otherwise, the nation 
+looking pretty good. Into Sunday evening and Monday morning, rain 
+in the central plains, with isolated snow. And then into Monday evening, 
+heavier rain developing over Nebraska and South Dakota, with quite 
+a bit of snow. And the rain developing along that frontal system, 
+sbo the gulf coast region, around New Orleans and the Mississippi 
+gulf coast. High temperatures for today, generally in the 40s and 
+50s, 60s and 70s in the south. Your extended forecast showing heavy 
+rain in the northwest, scattered thunderstorms along the south-atlantic 
+seaboard, with very cold temperatures. Highs in the 30s in the northern 
+plains and the Great Lakes. On Wednesday, the cold temperatures continue 
+in the north, the heavy rain continues in the northwest. Strong thunderstorms 
+continue in the southeast. And pretty much the same situation on Thursday, 
+with some snow in the Great Lakes. Remember, you can get your four-day 
+forecast for more than 7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

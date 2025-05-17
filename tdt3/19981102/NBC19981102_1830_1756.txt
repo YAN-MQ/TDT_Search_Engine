@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981102.1830.1756 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+that is "nightly news" for monday. i'm tom brokaw. i'll see you again 
+tomorrow from washington as we begin our coverage of election '98. 
+</TEXT>
+</DOC>

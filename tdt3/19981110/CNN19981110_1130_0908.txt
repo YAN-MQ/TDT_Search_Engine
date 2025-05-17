@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981110.1130.0908 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+one of the nation's most respected medical journals reports four in 
+ten americans use some form of herbal remedies. "the journal of the 
+american medical association" recommends more research to determine 
+which herbs work and which don't. 
+</TEXT>
+</DOC>

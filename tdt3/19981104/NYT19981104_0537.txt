@@ -1,0 +1,89 @@
+<DOC>
+<DOCNO> NYT19981104.0537 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Deflation is scary. The last time prices nose-dived throughout the 
+economy was during the Great Depression. Then government stood by 
+helplessly as wages and prices plummeted and over a quarter of the 
+labor force stood desperately in unemployment lines. No wonder, then, 
+that investors cringe at the word ``deflation.'' Alan Greenspan, chairman 
+of the Federal Reserve Board, recently warned that ``deflation from 
+the Far East is heading our way.'' Many analysts now echo the deflation 
+theme. Charles McMillion, chief economist of MBG Information Services, 
+wrote last week in The New Republic that deflation ``could happen 
+again soon.'' But predictions of deflation amount to little more than 
+blather. The experts who dwell on deflation can point to no data that 
+show prices are generally falling. Nor can they point to evidence 
+that across-the-board price cutting is likely to break out in the 
+future. Most important, deflation has not reached the all-important 
+sinews of labor markets. Predictions of deflation miss the key difference 
+between today and the 1930s: a Federal Reserve no longer asleep at 
+the monetary switch. First, the data. This year, as in most other 
+years, prices in some individual industries are falling. Energy prices 
+have dropped almost 10 percent in the last year. Commodity prices 
+have dropped by about 20 percent in the last year. The prices of raw 
+materials, clothes and other imported goods have also declined, partly 
+in response to the economic collapse of Southeast Asia. But other 
+prices are more than making up for the slack. Producer prices, excluding 
+energy and food, are rising about 1 percent a year. Consumer prices 
+are rising by about 2 percent a year. These rates are small. But they 
+are nowhere near negative. Look to the labor market, which drives 
+the formation of prices. Over the last year, wages and salaries have 
+been rising about 4 percent a year. Nothing in economic logic or history 
+suggests that wages will suddenly reverse course. Indeed, even if 
+recession strikes, wages will almost certainly continue to rise, as 
+they have in every recent downturn. And if wages do not fall, prices 
+will almost certainly not fall either. Labor costs typically account 
+for two-thirds of the cost of producing goods and services. In general, 
+wages and prices move up and down together. They can move in opposite 
+directions, however, in times of rapid gains in productivity. If, 
+say, workers are given the tools to churn out 5 percent more each 
+hour, then the extra output would yield enough new revenue to allow 
+the company to pay workers 5 percent more even without raising prices. 
+The company could even cut prices a few percent and still have enough 
+extra revenue to pass along to workers as higher wages. But productivity 
+is now rising by less than 2 percent a year. That provides no room 
+for prices to fall if wages continue to rise anywhere near their current 
+4 percent clip. As Martin Feldstein of Harvard points out, ``Only 
+in the extreme case of the economy falling into a deep depression 
+like that of the 1930s would the level of prices actually begin a 
+sustained decline.'' Nor are prices falling in any other industrialized 
+economy except Japan. Throughout Europe, prices are rising very slowly. 
+In developing countries, inflation rules nearly everywhere outside 
+China. Even in the decimated economies of Indonesia, South Korea and 
+Thailand, prices are rising rapidly. So why the frenzy over deflation? 
+Robert Solow, Nobel laureate at the Massachusetts Institute of Technology, 
+attributes some of the chatter about deflation to analytical confusion. 
+In virtually every industrialized country, the official task of the 
+central bank is to achieve price stability, or roughly zero inflation. 
+At least since the reign of Paul Volcker in the 1980s, Fed chairmen 
+have been measured by their ability to get inflation down. With prices 
+rising by only 2 percent a year, Greenspan has come close to victory. 
+But Solow observes, ``if average prices are not changing, then, to 
+a rough approximation, half the prices must be falling, while the 
+other half must be rising'' in order to keep the price index relatively 
+level. To invoke the specter of specific price cuts for oil, apparel 
+and computers as harbingers of deflation is, by this argument, to 
+confuse economics with algebra. The United States has not experienced 
+deflation since the 1930s. But though economic historians continue 
+to debate the underlying cause of the Great Depression, they do not 
+dispute the simple proposition that deflation was then, and will almost 
+certainly be in the future, a monetary event. Translation: Prices 
+can only continue to fall if people are given fewer and fewer dollars 
+to spend on good and services. This is the flip side of the commonplace 
+proposition that inflation can rage only if people are given more 
+and more dollars to spend by the Fed. In the 1930s, the Fed committed 
+the fatal mistake of sitting back while banks closed and the supply 
+of money shriveled. It is inconceivable that the Fed would make the 
+same mistake today. If, as Greenspan fears, deflation forces drift 
+ashore from Asia, the Fed has an ironclad remedy. It needs only to 
+step on the monetary pedal, as it has already begun to do cautiously 
+by lowering interest rates. There are lots of economic forces to fear. 
+Recession. Inequality. Productivity slowdown. In each case, living 
+standards are at risk and government cannot perfectly anticipate what 
+to do and when to act. But deflation isn't worth fretting about unless 
+you believe that the United States will suffer a once-in-a-century 
+catastrophe and the Fed will play dumb. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981014.1600.0706 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A check of the top stories is next. That's followed by the latest 
+numbers from Wall Street. And still ahead, some new independent films 
+may give their big-budget counterparts a run for their money. 
+</TEXT>
+</DOC>

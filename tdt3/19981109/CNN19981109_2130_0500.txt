@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981109.2130.0500 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended national weather forecast is next. And still ahead -- 
+why your computer soon could sport a Penguin instead of a Microsoft 
+logo. 
+</TEXT>
+</DOC>

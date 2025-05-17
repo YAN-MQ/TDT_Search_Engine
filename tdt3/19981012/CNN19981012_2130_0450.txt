@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981012.2130.0450 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The FBI will open its national DNA database tomorrow. It unites the 
+DNA databases of the 50 states. The system will enable police to compare 
+genetic material from suspects and crime scenes across the country. 
+Advocates say it could significantly reduce rape and other crimes 
+by helping to catch repeat offenders. Critics say it could unfairly 
+target people based on past criminal acts. By law, only the DNA of 
+convicted criminals can be included in the database. It can be used 
+only for law enforcement. 
+</TEXT>
+</DOC>

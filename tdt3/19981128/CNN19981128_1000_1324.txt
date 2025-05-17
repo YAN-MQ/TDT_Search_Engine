@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981128.1000.1324 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Number two uconn leveled waggoner 111-46. Hamilton led the way with 
+22 points. 
+</TEXT>
+</DOC>

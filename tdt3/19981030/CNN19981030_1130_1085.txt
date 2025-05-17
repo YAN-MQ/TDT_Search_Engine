@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981030.1130.1085 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Earnings season is beginning to wind down on Wall Street, but some 
+big name companies are still rolling out their profits reports. Kellogg 
+posting a 32% drop in its third quarter profits. The cereal company 
+says the report reflects a significant increase in spending on marketing 
+and product development. Shares of Kellogg up 1/4 at 32 7/16. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981214.1830.0841 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The nation's largest collector of credit card debt has accumulated 
+too much debt for its own good. Commercial financial services has 
+filed for bankruptcy. 
+</TEXT>
+</DOC>

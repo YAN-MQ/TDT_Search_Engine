@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> APW19981127.1094 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+He was a gifted computer whiz _ one of the best, one who'd made the 
+jump from illegal tinkering to the legitimate, potentially lucrative 
+business of making codes crack-proof from hackers like himself. At 
+26, Boris Floriciz seemed headed for a great future. He'd just finished 
+his computer science degree. International firms sought him as a consultant. 
+He was happy, say his friends, who cannot believe he would take his 
+own life. Boris was found hanging from a tree in a Berlin park on 
+Oct. 22, his belt around his neck and his feet dragging the ground. 
+Was it suicide, as police suspect? Or homicide? The mystery of his 
+death has drawn attention even outside the tight-knit world of hackers, 
+largely because it touches the techno-wizardry of beating encryption 
+codes and offers a glimpse into the murkier side of the trade. Spies 
+and criminals need talented hackers, too, as espionage and black market 
+goods become increasingly high tech. Boris' friends wonder if he had 
+become a threat to someone on the wrong side of the business, leading 
+to his death. ``That was not a personal decision,'' Andy Mueller-Maguhn, 
+a friend and fellow member of the Chaos Computer Club said. ``For 
+sure not. That was murder.'' From childhood, Boris looked destined 
+to be an engineer. He was always taking things apart to see how they 
+worked. ``Radios, television, clocks, the lawn mower _ nothing was 
+safe from him,'' his father told Stern magazine. He disassembled a 
+telephone booth to get at computer data inside. He was the first hacker 
+to crack the microchips on Deutsche Telekom telephone cards, used 
+at pay phones in Germany. His homemade card reloaded as the credit 
+ran out. 
+</TEXT>
+</DOC>

@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> CNN19981213.1000.0982 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A single judge is mulling over the lawsuit that the U.S. government 
+slapped on the richest man in the country. And his decision could 
+shape the future of the entire computer industry. Peter viles recaps 
+the trial of software magnate Bill Gates. He is the richest American 
+since Rockefeller, and Washington is treating him exactly the same 
+way. Just as the government sued to break up John Rockefeller's oil 
+monopoly, this year, it took aim at Bill Gates' software empire. What 
+this case has always been about is to make sure that there's competition 
+in this critical American industry. The government claims Gates used 
+his monopoly on operating systems for personal computers as leverage 
+to dominate the Internet. Gates' competitors showed up as government 
+witnesses. The Internet is far too important to mankind to let any 
+one company dominate it. Microsoft lawyers, a small army of them, 
+argued the government doesn't understand the software business and 
+doesn't understand that business in general is not always friendly. 
+You just heard an opening statement that was based entirely on loose 
+and unreliable rhetoric and on snippets that were not in any sort 
+of responsible context. The reluctant witness in all of this was Gates 
+himself, who testified on tape and was by turns forgetful and evasive. 
+I don't know what you mean, "concerned." What is it about the word 
+"concerned" that you don't understand? I'm not sure what you mean 
+by it. Is there a document where I use that term? There is no jury 
+to weigh those words. This trial, and perhaps the future of the U.S. 
+computer software industry, will be settled by one man, federal judge 
+Thomas Penfield Jackson. Peter viles, "CNN Financial News," New York. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981110.2000.1691 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And on Wall Street today, the major indexes parted company. The Dow 
+Jones was down 34 points to 8864. The NASDAQ was up four points to 
+1866. 
+</TEXT>
+</DOC>

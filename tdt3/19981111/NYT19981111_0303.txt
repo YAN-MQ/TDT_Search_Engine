@@ -1,0 +1,210 @@
+<DOC>
+<DOCNO> NYT19981111.0303 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The future of artwork is on the computer. You might not like what 
+computers produce, you might miss the intoxicating smell of oils or 
+the tactile quality of a broken-crockery painting _ you might wonder 
+whether electronic art is even fine art _ but tomorrow's works are 
+bound to be created digitally. On the plus side, children who learn 
+to make art digitally can become old masters of the genre by the time 
+they hit 10. The four programs reviewed here range from the simple 
+to the very complex and sophisticated. All will build a foundation 
+of computer skills for children as young as 3. That's good: they will 
+never know computer fear and will become proficient at the keyboard 
+and with operating systems and printing. A harder question is whether 
+any of these programs teach children to draw in the sense of lines 
+across a page. In Crayola's Make a Masterpiece, for example, only 
+some of the graphics and art tools bear any relation to real ones 
+(like paintbrushes and colored pencils). The notions of how art can 
+be made, modified, enhanced, scrapped and even finished are its most 
+obvious lessons. Still, the program relies on graphics that are more 
+goofy than those Michelangelo might have had in his studio. Does it 
+matter? No. The Kid Pix and Art Dabbler software programs try very 
+hard to create a true art environment. Their tools are vast and original, 
+and both programs offer the basic paintbrushes and colored pencils. 
+Dabbler may come close to teaching techniques, including how tools 
+have different effects on others (a crayon drawn on cotton paper, 
+for example), and even trigger something in the recesses of a child's 
+imagination. And Kid Pix teaches how to use computer graphics. The 
+remaining program, Orly's Draw-a-Story, is an art and writing program 
+with a very winning lead character named Orly. Does it teach children 
+how to draw? Not especially, but it may convey the value of an illustration 
+with a story. But if you're just the tiniest bit old-fashioned (even 
+sentimental) and want your children to further their art skills, none 
+of these programs can replace a real art class in a real studio taught 
+by a real artist. Messiness has its virtues; it's part of the process 
+of making art. But these programs do spark creativity. Before you 
+add any of these software programs to your palette, you may want to 
+consider a new canvas. There are electronic drawing pads available, 
+like Pablo from Kidboard, that essentially replace the mouse as a 
+chief drawing tool with something closer to a pen. (Kidboard is currently 
+selling Pablo bundled with Art Dabbler and Kai's Power Goo, both from 
+Metacreations.) With Pablo, a 6-by-8-inch drawing pad with a pressure-sensitive 
+stylus, you can still perform all the functions you would with a mouse, 
+but you can draw as you would on paper, making thicker or thinner 
+lines and even tracing drawings onto the screen. And the stylus fits 
+children's small hands better than a mouse. MAKE A MASTERPIECE (IBM 
+and Crayola; $19.95; Windows 95 and 98, Macintosh 7.5 and later.) 
+When a software program can keep an impatient 4{-year-old in front 
+of a computer monitor for three squirm-free hours, you know it's exceptional. 
+This foray into Make a Masterpiece also meant a bout of independence 
+for this child, who didn't need much help. Who sent this godsend, 
+anyway? From the moment that Scribble, a guide with a French accent, 
+introduces himself, this art program for children 5 to 12 (and overeager 
+4-year-olds) is friendly and approachable. Like a good friend, he 
+asks, ``How you doing?'' Given this simple introduction, it's then 
+a surprise to discover that Masterpiece is, in fact, close to being 
+a real art workshop _ without the mess. The major components are animated 
+art tools and techniques and a catalog of famous artworks from the 
+National Gallery in Washington and the State Hermitage Museum in St. 
+Petersburg, Russia. The graphics look professional but are also vividly 
+appealing to children. And the sound effects aim to be silly but authentic. 
+(The Magic Marker tool makes a not-unpleasant screechy sound, replicating 
+the noise of a marker sliding across a TV screen.) Like a mille-feuille, 
+Masterpiece has many layers, which is another reason the child sat 
+still for so long. She started with a simple project: painting against 
+a mountainous landscape backdrop. She chose from a rich palette of 
+Crayola colors, then moved into an array of stroke styles (like squiggles 
+and brushstrokes) and equipment (pencils, brushes, oil, markers, watercolors 
+and the like). She finished her masterpiece by dabbling on an eclectic 
+group of icons. Egg splats, anyone? They make an excellent (italics)splat(end 
+italics) noise. Her multimedia artwork _ a handsome mountain obliterated 
+with curlicues, slashes and unidentifiable markings _ was overwrought 
+and inspired but heavy on the popcorn. There was still one step left, 
+a task prompted by Scribble, who asked, ``Do you want to add this 
+to your permanent collection?'' Clicking yes, the 4{-year-old placed 
+her painting in a frame that would have suited a Bonnard and hung 
+her work in a gallery setting. Voila. A few flaws in this studio: 
+the stencils tool is hard for even an adult to figure out, and the 
+library of museum artworks seems slightly superfluous, especially 
+for younger children. But Crayola and IBM have thought of almost everything 
+with Masterpiece. For young children who can't read yet, the audible 
+prompts _ polite instructions from Scribble _ are an effective lure 
+and guide. The program is also neatly integrated: the art tools float 
+on the screen rather than sitting at the bottom in bars, and a child's 
+artwork can be stored easily in the ``gallery.'' For children who 
+can read, the wide selection of tools and techniques turn this software 
+into a long, satisfying engagement. It's hard to say au revoir. ORLY'S 
+DRAW-A-STORY (Broderbund; $19.99; Windows 3.1 and later, and Macintosh 
+7.0 and later.) The narration on Orly's Draw-a-Story quickly pulls 
+children in. Orly is the narrator, a young Jamaican girl with a set 
+of dreadlocks and a cheeky manner. Her sidekick, a frog named Lancelot, 
+is also equipped with a Jamaican accent. This relatively easy program 
+has an added allure of Caribbean music, which helped hook both my 
+10-year-old son and 4{-year-old daughter. No one can resist Orly, 
+who is fond of saying, ``No problem.'' The program opens with the 
+facade of Orly's house, where children can choose the Learn or Play 
+options or the Orly's Stories curtain. (The cursor is an animated 
+blue butterfly.) Behind Learn are art tools and a tutorial, including 
+instructions on how to use the ``draw pad'' canvas. (Orly's other 
+friends, New and Undo, replace the paper when needed.) Behind Play 
+are the same activities that are behind the curtain: six pictures 
+that represent Orly's Stories, Make Your Own Storybook and Doodle 
+Pad, the program's three avenues of fun. My daughter clicked on Orly's 
+Stories and landed at four narrated tales with titles like ``The Strange 
+Princess.'' Orly begins telling a tale, and children are asked to 
+draw pictures at certain points in the story, like painting an eye. 
+My daughter arranged a black iris, blue whites and big red veins, 
+prompting Orly to remark: ``This is kind of creepy. I don't like that 
+staring at me.'' Depending on the picture Orly requests, the draw 
+pad can be blank or contain a few elements to help a child along. 
+When Orly asks for a submarine, for example, a periscope and a submarine 
+window appear in the draw pad, leaving the rest to the child's imagination 
+(with a supply of colored pencils and paint, which sit in a bar at 
+the bottom of the screen). In addition, 20 different sounds are available 
+by clicking the OK box. The other two features, Make Your Own Storybook 
+and Doodle Pad, require more skill than Orly's Stories. (A child who 
+isn't reading yet will need guidance on the first go-rounds for all 
+of the program's activities.) In Storybook, a child can write and 
+illustrate a story and view it in the Junkyard Drive-In Theater. The 
+screen presents a blank window resembling an open book; on the left 
+is space for pictures. An array of Jamaican settings (think palm trees) 
+can drop into the blank space, or you can create your own foreground. 
+When Orly is done with a story, she asks if you would like to save 
+the work. Click on Yes, and a window appears, offering titles and 
+pictures to wrap it all up. As a final touch, a child can ring a big 
+bell by clicking on it when she is done drawing. It's a feature taken 
+for granted until you're using a different software program and your 
+child says, ``There's no bell.'' The art tools consist of pencils 
+and paintbrushes, with a hefty supply of colors and shades, as well 
+as zany textures and patterns. For colors, a child can hold down the 
+paintbrush and dip it into a lineup of paint cans. (Most children 
+age 4 and older can probably handle this.) Dabs or strokes are put 
+to work. An eraser and a sponge also pop up for starting over. But 
+because Orly's Draw-a-Story is not only about art but includes writing, 
+the tools are limited. Orly is the main attraction here; her presence 
+is just as irresistible to young girls as to boys (though boys 9 and 
+up might not want to claim her as their own). She can keep children 
+gliding from one project to another for most of an afternoon. KID 
+PIX STUDIO DELUXE (Broderbund; $29.95; Windows 3.1 and later, and 
+Macintosh 7.0 and later.) While Orly's Draw-a-Story required some 
+hand-holding, Kid Pix Studio Deluxe demanded lots of assistance _ 
+at first. Fortunately, the tools are so clever and extensive that 
+an adult will jump at the chance to provide technical help. And once 
+you discover that the program can talk _ type the words in English 
+or Spanish and it says them back _ you know you're approaching the 
+new millennium. The first Kid Pix, introduced in 1991, broke ground 
+in children's computer-art programs. In the current version, many 
+of those elements are in place _ digital puppets and a slide show, 
+for example. The enhanced or new features leapfrog on this fun. Take 
+the updated stamp collection: kids can now choose from 2,500 stamps, 
+including dynamite and ladybugs, all of which can bounce, twirl and 
+dance chorus-line style or singly across the screen. The alphabet 
+stamps are also adventurous, with a different voice for each letter. 
+Who would have thought that the letter E would produce a chorus? The 
+program also offers an extensive collection of other types of graphics. 
+What distinguishes Kid Pix in the category of children's art software 
+is the tremendous catalog of art supplies and tools, many of which 
+can be animated. Simple tasks, like drawing a line, are rarely straightforward: 
+Do you want to have thick or thin lines or to make them transparent? 
+How about some spirals to jazz things up? Better yet, how do you feel 
+about bubbles (and blub-blub noises)? More serious art styles are 
+just as important. The brush tool, for example, produces letters as 
+delicate as calligraphy. The most memorable tools and effects are 
+both ludicrous and sophisticated and demonstrate the strength of computer 
+art: what you can't do on a canvas you can do digitally. (Wouldn't 
+Jackson Pollock be jealous?) Indeed, the effect that sticks in your 
+mind long after you turn off the computer is the electric mixer, which 
+runs itself across the screen, churning whatever it passes. One result 
+is a swirling pattern of marbleized monotones and bright colors, a 
+living Missoni sweater. The major drawback of Kid Pix for younger 
+children is that they will need to read and create files to save their 
+work, which involves pull-down menus and the like. It's not a big 
+problem, but if this program had the integrated format of Crayola's 
+Make-a-Masterpiece, it would be nearly perfect. But you can't have 
+everything, even in the shadow of the millennium. ART DABBLER (Metacreations; 
+$49; Windows 95 and 98 and Macintosh 7.5 or later.) Dabbler is a well-stocked, 
+serious art studio, with tools and graphics that simulate those you 
+would find in a genuine studio. The Dabbler tools, which can create 
+effects and styles ranging from pointillism to Impressionism, allow 
+children to produce works that look authentic. For artists, this is 
+challenging and satisfying; for nonartists, Dabbler is like taking 
+an introductory course at a good art school. Children from age 4 to 
+about 7 will probably need constant assistance; older children should 
+be able to solo after a few tries with an adult. An abbreviated printed 
+guide comes with the package; a longer tutorial, on the CD-ROM, requires 
+Adobe Acrobat 3.01, which can be downloaded free on the Web. In Dabbler, 
+the art tools and colors are in virtual drawers at the top of the 
+screen; there is also a standard Windows menu. A white drawing pad 
+appears, accompanied by rock music. (You can turn off the sound.) 
+You can also experiment with background textures like cotton paper 
+and fabric. You can then click on the color wheel, where a huge array 
+of tints is presented. Tools are next: you can choose a pen or chalk 
+(which ends up resembling pastels on paper) or ink, among many others. 
+You can also determine how thick you want the tools' impressions to 
+be. You are the artist, after all. Drawing with chalk against a dark 
+background (this is the most useful background for seeing how tools 
+behave) reveals a backdrop's texture. If you switch to the crayon 
+tool, it makes a denser mark; if you change the texture, you can achieve 
+a rubbing effect with the crayon. A water-drop effect turns the graphics 
+into a watercolor, resulting in a beautiful, sophisticated artwork. 
+(Not all the tools react with the paper texture.) Dabbler's canny 
+ability to simulate a tactile experience and blend one tool with another 
+becomes more evident the more you experiment. The ``flipbook'' animation 
+feature allows children to make short cartoons and is very entertaining. 
+Its tutorial is helpful, and verbal instructions serve as a patient, 
+clear teacher, so you really can't feel lost. 
+</TEXT>
+</DOC>

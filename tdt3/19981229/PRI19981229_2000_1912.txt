@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981229.2000.1912 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In the BBC Newsroom in London, I'm Derrick Stoffel. You're listening 
+to "The World." This is "The World," a co-production of the BBC World 
+Service, PRI and WGBH in Boston. 
+</TEXT>
+</DOC>

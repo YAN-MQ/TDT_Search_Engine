@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> CNN19981027.0130.0582 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers at Vanderbilt University say a new drug has been successfully 
+used to treat spinal cord injuries in some mice. But they caution 
+-- it's too early to tell what the benefit could be for human victims 
+of paralysis. Laurie Dhue reports. Keith McClaire's spinal cord was 
+severed in a three-wheel vehicle accident in 1987. He's paralyzed 
+from the chest down. Back then, medication wasn't used to reduce spinal 
+cord inflammation -- a Process that now can prevent permanent paralysis. 
+I remember the doctors saying, "ten years, you'll be walking again." 
+Well, yesterday was my 11th anniversary to my accident, and am I walking? 
+Are they even close? no. But Keith lives a productive life -- he's 
+active in sports, his wife is expecting their first child and he gives 
+presentations for think first, a national injury prevention program. 
+The discovery of a new drug that allows mice to walk again after a 
+spinal cord injury might have given him hope 11 years ago. But now, 
+he says he's more realistic. People that are newly injured are probably 
+in the earlier stages of the grieving process. And so, when they hear 
+the news, they might be a lot more excited than I am, and the false 
+hopes might have a big part in, you know, their emotions -- They might 
+go up and down. That's a concern shared by the lead researcher of 
+the new study. There is nothing in this study that suggests that a 
+person with spinal cord injury could benefit from cm-101. Even if 
+the medication works on humans, scientists say it must be administered 
+within days of the injury. The new treatment is experimental. In fact, 
+it won't be tested on humans until next year. But if successful, it 
+could change the lives of future spinal cord patients. Laurie Dhue, 
+CNN, Atlanta. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981029.1830.1064 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today, a lot of market stimulation from the managers 
+of mutual funds. They bought a lot of big-name, blue-chip stocks today 
+and the Dow Jones went up more than 123 points, to close at 8495. 
+On the NASDAQ, stocks dropped 19. 
+</TEXT>
+</DOC>

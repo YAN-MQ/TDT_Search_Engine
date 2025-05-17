@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981113.1130.0301 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+environmentalists charge a chemical sometimes found in vinyl toys 
+causes liver damage in rats. according to "the new york times," greenpeace 
+will ask for a ban on dinp today. dinp is a plasticizer which makes 
+vinyl soft. it's used in pacifiers, rattles and hasbro teletubbies. 
+the chemical's manufacturer, aristech chemical corporation of pittsburgh, 
+says although dinp causes liver damage in mice, it does not harm people. 
+</TEXT>
+</DOC>

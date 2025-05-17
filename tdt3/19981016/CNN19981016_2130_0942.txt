@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981016.2130.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With virtually no inflation, the average social security check will 
+rise by $10 next year. That is the smallest cost-of-living increase 
+in years. 
+</TEXT>
+</DOC>

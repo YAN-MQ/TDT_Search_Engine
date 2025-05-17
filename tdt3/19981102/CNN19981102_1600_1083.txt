@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981102.1600.1083 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Merger Monday returned to Wall Street today. First, a buyout in the 
+medical device industry. Medtronic is buying sofamor danek for more 
+than $3 billion. Sofamor danek specializes in spinal implants. And 
+in the energy industry, the parent of Michigan's largest utility is 
+buying 11,500 miles of natural gas pipelines and related assets from 
+Duke energy. CMS energy is paying $1.9 billion in cash plus $300 million 
+in debt. Shares are -- 
+</TEXT>
+</DOC>

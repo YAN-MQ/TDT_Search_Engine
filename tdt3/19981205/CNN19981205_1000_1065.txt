@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981205.1000.1065 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's "business this week," David Daniel, "Headline News." We'll 
+have college basketball scores next in "Headline Sports." Still ahead, 
+meet the people behind the insects in Disney's "A bug's life." 
+</TEXT>
+</DOC>

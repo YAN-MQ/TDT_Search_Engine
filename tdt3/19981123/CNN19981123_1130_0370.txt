@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981123.1130.0370 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The White House promises this is the week it'll answer those 81 questions 
+about the Monica Lewinsky case. The questions come from the house 
+Judiciary committee, which is holding impeachment hearings. Today, 
+the panel is questioning more witnesses. Daniel Gecker is being deposed 
+behind closed doors. He's the lawyer for Kathleen Willey, who claims 
+the president groped her when she went to ask for a job. 
+</TEXT>
+</DOC>

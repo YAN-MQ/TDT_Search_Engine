@@ -1,0 +1,64 @@
+<DOC>
+<DOCNO> VOA19981216.0500.2680 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Anybody who has children knows that mothers have a great deal of influence 
+when it comes to what their children do, but can you imagine that 
+this power extends to the success of a kidney transplant? Well, Brian 
+Sislac reports that, in selecting a donor organ from one of your brothers 
+or sisters, what Mom says matters. In the United States alone last 
+year, over 11,000 kidneys were transplanted. In Europe and North America, 
+many thousands more people are on dialysis waiting for an appropriately 
+matched donor kidney. If you're lucky enough to have an identical 
+twin, there's no problem. If you have a living, healthy, brother or 
+sister, your odds are much better than with an unrelated donor, but 
+they're still dicey. Rejection looms as a possibility. Now researchers 
+at the University of Wisconsin-Madison and other institutions have 
+come up with a way to make kidney donations from siblings less chancy: 
+Do a tissue workup on Mom. Writing in "The New England Journal of 
+Medicine," the researchers say that, even if a donated kidney match 
+is not perfect, the donor organ will function just as well as a perfectly 
+matched kidney if the mismatched characteristics are inherited from 
+-- you guessed it -- Mom. Those characteristics are called HLA or 
+human leukocyte antigens. As the University of Wisconsin's William 
+Burlingham explains, there are six different ones. If you're matched 
+for all six of these, you have the best match that we can offer, and 
+then in the case of sibling transplantation, there's a possibility 
+if the -- you've got four people in your family that one in four of 
+those has got the same six HLA images as you have, and they're -- 
+they're -- we call those an HLA-identical or HLA-matched sibling. 
+Now that gives the best -- the very best kidney transplant survival. 
+But with a less than six-for-six match, the chances of organ rejection 
+increase no matter how close you thought you were to your brother 
+or sister. However... What we found was, even if you only match for 
+three of the antigens, if the other three antigens that you didn't 
+match for came from the mother, that is were maternal antigens, this 
+was as good as having a complete six-antigen match. So it was almost 
+as if you had completely wiped out any differences based on the match. 
+What Dr. Burlingham and his colleagues think happens is that, when 
+you are just a tiny unborn child inside the womb, you became very 
+familiar with those maternal antigens. You were exposed to them intimately 
+during pregnancy, during the period in utero, and also what we found 
+is that, even in the breast milk, the babies are ingesting large amounts 
+of theses antigens. So you end up developing a lifelong immune tolerance 
+to those antigens. So when you encounter those same maternal antigens 
+later on as part of a donated kidney from your brother or sister, 
+the immune tolerance you developed prevents rejection, even though 
+it's not a perfect match. Dr. Burlingham says these research results 
+could end up increasing the pool of really outstanding living kidney 
+donors by about 10 percent. Where it's going to make an impact is 
+when we have a choice. Where there are two siblings, both of which 
+are only half matched -- that is they're not a full match -- if one 
+of them has the maternal antigens, it's going to be very easy to identify 
+somebody who will give the much better result in the long run. But 
+what if Mom isn't around to do a tissue match? The techniques are 
+advancing rapidly to the stage where a locket of Mother's hair or, 
+you know, any -- anything like that can be used for typing, but I 
+should add that if Mother's not available, the information from Father 
+can also help us, by a process of elimination, figure out which antigens 
+came from Mother. The University of Wisconsin researcher says that, 
+as of January 1st, his institution will routinely begin typing mothers 
+in all sibling transplants they do. 
+</TEXT>
+</DOC>

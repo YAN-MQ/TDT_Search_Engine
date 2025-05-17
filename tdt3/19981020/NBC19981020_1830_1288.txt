@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NBC19981020.1830.1288 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Health news tonight -- a new study shows when your doctor and pharmacist 
+use a computer to fill your prescriptions, the rate of dangerous mistakes 
+is cut in half. Computer programs can make sure pharmacists don't 
+give the wrong dosage of a medicine, and can make sure you don't take 
+a drug that can have a Dangerous interaction with one you're already 
+taking. 
+</TEXT>
+</DOC>

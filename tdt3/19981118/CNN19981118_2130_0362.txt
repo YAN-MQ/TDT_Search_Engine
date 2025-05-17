@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981118.2130.0362 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some researchers are wondering about possible links between women 
+who smoke and breast-feed and future smoking habits of their children. 
+Researchers in Philadelphia studied five women. They found the samples 
+of breast milk in smokers took on the smells of tobacco. The findings 
+have led to speculation babies could grow accustomed to the taste 
+and be more likely to smoke when they grow up. 
+</TEXT>
+</DOC>

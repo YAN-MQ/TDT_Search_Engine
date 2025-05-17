@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0410 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's something you should know if you take echinacea at the first 
+sign of sniffles. A new health study says the top-selling herbal supplement 
+is no better than a placebo at preventing common colds. The American 
+medical association says one in five Americans use echinacea. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981202.1830.1458 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The national transportation safety board is recommending immediate 
+safety changes on Boeing 757 jets. The problems is those emergency 
+passenger slides. They are supposedded to deploy during emergencies 
+on the grounds. But slides have opened up in midflight in the past. 
+</TEXT>
+</DOC>

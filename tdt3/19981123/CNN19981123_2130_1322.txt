@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981123.2130.1322 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The final game of week 12 in the NFL is a dandy. At 5-5, the Patriots 
+find themselves in a must-win situation against Miami. The 7-3 dolphins 
+lead the bills and jets by just a half game in the AFC east. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981205.0130.0973 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street closed higher Friday, but not enough to erase all of the 
+week's losses. The Dow Jones industrial average gained 136 points, 
+to close at 9016. For the week, the Dow lost 317 points. 
+</TEXT>
+</DOC>

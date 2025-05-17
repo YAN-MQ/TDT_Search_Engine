@@ -1,0 +1,62 @@
+<DOC>
+<DOCNO> NYT19981116.0413 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Vaguely worded clauses in labor contracts that require submitting 
+workplace disputes to arbitration cannot be invoked to deprive individual 
+employees of the right to bring employment discrimination cases in 
+federal court, the Supreme Court ruled unanimously Monday. Ruling 
+in one of the more closely watched discrimination cases of the current 
+term, the court stopped short of answering the obvious next question: 
+Would an explicitly worded arbitration clause, reflecting a clear 
+intent to channel discrimination claims as well as other issues into 
+arbitration and out of court, be enforceable? Because the union in 
+this case had in fact not clearly waived the right of its members 
+to go to court, there was no need to answer that question, Justice 
+Antonin Scalia said in his opinion for the court. But at at a minimum, 
+he said, ``the right to a federal judicial forum is of sufficient 
+importance to be protected against less-than-explicit union waiver'' 
+of the right to go to court. The decision, Wright vs. Universal Maritime 
+Service Corp., No. 97-889, overturned a 1997 ruling by the 4th U.S. 
+Circuit Court of Appeals in Richmond. That court interpreted an arbitration 
+clause in a collective bargaining agreement between the International 
+Longshoremen's Association and the Port of Charleston, S.C., as having 
+stripped a longshoreman, Caesar Wright, of his right to sue under 
+the Americans With Disabilities Act. The clause provided for a grievance 
+and arbitration procedure for all ``matters under dispute between 
+the parties,'' without referring explicitly to rights under the federal 
+statutes that prohibit discrimination in the workplace on the basis 
+of race, sex, age or disability. Nonetheless, the Fourth Circuit said, 
+Wright could not go to court with his claim of disability discrimination 
+because his union had effectively waived that right when it negotiated 
+the arbitration clause. Charles Stephen Ralston, a senior staff attorney 
+with the NAACP Legal Defense and Educational Fund, which represented 
+Wright, said Monday that the Supreme Court's decision could have a 
+significant practical effect, despite the fact that the justices were 
+silent on whether an explicit waiver of the right to sue could be 
+enforced. Although arbitration clauses are common in collective-bargaining 
+agreements, Ralston said, few of them explicitly waive rights given 
+under federal anti-discrimination laws, and so would not be enforceable 
+under the test the court set on Monday. The Clinton administration, 
+along with many civil rights and labor groups, filed briefs on behalf 
+of the longshoreman, as did the National Academy of Arbitrators. The 
+group, which represents professional arbitrators, told the court that 
+the traditional function of arbitration in the workplace was to resolve 
+disputes over the interpretation and application of the contract. 
+Unmistakable evidence of the intent of the parties should be required 
+before extending an arbitration clause to a case involving individual 
+rights, the arbitrators' brief said. Employer groups including the 
+U.S. Chamber of Commerce and the National Association of Manufacturers 
+filed briefs for the employer. As Scalia acknowledged Monday, the 
+court's precedents on arbitration in the labor-management setting 
+have been to some degree inconsistent. A 1974 case, Alexander vs. 
+Gardner-Denver, held that employees covered by arbitration clauses 
+retained the right to go to court for individual discrimination claims. 
+A 1991 case, Gilmer vs. Interstate/Johnson Lane Corp., upheld the 
+enforceability of arbitration provisions for such cases in securities 
+industry agreements that applied to stockbrokers. ``There is obviously 
+some tension between these two lines of cases'' that remains unresolved, 
+Scalia said. 
+</TEXT>
+</DOC>

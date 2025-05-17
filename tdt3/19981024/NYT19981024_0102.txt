@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> NYT19981024.0102 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Maybe it was just a false dawn _ there have been plenty of those. 
+But as the Dow Jones industrial average rose, the final touches were 
+put on a $30 billion package to prop up Brazil, and Japan committed 
+a half a trillion dollars to save its banks, there was hope last week 
+that the worst of the global financial upheaval might be passing. 
+The case for optimism goes like this: Investors may be realizing that 
+their panicky race for the exits, into Treasury bonds and anything 
+else that seems secure, was as much an overreaction as their rush 
+into the world's emerging markets in the mid-1990s was a triumph of 
+blind optimism. After all, the interest-rate cuts pulled off by the 
+Federal Reserve in recent weeks show that someone is paying attention. 
+Interest rates in Thailand and South Korea have fallen to 7 percent, 
+evidence that their economies may finally get going. Sure, Indonesia 
+has turned into a lawless land, with mobs burning out the shops of 
+ethnic Chinese merchants and chopping off the heads of suspected sorcerers, 
+but its currency, the rupiah, is making a surprising comeback. Even 
+the Commerce Department's announcement last week of a mammoth August 
+trade deficit for the United States, $16.77 billion, was greeted by 
+the markets as good news: America remains the last big-time consumer 
+on the globe, the numbers showed, and projections that the 1999 trade 
+deficit could hit $300 billion for the year suggests the United States 
+will keep consuming. In other words, even as America's growth slows, 
+it may pull Asia and Japan out of recession. Of course, there were 
+plenty of optimists around in the spring, declaring that the sky had 
+stopped falling. That was just before Russia defaulted on its debts 
+and backtracked on its commitments to economic reform. And it was 
+when Japan's troubles still seemed limited to $600 billion in bad 
+bank loans, instead of more than $1 trillion. ``It took a long time 
+for these problems to develop, and it will take a long time for the 
+world to work through them,'' Treasury Secretary Robert Rubin cautioned 
+last week. Meanwhile, his aides are explaining what fundamentally 
+good shape Brazil is in, which must explain why it is about to become 
+the fifth country to receive a multi-billion rescue package in the 
+past year. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981126.1830.1181 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now to the "hot spots" making news tonight. California -- a Thanksgiving 
+earthquake rattles parts of northern california. The 5.2 quake, considered 
+moderate, struck some 200 miles north of San francisco near the town 
+of Redding. No reports of serious damage or injuries. 
+</TEXT>
+</DOC>

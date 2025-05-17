@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981221.1600.1070 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Dell computer, the world's largest direct seller of computers, will 
+feature aOL software on its new consumer models. Beginning Monday, 
+Dell will ship the computers with AOL interactive software, including 
+100 hours of free use. Early next year, Dell users will be able to 
+access a preinstalled, customized version of AOL software. 
+</TEXT>
+</DOC>

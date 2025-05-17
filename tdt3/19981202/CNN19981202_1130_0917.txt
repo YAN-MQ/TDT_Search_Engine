@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981202.1130.0917 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Space shuttle "endeavor" is scheduled to take off tomorrow morning. 
+It's carrying the first American-made section of the international 
+space station. 
+</TEXT>
+</DOC>

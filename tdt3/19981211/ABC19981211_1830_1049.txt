@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981211.1830.1049 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today -- investors were uneasy about the situation 
+in washington. The Dow Jones industrial average was down a little 
+under 20 points to close at 8821. On the NASDAQ, stocks were up more 
+than 13 points. 
+</TEXT>
+</DOC>

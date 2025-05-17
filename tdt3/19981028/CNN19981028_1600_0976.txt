@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981028.1600.0976 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A late day rally fades on Wall Street. For the final numbers and corporate 
+news, let's go to Myron Kandel in New York. Myron? Thanks. The Dow 
+went up, down, and sideways today before ending with a small gain. 
+Some of the best performers were IBM, McDonalds, and Wal-Mart. 
+</TEXT>
+</DOC>

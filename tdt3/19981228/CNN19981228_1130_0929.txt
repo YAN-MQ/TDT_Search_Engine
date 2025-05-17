@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981228.1130.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- CNN has confirmed that U.S. warplanes 
+were fired on today, while patrolling Iraq's northern no-fly zone. 
+The U.S. warplanes fired back. And Iraqi official claims the U.S. 
+planes attacked first. 
+</TEXT>
+</DOC>

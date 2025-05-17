@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981102.0500.3097 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+New York Stock Market resumes trading later today after the benchmark 
+Dow Jones Industrial Average gained nearly 100 points on Friday. The 
+Dow begins trading at 8592. 
+</TEXT>
+</DOC>

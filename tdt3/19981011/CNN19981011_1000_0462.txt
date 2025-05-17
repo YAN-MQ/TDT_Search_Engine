@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981011.1000.0462 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+You soon could be hearing about a new type of pollution with a new 
+kind of threat. Environmentalists are calling it "smart pollution" 
+-- bugs, plants and animals that are carried across borders, intentionally 
+or by accident. A new species can evolve quickly to dominate and sometimes 
+destroy native plants and animals. Threats range from the familiar 
+landscape-smothering kudzu vines to bloodthirsty Asian Tiger mosquitoes. 
+</TEXT>
+</DOC>

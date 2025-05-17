@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> APW19981026.0774 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Companies buying or selling personal data in the Netherlands, beware 
+_ the Dutch government is going all-out to protect the personal data 
+of its citizens. The Data Protection Commission, part of the Dutch 
+Ministry of Justice, acts as a watchdog for consumers whose personal 
+information may be bartered for marketing purposes without their consent. 
+``We want to see people made more aware of the consequences of giving 
+out personal information,'' commission spokesman Erik Bogaards said 
+Monday. ``People are often bombarded with information they didn't 
+ask for. It's an irritation.'' On Sunday, an EU law came into effect 
+to protect data privacy. The law has already been written into the 
+statute books of Greece and Portugal, and is also being implemented 
+in Britain, Sweden and Italy along with additional rules. In the Netherlands, 
+Boogards' commission keeps a watch out for more serious violations 
+of privacy laws, which prohibit the use of personal information for 
+anything other than the original intent for which it was solicited. 
+Recently, the commission has observed a lurking danger in the privatization 
+of government agencies, Bogaards said. As private companies take over 
+government duties such as distribution of employee benefits, the companies 
+become privy to personal information that may tempt some to sell or 
+use for their own marketing efforts. Though the agency does not enforce 
+privacy laws, it does make recommendations that, if presented in a 
+court, are taken very seriously, Bogaards said. ``It's taken nearly 
+as seriously as a court order,'' he said. The agency, which has been 
+protecting the privacy of the Dutch since 1989, handles about 7,000 
+inquiries a year, Bogaards said. Most of those are consumers or companies 
+seeking the government's free information about the legality of specific 
+use of personal information. This year, the commission investigated 
+Jehovah's Witnesses who may have used illegal methods to obtain information. 
+People complained that the religious group targeted disabled people 
+for their home visits. That case is still under review, Bogaards said. 
+``People are not aware of the implications when they hand over personal 
+data,'' he said. ``Then they are surprised when they are bombarded 
+with information. They just don't see the connection.'' The registry 
+usually issues advice to the parties involved following an investigation 
+but it can also inform prosecutors if illegal practices are uncovered. 
+Bogaards said criminal proceedings are unusual in such cases. 
+</TEXT>
+</DOC>

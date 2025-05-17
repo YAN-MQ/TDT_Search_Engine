@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981106.1600.1091 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With the holiday shopping season right around the corner, many consumers 
+are snapping up video games. According to a New York market research 
+firm, video game sales jumped 32% this year compared to last year 
+and are expected to reach a record $6.3 billion this year. Sales of 
+new games and software are fueling the video game market. The survey 
+also finds an increasing number of adults are getting joystick-happy, 
+including players over the age of 40. 
+</TEXT>
+</DOC>

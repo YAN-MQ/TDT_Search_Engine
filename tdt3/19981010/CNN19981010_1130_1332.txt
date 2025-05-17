@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981010.1130.1332 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The puck dropped last night The puck dropped last night in Tokyo. 
+The first game of the season for San Jose and Calgary. Mike ricci 
+scored in the final three minutes to give the sharks a 3-3 tie with 
+the flames. 
+</TEXT>
+</DOC>

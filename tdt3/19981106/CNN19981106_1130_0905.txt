@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981106.1130.0905 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And California is cracking down on pollution from sport utility vehicles. 
+The state has become the first to require that SUVs meet the same 
+pollution standards as other cars. 
+</TEXT>
+</DOC>

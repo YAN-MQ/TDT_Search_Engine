@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981217.1130.1068 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At a time when several big multinational companies are reporting earnings 
+weaknesses, chase Manhattan is going the other way. Chase expects 
+its fourth quarter earnings to be well ahead of analysts forecasts, 
+possibly setting a record for the quarter among the companies reporting 
+earnings today -- there was smooth sailing for carnival, the cruise 
+line posted a record $220 million profit in the fourth quarter. That's 
+up 42%. 
+</TEXT>
+</DOC>

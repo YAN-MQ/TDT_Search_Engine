@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> NYT19981224.0321 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial for Friday, Dec. 25: The only 
+clear message from the recent plebiscite in Puerto Rico is that the 
+question of the island's political future remains deeply divisive. 
+Congress' failure to sponsor orderly balloting that would give the 
+island's 3.8 million voters a meaningful say about their political 
+status has not helped. Earlier this year the House passed a bill that 
+would have set up a congressionally approved referendum for Puerto 
+Ricans on whether the island should retain its current commonwealth 
+status, seek statehood or become an independent nation. If statehood 
+or independence received a majority vote the federal government would 
+develop a transition plan, leading to a vote by Congress for a status 
+change within 10 years. Both the Republican and Democratic parties 
+have long supported Puerto Rican self-determination. But the Senate 
+blocked the legislation and simply said it would review the outcome 
+of any nonbinding local vote. The recent ballot, prepared by the Puerto 
+Rican government, was crowded with five options: statehood, commonwealth, 
+independence, free association or none of the above. Negative campaigns 
+mounted by both the statehood and commonwealth camps contributed to 
+``none of the above'' picking up 50.2 percent of the vote. Much of 
+that was a protest vote from the pro-commonwealth camp, which saw 
+the ballot as misleading. The statehood option, championed by Gov. 
+Pedro Rossello, received 46.5 percent of the votes, far more than 
+the other options but not enough to win. Much of the debate has focused 
+on what is possible under a commonwealth status. Puerto Ricans currently 
+have U.S. citizenship, and are subject to federal laws and the draft. 
+But they do not pay federal income tax and do not vote for president 
+or elect voting members of Congress. Some commonwealth supporters 
+fear that statehood would jeopardize the island's Spanish-based culture, 
+and have argued that getting enhanced rights from the federal government 
+is possible without becoming a state. Pro-statehood advocates reject 
+that position as unrealistic. Congress can reduce the confusion by 
+crafting a referendum with input from Puerto Rican leaders on all 
+sides that accurately reflects the options available. ``None of the 
+above'' does not move Puerto Ricans any closer to defining their future. 
+</TEXT>
+</DOC>

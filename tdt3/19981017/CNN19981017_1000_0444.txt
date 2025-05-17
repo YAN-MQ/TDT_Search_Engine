@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981017.1000.0444 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A weakened typhoon zeb doused southern Japan today. It hit about 615 
+miles from Tokyo. Forecasters predict up to 16 inches of rain this 
+weekend in some areas. Police say two people on the island of okinawa 
+are missing. Typhoon zeb is blamed for the deaths of at least 2 people 
+in the philippines and Taiwan. 
+</TEXT>
+</DOC>

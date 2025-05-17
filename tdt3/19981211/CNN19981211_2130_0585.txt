@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981211.2130.0585 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The space shuttle "endeavour" astronauts have wrapped up work on the 
+international space station. They closed the last of six hatches between 
+the U.S.-made Module unity and russian-built zarya today. The space 
+station will stay empty until another construction crew arrives in 
+six months. It will take five years and more than 40 shuttle flights 
+to complete the project. 
+</TEXT>
+</DOC>

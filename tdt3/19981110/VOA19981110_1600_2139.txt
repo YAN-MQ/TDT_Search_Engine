@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981110.1600.2139 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street, U.S. share prices closed mostly lower on Tuesday. 
+I'm Dave DeForest, VOA News. 
+</TEXT>
+</DOC>

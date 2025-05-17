@@ -1,0 +1,66 @@
+<DOC>
+<DOCNO> NYT19981208.0349 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In something of a surprise embrace, Time Warner Cable and CBS Corp. 
+announced Tuesday that they had signed an agreement for Time Warner's 
+cable systems to carry the digital television signals of CBS' 15 television 
+stations, by adding extra channels to the cable systems. Although 
+the agreement will affect few customers now, it is the first such 
+pact. The television industry is just now starting the transition 
+from an analog to a digitalized system of signal broadcasting. It 
+comes in the midst of a feud between the cable industry and some broadcasters 
+over whether cable systems should be required to carry broadcast stations' 
+digital signals during what is expected to be a lengthy transition. 
+Federal law already requires cable operators to carry the analog signals 
+of broadcast stations in their local markets. Eventually all television 
+will be transmitted digitally, enabling networks to offer either high-definition 
+pictures _ which are vividly clear and detailed _ or additional channels 
+of programming or data. Time Warner, the United States' second-largest 
+cable-systems operator, has agreed to carry CBS' digital feed in either 
+format. CBS is producing five National Football League games in high-definition 
+format and is exploring transmission of added channels. Only four 
+of the 14 CBS-owned stations are transmitting digitally now; eight 
+more are expected to be doing so by the end of 1999. CBS hopes the 
+agreement will serve as a model for its affiliated stations to form 
+similar agreements with Time Warner systems in their markets, a network 
+spokesman said. The agreement involved no financial considerations. 
+Cable operators, faced with the threat of federal ``must carry'' rules 
+forcing them to carry local broadcast stations' digital offerings, 
+have argued that there is not enough bandwidth to do so without dropping 
+popular cable networks. But Time Warner has been upgrading the carrying 
+capacity of its system, and will be able to carry both the analog 
+and the digital signals of CBS in areas that have been upgraded, without 
+dropping anything else, Michael Luftman, vice president for corporate 
+communications, said. Upgraded systems will reach about 70 percent 
+of Time Warner's 12 million customers by the end of this year, he 
+said, and the company expects all its systems to be digitally capable 
+by the end of 2000. In upgraded areas, customers with digital television 
+sets will receive a slightly clearer picture on that CBS station, 
+and a greatly enhanced picture on NFL games (or whatever else CBS 
+eventually decides to broadcast in high-definition format). Customers 
+with analog TV sets will receive the normal picture. In New York, 
+where about half the system has been upgraded, CBS' analog channel 
+would keep its normal place on the dial at Channel 2, and on upgraded 
+systems an additional channel, at the high-numbered end of the dial, 
+would be added for CBS' digital fare. ``If digital television is to 
+flourish, broadcast television and cable companies must work together 
+to make sure that the signal makes it to the people who count, our 
+viewers,'' Jonathan Klein, president of CBS' stations unit, said in 
+a statement. The Federal Communications Commission has been pressing 
+both industries to work out an accord, so that viewers can receive 
+digital television, particularly in its high-definition form, as soon 
+as possible. In a statement, William Kennard, chairman of the FCC, 
+said, ``I am encouraged by this news and hope that other digital carriage 
+agreements will follow.'' ABC and NBC have also been in discussions 
+with cable-system operators, and both those networks have extensive 
+cable holdings themselves, so there had been expectations that they 
+would have come to an agreement before CBS. Luftman of Time Warner 
+said the company expected the first buyers of high-definition televisions 
+to be its ``best customers.'' He added, ``The last thing we want is 
+to have people call saying they spent $8,000 to $10,000 on an HDTV 
+set and they want to be hooked up, and for us not to be in a position 
+to do it.'' 
+</TEXT>
+</DOC>

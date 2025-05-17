@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981031.1830.0902 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's now just a tropical depression, but the storm system named Mitch 
+is still causing problems in central America. There were more mudslides 
+today in Honduras. Floodwaters have forced tens of thousands from 
+their homes. The death toll in the region is more than 300 and climbing. 
+</TEXT>
+</DOC>

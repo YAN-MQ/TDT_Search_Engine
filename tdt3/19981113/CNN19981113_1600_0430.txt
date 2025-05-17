@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981113.1600.0430 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Internal Revenue Service is beefing up its program that provides 
+help for taxpayers with problems. The IRS established the program 
+in 1977, but the agency's taxpayer advocates were hard to reach and 
+had only limited authority. Now they can tell aggressive tax collectors 
+to back off. The head of the IRS says the program assures taxpayers 
+a way to get help. Many times, people have gotten one of our famous, 
+or perhaps infamous, notices or letters that aren't always so easy 
+to understand. They may say "you owe some money." So you can come 
+in and get an explanation for that. If it turns out that you don't 
+owe the money, that can be resolved. If it turns out you do owe some 
+money and you can't pay it right away, there are a variety of things. 
+We can work out a payment plan for you within the limits of what the 
+law provides. And we find that, in most cases, we can work out something 
+that taxpayers can live with. You can contact an IRS taxpayer advocate 
+toll-free at -- the number will be printed in this year's tax return 
+instruction booklet. 
+</TEXT>
+</DOC>

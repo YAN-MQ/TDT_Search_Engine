@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981129.1830.1716 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's "NBC nightly news" for this Sunday. Tom Brokaw will be here 
+tomorrow night. I'm Soledad O'Brien. For all of us at NBC news, good 
+night. 
+</TEXT>
+</DOC>

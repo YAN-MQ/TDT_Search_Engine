@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981111.1130.1085 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some other technology stocks making gains today include K-Tel, soaring 
+for the second straight day on news that it struck a deal to have 
+its music offerings carried on the msn Internet shopping channel. 
+k-tel is up 11 5/8 at 33 5/8. 
+</TEXT>
+</DOC>

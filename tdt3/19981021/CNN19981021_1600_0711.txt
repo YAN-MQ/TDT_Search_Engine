@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981021.1600.0711 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This week on the cold & flu report. Every year experts stress the 
+importance of getting a flu shot for the elderly or those with weakened 
+immune systems. But doctors say many of the same people may not know 
+they could benefit from a pneumonia vaccine, too. Serious pneumococcal 
+disease claims some 40,000 lives a year in the United States. The 
+vaccine is about 60% effective in warding off pneumonia. It's usually 
+given only once in a lifetime. But some may require periodic booster 
+shots. Your doctor can help decide if you should get the pneumonia 
+vaccine. 
+</TEXT>
+</DOC>

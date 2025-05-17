@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981013.1830.1368 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And just as major league baseball is having a good year, the NBA announced 
+tonight that the first two weeks of the NBA regular season now has 
+been Con canceled because of a work stoppage. That's the first time 
+in the league's history that's ever happened. At issue, salaries. 
+The player's union says no to a salary cap. 
+</TEXT>
+</DOC>

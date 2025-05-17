@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981110.1130.1478 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the beatles' white album is making a comeback of sorts. capitol records 
+plans to celebrate the 30th anniversary of its release with a limited 
+edition cd version. the 1968 double album included a collage of photos 
+and artwork, as well as lyrics to songs, and four glossy photos of 
+the beatles. the cd version will re-create that in a more scaled-down 
+version. 
+</TEXT>
+</DOC>

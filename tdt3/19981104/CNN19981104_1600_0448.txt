@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981104.1600.0448 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mitch has strengthened into a tropical storm again. It's 350 miles 
+southwest off the coast of Florida, moving northeast at 20 miles per 
+hour. Forecasters have issued storm warnings and a flood watch for 
+much of south florida and the keys. They say isolated tornadoes are 
+possible later today. In central America, where Mitch struck as a 
+hurricane, the death toll has now climbed to 9,000. Thousands more 
+are missing. Two million people are homeless in Honduras alone after 
+entire towns were wiped off the map. Flooding is still a major problem. 
+Some towns are completely surrounded by water. Many bridges and roads 
+have been washed out. 
+</TEXT>
+</DOC>

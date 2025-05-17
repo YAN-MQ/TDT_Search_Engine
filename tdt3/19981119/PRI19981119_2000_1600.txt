@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981119.2000.1600 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stocks closed higher today on brighter prospects for the economy. 
+Here is the latest from Wall Street. The Dow Jones Industrials rose 
+15 points to close at 9056 today. The NASDAQ was also up 22 points 
+to close at 1920. 
+</TEXT>
+</DOC>

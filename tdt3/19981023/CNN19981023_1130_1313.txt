@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981023.1130.1313 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The NHL's winningest coach will be back behind the bench tonight when 
+the red wings host Toronto. Detroit's Scotty Bowman returns after 
+undergoing angioplasty and knee-replacement surgery during the off 
+season. 
+</TEXT>
+</DOC>

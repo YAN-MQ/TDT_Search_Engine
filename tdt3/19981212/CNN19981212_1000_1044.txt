@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981212.1000.1044 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Holiday shoppers were busy in November. Retail sales climbed 0.6% 
+last month. Department stores and merchandisers say it was one of 
+their best months this year. Also in November, wholesale prices dropped 
+0.2%, mostly because of falling energy prices. 
+</TEXT>
+</DOC>

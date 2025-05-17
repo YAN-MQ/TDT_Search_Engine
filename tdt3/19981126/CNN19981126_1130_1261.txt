@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981126.1130.1261 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With "CNN Headline Sports," I'm Russell Biven. We begin with news 
+in the tennis world. Marcelo Rios has pulled out of the season-ending 
+atp championship, which means American Pete Sampras will keep his 
+world number one ranking for an unprecedented sixth straight year. 
+</TEXT>
+</DOC>

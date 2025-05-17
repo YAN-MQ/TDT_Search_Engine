@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981224.1130.1303 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Devils doubled up St. Louis 4-2. The blues are winless in their 
+last nine road games. 
+</TEXT>
+</DOC>

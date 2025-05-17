@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981121.1000.1305 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In golf, Laura Davies has a four-stroke lead after two rounds of the 
+lpga tour championship. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981125.1830.1627 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is our report on "World News Tonight." It goes without saying, 
+we hope you have a happy and meeingful thanksgiving. On "20/20" Diane 
+Sawyer's exclusive interview with Kenneth Starr. And on "Nightline," 
+why do some people still have to go to food banks? I'm Peter Jennings. 
+Have a good evening. 
+</TEXT>
+</DOC>

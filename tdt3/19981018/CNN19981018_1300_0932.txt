@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981018.1300.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories. More heavy rain is in store today for much 
+of Texas, where storms have caused severe flooding. Many roads and 
+highways are closed, and thousands of residents are without power. 
+</TEXT>
+</DOC>

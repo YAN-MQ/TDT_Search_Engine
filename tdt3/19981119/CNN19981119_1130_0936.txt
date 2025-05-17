@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981119.1130.0936 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Israel's cabinet has approved the first stage of the Israeli troop 
+withdrawal from part of the West Bank. Seven cabinet members voted 
+in favor of the withdrawal, five voted against it. 
+</TEXT>
+</DOC>

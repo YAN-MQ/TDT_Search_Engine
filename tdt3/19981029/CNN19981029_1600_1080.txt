@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981029.1600.1080 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The food and drug administration today approved the drug Tamoxifen 
+for women at high risk of breast cancer. The drug has been used for 
+years to treat women who already have the disease. It's the first 
+medicine approved by the FDA to prevent breast cancer. But the FDA 
+warns that Tamoxifen has serious side effects and may even cause uterine 
+cancer. Shares of zeneca, the drug's maker rose 1 5/8 today. 
+</TEXT>
+</DOC>

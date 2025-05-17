@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981014.1600.0949 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+House Judiciary chairman Henry Hyde says the impeachment inquiry against 
+President Clinton will be streamlined. He says it will focus only 
+on allegations of lying under oath, obstruction of justice, and witness 
+tampering. 
+</TEXT>
+</DOC>

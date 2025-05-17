@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981224.1600.0345 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I am John Brouchard, VOA News. This is VOA NEWS NOW coming to you 
+from Washington. I am Erin Brummet along with Tony Riggs. 
+</TEXT>
+</DOC>

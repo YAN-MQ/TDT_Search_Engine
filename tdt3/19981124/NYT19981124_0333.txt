@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> NYT19981124.0333 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Open positions of short sales on the Nasdaq stock market fell 2 percent 
+in the most recent monthly period, the National Association of Securities 
+Dealers, which oversees the market, reported Tuesday. It was the first 
+time in the last 12 months that short-interest positions have declined 
+for two consecutive periods. In the month ended Nov. 13, uncovered 
+short positions totaled 2.01 billion shares, down from 2.05 billion 
+shares in the previous month. A short position is created when an 
+investor sells shares that have been borrowed. If the share price 
+falls, the investor can profit by buying shares at a lower price to 
+replace the borrowed ones. Conversely, if the shares rise in price, 
+the short-seller faces a loss. Uncovered short sales, or those with 
+open positions, are those shares that have been borrowed and sold 
+but not yet covered by repurchase. For the second month, the largest 
+short position on Nasdaq was Dell Computer. But the stock, whose price 
+rose sharply in the period, also recorded the biggest decrease in 
+open short positions. Short positions in Dell totaled 35.8 million 
+shares, a drop of 18.9 million shares, or 34 percent, from the previous 
+month. 
+</TEXT>
+</DOC>

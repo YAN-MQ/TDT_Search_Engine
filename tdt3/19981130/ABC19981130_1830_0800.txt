@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981130.1830.0800 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones industrials was down more than 
+216 points to close at 116. On the NASDAQ, stocks lost just under 
+67 points. Internet stocks took a real beating today. 
+</TEXT>
+</DOC>

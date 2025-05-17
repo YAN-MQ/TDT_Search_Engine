@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981029.1600.1049 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A pair of key economic reports out today. First-time claims for unemployment 
+benefits fell last week by 18,000, the first decline in four weeks. 
+That relatively tight labor market is forcing employers to pay more 
+to attract good workers. In fact, wages and benefits rose a larger-than-expected 
+1% in the third quarter and are up 3.7% over the past year. That's 
+the steepest increase in 6 1/2 years. And it means employment costs 
+are rising faster than the overall inflation rate, something federal 
+reserve policymakers will have to consider when they meet next month. 
+</TEXT>
+</DOC>

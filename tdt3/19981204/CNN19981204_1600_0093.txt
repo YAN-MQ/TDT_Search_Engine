@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981204.1600.0093 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street has reacted positively to the labor department's unemployment 
+report. The Dow Jones industrial average is currently up 126. We'll 
+have more business news in "Dollars & Sense" at 16 past the hour. 
+</TEXT>
+</DOC>

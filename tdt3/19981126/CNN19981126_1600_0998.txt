@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981126.1600.0998 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Many car owners buy higher octane gasoline, even though the government 
+says cheaper, regular grade gasoline is just as effective. U.S. retailers 
+say sales of higher grade gasoline is skyrocketing amid the lowest 
+fuel prices in years. The national average price for a gallon of regular 
+unleaded gasoline is 98.9 cents a gallon. Midgrade is at $1.09, and 
+premium is just under $1.18. 
+</TEXT>
+</DOC>

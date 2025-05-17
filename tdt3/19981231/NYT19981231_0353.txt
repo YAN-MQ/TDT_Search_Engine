@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> NYT19981231.0353 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial for Friday, Jan. 1: Since 
+the early 1960s, the federal Food and Drug Administration has required 
+pharmaceutical companies to prove through clinical tests that the 
+drugs they market are safe and effective. Such tests are typically 
+conducted only on adults. But new regulations effective in April will 
+at last require separate testing on infants and children. Pediatricians 
+have long called for separate clinical studies and labeling of drugs 
+for pediatric use. Differences in metabolism, volume of body fluids 
+and elimination of a drug from a child's system can cause drug responses 
+that are different from that experienced by adults. Yet only about 
+20 percent of all drugs marketed in the United States have been tested 
+for infants and children. Many that have not been formally tested 
+are routinely prescribed for children anyway. This means that doctors 
+are often left guessing about a drug's effectiveness and safe dosages 
+for young patients. The new regulations will require pediatric testing 
+if a new drug or a new form of an old drug is likely to be used by 
+children or if it provides a benefit that is not available in existing 
+treatments. The regulations will allow companies to delay pediatric 
+testing until after the drugs have been approved as safe for adults. 
+Manufacturers also may be allowed to use some data from adult testing 
+in certain cases, and to seek an exemption if the product is likely 
+to be unsafe or ineffective for children or if a study would be highly 
+impractical. The FDA estimates that the cost of pediatric testing 
+will be less than 1 percent of the total cost of developing a new 
+drug, or less than $50 million annually for all pediatric testing. 
+Yet savings in reduced health costs as a result of better drug treatments 
+for children are estimated at $100 million a year. This is a safeguard 
+that has been put off for too long. 
+</TEXT>
+</DOC>

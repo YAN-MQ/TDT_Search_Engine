@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981022.0130.0978 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks ended higher Wednesday, led by gains in the technology sector. 
+The Dow Jones industrial average closed up 13 points at 8519. 
+</TEXT>
+</DOC>

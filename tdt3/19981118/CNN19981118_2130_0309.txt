@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981118.2130.0309 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The national consumers league says mixing some everyday foods and 
+medicine can be dangerous. The league, with help from the food and 
+drug administration, has published a brochure warning people what 
+combinations they should avoid. Among them -- mixing grapefruit juice 
+with antihistamines, like claratin or benadryl, certain heart drugs, 
+like procardia or cyclosporin. Doctors say the combination can sometimes 
+be deadly. Officials also warn against mixing caffeine with certain 
+antibiotics, like cipro, ulcer drugs, like tagamet, Zantac and pepcid, 
+or with theophylline, a bronchodilator. They say mixing them can cause 
+the jitters and stomach irritation. For more information you can contact 
+the national consumer league at -- 
+</TEXT>
+</DOC>

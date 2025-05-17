@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> PRI19981102.2000.0339 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is NPR. Support for NPR comes from Time Magazine. Starting this 
+week, a four-part investigation on corporate welfare, examining the 
+benefits Federal, state and local governments give corporations. The 
+World is made possible in part by Merck, pharmaceutical research dedicated 
+to preventing disease and improving heatlth. Merck, committed to bringing 
+out the best in medicine. This is the World. I'm Lisa Mullins. 
+</TEXT>
+</DOC>

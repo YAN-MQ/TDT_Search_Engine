@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981130.1600.0037 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+From Atlanta, this is "CNN Headline News." I'm Chuck Roberts. I am 
+as I speak writing down the Dow's closing numbers. It's our lead story. 
+Blue chips took a dive on Wall Street today. The Dow Jones industrial 
+average saw its first triple-digit loss in two months. Again the preliminary 
+figures show the Dow off 207.52. only Monday a week ago today, the 
+Dow set a closing high of 9374. We'll have more at 16 past the hour, 
+in our "Dollars & Sense" report. 
+</TEXT>
+</DOC>

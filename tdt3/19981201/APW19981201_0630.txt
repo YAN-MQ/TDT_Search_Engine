@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> APW19981201.0630 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Share prices on the London Stock Exchange were lower Tuesday afternoon. 
+At 2 p.m., the Financial Times-Stock Exchange 100-share index was 
+down 161.5 ponts at 5582.4. 
+</TEXT>
+</DOC>

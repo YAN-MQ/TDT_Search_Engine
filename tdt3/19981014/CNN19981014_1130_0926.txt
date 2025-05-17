@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981014.1130.0926 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Our top stories -- the FBI says forensic evidence is linking Eric 
+Robert Rudolph to three bombings in the Atlanta area, including the 
+one at centennial Olympic park in 1996. Rudolph, who faces charges 
+in the January bombing of an Alabama women's clinic, is still at large. 
+</TEXT>
+</DOC>

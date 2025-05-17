@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981203.1830.0868 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The wave of layoffs continues. Johnson & Johnson is cutting 4,100 
+jobs. 
+</TEXT>
+</DOC>

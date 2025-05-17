@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981010.1600.0976 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Several big companies announced imminent layoffs this week, and there 
+was big news in the government's charge against credit cards. David 
+Daniel reviews the week in business. The nation's two most pervasive 
+purveyors of plastic drew fire this week. The justice department filed 
+an antitrust suit against visa and Mastercard, claiming they prevent 
+banks from issuing competitors' cards. More competition, according 
+to the justice department, would mean lower interest rates for customers. 
+American consumers have simply lost out. They have lost the benefit 
+of vigorous competition between the two largest credit card networks, 
+which means that they have not enjoyed the innovation that competition 
+brings. Visa says customers have unlimited choices. It's promising 
+to fight the lawsuit vigorously. 
+</TEXT>
+</DOC>

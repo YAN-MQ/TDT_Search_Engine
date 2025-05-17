@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981202.1130.1317 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Penn state upset number ten temple, 65-64. It was the nittany lions' 
+first win over the owls since '91. 
+</TEXT>
+</DOC>

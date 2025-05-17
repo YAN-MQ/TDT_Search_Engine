@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981202.1600.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Aircraft manufacturer Boeing announced 20,000 more layoffs today. 
+President Clinton expressed his concern about the decision and attributed 
+it to the Asian financial crisis. 
+</TEXT>
+</DOC>

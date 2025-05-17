@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981026.1130.0192 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is back in Washington after a weekend fund-raising 
+trip to California. The visit brought in more than $2 million for 
+democrats, most of it for senator Barbara boxer's re-election campaign. 
+</TEXT>
+</DOC>

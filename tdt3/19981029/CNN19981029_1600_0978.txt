@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981029.1600.0978 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Blue chips finish with triple-digit gains. Let's get the details from 
+Lauren theirry at the cnnfn news desk in New York. Lauren? It's been 
+a while it seems. Yes, it has been a while. Nowhere to go but up. 
+Stocks took their cue from the shuttle discovery and headed higher. 
+After a sluggish start, investors snapped up blue chips and tech stocks, 
+easing up just briefly to watch John Glenn's launch into space. Then, 
+the Dow Jones industrial average launched 123 points to close at 8495. 
+Some big name drug stocks pushing the Dow higher. Amazon.com rose 
+9 1/2. Its quarter loss was not as speak as expected and Microsoft 
+gained 7/8 today. Lower interest rates have translated into good news 
+for home buyers. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981108.1300.0947 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Louisiana representative Bob Livingston is believed to be the front-runner 
+among republicans in the scramble to replace Newt Gingrich as house 
+speaker. 
+</TEXT>
+</DOC>

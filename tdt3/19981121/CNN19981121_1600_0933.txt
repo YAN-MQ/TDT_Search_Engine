@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981121.1600.0933 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton says he's deeply concerned about a suspected underground 
+nuclear facility in north Korea. Mr. Clinton is in south Korea for 
+a second day of talks on security and economic issues. 
+</TEXT>
+</DOC>

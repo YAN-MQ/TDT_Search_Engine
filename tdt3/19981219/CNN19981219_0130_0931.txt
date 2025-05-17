@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981219.0130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- U.S. and British forces have carried out 
+a Third wave of air strikes in Iraq. President Clinton will meet with 
+his national security team Saturday to assess the damage from "operation 
+desert fox" and decide whether to continue attacks. 
+</TEXT>
+</DOC>

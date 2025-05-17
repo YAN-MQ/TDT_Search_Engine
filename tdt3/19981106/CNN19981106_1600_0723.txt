@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981106.1600.0723 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal communications commission says a decision on whether to 
+charge consumers per-minute rates for using the Internet will be out 
+in two weeks. Officials had originally planned to decide today. But 
+they say they need to first consult with state regulators, who are 
+meeting in Florida next week. If approved, all Internet calls -- even 
+local ones -- would be classified as interstate calls. Consumer groups 
+are worried the measure would result in higher bills for internet 
+users. The FCC says that's not true. 
+</TEXT>
+</DOC>

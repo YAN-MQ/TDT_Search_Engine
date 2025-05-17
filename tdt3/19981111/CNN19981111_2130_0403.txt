@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> CNN19981111.2130.0403 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane Mitch is no longer here, but the problems caused by the 
+devastating storm are still mounting in Honduras. Lucia Newman reports. 
+Patients fill the hallways at Honduras' largest hospital, a Hospital 
+where there's no longer running water, where sanitary conditions are 
+so appalling that all but the most urgent surgeries have been canceled. 
+The lack of water means that we've had to have water tanks outside. 
+And everyone, from doctors to nurses and patient's relatives have 
+had to get their own water in plastic bags to clean the patients. 
+In the capital, the absence of clean water caused by the rupture of 
+pipelines during the hurricane has become the single worst problem, 
+a Sanitary nightmare. Desperate residents bath and wash clothes in 
+rivers contaminated by corpses and chemicals from a factory upstream 
+which was destroyed in by the storm. Skin infections abound as a result. 
+Worse yet is the lack of clean drinking water. Our biggest concern 
+is that the consumption of our water can lead to epidemics, especially 
+of cholera. The water crisis is also responsible for the increase 
+in hemorrhagic dengue fever which is endangering the lives of victims 
+like this little boy. Doctors say the incubation period for some of 
+the worst diseases such as cholera, dengue fever and gastroenteritis 
+is several weeks. That's why they say that the worst is yet to come. 
+Lucia Newman, CNN, Honduras. 
+</TEXT>
+</DOC>

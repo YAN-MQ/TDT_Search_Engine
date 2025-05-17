@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981123.1600.1357 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Monday night football features a Patriots team that has dropped 
+four of its last five playing host to the dolphins. Jerome Jurenovich, 
+"CNN Headline Sports." 
+</TEXT>
+</DOC>

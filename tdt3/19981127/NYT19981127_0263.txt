@@ -1,0 +1,97 @@
+<DOC>
+<DOCNO> NYT19981127.0263 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+One of the surprises in the mutual fund numbers from this year's selloff 
+is that investors acted differently than they did during the swoon 
+in 1997, when the Dow Jones industrial average plunged 7.2 percent 
+on a single day in October. This summer, investors were more willing 
+to flee, or, put another way, less willing to tough out the market 
+turmoil. Does that mean small investors have fundamentally changed 
+their thinking about the stock market? Will they remain less willing 
+to take the pain of sharp declines like those that have dotted the 
+generously bullish landscape? The answers matter, because it is the 
+steadfast Main Street investor who has powered the stock market for 
+years. In the 13 weeks through Oct. 14 _ the day before the Federal 
+Reserve cut interest rates for the second time _ $3.2 billion was 
+taken out of small-company stock funds, according to AMG Data Services, 
+which tracks mutual fund flows. That was a decline of 2.4 percent. 
+Investors also pulled $1.4 billion, or 1.1 percent, out of international 
+funds. The popular index funds favored by many 401(k) investors had 
+net inflows. According to AMG's data for all funds that report results 
+weekly, covering about half the total assets of all mutual funds, 
+$4 billion was taken out of equity funds over all. That was about 
+0.3 percent of the total. Fund families that report to AMG monthly, 
+including Fidelity and Vanguard, showed outflows from July through 
+early November of $2 billion from small-company funds and $3.2 billion 
+from international funds. But a year ago, the story was different, 
+as investors held their ground. The net new cash flow into all equity 
+funds was $37.5 billion from the week ended Aug. 8, 1997, through 
+the week ended Nov. 19. By then, investors had ample time to contemplate 
+their future in a market that had seen the Dow drop almost 900 points, 
+or 11 percent, in four days and then bounce back 563 points, or 8 
+percent. In the same period, the net inflow to small-company stock 
+funds was $8 billion, while $1.3 billion was moved into international 
+funds. One explanation for the change this year is that this summer's 
+decline was the worst since this phase of the bull market began in 
+1990, with the Dow and the S&AMP;P 500 dropping 19.3 percent from 
+peak to trough and the NASDAQ plummeting 29.5 percent. A 20 percent 
+decline is a bear market to most analysts, and this was too close 
+for comfort. ``Around the time of volatility, people act,'' said Avi 
+Nachmany, the head of research at Strategic Insight, an adviser to 
+mutual fund companies. ``People overcome their sense of inertia. It 
+really has to be bad for people to act.'' He said his monitor of mutual 
+fund flows showed that $1 of every $200 was moved out of stock funds 
+for defensive purposes during each month of the latest decline. But 
+he considered that a ``negligible'' and ``minuscule'' reaction by 
+investors. And he argued that it was a mistake to conclude that investors 
+are now more likely to bail out when the market falls. Preston G. 
+Athey, president of the T. Rowe Price Small-Cap Value fund, put it 
+another way: ``I don't see this as a change in behavior, because I 
+look at longer-term investor behavior, and they tend to go with what 
+is hot, not with what is cold.'' And it did not take much to convince 
+investors that small caps were cold. Even before the July selloff 
+of the big indexes, the Russell index of 2,000 smaller-company stocks 
+had already fallen more than 11 percent from its April high for the 
+year. The surge back into equities since early October shows that 
+investors think stocks are hot again. Over all, $13 billion has poured 
+into equity funds, with $2.4 billion going into small stocks and $1.4 
+billion into international funds, based on AMG's weekly data through 
+Nov. 23. The Investment Company Institute, which reports monthly for 
+the entire industry, shows a flow of $8.7 billion back into equity 
+funds in September and October. And mutual fund companies report that 
+the inflows have been faster in November. Brian F. Stack, portfolio 
+manager of the MFS New Discovery fund, said one difference from 1997 
+is that this year, investors had time to pay attention to bad news. 
+A global financial crisis had been in the air since October 1997. 
+Other declines, he argued, ``have come and gone before the average 
+retail investor woke up and knew what happened.'' By Friday, a wave 
+of merger activity, including talk of a union between Exxon and Mobil, 
+had helped push both the S&AMP;P 500 and NASDAQ indexes to new highs, 
+while the Dow finished just 41 points off its record. And it seems 
+likely that this quick rebound will convince many investors that they 
+were wrong to get out. That means they may hold out longer in the 
+next downdraft _ the right move, so long as the stock market manages 
+to snap back miraculously once again. Some time, it won't. Stocks 
+are back and that is great news for investors. But the rebound in 
+the marquee indexes does not tell the full story, as many mutual fund 
+investors will discover when they compare their own portfolios with 
+the Dow, which is up 23 percent from its August low. As a group, fund 
+investors still have a way to go to recover this summer's equity losses. 
+According to AMG, the assets of equity mutual funds, including domestic 
+and international and small- and big-company stocks, are still around 
+$175 billion _ or about 7 percent to 9 percent below their levels 
+when the Dow peaked in July. This is largely because a lot of stocks 
+have not rallied as much as the new index highs might make one think. 
+Salomon Smith Barney calculates that as of Wednesday, the average 
+stock on the New York Stock Exchange was still down 28.5 percent from 
+its 52-week high. The average NASDAQ stock was off 39.7 percent. Jeffrey 
+M. Warantz, a vice president at Salomon, also notes that while the 
+rally from the summer lows began from a broad base, including small 
+and big stocks alike, it narrowed after Nov. 9. So it was just the 
+big-name stocks that carried the indexes the final lap to their new 
+highs. Of the stocks in the S&AMP;P 500, 40 percent are still down 
+20 percent or more from their 52-week highs. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981209.1130.1321 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On the ice, Nicklas Lidstrom scored just 27 seconds into the game 
+as the red wings edged Chicago, 3-2. The loss snapping the blackhawks' 
+three-game win streak. Steve Yzerman picked up two assists. 
+</TEXT>
+</DOC>

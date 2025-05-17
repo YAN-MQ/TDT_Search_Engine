@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981106.0500.0348 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA NEWS NOW. Welcome back. I'm Paul Westpheling, broadcasting 
+live from Washington. 
+</TEXT>
+</DOC>

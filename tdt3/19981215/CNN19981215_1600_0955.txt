@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981215.1600.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And in Washington today, attorney general Janet Reno attended a virtual 
+meeting with her G-8 counterparts. During the video conference, the 
+leaders promised to use technology to fight international crime. 
+</TEXT>
+</DOC>

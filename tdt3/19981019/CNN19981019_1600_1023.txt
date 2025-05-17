@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981019.1600.1023 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.S. government and Microsoft squared off in court today. The 
+government opened its landmark case with taped testimony of Microsoft 
+chairman Bill Gates. Lawyers for the government argued that Microsoft 
+illegally tried to divide the market for Internet browsers with rival 
+Netscape communications. There are very serious allegations that have 
+been raised here. The government apparently is prepared to prove that 
+Microsoft has attempted to guide up markets, that's really an invitation 
+to engage in cartel behavior. It's hard to imagine more serious antitrust 
+charges. Shares of Microsoft ended the day down more than $200 nearly 
+$103 a share. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981117.0130.0386 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Israeli prime minister Benjamin Netanyahu is threatening to suspend 
+a troop pullback in the West Bank. Netanyahu wants the Palestinians 
+to drop plans to declare unilateral independence next may. Netanyahu 
+is upset over recent remarks by Palestinian leader Yasser Arafat, 
+who has renewed a pledge to declare statehood in may. 
+</TEXT>
+</DOC>

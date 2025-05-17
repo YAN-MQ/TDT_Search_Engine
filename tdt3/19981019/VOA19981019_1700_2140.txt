@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981019.1700.2140 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street, the Dow Industrial's up 49 points at the close. I'm 
+Dave DeForest, VOA News. 
+</TEXT>
+</DOC>

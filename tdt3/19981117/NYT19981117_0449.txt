@@ -1,0 +1,126 @@
+<DOC>
+<DOCNO> NYT19981117.0449 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Microsoft Corp., whose business practices are being challenged by 
+the government in a major antitrust case, suffered a legal setback 
+on another front Tuesday when a U.S. judge in California ordered the 
+company to stop shipping its own version of Java, a programming language 
+owned by a rival, Sun Microsystems Inc. Under a licensing agreement 
+signed in March 1995, Sun gave Microsoft the right to ship Java, the 
+most popular language for programs that run on the World Wide Web, 
+with Microsoft's Windows operating system and its Web browser, Internet 
+Explorer. However, in 1997, Microsoft altered parts of the Java language 
+so that programs written in Java for other operating systems would 
+not run on Windows machines and vice versa. Microsoft said it was 
+improving Java, but many others in the industry, including Sun, said 
+it was an attempt to ``pollute'' a language that threatened Microsoft's 
+operating system monopoly. Sun sued, claiming that its licensing agreement 
+did not allow Microsoft to make changes to Java. On Tuesday, Judge 
+Ronald Whyte, who is hearing that suit, ruled that Sun was likely 
+to prove its claim in a trial next year and ordered Microsoft to begin 
+shipping Sun's version of Java within 90 days. If, after that time, 
+Microsoft continues to ship its operating system or browser with its 
+own version of Java, it will be in contempt of court. Tuesday night, 
+Microsoft said the ruling would not require recalls of either Windows 
+98 or its World Wide Web browser, Internet Explorer 4.0. Although 
+a company spokesman said the changes ordered by the judge would be 
+costly, he declined to be specific. What, if any, impact Tuesday's 
+preliminary injunction in a private lawsuit in California might have 
+on the government's antitrust case, now being heard in Washington, 
+is uncertain. But the allegations in the government's suit do include 
+the practices that are at the heart of the breach-of-contract case. 
+The Justice Department and 20 states suing Microsoft in the antitrust 
+case say this is part of a pattern of illegal practices by the software 
+giant intended to protect and extend its tight grip on the market 
+for personal computer software. If Sun's Java became an industry standard, 
+the government asserts, it could pose a serious challenge to Microsoft. 
+Java potentially allows developers to write a software program once 
+and have it run on a wide variety of computers, regardless of the 
+underlying operating system. That is a threat to Microsoft's control 
+over the direction of software development. Two factors interact to 
+insure the continuation of Microsoft's operating system monopoly. 
+First, the vast majority of programmers write their software first 
+_ and often exclusively _ for the Windows operating system because 
+has a better than 90 percent share of personal computer operating 
+systems. Second, Windows users are reluctant to change operating systems 
+because switching requires buying all new programs. However, programs 
+written in Java could, at least theoretically, run on any operating 
+system, meaning that a user could abandon Windows for Apple Computer 
+Inc.'s Mac OS or any flavor of the Unix operating system and run the 
+same Java programs that he or she had purchased to run on Windows. 
+In e-mail exchanges among Microsoft executives made public in both 
+the Sun trial and the government antitrust case, this possibility 
+was referred to as ``commoditizing the platform,'' meaning that Windows 
+would lose its proprietary grip on newly developed programs, a serious 
+threat to Microsoft's monopoly. The California ruling is badly timed 
+for Microsoft, but the spillover, if any, to the antitrust case in 
+Washington is difficult to determine. ``The Justice Department will 
+argue that a breach of contract is part of the pattern of bad acts 
+by Microsoft and of its intent to monopolize,'' said Robert Litan, 
+a former senior official in the Justice Department's antitrust division. 
+``It helps the atmospherics of the government's case, but it's not 
+clear beyond that what the effect will be.'' The ruling Tuesday is 
+a preliminary injunction, Litan noted, and the Sun-Microsoft trial 
+is not scheduled to begin until next year. Meanwhile, the antitrust 
+trial is already well under way, and Judge Thomas Penfield Jackson 
+is expected to rule early next year. ``If there was a final ruling 
+in the contract case, it would have far more direct impact on the 
+antitrust case,'' said Litan, who is now at the Brookings Institution. 
+The California ruling, industry analysts say, is not likely to have 
+a significant impact on Microsoft's business anytime soon _ though 
+it does raise questions about the company's strategy of trying to 
+influence the industry to accept Microsoft's version of Internet software 
+standards. ``Because the judge gave it 90 days to comply, there is 
+no business interruption for Microsoft,'' said Richard Sherlund, an 
+analyst for Goldman, Sachs &AMP; Co. ``Microsoft does not have to 
+pull products out of distribution.'' But, Sherlund noted, the ruling 
+does ``rein Microsoft in, and it clearly comes at an awkward time 
+for the company, given the antitrust case.'' In its lawsuit, Sun accused 
+Microsoft of trying to foil any chance for Java to become a universal 
+programming language. Microsoft said it was disappointed by the ruling. 
+Paul Maritz, a Microsoft group vice president, said: ``We don't anticipate 
+any disruption to any products, including Windows 98. Customers need 
+not fear any disruption.'' In a conference call Tuesday evening with 
+reporters and industry analysts, Maritz said the ``option of not supporting 
+Java is open to us.'' But most industry analysts doubt that Microsoft 
+would walk away altogether from Java, a popular Internet programming 
+language developed by Sun. Sun welcomed the preliminary ruling, and 
+Michael Morris, the company's general counsel, said that when the 
+case was tried, Sun planned to seek unspecified monetary damages from 
+Microsoft. The ruling came as many industry executives had gathered 
+at a major computer trade show in Las Vegas known as Comdex. The early 
+reaction to word of the ruling was generally favorable, based on the 
+assumption that the eventual effect of the decision would be to encourage 
+a single, industry-standard version of Java for which software developers 
+could write programs. ``A single Java standard is what the industry 
+needs,'' said Eric Schmidt, chief executive officer of Novell Inc., 
+a maker of software that links computers in networks. Schmidt was 
+Sun's chief technology officer at the time Sun introduced Java in 
+1995 as a language designed specifically for software that runs on 
+the Internet. In his 31-page ruling, Judge Whyte based his preliminary 
+injunction on the his judgment that Sun was likely to ``prevail on 
+the merits'' in its suit. The dispute between Microsoft and Sun focuses 
+on whether the 1996 contract allowing Microsoft to license Java technology 
+_ which was gaining a strong following in the industry _ also allowed 
+Microsoft to tailor the Java language for use with its own software. 
+Microsoft argued that its fine tuning merely improved the performance 
+of Java, but Sun countered that Microsoft's real agenda was to undermine 
+a challenge to Microsoft by co-opting it. This tactic was described 
+in the antitrust trial last week by an executive for Intel Corp., 
+who quoted a Microsoft executive as saying, ``embrace, extend and 
+extinguish.'' In his ruling, Judge Whyte wrote that Sun has ``demonstrated 
+a reasonable likelihood'' that the contract ``does not authorize Microsoft's 
+extension of the Java language and its corresponding modifications 
+to the Java language compiler.'' Sun, among other things, took issue 
+with Microsoft's licensing policies for distributing software that 
+includes Microsoft's modified version of Java. Microsoft's licensing 
+deals, according to Whyte, require its business partners to exclusively 
+distribute Microsoft's Java-based technologies. ``The court finds 
+that negotiating for or enforcing the above-mentioned licensing terms 
+constitutes an unfair business practice,'' Whyte wrote. ``Microsoft 
+does not argue that these licensing provisions bear any utility which 
+outweighs the harm asserted by Sun.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981121.0130.0376 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Vice President Al Gore announced a multimillion-dollar grant Friday 
+to help welfare recipients in 44 states find work. He says it's an 
+example of civic commitment at its best. We know what succeeds. And 
+today we're building on that success, and we're taking another big 
+step toward replacing welfare with work for millions of families. 
+</TEXT>
+</DOC>

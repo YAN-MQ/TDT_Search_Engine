@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981107.0130.1361 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In tennis -- Pete Sampras defeated Mark Philippoussis in the quarterfinal 
+round play of the Paris open. Duane Walker, "CNN Headline Sports." 
+</TEXT>
+</DOC>

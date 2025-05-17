@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981026.1830.0725 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back here on Wall Street, there were UPS and Downs today on the market. 
+The Dow Jones industrial average lost 20 points, while the NASDAQ 
+gained 31 points. The top five widely held stocks were mixed. 
+</TEXT>
+</DOC>

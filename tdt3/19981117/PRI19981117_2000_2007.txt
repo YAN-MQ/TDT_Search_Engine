@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981117.2000.2007 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The World is brought to you by Lucent Technologies, serving the Internet 
+with innovations from Bell Labs. 
+</TEXT>
+</DOC>

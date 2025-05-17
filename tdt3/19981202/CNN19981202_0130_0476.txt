@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981202.0130.0476 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+with a look at your "cnn headline news" weather, i'm karen maginnis. 
+temperatures will cool down all the way into the desert southwest 
+as a developing storm system will produce a little bit of snowfall 
+across the mountains. in tucson, temperatures barely making it to 
+60 degrees. but lots of 60s and 70s from the mid-atlantic all the 
+way into the southeast. from the middle of the work week going into 
+thursday, it will still be a bit breezy into new england. a fairly 
+vigorous weather system pushes across the pacific northwest and into 
+central california across the great basin and lots of moisture into 
+the desert southwest. not a very nice day across the hawaiian islands. 
+it's going to be fairly showery and windy. windy and stormy across 
+the caribbean, as well. our extended forecast still shows unsettled 
+weather for the northwest and into the southern great plains. but 
+mostly 70s in the southeast. by friday, snow begins to invade the 
+rockies. and then by saturday, very unsettled from the great lakes 
+into the great basin and the northwest. for more weather information, 
+log on to cnn.com. 
+</TEXT>
+</DOC>

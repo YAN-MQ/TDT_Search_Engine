@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981109.1830.0862 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And another study on the salary gap between men and women -- the highest-paid 
+female executives now earn 68 cents for every dollar earned by the 
+highest paid men. 
+</TEXT>
+</DOC>

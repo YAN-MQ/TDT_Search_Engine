@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981021.0130.0974 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors responded positively to a slew of earnings reports Tuesday. 
+It was the fifth straight session of gains. 
+</TEXT>
+</DOC>

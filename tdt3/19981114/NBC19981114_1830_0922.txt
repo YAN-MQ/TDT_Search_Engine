@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981114.1830.0922 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Near Houston today, more severe flooding in some low-lying areas after 
+several days of rain. Hundreds have been displaced. 
+</TEXT>
+</DOC>

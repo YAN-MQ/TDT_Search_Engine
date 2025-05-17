@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981125.1130.1308 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Well here's another number with a lot more meaning. 84. Today is Joe 
+DiMaggio's 84th birthday. And the hall of famer got some good news. 
+His health is improving, and he could be removed from intensive care 
+by the end of the day. For the first time, doctors confirmed that 
+DiMaggio did have a cancerous tumor removed from his right lung. 
+</TEXT>
+</DOC>

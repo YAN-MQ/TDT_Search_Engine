@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981228.1600.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The NFL regular season comes to an end tonight when the steelers take 
+on the jaguars. It's a playoff warm up for Jacksonville. Pittsburgh 
+is trying to finish the season at .500. And folks, don't forget, you 
+can sign up for NFL playoffs fantasy football at cnnsi.com. 
+</TEXT>
+</DOC>

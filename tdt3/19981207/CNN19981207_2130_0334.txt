@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981207.2130.0334 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Shuttle astronauts Jim Newman and Jerry Ross are at work outside the 
+future international space station. They're on a six-hour spacewalk 
+to hook up 40 electrical connections between the first two components 
+of the space station. Those two pieces were put together yesterday. 
+Two more space walks are planned for this shuttle "endeavour" mission. 
+</TEXT>
+</DOC>

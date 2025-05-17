@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981130.1600.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Profit-seekers take a bite out of Wall Street, in the first full day 
+of trading after the long Thanksgiving weekend. 
+</TEXT>
+</DOC>

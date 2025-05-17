@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> NYT19981115.0086 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST A band of snow will develop to the north of the 
+track of low pressure as it moves east from the central Great Lakes. 
+The steadiest snow Monday will be from northern Michigan to the Adirondacks 
+of northern New York. Patchy light snow will streak into northern 
+New England on Monday afternoon and become steadier overnight. Accumulations 
+will average a few inches across these regions; however, up to six 
+inches of snow will fall in some of the higher elevations. To the 
+south of the low, clouds and spotty rain will occur, spreading from 
+southern Michigan early Monday to southern New England by Monday night. 
+The Middle Atlantic states will be partly to mostly sunny and mild 
+as breezes from the southwest increase. Farther south, a weak disturbance 
+will promote clouds and scattered light showers from the eastern Gulf 
+Coast to the Carolina coast. Ample sunshine and comfortable warmth 
+will prevail over a large area from the southwestern states to the 
+central and southern Plains. Some patchy low clouds near the Texas 
+coast will dissipate gradually. Mostly cloudy and cold conditions 
+will occur from the northern Mississippi Valley to the eastern Dakotas. 
+Meanwhile, breezes from the west will deliver milder air and ample 
+sunshine near the east slopes of the northern Rockies. A strengthening 
+disturbance will promote mostly cloudy skies over northwestern states. 
+Patchy showers will develop across southern parts of Oregon and Idaho. 
+Steadier rain will develop in the onshore flow over the Olympic peninsula. 
+FOCUS: STUDYING METEORS Major meteor showers like the Leonids that 
+will reach a peak on Wednesday always prompt telephone calls to meteorologists 
+seeking explanations of the event. However, despite their name, meteorologists 
+have no special expertise concerning the meteors that illuminate the 
+night sky. Astronomers are the scientists who can lay claim to detailed 
+knowledge of meteor showers. Long ago, when science was in its infancy, 
+the fields of meteorology and astronomy were more closely allied. 
+Indeed, the word meteorology comes from the Greek meaning ``the study 
+of things in the sky.'' 
+</TEXT>
+</DOC>

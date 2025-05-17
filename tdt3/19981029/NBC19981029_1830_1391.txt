@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NBC19981029.1830.1391 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And in south Africa -- a judgment has finally been made about the 
+country's 34 years of apartheid rule. The truth and reconciliation 
+commission, chaired by archbishop Desmond tutu, submitted its long-awaited 
+report today to President Nelson Mandela. It concludes all sides, 
+black and white, including Mandela's own African national Congress, 
+were guilty of "Gross violations" of human rights. 
+</TEXT>
+</DOC>

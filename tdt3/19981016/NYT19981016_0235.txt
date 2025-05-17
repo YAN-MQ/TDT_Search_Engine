@@ -1,0 +1,75 @@
+<DOC>
+<DOCNO> NYT19981016.0235 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Tucked into the $1.7 trillion budget agreement is a new measure that 
+would restrict children's access to pornography on the Internet. The 
+measure was sponsored by Republicans who said they had written it 
+to overcome free-speech objections that the Supreme Court used to 
+overturn a previous measure. But even before Congress passes the new 
+budget, the same groups that defeated the last effort are vowing to 
+sue once again. The old act tried to regulate access by children to 
+``indecent'' or ``patently offensive'' pornographic material. Last 
+year, the Supreme Court ruled that an unconstitutional violation of 
+the First Amendment. The new version, called the Child Online Privacy 
+Act, changes the standard, saying that Internet merchants and others 
+will be in violation only if they give children access to material 
+that is ``harmful to minors.'' (Internet service providers are exempt 
+from liability if they do not produce the offending material). Peggy 
+Peterson, spokeswoman for Rep. Michael Oxley, R-Ohio, who is a primary 
+sponsor of the proposal, said her office had established that the 
+new language was backed by numerous court decisions providing a clear 
+and rigorous standard for violation. The new act, Oxley said in a 
+floor statement early this month, ``employs the constitutionally tested 
+harmful-to-minors standard recognized and upheld in federal courts 
+for more than 30 years.'' In a general sense, that standard refers 
+to material that is specifically created for prurient interests, that 
+graphically depicts lewd or sexual behavior, and that holds no social, 
+artistic or scientific value. But Ann Beeson, a lawyer for the American 
+Civil Liberties Union, which led the last court fight, said ``this 
+one has the same flaws as the last one,'' the Communications Decency 
+Act of 1996. ``We will definitely sue.'' Ms. Beeson said, adding that 
+the ACLUand a dozen allied groups would file their suit some time 
+next week. ``Under this law,'' she said, ``I think even The New York 
+Times would be in violation, by posting the Starr report on its Web 
+site.'' Ms. Peterson called that ``bogus,'' and added that ``the Starr 
+report does not even approach the harmful-to-minors standard.'' The 
+Clinton administration opposes inclusion of the proposal in the budget 
+act, but allowed it to slip past on the assumption that the courts 
+would overturn it, an administration official said. The Justice Department 
+sent a letter to Congress this week, saying the department believed 
+that the new proposal would run afoul of the same First Amendment 
+concerns that ensnared the the Communications Decency Act. Ms. Beeson 
+said the ACLU suit would be joined by ``a diverse range of online 
+speakers representing news organizations, gay and lesbian groups, 
+artists, booksellers and online video dealers,'' among others, including 
+any Web sites that distributed the Starr report. Just like the Communications 
+Decency Act, she added, ``this bill will once again criminalize socially 
+valuable adult speech and reduce the Internet to what is considered 
+suitable for a 6-year-old.'' Electronic Frontier Foundation president 
+Barry Steinhardt plans to join the suit and said: ``It is the height 
+of irony that the same Congress that plastered the salacious Starr 
+report all over the Internet now passes a plainly unconstitutional 
+law to suppress a vaguely defined category of `harmful' material. 
+You would think Congress would have learned that `harmfulness' is 
+in the eye of the beholder.'' New York Times spokeswoman Nancy Nielsen 
+said The Times and other major news organizations had been asked to 
+join in the last suit and declined. ``We haven't followed the new 
+one closely,'' she added, ``but we're looking at it.'' Ms. Peterson 
+said the bill would require Internet pornographers to positively verify 
+that a visitor to a site was an adult. One means of verification would 
+be to require a credit card for a site that charges for access. ``That's 
+already being done,'' she said. Another means might be the use of 
+digital signatures. In the meantime, Oxley noted, ``much of the Internet 
+is awash in smut.'' ``There are literally thousands of Web sites dedicated 
+to every manner of perversion and brutality,'' he said. ``A child 
+may innocently search for key words like `doll house,' `toys' or `pets' 
+and be led to numerous explicit sites.'' In fact, using the phrase 
+``doll house'' in an Internet search engine brings up 19 entries on 
+the first screen, including sites on doll house collections, doll 
+house furniture _ as well as doll house escort services and the ``doll 
+house strip joint.'' Clicking on any of the latter sites brings up 
+pornographic images that are used to entice visitors to join. 
+</TEXT>
+</DOC>

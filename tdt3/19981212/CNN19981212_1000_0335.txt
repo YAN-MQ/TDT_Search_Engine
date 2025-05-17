@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981212.1000.0335 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new CNN/"USA today" Gallup poll, taken after the committee approved 
+the first article, suggests that American support for impeachment 
+has changed little. Roughly a third of those surveyed think the Judiciary 
+committee should vote to impeach President Clinton. An equal number 
+also think Mr. Clinton should resign and turn the presidency over 
+to vice President Gore. 63% say he should not resign. 58% of those 
+polled think Congress should vote to censure Mr. Clinton. 38% disagree. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981013.1830.0311 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Other news today, a former army intelligence analysts was charged 
+with selling secrets to the former Soviet Union. The FBI says he sold 
+documents outlining what the U.S. knew about Soviet nuclear weapons 
+and where they were stationed. 
+</TEXT>
+</DOC>

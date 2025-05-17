@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> CNN19981019.2130.0640 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Most personal computers sold these days come with Microsoft operating 
+systems. Ann Kellan reports in this "tech trends," it's hard to find 
+a computer with anything other than Windows 95 or 98. Welcome to gateway 
+country. How can we help you? Let's walk over this way. Buy a computer 
+from one of the top three personal computer manufacturers and you're 
+going to pay for a Microsoft operating system whether you want it 
+or not. The options we can do here is Windows 95 and Windows 98. Computermaker 
+gateway demonstrated how its customers can pick and choose what they 
+want in a computer. But the operating system has to be Microsoft. 
+Dell, another computer manufacturer, told CNN -- and when we called 
+Micron asking for a computer without an operating system so we could 
+load our own -- So can I just get an empty box? No, we have to sell 
+it to you with an operating system. And if I don't want to use Microsoft 
+-- then I'm paying for an operating system that I'm ultimately not 
+going to use. Correct. According to Microsoft, it's up to each computermaker 
+to decide the system it supports. Those mainline manufacturers can 
+sell personal computers with any operating system they want. They 
+can, but they don't. They say it's not cost effective to offer and 
+support other operating systems like OS-2 or a relative up-and-comer 
+called linux, since so few people use them. Most of our customers 
+are wanting Windows 98. So we don't deal with it on a regular basis. 
+And though the major manufacturers only offer Microsoft, we did find 
+smaller, Lesser-known computer companies offering a choice and making 
+a profit. Ann Kellan, CNN, New York. 
+</TEXT>
+</DOC>

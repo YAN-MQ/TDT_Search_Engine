@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981104.1130.0204 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Slim margin got slimmer in the house. Republicans won 223 seats, 
+that's down five. From their current 228. Democrats did better than 
+expected. They picked up five seats. They won 210 and are leading 
+in one more race in Oregon. The house's lone independent congressman, 
+Bernard Sanders of Vermont, was re-elected. 
+</TEXT>
+</DOC>

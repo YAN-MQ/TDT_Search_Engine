@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981123.1130.1006 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It will be a short week for the treasury market. It will be closed 
+Thursday for Thanksgiving and will have abbreviated sessions on Wednesday 
+and Friday. 
+</TEXT>
+</DOC>

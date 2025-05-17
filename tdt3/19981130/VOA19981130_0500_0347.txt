@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981130.0500.0347 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Bill Hazard, VOA News. And I'm Paul Westpheling, along with Charlene 
+Porter. This is VOA News Now. We're broadcasting live from Washington. 
+</TEXT>
+</DOC>

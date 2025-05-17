@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981228.2130.0186 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the social security administration says it has resolved year-2000 
+computer problems and millions of americans can stop worrying about 
+their benefit checks. president clinton and treasury secretary robert 
+rubin were on hand for the announcement today. social security commissioner 
+kenneth apfel says independent and internal agency tests show the 
+system is ready to go for next year. they don't have to worry about 
+their social security checks being there. they will be. this is a 
+big issue that goes throughout the country. everything beyond social 
+security checks. and clearly the country needs to be better prepared 
+for this. but in terms of the social security check, it will be there. 
+president clinton says social security is 100% complete with safeguards 
+and standards for the year 2000. 
+</TEXT>
+</DOC>

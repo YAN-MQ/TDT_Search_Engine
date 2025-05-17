@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981123.2130.0586 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New research suggests water shortages will pose the single greatest 
+threat to food production and human health in the next 25 years. To 
+combat this, a project, financed by the United States and Japan, has 
+compiled a massive electronic water and climate atlas to improve the 
+world's water management. The atlas provides maps of every country 
+on earth and allows the user to call up a variety of information. 
+The atlas is accessible on a set of compact discs and is scheduled 
+to be available on the Internet next month. 
+</TEXT>
+</DOC>

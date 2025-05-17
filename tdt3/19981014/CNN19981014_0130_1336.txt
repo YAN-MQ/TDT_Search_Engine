@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981014.0130.1336 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tuesday night ice -- in a rematch of last year's Stanley cup finals, 
+the red wings skated past the capitals 3-2. Detroit has defeated Washington 
+11 straight times. 
+</TEXT>
+</DOC>

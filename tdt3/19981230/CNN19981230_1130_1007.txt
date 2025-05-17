@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981230.1130.1007 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street nears the end of another robust year on an upswing. I'm 
+Deborah Marchini. The Dow Jones industrial starts the day just 55 
+points shy of their all-time high. The Dow has posted gains for eight 
+straight sessions so far this year, the blue decks index is up more 
+than 17%, nothing compared to the S&P 500. That index may be more 
+important to the Dow to the growing number of investors who put their 
+money into mutual funds. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981213.1300.1280 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Major league baseball's career steals leader is now in the big apple. 
+Today, 39-year-old rickey Henderson agreed to a one-year deal with 
+the mets, plus an option year. He'll make $1.8 million, and if he 
+gets 500 plate appearances, he is guaranteed $2 million for his year 
+2000 contract. 
+</TEXT>
+</DOC>

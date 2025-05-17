@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981204.1130.0091 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have much more on the unemployment figures and other business 
+news in our "Dollars & Sense" report in 15 minutes. 
+</TEXT>
+</DOC>

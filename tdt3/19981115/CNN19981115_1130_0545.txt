@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> CNN19981115.1130.0545 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Internet job opportunities are hard to find for many young people 
+living in the inner city and that's changing in governmenten thanks 
+to some young entra pren sures. An Kellan reports. This used to be 
+all vacant lots and trash and weeds and rats. Tony alves and kelby 
+mendes say living in the inner city of boston wasn't always easy. 
+I grew up in Roxbury, Massachusetts. It's a pretty rough neighborhood 
+to grow up in. I find that there aren't as many opportunities in the 
+neighborhood as if you were to go to another neighborhood. Kelby started 
+college but couldn't afford to continue. Tony was working odd jobs 
+and was thinking about becoming a cop. Then Nick gleason, a community 
+organizer and entrepreneur, sparked their interest in computers. I 
+knew a lot of people in inner-city areas who were good friends of 
+mine who could clearly be doing this work but didn't have the networks, 
+didn't have the connections. Nick gleason, along with business partner 
+Jim picariello, started a company called "citysoft" to give people 
+that connection. First, they found places like this, right in the 
+inner city, where kelby, tony and others could learn computer programming. 
+Specifically, how to design web pages. With about five months training 
+under their belts, kelby and Tony were assigned by citysoft to work 
+at "the Boston globe" newspaper's web site. I cut wire photos off 
+the Internet, and we publish them onto their web site. It was weird, 
+I just enjoyed it right away. It automatically blows up the picture 
+for you, and it allows you to rotate it. And they love that they are 
+now role models for others in training and in the neighborhood where 
+they grew up, where they have decided to stay. It's kind of like radical 
+to be from an urban neighborhood and to be really fluent in computers 
+and technology and stuff, so people kind of -- they kind of look up 
+to me in a way. A lot of individuals see what I'm doing right now, 
+and they hear about citysoft through the media and they know what 
+I do and then they look at me and then they say, "I want to do that, 
+too." Ann Kellan, CNN, Boston, Massachusetts. 
+</TEXT>
+</DOC>

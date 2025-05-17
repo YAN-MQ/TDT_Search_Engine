@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981223.1600.0966 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Those stories and more in 15 minutes. We'll have business news next 
+in "Dollars & Sense." 
+</TEXT>
+</DOC>

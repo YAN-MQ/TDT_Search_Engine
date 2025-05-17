@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981211.1600.3009 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And oil prices continue to fall on Friday's trading due to an oversupply. 
+The Brent North Sea crude for January delivery was at $9.70 a barrel. 
+Thursday's closing price of $9.64 was the lowest since 1988. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981202.1130.1039 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In economic news, the U.S. housing market remains strong and continues 
+on track for its third consecutive year of record sales. Sales of 
+new homes rose 0.8% in October. Helping spark demand for new homes, 
+mortgage rates. For the third straight month, Pepsi reportedly has 
+topped Coca-Cola in U.S. soft drink sales at retail stores according 
+to "take home retail data, volume for Pepsi increased by 13%. Coke 
+brands were up about 3%. Pepsi benefited from the launch of its new 
+Pepsi one diet Cola. But Coke disputes those figures. 
+</TEXT>
+</DOC>

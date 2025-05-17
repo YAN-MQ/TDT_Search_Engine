@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981120.0130.0473 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And later -- scientists and 
+security experts to discuss the perils of chemical and biological 
+terrorism. 
+</TEXT>
+</DOC>

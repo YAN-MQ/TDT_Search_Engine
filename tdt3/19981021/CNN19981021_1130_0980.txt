@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981021.1130.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A choppy start on Wall Street. Let's get the details from Kitty pilgrim 
+at the cnnfn newsroom in New York. Kitty? Hi, Catherine, thanks. Stocks 
+are losing ground after moving in and out of positive territory for 
+much of the morning. That, despite a positive batch of earnings reports 
+from Dow components citigroup, Exxon, and united technologies. Right 
+now, the Dow Jones industrial average is -- down about 48 points. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981214.2130.0580 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The holidays took on a particularly cramped feeling in post offices 
+across the country today. The postal service says the second Monday 
+before Christmas marks the start of the holiday mailing crunch. More 
+than 4.5 billion packages, letters and cards will be sent through 
+the U.S. mail during the holiday season -- enough to reach the Moon 
+and back. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981016.1830.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+No change in inflation -- the consumer price index held steady last 
+month. As a result, the cost of living increases for people on social 
+security will be up an average of just $10, the lowest in more than 
+a decade. 
+</TEXT>
+</DOC>

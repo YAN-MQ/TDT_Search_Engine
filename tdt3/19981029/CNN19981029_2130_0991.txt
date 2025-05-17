@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981029.2130.0991 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A census bureau report finds Americans pull up stakes about once every 
+five years. Those who own their homes stay put for an average of eight 
+years. Renters relocate about every two years. Still, not everybody 
+is moving. More than 15% of those asked have lived in the same house 
+for more than 20 years. 
+</TEXT>
+</DOC>

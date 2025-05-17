@@ -1,0 +1,167 @@
+<DOC>
+<DOCNO> NYT19981216.0244 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+It had been a routine Sunday at the Palace Station Hotel and Casino, 
+a rambling Las Vegas institution more popular among the locals than 
+among the millions of tourists who flock to the city's more extravagant 
+hotel-and-casino resorts. But when a 67-year-old woman, a regular 
+at the Palace, plunked the last three silver dollars of about 300 
+she played that evening into a rather ordinary-looking slot machine, 
+what followed was anything but routine. The woman struck the largest 
+slot machine jackpot ever: $27,582,539.48. Whether or not she knew 
+it, the gambler, who asked that her name not be used, also came face 
+to face on that November evening with the highly sophisticated computer 
+technology that drives the deceptively traditional-looking Megabucks 
+slot machine she played. Slot machines built around chips and then 
+networked make such hefty payoffs possible. And casino makers say 
+that computers have quietly revolutionized the multibillion-dollar 
+slot machine industry in much the same ways that computers in the 
+last 20 years have revolutionized, for better or worse, how millions 
+of Americans communicate, shop, learn, work and play. ``As computer 
+technology has been enhanced, so have the games,'' said Ed Rogich, 
+an executive director of International Game Technology, a major gambling 
+machine maker based in Nevada. The slot machine, casino gambling's 
+single most visible and profitable (and loud) workhorse, has, at the 
+dawn of the 21st century, gone digital. Born as a 19th-century penny 
+amusement, the typical slot machine today in Las Vegas, Atlantic City, 
+the Mississippi Gulf Coast or anywhere in the world where they are 
+found is very likely to be a computer. While many of them still stand 
+upright in brightly colored cabinets and retain the familiar spinning 
+reels bearing symbols like cherries, bars and bells, the display is 
+illusion. Once, spring-driven reels randomly stopped by slotted mechanisms 
+decided whether everything or anything came up roses or cherries _ 
+now a chip decides. The one-armed bandit is not just suddenly ambidextrous; 
+it is a multitasking, multiple-games-in-one gambling machine. The 
+new technologies have changed the way people win and lose on slot 
+machines and have led to the networking that produces huge jackpots, 
+like the one won at the Palace Station. The most profound change may 
+be the eerie commingling of video games, entertainment and gambling 
+to keep people at the machines. There is plenty of incentive for importing 
+computer innovation to the casino floor, said Jason N. Ader, senior 
+managing director at Bear, Stearns &AMP; Co. in New York for equity 
+research in its gaming, lodging and leisure division. In a report 
+he wrote this year on casino gambling, Ader noted that slot machines 
+in Nevada and Atlantic City alone accounted for 65 percent of the 
+casinos' gambling revenues and took up 80 percent of the space dedicated 
+to gambling last year, a major swing away from the days when the big 
+money makers were tables with such low-tech games as roulette and 
+poker. All the advances are part of the march of gambling machine 
+technology from mechanical to electromechanical, then to computer 
+circuit boards and high-speed microprocessors (some even bearing Pentium-class 
+chips). At each step, the goal has been the same: setting up a machine 
+that pays out enough to keep people using it but keeps enough to make 
+money _ lots of money. In Nevada, where state gambling laws require 
+slot machines to pay out a minimum of 75 percent of the money that 
+they take in, competitive pressures have pushed casinos to set their 
+slot machines to pay out an average of 95 percent, said Keith Copher, 
+chief of enforcement for the Nevada Gaming Control Board, which approves 
+and inspects the state's more than 204,000 slot machines. But don't 
+weep for the casino owners, Copher said, noting that 5 percent of 
+the state's slot machines' take in the last fiscal year amounted to 
+more than $5 billion. Before the computer era, slot machines featured 
+spinning reels, usually three, seen through a window. A player would 
+insert a coin, pull the machine's handle to start the reels spinning 
+and hope that when they stopped, the symbols painted on the reels 
+would line up in a winning combination. If they did, the player received 
+some or all of the coins that had been placed into the machine. The 
+odds of winning were determined by the number of reels in the machine 
+and the number of symbols on each reel, explained Verne F. Holmes 
+Jr., an inventor of electronic slot machine devices and vice president 
+of new product development at Station Casinos, which owns the Palace 
+Station. Now all that is done with a computer chip, usually an Eprom 
+(Erasable Programmable Read-Only Memory) chip, that is programmed 
+to generate random numbers and then to translate those numbers into 
+the results the slot machine actually shows plyers: two single bars 
+and a bell, for example. Slot machine makers say the game's outcomes 
+cannot be predetermined by a master computer tucked away somewhere, 
+and gambling regulatory groups like Copher's are charged with making 
+certain that such a thing never becomes possible. To help make sure 
+that the chips, and, of course, the programming they contain, are 
+not rewritten or manipulated, some of them are covered with an epoxy 
+film and tamper-resistant tape (a duplicate chip with duplicate programming 
+is kept by independent inspectors for periodic bit-by-bit comparisons). 
+``It's all random,'' said Copher, of the Nevada Control Board. ``We 
+check all of the slot machines.'' The networked jackpots, one of the 
+most significant changes in slot machines, are based on machines built 
+around computer chips. The Megabucks slot machines, for example, are 
+wired on closed networks like private Internets (riverboat-based versions 
+of the game can use wireless network connections) so they can communicate 
+with other slot machines offering the same game. In Nevada, for instance, 
+Megabucks is played statewide on a network of about 700 linked slot 
+machines in 133 locations. Every time a player in Nevada drops a dollar 
+into a Megabucks slot machine, about six cents of that dollar is added 
+to a special running jackpot figure posted simultaneously at the casinos 
+where slot machine players can see it. Much smaller jackpots are usually 
+independent of the network and are paid directly out of the machine 
+a gambler plays, Rogich said. When the computer chip inside a machine 
+comes up with a big jackpot winner, the machine the player won on 
+automatically locks, waiting for technicians to arrive to check its 
+integrity. But gamblers on the other machines in the network continue 
+to gamble for a new jackpot, which starts at $5 million, said Rogich, 
+of International Game Technology. His company started the networked 
+game 11 years ago. Even slot machines that do not have networked jackpots 
+are linked to networks that keep track of operations at particular 
+casinos, said Ken Geiger, assistant vice president for slot-machine 
+operations at the Las Vegas Hilton. Geiger manages his thousands of 
+clanging and flashing slot machines at the Hilton with a computer 
+network that gives him up-to-the-minute information on the status 
+of each machine, like how many coins have gone into a machine, how 
+many have been paid out and when the machine was last opened for maintenance 
+and refilling. This is increasingly useful in an age when casino managers 
+worry that each new computer advance will be challenged by hackers 
+hoping to turn it to their own ends. ``Every one of those slot machines 
+reports to a mainframe upstairs,'' Geiger said. ``If somebody right 
+now opens up a slot machine door and leaves it open, it will page 
+the person who left it open and a manager and say someone left the 
+door open. The technology has gone through the roof.'' Computer technology 
+can also be used to keep track of gamblers. Many of even the most 
+common slot machines are equipped with card readers to handle the 
+cards, resembling credit cards, that are given free to players. Through 
+the cards, players are rewarded with points toward various prizes, 
+based on how much they gamble. The system is similar to an airline 
+frequent-flier program. Players furnish personal information in signing 
+up for tracking cards, so the system gives casinos a wealth of information 
+on gamblers' habits and background, and that information is stored 
+in a casino database. When a player inserts a card, for instance, 
+the casino can learn by way of the slot machine network that it is 
+the player's birthday and dispatch a message to a casino waitress 
+to give the player a drink on the house. Computers have also turned 
+the slot machine into an entertainment center designed to help keep 
+the player at the machine. The machines often include video games 
+and other flashy displays with CD-quality sound and high-end graphics 
+and offer such amenities as optical coin and bill readers. An International 
+Game Technology catalog says one of its new machines comes ``cable 
+ready'' so casino operators can let players watch their favorite sporting 
+events or soap operas on the slot machines while they are hoping to 
+hit the big one. The slot machines ``seem more like video games to 
+me,'' Lenny Bakken, 31, an occasional player from Rochester, Minn., 
+said after dropping a few quarters in a flashing, clanging electronic 
+contraption that merged elements of old slot machines with a spinning 
+Jeopardy wheel. ``It sure keeps your attention more,'' he added. And 
+that may be cause for increased caution on the part of gamblers. Niraj 
+Verma, an associate professor of planning and management at the University 
+of Southern California in Los Angeles who often writes about technology's 
+influence on society, worries about applying so-called user-friendly 
+technologies like those in computers and video games to devices like 
+slot machines, which, judged by their rate of return, are inherently 
+unfriendly. ``It lures us into a kind of sense of security,'' Verma 
+said, ``a familiar territory of bells and whistles and gizmos and 
+fun. Our guard is down, and all of this contributes to taking away 
+from us our control of ourselves. That is, in my view, the bottom 
+line.'' But casino executives like Geiger at the Las Vegas Hilton 
+are delighted rather than worried. They are banking on the appeal 
+of video-game-like slot machines as they cram their gaming floors 
+with high-tech slot machines with names like Wild Cherry Pie, Wheel 
+of Fortune and Reel 'Em In, which increasingly have more in common 
+with Nintendo than with the old-fashioned casino. ``The standard of 
+standing in front of a slot machine with a three-reel spinner and 
+putting in your $20 and losing your $20 and saying, `Wow, that went 
+quick,' is phasing out,''' said Geiger, who started in the casino 
+business 20 years ago in Atlantic City. ``Now it's, What can I put 
+in front of the customer where he can sit down and I can entertain 
+him? If we can mold the next generation into enjoying themselves while 
+they're gambling, it's a home run.'' 
+</TEXT>
+</DOC>

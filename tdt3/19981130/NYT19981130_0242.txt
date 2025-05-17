@@ -1,0 +1,87 @@
+<DOC>
+<DOCNO> NYT19981130.0242 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+After more than a month of lurching through space in fits and starts, 
+an experimental spacecraft crammed with new technologies has begun 
+to cruise away from Earth, driven by a recently revived ion propulsion 
+engine taken from science fiction. The National Aeronautics and Space 
+Administration's Deep Space 1 spacecraft, now more than 3.5 million 
+miles from Earth and moving away at more than a mile a second, has 
+weathered a sometimes bumpy inaugural period punctuated by several 
+small problems. But engineers say these headaches are not unexpected 
+and that the 1,000-pound robot craft is settling in for a productive 
+mission of trying new devices and techniques. Since Deep Space 1 was 
+launched on Oct. 24, it has twice suspended normal operation and gone 
+into emergency mode, software problems have occurred that caused subsystems 
+to turn on, and the ion engine charged with propelling the craft turned 
+off after four and a half minutes of a planned 16-hour test when first 
+started on Nov. 10. ``The whole purpose of Deep Space 1 is to test 
+advanced, new technologies that are in some ways risky,'' Dr. Marc 
+D. Rayman, chief mission engineer, said in a telephone interview from 
+NASA's Jet Propulsion Laboratory in Pasadena, Calif. ``If everything 
+worked perfectly on the first try, it could mean that we were not 
+sufficiently aggressive in selecting the technologies.'' The mission's 
+main objective is to do some trouble-shooting technology, not science. 
+NASA wants to validate unusual technologies that could make science 
+craft more efficient and cheaper, and has filled Deep Space 1 with 
+miniature instruments and other devices for trial. Aside from its 
+unusual propulsion system, the probe carries an autonomous navigation 
+system that keeps track of its location, a miniature integrated camera 
+and spectrometer, a group of physics instruments for studying charged 
+particles in space, new low-power electronics, and artificial intelligence 
+systems that let the spacecraft revise its mission as situations change. 
+A centerpiece of the mission is the spacecraft's solar-electric propulsion 
+system, a form of ion drive that has been a mainstay of science fiction. 
+Ion propulsion has been tested in space, and small ion engines are 
+used to stabilize some satellites in high Earth orbits, but Deep Space 
+1 is the first craft to employ this kind of engine as its primary 
+drive. Instead of burning fuel as conventional rockets do, the ion 
+engine's xenon gas fuel is charged electrically to create high-speed 
+particles that leave the engine so fast that they produce thrust, 
+albeit in minute amounts. The energized particles, called ions, are 
+accelerated out of the engine through the pull of two oppositely charged 
+metal grids. Deep Space 1's engine should normally produce about one-250th 
+of a pound of thrust, comparable to the force exerted by one sheet 
+of typing paper resting on the palm of a hand. This small, steady 
+thrust should increase the craft's speed enough to boost its velocity 
+by 8,000 miles an hour by the end of its mission. After the engine 
+faltered, controllers sent the craft new computer instructions to 
+help diagnose the problem, believed to have been debris in the engine 
+that was causing a short circuit. When engineers turned the engine 
+on last Wednesday to test the software and collect more data, to their 
+surprise it started right away and ran flawlessly. ``While we were 
+prepared for the engine to work, we didn't consider it a high probability 
+that it would start and run so well the first time we tried it,'' 
+Rayman said. Deep Space 1 will need the ion engine to complete its 
+primary mission in July, when the craft is to make a close flyby of 
+a small asteroid called 1992 KD. If NASA chooses to extend the mission, 
+the ion drive will propel the spacecraft by two comets in 2001, Wilson-Harrington 
+in January and Borrelly in September. Engineers said several of the 
+other new technologies on Deep Space 1 are working well and some, 
+like the physics experiments, have yet to be turned on. Deep Space 
+1 has a new kind of solar power array that uses 720 cylindrical lenses 
+to concentrate sunlight onto 3,600 electricity-producing cells. The 
+arrays, arranged in a pair of panels spanning more than 38 feet across, 
+produce up to 20 percent more power than conventional cells. Rayman 
+said the panels deployed perfectly and are doing a better job of maintaining 
+their orientation toward the sun than earlier types of solar arrays. 
+The spacecraft's autonomous navigation system, which allows Deep Space 
+1 to chart its course, also has worked as expected, he said. The system 
+periodically takes pictures of stars with asteroids in the background 
+and uses the information to compute the craft's location and adjust 
+its course without help from ground controllers, as required by previous 
+unmanned probes. Human controllers are fine-tuning the craft's operations 
+and rewriting computerized instructions to bypass some problems. A 
+sensor that keeps track of star locations so the spacecraft can orient 
+itself has failed occasionally, once causing the craft to suspend 
+operations and go into a safe mode. Engineers are still diagnosing 
+the problem, Rayman said. Engineers determined that a software problem 
+caused trouble with another instrument, a sun sensor, that triggered 
+a second safe mode condition and they developed a way to fix it, he 
+said. ``We see these problems as an opportunity to learn,'' Rayman 
+said. ``Everything you learn here applies to the next time this technology 
+is used, and that's what this mission is all about.'' 
+</TEXT>
+</DOC>

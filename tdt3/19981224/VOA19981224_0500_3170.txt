@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981224.0500.3170 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now. I am Russ Carpenter along with Charlene Porter. 
+It is now 10 hours 53 Universal Time. 
+</TEXT>
+</DOC>

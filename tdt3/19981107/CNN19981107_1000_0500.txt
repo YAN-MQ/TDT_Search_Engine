@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981107.1000.0500 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast," Saturday into Sunday. A wintry storm is moving across the 
+rocky mountains and will move through the plains states, bringing 
+some of the first snow of the season into parts of Iowa and on into 
+the Great Lakes region. The east coast stays quiet and dry, but there 
+is another front that'll move across the west with more wet and windy 
+weather, and, of course, mountain snow. High temperatures today, 20s 
+and 30s across the north central U.S. 30s over northern New England, 
+but most of the rest of the east, except Florida, will see 40s and 
+50s. It'll be pretty cool out across the west. Looking ahead to Monday 
+-- it looks like a wet or snowy day across much of the nation. On 
+Tuesday, wet weather, especially for the Great Lakes, although it 
+does warm up a bit. We'll see rain in the northwest with mountain 
+snow. And on Wednesday, 30s in the north, 60s and 70s in the south, 
+and a wet day in the east and northwest. Don't forget, you can find 
+four-day forecasts for more than 7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

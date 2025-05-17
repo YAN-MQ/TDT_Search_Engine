@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981114.1130.0475 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. In a moment, an expected meteor 
+shower may have implications for U.S. forces deploying to the Persian 
+gulf. 
+</TEXT>
+</DOC>

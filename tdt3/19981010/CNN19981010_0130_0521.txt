@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981010.0130.0521 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "Headline News weather" I'm Karen McGinnis. Expect 
+temperatures to soar in the 80s across much of the lone star state 
+of Texas and portions of Oklahoma. Otherwise, 70s dominate much of 
+the carolinas into the central plains. The desert southwest will expect 
+readings mostly in the 80s and 90s, but 40s across a big portion of 
+Montana for some fairly chilly readings. On the heels of our frontal 
+system sliding in that vicinity it looks like the northern Rockies 
+could pick up a bit of snowfall, with snow levels down around at 5,000 
+or 6,000 feet. But from the midwestern United States into the southeast, 
+it looks terrific. New England will be a bit unsettled. Breezy conditions 
+again expected across the Hawaiian islands, and a mixture of precipitation 
+in Barrow, Alaska. For your extended forecast, look for weather conditions 
+to deteriorate across the midwestern United States and into the central 
+plains. And temperatures drop as well. Readings mostly in the 40s 
+and 50s. And going into Tuesday, it spreads a little bit farther towards 
+the east and to Great Lakes and the Ohio valley. For more weather 
+information, log onto CNN.com. 
+</TEXT>
+</DOC>

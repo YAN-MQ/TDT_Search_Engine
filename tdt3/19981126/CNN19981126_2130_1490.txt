@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981126.2130.1490 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+U.S. automakers have revolutionized the way they sketch new models. 
+Ed Garsten reports on the new tools of the trade. It used to take 
+hundreds of drawings, dozens of expensive mockups and prototypes, 
+and up to four years to develop a new car or truck. But now the automakers 
+are using sophisticated computer-aided design systems to eliminate 
+most of that and cut the time to market from years to months. Systems 
+that used to take us to 12 months to design, we're doing in three 
+to six months. General Motors uses what it calls its "math-based" 
+system. Here's an example of how it's used to create a new vehicle. 
+In this case, a Pontiac grand prix. First, it's sketched on an electronic 
+pad. You can see everything goes together pretty quick. Some of our 
+brushes, we can bring in wheels. From this point, I can begin to generate 
+a 3-D shell over the vehicle. This happens to be the current grand 
+prix, fully modeled in math. And then the model is viewed in virtual 
+reality. From there, the engineering side takes over without ever 
+seeing a clay model or prototype until much later in the process. 
+Do you have the performance in terms of the ride and handling that 
+you want to have. Does the car heat up and cool the way you want it? 
+All those things can now be simulated. The manufacturing team then 
+creates a virtual assembly line to decide the best way to actually 
+build the car and find bugs ahead of time, so that when it's finally 
+built for real, there are no surprises. The car companies are saving 
+a lot more than just time by using computer-aided design. GM, for 
+one, figures it can save upwards of $200 million of the developing 
+of just one vehicle program. By cutting both time and cost, the automakers 
+believe they can bring the customer the cars and trucks they want 
+cheaper and faster. And that's a reality that's not virtual. Ed Garsten, 
+CNN, Warren, Michigan. 
+</TEXT>
+</DOC>

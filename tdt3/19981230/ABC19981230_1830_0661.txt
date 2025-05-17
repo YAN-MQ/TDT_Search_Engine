@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981230.1830.0661 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The latest major weather problem is in the midwest tonight where a 
+winter storm is making road conditions there Hazardous. On "World 
+News Tonight" this Wednesday -- Up on lake superior, nearly 7 feet 
+of snow has fallen in the last ten days. The flooding is begin to 
+recede. Many homes and fields will remain under water for the next 
+day or two. 
+</TEXT>
+</DOC>

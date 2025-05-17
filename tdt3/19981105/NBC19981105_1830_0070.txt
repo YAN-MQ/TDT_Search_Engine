@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> NBC19981105.1830.0070 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Good evening. We've seen some wild and dangerous weather in recent 
+years, but a storm named "Mitch" is in a killer category all its own 
+tonight. It's been rampaging across the Caribbean and gulf of Mexico 
+for almost two weeks now, it leaves death everywhere. Today, Mitch 
+plowed across south Florida with surprising strength -- eight inches 
+of rain 70-mile-an-hour winds battered the keys, which still haven't 
+recovered from hurricane georges six weeks ago. Mitch spawned several 
+tornadoes, wrecking houses and boats. The gulf and atlantic coasts 
+both took a heavy pounding from high surf before Mitch finally blew 
+out to sea. 
+</TEXT>
+</DOC>

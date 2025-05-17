@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> PRI19981204.2000.0226 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow Industrial has gained 136 points today to close at 9,016. 
+</TEXT>
+</DOC>

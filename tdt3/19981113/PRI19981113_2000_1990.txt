@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981113.2000.1990 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The World is brought to you by the Capital Group companies, investing 
+throughout the world for individuals and institutions. This is The 
+World, a co-production of the BBC World Service, PRI and WGBH in Boston. 
+I'm Tony Kahn. 
+</TEXT>
+</DOC>

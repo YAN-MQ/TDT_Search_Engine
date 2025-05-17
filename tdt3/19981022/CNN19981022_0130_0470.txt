@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981022.0130.0470 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Microsoft is challenging the government claims that it tried to illegally 
+divide the Internet browser market. In the third day of the anti-trust 
+lawsuit against Microsoft, defense lawyers presented an E-mail sent 
+in 1994 by Netscape's then chairman to microsoft suggesting the two 
+companies work together, and offered Microsoft to invest financially 
+in Netscape. Microsoft contends any proposal to divide the Internet 
+market was merely a Response to Netscape's invitation. 
+</TEXT>
+</DOC>

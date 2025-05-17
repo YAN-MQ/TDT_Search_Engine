@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981205.0130.0426 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Winter is not far away, but you wouldn't know it in much of the United 
+States. New York City hit 73 degrees Friday, an all-time high for 
+a December day there. Washington, D.C., also set a record, hitting 
+76 degrees. Much of the northeast and midwest was basking in the warmth. 
+Boston was 25 degrees above normal, reaching the upper 60s. 
+</TEXT>
+</DOC>

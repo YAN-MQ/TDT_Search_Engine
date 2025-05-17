@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981010.1300.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An unusual weekend session on Capitol Hill. House members are working 
+to pass seven spending bills and send them onto the Senate. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981014.2130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking top stories -- sources tell CNN, the White House and Congress 
+have reached an agreement on a $500 billion budget for fiscal year 
+1999. Passage of the budget proposal will allow Congress to adjourn 
+for the fall election. 
+</TEXT>
+</DOC>

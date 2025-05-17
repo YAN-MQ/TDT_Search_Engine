@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981123.1830.0305 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Still "on the money" tonight the tight job markets, -- add workers 
+in the first three months of 1999, only one in ten companies plans 
+to cut. The average salary increase will be about 4% next year, which 
+is above the inflation rate. 
+</TEXT>
+</DOC>

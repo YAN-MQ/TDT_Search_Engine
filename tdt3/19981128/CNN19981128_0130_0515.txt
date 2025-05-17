@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981128.0130.0515 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Our extended weather forecast for you next. And later -- why the year 
+2000 computer bug is causing problems, now, for the Pentagon. 
+</TEXT>
+</DOC>

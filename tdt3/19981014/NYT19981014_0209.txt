@@ -1,0 +1,50 @@
+<DOC>
+<DOCNO> NYT19981014.0209 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+``Do your homework first!'' Prof. Ellen Freedman of Camden County 
+College in New Jersey implores students from a rolling banner across 
+her virtual classroom, which was designed to provide ``information 
+about basic math and algebra.'' But following the professor's admonition 
+might require great will power: while often informative, her site 
+(www.mathpower.com) also serves up hours of indulgent distractions, 
+with a menu of electronic games, not all related to math. Under the 
+heading of ``fun stuff,'' which is accessible with a browser that 
+supports Java, there's a three-dimensional Rubik's cube, a chance 
+to challenge the computer at checkers and even a version of the kids' 
+game hangman. And showing that she really has a sense of humor, Professor 
+Freedman provides her students the chance to take out their anxiety 
+on her. In a ``morph the professor,'' area, anyone can enjoy stretching 
+a photograph of her face, grafted onto a cartoon body, into various 
+superhuman shapes. Thankfully, Professor Freedman's serious side has 
+compiled an exhaustive list of more than three dozen links to math-related 
+sites that offer invaluable help to students of all ages and abilities. 
+Those sites, including at least three electronic tutoring services 
+that promise free help, are reached by clicking first on ``classroom 
+and math info,'' and then scrolling down to ``Freedman's suggested 
+math-related links.'' One site, Algebra Online (www.algebra-online.com) 
+offers an e-mail form on which students can seek help with a vexing 
+math question, as long as they can ``be specific'' and don't tax the 
+the tutors with questions like ``teach me how to factor.'' A similar 
+site, the Math Tutor (www.fliegler.com/mathman.htm), boasts ``years 
+of experience'' and will try to answer any question on any level, 
+``from arithmetic to calculus,'' in 24 hours. Best of all may be ``Ask 
+Dr. Math'' (www.forum.swarthmore.edu/dr.math/dr-math.html), in which 
+the ``doctors'' are college math students and the ``patients'' can 
+be anyone in kindergarten through grade 12. In addition to questions 
+answered via e-mail, there is also an archive of past responses searchable 
+by topic. Back on the professor's home page, the viewer should beware: 
+some icons, like ``The Math Teacher's Ten Commandments,'' promise 
+more than they deliver. Be careful, also, in the games section, to 
+avoid ``Paint with Color'' and ``Basketball,'' which seem to have 
+script errors and easily freeze. Still, this is a site that offers 
+any number of resources to even the casual math student. And besides, 
+who can resist the chance to indulge in ``Mad Libs,'' in which the 
+computer blindly asks the viewer for the first words that come to 
+mind and then combines them into a story. When a recent visitor to 
+the site played, as a way to avoid writing an article's final sentence, 
+the computer spat back the following passage: ``She immediately jumped 
+on the armoire and knocked over the editor.'' 
+</TEXT>
+</DOC>

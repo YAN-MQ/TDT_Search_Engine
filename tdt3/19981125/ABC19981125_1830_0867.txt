@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981125.1830.0867 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Internal Revenue Service is looking for nearly 100,000 people 
+to whom it owes money. $68 million in tax refunds, were never delivered 
+because taxpayers gave the wrong return address. 
+</TEXT>
+</DOC>

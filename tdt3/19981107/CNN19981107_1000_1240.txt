@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981107.1000.1240 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Duane Walker, "CNN Headline Sports." Let's begin with baseball news. 
+Scott brosius will remain a Yankee. The third baseman inked a three-year, 
+$15.75 million pact with the club. The Dodgers have bolstered their 
+outfield by signing free agent Devon white to a three-year $12.4 million 
+deal. 
+</TEXT>
+</DOC>

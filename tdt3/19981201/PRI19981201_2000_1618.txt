@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981201.2000.1618 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Checking business news now, stocks bounced back today after yesterday's 
+dip on Wall Street. The Dow Jones Industrials gained 17 points to 
+close at 9134. A big day for the NASDAQ. It surged 54 points today 
+to close at 2004. 
+</TEXT>
+</DOC>

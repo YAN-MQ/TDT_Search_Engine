@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981124.0130.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Cigarette smokers soon will be experiencing financial fallout from 
+a Multistate tobacco settlement. Monday Philip Morris raised wholesale 
+prices of its brands $0.45 a pack. R.J. Reynolds has announced an 
+identical increase, and other tobacco companies are expected to follow 
+suit. An industry analyst says that means, on average, consumers will 
+pay about $2.45 a pack, up from the current $1.95. 
+</TEXT>
+</DOC>

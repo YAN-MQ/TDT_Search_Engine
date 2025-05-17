@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> VOA19981113.0500.3472 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And we have this development in Science news on the week. A US biotechnology 
+company says it has made a human cell, revert to the primordial state 
+from which all other cells develop by fusing it with a cell from a 
+cow, a cow's egg. Advanced Cell Technology of Westchester, Massachusetts 
+says its research could eventually be used to grow replacement body 
+tissues of any kind from a patient's cells. The company says it created 
+the hybrid cells by removing the nucleus of a cow egg, and inserting 
+a human cell nucleus. Only a small amount of the cow's genetic material 
+remained. Now this research is not published or confirmed yet. But 
+it is certain to raise a lot of ethical and moral questions about 
+creating a cell that is part human and part cow. 
+</TEXT>
+</DOC>

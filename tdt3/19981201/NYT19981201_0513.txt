@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> NYT19981201.0513 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Mexican regulators announced Tuesday that they would cancel a surcharge 
+that Telefonos de Mexico SA collected from other long-distance companies 
+to complete calls into Mexico. The surcharge had drawn accusations 
+of unfair competition from U.S. companies. However, Mexico stopped 
+short of addressing several issues that have caused long-distance 
+companies like AT&AMP;T and MCI Worldcom to slow the once-vigorous 
+pace of their investments in Mexico. Javier Lozano Alarcon, president 
+of the Federal Telecommunications Commission here, said that the 58 
+percent surcharge would be eliminated as of Jan. 1. Long-distance 
+companies that compete with Telefonos de Mexico, known as Telmex, 
+will pay the equivalent of 2.6 cents a minute for calls from the United 
+States into Mexico, about the same rate they were paying before the 
+surcharge. MCI Worldcom had protested the surcharge especially vigorously, 
+and earlier this year suspended a $900 million investment to expand 
+its fiber-optic network in Mexico, saying that regulations here were 
+giving a clear edge to Telmex. Telmex had monopolies in both long-distance 
+and local phone service until early last year, when Mexico opened 
+to long-distance competition. Telmex is still the monopoly carrier 
+in local service, but is about to face competition there as well. 
+Both AT&AMP;T and MCI Worldcom reacted cautiously Tuesday, saying 
+they needed time to study the measure. 
+</TEXT>
+</DOC>

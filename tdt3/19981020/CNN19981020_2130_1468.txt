@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981020.2130.1468 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The aerospace industry is set to blast off with a new generation of 
+reusable Rockets. Details are "online." Congress recently passed the 
+commercial space act. If it's signed into law, private companies will 
+be allowed to build reusable launch vehicles like the space shuttle. 
+You can watch the construction of the next generation of space planes 
+by linking to the NASA address below. The site has two Internet cameras 
+in Palmdale, California, where the X-33 is being built. The cameras 
+can be accessed through online calendars by date and time. A third 
+Internet camera is located at the launch site at Edwards air force 
+base. The X-33 is scheduled to roll out of the assembly building next 
+spring. Test flights are set to begin in July. Another reusable rocket 
+plane, called the X-34, is being built at Marshall space flight center 
+in Huntsville, Alabama. You can download photographs of the X-34 from 
+the NASA site. You can also get the latest news and information and 
+access technical reports from the space transportation library. Visit 
+CNN.com/online for links to this and other sites. And that's what's 
+"on-line." 
+</TEXT>
+</DOC>

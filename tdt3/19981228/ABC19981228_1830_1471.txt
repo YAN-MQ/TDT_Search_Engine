@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981228.1830.1471 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At the White House today, President Clinton assured social security 
+recipients they don't need to worry about the year 2000 computer bug. 
+He says thanks to the work of 2800 computer workers, the government 
+computers used to send out benefits are now free of programming glitches 
+that could cause any problems. 
+</TEXT>
+</DOC>

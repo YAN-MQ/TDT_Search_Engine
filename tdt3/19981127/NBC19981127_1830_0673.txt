@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981127.1830.0673 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street, the traitling was short and sweet. The market got 
+a jump on the holiday weekend. But with the Dow ending up almost 18 
+points. The NASDAQ rose more than 31 points for the week. The Dow 
+jumped more than 173 points. The NASDAQ added more than 88 points. 
+</TEXT>
+</DOC>

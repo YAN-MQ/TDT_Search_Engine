@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981214.0500.2442 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+It is 10 hours 41 universal time. This is VOA News Now. We're broadcasting 
+live from Washington. 
+</TEXT>
+</DOC>

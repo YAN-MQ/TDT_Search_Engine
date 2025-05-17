@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981022.0130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- prime minister Benjamin Netanyahu withdrew 
+a Threat to leave the mideast peace summit Wednesday, allowing talks 
+to continue through Thursday. Earlier, Netanyahu, the Israeli prime 
+minister, said he would quit talks unless there were concessions from 
+Palestinian negotiators on security issues. 
+</TEXT>
+</DOC>

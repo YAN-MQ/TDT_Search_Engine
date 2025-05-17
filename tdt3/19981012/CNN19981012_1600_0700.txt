@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981012.1600.0700 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Four people are in the hospital after a fire broke out at the top 
+of a St. Louis high-rise. Police say it began as a report that a mattress 
+caught fire on the 21st floor and the flames spread quickly above. 
+The building is a home for older and disabled people. Hospital officials 
+say a firefighter is in critical but stable condition. An older resident 
+also is in stable condition. Two other firefighters are being treated 
+for smoke inhalation. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981129.1000.0237 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Saturday was the second day of the traditional holiday shopping season, 
+and retailers say buyers did not disappoint. The telecheck retail 
+index says sales Friday were more than 4% higher than on the same 
+day last year. Telecheck measures the volume of authorized checks 
+written by consumers. Across the United States, the midwest showed 
+the biggest jump in sales, followed by the southeast. Analysts say 
+the growth is due to the healthy economy and increased consumer confidence. 
+</TEXT>
+</DOC>

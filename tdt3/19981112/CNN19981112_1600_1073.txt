@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981112.1600.1073 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Today in a federal court, Microsoft tried to counter government claims 
+that it threatened rival computer executives. In a cross-examination 
+of a government witness, Microsoft's lawyers tried to use the testimony 
+of the Intel executives to dispute the claim that microsoft used its 
+monopoly power to force Intel from developing competing multimedia 
+software. The cross-examination continues tomorrow. Microsoft stock 
+fell 2 5/16 today. 
+</TEXT>
+</DOC>

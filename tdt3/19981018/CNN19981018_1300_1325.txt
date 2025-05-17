@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981018.1300.1325 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It was a good day for the Americans on the hard court as well. Pete 
+Sampras beat karol kucera in straight sets to capture the ca trophy. 
+And Lindsay Davenport took home the European championships with a 
+7-5, 6-3 victory over Venus Williams. 
+</TEXT>
+</DOC>

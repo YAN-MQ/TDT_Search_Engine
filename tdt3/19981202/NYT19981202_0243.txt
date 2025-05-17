@@ -1,0 +1,98 @@
+<DOC>
+<DOCNO> NYT19981202.0243 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Bleary-eyed and coffee-saturated, you wait for the commuter train 
+in the morning, then the subway, then for hordes of people to cross 
+the busy street. By the time you force yourself through the revolving 
+doors at 9 to get to work, the last thing you want to do is wait for 
+a crowded elevator to haul you up to your office. We could all take 
+a lesson from the Three Stooges, for they knew how to get an elevator 
+pronto: a simple yank on the floor indicator stick above the door 
+inevitably brought the car to them instantaneously _ along with a 
+jumble of bewildered passengers picking themselves up off the floor. 
+That technique doesn't work that well today. After all, when was the 
+last time you even saw a mechanical floor indicator? In the last 50 
+years _ with the banishment of human operators and starters, individuals 
+who stood outside elevator banks and, with the flick of their metal 
+clickers, told the operators to start moving _ elevator management 
+has become a computer-controlled science, where improvements are measured 
+in fractions of a second. The Holy Grail, according to Bruce Powell, 
+perhaps the industry's only certified elevator scholar, is to make 
+elevator operation seem effortless from the point of view of passengers. 
+As sole possessor of the title ``technical fellow'' at Otis Elevator 
+Co. in Farmington, Conn., the industry leader, Powell directs a team 
+of people trying to figure out how to move as many people as possible 
+as quickly as possible in an elevator. Mechanically, elevators use 
+the same basic design they did when Elisha Otis invented the safety 
+version in the 19th century (the first modern elevator is said to 
+have been built in 1743 in France as a way for Louis XV to slink around 
+the Palace of Versailles undetected _ or, in an alternate version, 
+to allow his mistress to arrive clandestinely). Cars ride up and down 
+a vertical track, raised by either a hydraulic system or a counterweight. 
+A series of cables and ratchets stop the cab from falling; if a cab 
+falls, a safety brake kicks in to slow and stop it. Today's high-speed 
+elevators have redundant safety systems. The world's fastest elevator, 
+in Osaka, Japan, can move at 2,600 feet per minute (nearly 30 miles 
+per hour), compared with the elevators at the World Trade Center in 
+New York, which can travel at 1,600 feet per minute. Greater speed 
+does not mean greater danger. The last time an elevator may have entered 
+free fall was in 1945, Otis officials say. That was when a B-25 bomber 
+hit the Empire State Building between the 78th and 79th floors, severing 
+lift cables. A cab dropped 75 stories, but the two women inside survived. 
+In the 1950s, automatic elevators went to floors in the order the 
+call buttons were pushed. Like an emotionally dependent golden retriever, 
+a car would go to the floor that issued the first call, leaving other 
+would-be passengers stranded. Elevators would arrive at lobbies in 
+packs, often empty, rivaling only Manhattan buses as hallmarks of 
+inefficiency. By the beginning of the next decade, mechanical elevator 
+dispatchers had been programmed to send cars all the way up and all 
+the way down, stopping for passengers along the way _ great if you 
+were the one on or off first, but frustrating if you were along for 
+the long ride. With zoned dispatching strategies, introduced in the 
+mid-1960s, elevators were designated as expresses, serving just lower 
+or higher floors, or as locals. Zone system technology is still in 
+use. One impetus for smarter elevators came from Asia's economic boom. 
+The growth of heavily populated skyscrapers created an ideal market 
+for better elevators. To make elevators more efficient, the industry 
+developed fuzzy logic, which allows a system to keep several objectives 
+in mind as it juggles elevator routes. If someone on the eighth floor 
+calls for the elevator, the electronic controller is told, in effect: 
+``Hey, stupid, don't just send the closest cab. Send the one a few 
+floors farther away if it's empty because it'll actually get there 
+faster.'' First used in a building in Osaka in 1993, fuzzy logic came 
+to U.S. shores two years ago in an Otis retrofit of the elevator systems 
+in the TransAmerica building in San Francisco. This is fuzzy logic 
+with a twist: not only did TransAmerica workers save time in their 
+vertical journeys, but they also found out which elevator they would 
+be taking the moment they asked because of Otis' early car announcement 
+technology. When a passenger asks for an elevator, the system determines 
+which car the passenger should take and directs the passenger to that 
+elevator door immediately by flashing a light over that door _ instead 
+of indicating the car shortly before its arrival. To make sure that 
+20 embarking passengers do not collide into 15 exiting workers, the 
+system directs riders to one or more empty cars that will leave more 
+quickly instead of to full ones. Yet the system can be misunderstood. 
+After it was installed at TransAmerica, an angry executive, misunderstanding 
+the advance signal, complained to the building manager that the elevators 
+must be broken because ``the elevator light came on and no car came 
+for a long time.'' Lunch-time lectures were quickly held to explain 
+the new system. The next big thing in the industry is perfecting neural 
+networks, computer programs that mimic, to some extent, the kind of 
+complex information processing done by neurons in the brain. A neural 
+network system not only learns from the past in directing elevators 
+but also tries to predict future behavior. The technique is becoming 
+possible only now, thanks to more powerful microprocessors. ``These 
+systems will be like computer chess programs,'' Powell said. ``They'll 
+look at a building's traffic flow and posit `what ifs.''' For example, 
+elevator systems today can learn to adjust the way they deploy their 
+cars based on changes in passenger traffic in the past few days. With 
+a neural network, ``we'll be able to ask what will happen to traffic 
+and car availability a few minutes after I send car A out and to instruct 
+the system not to do so if certain other conditions occur,'' Powell 
+said. People should not have to modify their behavior to adapt to 
+elevators' needs, he said, adding: ``We'll need very speedy computer 
+chips. We want elevators to act more like us.'' 
+</TEXT>
+</DOC>

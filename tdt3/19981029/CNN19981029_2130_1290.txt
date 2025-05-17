@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981029.2130.1290 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With "CNN Headline Sports," I'm Russell Biven. Earlier in the week, 
+PGA champion vijay Singh said the rough at eastlake golf club was 
+unfair. With that in mind, Singh came out today on the championship 
+and fired a 7 under par 63, blasting the course record and tying the 
+tournament record. He owns a three-shot lead heading into Friday's 
+play. 
+</TEXT>
+</DOC>

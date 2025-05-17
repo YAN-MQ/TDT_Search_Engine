@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981022.2130.0518 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Other news this evening -- a new study is sending a wake-up call. 
+It shows 56% of women in the United States lack adequate sleep. And 
+according to the research, female health issues are the cause. 79% 
+of those surveyed say their sleep is disturbed by pregnancy. 71% have 
+problems because of their menstrual cycle. And 56% of the women studied 
+say menopause disturbs their sleep. The national sleep foundation 
+says the study shows too many women are running on empty. One in three 
+of the women studied uses over-the-counter medications to get to sleep. 
+</TEXT>
+</DOC>

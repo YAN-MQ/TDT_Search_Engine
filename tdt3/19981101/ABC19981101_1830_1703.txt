@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981101.1830.1703 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's our report. Tomorrow on "Good Morning America" an interview 
+with Scott Ritter on the latest standoff with Saddam Hussein. I'm 
+Carole Simpson. For all of us at ABC News, have a good week and good 
+night. 
+</TEXT>
+</DOC>

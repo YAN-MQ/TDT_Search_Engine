@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> NYT19981021.0063 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For computer-owning families, the machines sometimes seem to fit Ogden 
+Nash's description of martinis: ``One is too few. Two is too many. 
+Three is never enough.'' Some families started out with one computer. 
+Fast when it was bought, it became ``slow'' when the newer models 
+were brought out. So it sits on one desk, probably used for less demanding 
+tasks, and the family's new one sits on another. And, to use another 
+famous line, ``Never the twain shall meet.'' For most uses, that's 
+fine. When the need arises, the files from one computer can be put 
+on a floppy disk and taken to the other _ unless it's a file of a 
+photograph that is too large to store on a floppy. If both machines 
+have a Zip, or similar drive with high capacity, the ``sneakernet'' 
+transfer system can still work. But things can become more complex. 
+Say both computer users want on the Internet _ at the same time. The 
+additional expense of bringing in another phone line can be expensive 
+for installation and continuing for a monthly fee. The time to network 
+has arrived. Hooking up two computers isn't as complicated as it used 
+to be. If you have Macs, the machines were designed to be linked easily. 
+In most households with two PCs, the two are probably running some 
+version of Windows. In the past year or so, networking computers has 
+become easier, thanks mainly to kits that direct home users toward 
+the goal. Costs vary, depending on the system used and whether you 
+or a computer store does the work. Plugging in two network cards and 
+running a cable between them is the quick and cheap way to do it yourself 
+and costs less than $100 for the network cards. Other methods can 
+start driving up the costs. Lugging the two computers to a computer 
+store and having technicians do the work is an option, although the 
+labor cost is a factor to consider. Once connected, two computers 
+can share hard drives. One printer can work for both computers. A 
+scanner on one computer can capture images that can be transferred 
+to the second computer. If the computers are in the same room, the 
+job will be less daunting. If not, you may have to venture into the 
+attic to run wires or drill through a wall to install a telephone-like 
+receptacle to make the passthrough to the next room. However, some 
+companies offer systems that work over a home's electrical wiring. 
+Particularly intriguing is a simple hookup from a company that uses 
+a wireless system that plugs into the printer ports of the computers 
+and can thus connect two computers located up to 125 feet apart. I 
+haven't tried the Aviator Wireless Network yet, but will be testing 
+it shortly. While it's possible for the piggyback computer to use 
+the Internet as long as the main computer is online, not all Internet 
+service providers _ including AOL _ allow two screen names to be logged 
+on at the same time under the same account. The October issue of Family 
+PC magazine answers 20 questions about home networking. It explains 
+the alternatives and lists the advantages (which I've touched on here.) 
+The magazine also has an article on seven ways to upgrade an existing 
+computer, how to surf the 'net with children, and sites to make Halloween 
+even more spooky: www.unversalstudios.com/horror for instance. The 
+magazine also has an Internet site: www.familypc.com. (Lonnie Brown 
+is associate editor of The Ledger in Lakeland, Fla. He can be reached 
+by e-mail at LonnieB001(AT)aol.com. His recent computer columns are 
+on the Internet at www.theledger.com/business/tech/) 
+</TEXT>
+</DOC>

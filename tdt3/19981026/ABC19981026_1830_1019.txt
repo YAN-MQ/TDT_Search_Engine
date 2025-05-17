@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981026.1830.1019 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+So much of politics is about your pocketbook. A new ABC News news 
+poll finds people saying their financial situation is getting worse. 
+10% of likely voters say they are worse off financially now than they 
+were in the last election. And satisfied voters tend to like the status 
+quo. 
+</TEXT>
+</DOC>

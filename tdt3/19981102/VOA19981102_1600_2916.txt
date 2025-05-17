@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> VOA19981102.1600.2916 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+We had a very good day with the Dow Jones Industrials Average closing 
+at 8706. That's up 114 points. Standard & Poor's 500 Index closed 
+at 1111. That was up almost 13 points. And NASDAQ gained 29. This 
+strong start to November followed a 9-1/2 percent gain in the industrial 
+average in October. That was the biggest monthly gain since January 
+of 1987. Now October, of course, has historically been a bad month 
+for stocks, one that traders usually face with caution, but I guess 
+last month proves the standard Wall Street warning that prior performance 
+is no guarantee of future results. 
+</TEXT>
+</DOC>

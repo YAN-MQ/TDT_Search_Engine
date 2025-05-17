@@ -1,0 +1,114 @@
+<DOC>
+<DOCNO> NYT19981125.0210 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The hurried scribbles on miserly scraps of notebook paper are treasures, 
+passed from hand to grimy hand at school bus stops, soccer practice 
+and sleepovers. To the uninitiated their contents are unintelligible: 
+``C-left, c-right, repeated four times during game play,'' goes one 
+making the rounds lately. But to young game players, these hieroglyphics 
+are prized codes, sometimes known as cheats, that unlock hidden secrets 
+in the Byzantine digital world of computer and video games. Cheats 
+can make onscreen characters invincible (the so-called ``God mode''), 
+arm players with unlimited ammunition and allow entry into concealed 
+bonus levels or unexpected scenes. Some codes are just goofy _ letting 
+a player drive a race car upside down, for example, or giving a basketball 
+player a big head. The buried treasures the codes unearth are intentionally 
+hidden in the games, an historical sideshow that has now become part 
+of the main event of game play. The scramble by game aficionados to 
+be first to crack the cheats of a newly released game is an exhilarating 
+undercurrent that helps propel retail video-game sales, expected to 
+reach a record $6.3 billion this year. ``People want to win,'' explained 
+Al Amaloo, of Munster, Ind., a code-cracker for the search engine 
+miningco.com. ``They don't want to admit their $49.95 purchase got 
+the best of them.'' In the cheat above, the commands _ ``C-left, C-right'' 
+and so on _ refer to buttons on the control panel for a Nintendo 64 
+game. The player pushes the buttons in the sequence described, and 
+the hidden feature is revealed. In this case, the keystrokes are supposed 
+enable a fish-eye view of the game Glover. Cheats on other games require 
+a similar manipulation of the controls. Cheats were originally created 
+purely for the internal use of game companies. They were intended 
+as back doors allowing programmers to skip through the games' increasingly 
+difficult levels when testing for software bugs. Players normally 
+cannot progress from one game level to the next without achieving 
+a series of goals. Now, an entire subculture exists around these games-within-games. 
+And a host of hidden codes has been created by game manufacturers 
+expressly to assist frustrated, impatient or just plain indolent players. 
+They are a godsend to neophytes and the parents of young players reduced 
+to tears by the layer upon layer of variables in the latest games. 
+Cheat areas are among the more popular portions of Internet game sites, 
+both those run by the manufacturers and those created by the players. 
+Among the better-known sites are: www.gamesdomain.com and www.avault.com. 
+But many suggestions posted by visitors turn out to be wrong. So some 
+sites employ code-crackers to seek out and authenticate cheats. Some 
+companies have turned to the public interest in hidden codes as a 
+way of making money. At one pay-per-clue site run by Pinnacle Infotainment 
+Inc., (www.progame.com/hotline.htm), players can buy a pre-paid phone 
+card to get online help and access to an archive of 1,000 cheat codes. 
+Or they can dial a ``900'' number. The cost ranges between 89 cents 
+and $1.49 a minute. Magazines like the 116-page Tips &AMP; Tricks, 
+and publishers such as Prima Publishing, both of Los Angeles, specialize 
+in issuing manuals devoted to the subculture. Often, they work in 
+collaboration with the game industry, so that the publications are 
+timed to coincide with game release dates. ``Cheats are a bonus,'' 
+Amaloo said. ``Like getting an uncut movie. You're getting extra entertainment 
+from your purchase.'' Among game developers there is disagreement 
+over whether the proliferation of the secret codes spoils a game or 
+increases its longevity. It is a question of increasing importance 
+as the demographics of the market shift. The primary age of video 
+game players in the U.S. used to be between six and fourteen. Now, 
+with the growing popularity of advanced video games like Sony's Playstation 
+and Nintendo 64, the age of the average player has gone up. No one 
+knows how older players will feel about the culture of code-breaking 
+that has grown around many games. As a result, Nintendo is attempting 
+a nuanced shift. Instead of rewarding players with hidden tricks for 
+simply having learned what the cheats are, Nintendo now ties perks 
+to performance. In Goldeneye, Nintendo's hugely successful spy game 
+released last year, cheat codes embedded in every level must be earned 
+by players who want to activate hidden features like the ability to 
+change a character's appearance or abilities. ``Its a powerful distinction,'' 
+said Ken Lobb, Goldeneye's producer. ``Instead of the traditional 
+cheat _ `I'm stuck. I don't want to die.' _ going out and acquiring 
+the codes is the game within the game. In another Nintendo 64 name, 
+Banjo-Kazooie, which is published by Rareware Ltd. of England, the 
+cheat code was purposely made complex so it would go undetected by 
+game players, Amaloo said. ``Some codes spoil a game; there's no sense 
+of accomplishment,'' he said. While finding cheats may be a condoned 
+among console game players, a very different kind of cheat has been 
+finding its way into online computer games. Instead of simply exploiting 
+existing back doors, gamers are hacking into the game code and creating 
+their own cheats. Sites that host games forced to install filters 
+on their servers to disconnect players that have hacked into the game 
+code, modifying characters and functions with cheats. ``Gamers want 
+to have an edge, said Laura Miele, vice president of marketing for 
+Westwood Studios Inc., a Las Vegas game maker behind titles like Red 
+Alert and Command and Conquer. ``It's an `I got you' mentality of 
+one-up-manship. We believe its detrimental to the game.'' While Westwood's 
+programmers assist hint-guide publishers, the company does not intentionally 
+build cheat codes into its games. The company makes it's stand on 
+legal grounds, not moral ones. ``It's a matter of copyright protection 
+from potential knock-offs,'' Ms. Miele said. Blizzard Entertainment 
+Inc. of Irvine, Calif, has learned the hard way that cheats sometimes 
+used in online games can be bad for business. Recently, Blizzard had 
+to contend with a backlash from angry customers who quit playing its 
+CD-rom game Diablo on line after some players figured out how to rewrite 
+code to increase their characters' powers. Blizzard scurried to fix 
+the software by issuing online patches, and had to take potential 
+cheats into account before designing the sequel, Amaloo said. At Pinnacle 
+Infotainment, of Encinitas, Calif., the main business is selling replacement 
+game instructions to independent video-game retailers. But Pinnacle 
+owner Earl Beutler begun exploring the cheat-sales niche when he stumbled 
+upon his 12-year-old son, Bryce, using trial-and-error to figure out 
+how to play borrowed games. Now, Bryce, in addition to filling his 
+after-school time with tennis and karate, is putting in a few hours 
+each week on the Pinnacle payroll. His job is to troll for code gossip 
+on Internet game sites, in chat rooms, in messages left by Usenet 
+visitors and among his friends. He tests his finds on rented games. 
+``Codes are increasing in complexity,'' Bryce said. ``They now include 
+allowing players to add UFOs and (to) reverse directions.'' Bryce 
+is one of a handful of game-players Pinnacle employs to provide its 
+content. Said Don A. Grammer, Pinnacles general manager: ``Kids are 
+really the best source.'' 
+</TEXT>
+</DOC>

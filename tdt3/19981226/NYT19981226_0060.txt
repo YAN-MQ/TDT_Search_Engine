@@ -1,0 +1,522 @@
+<DOC>
+<DOCNO> NYT19981226.0060 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In a windowless room two stories below ground level, Lyudmila Zavlyanova 
+sits in what could be a scene from the Cold War. People are hunched 
+in front of computers in cramped cubicles, speaking to one another 
+in hushed tones in Russian. But they are in New Jersey and this is 
+an entirely different kind of global struggle: the code war. Mrs. 
+Zavlyanova and about 40 other immigrants from the former Soviet Union 
+are in the sub-basement of the Newark headquarters of Public Service 
+Electric and Gas Co., New Jersey's largest utility. They are here 
+not because they understand Russian but rather Cobol, a computer language 
+that runs many of the United States' mainframe computers but is so 
+old that relatively few American programmers know it. Mrs. Zavlyanova, 
+a 27-year-old from New York, is one of tens of thousands of programmers 
+throughout the world racing to head off the havoc that could ensue 
+because many of the computers that underpin today's wired society 
+do not understand that a year can begin with a number other than 19. 
+She and her colleagues have spent the better part of this year painstakingly 
+sifting through a program consisting of 7 million lines of code that, 
+to the uninitiated, resembles gibberish. And that is just to fix one 
+program. In all, Public Service has 728 programs with a total of 46 
+million lines written in 27 programming languages. How well they are 
+fixed or replaced could determine whether the lights and heat stay 
+on in New Jersey come Jan. 1, 2000. That might seem far away. But 
+the Y2K problem, as it is known in computer jargon, is already draining 
+hundreds of billions of dollars from companies and governments struggling 
+to tame what some call the millennium bug. The direst situations that 
+are predicted _ financial chaos, societal strife, food shortages and 
+persistent, widespread blackouts _ are highly improbable. But it is 
+not hard to find reputable alarmists _ computer experts who say they 
+will not fly or schedule surgery at the onset of the year 2000, or 
+even an economist who predicts that the computer bug could set off 
+a recession. The first wave of disruptions has already hit, with 40 
+percent of the largest U.S. and European companies experiencing at 
+least minor breakdowns because some software has already had to deal 
+with dates in 2000 and beyond. Many retailers have had difficulty 
+processing credit cards that expired in 2000 or later, for example. 
+At BankBoston, some ATM cards were seized because cash machines responded 
+as if the cards had expired in 1900. Another spate of disruptions 
+could begin on the first day of 1999, because a host of other computer 
+programs _ like those used to prepare budgets, schedule appointments 
+and pay unemployment benefits _ deal with dates up to one year in 
+the future. All the threat stems from the fact, by now well known, 
+that computer programs frequently use two digits to represent years, 
+like 98 for 1998. So when 1999 ends, computers might appear baffled 
+about what comes next or might respond as if 00 means 1900 instead 
+of 2000. Afflicted machines could crash or, just as dangerously, spew 
+out erroneous data. With computers running everything from power grids 
+to bank machines to air traffic control, the range of services that 
+could be affected is vast. The problem has proved more intractable 
+and expensive to fix than most experts had expected. The Gartner Group, 
+a consulting firm, estimates that the Y2K problem will cost the world 
+$1 trillion to $2 trillion, as much as $300 for every man, woman and 
+child on the planet. ``It's the biggest business problem in human 
+history,'' said Capers Jones, a software expert and year 2000 alarmist. 
+Year 2000 activity swirls far beyond computer programmers like Mrs. 
+Zavlyanova, sweeping up lawyers, insurance companies, government regulators 
+and even many ordinary citizens. Other electronic equipment besides 
+computers may also be vulnerable. So engineers everywhere are clambering 
+over pipes, behind walls and into closets in a giant scavenger hunt 
+for computer chips that control factories, oil platforms, aircraft, 
+traffic lights and building-security systems. New York Hospital-Cornell 
+Medical Center, for instance, is determining whether 16,000 medical 
+devices _ electrocardiographs, infusion pumps, defibrillators and 
+even beds _ will work correctly in the next century. The Y2K problem 
+is also becoming a cultural phenomenon, appearing in comic strips 
+and Hollywood screenplays. For those prone to believe that the apocalypse 
+is coming with the start of the new millennium, the millennium bug 
+looks like the means to the end, a digital echo of Noah's flood. For 
+many more people the Y2K problem plays on a sense of unease that society 
+is growing dependent on a lattice of technology that is now so far-reaching, 
+interconnected and complex that no one completely understands it, 
+not even the priesthood that writes its digital code. Many moves toward 
+economic efficiency _ automation, just-in-time delivery of parts to 
+factories, globalization _ have been aided by computers. Yet those 
+same practices now make the economy more vulnerable to computer malfunctions. 
+Several potential Y2K problems have been discovered during simulations. 
+When Chrysler Corp. set the clocks on the electronic equipment at 
+one of its factories ahead to 2000, for example, the security system 
+locked all the doors. Such problems can be readily fixed, one at a 
+time. The fear, though, is that the early days of 2000 could bring 
+a huge flood of them. Many experts say there is simply too much software 
+left to fix and too many microchips to check before the immovable 
+deadline. Still, they say, there is time to reduce the impact by fixing 
+what is possible and making contingency plans for failures that cannot 
+be prevented. The school board in Albuquerque, N.M., recently voted 
+to keep the city's public schools closed in the first week of January 
+2000 to make sure that the district has time to repair unexpected 
+breakdowns. Experts say caution is in order, but not panic. ``The 
+level of disaster is still fundamentally our choice,'' Howard Rubin, 
+an information technology consultant, said. Town Criers Escapist Movement 
+Expects the Worst The year 2000 problem raises vexing questions for 
+consumers. Most home appliances and cars should work fine, manufacturers 
+say, though many people will have to test and fix personal computers. 
+But a few people have gone even further. Nervous residents in more 
+than 200 U.S. cities have formed community preparedness groups, advising 
+neighbors and urging local officials to make contingency plans, like 
+setting up emergency food banks, shelters and neighborhood-based power 
+generation. Many groups passed out leaflets at shopping centers before 
+Christmas with Y2K-inspired shopping suggestions, like first-aid kits, 
+firewood and batteries. ``The best chance I would have would be to 
+be in a community that is well prepared,'' said Jay Golter, 42, a 
+financial analyst at a federal agency who went to a PTA meeting at 
+his son's school in Springfield, Va., last January and invited the 
+other parents to a strategy session on the Y2K problem. When the day 
+came, no one showed up. But gradually concern took root, and the Northern 
+Virginia Year 2000 Community Action Group now boasts more than 200 
+members. In Boulder, Colo., where people who are worried about the 
+year 2000 problem are organizing neighborhood by neighborhood, some 
+70 residents of the 80304 zip code gathered in a school recently to 
+listen to Kathy Garcia, a specialist in group dynamics. ``We are asking 
+people to prepare for four months, enough to get you through the winter,'' 
+Ms. Garcia said, detailing how her family spent $600 setting aside 
+a supply of rice, beans and other staples. The group then discussed 
+plans to ask grocers to stock foods that would be needed in a crisis. 
+They fretted about how to ask neighbors, without seeming intrusive, 
+about special medical needs, so hospitals could be asked to prepare. 
+Then they broke into pairs to practice approaching strangers to discuss 
+the Y2K problem. Efforts are under way to foster more cooperation 
+nationally among the community groups, which are already loosely linked 
+through the Cassandra Project, a group in Louisville, Colo., that 
+operates a widely used Web site dedicated to Y2K concerns. Some alarmists 
+scoff at the notion that such organizing will stave off the societal 
+breakdown they see coming from large-scale computer failures. So in 
+a throwback to the bomb-shelter mania of decades past, they are moving 
+to rural areas, drilling wells, setting up generators and even buying 
+guns to fend off the hordes they fear will come from the broken cities 
+in search of food. Entrepreneurs are catering to the survivalists, 
+selling everything from seeds to wooden ``survival domes,'' or even 
+trying to develop entire communities. God's Wilderness, in Finland, 
+Minn., bills itself as a relocation site for Christians, offering 
+land complete with cabin, well, pump, stove, greenhouse, shed and 
+outhouse. David and Johanna Hecker, who own the site, say on their 
+Web page that they knew nothing about Y2K worries until they tried 
+to sell some land and got inquiries from people looking for a place 
+to escape. But many experts say that preparations like stockpiling 
+food and withdrawing savings are unnecessary and will only invite 
+burglars and rats. In addition, business leaders and public officials 
+have already begun to worry that such hoarding could produce the very 
+chaos that some doomsayers had predicted from computer breakdowns. 
+The American Red Cross, for instance, recently suggested that people 
+fill the gas tanks of their cars just before Jan. 1, 2000. But the 
+gasoline distribution network may not be able to handle such demand, 
+as was proved by the 1979 oil crisis when millions of Americans waited 
+in lines, drove up prices and in some cases got into fights in the 
+mistaken belief that oil imports were drying up. Bankers are especially 
+worried about possible major withdrawals. The Federal Reserve Board 
+has already said it will set aside an extra $50 billion of currency 
+reserves at the end of 1999. ``When we get down to 1999, the retail 
+public is going to panic and want cash, and we better have it for 
+them,'' said David Iacino, head of the year 2000 program at BankBoston. 
+Penny Wise How a Money-Saver Became So Costly The millennium bug is 
+not really a bug at all, in the sense of a coding error. Using two 
+digits to represent the year was considered a clever way in the 1950s 
+and 1960s to save expensive computer memory. Leon Kappelman, co-chairman 
+of the year 2000 working group for the Society for Information Management, 
+estimates that use of two-digit years in a program written in the 
+1960s would have saved more than $1 million per billion bytes of data 
+stored over the following 30 years. Those savings would more than 
+offset the cost of fixing the code now to handle the change to 2000. 
+But through force of habit, programmers continued to use two-digit 
+years well into the 1990s, even as data-storage costs dropped to one-ten-thousandth 
+of their 1960s level. Denver's $4.3 billion international airport, 
+styled as the airport of the future when it opened only three years 
+ago, is spending millions to ensure that its safety and flight information 
+systems are free of Y2K bugs. From the start, some programmers foresaw 
+problems in 2000, but the danger seemed theoretical. Computer technology 
+was changing so rapidly it was assumed that programs with two-digit 
+years would be retired long before 2000. Instead, it was the programmers, 
+not the programs, who retired first. Even when companies realized 
+the problem, they procrastinated about fixing it. Data-processing 
+managers, constantly swamped by demands for new programs, did not 
+dare propose devoting resources to a problem that would not hit for 
+many years. Some assumed that a quick fix would be invented as the 
+deadline neared. The information-processing department at Bank of 
+America awarded a plaque in the late 1980s to the first manager with 
+a program that encountered a year 2000 problem. But the bank did not 
+start fixing its code until 1996. Now, even those who saw the trouble 
+coming are finding how deep-rooted two-digit coding is. Ronald Asala, 
+director of technology services at Zurich American Insurance Group 
+in Schaumburg, Ill., remembers ordering programmers who were writing 
+claims-processing software in 1986 and 1987 to use four-digit years. 
+``I would have sworn on a stack of Bibles that the system was Y2K-compliant,'' 
+Asala said. But a recent test found 18 two-digit functions, two of 
+which would have stopped the program cold. The Code War A Battle Fought 
+Line by Line If writing a new program is software's equivalent of 
+carpentry, Y2K work is more like asbestos removal. It is a job as 
+tedious as replacing all the light bulbs in Las Vegas but not as easy, 
+because much of the software was written years ago by programmers 
+who have quit or retired. The repair project undertaken by Public 
+Service Electric and Gas is a case in point. Mrs. Zavlyanova works 
+for Keane Inc., a contractor for the utility. Because programmers 
+are in short supply, Keane offered $1,000 bonuses to employees who 
+recruited their friends, and word quickly spread through the Soviet 
+immigrant community. These programmers are fixing the software that 
+keeps track of bills and other data related to the utility's 2 million 
+electricity customers. An error in any one of the 7 million lines 
+of this program could cause problems in billing and service. Mrs. 
+Zavlyanova and her colleagues are the final backstop in a search through 
+every line of code for places that contain two-digit years. Sometimes 
+such work is straightforward because programmers refer to dates using 
+abbreviations like YR or DT. But in other cases the designations are 
+quirkier and not obvious, like the names of movie characters or the 
+programmer's acquaintances. One day this summer, Mrs. Zavlyanova was 
+inspecting a tiny 523-line segment. A special computer program had 
+already quickly scanned all 523 lines, picking out 18 with numbers 
+that could be dates. One of those lines contained the name of a 25-digit 
+serial number. Suspicious, Mrs. Zavlyanova zeroed in on this segment 
+and there it was: a millennium bug! Six of the digits in the serial 
+number referred to a date: two for the month, two for the day and 
+only two for the year. Now the question was how to repair it. The 
+utility wanted to expand the serial number to 27 digits, adding two 
+digits to represent the year. But such an expansion was not as easy 
+as it sounded, because it would throw off the position of the other 
+numbers. A number that was in position 15, which might have stood 
+for, say, a customer's geographic location, would move to position 
+17, which the program might react to as if it refers to the meter 
+reader's route number. So expanding the serial number could require 
+changes to many other lines in the program. Before she undertook this 
+task, however, Mrs. Zavlyanova checked and found that another programmer 
+who had encountered the serial number in another part of the program 
+had already expanded it. But that programmer apparently made an error, 
+so more work would be needed. ``Y2K work isn't as easy as a lot of 
+people think,'' said Mrs. Zavlyanova, who has on her desk a certificate 
+praising her as a top performer. ``There are all kinds of complications 
+that come up.'' PSE&AMP;G is not fixing all its software. About 125 
+programs are being replaced by new software that is free of Y2K problems. 
+One program is being scrapped because the company cannot find any 
+programmers who know the language in which it was written. Another 
+25 percent to 30 percent of the programs are being retired because 
+the company found that no one was using them anymore. ``There's stuff 
+that would print out downstairs and it would go to someone and that 
+person would be gone,'' said Vincent Scatuccio Jr., who is in charge 
+of software repair. One of the few silver linings of the Y2K problem, 
+Scatuccio noted, is the chance to clear the cobwebs from a company's 
+data-processing operations. To save time, PSE&AMP;G is not expanding 
+years to four digits in most programs, but is instead using a technique 
+called windowing. Years are left as two digits but the computer is 
+instructed to interpret 00 to 49 as being 2000 to 2049, and 50 to 
+99 as 1950 to 1999. Of course, if the program is still in use in 2050, 
+it will have to be fixed again. As for crucial software that helps 
+balance electricity supply and demand, the utility is saving millions 
+of dollars by not fixing it at all, because the company plans to buy 
+new software eventually. Until then, it is simply setting the clock 
+back so that the program will function as if it is 1972 instead of 
+2000; the dates in 1972 fall on the same days of the week as in 2000. 
+The bottom line, however, is this: Despite these shortcuts, despite 
+budgeting $91.6 million for Y2K work and despite starting its cleanup 
+more than two years ago _ earlier than most utilities _ PSE&AMP;G 
+will not finish on time. So, like many companies, it is resorting 
+to triage, fixing the most important programs first and worrying about 
+minor ones later. Double Checking `Trust Nothing, Test Everything' 
+On a recent Sunday, when most of the executives and tellers of AmSouth 
+Bank in Birmingham, Ala., were relaxing with their families, computer 
+specialists from the bank gathered in a run-down former auditorium 
+they called the ``war room'' and traveled through time. They set the 
+date on a multistate network of computers ahead to the year 2000 and 
+put the powerful machines through their paces, crunching fake loan 
+applications and money transfers. In another room, bank employees 
+repeatedly inserted and withdrew colorful play money from automated 
+teller machines, watching the balances on their receipts rise and 
+fall. The elaborate process was part of a test to make sure AmSouth 
+bank's computers will work in 2000. Experts say that even after software 
+is fixed, it should be tested, because some dates might have been 
+missed. In addition, the correction of one problem often introduces 
+another. The Internal Revenue Service mistakenly sent default notices 
+to 1,000 taxpayers because of an error made in fixing the millennium 
+bug. Year 2000 consultants say that testing could take up more than 
+half of a Y2K budget. Yet many companies, pressed for time, are skimping 
+on testing. ``You've got to take a `trust nothing, test everything' 
+attitude,'' said Asala of Zurich American, chastened by his encounter 
+with the faulty Zurich code he had assumed was clean. That warning 
+extends to software from outside vendors, who can never fully test 
+their products for all the ways they are used by customers. ``We have 
+found 10 major Y2K problems with applications vendors told us they 
+had tested and found compliant,'' Asala said, adding that Zurich American's 
+problem programs included software from giants like IBM and Computer 
+Associates, companies that Asala credits with doing a good job on 
+Y2K problems. Smart testing requires cooperation between business 
+partners because computers routinely interact with other machines 
+outside the company, but it is not always possible. Bell Atlantic, 
+whose wires carry billions of dollars in financial transactions, said 
+it had more banks wanting to test with it than it could accommodate. 
+There is a human toll too. Because computers are usually in use during 
+the day, testing often must be done at odd hours, which is why the 
+computer specialists at AmSouth Bank did their work at night and over 
+a weekend for five days in October, with workers subsisting on snacks 
+and pizza. Diane Lambert, a systems manager, said she considered herself 
+lucky if she could say yes when her 14-year-old daughter called asking, 
+``Mama, will you be home before midnight tonight?'' Jan. 1, 2000, 
+was not the only date tested. One day the computers were made to believe 
+it was Jan. 3, the first business day of 2000. Another time it was 
+Feb. 29, a leap day. Then it was March 31, 2000, the day the books 
+would close for the first quarter. While programmers worked in the 
+war room, technicians in Chicago were busy executing mock money transfers 
+to AmSouth's big clients. Employees at AmSouth's phone service center 
+in Pensacola, Fla., at a check-processing office in Atlanta and at 
+a branch in a Birmingham suburb were all participating. The far-flung 
+electronic menagerie was also linked to a computer center in North 
+Bergen, N.J., that is usually rented to companies whose own computers 
+are disabled by a natural disaster. Comdisco, the owner of this disaster 
+recovery site, has found a sideline in leasing such sites for Y2K 
+testing. AmSouth's test went well. The only glitch found was one that 
+would have prevented AmSouth from signing up new bank-by-phone customers 
+on Feb. 29, 2000. Sara Simon, the technician who had originally installed 
+the program, identified the error within two hours. It was quickly 
+corrected, setting off a round of cheers. But no testing program can 
+cover all the possibilities. ``That's why I call it the year 2000 
+lottery,'' said Donald Estes, a testing expert in Lexington, Mass. 
+``Some will do a lot and still get hit. Some won't do enough and luck 
+out.'' The Hidden Problem At the Mercy of Microchips If the year 2000 
+cleanup involved fixing only business software it would be hard enough. 
+But the potential for Y2K problems also lurks in the tiny computers 
+that have permeated all corners of modern life. The flow of chemicals 
+in a refinery, the injection of fuel into automobile engines, even 
+the flushing of some toilets is controlled electronically. Sometimes 
+the controller is a single chip, like one in a factory that merely 
+opens or closes a valve based on readings from a temperature sensor. 
+In other cases, an entire computer with more complex software is used. 
+Experts say that only a small percentage of such systems _ called 
+embedded systems because the computer or chip is embedded in some 
+other piece of equipment _ will have date problems. But with billions 
+of such chips in use, even a small percentage is enough to scare Y2K 
+experts. British Petroleum's giant Grangemouth refinery complex identified 
+2,132 embedded systems and found that 15 would fail in a way that 
+would shut down operations if they were not fixed, said Ian Jenson, 
+the project manager. The embedded-chip dimension of the Y2K problem 
+surprised many companies. International Paper Co. doubled its estimate 
+of its year 2000 repair costs to $135 million, largely because it 
+belatedly identified vulnerable electronic controls in its mills. 
+The investigations have turned up some good news. Despite popular 
+fears about airplanes falling from the sky, for instance, Boeing Co. 
+has concluded that there are only three embedded Y2K defects in its 
+aircraft, all easily dealt with and related to navigation data. But 
+medical equipment remains a major area of concern. The Veterans Health 
+Administration found a $150,000 machine used in radiation therapy 
+for cancer that could theoretically calculate wrong dosages after 
+2000. The machine uses the date to calculate the age of the patient 
+and the strength of the radiation, which decays over time. In the 
+1980s, several patients were killed because of software errors in 
+a different radiation machine. At New York Hospital, Louis Wetstein, 
+a 31-year-old biomedical engineer, is trying to determine the status 
+of the hospital's 16,000 medical devices, about 2,500 of which contain 
+microprocessors. Robots and electronic machines perform tests on vials 
+of patients' blood without human intervention. Infusion pumps deliver 
+medication with a precision beyond human capability. Even the beds 
+contain microprocessors, which adjust the bed's position and weigh 
+the patient. To test an electrocardiograph machine, Wetstein and colleagues 
+first hooked it up to another electronic device that simulates a heartbeat. 
+Then they set the electrocardiograph's internal clock to 23:58 on 
+31-DEC-99 and waited two minutes. The machine continued into 2000 
+without missing a beat, printing the squiggly lines of an electrocardiogram 
+on a strip of paper and recording 00 as the year. A four-digit year 
+would be ideal, but this was not bad. Then the clock was set back 
+again to just before midnight for a second test. But this time the 
+machine was shut off. When it was turned back on two minutes later, 
+the printout still read 23:59. The machine was stuck in the last century. 
+The date on the printout made no sense at all _ 03-MAR-A6, with A6 
+being an error code. Nevertheless, the machine was still able to record 
+heart rhythms, because it did not need to know the date to do that. 
+Wetstein said he had found similar record-keeping problems with some 
+defibrillators and ventilators, but had never found a problem that 
+would cause the equipment to stop functioning. ``Medical equipment 
+is not designed to stop working,'' Wetstein said. ``It is designed 
+to keep working. The failure is not to shut down.'' Still, incorrect 
+date-stamping could pose legal problems or contribute to incorrect 
+diagnoses. At New York Hospital, electrocardiograms are stored in 
+a computer so doctors can log on from their homes or offices. But 
+if the dates were wrong, doctors might conceivably not be able to 
+find the EKG or might look at the wrong one. Moreover, some experts 
+say, even if a machine does not need to have the date to perform its 
+job, it might be built with off-the-shelf components that do keep 
+track of the date and might shut themselves off if they cannot handle 
+the transition to 2000. So to be safe, some companies are checking 
+everything, and there is disagreement on the risks. ``I would have 
+surgery at midnight,'' Wetstein said confidently, referring to the 
+start of 2000. But the head of the hospital's overall Y2K effort, 
+Susan Auman, whose background is in data processing, was more cautious, 
+saying: ``I wouldn't schedule surgery. I wouldn't fly.'' Enter the 
+Lawyers Efforts Stymied by Fear of Lawsuits One reason to test everything 
+is to avoid being sued. The Y2K problem has attracted armies of lawyers, 
+who have done more than anything else to elevate it from a concern 
+of programmers to one of top management. The lawyers are needed to 
+deal with regulators like the Nuclear Regulatory Commission and the 
+Securities and Exchange Commission, which are requiring companies 
+to prepare Y2K plans and to disclose their progress. In other cases, 
+top management is worried about being sued if computer malfunctions 
+disrupt business enough to make the stock plummet or hurt a customer. 
+The year 2000 problem has led some law firms to set up specialized 
+Y2K practices. ``It's the bug that finally gives lawyers the opportunity 
+to rule the world,'' Evelyn Ashley, an Atlanta lawyer, said at one 
+of the several Y2K panels at this year's American Bar Association 
+meeting in Toronto. Some 30 lawsuits have been filed already, mainly 
+focusing on whether software companies like Intuit and Symantec are 
+obligated to provide free upgrades to programs that cannot handle 
+the date change. Other questions being raised in court include whether 
+insurance policies will cover damage caused by the year 2000 problem. 
+But if legal fears have pushed companies to take the Y2K situation 
+more seriously, they have also made it harder to solve the problem, 
+because companies are afraid to disclose information about problems 
+they have. The lawyers' defensive instincts are generating volleys 
+of letters from companies to their suppliers, asking whether the suppliers 
+will be ready for 2000. Sometimes the letters come with a threat to 
+cut the supplier off if it is not moving fast enough. The initial 
+mailing from a group set up by five big automakers surveyed 39,000 
+auto-parts manufacturers, because an entire assembly line could be 
+idled if even one crucial part were not delivered. The airline industry 
+has hired a consulting firm to survey the air traffic control, fuel 
+supply, luggage handling and other systems at all 550 airports in 
+the United States. ``Everyone is sending letters to everyone,'' Iacino 
+of BankBoston said. ``We're like ants in an anthill. We're all stepping 
+on one another.'' But the same lawyers who advise customers to query 
+their suppliers are advising the suppliers not to answer the queries, 
+or to answer them only vaguely. That is because statements about a 
+company's readiness can be used against it in court. The legal gridlock 
+has caused alarm. ``We've got to get this litigation monkey off our 
+back so we can do our job,'' said Philip Rock, who is supervising 
+Y2K work at the Bell Atlantic operations center in Framingham, Mass. 
+Several medical groups and members of Congress have publicly rebuked 
+makers of medical devices for not disclosing information about potential 
+problems. Responding to concerns, Congress hastily enacted a law in 
+October to shield companies from lawsuits based on wrong information 
+they provide, as long as the disclosure is neither reckless nor fraudulent. 
+But lawyers are advising that the law's protections are limited, which 
+has discouraged companies from dropping their guard. The Y2K Economy 
+New Strategies and New Jobs Lawyers are only part of a whole new niche 
+in the economy created by vast spending on the Y2K problem. So many 
+companies offer fix-it services or software that stock indices have 
+been created to track them. Programmer shortages, though not as great 
+as was initially feared, have pushed salaries of Cobol experts to 
+$75 an hour in some cities. To retain its best programmers, Bank of 
+America is offering bonuses of up to $75,000, half not payable until 
+May 2000. Some of the work has been shifted to India and other countries 
+where programmers are cheaper. Retired or laid-off Cobol programmers 
+are getting second chances. Randall Bart, 41, of Torrance, Calif., 
+who specializes in Unisys mainframe software, could not get another 
+programming job after being laid off in 1988. ``I had dead-end experience,'' 
+Bart said. He worked as a poker dealer, among other odd jobs. But 
+this year, he found work as a programmer again, fixing millennium 
+bugs on the Unisys computer of a pen maker. ``Come 2001, I'll still 
+have experience that people don't want,'' he said. ``But at least 
+I'll have made some money by then.'' Investors are already moving 
+away from some companies seen as vulnerable to year 2000 problems. 
+The stock of Executive Risk Insurance of Hartford, Conn., dropped 
+sharply in July after Moody's, the credit-rating agency, said the 
+company could face huge claims from clients that experience business 
+breakdowns in 2000. On a broader scale, Global 2000, an international 
+committee of major banks, is planning to issue a report card on the 
+readiness of different countries in February, a move that politicians 
+fear could cause capital flight from lagging nations. The millennium 
+bug is also helping reshape corporate strategies. Corestates Financial 
+Corp. of Philadelphia said the escalating cost of technology, including 
+year 2000 repair, was one reason it agreed to be acquired this year 
+by First Union Corp. of Charlotte, N.C. Some 18,000 Massachusetts 
+Medicaid patients were recently forced out of the Tufts Health Plan 
+because Tufts decided it could not reprogram its computers to handle 
+changes in Medicaid while also fixing Y2K problems. ``It was a very 
+difficult decision for us because serving the Medicaid population 
+is part of our mission,'' said Richard Shoup, Tufts' chief information 
+officer. ``But this is about business survival.'' Jan. 1, 2000 Ready 
+or Not, Deadline Nears As midnight approaches on Dec. 31, 1999, some 
+people will be happily participating in the greatest New Year's celebration 
+of the last 1,000 years. Others will be bracing for disaster. But 
+the final accounting will not necessarily come quickly. Indeed, Gartner 
+Group projects that less than 10 percent of the disruptions will strike 
+in the first two weeks of 2000. Edward Yardeni, the chief economist 
+for Deutsche Bank Securities in New York who built a strong following 
+on Wall Street by correctly forecasting the stock-market boom of the 
+1990s, has said that there is a 70 percent probability that the millennium 
+bug will cause a worldwide recession equivalent to the one that followed 
+the 1973 oil shock. Enough computers will fail, Yardeni argues, that 
+economies will not be able to maintain their current level of output. 
+Many other economists, however, think the economic impact will be 
+more transient, like that of a hurricane. The clashing prognosticators 
+agree that, like the weather phenomenon El Nino, Y2K will be blamed 
+for some problems in which it has no role. But also like El Nino, 
+Y2K problems are certain to cause real disruptions. Many companies 
+and government agencies are simply too far behind to finish in time. 
+And some that seem to be on schedule will fall behind, because software 
+projects are notorious for missing deadlines. Some big companies are 
+confident that they will be ready. ``I'll probably be here that night 
+because they'll probably want me here, but I'll be here yawning,'' 
+said Rock of Bell Atlantic. Robert Green, Y2K manager for Public Service 
+Electric and Gas, had a similarly calm forecast. ``Hopefully on December 
+31, 1999,'' he said, ``the only ball dropping will be at Times Square.'' 
+Cap Gemini, the consulting firm, found in a survey of 1,680 multinational 
+companies that spending on the year 2000 problem had doubled in the 
+six months ending in October, a positive sign. Still, the U.S. companies 
+had spent only 61 percent and Europeans 48 percent of their year 2000 
+budgets, meaning that a huge chunk of work still lies ahead. As of 
+the end of the third quarter, Chevron Corp. had spent only $40 million 
+of its projected $200 million to $300 million. And companies are finding 
+the problem more costly than they thought. Merrill Lynch &AMP; Co. 
+raised its budget in the last six months by $100 million, to $400 
+million. The estimated cost to fix the federal government systems 
+has almost tripled, to $6.4 billion from $2.3 billion in March 1997, 
+with numerous agencies, including the Defense Department, rated by 
+congressional overseers as hopelessly behind schedule. Even if the 
+big companies are ready in time and the federal government catches 
+up, surveys have shown that many small businesses, as well as federal, 
+state and local government agencies, are way behind. So are many foreign 
+countries. A minister in Jamaica said it would take that Caribbean 
+nation until 2004 to be ready for the year 2000. Economic crises are 
+diverting attention in Russia and Asia, while European companies must 
+grapple not only with Y2K problems but also with the reprogramming 
+needed for the new currency, the euro. Peter de Jager, the Canadian 
+consultant who is perhaps the best-known year 2000 Paul Revere, now 
+predicts that the world will probably muddle through without the catastrophe 
+he once foresaw. It might not be a glorious goal, but many Y2K experts 
+would be delighted if it were attained. After all, the world is now 
+so dependent on computers that there is no going back. ``We cannot 
+go back, because the infrastructure that undergirded our entire society 
+25 years ago has been dismantled,'' Sen. Robert Bennett, R-Utah, who 
+is chairman of the special committee on the year 2000 problem, said 
+this summer. ``The skills are gone, the people are gone, the equipment 
+is gone. Like it or not, we have no choice in this situation but to 
+plow forward and, one way or the other, make it work.'' 
+</TEXT>
+</DOC>

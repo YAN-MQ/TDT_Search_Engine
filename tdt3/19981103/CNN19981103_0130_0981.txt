@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981103.0130.0981 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The blue chips surged to their third straight winning session Monday. 
+Fueled by growing investor confidence in the global market, the Dow 
+Jones industrial average climbed 114 points to close at 8706. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981120.1600.1367 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Finally -- two-time indy 500 winner arie luyendyk will retire following 
+the race at the old brickyard next may. Jerome Jurenovich, "CNN Headline 
+Sports." 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981226.1000.0994 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Middle-income Americans may get a break from uncle Sam this year. 
+The joint committee on taxation announced this week, those earning 
+between $40,000 and $75,000 will pay less in federal taxes this year 
+than in 1997. That's due in part because of children and education. 
+The biggest cuts, those making $200,000 or more. 
+</TEXT>
+</DOC>

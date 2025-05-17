@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981126.1600.0261 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+All that Turkey and pumpkin Pie Americans will be stuffing themselves 
+with today may be putting added costs on the health care system. A 
+study tracked obesity's role in health conditions such as heart disease 
+and strokes. Researchers estimate the resulting price tags of health 
+insurance, sick leave and life insurance cost businesses $13 billion 
+a year. The study is in "the American journal of health promotion." 
+</TEXT>
+</DOC>

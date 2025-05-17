@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981223.1600.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Police have recovered a car belonging to a man wanted for questioning 
+in connection with the slaying of a doctor who performed abortions. 
+Dr. Barnett slepian was shot October 23rd in Amherst, New York. 
+</TEXT>
+</DOC>

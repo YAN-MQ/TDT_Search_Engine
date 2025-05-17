@@ -1,0 +1,169 @@
+<DOC>
+<DOCNO> NYT19981204.0348 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The bank where Salvatore Bellu works is strongest in Italy's dynamic 
+northern industrial belt, filled with mighty little multinationals, 
+like Zanussi and Rex, washing-machine makers in Sweden's big Electrolux 
+appliance group. Come January, Electrolux is shifting its business 
+to Europe's new single currency, the euro, and Zanussi and Rex are 
+under orders to do likewise. Even though Sweden will be outside the 
+euro zone, Electrolux, by adopting the single currency, expects to 
+reduce costs and avoid having to hedge against currency fluctuations, 
+all of which should pay off in increased competitiveness. So if Electrolux 
+wants to pay bills in euros, or transfer funds from one bank to another, 
+Bellu's bank, Cariverona Banca SpA, will be ready for it to do so. 
+For two years the bank has been throwing money and people at the task 
+of getting ready for the euro, or risk seeing lucrative customers 
+flee to better-prepared competitors. Cariverona is caught in a rush 
+that is reaching a crucial stage as the date for introducing the new 
+currency, Jan. 4, nears, pitting bankers, software specialists and 
+consultants against the guts of a banking system that serves 290 million 
+Europeans. If it works _ and major banks are reasonably sure it will 
+_ Europe will take a further giant stride toward overcoming traditional 
+economic fragmentation by operating under the umbrella of a uniform 
+monetary policy on most of the old Continent. Indeed, by cutting short-term 
+interest rates simultaneously on Thursday to a nearly uniform 3 percent, 
+the central banks of the 11 nations that will join the euro essentially 
+opened the door to the new era this week. Of the 15 countries in the 
+European Union, three qualify but are staying out for now: Britain, 
+Denmark and Sweden. Greece has not met the requirements. The participants 
+are Austria, Belgium, Finland, France, Germany, Ireland, Italy, Luxembourg, 
+the Netherlands, Portugal and Spain. For starters, banks in the euro 
+countries will be required by law to keep track of day-by-day operations 
+_ deposits, withdrawals and the like _ in euros as well as the local 
+currency, and to make all bank-to-bank transfers in the new single 
+currency. Regular reporting to national central banks, which will 
+function under the new European Central Bank somewhat as regional 
+Federal Reserve Banks operate in the United States, must be in euros. 
+And since securities markets like the stock exchanges in Paris, Milan 
+and Frankfurt, Germany, must operate in euros, the banks' brokerage 
+units will have to be equipped for euro-denominated investments. Thus, 
+brokerage firms, banks and financial-service companies, spurred in 
+many cases by euro-prone customers, are racing to get ready. Most 
+will use the long weekend in early January to fine-tune systems for 
+the start of business on Monday, Jan. 4. ``Sure, there will be some 
+problems,'' said Bellu, who has overseen his bank's drive to the euro, 
+with a sigh of realism. ``Monday the 4th will tell us if it works.'' 
+Christian Noyer, deputy chairman of the European Central Bank in Frankfurt, 
+said the central banking system appeared ready to go. ``All the systems 
+have been tested and retested,'' he said in a recent interview. ``The 
+worst has been imagined, along with the solutions.'' Euro coins and 
+bills will not be introduced until the end of 2001, but starting in 
+January the marks and francs and lire in circulation will simply be 
+fixed units of the new euro, the banking system's fundamental yardstick. 
+And since much commerce in Europe, as in most modern economies, is 
+conducted without cash, hotels, department stores and most other consumer-oriented 
+businesses are moving to list prices and take payment in both euros 
+and local currencies. American Express will offer credit-card and 
+banking services in euros and local currencies; in January it will 
+start selling euro traveler's checks in 21 countries, including the 
+United States. ``Early indications are that large department stores 
+and hotel chains are ready to price in euros and accept payment,'' 
+said Keith Meyrick, spokesman for the traveler's-check program in 
+London. For American travelers to Europe, the advantage is clear. 
+With 11 European currencies locked together in the euro, euro traveler's 
+checks will be exchangeable for all 11 currencies at a predictable 
+rate, reducing the need to exchange dollars into local currencies 
+along the way and thus the risk of losing money if the dollar-euro 
+exchange rate shifts. ``Anyone who sees a competitive advantage in 
+the euro will use euros,'' said Bruno Leresche, who heads the transition 
+to the euro at Paribas, the big French financial-services group. The 
+biggest question for bankers is the extent to which ordinary consumers 
+will switch to euros. Will customers want bank accounts denominated 
+in euros, or request monthly statements in both euros and local currencies? 
+Partly, that will depend on how soon, say, employers begin transferring 
+salaries to employees' bank accounts in euros, or how soon landlords 
+require that rents be paid in euros. Given their druthers, many customers 
+do not appear eager to switch, bankers say. Recently, Paribas surveyed 
+its private clients, and few even bothered to reply, Leresche said. 
+Customers reacted, he said, as they do to a new model television set. 
+``When I see my neighbor get one,'' he said in describing the common 
+attitude, ``I'll buy it.'' Still, banks that want to be competitive 
+are striving to be ready. They are tailoring computers and software 
+to enable monthly statements to be issued in euros, or in a combination 
+of euros and local currencies. Thus, a bank customer who regularly 
+receives deposits on a French franc account in German marks and Spanish 
+pesetas might request that monthly statements give the total euro 
+amounts plus a breakdown into local currencies. Some banks are already 
+gearing their computer software to be able to provide such information. 
+And well-prepared banks are trying to persuade customers to make the 
+switch to euros sooner rather than later. Paribas, Leresche said, 
+spent $71 million preparing. Come January, it will offer all services 
+in French francs, euros or a combination of currencies. Over two years, 
+Cariverona invested $8 million to overhaul 30,000 software applications, 
+said Bellu, including some that prepare monthly statements and others 
+for making interbank payments, and to train personnel to explain the 
+benefits. By the year 2002, Deutsche Bank will have spent $295 million 
+for euro conversion, according to Victor Bruns, its euro project manager. 
+He figures the bank has burned up ``1,200 man-years'' on the project. 
+``We believe we will make it, but a switchover of this magnitude is 
+a unique thing,'' he said. Gartner Group, the U.S. technology consultants, 
+estimates that Europe's total investment between 1996 and 2002 to 
+introduce the euro will be as much as $400 billion. Experts agree 
+that much has already been accomplished. ``It's been mostly a people 
+and systems challenge, and overall, it's been very well met,'' said 
+Keith Stock, head of A.T. Kearney's global financial institutions 
+group in New York. Given the costs, many banks are trying to kill 
+two birds with one stone, eliminating the so-called Y2K millennium 
+bugs from computers while preparing for the euro. Despite shortages 
+of consultants and software experts that have driven up the cost of 
+services, what makes the situation manageable, bankers say, is that 
+not everything must be done at once. Banks have concentrated efforts 
+on absolute requirements, like interbank payments. Paribas' Leresche 
+said French banks had done ``virtual transfers'' on recent weekends 
+to test transfers among banks. The banks, he said, distinguish between 
+fundamental snags in the system and those that simply make it slower 
+or less efficient. ``There have been no fundamental bugs,'' he said, 
+reflecting a widespread impression in other European countries. What 
+troubles bankers much more, however, is the euro's impact on their 
+income, a problem not fixable with new software. Earnings from foreign 
+exchange, traditionally a lucrative source of profit, will dry up. 
+Italy's banking association predicts that gross profits in the industry 
+will drop an average 37 percent after the euro. Cariverona says it 
+will shed 80 percent of its foreign-exchange trading. Moreover, the 
+fiscal belt-tightening required to qualify for the euro has led to 
+lower interest rates, narrowing the spread between the relatively 
+low interest banks pay on deposits and what they earn by reinvesting 
+the deposited assets in high-yielding securities, like government 
+bonds, thus squeezing a second major source of bank income. To offset 
+this decline in traditional income sources, many banks hope to expand 
+investment banking. But experts agree that the process will create 
+many winners and losers, leading to further bank concentration. In 
+France, small rural banks with few corporate customers are moving 
+more slowly than banks in Paris. In Italy, banks in the south, still 
+struggling with losses accumulated in the early 1990s, are far from 
+ready. Experts say most will be able to execute essential functions, 
+like interbank transfers, but may not be prepared to offer customers 
+extra services, like dual currency statements or other euro-denominated 
+services. Rome's Banca Nazionale del Lavoro, the government-owned 
+bank whose executives have been getting it ready for an offering of 
+shares on the stock market, will be ready to meet the requirements 
+for the euro, but they have had little time to push a euro strategy 
+much beyond that. Often small banks are under little pressure from 
+corporate customers to change. ``Among Italian small businesses, the 
+degree of preparation is very low,'' said Angelo Peretti, an economist 
+at Cariverona. They view the euro, he said, ``mainly as an accounting 
+and monetary problem, not as a strategic problem.'' Earlier this year, 
+General Motors' European unit told 15,000 suppliers across Europe, 
+many of them small and medium-sized companies, that they should be 
+ready by January to quote prices in euros. Hans De Vriese, director 
+of cost management for GM's European purchasing, said that 95 percent 
+replied that they were ready to do so. In Germany, big corporate customers 
+have told Volkswagen that they want prices in euros as soon as possible. 
+Beginning in January, VW will comply, and it has passed the message 
+to its suppliers. Brigitte Dietz, who heads VW's push to the euro, 
+said the company hoped to switch from dollars and German marks as 
+its operating currencies to the euro. Still, she said, ``We won't 
+force anyone.'' Paradoxically, the very governments that imposed the 
+euro are the biggest obstacles to its wider use. Earlier this year, 
+Italy said its tax-collecting and social-security offices would not 
+be ready to deal in euros until 2002; in Belgium and Germany, local 
+and federal tax offices and benefits agencies have said the same. 
+Thus, for internal accounting, VW will introduce the euro ``at the 
+latest possible date, in order to spare resources,'' Ms. Dietz said. 
+Moving sooner, she said, would mean ``still having to do everything 
+in German marks, and that would cost two to three times as much.'' 
+</TEXT>
+</DOC>

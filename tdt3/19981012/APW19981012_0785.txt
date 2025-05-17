@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> APW19981012.0785 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+British Aerospace PLC is in merger talks with Daimler-Benz Aerospace 
+of Germany and other European firms, the companies confirmed Monday 
+after the Financial Times reported the two planned to join forces 
+early next year. 
+</TEXT>
+</DOC>

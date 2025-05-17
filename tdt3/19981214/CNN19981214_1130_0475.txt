@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981214.1130.0475 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's time for the extended national weather forecast. After that -- 
+mixed news on the frequency of violent crime. 
+</TEXT>
+</DOC>

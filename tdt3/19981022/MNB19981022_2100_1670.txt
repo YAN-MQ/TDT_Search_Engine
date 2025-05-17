@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> MNB19981022.2100.1670 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A couple of notes here. The Kia motor company has ordered a recall 
+for more than 20,000 of its "Sportage" sport utility vehicleses in 
+order to investigate them for a Problem with its brakes. Owners are 
+being notified by mail. 
+</TEXT>
+</DOC>

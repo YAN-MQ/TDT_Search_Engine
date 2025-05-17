@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981216.0130.0476 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Libyan parliament has given conditional approval to a plan to 
+try the two Libyan suspects in the 1988 bombing of Pan Am Flight 103 
+over lockerbie, Scotland. The British foreign office says it's "cautiously 
+optimistic" that the decision eventually will lead to a trial. The 
+United States and Britain have been strongly urging Libya to turn 
+over the suspects for trial at the Hague, under Scottish law. 270 
+people were killed in the bombing of flight 103. 
+</TEXT>
+</DOC>

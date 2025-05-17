@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981128.0130.0719 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There's no more listening in on the cops. Several U.S. cities are 
+adopting new police scanners that would scramble the transmitting 
+signal making home scanners obsolete. Many police departments think 
+the current scanners leak sensitive information. Nashville, Tennessee, 
+is spending $35 million to get the new system up and running by the 
+year 2000. Honolulu and Des Moines, Iowa, are among the cities that 
+have made the switch. 
+</TEXT>
+</DOC>

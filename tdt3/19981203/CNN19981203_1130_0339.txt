@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981203.1130.0339 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Minutes before the space shuttle "endeavour" was scheduled to lift 
+off, an alarm sounded that kept controllers busy long Fluff to ground 
+the shuttle for the day. The "endeavour" missed the launch window 
+by a few seconds. The window is determined by the orbit of the first 
+international space station, part launched by the Russians two weeks 
+ago T crew is scheduled to hook up the second part of the space station. 
+NASA will try to launch "endeavour" again tomorrow morning. Launch 
+controllers have determined the alarm went off after a momentary dip 
+in hydraulic pressure. The zarya, the Russian Module was launched 
+two weeks ago. What we have to do is wait until the earth rotating 
+underneath the orbital plane of the zarya. It's a very, very tricky 
+thing to do. It limbed us to 3:42. Today's delay is expected to cost 
+NASA $650,000, most in overtime pay and fuel for the shuttle. 
+</TEXT>
+</DOC>

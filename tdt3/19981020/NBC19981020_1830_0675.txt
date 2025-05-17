@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981020.1830.0675 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another good day for Wall Street, at one point the Dow soaring over 
+185 points, ending the day up almost 40 points for the fifth winning 
+session in a row. The NASDAQ was down almost 10 points. And the top 
+five tech stocks were also down. 
+</TEXT>
+</DOC>

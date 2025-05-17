@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981023.1130.0434 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The big apple is celebrating the Yankees' world series championship 
+as only New York can. Many as 3 million people are expected to line 
+Broadway's Canyon of heroes for today's ticker tape parade. That parade 
+is just getting under way. The Yankees swept the San Diego padres 
+in four games to win the world series Wednesday night. 
+</TEXT>
+</DOC>

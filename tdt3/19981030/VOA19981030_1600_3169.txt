@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> VOA19981030.1600.3169 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And while we're talking about communications, Swedish telecommunications 
+company Erikkson says it's been awarded a $63 million contract to 
+install a private radio network in Canada. Erikkson will provide a 
+network for E Com which provides emergency communications systems 
+in Southwest British Columbia. The network should be in service early 
+spring of 1999 providing wireless emergency communications for police, 
+ambulance, and fire services. Dow Jones News wire reports say the 
+network will eventually cover a nearly 34,000 square kilometers of 
+British Columbia, including the greater Vancouver area. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981015.1130.0265 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The United States has one of the highest rates of teen pregnancies 
+among industrialized nations. But the numbers are declining. A new 
+study shows the U.S. teen pregnancy rate at a 20-year low -- down 
+14% since 1990. The study also indicates the number of teen abortions 
+dropped by one-fourth between 1990 and 1995. 
+</TEXT>
+</DOC>

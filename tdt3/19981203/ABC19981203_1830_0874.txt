@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981203.1830.0874 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Truck sales are booming. Last month, more people bought sport utility 
+vehicles, minivans and pick-UPS than cars. 
+</TEXT>
+</DOC>

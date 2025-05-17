@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981224.1130.1331 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At the motor city classic, Marshall dogged Louisville 48-29. Quarterback 
+Chad pennington threw for 411 yards and four touchdowns as the thundering 
+herd accumulated 613 total yards of offense. 
+</TEXT>
+</DOC>

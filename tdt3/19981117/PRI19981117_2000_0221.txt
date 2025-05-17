@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981117.2000.0221 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock prices closed lower today on Wall Street and the Dow Jones Industrial 
+Average lost 25 points to close at 8986. Declines led advancers by 
+a small margin in heavy trading. This is NPR News. 
+</TEXT>
+</DOC>

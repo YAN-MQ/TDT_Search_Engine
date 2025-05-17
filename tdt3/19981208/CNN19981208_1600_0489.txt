@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981208.1600.0489 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for tomorrow morning. You can see a cold front across 
+the midsection of the nation but not much precipitation at all associated 
+with this frontal boundary. Meanwhile, the cold front that moved through 
+the east and brought to an end the record-setting warm temperatures, 
+continues to push out into the atlantic, carrying the rainfall with 
+it. In the west, there's a large area of high pressure in place across 
+much of the west. And this means clear skies for many places, but 
+temperatures will be quite chilly. Take a look at your forecast for 
+high temperatures. In the central Rockies highs only in the 20s. The 
+east, warmer than the west, but much cooler than it has been. We look 
+now to our extended forecast -- on Thursday, we're looking at a mix 
+of showers and thunderstorm along the gulf coast, Louisiana and Texas. 
+Temperatures in the west moderate somewhat. As we move on into Friday, 
+snow showers are expected in the upper Great Lakes area and thunderstorms 
+are possible in parts of the southeast. Again, the west continues 
+to warm just a bit. And as we move on into Saturday, you can see snow 
+showers again possible in the Great Lakes area. For more weather information, 
+log on to CNN.com. 
+</TEXT>
+</DOC>

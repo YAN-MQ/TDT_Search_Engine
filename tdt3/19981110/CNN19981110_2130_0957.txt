@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981110.2130.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors played it cautious today and that helped push the stock 
+market down. The Dow Jones industrial average dropped 33 points to 
+close at 8863. 
+</TEXT>
+</DOC>

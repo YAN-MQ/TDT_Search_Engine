@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981228.2130.0492 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+there's now a safer way for people with narcolepsy to stay awake. 
+today, the fda approved provigil, a drug designed to fight frequent 
+bouts of sleepiness. researchers say it is less addictive and has 
+fewer side effects than the amphetamines and other stimulants that 
+narcoleptics often use. one study indicated the drug improved patients' 
+day-to-day performance by 50%. provigil could be available in february. 
+</TEXT>
+</DOC>

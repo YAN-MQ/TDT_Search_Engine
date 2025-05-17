@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981106.1130.1020 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mitsubishi is cutting up to 1,000 jobs in Illinois and California, 
+under a Major restructuring plan. That's about 20% of Mitsubishi's 
+U.S. workforce. They will be eliminated in the next two years. The 
+Japanese automaker will also reduce the number of models it now offers 
+by 40%. These moves come, as Mitsubishi reports heavy losses for the 
+first half of this year. Mitsubishi says it's been hit hard by the 
+economic crisis in Asia and a Sharp drop in car sales in Japan. 
+</TEXT>
+</DOC>

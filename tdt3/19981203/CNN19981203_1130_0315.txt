@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981203.1130.0315 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A University of California study concludes charter schools don't live 
+up to claims. The report is one of the first to look at the Lang-term 
+performance of charter schools. According to the study, the schools 
+have too much control over who attends, rely too much on private money 
+and have no way to measure if stunts are doing better. Nearly 1100 
+clarter schools have opened in 26 states. 
+</TEXT>
+</DOC>

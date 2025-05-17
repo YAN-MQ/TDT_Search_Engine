@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981029.1600.0508 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the U.S. is next. And later, Californians 
+take sides on the topic of horse meat as food. 
+</TEXT>
+</DOC>

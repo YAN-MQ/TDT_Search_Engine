@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981027.1600.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane Mitch has weakened slightly as it moves over the Caribbean 
+sea. But it's still a very strong storm with average top winds of 
+155 miles an hour. 
+</TEXT>
+</DOC>

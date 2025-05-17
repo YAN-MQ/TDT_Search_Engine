@@ -1,0 +1,87 @@
+<DOC>
+<DOCNO> NYT19981216.0342 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Aetna Inc.'s proposed purchase of the health care business of Prudential 
+Insurance Co. of America has touched off concern among doctors and 
+consumers, but Aetna's size and market power could ultimately benefit 
+patients. The acquisition would create the nation's largest health 
+insurer, serving one in every 10 Americans and writing contracts with 
+about half of the nation's physicians. Doctors fear the behemoth will 
+harden Aetna's already aggressive assault on tests and procedures 
+it deems excessive, and some consumer advocates worry that an enlarged 
+Aetna will bully patients. Rival insurance companies recoil at the 
+prospect of competing against a company with the market power to negotiate 
+steep discounts with hospitals. But the critics overlook a powerful 
+reason in favor of the takeover. If insurance companies spent most 
+of the last decade belligerently cutting costs, they will probably 
+spend the next decade evaluating the quality of patient care. Here, 
+large plans will have a decisive advantage. Tight oversight of patient 
+care requires hugely expensive computer systems that only large insurance 
+companies can afford. Aetna is creating such systems. So too is New 
+York state's largest insurer, Empire Blue Cross and Blue Shield. In 
+a rapidly evolving business, size becomes the patient's friend. Richard 
+Huber, president of Aetna, said as much when he announced the deal 
+for Prudential Health Care. He predicted that ``the wave of company-led 
+cost-cutting is nearly complete. The next big push will be quality.'' 
+The large size of Huber's company does not guarantee success. But 
+without large size, it might well fail. Aetna's new heft will give 
+it only 10 percent of the national market and up to 30 percent of 
+some regional markets. Those are not formidable numbers. Besides, 
+there are ample remedies if the antitrust authorities find local pockets 
+of excessive concentration. Size will also help insurance firms create 
+computerized data systems that track diagnoses, treatments and prescriptions. 
+The idea is to flag errant care before it does harm. The huge development 
+costs for these computer systems can only be absorbed if the insurer 
+can spread the expense over many patients. Aetna has been developing 
+clinical information systems for almost a decade. Every time one of 
+its 16 million customers files a claim for a procedure, test or drug, 
+the transaction enters Aetna's computer files. Aetna distributes reports 
+to each of its physicians once or twice a year, telling them how their 
+treatment of several prominent medical problems compares with that 
+of their peers. The physicians learn, for example, how many of their 
+diabetes patients, compared with diabetics nationwide, received an 
+annual eye exam. Aetna reports how many of the doctors' patients filled 
+their drug prescriptions and how many of their asthma patients suffered 
+attacks severe enough to send them to a hospital emergency room. The 
+company contends that doctors are responding to its reports by slowly 
+bringing their treatment practices in line with recommendations by 
+the major medical societies. Empire has created a sophisticated oversight 
+system that so far covers about 100,000 enrollees, including employees 
+of Merrill Lynch &AMP; Co. and Circuit City Stores Inc. The important 
+feature of Empire's system, says its president, Michael Stocker, is 
+instant feedback. Each day, Empire runs data on each of the 100,000 
+enrollees through its computer to search for ``triggers'' _ events, 
+like admission to a hospital or prescription for a new drug _ that 
+justify subjecting the patient's medical record to careful scrutiny. 
+Empire says it pulls about 60 files a day for close examination. It 
+then turns the files over to a company that examines the patient's 
+labs tests, prescriptions and medical procedures for evidence of mistaken 
+diagnoses or inappropriate treatment. The records are referred to 
+academic specialists for independent review. If the review turns up 
+a problem, Empire's doctors call the patient's physicians to suggest 
+corrections. Empire says it makes one or two such calls a day. Jamie 
+Court, a prominent consumer advocate in California, supports the use 
+of computer systems ``when their purpose is to root out errors rather 
+than to deny care for the purpose of cutting costs.'' Empire points 
+to cases where errant care was corrected before it did harm. In the 
+case of a patient admitted to a hospital for knee surgery, it was 
+found that he had been taking an unnecessarily dangerous drug to combat 
+colitis. Another patient was found to be taking a blood thinner she 
+did not need but not taking anticholesterol drugs she did need. And, 
+her records indicated, she had not been properly examined for peptic 
+ulcer disease. A third patient was found to be taking duplicate drugs 
+both to lower her cholesterol and to lower her blood pressure. Empire's 
+system provides daily checks, rather than the quarterly and annual 
+reports of many other clinical-data systems. Health maintenance organizations 
+argue that, by putting a single physician _ called a gatekeeper _ 
+in charge of a patient's care, they eliminate inconsistent therapies. 
+Otherwise patients are prone to visit multiple doctors who know little, 
+if anything, about one another. The intriguing feature of clinical-data 
+systems is that they harness computers to perform some of the error 
+checking that gatekeepers perform. There remains the important task 
+of persuading patients and physicians to adopt wise counsel, a difficult 
+problem that may turn out to be managed care's true advantage. 
+</TEXT>
+</DOC>

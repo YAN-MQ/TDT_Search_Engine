@@ -1,0 +1,79 @@
+<DOC>
+<DOCNO> NYT19981115.0183 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The trial of a 30-year-old computer executive, soon to begin in Shanghai, 
+heralds a new electronic battleground for China's political dissidents 
+and security forces determined to preserve Communist Party control. 
+Lin Hai, the defendant, is charged with ``inciting subversion of state 
+power.'' Prosecutors say that from September 1997 until his arrest 
+in March, Lin gave tens of thousands of Chinese e-mail addresses to 
+``hostile foreign publications.'' In particular, they say, he provided 
+addresses to an electronic newsletter called VIP Reference, which 
+is compiled by Chinese democracy advocates in Washington and sent 
+to hundreds of thousands of computer-users inside China. According 
+to the indictment, Lin helped the newsletter ``carry out propaganda 
+and incitement by distributing essays inciting subversion of state 
+power and overthrow of the socialist system.'' Lin appears to be the 
+first legal casualty of a building struggle, as Internet users here 
+and abroad make shreds of the government's efforts to censor political 
+debate and filter foreign news. VIP Reference _ which sends out reports 
+on dissident activities, essays and reprinted articles on human rights 
+and other issues _ is the most prominent of several electronic forums 
+that are breaching China's information defenses. ``We're promoting 
+freedom of speech on the Internet,'' said Feng Donghai, a software 
+engineer at Columbia University who moved to the United States three 
+years ago and helped start VIP Reference last fall. ``They are putting 
+Lin Hai on trial to set an example.'' The main VIP Reference, sent 
+out every 10 days, mostly includes essays and debates on democratic 
+topics. A subsidiary Daily News edition, sent daily, includes detailed 
+accounts of dissident initiatives and arrests. The main newsletter 
+is now sent to more than 250,000 addresses in China, said its publisher, 
+Lian Shengde, who spoke from Washington. The Daily News edition goes 
+to about 25,000, and the numbers are steadily climbing as sympathizers 
+send in lists of Chinese addresses. The newsletter accepts addresses 
+indiscriminately _ many are from commercially traded lists _ then 
+mails to everyone. The theory is that when so many are automatic recipients, 
+individuals cannot be accused of deliberately subscribing. ``We're 
+posing a new problem for the Communists,'' said Lian, a software engineer 
+in his 30s who moved from China after the 1989 military crackdown 
+on student-led demonstrators in Beijing's Tiananmen Square. ``I don't 
+think there's any way they can stop us.'' Another, similar publication 
+is Tunnel, a self-described ``webzine'' of commentary written in China 
+and sent electronically to the United States from where it is wired 
+back to thousands of accounts inside China. The sites, which require 
+Chinese-script software, are at www.ifcss.org/ftp-pub/org/dck for 
+VIP Reference and www.geocities.com/SiliconValley/Bay/5598 for Tunnel. 
+A third newsletter, Public Opinion, is edited and distributed electronically 
+from inside China. It includes commentaries and reprints of items 
+taken off the Internet and is produced by a group of young computer 
+company workers who call themselves ``political netters.'' Over the 
+last year, these newsletters, plus assorted online discussion groups, 
+have become important means of communication among political activists, 
+said Xiao Qiang, executive director of Human Rights in China in New 
+York. China now has some 1.2 million Internet accounts, many shared 
+by several users, with the numbers zooming. The government has encouraged 
+hookups in the interest of promoting national development, but is 
+fighting a losing battle to control political uses. China uses an 
+electronic ``firewall'' to block access to Web sites it deems objectionable, 
+including those of human rights groups and some considered pornographic. 
+But it cannot keep up with new sites, and clever users can sidestep 
+the firewall. E-mail is virtually uncontrollable, although agents 
+can identify a particular individual and read that person's mail. 
+China's security agencies have formed special units to fight not only 
+conventional computer crimes like illegal break-ins and fraud, but 
+also the spread of dissident information. To evade government filters 
+and electronic disruptions, VIP Reference is mailed from a different 
+American address every day. Somehow, the authorities zeroed in on 
+Lin. Last week, Lin's wife, Xu Hong, learned that his trial will begin 
+on Nov. 26 but will be a closed proceeding so that she cannot attend. 
+The lawyers she hired will be present but, Ms. Xu said by telephone, 
+``I'm afraid the lawyers won't have much influence on the results.'' 
+If convicted as charged, Lin may face a prison sentence of five years 
+or more. He and his wife have a 20-month-old son. Ms. Xu, who says 
+her husband is innocent, said that e-mail addresses are ``public information, 
+like telephone books, which can be exchanged or purchased.'' He has 
+never been involved in politics, she said. 
+</TEXT>
+</DOC>

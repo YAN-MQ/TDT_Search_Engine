@@ -1,0 +1,172 @@
+<DOC>
+<DOCNO> NYT19981025.0083 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In six days, the nation begins the government-mandated changeover 
+to digital broadcasting _ a transition with no real precedent. No 
+other national technological transition has ever been backed by this 
+sort of government decree. Nobody was forced to trade a horse for 
+an automobile, a Victrola for a radio, a typewriter for a computer. 
+But this change will eventually affect almost every household in the 
+nation. Sometime in the next decade or so, by federal mandate, today's 
+television stations will go off the air, to be replaced by all-digital 
+stations. At that point, everyone will need a digital receiver to 
+continue watching television. The change will enable viewers to receive 
+vividly sharper and clearer television images. But digital television 
+receivers also hold the potential to enrich the medium with user interaction 
+of the sort now available on computers. Cataclysmic as the shift may 
+seem, however, when the transition begins on Sunday _ and for a good 
+number of months to come _ it will be exceedingly hard to notice. 
+Yes, more than three dozen stations intend to begin some sort of digital 
+broadcasts on Sunday or in the days that follow. And ABC plans to 
+broadcast the first network high-definition program on Sunday evening 
+_ the 1996 remake of the Disney film ``101 Dalmatians.'' Just don't 
+expect many people actually to see the HDTV pictures. About two-thirds 
+of the nation's television households receive their programs by cable, 
+and the cable industry is fighting hard to avert any federal requirement 
+that they transmit the broadcast networks' digital programming. Moreover, 
+despite promises by broadcasters and manufacturers over the last year, 
+hardly any digital HDTV receivers are on sale today. As the transition 
+begins, broadcasters will offer only the tiniest amount of high-definition 
+programming _ probably fewer than five hours most weeks from all five 
+major television networks combined. Television manufacturers and many 
+broadcasters have long argued that HDTV, the premium service that 
+digital broadcasting can offer, will be the primary feature motivating 
+people to buy digital sets. Nonetheless, for the foreseeable future, 
+most networks and local stations will simply be transmitting digital 
+versions of their regular programs with no increase in the resolution, 
+though digital broadcasting does, by itself, improve the quality of 
+the picture a bit. At least 42 stations nationwide will begin digital 
+broadcasting in November, many of them starting on Sunday morning. 
+The National Association of Broadcasters trumpeted the number at a 
+news conference earlier this month, since it is nearly double the 
+number of stations that promised the Federal Communications Commission 
+last year to begin broadcasting now. The FCC had pushed 23 stations 
+in the 10 largest cities to go on the air by Nov. 1 so that consumers 
+would have a reason to buy the first high-definition sets during the 
+Christmas shopping season. One digital station, WCBS, will start up 
+in New York on Sunday. Four other stations will start on Sunday or 
+soon after, one each in Los Angeles, Philadelphia, San Francisco and 
+Washington. And a scattering of additional stations will begin on 
+Sunday or soon after in 18 other cities, including Honolulu, Milwaukee 
+and Jackson, Miss. The head of one of those stations, Terry Shockley, 
+president of Shockley Communications, owner of WKOW, an ABC affiliate 
+in Madison, Wis., said, ``We are prepared and ready on Nov. 1 to carry 
+the first high-definition programming,'' the ``101 Dalmatians'' movie. 
+Viewers with conventional sets will be able to watch the ABC movie, 
+as usual. Only viewers with new digital television receivers will 
+be able to receive the high-definition version. For several years, 
+digital broadcasts will be transmitted over a second channel that 
+each station has received on loan from the FCC. Eventually, stations 
+will be able to use only a single digital channel _ and consumers 
+will then have no choice but to use digital sets. So far, though, 
+television manufacturers _ which have much more to gain from this 
+transition than broadcasters do _ have fallen behind in the rollout 
+schedule. Only one manufacturer, Mitsubishi, has begun delivering 
+HDTV receivers to stores, and most of the stores are using those $7,000 
+sets as display models, taking orders from customers who want to buy 
+them. As a result, several network leaders grumbled that their first 
+broadcasts faced a ``tree falling in the forest'' problem. The momentous 
+start of digital broadcasting will be seen by perhaps a smattering 
+of consumers who may have bought sets as well as a handful of industry 
+executives and others who have been lent prototype receivers by the 
+manufacturers. That is one reason the networks are making no great 
+effort to broadcast high-definition programming. ``I think we will 
+be able to count our viewers on our fingers and toes,'' said Martin 
+Franks, a senior vice president for CBS. ``It's fairly clear that 
+there are more transmitters than receivers at this point.'' Production 
+costs are another consideration. To create a high-definition version 
+of a movie for television, for example, a studio must transfer the 
+film to a videotape with a high-definition recorder, a process that 
+costs about $100,000 a film. ``We don't want to spend money on high-definition 
+movies unless there's someone out there to watch them,'' said Charles 
+Jablonski, an NBC vice president. NBC has no firm plans to broadcast 
+any high-definition programming in the next few weeks, except ``maybe 
+a movie, `Twister,' sometime in November,'' Jablonski said. The rest 
+of the program day will be filled with digital duplicates of the programming 
+being broadcast on the network's conventional analog channel. Analog 
+transmissions, so-called because they use electronic signals analogous 
+to lightwaves and soundwaves, have long been the technology used in 
+television. For much of the early days of digital broadcasting at 
+NBC, the analog signal will be run through a device that converts 
+it to the precise digital form that is known to the computing world 
+and that in the process also improves the resolution, simulating a 
+high-definition picture. Some local stations for the other networks 
+also plan similarly to ``upconvert'' their analog programming to simulate 
+HDTV. Simulated HDTV programs, however, will not be of the same quality 
+as those that actually originate in high definition. CBS intends to 
+broadcast four of this season's National Football League games in 
+high definition, the first on Nov. 8, a New York Jets-Buffalo Bills 
+game _ but only in the area around New York City. One other high-definition 
+CBS broadcast is planned: the Nov. 18 episode of the medical drama 
+``Chicago Hope.'' Over the last few years, CBS has been the loudest 
+proponent of HDTV, and early this year the network promised to broadcast 
+five hours of it each week at the start. But Franks explained: ``We 
+decided to put our energies into the live broadcast of football games 
+rather than sitcoms. We think that will be more effective.'' As it 
+is, CBS is the only network with current plans to offer any live high-definition 
+broadcasts. Since those broadcasts require high-definition cameras 
+and a host of related equipment, they are much more expensive and 
+complicated to produce. Fox, the network owned by News Corp., plans 
+no high-definition programming in the coming months. Long resistant 
+to the whole idea of HDTV, Fox executives early this year unsuccessfully 
+lobbied Congress to drop its insistence that broadcasters offer it. 
+For now, however, Lawrence Jacobson, the network's president, said 
+only, ``We're working with some of our movie suppliers, and I think 
+we will have some high-definition programming in the broadcast year,'' 
+which runs through the spring. Until then, the network will simply 
+convert its conventional analog programs to digital form. Fox plans 
+no other enhancements. PBS stations are not required to begin digital 
+broadcasting until 2003. Nonetheless, seven of them say they will 
+begin broadcasting next month. On Nov. 9, the network plans to offer 
+its first high-definition program, a documentary about a glass blower 
+in Venice. PBS says that show will kick off ``digital week,'' featuring 
+several special digital shows and World Wide Web site offerings. Afterward, 
+Ervin Duggan, the network's president, said, PBS stations will broadcast 
+one HDTV show a month. Paradoxically, ABC has the fullest high-definition 
+schedule. Last year, the network got in trouble with Congress when 
+its president at the time, Preston Padden, suggested that ABC would 
+forgo HDTV and broadcast several channels of pay programming instead. 
+Now, as it turns out, ABC is taking the lead, not only with its ``101 
+Dalmatians'' kickoff on Sunday but also with one or two high-definition 
+movies weekly. ``Our target is three to four hours of high definition 
+a week,'' Davis said. Last week, the network released a list of 27 
+movies that ABC will broadcast in high definition in coming months; 
+no other network is promising even one hour of HDTV each week. But 
+viewers who own an HDTV set are still not assured of seeing ABC's 
+high-definition broadcasts. The network is dependent on its affiliate 
+stations to carry them, and not every one of them will. WJLA, for 
+example, the ABC affiliate in Washington, will begin digital broadcasting 
+on Sunday to meet the letter of the federal law. But digital does 
+not necessarily mean HDTV, and WJLA has declined to go to the expense 
+of buying high-definition equipment, despite repeated entreaties from 
+the network executives, who are eager for members of Congress to see 
+their high-definition broadcasts. So on WJLA, ``101 Dalmatians'' will 
+be converted down to a standard-resolution digital show. Jerald Fritz, 
+a vice president for Allbritton Communications Co., which owns WJLA, 
+said Allbritton did not want to spend $250,000 for a high-definition 
+encoder on top of the millions of dollars it had already invested 
+in digital transmission equipment. All other ABC stations beginning 
+digital broadcasts next month have bought the high-definition equipment, 
+network executives said. None of the networks say they plan to experiment 
+with multi-channel broadcasting, partly because ABC was severely criticized 
+in Congress for proposing the multi-channel concept last year. Using 
+digital compression, broadcasters can squeeze three or four standard-definition 
+digital programs in the space filled by one HDTV show; but that is 
+not the way Congress intended broadcasters to use their second channels. 
+Meanwhile, only one network, PBS, plans to experiment with digital 
+interactivity, in cooperation with Intel Corp. When PBS broadcasts 
+a documentary on Frank Lloyd Wright during ``digital week,'' Duggan 
+said, any viewers who have television tuner cards in their personal 
+computers will be able to download blueprints, bibliographies and 
+other data. Gary Shapiro, head of the Consumer Electronics Manufacturers 
+Association, said that his industry shares responsibility for the 
+paucity of high-definition programming on the broadcast networks. 
+``It doesn't make sense for them to do more until there are more sets 
+out there,'' he said. But he, like every other executive interviewed, 
+said the public should be patient. ``This is like putting a man on 
+the moon _ it's a big technological change,'' he said. ``And like 
+getting a man on the moon, you have to take small steps at the beginning.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981209.1830.1002 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In California, for the first time you can now rent an electric car 
+on a Daily basis. At the Los Angeles airport, budget has them at $40 
+a day. 
+</TEXT>
+</DOC>

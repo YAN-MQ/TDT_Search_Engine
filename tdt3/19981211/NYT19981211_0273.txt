@@ -1,0 +1,51 @@
+<DOC>
+<DOCNO> NYT19981211.0273 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Sometimes corporate earnings matter to investors, and sometimes they 
+don't. Last week they mattered again. These shifting sands make investing 
+in the stock market mighty exasperating today. Since the market came 
+back to life in October, investors have felt safe buying stocks, regardless 
+of the earnings outlook. Their focus was on the positive effect that 
+three Federal Reserve interest rate cuts would have on stock prices. 
+But with further Fed easing unlikely before February, all eyes are 
+on earnings. Last week, fears about lower corporate profits knocked 
+down shares in Coca-Cola, the Ciena Corp. and Ralston-Purina. The 
+Dow Jones industrial average fell 2.1 percent on the week. Not much 
+has changed in the earnings picture. Sure, fourth-quarter profit warnings 
+have begun. But investors seem to think that the glass they see is 
+half-empty, not half-full. One thing that may be confusing investors 
+is the extreme difference in opinion between investment strategists 
+and industry analysts about what 1999 holds for profits. According 
+to First Call, Wall Street market strategists think earnings at Standard 
+&AMP; Poor's 500 companies will rise an average of 4.2 percent next 
+year. But when First Call compiles estimates of individual industry 
+analysts, the earnings-growth forecast jumps to 18.7 percent. Although 
+the gulf between the two groups is often large, it has not yawned 
+this wide since First Call began tracking the data five years ago. 
+Of course, investors could shrug off the bad news on profits, as they 
+have done before. But there are several reasons that earnings may 
+continue to nag at investors' psyches. One is that a glut in almost 
+everything _ from commodities like oil to finished goods like computers 
+_ means that companies cannot raise their prices. Though a plunge 
+in commodity prices provides an initial benefit to some companies 
+by lowering their costs, it also makes it difficult to raise prices 
+on finished products. So profits will be under pressure. Ed Hyman, 
+a founder of International Strategy and Investment in New York, has 
+identified a relationship between commodity prices and corporate earnings 
+that may presage a big decline in 1999 profits. Tracking year-over-year 
+changes in both the S&AMP;P 500's operating earnings and the Commodity 
+Research Bureau's commodity index, Hyman found that the moves had 
+a 64 percent correlation. With the commodity index down 17.5 percent 
+this year, corporate earnings could be vulnerable next year. Another 
+possible threat to earnings lies in consumer spending. Although consumer 
+confidence has rebounded from its nose dive earlier this fall, it 
+has started to slip again. The University of Michigan consumer sentiment 
+index dropped from 102.7 in November to a preliminary 100.7 this month. 
+And while retail sales have been strong this holiday season, Jason 
+Trennert, vice president at ISI reports that retailers say their pricing 
+power is extremely weak _ 4.2 on a scale of 0 to 100. Even when business 
+is good, profits are tougher and tougher to come by. 
+</TEXT>
+</DOC>

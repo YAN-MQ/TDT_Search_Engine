@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981104.0500.2975 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Sales of personal computers in Europe rose more than 23 percent in 
+the third quarter, maintaining their region's as the world's fastest 
+growing PC market. Price reductions were partly behind the increase. 
+</TEXT>
+</DOC>

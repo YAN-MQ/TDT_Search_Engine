@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981106.2130.0572 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Fitting child safety seats into some cars can be tricky, but that 
+soon could change. "The Washington Post" reports the White House will 
+unveil a universal system for installing the seats next month. The 
+paper says the plan would take effect as early as next year for some 
+models. According to federal statistics 80% of children strapped into 
+safety seats are at risk because those seats are improperly installed. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981209.2130.1290 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We begin with sad news from the world of boxing. Hall of famer Archie 
+Moore has passed away at the age of 84. Moore enjoyed a 27-year career 
+and knocked out more fighters than anyone in history. He fought 229 
+times with 141 knockouts and is the only fighter to box both rocky 
+Marciano and Muhammad Ali. 
+</TEXT>
+</DOC>

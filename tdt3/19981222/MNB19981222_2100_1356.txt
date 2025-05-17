@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> MNB19981222.2100.1356 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Richard Branson's around the world balloon trip soared into the far 
+east today. After two days of diplomatic tensions over the balloon's 
+path, they finally cleared Japanese air space today in an attempt 
+to make the first around the world balloon trip. Richard Branson and 
+his team mates, Steve Fossett and per lindstrom, have completed 1/3 
+of their journey. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981208.1600.0913 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And, tens of thousands of people remain without power in San Francisco. 
+An early morning blackout left some 372,000 electricity customers 
+in the dark and caused rush hour nightmares. More on these stories 
+and all the day's news, coming up in 15 minutes. 
+</TEXT>
+</DOC>

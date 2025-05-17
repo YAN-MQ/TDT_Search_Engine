@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981027.1830.0283 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The space agency said hurricane Mitch will not have an effect on this 
+thursday's shuttle launch. It is too far away from cape Canaveral. 
+</TEXT>
+</DOC>

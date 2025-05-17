@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981122.1130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After 25 years owning the New York Yankees, George Steinbrenner is 
+cashing out. Media reports say he is selling all or part of the team 
+to cablevision for around $600 million. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981224.2000.1508 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock trading ended three hours early today for Christmas Eve. The 
+Dow Jones Industrials rose 16 points to 9218 after jumping 158 points 
+yesterday. It was the sixth straight gain for the 30-share Dow. The 
+NASDAQ composite index fell 10 points today to 2163. 
+</TEXT>
+</DOC>

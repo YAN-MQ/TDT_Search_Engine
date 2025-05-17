@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981021.0130.0737 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Two doctors at Emory University in Atlanta say they've created a way 
+to communicate through mind power. They apparently implanted a tiny 
+amplifier into the brain of a man who is both paralyzed and mute. 
+The doctors say he uses his brain signals to move a cursor across 
+a Computer screen to point at various messages. 
+</TEXT>
+</DOC>

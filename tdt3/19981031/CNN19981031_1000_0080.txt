@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981031.1000.0080 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Ken Starr and his office are under legal scrutiny. Federal judge Norma 
+Holloway Johnson has cited 24 examples where secret grand jury information 
+from the Monica Lewinsky investigation may have improperly made its 
+way to the media. She has ordered an investigation into the alleged 
+leaks by Starr and his office. The White House says it pleased and 
+calls the list stunning. Starr's office has promised to cooperate 
+in the investigation, while again denying it was the source of secret 
+grand jury information. 
+</TEXT>
+</DOC>

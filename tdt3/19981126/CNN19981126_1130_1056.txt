@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981126.1130.1056 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The real standouts this year have been the newcomers. Some of the 
+Internet initial public offerings have soared beyond expectations. 
+E-bay, the online auctioneer is up over 1,000% since September. Internet 
+software company inktomi has soared a stunning 650% since June, and 
+after jumping 600% on its first day of trading, the globe.com is still 
+up 345%. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981024.1000.1300 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The party kornted in New York City as hundreds of thousands of Yankee 
+fans gathered for a ticker tape parade for the Yankees. They won an 
+incredible 125 games this season. 
+</TEXT>
+</DOC>

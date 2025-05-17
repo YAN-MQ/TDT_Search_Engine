@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981110.1600.0938 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+They may look tough, but the insurance institute for highway says 
+most small sport utility vehicles didn't offer much crash protection 
+in its 40 mile an hour crash tests. 
+</TEXT>
+</DOC>

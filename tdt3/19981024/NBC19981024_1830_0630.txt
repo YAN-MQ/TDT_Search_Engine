@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981024.1830.0630 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NasA's engineers transformed science fiction into the real thing today 
+as the unmanned deep space one soared into space. The futuristic spacecraft 
+carrying new technologies will travel 120 million miles across the 
+solar system powered by ion propulsion. The inventor got the idea 
+from a "star trek" episode. 
+</TEXT>
+</DOC>

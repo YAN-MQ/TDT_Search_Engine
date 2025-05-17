@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981121.1300.0423 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Experts predict a smoldering Mexican volcano will erupt with less 
+intensity than previously feared. Researchers have spotted lava slowly 
+flowing from the Colima volcano. If it continues, a nearby village 
+is at risk. All 140 residents have been evacuated and will have to 
+wait before being allowed back home. An eruption in 1913 shattered 
+windows and spewed ash for several miles. 
+</TEXT>
+</DOC>

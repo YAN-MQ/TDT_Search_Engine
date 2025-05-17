@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981222.1600.1013 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Regional phone companies suffer a legal setback. I'm Jan Hopkins with 
+this edition of "Dollars & Sense." A federal appeals court rules that 
+current laws governing the entry of local phone companies into the 
+long-distance market are constitutional. Those laws require the regional 
+bells to open local phone markets to long-distance companies and other 
+potential rivals before being granted permission to sell long-distance 
+service to local customers. The ruling, a setback for baby bells such 
+as bell south, bell atlantic and sbc. 
+</TEXT>
+</DOC>

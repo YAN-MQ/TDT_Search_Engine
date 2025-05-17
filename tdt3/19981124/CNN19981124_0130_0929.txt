@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981124.0130.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the United States is indicating the latest resistance from Iraq 
+is probably not enough to lead to force. Baghdad is refusing to turn 
+over 10 of 12 categories of documents requested by weapons inspectors. 
+Iraq calls the documents irrelevant. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981230.1830.0520 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A county grand jury investigation into the Oklahoma City bombing produced 
+one sealed indictment today. The jury rejected every conspiracy theory 
+put before it, deciding the federal government had no prior knowledge 
+of the bombing. The grand jury also found no credible evidence the 
+attack was linked to white supremacists or foreign terrorists. 168 
+people died in that bombing in April 1995. 
+</TEXT>
+</DOC>

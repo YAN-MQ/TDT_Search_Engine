@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981116.1130.1070 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Good news for web surfers -- Compaq computer is unveiling a line of 
+personal computers that allow faster connections to the Internet via 
+telephone and satellite. The PCs come equipped with high-speed Internet 
+access equipment, so that users will maintain constant Internet access 
+rather than dialing up each time they want to go on-line. Users of 
+the new service will be able to receive data as fast as 1.5 million 
+bits a second. That's virtually instantaneous access. The technology 
+requires phone lines that are free of interference, so compaq is calling 
+on leading cable, phone and satellite companies to step up their Internet 
+investments. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981130.2000.0227 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street, the Dow Industrials lost 216 points today to close 
+at 9116. 
+</TEXT>
+</DOC>

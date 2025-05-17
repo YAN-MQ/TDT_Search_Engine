@@ -1,0 +1,50 @@
+<DOC>
+<DOCNO> VOA19981126.1600.2959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In business news, World banking and monetary officials are holding 
+a series of consultations regarding preparations for what's come to 
+be known as the year 2000 problem. On New Years Eve of next year, 
+the dates on most computers will go from 99 to 00, an impossibility 
+from a computer standpoint, that could lead to massive systems crashes 
+worldwide. Michael Beauman reports US banking officials met this week 
+in Miami with colleagues from Latin America to discuss efforts and 
+progress in dealing with the problem. No one knows how much chaos 
+the year 2000 problem will bring. But several economists have suggested 
+the event could produce enough upheaval and loss of output to push 
+the United States into a recession. Some apocalyptic social commentators 
+have gone so far as to prophesize the ungluing of modern civilization, 
+with all commercial activity and government services screeching to 
+a halt. The Chairman of the Joint Year 2000 Council, Roger Ferguson, 
+says dire predictions are unwarranted. Launched just seven months 
+ago, the council is comprised of banking, insurance, and securities 
+regulators, and overseers from more than 100 countries. A member of 
+the Board of Governors of the US Federal Reserve System, Mr. Ferguson 
+says there is no need for panic regarding the year 2000, but stresses 
+the financial sectors of all countries must make a concerted effort 
+to address the looming computer problem. The clock will continue to 
+move, and the century date change is inevitable. Therefore preparations 
+must continue to be a top priority. Speaking at the conclusion of 
+a council meeting with members from 27 nations throughout the Americas, 
+Mr. Ferguson said all financial institutions, even those lagging behind, 
+can still address the year 2000 problem. Some have said, that for 
+any firm that has not started this process, it is already too late. 
+I would say that even if a firm is not as advanced as it should be, 
+it is still important to identify and start to work on mission-critical 
+systems. Mr. Ferguson says the year 2000 problem could provoke a slight 
+dip in US productivity, and could shave one tenth of one percent from 
+the US gross domestic product, for the year 2000. But he said economic 
+disruptions arising from the phenomenon will likely be small, manageable 
+and short-lived. Mr. Ferguson adds, technical problems are not uncommon 
+in global finance, and long-term harmful effects are rare. To some 
+extent we have already lived through small disruptions. We've had, 
+as you know, problems with electricity in telecommunications in Wall 
+Street. The world continued to function quite smoothly. We've had 
+ice storms in London, and again, the world continued to function smoothly. 
+And what we've discovered is that the world economy in those circumstances 
+is quite resilient. Mr. Ferguson says he would expect the world economy 
+to display similar resilience in bouncing back from any computer problems, 
+once the year 2000 dawns. Michael Beauman, VOA News, Miami. 
+</TEXT>
+</DOC>

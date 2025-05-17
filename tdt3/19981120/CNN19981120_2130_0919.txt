@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981120.2130.0919 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+All 46 eligible states have approved a record settlement with the 
+tobacco industry. Tobacco companies will pay $206 billion to cover 
+smokers' health care costs. 
+</TEXT>
+</DOC>

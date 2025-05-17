@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981010.1300.1344 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Yankees and Indians resume tonight. Cleveland leads that series 
+after putting on a home run clinic last night. The tribe tied a record 
+with four home runs in a 6-1 pounding. 
+</TEXT>
+</DOC>

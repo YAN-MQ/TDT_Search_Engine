@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981214.1600.1106 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the paperless tax return has arrived. The federal Internal Revenue 
+Service is mailing postcards to 12 million taxpayers this month. Each 
+card bears an E-file customer number, which will serve as an online 
+signature. 
+</TEXT>
+</DOC>

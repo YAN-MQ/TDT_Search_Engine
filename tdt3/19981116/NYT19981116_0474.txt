@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> NYT19981116.0474 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Two former brokers pleaded guilty Monday to taking secret stock information, 
+another victory for New York state prosecutors in one of the biggest 
+insider-trading cases of recent years. Robert Breed, a former broker 
+at First United Equities, and Jennifer D'Antoni, a former Duke &AMP; 
+Co. broker, pleaded guilty to charges brought by the Manhattan district 
+attorney, Robert Morgenthau. Breed pleaded guilty to third-degree 
+criminal possession of stolen property, and Ms. D'Antoni pleaded guilty 
+to a violation of the state's general business laws. Both pleas were 
+in connection with the use of confidential information supplied by 
+Marisa Baridis, a former compliance aide at the Wall Street firms 
+Morgan Stanley and Smith Barney. Nine people have now admitted guilt 
+in the case, in which Ms. Baridis, 30, admitted selling tips on stocks 
+of companies involved in takeovers. She pleaded guilty late last year 
+to federal charges of conspiracy and securities fraud and is awaiting 
+sentencing. Two other defendants, Mark Nogid and Vincent Napolitano, 
+continue to fight the charges. Their trial is scheduled to begin on 
+March 8. The Baridis case has been a subject of contention between 
+state and federal prosecutors. Both offices originally brought charges 
+against Ms. Baridis, but Morgenthau's office backed down because the 
+dual charges raised concerns about double jeopardy. But the state 
+has continued to prosecute others involved in the case. Justice Edward 
+McLaughlin of New York State Supreme Court in Manhattan ruled in September 
+that state prosecutors have the authority to pursue insider-trading 
+cases, an area once considered the preserve of federal prosecutors. 
+``We are hoping that anyone involved in insider trading will realize 
+that they are subject to prosecution in the state courts under the 
+penal law,'' said James Kindler, chief assistant district attorney. 
+</TEXT>
+</DOC>

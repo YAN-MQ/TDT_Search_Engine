@@ -1,0 +1,87 @@
+<DOC>
+<DOCNO> NYT19981114.0114 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Saying that he is ``deeply troubled'' by the creation of part-human, 
+part-cow embryonic stem cells, President Clinton has directed the 
+National Bioethics Advisory Commission to consider the implications 
+of the research at its meeting Tuesday in Miami and to report back 
+to him ``as soon as possible''. In a letter sent Saturday to the chairman 
+of the commission, Harold Shapiro of Princeton University, Clinton 
+also asked for a review of embryonic stem-cell research in general, 
+including the all-human embryonic stem cells whose isolation was reported 
+earlier this month. These cells _ the primordial, all-purpose cells 
+from which all tissues of the body develop _ were derived from very 
+early embryos or blastocysts and from tissues of aborted fetuses. 
+While the president signaled concern about the ``mingling of human 
+and non-human species,'' he was more positive about the all-human 
+embryonic stem cell research, noting that it ``may have real potential 
+for treating such devastating illnesses as cancer, heart disease, 
+diabetes and Parkinson's disease.'' But he also stressed the ethical 
+concerns raised by the research, telling the commission that he wanted 
+a ``thorough review, balancing all ethical and medical considerations.'' 
+The letter was sent after the president had consulted with the White 
+House Domestic Policy Council and the president's science adviser, 
+Neal Lane, ``because he wanted the broadest views possible _ the policy 
+people, medical ethicists, as well as the scientists,'' an administration 
+official said. A political issue that lies in the background of the 
+commission's deliberations is the ban on federal financing of fetal 
+research. The ban, imposed by Congress, has created the situation 
+that university scientists, who mostly depend on federal money, cannot 
+work on the human embryonic stem cells whereas the private sector 
+may conduct whatever research it pleases. A group of scientists and 
+ethicists known as the Human Embryo Research Panel said in 1994 that 
+research on human embryonic stem cells should be federally financed, 
+provided that the cells were derived from excess pre-implantation 
+embryos created for infertility treatments. This was the source of 
+some of the human embryonic stem cells isolated earlier this month. 
+In response to the panel's report, Clinton said in December 1994, 
+``I do not believe that federal funds should be used to support the 
+creation of human embryos for research purposes.'' The statement did 
+not rule out research on excess embryos created in infertility clinics 
+but subsequent action by Congress banned all research in which a human 
+embryo is destroyed. Referring to this history, the president said 
+in his letter Saturday that the ethical issues of human embryonic 
+stem cell research had not diminished since his statement of 1994 
+but that the benefits had become less hypothetical. Lane said the 
+implications of human embryonic stem-cell research had been under 
+review but news of the human-cow hybrid cells, reported last week, 
+``clearly raised urgent ethical, medical and legal issues that the 
+president wants addressed and that's why he asked for the commission 
+to give it immediate attention.'' Human embryonic stem cells can develop 
+into any of the body's 210 types of cells, a process that happens 
+naturally during fetal development. Biologists at Geron, the company 
+that supported the research, hope to grow the cells in the laboratory 
+and guide them to develop into heart cells, blood cells and other 
+tissues. The cells would then be injected into the patient and integrate 
+with tissues under the control of local body signals. In principle, 
+the method could address a range of otherwise untreatable degenerative 
+diseases, as well as relieving the severe shortage of organs available 
+for conventional transplants. Many serious technical problems remain 
+to be resolved, including finding ways to guide the stem cells down 
+desired paths of development and ways to prevent immune rejection. 
+The ethical problems are also important because of the source of the 
+embryonic stem cells. In one case the cells came from excess pre-implantation 
+embryos created in infertility treatments, and in the other from aborted 
+fetal tissue. Both sources were legal, but research using the first 
+would have been ineligible for federal money. The human-cow hybrid 
+cell also complied with all laws, said Michael West, chief executive 
+of Advanced Cell Technology of Worcester, Mass., the company that 
+supported the research. In the hybrid cell, the cow cell's nucleus 
+is first removed and the cow proteins are expected to be rapidly replaced 
+with human proteins as the human nucleus takes over the cell. Although 
+the mingling of species raises many questions, scientists at Advanced 
+Cell Technology regard the operation as one in which the cow egg is 
+used simply to make the human cell's nucleus revert to its embryonic 
+state. As the human cells can be provided by the patient himself, 
+from blood or skin, there is no immune rejection when developed cells 
+grown from his embryonic state cells are injected back into the body. 
+Advanced Cell Technology performed its cow-human hybrid experiment 
+only once, three years ago, and took the study only to a very preliminary 
+stage. Other scientists say more evidence is needed to verify whether 
+embryonic stem-like cells were created. West said he was announcing 
+the research now to test its public acceptability before making further 
+investments in the technique. 
+</TEXT>
+</DOC>

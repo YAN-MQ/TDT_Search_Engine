@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981011.1000.1306 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tee Martin tossed a pair of touchdown passes as fourth-ranked Tennessee 
+beat seventh-ranked Georgia for the eighth straight time, 22-3. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981012.2130.0555 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For more weather information, log on to CNN.com. four-day forecast 
+for 6,100 cities. 
+</TEXT>
+</DOC>

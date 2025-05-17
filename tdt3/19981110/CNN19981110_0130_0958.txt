@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981110.0130.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And U.S. national guard troops could soon be heading for central America 
+to help rebuilding efforts following hurricane Mitch. 
+</TEXT>
+</DOC>

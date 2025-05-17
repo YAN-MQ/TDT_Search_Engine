@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981028.0130.0938 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Yugoslavia has escaped the threat of NatO air strikes, at least for 
+now. NATO put them on hold after Yugoslav President Slobodan Milosevic 
+pulled out troops from Kosovo before a deadline Tuesday. Still, NATO 
+says it's closely monitoring Yugoslav compliance. 
+</TEXT>
+</DOC>

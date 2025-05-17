@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981205.1300.0496 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Next, more on the weather in the extended forecast. And later, are 
+HMOs leaving older Americans without healthcare coverage? 
+</TEXT>
+</DOC>

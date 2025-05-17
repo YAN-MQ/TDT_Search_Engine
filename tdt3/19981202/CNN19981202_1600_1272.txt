@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981202.1600.1272 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+College football coaches are on the move. I'm Anthony Keith James, 
+and this is "CNN Headline Sports." The Mets today confirming the signing 
+of free agent third baseman Robin ventura. Ventura signing a four-year 
+deal for $32 million. 
+</TEXT>
+</DOC>

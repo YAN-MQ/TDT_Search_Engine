@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0189 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More United Nations personnel cleared out of Baghdad today for the 
+second day in a row. The U.N. wants its staffers out of harm's way 
+in case the United States takes military action. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981020.1600.1129 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For more market news, even when the markets are closed, you can check 
+out cnnfn.com. you can use to it get stock quotes and free personal 
+finance tips. Back on Wall Street, the Dow managed a gain of 39 points, 
+but the NASDAQ was down 9 points. That's "Dollars & Sense." Back to 
+you, Judy. Jan, thanks a lot. Sports is next, stay tuned. 
+</TEXT>
+</DOC>

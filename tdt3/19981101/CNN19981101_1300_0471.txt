@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981101.1300.0471 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the United States is next. And then 
+-- a satellite that gave one shuttle crew big trouble last year, is 
+ready to be launched again. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981104.2000.0330 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Federal Reserve said today that economic growth slowed a bit in 
+September and October. The latest report said growth in manufacturing 
+slowed in 11 of the 12 Federal Reserve districts. This is NPR News. 
+</TEXT>
+</DOC>

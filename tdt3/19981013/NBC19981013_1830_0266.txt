@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981013.1830.0266 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today -- those gloomy earnings reports sent stocks 
+down. The Dow lost more than 63 points. The NASDAQ was down nearly 
+37 points. 
+</TEXT>
+</DOC>

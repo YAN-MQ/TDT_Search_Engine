@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981014.1130.0309 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A panel of medical experts tells Congress, prenatal AIDS tests should 
+be given to all pregnant women. The institute of medicine says women 
+should be tested automatically, as they are for several other diseases. 
+The panel says women must have the right to refuse the tests. Several 
+medical organizations say the tests are impractical, partly because 
+of the frequency of falsely positive results. They say women should 
+be given HIV counseling before any such test. 
+</TEXT>
+</DOC>

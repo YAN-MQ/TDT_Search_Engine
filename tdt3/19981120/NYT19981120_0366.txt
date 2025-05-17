@@ -1,0 +1,243 @@
+<DOC>
+<DOCNO> NYT19981120.0366 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+It's alive! The savings and loan debacle, which has cost taxpayers 
+$165 billion, is about to become more expensive. That may come as 
+a surprise to those who thought the costliest bailout in American 
+history was long completed, as much a ghost of the 80s as Rubik's 
+cubes, break dancing or perestroika. But two years ago, the Supreme 
+Court ruled that the government had betrayed investors by changing 
+the rules of the bailout at the height of the savings and loan crisis. 
+And now, a little-known federal court here is getting ready to begin 
+assessing the costs _ a sum that could add up to anywhere from $4 
+billion to $50 billion, depending on which side is guessing. In the 
+first big test case, the chief JUdge of the United States Court of 
+Federal Claims is expected to decide by year-end the size of the award 
+to a California savings and loan that nearly collapsed after federal 
+accounting rules were changed in 1989. The judge, Loren A. Smith, 
+has already indicated that he will order a sizable judgment for the 
+savings and loan, Glendale Federal Bank, which is seeking $1.9 billion. 
+That could set a standard for a parade of cases _ the first of more 
+than 120 brought by existing and moribund savings associations and 
+by shareholders _ that are set for trial over the next few months. 
+The exact size of the awards is likely to be determined by appeals 
+courts. But this much is certain: Whatever the tab, taxpayers will 
+pay it, thanks to a two-paragraph provision that lawmakers buried 
+in last month's appropriations legislation at the behest of savings 
+and loan lobbyists, who feared either that the government would not 
+pay or that the industry might end up being saddled with the costs. 
+Administration officials, who supported the move, calculate that every 
+$1 billion awarded to the industry will cost each American household 
+$10. And as awards against the government mount, decade-old questions 
+about Washington's willingness and ability to tackle the savings industry's 
+problems are certain to be revived. Illustrating their importance 
+and complexity, the savings and loan cases have engaged legions of 
+lawyers _ the Justice Department is devoting more resources to them 
+than to any other matter, including the Microsoft antitrust case. 
+Some unusual battle lines have been drawn: Two federal agencies are 
+on opposing sides, and two Nobel Prize-winning economists have been 
+pitted against each other on the meaning of their own collaborative 
+work. In the end, huge payouts may go to some of the nation's wealthiest 
+and most aggressive financiers. In the 1980s, after loosened lending 
+rules and a real estate collapse left many savings associations buried 
+in bad loans, regulators decided that the cheapest way to heal the 
+lenders was to encourage them to merge with healthier institutions 
+or find new investors. So regulators struck deals with, among others, 
+Ronald O. Perelman, who had bought Revlon with junk bonds; the Bass 
+family of Texas; Jay A. Pritzker, whose family controls Hyatt hotels, 
+among other properties; Lewis Ranieri, the investment banker credited 
+with inventing mortgage-backed securities, and William E. Simon, the 
+former Treasury secretary. Later, many of the deals were criticized 
+in Congress as being overly generous. But regulators said that they 
+had no choice, because Congress had refused to provide money to back 
+the insured deposits of the rapidly growing list of hemorrhaging institutions. 
+Now these investors and others who still own shares in the savings 
+and loans stand to gain from the damage claims. That _ and the possibility 
+that current and former savings executives may reap big gains _ would 
+be a remarkable end to a financial calamity that once stigmatized 
+the industry as a haven for incompetent managers and financial scoundrels. 
+``In 1989, there was no way these people would be paid,'' said Robert 
+E. Litan of the Brookings Institution. ``The political environment 
+was terrible for them. Now they're no longer demonized. This was like 
+the appendix of a lot of the deals of the 1980s. Now the appendix 
+has burst and someone's got to fix it.'' The precedent that made such 
+awards possible is known as the Winstar case, named after the consolidation 
+of suits brought by the Winstar Corp., the Statesman Group and Glendale 
+Federal. In July 1996, a splintered Supreme Court ruled that the 1989 
+legislation that rescued the savings and loan industry also broke 
+the contracts that the institutions' salvagers had made with Washington. 
+Those contracts, aimed at attracting investors, had given the savings 
+and loans permission to use an unusual accounting rule that had the 
+effect of letting many institutions satisfy their capital requirements 
+by booking huge liabilities as assets. The rule allowed the buyers 
+of weakened institutions to take the difference between their purchase 
+price and the market value of the institution and count that as an 
+asset, calling it ``supervisory goodwill.'' Since the price often 
+consisted of the assumption of the insolvent institution's liabilities, 
+the move converted liabilities into capital that could satisfy regulatory 
+requirements. The ability to use such accounting led new investors 
+and other savings associations to infuse new capital into the weaker 
+savings and loans. The rule, however, was heavily criticized by some 
+experts as a gimmick destined to lead to greater bailout costs some 
+day. A federal appeals judge ultimately referred to supervisory goodwill 
+as ``a euphemism for spinning straw into gold.'' As the savings and 
+loan crisis reached a fever pitch in 1989, the accounting arrangement 
+was phased out by tough legislation endorsed by President George Bush 
+and approved by lawmakers. Overnight, the law's provision ending supervisory 
+goodwill turned what had appeared to be healthy balance sheets into 
+ones that could not meet minimum capital requirements. Many institutions 
+collapsed. Others tottered on the edge of failure or were bought by 
+healthier companies, resulting in further consolidation. And the industry 
+soon unleashed its barrage of lawsuits, essentially accusing Washington 
+of having perpetrated an enormous bait-and-switch. In its 1996 ruling, 
+a controlling plurality of the Supreme Court essentially agreed. Justice 
+David H. Souter dismissed the Clinton administration's arguments that 
+the contracts did not provide insurance against a legislative change. 
+``It would, indeed, have been madness,'' Souter wrote, for the industry 
+to have entered into the contracts without some guarantee that they 
+were enforceable, ``for the very existence of their institutions would 
+then have been in jeopardy from the moment their agreements were signed.'' 
+The ruling breathed new life into the savings and loan lawsuits, which 
+were sent back to the claims court to set damages and resolve other 
+issues. Since the decision, the Justice Department has quietly offered 
+settlements of hundreds of millions of dollars to some institutions. 
+But the companies are waiting to see whether Smith and his colleagues 
+will be more generous. The industry's lawyers, along with Smith, have 
+criticized the Justice Department as moving slowly in settling the 
+claims. They have accused government lawyers of dragging their feet 
+and re-arguing issues that they say were resolved years ago. ``In 
+many respects the Justice Department's positions have been frivolous 
+and served only to delay progress in these cases and add enormously 
+to the expense,'' said Charles J. Cooper, a former senior Justice 
+official whose law firm represents more than a dozen savings associations 
+and former owners of savings and loans. ``It's deepened the uncompensated 
+damages that American citizens are suffering as a direct breach of 
+their contracts.'' In response, the Justice Department has challenged 
+the damage claims as pie-in-the-sky figures that have no basis in 
+contract law. Its sharpest attacks are aimed at perhaps the suits' 
+most costly assertions _ that companies like Glendale Federal are 
+entitled to recover all the profits they would have made if the rules 
+had not changed. ``This is real money,'' said Frank W. Hunger, the 
+assistant attorney general in charge of the Justice Department's civil 
+division. ``And it's not money that is being sought for anything productive, 
+like education, housing or the Peace Corps. We're simply not going 
+to pay out billions of taxpayer dollars when there are bona fide legal 
+issues involved.'' The Justice Department is devoting an extraordinary 
+amount of resources to the cases. Some 40 lawyers and a support staff 
+of dozens more have been working full time with an annual budget of 
+$60 million, nearly half the civil division's total. The plaintiffs, 
+too, have been spending freely. For instance, Glendale Federal, a 
+unit of Golden State Bancorp, has used two law firms and spent more 
+than $43 million on its case since 1996, according to company records 
+on file at the Securities and Exchange Commission. Because more than 
+40 of the institutions suing the government are insolvent, the Federal 
+Deposit Insurance Corp. has also entered the fray, assigning about 
+three dozen of its lawyers to intervene in the cases. Like a dog chasing 
+its tail, the government now has one agency, the Justice Department, 
+as a defendant, and another _ the FDIC _ aligned with the plaintiffs 
+in many cases. The Justice Department has asserted that the FDIC, 
+which also administers a fund from which some of the judgments may 
+be paid, cannot in effect make claims on itself. ``It is a fundamental 
+axiom that the United States cannot sue itself,'' the Justice Department 
+said in a brief. The FDIC has replied that it must pursue the cases 
+because of its legal obligations as a receiver, representing the institutions 
+that collapsed. The agency's lawyers are concerned that if they fail 
+to intervene, the agency could be liable to shareholders and creditors. 
+But as a practical matter, much of what it hopes to recover will result 
+in the simple shift of money from one government account to another. 
+The interagency warfare is just one of the strange battles these cases 
+have spawned. In another notable conflict, two Nobel Prize-winning 
+collaborators have disagreed on whether their shared work applies 
+to the litigation. Professor Merton H. Miller of the University of 
+Chicago, who won the Nobel in 1990, testified for the government that 
+the Modigliani-Miller Theorem, or M&AMP;M Propositions, which are 
+the foundation of modern corporate finance, demonstrated that the 
+industry's claims were wildly overstated. He said that under the theory, 
+the reduction of supervisory goodwill did not reduce the value of 
+a savings association and that the profitability of the company did 
+not depend on its level of goodwill. ``When you phase out goodwill, 
+you're are not taking away any earning asset,'' Miller testified as 
+a $1,000-an-hour Justice Department expert. ``You are not taking away 
+anything but accounting smoke and mirrors.'' In a lawsuit filed by 
+Glendale's sister institution, California Federal Bank, the industry 
+responded with its own $1,000-an-hour expert: Professor Franco Modigliani 
+of the Massachusetts Institute of Technology, the other ``M'' in the 
+propositions, who won the Nobel in 1985. ``I have decided to testify 
+in this case because my name is associated with the M&AMP;M Propositions, 
+and, in my view, they are being misused by the government in a way 
+that I regard as damaging to the credibility of the theorem,'' Modigliani 
+wrote in his expert report. ``The truth is that the M&AMP;M Propositions 
+are completely irrelevant to the present issue and have been dragged 
+in as a red herring.'' At ground zero in the cases is Loren Allan 
+Smith, 53, the judge who eight years ago wrote the first opinion in 
+the Winstar case that gave the industry hope that it could ultimately 
+recover what it had lost in the 1989 legislation. Not only will he 
+decide the award for Glendale; he has also been issuing significant 
+rulings on the common issues in the 120-plus cases and has begun to 
+assign some of the dozen cases to be tried, beginning next month. 
+Then the next batch of 30 lawsuits will be tried. Smith, an amateur 
+magician and former host of the radio talk show ``What's Best for 
+America?,'' entered Washington political circles as a young lawyer 
+working on President Richard Nixon's legal team during Watergate. 
+Later, he was chief counsel to Ronald Reagan's 1976 and 1980 presidential 
+campaigns. In 1985, Reagan appointed him to the Court of Federal Claims, 
+a specialized branch of the judiciary that hears disputes between 
+the government and its contractors as well as claims against the United 
+States. The judge has earned a reputation as a leading proponent of 
+the legal proposition that property owners should be compensated for 
+the costs they incur under federal regulations. He has rattled the 
+Justice Department, lambasting its legal maneuverings and suggesting 
+that he is leaning toward a substantial award to Glendale. In his 
+seventh-floor office at the claims court, across Lafayette Park from 
+the White House, the judge said in a recent interview that his job 
+was to dispense justice, not to protect the public Treasury. ``I see 
+as much a problem to giving away $1 that isn't deserved as to give 
+away $100 billion that was deserved,'' he said. ``If it's the law, 
+so be it. You've got to follow the law whatever the consequences. 
+It's not the duty of the judiciary to guard the fisc. A judge's duty 
+is to apply the law fairly.'' But Smith will not have the last word. 
+Whichever side loses is certain to appeal. And another judge about 
+to hear a savings and loan case has already limited the possible damage 
+claims of a major plaintiff. Two weeks ago, in a significant claims 
+court victory for the government, Judge Robert H. Hodges Jr. ruled 
+that when California federal's case goes to trial on Dec. 12, it cannot 
+pursue the claim that it is entitled to collect damages equal to the 
+profits it would have earned had it been able to continue counting 
+supervisory goodwill. Hodges called such a theory ``particularly speculative.'' 
+For taxpayers, the crucial turn in the cases came late last month 
+in Congress. With no debate and no news coverage, lawmakers decided 
+that taxpayers, not the industry, would have to finance the judgments 
+from all the cases. And rather than confront large and politically 
+unpopular damage awards as they are handed down, legislators also 
+decided to simply keep the spigot to the Treasury open indefinitely. 
+Buried in the appropriations legislation that covers all federal spending 
+for the new fiscal year, lawmakers inserted two paragraphs giving 
+the administration the authority to spend ``such sums as may be necessary.'' 
+As part of a tangled compromise, the provision was supported by the 
+White House and by savings lobbyists, who had feared that either the 
+industry might be levied higher deposit insurance premiums to cover 
+the cases or that the plaintiffs would not be able to collect on judgments 
+because Congress had not set aside money for such awards. The administration 
+also prevailed on Congress to leave uncapped all spending to defend 
+the lawsuits. Some industry lobbyists had sought to limit spending 
+or require more oversight by Congress, hoping to prod the administration 
+into quickly resolving more of the suits. With the cases now headed 
+for trial, the beginning of the end is finally at hand for the savings 
+and loan debacle. But other industries are looking for ways to make 
+use of the precedent that the government may be liable for costs incurred 
+when it changes its rules. Lawyers representing electric utilities, 
+telecommunications companies and developers of low-income housing 
+have begun filing lawsuits, and health care lawyers say they may be 
+next. Initial successes indicate that taxpayers may end up facing 
+yet more bills. Three weeks ago, a federal claims judge, citing the 
+Winstar precedent, ruled that the Department of Energy violated a 
+commitment to remove used radioactive fuel from a nuclear power plant 
+owned by the Yankee Atomic Electric Co. In all, utilities have pending 
+claims of an estimated $50 billion. ``There are a lot of lawyers who 
+are now trying to shake the money tree,'' said Joshua I. Schwartz, 
+a professor of law and co-director of the government procurement program 
+at the George Washington University Law School.'' 
+</TEXT>
+</DOC>

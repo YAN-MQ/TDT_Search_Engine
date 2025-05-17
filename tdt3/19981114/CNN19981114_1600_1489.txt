@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981114.1600.1489 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There is a touch of Tokyo this weekend in Sydney, Australia, thanks 
+to the city's Japanese festival. The celebration kicked off today 
+with a colorful parade that included 600 costumed characters, and 
+floats imported from Japan. After an opening ceremony at town hall, 
+the parade wound its way down george street to darling harbor. 
+</TEXT>
+</DOC>

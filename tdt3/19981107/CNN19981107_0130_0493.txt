@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981107.0130.0493 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And later -- a new class of 
+drugs that some doctors are calling "super aspirin." 
+</TEXT>
+</DOC>

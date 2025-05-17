@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981027.2130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking this hour's top stories -- thousands of people in central 
+America are making their way inland to escape hurricane Mitch. Mitch 
+is about 45 miles north of the Honduras coast with sustained winds 
+of about 150 miles an hour. 
+</TEXT>
+</DOC>

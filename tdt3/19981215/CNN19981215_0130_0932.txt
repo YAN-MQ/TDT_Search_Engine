@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981215.0130.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a check of our top stories -- 30 members of the house say they 
+are still undecided about whether to impeach President Clinton. The 
+White House is courting moderate republicans, but many members say 
+they will not make up their minds until Thursday's vote. 
+</TEXT>
+</DOC>

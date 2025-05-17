@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981208.2130.0449 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for tomorrow morning. And you can see the cold front in 
+the east carrying the rainfall with it as it continues its trek out 
+into the atlantic. And colder air moves into the eastern half of the 
+nation, bringing to an end the record-setting warm temperatures we've 
+been seeing over the last several days. Another cold front pushes 
+through the plains states. No significant precipitation in association 
+with it. Large area of high pressure in the west, but temperatures 
+throughout the west are still quite chilly, with daytime highs only 
+in the 20s in the central Rockies. Much of the east cooler than it 
+has been, but still warmer than the temperatures we are seeing in 
+the west. Your extended forecast calls for a mix of rain and thunderstorms 
+along the gulf coast area. We'll see a few snow flurries in the Great 
+Lakes region, too. As we head on into Friday, things warm a bit in 
+the west. But showers and thunderstorms are possible in the east. 
+And on Saturday, snow showers are possible in the Great Lakes area. 
+For more weather information, log on to CNN.com. 
+</TEXT>
+</DOC>

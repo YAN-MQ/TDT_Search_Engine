@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981124.1600.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Pete Sampras' attempt to end the year ranked number one for a record 
+sixth straight time got a boost on Tuesday. He beat Yevgeny Kafelnikov 
+6-4, 6-2 in his first match of the atp world championship. Rob Ticktin, 
+"CNN Headline Sports." 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981229.1130.1118 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Dollars & Sense" for now. For all the latest business headline 
+day or night, check out cnnfn.com. Coming up in "CNN Headline Sports" 
+-- a shutout streak ends in the NHL. And later, why surfing the web 
+could mean a breakdown in the way people communicate. 
+</TEXT>
+</DOC>

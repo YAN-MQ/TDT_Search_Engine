@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> NYT19981113.0400 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The United States imposed trade restrictions on more than 300 Indian 
+and Pakistani government agencies and private companies Friday as 
+a result of the two countries' nuclear tests last May, Commerce Department 
+officials said. The sanctions affect Indian and Pakistani companies 
+believed to be involved in nuclear, missile and military programs. 
+They will, in most cases, bar U.S. companies from trading with them. 
+Commerce Department licenses will be required for any U.S. company 
+wishing to export goods to the companies, and most of those licenses 
+will be denied, officials said. The White House announced last week 
+that President Clinton would lift most of the sanctions that were 
+imposed after the nuclear tests by India and Pakistan. This would 
+allow U.S. loans, investments and some joint military training to 
+resume. It would also revive U.S. support for an International Monetary 
+Fund bailout for Pakistan. 
+</TEXT>
+</DOC>

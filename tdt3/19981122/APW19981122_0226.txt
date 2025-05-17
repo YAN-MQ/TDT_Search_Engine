@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> APW19981122.0226 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Aggressively wooing foreign computer software companies, a city in 
+southern India unveiled a technology park Sunday where companies such 
+as Microsoft, Oracle, Apple and Sun Microsystems have set up shop. 
+Prime Minister Atal Bihari Vajpayee called it the ``biggest and most 
+exciting development in the information technology sector in India.'' 
+The 10-story building, part of the Hitech City project on the outskirts 
+of Hyderabad, capital of Andhra Pradesh state, was built a little 
+over one year after Microsoft chief Bill Gates extracted a promise 
+from state Chief Minister Chandra Babu Naidu that he would improve 
+the infrastructure there. Microsoft and Oracle have taken up one floor 
+each in the building. The rest of the space has already been taken 
+up by other software companies, according to S.D. Kulkarni, chairman 
+of Larsen and Toubro, which constructed the building. The park, spread 
+over 160 acres (65 hectares) is estimated to cost the government 15,000 
+million rupees (dlrs 352 million). When completed over the next five 
+years, it is expected to employ 10,000 people. In a message to Naidu, 
+Microsoft chief Gates said such investments will improve the local 
+infrastructure and attract foreign investors. Software export from 
+Andhra Pradesh touched 5,000 million rupees (dlrs 117 million) this 
+year, a tenfold increase since Naidu became chief minister about five 
+years ago. In recent months, Naidu has toured foreign countries to 
+invite investors to Andhra Pradesh state. He spends hours every day, 
+surfing the internet to scout for investors or to chat with venture 
+capitalists. In a country where computers are few and resistance to 
+them from trade unions is fierce, Naidu has increased computerization 
+of government records in Andhra Pradesh state to make information 
+easily available to the public. ``Information Technology can be effective 
+tool to restore credibility in the government,'' Naidu said. 
+</TEXT>
+</DOC>

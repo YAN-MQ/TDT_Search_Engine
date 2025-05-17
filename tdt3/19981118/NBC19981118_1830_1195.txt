@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981118.1830.1195 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A snapshot of America's future from the census bureau tonight. According 
+to new projections, by the middle of the coming century, the U.S. 
+population will rise to a staggering 394 million people. And the fastest 
+growing demographic, seniors. The elderly will double their population 
+share in more than a third of the states. 
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981128.0130.0525 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News" forecast. Saturday morning, beautiful weather 
+across most of the nation, with the exception of the southwest and 
+the northern Rockies, where we'll see rain and snow due to a winter 
+storm system. Working our way into Saturday evening and Sunday morning, 
+a warm front develops across the Great Lakes, causing some low clouds 
+and perhaps some drizzle. And a pacific storm system moves into the 
+northwest, bringing rain and snow. The rest of the nation looking 
+quite nice. The southwest will see some rain and snow in the higher 
+elevations. Highs on Saturday, pretty warm in the south, generally 
+in the 70s. 30s in New England, the northern plains and the northern 
+Rockies. Your extended forecast showing milder temperatures throughout 
+the extended forecast period. On Sunday, rain, snow and showers in 
+the western third of the country. On Monday, rain in the northwest, 
+a rain/snow mix in the Great Lakes. As you move to the south, we'll 
+see thunderstorm activity over Texas. On Tuesday, showers and windy 
+conditions in the northwest, a small area of rain/snow mix over lake 
+Erie and a few showers along the gulf coast. Remember, you can get 
+your four-day forecast for more than 7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

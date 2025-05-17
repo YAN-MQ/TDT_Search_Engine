@@ -1,0 +1,133 @@
+<DOC>
+<DOCNO> NYT19981014.0188 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Dan Gosnell, a fire management planner in California for the U.S. 
+Forest Service, wishes he had had his service's new technology two 
+years ago. It was nearly Thanksgiving when a wildfire flared in Waterman 
+Canyon, in the San Bernardino National Forest. Flames jumped the crest 
+of the canyon and ripped down the foothills, fueled by 30-mph Santa 
+Ana winds. The fire stalked to within a mile of the campus of California 
+State University at San Bernardino. During such wildfires, the forest 
+service has to worry about more than buildings, however. As they try 
+to stop the flames, officials are also concerned with what they may 
+accidentally destroy _ say, archaeological deposits _ with their fire-control 
+techniques. In this case, the staff archaeologist could not be reached 
+for a midnight consultation, so the commander ordered a bulldozer 
+to make a break in the 6-foot chaparral to stop the spread of the 
+fire. Only later did the firefighters learn that the area was rich 
+in Indian artifacts _ a fact they could have found at their fingertips 
+using the computerized maps that are now being loaded into commanders' 
+trucks. ``If we had known it was full of archaeological sites, we 
+wouldn't have called that dozer,'' Gosnell said. The maps are part 
+of a system that combines satellite communication, a global positioning 
+device to show the vehicle's location and computer mapping software 
+that reads the positioning information and shows the locations of 
+Forest Service vehicles on digital maps. The computerized maps also 
+show the features of the land, including topography, archaeological 
+sites and the presence of endangered species. The system was designed 
+to help fight the wildfires that rage every year through the mountains 
+and deserts of Southern California. Incident commanders, when they 
+face these fires, must make a mind-boggling array of decisions. The 
+chief question a commander will ask is: Should he risk the wrath of 
+the public and allow the fire to burn, to avoid future risks in the 
+area, or should he put the fire out? The answer depends on many variables. 
+How have fires burned in the area in the past? Is the fire headed 
+toward homes? Is it moving into the habitat of an endangered species 
+like the bald eagle? Will it threaten endangered plants? Is the area 
+full of dry grasses or greener, less flammable chaparral? Based on 
+the area's burn history, can the fire be fought by ground crews, or 
+must aircraft be called in to drop retardant? The data attached to 
+the digital maps can answer all of these questions _ including when 
+the last fire burned there and how it behaved. The system helps in 
+planning the attack, and if a commander decides to let the fire burn, 
+the electronic facts at his fingertips can support the decision. Historically, 
+these decisions were made by veteran commanders in the fire service 
+who carry much of the information about terrain, vegetation and burn 
+history in their heads. But when they retire, they take the riches 
+of information with them. The computerized system has drawn praise 
+from high-ranking federal officials. Last year, the project was awarded 
+a $625,000 grant from Vice President Al Gore's Information Technology 
+Innovation Fund. ``I was impressed,'' said Gayle Gordon, chief information 
+officer for the Bureau of Land Management and a member of the grant 
+committee. ``It was an application that pulled together a lot of technology 
+that would make a lot of difference to people on the ground.'' The 
+system is now used in the San Bernardino forest, which is an hour 
+east of Los Angeles and one of the most-used forests in the nation. 
+Filled with lakes, ski resorts and mountains that reach 11,000 feet, 
+it is a favorite spot for vacation homes. The 30,000 full-time residents 
+occupy fewer than half the houses built in the forest. The Forest 
+Service system is also being adapted for other federal agencies that 
+control land in the Mojave Desert: the Bureau of Land Management, 
+the National Park Service and the Bureau of Indian Affairs. Along 
+with the Forest Service, these agencies hold 32 million acres of land 
+that runs more than 200 miles south from Death Valley to the Mexican 
+border. The number of fire and police incidents handled by these agencies 
+increased from 3,400 in 1988 to more than 11,000 in 1996. As part 
+of the technology project, Keith rigged a Humvee in Death Valley with 
+the system. The hardware requirements for the Humvee, which is used 
+for law enforcement, illustrate why a laptop wouldn't do: to keep 
+the system working under extreme conditions, the monitor, keyboard 
+and other components have been ``ruggedized'' to withstand heat, smoke, 
+dust and hard mountain driving. The 4-gigabyte hard drive is bolted 
+to the vehicle's floor in a case-hardened ``data brick.'' The equipment 
+in Death Valley must withstand temperatures that reach 140 degrees 
+in the cab. This special equipment goes into all the vehicles, at 
+a cost of $7,000 per system. While few firefighters dispute the system's 
+value, some question why so much is being spent for technology tailored 
+in-house while the staff is being cut. Elliott Graham, district ranger 
+for the Front Country District of the San Bernardino forest, said 
+he was afraid the day would come when tourists go to the ranger stations 
+and find only computer screens that say: ``There are no more employees 
+here. Please push this button.'' ``The Forest Service is downsized 
+so bad, we don't have anybody left in the field,'' Graham said. ``We 
+need to be high-tech, but it's very expensive.'' Others see environmental 
+savings from the system as a result of better firefighting decisions. 
+The development of the technology project grew from Keith's regular 
+duties, which include building and maintaining radio networks in hard-to-cover 
+mountain areas. Because of rapid advances in technology, he must replace 
+the entire radio network every 10 years at a present cost of $1.5 
+million. Building a satellite communication system, he said, would 
+not only insure communications in remote areas for the long term, 
+but would also limit the building of ugly mountaintop transmission 
+towers that annoy the public. ``We think it's eventually going to 
+be cheaper than paying for all our mountaintop signals,'' Keith said. 
+The system he designed has been installed in just a handful of vehicles 
+so far, but it will go into all command trucks in the San Bernardino 
+National Forest this fall; then will gradually be installed in command 
+vehicles for all the Federal firefighting agencies in Southern California. 
+Also, Keith's plans are well under way for creating advanced features. 
+He wants to add a feature in which incident commanders can draw the 
+boundaries of a fire, e-mail the map to the dispatch center and automatically 
+transmit the map to the Internet. That way, the public could check 
+the map on line, and dispatchers would not be bogged down by calls 
+from people in Los Angeles asking about the safety of their vacation 
+homes. Keith wants to take the system a step further, so that it can 
+actually help predict fires. The Forest Service already receives constantly 
+updated maps that show lightning strikes. Merge the lightning maps 
+with maps of high-risk areas, then, when the lightning starts to strike, 
+send aircraft to scout for telltale smoke. ``We know we're going to 
+have fires in this forest,'' Keith said. ``We know where they're going 
+to be and how they're going to act. Instead of waiting for fires to 
+start, and being in emergency mode, why don't we predict where they're 
+going to happen? We are trying to build a system that doesn't wait.'' 
+So far, the system has proven to be an asset not only in firefighting 
+decisions, but in the other emergencies to which Forest Service personnel 
+respond. In one case, on a foggy Sunday morning last December, Jim 
+Higgins was the first official to reach the scene of a plane crash 
+in the San Bernardino Mountains that killed a father and son. As investigators 
+headed for the scene, Higgins, a law enforcement officer for the Forest 
+Service, consulted his computer. He opened a satellite link from his 
+pickup truck. With the help of the truck's Global Positioning Satellite 
+device, he pinpointed the location of the crash on a digital map. 
+Within one minute of his arrival, he reported the latitude and longitude 
+of the crash to the Federal Aviation Administration. Then, as the 
+investigators approached, Higgins guided them by radio through every 
+turn of the rugged roads to the crash site. Soon, reporters started 
+to arrive. When the search and rescue team, the deputy coroner and 
+the accident investigators got there, they witnessed an unusual scene: 
+a group of reporters flocking around Higgins' truck, gawking at the 
+computer screen, leaving the plane crash all but forgotten. 
+</TEXT>
+</DOC>

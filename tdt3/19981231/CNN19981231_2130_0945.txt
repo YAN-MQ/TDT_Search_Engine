@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981231.2130.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In spite of freezing temperatures, 500,000 revelers are expected to 
+welcome the new year in Times Square. 
+</TEXT>
+</DOC>

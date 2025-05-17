@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> NYT19981222.0332 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+At least 11 states will miss next month's deadline to fix computers 
+used to pay unemployment insurance, but the states are making stopgap 
+arrangements to avoid any interruption of benefits, federal officials 
+said Tuesday. The computer problems with unemployment insurance are 
+similar to those that threaten many federal and state government programs 
+and business activities of corporations in the next two years, but 
+the effects could come sooner in offices that send checks to unemployed 
+workers. A person filing a claim for jobless benefits typically has 
+a year to draw all the checks to which he or she is entitled. The 
+last day of this ``benefit year'' is recorded when an application 
+is received. So computers must be able to handle dates with the year 
+2000, starting next month. The deputy secretary of labor, Kathryn 
+O. Higgins, said the states lagging behind schedule were Arizona, 
+Delaware, Hawaii, Illinois, Kansas, Massachusetts, Missouri, Montana, 
+New Hampshire, New Mexico and Vermont. In addition, she said, Connecticut 
+and Louisiana are not yet ready, but have told federal officials that 
+they will make the necessary changes in their computers within 10 
+days. In the District of Columbia, problems are so severe that the 
+Labor Department has assigned some of its employees to the city to 
+make sure jobless benefits are paid next year. John A. Koskinen, a 
+White House official who supervises preparations for the year 2000, 
+said unemployment insurance was one of the first government programs 
+that could be affected. Higgins said it was a test case, showing what 
+would happen when ``the New Deal meets the new millennium.'' Many 
+of the computer systems used to pay jobless benefits are more than 
+30 years old. The year 2000 problem arises from early computer programmers 
+often using a two-digit format to express the year. In such computer 
+programs, 2000 is often indistinguishable from 1900. If the problem 
+is not corrected, experts say, computers could produce inaccurate 
+data or shut down. A recent survey of the states by the General Accounting 
+Office, an investigative arm of Congress, found that many were behind 
+schedule in renovating their computers. Only one-third of the 421 
+computer systems used for seven major health, welfare and nutrition 
+programs were ready for the year 2000. Higgins said there would inevitably 
+be ``glitches'' in the payment of jobless benefits next year. ``For 
+the system to work perfectly, states would have to anticipate every 
+chip, every piece of code that's in the system,'' she said. ``Everybody 
+expects that there will be some states where they don't catch everything.'' 
+But Koskinen, the chairman of President Clinton's Council on Year 
+2000 Conversion, an interagency group, said: ``There is no way to 
+guarantee that your testing has been thorough and deep enough to catch 
+all the problems. People ought to expect that there will be individualized 
+small problems and errors.'' Some state contingency plans call for 
+checks to be issued by hand. Under other plans, people would be certified 
+as eligible for benefits through Dec. 31, 1999, even if they were 
+actually eligible for a longer period running into the year 2000. 
+Alternatively, a state having difficulties could seek help from other 
+states with extra computer capacity. The unemployment insurance program, 
+created by the Social Security Act of 1935, is administered mainly 
+by the states, but the federal government provides most of the money 
+for benefits. 
+</TEXT>
+</DOC>

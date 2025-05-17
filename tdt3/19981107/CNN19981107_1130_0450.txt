@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981107.1130.0450 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the United States is next. Still 
+to come, why the cost of going online might be going up. 
+</TEXT>
+</DOC>

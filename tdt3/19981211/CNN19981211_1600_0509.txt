@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981211.1600.0509 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Valerie Voss with your "CNN Headline News Weather forecast" 
+for saturday. We'll continue to see wet weather along the gulf coast 
+in the lower mississippi river valley, the Tennessee river valley, 
+as an area of low pressure moves very slowly along the coast. Could 
+be a few rain or snow showers along a cold front, upstate New York 
+and northern New England. And of course, the northwest continues to 
+be windy, wet, with mountain snow. Saturday's highs, most of the country 
+will see somewhere between the 30s and 50s. It will be a little warmer 
+in the southeast and southwest. Looking ahead to Sunday, snow showers, 
+thunderstorms on the east coast with rain and wind in the northwest. 
+For Monday, that rain and mountain snow moves inland across the northwest. 
+On Tuesday, some snow showers around the Great Lakes, rain showers 
+in the northwest, and temperatures pretty typical for this time of 
+year. Remember, you can find four-day forecasts for more than 7,200 
+cities on CNN interactive. The address is CNN.com. 
+</TEXT>
+</DOC>

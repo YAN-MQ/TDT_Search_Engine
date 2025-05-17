@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981018.1130.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Forecasters say parts of Texas will get more rain. Yesterday, severe 
+storms hit and killed at least five people. 
+</TEXT>
+</DOC>

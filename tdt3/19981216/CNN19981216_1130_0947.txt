@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981216.1130.0947 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And you might want to make sure the price you pay for "on sale" items 
+matches the price at the check-out stand. A new study found 1 of every 
+28 items scanned the wrong price, usually short changing the customer. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> APW19981101.0553 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Forecasts of English soccer games to be played Nov. 7 (tabulate under 
+Sunday Mirror, People, News of the World, Sunday Express, Sunday Telegraph): 
+1 denotes home win, 2 away win, X a tie Liverpool-Derby X-1-1-1-1 
+Aston Villa-Tottenham 1-1-1-1-1 Nottingham-Wimbledon 2-X-X-2-2 Southampton-Middlesbrough 
+2-2-2-2-2 Charlton-Leicester X-1-2-X-X Blackburn-Coventry 1-1-1-1-1 
+Crystal P-Portsmouth 1-1-1-1-1 Huddersfield-Ipswich 1-1-1-1-1 Queens 
+PR-Bolton 2-2-2-2-2 Norwich-Bradford 1-1-X-2-1 Sheffield U-Tranmere 
+X-1-1-1-1 Bristol C-Wolverhampton X-2-X-X-X Barnsley-Bury 1-1-1-1-1 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981205.1000.1465 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's a mouse's birthday, but the mouse in question isn't Mickey. It's 
+the computer mouse. The device pushed and pulled around by computer 
+users everywhere turns 30 next Wednesday. The mouse's 73-year-old 
+inventor says he thinks his creation is nifty, but says all the fuss 
+over it is somewhat embarrassing. He says the mouse is just one small 
+step toward his goal of adding to human intellect through collective 
+thinking. 
+</TEXT>
+</DOC>

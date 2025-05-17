@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981024.1000.1799 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"Headline News." I'm Sachi Koto. Governments around the world are 
+praising an interim peace agreement signed in Maryland yesterday by 
+Israeli and Palestinian leaders. But many issues still must be resolved, 
+and some are urging caution. In the West Bank, Palestinian residents 
+are receiving the deal with a mix of skepticism and indifference. 
+The main Palestinian newspaper says the deal shows Israeli prime minister 
+benjamin Netanyahu is finally accepting Palestinian political aspirations. 
+Other Arab newspapers say the pact is unfair to Palestinians, or might 
+not be implemented. Some Israelis say they're concerned opposition 
+to the deal from hard-line settlers could bring down Netanyahu's government. 
+</TEXT>
+</DOC>

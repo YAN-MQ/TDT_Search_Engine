@@ -1,0 +1,60 @@
+<DOC>
+<DOCNO> VOA19981019.1700.2695 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+You may think you're an open minded person who does not judge others 
+on the basis of their race, their age or their nationality. A new 
+test available on the Internet is designed to measure the unconscious 
+roots of prejudice. VOA's science correspondent, Jessica Berman, reports. 
+The Implicit Association Test is designed to measure individuals' 
+automatic and unconscious levels of race and age prejudice as well 
+as gender stereotyping. There's even a test to gauge the test taker's 
+self esteem. The IAT, for short, is the creation of psychology professors 
+Mojaran Benaji of Yale University in Connecticut and Anthony Greenwald 
+of the University of Washington in Seattle. Professor Greenwald says 
+there are four quick tests that visitors to this site can take to 
+see whether they have automatic preferences in the areas of age, race 
+and gender. And we selected these particular versions of the Implicit 
+Association Test because they are ones on which the great majority 
+of people tend to show the same patterns which are racial preference 
+for white on the black/white test, age preference for young on the 
+old/young test, female association more with family than with career 
+on the gender test and positively on the self esteem test. BERMAN 
+While whites and Asians who take the IAT for race overwhelmingly prefer 
+white to black, Professor Greenwald says the results of black test 
+takers are more mixed, with most having a strong automatic preference 
+for black but a significant number preferring white. And on the age 
+test, there's generally a preference toward youth over age and maturity 
+and wisdom? Well yes, the way you put it -- one would wonder why. 
+But in fact, when we do this test in which we ask people to group 
+young names and pleasant words, they do that very easily and rapidly. 
+But when they have to group old names and pleasant words, they go 
+much slower. BERMAN Test takers place their index fingers on two keys 
+on opposite sides of the computer keyboard. They first must decide 
+whether names that flash on the screen in front of them are old or 
+young or black or white and strike the key that corresponds to the 
+label. In the case of the race test, the names are considered typically 
+African American such as Lashonda or white, such as Tiffany. Next, 
+the test taker is asked to classify a list of words, either as pleasant 
+such as love and baby, or unpleasant, such as war and vomit. Then 
+randomly ordered names and pleasant and unpleasant words flash on 
+the screen. In the race test, the test taker must classify the words 
+and names as either black bad or white good. Then the label switches 
+to black good and white bad. The test measures how fast the test taker 
+classifies the names and words. Faster responses are recorded as a 
+preference. In case you were wondering, I took the age test. I was 
+surprised to learn that I, along with 90 to 95 percent of those who 
+take that particular IAT prefer young to old. Professor Greenwald 
+says those who take the test are often surprised by the results. But 
+he says having an automatic preference for one race over another does 
+not make one a racist. But he says the goal of the Implicit Association 
+Test is to make people aware of their unconscious prejudices so that 
+they might do something about them. The test has been adapted for 
+different cultures and Professor Greenwald says it has yielded similar 
+results in other countries. If you'd like to check out the Implicit 
+Association Test, the address is www.yale.edu\implicit, i-m-p-l-i-c-i-t, 
+and the word implicit is in lower caps. Jessica Berman, VOA News, 
+Washington. 
+</TEXT>
+</DOC>

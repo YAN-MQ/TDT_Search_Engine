@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981129.1000.0526 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up, the controversy surrounding medical testing. First, the 
+extended national weather forecast. 
+</TEXT>
+</DOC>

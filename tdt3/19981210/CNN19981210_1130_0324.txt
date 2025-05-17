@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981210.1130.0324 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A less powerful air bag appears to be doing a better job protecting 
+passengers, according to new government statistics. Calls for the 
+new bags followed the deaths of 121 people. Most were children and 
+shorter women. Many of those killed were involved in lower-speed accidents, 
+they otherwise would have survived. Once the government eliminated 
+a specific crash test, automakers installed the less powerful air 
+bags. But national highway traffic safety administration officials 
+caution that more research is needed before drawing any final conclusions 
+on the effectiveness of the newer bags. 
+</TEXT>
+</DOC>

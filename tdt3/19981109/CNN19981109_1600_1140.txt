@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981109.1600.1140 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And this note -- back on Wall Street, the Dow finishing the day down 
+77 points, the NASDAQ up 4. that's "Dollars & Sense." 
+</TEXT>
+</DOC>

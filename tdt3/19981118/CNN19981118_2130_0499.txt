@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981118.2130.0499 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Thursday. A strong storm in the upper midwest has been 
+producing blizzard-like weather over North Dakota and Minnesota. By 
+late in the day Thursday, it'll be across the northern Great Lakes, 
+still bringing some snow and wind to the region and also spreading 
+that windy, wet weather toward the east coast. There'll be a mix of 
+rain and snow over sections of New England. The west is relatively 
+quiet, but there's a strong storm off the northwest coast that will 
+make for a wet and windy weekend. Thursday's highs -- 20s and 30s 
+through the north central part of the country. We'll see 60s and 70s 
+in the south with a couple of 80s in southern Texas and southern Florida. 
+Looking ahead to Friday, look for rain and snow in the northeast, 
+heavy rain and wind developing across the northwest. On Saturday, 
+the rain continues in the northwest with windy conditions. We'll see 
+a few showers in Texas and also snow showers over northern New England. 
+Sunday, still wet in the northwest. 
+</TEXT>
+</DOC>

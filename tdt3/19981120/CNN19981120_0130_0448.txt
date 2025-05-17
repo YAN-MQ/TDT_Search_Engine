@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981120.0130.0448 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane Mitch has claimed three more lives. A helicopter on a mercy 
+flight crashed off the atlantic coast of Honduras thursday, killing 
+all three people on board. This comes as the international community 
+helps central America recover from the storm, which killed more than 
+11,000 people and caused billions of dollars in damage. Meanwhile, 
+the U.S. army announced Thursday it will send an additional 4,300 
+troops to the region to assist recovery efforts. 
+</TEXT>
+</DOC>

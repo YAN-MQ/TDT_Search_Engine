@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981030.2000.0329 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones Industrial Average gained more 
+than 97 points to close at 8592. Advances lead declines by a margin 
+of almost 3 to 1 in heavy trading. Cory Flintoff, NPR News, Washington. 
+</TEXT>
+</DOC>

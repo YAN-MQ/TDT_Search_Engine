@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981201.2000.0340 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is NPR News. Support for NPR comes from Sadecso Marriott Services 
+providing innovative approaches to food and facilities management 
+services throughout North America. On the Web at sadecsomarriott.com. 
+This is THE WORLD. I'm Lisa Mullins. 
+</TEXT>
+</DOC>

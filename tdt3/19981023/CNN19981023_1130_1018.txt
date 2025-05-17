@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981023.1130.1018 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+AMP reported a third quarter loss of more than $76 million. The world's 
+largest maker of electrical connectors also increased by 700 it's 
+planned number of job cuts to a total of 4,200, or about 10% of its 
+global workforce. AMP says the cutbacks will result in annual savings 
+of about $200 million. The news comes as AMP continues to fight off 
+a proposed takeover by automotive and aerospace productmaker allied 
+signal. 
+</TEXT>
+</DOC>

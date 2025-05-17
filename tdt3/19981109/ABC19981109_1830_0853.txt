@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981109.1830.0853 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The union pacific railroad, which handles freight, is going to hire 
+6,500 new workers this year. Business is good and a lot of employees 
+are retiring. 
+</TEXT>
+</DOC>

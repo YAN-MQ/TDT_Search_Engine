@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981112.0130.0501 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News" forecast. Thursday morning, expect snow over the 
+central and southern Rockies and a Pacific storm system to move into 
+the pacific northwest bringing snow and rain. Pretty good bit of sunshine 
+across the country with some clouds around frontal boundaries. The 
+big weather story Thursday night into Friday morning, heavy rain over 
+the south central plains and into the gulf coast region along an area 
+of low pressure and a warm front. High temperatures on Thursday, warming 
+up quite nicely after a chilly night. However, 20s and 30s in the 
+north central U.S. and 30s for highs in the central Rockies. Your 
+extended forecast showing windy conditions over the southwest, rain 
+and thunderstorms. The rain in the northwest. The thunderstorms over 
+the gulf coast with highs only in the 30s for New England and the 
+northern plains. On Saturday, a rain and snow mix over the Great Lakes 
+with showers and thunderstorms in the east. Showers also over the 
+northwest. And then on Sunday, that rain/snow mix moves into New England. 
+The showers continue in the northwest. And remember, you can get your 
+four-day forecasts for more than 7,200 cities at CNN.com. 
+</TEXT>
+</DOC>

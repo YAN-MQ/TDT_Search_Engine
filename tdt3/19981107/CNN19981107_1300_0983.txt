@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> CNN19981107.1300.0983 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Computer technology is constantly evolving. As Bruce Francis reports, 
+that could have an impact on the price tag. Personal computer prices 
+are continuing their power dive. A year ago, PCs costing under $1,000 
+made up less than a quarter of the retail market. Now they account 
+for just under a half all those sold in stores. The difference? The 
+big high volume players are no longer just dabbling in bargain PCs. 
+Now the sub-1,000 volume is really starting to be more of the big 
+vendors. So we're seeing that IBM, H-P, obviously Compaq, are really 
+starting to make it the main part of the retail game. Sargent says 
+that PCs costing under $1,000 should make up the majority of those 
+sold at retail by January. That's quite a shift for a trend dismissed 
+as a fluke just two years ago. But some analysts think consumers could 
+shift back towards the high end when Internet access speeds up, and 
+applications like high-end video become practical for the home user. 
+You'll see this trend towards lower prices may be slow somewhat, as 
+the higher bandwidth opens up new possibilities and we experience 
+what in effect will be the next killer application -- high bandwidth 
+Internet access opening up a whole new world of possibilities for 
+streaming media on the Internet. But so far, the Internet is generating 
+demand for low-cost PCs, and Internet companies are propping up low 
+margins by paying manufacturers to promote their services. Bruce Francis, 
+"CNN Financial News," New York. 
+</TEXT>
+</DOC>

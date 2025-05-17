@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981214.2130.0989 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Trivial pursuit fans, listen up. As with everything else these days, 
+the factoid memory game is going online. Hasbro has agreed to give 
+sony exclusive rights for trivial pursuit to be brought onto its web 
+site -- station-sony.com. the deal gives sony rights to distribute 
+even the special themed versions of the game online including sports, 
+movies and music. Trivial pursuit debuts on the web next year. 
+</TEXT>
+</DOC>

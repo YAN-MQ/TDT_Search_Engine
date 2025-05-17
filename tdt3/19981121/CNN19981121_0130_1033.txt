@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> CNN19981121.0130.1033 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The world wide web is helping children find solutions in a world full 
+of problems. Bruce Francis explains. Not everyone has access to Internet, 
+right? Yeah. Yeah. This is the junior summit, a project of M.I.T.'s 
+media lab. 100 kids from around the world are gathering at the famed 
+institution, sharing very adult ideas on how to attack the world's 
+problems. For months before the conference began, they hashed it out 
+on the web in virtual discussion groups -- how to heal the environment, 
+end child labor or improve education -- talk tinged with media savvy. 
+If they would sponsor us, that would be excellent. Many of the kids 
+who were selected based on essays come from countries where the Internet 
+is almost the exclusive domain of the wealthy. I don't think that 
+money should determine the education that you get, or the opportunities 
+you have, which it does, which is sad. But Internet access is something 
+that we correct and we can improve the educational system. What do 
+you guys think of proposing kid representatives in the U.N.? And the 
+kids are doing much more than just talking. We've started a petition 
+actually, we have, and I've got -- we've got about, more than 1,000 
+signatures already. So we plan to give it to the companies which use 
+child labor, hoping that they will stop exploiting the kids. The kids 
+may be deeply involved with technology, but here at the m.I.T. media 
+lab, where the cutting edge is honed, the kids have relatively little 
+interest in the fastest chips and the latest software. A group of 
+children met with me to tell me that they were sick and tired of computer 
+bloat. They thought all of these fast processors, all of these were 
+unnecessary. They wanted affordable computing for them and their countries. 
+I don't think there's an adult that understands that. Bruce Francis, 
+"CNN Financial News," Cambridge, Massachusetts. 
+</TEXT>
+</DOC>

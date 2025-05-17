@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981214.1600.2951 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Well, we had a rather nasty sell off in the U.S. stock market today. 
+Dow Jones Industrial Average closing at 8695. That was down 126 points 
+or 1-1/2 percent. Standard & Poors 500 Index closed at 1141. That 
+was down 25. The stocks of banks and financial services companies 
+were weak but selling was strongest in the high technology sector. 
+Now the NASDAQ index, which is heavily weighted with technology stocks, 
+lost three percent of its value. 
+</TEXT>
+</DOC>

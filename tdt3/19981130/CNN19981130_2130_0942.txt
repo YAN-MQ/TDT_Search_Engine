@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981130.2130.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+White House spokesman Joe Lockhart says President Clinton probably 
+won't accept an invitation to appear before the house Judiciary committee. 
+The committee chairman says he's dissatisfied with Mr. Clinton's written 
+responses because they rely on technical definitions and legalistic 
+defenses. 
+</TEXT>
+</DOC>

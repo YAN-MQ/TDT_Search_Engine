@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981210.1600.0678 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This week on the "cold & flu report" -- you may be blaming this winter's 
+unusual warm or cold weather for your first miserable cold of the 
+season. There are a number of things, including the weather, that 
+contribute to colds. But you can fight back. Perhaps most important, 
+say doctors, get plenty of rest. That gives the body extra energy 
+to help the immune system, which is working overtime when you're sick. 
+And don't try starving a cold. Eat healthful foods and drink plenty 
+of liquids. Over-the-counter medicines can help that scratchy throat 
+and runny nose. 
+</TEXT>
+</DOC>

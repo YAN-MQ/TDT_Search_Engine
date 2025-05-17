@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981011.1000.0290 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If you hate pumping gas, maybe your next car should be a Chevrolet 
+metro. Two models of the 1999 metro top the EPA's list of the most 
+fuel-efficient gasoline vehicles. Americans apparently don't care 
+much about gas mileage. The top ten gas misers reportedly accounted 
+for only 1% of new car sales last year. 
+</TEXT>
+</DOC>

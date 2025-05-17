@@ -1,0 +1,74 @@
+<DOC>
+<DOCNO> NYT19981201.0327 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Stocks bounced back Tuesday, led by a strong recovery in prices of 
+computer-related and Internet issues. Major market indexes, which 
+posted their worst one-day declines in two months on Monday, sagged 
+further during morning trading. But the averages started to firm around 
+midday, and during the afternoon buyers entered the market, especially 
+for large cap issues that trade on the Nasdaq. ``This market is being 
+fueled by technology stocks, where there is renewed interest,'' said 
+Dan Eagan, a portfolio manager at Blackrock Funds, a subsidiary of 
+PNC Bank with about $3 billion under management. ``The thinking seems 
+to be that the hype about the Internet stocks has given the technology 
+sector more room to improve its profit margins,'' he added. Paced 
+by big gains in benchmark issues like Microsoft, Intel and Cisco Systems, 
+the Nasdaq composite index rose 54.21 points, or 2.8 percent, to 2003.75. 
+It was the biggest gain for the index since Oct. 15, and restored 
+a great deal of what was lost on Monday, when the index fell 66.90 
+points. By contrast, moves in other market measures were much more 
+modest. The Dow Jones industrial average, down more than 100 points 
+early in the session, reversed course and closed at 9133.54, up 16.99 
+points, or two-tenths of 1 percent. The Standard &AMP; Poor's 500-stock 
+index rose 11.65 points, or 1 percent, to 1175.28. And the Russell 
+2000 index of mostly small cap companies eked out a gain of 0.99 point, 
+or a quarter of a percent, to 398.74. Gains in the Dow would have 
+been bigger but for a slide in the price of Exxon, which fell 3 5/16, 
+to 71 3/4. Investors not only seemed disappointed with the company's 
+$99-a-share, $80 billion takeover plan for rival Mobil, but also with 
+a further decline in oil prices, which fell to new 12-year lows. The 
+drop in oil prices provided some more vitality to the bond market, 
+where yields on 30-year Treasury securities fell to 5.04 percent, 
+from 5.07 percent on Monday. Analysts who say the market has little 
+room to advance further admit that bonds are providing a positive 
+framework for stocks. ``Bond yields are lower, and that is positive, 
+but I still think the market is exhausted,'' said Douglas Cliggott, 
+U.S. equity strategist at J.P. Morgan &AMP; Co. ``All the good news 
+is at hand: The buyers are back, and it seems foreign investors, which 
+pretty clearly have a big-cap, technology bias to their buying, are 
+also back in the market.'' Given the drop in bond yields, Cliggott 
+says that according to his valuation model, stocks are now about 2.5 
+percent overvalued, a level he concedes is ``not a big deal.'' Tuesday's 
+performance was viewed as encouraging partly because in the wake of 
+Monday's big selloff, Asian and European equity markets moved sharply 
+lower. The declines were particularly pronounced in Europe. The London 
+Stock Exchange, the largest in the region, fell 3.6 percent. French 
+and German markets each fell by more than 4 percent. Analysts attributed 
+much of the decline to profit taking following big gains in recent 
+weeks, and to concerns that major central banks are unlikely to cut 
+interest rates further before the end of the year. For all practical 
+purposes, European markets were closed by the time stocks began to 
+rally in the United States. Microsoft, Intel, Cisco Systems and Dell 
+Computer, seen by many as the cornerstones of the technology sector, 
+were standout performers Tuesday. Microsoft, the biggest software 
+company, rose 7 1/2, to 129 1/2. Intel, the biggest chip maker, rose 
+7 3/8, to 115. Cisco Systems, which is building much of the Internet's 
+infrastructure, gained 4 3/8, to 79 3/4. Dell rose 4, to 64 15/16. 
+Internet stocks, battered on Monday, partly regained lost ground on 
+renewed optimism about strong holiday sales at retail Web sites. Yahoo! 
+gained 14 1/4, to 206 1/4. Amazon.com jumped 17 1/2, to 209 1/2. Wavephore, 
+a broadcaster of news to personal computers, saw its shares jump 7 
+1/2, a 97 percent increase, to 15 1/4 after the company introduced 
+a shopping channel and said it will adopt a technology allowing it 
+to charge users for certain broadcasts. Henry Herrman, chief investment 
+officer at Waddell &AMP; Reed, an Overland Park, Kan., money manager 
+with about $27 billion under management, said he believes the market 
+is overpriced but that the momentum seems to favor higher valuations. 
+``I think money flows will continue to present a positive prejudice 
+to the tape until sometime in the first quarter,'' he said. ``If the 
+economic news is not too constructive by February, then some fear 
+might come back.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,81 @@
+<DOC>
+<DOCNO> NYT19981201.0353 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Link Exchange, a two-year-old Internet company that built a large 
+membership by luring Web sites with the offer of free advertising, 
+and then sold advertising to outside companies and products to its 
+members, has clearly reaped its reward. In early November, Microsoft 
+Corp. bought the company with plans to fold it into the Microsoft 
+Network, the software giant's portal, or gateway page, on the World 
+Wide Web. The terms of the deal were not disclosed, but news reports 
+put the value at $250 million in stock. Link Exchange, which is based 
+in San Francisco, was started in March 1996. Its advertising network 
+membership consists of people with home pages and small businesses 
+with Web sites, all drawn by a barter system for advertising on the 
+Web sites of other members. Link Exchange also offers free help with 
+starting a Web site and designing a banner ad, a free mailing list 
+program for direct-marketing campaigns and regular reports on when 
+and how often users visit the members' sites. For every two banner 
+ads a member places on its site, one of its ads appears elsewhere 
+on the network. Advertising brings Link Exchange Web sites what all 
+sites want: more traffic. For businesses, traffic can mean customers. 
+The network's growth has been impressive: at the end of 1997, there 
+were 200,000 members, compared with 75,000 at the end of 1996. Today, 
+Link Exchange's advertising network has more than 400,000 members. 
+Greg Koslowski, who owns an employment agency in Coconut Creek, Fla., 
+that specializes in the computer and technical fields, has been a 
+member of Link Exchange since it began. ``I filtered out the ads of 
+other employment agencies when I set up my banner exchanges,'' he 
+said, and used the traffic reports as a monitor of visits to his pages. 
+``The information allowed me to modify my site to direct people to 
+my job-posting page,'' he added. The banners traded among members 
+do not generate revenue for Link Exchange. But in the company's two-for-one 
+exchange policy, there is a leftover banner, and Link Exchange sells 
+those to outside companies, including American Express and Amazon.com. 
+Link Exchange's large membership has given it a ready pool of customers 
+for the other half of its revenue-generating business: offering Internet 
+products to members. These include a service that submits a company's 
+Internet address to search engines, an affiliate program in which 
+members can earn a commission based on the sales of retailers linked 
+to their site and the opportunity to join other Link Exchange members 
+in buying adspace at bulk rates on large Internet networks such as 
+Gamespot, Theglobe.com and Babycenter.com. Yahoo has also been part 
+of this advertising package, but that will probably change, because 
+it competes with the Microsoft Network as a portal. Link Exchange, 
+which was privately held, did not release revenue or sales figures. 
+Chief executive Mark Bozzini said half of the company's revenue came 
+from advertising and the other half from sales of Internet products. 
+Some of these products duplicate similar Microsoft offerings and may 
+go the way of the Yahoo advertising deal. Jim Nail, a senior analyst 
+at Forrester Research, which sells reports on Internet marketing trends 
+and technology, said Link Exchange had been successful in selling 
+advertising to outside companies. ``With the Microsoft Network, there 
+will be added credibility,'' he said. But Microsoft did not buy the 
+company primarily for its advertising network, Nail added. The Link 
+Exchange acquisition gave Microsoft a channel for selling its software 
+and products to the company's hundreds of thousands of members, he 
+said, adding that Microsoft sites like Travelocity and Sidewalk offer 
+Link Exchange members a ready-made model for small businesses that 
+are trying to reach a local audience on the Web. How much of Link 
+Exchange's income will continue to come from outside advertising is 
+unclear, though the network offers advertisers an impressive reach 
+and the ability to place banners among similar sites. According to 
+Doug McFarland, the general manager of Media Metrix, an Internet statistics 
+tracking company, Link Exchange reaches about ``a third of all Internet 
+users in a typical month.'' But, he added, so do other networks like 
+Doubleclick and 24/7 Media. Some larger advertisers, like Procter 
+&AMP; Gamble and American Airlines, tried Link Exchange but have discontinued 
+buying banners. Animalhouse.com, a site for college students, also 
+bought advertising on the network. ``Link Exchange had a wide reach 
+for a reasonable price,'' said Jay Samit, the president of Animalhouse, 
+which is controlled by the Universal Studios unit of Seagram Co. and 
+Hyundai Group. However, his company, which started on the Internet 
+on Sept. 15, will probably not stay with Link Exchange in the long 
+run. ``For our launch, it was a way to get to the word out about our 
+site,'' Samit said. ``But as we emerge as a stronger brand, we'll 
+be trying to pull people onto the Web through our site, as opposed 
+to hijacking traffic through other sites.'' 
+</TEXT>
+</DOC>

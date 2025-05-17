@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> APW19981211.1260 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A Thai Airways jetliner with 146 people aboard crashed in heavy rain 
+and burst into flames Friday night in a swamp in southern Thailand. 
+Scores of people were killed but at least 45 survived, officials said. 
+</TEXT>
+</DOC>

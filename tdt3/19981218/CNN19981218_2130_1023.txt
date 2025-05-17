@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981218.2130.1023 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street showed little regard to the third day of attacks on Iraq 
+or the impeachment debate in Washington. Investors continued spending 
+as the Dow Jones industrial average rose 27 points to close at 8903. 
+</TEXT>
+</DOC>

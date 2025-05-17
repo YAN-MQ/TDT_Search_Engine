@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981124.1600.1300 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Randy Johnson will not return to Houston next season. The astros excused 
+themselves from the bidding war after Texas offered the big unit a 
+reported $50 million over four years. 
+</TEXT>
+</DOC>

@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> MNB19981021.2100.1101 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow was up just over 134 points today. The NASDAQ was up big. 
+</TEXT>
+</DOC>

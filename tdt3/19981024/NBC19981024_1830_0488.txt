@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981024.1830.0488 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In the Caribbean tonight, weather forecasters are keeping a close 
+watch on hurricane Mitch. Right now the storm is moving slowly but 
+its 100-mile-an-hour winds could cause problems for Jamaica next week. 
+</TEXT>
+</DOC>

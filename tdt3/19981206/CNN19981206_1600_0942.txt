@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981206.1600.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The crew of space shuttle "endeavour" is getting ready for a space 
+walk to begin construction on the international space station. 
+</TEXT>
+</DOC>

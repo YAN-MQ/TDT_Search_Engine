@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981103.2130.0035 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Senate race in Illinois is still too close to call, with democratic 
+incumbent Carol Moseley-Braun in fierce competition with republican 
+state senator Peter Fitzgerald. It's also too close to call in Wisconsin, 
+where voters are deciding between democratic senator Russ Feingold 
+who has taken no pac money, and his republican challenger, representative 
+Mark Neumann. So far, the democrats have picked up three Senate seats 
+formerly held by republicans with the victories of Schumer in New 
+York, Evan bayh in Indiana and John Edwards in North Carolina. 
+</TEXT>
+</DOC>

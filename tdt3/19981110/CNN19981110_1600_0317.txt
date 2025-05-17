@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981110.1600.0317 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Safety experts say the increasingly popular "small" sport utility 
+vehicles don't offer very good protection for their occupants. The 
+insurance institute for highway safety put ten models through a 40 
+mile per hour crash test. Only one earned a "good" overall rating. 
+That was the Subaru forester. Four models were deemed acceptable -- 
+Jeep wrangler, Suzuki vitara and grand vitara and Chevrolet tracker. 
+</TEXT>
+</DOC>

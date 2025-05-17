@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981228.1130.0612 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+High winds in Australia are postponing the latest attempt to circle 
+the earth nonstop aboard a balloon. The joint Australian/American 
+team had hoped to lift off from the australian outback tomorrow, but 
+will now try to launch Thursday or Friday. A trio of two balloonists 
+and one journalist plan to fly near the edge of space at 130,000 feet. 
+The trip should last 18 days. 
+</TEXT>
+</DOC>

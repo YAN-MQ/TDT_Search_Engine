@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0968 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More news in 15 minutes. Blue chips and the bond on the rise. For 
+all the latest numbers from Wall Street, let's head down to Valerie 
+morris for a business news update. val? Thanks, Catherine. 
+</TEXT>
+</DOC>

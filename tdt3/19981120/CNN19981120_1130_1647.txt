@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981120.1130.1647 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm Catherine Callaway. This is "CNN Headline News." 
+</TEXT>
+</DOC>

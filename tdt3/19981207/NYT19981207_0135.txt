@@ -1,0 +1,106 @@
+<DOC>
+<DOCNO> NYT19981207.0135 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Libraries have long been the front lines in the battle to preserve 
+freedom of speech and the corollary liberty, the freedom to read. 
+Recently, the battle intensified when libraries began offering their 
+patrons the use of computers with access to the Internet. The new 
+thrust aims at Internet smut and Web porn. Cyber-censors warn that 
+such material curdles the minds of viewers _ adults as well as children. 
+They want to filter it out _ so that the electronic stream of Internet 
+data that flows into a library computer doesn't contain even tiny 
+bits and pieces of information about forbidden sex. Trouble is, despite 
+claims to the contrary, no software filter has ever been built that 
+only blocks out material that is either obscene, under the legal definition, 
+or child pornography. Neither category of speech is protected by the 
+First Amendment and access to such material can be legitimately prohibited. 
+However, even the best and most expensive filters block speech that 
+is protected. To cyber-censors, that doesn't matter. To them, the 
+First Amendment is an inconvenience, a troublesome buzzing thing that 
+interferes with their control of the flow of information. Last year, 
+a unanimous U.S. Supreme Court struck down two major provisions of 
+the Communications Decency Act that were intended to protect minors 
+from ``indecent'' and ``patently offensive'' communications on the 
+Internet. The high court said that ``in order to deny minors access 
+to potentially harmful speech, the CDA effectively suppresses a large 
+amount of speech that adults have a constitutional right to receive 
+and to address to one another.'' The court found the law unconstitutional. 
+The court's opinion ended with these words: ``The interest in encouraging 
+freedom of expression in a democratic society outweighs any theoretical 
+but unproven benefit of censorship.'' Cyber-censors don't believe 
+it. Or haven't read it. Or don't know what the high court means. So 
+it's no surprise that the Internet policy adopted by Loudoun County 
+(Va.) Library Board of Trustees in October 1997, which required site-blocking 
+filters on all computers with access to the Internet, was struck down 
+this Nov. 23. Cyber-censors don't get it. The library purchased a 
+commercial site-blocking software called X-Stop manufactured by Log-On 
+Data Corp., but the board of trustees recognized that X-Stop might 
+not filter out all sexual material on the Internet. A policy was written 
+that would plug up any holes in the filter. The library's 1997 Internet 
+policy prohibited adult patrons from pulling up Web sites that contain 
+material ``deemed Harmful to Juveniles'' _ whatever that means. Would 
+a Web site that informed a reader of rape and violence in federal 
+prisons be harmful to minors? The 1997 policy mandated that Internet 
+computers ``be installed in close proximity to, and in full view of, 
+library staff'' without privacy screens on the computers. The policy 
+warns that public access to soft-core pornography ``could create an 
+unlawful sexually hostile environment, and might incite dangerous 
+criminal misconduct.'' The policy treated all the library patrons 
+like prepubescent children who wanted nothing so much in life as a 
+peek at sexual material. And it forced the librarians who worked there 
+to act like stern mothers who just knew their kids were trying to 
+get away with something naughty. The library receives its funding 
+from tax dollars. The library board is selected by elected county 
+officials. The library is a quasi-governmental agency _ and as such, 
+it must abide by the U.S. Constitution. A group of citizens who live 
+in Loudoun County, calling themselves Mainstream Loudoun, filed a 
+lawsuit in federal court claiming that the library policy infringes 
+on their right to free speech under the First Amendment. The lawsuit 
+was joined by a number of Web site providers whose sites were blocked 
+by the X-Stop filter: Christopher Filkins for The Safer Sex Page; 
+Jeremy Meyers for Books for Gay and Lesbian Teens/Youth; San Francisco 
+Examiner columnist Robert Morse; artist Sergio Arau, whose work is 
+published on Web sites; and the American Association of University 
+Women. Judge Leonie Brinkema of the U.S. District Court of the Eastern 
+District of Virginia covered all the bases in declaring the library 
+policy and use of filters unconstitutional. The library was under 
+no obligation to provide Internet access to its patrons, Brinkema 
+wrote, but once it did so, the library is ``restricted by the First 
+Amendment in the limitations it is allowed to place on patron access.'' 
+The government can only limit access to protected speech if it has 
+a compelling interest, and then it must narrowly tailor the way it 
+accomplishes its goal. Brinkema found that the library board could 
+not support its contention that unrestricted use of the Internet would 
+create a sexually hostile work environment. The library board's expert 
+could only find three isolated incidents nationally and one in a different 
+Virginia library where patrons used Internet access to look at pornography. 
+Nor could the expert find a single complaint from library employees 
+anywhere in the country that blamed unfettered Internet access for 
+creating a hostile workplace. Therefore, the judge pointed out there 
+is no compelling government interest. The use of filtering software 
+on all the library computers, the judge wrote, isn't narrowly tailored 
+to accomplish the library's goal. The filter blocks too many legitimate 
+Web sites containing protected speech that have nothing to do with 
+obscene material. Repeating a theme in the Supreme Court's CDA ruling, 
+the judge wrote that the policy restricts the access of adult patrons 
+to the level of what is deemed unfit for minors. The library board 
+does not know what sites are actually blocked by the X-Stop filter. 
+The owners of X-Stop would not supply that information. Therefore, 
+the filter and the policy together created an unconstitutional prior 
+restraint against blocked Web sites. For these reasons, the judge 
+granted a summary judgment against the library so that it could not 
+enforce its 1997 policy. It is unlikely the library board will appeal. 
+On Dec. 1, the library adopted a more reasonable policy that allows 
+patrons to use filtered or unfiltered forms of Internet access. Internet 
+computers may have privacy screens installed. Parents will decide 
+whether their children may use filtered or unfiltered Internet access. 
+Brinkema's decision is a victory for freedom of speech that will send 
+tiny ripples out westward across the nation. Nevertheless, cyber-censors 
+never rest. There will be other cases, other libraries under the gun. 
+(Charles Levendosky was recently re-elected to serve on the Freedom 
+To Read Foundation Board, the litigating arm of the American Library 
+Association.) 
+</TEXT>
+</DOC>

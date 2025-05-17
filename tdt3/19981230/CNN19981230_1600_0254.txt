@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981230.1600.0254 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stay with "CNN Headline News" throughout the day for the latest developments 
+in the gulf. 
+</TEXT>
+</DOC>

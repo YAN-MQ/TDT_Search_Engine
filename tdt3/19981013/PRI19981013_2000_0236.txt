@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> PRI19981013.2000.0236 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The FBI has begun to make its National DNA database available to state 
+and local law enforcement officials. Police say it will enhance crime 
+fighting, but some worry the database information could be misused. 
+NPR's Eric Westervelt reports: Law enforcers say the National DNA 
+database could cut down on the number of serious crimes including 
+rape and violent assault by catching repeat offenders sooner. Matching 
+DNA analysis with evidence left at a crime scene will allow police 
+to cross check convicted criminals in every state. But civil libertarians 
+are raising constitutional and privacy concerns. The FBI says the 
+database will be limited to convicted felons. But Jim Dempsey with 
+the Center for Democracy and Technology worries that that pool will 
+expand. Let's keep it to convicts only. Let's limit the kind of information 
+that is stored long term and before this is expanded, we really need 
+to see a track record. FBI officials counter that there have been 
+no known abuses of the database so far and they say they will be available 
+only to trained and screened police experts. Eric Westervelt, NPR 
+News, Philadelphia. 
+</TEXT>
+</DOC>

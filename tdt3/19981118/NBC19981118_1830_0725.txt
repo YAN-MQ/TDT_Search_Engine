@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981118.1830.0725 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There was a missile flying today. In the waters over southern California. 
+The British Navy let off a missile carrying a live warhead. It successfully 
+hit its target. 
+</TEXT>
+</DOC>

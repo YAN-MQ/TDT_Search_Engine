@@ -1,0 +1,117 @@
+<DOC>
+<DOCNO> NYT19981202.0396 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For all the talk of Microsoft exercising global dominance from the 
+empire's capital here in the Seattle area, most residents know that 
+the big engine for jobs in the region remains Boeing Co., the nation's 
+largest exporter, whose 100,000-strong local work force is eight times 
+the size of Microsoft's. The airplane behemoth is the region's biggest 
+employer, providing good jobs for tens of thousands of blue-collar 
+workers, whose strong union has secured the kinds of wages that enable 
+many workers to afford fishing boats and second homes in the Pacific 
+Northwest mountains. So when the company announced Tuesday that it 
+was cutting 20 percent of its worldwide work force over the next two 
+years _ 20,000 jobs in addition to the 28,000 it had announced in 
+July _ with many of those cuts planned for the Seattle area, the news 
+hit like a chill winter wind. Boeing, one of the 30 stocks that make 
+up the Dow Jones industrial average, fell 16.7 percent, or $6.6875, 
+to $33.6875 Wednesday in trading on the New York Stock Exchange. The 
+Dow was down 69 points for the day. The chief factor cited by Boeing 
+for the company's downturn, the Asian recession, continues to hammer 
+at the local economy in other ways as well: exports of all non-aircraft 
+products from this heavily trade-dependent state are down more than 
+30 percent in the last year, state economists say. And while exporters 
+here see signs that Asia's problems may be easing, those projections 
+seem to provide little consolation for Boeing workers. ``I can't see 
+any quick turnaround,'' said Thomas Plummer, 49, an aircraft test 
+technician on the production line for the 747 jumbo jet, as he finished 
+the graveyard shift early Wednesday morning. ``I mean, even if things 
+get better over there, I can't see Asian airlines rushing out and 
+saying, `Hey, let's buy a lot of big planes to celebrate.' You're 
+talking $180 million or so for a fully loaded 747. That's a serious 
+chunk of change.'' Kevin Moe, 35, a wing mechanic who was laid off 
+for four years in the early 1990s and fears a similar fate now, agreed. 
+``You've got to think, how many planes do we already have sitting 
+in the desert with no customers,'' he said, referring to a collection 
+of sparkling new wide-bodied jets that are indeed parked there because 
+various airlines, most from Asia, have not been able to pay for their 
+orders. ``You'd like to think there was something you could do, work 
+harder, whatever'' to stem the company's problems, he added. ``But 
+what can you do? It's out of your hands.'' The job cuts represent 
+a potentially serious blow to the region's economy, especially because 
+the rough rule of thumb is that every job at Boeing creates about 
+three other jobs, directly, in related businesses like suppliers, 
+or indirectly, in stores and restaurants. No one here seems to think 
+that things will be anywhere near as dire as the 1970s, when the company 
+cut nearly two-thirds of its work force amid a global recession and 
+a notorious sign directed the last person leaving Seattle to turn 
+off all the lights. But they are a worrying sign. ``If you look at 
+the last Boeing slump, in '91-93, the state economy held up pretty 
+well, because of other areas, obviously the high-tech area, but also 
+timber and agriculture as well,'' said Charles Hill, a professor at 
+the University of Washington's school of business administration. 
+``The problem now, of course, is that timber and agriculture are Asian-dependent. 
+Go figure. I think it'll hurt us.'' Hill and others noted that the 
+Boeing announcement seemed almost strangely late. ``I'm not surprised, 
+I'm surprised that people are surprised,'' he said. ``I think this 
+has been in the cards for 12 months. ``The moment those economies 
+hit the skids,'' he said, referring to Asia, ``this was in the cards.'' 
+Bill Whitlow, an analyst with Safeco Asset Management who follows 
+Boeing and who serves on Gov. Gary Locke's Council of Economic Advisers, 
+said the company ``seems to be the last one to figure out how bad 
+it would be'' in Asia. Even with the signs that the economies are 
+bouncing back, he said, there is no short-term good news for Boeing. 
+``I think it just takes time,'' said Whitlow. ``It will be three or 
+four years before you see much of an improvement in deliveries to 
+Asia.'' Not everyone here thinks that all of Boeing's problems can 
+be traced to Asia. In Wednesday's edition of the online magazine Slate, 
+published by Microsoft, James Surowiecki wrote: ``While in part these 
+cutbacks represent an aggressive response to a sharp falloff in demand 
+from Asia, they're also the result of a failure of management _ production 
+line inefficiencies, mismanaged capacity and poor forecasting. Boeing 
+needs a new approach, and job-cutting alone isn't it.'' Boeing officials 
+said Wednesday that they had renegotiated many contracts with major 
+suppliers and were taking other cost-saving measures, which they portrayed 
+as helping to ease the problems caused by the fall-off in Asian demand. 
+``There are things that we can't control, like the Asian crisis,'' 
+said Bob Jorgensen, a Boeing spokesman. ``We work on things we can 
+control, and because of those savings those cuts won't be as deep.'' 
+Some of the unionized workers coming off their shift early Wednesday 
+morning also said they were suspicious that the cutbacks represent 
+a bargaining threat for the upcoming battle between the company and 
+the aerospace workers union over a new contract. The current one is 
+scheduled to expire next September. Three years ago, when the current 
+contract was ratified after a 69-day strike, workers claimed a major 
+victory for organized labor, including wage increases of about 10 
+percent and protection of many health benefits. The bitterness over 
+the negotiations quickly subsided, as the nation and the company enjoyed 
+a huge economic boom. Amid a surge in demand for Boeing planes, the 
+company made big payments for overtime work, hired more workers (21,000 
+people in 1996 and 17,000 last year), and pleaded with some retirees 
+to come back to the plants. Now, of course, the fear is that the boom 
+times are over. And while no specific individuals have yet received 
+layoff notices, everyone knows they're coming. ``You live in this 
+bubble, waiting for the news,'' said Rolf Vitous, 34, an electrical 
+systems installer who has been with the company for two and a half 
+years. ``You don't go out and buy a new car, you don't buy a lot of 
+Christmas presents, you definitely don't go and buy a new house. You 
+lie in the bubble and wait. `` Boeing has jobs in more than half the 
+states in the country, including about 42,000 in southern California, 
+making it one of the largest single private employers in that region. 
+But its presence in Seattle and its environs is huge, and because 
+this is the production site for most of the wide-bodied jets for which 
+Asian airlines have reduced orders, everyone knows there will be significant 
+job cutbacks here. ``This is a boom-and-bust business, and Boeing 
+people understand the cyclical nature of it,'' said Plummer, the test 
+technician. ``But that doesn't help when you go home and your spouse 
+says, `Honey, are you going to have a job tomorrow?' '' While distressed 
+about the job cuts, workers here did not seem particularly angry at 
+Boeing management, nor did they blame the Asian airlines. ``It's not 
+really their fault,'' said Vitous. ``If you order up a shiny new pick-up 
+truck and then you lose your job, you don't still go out and buy the 
+truck. Well, it's sort of the same thing for them, though we're talking 
+about wide-bodied jets.'' 
+</TEXT>
+</DOC>

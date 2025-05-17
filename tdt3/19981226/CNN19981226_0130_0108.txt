@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981226.0130.0108 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For some Americans, Christmas day was a mix of celebration and weather-related 
+challenges. Hundreds of people gathered for the traditional Christmas 
+service at St. patrick's Cathedral in New York. With snow from an 
+earlier storm still on the ground, New Yorkers are experiencing their 
+first white Christmas in more than 20 years. Snow would have been 
+welcome in the mid-atlantic, where an ice storm has wreaked havoc. 
+Virginia power says it has sent a thousand workers to restring power 
+lines brought down by ice. At its peak, more than 250,000 customers 
+were without power. Retailers are reporting a run on kerosene heaters, 
+generators and firewood. We'll have more in the extended weather forecast 
+at eight minutes past the hour. 
+</TEXT>
+</DOC>

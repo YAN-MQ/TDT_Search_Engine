@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981119.0130.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And U.N. inspectors are back at work in Iraq. So far, no problems 
+are reported. The inspectors have yet to attempt any surprise inspections. 
+</TEXT>
+</DOC>

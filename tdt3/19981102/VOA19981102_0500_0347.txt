@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981102.0500.0347 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Hello, again, from Washington, everyone. I'm Paul Westpheling, along 
+with Charlene Porter. We're broadcasting live VOA News Now. 
+</TEXT>
+</DOC>

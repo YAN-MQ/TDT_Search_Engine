@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981023.1130.1048 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The nation's two leading bus carriers are announcing an alliance. 
+Greyhound lines and Peter pan bus lines say they will share their 
+bus routes between major cities in the northeast. Earlier this week, 
+Greyhound was acquired by Canada's laidlaw, which already owns Greyhound 
+bus lines in Canada. A Greyhound spokesman tells CNN the move will 
+not result in any job cuts and is instead aimed at increasing business 
+for both companies. 
+</TEXT>
+</DOC>

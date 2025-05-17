@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981130.2130.0510 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News" weather 
+forecast for Tuesday. A storm is moving into the west with more rain, 
+more mountain snow and very windy conditions. As we go through the 
+day on Tuesday, a second system will drop into the northwest, so the 
+wet weather in that region will continue. Could be a couple feet of 
+snow in some of the higher elevations of the mountains out west. Meanwhile, 
+a cold front pushes rapidly across the east with showers and even 
+possibly some thunderstorms in the south, but could be an icy mix 
+over some northern sections of New England. Tuesday's highs, a little 
+cooler around the Great Lakes, the mid-atlantic, 40s and 50s. But 
+it'll still be plenty warm in the south. We look for 60s and 70s. 
+Looking ahead to Wednesday, rain and wind continue in the northwest, 
+with some showers through the southwest. On Thursday, those showers 
+are moving across the plains toward the mississippi river. And temperatures 
+are still mild in the plains and in the southeastern U.S. friday, 
+look for scattered showers around the Great Lakes. Still a bit on 
+the mild side with the coolest air in the northwest with showers and 
+snow, as well. Don't forget, four-day forecasts, 7,200 cities, CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981016.1130.0233 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There will be the lowest social security increase in years. Next year, 
+social security recipients will see just a 1.3% increase in their 
+cost of living adjustment. This translates into a $10 a month raise 
+for the average recipient from $770 to $780. 
+</TEXT>
+</DOC>

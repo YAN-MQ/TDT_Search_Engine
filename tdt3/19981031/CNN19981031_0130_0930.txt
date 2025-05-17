@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981031.0130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- astronaut John Glenn says it's 
+been a Great ride so far. The senator spent his first full day in 
+space working on experiments friday. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981231.1600.0222 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+China is calling groundless and irresponsible a U.S. report that says 
+Beijing obtained technology that harmed U.S. national security. The 
+Chinese Foreign Ministry said it resents a U.S. congressional report 
+that says China aggressively sought U.S. technology including sensitive 
+military secrets. The majority Republican House committee said Hughes 
+and Loral Space Communications provided the technology to China after 
+their satellites were destroyed in Chinese rocket explosions. 
+</TEXT>
+</DOC>

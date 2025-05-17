@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981111.1130.0451 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll check the extended weather forecast for the United States next. 
+And later -- O.J. Simpson may be facing another legal battle in a 
+California courtroom. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981019.1830.1226 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Across Texas tonight, the toll from flooding now stands at 14, and 
+officials warn it will rise. In San Antonio, the massive rainfall 
+has deposited 20 inches of water. And the guadalupe river, is now 
+three miles across in some spots. 
+</TEXT>
+</DOC>

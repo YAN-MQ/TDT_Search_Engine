@@ -1,0 +1,69 @@
+<DOC>
+<DOCNO> NYT19981230.0395 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The federal government took a big step toward redefining the Internet 
+Wednesday when the Justice Department approved the proposed $31.8 
+billion acquisition of the cable giant Tele-Communications Inc. by 
+AT&AMP;T. The deal, announced in June, still cannot be closed without 
+the consent of the Federal Communications Commission, whose officials 
+said Wednesday that the agency's staff was still more than a month 
+away from finishing its review under different standards and laws 
+from those considered by the Justice Department. After the staff review 
+and recommendations, the five commissioners would have to decide whether 
+the deal is in the public interest or, as critics have argued, it 
+would give AT&AMP;T the power to sharply limit access to the Internet 
+to other telephone companies and access providers. Nonetheless, Wednesday's 
+decision by antitrust regulators removed a significant potential obstacle 
+and moved the two companies closer to becoming a vast new telecommunications 
+conglomerate. That conglomerate would offer a big new artery of higher-speed 
+access to the Internet that the companies' executives say would enable 
+computer users to transfer data more easily, hold clearer conversations 
+and eventually receive TV-quality video. In a separate regulatory 
+action, the Federal Trade Commission approved the $52.4 billion acquisition 
+of Amoco by British Petroleum PLC. The agreement announced Wednesday 
+with the Justice Department was not without conditions. Because both 
+AT&AMP;T and TCI hold substantial interests in wireless telephone 
+services, officials approved the deal only on the condition that TCI 
+divest its interests in that business. The company will have five 
+years to sell its 23.5 percent interest in Sprint PCS, one of the 
+nation's leading providers of digital wireless telephone service. 
+Antitrust officials had raised concerns that the proposed merger could 
+affect the price of wireless service because AT&AMP;T, with about 
+9 million customers, is the nation's largest provider. ``In the past 
+few years, increased competition in mobile wireless services has produced 
+lower prices, higher quality and millions of new subscribers,'' said 
+Joel Klein, the assistant attorney general in charge of the Justice 
+Department's antitrust division. ``The settlement reached today will 
+insure that the merger will not blunt the move toward a more competitive 
+market in wireless services and that customers continue to reap the 
+benefits of that competition.'' Under the agreement with the Justice 
+Department, if the deal closes before TCI divests its interest in 
+Sprint, then the Sprint stock must be placed in a trust until it is 
+sold. Executives at AT&AMP;T and TCI have said the merger will enable 
+consumers to get one-stop shopping for their local and long-distance 
+telephone service, cable TV, and access to the Internet and data services. 
+TCI and its affiliated systems reach more than 14 million customers 
+representing about one-third of the nation's homes. Since the breakup 
+of the Bell telephone network in 1984, AT&AMP;T has not had direct 
+access to most homes. But the proposed deal with TCI, made possible 
+by the sweeping deregulation of the telecommunications industry two 
+years ago, would change that. James Cicconi, AT&AMP;T's general counsel, 
+said the decision was good news for consumers. ``We are now one step 
+closer to finalizing a transaction that will ultimately give residential 
+customers broader choices for local telephone service and other advanced 
+services and products,'' Cicconi said. ``We think it is especially 
+significant that the only subject of today's consent decree is the 
+ownership interest TCI currently holds in the cellular business of 
+Sprint.'' But other telephone companies have maintained that the deal 
+is fundamentally anticompetitive. They have expressed fears that it 
+will prevent them from using TCI's lines to offer access to the internet. 
+That issue is now one of the central ones before the FCC. The AT&AMP;T-TCI 
+deal is one of three large proposed mergers in the telecommunications 
+industry that are awaiting approval from regulators in Washington 
+and a variety of states. Officials are also considering SBC Communications' 
+$56 billion purchase of Ameritech and Bell Atlantic's $52 billion 
+purchase of GTE. 
+</TEXT>
+</DOC>

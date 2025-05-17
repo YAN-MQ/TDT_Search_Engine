@@ -1,0 +1,323 @@
+<DOC>
+<DOCNO> NYT19981113.0372 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Two months ago Myron S. Scholes made a sentimental journey to the 
+steel-manufacturing city of Hamilton, Ontario, to be honored as a 
+local boy made good. He had recently been awarded, with Robert C. 
+Merton, the Nobel Prize in economics, for breakthrough work in finding 
+a way to value risky financial investments known as options. Those 
+formulas, devised 25 years ago, made sophisticated investing more 
+of a science and less of an art, encouraging the growth of a host 
+of new securities markets. Many people made millions of dollars. The 
+trip home was one of a number of personal appearances that amounted 
+to, in Scholes' words, a victory lap. As the star guest at a cocktail 
+party in Hamilton, he described his trip to Sweden to accept the Nobel 
+and spoke fondly of the local people who had looked after him in his 
+youth. At the end of his reminiscences, he nearly broke down in tears. 
+No one in the crowd knew it. But the situation back home was grave. 
+The giant investment fund in which Scholes and Merton were partners, 
+Long-Term Capital Management, was teetering on the edge of financial 
+ruin. The fund had made a variety of big, risky bets that had gone 
+terribly wrong. The Federal Reserve Bank of New York would within 
+a week organize a private takeover to prevent the fund's outright 
+failure and a rout in the world's financial markets. In the end, the 
+very thing that the two economists had taught the world to understand 
+_ managing investment risk _ proved to be their undoing. Indeed, that 
+a fund with so much brain power could crash so ignominiously is the 
+decade's most powerful reminder yet of the vast chasm between devising 
+investment models and turning them into profitable trades. Neither 
+Merton, 54, nor Scholes, 57, agreed to comment for this article. But 
+interviews with dozens of friends, academics and people close to Long-Term 
+Capital paint a picture of two economists who after years in academia 
+were hired by some former students who had made it big on Wall Street. 
+The credibility of the two economists made the firm something of a 
+legend, attracting heavyweight investors, lenders and trading partners. 
+Scholes, who had the charisma of an ace salesman, went on the road 
+to help the firm raise money. But for all the brilliance of their 
+theory, it was based on an assumption that the future performance 
+of bonds would mirror their past movements. When Russia decided to 
+stop paying its debts in August, investors in many markets panicked 
+in a way that a mathematical model could not have anticipated. And 
+for all their prominence as architects of the theories on which traders 
+placed their bets, Scholes and Merton in fact were not even directly 
+involved in the firm's trading; they were therefore somewhat removed 
+from the firm's daily operations. And they were ultimately powerless 
+to stop the fund from running aground. Suddenly, the economists were 
+each worth much less. Scholes is a natural salesman with a penchant 
+for taking risks. He was born in 1941 in Timmins, a small mining town 
+in northern Ontario. His father, a dentist, moved the family south 
+to Hamilton when Myron and his little brother, David, were young. 
+Myron met his future wife, Bonnie Levy, at the public high school 
+and received a bachelor of arts from the local McMaster University 
+in 1962. He then headed to the University of Chicago, where a master's 
+in business was his stepping-stone to a doctorate in finance and economics, 
+awarded in 1970. Even while pursuing an academic career, Scholes was 
+an avid investor. In an interview with The Ottawa Citizen a year ago, 
+he recalled a sobering experience speculating on stocks in the late 
+1960s. ``I would take my salary and invest it in the stock market,'' 
+Scholes told the newspaper. ``Then I'd use the securities to borrow 
+from the bank to live. I always told my wife that we were investing, 
+not borrowing.'' A bear market in the early '70s ravaged his stock 
+portfolio. With his loans coming due, he recalled, he pleaded with 
+his banker for an extension and got it. Stock prices recovered, allowing 
+him to repay his debts. In the early '70s, he was on the faculty of 
+the Sloan School at the Massachusetts Institute of Technology. Scholes 
+elicits tales of brilliance from colleagues and students at MIT, as 
+well as the University of Chicago, where he taught finance and banking 
+from 1973 until 1983, and Stanford University, where he was a professor 
+in the business and law schools. ``He was very charismatic,'' said 
+Carol Levenson, a University of Chicago graduate who is now editor 
+of Gimme Credit, a high-grade corporate bond investment advisory service 
+in Chicago. ``He was so far over our heads that nobody was smart enough 
+to have any interaction with him. We felt like we were studying with 
+Einstein.'' At MIT, Scholes teamed up with Fischer Black, an economist 
+who had his own consulting firm. The two developed a formula for valuing 
+stock options, pioneering work that gave rise to an explosion of futures 
+contracts, options and other securities known as derivatives, whose 
+value is derived from some other instrument like a stock or a bond. 
+At the time, though, the men could not get their work published. Merton, 
+also an economist at MIT, examined their formula, applied some high-powered 
+mathematics and produced an elegant elaboration that was quickly accepted 
+for publication. Ordinarily, the story would end there _ publication 
+would have led the formula to forever bear Merton's name. But Merton 
+refused to publish his effort until the work of Black and Scholes 
+was published, which happened in 1973. So the formula for placing 
+a price on stock options is now known throughout the financial world 
+as Black-Scholes. This formula, with Merton's elaboration, produced 
+Nobel prizes for Scholes and Merton. Black died in 1995, and the Nobel 
+is not awarded after death. The work of the three economists ``created 
+an entire new industry,'' said Zvi Bodie, a finance professor at Boston 
+University and a textbook author with Merton. They devised a trading 
+strategy that could take the risk out of buying and selling stock 
+options. An investor with a stock option could offset the ups and 
+downs of its market price by buying and selling shares of the underlying 
+stock in a precise manner. The combination of options and stock described 
+by Black-Scholes is riskless, but also theoretical, since it does 
+not account for such things as transaction costs. In the process of 
+devising this strategy, the economists demonstrated how to put a market 
+price on options, futures and other derivatives. Once traders had 
+that knowledge, they began aggressively trading stock options on the 
+Chicago Board Options Exchange, and began creating hundreds of other 
+derivative securities, like those backed by the stream of payments 
+from home loans. One of Scholes' former students marvels at the fact 
+that the men who came up with the options pricing formula did not 
+sell it to the private sector or trade with it themselves. While the 
+formula made their reputations, the three economists initially were 
+content to carry on their academic pursuits, consulting here and there, 
+but largely ignoring the sirens of Wall Street. Merton looked for 
+order all around him, whether in the stock market or on the poker 
+table. Known for his integrity and brilliance, he has spent his career 
+applying high-powered mathematics to the real world. Born in 1944, 
+Merton has had a lifelong fascination with numbers and markets. By 
+the age of 10, he was dabbling in the stock market. He is the son 
+of Robert K. Merton, a renowned professor at Columbia University, 
+who founded the sociology of science and coined such phrases as deviant 
+behavior, self-fulfilling prophecy and role model. Robert C. Merton 
+and two sisters, Stephanie and Vanessa, grew up in the Westchester 
+County town of Hastings-on-Hudson. The young Merton received an undergraduate 
+degree in mathematical engineering from Columbia and pursued mathematics 
+studies at the California Institute of Technology. But his interest 
+in stocks and other securities led him to drop mathematics in favor 
+of economics. The idea was to apply the mathematical machinery he 
+had mastered to complex situations. Because his background was not 
+in economics, several graduate schools rejected him. MIT accepted 
+him in 1967 only after Harold Freeman, a statistician and the only 
+member of the economics department without a Ph.D., intervened on 
+his behalf after taking note of the recommendations from impressive 
+mathematicians. There Merton quickly hooked up with Paul A. Samuelson 
+to work on pricing financial securities. Samuelson, America's first 
+Nobel laureate in economics and the leader of the university's economics 
+department, said, ``Bob was one of the best graduate students we've 
+ever had and one of the youngest people we have ever tenured.'' Samuelson 
+_ who pioneered the application of mathematics to economic analysis 
+_ added: ``Bob and I were working on some of the same problems. One 
+of the joys of teaching was to watch him surpass my work.'' After 
+earning a Ph.D. in economics, Merton taught at MIT's business school, 
+where Scholes had been appointed assistant professor of finance after 
+leaving the University of Chicago. Among others, Merton taught Lawrence 
+Hilibrand, David Mullins and Eric Rosenfeld. All of them would later 
+become partners of Long-Term Capital. Merton and Scholes did research 
+on options pricing and other projects at MIT, and became close friends. 
+They also did some consulting, including a project for Donaldson, 
+Lufkin &AMP; Jenrette to develop models for pricing options for the 
+over-the-counter market and for the new Chicago Board Options Exchange. 
+They even had a joint mutual fund venture in the mid-1970s. It was 
+not ``a commercial success,'' Merton said last year, but ``a broadening 
+experience.'' Of the two economists, Scholes is clearly the extrovert 
+and loves telling jokes and stories. Unlike many in academia, he does 
+not take himself too seriously. Friends say he would be more likely 
+to be mistaken for a salesman than an academic. Scholes can also be 
+impetuous. Richard Roll, Allstate chair of finance at the Anderson 
+School at UCLA, recalled an incident in 1970, when Scholes spoke at 
+Carnegie Mellon in Pittsburgh. ``I'd just bought a new motorcycle,'' 
+Roll said. ``He wanted to get on it to see how it felt to drive. I 
+said, `Wait a minute, that's a big engine there,' and before I knew 
+it he had laid rubber, hit a curb and landed in my neighbor's yard 
+in a mangled heap.'' Later that afternoon, Scholes sprained his ankle 
+diving into his friend's swimming pool. Merton, who built cars and 
+drag-raced in his youth, spends his spare time playing poker _ so 
+seriously, says a colleague, that he tries to throw off his opponents 
+by looking into a light bulb to constrict his pupils before playing 
+his cards. Good players are said to be able to determine by the dilation 
+of their opponents' eyes whether their cards are a blessing or a curse. 
+The ideas of Scholes and Merton had an immense influence on Wall Street. 
+Still, the two economists did not work for a big investment firm until 
+late in their careers. Marrying top economists to top traders was 
+the idea of John W. Meriwether, a managing director of Salomon Brothers 
+in the 1980s and the leader of the firm's bond arbitrage group. In 
+1988, one of Meriwether's lieutenants, Rosenfeld, helped bring Merton 
+to Salomon as a consultant to John Gutfreund, then the chairman. Merton, 
+who also moved from MIT to Harvard University that year, provided 
+advice on business matters and changes in global financial markets. 
+While Merton remained at Harvard full-time, Scholes took a sabbatical 
+from Stanford two years later to join Salomon as a senior adviser 
+to the bond arbitrage group, a group that had had great success. Although 
+Scholes had met Meriwether socially, it was Rosenfeld who persuaded 
+the academic to come to Salomon. Scholes subsequently became a managing 
+director. He worked not on trading strategy but on a problem the firm 
+had: Salomon's management was disturbed that it was losing derivatives 
+trades to rival firms. The reason? Some competitors _ such as J.P. 
+Morgan and American International Group _ had top ratings from the 
+big credit rating agencies; Salomon did not. A top-notch rating provides 
+comfort since one of the biggest risks in a derivatives trade is that 
+the firm entering into the transaction will not be solvent or able 
+to meet its financial obligations when the contract expires. Over 
+about two years, Scholes figured out a way to use some of Salomon's 
+capital for a separate subsidiary that landed a top rating from the 
+agencies. The stamp of approval cleared the way for a greatly expanded 
+derivatives business at Salomon. Scholes was also interested in identifying 
+tax strategies. He scoured the world for ways to turn an investment 
+that generated income into a capital gain, since gains are taxed at 
+a lower rate than income. He also looked for ways to turn pre-tax 
+losses into after-tax profits. ``He saw that as a new frontier,'' 
+said a partner at a rival Wall Street firm who recalled discussing 
+the strategies with him. ``By sheer dint of his brilliance, he could 
+be in a position to take advantage of tax loopholes or create some 
+himself that would open up vast opportunities even if the trades didn't 
+look so profitable on the surface.'' After a scandal involving fraudulent 
+bids for Treasury bonds in 1991, Meriwether and other top executives 
+resigned from Salomon. Three years later, when Meriwether started 
+his own firm, Long-Term Capital in Greenwich, Conn., Scholes and Merton 
+joined him as founding partners. Some friends of Scholes' noticed 
+his growing affluence. ``He led a higher lifestyle, the vacation houses, 
+the cars he drove,'' said a friend who spoke only on the condition 
+that he not be identified. ``There were changes when he went to Salomon 
+that were magnified when he went to Greenwich.'' Scholes was divorced 
+from his wife, Bonnie, with whom he has two daughters, in 1990. He 
+married Jan Blaustein, a California lawyer, in New York in September. 
+The couple live in Greenwich in a white clapboard house overlooking 
+Long Island Sound. He also maintains a home in Palo Alto, Calif., 
+and a vacation retreat in Park City, Utah. Friends of Merton's say 
+that his lifestyle appeared to change little after his Wall Street 
+endeavors, even when Long-Term Capital was riding high and raking 
+in profits. Merton was separated two years ago from his wife, whom 
+he met just before he turned 17, and with whom he has three grown 
+children. In Long-Term Capital's early days, Scholes acted as a salesman, 
+meeting with potential clients. ``When they first started out, he 
+was instrumental in helping them raise funds, go out on the road,'' 
+said Matthew Richardson, associate professor of finance at the Stern 
+School of New York University and a research assistant to Scholes 
+at Stanford. By all accounts, Scholes was a natural. ``Myron is always 
+talking,'' said Roll, the professor of finance at UCLA. ``If you met 
+him on the street, the last thing you'd think was he won the Nobel 
+Prize for academic research.'' In just a few months, Scholes and others 
+raised $1 billion for the fund. Once the money was in hand, however, 
+Scholes became less active in day-to-day operations. He did not sit 
+on the trading desk, but in the back of Long-Term's offices, contemplating 
+the big picture. In the last couple of years he and Merton had been 
+studying ways to expand into other businesses, like managing money 
+for individuals. From the beginning, Merton was even more distanced 
+than Scholes from the fund's daily operations, venturing to Greenwich 
+from his office at Harvard once every two weeks or so. Often, his 
+contributions to the firm's operations were made by e-mail. Many outsiders 
+have assumed that the economic models used by Long-Term Capital to 
+identify trading opportunities were the creation of Merton and Scholes. 
+But even there, the academics did not dominate. People close to the 
+fund said that while Scholes and Merton laid the foundation for the 
+models through their early work, most of the refinements were done 
+by the traders, who also determined how much in securities to buy 
+and when to sell. As any academic will attest, implementing investment 
+models is far different from creating them. The Black-Scholes option-pricing 
+model, as extended by Merton, is a theory based on assumptions that 
+stock and other trades can be executed without cost and _ crucial 
+to the fall of Long-Term Capital _ that the volatility of stocks and 
+bonds can be known from their past movements. Unexpected events in 
+the real world _ like Russia's decision in August to stop paying its 
+debts _ can wreak havoc on these models. In fact, the spread in prices 
+between similar securities rose to three times their historical levels 
+after the Russian debt moratorium. Long-Term Capital had made bets 
+that these spreads would ultimately narrow; the fact that they widened 
+caused giant losses. While Merton and Scholes were not responsible 
+for building Long-Term Capital's models, they did serve as a sounding 
+board for the fund's traders. As members of the firm's risk management 
+committee _ all the partners were _ they questioned the trades and 
+discussed the size of various positions. The risk management committee 
+met every Tuesday, and Merton sometimes communicated by conference 
+call from Cambridge. Scholes, who serves on the board of several mutual 
+funds in the American Century family, is described as always asking 
+the most demanding questions at board meetings there. Randall Merk, 
+managing director for fixed-income investing at American Century, 
+said: ``He'd make us think outside the box, think of things that might 
+have gone wrong that you might not have thought of before. Have you 
+thought of all the wild cards, if you will.'' According to people 
+close to Long-Term Capital, Scholes and Merton posed such questions 
+to their partners. For instance, they asked about the size of specific 
+trades and whether getting out of them would be difficult if investors 
+fled certain markets for safety. But operations like Long-Term Capital 
+Management do not run by consensus. Disagreements over policy are 
+a way of life. So even if the economists asked tough questions, it 
+is likely that they got reasonable answers in return. After all, if 
+a trader has taken a position, he ought to know how to defend it. 
+It is a bit surprising that the firm had risk management meetings 
+only once a week. For a firm its size, daily meetings would be more 
+typical. But having made so much money for so long, the partners could 
+easily have been lulled into complacency. The first realization that 
+they were in trouble came in June, when the fund lost 15 percent of 
+its value. Emerging markets were starting to look dicey; in mid-June, 
+the Russian government canceled two if its planned debt sales owing 
+to lack of investor interest. July was quiet. Then, on Aug. 14, disaster 
+struck. Markets everywhere froze as it became clear that Russia was 
+about to default on its debt. Many of the firm's partners were out 
+of the office, either on vacation or away on business. Meriwether 
+was on a plane to China, Rosenfeld was on Nantucket, Mass. Hilibrand 
+was out. Scholes was in the office, part of a skeleton crew who watched 
+in horror as markets around the world tumbled. According to people 
+close to the firm, the partners returned to Greenwich as soon as they 
+could. Their capital was dwindling fast, and there was no sign of 
+relief from the markets. Nevertheless, the traders continued to believe 
+that their positions were sound and would ultimately be profitable. 
+It did not take long, however, for them to realize that the large 
+size of their positions presented an insurmountable problem in markets 
+seized up by fear of risk. But no one at the firm realized how many 
+other firms across Wall Street had mimicked the broad outline of Long-Term's 
+trades for their own accounts. As a result, when Long-Term tried to 
+liquidate some positions to raise capital, it found few buyers. Everyone 
+on the Street was trying to sell at the same time. ``A series of events 
+occurred that were outside the norm,'' said Martin Gruber, Nomura 
+professor of finance at NYU's Stern School and a friend of both men. 
+``These catastrophes happen. The fault isn't with the models.'' Rather, 
+it was what can be called an organizational flaw: the firm had simply 
+become too big. The Long-Term partners decided that raising money 
+was the only way out of the mess. They wanted more cash not to abandon 
+their trades _ though they did jettison some of what they called nonessential 
+positions _ but to see their bets through, according to people close 
+to the fund. Fresh money failed to materialize in an acceptable form, 
+despite talks with several investment firms and such moneyed investors 
+as Warren Buffett and George Soros. Unable to meet calls for more 
+collateral from its trading partners, Long-Term sought help from the 
+Federal Reserve and a Wall Street consortium. To save their fund, 
+the partners sold 90 percent of their equity to a group of banks and 
+brokerage firms for $3.6 billion. The personal fortunes of the partners 
+were immediately wiped out. Some partners, having borrowed to invest 
+in their firm, are facing bankruptcy; Scholes and Merton are not. 
+While Long-Term's near collapse does not look good on a resume, the 
+economists remain well regarded in academia and will surely be in 
+demand as consultants. Scholes had hoped to set up a foundation and 
+retreat somewhat from the firm. Those plans are on hold now. What 
+Merton and Scholes are learning first hand is just how humbling markets 
+can be. It is a lesson that investors repeatedly learn but always 
+manage to forget. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981019.1600.0586 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane Madeline continues to steam toward Mexico's western pacific 
+coast, while hurricane Lester is weakening and moving out to sea. 
+The national weather service in Miami predicts Madeline will make 
+landfall within the next 24 hours, about 75 miles northwest of the 
+city of mazatlan. Mexico's government has sent 2,000 soldiers and 
+shipments of aid supplies to the area. Meanwhile, hurricane Lester's 
+winds fell to about 90 miles per hour, and a Previous hurricane warning 
+was downgraded to a hurricane watch for the southern pacific coast. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981226.1300.0947 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+U.S. envoy William Walker is in Yugoslavia's Kosovo province to help 
+negotiate peace between ethnic Albanian rebels and Serb forces. The 
+two sides resumed fighting in a northern village yesterday, threatening 
+to end a two-month-old cease-fire. 
+</TEXT>
+</DOC>

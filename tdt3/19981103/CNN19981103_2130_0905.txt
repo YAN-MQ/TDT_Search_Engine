@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981103.2130.0905 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a check of our top stories this election day -- incumbent New 
+York senator Alfonse D'Amato has lost his seat to democratic congressman 
+Charles schumer. The two men spent a combined $30 million during the 
+campaign. 
+</TEXT>
+</DOC>

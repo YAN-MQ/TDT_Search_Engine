@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981027.0500.3160 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Seattle-based Microsoft is set to unveil an operating system for Smart 
+Cards. The operating system will ship in the first quarter of next 
+year after a testing period. Smart Cards, widely used in Europe look 
+and feel like credit cards, but carry a tiny computer chip that could 
+be programmed with unique information about the owner. 
+</TEXT>
+</DOC>

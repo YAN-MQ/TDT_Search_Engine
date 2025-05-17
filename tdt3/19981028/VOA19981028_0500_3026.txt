@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981028.0500.3026 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The U.S. dollar was little changed in Tokyo today from the late Tuesday 
+New York quote of 117.77 Yen. Traders view Japan's weak economy as 
+an offset to speculation over a Brazilian currency devaluation, which 
+could slow U.S. growth. 
+</TEXT>
+</DOC>

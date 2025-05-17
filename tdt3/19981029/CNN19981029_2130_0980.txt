@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981029.2130.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street posted its biggest gain in nearly two weeks today. The 
+Dow Jones industrial average rose 123 points or just about 1.5% to 
+close at 8495. 
+</TEXT>
+</DOC>

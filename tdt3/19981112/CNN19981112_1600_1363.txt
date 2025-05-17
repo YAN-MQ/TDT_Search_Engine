@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981112.1600.1363 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Georgia tech travels to Death Valley to face Clemson. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981211.1600.1085 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Eli Lilly stocks surging today. That follows a report that the company's 
+drug, Evista, used to treat osteoporosis, has been able to reduce 
+the risk of breast cancer in clinical trials by 55%. Results will 
+officially be presented over the weekend. "The Wall Street Journal" 
+says that Lilly is working with the food and drug administration to 
+make changes in Evista's package label that would reflect the new 
+data on breast cancer risk. 
+</TEXT>
+</DOC>

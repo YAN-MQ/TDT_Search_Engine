@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> VOA19981112.0500.3102 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Microsoft Chairman Bill Gates has criticized the U.S. government's 
+anti-trust case against the software giant saying it's driven by his 
+competitors. He accused government lawyers of having private meetings 
+over dinner with his competitors during the trial now taking place 
+in Washington, and he says they're deliberately trying to distort 
+his comments. They intentionally with added the video. And the fact 
+that there's a meeting on here at Microsoft that says "Let's go up 
+and beat this guy," there's nothing wrong with that. That is capitalism 
+at work for consumers. The rules aren't designed to protect our competitors 
+or make sure their feelings don't get hurt if someone says, "Yes, 
+we're competing." They're designed for great products. And the P.C. 
+industry deserves an A-plus in that respect. Well, we apologize for 
+Mr. Gates comments. His tape recording apparently hit a blue screen 
+fatal exception with the a operation to boot when the computer crashed. 
+That's a look at business. I'm Paul Westpheling in Washington. 
+</TEXT>
+</DOC>

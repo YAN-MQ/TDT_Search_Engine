@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> APW19981201.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Share prices fell Tuesday on the London Stock Exchange. The Financial 
+Times - Stock Exchange 100-share index was down 206.4 points, or 3.6 
+percent, at 5,537.5. Provisional volume was 900.9 million shares, 
+compared to 830.0 million shares Monday. 
+</TEXT>
+</DOC>

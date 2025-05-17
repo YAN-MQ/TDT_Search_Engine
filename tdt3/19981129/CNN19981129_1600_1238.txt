@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981129.1600.1238 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Matt Yallof, "CNN Headline Sports." The New York jets are alone for 
+now atop the AFC east. New York pounded Carolina. To improve to 8-4. 
+Curtis Martin ran for two TDs. 
+</TEXT>
+</DOC>

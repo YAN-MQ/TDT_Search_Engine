@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981022.1830.1685 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is our report on "World News Tonight." Have a good evening. Hope 
+to see you tomorrow night. 
+</TEXT>
+</DOC>

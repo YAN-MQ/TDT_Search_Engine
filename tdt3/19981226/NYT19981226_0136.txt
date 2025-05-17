@@ -1,0 +1,215 @@
+<DOC>
+<DOCNO> NYT19981226.0136 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In October, New Jersey's fourth-largest health maintenance organization 
+collapsed, threatening the medical coverage of nearly 200,000 people 
+and leaving hospitals and doctors holding the bag for nearly $120 
+million in unpaid claims. The collapse was the first of its kind in 
+New Jersey, and it has been attributed to a number of factors _ from 
+poor management to increased competition to inadequate financing. 
+But state officials and financial experts say it could have been avoided 
+if the state had been able to examine the books of the company that 
+bought the right to run the HMO's health centers and physicians' network. 
+Yet the state's inability to examine the purchaser's finances was 
+its own fault, a result of regulations that did not keep up with the 
+rapid changes in managed care. The HMO itself, HIP Health Plan of 
+New Jersey, also failed to check the background of the company, so 
+it did not know that the company was already having serious financial 
+and management problems in another HMO deal. The subsequent financial 
+mess has exposed what some experts view as the most urgent problem 
+now facing HMOs across the United States _ that many have too little 
+funding to survive in an increasingly competitive business. HIP Health 
+Plan of New Jersey, with premiums of more than $300 million a year, 
+is now licking its wounds and scrambling, under state supervision, 
+to try to pay something to health providers and hold onto its members. 
+Its former partner, Pinnacle Health Enterprises, is in bankruptcy 
+liquidation proceedings, and one of its top executives committed suicide 
+as the deal was unraveling this fall. Pinnacle's parent company, PHP 
+Healthcare Inc., has been driven into Chapter 11 bankruptcy reorganization. 
+Last week, PHP's stock stood at 11 cents, down from a high this year 
+of as much as $17. The turmoil also has caused financial strains at 
+HIP's larger New York affiliate, which had tried to help the New Jersey 
+operation stay afloat. The bitter tale of the dealings between HIP-NJ 
+and its hoped-for savior started 18 months ago, when the New Jersey 
+plan was looking at a deficit of $10.1 million that was not getting 
+any smaller. So it went to the state with a proposal: It would sell 
+its system of health centers and its physicians' network to a private 
+company, which would then manage them for a hefty annual fee. But 
+when the state examined HIP's proposal, it realized that it had no 
+authority to directly review the finances of a what is called a ``third-party 
+administrator,'' a company that provides services for an HMO, because 
+third-party providers are not covered under the state's licensing 
+laws. Arun Kumar, director of a Standard &AMP; Poor's unit that analyzes 
+health industry companies, said that until recently the regulation 
+of HMOs focused on quality of care rather than finances. ``All over 
+the country, the solvency guidelines are a joke and we have found 
+that one-third of the HMO companies do not have adequate capital,'' 
+Kumar said. ``It's like treating managed care as if it had the same 
+risk characteristics as selling Coca-Cola.'' In an interview, the 
+two state commissioners now supervising HIP, Jaynee LaVecchia of the 
+Department of Banking and Insurance and Len Fishman of the Department 
+of Health and Senior Services, said they had looked at Pinnacle's 
+public filings but could not compel the company to disclose more information. 
+They said they relied on HIP's diligence in checking out its proposed 
+partner. Officials of HIP said privately that they had relied on the 
+consultant that had identified PHP, based in Reston, Va., as a likely 
+partner, and ``assumed'' that it had checked out the company better 
+than it did. State officials also said they approved the deal partly 
+because they had no reason to turn it down. They wanted to protect 
+HIP, which was in deep financial trouble and needed the $72.6 million 
+that PHP would pay for its health centers and doctors' network. `A 
+Giant Siren Should Have Gone Off' Once state regulators realized that 
+Pinnacle was acquiring most of HIP's assets, they sought to compel 
+Pinnacle and PHP to put up a large reserve of cash to ensure continued 
+care for HIP members. But Pinnacle and PHP refused, since they were 
+not directly subject to state regulation. ``A giant siren should have 
+gone off at this point telling us that PHP didn't have the resources 
+that we thought they had,'' said one HIP official. So the state imposed 
+more stringent reserve and accounting requirements on the only company 
+it did regulate, HIP, even though this just increased its financial 
+stress. Elie Radinsky, a director in corporate ratings for Standard 
+&AMP; Poor's, said that if HIP had examined PHP more closely, the 
+deal might have turned out differently. For PHP, ``this was biting 
+off a lot,'' he said. ``Basically HIP transferred its entire risk 
+for a statewide program to a third party,'' Radinsky said. ``And from 
+a regulatory point of view you need to know the financial strength 
+of the insurer who is responsible for the bills as well as that of 
+the third party.'' HIP of Greater New York began in New York in 1947 
+as a system of clinics providing affordable health care to city employees. 
+It came to New Jersey in 1980 at the invitation of state officials 
+who asked it to save a failing health plan. After putting that one 
+on a firm footing, HIP expanded into much of New Jersey by the mid-1990s. 
+At that time, managed care companies were flooding into the state 
+offering premiums that undercut HIP's. The newcomers also were giving 
+members more choices among doctors. So HIP began to move away from 
+clinic-based care toward its own network of doctors in private practices. 
+According to state filings, HIP's enrollments rose from about 170,000 
+in 1994 to about 205,000 in 1996, but then dipped to 194,000 by 1998. 
+In addition, according to studies by Wasserstein Perella &AMP; Co., 
+a Wall Street investment firm, HIP-NJ was not run efficiently. From 
+1995 to 1997, the company went from spending 96 cents of every dollar 
+collected in premiums on medical services to spending $1.02, while 
+the average managed care company was spending 85 cents. HIP held on 
+with $40 million in loans from its New York City affiliate. In desperation, 
+HIP hired Wasserstein Perella to attract suitors. The proposal from 
+PHP was the only one that seemed to fit the bill. ``The state was 
+relying on the fact that we were using Wasserstein Perella, a national 
+firm, to do this search,'' said one HIP official who insisted on anonymity. 
+``And we were interested in whether PHP worked, more so than in the 
+company's history. We thought Wasserstein had checked all of that. 
+Maybe we were naive.'' Management companies like PHP had found a niche 
+by promising to squeeze savings out of HMOs. PHP began in 1975 by 
+contracting with the Army and other government entities. In 1992, 
+its revenues were beginning to decline. It wanted to expand in the 
+private sector, and the deal with HIP-NJ seemed just the ticket. Inside 
+PHP the sense of expectancy was great. ``This was more than $300 million 
+a year in business, and they had never taken on anything this big 
+before,'' said a former executive there who spoke on the condition 
+of anonymity. ``PHP was enthusiastic about this because they thought 
+if it went well it would mean access to the New York HIP market.'' 
+PHP Venture Fails Just Two States Away But at the same time, the company 
+was reeling from a similar foray. In 1996, PHP had joined with a group 
+of hospitals in Fairfield County, Conn., to form Connecticut Health 
+Enterprises. It was to be a physician and hospital organization offering 
+one-stop medical service contracts in exchange for a large percentage 
+of insurance premiums. It eventually signed up 12 insurers. Barely 
+a year into the arrangement, PHP's Connecticut subsidiary and its 
+partners, including St. Vincent's Health Center in Bridgeport, were 
+at each other's throats. By November 1997, within days of the commencement 
+of the PHP/HIP-NJ partnership, the Connecticut arrangement was falling 
+apart. A lawsuit filed in federal court last January by PHP's partners 
+accused the company's Connecticut subsidiary of failing to ``to take 
+appropriate remedial action, precipitating a financial crisis at CHE.'' 
+The lawsuit was settled out of court, with a condition that PHP leave 
+the state. As HIP officials in New Jersey were closing the deal with 
+Pinnacle in the autumn of 1997, they did not know anything about these 
+problems two states away. What PHP did tell financial analysts was 
+that it didn't want to come into New Jersey with ``slash and burn'' 
+management that would frighten doctors and hospitals away. The new 
+Pinnacle operation would lose money for the time being, they said, 
+but they planned to ride out this period through concessions that 
+required HIP to shoulder as much as $28 million of the costs in the 
+first year of the contract. At the same time, the shadow of financial 
+problems at other managed care companies, like Oxford, had prevented 
+PHP from financing the HIP deal by issuing stock. After PHP arranged 
+a bank loan, it sought to raise money by issuing convertible notes 
+that promised purchasers that, should the price of company stock decline, 
+the noteholders could increase their shares of company stock proportionally. 
+What the company did not expect was a ruling from the Securities and 
+Exchange Commission in January that required PHP to restate its 1995 
+earnings to reflect a $4 million loss. The price of the stock, which 
+was already dropping, began plummeting. PHP used the money it had 
+raised to cushion its first year to buy back stock and stabilize the 
+price. ``This created a liquidity issue and the company had little 
+margin for error,'' said Radinsky. Meanwhile, HIP was becoming nervous. 
+Its enrollments were not growing, its costs were not going down and 
+PHP officials were clamming up. HIP officials became more uneasy when 
+they found out that PHP's president, Jack Mazur, and two partners 
+in another business had settled a civil fraud lawsuit in the mid-1980s 
+for $5.5 million. The HIP officials only found out about this when 
+they logged into an Internet chat room discussing PHP's problems late 
+last July. And for their part, Pinnacle officials said that they were 
+submitting plans for cutbacks which either HIP was contesting or state 
+officials were not acting on. The state finally began to take notice 
+as HIP's quarterly reports showed that its deficits were growing while 
+Pinnacle was failing to pay claims. 400 Pink Slips in `September Massacre' 
+In early September, frantic to wring immediate savings from the New 
+Jersey operation, Pinnacle sent out pink slips to 400 employees at 
+the medical centers. This move set off alarms with the regulators, 
+who were concerned about such a large cut. Angry state officials summoned 
+HIP and PHP executives to a meeting over what they were calling the 
+``September massacre.'' At the meeting, Fishman said his agency maintained 
+that Pinnacle and its parent should have informed the state before 
+the layoffs. Fishman recalled the response from Mazur and Pinnacle's 
+lawyers. ``They did what lawyers often do,'' he said. ``They argued 
+that they didn't have to inform us, but in the alternative they should 
+have.'' Kenneth Weixel, who was then PHP's executive vice president 
+but recently succeeded Mazur as its president, described that meeting 
+as being ``like government trying to tell a doctor that he didn't 
+have enough receptionists.'' He added, ``We just don't think that 
+we had to ask their approval to lay off receptionists.'' The layoffs, 
+which included doctors and nurses in addition to receptionists, were 
+drastically scaled back at the state's insistence. Four days later, 
+using a 1-year-old law meant to toughen state regulation of HMOs, 
+regulators placed the Pinnacle/HIP combine under ``administrative 
+supervision.'' It was also the beginning of a closer relationship 
+between state regulators and HIP executives. On Oct. 27, the state 
+regulators announced that they would get a judge to put HIP-NJ into 
+``rehabilitation.'' This would allow them to take over the plan's 
+operations, seize control of the health centers and cancel Pinnacle's 
+contract. It also was on that day, local authorities say, that Pinnacle's 
+top executive, Dr. Paul Frankel, killed himself by taking handfuls 
+of pills along with a bottle of red wine. His brother, Kenneth Frankel, 
+laid the blame partly on the stress of the business failure. ``Maybe 
+it was the first time that Paul wasn't 100 percent successful,'' Kenneth 
+Frankel said. Eventually PHP wound up in Chapter 11 reorganization 
+while Pinnacle filed for Chapter 7 liquidation. And as state regulators 
+try to fashion a partial payment plan acceptable to health providers 
+that are owed money by HIP/Pinnacle and try to persuade the providers 
+to continue to treat HIP members, they are analyzing what went wrong. 
+Anthony Wright, program director for Citizens Action, a New Jersey 
+public interest group, said that, in light of how extensive its role 
+was, PHP should have been required to take over HIP's license as an 
+insurer and be subjected to greater financial scrutiny and reserve 
+requirements. Already the National Association of Insurance Commissioners 
+has come up with new guidelines that recommend sharp increases in 
+the claims reserve requirements for health maintenance organizations 
+nationwide _ a move that will require greater funding for most HMOs. 
+``It is highly likely that most states will adopt these by the year 
+2000, which will change the situation for the better,'' Kumar of Standard 
+&AMP; Poors said. At the direction of Gov. Christie Whitman, Ms. LaVecchia 
+of the Department of Banking and Insurance said that she would seek 
+legislative approval of the creation of an HMO ``guaranty fund,'' 
+financed by contributions from the state's 23 managed care insurers, 
+to ensure continued coverage for the members of any plan that goes 
+bankrupt. But Paul Langevin, president of the Association of Health 
+Plans of New Jersey, is opposed to the idea, saying that well-run 
+companies would have to finance such a fund _ and bail out the bad 
+operators _ by raising premiums for their members. ``So this isn't 
+about protecting consumers,'' he said. ``It's about paying the old 
+bills for doctors and hospitals. Why should the public have to pick 
+up those costs?'' 
+</TEXT>
+</DOC>

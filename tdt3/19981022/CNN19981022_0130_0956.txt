@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981022.0130.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Wednesday, President Clinton signed a $520 billion spending package. 
+It includes money to hire more teachers and emergency funding for 
+the international monetary fund. 
+</TEXT>
+</DOC>

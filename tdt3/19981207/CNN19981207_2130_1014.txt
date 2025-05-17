@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981207.2130.1014 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The technology sector gave stocks on Wall Street a boost today. The 
+Dow Jones industrial average rose 54 points, to close at 9070. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981123.1130.0905 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- Kremlin sources say Russian president 
+boris Yeltsin will be in the hospital for eight to ten days recovering 
+from pneumonia. Despite his condition, he met with Chinese leader 
+Jiang Zemin in his hospital room today. 
+</TEXT>
+</DOC>

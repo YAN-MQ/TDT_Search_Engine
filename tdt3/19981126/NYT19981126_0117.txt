@@ -1,0 +1,76 @@
+<DOC>
+<DOCNO> NYT19981126.0117 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+America is putting on an unusual spectacle: The economy keeps growing 
+and thriving even while manufacturing suffers and falls behind. That 
+rarely happens, and its appearance now reopens the long-debated question 
+of whether manufacturing still matters. The issue is particularly 
+pertinent because manufacturers have been insisting, with much chest-thumping, 
+that they have made American factories the most efficient in the world 
+today. The Asian crisis, they argue, is only a temporary setback in 
+a turnaround that is not yet evident in the data. But evidence of 
+manufacturing's shrinking role in the economy shows up everywhere. 
+The Olin Corp. has just announced the closing of a factory that makes 
+copper rods, wires and tubes; imports cost less. Thomson Consumer 
+Electronics recently shut the last factory in the United States making 
+television sets, replacing it with a plant in Juarez, Mexico, where 
+labor is so much cheaper. IBM, Dell Computer and others assemble computers 
+from parts increasingly made abroad. Once the kingpin of the economy, 
+manufacturing in 1997 accounted for only about 17 percent of the wages, 
+salaries, benefits and profits generated within the United States, 
+the Commerce Department reported this month. The Asian economic crisis 
+has been particularly hard on manufacturers, denying them sales abroad 
+while cutting costs for their overseas competitors. Anecdote and statistic 
+alike suggest that the slide is not easily reversed. Even the sophisticated 
+equipment that American manufacturers buy for their factories _ computer-controlled 
+machines, for example, that cut and shape metal _ now come mostly 
+from Japan and Europe. Manufacturing has been losing momentum for 
+decades, with its share of the gross domestic product dwindling to 
+just over half of what it was in 1953, the peak postwar year. That 
+year, manufacturing yielded 29.6 percent of personal compensation 
+and corporate profits; by 1989, the eve of the last recession, its 
+share had fallen to 18.6 percent. ``My concern is that we can go too 
+far down,'' said the economist Robert Hayes, an expert in manufacturing 
+at Harvard University. ``But I don't know how far too far is. I would 
+have thought 10 years ago that where we are now was too far. But we 
+are still humming along.'' Switzerland is the only developed nation 
+whose manufacturing has diminished further than in the United States, 
+and it regards itself as vulnerable, Hayes said. The Swiss are still 
+active in pharmaceuticals and machinery manufacturing, but banking 
+and tourism play ever bigger roles as sources of wages and profits. 
+And these days, banks can leave a country through mergers even faster 
+than factories. Factories leave fast enough. What still surprises 
+so many executives, Hayes said, is ``how quickly less-developed nations 
+have been able to master advanced manufacturing techniques and technology.'' 
+In theory at least, any nation should be able to function quite nicely 
+with a diminished manufacturing sector. The huge and growing service 
+sector _ retailers, banks, insurers, law firms, hotel operators, restaurants, 
+phone companies, brokers, home builders, airlines and Internet operators 
+_ should be able to generate a satisfactory amount of income and profits. 
+Certainly they play a big role today in the stock market's spectacular 
+performance and in strong job growth. But none of the major manufacturing 
+nations has tested the theory. Diminished though it is, manufacturing 
+is still central to the economy. Americans are far and away the most 
+innovative in developing new products and new software, which are 
+then incorporated into manufacturing here and abroad. And within the 
+United States, manufacturing generates more income per hour worked 
+than any other sector. As these jobs disappear _ 198,000 since last 
+March and 760,000 since 1989 _ the displaced workers get new jobs 
+outside manufacturing, but usually at lower pay. That downward shifting 
+in wages is one reason why the nation has escaped inflationary wage 
+pressures, despite strong economic growth and an unemployment rate 
+of only 4.6 percent. Manufacturing has other advantages. There is 
+the multiplier effect: the great number of satellite companies that 
+come into existence to service manufacturers. In addition, no other 
+sector in the American economy does as much research, the source of 
+new technology. Above all, the United States has built up over the 
+decades great reservoirs of knowledge and skill in the manufacture 
+of complex products. That experience disappears when makers of railroad 
+cars, for example, leave the country. ``In the sense of production 
+capability,'' said Seymour Melman, a Columbia University manufacturing 
+expert, ``we are in danger of finding ourselves, at the end of the 
+current expansion, weaker than we were at the beginning.'' 
+</TEXT>
+</DOC>

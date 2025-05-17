@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981016.1130.1129 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street, the Dow sup 100 points. The NASDAQ composite 
+is adding 12. That's "Dollars & Sense". Back to you. Good to see you, 
+Valerie. 
+</TEXT>
+</DOC>

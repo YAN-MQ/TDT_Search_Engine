@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981228.1600.1025 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Daimler-Chrysler is announcing a 30% leap in 1998 sales. It also says 
+profits for the year will be up significantly. The company says some 
+of those gains will come from the recent $42 billion merger with Chrysler. 
+</TEXT>
+</DOC>

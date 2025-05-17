@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981120.1600.0477 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new study shows a dramatic decline in the percentage of women who 
+smoke while pregnant. The centers for disease control and prevention 
+says the number of pregnant smokers dropped 26% between 1990 and 1996. 
+That's mostly because of a dramatic decrease in smoking by women in 
+their 20s and 30s. The percentage of pregnant teenagers who smoke 
+has actually increased slightly. Smoking during pregnancy has been 
+found to increase the chances for illness in babies. 
+</TEXT>
+</DOC>

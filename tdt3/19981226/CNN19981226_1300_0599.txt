@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981226.1300.0599 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wednesday -- freezing weather swept across much of the United States, 
+including central California, where about 80% of the nation's fresh 
+orange crops are grown. The state estimates total orange, lemon and 
+tangerine losses to be at least $591 million. 
+</TEXT>
+</DOC>

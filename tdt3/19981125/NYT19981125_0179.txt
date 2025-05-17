@@ -1,0 +1,84 @@
+<DOC>
+<DOCNO> NYT19981125.0179 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The earliest hearing aid was simplicity itself and is still in use: 
+a cupped hand behind the ear. But today's technology has made hearing 
+aids much less obtrusive and much more helpful. While early hearing 
+aids tried to improve upon the external ear, with devices to direct 
+the sound coming from the front into the ear of the listener and block 
+noise from the sides and rear, modern devices fit surreptitiously 
+behind or into an ear while augmenting the sound coming in. In the 
+17th century, artisans made metal ``ears'' to fit over the natural 
+ears. Ear trumpets, cones that could be aimed at the source of a sound, 
+came into use in the early 1800s. By the late 1800s, the acoustic 
+horn became available. It was a flexible tube with two ends _ one 
+cone shaped to catch the sound, the other gently tapered to fit inside 
+the ear. The approach changed from art to engineering in this century. 
+In 1913, Siemens became one of the first companies to offer electronically 
+amplified hearing aids. These early units were large and not very 
+portable _ about the size of a tall cigar box _ but they had a speaker 
+that fit into the ear. Acousticon's Model 56 in the mid-1920s was 
+one of the first really portable units, although it was quite heavy. 
+Some of the technological advances of World War II showed up after 
+the war in hearing aids. Zenith's pocket-sized Miniature 75 helped 
+set a trend toward smaller and more effective prosthetics. Transistors 
+led to startling improvements in hearing aids. Tiny transistors in 
+newly developed miniature microphones could be built into the frames 
+of eyeglasses along with better, smaller batteries. Mounting a hearing 
+aid behind the ear, as in Zenith's Diplomat of the late 1950s, is 
+called BTE in the industry. The next step was to put hearing aids 
+in the ear (ITE), then, as they got even smaller, partly into the 
+ear canal (ITC). Now hearing aids can fit completely into the ear 
+canal (CIC). Until the early 1990s, most hearing aids were analog 
+and consisted of a microphone, an amplifier and a speaker (transducer). 
+But with the availability of miniature computer components, as well 
+as the audio-processing technology found in CD and DVD players, the 
+digital hearing aid was born. Most hearing aids now have some digital 
+components, and all-digital hearing aids are becoming popular. Using 
+the power of computer chips, or microprocessors, digital hearing aids 
+are able to manipulate the incoming sound to amplify the specific 
+frequencies that a user is having trouble hearing. This feature, called 
+equalization control, was rarely available with analog devices. One 
+example of this kind of technology is the Senso, a fully digital unit 
+that fits completely in the ear and is made by the Danish company 
+Widex. A number of other companies also make digital hearing aids, 
+including Siemens, a German company, and Telex, based in the United 
+States. Settings on digital hearing aids can be adjusted for specific 
+environments. Going to a chamber music concert? Select setting No. 
+1. Meeting the boss for a business lunch in a noisy restaurant? Select 
+setting No. 4. What these settings do is adjust the equalization, 
+volume and signal-processing functions. If you cannot hear high frequencies 
+well but love chamber music, the appropriate setting would emphasize 
+the high frequencies (for the violins) and give you a moderate increase 
+in volume. Lunch with the boss would require an emphasis on the middle 
+range (for the human voice), a decrease in the high frequencies and 
+some form of extraneous noise reduction. In the 1940s, the cost of 
+a hearing aid started at about $150, a great expense at the time. 
+Today's units can range from $700 for an analog unit worn behind the 
+ear to $1,200 for an analog model completely in the ear canal or up 
+to $3,000 or more for digital devices worn completely in the canal. 
+Several companies are beginning to offer products with greater processing 
+power that they say will provide a better match for a user's pattern 
+of hearing loss. And, taking a cue from science fiction, cochlear 
+implants are beginning to be used. These implants bypass some of the 
+faulty nerve circuitry in the cochlea, a spiral-shaped structure in 
+the inner ear that contains the cells that transmit nerve impulses 
+representing sound toward the brain. That allows some people who are 
+deaf or who have severe hearing loss to have some degree of hearing. 
+A number of companies, like the Cochlear Corp., have developed cochlear 
+implants, which are surgically connected to the cochlea. Researchers 
+are also studying the possibility of brain implants or nerve regeneration 
+as future remedies for hearing loss. As the American population ages, 
+hearing loss afflicts a growing number of people. Although some of 
+the causes of hearing loss (loud music and noisy environments) can 
+be avoided, some cannot (heredity, accidents, disease and aging). 
+Many people try to avoid dealing with the problem, but the evidence 
+is clear: hearing loss does not reverse itself and generally gets 
+worse. If you think your hearing may be impaired, see an audiologist 
+or other doctor. Hearing aids may not give you perfect hearing, but 
+at least you'll be able to hear the music. And the children. And the 
+car alarms. 
+</TEXT>
+</DOC>

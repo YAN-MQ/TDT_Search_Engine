@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981117.0130.0960 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street began the week on a positive note. It is the first time 
+the index has finished above 9000 since July. 
+</TEXT>
+</DOC>

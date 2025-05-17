@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981213.1600.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+From Atlanta, this is "CNN Headline News." I'm Kate snow, thanks for 
+joining us. 
+</TEXT>
+</DOC>

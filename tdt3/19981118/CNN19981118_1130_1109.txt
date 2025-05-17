@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981118.1130.1109 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street, the Dow is off 18 points. The NASDAQ down a fraction. 
+</TEXT>
+</DOC>

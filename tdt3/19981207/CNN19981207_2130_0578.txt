@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981207.2130.0578 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After just three hours at the Kremlin today, Russian President Boris 
+yeltsin is back in the hospital. He was hospitalized two weeks ago 
+with pneumonia, the latest in a string of illnesses Yeltsin has had 
+in the last several months. In his few hours at the Kremlin today, 
+he fired several top aides including those who had commented recently 
+on his poor health. 
+</TEXT>
+</DOC>

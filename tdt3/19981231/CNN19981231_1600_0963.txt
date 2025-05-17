@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981231.1600.0963 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And millions of people have already welcomed in 1999 in Australia. 
+A spectacular fireworks display over Sydney harbor was a dress rehearsal 
+for next year's welcome of the year 2000 and the Sydney summer Olympic 
+games the following September. 
+</TEXT>
+</DOC>

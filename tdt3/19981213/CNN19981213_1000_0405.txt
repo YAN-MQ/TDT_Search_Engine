@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981213.1000.0405 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The astronauts aboard "endeavour" will steer the space shuttle away 
+from the international space station today, and prepare to return 
+to earth tuesday. Crew members Jerry Ross and James Newman finished 
+their third and final space walk yesterday. They fixed a jammed antenna 
+and installed a special tool box outside the space station. 
+</TEXT>
+</DOC>

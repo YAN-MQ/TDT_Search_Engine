@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981104.1600.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- republicans still control the house 
+and senate, but democrats have reason to be happy after yesterday's 
+election. Democrats picked up five seats in the house and held steady 
+in the Senate. 
+</TEXT>
+</DOC>

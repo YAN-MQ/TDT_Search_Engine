@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981104.2000.0227 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Industrials gained 77 points to close 
+at 8783. This is NPR News. 
+</TEXT>
+</DOC>

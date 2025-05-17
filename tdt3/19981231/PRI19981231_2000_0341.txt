@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> PRI19981231.2000.0341 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Those are the news headlines from the BBC News Room in London. I'm 
+Derrick Stofall. This is The World. The World is made possible in 
+part by Merck-pharmaceutical research dedicated to preventing disease 
+and improving health. Merck committed to bringing out the best in 
+medicine. 
+</TEXT>
+</DOC>

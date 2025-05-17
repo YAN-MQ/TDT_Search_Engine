@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981121.1000.0900 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Monday, the nation's big tobacco companies say they will sign 
+a huge settlement with 46 states, to cover smoking-related illnesses. 
+The $206 billion dollar deal could raise cigarette prices by up to 
+40 cents a pack. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981024.1000.0458 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended national weather forecast is next. Then -- why this morning's 
+rocket launch from cape Canaveral is so important. 
+</TEXT>
+</DOC>

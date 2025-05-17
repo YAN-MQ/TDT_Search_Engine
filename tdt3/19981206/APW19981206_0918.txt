@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> APW19981206.0918 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+MUNICH, Germany (AP) _ BMW expects three more top managers to resign 
+over the crisis in Rover Group, which could post losses this year 
+of 1.1 billion marks (dlrs 650 million), a news magazine reported 
+Saturday. The Der Spiegel report, issued just days after the resignation 
+of Rover Group chairman Walter Hasselkus, said Rover executives in 
+charge of quality and finance were to leave their posts as well as 
+a Bayerische Motoren Werke AG executive. The report, 3rd graf 
+</TEXT>
+</DOC>

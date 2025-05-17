@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981205.0130.1321 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+College basketball, third ranked North Carolina survived a scare over 
+old dominion, 63-61. Ed coda hit the game-winning layup with under 
+two seconds left. 
+</TEXT>
+</DOC>

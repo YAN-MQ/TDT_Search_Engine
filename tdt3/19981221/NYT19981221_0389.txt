@@ -1,0 +1,66 @@
+<DOC>
+<DOCNO> NYT19981221.0389 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Food and Drug Administration on Monday approved the marketing 
+of a vaccine against Lyme disease for the first time. But the federal 
+agency was unusually cautious in recommending use of the vaccine, 
+known as Lymerix, which is manufactured by SmithKline Beecham Pharmaceuticals 
+of Philadelphia. For one, Lymerix, which will be available in January, 
+does not protect everyone who takes it against Lyme disease, a bacterial 
+infection transmitted through tick bites. For maximum protection, 
+three injections of the vaccine must be taken over a year. Studies 
+have shown that taking three injections provides 78 percent protection 
+against Lyme disease, while taking two injections provides only 50 
+percent protection. Also, because the experimental trials did not 
+involve children or those over 70, the FDA approved the vaccine only 
+for people 15 to 70. It is intended primarily for those who live or 
+work in grassy or wooded areas where infected ticks are present and 
+for those who plan to travel to such areas. Getting vaccinated may 
+prove tricky for travelers who do not plan their vacations far in 
+advance, however. The recommendations call for an initial injection, 
+a second shot a month later, and then a third injection 12 months 
+after the first. Still, regular summer vacationers to tick-prone areas 
+and people who make long-term plans should consider taking the vaccine. 
+Because of the seasonal nature of Lyme disease, the drug agency cautioned 
+that the time of year the vaccine was taken was important. The first 
+two injections in the experimental trial were given between January 
+and April, before the peak tick season in the northeast United States. 
+The agency advised those vaccinated against Lyme to continue to take 
+standard preventive measures against the infection. These include 
+wearing protective clothing, using tick repellant and removing attached 
+ticks. Lymerix is made from a genetically engineered protein known 
+as OspA, located on the outer surface of the bacterium Borrelia burgdorferi, 
+which causes Lyme disease. The manufacturer said that protection seems 
+to result from the vaccine's stimulation of the body's immune system 
+to produce antibodies against the spiral bacteria. When a vaccinated 
+person is bitten by an infected tick, the antibody is taken up into 
+the tick's intestine where it kills the bacteria, preventing infection. 
+In unanimously recommending approval of Lymerix in May, an advisory 
+committee of the FDA expressed serious concerns about its safety and 
+effectiveness. One concern is that scientists do not know how long 
+protection lasts, and thus, whether booster doses will be needed. 
+The percentage of people who gain protection from vaccines ranges 
+widely. Vaccines against polio, hepatitis A and B, and some other 
+infections offer protection 90 percent of the time or better. For 
+chickenpox, the figure is about 80 percent; for pneumococcal vaccine, 
+about 60 percent, and for influenza, the protection rate can be less. 
+The FDA also said that no safety data existed for people with rheumatoid 
+arthritis and certain heart conditions because they were not included 
+in the experimental trials that SmithKline Beecham conducted. More 
+than 16,000 cases of Lyme disease were reported from 45 states in 
+1996, the last year for which federal officials have statistics. The 
+disease is rarely fatal. It is often characterized by a bull's-eye 
+rash and flulike symptoms including headache, fever and muscle and 
+joint aches in its early stages. Occasionally it causes facial weakness 
+and heart problems. In the late stages of Lyme disease, some people 
+develop chronic arthritis and neurological problems. Because one attack 
+of Lyme disease may not confer protection against another, people 
+who have had the disease may benefit from Lymerix, the company said. 
+Pasteur Merieux Connaught of Swiftwater, Pa., has tested another Lyme 
+vaccine, in more than 5,000 people. A spokesman for the company said 
+it planned to apply to the FDA for approval of its Lyme vaccine early 
+next year. 
+</TEXT>
+</DOC>

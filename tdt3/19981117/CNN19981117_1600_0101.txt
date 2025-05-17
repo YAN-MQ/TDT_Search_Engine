@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981117.1600.0101 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The cost of borrowing money is going down again. The federal reserve 
+is reducing short-term interest rates by a quarter percentage point. 
+The federal funds rate drops from 5% to 4.75%. that's what banks charge 
+each other for overnight loans. Consumer interest rates are expected 
+to fall in response. The fed cited continuing distress in world markets 
+for the move. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981105.1130.1051 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The nation's rea retailers are out with their results, many winners 
+are the specialty stores. 
+</TEXT>
+</DOC>

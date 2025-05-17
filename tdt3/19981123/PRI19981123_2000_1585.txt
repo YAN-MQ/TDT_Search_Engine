@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981123.2000.1585 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. stocks powered ahead as the Dow ended at a record high today 
+after a three-month long recovery. On Wall Street today, the Dow Jones 
+Industrials surged 215 points to close at 9374. The NASDAQ was also 
+up 49 points to 1977. 
+</TEXT>
+</DOC>

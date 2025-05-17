@@ -1,0 +1,393 @@
+<DOC>
+<DOCNO> NYT19981204.0332 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Today, with stock markets stronger and bond markets quietly going 
+about their workaday business, it hardly seems possible that less 
+than three months ago some of Wall Street's smartest and most powerful 
+people thought the problems of one giant hedge fund, Long-Term Capital 
+Management LP of Greenwich, Conn., might push the world's markets 
+to the brink of disaster. In fact, the 14 Wall Street banks and brokerage 
+houses that pumped in $3.6 billion and took 90 percent ownership of 
+the fund when it was only hours away from collapse may now see windfall 
+profits on what seemed like a desperate roll of the dice, a daring 
+bailout encouraged by nervous regulators at the Federal Reserve Bank 
+of New York. The fund's recovery does not itself resolve the argument 
+over whether the Fed should have brokered the arrangements that rescued 
+Long-Term Capital from bankruptcy on Sept. 23. Supporters say the 
+Fed saved the day and laid the groundwork for the current rebound, 
+while critics say the rebound proves that markets do just fine without 
+such heavy-handed interference. But the larger lessons of Long-Term 
+Capital's crisis may not be as fleeting as the recent dip in the Dow. 
+The fund was once so impressive that it garnered billions of dollars 
+from some of the biggest names in finance. When it almost collapsed, 
+it tested some fundamental assumptions of the investment world _ and 
+found them severely flawed: _ Diversification, the elementary precaution 
+of not putting all of one's eggs in a single basket, failed utterly. 
+The fund had spread its bets among many markets in various countries 
+around the world. But the strategy did not protect it from the chain 
+reaction that hit global markets in August. Indeed, the complexity 
+and diversity of its holdings made the last-minute rescue effort complicated 
+and difficult. In the aftermath, hedge fund managers and other professional 
+investors have been left wondering whether a diverse portfolio offers 
+any protection from future financial storms. _ The markets for financial 
+derivatives and many other new kinds of investments, which have been 
+hailed as ways for global investors and multinational corporations 
+to offset many of the risks of doing business, suddenly behaved like 
+gawky adolescents _ big enough to seem mature but clumsy and prone 
+to panic when things go awry. Investors who expected to be able to 
+exit these new markets as easily as they had entered them found that 
+the only way out was through a fire sale that devastated the value 
+of their assets. _ Most worrisome, the use of borrowed money for speculation, 
+a mainstay of many professional investors in today's markets, occurred 
+on a scale so much larger than most anyone thought possible, and involved 
+credit arrangements so complex, that none of the players _ not lenders, 
+not trading partners and not regulators _ could respond to the fund's 
+troubles as they had expected. ``We have had a whole series of structural 
+changes in the financial markets in the past 20 years so that today, 
+when you come to the edge of risk-taking, you find the old formulas 
+no longer work,'' said independent market strategist Henry Kaufman. 
+``That is what this crisis was about.'' Despite the return of confidence 
+and liquidity to most markets, both Federal Reserve Chairman Alan 
+Greenspan and New York Fed President William McDonough have suggested 
+in recent speeches that an emergency like the one at Long-Term Capital 
+could occur again. The return to more normal market conditions in 
+the last month ``leaves unanswered the question of why such episodes 
+erupted in the first place'' and why they spread so rapidly, Greenspan 
+recently told a gathering of Wall Street executives. He offered his 
+own theory: ``It has become evident time and again that when events 
+become too complex and move too rapidly, as appears to be the case 
+today, human beings become demonstrably less able to cope.'' Because 
+Long-Term Capital was hardly unique in its approach to investing, 
+the risks of the global marketplace look far sharper today than they 
+did before that long, edgy week in September when so much suddenly 
+seemed to depend on the fate of one giant fund in Greenwich. Broken 
+Eggs In Every Basket Long-Term Capital _ established in 1994 by John 
+Meriwether, a legendary bond trader formerly with Salomon Brothers, 
+and his partners, including Robert Merton and Myron Scholes, who shared 
+the Nobel Prize for economics in 1997 _ is often described these days 
+as having been speculative and risky. But from the beginning, it tried 
+to reduce its risks by spreading its investments around. It held almost 
+every major type of security and many minor ones, from blue-chip American 
+stocks to Danish mortgage-backed securities to Latin American government 
+bonds. Thus, by every traditional measure, Long-Term Capital hedged 
+its bets _ across markets, currencies and types of assets. In theory, 
+losses on one investment would be offset by gains in another, providing 
+ballast that would allow the fund to ride out any financial storm. 
+It did not turn out that way. ``As markets around the world moved 
+in the same direction at the same time, the diversification on which 
+Long-Term had previously relied failed it utterly,'' said McDonough, 
+in subsequent congressional testimony about the fund's rescue. The 
+fund's core investment specialty _ a technique called convergence 
+trading, used primarily by large banks and brokerage firms _ was also 
+a supposedly low-risk strategy. But it, too, did not turn out to be 
+impervious to market gyrations. Rather than betting that stocks or 
+bonds will go up or down, convergence traders bet that the prices 
+of certain related securities will move closer together. They identify 
+securities whose prices have deviated slightly from their historical 
+relationships to one another and place bets that those prices will 
+return to their normal patterns. The strategy can be applied to many 
+investments _ stocks, government securities, corporate bonds, options, 
+foreign currencies. In one common convergence trade, Long-Term acted 
+after spotting a Treasury bond that matured in 30 years and another 
+maturing in 29 years that were trading at prices slightly further 
+apart than usual. Since Uncle Sam's ability to pay his debts is unlikely 
+to change between 2027 and 2028, that price gap would no doubt narrow, 
+the partners believed. The fund bought the 29-year bonds, betting 
+that their price would rise. It also bet on a price decline in the 
+30-year bonds by selling short _ borrowing the bonds from a big institution 
+and selling them, wagering that they could be replaced later for less 
+money. If the price gap closed, the fund would make money on both 
+trades. If the gap did not close, the fund had some protection, because 
+it had bet on both declining and rising bond prices. Other opportunities 
+for convergence trades were found in foreign bond and government securities 
+markets, including the markets for Latin American debt, Italian bank 
+notes and British government securities. In theory, the fund had further 
+reduced its risks by scattering its investments among so many markets 
+and among so many different types of investments. But in real life, 
+anxiety began to spread through most foreign markets after Thailand's 
+currency collapsed in the summer of 1997. Prices fell and businesses 
+failed all along the Pacific Rim. In response, by early 1998, investors 
+worldwide began seeking a haven in U.S. Treasury markets. That remarkable 
+flight to safety had unexpected consequences for Treasury bonds, the 
+bread-and-butter market for Long-Term Capital. Playing to form, the 
+30-year bonds climbed in price, but the nearly identical 29-year bonds 
+did not share in the rally; their lower trading volume made them look 
+riskier to nervous investors. The divergence hurt Long-Term Capital, 
+of course, because the fund had bet heavily that the bonds' prices 
+would move closer together. In Europe, too, investors sought safety. 
+That affected Long-Term Capital's bets in Italy, where it had been 
+anticipating that the prices of Italian government securities would 
+move closer to those of securities issued by Italian banks. Instead, 
+the prices moved even farther apart as investors flocked to the government 
+securities. Then, when Russia decided to halt debt payments this past 
+August, developing markets around the world went into a tailspin. 
+Long-Term Capital had bet millions on the convergence of garden-variety 
+bonds issued by Brazil, Mexico and other Latin American governments 
+and so-called Brady bonds, issued by the same nations but secured 
+by U.S. Treasury securities. Those convergence bets also became losers, 
+as issues backed by the Treasury took on more appeal. The allergy 
+to risk quickly afflicted the markets for corporate bonds, mortgage 
+bonds and junk bonds. Again, Long-Term Capital was directly in the 
+line of fire. It had a collection of securities, for example, that 
+entitled it to collect the future interest payments from a pool of 
+home mortgages. The prices plummeted on these instruments, which are 
+considered highly risky because of their sensitivity to changes in 
+mortgage rates, and the value of Long-Term Capital's holdings went 
+down. Prices and trading volume also fell in the junk-bond market, 
+where Long-Term Capital had invested several hundred million dollars. 
+By the end of August, investor nervousness had spread to stocks, with 
+sharp market declines in the United States and elsewhere. Despite 
+its reputation as a bond specialist, Long-Term Capital had an estimated 
+$6.5 billion in the stock market. Part of that money was in the stocks 
+of companies involved in mergers. Some was invested in a convergence 
+trade on the stock of Royal Dutch Petroleum and Shell Transport. Because 
+each company relies for income on a third, related company, Royal 
+Dutch/Shell Group, the fund had bet that the prices of those two stocks 
+would move toward each other. As the stock market tumbled, though, 
+Shell Transport's stock fell faster and further, causing the gap to 
+widen. The stock market turmoil also created losses in the fund's 
+multibillion-dollar collection of total-return swaps, a form of financial 
+derivatives. (Derivatives are financial instruments whose value is 
+based on the value of another asset _ for example, a stock option 
+whose price is derived from an underlying stock.) In a typical swap 
+of this kind, the fund entered into a contract with a bank or brokerage 
+firm that owned a block of stock. The bank agreed to pay the fund 
+all future gains and dividends on that stock, and the fund agreed 
+to pay the bank a fixed fee equal to a small percentage of the initial 
+value of the stock. If the stock rose, the fund kept the gain; if 
+it went down, the fund owed the bank the difference between the original 
+price and the new one. The swaps allowed the fund to benefit from 
+rising stock prices without actually owning the stocks. But stock 
+prices fell and remained unsteady into September. By mid-September, 
+the only things converging on Long Term Capital's partners were their 
+losses _ losses so diverse that they made it harder for the fund's 
+creditors and their regulators to respond, because the fund's troubles 
+were affecting so many far-flung markets. Regulators got their first 
+look at the scale of the portfolio on Sunday, Sept. 20, when a team 
+from the New York Fed drove to Greenwich to meet with the beleaguered 
+fund's partners. It was then, McDonough of the Fed later testified, 
+that officials ``came to understand the impact which Long-Term Capital's 
+positions were already having on markets around the world.'' Long-Term 
+Capital's experience, Kaufman said, shows that ``international diversification 
+works in bull markets, but it fails in bear markets.'' ``We now live 
+in a much more homogeneous financial world,'' he said. ``We all talk 
+to each other and share the same information and have the same biases.'' 
+As a result, Kaufman explained, world markets now tend to move in 
+lock step _ a line dance that tramples on the basic concept of portfolio 
+diversification. Teen-Aged Markets In a Grown-Up Crisis Putting money 
+in mature, well-established markets with lots of investors, like the 
+market for 30-year U.S. Treasury bonds, is one thing. Placing bets 
+in younger, less mature markets _ those in developing countries and 
+those for complicated financial products _ is quite another, as Long-Term 
+Capital soon discovered. Indeed, the markets for some products in 
+the fund bore little resemblance to traditional forums for trading 
+securities. While stock options and some other standardized derivatives 
+are traded on exchanges, Long-Term Capital favored swaps and other 
+custom-tailored contracts that were designed specifically for its 
+own investment strategies. These customized contracts change hands 
+only in private transactions _ making the market in them more like 
+the market for homes or luxury yachts than the one for stocks, or 
+even for stock options. In addition to arranging its total-return 
+swaps in the stock market, the fund also made heavy use of a derivative 
+called an interest-rate swap, in which one investor agrees to pay 
+another a sum equal to the amount that, say, $100 million would earn 
+if invested at a floating interest rate for three years. In return, 
+the second investor agrees to pay the first the amount that the $100 
+million would earn if invested at fixed rates. Neither party owes 
+the other $100 million; that amount, called the notional value, simply 
+provides a tool for measurement, since it is unknown in advance how 
+much money will actually change hands under the swap agreement. The 
+scope of Long-Term Capital's use of swaps and other financial derivatives 
+was remarkable. Its derivatives portfolio had a notional value of 
+$1.25 trillion, representing 1/30 of the worldwide notional value 
+of these investments, according to the International Swaps and Derivatives 
+Association. One person with firsthand knowledge of the fund's portfolio 
+said the reliance on these exotic derivatives was based on the assumption 
+that Long-Term Capital could quickly and easily sell its holdings 
+whenever it wished. But that assumption was profoundly flawed. To 
+be sure, the markets for swaps and other privately traded derivatives 
+have grown enormously in the last 15 years; businesses and investors 
+use these tools to offset risks from things like interest rate changes 
+and currency fluctuations. But the trading value of these markets 
+still pales in comparison with that of the stock and bond markets, 
+and it can shrink sharply in times of uncertainty. These markets have 
+fewer participants than the traditional ones and no public disclosure 
+of prices or volume; they also lack a clear regulatory structure. 
+The ability to absorb large volumes of business quickly without experiencing 
+substantial swings in prices _ a quality Wall Street calls liquidity 
+_ is one good measure of a market's maturity, and it is a quality 
+that relies in part on the presence of speculators like Long-Term 
+Capital. In the stock market, for example, when buyers and sellers 
+are abundant, an investor can easily sell 10,000 shares of a $50 stock 
+on a single day without pushing down the price more than a few pennies. 
+In a market with fewer buyers, the price might plunge to $25 before 
+the shares were all sold. If a market becomes completely illiquid, 
+there is simply no one willing to buy that much stock that quickly. 
+That is where speculators like Long-Term Capital come in. When many 
+people want to sell, the speculator steps up to buy, contributing 
+to the liquidity of the marketplace by taking the unpopular side of 
+transactions. But in many small, specialized markets for swaps and 
+other exotic, privately traded derivatives, Long-Term Capital's scale 
+of operation had made it the dominant speculator. Thus, when it needed 
+to sell in the shaky days of early September, speculators who were 
+willing to buy were scarce. ``Some of these more exotic swaps were 
+already trading by appointment only,'' one investment manager said. 
+Reflecting the economic crisis that swept Asia, the volume of worldwide 
+swaps activity fell nearly 40 percent in the second half of 1997, 
+compared with the first half, according to the International Swaps 
+and Derivatives Association. Activity in the markets for swaps recovered 
+somewhat in the first half of 1998, but when Russia shocked world 
+markets by stopping payments on its debt, liquidity in these markets 
+quickly evaporated again. Exact figures will be months in coming, 
+but one industry newsletter, Swaps Monitor, estimates that trading 
+revenues _ a figure closely tied to trading volume _ fell as much 
+as 24 percent during the third quarter of this year. A result was 
+a market in which swaps and other derivatives could be sold quickly 
+only at fire-sale prices _ a condition that apparently had not been 
+anticipated by Long-Term Capital or other participants in the market. 
+Before this crisis, few people even focused on the issue of liquidity 
+in the swaps market, said Paul Spraos, editor of the Swaps Monitor 
+newsletter in New York. ``It's not a question of whether it was less 
+liquid than anybody thought,'' he said. ``It's a question of whether 
+people ever sat down and thought about this issue at all. And a lot 
+of people didn't.'' But that hardly lets Long-Term Capital off the 
+hook, one Wall Street risk manager said. ``They should have realized 
+they would not have the liquidity they needed,'' this person said, 
+speaking on condition of anonymity. ``In many of these markets, they 
+were the liquidity.'' By the third week in September, as the markets 
+reeled and Long-Term Capital's losses grew, regulators and Wall Street 
+executives began to worry. McDonough, the New York Fed president, 
+later told Congress that he feared that a number of these already 
+nervous markets ``would experience extreme price moves and possibly 
+cease to function for a period of one or more days and maybe longer'' 
+if Long-Term Capital failed. ``This would have caused a vicious cycle,'' 
+he continued, in which panic-driven selling would push down prices, 
+causing further losses and increasing the risk that the panic would 
+spread. Moreover, thousands of hedge funds were active in these markets. 
+Their lenders were growing nervous, and lines of credit might have 
+been cut if Long-Term Capital collapsed. At the very least, these 
+funds would have temporarily abandoned their important role as speculators; 
+at worst, many might have failed _ tipping over a new row of dominoes. 
+New Forms of Debt, New Breeds of Risk Long-Term Capital would never 
+have posed such a threat to the financial markets if it had not found 
+easy ways to speculate by using borrowed money _ an amount borrowed 
+in such intricate ways that the results defied the investment world's 
+assumptions about the limits on credit and the protection of lenders 
+in today's marketplace. Speculation with borrowed money has been a 
+flash point for regulators since the eve of the 1929 market crash. 
+In 1928, the Federal Reserve tried to discourage stock market speculation 
+by pushing up interest rates on loans made for that purpose, but it 
+met open defiance from some Wall Street lenders who simply refused 
+to raise their rates. After the crash, the Federal Reserve was put 
+firmly in charge of regulating how much stock could be bought on credit 
+_ on margin, as it is called on Wall Street. Today, no more than half 
+of the purchase price of a stock may be borrowed. But those Depression-era 
+rules do not address loans made to those who speculate in foreign 
+currencies, government securities, bonds and derivatives markets. 
+Hedge funds and other speculators can borrow as much as they dare, 
+and brokerage firms and banks are free to lend as much as they wish 
+within broad regulatory limits. Besides the fund's considerable reliance 
+on traditional loans, its use of derivatives contracts had the same 
+practical effect as investing with borrowed money. The total-return 
+swaps, for example, allowed the fund to control considerably more 
+shares of stock than it could have bought outright with the same amount 
+of money. Similarly, interest-rate swaps allowed the fund to speculate 
+on changes in bond prices just as if it had owned the bonds, but at 
+a tiny fraction of the cost. Though Long-Term Capital was not alone 
+in its use of credit, known on Wall Street as leverage, it appears 
+to have borrowed far more than its lenders or their regulators thought 
+plausible or even possible. Some hedge funds use leverage to double 
+or triple the size of their bets; Long-Term Capital used leverage 
+to increase its bets 25 times over. Of the fund's $125 billion in 
+assets, more than $120 billion had been acquired with borrowed money. 
+Lenders of all types were so eager for the business of the star-studded 
+firm that they lent freely and on generous terms, without much apparent 
+concern about how much others were lending to the fund. They viewed 
+the vast majority of their loans as safe, because they held collateral 
+_ the securities involved in the fund's various trades _ that they 
+assumed they could sell if necessary. But in fact, if they had all 
+tried to dispose of that collateral quickly, they might have had billions 
+and perhaps tens of billions of dollars in losses, as they sold into 
+illiquid markets that Long-Term Capital dominated. The fund's bankers 
+had also waived their usual requirement for something called initial 
+margin, an up-front deposit similar to the down payment on a car. 
+Most bankers require a down payment; if borrowers cannot repay the 
+loan, the banks rely on the down payment to cover any decline in the 
+value of their collateral. But people who have studied Long-Term Capital's 
+trading practices said the fund usually got 100 percent financing 
+for its purchases, the equivalent of buying a car with no money down. 
+The fund did pay its banks money to cover day-to-day declines in the 
+market value of its investments, and it had to post cash collateral 
+on its stock investments. As markets moved against it, the fund satisfied 
+those obligations by drawing down most of the $4.7 billion nest egg 
+it had held at the beginning of 1998. By mid-September, it was dangerously 
+close to running out of cash. If the fund had run out of money and 
+collapsed, the bankers would have had to seize its stocks, bonds and 
+derivatives. And because they had not required Long-Term Capital to 
+pay initial margins, they would have had no cushion if the value of 
+those securities had continued to decline. The lenient borrowing arrangements 
+that Long-Term Capital had enjoyed caused other migraines for its 
+bankers. Most hedge funds have a banker or two to arrange their trades. 
+Long-Term Capital had dozens _ at least 75, according to McDonough 
+of the Fed _ because it shopped relentlessly for the best derivatives 
+contracts. The sprawling network of lenders served the fund well, 
+but it created a portfolio filled with what bankers call unpaired 
+trades. When banks lend money to finance the purchase of two related 
+investments in a convergence trade, they encourage borrowers to finance 
+both legs of the trade through one bank. For example, a bank that 
+finances a hedge fund's purchase of 29-year Treasury bonds would prefer 
+to handle its short sale of 30-year bonds, too. That way, if the hedge 
+fund collapsed, the bank could step into its place, relatively secure 
+in the knowledge that it now controlled bets on both rising and falling 
+bond prices. But because Long-Term Capital had clout, bankers allowed 
+it to spread its business widely in search of the best prices. That 
+left most of the banks financing single legs of two-way bets. Long-Term 
+was the only glue holding together a puzzle-like portfolio, increasing 
+bankers' anxiety in the dark days of September. A sudden collapse 
+of Long-Term Capital would have left many of them with risky one-way 
+bets on their own books. As the fund's losses grew, its managers tried 
+desperately to appease bankers by pairing up trades _ persuading the 
+bankers who had financed one part of a trade to get together with 
+those who had financed the rest of it. But the task proved fiendishly 
+complicated. Consider the difficulty if three banks had financed the 
+bet on 30-year Treasury bonds and five banks the 29-year Treasury 
+bet. ``We quickly discovered that getting them to pair up the trade 
+could take something like six months, and we had more like six days,'' 
+one Long-Term Capital manager said. A Blip, or a Sign Of Crises to 
+Come? When Fed officials arrived in Greenwich, they identified unpaired 
+trades as one of the most worrisome problems. And if the fund had 
+failed to make good on even one small payment to a single banker, 
+it would have effectively defaulted on its entire $120 billion in 
+borrowing, thanks to cross-default provisions in its contracts. A 
+cross-default provision requires that a borrower remain current on 
+all its debt repayments, not just on those to the lender itself. If 
+a default had occurred, some lenders would have been able to seize 
+collateral and sell it, but not all. The fund's trading partners, 
+the parties with which Long-Term Capital had contracted for its swaps, 
+would have been in trouble, too. They would have almost certainly 
+sought to reduce their risks by doing offsetting transactions with 
+other speculators. At the moment of a Long-Term Capital default, those 
+offsetting contracts themselves would have become unbalanced risks 
+on their books. When that happened, a senior Wall Street banker said, 
+``it would be sensible in the extreme to go out and get the contracts 
+you need to replace those defaulted ones.'' The effect of such a sudden 
+scramble on the various swaps and derivatives markets would have been, 
+at least, extremely disruptive and, at worst, more than those markets 
+could have handled. Those were the fears that prompted the rescue 
+of the giant hedge fund in late September _ fears that have since 
+faded with each upsurge of the Dow. But even as markets grew calmer, 
+Greenspan and other regulators, including McDonough, continued to 
+worry aloud that broad structural changes in the financial marketplace 
+_ including the spread of derivatives, the increasingly global nature 
+of investment and the immaturity of some developing and specialized 
+markets _ encourage financial panic to spread from market to market 
+and from country to country. This time, at least, people coped. And 
+if Long-Term Capital was simply a casualty of a once-a-century financial 
+storm, the crisis may well deserve to become a footnote to financial 
+history. But if what happened was, as some regulators fear, a result 
+of developments that have permanently changed how modern markets work, 
+then investors ignore the lessons of the crisis at their own peril. 
+</TEXT>
+</DOC>

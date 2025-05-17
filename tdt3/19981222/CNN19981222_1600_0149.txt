@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981222.1600.0149 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal reserve is leaving interest rates alone. Members are happy 
+with the U.S. economy since rates were substantially lowered a short 
+while ago. Financial analysts predict the fed will lower rates again 
+in 1999 in response to the continuing economic crisis in Russia and 
+Asia. 
+</TEXT>
+</DOC>

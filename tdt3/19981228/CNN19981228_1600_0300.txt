@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981228.1600.0300 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Thick fog has been detaining holiday travelers in the San Francisco 
+bay area. Flights were delayed up to three hours yesterday. Visibility 
+was down to 100 feet at San Francisco airport this morning. Inside, 
+passengers stood in long lines at ticket counters. The fog wasn't 
+expected to burn off until late this morning, causing more delays 
+through the day. 
+</TEXT>
+</DOC>

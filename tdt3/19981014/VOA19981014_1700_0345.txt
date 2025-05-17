@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981014.1700.0345 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And that's the latest news to this hour. I'm Robert Burns, VOA News. 
+From Washington, this is VOA News Now. I'm Susan Yawkey along with 
+Tom Crosby. 
+</TEXT>
+</DOC>

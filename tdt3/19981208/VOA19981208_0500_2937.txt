@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981208.0500.2937 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+It is time now on this Tuesday to check your business news and here's 
+Victor Beatty. In Europe concerns over corporate earnings could depress 
+share prices today. Germany says its unemployment rate edged up in 
+November from 10.1 to 10.2 percent, but stayed under four million. 
+</TEXT>
+</DOC>

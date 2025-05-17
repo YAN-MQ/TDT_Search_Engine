@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981016.1600.1136 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And back on Wall Street -- the Dow finished up more than 100 points, 
+the NASDAQ up 9. that's "Dollars & Sense." Back to you, Chuck. 
+</TEXT>
+</DOC>

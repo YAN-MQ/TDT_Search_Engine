@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981221.0275 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST The coldest air mass of the season will invade the 
+Northeast on Tuesday, punctuated by strong winds. Powerful gusts of 
+wind will accompany an Arctic front as it forges rapidly east from 
+western New York and western Pennsylvania. Gusts to 50 mph are possible, 
+particularly in valleys such as the Mohawk Valley of New York and 
+the Winnoski Valley of Vermont, which have open exposure to west and 
+northwesterly winds. Strong winds are also likely atop mountains, 
+with gusts well over 100 mph occurring at the summit of Mt. Washington 
+in New Hampshire. Ahead of the sharp Arctic front, morning temperatures 
+will be in the 40's and 50's along the rainy Northeast seaboard. But, 
+by Wednesday morning, readings will have plummeted into the single 
+digits, teens or low 20's from Portland, Maine, to New York City, 
+where the first 32-degree temperature of the season will be observed 
+in Central Park. Meanwhile, snow showers and snow squalls will rage 
+downwind of Lake Erie and Lake Ontario as Arctic air is rapidly moistened 
+in transit over unseasonably tepid waters. Heavy snow is possible 
+on high ground across northwest Pennsylvania and southwest New York, 
+where moistened Arctic air is forced to rapidly ascend the sloping 
+terrain. Lake-effect snows will taper and gradually end as a ridge 
+of high pressure builds into the region later Tuesday. An incursion 
+of cold air will also take place in the Gulf Coast states. Monday's 
+high temperatures were in the 70's in northern Louisiana. Tuesday, 
+readings will struggle to exceed 32 degrees. Focus: Minneapolis Mileposts 
+Two wintry mileposts were just passed in Minneapolis. Two inches of 
+snow fell on Sunday, marking the season's first snowfall of one inch 
+or more in the Twin Cities area. Sunday's ``plowable'' snow ranks 
+as the city's seventh latest date on record for the first snowfall 
+of an inch or more. In quick fashion Monday morning, the temperature 
+in Minneapolis fell to minus 1 degree Fahrenheit, marking the first 
+sub-zero degree reading since January 20, 1998. The 334-day streak 
+without temperatures below zero degrees Fahrenheit ranks as the city's 
+third longest on record. 
+</TEXT>
+</DOC>

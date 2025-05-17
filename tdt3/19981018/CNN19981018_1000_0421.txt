@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981018.1000.0421 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Two hurricanes are threatening Mexico's pacific coast. Hurricane Lester 
+has made an abrupt left turn overnight and is heading westward, away 
+from the southern part of the coast. But forecasters warn it could 
+make a turn toward the north. A hurricane warning is in effect from 
+salina Cruz to acapulco. About 3,000 people have been forced to evacuate 
+areas already being hit by heavy rain and flooding. At last report, 
+hurricane Lester was about 195 miles southeast of acapulco. Maximum 
+sustained winds are near 100 miles an hour and expected to gain strength. 
+Another hurricane, named Madeline, is slowly gaining intensity and 
+is threatening Mexico's northern coast. 
+</TEXT>
+</DOC>

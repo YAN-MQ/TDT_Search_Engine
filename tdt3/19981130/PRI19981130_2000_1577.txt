@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981130.2000.1577 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+They're hardly in the gutter but U.S. stocks did take a tumble today. 
+Let's get the latest now from Wall Street. Today, the Dow Jones Industrials 
+sank 217 points to end at 9117. The NASDAQ dropped 67 points to close 
+at 1950. 
+</TEXT>
+</DOC>

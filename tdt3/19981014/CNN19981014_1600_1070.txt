@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981014.1600.1070 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And time Warner, the parent of this network, posted a profit of $39 
+million, compared with a loss of $28 million one year ago. Checking 
+Wall Street's reaction -- 
+</TEXT>
+</DOC>

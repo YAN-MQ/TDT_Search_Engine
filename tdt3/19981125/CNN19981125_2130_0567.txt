@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981125.2130.0567 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At least five people were killed after an explosion ripped through 
+an oil refinery in Washington state today. The explosion happened 
+this afternoon at a refining plant about 60 miles north of Seattle. 
+Witnesses say the explosion shook the ground and filled the sky with 
+black smoke. 
+</TEXT>
+</DOC>

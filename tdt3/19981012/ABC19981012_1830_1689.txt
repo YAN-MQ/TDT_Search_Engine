@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981012.1830.1689 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And that is our report on "World News Tonight." Later on "Nightline," 
+more on Kosovo and the possibility of military action. I'm Charles 
+Gibson. For all of us at ABC News, good night. 
+</TEXT>
+</DOC>

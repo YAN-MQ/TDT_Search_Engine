@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981120.1600.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Russia has launched the first part of the international space 
+station. Financial problems caused the launch to be delayed more than 
+a year. 
+</TEXT>
+</DOC>

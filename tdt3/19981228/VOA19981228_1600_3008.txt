@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981228.1600.3008 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Once again, Dow Jones Industrial Average closed up, eight points, 
+this is Breck Artery. Thank you, Breck. 
+</TEXT>
+</DOC>

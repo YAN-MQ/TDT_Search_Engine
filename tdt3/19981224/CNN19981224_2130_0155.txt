@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981224.2130.0155 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Police in Virginia blame sleet and freezing rain for accidents that 
+have killed five people. And the state's electrical utility says 280,000 
+customers have no power because of downed power lines. 
+</TEXT>
+</DOC>

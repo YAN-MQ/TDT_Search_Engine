@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981020.2130.0121 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Firefighters in southern California are getting some relief from slower 
+winds and cooler temperatures. They are battling fires in Ventura 
+and Santa Barbara counties. Both are expected to be contained by tomorrow. 
+More than 7,000 acres have burned. Three firefighters have been injured. 
+Some residents in the town of Fillmore had to be evacuated, but there 
+have been no reports of damaged homes. 
+</TEXT>
+</DOC>

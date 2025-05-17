@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981109.1130.0517 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Meteorologists may soon have a new system to describe the severity 
+of winter storms. A one-to-five scale similar to the ones used to 
+rate hurricanes and tornadoes is being tested this year in Nebraska 
+and Wyoming. A storm that rates a one on the scale is classified as 
+a minor inconvenience. A category five storm is life-threatening. 
+The weather service will review the system's performance this spring. 
+</TEXT>
+</DOC>

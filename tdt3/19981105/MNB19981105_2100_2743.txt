@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> MNB19981105.2100.2743 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+When we come back, we'll have more news ahead. 
+</TEXT>
+</DOC>

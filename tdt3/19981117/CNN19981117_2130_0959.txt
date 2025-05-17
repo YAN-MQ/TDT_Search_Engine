@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981117.2130.0959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The sale prices of existing homes are rising faster than inflation. 
+The national association of realtors puts the median price at nearly 
+$133,000 last quarter. That's an increase of 4.9% from the same time 
+period last year. The greatest increase in prices of existing homes 
+was found along the west coast and in the south. 
+</TEXT>
+</DOC>

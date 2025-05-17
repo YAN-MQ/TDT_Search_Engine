@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981112.2130.0928 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- more U.S. troops and military aircraft 
+are headed to the Persian gulf. The United States is threatening military 
+action against Iraq if it does not cooperate with United Nations weapons 
+inspections. 
+</TEXT>
+</DOC>

@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> CNN19981018.1130.0197 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal government's anti-trust lawsuit against Microsoft heads 
+to the courtroom tomorrow. Observers say it's one of the most important 
+business trials of the century. Steve young explains what's at stake. 
+The showdown between Microsoft and federal and state prosecutors started 
+out as a so-called tying case. Microsoft, accused of forcing PC companies 
+to use its Internet browser if they wanted to get the crucial windows 
+operating system. It has broadened to include charges that the software 
+giant, using monopoly power, has bullied a string of companies including 
+Netscape, Compaq and apple. What's at stake is enormous. Microsoft 
+has the most powerful and lucrative monopoly in the history of the 
+world. At issue in this case is whether the department of justice 
+can force that powerful company to obey our competition laws. Microsoft 
+admits it plays hardball, but it hasn't illegally bullied anyone. 
+It denies using its muscle to prevent new technologies, such as Internet 
+products, from threatening its core product, windows. From the outset 
+of its legal troubles, Microsoft's Mantra has been that all it's doing 
+is offering consumers great software products. We think the important 
+issue here is the right to innovate, the freedom to innovate our products 
+on an ongoing basis, based on what we learn from consumers. Microsoft 
+has warned Wall Street analysts that the first part of trial will 
+produce Negative publicity and investors need to be thick-skinned 
+until Microsoft presents its case in several weeks. The question is 
+not whether they are a tough player and is there locker room talk 
+and E-mails. The question really is there any violations of Sherman 
+act antitrust violations, and that's really the key question. The 
+missing man is the company's chief strategist, its chairman and CEO. 
+Each side gets 12 witnesses and Bill Gates is not on the government's 
+witness list, but in an effort to counter the testimony of company 
+witnesses, the justice department is expected to try playing segments 
+of gates' combative pretrial deposition which were videotaped. Steve 
+young, "CNN Financial News," New York. 
+</TEXT>
+</DOC>

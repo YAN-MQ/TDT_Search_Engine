@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981202.2130.1632 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+But first, here's a look at some Santa clauses making a stop in Japan 
+on the eastern leg of their world tour. I'm holly Firfer. This is 
+"CNN Headline News." 
+</TEXT>
+</DOC>

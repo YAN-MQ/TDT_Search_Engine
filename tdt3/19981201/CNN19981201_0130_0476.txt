@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981201.0130.0476 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather", I'm Karen Maginnis. 
+Extending across the upper Mississippi river valley and through Hudson 
+bay, temperatures in the 30s and 40s. Look for readings, though, still 
+continued mild through the central plains and across the southeast. 
+In Boston, New York and Philadelphia, those winds will be rather gusty, 
+20 to possibly 35 mile-an-hour wind gusts. Readings very mild here, 
+though, with high pressure in control. It will continue to be a bit 
+stormy for the pacific northwest, also into southern California. Brief 
+periods of rainfall there. Showery and windy weather across the Hawaiian 
+islands, with wind gusts there possibly over 35 miles an hour. A little 
+bit of rain/snow mix for Juneau, Alaska. The extended forecast is 
+still calling for that unsettled weather in the pacific northwest 
+and showers in the southwestern U.S. still holding onto very mild 
+readings from Texas into the Ohio valley and the mid-atlantic. And 
+then by Friday, look for those showers and cooler temperatures developing 
+through the Great Lakes. For more weather information, log on to CNN.com. 
+</TEXT>
+</DOC>

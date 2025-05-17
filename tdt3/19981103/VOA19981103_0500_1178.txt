@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981103.0500.1178 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Japanese financial markets were closed Tuesday for a holiday. Trading 
+will resume tomorrow on Wednesday. In Hong Kong, the leading Hang 
+Seng Index rose nearly two percent Tuesday to close at 10,358. 
+</TEXT>
+</DOC>

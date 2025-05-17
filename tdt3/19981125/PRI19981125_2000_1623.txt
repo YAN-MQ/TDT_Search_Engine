@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981125.2000.1623 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. stocks ended up somewhat higher today, as we enter the holiday 
+lull on Wall Street. The Dow Jones Industrials were up 13 points to 
+close at 9314. The NASDAQ was also up 19 points to close at 1985. 
+</TEXT>
+</DOC>

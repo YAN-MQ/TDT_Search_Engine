@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981224.2130.1666 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll be back with the day's top stories in just two minutes. First 
+-- while much of the nation is shivering under a blanket of ice and 
+snow, people in Florida are enjoying a relatively balmy Christmas 
+eve. I'm holly Firfer. You're with "CNN Headline News." 
+</TEXT>
+</DOC>

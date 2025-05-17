@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981013.0130.0977 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+wall street started the week on a high note. stock prices surged for 
+most of the day. 
+</TEXT>
+</DOC>

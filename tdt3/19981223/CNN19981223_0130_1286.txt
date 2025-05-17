@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981223.0130.1286 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Cincinnati improved to 10-0. They scored 62 in the first half alone. 
+</TEXT>
+</DOC>

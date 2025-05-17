@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981201.1130.0926 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And today is world AIDS day. A new Harris survey indicates most Americans 
+believe they have almost no chance of contracting HIV. 
+</TEXT>
+</DOC>

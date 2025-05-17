@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> VOA19981106.0500.0960 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The crew of the U.S. space shuttle "Discovery" is set for its last 
+full day in orbit ahead of tomorrow, Saturday's scheduled return to 
+earth. The astronauts are shutting down the many experiments they've 
+been carrying out during the nine-day mission that returned a 77-year-old 
+pioneer astronaut, John Glenn, to orbit. Much of the research has 
+focused on what physical changes occur in space, especially among 
+older people. Senator Glenn is the oldest person ever to travel in 
+space, and NASA doctors will be monitoring how he fares when he returns 
+to earth. 
+</TEXT>
+</DOC>

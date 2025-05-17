@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981015.1600.0434 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Navy researchers say they have tested a DNA vaccine on healthy humans 
+with some success. It was used against malaria, but researchers hope 
+the technique could eventually be used to prevent diseases like cancer 
+and AIDS. They say the vaccine triggered an immune response in 11 
+of the 20 people tested, though it probably did not give them full 
+protection from malaria. 
+</TEXT>
+</DOC>

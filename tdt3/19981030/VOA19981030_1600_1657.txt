@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981030.1600.1657 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now. Many of our stations will be breaking away right 
+now. 
+</TEXT>
+</DOC>

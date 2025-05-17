@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981227.1000.0138 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Many residents across the southern U.S. are getting their electricity 
+and heat back today. A prechristmas ice storm knocked down power lines 
+across the region. The storm left thousands without power in North 
+Carolina, Virginia, mississippi, Alabama, Louisiana, Arkansas and 
+Tennessee. Parts of Virginia may not get service back until the middle 
+of the week. Meantime, freezing rain from the storm is making driving 
+difficult, and stranding many holiday travelers. The icy conditions 
+caused heavy traffic on highways and delayed hundreds of flights. 
+</TEXT>
+</DOC>

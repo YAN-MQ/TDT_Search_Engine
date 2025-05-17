@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981211.1130.1180 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Finally, heisman favorite Ricky Williams picked up two more awards 
+last night. The Texas running back won the Maxwell as college football's 
+best all-around player and the doak Walker award as its top running 
+back. Jerome Jurenovich, "CNN Headline Sports." 
+</TEXT>
+</DOC>

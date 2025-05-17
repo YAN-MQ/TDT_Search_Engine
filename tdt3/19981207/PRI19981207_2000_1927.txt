@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> PRI19981207.2000.1927 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+American telecom giant AT&T is under investigation over a planned 
+alliance with British Telecom. The European Commission in Brussels 
+will scrutinize the joint venture after warnings they could be creating 
+a monopoly. Jonathan Beal reports. The European Commission has already 
+carried out a preliminary investigation into the planned alliance 
+between BT and AT&T. The two companies plan on combining resources 
+to compete more successfully in the international calls market. But 
+other telecoms operators fear that could lead to a monopoly in certain 
+sectors, most notably, in attracting the customer of large multinational 
+companies. The European Commission has four months to investigate 
+and then decide whether the joint venture should go ahead. But as 
+is already indicated that at present, there is not enough evidence 
+of unfair competition to stop the venture. Jonathan Beal in Brussels. 
+</TEXT>
+</DOC>

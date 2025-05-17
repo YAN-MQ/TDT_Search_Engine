@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981224.2130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Icy winter weather across the nation is making traveling tough this 
+holiday. Sleet and freezing rain is pelting Virginia. More than 600,000 
+people in the southern U.S. are without power. 
+</TEXT>
+</DOC>

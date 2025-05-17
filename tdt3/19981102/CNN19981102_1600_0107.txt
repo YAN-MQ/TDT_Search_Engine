@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981102.1600.0107 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The justice department will send federal observers to the polls in 
+five states tomorrow. That's in response to word that the GOP may 
+be trying to videotape selected polling places. The White House says 
+it looks like a republican attempt to intimidate minority voters. 
+The justice department also sent out letters reminding people that 
+videotaping at or near polls could constitute a violation of the voting 
+rights act. 
+</TEXT>
+</DOC>

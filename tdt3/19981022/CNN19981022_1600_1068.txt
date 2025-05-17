@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981022.1600.1068 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The percentage of Americans who own their homes soared to a record 
+67% in the third quarter. Housing secretary Andrew cuomo said the 
+strong economy and low mortgage rates have driven the home ownership 
+rate out of the ballpark. 
+</TEXT>
+</DOC>

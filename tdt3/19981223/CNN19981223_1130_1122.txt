@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981223.1130.1122 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The sound scan says after two years of flat sales, music sales are 
+expected to show a 10% gain for 1998. Sound scan says music companies 
+manage to draw their male demographics but female teenagers as well. 
+</TEXT>
+</DOC>

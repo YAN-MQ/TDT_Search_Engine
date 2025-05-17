@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> ABC19981020.1830.0531 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now to Microsoft, in Washington today Microsoft had its turn to answer 
+charges leveled by the justice department yesterday. Today the Microsoft 
+lawyers argued that they were aggressive competitors but not out to 
+crush the competition. ABC's Terry Moran is following the trial in 
+federal court. Yesterday the government told a story about Microsoft's 
+behavior, today Microsoft responded with a legal argument denying 
+that behavior and saying that the judge should remember that the antitrust 
+laws aren't a code of civility in business, to make sure that capitalists 
+are nice to each other, that Microsoft competes fairly by adding new 
+features into its products and that's what this case is about. They 
+also pointed out that Netscape hasn't been damaged. It continues to 
+ship millions and millions of Internet browsers. If that's the case, 
+Microsoft should win. Yesterday the justice department went pretty 
+directly for Bill Gates. Today they went pretty directly for Netscape's 
+CEO. James barksdale ho who was challenged by Microsoft's lawyer on 
+his contacts with the department of justice, Joel Klein, the assistant 
+attorney general breakfasted at his home several years ago. Sore loser 
+defense. Microsoft says Netscape couldn't win in the market place 
+so ran to uncle sam. 
+</TEXT>
+</DOC>

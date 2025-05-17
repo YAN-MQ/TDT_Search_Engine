@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981231.1600.1347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Flyers center Eric Lindros will miss tonight's game with Vancouver. 
+Philadelphia's captain is suffering from the after effects of a mild 
+concussion from Tuesday's game with Calgary. He says he hopes to be 
+back in the lineup for Sunday's game with Edmonton. 
+</TEXT>
+</DOC>

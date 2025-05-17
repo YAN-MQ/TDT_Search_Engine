@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981013.1130.1095 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Eastman codock is up. Currently they are plunging after warning of 
+a future sales slowdown. 
+</TEXT>
+</DOC>

@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981022.1130.0462 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "Headline News weather." A 
+cool day today over much of the east, 40s and 50s for highs from the 
+Great Lakes into the northeast today. And it's turned cooler, too. 
+And some breezy conditions expected in the southeast. In contrast, 
+it will be warming up through the northern Rockies, back in through 
+the dakotas with high temperatures back into the 70s. We check your 
+forecast weather maps later today on into Friday, big area of high 
+pressure dominates the weather over much of the eastern half the U.S. 
+we will find some wet weather continuing in the southwest, and a tropical 
+disturbance in the gulf of Mexico will be spreading showers and some 
+thunderstorms, especially into northern sections of Mexico. The extended 
+forecast, rain, windy conditions will affect the northwest on saturday 
+as temperatures moderate in the east, back into the 60s and into the 
+70s. As we head into Sunday, looking for a cooling trend over the 
+northern tier with highs back into the 50s. It's warming up into the 
+southeast, 70s returning as rain will be spreading into the intermountain 
+west. By Monday, scattered showers from the plains into the rocky 
+mountains. Look for temperatures to turn cooler again over the northern 
+tier. For more weather information, log into CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981128.1600.0508 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+this is orelon sidney with your "cnn headline news weather update." 
+a pacific storm system moves into the northwest once again on sunday, 
+increasing the heavy rain totals across the area. another pacific 
+storm in the southwest will mean snowfall for colorado and northern 
+new mexico, with rain showers spreading into oklahoma and texas. a 
+front will remain stationary across the northern pier states and the 
+great lakes, with snow showers possible across the dakotas and minnesota. 
+high pressure and warm temperatures are still expected for the southeast. 
+look for 60s, 70s and 80s across most of the southeastern united states. 
+cooler temperatures are intensified and spread in the west, as you'll 
+see 30s, 40s and 50s as far south as tucson. the extended forecast 
+includes heavy rain monday for the west, with rain and a few thunderstorms 
+for the mississippi valley. by tuesday, the only thing left in the 
+east will be scattered showers. but we'll see showers and a mix of 
+rain and snow in the west through wednesday. cooler temperatures are 
+also due into the west as cold air heads into montana and idaho. 
+</TEXT>
+</DOC>

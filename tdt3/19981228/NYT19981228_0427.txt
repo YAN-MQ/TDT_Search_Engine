@@ -1,0 +1,91 @@
+<DOC>
+<DOCNO> NYT19981228.0427 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+As recently as a few weeks ago, it seemed as if America's corporate 
+giants need not worry too much about the Internet. After all, if upstart 
+companies that specialize in online commerce were ever to realize 
+investors' much-hyped expectations for future profits, Fortune 500 
+members could always just buy them. Not anymore. The recent explosion 
+in share prices of companies linked to the online world has been so 
+spectacular that the market value of some Internet companies is rapidly 
+eclipsing that of more established competitors, even when the online 
+companies still lag badly in terms of profits and revenues. On Monday, 
+the Internet lodged another such milestone, this time shaking some 
+core assumptions in the finance industry. The market value of San 
+Francisco-based discount broker Charles Schwab reached $25.5 billion, 
+putting it ahead by a nose of the industry standard-bearer and Wall 
+Street heavyweight, Merrill Lynch &AMP; Co., which investors now say 
+is worth $25.4 billion. Market value can change dramatically day to 
+day, and investors still value one big investment bank, Morgan Stanley 
+Dean Witter, above Schwab. But Schwab's helicopterlike ascent is unprecedented, 
+analysts said, both in its speed and perhaps in its challenge to the 
+way Wall Street treats the online craze. Consider that just two weeks 
+ago, the market was awash with unconfirmed rumors that Merrill might 
+consider buying Schwab to give it a presence online, a possibility 
+that now seems far-fetched given the huge increase in Schwab's stock 
+price. ``Merrill has to be concerned about this,'' said Richard Strauss, 
+securities industry analyst for Goldman Sachs. ``There is significant 
+value in Merrill for many reasons. But the Internet is clearly something 
+that they have to make a top priority.'' Schwab has been swept up 
+in the Internet stock frenzy. America Online, perhaps the best-known 
+Internet entertainment and commerce company, recently surpassed Disney 
+in market value. Amazon.com has a market value well above the combined 
+value of two leading rivals, Barnes &AMP; Noble and Borders. Investors 
+value Ebay, the new Internet auction company, at more than five times 
+Sotheby's. Schwab, unlike Merrill and other rivals, has transformed 
+itself from a traditional retail broker, albeit one that specialized 
+in discounted fees, into a company that does most of its business 
+online. Merrill, meanwhile, has delayed plans to offer a limited online 
+trading service to some customers until early next year. Morgan Stanley 
+and Donaldson, Lufkin &AMP; Jenrette, Wall Street houses that like 
+Merrill have a more diverse array of businesses than Schwab, have 
+substantial online operations. But only a small part of their revenue 
+is Internet-related. Schwab, moreover, dodged a bullet from new rivals 
+like E-Trade and Ameritrade, services that focus exclusively on cut-rate, 
+online stock trading. Even as online trading has soared as a percentage 
+of total stock trading, Schwab has maintained its market share of 
+30 percent of online trading, analysts said. The company has watched 
+the revenue it derives from each trade slide as investors switched 
+to less expensive trading through its Web site. As recently as late 
+last year, Schwab earned $63 on every trade it handled, and now that 
+average has fallen to $53. But a sharp increase in the quantity of 
+trades has more than made up for that loss, and profits are rising 
+at a rapid clip. ``Schwab did a great job to turning the Internet 
+to its advantage when it could easily have become a victim,'' said 
+Bill Burnham, online commerce analyst at Credit Suisse First Boston. 
+``Now, any fears that they will be superseded by the Internet have 
+subsided. They are the leader.'' Many analysts warn that the lopsided 
+valuations placed on companies with the suffix ``.com'' has the classic 
+symptoms of a financial bubble and will likely prove fleeting. Some 
+say the same about Schwab's sudden rise, and indeed its valuation 
+by some traditional measures seems extraordinary. Schwab trades at 
+65 times its projected profits next year, a ratio more familiar to 
+the speculative Internet world than the brokerage community. Merrill 
+trades at 16 times its forward earnings. That's despite the fact that 
+Merrill manages $1.4 trillion in client assets, three times what Schwab 
+manages. Merrill's revenues in the last year totaled $17.5 billion, 
+seven times Schwab's. ``It just does not make that much sense for 
+Schwab. These lofty multiples get applied to Internet companies that 
+are not mature and are thought to have an enormous growth path ahead 
+of them,'' said Guy Moscowski, a brokerage stock analyst at Salomon 
+Smith Barney. ``I don't see how you apply that kind of thinking to 
+Schwab. It has been around for 25 years and has a more mature business.'' 
+Likewise, officials at Merrill say they are not about to overhaul 
+their strategy because of daily changes in stock prices. ``We have 
+a long term strategy that is global, that has been very successful 
+in growing clients' assets, revenues and market share,'' said Jim 
+Wiggins, a Merrill spokesman. ``We are sticking to it.'' Even if Merrill 
+chose to do so, it might have a hard time mimicking Schwab's heavy 
+Internet focus. Schwab has always sought to provide brokerage services 
+at a low cost. That makes the company more vulnerable to competition 
+from purely Internet companies than from full-service brokers like 
+Merrill, which compete in providing advice and financial planning 
+services to customers. Moreover, Merrill has a network of 14,000 brokers 
+who would likely resist any move by Merrill management to shift a 
+large proportion of the firm's business online. ``Just from a structural 
+position, it's incredibly difficult for Merrill to rush into the Internet 
+business,'' Burnham said. ``They would have a huge political issue.'' 
+</TEXT>
+</DOC>

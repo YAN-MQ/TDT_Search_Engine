@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981130.1830.0814 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An example of how purchasing power follows demographics. According 
+to the Dow Jones new service, Latino's purchasing power is expected 
+to triple over the next decade to an estimated $940 billion a Year. 
+</TEXT>
+</DOC>

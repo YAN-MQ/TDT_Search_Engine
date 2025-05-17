@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> CNN19981109.2130.0623 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Chances are your personal computer runs on a Microsoft operating system, 
+such as Windows 95 or Windows 98. Now, an alternative is gaining popularity. 
+And it's free. Ann Kellan has details in this edition of "tech trends." 
+People know this logo. What about this one? The Penguin stands for 
+linux, an operating system that's competing with windows to run your 
+computer. Linux is free, it rarely crashes and it's not owned by anyone. 
+It's very stable. It's very robust and reliable, so it has a lot going 
+for it in those regards. I let my computer run for 2 1/2 months without 
+having to reboot. Jim Allen loaded it on his computer because the 
+price is right. Everything on this compute ser free. I paid for nothing. 
+It is community property. So far 7 million have tried it. Many have 
+added to it and improved it. Unlike Microsoft that closes the blinds 
+to anyone wanting to know the nuts and bolts of how it works, linux 
+is open and shares its source code with everyone. That open source 
+code is why linux is worrying some at Microsoft. They wrote -- but 
+Microsoft maintains it's number one and will fight hard to stay that 
+way. It's up to us to once again put an offering out there in the 
+marketplace that makes them hesitate and say, I really should consider 
+windows. Jim Allen, who enjoys tinkering with computer software admits 
+those who don't, might not like linux. That could be changing. The 
+backing for linux by big companies, software suches a spread sheets, 
+word processors and graphics editors are becoming available, making 
+linux more appealing. But whether this community of Penguins can fly 
+in the face of Microsoft, remains to be seen. Ann Kellan, CNN, Atlanta. 
+</TEXT>
+</DOC>

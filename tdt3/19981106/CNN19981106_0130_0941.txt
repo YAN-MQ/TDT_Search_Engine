@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981106.0130.0941 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Though it has broken up over the ocean, the storm known as Mitch will 
+also be known as the most fatal atlantic hurricane in more than 200 
+years. In central America, at least 11,000 people were killed, and 
+another 13,000 are missing. 
+</TEXT>
+</DOC>

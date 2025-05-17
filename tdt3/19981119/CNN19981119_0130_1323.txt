@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981119.0130.1323 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For the second time in three years, Texas slugger Juan Gonzalez is 
+the american league most valuable player. 
+</TEXT>
+</DOC>

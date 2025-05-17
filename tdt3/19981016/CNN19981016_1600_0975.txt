@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981016.1600.0975 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks shoot higher to end the week with record-setting gains. Kitty 
+pilgrim is standing by at the cnnfn news desk in New York with all 
+the market numbers and more. Kitty? stocks soared for a second day 
+in a row. The Dow and the NASDAQ posting their biggest weekly point 
+gains ever. Investors continuing to buy after the federal reserve 
+cut two key interest rates yesterday. The Dow finished up 110 points. 
+Among the biggest winners -- 
+</TEXT>
+</DOC>

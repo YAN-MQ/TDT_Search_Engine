@@ -1,0 +1,79 @@
+<DOC>
+<DOCNO> NYT19981211.0354 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A computer-science expert from Princeton University says he has done 
+what Microsoft Corp. insists is impossible: extricated Microsoft's 
+Internet Explorer Web-browsing software from its Windows operating 
+system. The expert, Dr. Edward Felten, who will take the stand in 
+federal court on Monday as a witness for the government in its antitrust 
+suit against Microsoft, was asked by the Justice Department to puncture 
+a central argument in Microsoft's defense _ namely that browser and 
+operating system are inextricably integrated. In direct written testimony 
+made public Friday evening, Felten said that ``Microsoft could have 
+produced a version of Windows 98 without Web browsing in a way that 
+did not adversely affect'' users or developers of other software programs. 
+Microsoft, in a statement issued Friday evening, said that Felten 
+did not actually remove Internet Explorer from Windows. ``He only 
+hid some of the functionality it provides, which does not benefit 
+consumers,'' the statement said. ``You can surgically remove someone's 
+right arm, but the arm was certainly a useful part of the person's 
+body before it was removed.'' The government contends that Microsoft 
+illegally tied Internet Explorer to its industry-standard Windows 
+operating system to stifle competition in the market for Web browsers, 
+the software used to navigate the World Wide Web. Microsoft asserts 
+that its browser is not a separate product but an integrated feature 
+of its operating system that cannot be removed. If the company can 
+convince the judge that Internet Explorer is not a separate program, 
+he will be unable to find that Microsoft illegally tied the browser 
+to the operating system. Felten, an assistant professor of computer 
+science with a Ph.D in computer science and engineering, said he had 
+studied the programmers' original instructions, or source code, for 
+both Windows 95 and Windows 98 with two graduate-student assistants. 
+He and his students found that Internet Explorer was ``hard wired'' 
+to the operating system so that it was invoked in many circumstances, 
+even if the user had designated another program as the computer's 
+default Web browser. So they wrote what he called a ``prototype removal 
+program'' that deleted some files and altered others to clip the ``hard 
+wire'' connections so that users could not gain access to Internet 
+Explorer by any means. Microsoft says that removing Internet Explorer 
+will ``break'' Windows 98. But Felten testified: ``The prototype removal 
+program does not prevent Windows 98 from booting properly, nor does 
+it affect the stability of Windows 98 under ordinary use. Microsoft 
+could have produced a version of Windows 98 without Web browsing in 
+a way that did not adversely affect the non-Web-browsing features.'' 
+After running the removal program, Felten said, he installed the major 
+competing Web browser, Netscape Communications Corp.'s Navigator. 
+``A computer that has undergone these procedures suffers no apparent 
+loss of stability or functionality and provides the user the full 
+Web-browsing experience offered by Navigator,'' he wrote. At the government's 
+request, Felten also studied the versions of Internet Explorer that 
+Microsoft had developed for other operating systems, including Apple 
+Computer's Macintosh Mac OS and Sun Microsystems' Solaris, a Unix 
+operating system. Microsoft has stated that these other versions of 
+the browser are completely different programs and, as such, their 
+existence does not bolster the assertion that Internet Explorer is 
+a stand-alone application that is distinct from Windows. Felten, however, 
+testified that his review of other versions of Internet Explorer ``leads 
+me to the conclusion that the user's Web experience with each version 
+is substantially similar to the other versions.'' The court was not 
+in session Friday, but Felten's testimony had been the subject of 
+considerable discussion in court earlier this week, with Microsoft's 
+lawyer asserting that all the professor had really done was to delete 
+one small ``stub'' file whose only purpose was to trigger the other 
+Internet Explorer files scattered through the Windows program. Felten 
+acknowledged that most of the ``shared program libraries'' from which 
+programs call features and functions from Windows were ``left substantially 
+unchanged'' by his removal program. He could have deleted program 
+code for Internet Explorer from some of these files, he said, but 
+decided not to ``because the limited changes performed by the prototype 
+removal program achieve the same results.'' Microsoft, in its statement, 
+warned that the scenario Felten described would lead to a world in 
+which consumers would have to choose among ``dozens or hundreds of 
+incompatible versions of Windows.'' But Felten testified that his 
+purpose was to show that Microsoft, despite its arguments to the contrary, 
+could have produced a version of Windows that allowed users to choose 
+which Web browser they wanted to install. 
+</TEXT>
+</DOC>

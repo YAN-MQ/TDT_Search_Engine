@@ -1,0 +1,106 @@
+<DOC>
+<DOCNO> NYT19981030.0412 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Shortly after Dr. Avadis Tevanian joined Apple Computer Inc. as a 
+senior executive last year, he recalls, a software developer warned 
+him that if Apple did not stop selling its highly successful QuickTime 
+multimedia software product, ``Microsoft would take any necessary 
+action to drive Apple out of businesss.'' Eighteen months later, ``I 
+appreciate the prophetic import of his words,'' Tevanian stated in 
+written testimony as a government witness in the antitrust trial against 
+Microsoft Corp. Tevanian, a close lieutenant of Apple's co-founder 
+and acting chief executive, Steve Jobs, was vice president of engineering 
+at Jobs' Next software until Apple acquired Next in 1997. Now an Apple 
+senior vice president, he is scheduled to take the stand in U.S. District 
+Court on Monday morning to face cross-examination by Microsoft lawyers, 
+who will try to impeach his direct written testimony. In the direct 
+testimony, made public Friday evening, Tevanian accuses Microsoft 
+of threatening and bullying Apple to drop support for Netscape Communications 
+Corp.'s browser for navigating the World Wide Web and instead to favor 
+Microsoft's Internet Explorer browser. If Apple refused, he said, 
+Microsoft executives, in several discussions with Apple, threatened 
+to stop developing and supporting crucial Microsoft business software 
+for Apple's Macintosh operating system. Tevanian testified that Microsoft 
+had also repeatedly pressured Apple to drop out of the multimedia 
+software market, in which Apple's QuickTime program for playing audio, 
+video and animated graphics files is a de facto industry standard. 
+When Apple refused, he said, Microsoft rigged the Windows operating 
+system so that, in many circumstances, QuickTime would not work on 
+Windows computers. Apple's Macintosh line of personal computers and 
+its operating system, Mac OS, stand as the only real competition to 
+Microsoft, though Apple now has less than 5 percent of the market. 
+Almost every other personal computer in the world runs Microsoft's 
+Windows operating system. Responding to Tevanian's testimony, Microsoft 
+released a statement Friday asserting: ``Microsoft and Apple continue 
+to be great partners after more than 17 years of both competing and 
+cooperating in the software industry. Microsoft today reiterates its 
+strong support for the Macintosh and our Macintosh customers.'' In 
+many ways, Tevanian's testimony echoes that of the man who preceded 
+him on the witness stand, David Colburn, a senior vice president at 
+America Online. In his testimony, Colburn described how Microsoft 
+had used its Windows monopoly to thwart a planned deal in which America 
+Online was to distribute Netscape's Navigator as its default browser, 
+that is, the browser distributed with America Online's software. By 
+offering America Online an icon on the Windows desktop, the most valuable 
+real estate in cyberspace, Microsoft was able to persuade the online 
+service to abandon Netscape and to make Internet Explorer its default 
+browser. Similarly, Tevanian said that while Apple offered both the 
+Microsoft and Netscape browsers, it had originally chosen Netscape 
+as its default browser. But Tevanian testified that when Microsoft 
+chairman Bill Gates learned of that choice, ``he became very upset,'' 
+and that over the following months Microsoft used a variety of threats 
+and entreaties to persuade Apple to make Internet Explorer the default 
+browser. Finally, in mid-May 1997, Tevanian testified, Microsoft told 
+Apple that it would pull the plug on application programs for the 
+Macintosh operating system if Apple refused to adopt Microsoft's browser 
+and declined to settle several other disputes ``on terms acceptable 
+to Microsoft.'' Among the programs Microsoft threatened to quit supporting 
+were its Macintosh versions of Word and Excel, industry-dominating 
+word processing and spread sheet programs. Both are also part of Microsoft 
+Office, which has more than 90 percent of the market for business 
+applications suites. As a result of that domination, Tevanian said, 
+Apple ``desperately needed to maintain support for Microsoft Office 
+for Macintosh.'' At the time of the threat, which Tevanian called 
+``extremely disturbing,'' Microsoft, he said, ``had made a substantial 
+investment getting Office 98 for Macintosh ready for market,'' yet 
+was ``willing to risk an outright loss of that entire investment to 
+force Apple to terms.'' Apple gave in and made Internet Explorer the 
+default browser and agreed not to promote Netscape's browser. As Tevanian 
+describes it, Microsoft sweetened the deal by making a $150 million 
+investment in Apple and agreeing to settle some patent disputes. By 
+the time the deal was announced in August 1997, Apple had lost $1.7 
+billion over the previous seven quarters. In its statement Friday, 
+Microsoft said: ``The allegation that Microsoft threatened to withhold 
+Macintosh Office 98 in order to force Apple to make Internet Explorer 
+its default browser is another example of how the government deliberately 
+twists facts to support its distorted allegations.'' Tevanian testified 
+that Microsoft also used threats to persuade Apple not to market QuickTime 
+for Windows computers. At one point, he testified, Microsoft offered 
+to let Apple continue writing software tools for creating multimedia 
+files _ a tiny market consisting mostly of professional developers 
+_ if Apple would cede the far larger market for software that plays 
+such files on all computers. The business tactics he describes echo 
+the central testimony last week of James Barksdale, the chairman of 
+Netscape, who said that Microsoft offered to let Netscape sell browsers 
+to the far smaller pool of non-Windows computers if the company would 
+cede the Windows browser market to Microsoft. Tevanian quotes one 
+senior Microsoft executive at a meeting as saying: ``We're going to 
+compete fiercely on multimedia playback, and we won't let anybody 
+play back in Windows.'' Soon after that, he said, Apple's multimedia 
+program stopped working well on Windows computers. Microsoft's statement 
+says: ``While Dr. Tevanian alleges that Microsoft has somehow intentionally 
+disabled his company's product, the facts show that Apple's engineers 
+did not properly author the QuickTime set-up program for Windows. 
+``Despite Dr. Tevanian's accusations, the only known interoperability 
+issues affecting QuickTime were caused by Apple, not Microsoft.'' 
+The statement echoes Microsoft's response when the chief executive 
+of RealNetworks, Rob Glaser, told the Senate Judiciary Committee last 
+summer that Microsoft had engineered the Windows Media Player to ``break'' 
+his company's industry-leading multimedia software for the World Wide 
+Web. Starting Monday morning, John Warden, Microsoft's lead lawyer 
+in the antitrust suit, will begin a cross-examination of Tevanian 
+that is likely to last for several days. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981103.2000.0361 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+the BBC, you're listening to THE WORLD. THE WORLD is made possible 
+in part by Merck, pharmaceutical research dedicated to preventing 
+disease and improving health. Merck, committed to bringing out the 
+best in medicine. This is THE WORLD. I'm Lisa Mullens. 
+</TEXT>
+</DOC>

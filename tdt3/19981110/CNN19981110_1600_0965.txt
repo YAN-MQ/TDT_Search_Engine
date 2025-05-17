@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981110.1600.0965 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks struggled all day to stay in the black, drifting in and out 
+of positive territory. But in the end, most indexes couldn't hold 
+onto their modest gains. Some of the Dow components that turned in 
+a winning performance -- 
+</TEXT>
+</DOC>

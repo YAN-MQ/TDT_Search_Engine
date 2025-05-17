@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981118.1600.1114 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And back on Wall Street -- the NASDAQ up almost 19 and the do you 
+up 54. 
+</TEXT>
+</DOC>

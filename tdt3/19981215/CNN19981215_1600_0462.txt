@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981215.1600.0462 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The midwestern dust bowl of the 1930s is considered the worst drought 
+of the century. Now scientists say future dry spells could be much 
+worse. According to a government study released today, severe megadroughts 
+occurred in the 13th and 16th centuries far more severe than the eight-year 
+dust bowl. Researchers reviewed historical documents and studied tree 
+rings and other environmental clues to get their information. The 
+scientists say they still don't know what caused the megadroughts 
+or how to predict them. But they say global warming may increase the 
+chances of having one. 
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981224.2130.0506 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News" weather 
+forecast for Friday, Christmas day. An area of low pressure will move 
+from the northwest to the northern plains, producing a few snow showers. 
+But with another front moving toward the northwest, there's more rain 
+and snow in the forecast through that region for Christmas day. Conditions 
+will be clearing across much of the east, maybe some clouds and rain 
+along the Carolina coastline, though. Our high temperatures on Friday, 
+getting a little warmer in the southwest, especially south Texas. 
+It stays warm in Florida, but it will be pretty cold across northern 
+New England and the upper midwest. Looking ahead to Saturday, temperatures 
+begin to moderate through the southeast, with rain and snow in the 
+northeast. Heavy rain and mountain snow in the northwest. Sunday, 
+snow showers for the Great Lakes. Temperatures getting a little warmer 
+yet in the southeast. And on Monday, rain and snow in the east. Heavy 
+rain in parts of the pacific northwest. Pretty cold through the north 
+central part of the country. Don't forget, four-day forecasts, 7,200 
+cities on CNN interactive. The address is CNN.com. 
+</TEXT>
+</DOC>

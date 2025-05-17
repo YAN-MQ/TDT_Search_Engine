@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981112.1600.1051 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The growing crisis in Iraq sent oil prices slightly higher today. 
+The price of U.S. benchmark light sweet crude moved up -- 20 cents 
+at $13.84 a barrel. 
+</TEXT>
+</DOC>

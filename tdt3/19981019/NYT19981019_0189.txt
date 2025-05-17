@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> NYT19981019.0189 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+When Americans go off daylight time at 2 a.m. on Sunday, they will 
+need to set their clocks _ and their bodies _ back an hour. To the 
+rescue, Dr. Alfred Lewy, an expert on resetting biological clocks 
+and a professor at Oregon Health Sciences University in Portland. 
+Six months ago, Lewy proposed a system for speeding the adjustment 
+to daylight time. This time, he has a regimen to help people shift 
+their body clocks the other way, relying on the body's two main zeitgebers, 
+or time keepers _ sunlight and the hormone melatonin produced by a 
+tiny gland at night. Lewy's prescription: First thing Saturday morning, 
+take a tiny dose of melatonin _ between 0.1 and 0.5 milligrams (100 
+to 500 micrograms) and repeat that for the next two or three mornings. 
+(Do not drive if the melatonin makes you sleepy.) On Sunday, avoid 
+sunlight for the first hour of daylight by wearing dark sunglasses. 
+The shift back to standard time, Lewy says, is tougher than adjusting 
+to daylight time because the earlier dawn is counterproductive to 
+the needed change in body time. 
+</TEXT>
+</DOC>

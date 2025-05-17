@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> NYT19981122.0091 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Computer rankings of college teams based on games through Nov. 21: 
+RANK...TEAM....LAST...RECORD...AVG......RATING...OPPONENTS....OPPONE 
+NTS ...............WEEK............VICTORY...........RECORD(x)....AVG 
+...............................MARGIN.........................VICTOR 
+Y ..............................................................MARGIN 
+(x) 1 Florida St. .. 1 ... 11-1-0 ... 20.6 ... 1.000 ... 73-41-0 ... 
+6.9 2 Tennessee .... 2 ... 10-0-0 ... 18.4 ... 0.971 ... 57-40-0 ... 
+5.0 3 Kansas St. ... 3 ... 11-0-0 ... 38.1 ... 0.927 ... 55-53-0 ... 
+2.4 4 UCLA ......... 5 ... 10-0-0 ... 14.7 ... 0.914 ... 57-42-0 ... 
+2.9 5 Texas A&AMP;M .... 4 ... 10-1-0 ... 11.8 ... 0.903 ... 64-47-0 
+... 6.1 6 Ohio St. ..... 7 ... 10-1-0 ... 25.1 ... 0.879 ... 59-50-0 
+... 2.3 7 Arizona ...... 10 .. 10-1-0 ... 17.5 ... 0.823 ... 54-55-0 
+... -2.5 8 Notre Dame ... 8 .... 9-1-0 ... 9.7 .... 0.820 ... 44-53-0 
+... 0.4 9 Florida ...... 6 .... 9-2-0 ... 17.6 ... 0.817 ... 61-46-0 
+... 2.8 10 Air Force ... 11 .. 10-1-0 ... 23.3 ... 0.805 ... 46-65-0 
+... -3.2 11 Wisconsin ... 18 .. 10-1-0 ... 21.1 ... 0.801 ... 52-59-0 
+... -1.6 12 Miami (Fla.). 14 ... 7-2-0 ... 19.6 ... 0.798 ... 43-45-0 
+... 0.4 13 Purdue ...... 20 ... 8-4-0 ... 13.8 ... 0.783 ... 67-52-0 
+... 3.6 14 Georgia Tech. 15 ... 8-2-0 ... 12.2 ... 0.780 ... 49-49-0 
+... 0.5 15 Michigan .... 9 .... 8-3-0 ... 7.2 .... 0.778 ... 64-44-0 
+... 5.4 16 Syracuse .... 19 ... 7-3-0 ... 14.6 ... 0.766 ... 52-43-0 
+... 1.4 17 Nebraska .... 21 ... 8-3-0 ... 18.0 ... 0.757 ... 65-44-0 
+... 6.6 18 West Va. .... 27 ... 7-3-0 ... 10.8 ... 0.746 ... 50-45-0 
+... 3.2 19 Virginia Tech 33 ... 8-2-0 ... 20.5 ... 0.742 ... 45-50-0 
+... 0.6 20 Texas ....... 24 ... 7-3-0 ... 7.1 .... 0.726 ... 56-43-0 
+... 5.3 22 Missouri .... 22 ... 7-4-0 ... 8.6 .... 0.720 ... 75-34-0 
+... 10.7 22 Virginia .... 26 ... 8-2-0 ... 10.9 ... 0.720 ... 49-50-0 
+... 0.0 23 Michigan St.. 33 ... 6-5-0 ... 5.9 .... 0.714 ... 67-45-0 
+... 4.6 24 Southern Cal. 17 ... 7-4-0 ... 9.5 .... 0.710 ... 67-43-0 
+... 4.6 25 Brigham Young 31 ... 9-3-0 ... 11.1 ... 0.708 ... 51-70-0 
+... -4.4 The New York Times's computer football ranking is based on 
+an analysis of each team's scores with emphasis on three factors: 
+who won, by what margin and against what quality of opposition. The 
+quality of an opponent is determined by examining its record against 
+other teams. The Times's computer model collapses runaway scores and 
+takes note of a home-field advantage. Recent games count more than 
+earlier games. The top team is assigned a rating of 1.000; the ratings 
+of all other teams are percentages reflecting their strength relative 
+to the top team. This week, for example, there is not a big difference 
+between Florida State (no. 1) and Tennessee (2), and the difference 
+between Kansas State (3) and UCLA (4) is even smaller. 
+</TEXT>
+</DOC>

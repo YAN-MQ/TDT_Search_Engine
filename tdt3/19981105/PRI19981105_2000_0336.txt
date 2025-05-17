@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> PRI19981105.2000.0336 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Corey Flintoff. This is National Public Radio News from Washington. 
+</TEXT>
+</DOC>

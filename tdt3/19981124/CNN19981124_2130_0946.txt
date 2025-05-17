@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981124.2130.0946 </DOCNO>
+<DOCTYPE> UNTRANSCRIBED </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street took a breather today after a record run. 
+</TEXT>
+</DOC>

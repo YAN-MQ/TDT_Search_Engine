@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981014.1130.0455 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News" forecast 
+today into Thursday. Much cooler weather is pushing into the western 
+part of the country. Not only will it produce rain showers, but we'll 
+see snow in the mountains from Oregon and Washington through Idaho 
+and into Montana. High temperatures today in the 40s and 50s, New 
+England to the Great Lakes. In the south, look for 70s and 80s, and 
+perhaps still some 90s in the southwest. Looking ahead to Friday, 
+it'll be a rainy day across the north-central part of the country, 
+with cool air over the northern Rockies. For Saturday, we'll see scattered 
+showers and storms through the plains. The cool air pushes into the 
+region. Then on Sunday, the rain is pushing across the Mississippi 
+river valley, highs across the northern plains will be just in the 
+40s. 
+</TEXT>
+</DOC>

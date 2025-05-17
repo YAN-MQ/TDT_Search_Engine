@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981213.0152 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For the first time, a federal court has been asked to rule on one 
+of the most frequently asked year 2000 liability questions: Does normal 
+business liability insurance cover a software company that is sued 
+for selling products that cannot cope with the year 2000? The Cincinnati 
+Insurance Co., based in Fairfield, Ohio, has asked the U.S. District 
+Court in Cedar Rapids, Iowa, to rule that the policy it sold to Source 
+Data Systems does not require it to defend Source Data from lawsuits 
+contending that its products cannot recognize dates after Jan. 1, 
+2000, or to reimburse Source Data for the the cost of fixing or replacing 
+defective products. Cincinnati Insurance filed its request for the 
+ruling Dec. 4. The coverage dispute grew out of a lawsuit filed in 
+July in a Kentucky state court against Source Data, of Cedar Rapids, 
+by the Pineville Community Hospital Association, a Kentucky hospital 
+group. Pineville is seeking $1.25 million to cover the cost of replacing 
+Source Data hospital management software installed in 1996. Five months 
+after the system went on line, according to the complaint, Pineville 
+learned that the system could not handle the transition to the year 
+2000. Year 2000 legal experts say the issue of insurance coverage 
+for software companies is a vital one. If software users with year 
+2000 problems cannot reach into the pockets of the software companies' 
+insurers for compensation, many software companies could be bankrupted 
+_ and many customers out of luck _ if such problems are widespread. 
+``There is likely to be an avalanche of these types of cases,'' said 
+Walter Andrews, a Washington lawyer who is not involved in the Source 
+Data case but represents numerous insurers. Source Data, which is 
+now owned by Keane Inc., has denied that its contract with Pineville 
+to install the system guaranteed year 2000 capability. But, it says, 
+if it is liable, the insurance policy ought to cover its costs. Cincinnati 
+Insurance says its general liability policies will cover some year 
+2000 problems. But, the insurer argues, the cost of curing foreseen 
+defects before there is any damage to individuals or property is clearly 
+outside the policies' scope. 
+</TEXT>
+</DOC>

@@ -1,0 +1,61 @@
+<DOC>
+<DOCNO> NYT19981216.0430 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A Federal Reserve official warned Wednesday that regulators may need 
+to insist that banks scrutinize more closely _ and lend less freely 
+_ to hedge funds to avoid such crises as the near-failure in September 
+of Long-Term Capital Management. ``Private market discipline seems 
+to have largely broken down'' in that case, said Patrick Parkinson, 
+associate director of the Fed's division of research and statistics, 
+forcing the Fed to organize a $3.5 billion rescue operation by the 
+hedge fund's creditors to avert any threat to the global financial 
+system. ``Weaknesses in risk management practices clearly need to 
+be addressed,'' Parkinson told the Senate Agriculture Committee, which 
+was convened to monitor the progress of an interagency group studying 
+derivative products, as well as hedge funds. The group is made up 
+of officials from the Fed, the Treasury, the Securities and Exchange 
+Commission and the Commodity Futures Trading Commission. The committee 
+also heard suggestions of possible moves to shore up or impose regulation 
+by the Treasury and the SEC. This was seen by some as a softening 
+of earlier stances. ``There now appears to be a willingness among 
+all the players to look at a number of issues in the over-the-counter 
+market, particularly in the areas of transparency and disclosure,'' 
+said John Phillips, a spokesman for the commodities futures group. 
+Brooksley Born, head of that commission, has angered key members of 
+Congress, other regulators and some of her fellow commissioners by 
+refusing to agree to delay possible new regulation of derivatives 
+until Congress is able to provide direction. Roger Anderson, a deputy 
+assistant secretary of the Treasury, said Wednesday that opposition 
+to a commodities futures group ``concept release'' on swaps in May 
+to study the situation was based on legal analysis, not because the 
+subject did not merit scrutiny. ``We always agreed that there were 
+important aspects of the derivatives market that deserved study, and 
+we are happy to be able to address those questions in a format that 
+does not increase legal uncertainty,'' Anderson said. A partial moratorium 
+on any rule-making on swaps has been imposed by Congress until the 
+end of March. Richard Lugar, R-Ind., who heads the Agriculture Committee, 
+said he found little evidence that the collapse of Long-Term Capital 
+Management was primarily attributable to its use of swaps. Rather, 
+Lugar contended, the problem was excessive leverage and lax lending 
+standards. ``The LTCM affair may suggest the need for a regulatory 
+response,'' he said. ``Additional disclosure of information to regulators 
+may be appropriate. More prudent practices on the part of lenders 
+may also need to be encouraged or even required.'' Lugar added, however, 
+that banking agencies might be more appropriate supervisors for new 
+authority than the Commodity Futures Trading Commission, a tiny agency 
+whose charter will shortly be coming up for renewal. In his discussion 
+of the Long-Term Capital case, Parkinson of the Fed said that banks 
+and other ``counterparties'' bore chief responsibility for designing 
+and carrying out needed improvements in their lending after having 
+been guilty of being overgenerous with credit. He added that they 
+failed to understand the hedge fund's risk profile, which included 
+large positions in illiquid markets, and had relied too much on the 
+fund's past performance and the reputation of its partners. ``Nevertheless,'' 
+he added, ``prudential overseers have a responsibility to ensure that 
+the processes that banks and securities firms utilize to manage risk 
+are commensurate with the size and complexity of their portfolios 
+and responsive to changes in financial market conditions.'' 
+</TEXT>
+</DOC>

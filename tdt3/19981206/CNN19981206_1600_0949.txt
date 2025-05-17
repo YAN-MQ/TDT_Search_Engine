@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981206.1600.0949 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And a memorial service for Al Gore Sr. Will be held on Tuesday. The 
+former senator and father of vice President Gore died yesterday. 
+</TEXT>
+</DOC>

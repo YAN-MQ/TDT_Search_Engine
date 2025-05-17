@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981224.1600.0110 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+icy, cold weather is disrupting travel plans for many Americans this 
+christmas eve. Many airports across the country are delaying flights 
+causing travelers to spend the night in terminals, and filling up 
+hotels. Sleet-covered roads are blamed for dozens of traffic accidents 
+from the southwest to the east coast. The storm is being blamed for 
+dozens of deaths. 
+</TEXT>
+</DOC>

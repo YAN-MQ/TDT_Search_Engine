@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981224.1130.0491 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your CNN Headline News Weather begins with your forecast 
+weather for this evening. Snowfall for the mid-atlantic states. Parts 
+of the New England states will begin to see the effects of this storm. 
+Along the coast we believe it will be in the form of rain. You won't 
+have to move very far inland before you see snowfall. New York may 
+see snowfall, Philadelphia could see some rather heavy snowfall. You 
+see that area of precip station moving out into the atlantic. Another 
+big storm rolls in through the northwest. Meanwhile much of the nation 
+will remain cold. Take a look at our forecast for high temperatures 
+today, still quite chilly throughout much of the U.S. your extended 
+forecast calls for the temperatures to continue to moderate as we 
+head on through the weekend. You can see the precip station in in 
+northeast and the heavy rain expect notice the great northwest. As 
+we head into Sunday, snow showers are possible in the Great Lakes 
+area. Temperatures are rather warm. As we head on into Monday, you 
+can see snow in the Great Lakes area. 
+</TEXT>
+</DOC>

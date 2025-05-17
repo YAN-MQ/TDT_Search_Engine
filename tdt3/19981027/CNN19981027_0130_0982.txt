@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981027.0130.0982 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street began the week on a down note. The stock exchange stalled 
+Monday because of a communication's problem. Trading began about an 
+hour later. 
+</TEXT>
+</DOC>

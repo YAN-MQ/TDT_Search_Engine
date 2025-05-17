@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> NYT19981121.0098 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Terry Nichols has asked the federal appeals court in Denver for a 
+new trial in the Oklahoma City bombing, contending that the federal 
+judge who presided over his case erred at both his trial and his sentencing. 
+Last December, a federal court jury in Denver convicted Nichols, 43, 
+a military-surplus dealer, of conspiring with his former Army buddy, 
+Timothy McVeigh, to bomb the Oklahoma City federal building, where 
+168 people died on April 19, 1995. Nichols was also convicted on eight 
+counts of involuntary manslaughter in the deaths of the eight federal 
+law-enforcement agents killed in the bombing. In June, Judge Richard 
+Matsch of U.S. District Court in Denver sentenced Nichols to life 
+in prison and ordered him to pay the General Services Administration, 
+which manages federal properties, $14.5 million in restitution for 
+the destruction of the building. Nichols' lawyers, Michael Tigar, 
+Susan Foreman and Adam Thurschwell, filed their brief in the appeals 
+court on Thursday. They contended that Matsch erred in the instructions 
+he gave the jurors, in the testimony he permitted and in his interpretation 
+of federal sentencing guidelines. The judge erred, they contended, 
+when he told the jury that Nichols' responsibility for the deaths 
+of people killed as a result of the bombing conspiracy did not depend 
+on proof that he intended to kill anyone. An intent to kill, Nichols' 
+lawyers argued, is a necessary element in the offense. The jurors 
+who convicted Nichols of conspiracy acquitted him of blowing up the 
+building and of first- or second-degree murder in the deaths of the 
+officers. Nichols' lawyers also contended that Nichols should have 
+been sentenced under federal guidelines for arson and property damage, 
+not first-degree murder, and that the order for restitution was punitive 
+and ignored Nichols' inability to pay. 
+</TEXT>
+</DOC>

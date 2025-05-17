@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981205.1600.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And astronauts aboard space shuttle "endeavour" are preparing the 
+American module of the international space station for a rendezvous 
+with the Russian component. Construction begins tomorrow. 
+</TEXT>
+</DOC>

@@ -1,0 +1,258 @@
+<DOC>
+<DOCNO> NYT19981110.0258 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A specter is haunting the music business: the prospect of listeners 
+getting the music they want directly from the Internet, free of charge. 
+Right now, all it takes to make a recording executive nervous is the 
+mention of MP3, a powerful piece of software that allows users to 
+zap music all over the Internet, unchecked and untithed. For utopians, 
+MP3 is a way to liberate music from the clutches of gatekeepers and 
+profiteers, and perhaps to return music to its intangible essence. 
+But the recording business sees MP3 as a Pandora's box of copyright 
+destruction, unleashing anarchy and piracy while robbing musicians 
+of royalties and record labels of capital. In effect, both sides are 
+correct. There's bound to be serious legal scuffling between people 
+who own copyrights and people who believe in the hacker credo that 
+information wants to be free. Yet recorded music is considerably more 
+than a corporate revenue source, and the implications of digital distribution 
+go far beyond the particulars of software and gadgets and royalty 
+collection. For listeners, music has never been about its physical 
+form, but about what's in the grooves or magnetic particles or digital 
+pits; it's the information, not the plastic. Digital distribution 
+can turn that sentiment into a reality. And that shift could alter 
+the way music is made, released, sold, stored and valued. It will 
+affect everyone from listeners to musicians to record-store clerks 
+to manufacturers of CD shelves, and it will certainly disrupt the 
+routines that have grown over a century of recorded music. It means 
+listeners can have more choices while musicians may get away with 
+making fewer of them. It means recorded music will be more accessible 
+but also, perhaps, less respected and inviolable. Music that isn't 
+in solid form may just not seem as significant as those antique CDs. 
+It could move closer to the spontaneity of live performance, but it 
+will also demand less of a commitment. Instead of a lifelong companion, 
+music could be a one-click stand. Music has been inextricable from 
+technology from the moment someone tapped together two particularly 
+resonant sticks. And in the last century, the technology of recorded 
+music _ microphones, cylinders, 78-rpm disks, LPs, cassettes, CDs 
+_ has affected everything from the length of songs to the lineup of 
+ensembles to the environments that music is made for. Where would 
+psychedelia be without headphones or hip-hop without booming car stereos? 
+The way music reaches the public also affects its development, because 
+listeners as well as musicians are shaped by what they get a chance 
+to hear; in the past, that often meant songs geared above all to the 
+perceived needs of radio programmers. The Internet has already changed 
+the prospects for listeners who might once have been condemned to 
+the offerings of a local Top 40 radio station, MTV and a few stores 
+at the mall; now, Internet radio stations offer a world of options. 
+In the past, purchasing music has been a more serious undertaking 
+than simply tracking it down. High CD prices discourage people from 
+owning music they might have liked, even if they can find the recording. 
+But digital distribution almost certainly will change the way people 
+buy music. The new model could be like a jukebox, with listeners paying 
+for each song or group of songs they download. Better yet, it could 
+resemble cable television, with subscribers paying a monthly fee for 
+all the music they want to download, and revenues distributed on the 
+basis of popularity. (Of course, with MP3 around, other listeners 
+may just head for free sites and nab what they can.) If monthly subscribers 
+could download a song or an album on a whim _ not just to hear it 
+once but to replay it often enough to understand it _ general listeners' 
+tastes could broaden and budding musicians could learn new vocabularies. 
+The process wouldn't necessarily build new Top 10 hits, which would 
+still need mass broadcast exposure. But it could make all sorts of 
+niche-music purveyors happy. And it would be likely to prove that 
+people's tastes aren't as constricted as radio formats pretend they 
+are. For people with the right kind of equipment, free Internet music 
+is already here. MP3 is just one form of digital distribution of music; 
+the other two widely used methods, called Liquid Audio and a2b, offer 
+more control to the people making the music files available, notably 
+by eliminating unauthorized copies. What makes MP3 appealing, however, 
+is its absence of constraints; it puts users in charge. MP3 (short 
+for MPEG-1, Layer 3) is what computer types call a compression algorithm. 
+It shrinks packages of information, making it practical to send them 
+across the Internet. Computer programs, video clips or songs _ any 
+digital information _ can then be decompressed upon arrival for playback. 
+MP3 is part of Windows 98, and it's widely available from sites on 
+the Internet; it's on its way to ubiquity. While a standard music 
+CD holds 650 megabytes of information, or about 77 minutes of music, 
+using MP3 the entire Beatles catalog can be packed onto one CD-ROM. 
+The watchdogs at the Recording Industry Association of America have 
+found such a disk offered for sale, a blatantly illegal bootleg. Still, 
+MP3 music isn't by definition illegal. One enterprising company, MusicMatch 
+Inc., has packed 152 songs from independent (read: mostly unsigned 
+and eager for attention) bands onto a CD-ROM that's perfectly legit. 
+But the wider significance of digital distribution is that the actual 
+CD-ROM will be unnecessary. (Think of the ecological benefits of having 
+fewer plastic CD's or cassettes in the world.) Try an Internet search 
+for ``MP3'' and your favorite band, and you're likely to turn up MP3 
+songs just waiting to be downloaded directly to your hard drive. Listen 
+to them, save them or erase them; it's no big deal. Some may be concert 
+recordings or other rarities, while others come directly from commercial 
+CDs, processed through MP3 programs that are delicately named ``rippers.'' 
+At the moment, most home computer users still find MP3 unwieldy; even 
+compressed songs take considerable time to download through ordinary 
+telephone lines and modems. But on college campuses and other places 
+where computers hook up to the Internet through fast T-1 connections, 
+music via MP3 is a fact of life. The rest of us will have to wait 
+until we get cable modems, which speed up Internet connections. For 
+the recording business, true panic set in when a company named Diamond 
+Multimedia announced it was bringing out a portable MP3 player this 
+month for about $200, the same price as the first Walkmans. Instead 
+of carrying around a computer for playback, MP3 users will have a 
+pocket-size gadget; input the MP3 files and hit the highway or the 
+beach. The recording-industry association obtained a temporary restraining 
+order on the MP3 player, charging that it was a bootlegging machine, 
+but the manufacturers prevailed in a higher court by arguing that 
+it's only a playback device, not a recorder. Sooner or later, the 
+hardware won't matter. Digital players _ whether they use MP3 or some 
+other format _ will be in people's pockets, and songs will be instantly 
+available. Digital distribution is likely to revolutionize the economics 
+of the music business. Some advantages of large recording companies, 
+like their centralized manufacturing and distribution and their domination 
+of retail display space, vanish if the Internet becomes the main outlet 
+for music. With current mail-order Internet stores like CDnow, an 
+album on Kill Rock Stars Records can already have the same visibility 
+as one on Columbia or Atlantic. Of course, without the cost of manufacturing 
+a recording and getting it to a store, music could also be made available 
+at lower prices. But that would cut profits. Record companies fear 
+that with boundless free music around, people are going to be less 
+willing to pay $17 for 10 songs on a CD. Their worries may be slightly 
+exaggerated. Up to a point, people don't shop for music like buying 
+groceries; people are looking for a specific performer and a specific 
+song; they won't change brands for a better price. But if superstar 
+albums can be duplicated and sent over the Internet via MP3, with 
+no way of collecting royalties or profits, who's going to finance 
+the next million-dollar recording projects and video clips? Expect 
+recording companies to push their music even harder for soundtracks, 
+commercials and other uses that will generate licensing fees upfront. 
+And expect the more greedy musicians to start thinking ``hit jingle'' 
+as well as ``hit single.'' As the recording companies have contended 
+since the introduction of the analog cassette, unauthorized copying 
+could leach away the investments that record companies have typically 
+made in musicians and marketing. The companies' edge, in the past, 
+was that their product offered higher recording quality, better packaging 
+and more convenience. But digital copies are indistinguishable from 
+originals. If one is available from Capitol Records for full price 
+and another is available free from, say, www.piratetunes.com, even 
+a band's most dedicated fans may be torn. With free copies available, 
+legally or illegally, there's increased pressure to make music more 
+affordable; a fan might be willing to support a performer for 75 cents 
+a song, but not for $1.50. At least one company, GoodNoise, has decided 
+to sell music as MP3 files for a low price, figuring that it will 
+be paid for the first copy, if not the rest. It's following the model 
+of computer software makers, who have grown resigned to having their 
+programs passed around. Record labels could continue to offer music 
+from their roster before anyone else had it, and they could present 
+themselves as reliable sources, free of viruses and true to the performers' 
+wishes. (There's plenty of computer software around for making music, 
+which could lead to all sorts of edited, bowdlerized and brutalized 
+versions of songs. Why don't we remove that Mariah Carey vocal and 
+substitute my cousin? Or her cat?) Many albums now reach their highest 
+position on the charts the week they are released, and companies could 
+hold on to that part of the market. They could also remind fans that 
+legitimate releases support the musicians who made them, appealing 
+to conscience or loyalty. Another primary function of record companies 
+is promotion: advertising, publicizing, getting music played on radio 
+and television and subsidizing bands on the road. That kind of clout 
+will remain important, especially as choices proliferate. Popular 
+music needs stars, who shape and share a culture's fantasies while 
+they contribute to the bottom line. One of the genuine pleasures of 
+popular music is knowing that you're not the only one listening to 
+a hit but part of a figurative community of fans who all have something 
+in common, even if it's just liking the way Scary Spice dances. Digital 
+distribution, by providing many more choices, could well affect the 
+magnitude of pop stardom the way competition from cable television 
+has affected the audience for network television. But the craving 
+to be part of a phenomenon won't go away. While many listeners will 
+be able to delve into niches, the mass market that creates hits (which 
+in turn subsidize projects like recording the classical repertory) 
+is used to having music sorted by MTV and radio programmers. Amid 
+a bewildering number of options, the record companies that can draw 
+attention to their releases will still have an edge. With digital 
+distribution, musicians at two extremes of the business _ steady-gigging 
+live bands and established superstars _ could choose to bypass recording 
+companies entirely. Those whose music is based on live performance 
+rather than studio assemblage can record cheaply and quickly; those 
+who have already bought mansions and soccer teams could finance their 
+own studio time instead of getting advances from recording companies. 
+Either way, they could simply place their music directly on the Internet, 
+as many grass-roots musicians have already done. (Not using other 
+people's money for recording could have another side effect: cutting 
+down on studio time and budgets.) Some musicians might put the music 
+out free to make themselves known to fans, to entice people to buy 
+concert tickets and T-shirts or just for the fun of being heard. Recording 
+music, already a do-it-yourself operation for many musicians, could 
+become synonymous with releasing music to the world. That, in turn, 
+could create a flood of 10th-rate material, doing for music what Internet 
+bulletin boards and chat rooms have done for literature. When musicians 
+had to depend on record companies to get their efforts to the public, 
+they had to convince other people that their tunes were worth preserving 
+and marketing. Recording companies are notorious for missing innovations 
+and pressuring musicians toward last week's commercial directions. 
+But they're not all bad. Despite the amount of junk they release, 
+they also perform useful reality checks, winnowing the vast numbers 
+of hopefuls and helping musicians make the transition from basements 
+or clubs to recordings that bear up to repeated listening. Recorded 
+music and live music work differently; the whiz-bang thrills of a 
+live punk band, for instance, may seem unsubtle and even monotonous 
+the fifth time through. For every musician like the Artist (formerly 
+known as Prince), who comes up with more good music than a traditional 
+record company can handle, there are dozens who should discard more 
+than they do. About 30,000 albums are already released every year 
+by record companies large and small. Imagine how much music would 
+emerge if no one was writing rejection letters. As releasing music 
+becomes a casual decision, the length of those releases will turn 
+unpredictable. We're used to thinking that music comes in two sizes 
+_ songs and albums _ but digital distribution brings more flexibility. 
+The limitations of Edison disks shaped the three-minute pop song; 
+the necessity of flipping over an LP built the habit of programming 
+an album in two parts. In the long run, the album is also a technological 
+artifact, an artistic unit engendered by physical limitations. When 
+music is downloaded, packages no longer have to be uniform. Musicians 
+might release a song, or three, or 53, on any schedule; they could 
+put out a song the day it was recorded. They could release collections 
+like commercial versions of albums and, simultaneously, as the musical 
+equivalent of director's-cut films. Musicians could also stop making 
+a lot of tough decisions. They could offer alternate versions of songs; 
+they could record every show of a tour, digitize it and encourage 
+fans to assemble their own sets. (Somewhere on the Internet, Phish 
+fans are probably doing that right now.) But with digital distribution, 
+musicians could no longer govern the package that listeners receive. 
+Some fans would want everything, including what used to be obscure 
+B-sides from singles and alternate versions; others would just click 
+on to the hits, ignoring a band's less commercial efforts. Downloaded 
+music would encourage listeners to build their own programs _ album-length 
+or not, one performer or many. Listeners might riffle through a performer's 
+whole career or pick through a favorite genre or put together an assortment 
+of old and new hits. Current record companies that have been heavily 
+pushing soundtrack albums are already training listeners to concentrate 
+on the immediate pleasure of a hit song rather than taking the time 
+to get to know a musician's full scope. Listeners could also reshuffle 
+their music at whim, since no collection would have to be permanent. 
+If a song is always available electronically, there's no need to hold 
+on to a CD. With full-scale digital distribution, the Internet itself 
+becomes a music library, and home shelves can be emptied. Listeners 
+could download what they want, listen to it as long as they're interested, 
+and move on. Music would stop being something to collect, and revert 
+to its age-old transience: something that transforms a moment and 
+then disappears like a troubadour leaving town. But there's a tradeoff 
+for the convenience; the music might seem disposable. Musicians could 
+soon come to miss the kind of sustained attention that fans used to 
+give to a brand-new album, playing it repeatedly from start to finish. 
+Downloaders have short attention spans, and like other Internet phenomena, 
+digital distribution is a temptation to surf. The notion of some centralized 
+music archive, out of listeners' hands, is not entirely reassuring. 
+There are dire possibilities of surveillance; I could always pay cash 
+at a record store for a Barenaked Ladies album, but I certainly wouldn't 
+want some Internet monitor to know that I was downloading it. Meanwhile, 
+what happens when a control-freak musician decides to erase his inspired 
+but erratic early recordings, or some bureaucrat gets a court order 
+to delete all the gangsta rap? At that point, the anarchic copying 
+and free circulation allowed by MP3 become a blessing. Somebody is 
+bound to have the missing songs tucked away on their computer, ready 
+to be resuscitated and out of any company's control. Other entertainment 
+moguls may be quietly gloating over the music business' digital quandaries. 
+They shouldn't get too comfortable. After all, movies are next. 
+</TEXT>
+</DOC>

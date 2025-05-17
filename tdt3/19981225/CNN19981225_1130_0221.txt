@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981225.1130.0221 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New Jersey investigators say bad weather may have helped cause a fatal 
+bus accident on the garden state parkway. Police say eight people 
+were killed yesterday when a bus traveling from New York to Atlantic 
+City spun off the road hours after a snowfall. 16 people, including 
+the driver, were injured. 
+</TEXT>
+</DOC>

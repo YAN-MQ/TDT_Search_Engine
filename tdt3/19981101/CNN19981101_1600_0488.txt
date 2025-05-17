@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981101.1600.0488 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Scientists are racing to develop a shield to protect satellites from 
+a Severe meteor storm. The Leonid meteor storm happens every year 
+in mid-November. But this year and next year are expected to be more 
+intense than usual. That could put telecommunications satellites at 
+risk, so researchers at the university of Denver are developing a 
+shield of aluminum foam. The Leonid showers last hit their peak in 
+1966, but very few satellites were in orbit then. 
+</TEXT>
+</DOC>

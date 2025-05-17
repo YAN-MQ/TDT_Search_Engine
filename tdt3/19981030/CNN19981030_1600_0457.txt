@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981030.1600.0457 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tropical storm Mitch is hovering over Honduras, causing floods throughout 
+central America. Mitch dumped two feet of rain on Honduras in a six-hour 
+period. Its maximum sustained winds have decreased to 40 miles per 
+hour. But forecasters say some areas may get another 25 inches of 
+rain. The storm is blamed for 36 deaths. The U.S. coast guard continues 
+searching for a yacht that disappeared off belize Tuesday with 31 
+passengers on board. 
+</TEXT>
+</DOC>

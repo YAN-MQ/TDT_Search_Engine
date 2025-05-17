@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981207.1130.0503 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+We check your forecast. Temperatures today, it's much cooler back 
+over the northern Great Lakes, and extending in through parts of the 
+northeast, as temperatures fall behind a fairly strong cold front, 
+which will be pushing through by later on this evening. Bringing with 
+it, a chance for some showers along the eastern seaboard and back 
+into the southeast. Another front is sweeping into the pacific northwest. 
+More rain and wind and mountain snows are expected. That snow will 
+be heavy in through the northern Rockies on through tomorrow. It should 
+dry out a bit, though, as high pressure builds into the area as we 
+head on into tomorrow. A look now at the extended forecast -- on Wednesday, 
+we'll find rain showers along the gulf coast. And some rain and mountain 
+snows expected back through the Rockies, as temperatures remain on 
+the cool side over the northern midwest. On into Thursday, rain and 
+thunderstorms through the southern plains. Look for temperatures to 
+be coldest in portions of the Rockies, and warmest in parts of Florida, 
+with forecast high temperatures into the 70s. On Friday, it begins 
+to warm up in the southeast as temperatures remain cold through the 
+upper midwest. For even more weather information, log into CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981124.1600.1011 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+America online has finalize add deal to buy snet escape communications 
+for $4.2 billion. Netscape executives say no layoffs are expected 
+as a a a result of the merger. The deal creates a new industry powerhouse 
+to compete with Microsoft. There is is a -- this is a three-way transaction 
+that includes sun microsystems. They agree to use sun'soff a technology. 
+Netscape shares closing down a little bit more than 2. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981028.0130.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And NASA says there's a 100% favorable weather forecast for the launch 
+of space shuttle "discovery" scheduled for Thursday. Astronaut John 
+Glenn is hoping to become the oldest person in space at age 77. 
+</TEXT>
+</DOC>

@@ -1,0 +1,88 @@
+<DOC>
+<DOCNO> NYT19981023.0069 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+It is hardly surprising that people scratch their heads over a mutual 
+fund like PBHG Advisor Defensive Equity. The fact that it gets 30 
+percent of its returns from options summons up notions of all kinds 
+of derivatives-fueled volatility. Yet the fund, with $51.2 million 
+in assets, is actually a tame offering. Indeed, it has not posted 
+a loss in 20 years. To underscore that safety, the fund changed its 
+name from Optioned Equity two years ago. ``People fixated on the word 
+`option,' '' explained Harindra de Silva, the fund's co-manager, from 
+his downtown Los Angeles office. ``But we use options the way they 
+were originally designed _ to hedge, not to speculate.'' Defensive 
+Equity lost just 6.7 percent between the market peak on July 17 and 
+Oct. 16, compared with losses of 10.1 percent for the Standard &AMP; 
+Poor's 500-stock index and 12.3 percent for the average fund in its 
+peer group of large-cap blend funds, according to Morningstar Inc., 
+the financial publisher in Chicago. But hedging has been a drag on 
+performance during the bull market. In the three years through Oct. 
+16, the fund returned 18.1 percent, versus 24.4 percent for the S&AMP;P 
+and 18.6 percent for the peer group. For such markets, de Silva and 
+his co-manager, Dennis M. Bein, also run the $19.3 million PBHG Advisor 
+Enhanced Equity fund, an unhedged version of its sibling. That fund 
+returned 26 percent for the three years through Oct. 16, versus 24.4 
+percent for the S&AMP;P and 17.1 percent for the peer group, according 
+to Morningstar. (Because of its small asset size, Enhanced Equity 
+is not included in the mutual fund tables of The New York Times.) 
+De Silva, 38, and Bein, 31, began running Defensive Equity in 1996 
+with its original manager, Charles Dobson, who retired this year. 
+The pair use an investment approach derived from the work of their 
+former teacher, Robert Haugen, a finance professor at the University 
+of California at Irvine. ``Most money managers try to pick individual 
+stocks,'' de Silva said. ``We don't believe that works, because the 
+market is too efficient. But we can build a portfolio with the profile 
+of a perfect stock.'' Using a personal computer, stocks are rated 
+by dozens of measures, which fall into five categories. The first 
+assesses value, using measures like price-to-earnings ratios. The 
+second does the same for profitability, using earnings growth rates, 
+among others. The third tracks risk, using factors like volatility. 
+And the fourth measures liquidity, taking note of trading volume and 
+other figures. The screening gets trickier in the final measurement: 
+historical returns. De Silva and Bein seek out stocks whose returns 
+fit a profile that they say points to superior future returns. Ideally, 
+they look for a stock with a poor one-month return, which suggests 
+that the shares will be relatively cheap; a strong one-year return, 
+indicating good price momentum, and a poor five-year return. ``That 
+adds a contrarian flavor,'' Bein said. Key to the discipline is that 
+they need not find ``perfect'' stocks that fit each ideal parameter. 
+Instead, they require only that their total portfolio's blended average 
+does so. How do they put it all together? By using what they call 
+an optimization process that crunches the data they collect to build 
+a portfolio of 70 to 100 names from the S&AMP;P 500 that together 
+have such ideal characteristics. Consider a sampling of different 
+measurements from three of its top stocks as of Oct. 16. On that date, 
+American International Group had a P/E of 23.3 and per-share earnings 
+growth of 14.1 percent. The stock lagged the S&AMP;P 500 by 1.1 percentage 
+points over the last five years and by 3.7 percentage points for the 
+12-month period _ the latter return indicating bad price momentum. 
+Ameritech had a P/E of 15.38 and per-share earnings growth of 29.2 
+percent. It's stock beat the S&AMP;P 500 by 24 percentage points during 
+the last 12 months and 3.3 percentage points during the last five 
+years _ the high five-year return indicating bad contrarian potential. 
+Throw in McDonald's, with a P/E of 27.03 and per-share earnings growth 
+of 7.6 percent _ a sign of poor growth prospects. It lagged the S&AMP;P 
+500 by 6.7 percentage points over the past five years, but beat it 
+by 7.2 percentage points over 12 months. The weighted average of these 
+three stocks stacks up quite attractively against the S&AMP;P 500. 
+The three stock portfolio has a P/E of 22.4 percent versus the S&AMP;P 
+500's 32.64 percent, indicating better valuation. Per-share earnings 
+growth is 16 percent, better than the index's 11.4 percent. The portfolio 
+lagged the S&AMP;P 500 by 2 percentage points over the past five years, 
+giving it a strong potential for rebounding, but beat it by 9 percentage 
+points over the last 12 months, indicating strong price momentum, 
+Bein said. How do de Silva and Bein take advantage of options? The 
+two managers write, or sell, call options, which give purchasers the 
+right to buy stock at an agreed-upon price, called the strike price, 
+within a certain time, from less than a day to several years. The 
+managers make money if the stock price stays flat or moves no higher 
+than the strike price _ a simple defensive play. Think of the option 
+income as steady dividend payments, Bein said. ``It's like a high 
+dividend-paying stock fund, without the vulnerability of owning a 
+big chunk of utilities stocks,'' he added. The fund's front-end load, 
+or sales charge, of 5.75 percent will be waived indefinitely starting 
+Monday. 
+</TEXT>
+</DOC>

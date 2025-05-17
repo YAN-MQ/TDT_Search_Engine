@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981024.0130.0976 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Eight was an unlucky number for Wall Street Friday. After seven straight 
+days of gains, the Dow Jones industrial average closed down 80 points 
+at 8452. The blue chip index was up 35 points for the week. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981103.1600.2920 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+A monthly index of leading economic indicators in the United States 
+was unchanged in September. Analysts say that probably means slower 
+growth ahead but no danger of a recession. 
+</TEXT>
+</DOC>

@@ -1,0 +1,105 @@
+<DOC>
+<DOCNO> NYT19981126.0245 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For four years, children who visited the Cyberkids Web site have found 
+puzzles, interactive stories and other activities intended to appeal 
+to the 7- to 12-year-old crowd. But lately, the young visitors have 
+encountered a new and decidedly less playful feature: a consent form 
+that must be downloaded, copied, signed by mom or dad and mailed to 
+Cyberkids before the children can join in certain activities, like 
+entering contests or using chat rooms. It is intended to let the publishers 
+of Cyberkids know that parents approve of their children's taking 
+part in features in which the child might disclose such personal information 
+as an e-mail address. Although Julie Richer, president of Able Minds 
+Inc., the San Francisco company that publishes Cyberkids, is not completely 
+happy about the form, she posted it because she wants to comply with 
+a federal law that has yet to take effect but is already shaping children's 
+online experience. The new law, the Children's On-Line Privacy Protection 
+Act of 1998, quietly entered the books last month, when President 
+Clinton signed the budget bill. It seeks to protect children's privacy 
+by requiring, with a few exceptions, that commercial Web sites aimed 
+at children obtain parental permission before collecting personal 
+information, like names, addresses, phone numbers or Social Security 
+numbers, from children under 13. It is separate from a similarly named 
+law, the Child On-Line Protection Act, which is intended to shield 
+children from commercial pornography. That recently passed law is 
+being challenged on First Amendment grounds by a group of free speech 
+advocates and Web publishers in a lawsuit that recently led a federal 
+judge in Philadelphia to block its enforcement temporarily. Whatever 
+happens with the pornography statute, some believe that the privacy 
+law could exercise a greater influence on what children see and interact 
+with online. Kathryn Montgomery, president of the Center for Media 
+Education, a public interest group in Washington, said: ``I really 
+believe the online privacy bill will have the most impact on children's 
+online experience, because it will help guide the development of this 
+online media culture for children. It focuses on content and services 
+directed at children, rather than focusing on what is not intended 
+for them.'' Ms. Montgomery hailed the law for protecting children 
+from online marketers who otherwise might be tempted to use showy 
+contests, animated cartoon characters and the like to extract information 
+that parents would rather keep private. But businesses are worried 
+about the law's unanswered questions, many of which will be taken 
+up as regulators begin drafting the rules for how the statute is to 
+be carried out. The law does have the backing of some major industry 
+players, among them America Online, which has a children's section, 
+and Time Warner Inc., which has a site aimed at children. In a statement, 
+Arthur Sackler, a Time Warner vice president, said the law was ``a 
+compromise produced by the interested parties and not without some 
+pain to business.'' But he said he believed that commercial Web site 
+operators thought that regulation was important ``for that special 
+age category.'' Privacy advocates have raised different concerns about 
+the law. Marc Rotenberg, executive director of the Electronic Privacy 
+Information Center, a privacy advocacy group in Washington, favors 
+online privacy protections for adults, too, and would have preferred 
+legislation based not on parental consent, but on the idea of privacy 
+for all. The bill was passed in part in response to a survey by the 
+Federal Trade Commission this year. After examining 212 children's 
+Web sites, the regulators found that though 88 percent of the sites 
+collected identifying details from their young visitors, only 23 percent 
+advised them to seek their parents' permission before disclosing the 
+information. The new law helps correct that, said David Medine, associate 
+director for financial practices at the commission. ``It puts parents 
+in control of information collected from young children,'' he said. 
+There is still much about the law that has to be worked out. For one 
+thing, it is unclear when it will go into effect. The law specifies 
+that its effective date can be up to 30 months from the date it was 
+signed. But Medine predicts that commission officials will finish 
+drafting regulations for carrying out the law much sooner, so that 
+the measure could be in force in 18 months. What exactly will be in 
+the regulations is another big question. Among the thorniest issues 
+to be decided is exactly how parents are to provide consent to the 
+Web site operators. When the measure was discussed in Congress, legislators 
+made it clear that consent delivered by regular mail or some kind 
+of online credit card verification scheme would be acceptable. But 
+the most obvious way to give consent online, through e-mail, was viewed 
+with skepticism, in large part because it is easy for a child to send 
+disguised e-mail that seems as if it comes from a parent. Medine said 
+he hoped that by the time the law went into effect, technology would 
+offer a solution, either through digital signatures or another tamper-resistant 
+mechanism that would give an e-mail message the stamp of authenticity. 
+Still, the industry is worried, said John Feldman, a Washington lawyer 
+who represents Web sites that offer children's content. If only slower 
+methods of granting permission, like postal mail, are acceptable, 
+he said, that will put a damper on the very quality that makes the 
+Internet so compelling: its ability to transmit information instantly. 
+Privacy concerns have already had an effect on some children's online 
+selling strategies. Time Warner's Sports Illustrated for Kids Web 
+site used to market the print version of the children's sports magazine 
+by asking children interested in subscribing to submit their names 
+and addresses and other information by e-mail. The e-mail message 
+was followed up by a subscription letter to their parents. That practice 
+changed several months ago, largely in response to privacy concerns. 
+On the Sports Illustrated for Kids site, visitors find a form to be 
+printed out and sent back by regular mail. There has been a price 
+for the change: The number of subscriptions that come from the Web 
+site has fallen about 90 percent, the company says. Ms. Richer, of 
+Cyberkids, wonders if the law will also have an unintended consequence, 
+pushing children into sites meant for more mature audiences, because 
+it will be cumbersome for them to get permission to view some children's 
+sites. ``The government is making it harder for kids to get into Web 
+sites specially targeted for them,'' she said. ``So where are they 
+going to go? Adult sites.'' 
+</TEXT>
+</DOC>

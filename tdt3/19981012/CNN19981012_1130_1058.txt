@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981012.1130.1058 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Disney making a move to boost its presence in cyberspace. "The Wall 
+Street Journal" reports Disney is unveiling a new Internet booking 
+system, which allows customers to make reservations without using 
+a travel agent or telephone operator. Eventually, Disney plans to 
+expand the service to include airline and rental car reservations. 
+That is 17ing shares up 1 3/16 at nearly 25. The company already sells 
+tickets to its theme park on the Internet. 
+</TEXT>
+</DOC>

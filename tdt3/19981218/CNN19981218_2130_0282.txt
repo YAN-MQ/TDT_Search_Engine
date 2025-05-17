@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981218.2130.0282 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now recapping the impeachment proceedings in the house -- after a 
+full day of debate, lawmakers are expected to reconvene early in the 
+morning and take a final vote tomorrow. A CNN head count indicates 
+at least one of the four articles of impeachment is all but certain 
+to pass. And one is all it takes to go to the Senate for trial. 
+</TEXT>
+</DOC>

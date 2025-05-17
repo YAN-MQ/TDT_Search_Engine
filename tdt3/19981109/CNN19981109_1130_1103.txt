@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981109.1130.1103 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street, the Dow is down 85. NASDAQ is losing 8 at 1848. 
+That's "Dollars & Sense." 
+</TEXT>
+</DOC>

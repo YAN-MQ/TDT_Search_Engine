@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981029.0130.0480 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen McGinnis. 
+High pressure is still in control across the southeastern United States. 
+There was also a developing storm system tluen the intwr northwest 
+that promises plenty of snowfall, just in time for the weekend. Another 
+storm system continues to push onshore for the pacific northwest. 
+Chilly temperatures into the great basin, while 70s and 80s prevail 
+from texas, and into Florida as well as South Carolina. In Nome, Alaska, 
+a little rain mixed with snow. 82 for Honolulu. Our forecast is calling 
+for mountain snowfall and showers and thunderstorms in the southwest. 
+On Saturday, the coldest temperatures from Hudson bay into the central 
+plains. Then by Sunday, look for temperatures mostly in the 50s from 
+the pacific northwest, and into the Great Lakes. If it's more weather 
+information you're looking for, log onto CNN.com. 
+</TEXT>
+</DOC>

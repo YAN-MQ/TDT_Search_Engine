@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981014.1130.0447 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Time now for the extended weather forecast. Also ahead -- some basketball 
+fans cry "foul" over the NBA's latest announcement. 
+</TEXT>
+</DOC>

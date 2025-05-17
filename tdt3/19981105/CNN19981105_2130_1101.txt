@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981105.2130.1101 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And if you think your plane is always late, guess again. The department 
+of transportation reports the top-ten U.S. carriers posted an on-time 
+arrival rate of nearly 79% for the month of September, almost 2% better 
+than in August. 
+</TEXT>
+</DOC>

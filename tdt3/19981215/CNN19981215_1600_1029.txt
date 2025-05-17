@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981215.1600.1029 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+America online is breaking into the Latin American market. The world's 
+top Internet service provider is forming an alliance with venezuela 
+Cisneros group to develop Spanish and Portuguese online services. 
+Each company will invest $100 million up front to finance the joint 
+venture. AOL is already the dominant provider in the U.S. and a top 
+player in europe, Japan and Australia. 
+</TEXT>
+</DOC>

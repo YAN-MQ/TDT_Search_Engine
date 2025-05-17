@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981209.1130.0941 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Two "endeavour" astronauts will take a second space walk today. They'll 
+connect two 100-pound antennas to the U.S. component of the international 
+space station. 
+</TEXT>
+</DOC>

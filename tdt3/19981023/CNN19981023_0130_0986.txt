@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981023.0130.0986 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Seven manufacturers of Diesel truck engines have reached a $1 billion 
+settlement with the environmental protection agency. The companies 
+were accused of selling engines designed to fool government clean 
+air regulators. The engines passed emissions tests in the laboratory, 
+but would shut off pollution control equipment when they were operated 
+on the road. Manufacturers sold about 1.3 million of the engines, 
+accounting they say, for about 6% of the vehicle pollution in the 
+U.S. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981025.1830.1017 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane Mitch is now described as a very dangerous storm, and it's 
+getting stronger. Eastern Cuba are under a hurricane warning. Mitch's 
+winds are about 150 miles an hour. 
+</TEXT>
+</DOC>

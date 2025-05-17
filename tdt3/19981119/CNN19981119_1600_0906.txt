@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981119.1600.0906 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+independent counsel Ken Starr is testifying before the house Judiciary 
+committee today at the impeachment inquiry against President Clinton. 
+What was it about the Monica Lewinsky matter that generated the administration's 
+particularly aggressive approach to privileges? The circumstantial 
+evidence suggests an answer -- delay. 
+</TEXT>
+</DOC>

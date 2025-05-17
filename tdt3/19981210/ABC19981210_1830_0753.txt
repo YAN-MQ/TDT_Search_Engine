@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981210.1830.0753 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Fraud in the work place is on the rise again. More than 20% of U.S. 
+companies say they have lost more than $1 million each in the first 
+half of the year. One of the biggest increases comes in workers making 
+false claims to medical insurance. 
+</TEXT>
+</DOC>

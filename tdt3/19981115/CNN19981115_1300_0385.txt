@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981115.1300.0385 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The earth is only two days away from the Leonid meteor showers. On 
+Tuesday, our planet will pass through the tail of the Comet temple-tuttle. 
+For about ten hours, millions of tiny particles in the tail will hit 
+our atmosphere and burn up. There is concern the particles could damage 
+some of the more than 600 satellites in orbit. You have a problem 
+with many satellites have solar panels. And so you can think of if 
+you're in a very intense sandstorm. These little particles can erode 
+away surfaces that shouldn't be eroded away very quickly. But it's 
+hard to say how dense the particle stream is going to be, whether 
+this kind of sandblasting effect is going to be significant or not. 
+The bottom line is, we don't know. The best view of the celestial 
+show of light streaks and shooting stars is expected to be over parts 
+of Asia. 
+</TEXT>
+</DOC>

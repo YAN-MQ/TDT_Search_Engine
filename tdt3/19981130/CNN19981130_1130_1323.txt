@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981130.1130.1323 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There was a wacky ending to New England's wild 25-21 win over Buffalo. 
+The bills had the game locked up, until a 25-yard pass interference 
+call gave the Patriots the ball at the Buffalo one with no time left. 
+Since a game can't end on a defensive penalty, drew Bledsoe used the 
+extra play to loft a game-winning td pass to Ben coates. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981114.1600.1309 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Led by Sammy Sosa, the major league all-stars shellacked their Japanese 
+counterparts, 9-0, Saturday in Tokyo. Sammy went 4 for 4 with a three-run 
+blast. The win, the fourth in six games, clinches the seven-game exhibition 
+in japan. 
+</TEXT>
+</DOC>

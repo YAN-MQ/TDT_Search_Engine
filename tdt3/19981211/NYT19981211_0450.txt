@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> NYT19981211.0450 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial for Saturday, Dec. 12: The 
+choice of a judge for the state's highest court is among the most 
+important decisions a governor makes. This week Gov. George Pataki 
+chose well, nominating Albert Rosenblatt, a widely respected New York 
+state Appellate Division judge to a seat on the state's Court of Appeals. 
+Pataki's harsh attacks on the court during his first term for decisions 
+he viewed as too sympathetic to the rights of criminal defendants 
+raised concern he would appoint blindly pro-prosecution judges. But 
+in selecting Rosenblatt as his second appointment to the seven-member 
+bench, Pataki opted for a moderate whose background includes stints 
+as a Dutchess County prosecutor and as the state's chief administrative 
+judge. Though more conservative than Justice Vito Titone, the fierce 
+defender of civil liberties he is to replace, Rosenblatt has produced 
+a string of well-written opinions that suggest a thoughtful approach 
+not captive to any rigid ideology. Rosenblatt's imposition of the 
+death penalty in 1983 under provisions of the state's old capital 
+punishment statute no doubt helped him gain favor with Pataki, an 
+ardent death penalty supporter. But the judge's regrettable ruling 
+in that case does not necessarily foretell how he will vote 15 years 
+later on issues concerning the state's new death penalty law or other 
+criminal justice matters. While Titone's principled voice will be 
+missed, the selection of Rosenblatt adds a fair and capable jurist 
+to a court that decides the vast majority of its cases by unanimous 
+decisions. 
+</TEXT>
+</DOC>

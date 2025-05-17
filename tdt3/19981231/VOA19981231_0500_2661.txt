@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981231.0500.2661 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now. We're broadcasting live from Washington. I'm 
+Paul Westpheling on this New Year's Eve 1998. 
+</TEXT>
+</DOC>

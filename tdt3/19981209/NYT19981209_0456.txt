@@ -1,0 +1,108 @@
+<DOC>
+<DOCNO> NYT19981209.0456 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Extreme summer heat and humidity of the kind most threatening to health 
+have become more frequent in the United States over the last half 
+century, two federal researchers say. According to their study, in 
+Thursday's issue of the journal Nature, the frequency of extremely 
+hot, humid days and of heat waves lasting several days increased substantially 
+from 1949 to 1995. In terms of the threat to health, however, another 
+finding was especially significant: The trend was stronger at night 
+than in the daytime. Many experts say that extremely high temperature 
+and humidity over successive nights is a crucial factor in heat-related 
+deaths. When nearly 600 people died in a heat wave in Chicago in 1995, 
+for example, many of the deaths were attributed to an unremitting 
+combination of record high nighttime heat and humidity that allowed 
+no respite from daytime heat stress. Some studies have shown that 
+extreme summer heat has more impact on the health of Americans than 
+any other kind of severe weather, and that the elderly are most vulnerable. 
+``If these climate trends continue, they may pose a public health 
+problem, particularly as there are increasing numbers of elderly people,'' 
+wrote the authors of the study, Dr. Dian Gaffen and Rebecca Ross, 
+research meteorologists at the National Oceanic and Atmospheric Administration's 
+Air Resources Laboratory in Silver Spring, Md. The apparent trend 
+toward more extreme heat generally coincides with a warming of the 
+Earth's surface in recent decades, both globally and in the United 
+States. The dominant view among scientists is that at least some of 
+this warming has been caused by emissions of heat-trapping gases like 
+carbon dioxide, which is emitted by the burning of coal, oil, natural 
+gas and wood. The Earth's temperature is projected to rise substantially 
+over the next century, further increasing humidity and making heat 
+waves more frequent and intense. While the increasing frequency of 
+extreme heat and humidity cannot be directly linked to the warming 
+trend, Dr. Gaffen said it was ``consistent with what is predicted 
+in the global warming scenario.'' Thomas Karl, director of the National 
+Climatic Data Center, agreed. ``I think these are the types of conditions 
+that will become more frequent and more intense when they do occur'' 
+if the climate warms as projected, Karl said. ``We've already seen 
+examples of that this past year,'' he added, referring to last summer's 
+heat wave in Texas. The projected increases in global temperatures, 
+he said, ``would make this rather commonplace.'' By and large, Karl 
+said, the Gaffen-Ross findings ``seem to be consistent with what we 
+know from other analyses.'' He said that if data through 1998 were 
+included in the study, ``I'm sure they would find even stronger trends.'' 
+Worldwide, the last two years have been the two warmest on record. 
+Dr. Gaffen and Ms. Ross had for some time been studying global distributions 
+of temperature and water vapor, and they found an increasing trend 
+of rising humidity accompanying rising temperatures. So, Dr. Gaffen 
+said, they decided to see whether this meant that extremes of heat 
+and humidity were also increasing. They defined ``extreme'' as the 
+highest 15 percent of temperature and humidity measurements, as recorded 
+every three hours around the clock in July and August from 1961 through 
+1990. This threshold, they report, is ``closely correlated'' with 
+levels above which, according to other researchers, human mortality 
+increases sharply. Dr. Gaffen and Ms. Ross analyzed records at 113 
+government weather stations around the country, mainly at airports, 
+in search of information on two variables: the combination of temperature 
+and humidity that meteorologists call ``apparent temperature,'' and 
+temperature alone. Apparent temperature is a measure of the combined 
+impact of heat and humidity on people and the sensation they experience 
+as a result. It is increasing faster than temperature alone, the researchers 
+said, because humidity is increasing faster. This would be expected 
+in a warmer climate, since more water evaporates and the atmosphere 
+can hold more. The researchers computed their thresholds of extremity 
+for the average daily temperature, the daily maximum temperature and 
+the daily minimum temperature for July and August at each weather 
+station. They found that from 1949 to 1995, the annual frequency of 
+days on which the thresholds were surpassed increased at all but 16 
+of the 113 stations. The increases were largest for the minimum ``apparent 
+temperature,'' which basically translates to a measure of combined 
+nighttime heat and humidity. At some stations, Dr. Gaffen and Ms. 
+Ross found that over the half century, the number of nights with extremely 
+high apparent temperatures doubled, to about 18 days a year from about 
+9 days a year in some places. The largest and statistically most significant 
+trends were found to occur in some of the nation's most populated 
+areas, especially from the Middle Atlantic States south to Florida, 
+as well as along the West Coast and in big cities in the Southwest. 
+Eight of the 15 cities in which the trend was most pronounced were 
+in the Southeast _ including Miami, which headed the list nationally. 
+Daytime increases were found to be not nearly as dramatic. In fact, 
+the upward trend was statistically significant only west of the Rocky 
+Mountains. East of the Rockies, the apparent temperature increased 
+more than temperature alone. West of the Rockies, where summertime 
+humidity increases are less marked, the trends of the two variables 
+were similar. The investigators defined heat waves as periods of three 
+or four days in which the average daily apparent temperature exceeded 
+the top 15 percent threshold. On average, they found, each weather 
+station experiences 1.7 three-day heat waves and one four-day heat 
+wave a year. In the contiguous United States, the number of heat waves 
+increased by 88 percent from 1949 to 1995. Two caveats have been attached 
+to the study. To some extent, said Dr. Gaffen and Ms. Ross, the rising 
+heat probably reflects increased urbanization; the concrete and asphalt 
+in urban areas absorb and retain more heat than rural areas. But Ms. 
+Gaffen said that most of the trend cannot be explained this way. For 
+one thing, she said, not all the weather stations in the study were 
+in urban areas. For another, the researchers looked for but did not 
+find a correlation between population growth _ a measure of urbanization 
+_ and trends in extreme weather. The other caveat was offered by Dr. 
+Laurence Kalkstein of the University of Delaware, who has long studied 
+heat and health. The threshold of extreme heat adopted by the researchers 
+was not really selected on the basis of the relationship between health 
+and extreme heat, he said. Earlier studies by Kalkstein have found 
+that the threshold at which heat begins to kill people varies from 
+one city to another. ``That's my only disagreement'' with the study, 
+he said. 
+</TEXT>
+</DOC>

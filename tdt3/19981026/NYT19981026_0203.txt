@@ -1,0 +1,124 @@
+<DOC>
+<DOCNO> NYT19981026.0203 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Arne H.W. Larsson's last billion heart beats have made him a medical 
+marvel, a pioneer in one of the great triumphs of cardiology and electronic 
+engineering. Forty years ago this month, Larsson, now 83, became the 
+world's first recipient of an implanted cardiac pacemaker, a battery 
+powered device that electrically stimulated and regulated his dangerous 
+heart rhythms. Since then, Larsson has undergone 25 operations and 
+procedures to replace pacemakers that failed for one reason or another. 
+Over those four decades, pacemakers have become smaller, smarter, 
+safer, more durable and versatile. And implanting the device no longer 
+requires chest surgery. Today, pacemakers function as microcomputers, 
+detecting their own malfunctions, and they are designed in different 
+sizes and forms to suit each patient. Many, like the one Larsson uses, 
+``pace'' only one of the heart's four chambers. But newer models can 
+pace two heart chambers. The costs range from $5,000 to $11,000, depending 
+on the complexity of the model. More than two million people, about 
+half in the United States, from newborns to centenarians, now use 
+pacemakers. For many, like Larsson, they have been lifesavers. I met 
+Larsson and his wife, Else-Marie, in 1973, when he came for a checkup 
+at a hospital in Stockholm and renewed their acquaintance during their 
+recent visit to New York. Larsson, who looks much the same, has sold 
+his engineering business yet remains active and often strolls along 
+Stockholm's rocky shore. As a frequent traveler, he often speaks out 
+about how pacemaker users can lead normal lives. ``I forget I have 
+a pacemaker,'' he said. In 1958, though, things were far different. 
+Scarring from a viral infection had disrupted the normal electrical 
+circuit that links the heart's chambers, and Larsson's heart could 
+no longer contract synchronously. This problem led to potentially 
+fatal fainting spells, known as Stokes-Adams attacks. During some 
+periods, he had to be resuscitated 20 to 30 times a day. For six months, 
+he was confined to bed at a Stockholm hospital, where he was given 
+every drug and therapy known. Nothing worked. In 1958, only a few 
+temporary pacemakers existed. But they were large, stationary machines. 
+Once patients were hooked up, their worlds shrank to the distance 
+covered by rolling tables and extension cords. Plus, they were prone 
+to life-threatening infections along the wires that protruded through 
+the skin. At the time, Dr. Ake Senning, a heart surgeon, and Dr. Rune 
+Elmquist, an engineer at Elema-Schonander electronics company, were 
+trying to use then-new silicone transistors to build a pacemaker that 
+could be implanted in the body. Senning did not consider the experimental 
+device ready for human use. But with each fainting spell, Mrs. Larsson 
+pleaded, ``Make one.'' Senning and D Elmquist rigged a device about 
+the size of a thin hockey puck, and Senning cut open Larsson's chest 
+to implant it. Eight hours later, it failed. In the middle of the 
+night, Larsson went back to the operating room where Senning put in 
+the only backup. The batteries had to be recharged every few hours, 
+but the pacemaker worked, on and off, for three years. ``He was lucky 
+that he had few attacks when the pacemaker didn't work,'' Dr. Olof 
+K. Edhag, a pacemaker expert who was one of Larsson's doctors, said 
+in a recent interview in Stockholm. Of Larsson's 26 pacemakers, the 
+most durable lasted more than six years, from October 1982 to January 
+1989. Larsson's current pacemaker is a Pacesetter model implanted 
+in 1996 and made by a Swedish division of St. Jude Medical in St. 
+Paul, which recently brought Larsson on a promotional tour of the 
+United States. Pacemakers did not gain general acceptance in the United 
+States until the mid-1960s. Dr. Victor Parsonnet, an American pioneer 
+in pacemakers at Newark Beth Israel Medical Center, recalled those 
+days in an interview, ``In the first 10 years, we were up all night 
+and weekends constantly operating to fix broken wires, leaking batteries, 
+exploding pacemakers, runaway devices, you name it.'' Little by little, 
+though, the technology improved. ``Wires don't break much anymore,'' 
+Parsonnet said. ``We never see a leak and almost never see electronic 
+failure. It is a different world.'' But pacemakers still have risks. 
+Serious infections occur in about one in 200 cases, usually through 
+contamination during implantation. About one in every thousand recipients 
+die. An estimated 10 percent of the pacemakers implanted each year 
+must be removed because of infection, product failures or recalls. 
+Removal is risky, even with new laser devices, because the pacemaker 
+tip usually is imbedded in scar tissue and can easily tear the heart 
+as it is pulled out, Parsonnet and Edhag said. Household devices like 
+microwaves and electric blankets generally do not interfere with pacemakers, 
+but cellular telephones using new frequencies can reduce pacemaker 
+reliability, according to the American Heart Association. Edhag, Parsonnet 
+and other experts said they advise pacemaker users not to carry a 
+cellular phone in the breast pocket over the device and to hold the 
+phone over the ear farthest from the pacemaker. The Food and Drug 
+Administration said last month that in the past 10 years it had received 
+44 reports of metal detectors at airports and anti-theft systems at 
+many supermarkets, shopping malls and libraries interfering with the 
+routine function of pacemakers. The federal agency said that doctors 
+should warn pacemaker users to be aware that many detectors are hidden 
+in entrances and exits, to keep a distance from them, and to ask security 
+personnel to use hand held scanners for only brief times or use other 
+forms of search. Developing a pacemaker was long a medical dream. 
+In 1889, for example, Dr. John McWilliam in Aberdeen, Scotland, suggested 
+in the British Medical Journal that repeated electrical stimulation 
+might be used to maintain the heart rhythm in patients with too slow 
+a heart beat. But practical devices had to await development of transistors 
+and modern electronics. In implanting a pacemaker, an insulated wire 
+from the device is threaded through a vein into a heart chamber. Stronger 
+wires now enable most pacemakers to be implanted beneath the skin 
+below the collar bone. Some women prefer the pacemaker to be implanted 
+beneath the breast against the rib cage, although such placement can 
+interfere with mammograms. Today pacemakers can be implanted under 
+local anesthesia by a trained doctor, not necessarily a surgeon. The 
+earliest pacemakers were powered by mercury-zinc and rechargeable 
+nickel-cadmium batteries. They often failed sooner than expected, 
+leading to the emergency replacement procedures that kept Parsonnet 
+and others operating at all hours. Some users died because of battery 
+failure. So the development in 1972 of long-lasting lithium batteries 
+was a boon. Now pacemakers can last from 2 to 10 years, depending 
+on type, and can be monitored by telephone for battery failure and 
+other glitches. Developing a way to prevent leakage of body fluids 
+into the pacemaker was another crucial advance in 1972. About 10 years 
+ago, manufacturers introduced another major product change: pacemakers 
+that could sense the variable patterns of the heart's electrical system 
+and adjust to many body demands. Newer models can automatically provide 
+for a slower heart rate at rest. Now dual chamber pacemakers are used 
+in treating a common abnormal heart rhythm known as atrial fibrillation. 
+Studies are under way to determine whether the devices can also prevent 
+that condition or moderate the symptoms of heart failure. In still 
+another advance, pacemakers are being combined in one unit with other 
+devices such as defibrillators. In the past, patients used two separate 
+devices. The bewildering array of advances has greatly complicated 
+the task of caring for patients with pacemakers. Cardiologists have 
+formed subspecialty groups focusing on pacemakers. ``Pacemakers began 
+as appliances,'' said Parsonnet, ``but they are becoming fully automated 
+machines.'' 
+</TEXT>
+</DOC>

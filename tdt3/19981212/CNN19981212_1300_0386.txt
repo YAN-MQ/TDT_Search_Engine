@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981212.1300.0386 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It could be a year before doctors in Atlanta know whether an umbilical 
+cord blood transplant from an unrelated donor has cured a case of 
+sickle cell anemia. A 12-year-old boy was the recipient of that blood 
+yesterday at Emory university hospital. It's the first time unrelated 
+cord blood has been used specifically to treat that disease. Doctors 
+hope cells found in the cord blood will eventually grow into healthy 
+new bone marrow. 
+</TEXT>
+</DOC>

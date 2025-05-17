@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981130.1830.1745 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Nightly News" for Monday. Tonight on "Dateline," Viagra for 
+women. Does it work? What are the risks? "Dateline" at 10:00, 9:00 
+central. I'm Tom Brokaw. I'll see you back here tomorrow night. 
+</TEXT>
+</DOC>

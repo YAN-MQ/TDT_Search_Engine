@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> APW19981015.0372 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Two passenger jets nearly collided near Heathrow airport last year 
+because of a breakdown in communication between air traffic controllers, 
+a official inquiry reported Thursday. A Virgin Express Boeing 737 
+which had aborted a landing to make a second pass came within 200 
+feet (60 m) vertically and 1,000 feet (300 m) horizontally of a British 
+Airways Boeing 757 which was taking off, said the report by Air Accidents 
+Investigation Branch. The incident on Aug. 28, 1997 was on a cloudy 
+day, shortly after the Virgin jet initiated a missed approach or a 
+``go-around'' _ a procedure carried out when a pilot or controller 
+is not satisfied with the aircraft's approach. Both the air departures 
+controller and the training supervisor failed to tell the air arrivals 
+controller the British Airways jet was airborne, and the latter did 
+not get agreement from air departures before advising the Virgin Express 
+of which path to take. The report said Heathrow's instructions relating 
+to missed approaches were not sufficiently clear, and should be revised. 
+Those changes have already been made, the Civil Aviation Authority 
+said. 
+</TEXT>
+</DOC>

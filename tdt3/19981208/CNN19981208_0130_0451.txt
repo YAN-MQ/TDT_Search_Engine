@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981208.0130.0451 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Winter officially begins in a few weeks, but fall and even spring-like 
+temperatures are still prevalent in the eastern United States. Monday, 
+some parts of Massachusetts received the warmest temperatures ever 
+recorded for the month of December. Anyone wondering where the cold 
+air is should look west. Children in Las Vegas are getting a rare 
+chance to horse around in about an inch of snow. It also snowed in 
+the Phoenix area over the weekend. 
+</TEXT>
+</DOC>

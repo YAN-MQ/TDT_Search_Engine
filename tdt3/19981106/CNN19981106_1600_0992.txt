@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981106.1600.0992 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow industrials ended the trading day and the week on a positive 
+note, climbing about about 60 points. 
+</TEXT>
+</DOC>

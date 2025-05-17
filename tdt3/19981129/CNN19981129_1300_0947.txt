@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981129.1300.0947 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Palestinian authority President Yasser Arafat is visiting the United 
+States. Tomorrow, he's scheduled to meet President Clinton. 
+</TEXT>
+</DOC>

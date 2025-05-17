@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981113.1600.1049 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Dell computer, along with other pcmakers, are predicting a strong 
+holiday shopping season. Today, one economic report indicated they 
+have reason to be optimistic. Overall retail sales jumped 1% last 
+month, with a surge in auto buying leading the way. Wholesale prices, 
+meanwhile, edged up 0.2%, a bit more than economists had predicted. 
+The bond market has shrugged off those reports. The treasury's 30-year 
+issue is little changed now -- the yield at 5.25%. 
+</TEXT>
+</DOC>

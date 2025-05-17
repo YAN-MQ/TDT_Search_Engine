@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> MNB19981125.2100.1002 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the word from Wall Street. Moddest gain for the Dow today. Up 
+13, up to close at 9314. 
+</TEXT>
+</DOC>

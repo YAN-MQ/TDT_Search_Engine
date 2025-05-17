@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981226.1300.1663 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First -- a look at the annual re-enactment of George Washington crossing 
+the Delaware river. Because of a lack of rain, this year's participants 
+were forced to walk. I'm Sachi Koto. This is "CNN Headline News." 
+</TEXT>
+</DOC>

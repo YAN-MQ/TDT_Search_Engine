@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> NYT19981016.0218 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+OK, the Federal Reserve may have been stingy when it cut its short-term 
+interest rate target by only a quarter of a percentage point at its 
+last policy meeting Sept. 29. But on Thursday, just 16 days later, 
+it more than made up for that, slicing off another quarter point. 
+As if to add emphasis to the central bank's message that it is alert 
+to the world's financial problems _ especially that of its banks _ 
+this cut came in between the regularly scheduled meetings of the policy-setting 
+Federal Open Market Committee. Investors were ecstatic. After the 
+afternoon announcement from the Fed, it took the Dow Jones industrial 
+average less than 45 minutes to surge nearly 300 points. The rally 
+continued Friday. And more upbeat news is on its way. The odds are 
+good for more reductions by the Fed in its short-term interest rate 
+target, the federal funds rate on overnight loans between banks. After 
+the last two moves, the Fed funds rate is now 5 percent. But by March, 
+investors are expecting that rate to drop to an average of 4.23 percent, 
+based on the current price for the March Fed funds futures contract. 
+All this is positive. But the signs of world financial distress still 
+abound. Japan is working on banking reform, but its economy is still 
+a mess. Congress has approved more money for the International Monetary 
+Fund, but the United States and its allies still need to agree on 
+new rescue strategies for the IMF. And there are many Wall Street 
+firms and banks that still have big bets on bonds and other investments 
+that have _ or can _ go sour. These problems are reflected in the 
+spreads _ the difference between the yields on U.S. Treasury securities 
+and other bonds, like corporate, mortgage, junk or emerging market. 
+These spreads have surged since the Russian debt crisis. And although 
+they have come down some, they are still quite high. As of Thursday, 
+the yield on emerging markets bonds was 12.22 percentage points above 
+comparable Treasury maturities, according to a J.P. Morgan index of 
+emerging market bonds. That was down from a high of 17.05 percentage 
+points on Sept. 10 but still twice the 6 percentage point spread in 
+July. The spread for American junk bonds, according to a Merrill Lynch 
+monthly index, was at 5.73 percentage points at the end of last month, 
+more than 2 percentage points higher than in June. The spread for 
+investment grade corporate debt was at 1.70 percentage points, higher 
+than it was during the 1990-91 recession. The danger is clear. At 
+these levels, interest rates are strangling the flow of credit to 
+corporations and countries, which cannot afford to borrow. And if 
+banks reduce their risk-taking and curtail their lending, the economy 
+will slow sharply, and could even fall into a recession. The spreads 
+reflect two different worries, said Michael Rosenberg, head of international 
+fixed-income research at Merrill Lynch. ``There is the worry of increased 
+default and a recession coming,'' he said. ``Also, there is the worry 
+that a significant part of the investment community may still be leveraged 
+and has to sell.'' Maureen Allyn, the chief economist at Scudder Kemper 
+Investments, added: ``The new risk is that markets are in control 
+of who gets credit and who doesn't.'' And that may mean so much control 
+has been turned over to the markets that authorities _ like the Fed 
+_ ``do not have the levers to do what they need to do.'' That is why 
+these spreads are an important monitor for investors. Until they shrink 
+back to more normal levels, the chances of an economic slowdown will 
+be much greater. And until they shrink, there will still be a good 
+chance that hedge funds, like Long-Term Capital Management, and some 
+Wall Street firms, as well, will face the kind of losses that, when 
+reported, could trigger a selloff. ``There is no all-clear signal 
+until spreads come in,'' Ms. Allyn said. 
+</TEXT>
+</DOC>

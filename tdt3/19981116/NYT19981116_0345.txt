@@ -1,0 +1,65 @@
+<DOC>
+<DOCNO> NYT19981116.0345 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Microsoft Corp. researchers have developed a software technique that 
+improves the appearance of fonts displayed on color liquid-crystal 
+display screens to a level that approaches the visual quality of text 
+printed on paper. The announcement of the new technology, which could 
+help spawn a generation of portable devices for publishing electronic 
+books and periodicals, was the centerpiece of a presentation by Microsoft 
+chairman Bill Gates on Sunday here at the Comdex computer industry 
+trade show. Gates predicted that the advance would speed the shift 
+from paper to computerized storage and display of information. Because 
+Microsoft's new font software improves the resolution of color flat-panel 
+displays, the kind used by most notebook computers, by as much as 
+300 percent, Gates said he believed that it would foster the acceptance 
+of a new generation of electronic books, or e-books. In the future, 
+Gates suggested, Microsoft might be able to apply the technology to 
+icons and graphics as well as to fonts. The new software, called Cleartype 
+font technology, will be integrated into Microsoft's Windows 98, Windows 
+NT and Windows CE operating systems during 1999, Gates said. Industry 
+executives said that Microsoft was highlighting the new font software 
+to demonstrate its ability to develop new technologies internally. 
+The company, which is now spending $3 billion annually on research 
+and development, has been widely criticized for borrowing technological 
+innovations from competitors. Several technical analysts said Monday 
+that Cleartype echoed earlier work done by Apple Computer Inc.'s co-founder, 
+Stephen Wozniak, in the 1970s. Wozniak obtained a patent covering 
+color and resolution enhancement for the Apple II computer, said Auri 
+Rahimzadeh of Envisioneering Inc., a computer industry consulting 
+firm. Wozniak applied techniques that are similar to those used in 
+Cleartype to color cathode-ray tube displays, he said, adding that 
+the patent had expired. In an impromptu discussion with reporters 
+after his Comdex presentation, Gates said that researchers had been 
+able to take advantage of the fact that color LCD screens have a red, 
+green and blue component for each picture element, or pixel, that 
+makes up the display. By systematically and selectively highlighting 
+specific colors on the edges of characters displayed on a screen, 
+Cleartype software offers the effect of increased resolution. In the 
+past, font and display developers have used a variety of techniques 
+to correct the jagged appearance of small computer-generated text 
+on displays. However, these techniques, known as ``anti-aliasing,'' 
+work by actually blurring or smoothing the edge of a displayed character 
+rather than by sharpening it. The Cleartype technique will work on 
+existing as well as on future higher-resolution LCD displays, but 
+not on the television-like cathode-ray-tube monitors that are used 
+with most desktop computers today. That is because on a standard monitor 
+it is not possible to separate individual red, green and blue components 
+of individual pixels, Microsoft executives said. The impetus for the 
+new Microsoft software technology came about six months ago when Bill 
+Hill, a font researcher, sent e-mail to Gates asking him for a new 
+challenge. Microsoft's chairman directed him to begin working with 
+Dick Brass, a company executive who has been leading a group in Microsoft's 
+research division to develop e-books. Technology was not the only 
+thing on Gates' agenda Sunday night. At the start of his presentation, 
+he acknowledged that this had been ``an exciting year'' and then proceeded 
+to show a video recap of Microsoft mishaps. These included a Justice 
+Department news conference in May announcing a new antitrust suit 
+against Microsoft, a product demonstration that crashed during the 
+announcement of Windows 98, and Gates getting a pie in the face while 
+on a visit to Belgium. After his presentation, Gates declined to accept 
+questions about the antitrust lawsuit under way in Washington. 
+</TEXT>
+</DOC>

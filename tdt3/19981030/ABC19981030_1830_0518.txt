@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981030.1830.0518 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"On the money" tonight, the economy grew much faster than expected 
+in the third quarter of the year. The Gross domestic product was up 
+3.3%. consumer spending was driving the growth, but underlying the 
+very positive numbers was a big slowdown in the amount of money businesses 
+were investing in new factories and equipment. Economists say that 
+could hurt future economic growth. 
+</TEXT>
+</DOC>

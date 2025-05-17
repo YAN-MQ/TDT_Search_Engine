@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981107.1600.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Gusty winds did not prevent the space shuttle "discovery" from making 
+a Smooth landing in Florida this afternoon. The mission marked the 
+return to space of senator John Glenn. 
+</TEXT>
+</DOC>

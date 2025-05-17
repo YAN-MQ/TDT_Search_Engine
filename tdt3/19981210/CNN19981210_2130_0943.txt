@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981210.2130.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The shuttle crew began work on the inside of the new craft today after 
+three days of hooking up the first American and Russian modules. 
+</TEXT>
+</DOC>

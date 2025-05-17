@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981129.1000.0054 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Allow some extra time if you're traveling today. Today is the busiest 
+travel day of the year. Overall, the American automobile association 
+estimates 34 million Americans went somewhere else this Thanksgiving 
+weekend. That's 2% more travelers than last year. The holiday travel 
+period started Wednesday and ends tomorrow. An estimated 28 million 
+Americans are driving, 18 million are flying, one million are taking 
+the bus and 500,000 are using Amtrak. 
+</TEXT>
+</DOC>

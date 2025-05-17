@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981103.1130.0340 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Relief workers are struggling to help the victims of hurricane Mitch 
+in central America. Whole villages were wiped off the map by floods 
+and mudslides in Nicaragua and Honduras. Authorities confirm at least 
+1,300 deaths but fear as many as 7,000 may be dead. The president 
+of Honduras says his country faces a "panorama of death, desolation 
+and ruin." 
+</TEXT>
+</DOC>

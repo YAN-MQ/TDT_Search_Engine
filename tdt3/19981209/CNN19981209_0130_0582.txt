@@ -1,0 +1,42 @@
+<DOC>
+<DOCNO> CNN19981209.0130.0582 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The lights are back on in San Francisco after a blackout crippled 
+the city tuesday. Don Knapp has the story. The lights blinked, came 
+back, then died, and San Francisco came to a sudden stop. 8:17 A.M. 
+pacific time, right in the midst of the morning commute, stalled bart 
+trains, street cars and trolley buses stranded tens of thousands. 
+Cable cars are out of commission. Metro's out of commission. Bart 
+is out of commission into San Francisco. I would say there could have 
+been as many as 30,000 to 40,000 people using metro in the morning. 
+Exactly how many were in the tunnel and in between stations is hard 
+to tell. Dead traffic lights gridlocked much of the city. About 375,000 
+pacific gas and electric customers were without power. It appears 
+at this time that simple human error may have been involved in the 
+outage, then triggered a series of events. PG&E says its own workers 
+may have failed to remove a temporary ground after completing work 
+on this substation in San Mateo county. When they turned the power 
+back on, the lights went out. San Francisco power's supply is especially 
+vulnerable. Unlike most other locations, they get it from three or 
+four different corridors. Because we are at the tip of the peninsula, 
+we receive it from one corridor. While some private office buildings 
+turned to emergency power or brought in generators, San Francisco 
+public schools were on their own. This building, which houses kindergarten 
+through two, has no lights, no electricity, no heat. Kids played outside 
+or sat in darkened schools while teachers improvised. We used all 
+the money, or most of the money from that membership drive to go out 
+to all the stores to buy bread because we did not know whether or 
+not we were going to have lunch. Although airplanes could land at 
+San Francisco international airport, none could get off the ground. 
+It took several hours after power was restored to reset reservations 
+computers and luggage inspection X-Ray machines. By midday, with mass 
+transit systems only partially restored, many commuters decided to 
+write off a bad day and crowded onto ferries out of the city. They 
+really took too long to let us go home. We had to suffer through it 
+for a couple of hours. By late afternoon, the city's two power plants 
+were back up and running, but many were still waiting for their lights 
+to come on. Don Knapp, CNN, San Francisco, California. 
+</TEXT>
+</DOC>

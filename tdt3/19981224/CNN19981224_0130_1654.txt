@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981224.0130.1654 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First, a look at the Christmas tree placed by the Vietnam veterans 
+memorial wall in Washington today. Attached to the tree were letters 
+written by family and friends of americans killed in the war. 
+</TEXT>
+</DOC>

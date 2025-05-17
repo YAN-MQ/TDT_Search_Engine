@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> VOA19981027.1600.2711 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+That square black box next to your car's engine, along with the electrical 
+system it supports, will more than triple its voltage to a whopping 
+42 volts. If a group of researchers from Massachusetts Institute of 
+Technology and/or industry supporters get their way. They are called 
+the MIT Industry Consortium On Advanced Automotive Electrical, Electronic 
+Components and Systems. Well, that name is a mouthful, but its membership 
+is a who's-who of international automobile manufacturers and their 
+electrical components suppliers. Everyone from General Motors, Ford, 
+BMW, Dinler-Benz, and Renault, to Motorola, Bosch, Delfie, Siemens, 
+and Usaki. At a conference in Detroit this week on transportation 
+electronics, members of the 20-company consortium lined up solidly 
+behind the 42-volt standard in a series of engineering presentations. 
+As they had done in a similar conference in Germany two weeks ago. 
+Why a new higher-voltage standard for automotive electrical systems? 
+We asked MIT research scientist, Thomas Kime, a co-director of the 
+consortium. The electrical demand on the electrical system in automobiles 
+is increasing because of new and energy-requiring features, which 
+are found on new automobiles. And what are some of these features? 
+Some of them says Thomas Kime, are creature comforts. Like electrically 
+heated seats. But many of them are more substantive and would significantly 
+enhance engine reliability, power, and cleanliness. For example, electrically 
+controlled valves. If you can actually do valves electrically, then 
+you can vary the valve timing under computer control and maybe get 
+an engine that produces a lot more power for its size and at the same 
+time, runs cleaner. Electrically-actuated valves would open and close 
+more precisely and be less mechanically cumbersome than current systems 
+which are driven either hydraulically, or by push rods contacting 
+the engine's cam shaft. Catalytic converters, which chemically remove 
+harmful pollutants from the engine's exhaust stream, function much 
+more efficiently when their precious metal catalyst are hot. Mr. Kind 
+says electrically heating the catalyst would reduce exhaust emissions 
+during those critical first seconds after the engine has been started. 
+There are also new systems that sort of fit into the safety and comfort 
+arena. Like for example, electrically assisted power steering. Experts 
+believe electric motors would drive power steering systems much more 
+efficiently than the current maze of hydraulic pumps and hoses that 
+are prone to leaks and mechanical malfunctions. So the question now 
+becomes, why a 42-volt standard? Mr. Kime says the reason is safety. 
+Essentially at today's 12-volt level, if you touched the positive 
+terminal of your battery and touched the frame of the car, it is an 
+unthreatening event for the person who does that. We want to retain 
+that. We asked Mr. Kime whether an anticipated push toward total electric 
+vehicles would bypass the need for higher voltage systems serving 
+internal combustion engines. First off, let us recognize that even, 
+if the world goes to all electric transportation, there is going to 
+be a substantial period of transition. If internal combustion goes 
+10 years, you are going to need 42 volts. Personally, I suspect it 
+will go longer than that, but whether it does or not, we need 42 volts. 
+Thomas Kime believes the 42 volt system could be implemented within 
+five to ten years with more expensive, feature-laden vehicles as the 
+first candidates. I am Brian Sislack. 
+</TEXT>
+</DOC>

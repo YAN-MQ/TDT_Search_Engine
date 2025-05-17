@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981211.1600.2880 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Well, hello. The Dow Jones Industrial Average closed down 19 points 
+today at 8821. It was the fourth straight down day. The market actually 
+lost about two percent for the entire week, 195 points. Standard & 
+Poors closed up about 1.44. That's almost unchanged. And NASDAQ showing 
+strength in the technology sector gained 13 points. 
+</TEXT>
+</DOC>

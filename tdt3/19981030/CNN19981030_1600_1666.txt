@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981030.1600.1666 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The latest from outer space is coming up in two minutes. We'll check 
+in with the space shuttle "discovery." I'm Sachi Koto. This is "CNN 
+Headline News." 
+</TEXT>
+</DOC>

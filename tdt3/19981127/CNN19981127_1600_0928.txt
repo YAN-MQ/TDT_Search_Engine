@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981127.1600.0928 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Israeli prime minister Benjamin Netanyahu has cut short a trip 
+to Europe to address a crisis with Lebanon. In the last ten days, 
+seven Israeli soldiers have been killed in southern Lebanon. Hezbollah 
+guerrillas are claiming responsibility. 
+</TEXT>
+</DOC>

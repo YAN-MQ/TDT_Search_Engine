@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981202.2130.0492 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Thursday. We continue to see mild, quiet weather in 
+the southeastern part of the country. A couple of cold fronts will 
+bring slightly cooler temperatures to the northeast and the upper 
+midwest. Out across the west, it remains unsettled -- rain, mountain 
+snow and windy conditions. There could be a few showers or storms 
+through the south plains with an area of low pressure, as well. Thursday's 
+high temperatures -- 30s and 40s in the northwest and northeast. But 
+from southern New England to the southwest, 50s or better, the forecast 
+highs. We look ahead to Friday. Remember, it'll be cool in the northwest, 
+but still mild in the southeast with showers and snow across the west 
+and also some thunderstorms over the middle Mississippi river valley. 
+On Saturday, rain or snow stretch from the northwest to the Great 
+Lakes. Sunday, still cool in the northwest, mild in the southeast, 
+with rain stretching from the northwest to the northeast and down 
+through the mississippi river valley. Could be some snow in the upper 
+midwest. Don't forget -- four-day forecasts, CNN.com. 
+</TEXT>
+</DOC>

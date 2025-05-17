@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981106.1130.0887 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- Hamas is claiming responsibility 
+for a Bombing at a crowded Jerusalem market this morning. The only 
+apparent fatalities are the two bombers. At least 20 people were hurt. 
+</TEXT>
+</DOC>

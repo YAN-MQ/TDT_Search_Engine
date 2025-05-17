@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981120.1130.0997 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Technology stocks in the spotlight. After yesterday's closing bell, 
+lycos reported a less-than-expected quarterly loss of $14.6 million, 
+but that was less than analysts had predicted. Investors are disappointed. 
+This morning, Goldman sachs lowered its rating on Bea systems. Meanwhile, 
+online retailers are hot again today. Amazon.com -- soaring $16 more, 
+-- after declaring a three for one stock split. And making its debut 
+today, computer literacy soaring -- 5 from its initial public offering 
+of $10 a share. 
+</TEXT>
+</DOC>

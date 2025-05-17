@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981110.1600.0343 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Carol Castial, VOA News. This is VOA News Now coming to you from 
+Washington. Along with Tony Riggs, I'm Victor Morales. 
+</TEXT>
+</DOC>

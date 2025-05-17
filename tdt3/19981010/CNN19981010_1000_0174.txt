@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981010.1000.0174 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The house and Senate are also scrambling to approve GOP-sponsored 
+two tax cut bills. Both tax cuts are in the $8.5 billion to $9 billion 
+range. And both extend some expiring tax credits for business. It's 
+just that the two Chambers have yet to agree on the inclusion of certain 
+business tax credits. And the length of the exclusion of agreed upon 
+credits. Both bills also include some tax breaks for farmers. 
+</TEXT>
+</DOC>

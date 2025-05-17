@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> CNN19981121.1130.0619 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Computermakers are doing more to make computers cheaper and simpler 
+while meeting the needs of consumers. Marsha Walton has the story 
+in today's "tech trends." The desktop computer has revolutionized 
+the way we live, work and play. But attendees here at the comdex computer 
+trade show say that box may not be with us forever. The PC as we know 
+it probably is going away and where it's going is, it's going with 
+us. High-tech analyst Cheryl currid says the PC's "smarts" are going 
+to be in smaller hybrid devices. Palm-sized computers, phones that 
+double as fax machines, scanners that can capture data from a page 
+and beam it wirelessly to many other devices. The benefits of so many 
+of these devices, you can be smart when you're not in front of your 
+PC. Analysts say the computer has always been in sync with the needs 
+of the corporate world. But far too often, the computer industry hasn't 
+explored the needs of the average consumer. For the past 20 years, 
+all we've done is bring digital technology to business. We are really 
+are now is an industry starting to do now is take technology and move 
+it to other devices and as a result bring it to the masses. For example, 
+new devices like this web pad, looks a lot more like an etch-A-sketch 
+than a computer. It's wireless, you can roam around the house with 
+it, send E-mail and surf the net. But you won't find spreadsheets 
+or word documents, it's made strictly for personal use. My moment 
+is actually my inspiration. If my mom can't use it, we don't want 
+to build it. For the 2,400 exhibitors here at comdex, the whole idea 
+of computers is changing. We won't just sit in front of them anymore, 
+we will wear them and carry them and let them start working for us. 
+Marsha Walton, CNN, Las Vegas. 
+</TEXT>
+</DOC>

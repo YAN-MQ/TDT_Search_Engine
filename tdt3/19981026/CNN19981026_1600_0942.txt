@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981026.1600.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+John Glenn and his shuttle crewmates have arrived at Florida's Kennedy 
+space center for their Thursday liftoff. The official countdown to 
+Glenn's return to space started this morning. 
+</TEXT>
+</DOC>

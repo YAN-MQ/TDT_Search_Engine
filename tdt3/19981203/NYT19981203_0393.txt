@@ -1,0 +1,51 @@
+<DOC>
+<DOCNO> NYT19981203.0393 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Scientists have discovered why some people who are infected with the 
+AIDS virus have a rapid downhill course, becoming gravely ill and 
+dying within a few years, while most infected people live for years 
+without major symptoms. The key is a gene that acts like a molecular 
+rheostat, turning up or down the activity of another gene that produces 
+a protein the AIDS virus uses as a doorway to enter cells. A normal 
+variant of the rheostat gene turns out to accelerate the onslaught 
+of the AIDS virus in about a fifth of people whose HIV infection progresses 
+rapidly. About one person in 10 has the gene variant, which is described 
+in a report in Friday's issue of the journal Science. As a result, 
+said Dr. Stephen J. O'Brien, the head of the group that discovered 
+the gene's effect, ``if they get infected with HIV, they'll go fast.'' 
+O'Brien is chief of the laboratory of genomic diversity at the National 
+Cancer Institute in Frederick, Md. Scientists say the discovery might 
+help them devise treatment strategies, but not actual treatments for 
+HIV. O'Brien said the discovery's immediate importance was in evaluating 
+AIDS vaccines, because it was important to know a group's genetic 
+susceptibility in deciding if a vaccine slowed the course of the disease. 
+But, researchers say, the result is most significant as a harbinger 
+of the future of disease research. It fleshes out a picture of HIV 
+infections that illustrates how a gene that appears to have no obvious 
+relationship to a disease can determine the outcome of the complex 
+battle between the body, with all its cells and organs, and a disease. 
+``AIDS is leading the way,'' said Dr. Anthony Fauci, director of the 
+National Institute of Allergy and Infectious Diseases. Doctors treating 
+AIDS patients have long been interested in the unpredictable nature 
+of the disease. While, on average, the time from infection with HIV 
+to disease is about 10 years, there are people at either end of a 
+wide spectrum. ``People with HIV come to the clinic and could live 
+for more than 15 years and be healthier than you or I,'' said Dr. 
+Sunil Ahuja, an AIDS researcher at the University of Texas Health 
+Science Center in San Antonio. Or, he said, ``they could die two or 
+three years later.'' With just a few years of concentrated effort, 
+AIDS researchers have discovered genetic variations that normally 
+have no consequence, yet can cause the most striking features of infections 
+with HIV First they found genes that act like ``a molecular condom,'' 
+Ahuja said, protecting people from becoming infected. Then they found 
+genes that determine whether people who are infected will be long-term 
+survivors, those lucky 5 percent of infected people who go for more 
+than 15 years without becoming ill. Now they have a gene that puts 
+people at the other end of the spectrum, making them quickly succumb 
+to HIV. And soon to appear, one group says, is research showing a 
+gene that determines whether an infected woman will pass on HIV to 
+her fetus. 
+</TEXT>
+</DOC>

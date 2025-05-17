@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981124.1600.0954 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More on these stories and other news in 15 minutes. 
+</TEXT>
+</DOC>

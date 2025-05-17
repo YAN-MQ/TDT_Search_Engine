@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981128.0130.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Friday marked the official beginning of the holiday shopping season. 
+Many stores are offering discounts to lure shoppers to the stores. 
+</TEXT>
+</DOC>

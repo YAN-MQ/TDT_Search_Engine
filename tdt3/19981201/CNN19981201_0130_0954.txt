@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981201.0130.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street began the week on a down note. A week after returning 
+to the record books, the Dow Jones industrial average plunged 216 
+points, to close at 9116. Analysts say traders are cashing in on the 
+market's stunning recovery. 
+</TEXT>
+</DOC>

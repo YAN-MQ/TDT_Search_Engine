@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981215.2130.0986 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Citigroup says it is cutting 10,400 jobs. It's part of a restructuring 
+that will cost the financial services company $900 million. The company 
+is attempting to consolidate operations of Citicorp and the travelers 
+group, which merged in October. Citigroup also plans to cut expenses 
+by limiting travel and the use of outside consultants. 
+</TEXT>
+</DOC>

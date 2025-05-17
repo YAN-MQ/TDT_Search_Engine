@@ -1,0 +1,61 @@
+<DOC>
+<DOCNO> NYT19981104.0280 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+I was taught not listen to the radio while I worked. One of the fastest-growing 
+Internet industries, Web radio, is based on breaking that very rule. 
+There are two kinds of Web radio, both of which can be heard via streaming-audio 
+technology. One kind is really ordinary radio that is heard over the 
+Internet. The Web now makes it possible to tune into an out-of-state 
+baseball game or listen to your favorite college radio station without 
+leaving town. The other kind of Web radio was created exclusively 
+for the Internet. Together, traditional broadcasters and Internet-only 
+start-ups offer more than 1,700 audio channels that you can listen 
+to through your computer. ``It's a critical mass of choice,'' said 
+Larry Magne, editor of the original edition of ``Passport to Web Radio'' 
+(International Broadcasting Service, 1997), which describes stations 
+from Texas to Taipei. (An updated edition, edited by David Walcutt, 
+appeared earlier this year.) Web sites like www.broadcast.com and 
+the BRS Radio Directory (www.radio-directory.com) act as portals to 
+thousands of traditional and Web-only stations. Magne said that in 
+traditional broadcast markets, many genres, like classical, are losing 
+out to programming that draws better advertising. The Web provides 
+a broader range of choice. For example, Magne said that Radio Beethoven, 
+a tiny classical station that broadcasts from Santiago, Chile, is 
+one of the best classical radio stations around (www.beethovenfm.cl/RealAudio/ 
+index.html). Many Web-only radio stations were founded on the idea 
+of countering a trend toward less broadcast diversity. Web technology 
+allows stations to offer niche programs. Some are homespun pirate 
+stations or stations devoted to only one band, like www.deadradio.com, 
+which exclusively plays the Grateful Dead. In addition to the many 
+independent stations, there are larger Internet-only networks that 
+offer multiple channels of music and talk. Three of those reviewed 
+here _ Imagine Radio, Netradio and Spinner _ have eliminated audio 
+advertisements and disk jockey chatter. They offer a wide variety 
+of programming and, in the case of Imagine, personalizing programming. 
+But personalized programming has made many record labels and the Recording 
+Industry Association of America worry that Web radio will threaten 
+CD sales. The Digital Millennium Copyright Act, which was recently 
+signed into law, further secures copyright protection on line. While 
+all Web radio stations are required to pay fees to artists through 
+Ascap and BMI, this new legislation will force Web radio stations 
+to pay a licensing fee to record labels as well. The act says customized 
+stations must negotiate individual contracts with all the labels whose 
+artists they play, and it forbids stations to play more than two songs 
+in a row from a single artist in a three-hour period. ``Record companies 
+don't yet understand the power of user customization,'' said John 
+Adams, director of programming for Imagine Radio. ``They have to realize 
+that it can expose new artists and increase record sales.'' To listen 
+to Web radio, you need Real Player, a technology developed by the 
+Real Networks Corp. that enables an audio signal to be ``streamed'' 
+over the Internet. Real Player is available free at www.real.com and 
+takes between 10 and 20 minutes to download. It can also be found 
+through most Web radio portals and networks. If your modem uses dial-up 
+access, Web radio will eat up half your bandwidth, and on any connection 
+slower than an ISDN line, Web broadcasts are accompanied by an AM 
+radio-style buzz. But if choice and control are more important, and 
+if you like the retro charm of the AM buzz, then Web radio can be 
+a listening adventure. 
+</TEXT>
+</DOC>

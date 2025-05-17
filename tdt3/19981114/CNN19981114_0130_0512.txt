@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981114.0130.0512 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News forecast." Continued heavy rain over Washington 
+state and the Texas gulf coast, where we're seeing extensive flooding. 
+We're going to see some snow over the western Great Lakes. Otherwise, 
+beautiful weather across the country. By Saturday evening, the rain 
+exits Texas, moves into the north-central gulf coast, but the rain 
+will continue over Washington state throughout sunday morning. By 
+Sunday morning, we could see some heavy snowfall over New England. 
+Overnight lows, very chilly, we'll see 20s in the desert southwest, 
+warmer temperatures in the southeast and warming up quite nicely on 
+Saturday, with the exception of the northern plains, where we'll see 
+highs in the 30s. Your extend forecast showing rain, wind and snow 
+in the north on Sunday, with thunderstorms over the gulf coast, showers 
+in the northwest, with scattered showers in the east and snow for 
+the Great Lakes. On Monday and Tuesday, showers with windy conditions 
+continue in the northwest, with an icy snow mix in New England and 
+scattered showers throughout the rest of the eastern section of the 
+country. Remember, you can get your four-day forecast for more than 
+7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

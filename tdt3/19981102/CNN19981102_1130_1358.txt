@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981102.1130.1358 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jeff Gordon won Sunday's ac delco 400 and captured the Winston cup 
+title for the third time in four years. Russell Biven, "CNN Headline 
+Sports." 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981104.0130.0983 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tuesday's Wall Street session was all for naught, when the final bell 
+rang, the Dow Jones industrial average finished unchanged at a level 
+of 8706. 
+</TEXT>
+</DOC>

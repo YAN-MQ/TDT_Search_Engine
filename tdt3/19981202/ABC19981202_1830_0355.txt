@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981202.1830.0355 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In some places, the price of gas is now so low that people are paying 
+more in tax than they are for the gas itself. In New Jersey today, 
+stations were selling it for as little as 63 cents a Gallon. More 
+than half of that is tax. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981229.2000.0353 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Derrick Stoffel in the BBC Newsroom in London. You're listening 
+to "The World." 
+</TEXT>
+</DOC>

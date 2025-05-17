@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981023.2000.0227 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, stock prices closed lower with the Dow Jones 
+Industrials Average losing 81 points. The NASDAQ composite closed 
+down by nine. This is NPR News. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981227.1600.0097 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is applauding today's release of new crime figures. 
+He says the survey shows violent crime in the United States fell about 
+7% last year to its lowest level since the report was started 25 years 
+ago. President Clinton issued a statement that says the new figures 
+</TEXT>
+</DOC>

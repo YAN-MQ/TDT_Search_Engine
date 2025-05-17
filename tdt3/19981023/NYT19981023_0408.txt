@@ -1,0 +1,59 @@
+<DOC>
+<DOCNO> NYT19981023.0408 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+True or false: The Federal Reserve's recent interest-rate cuts, and 
+those expected forthwith, will forestall an economic recession in 
+the United States and lower the risk that credit will dry up across 
+the economy. True, said the stock market as it meandered upward last 
+week. In one of the calmest five-day trading stretches in months, 
+the Dow Jones industrial average closed at 8,452.29, up 0.4 percent. 
+The bond market, however, isn't sure that all is well yet. Smoke signals 
+from much of the non-Treasury bond markets say a recession remains 
+a possibility. Moreover, while it is unclear whether banks have stopped 
+lending to good customers, the bond markets are still gripped by catalepsy. 
+And so a credit crisis might start there. Because movements of various 
+fixed-income instruments, like mortgage-backed securities and high-yield 
+bonds, aren't as easily tracked as stocks, what the bond market is 
+saying isn't immediately evident. But one sign of continued fear among 
+these investors is the difference between the yields they demand on 
+junk bonds and those paid by Treasury securities with like maturities. 
+This difference is known as the spread. When investors embrace risk, 
+as they did last spring, spreads between Treasury issues and more 
+speculative debt are narrow. As investors rush into riskier bonds, 
+their prices rise and yields decline. When investors shun risk, as 
+they are now, spreads widen. Despite the Fed's latest reduction in 
+interest rates, on Oct. 15, spreads remain wide by historical standards. 
+The estimated yield on Salomon Smith Barney's index of high-yield 
+bonds exceeds that on Treasuries by 6.82 percentage points, compared 
+with a 5.3-point spread before the rate cut. ``This spread is reflecting 
+a great concern that the economic environment is not very healthy 
+and that, if anything, surprises will be on the downside,'' said Ned 
+Riley, chief investment officer of the BankBoston Corp. Riley agrees 
+with the market and expects corporate earnings to be chronically disappointing 
+for six to nine months. The hefty spread on junk bonds is also a sign 
+that the huge market for these corporate bonds is still frozen. As 
+a result, the credit squeeze that the Fed fretted about when it lowered 
+rates remains a possibility. According to Riley, credit contractions 
+can happen for two reasons. One is a result of restrictive moves by 
+bank regulators. The other is more emotional, with lenders pulling 
+back from loans more out of fear of default than its reality. ``It's 
+the emotional action we have to worry about now,'' Riley said. ``As 
+lenders become gun-shy, they can create a credit squeeze even without 
+monetary authorities being a catalyst.'' Hence the interest in credit 
+spreads. If they narrow, it will mean that lenders are becoming more 
+optimistic about their customers' prospects. If they stay wide, a 
+credit contraction is likely. Both stock and bond investors think 
+the Fed's recent rate cuts, though welcome, are not enough. Indeed, 
+many are hoping for a one-half-point slash in the federal funds rate 
+at the next Federal Open Market Committee meeting in November. These 
+hopes could be dashed. Late last week, several Fed members started 
+telegraphing that further rate cuts were not necessarily a given. 
+In a speech on Thursday, J. Alfred Broaddus, president of the Federal 
+Reserve Bank of Richmond, said said the risk that the economy's growth 
+rate could accelerate _ aka inflation _ hadn't vanished. And, he said, 
+the Fed cannot ``be held hostage'' to the markets on interest-rate 
+policy. The stock market has shrugged this off. So far. 
+</TEXT>
+</DOC>

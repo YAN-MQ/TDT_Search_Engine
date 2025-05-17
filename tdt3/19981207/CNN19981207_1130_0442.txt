@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981207.1130.0442 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Baltimore has a dubious distinction. It leads the nation when it comes 
+to infection rates of gonorrhea and syphilis. The centers for disease 
+control and prevention ranked 20 cities with the highest rates of 
+the sexually transmitted diseases. In Baltimore, gonorrhea infects 
+1 out of every 100,000 people. Nationwide, the rate is 123 infections 
+per 100,000. Following Baltimore is Washington D.C., St. Louis, Rochester, 
+New York and atlanta. When it comes to syphilis, Baltimore also leads 
+the nation with 99 cases reported for every 100,000 people. Memphis 
+and Nashville, Tennessee, follow, with Atlanta and New Orleans tied 
+for fourth. CDC figures show gonorrhea and syphilis cases have reached 
+all time lows in most of the country, with syphilis nearly eradicated. 
+</TEXT>
+</DOC>

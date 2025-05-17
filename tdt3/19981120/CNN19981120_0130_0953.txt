@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981120.0130.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking Wall Street -- the Dow ended higher Thursday, thanks to technology 
+stocks. The Dow Jones industrial average finished up almost 15 points 
+to close at 9056. 
+</TEXT>
+</DOC>

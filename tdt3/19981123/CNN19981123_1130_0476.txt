@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981123.1130.0476 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+Temperatures today, fairly warm most locations for this time of year, 
+even into the 40s over the northern Great Lakes. It will be on the 
+windy side there, though. We watch 60s and 70s back down along the 
+gulf coast in the southeast. Here's your forecast later today on into 
+Tuesday -- we have some wet weather in the southeast today. That will 
+move off shore by tomorrow. Our big storm today is in the pacific 
+northwest with rain and windy conditions along the coast. And then 
+heavier snows will be developing as you head inland into the higher 
+elevations. Extended forecast -- on Wednesday, we'll find rain in 
+the Great Lakes and rain and windy conditions continuing in the pacific 
+northwest. Showers and storms will extend southward into the Mississippi 
+river valley. On Thanksgiving day, it looks like it will rain in the 
+northeast with showers and storms in the southeast. Again, temperatures 
+are fairly mild in most locations. And particularly mild along the 
+front range of the Rockies. Find some showers scattered right on into 
+Friday in the pacific northwest as the rain continues in the northeast. 
+For more weather information, including four-day forecasts for more 
+than 7,200 cities, log into CNN.com. 
+</TEXT>
+</DOC>

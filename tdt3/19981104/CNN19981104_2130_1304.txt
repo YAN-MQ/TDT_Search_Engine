@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981104.2130.1304 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Football news -- and everybody's favorite underdog, Doug Flutie, has 
+been named the bills' starter for the rest of the season. Flutie has 
+led Buffalo to four straight wins to put the bills into a Four-way 
+tie for first place in the AFC east. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981108.1300.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Israeli prime minister Benjamin Netanyahu says construction of 
+a Jewish settlement in a predominantly Arab part of east Jerusalem 
+will continue. 
+</TEXT>
+</DOC>

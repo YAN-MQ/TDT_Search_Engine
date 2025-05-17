@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981116.2130.0425 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First lady Hillary Clinton and French President Jacques Chirac toured 
+parts of central America today to get a firsthand look at the devastation 
+caused by hurricane Mitch. Mrs. Clinton met with U.S. relief workers 
+in Honduras. She says the United States will double aid to central 
+America, bringing total U.S. aid to more than $250 million. 
+</TEXT>
+</DOC>

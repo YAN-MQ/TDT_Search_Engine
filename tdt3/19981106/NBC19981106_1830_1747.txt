@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981106.1830.1747 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Nightly News" for Friday. Don't forget "Dateline" at 8:00, 
+7:00 central. Live coverage of the landing of the space shuttle "discovery" 
+and the return of John Glenn tomorrow at noon on this NBC station 
+and on MSNBC on cable. I'm Tom Brokaw. I'll see you back here Monday. 
+</TEXT>
+</DOC>

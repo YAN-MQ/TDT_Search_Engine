@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981019.2130.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is offering federal assistance to flood and tornado 
+victims in Texas. At least 14 people have died. Three children still 
+are missing. 
+</TEXT>
+</DOC>

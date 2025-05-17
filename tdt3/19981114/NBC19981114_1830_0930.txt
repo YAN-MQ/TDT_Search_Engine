@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981114.1830.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In California today, a pileup, after a truck jackknifed. As many as 
+60 vehicles might have been involved. Early reports indicate at least 
+two deaths and dozens of injuries there. 
+</TEXT>
+</DOC>

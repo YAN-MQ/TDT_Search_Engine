@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981111.1600.0291 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here in the U.S., President Clinton helped honor American veterans 
+by signing new legislation. Before making the traditional speech and 
+laying a wreath at the tomb of the unknowns in Arlington national 
+cemetery, he released $1 billion approved by congress to improve military 
+readiness. He also signed laws that increase veterans' disability 
+payments and extend priority health care to gulf war vets. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981116.2130.0558 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court has rejected a challenge to a case that could have 
+affected election campaigns. In a 1976 ruling, the court prohibited 
+limits on campaign spending in federal elections, citing free speech 
+issues. The city of Cincinnati wanted that decision reviewed, saying 
+unlimited spending gives an unfair advantage to rich candidates and 
+incumbents. But the case was rejected without comment, so no new national 
+precedent was set. 
+</TEXT>
+</DOC>

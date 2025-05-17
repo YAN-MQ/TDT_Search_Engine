@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981217.0130.0983 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The house decision to delay an impeachment vote appeared to ease the 
+troubled minds of investors Wednesday. 
+</TEXT>
+</DOC>

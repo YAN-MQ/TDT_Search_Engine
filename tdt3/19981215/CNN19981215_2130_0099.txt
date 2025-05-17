@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981215.2130.0099 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"Headline News" will have the latest updates. 
+</TEXT>
+</DOC>

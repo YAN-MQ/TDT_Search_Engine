@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981023.0130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Texas, the death toll now stands at 28 after searchers found the 
+body of a 7-year-old who had been in a vehicle that was washed off 
+a road. 
+</TEXT>
+</DOC>

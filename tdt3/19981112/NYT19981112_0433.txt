@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> NYT19981112.0433 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Friday, Nov. 13: The Supreme 
+Court will review an Iowa law this term that gives the police what 
+amounts to blanket authority to search an automobile after issuing 
+the driver a citation for speeding or any other routine traffic violation. 
+The case is important to anyone who cares about civil liberties, and 
+for that matter to anyone who drives a car. Over the past few years, 
+the court has significantly expanded the authority of police in ``traffic 
+stop'' situations. In doing so it has watered down the Constitution's 
+prohibition of unreasonable searches and seizures and granted the 
+police uncomfortably broad discretion to make traffic stops as a pretext 
+to search. The moment has arrived for the justices to draw the line. 
+The Iowa law authorizes police officers to issue a citation ``in lieu 
+of arrest or in lieu of continued custody'' for a variety of offenses. 
+But it also gives officers who issue such citations the same authority 
+to search that they would have if they had made a formal arrest. The 
+idea that police may conduct otherwise unjustified searches incident 
+to issuing a traffic ticket offends the Fourth Amendment's basic requirement 
+of reasonableness. Twenty-five years ago the court validated a practice 
+known as ``search incident to arrest'' as an exception to the ordinary 
+rule that a search must be supported by probable cause, or at least 
+some level of particularized suspicion. But the court's rationale 
+for carving out the exception _ to preserve evidence and to protect 
+the arresting officer's safety _ is inapplicable to a simple speeding 
+violation, for which no one has been taken into custody. At the court's 
+recent hearing in the Iowa case, Justice Anthony Kennedy made an apt 
+observation. Rather than a search incident to arrest, he said, the 
+state was seeking authority for ``arrest incident to search.'' For 
+the sake of civil liberties and constitutional clarity, the justices 
+should reject that backward logic. 
+</TEXT>
+</DOC>

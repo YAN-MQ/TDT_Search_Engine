@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981213.1830.1558 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At the box office, "star trek: insurrection" powered its way to the 
+top of the list. It made more than $22 million in its first weekend. 
+"A bug's life" took second place, followed by the movie "Jack frost." 
+</TEXT>
+</DOC>

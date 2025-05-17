@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981109.1130.1482 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+People are eating out less in New York City this year, but spending 
+more when they do. That's one of the findings in the freshly released 
+zagat survey for 1999. It gives restaurant-goers a chance to rate 
+their favorite eateries. And this year, 18,000 responded. The survey 
+finds New York the most expensive U.S. city for dining, with the average 
+cost of a meal rising to $31.68, including tip. 
+</TEXT>
+</DOC>

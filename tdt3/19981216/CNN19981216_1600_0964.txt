@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981216.1600.0964 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And those scanners at the store save time at the check-out, but they 
+may be costing you money through inaccurate readings. 
+</TEXT>
+</DOC>

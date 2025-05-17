@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981021.1130.0257 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers say they may have found circumstantial evidence linking 
+a form of herpes to multiple sclerosis. Scientists say the discovery 
+could lead to new treatment for Ms which affects more than 300,000 
+people in the United States. Human herpes virus six was found in the 
+brains and blood of some Ms patients. Scientists have long suspected 
+a virus triggers Ms, which can cause paralysis and death. 
+</TEXT>
+</DOC>

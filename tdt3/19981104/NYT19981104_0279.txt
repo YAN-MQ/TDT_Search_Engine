@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> NYT19981104.0279 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Esther Shapiro has a sneaky way to make her daughter Debbie to log 
+off of America Online and do her homework. She goes into Debbie's 
+brother Andre's room and picks up his phone receiver. Since Debbie 
+and Andre share a phone line, the move automatically cuts off Debbie's 
+online connection. ``It's a little trick I learned,'' Ms. Shapiro 
+said. ``I use it as a last resort, when telling her to get off doesn't 
+work.'' Ms. Shapiro is among the legions of parents trying to monitor 
+their children's online time, but who feel that exercising too much 
+control could disrupt their children's privacy. ``I worry about her 
+being disciplined about school work,'' Ms. Shapiro said, ``because 
+this seems like too much time talking with her friends. But at the 
+same time, I know I have to try and trust her.'' Short of using any 
+of the countless e-mail and Internet filters now available, which 
+can offend the average 16-year-old, what is the beleaguered online 
+chaperone to do? Barbara J. Feldman, a San Diego-based newspaper columnist 
+who writes a guide for parents on online safety (www.surfnetkids.com) 
+and other issues, enforces one steadfast rule in the home she shares 
+with her two teen-age children. ``I won't allow a computer with Internet 
+access in a room where you can close the door, like in their bedrooms,'' 
+she said. Ms. Feldman also periodically looks at the browser history 
+files stored on the three computers in her house to check for visits 
+to any Web sites she deems inappropriate. To do so for America Online 
+running in Windows, go to Programs in the Start menu, choose Windows 
+Explorer to find the Windows folder and then look at its History file. 
+Mac users will find the History file in System Folder: Preferences: 
+History. Most browsers also have History buttons, as well as Preference 
+buttons, which let you determine how long Internet addresses stay 
+in the folder. But the most important element in monitoring kids' 
+online activity is to start out with a mutual agreement on a few ground 
+rules, and then to stick to them. ``A certain level of trust has to 
+be established,'' Ms. Feldman said. ``You have to have a discussion 
+about what you expect their behavior to be, and they have to have 
+a clear understanding about the fact that if they don't follow that 
+behavior, they're going to lose access.'' 
+</TEXT>
+</DOC>

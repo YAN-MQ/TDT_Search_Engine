@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981110.1830.0566 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another sign that mergers and accusations often don't benefit the 
+employee. One out of every nine jobs that was eliminated last month 
+was the result of a merger or an acquisition. 
+</TEXT>
+</DOC>

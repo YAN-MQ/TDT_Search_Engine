@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981110.0167 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Hurricane force winds were recorded Tuesday on Mackinac 
+Island near the juncture of Lake Huron and Michigan as an extraordinary 
+strong storm bore through the Great Lakes and Upper Middle West. The 
+potent autumn storm also brought blizzard conditions to the northern 
+Plains and isolated tornadoes to the Mississippi Valley. Wednesday, 
+very gusty winds from the west will import much cooler and drier air 
+into the region as the formidable low pressure center moves into central 
+Canada. Scattered morning showers will accompany the passage of a 
+cold front moving through New England and the coastal Northeast on 
+Wednesday morning. Behind the front, gusty winds from the southwest 
+drying on descent from the Appalachians will cause skies to clear 
+from Washington to Boston. Meanwhile, sinking air currents associated 
+with high pressure will promote abundant sunshine and seasonable temperatures 
+across the interior Southeast. Humid air impinging a slow-moving front 
+will cause spotty showers and thunderstorms in northern Florida and 
+along the Gulf coast. Partly to mostly sunny skies and ample sun will 
+occur south of the front over south Florida. Clouds and a few flurries 
+will form near a weak low pressure system over North Dakota on Tuesday 
+while dry and sunny conditions occur farther south in the central 
+and southern Plains. Farther west, valley showers and mountain snow 
+will surround a jet stream disturbance moving through the southern 
+Rockies. Behind the disturbance, intervals of clouds and sun with 
+little risk for rain will prevail along the West coast. Focus: Power 
+of Wind Early Tuesday, sustained winds of 85 mph buffeted the Mackinac 
+Bridge, which connects Michigan's lower and upper peninsulas across 
+the Straits of Mackinac. Peak gusts were clocked at 94 mph. In the 
+morning, building gales associated with a powerful low pressure system 
+forced the Mackinac Bridge Authority to escort high-profile vehicles 
+across the bridge because the force of the wind on vans and sports 
+utility vehicles was dangerously great. For each square foot of area 
+of a high-profile vehicle that was exposed to a wind of 85 mph, nearly 
+300 pounds of force were exerted. 
+</TEXT>
+</DOC>

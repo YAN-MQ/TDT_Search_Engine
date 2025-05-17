@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981120.1600.0362 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Terry Nichols is appealing his conviction in the Oklahoma City bombing. 
+His attorneys filed papers at a U.S. court of appeals, arguing the 
+trial judge gave improper jury instructions and mishandled key evidence. 
+Nichols was sentenced to life in prison for involuntary manslaughter 
+and conspiracy in the April 1995 bombing. 168 people were killed and 
+hundreds of others injured. 
+</TEXT>
+</DOC>

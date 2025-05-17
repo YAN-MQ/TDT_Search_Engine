@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981216.1130.0755 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Let's say the puppy's a salesperson in an average computer store. 
+Now, ask the salesperson a question. What's the difference between 
+dvd and CD-rom? How much ram do I really need? Oh, and can you guys 
+install software? Okay... thanks. That's why we staff gateway couny 
+with highly trained people who'll have a Computer built just for you. 
+So come on in and ask us about our guaranteed delivery by Christmas. 
+Drop by your neighborhood gateway country or call 1 800 gateway. 
+</TEXT>
+</DOC>

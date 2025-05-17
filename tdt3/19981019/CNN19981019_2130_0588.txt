@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981019.2130.0588 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Microsoft is expected to give opening statements tomorrow in its antitrust 
+lawsuit. Today was the government's turn. Prosecutors focused on a 
+1995 meeting between Microsoft and its rival, netscape, at which Microsoft 
+allegedly proposed dividing the Internet software market. The government 
+showed jurors videotaped pretrial interviews with Microsoft chairman 
+Bill Gates in which they claim he is reluctant to discuss the meeting. 
+Analysts say the justice department is playing hardball. I think we're 
+moving on to the stage where the government is going to seek some 
+kind of permanent relief against this company which could mean a Formal 
+separation of the browser and the operating system markets, anything 
+up to declaring windows an essential facility, which could be very 
+intrusive to this company. Microsoft's chief lawyer says the evidence 
+will show the company is a fair competitor and an innovator. 
+</TEXT>
+</DOC>

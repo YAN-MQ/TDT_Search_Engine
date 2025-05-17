@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981214.1600.3004 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Mattel Toy Company will pay $3.2 billion for the Learning Company, 
+a maker of educational computer software. Mattel says the deal will 
+help speed up its development of an interactive software business. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981203.0500.0259 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The U.S. dollar fell against the Japanese yen today as prices on the 
+Tokyo Stock Exchange finished sharply lower. The Tokyo Stock Exchange's 
+Nikkei average fell nearly two percent, closing at 14,697 points. 
+</TEXT>
+</DOC>

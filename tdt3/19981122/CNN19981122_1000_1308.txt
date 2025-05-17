@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981122.1000.1308 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+College hoops, and top-ranked Duke beat South Carolina state, 120-56, 
+to claim their 23rd straight home win. Elton brand led the blue Devils 
+with 18 points. 
+</TEXT>
+</DOC>

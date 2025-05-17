@@ -1,0 +1,77 @@
+<DOC>
+<DOCNO> NYT19981230.0139 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+President Clinton said Monday that the Social Security Administration 
+had completely fixed all its computers so that elderly people would 
+receive their monthly benefit payments on time, without interruption, 
+in the year 2000. In his most extensive remarks on the subject since 
+July, Clinton said that elderly people ``can rest easy'' because the 
+Social Security agency had repaired its computers to deal with the 
+year 2000 problem. He did not address the situation at other agencies 
+judged by the White House to be inadequately prepared for the year 
+2000. These include the Pentagon, the Energy Department and the agency 
+that runs Medicare and Medicaid. The year 2000 problem arises from 
+early computer programming that often used only the last two digits 
+of the year, making 2000 indistinguishable from 1900 to computers. 
+If the problem is not corrected, experts say, computers could produce 
+inaccurate data or shut down. Clinton said Monday that the year 2000 
+challenge was ``a stunning problem'' for computer programmers. But 
+he said: ``The millennium bug will not delay the payment of Social 
+Security checks by a single day. The Social Security system is now 
+100 percent compliant with our standards and safeguards for the year 
+2000. To make absolutely certain, the system has been tested and validated 
+by a panel of independent experts. The system works, it is secure, 
+and therefore older Americans can feel more secure.'' Clinton said 
+the computer repairs were a symbol of the policy changes that had 
+to be made to renovate Social Security and keep it solvent for the 
+baby boom generation. He again invited Congress to work with him on 
+this task. The Social Security Administration was known to be ahead 
+of other agencies in dealing with the year 2000 problem. Social Security's 
+chief information officer, Kathleen Adams, said she and her colleagues 
+had been working on the problem since they discovered it in 1989. 
+By contrast, the White House Office of Management and Budget said 
+this month that six other agencies were ``not making adequate progress.'' 
+The six include the Pentagon, the Energy Department and the Department 
+of Health and Human Services, which runs Medicare and Medicaid, the 
+health programs for the elderly and the poor. Overall, the Office 
+of Management and Budget said, only 61 percent of the government's 
+``mission critical'' computer systems have been fixed. There are nearly 
+6,700 such systems. Clinton's narrow focus Monday, in his first such 
+speech since a call to action in July, disappointed many experts on 
+the year 2000 problem. Rep. Steve Horn, R-Calif., who heads the House 
+Subcommittee on government Management, Information and Technology, 
+said: ``What about the departments and agencies that have started 
+their remediation efforts only within the last few years? The Departments 
+of Energy, Health and Human Services, Defense, Transportation and 
+State are all failing in their Y2K repair efforts.'' However, Robert 
+Cohen, a spokesman for the Information Technology Association of American, 
+a trade group for the computer industry, said, ``Holding up an example 
+of success shows President Clinton takes this issue seriously.'' Several 
+independent consultants said that what the country really needed from 
+Clinton was a commitment to make regular reports on a handful of industries 
+like power, telephones and banks, whose problems could affect all 
+Americans. ``Social Security is an easy shot,'' said Ian Hayes, president 
+of Clarity Consulting in South Hamilton, Mass. ``President Clinton 
+is not giving any reassurance to people who know a lot about the subject.'' 
+Clinton has set March 31, 1999, as the deadline for federal agencies 
+to have fixed and tested major computer systems to deal with the year 
+2000 problem. But in a report issued on Dec. 8, the Office of Management 
+and Budget said the Pentagon's progress was ``too slow to meet the 
+March 1999 goal.'' Energy Department officials said they were worried 
+about thousands of tiny computers and computer chips embedded in laboratory 
+equipment and other devices. Federal health officials said that fixing 
+computers was their top priority. While scrambling to repair computers, 
+Medicare officials said they would miss several statutory deadlines 
+for changes made by the Balanced Budget Act of 1997. One of these 
+changes would reduce amounts that elderly people pay for hospital 
+outpatient services, including diagnostic tests. Even if federal agencies 
+repair their computers, they still must deal with state agencies, 
+some of which are far behind them. Medicaid, for example, is run jointly 
+by the federal government and the states. A state Medicaid program 
+receives tens of thousands of electronic claims from health care providers 
+each year. If their computers cannot cope with the year 2000, their 
+Medicaid payments may be delayed. NYT-12-28-98 1954EST 
+</TEXT>
+</DOC>

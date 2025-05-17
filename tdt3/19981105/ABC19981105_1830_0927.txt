@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981105.1830.0927 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Still "on the money." The unemployment rate held steady at 4.6% last 
+month. But job growth has slowed. 
+</TEXT>
+</DOC>

@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> VOA19981204.0500.0052 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Ten, nine, eight -- we have a go for main engine start. We have main 
+engine start. Four, three, two, one -- we have boost to ignition and 
+liftoff of the space shuttle "Endeavor" with the first American element 
+of the international space station uniting our efforts in space to 
+achieve our common goals. The shuttle is carrying a passageway designed 
+to be connected to the module during the 11-day mission, which will 
+include several spacewalks. The 16-nation project has been delayed 
+more than a year due mainly to Russian budget problems. The space 
+station will consist of more than 100 components to be deployed in 
+space over the next five years. The operation will require 45 U.S. 
+and Russian space flights. 
+</TEXT>
+</DOC>

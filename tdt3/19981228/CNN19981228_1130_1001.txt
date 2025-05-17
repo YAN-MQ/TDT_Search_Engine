@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981228.1130.1001 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The urge to merge could hit the aerospace industry yet again. I'm 
+Myron Kandel at the "CNN Financial News" desk in New York and this 
+is "Dollars & Sense." Lockheed-Martin is reportedly in talks to merge 
+with Britain's General Electric. Gec is not commenting on the reports, 
+but such a deal could be worth up to $42 billion. Just last week, 
+Lockheed-Martin said its profits will fall about 22%, below Wall Street 
+forecasts due to slumping sales. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981204.2130.0406 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After a second attempt in as many days, the space shuttle "endeavour" 
+blasted off without a hitch early this morning. But that was the easy 
+part. This weekend, its crew will begin putting together the first 
+pieces of the new international space station. The shuttle will rendezvous 
+with the Russian component czar why and use a Robotic arm to connect 
+it with the American-built Module unity I. expected to take more than 
+five years to build the space station. 
+</TEXT>
+</DOC>

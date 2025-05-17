@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981020.2130.1012 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The trade deficit hit a record high in August. The commerce department 
+reports the deficit rose 15.3% -- bringing it to $16.8 billion. Exports 
+fell to their lowest level in 19 months, as demand for American goods 
+continued to fall, further evidence the global financial turmoil is 
+hurting the United States. 
+</TEXT>
+</DOC>

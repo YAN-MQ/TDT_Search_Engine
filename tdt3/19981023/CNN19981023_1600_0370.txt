@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981023.1600.0370 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Typhoon babs continues to pound the Philippines with sustained winds 
+of 75 miles per hour. The death toll stands at 82. 53 people were 
+killed in mudslides. The storm has closed ports, blocked roads and 
+disrupted utility service. The typhoon is moving northward toward 
+the south China sea. 
+</TEXT>
+</DOC>

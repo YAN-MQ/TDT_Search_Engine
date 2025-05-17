@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981115.1300.0708 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A conference at Washington state University is focusing attention 
+on the link between alcohol and violence on U.S. college campuses. 
+There have been recent alcohol-fueled riots at three schools -- Washington 
+state University, the University of Colorado and the University of 
+wisconsin. One expert says college alcohol problems are more common 
+at schools that have a large student population which lives on campus. 
+</TEXT>
+</DOC>

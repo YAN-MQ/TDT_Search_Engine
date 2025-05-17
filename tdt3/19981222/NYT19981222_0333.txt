@@ -1,0 +1,76 @@
+<DOC>
+<DOCNO> NYT19981222.0333 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+An errant spacecraft that was to be the first to orbit an asteroid 
+will instead fly past its intended target on Wednesday, but scientists 
+said Tuesday that they still held hopes of completing the original 
+mission in 2000. The robot spacecraft, called NEAR, for Near Earth 
+Asteroid Rendezvous, is apparently healthy after a 27-hour blackout 
+that began late Sunday after a series of rocket firings to move the 
+craft toward an orbit of the asteroid 433 Eros. Engineers at the Johns 
+Hopkins University Applied Physics Laboratory in Laurel, Md., which 
+built the spacecraft and is managing the mission, said NEAR would 
+fly past Eros at 1:43 p.m. ET on Wednesday, coming as close as 2,480 
+miles. During the flyby, the craft is to photograph about 500 images 
+and search for possible tiny moons orbiting the asteroid. Dr. Andrew 
+Cheng, the project scientist, said it might still be possible for 
+the spacecraft to enter orbit around Eros in May 2000, when orbits 
+of the spacecraft and asteroid again coincide. Before then, engineers 
+have to resolve problems associated with firing the craft's rocket 
+engine. ``It appears our spacecraft has not yet used up all its lives,'' 
+Cheng said. `We still have a good chance of getting into Eros orbit.'' 
+The spacecraft was to have gone into orbit around Eros on Jan. 10, 
+after a number of rocket burns to slow the craft so it could settle 
+in around the asteroid. Eros is a potato-shaped object measuring 25 
+miles by 9 miles by 8.8 miles. No spacecraft has ever orbited an object 
+so small. Plans called for the spacecraft to survey the asteroid with 
+its six instruments, determining things like its mass, chemical composition 
+and density. After about a year, the craft was to have descended into 
+orbits so low it would hover just a few hundred feet above the surface. 
+Dr. Robert Farquhar, a Johns Hopkins University scientist and the 
+mission manager, said at a briefing last week that researchers hoped 
+to end the mission with a landing, preceded by a series of tricky 
+maneuvers in which the craft would graze the surface and then pop 
+back up. ``It should be possible to land softly and then go back up 
+again,'' Farquhar said. ``We want to sort of test the waters.'' Scientists 
+want to learn more about asteroids because they may contain material 
+from which the solar system was formed more than 4 billion years ago. 
+In addition, they said, some asteroids may be pieces of larger bodies 
+or planets that formed early in the solar system's history and later 
+collided with other objects and broke apart. Understanding the nature 
+of asteroids also is important because they occasionally collide with 
+Earth, sometimes with disastrous effects. An asteroid six miles across 
+is thought by many to have smashed into Earth 65 million years ago, 
+causing the extinction of the dinosaurs and thousands of other species. 
+To protect Earth in the future, scientists say people need to know 
+the density and composition of asteroids so they can determine how 
+to shatter or divert them with explosives or other means. The spacecraft 
+was launched in February 1996. Last June, the craft flew within 753 
+miles of another asteroid, Mathilde. It took 500 photographs and made 
+measurements that determined that Mathilde was a low-density object, 
+probably what some astronomers described as a ``pile of rubble,'' 
+instead of a solid piece of rock. The spacecraft's problems arose 
+on Sunday when its main engine fired for the first time since July 
+1997, while it was 220 million miles from Earth. Engineers said the 
+engine briefly exceeded its thrust tolerance and shut down. Less than 
+a minute later, the spacecraft lost its orientation because of a software 
+problem and began tumbling. The craft then went into a ``safe mode,'' 
+with most of its instruments shut down, and kept its solar power panels 
+directed toward the Sun while it awaited orders. NASA then ordered 
+its Deep Space Network of giant radio antennas to sweep the sky for 
+the spacecraft's faint signal, and NEAR was finally located on Monday 
+night. Weary project engineers, elated that the spacecraft was safe 
+and had not blown up, re-established communication and were able to 
+download enough data Tuesday to diagnose the problems and look for 
+alternative ways to complete the mission. Helen Worth, a program spokeswoman, 
+said the craft appeared to be fully functional and that scientists 
+and engineers were optimistic about achieving the program's goals. 
+NEAR is one of the first NASA interplanetary spacecraft built under 
+its new Discovery Program, which emphasizes ``cheaper, faster, better'' 
+ways of exploring the universe. The spacecraft cost $129 million to 
+build, and the mission has so far stayed within its planned budget 
+of $211.5 million. 
+</TEXT>
+</DOC>

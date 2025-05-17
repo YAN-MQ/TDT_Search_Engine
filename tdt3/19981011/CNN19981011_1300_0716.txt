@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981011.1300.0716 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A St. Louis landmark is back in operation. The gateway arch had been 
+closed since a fire in the main electrical panel two weeks ago. The 
+arch reopened yesterday, and the tram ride to the top was quickly 
+sold out. Officials say the ride seldom sells out so fast this late 
+in the tourist season. 
+</TEXT>
+</DOC>

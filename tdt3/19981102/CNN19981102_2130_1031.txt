@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> CNN19981102.2130.1031 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+many air travelers are concerned with the rising number of unscheduled 
+landings due to smoke in the cockpit. dan ronan looks at how pilots 
+and aviation officials are handling the problem in this edition of 
+"working ahead." pilots say smoke in the cockpit and being forced 
+to make an unscheduled landing can be one of the scariest situations 
+they'll deal with. not only may the plane have a malfunction, but 
+the pilot's visibility and ability to breathe can be hampered. all 
+of the electrical connections come into the cockpit or come into a 
+compartment underneath the cockpit. so if there's an electrical short, 
+you're going to get some kind of a smell, just like if you get a short 
+in the wiring in your house. it doesn't necessarily start a fire, 
+but you'll have that -- that acrid smell. in the two months since 
+the swissair accident, there have been at least eight unscheduled 
+landings because of smoke in the cockpit. that's twice as many as 
+the faa usually receives. aviation experts say while the rules for 
+landing a plane with smoke in the cockpit have not changed, because 
+of the swissair crash, pilots may be more conservative. when an accident, 
+any kind of accident happens, people become more sensitive to those 
+kind of incidents. and smoke in the cockpit, of course, is one of 
+the really scary things for a pilot. adding to the equation, many 
+say the mainstream media are more aggressive about reporting aviation 
+issues. but the airlines we spoke to do confirm they're telling their 
+pilots, "if there's smoke in the cockpit, don't take chances, land 
+the plane." dan ronan, cnn, atlanta. 
+</TEXT>
+</DOC>

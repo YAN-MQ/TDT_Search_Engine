@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> NYT19981117.0380 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Novell Corp. and Cisco Corp., two major players in the computer networking 
+industry, will announce Wednesday that they have agreed to make their 
+software and hardware broadly compatible. The move is seen as a victory 
+for Novell in its effort to halt the advances of Microsoft Corp.'s 
+Windows NT, an operating system that incorporates office networking 
+technologies, a market that Novell once dominated. Directory programs 
+that permit computers and computer users to track the location of 
+network resources have become increasingly crucial as business networks 
+have grown to include tens of thousands of computers, printers, servers 
+and disk storage systems. Cisco, the largest player in the market 
+for network routers and switches, has previously agreed to support 
+Microsoft's Active Directory service for office networks. However, 
+both Microsoft's Windows NT and its Active Directory software projects 
+have suffered lengthy delays and will not be available until sometime 
+next year. Novell has refined its Netware Directory Services, or NDS, 
+software and has struck compatibility agreements with both Lucent 
+Technologies and Nortel, two other makers of computer networking gear. 
+``Cisco's customers pushed very hard for a directory deal with Novell,'' 
+said Novell chairman and chief executive Eric Schmidt. ``This permits 
+both management and remote configuration of Cisco routers and switches 
+from our software.'' 
+</TEXT>
+</DOC>

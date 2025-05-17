@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981222.1600.0612 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Scientists have re-established contact. Mission control lost contact 
+Sunday. The interruption will probably delay the rendezvous scheduled 
+for January 10. The first attempt in history to orbit an asteroid. 
+Near was launched in February of 1996. 
+</TEXT>
+</DOC>

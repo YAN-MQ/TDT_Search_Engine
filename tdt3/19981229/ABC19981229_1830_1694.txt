@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981229.1830.1694 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is our report on "World News Tonight." Later on "Nightline" -- 
+the strong economy and a personal savings rate of zero. What does 
+it all mean? I'm Connie Chung. Thank you for joining us. For all of 
+us at ABC News, good night. 
+</TEXT>
+</DOC>

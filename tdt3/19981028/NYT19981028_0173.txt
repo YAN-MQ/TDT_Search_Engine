@@ -1,0 +1,112 @@
+<DOC>
+<DOCNO> NYT19981028.0173 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+How unfortunate that 96 out of 100 personal computer buyers might 
+not care that Mac OS 8.5, Apple Computer Inc.'s new operating system 
+software for Macintosh computers, is easier to use, more elegant, 
+more innovative and more reliable than Windows 98. But for the 4 percent 
+_ Apple's current share of new computer sales _ who do care, and for 
+the unknown percentage of computer owners who may be frustrated with 
+the industry-standard Windows operating system, the happy news is 
+that Mac OS 8.5 is now available, either as a $99 upgrade package 
+for Macs of recent vintage, or as the default system software on new 
+Apple computers. Mac OS 8.5 is certainly a better operating system 
+than earlier versions of the Mac OS, and, in some ways, for some users, 
+better than Windows. It is not free of headaches, of course, and an 
+operating system upgrade should never, ever be taken lightly. Several 
+of my favorite older applications crashed when introduced to the new 
+OS. Mac OS 8.5 was written specifically for the PowerPC chip, which 
+means it cannot be installed on older Macintoshes based on the Motorola 
+68000 series microprocessors, including the popular Quadras that preceded 
+the current Power Macintosh line. Nor will it work on older Macs even 
+if they have a PowerPC upgrade card. This is a disappointment of high 
+magnitude, especially for those of us who own an assortment of older 
+Macs and PowerBooks. It signals that Apple has cut loose those older 
+Macs, sending them adrift just as it did the Apple II. For those who 
+have a PowerPC Macintosh, however, and a minimum 24 megabytes of RAM 
+and 155 megabytes of vacant hard disk space needed for the upgrade, 
+the main advantages of upgrading to the new Mac OS can be summarized 
+in a few points: _ Version 8.5 is more stable and reliable than earlier 
+versions. In other words, it does not crash as often. _ It has some 
+new tricks that are useful for people who spend time connected to 
+the Internet. These days, that means nearly everyone. _ It has a Sherlock, 
+a search engine that alone is worth the upgrade fee. Sherlock makes 
+it easier to find files and information, whether the information is 
+on the user's computer, on a local network, or on the World Wide Web. 
+_ It is faster. Mac OS 8.5 has been written to take specific advantage 
+of the PowerPC chip, leading to quicker execution of operations ranging 
+from automated AppleScript tasks to transferring files over a local 
+network. _ It isn't Windows. Windows 98 has many fine qualities, and 
+is itself a great improvement over Windows 95, but its most compelling 
+feature, let's be honest, is that it is the industry standard. That 
+fact alone means that most computer users will choose a Windows computer 
+over a Macintosh computer, and it is hard to argue against the logic. 
+There is more software available for Windows. New products almost 
+always come out for Windows ahead of the Mac _ if they come out for 
+the Mac at all. More support is available for Windows machines. And 
+Windows machines are cheaper. In other words, the Mac is surrounded 
+on all sides, and outnumbered 24 to 1. That is precisely the kind 
+of situation that invigorates Macintosh users, and now they have a 
+new operating system to cheer about. The real question is not whether 
+Mac OS 8.5 is a worthy operating system upgrade _ that is an easy 
+call _ but whether it is safe, and smart, to buy a Macintosh today. 
+Six months ago, even some of Apple's most loyal supporters struggled 
+with those questions. But the company that once did almost everything 
+wrong now seems to be doing almost everything right. Apple just reported 
+its first profitable year since 1995. At this point there is little 
+fear for Apple's survival. Under the leadership of Steve Jobs, Apple's 
+co-founder and interim chief executive, the company has demonstrated 
+that it can survive and prosper. The next test is whether it can increase 
+revenues and regain lost market share. It seems to be on the right 
+track. Apple introduced a series of popular and innovative products 
+this year, including the flat-panel Studio Display, the G3 PowerBooks, 
+and the funky iMac, which has been wildly popular despite its flaws. 
+If you are shopping for an iMac today, be sure to get the ``Revision 
+B'' model. Apple asserts that the recent success of its iMac has persuaded 
+a number of software developers to create programs for the Macintosh 
+platform. Apple also contends that a substantial percentage of its 
+iMac customers are either first-time computer buyers or born-again 
+Macintosh users who lost faith and joined the Windows camp, and who 
+are coming home. And now comes Mac OS 8.5, which demonstrates that 
+Apple managed to salvage something good from the ``Copland'' operating 
+system debacle, in which Apple squandered a huge head start in operating 
+system design and allowed Microsoft Windows to catch up to the Mac. 
+Is it smart to choose a Macintosh today? Perhaps not in the corporate 
+world, where Windows has won almost all the desktops, except in traditional 
+Apple strongholds like graphics and publishing. Apple's real strength 
+_ and its best hope for the future _ is in the consumer market. Apple's 
+``Think Different'' advertising campaign would lead one to believe 
+that Macs are popular chiefly among dead people. From my observations, 
+however, Mac users include some of the liveliest and most creative 
+individuals around. The key word is ``individual.'' For those who 
+find safety in numbers, Windows is the safe, smart choice. For those 
+who simply want the best tool for the job, the Mac is certainly worth 
+consideration. A few cautions: _ Before attempting any OS upgrade 
+_ Mac, Windows, Linux, Be, or whatever _ back up your hard disk. _ 
+If you have favorite applications that you depend on for your productivity 
+and sanity, check with the software makers to make sure your versions 
+are compatible with Mac OS 8.5. An upgrade to a newer version, typically 
+at some expense and loss of time, may be needed to avoid system crashes. 
+In my case, older versions of the Norton Utilities, Now Contact and 
+Now Up-To-Date, and Microsoft Word all had to be replaced after they 
+got the heebie-jeebies from Mac OS 8.5. _ If your Macintosh has been 
+well-behaved, Mac OS 8.5's automated installation process should be 
+a breeze. It overlays the new system file on top of the old and saves 
+all the old preferences and other bureaucratic settings, including 
+Internet connection settings that were probably no fun to create in 
+the first place. But if you have endured occasional problems with 
+balky system extensions or other technical goblins and gremlins, consider 
+performing a clean install. A clean install, made easier with a utility 
+like Cassidy &AMP; Greene's Conflict Catcher, creates an entirely 
+new system file and requires the user to re-install every extension, 
+font, control panel and setting. It is a more grueling process, but 
+doing so sweeps away the virtual cobwebs that build up over time and 
+cause internal conflicts. _ Finally, consider getting a Mac OS 8.5 
+help manual like ``Mac OS 8.5 for Dummies'' by Bob Le Vitus (IDG Books, 
+$19.95). Apple is so proud of its online help system that it has reduced 
+the printed documentation for this upgrade to just a few pages. Some 
+of us are old-fashioned enough to get comfort from a book. 
+</TEXT>
+</DOC>

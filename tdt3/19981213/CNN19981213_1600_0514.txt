@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981213.1600.0514 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for Monday. Clouds and rain will continue to move slowly 
+off the southeast coast and across Florida, as a cold front pushes 
+into the plains states producing some snow and windy conditions through 
+the rocky mountains. We'll see a brief break across the northwestern 
+part of the country. But there's another frontal system that's moving 
+into that area. Highs on Monday, 20s and 30s over the intermountain 
+west and northeast. 40s and 50s over the upper midwest. We'll see 
+60s and 70s in the south. Looking ahead to Tuesday, a little bit showery 
+across the edges, but everything else looks good with the cooler air 
+across the north central part of the country. On Wednesday, snow showers 
+in the Great Lakes. 20s and 30s there. Thursday, rain or snow across 
+the northeast. 20s and 30s will be the highs in that region, with 
+milder weather, 40s and 50s across the northwest. Don't forget, you 
+can find four-day forecast for more than 7,200 cities on cNN interactive. 
+The address is CNN.com. 
+</TEXT>
+</DOC>

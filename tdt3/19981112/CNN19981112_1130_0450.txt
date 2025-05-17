@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0450 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The national extended weather forecast is up next. And then -- the 
+outlook for Russians facing a bleak winter. 
+</TEXT>
+</DOC>

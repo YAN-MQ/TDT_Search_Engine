@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> ABC19981120.1830.0232 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Another warning for Microsoft today. Now it is Japanese trade regulators 
+who say that Microsoft has been violating Japan's anti-monopoly laws. 
+It's been a bad week for Microsoft, and for its CEO, Bill Gates. First, 
+a federal judge ordered the company to change its Windows 98 operating 
+system or take it off the market. And now the testimony of Mr. Gates 
+himself in a major suit by the government against Microsoft is at 
+the center of a very bitter argument. Here is ABC's Terry Moran. It 
+was an ominous signal for Microsoft. A pointed response yesterday 
+from the court to Microsoft's complaints that the government is being 
+unfair in repeatedly playing excerpts from Bill gates' videotaped 
+deposition. "If anything, I think your problem is with your witness, 
+not with the way in which his testimony is being presented," judge 
+Thomas Penfield Jackson said. "I find it very effective." This is 
+the kind of testimony the judge is talking about. I don't know what 
+you mean, concerned. What is it about the word concerned that you 
+don't understand? In a trial tactic that seems to have taken Microsoft 
+by surprise, the justice department is driving home each of its charges 
+against the company with telling excerpts from Gates' testimony, essentially 
+turning gates into a witness against his own company. The Bill Gates 
+judge Jackson sees on tape is evasive, annoyed, out of the loop, a 
+far cry from the hands-on business revolutionary of Microsoft legend. 
+Since that question is that you don't have an answer to, you don't 
+have an answer to that question, let me put a different question. 
+I have an answer. The answer is I don't remember. The judge has been 
+seen to laugh in court while watching the testimony. But will the 
+tactic win the case? Credibility matters in a case like this. Did 
+Bill Gates really undertake some of the things that some of the witnesses 
+are saying? Gates himself dismisses the use of his testimony as a 
+dirty trick by government lawyers. They don't show my whole deposition. 
+They show these tiny little pieces. There is one way for Microsoft 
+to fight back. Call Bill Gates as a witness, something the company 
+has said it has no intention of doing. Terry Moran, ABC News, New 
+York. 
+</TEXT>
+</DOC>

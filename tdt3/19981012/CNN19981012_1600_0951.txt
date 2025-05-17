@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981012.1600.0951 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Congress and President Clinton still have not agreed on a comprehensive 
+budget deal. A third temporary spending measure must be passed today, 
+or the government will shut down at midnight. These stories and more 
+in 15 minutes. 
+</TEXT>
+</DOC>

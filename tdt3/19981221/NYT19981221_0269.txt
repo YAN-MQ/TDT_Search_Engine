@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> NYT19981221.0269 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Indoor water parks, with their fountains, spouts and water slides, 
+have grown increasingly popular. But a study that tracked two outbreaks 
+of what researchers dubbed ``lifeguard lung'' shows that the spraying 
+water that makes such parks fun can pose health complications as well. 
+Health officials have long suspected that saunas, hot tubs and indoor 
+fountains can be highly effective vehicles for transmitting infections. 
+Microbes in the water are far more likely to make their way into human 
+lungs when they waft through the air in what are technically referred 
+to as aerosolized water droplets. In the case of a Colorado water 
+park that was closed twice in two years by outbreaks of lung disease 
+among lifeguards, researchers reporting earlier this month in the 
+American Journal of Public Health found that chronic exposure to contaminated 
+droplets was responsible for a kind of inflammatory lung illness, 
+granulomatous pneumotitis, that can cause permanent scarring. In 1986, 
+the city of Westminster, north of Denver, opened one of the country's 
+first ``natatoriums,'' with three pools, two waterfalls, a water slide, 
+fountain and two hot tubs. In the years that followed, a number of 
+lifeguards at the facility developed respiratory symptoms, leading 
+several to quit. In 1989, four guards were diagnosed with granulomatous 
+pneumotitis and the pool was shut. A subsequent survey found that 
+at least 27 percent of pool employees had been infected, reporting 
+symptoms that included coughs, chest tightness and congestion. Dr. 
+Cecile Rose of the National Jewish Medical and Research Center in 
+Denver, who led the team that studied the outbreak, said two points 
+were particularly worrisome: ``Young, healthy lifeguards were sick,'' 
+she said. And tracking work records indicated a direct link between 
+time spent at the pool and likelihood of infection. Engineers hired 
+by the city said that increasing the flow of fresh air would dilute 
+contamination sufficiently, said Bill Walenczack, the current director 
+of parks, recreation and libraries, and the pool's ventilation system 
+was overhauled at a cost of $600,000. It reopened in May 1990. Within 
+three months, however, a second outbreak of lung disease among lifeguards 
+was reported, and this time it hit 65 percent _ and the pool was closed 
+again. After testing water droplets in the air, the researchers found 
+high levels of bacterial cell residues called endotoxins _ 25 times 
+higher within the water park than in outdoor air, and far higher than 
+at two pools without water spray equipment that were tested. Levels 
+were highest from samples taken in the ``crow's nest'' chair where 
+lifeguards reported the most chest discomfort. ``They were sitting 
+up there for hours and hours, being exposed to water droplets small 
+enough to get deep inside the lung,'' Rose said in a telephone interview. 
+The pool eventually upgraded parts of its system _ at a cost of $1.2 
+million _ and since then there have been no new cases or complaints, 
+said Walenczak. Although this is the first time that pools have been 
+identified as a source of inflammatory lung infections, Rose warns 
+that the growth of water spray features should put pool workers on 
+their guard. Less clear is the risk of more occasional exposure. ``We 
+don't really know what the risk is to users _ probably much lower, 
+if there is any,'' said Rose. 
+</TEXT>
+</DOC>

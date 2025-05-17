@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981102.1600.1030 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+ABC has locked out more than 2,2000 off-camera employees following 
+a union strike. The employees include camera operators and desk assistants. 
+They walked off the job today for a one-day strike to protest ABC's 
+alleged withholding of details of the company's health care plan during 
+contract negotiations. Now the network wants a written guarantee from 
+the union that it will provide advance notice of future job actions. 
+The network says it has taken measures to ensure all broadcasts, including 
+"World News Tonight" and Monday night football will run without interruption. 
+The employees are in New York, Los Angeles, San Francisco, Washington, 
+and chicago. 
+</TEXT>
+</DOC>

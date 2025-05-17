@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981027.1600.1099 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The second-biggest mutual fund group is playing the name game. Vanguard 
+is changing the names of all but seven of its 109 mutual funds to 
+eliminate confusion to investors. After years of customer complaints, 
+vanguard will shorten fund names, get rid of slashes and the word 
+"portfolios." The changes take effect today but will not affect fund 
+numbers or ticker symbols. 
+</TEXT>
+</DOC>

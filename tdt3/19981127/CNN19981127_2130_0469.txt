@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981127.2130.0469 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal government wants drugmakers to spell out the dosages for 
+medications given to children. The food and drug administration set 
+new guidelines today. They are intended to give doctors and other 
+health care givers more information about drugs prescribed to children. 
+The FDA also wants drugmakers to test drugs on children if they will 
+be the primary users of the medications. Currently, drugs are tested 
+mostly on adults. 
+</TEXT>
+</DOC>

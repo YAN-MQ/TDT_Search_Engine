@@ -1,0 +1,68 @@
+<DOC>
+<DOCNO> NYT19981105.0492 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For decades, consumers have paid a little more with each passing minute 
+they spent on the phone making a long-distance call. This weekend 
+that will begin to change. Breaking with longstanding practice in 
+the $80 billion long-distance market, Sprint Corp. introduced an all-you-can-eat 
+pricing plan Thursrday that allows consumers to make unlimited long-distance 
+calls on the weekend for $25 a month. The marketing wars in the long-distance 
+business are among the fiercest in any industry, with Sprint, AT&AMP;T 
+and MCI Worldcom each spending millions each year to win the ears 
+and mouths of consumers everywhere. The new Sprint Unlimited plan 
+seems sure to give Sprint, the No. 3 long-distance carrier, a big 
+boost in that battle. If the plan proves both popular with consumers 
+and profitable for Sprint, it could usher in a time when people could 
+elect to pay a flat charge for unlimited long-distance calls all week, 
+eliminating the cringe factor when the phone bill arrives. Internet 
+users have enjoyed unlimited-use plans for years. Most people _ except 
+those in much of New York City, of course _ can make unlimited local 
+phone calls without incurring additional charges. Most cable television 
+channels offer unlimited viewing for a flat monthly fee. But pricing 
+plans in the long-distance business have remained resolutely a la 
+carte. Even as the long-distance giants have started offering special 
+calling plans that eliminate different rates based on geographic distance, 
+those charges have remained resolutely per-minute. ``The whole notion 
+that a caller can get on the phone and not worry about how long they 
+are on the call is pretty revolutionary,'' said Rebecca Sachs, a spokeswoman 
+for the Telecommunications Research and Action Center, a nonprofit 
+research group in Washington. ``It is consistent with attitudes people 
+have about the Internet. You don't think about sending e-mail to people 
+in Asia or how long your message is.'' But do not try to send e-mail 
+with Sprint's new plan. The catch in the program is that Sprint intends 
+the service to be used only for voice calls and will try to ferret 
+out those who use the plan for modems, fax machines or other data 
+services. ``It's not available for data usage, Internet connections, 
+because of the usage profile that would be associated with ongoing 
+data connections,'' said Tim Kelly, a Sprint vice president for marketing. 
+In other words: people spend so much time on line that if they used 
+the Sprint Unlimited plan to make long-distance calls into the Internet, 
+Sprint could end up having a hard time making money on the program. 
+The problem for Sprint is that the new program could end up being 
+highly attractive to cyberspace denizens and fax users. The America 
+Online phone lines in your area are jammed or cranky? Try California. 
+Want to send faxes to a few hundred friends? Wait until Saturday. 
+``We'll monitor the network to identify that,'' Kelly said. ``We have 
+ways of tracking it.'' He added that Sprint would not monitor calls 
+but would instead analyze use patterns to figure out whether consumers 
+are making unauthorized use of the program. Customers who use a modem 
+could be kicked off the plan. MCI Worldcom already offers a 5- cent-a-minute 
+rate on Sundays and AT&AMP;T offers a 5-cent-a-minute rate all weekend. 
+That means that users would have to make about two hours of calls 
+every weekend to make the Sprint plan economical. The Sprint plan 
+is available nationwide and allows users to make unlimited calls to 
+anywhere in the country on the weekend. During the week, calls cost 
+10 cents a minute. Kelly said that the plan would have a positive 
+effect on Sprint's financial results. But Eric Strumingher, an analyst 
+for Paine Webber, estimated that Sprint must pay about 5.5 cents a 
+minute to local phone companies for beginning and ending long-distance 
+calls. That means that the program could potentially hurt Sprint's 
+financial performance if many of its customers signed up for the program 
+and then switched a lot of their calling from the week to the weekend. 
+An MCI Worldcom spokesman said his company had no plans to offer an 
+unlimited-use plan. AT&AMP;T said that it would consider such a plan 
+if its customers asked for it. 
+</TEXT>
+</DOC>

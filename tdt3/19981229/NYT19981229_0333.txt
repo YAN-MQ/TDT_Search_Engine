@@ -1,0 +1,95 @@
+<DOC>
+<DOCNO> NYT19981229.0333 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Nasdaq composite index, long home to the market's hottest technology 
+stocks, is on track for one of its best years ever. Through Tuesday, 
+the index had risen nearly 39 percent, far ahead of the 28 percent 
+gain in the Standard &AMP; Poor's 500-stock index and more than double 
+the 18 percent gain in the Dow Jones industrial average this year. 
+The reason for the surge is both a large number of Internet stocks, 
+which have been the object of investors' lovesick affections _ and, 
+according to one estimate, account for one-fifth of this year's gain 
+in the overall market _ and a dearth of cyclical companies, whose 
+values have been crushed by the collapse in commodity prices. Even 
+a surge in oil and agricultural prices, however, would have trouble 
+getting investors as excited as they have become by big Internet companies 
+like Yahoo, Amazon.com and Netscape. Those stocks, which have recorded 
+three- or four-digit percentage gains this year, plus smaller companies 
+like Ebay, Mindspring Enterprises and Infoseek, which have recorded 
+similar gains, have put the Nasdaq in line for its third-best performance 
+since it was begun in 1971. There are other differences. The 10 largest 
+stocks in the Nasdaq index account for more than 39 percent of its 
+value, nearly double the weighting of the 10 largest stocks in the 
+S&AMP;P 500. The effect of those differences is that movements in 
+the value of the biggest stocks, like Microsoft, Intel and Cisco Systems, 
+have a greater impact on the Nasdaq index than on the S&AMP;P 500. 
+That effect can especially be seen in the performance this year of 
+the Nasdaq 100 index, a subset of the composite, comprising, as its 
+name suggests, the 100 largest Nasdaq companies. The Nasdaq 100 index 
+has gained 84 percent this year, a blazing performance that is unmatched 
+in its history, which dates to 1985. Nasdaq and the American Stock 
+Exchange, which merged earlier this year, will soon attempt to capitalize 
+on the success of the Nasdaq technology stocks by offering a new product 
+that tracks the Nasdaq 100. The new product, a unit investment trust, 
+is similar to the Amex's popular Spiders, Diamonds and Webs unit trusts, 
+which, respectively, track the S&AMP;P 500, the Dow industrials and 
+a variety of foreign stock indexes. But in designing the Nasdaq unit 
+trust, the exchange has changed the way it calculates its 100-stock 
+index, restricting the influence of technology stocks and thus removing 
+some of the fuel that has thrust the index to such historic heights. 
+Whether that dampens investors' reception of the new product remains 
+to be seen. Judging by their willingness to pay virtually any price 
+for Internet stocks, however, it is easy to imagine that investors 
+will care not a whit. Consider some numbers. Wilshire Associates, 
+which manages money for institutions and also compiles a series of 
+stock indexes, recently measured the contribution of Internet-related 
+stocks to the performance of the Wilshire 5000 index, a yardstick 
+that includes all of the 7,400 publicly traded companies based in 
+the United States. For that purpose, Wilshire defined as Internet-related 
+any company whose business would be materially affected if the Internet 
+ceased to exist _ a broad definition that included some giant companies 
+like Microsoft, but not others, like Dell Computer. Wilshire found 
+that through Dec. 23, 4.1 percentage points of the 21.8 percent gain 
+in the Wilshire 5000 _ or roughly one-fifth of the total _ came from 
+Internet-related stocks. During that time, the value of those Internet 
+stocks climbed to 6 percent of the overall market from 3 percent. 
+It is only logical to assume that the effect of Internet stocks on 
+the Nasdaq composite index is as large or larger. At the beginning 
+of 1998, Yahoo, the 65th-largest stock traded on Nasdaq, accounted 
+for only about 0.2 percent of the Nasdaq composite index. By the end 
+of November, it had grown to 0.8 percent of the index _ a fourfold 
+increase that placed it among the 10 largest Nasdaq companies. And 
+since the end of November, Yahoo has climbed even further. Nasdaq 
+is betting that individual investors, in search of a piece of that 
+action, will snap up shares of the Nasdaq 100 unit trust, just as 
+they have the Spiders, Diamonds and Webs. But Nasdaq ran into a problem. 
+For tax and other reasons, Nasdaq had to adjust downward the influence 
+of the biggest stocks in the index _ Microsoft, Intel, Cisco, MCI 
+Worldcom and Dell Computer _ which together accounted for more than 
+60 percent of Nasdaq 100. Before the adjustment, Microsoft alone made 
+up 25 percent of the index. Now, those five stocks account for about 
+40 percent of the index. In the future, the index will be reassessed 
+quarterly, and if the biggest stocks grow to account for more than 
+48 percent of the index, they will again be scaled back to 40 percent. 
+Similarly, Microsoft now measures about 15 percent of the index; if 
+it grows to 24 percent, it will be cut back to 20 percent. Sound complicated? 
+Think of it as selling the portfolio's winners. If investors continue 
+to favor large technology stocks, as they have this year, the Nasdaq 
+100 index, and therefore the trust, will be forced to scale back those 
+stocks. Diane Garnick, an equity derivatives strategist at Merrill 
+Lynch, says the reconfiguration is in fact a good development because 
+it makes the index less of a sector product and therefore more attractive 
+as a general equity-market benchmark. Gaining weight are sectors that 
+are not traditionally associated with Nasdaq _ like consumer cyclicals, 
+which feature companies like Costco, the operator of wholesale warehouses. 
+The cyclicals went to 8 percent of the index from 4 percent, Ms. Garnick 
+said. And overall, technology stocks make up about 67 percent of the 
+index, compared with 76 percent before the adjustment. The question 
+is whether investors are looking for another general market index 
+_ or worse, whether Nasdaq's attempt to reduce the influence of technology 
+stocks on its new index product portends an end to the technology-stock 
+boom. 
+</TEXT>
+</DOC>

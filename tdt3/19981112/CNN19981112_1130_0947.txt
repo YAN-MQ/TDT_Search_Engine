@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0947 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Literary agent lucianne golderg has appeared at a Maryland courthouse 
+to testify and turn over recorded conversations between Linda Tripp 
+and Monica lewinsky. A Maryland grand jury is investigating whether 
+Tripp broke the law by secretly taping telephone conversations with 
+Lewinsky. 
+</TEXT>
+</DOC>

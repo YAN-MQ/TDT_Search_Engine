@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981126.1130.0329 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The northwest is recovering from its second strong storm system in 
+three days. Heavy rains and strong winds set off mudslides, toppled 
+trees, blew over mobile homes and left many residents without power. 
+Flood watches are in effect for several of Oregon's coastal counties. 
+The rain is expected to continue through this afternoon. 
+</TEXT>
+</DOC>

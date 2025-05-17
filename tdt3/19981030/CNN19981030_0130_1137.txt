@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981030.0130.1137 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street recorded its biggest daily gain in nearly two weeks Thursday. 
+The Dow Jones industrial average rose 123 points to close at 8495. 
+</TEXT>
+</DOC>

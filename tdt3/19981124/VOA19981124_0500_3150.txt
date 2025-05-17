@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981124.0500.3150 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+It was a big day on Wall Street. The Dow Industrials surged to a new 
+record high, up 215 points to 9,374, the S&P 500 up 25 points to 1,188. 
+The NASDAQ Composite Index jumped 2.6 percent, up 49 points to 1, 
+977. And, that's business. I'm Les Carpenter. 
+</TEXT>
+</DOC>

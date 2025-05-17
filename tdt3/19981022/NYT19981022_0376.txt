@@ -1,0 +1,47 @@
+<DOC>
+<DOCNO> NYT19981022.0376 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The world's largest initial public offering in dollar terms got off 
+to a soaring start Thursday as shares of NTT Mobile Communications 
+Network Inc., Japan's largest mobile telephone company, jumped more 
+than 19 percent in their first day of trading. The widely anticipated 
+new stock closed 750,000 yen above its 3.9 million yen issue price, 
+ending at 4.65 million yen, or $39,500. The offering raised 2.13 trillion 
+yen, or more than $18 billion, which NTT Docomo, as the company is 
+known, will use to pay down debts and make capital investments. The 
+biggest initial offering before NTT Docomo belonged to its parent, 
+Nippon Telephone and Telegraph Co., which raised $13.6 billion in 
+1986. While the issue price was high, about $33,200, analysts said 
+the stock was deliberately offered at a discount to insure a successful 
+offering and allow individuals, who were allotted 45 percent of the 
+initial shares sold, to profit handsomely. Japanese institutional 
+investors accounted for much of the stock's jump, according to analysts. 
+They were allotted just 25 percent of the offering, but because many 
+of them gauge their performance against the Topix index of stocks 
+listed on the first section of the Tokyo Stock Exchange, they needed 
+to buy more. The Topix is weighted according to market capitalization, 
+and NTT Docomo is now Japan's third-largest company by that measure 
+behind NTT, which owns 67 percent of NTT Docomo after the offering, 
+and the Toyota Motor Corp. Because of its size, the only way institutions 
+can hope to match the index is by owning at least some shares of NTT 
+Docomo. The rest of the shares were allotted to foreign institutional 
+investors. Keiji Tachikawa, the president of NTT Docomo, said the 
+company would consider splitting its stock to make it more accessible 
+to individual investors. The stock is likely to continue to perform 
+well, analysts have said. NTT Docomo controls 57 percent of the Japanese 
+cellular telephone market, which continues to grow, and it is poised 
+to control a large chunk of the market for cellular data transmission 
+if it succeeds in transforming its money-losing PHS voice service 
+into a conduit for digital information. In addition, after the stock 
+market closed here, the company announced that it expected consolidated 
+earnings for the six months that ended Sept. 30 of 85 billion yen, 
+a 97.9 percent increase compared with results from the period a year 
+earlier. Revenue is expected to rise 11.9 percent, to 1.4 trillion 
+yen. Tachikawa said the company would spend 40 percent of the money 
+it raised through the offering to pay down debt, while an additional 
+40 percent would go to write off debts taken on by its regional units 
+to invest in PHS. The rest will go toward capital investment, he said. 
+</TEXT>
+</DOC>

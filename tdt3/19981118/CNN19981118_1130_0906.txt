@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981118.1130.0906 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories now. Independent counsel Ken Starr is expected 
+to testify tomorrow when impeachment hearings begin. White House lawyers 
+will have 30 minutes to question him. They asked for 90. 
+</TEXT>
+</DOC>

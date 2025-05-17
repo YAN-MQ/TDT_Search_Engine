@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981101.1600.0414 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The crew of space shuttle "discovery" has launched one of the mission's 
+primary experiments. They used the shuttle's 50-foot long robot arm 
+this afternoon to release the Spartan satellite. For the next two 
+days, it will observe and gather information about the outer layers 
+of the sun. 
+</TEXT>
+</DOC>

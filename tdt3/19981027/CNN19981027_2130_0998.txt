@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981027.2130.0998 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Americans are showing their concern over the global economic turmoil. 
+This month, consumer confidence fell nine points to its lowest level 
+in almost two years. This is the fourth consecutive drop. A drop indicates 
+fewer people are likely to make a big purchase such as a Home or major 
+appliance. It also means fewer people may plan a vacation and there's 
+an expectation of fewer jobs and lower paychecks. 
+</TEXT>
+</DOC>

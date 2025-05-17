@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981130.2130.0140 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Attorney general Janet Reno has asked a three-judge federal appeals 
+court for an extension to decide whether to recommend the appointment 
+of her eighth independent counsel. Reno now has 60 days to decide 
+if the investigation of former White House aide Harold Ickes warrants 
+an independent counsel. The justice department has been looking into 
+allegations Ickes lied to a Senate committee about whether the Clinton 
+administration attempted to intervene in a teamster's union labor 
+dispute. Ickes has denied any wrongdoing. 
+</TEXT>
+</DOC>

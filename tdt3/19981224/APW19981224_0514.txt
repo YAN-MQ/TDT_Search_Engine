@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> APW19981224.0514 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Share prices fell Thursday on the London Stock exchange, as trading 
+ended early for Christmas Eve. The blue-chip Financial Times-Stock 
+Exchange 100-Share index fell 41.6 points, or 0.7 percent, to 5,867.2. 
+Volume was 100.5 million shares, compared with 449.7 million on Wednesday. 
+</TEXT>
+</DOC>

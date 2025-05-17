@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981017.0130.1469 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The world's most expensive hotel is open for business in Las Vegas. 
+The $1.6 billion bellagio is a mega-resort replicating a tuscan village. 
+The 36-story hotel/casino has 3,000 rooms and 10,000 employees. It 
+sits beside a 22 million-gallon lake with 1,000 fountains. Four additional 
+mega-resorts are scheduled to open on the Vegas strip in the next 
+two years. 
+</TEXT>
+</DOC>

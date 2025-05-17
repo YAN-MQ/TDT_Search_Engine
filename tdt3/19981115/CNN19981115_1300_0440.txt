@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981115.1300.0440 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Today's "Washington Post" reports, district of Columbia police killed 
+more people per resident during the 1990s than any other big-city 
+force. It found officers fired their weapons twice as often as police 
+in New York, los Angeles, Chicago or Miami. 57 people died as a result 
+of police shootings in the nation's capital over the past five years, 
+including nine unarmed civilians. D.C. officers were involved in a 
+total of 640 shooting incidents during that time. "The post" also 
+reports, 19 officers accidentally shot themselves or other officers. 
+</TEXT>
+</DOC>

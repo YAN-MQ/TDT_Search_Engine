@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981102.1600.0299 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now from Washington. I'm Victor Morales along with 
+Tony Riggs. 
+</TEXT>
+</DOC>

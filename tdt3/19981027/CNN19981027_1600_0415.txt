@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981027.1600.0415 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Russian President Boris Yeltsin is in a sanitarium for treatment of 
+what the Kremlin says is exhaustion. Yesterday he canceled a trip 
+to Austria because of high-blood pressure and fatigue. Prime minister 
+Yevgeny Primakov went to Vienna in his place to meet with international 
+leaders. Yeltsin's current health problems are raising questions about 
+his ability to stay in office amid Russia's worst economic crisis 
+of the post-Soviet era. 
+</TEXT>
+</DOC>

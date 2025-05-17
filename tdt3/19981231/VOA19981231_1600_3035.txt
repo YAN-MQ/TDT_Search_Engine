@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981231.1600.3035 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Once again, the Dow Jones Industrial Average ends up 1998 at 91081. 
+That was down 93 points today. This is Breck Ardery. Thank you. Breck. 
+</TEXT>
+</DOC>

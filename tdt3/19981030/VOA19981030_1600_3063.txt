@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981030.1600.3063 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In London, the Financial Times 100 Share Index ended the week with 
+a gain of 79 points at 5, 438. Wire Paris, the CAX 40 Index was up 
+39 points at 3,522. The DAX Index in Frankfurt was 121 points higher 
+at 4,671. In Tokyo, the Nikkei Index fell 104 points to close at 13,565, 
+while in Hong Kong, the Hengseng Index gained 223 points to end the 
+week at 10,155. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981225.1130.0163 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A cold snap is causing problems for people across the country this 
+christmas morning. Weather-related accidents have killed about 30 
+people in Texas, Virginia, louisiana, North Carolina and Alabama alone. 
+Streets everywhere are snarled with traffic. Flight delays and cancellations 
+are also being reported at many airports. Hundreds of thousands of 
+people have no electricity this morning. In California, three nights 
+of freezing temperatures have wiped out most of the state's oranges 
+and lemons. Industry losses were put at about $600 million. 
+</TEXT>
+</DOC>

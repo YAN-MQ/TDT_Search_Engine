@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981227.1600.1470 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+What's rated as the world's toughest canoe race is under way in Australia. 
+Over 1,000 competitors, in all sorts of crafts, have set off in the 
+Murray river marathon. The six-day trek takes canoeists 250 miles 
+down the mighty Murray. The unseasonably strong cold and strong head 
+winds already are making the going tough. The race is raising money 
+for the red cross and will end on new year's eve. 
+</TEXT>
+</DOC>

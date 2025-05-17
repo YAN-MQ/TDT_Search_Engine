@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981029.1600.0519 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"Headline News" forecast. We'll see a mixture of rain and snow over 
+Utah and Nevada today. Plain rain over Missouri into Arkansas along 
+the frontal boundary. Beautiful weather in the southeast and the northwest. 
+Later into Thursday evening, we'll see more snow develop over the 
+Rockies. That will continue through Friday. And by Friday afternoon, 
+we're going to see a good bit of rain in the northeast with some rain 
+approaching the northwest, beautiful weather continuing across the 
+gulf coast. High temperatures for Thursday -- 40s and 50s in the north. 
+In the south, quite warm along the gulf cost with highs in the 80s. 
+And we'll see 60s in the central section of the country. Your extended 
+forecast -- rain in the northeast and the northwest. Snow showers 
+over the central and southern Rockies. On Sunday, the rain continues 
+in the northeast and the northwest. Showers and thunderstorms in the 
+plains states. And then on Monday, continued cool weather with highs 
+only in the 30s in the northern plains. Wide areas of scattered showers 
+in the northeast and the northwest. Remember, you can get your four-day 
+forecast for more than 7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

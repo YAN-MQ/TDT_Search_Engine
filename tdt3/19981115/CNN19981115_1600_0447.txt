@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981115.1600.0447 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Traffic jams aren't just a big-city problem anymore. Researchers for 
+the Texas transportation institute say their study of the 70 largest 
+urban areas shows congestion in small and medium-sized cities is growing 
+at a much faster rate than in big urban areas. Commuters in small 
+and medium-sized cities are spending four times as long in traffic 
+as they did in 1982. Suburbs with the highest congestion include Los 
+Angeles, Washington, the miami area, Chicago and the San Francisco-Oakland 
+area. Those suburbs least congested Bakersfield, California, Laredo, 
+Texas, colorado springs, Colorado, Beaumont, Texas and corpus Christi, 
+Texas. 
+</TEXT>
+</DOC>

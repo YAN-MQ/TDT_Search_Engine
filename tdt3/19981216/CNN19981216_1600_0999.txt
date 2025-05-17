@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981216.1600.0999 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Oil stocks shoot higher. I'm Terry Keenan with this edition of "Dollars 
+& Sense." As the nation turns to the situation in Iraq, oil prices 
+are skyrocketing. Be sure to keep watching CNN for full coverage of 
+the latest developments in Iraq. 
+</TEXT>
+</DOC>

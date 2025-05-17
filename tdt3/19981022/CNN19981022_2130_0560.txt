@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981022.2130.0560 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "Headline News weather" 
+forecast for Friday. It'll be quiet in the eastern United States, 
+a bit on the cool side, but things will warm up as the day goes on 
+and we begin to see some southerly winds on the back side of that 
+high-pressure area. Meanwhile, showers will continue in the southwest 
+in west Texas and we could see some snow above about 10,000 feet in 
+some of the southwestern mountains of Colorado. There is a front pushing 
+toward the northwest. It will bring not only cooler temperatures but 
+some rain as well. Highs on Friday across much of the country, 60s 
+and 70s. Across the northeast, just 40s and 50s. We will see a few 
+80s in the desert southwest. Looking ahead to Saturday, wet and windy 
+weather moves into the northwest. It's dry elsewhere except for some 
+thunderstorms that are possible in southern Florida. The northern 
+half of the country will see 50s and 60s. We'll see 70s and 80s in 
+the south. Sunday, showers move toward the rocky mountains. And on 
+Monday, showers into the central plains and continuing in the northwest. 
+Don't forget, four-day forecast, 7,200 cities at CNN.com. 
+</TEXT>
+</DOC>

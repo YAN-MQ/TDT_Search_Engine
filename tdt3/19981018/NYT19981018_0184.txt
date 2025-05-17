@@ -1,0 +1,71 @@
+<DOC>
+<DOCNO> NYT19981018.0184 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Jonathan Postel, who played a pivotal role in creating and administering 
+the Internet, died of complications after undergoing heart surgery 
+on Friday at St. John's Hospital in Santa Monica, Calif., his brother 
+Thomas Postel said. He was 55 and lived in Los Angeles. Postel, a 
+computer scientist at the Information Sciences Institute, a branch 
+of the University of Southern California in Marina del Rey, was a 
+creator of the Internet's address system. For 30 years he handled 
+the administrative end of Internet addresses under the auspices of 
+the Internet Assigned Numbers Authority, or IANA, a federally financed 
+entity. ``Jon's greatest achievement was operating IANA,'' said Stephen 
+Crocker, a colleague of Postel. ``It is a very central piece of the 
+infrastructure. As mundane and as simple as it seemed, he set policies 
+that made it very easy for the network to grow. He minimized bureaucratic 
+delay and at the same time kept silly and nonsensical things to a 
+minimum.'' Postel's interest in computers began while he attended 
+a community college in Los Angeles in the 1960s. He once described 
+himself as a ``mediocre student,'' a late academic bloomer whose intense 
+interest in computer science in general, and networking in particular, 
+did not begin until he transferred to the University of California 
+at Los Angeles, where he received his undergraduate degree in engineering 
+in 1966. He was one of a small group of computer scientists who created 
+the Internet's precursor, the Arpanet. At UCLA in 1969, Postel assisted 
+in the installation of the Arpanet's first communications switch, 
+which routed network traffic. For nearly 30 years, Postel also served 
+as editor of the Request for Comments series, or RFCs, technical notes 
+that began with the earliest days of the Arpanet and continued into 
+the Internet. Though intended to be informal, such notes often laid 
+the foundation for technical standards governing the Internet's operation. 
+Nearly 2,500 RFCs have been produced. As editor, Postel was technically 
+rigorous, often refusing to distribute an RFC until he was satisfied 
+that it made good engineering sense and showed tasteful design. ``His 
+taste in design was by and large extraordinary,'' said Vinton Cerf, 
+chairman of the Internet Society, a professional group to which Postel 
+belonged. ``And yet he did it in a way that you were only barely conscious 
+that was nudging you toward better design. As the rest of the Internet 
+unfolds, we're going to discover that Jon isn't there to remind us 
+what good taste means.'' As part of the effort to hand administration 
+of the Internet over to a private international corporation, earlier 
+this month Postel had delivered to the government a proposal to transform 
+the IANA into a nonprofit corporation, with broad representation from 
+the commercial and academic sectors. The proposed organization has 
+been incorporated and has an interim board of directors. Pending final 
+approval from the Department of Commerce, the new entity is prepared 
+to take up its responsibility, Cerf said. As testament to Postel's 
+control over the highest levels of the Internet, in conducting a test 
+of its reliability this year he rerouted the network's directory service 
+to alternate locations. Although there was no disruption of the Internet's 
+operation, the incident attracted widespread attention. Postel said 
+he was conducting an experiment to demonstrate the network's backup 
+capability. Explaining the action, Crocker said, ``I think he was 
+exercising his legitimate responsibility to make sure the network 
+worked as advertised.'' Postel obtained a master's degree in engineering 
+in 1968 and a doctorate in computer science in 1974, both from UCLA. 
+In addition to the Internet Society, where he served as a trustee, 
+Postel was a member of the Association for Computing Machinery. Besides 
+his brother Thomas of Sherman Oaks, Calif., Postel is survived by 
+his companion, Susan Gould of Los Angeles; his mother, Lois Postel 
+of Sherman Oaks; another brother, Russell Postel of Sebastopol, Calif., 
+and a sister, Margie Bradshaw of Paisley, Scotland. Postel assiduously 
+avoided conflicts of interest. In 1995, as the Internet was growing 
+into a commercial business, a reporter asked him why he had repeatedly 
+turned down opportunities to pursue wealth. He replied that starting 
+a company to profit from his activities would have amounted to what 
+he called a ``violation of public trust.'' 
+</TEXT>
+</DOC>

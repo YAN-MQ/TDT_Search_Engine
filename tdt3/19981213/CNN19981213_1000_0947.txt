@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981213.1000.0947 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is meeting -- says he has no intentions of resigning. 
+He's meeting with Israeli prime minister Benjamin Netanyahu today, 
+as he tries to save the wye river peace agreement. 
+</TEXT>
+</DOC>

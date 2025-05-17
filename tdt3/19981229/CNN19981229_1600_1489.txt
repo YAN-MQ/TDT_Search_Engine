@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981229.1600.1489 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Universal studios says it's thrilled with how "patch Adams" is doing 
+at the box office. The movie, starring Robin Williams, opened Christmas 
+day, earning a record $25 million for a Christmas weekend. It was 
+nominated for two golden globe awards before it was ever released. 
+The movie is about a medical student who uses humor to treat his patients. 
+</TEXT>
+</DOC>

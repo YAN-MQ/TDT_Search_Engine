@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981231.1600.0480 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Next in our series -- "Y2K: unplugged." Are utilities in the dark 
+when it comes to the millennium bug? That's at 1:00 A.M. eastern. 
+Then, tomorrow at this time -- "government gears up." Which agencies 
+are ready for the year 2000, and which are lagging behind? For more 
+background information, visit our web site at CNN.com/Y2K. Coming 
+up -- the new year marks the ambition of a new project. The turning 
+points for the countries of Europe. 
+</TEXT>
+</DOC>

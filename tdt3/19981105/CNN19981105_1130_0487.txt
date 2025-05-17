@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981105.1130.0487 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Up next, the national extended weather forecast. I'm meteorologist 
+Dave Hennen with your "CNN Headline News Weather." 
+</TEXT>
+</DOC>

@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> NYT19981026.0201 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Q. (italics)I have heard that all the stars we can see with the naked 
+eye, except for a few faint nebulae, are part of our own galaxy. If 
+that is so, why aren't the visible stars confined to the Milky Way 
+band?(end italics) A. ``The filmy band of light that we perceive in 
+the sky as the Milky Way does contain the bulk of the stars in our 
+galaxy,'' said Joe Rao, lecturer at the Hayden Planetarium of the 
+American Museum of Natural History, but viewers on Earth have a clear 
+view of some individual neighbors, which are in a different part of 
+the galaxy. Earth is imbedded in one of the spiral arms of this galaxy, 
+about two-thirds of the way from its center to the far edge, he explained. 
+As a result, all the stars in Earth's general vicinity, or at least 
+those within a few thousand light-years, are seen strewn all around 
+the night sky. Any faint nebulae seen with the unaided eye are actually 
+part of Earth's home galaxy as well, Rao said. The naked-eye objects 
+that are outside the Milky Way are its two satellite galaxies, known 
+as the Large and Small Magellanic Clouds, sometimes called Nebecula 
+Major and Nebecula Minor; the Andromeda Galaxy, and (in very dark 
+skies, for very sharp eyes) the Pinwheel Galaxy, M33, in the constellation 
+Triangulum. Early in this century, when the true nature of these objects 
+was unknown, they were referred to as ``spiral nebulae.'' Readers 
+are invited to submit questions about science by postal mail to Questions, 
+Science Times, The New York Times, 229 West 43rd Street, New York, 
+N.Y. 10036-3959, or by e-mail to: question(AT)nytimes.com. 
+</TEXT>
+</DOC>

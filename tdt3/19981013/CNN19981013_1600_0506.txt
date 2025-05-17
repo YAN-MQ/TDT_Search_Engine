@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981013.1600.0506 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll be right back. The extended weather forecast is next. This is 
+meteorologist Valerie Voss with your "Headline News weather forecast" 
+for Wednesday. 
+</TEXT>
+</DOC>

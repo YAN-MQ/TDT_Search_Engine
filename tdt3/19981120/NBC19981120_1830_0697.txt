@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981120.1830.0697 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street, it was a good day for the Dow. It was up 103 1/2 points. 
+The NASDAQ also was up 8 1/2 points today. For the week, the Dow has 
+gained almost 240 points. The NASDAQ was up almost 80 points for the 
+week. 
+</TEXT>
+</DOC>

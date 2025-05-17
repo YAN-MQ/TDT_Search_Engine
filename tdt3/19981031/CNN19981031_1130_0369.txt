@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981031.1130.0369 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A federal judge in Washington has ordered an investigation into the 
+office of independent counsel Ken Starr. The judge cited 24 cases 
+where secret grand jury information from the monica Lewinsky investigation 
+was improperly leaked to the media. Starr's office has promised to 
+cooperate, but denied it was the source of the leaks. 
+</TEXT>
+</DOC>

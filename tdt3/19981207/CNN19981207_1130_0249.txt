@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981207.1130.0249 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court has agreed to hear a case with potentially broad 
+consequences for the field of product liability law. At issue is a 
+judge's latitude in admitting testimony from an expert witness. The 
+case grew out of a lawsuit over a fatal auto accident allegedly caused 
+by a faulty tire. The judge in the case denied the plaintiffs' request 
+to present testimony from a tire expert. Court watchers say they suspect 
+the justices will continue to give judges room to decide. 
+</TEXT>
+</DOC>

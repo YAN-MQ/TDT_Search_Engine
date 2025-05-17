@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981023.1600.0171 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In other news -- Texas governor George W. bush is telling residents 
+of flood-ravaged Texas there's a brighter day coming. Today, bush 
+got a firsthand look at damage from flooding that has buried the towns 
+of Victoria and Cuero under water. He surveyed the scene from the 
+air and on the ground, accompanied by FEMA director James Lee witt. 
+Flooding and tornadoes in central and south Texas have killed 29 people 
+and caused half a billion in damage. Witt added five more counties 
+to the 20 eligible for federal aid. 
+</TEXT>
+</DOC>

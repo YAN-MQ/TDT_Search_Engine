@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981022.2000.2005 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Now for THE WORLD... THE WORLD is brought to you by Lucent Technologies, 
+serving the Internet with innovations from Bell Labs. This is THE 
+WORLD, a co-production of the BBC World Service, PRI, and WGBH in 
+Boston. I'm Lisa Mullins. 
+</TEXT>
+</DOC>

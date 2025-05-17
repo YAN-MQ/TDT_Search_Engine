@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981108.1000.1654 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The day's top stories are two minutes away. I'm Judy Fortin. This 
+is "CNN Headline News." 
+</TEXT>
+</DOC>

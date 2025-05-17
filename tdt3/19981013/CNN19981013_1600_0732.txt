@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981013.1600.0732 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This week on the "cold & flu report," for most of us, the flu means 
+a miserable few days in bed. But for the elderly and the very young 
+and others who may have weakened immune systems, the flu can be deadly. 
+Experts say in a normal year, about 20,000 Americans die from the 
+flu. Sometimes the flu itself does the damage, and sometimes it opens 
+the way for pneumonia or other secondary infections. Experts say the 
+best way to prevent the flu is to get a yearly flu vaccine. 
+</TEXT>
+</DOC>

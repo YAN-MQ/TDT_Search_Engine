@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981021.0600.2934 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The dollar was little changed in Tokyo from a late Tuesday quote of 
+116.4 yen in New York. 
+</TEXT>
+</DOC>

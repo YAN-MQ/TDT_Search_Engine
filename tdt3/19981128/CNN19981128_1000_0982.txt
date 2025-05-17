@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> CNN19981128.1000.0982 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Several big companies caught merger fever this week, one symptom of 
+which was a surge in the Dow. Stan case looks at the week in business. 
+From the Internet to banks, to big oil, billion-dollar mergers dominated 
+the business news this week. It began when America online announced 
+it was buying Netscape for $4.2 billion in stock. AOL is the nation's 
+biggest Internet provider, and Netscape provides the software many 
+people use to browse the web. The deal includes sun Microsystems, 
+and will help that company promote its java programming language. 
+Germany's Deutsche bank confirmed it's preparing to buy banker's trust 
+for more than $9 billion in cash. It's the biggest take over of a 
+U.S. financial company by an overseas bank. Deutsche bank wants a 
+foothold in the American stock and bond markets. Exxon and mobile 
+announced they're in merger talks, too. The proposed deal would be 
+the biggest in history, create the biggest energy company in the world, 
+and the biggest company of any kind in the United States. All this 
+merger talk pushed Wall Street into record territory. The Dow industrials 
+were up nearly 2% for the week. And then there's the merger that wasn't. 
+The Yankees broke off talks with cablevision. Cablevision already 
+owns the New York Knicks and rangers. But sources say discussions 
+broke down over how much control Yankee owner george Steinbrenner 
+would keep if the deal went through. That's "business this week," 
+Stan case, "CNN Headline News." 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981022.1130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a check of our top stories -- toymaker Fisher price is recalling 
+up to 10 million battery-run power wheels vehicles. The consumer products 
+safety commission says the toy cars' electrical components can overheat 
+and cause fires. 
+</TEXT>
+</DOC>

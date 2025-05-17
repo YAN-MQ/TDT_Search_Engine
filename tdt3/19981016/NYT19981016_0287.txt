@@ -1,0 +1,272 @@
+<DOC>
+<DOCNO> NYT19981016.0287 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+James Alderson maneuvered his 9-year-old Ford Tempo through the snow, 
+parking beside the federal courthouse in Butte, Mont. Alderson, a 
+small-town hospital accountant, left the heat on, telling his wife, 
+Connie, to wait in the car. He was sure it would only take a moment 
+to file his lawsuit on behalf of the United States, charging four 
+giant hospital companies with fraud. For years before that January 
+morning in 1993, Alderson stewed with the belief that the companies 
+_ the huge Hospital Corp. of America and three of its corporate spinoffs 
+_ had cheated the government with bogus expense claims. While working 
+at a Montana hospital run by one of those companies, Alderson himself 
+had been asked to create a second set of books recording different 
+expenses than those reported to the government. He had refused, saying 
+it was unethical. Then his world fell apart. Alderson was forced out 
+of his job. No longer able to afford the comfortable life of his resort 
+hometown of Whitefish, his family moved to a cramped apartment in 
+rural Montana. Some college savings for his two teen-age children 
+were eaten up. His career in hospital financial management seemed 
+to be dwindling to a uncertain end. Yet, he could not let go of his 
+anger at the hospital giants for actions he felt sure were illegal. 
+So when a friend described the federal whistle-blower law that allows 
+private citizens to file fraud actions on behalf of the United States, 
+Alderson decided to act, drafting his own lawsuit against the companies 
+and then making this drive to Butte to file it under seal in court. 
+It was a battle so farfetched _ one man versus four huge corporations 
+_ that Don Quixote's odds against the windmills seemed better. But, 
+at least for now, Alderson has gotten the best of his windmills. The 
+filing of his lawsuit _ known as a qui tam, or false claims, case 
+_ was the flash point for an almost six-year legal battle, one that 
+led to criminal and civil investigations that have rocked the entire 
+hospital industry. Those efforts culminated this month with the unsealing 
+of Alderson's lawsuit and the announcement by the government that 
+it was joining him as a plaintiff against the Columbia/HCA Healthcare 
+Corp. and the Quorum Health Group _ the corporate defendants that 
+emerged from years of industry consolidation. Lost amid the tumult 
+was the story of Alderson, now 52. Since the day he filed his lawsuit, 
+he and his family have been silent about it, restricted from letting 
+even friends or relatives know about Alderson's secret life working 
+with law enforcement. For the first time, Alderson is telling his 
+story. In a wide-ranging series of interviews, he described the events 
+that led him to conclude that the hospital giants were engaged in 
+fraud. And he spoke of the long road he followed from the day the 
+suit was filed until the government publicly declared that it believed 
+he was right. That means Alderson could share in as much as 25 percent 
+of any recovery _ an amount that could easily reach into the millions. 
+Alderson's unusual story was also pieced together through court and 
+corporate records, as well as interviews with family members, business 
+acquaintances, lawyers and friends _ most of whom marveled that this 
+seemingly ordinary man could achieve such an extraordinary outcome. 
+``Here, a discovery made by one man at a small rural hospital ultimately 
+unraveled a nationwide, systemwide scheme,'' said Stephen Meagher, 
+a former prosecutor who was eventually hired by Alderson to handle 
+the case. ``It shows how one person can truly make a difference.'' 
+The Early Days _ From the Start, Not Willing to Quit The 10-year-olds 
+skied down the slope of the Montana mountain, weaving gracefully through 
+the gates. Every child but one reached the bottom in a flash. But 
+the last boy stopped when he missed a gate, slowly walked sideways 
+up the slope back to it, and skied through. Again and again, he repeated 
+the move, each time he missed a gate. Ten minutes later, when he finished 
+that 1956 race, James Alderson was confronted by grumbling from impatient 
+skiers. ``I didn't know you were supposed to quit,'' Alderson said 
+recently. It was a trait that would play a role in his eventual journey 
+into whistle-blowing. He worked throughout his teen-age years, and 
+while attending Montana State University he decided to commit himself 
+to accounting. Working for Arthur Andersen &AMP; Co. during college, 
+he remembers being asked one day to bring an audit to a partner for 
+signature. He watched, enthralled, as the partner brought out a fountain 
+pen and a blotter with a big flourish. ``You just sensed that this 
+ceremony meant that this was quality work,'' he said. ``It just meant 
+to me that if I ever signed anything as an accountant, it had better 
+be right. And whenever I did sign audit reports, I always flashed 
+back to that first time.'' By the early 1970s, Alderson, married and 
+with a new daughter, decided to move to a slower life in Whitefish, 
+a ski town in Montana's northwest corner. He opened an accounting 
+practice, and business built quickly. Soon, his clients included the 
+local hospital, North Valley. By 1984, when the hospital needed a 
+finance officer, Alderson was offered the job. For six years, he handled 
+the hospital's affairs. But in 1990, Dale Jessup, the top administrator, 
+moved on, and the hospital board decided to turn to a management company. 
+Executives from Quorum, which had recently spun off from HCA, traveled 
+to Whitefish to make a presentation. They described how their purchasing 
+power could save the hospital huge sums on supplies. Moreover, they 
+said, Quorum's financial experts would be able to obtain maximum reimbursement 
+for hospital expenses filed with the government through what is known 
+as the cost-reporting system. The board was impressed, and in the 
+summer of 1990 Quorum was selected to run North Valley. It was a decision 
+that would change Alderson's life. The Choice _ A New Administrator, 
+A Troubling Question It was a late September afternoon in 1990, about 
+two months after Quorum had assumed management of North Valley. Alderson 
+was meeting with a consultant who helped prepare the hospital's government 
+cost report when Clyde Eder, a Quorum administrator, stepped into 
+the room. Eder asked the two men whether they usually prepared two 
+cost reports. They were uncertain what he meant. ``I said, `No, we 
+just prepare one cost report,''' the consultant, Jack Schisel, recalled 
+in an interview. ``I thought he was talking about maybe preparing 
+one for Medicaid and a different one for Medicare.'' But Eder meant 
+something quite different. Quorum submitted aggressive cost reports 
+to the government, claiming the largest possible number of expenses. 
+But in case a later audit rejected those claims, the company also 
+assembled a second set of more conservative reports for its internal 
+use. Those reports estimated how much of the filed report could potentially 
+be reversed; that amount of money was kept in reserve. Then, if the 
+standard two-year period in which an audit could occur, the hospital 
+could book the reserves as revenue. Alderson bristled at what he heard. 
+``I told him I never did two tax returns for anyone when I was an 
+accountant,'' he said, ``and I wasn't going to do two cost reports.'' 
+Eder seemed bewildered by the response, but left without much further 
+comment. The two Montana accountants looked at each other. ``Then 
+I said to Jim, `Boy, that sounds a bit like fraud,''' Schisel said. 
+``And Jim agreed.'' A spokeswoman for Quorum said Eder was unavailable. 
+In a deposition, Eder said that he did not remember this specific 
+encounter. But he acknowledged the existence of the reserve reports, 
+which he called ``common in the industry.'' A few days after the encounter, 
+Alderson was on a Quorum managers trip in Juneau, Alaska. During breakfast 
+Sunday morning, he said, Eder told him that he was being dismissed. 
+In a deposition, Eder denied dismissing Alderson, saying that he was 
+offering advice on what he needed to do to keep his job. Regardless, 
+Alderson returned to Montana a wrecked man. ``My sister and I picked 
+him up from the airport, and he just looked distraught,'' said Justin 
+Alderson, Alderson's son, who is now 22. ``He told us he had been 
+fired, and I remember asking what we were going to do. His response 
+was, `I don't know, but we'll figure something out.''' But Alderson 
+could not find another job in Whitefish that paid enough; eventually, 
+he took a financial position with a small hospital in the rural town 
+of Dillon, Mont. He and his family hated it. But the more he thought 
+about what had happened in Whitefish, the angrier he became. He was 
+sure he had been forced out because of his refusal to keep two sets 
+of records. Worse, he realized that Quorum used accounting handbooks 
+of its former parent, HCA. If Quorum manipulated cost reports, he 
+thought, HCA must as well. He filed a wrongful termination lawsuit 
+and demanded copies of reserve reports and related records. The documents 
+seemed to back up his worst fears. But the suggestions of wrongdoing 
+during that case's depositions _ which have never before been made 
+public _ outraged hospital lawyers. ``You're on a fishing expedition,'' 
+James Heckathorn, a hospital lawyer, told him during a 1992 deposition. 
+Heckathorn demanded to know what details Alderson had to ``make these 
+serious allegations against North Valley Hospital that they're performing 
+unlawful acts.'' About that time, Alderson phoned Jessup, the hospital's 
+former administrator. ``He told me what Quorum was doing, and I told 
+him it sounded fraudulent to me,'' Jessup said in a recent interview. 
+``And I told him I had just heard about a case in California, called 
+a qui tam case, which allowed an individual to file a fraud suit on 
+behalf of the government.'' Alderson hung up the phone with new resolve. 
+He had never heard of qui tam cases and knew little of the federal 
+whistle-blower law. But he decided that he was going to learn whatever 
+he could about it. The Lawsuit _ Bringing in Help From the Government 
+In December 1992, Alderson sat at a desk in his home office, addressing 
+an envelope to William Barr, then the attorney general of the United 
+States. The draft of the lawsuit he had written was ready for review 
+by the government. From his research at a law library in Missoula, 
+about 175 miles away, Alderson knew he had to notify the government 
+of his case before filing it, and he decided to go directly to the 
+top. Once the envelope was ready, he headed down to post office and 
+dropped it in the mail. To his family, it seemed almost absurd. ``I 
+thought he was crazy,'' said Connie Alderson. ``The whole thing had 
+just kind of consumed him.'' But by her husband's reading of the law, 
+the government had 60 days to decide whether to join the lawsuit and 
+then take over. The Aldersons figured the wait would not be hard. 
+``I thought that asking for 60 days of your life wasn't any big deal,'' 
+Mrs. Alderson said, adding, ``It's been a long 60 days since then.'' 
+Days after it was sent, the draft complaint landed on the desk of 
+Marie O'Connell, a lawyer in the Justice Department's civil division 
+in Washington. She telephoned Alderson, telling him that the government 
+could not begin investigating until he filed the complaint under seal 
+and suggested that he do so at the federal courthouse in Butte. Alderson 
+did, and then he sent Ms. O'Connell copies of the cost-report documents 
+obtained in his wrongful-termination case. Ms. O'Connell had referred 
+the matter to the inspector general in the Department of Health and 
+Human Services. A federal investigation was under way. In March, with 
+those 60 days almost up, Ms. O'Connell called again. There was a lot 
+still to investigate, she said, and she hoped he would not oppose 
+a government motion for an extension. ``Man, I said that sounds fine,'' 
+Alderson recalled, ``because at least they didn't say `no.''' The 
+investigation seemed to pick up speed in May, when Ms. O'Connell hooked 
+Alderson into a conference call with an investigator from the inspector 
+general's office. To Alderson, they seemed excited about the case 
+and ready to act. Just days later, the government served Quorum with 
+subpoenas seeking years of cost reports and reserve reports. As the 
+documents came in, boxes of materials were sent to Alderson for review. 
+His home was overrun with bankers' boxes stuffed with cost reports, 
+each of which Alderson sat down and analyzed. ``I remember him coming 
+home after work, sitting down at an old 386 computer, and just making 
+spreadsheet after spreadsheet,'' said Justin Alderson. ``It was almost 
+like his second full-time job.'' By August, investigators decided 
+they needed to meet with Alderson; in turn, he decided he needed a 
+cost report expert to help explain the case to the government. He 
+hired Nicholas Bordeau, a former Medicare auditor who worked as an 
+accountant. After Bordeau signed a confidentiality agreement, Alderson 
+showed him the documents. To Bordeau, the records demonstrated a scheme 
+to misrepresent expenses to the government to illegally increase reimbursement. 
+``I couldn't believe what I was seeing,'' Bordeau said. ``I thought 
+it was a Medicare auditor's worst nightmare. It was an organized system 
+to take advantage of the Medicare system.'' In August, at Alderson's 
+expense, the men flew to Washington to meet with investigators. Back 
+home in Montana, Alderson's family told friends who asked that he 
+had gone to visit his brother. The two men walked through security 
+at the Justice Department and were whisked to a meeting room filled 
+with investigators. Alderson made a presentation to the assembled 
+group, explaining what he had learned. Afterward, the investigators 
+questioned Bordeau about the arcane practices at issue. ``They were 
+full of doubt,'' Bordeau said. ``They were saying it was too complex, 
+that they doubted that it really happened. But I was so sure. I just 
+kept hammering away at it.'' Soon after the meeting, Alderson decided 
+he needed his own lawyer to push along the government lawyers. With 
+his own money, he flew to Kansas City and hired a law firm, but one 
+with little experience with qui tam cases. With the case slogging 
+through the Justice Department, Justin Alderson bought a present to 
+lift his father's spirits: a pen engraved with a family motto for 
+tough competitions: ``Keep your head down.'' He told his father to 
+use the pen only to sign the settlement papers when the case was eventually 
+resolved. Alderson put the pen away, vowing not to touch it again 
+until that day. The Lawyer _ New Life Breathed Into the Lawsuit Jim 
+Alderson first saw Stephen Meagher's name late in 1995, in a news-clipping. 
+The former federal prosecutor worked with the San Francisco office 
+of Phillips &AMP; Cohen, a law firm that specialized in qui tam suits; 
+he was quoted in an article about Medicare fraud. This, Alderson decided, 
+was the lawyer he needed. By now, the investigation had stretched 
+on almost three years. Every defendant but Quorum had been purchased 
+by the burgeoning Columbia Healthcare Corp., and Alderson felt the 
+government had missed an opportunity to strike a settlement before 
+those deals were done. He flew to California to tell his story to 
+Meagher and his colleagues. ``I have seen few plaintiffs as prepared, 
+and as prepared to be relentless, as Alderson,'' Meagher said. ``He 
+made a very persuasive case.'' Meagher took the case, which to Alderson 
+seemed the best hope of salvaging his efforts. He had made many sacrifices 
+by then. Attending a seemingly endless stream of government meetings, 
+he had missed everything from some of his son's football games to 
+being at his mother's side on the day she died. Visits to his daughter, 
+Jennifer, at college became opportunities for research at the law 
+library. Meagher set to work putting new life in the case. After conducting 
+his own investigation, in the summer of 1996 he got in touch with 
+Joseph Ford, an agent he knew with the Federal Bureau of Investigation 
+in Florida. With information Meagher provided, the FBI began a criminal 
+investigation of cost-reporting fraud by Columbia. Within two months, 
+Meagher filed a new complaint in the case and later moved it to Florida. 
+The precedents on cost-reporting fraud were particularly strong there, 
+and, because of the elderly population, juries were more sympathetic 
+to allegations of Medicare fraud. By 1997, the civil and criminal 
+investigations were moving rapidly. In July, FBI agents raided Columbia 
+hospitals in six states. Weeks later, three Columbia executives in 
+Florida were indicted for cost-reporting fraud. Alderson, who by the 
+beginning of this year had moved for a job with a group of Oregon 
+hospitals, watched in awe what his efforts had wrought. His family 
+began clipping news articles and taping television shows about the 
+scandal. For the first time, cost-reporting fraud was the talk of 
+the health care industry. Despite the developments, the government 
+asked for more extensions in Alderson's qui tam lawsuit. Sixty days 
+had become five years, and the family wondered if the seal on the 
+case would ever be lifted. Finally, early this month, on Oct. 2, Alderson 
+heard the news from Meagher: the government had officially joined 
+the case. The lawsuit would be unsealed on Oct. 5. The Aldersons were 
+scheduled to be with friends in Las Vegas, Nev., that day. Alderson 
+woke at the motel there at 5:30 in the morning, and anxiously turned 
+on the television to watch for news of the unsealing. Once the news 
+broke, the Aldersons telephoned friends and family, explaining away 
+the stories they had been forced to tell for years. Later, Alderson 
+made the call that most worried him _ to a board member of one of 
+the hospitals where he worked. He feared his new fame as a whistle-blower 
+would ruin his chance to continue in the industry. But the board member 
+put those concerns at ease. All Alderson's role in the case proved, 
+the board member said, was that the hospitals had picked the right 
+man to run their finances honestly. Today, Alderson and his family 
+refuse to speculate on how much money they might share in if, as expected, 
+there is a settlement in his long-fought case. But Alderson is confident 
+of one thing: He expects that, sometime soon, he will fetch the gift 
+pen from his son, and use it for the first and only time. 
+</TEXT>
+</DOC>

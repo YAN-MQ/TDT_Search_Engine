@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981130.1600.1070 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Meanwhile talks between Exxon and mobile could produce a merger announcement 
+as early as tomorrow. A combination of the two would form the world's 
+largest oil company. Some 12,000 jobs would likely be eliminated as 
+a result. Mobil stock has been up 10% since news of the new talks 
+surfaced. Falling oil prices and heated competition have made it difficult 
+for oil companies to remain profit inl. And talk of mergers has increased 
+in the industry. 
+</TEXT>
+</DOC>

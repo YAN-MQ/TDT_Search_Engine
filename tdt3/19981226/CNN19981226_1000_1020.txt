@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981226.1000.1020 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Alan Greenspan had a Christmas present of sorts for the nation. He 
+and the other policy makers decided this week not to raise key short-term 
+interest rates at their final scheduled meeting of the year. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981222.1130.1347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the Toronto blue Jays signed recently acquired Joey Hamilton to 
+a Three-year contract. 
+</TEXT>
+</DOC>

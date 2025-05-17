@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981228.2130.0369 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+firefighters near galveston bay, texas, say they'll work through the 
+night dousing a burning freighter with water. flames broke out today 
+in the engine room of the ship and spread throughout the vessel. the 
+coast guard has rescued 23 people. two remain missing. authorities 
+say they've had to call in oil spill crews because the ship is carrying 
+more than 150,000 gallons of fuel oil. still, authorities say there's 
+little danger of an explosion, or an oil spill. 
+</TEXT>
+</DOC>

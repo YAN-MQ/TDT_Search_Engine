@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981129.1130.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Palestinian President Yasser Arafat is in Washington for a series 
+of high-level meetings. Arafat is scheduled to meet with President 
+Clinton at the White House tomorrow. 
+</TEXT>
+</DOC>

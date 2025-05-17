@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981022.1830.0576 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After spending most of the day in minus territory, the Dow Jones industrial 
+average rallied in the final hour of trading, ending up 14 points. 
+The NASDAQ climbed even higher, up almost 28 points. The top five 
+technology stocks were mixed. 
+</TEXT>
+</DOC>

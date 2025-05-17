@@ -1,0 +1,59 @@
+<DOC>
+<DOCNO> NYT19981016.0265 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Social Security benefits will rise 1.3 percent next year, the government 
+announced Friday. That would be the smallest cost-of-living increase 
+since 1987. More than 44 million Americans receive such benefits. 
+Most are elderly, but about 30 percent are under the age of 65. The 
+increase is small because inflation, as measured by the Consumer Price 
+Index, has been exceptionally low. The Commissioner of Social Security, 
+Kenneth Apfel, said the average monthly Social Security check for 
+retired workers would rise next year by $10, to $780. For an elderly 
+couple, both receiving benefits, the average check will rise by $17, 
+to $1,310. Benefits in a number of other programs are also tied to 
+the Consumer Price Index. The maximum monthly payment for 6.6 million 
+low-income individuals receiving Supplemental Security Income will 
+rise to $500, from $494. In a separate announcement, the Department 
+of Health and Human Services said that the monthly Medicare premium 
+would rise next year to $45.50. For the last two years, it has been 
+fixed at $43.80. Medicare premiums are deducted from monthly Social 
+Security checks. The premiums are recalculated each year to reflect 
+changes in health care costs and Medicare law. The spending habits 
+of retirees obviously differ from those of younger people. But Henry 
+Aaron, an economist at the Brookings Institution, said there was no 
+conclusive evidence that living costs were rising much faster for 
+the elderly than for other Americans. Some research using experimental 
+price indexes for the elderly suggests that the inflation rate for 
+older consumers may be slightly higher than the overall rate, but 
+the difference appears to be very small. In any event, many Social 
+Security recipients are under 65. Of the more than 44 million people 
+who receive Social Security, 27.3 million are retirees, 3.4 million 
+are dependents of retired workers and 7.4 million are survivors of 
+workers who have died. In addition, 4.6 million disabled workers and 
+1.6 million of their dependents get Social Security. The American 
+Association of Retired Persons pointed out that medical costs were 
+rising faster than most consumer prices, and that elderly people, 
+on the average, spend 19 percent of their income on health care and 
+health insurance. Thus, the association said, Congress should be wary 
+of proposals to reduce the cost-of-living adjustment as part of any 
+program to revamp and preserve Social Security. Martin Corry, director 
+of federal affairs at the association, said: ``For the vast majority 
+of Social Security beneficiaries, the cost-of-living adjustment is 
+the only source of retirement income that is indexed for inflation. 
+Changes in the cost-of-living adjustment and the Consumer Price Index 
+should be last on the list of possible options for savings in Social 
+Security. Such changes have a disproportionate effect on low- and 
+moderate-income people, and on the oldest of the old.'' The indexing 
+of federal benefit programs has been criticized on the ground that 
+it tends to increase federal spending. But the Congressional Research 
+Service said the 1972 law that authorized automatic increases in Social 
+Security, linked to the Consumer Price Index, was sought mainly by 
+conservatives, ``as a means of curbing even larger ad hoc benefit 
+increases'' approved by Congress in prior years. Many economists have 
+said that the Consumer Price Index overstates the cost of living. 
+The federal Bureau of Labor Statistics is making changes in the index 
+in an effort to fix that problem. 
+</TEXT>
+</DOC>

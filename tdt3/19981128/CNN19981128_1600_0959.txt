@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981128.1600.0959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+and the death toll now stands at 208 after india's worst train accident 
+in three years. police now believe they have recovered all the bodies 
+from the wreckage, although there are reports that cracks in the rails 
+may have caused the wreck. 
+</TEXT>
+</DOC>

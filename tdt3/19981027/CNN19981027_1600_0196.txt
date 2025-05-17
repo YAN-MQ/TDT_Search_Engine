@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981027.1600.0196 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Other news now -- Hurricane Mitch has weakened, but with top sustained 
+winds of 155 miles an hour, it is still a very strong storm. Mitch 
+is centered about 125 miles northeast of Honduras. The now-category 
+four hurricane is expected to continue its westward movement for the 
+next 24 hours. Honduras is getting rain, as people there prepare for 
+the storm. Forecasters warn up to 15 inches of rain could fall there, 
+triggering flooding and mudslides. Honduras, Guatemala, and Belize, 
+on the Yucatan peninsula, are under a Hurricane warning. 
+</TEXT>
+</DOC>

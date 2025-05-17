@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981021.2130.0379 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers with the prevention research center in Berkeley, California, 
+say television commercials contribute greatly to teenage drinking. 
+A 12-year study shows children who watch beer commercials that feature 
+animated characters and celebrities are more likely to drink more 
+alcohol more frequently when they get older. Part of the study showed 
+70% of fifth and sixth graders recognized an obscure segment of a 
+budweiser beer commercial, which feature these three frogs. 65% of 
+the children recognized part of a Coors beer commercial. Only 5% could 
+identify a public service announcement against alcoholism. 
+</TEXT>
+</DOC>

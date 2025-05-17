@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981214.2130.0468 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronauts aboard the shuttle "endeavour" are wrapping up some last 
+minute space work. They deployed a whale-watching satellite last night, 
+hours after detaching the international space station from "endeavour." 
+Astronauts have spent the past week beginning construction on the 
+$60 billion project. "Endeavour" is expected to land tomorrow night 
+at the Kennedy space center in Florida. 
+</TEXT>
+</DOC>

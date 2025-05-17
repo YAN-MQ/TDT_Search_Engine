@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981102.1600.0505 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Tuesday, election day. We'll continue to see rain moving 
+from the plains across the Ohio valley to the mid-atlantic region. 
+Mostly scattered showers will occur along a cold front through the 
+gulf coast. It'll be cold enough for some snow over the northern plains, 
+the northern rockies, and there's more rain headed into the pacific 
+northwest as well. High temperatures Tuesday -- just 30s from northern 
+New England to the northern plains. We'll see 60s and 70s in the south, 
+with a couple of 80s in southern Texas and Florida. Looking ahead 
+to Wednesday -- look for rain in the northwest, with a mix of some 
+rain and snow through the plains. Some snow moving across the northern 
+Great Lakes, with showers and storms scattered across the southeast. 
+On Thursday, most of the rain and snow will be across the northwest 
+once again. Friday, rain and snow showers, depending on the elevation, 
+from the northwest into the northern plains. Don't forget, you can 
+find four-day forecasts for more than 7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

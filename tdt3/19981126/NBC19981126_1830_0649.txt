@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981126.1830.0649 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And in business news -- after a week of big mergers, another huge 
+one could happen as early as next week. "The financial times" of London 
+is reporting that oil giants mobil and exxon are close to a merger 
+that would make them a single $49 billion company. That would be the 
+biggest industrial merger ever. 
+</TEXT>
+</DOC>

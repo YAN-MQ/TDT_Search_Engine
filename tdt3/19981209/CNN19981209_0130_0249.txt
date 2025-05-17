@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981209.0130.0249 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Judiciary chairman Henry Hyde says a White House rebuttal to charges 
+brought by independent counsel Ken Starr, "appears to contain no new 
+evidence or challenge any testimony that the committee possesses." 
+Instead, Hyde says it includes, "more legal hairsplitting and semantic 
+gymnastics." The White House released the 184-page report Tuesday 
+during defense testimony before the committee. In it, the White House 
+argues that -- "whereas President Nixon used governmental agencies 
+including the CIA and FBI to thwart the investigation into his lies, 
+President Clinton did nothing of the sort." 
+</TEXT>
+</DOC>

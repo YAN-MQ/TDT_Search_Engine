@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981106.1600.1347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Pete Sampras seems primed to end the year ranked number one for a 
+record sixth straight time. He smoked Mark Philippoussis 6-3, 6-3. 
+</TEXT>
+</DOC>

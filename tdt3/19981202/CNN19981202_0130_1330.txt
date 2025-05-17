@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981202.0130.1330 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+and bob stoops is the new head football coach at oklahoma. he's been 
+the defensive coordinator at florida for the past three seasons. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981122.1000.1336 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The British duo of Nick faldo and David Carter fired a combined 7 
+under par this morning to capture the world cup of golf. American 
+Scott verplank tied a course record by shooting a final round 63. 
+Rob Ticktin, "CNN Headline Sports." 
+</TEXT>
+</DOC>

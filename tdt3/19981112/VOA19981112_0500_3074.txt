@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981112.0500.3074 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow Jones Industrial Average was down 40 points to 8,824 Wednesday. 
+The S&P lost seven points to 1,121. The NASDAQ composite dropped a 
+modest three points to 1,862. U.S. markets had gained earlier on the 
+day on news that computer chip maker Intel would be reporting a boosted 
+fourth quarter earnings because of rising demand in computer chips. 
+But the gains were eaten away as the session wore on. 
+</TEXT>
+</DOC>

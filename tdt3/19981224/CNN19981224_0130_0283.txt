@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981224.0130.0283 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Aaa says more than 45 million people plan to travel in the period 
+beginning tomorrow through new year's day. An estimated 35 million 
+people will drive, 9.7 million others will travel by plane, train 
+or bus. Aaa says, of those travelers, 38% plan to visit cities. 21% 
+will head to towns or rural areas. 12% will be visiting beaches. And 
+8% are spending the holidays at the mountains. 
+</TEXT>
+</DOC>

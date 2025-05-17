@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> MNB19981110.2100.3132 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Today in Paris, they marked the end of the world war II. Queen Elizabeth 
+II and France's President Jacques Chirac led a ceremony that could 
+be the last major anniversary to include veterans of what was supposed 
+to be the war to end all wars. Hours after the ceremony, Chirac and 
+her majesty also honored the memory of world war II, with the unveiling 
+of a statue of Winston Churchill. The statue is modeled on a photograph 
+of Churchill marching down the champs-elysees on this day in 1944. 
+</TEXT>
+</DOC>

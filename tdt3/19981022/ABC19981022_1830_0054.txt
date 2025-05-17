@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> ABC19981022.1830.0054 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Good evening. We are going to begin this evening by checking in on 
+the state of the U.S. economy, which means so much to the rest of 
+the world. That last cut in the interest rates has made a difference. 
+The stock market here has since gone up for seven sessions in a row. 
+That's the first time since the Asian financial crisis broke open 
+more than a year ago. Here are today's numbers. The Dow Jones industrials 
+up nearly 14 points today, to close at 8533. The NASDAQ up more than 
+27 points. 
+</TEXT>
+</DOC>

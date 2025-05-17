@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981218.1600.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- an historic house debate is under way 
+on the issue of presidential impeachment. A vote may come tomorrow. 
+If impeached, President Clinton would become only the second president 
+in history to stand trial in the Senate. 
+</TEXT>
+</DOC>

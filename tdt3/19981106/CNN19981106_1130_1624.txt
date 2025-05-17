@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981106.1130.1624 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The top stories are next, including the latest on the car bombing 
+of a Crowded Israeli marketplace. I'm Denise Dillon. This is "CNN 
+Headline News." 
+</TEXT>
+</DOC>

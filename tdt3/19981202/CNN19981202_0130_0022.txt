@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981202.0130.0022 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+but first, asia's economic troubles might not be so far away after 
+all. boeing says financial turmoil in the region is forcing the company 
+to eliminate 20,000 more jobs over the next two years. that's in addition 
+to 28,000 layoffs announced in july. boeing says reduced travel to 
+and from asia is cutting demand for new airplanes. 
+</TEXT>
+</DOC>

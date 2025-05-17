@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981219.0130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After a long day of debate, the House of Representatives appears almost 
+certain to vote for impeachment of President Clinton Saturday. A CNN 
+head count of house members indicates at least one article of impeachment 
+will pass. 
+</TEXT>
+</DOC>

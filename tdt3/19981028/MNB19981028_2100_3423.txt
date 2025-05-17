@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> MNB19981028.2100.3423 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+As we look live at the scene tonight, launch pad 39-B, the shuttle 
+discovery hours away from launch. The conditions, the forecast, perfect 
+for tomorrow even though we have a Hurricane still raging in the western 
+Caribbean below this area. 
+</TEXT>
+</DOC>

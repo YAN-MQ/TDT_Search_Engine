@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981221.1830.0992 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today -- investors didn't seem to think the impeachment 
+vote poses a threat to the economy. The Dow Jones industrial average 
+was up more than 85 points, to close at 8988. On the NASDAQ, stocks 
+were up more than 51 points. 
+</TEXT>
+</DOC>

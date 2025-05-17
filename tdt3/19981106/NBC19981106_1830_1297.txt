@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> NBC19981106.1830.1297 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back in this country, a prestigious hospital in New York has been 
+slapped with a big fine for Gross violations of medical standards. 
+And this happens more often than you may want to think. Here's NBC's 
+Jim Avila tonight. New York's Beth Israel medical center, one of the 
+country's best, now hit with one of the largest fines against a hospital 
+in state history -- $30,000. The charge -- during routine outpatient 
+surgery, doctors watch as a medical supply salesman demonstrates a 
+new machine, actually participating in the procedure on a live patient. 
+The unidentified, 30-year-old woman, injected with more than two gallons 
+of saline dies on the table. Given that much fluid, she couldn't breathe. 
+The patient basically drowned. a Gross medical error, but not rare 
+enough. A Harvard study says 120,000 Americans are killed each year, 
+victims of a Million medical mistakes. In its journal this week, the 
+ama says the current system for investigating medical errors does 
+not work. Doctors are not perfect. They must admit errors so patterns 
+can be detected and mistakes prevented. I think the culture is still 
+a culture of blame. I think that people are still expected to be error-free. 
+And we know that none of us are error-free. But under the current 
+system, doctors who make mistakes face discipline and lawsuits -- 
+incentives to hide trouble. The ama says medical boards should promote 
+blame-free reporting, like the aviation industry. We want near misses 
+reported in medicine, too, so we can look at the cause and then look 
+at the solution. The model -- Massachusetts, where state officials 
+force hospitals to report mistakes, but keep the names of the doctors 
+involved secret. We want to know what happened medically, and why 
+it happened, what you did to find out what went wrong. And what you 
+are doing to make sure it never happens again. a major problem -- 
+the wrong medicine -- at Boston's brigham and women's hospital where 
+6 out of every 100 patients got the wrong medicine in a 1995 survey. 
+Fixing the system has dramatically cut the number of errors. A warning 
+comes up letting me know that this patient has an allergy to penicillin. 
+The new system forces doctors to order medicine by computer. This 
+system has decreased the frequency of serious medication errors by 
+55%. Part of a new approach leaders in the medical community say would 
+lead to less blame and fewer deadly mistakes. Jim Avila, NBC news, 
+Boston. 
+</TEXT>
+</DOC>

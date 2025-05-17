@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981231.1600.1073 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Microsoft, currently being sued by the justice department and several 
+states for possible antitrust abuses, is now the plaintiff in a new 
+legal battle. The software company is suing two men from Texas who 
+have registered internet domain names, including Microsoft windows.com 
+and Microsoft office.com. the suit filed in federal court in Houston 
+claims the men are infringing on Microsoft trademarks and misleading 
+the public. Microsoft seeks unspecified damages, all profits from 
+the sites and full possession of the domain names. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> VOA19981123.0500.3080 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In a potentially stunning alliance which could transform the U.S. 
+technology industry, American Online is in talks to buy Netscape Communications 
+Corporation. a $4 billion stock transaction would leave AOL running 
+Netscape's NetCenter website and distribute Netscape's popular navigator 
+browser. Sun Microsystems would also be part of the deal, benefiting 
+two ways: it would take control of Netscape's business-level service 
+software and enjoy widespread distribution among AOL's 14 million 
+subscribers of its Java technology. 
+</TEXT>
+</DOC>

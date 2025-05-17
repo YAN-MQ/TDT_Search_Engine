@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981112.2130.0473 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Today, the United States signed the treaty on global warming. It was 
+worked out last year at an international gathering in Kyoto, Japan. 
+A conference on implementing the treaty is under way in buenos aires. 
+Its goal is to work out ways to achieve the reductions in Greenhouse 
+gas emissions, as mandated by the Kyoto treaty. The United States 
+won't be bound by the accord until it's ratified by the senate, where 
+it faces fierce opposition. 
+</TEXT>
+</DOC>

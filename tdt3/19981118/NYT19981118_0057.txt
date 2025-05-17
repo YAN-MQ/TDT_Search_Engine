@@ -1,0 +1,83 @@
+<DOC>
+<DOCNO> NYT19981118.0057 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Lawrence Ellison, chairman of Oracle Corp. and longtime foe of Microsoft's 
+chairman, Bill Gates, failed in his first effort to undermine the 
+dominance of the Windows family of operating systems with a concept 
+called the network computer. Now, he has struck upon a new strategy 
+that would do away with the operating system almost entirely on the 
+powerful computers known as servers that act as the control centers 
+of large networks. At this year's Comdex computer industry trade show, 
+which opened here Sunday, Ellison plans to introduce a new version 
+of his Oracle database program, code-named ``raw iron,'' that he hopes 
+will be sold by companies that make network servers, including Compaq, 
+Sun Microsystems, Hewlett-Packard and Dell Computer. Because the new 
+database program will require only a small stub of an operating system, 
+known as a kernel, the system will be faster and more reliable, Ellison 
+said. His network computer, or NC, was an earlier attempt at simplifying 
+the task of corporate PC managers by offering them simple and inexpensive 
+hardware that would run a World Wide Web browser program. NCs failed 
+to catch on, however, largely because of the rapidly falling cost 
+of the personal computer. Refusing to give up, he is now arguing that 
+the NC is any device that incorporates a Web browser. These can range 
+from something as simple as a cellular phone to a television set or 
+a personal computer. In introducing what he calls the Oracle Data 
+Base Server Appliance, Ellison will be trying to open a back door 
+to realizing the NC and laying out a new strategy in his three-year-long 
+war for the high ground in the increasingly bitter software marketing 
+wars. The Oracle Data Base Server Appliance is a refrigerator-sized 
+computer that will store all of a company's data, including e-mail, 
+text files and accounting information. Such a server, he maintains, 
+will require much less management and be simpler to use than a standard 
+server, which often has to run dozens of different applications. Computer 
+industry executives said Ellison's server appliance might prove more 
+difficult for Microsoft to defuse than the network computer was. ``There 
+is a large market for dedicated appliances on computer networks,'' 
+said Eric Schmidt, chief executive of Novell Corp., which sells network 
+server systems. ``It is a real revenue opportunity, and it minimizes 
+the role of the operating system.'' In recent months, Ellison has 
+criticized Microsoft's strategy to place millions of servers running 
+Windows 2000 _ the new name for Windows NT _ in small businesses and 
+large corporations. Ellison says the strategy will prove costly and 
+unmanageable for businesses. And he accuses Microsoft of worsening 
+the shortage of high-technology workers in the United States because 
+its systems require so many people to administer. An alternative vision 
+of computing, Ellison's system would centralize the storage of information. 
+His critics call it a look backward toward the era of the mainframe 
+computer. ``Leave the files where they are,'' said Janet Perna, general 
+manager of IBM's database business. IBM's rival DB2 system, she said, 
+employs pointers on the central server that lead people to data distributed 
+among many computers in a corporation. The battle over the database 
+market is crucial because these enormous electronic filing cabinets 
+are the increasingly essential software programs that permit large 
+and small corporations to track and control all aspects of their business. 
+Applications can range from running a corporation accounting system 
+to e-mail servers that act as electronic post offices. The battle 
+for market share in the $8.6 billion database industry has become 
+a crucial beachhead for software companies that offer one-stop shopping 
+for the business world. Until now, says Dataquest, a market research 
+firm, almost 53 percent of the market for corporate databases has 
+been controlled by Oracle and IBM, which created the most popular 
+format, the relational database. However, Microsoft, which has only 
+a 4.5 percent market share, is preparing to enter the business. But 
+Ellison, who has taunted Microsoft and Gates for years with barbed, 
+often humorous attacks, may have found a way to confound his opponent. 
+By dispensing with all but a tiny portion of the operating system, 
+Ellison argues, he will be able to offer a faster, cheaper and more 
+stable product than Microsoft's SQL Server 7, a database for Windows 
+2000 that will be announced at Comdex. Meeting with reporters at his 
+home in San Francisco, Ellison said, ``I don't know why Microsoft 
+should be threatened; we're just saying that you don't need an operating 
+system.'' Nevertheless, Oracle's strategy could offer direct competition 
+to Windows. The Oracle 8i database can run multiple Java programs, 
+and it includes its own file system for storing and retrieving documents 
+_ functions typically performed by an operating system. Oracle is 
+still negotiating with computer companies about bundling the new 8i 
+database program with powerful server hardware, Ellison said. Pricing 
+details have yet to be worked out, but he said he expected the appliance 
+databases to be on the market by the end of the first quarter of next 
+year. NYT-11-15-98 2156EST 
+</TEXT>
+</DOC>

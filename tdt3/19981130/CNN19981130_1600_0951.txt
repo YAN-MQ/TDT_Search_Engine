@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981130.1600.0951 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the Supreme Court heard arguments today about how the 2000 census 
+should be conducted. The White House wants to use sampling to count 
+Americans rather than counting every individual. Republicans say that's 
+unconstitutional. More on these stories and other news in 15 minutes. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981112.1830.1675 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is our report on "World News Tonight." later on "Nightline," 
+another report from Ted Koppel in Honduras. i'm Peter Jennings. Hope 
+we'll see you tomorrow. Good night. 
+</TEXT>
+</DOC>

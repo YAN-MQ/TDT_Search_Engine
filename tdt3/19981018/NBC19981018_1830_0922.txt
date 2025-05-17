@@ -1,0 +1,47 @@
+<DOC>
+<DOCNO> NBC19981018.1830.0922 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In "focus" this evening, how simple it is for a city to cook the books 
+while computing its' crime rate. NBC's Fred Francis reports on Philadelphia's 
+decision to face the facts. Americans have applauded a six-year decline 
+in crime, but in some cities those numbers may be part crime fiction. 
+Owning up to the scam, Philadelphia's top cop says that poor training, 
+laziness and sometimes outright dishonesty are behind chronic undereporting 
+and the downgrading of crimes. The problem was so bad that the city 
+withdrew its crime stats from the FBI files for the last three years. 
+Listen, nobody has ever checked this stuff. So it is sloppiness built 
+over years and years, and by the way my sense is most police departments 
+are like that. In fact, New York, Atlanta and Boca raton, Florida, 
+have all been accused of falsifying crime statistics to some degree. 
+In Boca raton, one ex-captain downgraded 385 felonies to misdemeanors, 
+creating an apparent drop of almost 11% last year. Veteran cop Victor 
+deblasis is assigned to set the record straight in philadelphia. We 
+took an audit of the entire city for the police commissioner. What 
+we did was look at one week in each police station and what we found 
+out was an alarming 8% error rate. We found 160 serious crimes not 
+reported for one week. That meant that in a year, Philadelphia was 
+not reporting over 8,000 serious crimes. Robberies were coded as thefts. 
+Burglaries were coded as thefts. Thefts were coded as lost properties, 
+missing properties. Even rapes were filed as assaults and assaults 
+as simply hospital cases. In fact, using that method, one commander 
+reported an 80% drop in serious crime in his area, an astounding work 
+until an internal investigation showed he was cooking the books. Philadelphia's 
+new police commissioner, John timoney, one of the men crediting with 
+revitalizing New York City's police department, ordered a Review on 
+every police report filed in the first six months of this year. I'm 
+absolutely dead serious because before we can ever begin to address 
+crime in a serious fashion, I have to know where it is happening, 
+how much is happening, time of day, location, day in the week. You 
+got 150 arrests for the month and only reporting 109. So shortchanging 
+yourself there. It's a Mammoth job with careers in jeopardy and the 
+city's reputation on the line. Philly's crimes stats will likely soar. 
+And guess what? I don't care. I know I'll have accurate data that 
+I can work with that can help us in our deployment. Positioning cops, 
+he says, to prevent crime rather than just react to it. That he promises 
+in three to five years will help make Philadelphia the safest city 
+in the country, but until then its new stats may make it look like 
+one of the most crime ridden. Fred Francis, NBC news, Philadelphia. 
+</TEXT>
+</DOC>

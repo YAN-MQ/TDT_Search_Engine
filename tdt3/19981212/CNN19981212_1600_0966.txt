@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981212.1600.0966 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Those stories and more in 15 minutes. Company additions and acquisitions 
+are among the week's top headlines in the business world. Stan case 
+takes a look in "business this week." 
+</TEXT>
+</DOC>

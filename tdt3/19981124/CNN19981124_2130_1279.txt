@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981124.2130.1279 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Will drew Bledsoe play Sunday in a huge game against Buffalo? Maybe. 
+He's questionable after breaking his right index finger in two places 
+during the Patriots' game-winning drive last night against Miami. 
+</TEXT>
+</DOC>

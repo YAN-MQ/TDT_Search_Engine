@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981127.2130.0505 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map for Saturday morning. More rain in the west. Rainfall 
+in southern California during the day on Saturday. Los Angeles will 
+probably see rainfall. As the day goes along, the rainfall moves to 
+the east through Arizona. Eventually precipitation will move into 
+the southern Rockies, where, some of it could turn to snow. However, 
+it is going to be quite warm throughout much of the nation -- daytime 
+highs in the 60s and 70s in a large area of the United States. It 
+is cooler in the west, with the storms moving through. Here is our 
+extended forecast. It remains relatively warm throughout the U.S. 
+going on into Sunday. But still, precipitation scattered about in 
+the west with snowfall in the higher elevations of the Rockies. On 
+Monday, you can see some of that rain begins to move on into the east. 
+A few thunderstorms are possible in the southern plains states. And 
+as we head on into Tuesday, you can see rainfall still in the northwestern 
+corner of the United States. For more weather information, log on 
+to CNN.com for four-day forecasts for 7,200 cities. 
+</TEXT>
+</DOC>

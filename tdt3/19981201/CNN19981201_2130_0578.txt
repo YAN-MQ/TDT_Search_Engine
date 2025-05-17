@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981201.2130.0578 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's reassuring news if you think your kids spend too much time 
+playing video games. In their fourth annual report on the subject, 
+senators Joseph Lieberman and herb Kohl say most video games are actually 
+good for children. They report the industry has made strides in enforcing 
+a voluntary rating system and providing family-friendly games. However, 
+they warn that about 20% of video games are considered "Ultra-violent" 
+and may glorify brutality and killing. 
+</TEXT>
+</DOC>

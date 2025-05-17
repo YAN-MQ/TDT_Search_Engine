@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981129.1300.0485 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The belief that road rage is getting worse may not be true. "The Washington 
+Post" reports, there is no statistical evidence to back up the perception 
+road rage is on the rise and making driving more dangerous. Researchers 
+say the highway death rate, injuries and crashes are declining. Others 
+say aggression on the highway could be increasing, but better equipment 
+is keeping people safer. 
+</TEXT>
+</DOC>

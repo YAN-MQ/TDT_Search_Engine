@@ -1,0 +1,86 @@
+<DOC>
+<DOCNO> ABC19981019.1830.0049 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Good evening. We begin tonight with the government versus Microsoft. 
+There is a great deal at stake. The government accuses Microsoft of 
+illegally abusing its position in the marketplace to drive out its 
+competitors. The justice department said as the case was getting under 
+way today that the antitrust laws of the nation were designed to prevent 
+such a thing. ABC's Terry Moran is covering the trial for us. He beings 
+with the straight-ahead attack by the government on Mr. Microsoft 
+himself, Bill Gates. As Microsoft and justice department lawyers came 
+to do battle, a Bill Gates impersonator showed up. Inside the courtroom, 
+the real Bill Gates, on videotape, under oath, in a Deposition taken 
+in August. Gates was asked about his role in a critical 1995 meeting 
+between Microsoft and its rival, Netscape. The justice department 
+says Microsoft in that meeting tried to bribe and bully Netscape into 
+not competing. "I wasn't involved in setting up the meeting," Gates 
+says on the tape. Then government lawyer David boies revealed an internal 
+Microsoft memorandum, written by Gates three weeks before that meeting. 
+"I think there is a very powerful deal of some kind we can do with 
+netscape," Gates wrote. "I would really like to see something like 
+this happen." On videotape he claims a proposal to invest in Netscape 
+to sweeten the deal didn't make sense to 34e. We could even pay them 
+money as part of the deal buying some piece of them or something. 
+A Microsoft executive defended Gates on the courthouse steps. You 
+just heard an opening statement that was based entirely on loose and 
+unreliable rhetoric and on snippets that were not in any sort of responsible 
+context. Assistant attorney general Joel Klein defended the justice 
+department. What this case has always been about is to make sure that 
+there's competition in this critical American industry. That's precisely 
+what Microsoft says it wants too and they accused the justice department 
+of threatening the thriving computer industry by targeting one of 
+its creators. We know this case will be with us for a while. Microsoft 
+will have its first word tomorrow. Take us back to where it began 
+and how it began. The federal government has been investigating Microsoft 
+for years on a Variety of fronts. But this case begins and it will 
+turn on, a single meeting, on June 21st, 1995. At that meeting, Microsoft 
+executives confronted the founders of Netscape, a company which had 
+taken the lead in the Internet browser business. Microsoft allegedly 
+offered to carve up that booming business with Netscape or else. Microsoft 
+came to us and they basically said, you know, basically sat us down 
+and in their best Don corleon accent, they said, we're going to make 
+you an offer you can't refuse. But Netscape says it did refuse. And 
+what Microsoft did next is the crux of this trial. The government 
+will try to prove that Microsoft tried to crush Netscape. August 2nd, 
+1995, Microsoft chairman Bill Gates visits Intel, the dominant chipmaker 
+and a close Microsoft partner. According to an Intel memo, Gates is 
+"livid" that Intel was developing software which could help Netscape. 
+Gates allegedly made "vague threats" about Intel's "investments in 
+the internet and wanted them stopped." September 1995 -- a Microsoft 
+executive says in a speech about Netscape, "We are going to cut off 
+their air supply. Everything they're selling, we are going to give 
+away for free." And in fact, three months later, in December 1995, 
+with Netscape's browser still far ahead, and selling at $59 a copy, 
+Microsoft announces it will give away its browser for free, by building 
+it into Windows 95. June 1996 -- computermaker Compaq plans to offer 
+Netscape's browser, and remove Microsoft's from the desktop screen. 
+Microsoft responds by threatening to take away windows altogether, 
+a death sentence for any PC maker. Compaq gives in. The government 
+paints a vivid picture of a big company, bullying and threatening 
+an entire industry. But Microsoft says it will be able to prove that 
+account is pure fiction, beginning with that first meeting with Netscape. 
+Well, we don't agree with that portrayal of that meeting. We have 
+those meeting all the time, with literally hundreds of software companies 
+every quarter. At times, those do get contentious. Was it Microsoft's 
+plan and policy to give the browser capabilities away for free, and 
+thus kill Netscape? The intent was to improve our products based on 
+what we heard consumers telling us they wanted. Microsoft will produce 
+its own witnesses and experts to back up its story -- that Netscape 
+made crucial mistakes and that Microsoft just made a better product. 
+Our market share started to increase related to browsing capabilities 
+in windows, and that's just the way the industry operates. The people 
+with the best products win. So the case boils down to the government's 
+claim that Microsoft won't obey the laws. Microsoft's claim that the 
+government doesn't understand the industry. Enormous legal ramifications 
+what about for the millions of people who use microsoft? Microsoft 
+will say what's at stake is the company's right to offer those features 
+in the windows operating system whenever the consumers want it. The 
+government says if it wins, there will be more choices and not just 
+microsoft choices. It will take several weeks for this case to get 
+undone. Six to eight weeks is the hope right now. Many thanks. Clear 
+explanation of where we're going with that one. 
+</TEXT>
+</DOC>

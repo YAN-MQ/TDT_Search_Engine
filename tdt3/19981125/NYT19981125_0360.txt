@@ -1,0 +1,142 @@
+<DOC>
+<DOCNO> NYT19981125.0360 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For people who need bone-marrow transplants to fight leukemia or other 
+deadly diseases, but who lack a compatible marrow donor, doctors are 
+salvaging hope from a curious source, one that is normally thrown 
+away: blood left in the umbilical cords and placentas of newborn infants. 
+In the largest study of placental blood use to date, in 562 patients, 
+including more than 400 children, survival rates were similar to those 
+in studies using bone marrow from unrelated donors who perfectly matched 
+the recipients on tissue typing tests. The procedure worked in many 
+cases even when the placental blood was not perfectly matched to the 
+patients' tissue. (The researchers referred to it as placental blood, 
+but it is widely known as cord blood.) Patients in the new study were 
+gravely ill with leukemia, lymphoma, other cancers or genetic diseases, 
+and were given cord blood as a last resort because bone marrow donors 
+had not been found for them, or because they were considered too sick 
+to wait the months it could take to find a marrow donor. The results, 
+being published on Thursday in the New England Journal of Medicine, 
+were announced on Wednesday by Dr. Pablo Rubinstein, head of immunogenetics 
+at the New York Blood Center in Manhattan. The center has been banking 
+placental blood since 1993 and provided it to 98 hospitals in the 
+United States and overseas that participated in the study. Because 
+cord blood is readily available, it could be a huge boon to thousands 
+of Americans who need marrow transplants. Moreover, cord blood is 
+less likely than bone marrow to transmit infection, and it is collected 
+at no risk to the donor. Donors of bone marrow must undergo a surgical 
+procedure and anesthesia when their marrow is harvested. Earlier, 
+smaller studies had suggested that cord blood might be a possible 
+alternative to bone marrow transplants, but researchers said they 
+were heartened by Rubinstein's findings because of their scope and 
+because patients involved had fared better than might have been expected. 
+All had been extremely ill, many in advanced stages of disease after 
+long periods of waiting in vain for a bone marrow donor. Still, by 
+100 days after cord blood transplantation, 218 of the 562 had died. 
+A similar rate would be expected with bone marrow transplanted from 
+unrelated donors in such severe cases. Dr. Claude L'Enfant, director 
+of the National Heart, Lung and Blood Institute, which funded the 
+study but did not take part in it, said in a telephone interview, 
+``The prospects are quite fantastic in my opinion. The work from the 
+New York Blood Center is really a landmark study.'' But L'Enfant also 
+tempered his remarks, adding that cord blood transplants are an emerging 
+treatment that must be studied further. Also, he said, for widespread 
+use ``You need to have a huge bank of these cells, and that is not 
+available at the present time.'' Dr. Robertson Parkman, head of the 
+division of research immunology and bone marrow transplantation at 
+Children's Hospital in Los Angeles, said, ``This confirms previous 
+observations, that degrees of mismatch that would not be tolerated 
+with bone marrow transplantation are tolerated.'' Parkman said the 
+study also showed that a few ounces of cord blood can sometimes be 
+used to treat adults, as opposed to a quart or more used in bone-marrow 
+transplants. But the finding was puzzling, because the procedure worked 
+in some adults but not others, and Parkman said further research was 
+needed to find out why. Bone marrow or cord blood transplants are 
+given to patients who have received such high doses of chemotherapy 
+and radiation to fight disease that their own bone marrow, which makes 
+red and white blood cells, has also been destroyed. Both marrow and 
+cord blood teem with special cells that can reconstitute the patient's 
+ravaged blood supply and immune system. Those cells, hematopoietic 
+stem cells, can give rise to new red and white blood cells and to 
+platelets, which are essential for clotting. Although the procedure 
+is called a transplant, the marrow or cord blood is really dripped 
+into a vein like a tranfusion, and the stem cells find their way to 
+the marrow spaces in the patient's bones. Even though people getting 
+cord blood are given a smaller volume of blood than those receiving 
+marrow, the cord blood works because it is so rich in stem cells and 
+those very young cells have more growth potential than those from 
+an adult, Rubinstein said. The great advantage of placental blood, 
+he said, is that it does not have to be as closely matched to the 
+recipient's tissue as bone marrow does. That means it can be used 
+to help more people, including members of racial and ethnic minority 
+groups who often have trouble finding compatible donors. Less precise 
+tissue matches are possible because the cells in cord blood, less 
+mature than those in bone marrow from an adult donor, are less likely 
+to be rejected by the recipient or to attack the recipient's tissue. 
+For a bone marrow transplant from an unrelated donor to succeed, the 
+donor and recipient must match on 6 out of 6 genetic traits used in 
+tissue typing. But placental blood transplants can work when only 
+4 or 5 traits match, and sometimes even 3, though the odds of success 
+increase with better matches. Dr. John Wagner, associate director 
+of bone marrow transplantation at the University of Minnesota in Minneapolis, 
+who treated several patients in the study, said an important finding 
+was that three groups of patients did not do well with cord blood, 
+and, if they had a choice, might fare better with bone marrow. Those 
+patients had chronic myelogenous leukemia, severe aplastic anemia 
+and Fanconi's anemia. ``These three diseases have fallen out,'' Wagner 
+said. ''Why would that be? Is it peculiar to this group? How does 
+it compare to bone marrow transplantation? We know that with chronic 
+myelogenous leukemia, results with bone marrow are quite good. This 
+is a concern.'' It is a quirk of human biology that makes placental 
+blood so rich in stem cells. After several months of pregnancy, stem 
+cells, which have been residing in the fetus' liver, begin cascading 
+into the bloodstream and migrating to the bone marrow. At birth the 
+baby's blood, and therefore the placenta and umbilical cord, are still 
+full of stem cells. Within about 24 hours, most of the stem cells 
+vanish from the baby's blood. It might seem wasteful, a biological 
+mistake even, for such precious cells to accumulate in tissues that 
+are lost to the baby. In fact, Rubinstein said, doctors used to think 
+babies needed the blood that was left in the placenta and cord, and 
+would try to let that blood drain into the infant, either by elevating 
+the placenta or lowering the infant below the level of the delivery 
+table, before the cord was cut. But gradually it became apparent that 
+the procedure, called placental tranfusion, could backfire. The extra 
+volume of blood forced into the baby caused heart problems in some 
+infants, and the excess of red cells sometimes led to jaundice. Nature 
+had apparently anticipated losses through the placenta and provided 
+fetuses with blood to spare. About 30 years ago, Rubinstein said, 
+placental transfusions were halted. Another curiosity, he said, is 
+that although scientists revere what they call ``true stem cells,'' 
+those that can recreate the entire blood supply and immune system, 
+nobody has ever seen one. Researchers know that there are stem cells 
+in cord blood and bone marrow, but they cannot identify just which 
+cells they are.``We may have seen it but don't know it,'' Rubinstein 
+said. ``We infer and know they exist from very good data.'' Similarly, 
+scientists do not know precisely how stem cells manage to create new 
+blood cells and yet maintain a population of stem cells. Of the 5,500 
+people in North America who received bone marrow from donors in 1997, 
+60 percent to 70 percent had matches in their own families, and the 
+rest found unrelated donors, according to the International Bone Marrow 
+Transplant Registry, a Milwaukee based group that keeps statistics 
+on the procedure. Figures were not available on how many patients 
+failed to find marrow donors, but that had to be the case for at least 
+228, the number who received cord blood in 1997. Dr. Craig Howe, chief 
+executive officer of the National Marrow Donor Program, a Minneapolis 
+based registry that helps people who need bone marrow to find matching 
+donors, said that the program would also begin to help patients find 
+cord blood matches sometime next year. And other institutions are 
+also establishing cord blood banks, including the National Institutes 
+of Health, Mount Sinai Medical Center in New York, the University 
+of Colorado in Denver and Cardinal Glennon Hospital in St. Louis. 
+Companies have also sprung up to offer private cord-blood banking 
+to expectant parents, on the remote chance that their child or someone 
+else in the family might one day need a stem-cell transplant. It is 
+a trend that makes many scientists uncomfortable, partly because it 
+limits public access to cord blood. But many couples seem interested: 
+in just three years, one private firm in California has banked 10,000 
+samples, more than the New York Blood Center has stored in nearly 
+six years. 
+</TEXT>
+</DOC>

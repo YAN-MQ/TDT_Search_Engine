@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981028.0130.0724 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Geologists have found evidence of the world's oldest known reptile 
+nests in arizona's petrified forest national park. The nests date 
+back 220 million years to the triassic period. Geologists say their 
+existence shows protective parenting habits developed much earlier 
+than previously thought. They say the evolution of the nest shows 
+how some animals stopped laying their eggs directly on the ground 
+and made a nest to protect their young. 
+</TEXT>
+</DOC>

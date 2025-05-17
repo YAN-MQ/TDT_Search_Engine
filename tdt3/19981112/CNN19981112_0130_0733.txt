@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981112.0130.0733 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If your kids complain about homework, wait until they get this assignment 
+-- Get a shot. Researchers are taking the unusual step of recommending 
+that students be immunized against the flu. It usually isn't life-threatening 
+for kids. But researchers say about 45% of them get the flu and pass 
+it on. They say stopping the flu at school would reduce its impact 
+on adults. 
+</TEXT>
+</DOC>

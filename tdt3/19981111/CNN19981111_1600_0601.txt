@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981111.1600.0601 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A train derailment in Ohio has shut down a major midwest rail route. 
+The train derailed off a bridge, sending 13 cars into sandusky bay 
+and three dozen others are blocking the tracks. No one was hurt and 
+the train wasn't carrying any hazardous materials. Officials believe 
+the strong crosswinds above the bridge blew the train off the tracks. 
+The bridge, which connects Erie and Ottawa counties, is a main rail 
+line between Chicago and the east coast. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981022.1600.0576 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Fisher price issued one of the largest toy recalls in history. Electrical 
+components in its power wheels vehicles could pose a fire risk. Sherry 
+rauh has that. I'm sorry, we can't find that package. We'll press 
+on. 
+</TEXT>
+</DOC>

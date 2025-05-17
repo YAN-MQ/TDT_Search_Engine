@@ -1,0 +1,37 @@
+<DOC>
+<DOCNO> CNN19981207.2130.0622 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Scientists who have been keeping a close eye on space recently put 
+some of their orbital photos on display. In this edition of "tech 
+trends," Don Knapp takes a closer look at the heavenly images. This 
+huge crack on the surface of you're rope pa is evidence of water, 
+scientists say, an ocean of water in outer space. We're thinking there 
+might be a liquid ocean underneath its ice crust. We're hoping that 
+will tell us something about what is underneath that fault, what sorts 
+of forces are causing the fault to slip. The new image from the galileo 
+space probe shows scientists the surface appears to have broken and 
+melted, perhaps the results of a Tidal action. Galileo's measurements 
+of europa's magnetic field is another clue suggesting a layer of seawater 
+on the distant Moon. What you can see is that the satellites in their 
+orbit are moving into and out of this region. Meanwhile, another group 
+of scientists have been studying earth's magnetic field, the Van Allen 
+radiation belt in the earth's, "Magnetosphere." The magnetic field 
+captures the solar wind electrons from the sun and moves them around 
+the earth. Now, new findings suggest there may be times the particles 
+are getting a Huge boost from the magnetosphere. What we're seeing 
+is that the earth is a very efficient effective cosmic particle accelerator, 
+here, we have one of a very giant scale operating in space. That could 
+pose problems for astronauts, space ships and electronic satellites. 
+The energy can go from something that can barely penetrate a piece 
+of paper to energies that can pass through half an inch of aluminum 
+or more and can pass through the skin of a spacecraft very easily. 
+The failure of the paging satellite, galaxy four, last may was a Tipoff 
+for scientists. They now believe particles accelerated by the magnetosphere 
+bombarded the galaxy four's electronics and shut them down. The researchers 
+say future space ventures now have another hazard to contend with 
+-- space weather. And they suggest putting up more satellites to keep 
+track of it. Don Knapp, CNN, San Francisco. 
+</TEXT>
+</DOC>

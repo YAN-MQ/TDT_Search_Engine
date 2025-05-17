@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981015.2130.0502 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Up next, the extended weather forecast. And still ahead -- the wired 
+world of truckers. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981027.2130.0377 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The FAA says flying and Viagra don't mix. The "Dallas morning news" 
+reports it's warning pilots not to fly for at least six hours after 
+taking Viagra. The impotence drug can make it difficult to distinguish 
+between green and blue colors that are often used in cockpit displays 
+and taxiway lights. Not being able to see the colors clearly would 
+make it dangerous to fly, especially at night or during bad weather. 
+</TEXT>
+</DOC>

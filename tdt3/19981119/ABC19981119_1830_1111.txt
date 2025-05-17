@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981119.1830.1111 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Credit card news -- they now rival traditional bank loans as a way 
+to finance small businesses. Nearly half of all entrepreneurs use 
+plastic to finance their business. Silicon Valley is littered with 
+multimillion-dollar companies begun with a credit card. 
+</TEXT>
+</DOC>

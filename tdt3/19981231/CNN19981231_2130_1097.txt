@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981231.2130.1097 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Blue chips finished this last day of 1998 on a down note. The Dow 
+gained 16.2% for the year. 
+</TEXT>
+</DOC>

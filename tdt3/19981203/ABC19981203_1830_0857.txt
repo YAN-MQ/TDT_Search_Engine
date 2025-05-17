@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981203.1830.0857 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"On the money" tonight -- a bad day on Wall Street. The Dow Jones 
+industrial average lost more than 184 points today, to close at 8879. 
+On the NASDAQ, stocks were down more than 40 points. 
+</TEXT>
+</DOC>

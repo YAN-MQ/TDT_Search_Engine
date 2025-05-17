@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981222.2130.1294 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The jets have reached an agreement with Testaverde. The deal is believed 
+to be worth $6 million annually. 
+</TEXT>
+</DOC>

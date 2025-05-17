@@ -1,0 +1,70 @@
+<DOC>
+<DOCNO> NYT19981207.0418 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In an effort both to broaden support for its Java programming language 
+and to nurture innovation, Sun Microsystems plans to announce on Tuesday 
+that it will move a step closer to the ``open source'' model for freely 
+sharing the work of programmers. The planned announcement is both 
+an acknowledgment of the growing force of the open source philosophy 
+_ which embodies free programs like the Linux operating system _ and 
+an effort by Sun to attract the expertise of companies across a wide 
+spectrum of manufacturing and services in developing Java to meet 
+the needs of their own industries. In announcing Java 2.0, at an industry 
+trade conference in New York, Sun will also announce that the original 
+programmers' instructions, or source code, will be freely available 
+in the future. However, unlike traditional open source licensing plans, 
+companies that license Java will still be required to pay a royalty 
+when shipping a usable program based on the source code. Their products 
+must also pass a Java compatibility test before they can be shipped. 
+However, Sun said it planned to retain PricewaterhouseCoopers to audit 
+the process of who determines which new functions can be added to 
+the language. While industry analysts and developers welcomed the 
+opening of the platform, they noted that it would still fall short 
+of the open source movement's goal of doing away with limits on the 
+exchange of software. ``It sounds very elegant, but it's very tricky,'' 
+said Esther Dyson, publisher of Release 2.0, an industry newsletter. 
+``You have to define what you're getting royalties for, and you have 
+to wonder what Sun's real motivation is.'' However, programmers who 
+value the ability to get their hands on the inner working of the tools 
+they use to write their programs generally welcomed the change. ``It 
+gives you a little more trust in the product, because you can go in 
+and fix something if you need to,'' said Howard Katz, a Canadian Java 
+software developer. Sun executives said they were hoping to generate 
+new interest in Java by lowering the cost of developing the language 
+and by encouraging more vibrant development though freely shared ideas. 
+``The reason we are making this change is, on the one hand, we've 
+seen some of the success that the open source community has had in 
+driving innovation,'' said Alan Baratz, president of Sun's Javasoft 
+division. Sun might also be acting to defuse any plans to clone its 
+technology, a fear that stems in part from its court victory last 
+month in its lawsuit accusing Microsoft Corp. of violating its Java 
+licensing agreement by making unapproved changes to it. Last month, 
+Judge Ronald Whyte of U.S. District Court in San Jose, Calif., ruled 
+that Microsoft must stop shipping the incompatible version of its 
+program within 90 days. Microsoft later said it was considering various 
+options, including dropping its Java support. A more likely possibility, 
+many analysts say, is that Microsoft might consider cloning Java, 
+an approach already taken by a consumer products division of Hewlett-Packard. 
+By changing its licensing terms, Baratz said, Sun was also opening 
+up the process by which other corporations and software developers 
+will be able to contribute to the way the language evolves. In the 
+past, he said, Sun held that control unilaterally, and only its partners 
+were able to offer ideas for new functions and standards. A number 
+of companies intend to endorse the new Sun licensing plan, including 
+some corporations that had been thinking about cloning Java, but Hewlett-Packard 
+will not be one of them, Baratz said. ``Frankly, Hewlett-Packard provided 
+good input, and we developed a model that achieved many if not all 
+of the things that were important to them,'' he said. ``I think there 
+are other political reasons that H-P is choosing not to participate.'' 
+There were also indications Monday that Microsoft planned to continue 
+to participate in the Java market. The company said it was releasing 
+a new version of its Java that offered better performance than Sun's 
+current version. Microsoft also added support for Jini, Sun's distributed 
+Java technology that had been a source of divisiveness between the 
+companies. Baratz said Monday that it had not yet been possible to 
+compare performance of Microsoft's and Sun's new versions of Java, 
+because neither company had yet received copies of the other's product. 
+</TEXT>
+</DOC>

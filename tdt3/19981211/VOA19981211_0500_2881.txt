@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> VOA19981211.0500.2881 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And it's hard to predict the outcome of the Microsoft antitrust trial 
+that's underway here in Washington, D.C. Among the evidence presented 
+are various e-mail messages including those sent by Bill Gates, Microsoft's 
+chairman. The USA Today newspaper reports that the trial illustrates 
+how lawyers are finding electronic messages, often written with more 
+candor than a formal document, are powerful tools in lawsuits. Michael 
+Carpelis, a Chicago attorney points out that e-mail can only increase 
+in terms of their importance in litigation. He says that people will 
+begin to realize e-mail is as important as a piece of paper. And that's 
+Computer Digest for this week. I'm Dan Nobel. 
+</TEXT>
+</DOC>

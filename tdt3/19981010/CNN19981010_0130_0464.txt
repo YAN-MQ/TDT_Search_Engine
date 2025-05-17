@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981010.0130.0464 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA may soon have to share a little more of outer space with other 
+American organizations. Congress this week passed a measure that would 
+allow private companies to launch reusable space vehicles, like the 
+space shuttle. The commercial space act also would require the government 
+to study ways to Foster the commercial space industry. Private companies 
+currently are allowed to launch vehicles into space, but can't fly 
+them back to earth. The measure has been sent to President Clinton 
+for his signature. 
+</TEXT>
+</DOC>

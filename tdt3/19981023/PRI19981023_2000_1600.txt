@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981023.2000.1600 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Whatever Microsoft's fortunes, Wall Street itself closed down today. 
+The Dow Jones down 81 points to 8452. The NASDAQ down nine points 
+to 1694. 
+</TEXT>
+</DOC>

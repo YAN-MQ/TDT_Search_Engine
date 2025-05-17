@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981105.0130.0504 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen Maginnis. 
+Tropical storm Mitch just does not give up. And for Thursday morning, 
+very early morning hours, look for between four and eight inches of 
+rainfall in its wake across the southern portion of florida. So, localized 
+flooding is possible as you head off to that rush hour traffic. Otherwise, 
+high pressure dominates from the Great Lakes to the gulf coast and 
+four corners region. A fairly strong frontal system for the pacific 
+northwest means additional snowfall and lower snow levels. Expect 
+temperatures 20s and 30s wrapped around the Great Lakes, the midwest, 
+the northern tier states and into the Hudson bay region. 50s and 60s 
+from the southeast all the way into central and southern sections 
+of California. 84 degrees is the expected high temperature in Honolulu. 
+And 38 expected in Anchorage. But above-normal temperatures in Barrow, 
+Alaska. Coming up for Friday, the snow will begin to fly across the 
+northern rockies. On Saturday, our weather system moves into the central 
+plains. And by Sunday, more rain for the west coast. If it's weather 
+information you're craving, log on to CNN.com. 
+</TEXT>
+</DOC>

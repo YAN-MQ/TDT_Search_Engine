@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981223.1600.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- a blast of cold air is chilling the nation 
+from southern California to New England. Freezing precipitation is 
+making travel hazardous in the mid south into the northeast as the 
+holiday travel rush gets under way. 
+</TEXT>
+</DOC>

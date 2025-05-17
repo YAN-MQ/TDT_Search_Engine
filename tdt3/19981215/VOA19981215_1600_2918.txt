@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> VOA19981215.1600.2918 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Well, today pretty much canceled yesterday in the stock market. The 
+Dow Jones Industrial Average closed at 8823. That was up 127 points. 
+Standard & Poors 500 Index closed at 11,062, up 21 points. NASDAQ 
+gained 45. Analysts say there was some selective bargain hunting after 
+Monday's big selloff in which the industrial average lost 126 points, 
+but the buying pressure gathered a lot of momentum in the last hour 
+of trading, wiping out all of Monday's loss. 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> PRI19981124.2000.0125 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+America Online has agreed to buying Netscape Communications Corporation 
+for about $4.2 billion in a stock deal that also involves Sun Microsystems. 
+The deal would unite three of the biggest competitors of Microsoft. 
+Microsoft's attorney urged the government today to drop its anti-trust 
+case against the software giant, saying that the AOL-Netscape deal 
+showed that Microsoft was not able to quash competition in the market. 
+AOL's deal with Sun calls for the two companies to develop and market 
+software to make it easier and safer to buy and sell goods over the 
+Internet. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981125.0130.0904 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Our top stories -- attorney general Janet Reno has decided not to 
+seek an independent counsel to investigate alleged campaign fund-raising 
+abuses by vice President Gore. Reno says the lack of evidence supports 
+her decision. Gore was accused of making illegal fund-raising calls 
+from his office and lying to FBI investigators. 
+</TEXT>
+</DOC>

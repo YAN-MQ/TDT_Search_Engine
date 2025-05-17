@@ -1,0 +1,83 @@
+<DOC>
+<DOCNO> NYT19981016.0216 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+One school of technology investing hews to a simple strategy: Follow 
+the leadership. The shares of so-called leadership companies may not 
+look cheap by conventional measures, say price-to-earnings or price-to-book 
+ratios. But because the leaders define standards the rest of the industry 
+must follow, they will always command a disproportionate share of 
+earnings and growth. Therefore the leaders will always bounce back 
+from setbacks to deliver market-beating returns, or so the school 
+teaches. The Intel Corp. is incontrovertibly a leadership company. 
+Indeed it may be the leadership company of its generation. Intel invented 
+the microprocessor and the dynamic random access memory chip and it 
+continues to push the performance envelope today. It is also broadly 
+acknowledged to be a superbly run company. Add to that the fact that 
+the stock, which closed Friday at $83.75, has fallen 16.6 percent 
+from last year's high of $100.50 on Aug. 20 and that its current P/E 
+ratio of 24.1 is below that of of the overall market's, and it is 
+easy to reach a conclusion. A technology investor has no choice but 
+to own Intel, right? Maybe. But not everyone believes Intel is a compelling 
+buy at the current price. Some point out that it is well above its 
+52-week low of $65.65625, reached on June 3. And they are not at all 
+sure this leadership thing is what it's cracked up to be. What makes 
+the debate timely are the better-than-expected third-quarter earnings 
+released last week. Bulls point to that report as a clear sign that 
+personal computer makers have worked through a glut of inventory that 
+depressed sales in the first half of the year. Intel had originally 
+forecast that third-quarter revenues would be flat relative to the 
+second quarter's, later amended that to a gain of 8 percent to 10 
+percent and actually reported a 14 percent gain. Many analysts expect 
+a robust fourth quarter, too. But the bears doubt that the current 
+growth is sustainable. They say buyers no longer need to increase 
+processing power on a regular basis and that Intel faces reinvigorated 
+competition. As evidence of the strength of this argument, Intel's 
+shares fell $1 the day after the earnings announcement. So far, even 
+the bears are not placing great emphasis on an antitrust lawsuit filed 
+against Intel in June by the Federal Trade Commission. For starters, 
+Intel's hold on the desktop is not nearly so absolute as that of the 
+Microsoft Corp. Still, it belongs on the list of worries for Intel. 
+Count Mark Edelstone, an analyst with Morgan Stanley Dean Witter, 
+among the Intel bulls. He has a strong buy recommendation on the stock 
+and a target share price of $110. ``I don't think these results would 
+indicate anything other than that Intel will remain a leadership stock,'' 
+he said. Edelstone expects demand to be strong enough in the fourth 
+quarter that Intel will enter 1999 with a backlog. Michael Murphy, 
+editor of the California Technology Stock Letter, has been predicting 
+that Intel might hit $120 by year-end. He expects money to flow from 
+``old economy'' stocks like Gillette and Coca-Cola to ``new economy'' 
+stocks like technology companies as it becomes apparent that only 
+the Intels of the world can deliver double-digit sales and earnings 
+growth in a recession. ``If we get the disconnect between old economy 
+stocks and new economy stocks that we expect, Intel can sell for 30 
+times 1999 earnings,'' Murphy said, giving it a price of $120 by his 
+estimate. He said he presumed that in the event of a recession next 
+year, companies would continue buying personal computers to drive 
+up productivity and remain competitive. Companies did just that in 
+the last recession, in the early '90s, driven by the need to move 
+old mainframe-based applications to client-server systems.The spread 
+of Microsoft's Windows 3.1 and the related Office suite of applications 
+drove demand for more powerful processors. But the climate has changed. 
+The big demand drivers are the Internet and electronic commerce, which 
+are limited less by microprocessor power than by bandwidth. And on 
+most of today's real world applications, there is little benefit in 
+upgrading from a 166-megahertz Pentium to a 300-megahertz Pentium 
+II. Windows 98 does not require more power than Windows 95. Drew Peck, 
+an analyst with Cowen &AMP; Co., said he did not believe Intel will 
+be the profit and growth machine it once was. ``For Intel to sustain 
+this quarter's level of growth and profit requires a strong step up 
+in PC demand,'' he said. ``That's a difficult bet to make.'' He rates 
+Intel a ``trading buy,'' meaning it should be bought on dips and sold 
+on pops. Of course, it is possible to admire Intel the company but 
+not Intel the stock. ``This is undeniably one of the great business 
+franchises in our economy,'' said Roger McNamee, a principal in Integral 
+Partners, a fund specializing in technology stocks. But he said the 
+diminished need for ever greater processing power, even more than 
+greater competition, will lead to ever shorter product cycles and 
+ever shorter periods in which Intel can charge a premium for its latest, 
+fastest processors. ``I think its going to have lower highs and lower 
+lows,'' he said. 
+</TEXT>
+</DOC>

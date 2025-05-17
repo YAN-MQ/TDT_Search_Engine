@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981222.1600.3012 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In other world markets, the Financial Times 100-share Index in London, 
+ended the day, down 33 points, to 5,843. While in Paris, the Cac -40 
+Index was up 17 points at 3,820. 
+</TEXT>
+</DOC>

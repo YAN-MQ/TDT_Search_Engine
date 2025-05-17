@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981212.1600.1020 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sources say MCI Worldcom will lay off 2,000 people, or about 3% of 
+its workforce. The company won't comment. 
+</TEXT>
+</DOC>

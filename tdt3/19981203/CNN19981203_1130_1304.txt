@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981203.1130.1304 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Roger Clemens is demanding a trade. He's unhappy in Toronto. 
+</TEXT>
+</DOC>

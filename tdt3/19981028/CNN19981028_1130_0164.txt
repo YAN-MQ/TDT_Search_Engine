@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981028.1130.0164 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hurricane Mitch is sitting just off shore in the carribean, pounding 
+the region with heavy winds and rain. Most people are not waiting 
+for the powerful storm to come ashore. Mexico declared an alert for 
+the Yucatan peninsula and evacuated thousands of tourists and residents 
+from cancun, cozumel and other vulnerable areas. Forecasters say Mitch 
+will probably threaten the entire northwestern carribean for at least 
+the next two days. At last report, the storm was parked about 30 miles 
+off the coast of honduras. Its winds have now dropped to about 120 
+miles per hour. Mitch has dumped up to 25 inches of rain in parts 
+of Honduras. Dozens of rivers have flooded there, cutting off access 
+to many cities. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981112.2130.1104 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In an effort to further reduce costs, look for airplanes to become, 
+well, a Little plainer. The chairman of united airlines is heading 
+a drive to reduce the amount of customization that goes into producing 
+an aircraft. As it stands now, each airline orders planes to its own 
+specifications. But it's believed that each carrier could save at 
+least 4% in airline costs if components became more standardized. 
+So everything from paint schemes to coffee pots to clipboards is being 
+reviewed. Lori Waffenschmidt, CNN, reporting. 
+</TEXT>
+</DOC>

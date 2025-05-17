@@ -1,0 +1,88 @@
+<DOC>
+<DOCNO> NYT19981023.0412 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+No one yet knows how much digital mayhem the world will face when 
+the year 2000 arrives. Filings with the Securities and Exchange Commission 
+suggest that repair and contingency planning projects are just now 
+building up steam at many companies. That might lead to the assumption 
+that companies helping corporate America battle the so-called millennium 
+bug have a rosy earnings outlook. But the Bloomberg Year 2000 index 
+of 34 stocks in this field has lost 34.6 percent this year, compared 
+with a gain of 11.7 percent for the Standard &AMP; Poor's 500. A second 
+year-2000 index, designed by Peter de Jager, a well-known year-2000 
+consultant, is down 8.8 percent this year even though it defines the 
+year-2000 universe more broadly than Bloomberg does. What's going 
+on? Let's start by recalling the story line that once thrilled investors 
+in these stocks: Big problems will arise from the fact that many computers 
+use just two digits to represent years, and do not recognize ``00'' 
+as 2000. Some machines read ``00'' as 1900; others are flat-out mystified. 
+Analysts have projected that as much as $600 billion will be spent 
+to solve the problems. Investors started searching for year-2000 beneficiaries 
+in the mid-1990s, even before most companies started working on the 
+problem. Established software and computer companies responded by 
+developing and spotlighting their year-2000 wares. Some, like Viasoft 
+Inc. and the Computer Horizons Corp., used the rising interest as 
+a springboard for going public. The Zitel Corp., a specialist in computer 
+memory devices, bought an interest in a small year-2000 code repair 
+company, the Matridigm Corp., in 1995; Zitel's stock, which had been 
+languishing at about $5, surged to more than $60 by late 1996. As 
+a group, year-2000 stocks outperformed the market by a wide margin 
+in 1996 and 1997. Even including the underperformance this year, the 
+Bloomberg index is still up 34.9 percent, annualized, since the beginning 
+of 1996, compared with just 21.4 percent for the S&AMP;P 500. And 
+the de Jager index is up 35.8 percent, annualized. The time is long 
+past, though, for the strategy that Damian Rinaldi, who follows the 
+sector for the First Albany Corp., described as ``buy a basket and 
+empty it as the leaders emerge.'' Over the past year, more and more 
+investors have begun treating many year-2000 companies as yesterday's 
+investment fad. ``During 1997, anything associated with the year 2000 
+got a premium,'' said Stan Corker, director of technology research 
+at Emerald Research, a Lancaster, Pa., firm whose clients include 
+institutions and mutual funds. ``Now, investors are more concerned 
+with whether these companies will fall off a cliff on Jan. 1, 2000.'' 
+These days, there can be steep price declines at almost any sign of 
+earnings or revenue shortfalls. Viasoft is trading at $4.9375, down 
+from its 52-week high of $44 last October. Peritus Software Services, 
+a company that, like Viasoft, automates the search for year-2000 problems, 
+plummeted late last year and now trades at $1.09375, down from a high 
+of $29.125 last October. Data Dimensions, which hit its 52-week high 
+of $35.50 a year ago, now trades at $15.125. And Zitel closed at $3.34375 
+on Friday. These and other hard-hit companies are all associated with 
+the first stages of year-2000 projects: assessing where the problems 
+lie and repairing the right computer code. Although revenues and earnings 
+grew rapidly at first, they appear to have peaked sooner _ and at 
+lower levels _ than Wall Street had expected. Much corporate spending 
+seems to be going not toward repairs but toward avoiding the problem 
+by buying new computers and software. One bright spot has been companies 
+like Compuware that have emphasized not just their repair capabilities 
+but also so-called later-stage tools like software for testing completed 
+repairs. Stocks of companies like Keane Inc., with broader information 
+management skills, fared better than the Viasofts of the year-2000 
+universe, but have also weakened. Keane, for example, has probably 
+seen its year-2000 business peak at $102 million, or 37 percent of 
+revenues, in its most recent quarter, according to Richard Park, a 
+securities analyst at Merrill Lynch. Now investors may be wondering 
+how quickly its year-2000 work will tail off and how rapidly it can 
+win new outsourcing contracts and other business from big corporate 
+computer users. Keane's shares are at $31.75, down from their peak 
+of $60.9375 on July 8. ``The issue for everyone is whether year 2000 
+is a long-term source of leverage with clients or whether it will 
+disappear without a trace,'' said Rinaldi of First Albany. He and 
+many others say that year-2000 stocks will remain volatile but that 
+investors have become too gloomy about many of them. He maintains 
+a buy on Keane, and strong buys on Compuware, Mercury Interactive 
+and Cognicase. ``Y2K has been a catalyst for growth for all of them 
+but it's not dominant,'' Rinaldi said. For its part, Emerald Research 
+maintains buys on Keane and the Mastech Corp., a leader in outsourcing 
+remediation work to programmers in India. Also seeing possibilities 
+in the sector is Thomas Dorsey, president of Dorsey Wright and Associates, 
+a Richmond firm that specializes in technical analysis. ``The de Jager 
+index can spring back just as fast as it fell,'' Dorsey said, and 
+he recommends that investors buy call options on it. Major index components 
+that have minor year-2000 exposure, like Unisys and the EMC Corp., 
+are in good shape, he said, and several others, including Keane, are 
+``great bottom-fishing plays.'' 
+</TEXT>
+</DOC>

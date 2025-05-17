@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981112.1830.0657 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One other item -- two new studies find that eating a handful of nuts 
+every day significantly reduces the risk of heart disease. Unless 
+you are allergic to them, of course. Nuts are high in fat, but most 
+of it is unsaturated. Researchers believe unsaturated fats help reduce 
+cholesterol. 
+</TEXT>
+</DOC>

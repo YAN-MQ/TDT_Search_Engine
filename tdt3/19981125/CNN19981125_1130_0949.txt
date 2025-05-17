@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981125.1130.0949 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks blow off steam for the second day in a row. For the latest 
+numbers and corporate news, let's go to Valerie Morris in New York. 
+val? It looks thak they're starting vacation early. True. It's impacted 
+because it's a holiday-shortened trading week, Toria. Stocks are mixed 
+as the morning nears an end. Enthusiasm noticeably muted the day before 
+the Thanksgiving holiday. Stocks will not trade tomorrow. 
+</TEXT>
+</DOC>

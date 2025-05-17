@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981118.1600.0403 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+According to a new government report on violence, more than half of 
+all american women have been physically assaulted at some time in 
+their lives. Those assaults range from a slap to a punch to gun violence. 
+Nearly one in five women has been raped or is the victim of an attempted 
+rape. Half of those victims were assaulted before the age of 17. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981101.1130.1292 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In auto racing, mika hakkinnen claimed his first formula one title 
+by taking the checkered flag in Sunday's running of the Japanese grand 
+prix. Hakkinnen secured the title when German star Michael Schumacher 
+dropped out on the 32nd lap when the right rear tire on his Ferrari 
+exploded. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981202.1830.0339 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Still "on the money" -- investors on Wall Street today reacted negatively 
+to predications of declining profits at Boeing and the giant department 
+store chain, Sears. The Dow Jones industrial average was down 69 points 
+to close at 9064. On the NASDAQ, stocks were down 8 1/2 points. 
+</TEXT>
+</DOC>

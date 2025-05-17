@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981202.2000.0333 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In stocks, the NASDAQ Composite index lost eight points, to close 
+at 1995. 
+</TEXT>
+</DOC>

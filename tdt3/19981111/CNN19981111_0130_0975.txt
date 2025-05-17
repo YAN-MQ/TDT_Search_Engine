@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981111.0130.0975 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors played it cautious Tuesday, and that helped push the stock 
+market down. 
+</TEXT>
+</DOC>

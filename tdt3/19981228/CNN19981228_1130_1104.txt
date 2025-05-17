@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981228.1130.1104 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The environmental protection agency has found a major national air 
+pollution control program is not working the way legislators intended. 
+"The Wall Street Journal" reports an EPA audit found that for several 
+years, state regulators were too lacks in reporting local clear air 
+act violations. The failure of federal and state regulators to enforce 
+the clean air act allowed violators to avoid inspections and fines 
+for years. And that's it for "Dollars & Sense." For more, check out 
+our web site at cnnfn.com. 
+</TEXT>
+</DOC>

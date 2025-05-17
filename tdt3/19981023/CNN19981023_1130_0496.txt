@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981023.1130.0496 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "Headline News weather." We 
+check temperatures today, which continue to be quite mild back through 
+the plains. Still cool in the northeast, though, with highs in the 
+40s and the 50s, and a little on the cool side most areas in the southeast. 
+Forecast weather map shows high pressure continues to dominate the 
+weather over much of the east as that high builds in. We'll see the 
+cooler temperatures in another cold night tonight in the southeast. 
+Do have a front approaching the northwest. That'll move onshore and 
+bring showers into the northwest and as far south as San Francisco 
+during the day tomorrow. A look now at the extended forecast on Sunday, 
+rain and windy conditions will continue to move into the intermountain 
+west. We're looking for a few showers in the upper midwest and warmer 
+temperatures into the southeast. On Monday, again, mild temperatures 
+in the southeast. A little on the cool side in the northeast, with 
+highs in the 40s and the 50s. Scattered showers will continue to affect 
+a good part of the southwest. On Tuesday, much the same story as temperatures 
+warm along the gulf coast. For more weather information, including 
+four-day forecasts now available for 7,200 cities, log into CNN.com. 
+</TEXT>
+</DOC>

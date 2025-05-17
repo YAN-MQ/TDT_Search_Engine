@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981015.1600.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Despite incidents like last spring's deadly shooting in Jonesboro, 
+Arkansas, a new report shows school violence is down. The report, 
+commissioned by President Clinton, finds out of 10 schools experienced 
+no violence at all. These and other stories in 15 minutes. 
+</TEXT>
+</DOC>

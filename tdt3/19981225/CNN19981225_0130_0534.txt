@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981225.0130.0534 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton says the latest personal income figures show the 
+U.S. economy is still strong. Average incomes increased 0.5% in November 
+and nearly 5% for the past year. That's faster than the rate of inflation. 
+As for the government's finances, the president is calling for fiscal 
+discipline, with spending concentrated on education and health care. 
+</TEXT>
+</DOC>

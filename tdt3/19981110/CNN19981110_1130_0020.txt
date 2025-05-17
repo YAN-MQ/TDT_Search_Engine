@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981110.1130.0020 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+with more and more americans using alternative medical treatments, 
+"the journal of the american medical association" is devoting an entire 
+issue to whether they work. some of the findings may surprise mainstream 
+doctors. researchers found a chinese herb does help relieve irritable 
+bowel syndrome. and yoga works better than wrist braces for patients 
+with carpal tunnel syndrome. but researchers also found chiropractors 
+can't relieve tension headaches, and acupuncture offers no help to 
+hiv patients. 
+</TEXT>
+</DOC>

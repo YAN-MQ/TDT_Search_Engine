@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981031.1000.0353 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Saddam Hussein's government says Iraq is stopping all dealings with 
+United Nations arms inspectors. The statement follows yesterday's 
+U.N. security council decision to review iraq's compliance with U.N. 
+resolutions. T he council will not guarantee the lifting of trade 
+sanctions imposed after the invasion of Kuwait in 1990. Removal of 
+the sanctions requires certification by weapons inspectors that iraq 
+has eliminated biological and chemical weapons and long-range missiles. 
+Iraq says it will continue to allow the international atomic energy 
+agency to monitor compliance on its nuclear program. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981016.1130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- social security recipients will get a 
+1.3% increase in benefits next year. Low inflation is behind the smallest 
+cost-of-living adjustment in a dozen years. 
+</TEXT>
+</DOC>

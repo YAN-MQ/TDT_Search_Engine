@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981101.1300.0439 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The death toll from Mitch has nearly doubled. Officials now say 801 
+people in central America have been killed by the storm, which started 
+as a hurricane but has weakened into a tropical depression. The storm's 
+heavy rains have done the most damage, causing mudslides throughout 
+the region. In Nicaragua, nearly 500 people were killed when a mudslide 
+buried several villages. In neighboring Honduras, the death toll is 
+expected to rise again as relief officials gain access to remote areas. 
+</TEXT>
+</DOC>

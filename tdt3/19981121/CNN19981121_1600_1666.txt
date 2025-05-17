@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981121.1600.1666 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up in two minutes -- President Clinton issues a Stern warning 
+to north Korea about suspicions it's developing a nuclear weapons 
+program. I'm Kate snow. This is "CNN Headline News." 
+</TEXT>
+</DOC>

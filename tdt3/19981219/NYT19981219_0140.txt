@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981219.0140 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST More than 6 inches of snow will fall along the Front 
+Range of the Colorado Rockies on Sunday as cold, moist winds from 
+the east glide up the sloping terrain. The developing snowstorm in 
+the Colorado Rockies is just one facet of a large incursion of Arctic 
+air into the contiguous states over the past few days. With a subcenter 
+of Arctic high pressure bivouacked near the Canadian-Washington border, 
+the brunt of the Arctic air mass will continue to be borne by the 
+Rockies and the Plains. While Arctic air tightens its grip on the 
+West and parts of the Middle West, the cold front marking the leading 
+edge of Arctic air will stall from southeast Canada to the eastern 
+Great Lakes and just north of the Ohio Valley as upper-level steering 
+winds from the southwest blow nearly parallel to the front. Broken 
+areas of light to moderate snow will fall near the upper Mississippi 
+Valley and western Great Lakes as a jet stream disturbance passes 
+west of the stalled front. Snowfalls will be enhanced across Michigan's 
+upper peninsula as cold air is moistened in transit over Lake Superior. 
+Patches of freezing rain will develop just west of the Arctic front 
+from the middle Mississippi Valley northeastward, where a weak area 
+of low pressure produces precipitation in a zone where only a shallow 
+layer of Arctic air will be present. Meanwhile, a few clusters of 
+showers will dampen parts of the Gulf states as a jet stream disturbance 
+that brought high clouds to the Southwestern states Saturday summons 
+moisture northward from the Gulf of Mexico. Focus: Blizzard Blizzard 
+warnings were issued for northeast North Dakota and northwest Minnesota 
+on Friday as an invading Arctic air mass blasted into the upper Middle 
+West. There is a technical and a colloquial definition of a blizzard. 
+Technically, winds must be sustained for 35 mph or more for three 
+consecutive hours, all the while with visibility below one-quarter 
+of a mile in snow or blowing snow. At one time, temperatures were 
+required to be lower than 20 degrees Fahrenheit, but the condition 
+was removed several years ago. Colloquially, a blizzard refers to 
+any snowstorm with high winds. 
+</TEXT>
+</DOC>

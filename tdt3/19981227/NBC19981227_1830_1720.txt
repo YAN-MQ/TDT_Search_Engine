@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981227.1830.1720 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's "NBC nightly news" for this Sunday. Brian Williams will be 
+here tomorrow. I'm Soledad O'Brien. Good night. 
+</TEXT>
+</DOC>

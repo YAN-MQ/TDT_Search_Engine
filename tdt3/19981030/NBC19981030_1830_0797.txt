@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981030.1830.0797 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+All this was very good news on Wall Street. The Dow was up more than 
+7 points. The NASDAQ gained more than 14 points. The markets ended 
+the week in what is traditionally a spooky month of october. The Dow 
+was up almost 140 points by the end of this month. The NASDAQ finished 
+up 77 1/2 points. 
+</TEXT>
+</DOC>

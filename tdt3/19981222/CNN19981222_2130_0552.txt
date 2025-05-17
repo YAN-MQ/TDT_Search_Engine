@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981222.2130.0552 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for Wednesday. Most of the country will be influence bid 
+cool, high pressure. In the south, plenty of moisture cold item turz. 
+That means we could see an icy mix in some parts of the south on Wednesday. 
+High temperatures will range anywhere from sub zero and single numbers 
+across the northern Rockies and upper midwest to 60s and 70s in southern 
+florida. Looking ahead to Thursday, look for ice and snow in the eastern 
+U.S. with snow in the northwest. Friday, cold across much of the country 
+with ice and snow once again through the east. Same story on Saturday, 
+temperatures are moderating a bit in parts of the south. In the west, 
+we will see rain with mountain snow as well. Don't forget, you can 
+find four-day forecasts for more than 7,200 cities on cNN interactive. 
+The address is CNN.com. 
+</TEXT>
+</DOC>

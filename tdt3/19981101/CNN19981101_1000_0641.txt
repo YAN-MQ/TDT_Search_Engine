@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> CNN19981101.1000.0641 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A Canadian city hopes to cut its air-conditioning costs by letting 
+nature run its course. Natalie pawelski reports. If you want to cool 
+off on a warm day, go jump in a lake. If that works for one person, 
+can it work for a whole city? Canada's biggest city says maybe. We 
+have huge air conditioners cranking out the cooling inside. And we 
+burn coal to produce the electricity to run those air conditioners. 
+It's a terrible environmental situation. Then next door, we've got 
+a lake with freezing cold water at the bottom. Toronto, a big city 
+on a great lake, has a plan to replace electric air conditioning systems, 
+now used to cool downtown's big buildings, with a treasure tapped 
+at the bottom of lake Ontario. Why not take that freezing cold water 
+and put it in the pipes of the office buildings that need to be cooled 
+off. That was the question and the idea. The idea is to pipe cold 
+lake water to a central chilling station and use it to cool the water 
+that circulates through downtown air conditioning systems. Engineers 
+say the new system could cut the amount of electricity that's used 
+for air conditioning by 90%. And that means far less pollution from 
+dirty coal plants, like Toronto's lakeview facility, which is blamed 
+for much of the city's dirty air in the summer. Construction on the 
+new system has begun, but it won't be up and running until the summer 
+of 2002. If Toronto's experiment succeeds, it could become an example 
+for waterside cities worldwide. Natalie pawelski, CNN, Toronto. 
+</TEXT>
+</DOC>

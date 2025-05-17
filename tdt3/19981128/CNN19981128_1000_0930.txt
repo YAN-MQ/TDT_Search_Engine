@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981128.1000.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- Seattle police are trying to determine 
+why a Passenger on a city bus shot the driver resulting in a horrible 
+accident. The bus careened off a bridge and hit an apartment building 
+before settling on the ground. Two people are dead and at least 30 
+people injured. 
+</TEXT>
+</DOC>

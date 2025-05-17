@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981116.2130.0584 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is resuming his visit to Asia after skipping the 
+first leg to monitor the standoff with Iraq. The White House says 
+the president will fly to Japan and Korea this week. 
+</TEXT>
+</DOC>

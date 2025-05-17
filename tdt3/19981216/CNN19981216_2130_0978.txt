@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981216.2130.0978 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Reports that Congress may delay an impeachment vote eased the minds 
+of investors today. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981027.1600.0395 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Spanish researchers say women are 72% more likely to die from their 
+first heart attack than men. The study found women experience more 
+severe and lethal attacks than men. The American heart association 
+says about 1.1 million people have heart attacks in the United States 
+each year, and the mortality rate is equally divided between the two 
+sexes. 
+</TEXT>
+</DOC>

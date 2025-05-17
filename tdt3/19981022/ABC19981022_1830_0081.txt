@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> ABC19981022.1830.0081 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Clearly people think there is less risk to the economy than there 
+was several weeks ago. Here's ABC's Betsy Stark. On the surface it 
+looks like a phenomenal turnaround. In less than two weeks, the Dow 
+industrials have shot up more than 10%, almost 800 points. The NASDAQ 
+has soared 18%, after months in a grisly slump. Professional investors 
+who sought safety in U.S. treasury bonds are beginning to put some 
+of that money back into stocks. And companies are making deals again. 
+On Monday alone, there were mergers and acquisitions worth almost 
+$22 billion. Investors have gained some confidence from the fed's 
+decision to cut interest rates and from Congress's decision to give 
+the international monetary fund money to help the next global trouble 
+spot. But as good as all that sounds, few are ready to say it adds 
+up to a Decisive turnaround, especially with the United States in 
+an economic slowdown and unknown course. I think the problem the market 
+faces is really the fact that many people may be underestimating the 
+impact on corporate profits of some of the troubles around the world. 
+Because so many major American companies do business in those places, 
+corporate executives have been looking for ways to cut costs, heading 
+into next year. That's showing up in a steady stream of corporate 
+layoffs, several nounsed just this week. For every good piece of news, 
+it seems, there's bad news offsetting it. Which is why many on Wall 
+Street are finding it hard to trust this rally. Betsy Stark, ABC News, 
+New York. 
+</TEXT>
+</DOC>

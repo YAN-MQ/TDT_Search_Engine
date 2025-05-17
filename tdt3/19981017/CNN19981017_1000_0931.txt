@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981017.1000.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- President Clinton will rejoin the mideast 
+peace summit in Maryland today. He wants to help the participants 
+reach an agreement by tomorrow. 
+</TEXT>
+</DOC>

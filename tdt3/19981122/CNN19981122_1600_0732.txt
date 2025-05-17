@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981122.1600.0732 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Federal regulators want to lower the maximum height for headlights 
+on large vehicles because of safety concerns. "The New York Times" 
+reports they're worried that sport utility vehicles with high-mounted 
+headlights are making visibility on the road more difficult for other 
+drivers. Regulators say the headlights can create so much glare they 
+appear as high beams to oncoming drivers. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981102.1600.0475 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some researchers say they have shown, for the first time, that human 
+brain cells do divide and grow. That could lead to new treatments 
+for brain damage. In one human experiment, scientists in the U.S. 
+and Sweden treated brains cells with a chemical used to Mark quickly-expanding 
+cancer cells. They say that certain cells replicated and produced 
+new DNA. The report is published in the journal "nature medicine". 
+</TEXT>
+</DOC>

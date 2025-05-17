@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> VOA19981203.0500.2975 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock prices were lower in Tokyo with the Nikkei Index dropping two 
+percent in a host of bearish factors, including an overnight drop 
+from the U.S. Stock Market and a report that Japan's economy contracted 
+7/10ths of a percent on the July to September quarter. Elsewhere in 
+Asia, Hong Kong's Hang Seng Index was basically flat, finishing off 
+a fraction of a percentage point. Shares were sharply lower in Manila, 
+slightly lower in Wellington, Taipei, and Sydney, but they were mixed 
+in Seoul. 
+</TEXT>
+</DOC>

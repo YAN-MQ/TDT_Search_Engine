@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981229.1130.1095 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Bad weather in California may help cut, yes, cut, the cost of your 
+morning glass of orange juice. Freezing temperatures devastated orange 
+and other citrus crops last week. So growers, who normally sell most 
+of their produce as fresh fruit, may be forced to squeeze juice from 
+damaged oranges. The result -- lower prices for the juice at the checkout 
+counter. 
+</TEXT>
+</DOC>

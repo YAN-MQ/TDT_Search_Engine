@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981124.0130.1088 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If you think the IRS owes you some money, you may want to give the 
+agency a Call. It's looking for more than,000 taxpayers whose 1997 
+refund checks never reached them. The checks totalling more than $68 
+million were returned to the post office because of incorrect names 
+or wrong addresses. Taxpayers who believe they are due a refund from 
+1997 should call the IRS at -- 
+</TEXT>
+</DOC>

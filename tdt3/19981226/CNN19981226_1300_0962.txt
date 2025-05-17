@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981226.1300.0962 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And retailers across the U.S. are counting on big sales today to make 
+up for a disappointing holiday season. Many stores are offering shoppers 
+major discounts. 
+</TEXT>
+</DOC>

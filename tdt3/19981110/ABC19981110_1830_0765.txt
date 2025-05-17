@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981110.1830.0765 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tomorrow, November the 11th, is veteran's day in the United States, 
+and remembrance day in Canada. In many parts of the world, you honger 
+those who lost their lives in war. 
+</TEXT>
+</DOC>

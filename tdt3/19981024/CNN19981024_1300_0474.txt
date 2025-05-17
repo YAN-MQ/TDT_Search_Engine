@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981024.1300.0474 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Don't forget, four-day forecasts for more than 7,200 cities on CNN 
+interactive. The address is CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981202.0130.1074 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the transportation department is warning sports fans to read the fine 
+print before buying travel packages to college bowl games. some tours 
+might leave out a crucial element -- tickets to the games. the transportation 
+department says you should get written confirmation tickets are included, 
+but if you feel you've been cheated, there are rules to protect you. 
+in some cases, you can get your money back. 
+</TEXT>
+</DOC>

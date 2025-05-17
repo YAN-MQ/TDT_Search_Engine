@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981106.2130.0979 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A Wall Street rally brought the Dow Jones industrial average within 
+a few hundred points of July's all-time best close. 
+</TEXT>
+</DOC>

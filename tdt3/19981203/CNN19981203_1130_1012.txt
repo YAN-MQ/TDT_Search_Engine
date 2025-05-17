@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981203.1130.1012 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sales rose 10% at neiman-Marcus, but the company said the climate 
+was difficult. 
+</TEXT>
+</DOC>

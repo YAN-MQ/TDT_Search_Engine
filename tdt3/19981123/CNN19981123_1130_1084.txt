@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981123.1130.1084 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Shares of the Brooke group are moving sharply higher this morning. 
+Late Friday, Philip Morris said it's buying three cigarette brands 
+from brooke's Liggett tobacco unit for $300 million. The brands are 
+L&M, Chesterfield and lark. Brooke says it will now focus on discount 
+and private-label cigarettes. 
+</TEXT>
+</DOC>

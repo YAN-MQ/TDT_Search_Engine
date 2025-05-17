@@ -1,0 +1,114 @@
+<DOC>
+<DOCNO> NYT19981019.0352 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In the biggest rebellion yet against a health insurance company, more 
+than 400 doctors in Dallas have terminated their contracts with Aetna 
+Inc.'s health maintenance organization, and Aetna has retaliated by 
+cutting off their access to all its Dallas patients. As a result, 
+nearly 30,000 patients covered by Aetna must accept other doctors 
+who remain under contract to the company. Or the patients face paying 
+the insurgent doctors cash for their care if they choose to remain 
+with them, at least for the three or four months it will take the 
+patients to sign up with other companies. The patients are caught 
+in the crossfire over disputes between the nation's fourth-largest 
+health insurance company and one of the numerous doctors associations 
+that have sprung up around the nation to help doctors build contracting 
+influence against the insurance companies. In Dallas and in many other 
+cities, doctors bristle most about Aetna and its health care company, 
+Aetna U.S. Healthcare, with 16 million subscribers to its HMOs and 
+other types of health plans. ``Aetna's perceived as the worst kid 
+on the block,'' said Dr. Phil Berry, an orthopedic surgeon in Dallas. 
+But Dr. Arthur Leibowitz, Aetna U.S. Healthcare's chief medical officer, 
+said that in Dallas, as in the rest of the country, Aetna was enrolling 
+physicians far faster than it was losing them. ``Overwhelmingly we 
+have been successful in negotiating with doctors,'' he said. ``But 
+we won't agree with everybody, every time.'' Aetna, like most managed 
+care companies, has been struggling with three years of sagging profits 
+and pressure from the investors to control costs. Among the leading 
+companies, physicians say, Aetna is the most aggressive in negotiating 
+contracts. Physicians have quit Aetna HMOs in Ohio, too, and the Georgia 
+Medical Association says that disgruntled doctors in Atlanta are threatening 
+to follow. In Florida last summer, Aetna averted a rebellion only 
+after the state ordered changes in physician contracts that it found 
+were illegal. ``Over the course of this past year, their posture was 
+one of `we don't have to talk to you,' '' said Nancy Gillette, a lawyer 
+for the Ohio State Medical Association, which sought to intervene 
+for doctors. Paul Shanor, executive director of the Georgia association, 
+said, ``What I'm hearing is take-it-or-leave-it negotiating.'' Aetna 
+executives attribute some of the tension to cultural changes at the 
+company that began only a few years ago. Aetna Inc., of Hartford, 
+Conn., once a sedate, old-line insurance company, has refashioned 
+itself as a managed health care company and is digesting two big HMO 
+company acquisitions, U.S. Healthcare two years ago and NYLCare this 
+year. ``We're large,'' Leibowitz said. ``We're prominent. We went 
+through a transformation of our business.'' He said the mergers ``contribute 
+to a sense of change and difficulty on the part of physicians.'' In 
+Dallas, where several big groups of physicians have been feuding with 
+Aetna for more than a year, this month's rebellion involves the Genesis 
+Physicians' Practice Association, which negotiates and manages group 
+contracts with scores of insurers that provide health care for the 
+employees of Dallas businesses. Aetna U.S. Healthcare's contract with 
+Genesis covered 562 physicians who collectively assumed the risk for 
+treating Aetna HMO subscribers. Genesis physicians said that to monitor 
+the cost of care and avoid losing money under the contract, especially 
+for the HMO members, they needed prompt access to the information 
+that Aetna gathers about the treatments, medications and trips to 
+the hospital that patients receive. Yet the data would take weeks 
+and months to obtain, doctors said, and it was rarely satisfactory. 
+Aetna has also been chronically slow in paying doctors' claims, a 
+charge supported by the high numbers of complaints against Aetna that 
+the Texas Insurance Commission reports. ``They're the most difficult 
+payer for us to work with,'' said Dr. Evan Bates, an ear, nose and 
+throat surgeon who is one of the rebels. Leibowitz attributed problems 
+with information flow to an intermediary that participated in the 
+Aetna-Genesis contract and said that the flow is being restored. He 
+said the company has superb data processing technology. ``There isn't 
+anybody that can give the information that we can,'' he said. Disputes 
+have also arisen over language in contracts that managed care physicians 
+must sign with Aetna. The Texas Medical Association cites Aetna Health 
+Plans of Texas' standard, 17-page ``Specialist Physician Agreement'' 
+in which the association has identified 17 provisions that it finds 
+confusing, offensive, misleading or legally questionable. Among the 
+provisions is one requiring physicians to accept contract terms, including 
+those covering fees, that Aetna could subsequently change. Another 
+says physicians must abide by the company's review decisions to approve 
+or deny a procedure for a patient; yet another declares that patient 
+care is the ``sole responsibility'' of the physician. The most contentious, 
+however, is a passage that physicians call a ``gag clause'' because, 
+they say, it discourages them from telling a patient of all treatment 
+options for a disease, whether or not the insurer approves of them. 
+The industry says the clauses are very rare, a view that the General 
+Accounting Office has confirmed. Nevertheless, section 1.3 of the 
+Aetna Texas contract says physicians shall not ``imply to members 
+that their care or access to care will be inferior due to the source 
+of payment.'' The medical association's analysis of the provision 
+says, ``The language would stop the physician from honestly dealing 
+with the patient if it will harm the plan.'' Leibowitz did not defend 
+the provision. ``We do not intend any part of the contract to be construed 
+as a gag clause,'' he said. Asked why the contract included the provision, 
+he said, ``It's a fair point.'' For all these reasons and after months 
+of negotiations, the Genesis group broke its contract to treat Aetna's 
+8,000 HMO patients. Then Aetna invoked an ``all products'' policy, 
+rare among managed care companies, that meant Genesis doctors who 
+refused HMO patients would be denied access to patients in all Aetna 
+plans. As a result, close to 30,000 Genesis patients are losing their 
+Aetna coverage. Faced with losing all their Aetna patients, some of 
+the doctors (140 according to Aetna, fewer than 100, according to 
+Genesis) have signed individual contracts with Aetna and are keeping 
+their patients. The other doctors are armed with contracts with as 
+many as 60 other plans, and they are betting that since they have 
+left Aetna, their patients will leave, too, join another plan and 
+stick with their doctors. But doctors say their rebellion against 
+Aetna poses a test for patients of their loyalty to the doctors. For 
+those patients whose employers permit it, a switch to another plan 
+will not take effect until Jan. 1 or later, so in the interim the 
+patients will have to find some other way to pay for their care. ``We 
+do risk losing somewhere between 8 and 15 percent of the market, and 
+we do risk breaking the physician-patient relationship'' said Dr. 
+Ralph Turner, a gynecologist and president of Genesis. ``We're counting 
+on patients to be more loyal to their doctors than to an insurance 
+company.'' 
+</TEXT>
+</DOC>

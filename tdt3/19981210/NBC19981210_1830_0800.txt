@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981210.1830.0800 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street nose-dived into Negative territory. Tonight, the Dow Jones 
+industrial average closed down more than 167 points. The NASDAQ fell 
+34 1/2. The top five technology stocks were mixed. 
+</TEXT>
+</DOC>

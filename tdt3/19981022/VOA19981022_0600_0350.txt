@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981022.0600.0350 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From Washington, this is VOA NEWS NOW. I'm Elizabeth Barrett, along 
+with Yimani Crosby. 
+</TEXT>
+</DOC>

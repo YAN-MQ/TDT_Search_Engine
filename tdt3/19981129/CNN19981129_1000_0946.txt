@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981129.1000.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The big Thanksgiving rush out of town will be followed today by the 
+rush back in. Almost 2 million passengers are expected to fly to their 
+destinations. Another 28 million will be heading home by car. 
+</TEXT>
+</DOC>

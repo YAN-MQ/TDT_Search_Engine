@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> VOA19981211.1600.3434 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+We're about to take a two-minute break. This is VOA News Now. 
+</TEXT>
+</DOC>

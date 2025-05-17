@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981202.0130.1297 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the nba players and owners made some progress on tuesday. they agreed 
+to meet on thursday. 
+</TEXT>
+</DOC>

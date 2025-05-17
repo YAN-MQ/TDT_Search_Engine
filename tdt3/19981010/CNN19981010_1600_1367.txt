@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981010.1600.1367 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Finally, Michael Chang will face Goran Ivanisevic for the title Sunday. 
+Matt Yallof, "Headline Sports." 
+</TEXT>
+</DOC>

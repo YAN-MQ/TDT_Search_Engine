@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981023.1130.1074 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Meanwhile, Amazon.com may soon be facing more competition. Rival Internet 
+music retailers CD-now and N-2-K have made official their plans to 
+merge. The combined company will have a customer base of more than 
+1 million with about 500,000 products available to consumers. Both 
+retailers recently reported losses for the third quarter. 
+</TEXT>
+</DOC>

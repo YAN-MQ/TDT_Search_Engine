@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981106.2130.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Kenny Irwin claimed his first career pole position in qualifying for 
+the season-ending Napa 500 with a speed of over 193 miles an hour. 
+Irwin is the first Rookie to win a pole this year. 
+</TEXT>
+</DOC>

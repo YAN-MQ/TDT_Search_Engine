@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981105.1600.0148 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Republicans have chosen Philadelphia to host their presidential convention 
+in 2000. Party organizers made the announcement today. Philadelphia 
+won over four other finalists -- New York, New Orleans, San antonio 
+and Indianapolis. 
+</TEXT>
+</DOC>

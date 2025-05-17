@@ -1,0 +1,70 @@
+<DOC>
+<DOCNO> NYT19981112.0328 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Officials at the National Cancer Institute have begun to express frustration 
+over their inability to reproduce the striking discoveries described 
+a year ago by Dr. Judah Folkman, the Harvard researcher who reported 
+that he and his colleagues had wiped out malignant tumors in mice 
+by treating the animals with compounds that destroyed the tumors' 
+blood supply. The institute's concerns were reported Thursday in a 
+front-page article in The Wall Street Journal stating that Folkman's 
+work had not passed an essential test of scientific validity: the 
+requirement that it be reproduced by other researchers. In a statement 
+issued Thursday after the article appeared, the institute said that 
+it would continue to study the compounds, angiostatin and endostatin, 
+but it added: ``To date, NCI studies using either the mouse or human 
+forms of endostatin have not produced the marked regression of these 
+tumors in mice that Folkman's laboratory has reported. Scientists 
+from NCI and Folkman's laboratory are working together to resolve 
+the differences in their research results.'' Officials of the institute 
+declined repeated requests for interviews about their concerns, but 
+a spokesman said that institute officials believed The Journal's article 
+was substantially correct. The cancer institute was unusually close-mouthed 
+today. Folkman also declined to be interviewed, but issued a statement 
+asserting basically that research takes time and that it was too soon 
+for the institute's scientists, who began their studies within the 
+past year, to have mastered the complicated techniques that it took 
+his team years to develop. Folkman also said that his own team, as 
+well as two others, had confirmed that endostatin was a potent inhibitor 
+to the growth of both blood vessels and tumors in mice and rats. Folkman 
+said he and his colleagues and scientists from the cancer institute 
+``will go to each other's laboratories to transfer the techniques.'' 
+The president of Entremed, the company licensed by Folkman to produce 
+endostatin, said that more than 20 studies the company had sponsored 
+by other researchers in the United States and abroad had confirmed 
+Folkman's findings. The official, Dr. John Holaday, said he expected 
+to begin testing endostatin in 50 to 100 cancer patients next year. 
+Entremed's stock price dropped $7.75 in Thursday's trading, to $24.88, 
+a decline of 23.6 percent. But the company's stock had still increased 
+by 120 percent this year. Folkman has been studying ways to choke 
+off the blood supply to tumors for about 30 years. He described some 
+of his work in the journal Nature in November 1997 and it leapt to 
+public attention in May when a front-page article in The New York 
+Times described the excitement his findings had provoked among other 
+scientists. In the study published in November, Folkman and his colleagues 
+reported that they had completely eradicated all signs of cancer in 
+every mouse they had treated with a combination of endostatin and 
+angiostatin. The tumors did not recur, and the animals suffered no 
+side effects, they said. The report generated a flurry of studies 
+by drug companies, academic laboratories and the cancer institute, 
+where the director, Dr. Richard Klausner, said he was ``putting nothing 
+on a higher priority'' than developing the compounds into drugs for 
+people. Among the companies that sought to duplicate Folkman's findings 
+was the biotechnology company Genentech, in South San Francisco, a 
+company that is also pursuing other methods of starving tumors by 
+cutting off their blood supply. Genentech scientists tried several 
+times to produce both endostatin and angiostatin, following the methods 
+described in Folkman's scientific papers, and then tested them in 
+mice. But the substances did not work. Dr. Arthur Levinson, the chief 
+executive of Genentech, said the company's inability to reproduce 
+the research did not necessarily mean that Folkman was wrong. Levinson 
+said that Genentech's scientists might have erred in the techniques. 
+``If we're doing something wrong, I would like to know what it is, 
+because we're all hoping he's right,'' Levinson said. ``But things 
+like this shouldn't languish too long, because the whole basis of 
+science is reproducibility. If they can't be reproduced, at some point 
+you have to ask yourself, are the initial claims correct?'' 
+</TEXT>
+</DOC>

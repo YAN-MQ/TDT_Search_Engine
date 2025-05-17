@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981013.2130.0948 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the White House and Congress are hammering out the final details 
+of a federal budget, including education and family planning. 
+</TEXT>
+</DOC>

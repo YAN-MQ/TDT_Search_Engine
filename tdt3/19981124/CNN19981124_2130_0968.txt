@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981124.2130.0968 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More and more people are reporting telephone and Internet scams. Those 
+complaints are the fastest risers in an annual survey of consumer 
+groups and government watchdog agencies. Complaints about telephone 
+service and marketing account for the biggest jump, and there's been 
+a 23% increase in Internet-related gripes since last year's survey. 
+The agencies say the actual number of problems is far worse. Unfortunately, 
+however the state and local protection agencies are grossly underfunded, 
+the research suggests that in the course of a year 40% to 50% of households 
+experience a serious problem and that would be -- and some of them 
+experience more than one. So were looking at over 100 million complaints. 
+The research suggests that only 4% end up filing a complaint with 
+a Complaint agency. Consumer complaints about home improvements and 
+automobile sales still top the annual list. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981226.1300.0132 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Utility crews in North Carolina and other southern states are racing 
+to restore power to thousands of people after ice storms crippled 
+electrical service. The power outages meant a cold Christmas for many 
+people. The sudden entrance of winter is blamed for 30 deaths. Meteorologists 
+say the cold snap should continue. We'll have more on the weather 
+in the extended forecast for the U.S., in a Few minutes. 
+</TEXT>
+</DOC>

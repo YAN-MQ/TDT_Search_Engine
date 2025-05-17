@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981028.1600.0445 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.S. government says 1997 was the safest year on the nation's 
+highways. The national highway traffic safety administration says 
+public safety campaigns helped lower the rate of highway fatalities. 
+The study shows almost 42,000 people were killed in 1997. That equals 
+a rate of 1.6 deaths per 100 million miles traveled. Fewer people 
+have died in previous years, but last year's rate was the lowest because 
+motorists drove more miles. 
+</TEXT>
+</DOC>

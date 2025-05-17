@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981011.1000.0721 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The book "Lolita" has ruffled many a feather, with charges author 
+Vladimir nabokov turned a 12-year-old girl into a sex object. Now 
+a retold version of the story, called "Lo's diary," has angered nabokov's 
+family. An Italian woman's new book parodies the story, telling it 
+from the child's point of view. A lawsuit calls Lo's diary a "rip-off" 
+and seeks to ban its U.S. publication. The book's publisher says Lo's 
+diary is "something new, with different characters." 
+</TEXT>
+</DOC>

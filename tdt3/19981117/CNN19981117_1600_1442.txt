@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981117.1600.1442 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's a big day for country music star Garth Brooks, but will it be 
+one for the record books? His new album, "Garth: double live" is being 
+released, and Brooks is hoping it will break a record for CD sales 
+in a single day. He's playing a concert tonight that will be beamed 
+to Wal-Mart stores nationwide to launch the new album. 
+</TEXT>
+</DOC>

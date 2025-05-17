@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> MNB19981104.2100.3295 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+When we come back, a look at tomorrow's newspaper headlines tonight. 
+And we heard from John Glenn today. An update from space. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981228.1830.1407 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We have an update for you, the giant around the world balloon that 
+Richard branson and company ditched off of Hawaii on Friday has sunk 
+to the bottom of the pacific in 6,000 feet of water. Another team 
+is set to try again planning a liftoff from stale Thursday or friday. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981211.1830.1030 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"On the money" tonight -- the latest government indicators of how 
+things are going. The holiday shopping season got off to a good start. 
+Retail sales were unexpectedly strong last month, up 0.6%. And wholesale 
+prices were down last month. The producer price index, which measures 
+them was down 0.2%. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981030.2000.1608 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Checking the close of the business week on Wall Street today, the 
+Dow Jones Industrials picked up 97 points to close at 8592. The Nasdaq 
+picked up 14 points to reach 1772. 
+</TEXT>
+</DOC>

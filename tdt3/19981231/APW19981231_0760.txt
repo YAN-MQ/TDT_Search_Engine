@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> APW19981231.0760 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The U.S. government approved the first in a long-awaited new type 
+of painkiller for millions of arthritis sufferers Thursday, but cautioned 
+that its stomach-safe benefits may have been overhyped. Celebrex is 
+the first in a new class of painkillers called ``cox-2 inhibitors'' 
+that promise to cause fewer stomach-plaguing side effects than many 
+of today's pain relievers. Wall Street analysts have trumpeted the 
+drug as potentially the next blockbuster seller. But the Food and 
+Drug Administration dealt manufacturer G.D. Searle a blow Thursday: 
+While it approved the sale of Celebrex as a good option to relieve 
+arthritis pain, the FDA declared there is not proof that the new drug 
+ultimately is easier on patients' stomachs than older competitors. 
+``The final answer is not in on the major question here: Is this safer?'' 
+said FDA drug chief Dr. Murray Lumpkin. ``I'm disappointed at the 
+FDA's stand on this,'' said Dr. Joseph Markenson of Cornell Medical 
+College, who helped Searle test Celebrex and said the emerging data 
+indicates it will cause fewer ulcers than competing drugs. With the 
+FDA's warning, how many arthritis patients will try Celebrex _ and 
+should they switch from older painkillers to the new drug? Arthritis 
+patients with current stomach problems might consider Celebrex, Georgetown 
+University rheumatologist Dr. Stephen Ray Mitchell said. But for those 
+doing OK on older medicines, ``I would absolutely not change them 
+right now'' to Celebrex, he said. Searle said Celebrex would be available 
+by prescription within six weeks. Millions of people now depend on 
+aspirin, ibuprofen, naproxen and a host of other pills called ``non-steroidal 
+anti-inflammatory drugs,'' or NSAIDs. They are used by the 19 million 
+sufferers of arthritis in the United States. They're also used to 
+relieve everyday aches, recovery from surgery and myriad other pains. 
+But NSAIDs can cause ulcers, stomach bleeding and other gastrointestinal 
+side effects, especially in long-term users. NSAIDs are blamed for 
+causing 107,000 Americans to be hospitalized every year, and for killing 
+16,500. In 1990, scientists discovered the reason. NSAIDs target an 
+enzyme called cyclo-oxegenase that is responsible for much inflammation 
+accompanying pain. But it turned out there are two types of this enzyme. 
+Cox-2 was behind the inflammation, while cox-1 actually protects the 
+stomach lining. Unfortunately, NSAIDs hit both. The theory was that 
+if scientists could develop a more specific drug that targeted just 
+cox-2, it would alleviate pain and inflammation but not hurt the stomach. 
+Half a dozen companies began racing to develop a better NSAID. The 
+FDA on Thursday decided Searle's Celebrex, known chemically as celecoxib, 
+could help relieve arthritis pain about as well as prescription-strength 
+NSAIDs. Is Celebrex safer? Searle gave 4,700 patients endoscopies 
+_ snaking a tube into their stomachs to see if ulcers were forming 
+even before patients experienced symptoms. Patients taking Celebrex 
+showed fewer of these mini-ulcers than patients taking prescription-strength 
+ibuprofen or naproxen. However, mini-ulcers often heal on their own, 
+so the big question is whether long-time Celebrex users ultimately 
+suffer fewer painful ulcers and other serious side effects, the FDA 
+said. Patients who try Celebrex should promptly report any gastrointestinal 
+side effects to their doctors, the FDA said. 
+</TEXT>
+</DOC>

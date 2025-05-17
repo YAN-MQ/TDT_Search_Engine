@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981222.1600.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If your local gas station hasn't upgraded its underground tanks, it 
+may be shutting down. They face a deadline to replace the tanks. 
+</TEXT>
+</DOC>

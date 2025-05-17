@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981031.1000.0323 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+U.S. and Canadian investigators have set up toll-free tip lines to 
+help in the search for the sniper who killed an abortion provider 
+in New York state last week. They suspect the sniper is connected 
+to similar attacks on Canadian doctors. Dr. Barnett slepian was shot 
+and killed at his home in Amherst. Investigators say the other attacks 
+also happened in late October or early november, and the targets were 
+all doctors who performed abortions. 
+</TEXT>
+</DOC>

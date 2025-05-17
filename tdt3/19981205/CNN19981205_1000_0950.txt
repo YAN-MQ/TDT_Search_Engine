@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981205.1000.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+U.N. secretary Kofi Annan is in Libya where he will try to persuade 
+Gadhafi to handover the suspects. 270 people were killed in that bombing. 
+</TEXT>
+</DOC>

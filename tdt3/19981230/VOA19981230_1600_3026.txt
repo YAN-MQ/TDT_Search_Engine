@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981230.1600.3026 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In other markets, in a shortened London session, the Financial Times 
+100 Share Index ended the day down 59 points at 5,883. The London 
+Stock Exchange will be closed Thursday and Friday. In Paris, the CAC40 
+Index was up 52 points at 3,943. And Frankfurt's DAX Index ended 1998 
+above the 5,000 level, though it closed lower for the day, losing 
+50 points. 
+</TEXT>
+</DOC>

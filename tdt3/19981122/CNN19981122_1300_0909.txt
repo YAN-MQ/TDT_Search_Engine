@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981122.1300.0909 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Iraq says the U.N.'s chief arms inspector is trying to fabricate a 
+conflict by requesting documents which may not exist. 
+</TEXT>
+</DOC>

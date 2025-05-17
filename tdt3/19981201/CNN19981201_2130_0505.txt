@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> CNN19981201.2130.0505 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. This is Orelon Sidney with 
+the "CNN Headline News Weather update." High pressure still dominates 
+the eastern U.S. on Wednesday. A cold front moving through the Great 
+Lakes will bring in cooler temperatures and perhaps a chance of rain 
+and snow for the upper peninsula of Michigan into New England. Windy 
+conditions, rain and snow continue for the northwestern United States, 
+and a pacific storm system in the four corners could mean rain and 
+snow for the higher elevations. Temperatures will stay unseasonably 
+warm, especially in the plains states and the southeast. Look for 
+60s, 70s and 80s across most of the south. 30s, 40s and 50s dominate 
+the western U.S. through the Great Lakes and into New England. Temperatures 
+will barely be above freezing across portions of Alaska. Look for 
+snowfall from Nome to Barrow. Temperatures right around 5 degrees 
+are expected at Fairbanks. A chance of showers across the virgin islands. 
+Look for high temperatures in the lower 80s. On the extended forecast 
+-- rain, snow and wind are due Thursday across the west with showers 
+in the southwest. This rainfall moves through the Mississippi valley 
+on Friday, with increasing wind, rain and snow for the west. Heavy 
+snow could be possible in the Great Lakes by Saturday. The extended 
+forecast is at CNN.com. 
+</TEXT>
+</DOC>

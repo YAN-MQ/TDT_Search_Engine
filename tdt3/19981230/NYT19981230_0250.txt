@@ -1,0 +1,32 @@
+<DOC>
+<DOCNO> NYT19981230.0250 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+These days many wines owe their savor to a circuit. Here are some 
+examples, should you wish to raise your glass in a high-tech salute. 
+SPARKLING WINE ``You can clarify sparkling wine by hand or by machine,'' 
+said Teresa Bernards, associate winemaker at Domaine Carneros in Napa, 
+Calif., ``but the computer is more efficient. It not only rotates 
+the bottles, but it delivers a jolt to dislodge the sediment. You 
+can get a better jolt from a large machine than from a person's hand.'' 
+Domaine Carneros Brut 1993, about $15; Domaine Carneros Le Reve 1992, 
+about $29. ``Technology is intrinsic to the production of quality 
+wine,'' said David Stevens, associate winemaker at Domaine Chandon 
+in Yountville, Calif. ``Basically our computers are everywhere _ on 
+our presses and tanks, for example. Even the complexity of blending 
+requires a pretty serious computer and software.'' Chandon Napa Valley 
+Brut, about $15; Chandon Brut Reserve, $20; Chandon Etoile, $25. CHARDONNAY 
+Robert Mondavi Winery in Oakville, Calif., planted special blocks 
+of grapes, then monitored their progress from the sky using digital 
+imaging techniques developed by NASA. ``We were able to see the degree 
+of ripeness with great precision, picking the same section four or 
+five times as the vines ripened,'' said Mitchell Klug, the director 
+of wine-growing operations. The results can be tasted in Robert Mondavi 
+Winery Napa Valley Chardonnay 1997, about $20. WHITE ZINFANDEL Computer-monitored 
+temperature control is crucial at every stage in the production of 
+white zinfandel to insure its characteristic taste and color, said 
+Laurie Hook, associate winemaker at Beringer Vineyards in St. Helena, 
+Calif. Beringer White Zinfandel, about $6. 
+</TEXT>
+</DOC>

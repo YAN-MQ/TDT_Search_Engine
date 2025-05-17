@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981209.1600.0220 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The house Judiciary committee begins debate on the proposed articles 
+of impeachment tomorrow, with a committee vote set for Friday or Saturday. 
+Even as the house Judiciary committee forges ahead with its impeachment 
+hearing, public opinion is against it. In a CNN/"USA today" Gallup 
+poll taken last night, 59% of the 544 respondents say the committee 
+should vote against the proceeding. 34% support it. Among the 59% 
+who oppose impeachment, 8% say they are against it, because they do 
+not believe the president did anything illegal. 48% think even if 
+his actions were illegal, they are "not impeachable." 
+</TEXT>
+</DOC>

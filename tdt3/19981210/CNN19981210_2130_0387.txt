@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981210.2130.0387 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal election commission has decided not to require the campaigns 
+of President Clinton and Bob Dole to repay millions of dollars in 
+matching funds. The commissioners voted unanimously to reject the 
+recommendation of fec auditors, who found the president's 1996 campaign 
+owed $7 million and dole's owed $17.7 million. The auditors ruled 
+the campaigns illegally coordinated advertising that was run by their 
+respective parties. The fec rejected that assertion. 
+</TEXT>
+</DOC>

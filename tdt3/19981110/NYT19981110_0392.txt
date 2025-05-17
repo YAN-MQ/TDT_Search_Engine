@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> NYT19981110.0392 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Intel Corp. said Tuesday that its fourth-quarter results will 
+be above expectations. Intel said stronger-than-anticipated demand 
+for personal computers across all market segments and global regions 
+will increase revenues and profit margins for the quarter. Intel's 
+announcement came after the close of the market, but its shares had 
+already risen in anticipation of strong PC sales, together with those 
+of the Dell Computer Corp. Shares of Intel closed at $97.5625, up 
+$1.5625, while Dell rose $1.3125, to $70.3125, both in Nasdaq trading. 
+In after hours trading, Intel rose to $100.25. Intel reported stronger-than-expected 
+earnings last month, but said then that it expected fourth-quarter 
+revenue to be up only slightly relative to the third quarter's $6.7 
+billion. On Tuesday Intel said it expects revenue to be up about 8 
+percent to 10 percent from the third quarter, and that profit margins 
+would be up a couple of points from 53 percent in the third quarter. 
+Higher margins reflect both higher sales, and the mix of products 
+sold during the quarter. Although Intel did not specifically say that 
+earnings would exceed the consensus estimate, Wall Street analysts 
+said they would be raising their numbers. Analysts had expected Intel 
+to earn 95 cents a share in the quarter. Intel earned 98 cents a share 
+in the fourth quarter of 1997. ``PC demand is solid; it's seasonally 
+strong, and Intel has been in an extremely strong position to benefit 
+both from the uptick in demand and the end of a pretty severe inventory 
+correction,'' said Mark Edelstone, an analyst with Morgan Stanley. 
+Noting that Intel had reduced inventories at the end of the last quarter 
+to their lowest level in a dozen years, he said, ``You have to believe 
+their factories are running flat out, and that is always good for 
+margins.'' Intel said it expects expenses in the fourth quarter to 
+be about 8 percent to 10 percent higher than third-quarter expenses 
+of $1.4 billion, up from its earlier guidance of 3 to 5 percent higher. 
+Expenses are dependent in part on the level of revenue. Intel said 
+that it expects to be within a few hundred people of its previously 
+announced staff reduction goal of approximately 3,000 employees by 
+the end of the year. For the third quarter, ended Sept. 26, Intel 
+reported earnings of $1.56 billion, or 89 cents a diluted share, down 
+slightly from $1.57 billion, or 88 cents a share. Per share figures 
+reflect an increase in the number of shares outstanding. Revenues 
+grew 9 percent, to $6.73 billion. 
+</TEXT>
+</DOC>

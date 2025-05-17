@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981105.1600.0160 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Tropical storm warnings for the Florida keys and the state's eastern 
+coast should be dropped this afternoon. Tropical storm Mitch battered 
+the keys with high winds and tornadoes. Roofs were ripped off buildings, 
+mobile homes flipped over, and trees and power lines snapped. One 
+death is attributed to the storm. In Miami, wind gusts reached 70 
+miles per hour, and flooding slowed the morning commute. At last report, 
+Mitch had maximum sustained winds of 65 miles per hour. The storm 
+is located 100 miles north of grand bahama island and moving quickly 
+to the east-northeast. Hurricane Hunter aircraft say Mitch is weakening 
+and could lose tropical storm status. 
+</TEXT>
+</DOC>

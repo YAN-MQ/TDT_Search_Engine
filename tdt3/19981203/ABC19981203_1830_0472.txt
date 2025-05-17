@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981203.1830.0472 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+NASA will try again in the morning to launch the shuttle "endeavour." 
+Engineers spent the day trying to find out what triggered an alarm 
+that postponed the launch earlier today. "Endeavour" is carrying the 
+first American section of the international space station. 
+</TEXT>
+</DOC>

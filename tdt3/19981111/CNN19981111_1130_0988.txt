@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> CNN19981111.1130.0988 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One bellwether stock leading the advance today is Intel. The company 
+late yesterday forecast strong computer sales will boost revenues 
+8% to 10% above the last quarter. Fn's Bruce Francis has more. Intel's 
+business is so hot right now, dealers can resell some chips for more 
+than Intel charges for them, a rare occurrence. Intel says it's not 
+any single factor, all products are selling well in all parts of the 
+world. That's one reason why Intel is predicting that the fourth quarter 
+will be 8% to 10% better than the third. Analysts like Dan niles had 
+been told to expect just a slight increase. This quarter's preannouncement 
+is more driven by the macroeconomic picture just being a lot better 
+overseas, combined with the spillover effect we saw in q-3. And Q-4 
+is going to be a pretty good season as far as holiday sales. Intel 
+is not only taking in more money, it's keeping more of it. Profit 
+margins are expected to increase as well. That may finally propel 
+Intel out of its trading range after attempting a Breakthrough many 
+times. Niles sees $125 a share in 12 months. Intel's got an analyst 
+meeting on Friday, and then they're out marketing after it. If this 
+stock's not at its 52 week by then I'd be very surprised. The bottom 
+line -- many of factors that caused Intel to disappoint investors 
+have reversed. PC prices look more stable, inventories are now much 
+lower and some Asian markets may be stabilizing. Bruce Francis, "CNN 
+Financial News," New York. 
+</TEXT>
+</DOC>

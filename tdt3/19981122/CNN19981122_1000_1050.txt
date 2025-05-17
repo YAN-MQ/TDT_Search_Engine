@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981122.1000.1050 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have highlights from the college gridiron, next in "CNN Headline 
+Sports." 
+</TEXT>
+</DOC>

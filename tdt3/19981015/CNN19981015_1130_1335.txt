@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981015.1130.1335 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Byron Dafoe threw another bagel up on the board for Boston, outshining 
+Patrick Roy in a 3-0 win over Colorado. 
+</TEXT>
+</DOC>

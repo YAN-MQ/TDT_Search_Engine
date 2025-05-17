@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981031.1000.1283 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The stars had a 2-goal lead on Anaheim. It ended in over time at 3. 
+</TEXT>
+</DOC>

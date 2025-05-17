@@ -1,0 +1,74 @@
+<DOC>
+<DOCNO> NYT19981222.0290 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Federal securities regulators on Tuesday charged W.R. Grace &AMP; 
+Co. and six of its former executives with fraud, saying the company 
+had deceived shareholders over five years by falsely reporting earnings. 
+The move was part of a larger plan by the Securities and Exchange 
+Commission to crack down on the growing number of companies, including 
+some of the nation's largest, that break accounting rules so they 
+can manipulate earnings and meet Wall Street's expectations. ``I hear 
+from companies that say, `Everybody is doing it, so why can't we,' 
+'' said Richard H. Walker, the SEC's director of enforcement. ``This 
+is an area of great concern.'' According to a civil complaint filed 
+in U.S. District Court in Miami, Grace, a large chemicals company 
+based in Boca Raton, Fla., was blessed with unexpected revenue in 
+the early 1990s. But instead of reporting all that revenue, the complaint 
+said, executives moved $10 million to $20 million to later years when 
+business was not as good. Regulators said that by using the false 
+accounting, the company was able to report that revenue was on the 
+rise for its health care group from 1991 to 1993, even though actual 
+revenue was declining. Regardless of the amount of revenue involved, 
+the SEC said in the complaint, Grace management had misled investors 
+just by not disclosing that it ``was engaged in an ongoing scheme 
+to fraudulently manipulate its reported earnings.'' In a written statement, 
+Grace said Tuesday that it would ``vigorously contest'' the accusations. 
+The statement said the company believed its accounting in past years 
+was proper and that the litigation should not have a significant impact 
+on current earnings. The company said none of the executives involved 
+in the questioned accounting still worked for the company. And, it 
+said that its outside auditing firm, PricewaterhouseCoopers, was aware 
+of the accounting and had not raised any objections. David Nestor, 
+a spokesman for PriceWaterhousecoopers, said that the accounting firm 
+did not comment on client matters. ``But we stand behind our work,'' 
+he said. The company's share price fell $1.5625, or 9.65 percent, 
+to $14.625, after the SEC's announcement on Tuesday. Regulators said 
+Grace executives had declined to report $10 million to $20 million 
+in revenue that the company had received in the early 1990s from a 
+change in the Medicare reimbursement rules because the executives 
+believed that it would not help the company's stock price. At the 
+time, the company was already reporting revenue at a rate that Wall 
+Street was expecting. So instead, according to the complaint, the 
+executives set aside the unexpected Medicare revenue in another account 
+and then gradually used it to increase revenue from 1993 to 1995. 
+``When you manipulate earnings to show what you want to show and to 
+not show the actual results,'' Walker said, ``shareholders are deceived.'' 
+Regulators are continuing their investigation into Grace's accounting, 
+he said, and plan to file similar complaints against other companies. 
+The complaint filed on Tuesday in Miami seeks civil penalties and 
+asks for an injunction restraining the company and its executives 
+from further violations of federal securities laws. The revenue that 
+the SEC is questioning was earned by a Grace subsidiary, National 
+Medical Care Inc. of Waltham, Mass. The company sold National Medical 
+Care, which operates kidney dialysis clinics, to Fresenius AG of Germany 
+in 1996. Regulators said Grace executives used the unexpected revenue 
+received by National Medical Care for ``profit planning purposes.'' 
+The amounts, which were improperly deferred in the accounting books 
+by setting up reserve accounts, were used later to boost revenue of 
+the health care group to meet Wall Street's expectations and to increase 
+the company's earnings reported in its consolidated financial statements. 
+For example, for the fourth quarter of 1994, Grace senior managers 
+asked executives at National Medical Care to report an additional 
+$1.5 million in income, the regulators said, because Grace needed 
+that amount to increase its consolidated earnings. Regulators also 
+filed an administrative complaint against the former Grace executives, 
+including J. P. Bolduc, who had been chief executive, charging that 
+they helped issue the financial reports that the regulators say are 
+false. Gerald Walpin, a lawyer for Bolduc, said that his client would 
+contest the charges and ``expects to be vindicated.'' He said the 
+charges ``are an attempt to punish a chief executive for performing 
+his responsibilities exactly as a responsible CEO should.'' 
+</TEXT>
+</DOC>

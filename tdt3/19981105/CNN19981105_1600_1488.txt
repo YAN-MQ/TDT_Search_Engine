@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981105.1600.1488 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+21 success stories in the arts and humanities were honored at the 
+White House this morning with the national medal of arts. Among the 
+honorees were actor Gregory peck and dancer Jacques D'amboise, the 
+founder of the national dance institute. The institute brings dance 
+into schools as a way to inspire children and help them stay on the 
+right track. Several authors were also recognized today, including 
+Arthur schlesinger and Garry wills. 
+</TEXT>
+</DOC>

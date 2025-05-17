@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981104.1130.1040 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Aetna beat Wall Street forecasts. Profits coming in at $212. The Walt 
+Disney company reported a bigger than expected 28% drop in fourth-quarter 
+earnings. The decrease largely due to Disney's poor box office performance 
+and the high cost of broadcasting pro football. Looking at those stocks 
+on Wall Street -- 
+</TEXT>
+</DOC>

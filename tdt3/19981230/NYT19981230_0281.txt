@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981230.0281 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Very cold air will remain in place across much of 
+the Upper Midwest and Northeast on Thursday. Temperatures will continue 
+to be five to fifteen degrees below average, though the stiff winds 
+of Wednesday in New England will slacken Thursday, lessening the chill 
+a bit. Light snow and flurries will fall in the upper Ohio Valley 
+and central Appalachians a weakening disturbance moves toward the 
+area. Farther north, localized snow squalls will pound areas to the 
+east of the Great Lakes, especially Erie and Ontario. Lighter snow 
+showers will coat the mountains of northern New England. The Deep 
+South will be partly to mostly sunny and seasonal with temperatures 
+mainly in the 50s and 60s. The exception will be along the Texas coast, 
+where an onshore flow of moist winds will lead to scattered showers, 
+especially in the afternoon. Patches of snow will streak across eastern 
+Montana and the Dakotas as winds from the east ascend the sloping 
+terrain. Accumulations should be light, though some areas will pick 
+up a few inches where the snow persists. Rain will drench the Pacific 
+Northwest and northern California as the flow of subtropical moisture 
+into the region continues. The rainfall, which will amount to an inch 
+in some areas, will only aggravate the flooding on rivers in the area. 
+Snow levels will fall as a pool of cold air aloft moves onshore. Much 
+of California and the desert Southwest will be mainly sunny and dry 
+with seasonal temperatures. However, some fog will shroud communities 
+in the Central Valley. Focus: Feeling The Chill Strong winds and a 
+cold December air mass drove wind chill values below zero in much 
+of the Northeast Wednesday. Wind chill values were derived by Dr. 
+Paul Siple in an Antarctic experiment in 1939. Measurements were made 
+of the time required to freeze bags filled with warm water under various 
+wind and temperature combinations. Wind chill is supposed to indicate 
+how chilly the air feels to exposed skin, but human physiology is 
+not part of the equation. How someone actually feels also depends 
+upon factors such as humidity, sunshine and that person's general 
+physical condition. 
+</TEXT>
+</DOC>

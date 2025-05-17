@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981130.2130.0607 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New Jersey has become the first state to get rid of car pool lanes 
+without losing federal highway money. The action affects interstates 
+80 and 287. A state study found hov lanes on those roads did not reduce 
+congestion or increase the number of people who carpool. Environmentalists 
+fear lifting the restrictions will increase pollution and traffic. 
+Hov lanes will remain on the New Jersey turnpike. 
+</TEXT>
+</DOC>

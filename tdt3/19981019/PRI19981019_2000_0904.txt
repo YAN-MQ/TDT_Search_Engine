@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> PRI19981019.2000.0904 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The U.S. district court in Washington, D.C. today started to hear 
+proceedings in what experts describe as one of the most important 
+antitrust cases in recent times. The computer giant Microsoft stands 
+accused by the Federal government in 20 states of using its market 
+dominance to stamp out competitors and capture other software business. 
+Microsoft says it's been acting legally in merely offering consumers 
+better software at lower prices. And as the World's Alan Dow has been 
+finding out, there is no shortage of competitors eager to take a jewel 
+from Bill Gates' crown. These days people could be forgiven for thinking 
+that all computer software was made by Microsoft. After all, the vast 
+majority of new home PCs use Windows-based operating systems developed 
+by Microsoft. But there are other systems out there. I thought it 
+basically reproduced an article for a magazine here. From his office 
+in London's media district Soho, graphic designer Mark McCormack moves 
+magazine ads around a computer screen. His computer doesn't use Microsoft 
+Windows because it's an Apple Mac. On screen it looks similar to Windows, 
+but McCormack says in his business at least, the Apple Mac is king. 
+The Apple Mac interface here consists of icons that you click on and 
+boxes open up and you double click on those and other folders and 
+things open up. So it's a very easy interface to use and the Mac has 
+always been the prime computer to use in the creative industry. But 
+outside of the specialized world of design and publishing, Microsoft's 
+Windows seems to be the only real choice available, whether we like 
+it or not. Ken Young is the Internet editor at the magazine IT Week. 
+Consumers are already affected by the fact that if they want to buy 
+a computer without Windows on it, it's extremely hard to do or practically 
+impossible. So choice is already limited on the desktop. They're probably 
+now getting to the point where they may have to look hard to find 
+a computer with Netscape's browser on it as most are preloaded with 
+Microsoft. But, despite what must seem like insurmountable odds, there 
+are other software companies out there trying to get a piece of the 
+pie so neatly carved up between Microsoft and Apple. Scott Richardson 
+is the director of server marketing at the IT company Intel. He says 
+although Microsoft will continue to capture most of the basic home 
+software market, the battle is heating up for systems that make it 
+easier to use the Internet. One of those systems is called Linux. 
+We've done quite a bit of research at Intel on the need for a growing 
+customer base, specifically the growing customer base around Internet 
+service providers and we found that quite a few of these customers 
+are deploying the Linux operating system for web serving applications. 
+It's a fast operating system. It runs great on Intel-based servers 
+and this audience, this customer base is typically a technical customer 
+base and they enjoy the flexibility of tuning the operating system 
+and adding features for their own environment. The Linux system was 
+designed by a young programmer from Finland. Microsoft may be in the 
+lead, but there are others definitely in the race. Shawn Apen is the 
+marketing director for Microsoft in Britain. He says Microsoft is 
+very aware of the competition. APEN: Success is a lousy teacher in 
+our industry. If I go back and look at who was leading the way 10 
+years ago, you look at IBM. You look at Lotus. Very good companies 
+and their success wasn't guaranteed 10 years down the track. Today 
+we are fortunate we have been successful, but that is no way, does 
+that determine or future success. The Microsoft case is expected to 
+last six to eight weeks and while Microsoft's founder Bill Gates faces 
+the possibility of an imposed carve up of his company, there are many 
+competitors waiting in the wings. For the World, I'm Alan Dow. 
+</TEXT>
+</DOC>

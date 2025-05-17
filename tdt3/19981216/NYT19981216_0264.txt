@@ -1,0 +1,57 @@
+<DOC>
+<DOCNO> NYT19981216.0264 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For the very busy, a virtual assistant can be helpful, even if the 
+three most widely available are all a little tricky to use. Choosing 
+among them depends on how much you are willing to pay, what features 
+make sense to you and, for now, where you live. Webley and Portico 
+operate nationally with toll-free numbers; long-distance phone charges 
+are included in their prices. The cost depends mostly on how _ and 
+how much _ you use them. Webley's basic service fee is $9.95 a month, 
+plus 15 cents for each minute of use. Portico has a setup fee of $50, 
+and its packages range from $19.95 a month for 60 minutes of use to 
+$149.95 for 1,300 minutes. Portico charges 15 to 20 cents for each 
+additional minute. That's a good deal for cellular phone users who 
+would otherwise pay additional charges for calls outside their service 
+area. Wildfire Tries New Tactic Wildfire, once available only through 
+office systems or for individuals at $150 a month, is fighting its 
+new competition by trying to sell Network Wildfire through telecommunications 
+carriers. Pacific Bell Wireless is the only United States carrier 
+so far to test-market Network Wildfire, just beginning this month 
+in Los Angeles. (Network Wildfire is also available in Canada through 
+Bell Mobility, just in the Toronto area.) For customers who sign up 
+for a cellular phone service plan for $49 monthly or more, Pac Bell 
+offers Wildfire for $20 more. That includes four basic features (voice-activated 
+dialing, voice-controlled voice mail, call routing and address book) 
+and 300 weekday minutes and 1,000 weekend minutes of both cellular 
+and Wildfire use. (All three services offer demonstrations and free 
+trials: see www.wildfire.com, www.portico.net and www.webley.com.) 
+Not So Easy as It Sounds Do not expect to simply dial in and start 
+talking. The services recognize only a standard glossary of words 
+and short, imperative sentences like ``open my mailbox.'' Even at 
+that, all three regularly misunderstand callers who are trying to 
+track down a user. Callers can resort to touch-tone options, but how 
+many misunderstandings does it take before an important caller gives 
+up? And since Webley and Portico charge subscribers by the minute, 
+confusion between the caller and the system makes for a much higher 
+bill. The longer your Irish cousin spends on the line trying to make 
+Webley respond to his brogue, the more it costs. May I Interrupt? 
+Portico and Webley offer the most realistic experience of human conversation, 
+primarily because they allow you to interrupt the computer at any 
+time. By contrast, Wildfire still feels a lot like voice mail. ``She'' 
+forces users to wait for a beep signaling their turn to talk and constantly 
+repeats the user's response options. (You may want to strangle her 
+after hearing Wildfire repeat ``What's it say, throw it away, next 
+item,'' for the 17th time when checking a long list of voice mail 
+messages). Still, the voices are what turn all three into services 
+instead of mere machines. Wildfire and Portico use a friendly but 
+assertive female voice, giving the impression of an executive secretary. 
+Webley's persona of a butler quickly conveys customer service, but 
+the fake British accent may wear out its welcome quickly. Webley plans 
+to remedy that early next year by allowing the option of an American 
+male or female voice. Portico will likewise introduce six more voice 
+variations by the end of 1999. 
+</TEXT>
+</DOC>

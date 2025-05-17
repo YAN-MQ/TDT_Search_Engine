@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> CNN19981216.1600.0567 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If your holiday plans include feasting, as they probably do, you may 
+be interested in the latest weight loss research. Holly Firfer reports, 
+scientists are on the trail of the chemical cues that control our 
+eating habits. As the fight against fat continues, researchers have 
+pinpointed another hormone that could control and possibly reduce 
+your appetite. The melanin-controlling hormone, or McH, is released 
+into the system to tell you it's time to eat. When this hormone is 
+blocked, the desire to eat is dramatically reduced. In a study published 
+in the journal "nature," researchers genetically engineered mice without 
+McH, and found they eat much less. It's 25% leaner than its brothers 
+and sisters, and that mouse also seems to have a higher metabolic 
+rate. So it also seems to burn off more energy. So, why do we need 
+McH? It is really a function of survival. Animals in the wild often 
+cannot find food for days. But, this hormone fuels their desire to 
+forage, and keeps them eating once they do find food. Although the 
+research is in mice, scientists say, this finding may be helpful in 
+treating obesity in humans because the influence of McH on the brain 
+is the same in both mice and people. The ideal patient would be someone 
+who has an increased appetite. Because presumably, if we were blocking 
+the action of McH, we would be blocking the motivation to open the 
+refrigerator door and start eating. Researchers report no Negative 
+side effects due to the absence of mch. The usual problems associated 
+with being too thin, such as longevity, fertility and lack of energy, 
+were not found. Holly Firfer, CNN. 
+</TEXT>
+</DOC>

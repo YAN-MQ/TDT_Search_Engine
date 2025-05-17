@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> APW19981029.0257 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Hong Kong share prices were little changed Thursday, after futures 
+traders pushed the blue chip index back and forth in moderate trading. 
+The Hang Seng Index fell 4.4 points, or 0.04 percent, closing at 9,931.46. 
+On Tuesday, the index had risen 148.14 points, or 1.5 percent, to 
+9,927.05, its highest close since May 12. Markets were closed Wednesday 
+for a public holiday. Turnover rose to 8.59 billion Hong Kong dollars 
+(U.S. dlrs 1.1 billion) from Tuesday's 6.03 billion Hong Kong dollars 
+(U.S. dlrs 773 million). Among Hong Kong's big real estate companies, 
+Sun Hung Kai Properties rose 2.45 Hong Kong dollars to 37.80, while 
+Cheung Kong gained 75 cents to 52.25. In the banking sector, market 
+heavyweight HSBC Holdings fell 4 dollars to 175.50, while Hang Seng 
+Bank lost 1.50 dollars to 65.50. Elsewhere, the conglomerate Swire 
+Pacific ``A'' gained 3.20 dollars to 37.80, while Hong Kong's flag 
+carrier Cathay Pacific lost 5 cents to 8.20. 
+</TEXT>
+</DOC>

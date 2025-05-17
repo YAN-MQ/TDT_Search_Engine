@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981122.1130.0701 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Nearly a decade after the Berlin wall came down, there's word the 
+CIA reaped a bonanza of secret papers from east Germany. "The Washington 
+Post" reports the U.S. received a complete set of spy records from 
+east Germany's secret police. The files reportedly contain the names 
+of U.S., British and west German citizens who gave information to 
+the communists. The files were used to convict two people in Virginia 
+this month. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981227.1130.1306 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jaromir Jagr netted the game-winning goal at 1:18 of overtime. Pittsburgh 
+remains unbeaten at home against Ottawa. 2-1, the final. 
+</TEXT>
+</DOC>

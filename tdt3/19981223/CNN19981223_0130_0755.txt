@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981223.0130.0755 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up in consumer news -- aaa unveils its top choices in cars, 
+trucks and minivans. We'll have top stories first, after the break. 
+</TEXT>
+</DOC>

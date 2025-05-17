@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981021.1600.1028 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The earnings parade continued on Wall Street today. Citigroup, the 
+world's largest financial services company, beat expectations despite 
+a 53% fall in profits. Income at the world's largest oil company, 
+Exxon, fell 23% due to sinking world oil prices. But those low oil 
+prices, as well as soaring passenger loads, helped boost american 
+airline's earnings 34%. 
+</TEXT>
+</DOC>

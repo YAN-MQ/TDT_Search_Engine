@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981114.0130.1104 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street gained a little ground Friday. The Dow Jones industrial 
+average closed up 89 points at 8919. For the week, the Dow was off 
+almost 56 points. 
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981107.1300.0502 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast." Later today into Sunday evening, an area of low pressure 
+pushes through the plains states toward the Ohio river valley bringing 
+some snow. In fact, a few inches to Nebraska and Iowa. We'll see some 
+showers and storms through the central and southern plains states. 
+A mix of rain or snow, just light, across the Great Lakes. A big storm 
+in the western United States will keep it wet and windy with some 
+heavy accumulations of mountain snow. Highs today just 20s and 30s 
+over the northern plains. We will see some 60s and 70s in the far 
+south. Looking ahead to Monday, it looks like everybody sees rain 
+or snow, with the coldest air over the northern Rockies. Then on Tuesday, 
+heaviest rain is across the Great Lakes, although it is warming up 
+to the 40s and 50s. For Wednesday it will be wet on the east coast 
+and in the northwest with some mountain snow. Temperatures will range 
+from 30s north to 70s across the south. Didn't forget, you can find 
+four-day forecast for 7,200 cities at CNN.com. 
+</TEXT>
+</DOC>

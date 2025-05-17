@@ -1,0 +1,211 @@
+<DOC>
+<DOCNO> NYT19981228.0315 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Faraway in the cosmos, where everything is separated by distances 
+measured in hundreds and billions of light-years, sometimes a galaxy 
+or cluster of galaxies in the foreground intersects the light from 
+an even more distant object. The conjunction plays visual tricks, 
+producing mirages that are becoming a practical tool of astronomy, 
+a kind of natural telescope. Aided by more sensitive cameras and advanced 
+computer technologies, systematic searches of the heavens are yielding 
+an increasing number of examples of such celestial phenomena, known 
+as gravitational lenses. Scientists are learning to interpret these 
+distorting and magnifying lensing events for revealing clues in the 
+most intractable mysteries of the universe. ``Lensing is a really 
+explosive area of observations,'' said Dr. Christopher Impey, an astronomer 
+at the University of Arizona Steward Observatory. ``For decades the 
+theory sat there, but no one could observe lensing. Now we can see 
+the universe as one big optics experiment.'' The new observations 
+are proving Albert Einstein right, as usual. In 1916, he predicted 
+in his general theory of relativity that the gravitational field of 
+any mass bends light. Two decades later, he proposed that a massive 
+object could thus act as a lens, bending and distorting radiations 
+from a more distant object so that it would appear as a ring or arc 
+of light. Einstein doubted that telescopes would ever be able to detect 
+such faint and rare events, but now looking through gravitational 
+lenses, astronomers are exploring a wide range of problems in cosmology. 
+They are making new measurements of the age of the universe, looking 
+for planets and other unseen objects, and investigating the structure 
+and nature of quasars, some of the most distant and enigmatic objects 
+in the distant reaches of the cosmos. Of surpassing importance, lensing 
+observations are being used to weigh the universe. According to the 
+standard theory of big-bang cosmology, luminous matter of stars probably 
+contributes less than 1 percent of the cosmic mass, and all ordinary 
+matter, seen and unseen, accounts for no more than 5 percent. With 
+lensing, astronomers are beginning to find and map the distribution 
+of some of the missing mass _ the unknown and invisible dark matter 
+that shapes the universe and probably controls its ultimate fate. 
+``For the first time we now have a window on the universe that's not 
+biased to radiation,'' said Dr. Anthony Tyson, an astronomer at Bell 
+Labs of Lucent Technologies in Murray Hill, N.J., who is one of the 
+most experienced observers of gravitational lenses. Until now, he 
+explained, astronomers looked for evidence of dark matter only through 
+its gravitational influence on bright galaxies. This is like searching 
+for lost keys only under a lamppost, blind to what might lie in the 
+darkness beyond. What if much of the missing mass inhabits the dark 
+intergalactic voids? Tyson and colleagues have developed increasingly 
+effective techniques for lensing observations to ``see'' dark matter 
+in clusters of galaxies. Future surveys beyond the galactic lampposts, 
+they say, will demand exceedingly long periods of observations requiring 
+the services of a large, new ``dark-matter telescope'' devoted exclusively 
+to the task. Knowing the mass density of the universe, in both ordinary 
+and dark matter, is a critical issue in cosmology. A lightweight universe, 
+which is indicated by other evidence, would force theorists to rethink 
+all their models based on reasoned assumptions that the universe is 
+delicately balanced between eventual collapse and infinite expansion. 
+They have already started. Cosmologists now postulate the existence 
+of a pervasive ``dark energy,'' which might make up for any deficiency 
+in cosmic mass and also could explain the stunning discovery, reported 
+earlier this year, that the universe's expansion appears to be speeding 
+up, not slowing down as had been thought. If they still cannot somehow 
+balance the books on cosmic mass, theorists may have to turn the page 
+to a revised theory. Dr. Dennis Walsh of the Jodrell Bank Observatory 
+in England and colleagues saw the first gravitational lens in 1979. 
+They noticed two starlike objects where their radio observations indicated 
+there should be only one. Further study revealed that these were not 
+separate objects but rather that the light from a distant quasar was 
+split in two by the gravity of a giant galaxy halfway between the 
+quasar and Earth. Slowly, astronomers have discovered a few dozen 
+other lensed quasars. But with the development of charge-coupled devices, 
+highly sensitive electronic instruments that have replaced photographic 
+plates in astronomy, lensing observations are no longer restricted 
+to powerful quasars. Lesser radiations from galaxies and even single 
+stars can also be seen through gravitational lenses. It is the light 
+from these fainter objects, in particular small blue galaxies that 
+seem to predominate in the great depths of space and time that form 
+the backdrop for Tyson's work. When Tyson saw the first of billions 
+of these previously undetected faint blue galaxies toward the limits 
+of the observable universe, he recognized this as a breakthrough in 
+his dark-matter search. In 1990, Tyson's group began to collect and 
+analyze lensed images of these galaxies, reasoning that they would 
+shed light, so to speak, on the distribution of dark matter in the 
+present universe. Assisted by new computer software, astronomers saw 
+in the distorted light evidence of clumps of dark matter not only 
+in the lensing galaxy clusters but well beyond their glowing structure. 
+Astronomers realized that in looking for mass only in luminous regions, 
+they might be missing plenty of mass where there is no light at all, 
+and here was an effective way of mapping the wider distribution of 
+dark matter. Encouraged, Tyson and an associate, Dr. Gary Bernstein, 
+now at the University of Michigan, developed a large-format camera 
+with a mosaic of charge-coupled devices. Mounted on a large telescope 
+at the Cerro Tololo Interamerican Observatory in Chile, the new camera 
+can take single exposures spanning { degree of sky, an area larger 
+than the full moon. The camera has enabled astronomers to survey more 
+of the sky faster and with greater sensitivity in mapping dark-matter 
+distribution. More recently, Tyson and others examined the backdrop 
+of blue galaxies through the lens of a cluster of galaxies seen with 
+the Hubble Space Telescope. This produced a surprise, reported earlier 
+this year in The Astrophysical Journal. In what is called ``the first 
+high-resolution mass map of a cluster of galaxies,'' Tyson found, 
+contrary to most assumptions, a much smoother and less centrally concentrated 
+distribution of dark matter.'' Dr. August Evrard of the University 
+of Michigan wrote that if the findings are confirmed and observed 
+elsewhere, this ``is likely to produce insights into the mechanisms 
+governing galaxy-cluster formation'' and could be ``a clue to the 
+very nature of dark matter.'' Tyson called this ``just a brief foray 
+into the wilderness of dark-matter structure,'' but the lensing suggested 
+that ``there's a lot of mass that we just don't see, because it's 
+not coupled with radiation.'' Perhaps, he said, broader lensing surveys 
+in time will find at most twice as much dark matter in the universe 
+as has been estimated. Even if Tyson should uncover greater amounts 
+of dark matter, scientists question whether it would be sufficient 
+to meet the requirements of standard theory describing a flat universe 
+with enough mass eventually to brake expansion. In this view, the 
+universe is neither closed and destined to collapse nor open to endless 
+expansion, with galaxies flying outward and ever farther apart into 
+a dark, desolate infinity. Writing in the January issue of Scientific 
+American, Dr. Lawrence Krauss of Case Western Reserve University in 
+Cleveland concluded: ``The standard cosmology of the 1980s, postulating 
+a flat universe dominated by matter, is dead. The universe is either 
+open or filled with an energy of unknown origin. Although I believe 
+the evidence in favor of the latter, either scenario will require 
+a dramatic new understanding of physics.'' Tyson's research has concentrated 
+on dark matter in the form of exotic particles, relics of physics 
+in the earliest moment after the Big Bang. If they exist, these subatomic 
+particles must be sluggish and electrically neutral not to be producing 
+detectable radiations; hence their designation as WIMPs, for weakly 
+interacting massive particles. Some objects like dim stars, failed 
+stars, giant planets and other obscure ordinary material may make 
+up another fraction of the dark matter. In a playful contrast to WIMPs, 
+these are called MACHOs, for massive astrophysical compact halo objects. 
+Astronomers estimate that the dark halo around Earth's home galaxy, 
+the Milky Way, could contain 10 times more mass than the visible part 
+of the galaxy, and MACHOs could account for about half of that invisible 
+mass. At the suggestion of Dr. Bohdan Paczynski, a Princeton University 
+astrophysicist, a team of astronomers has focused on fields of stars 
+near the center of the Milky Way or out in the neighboring galaxy 
+known as the Large Magellanic Cloud. If one of these stars suddenly 
+brightens and grows fainter in a characteristic way over a period 
+of several weeks, this is presumably evidence of some intermediate 
+dark mass acting as a lens in the line of sight, possibly a MACHO. 
+Several candidates have been identified, though interpretations are 
+controversial. The lensing agents could be ordinary stars not previously 
+seen or some renegade star population not known, or some of them could 
+be dark matter in one form or another, said Dr. Christopher Stubbs, 
+an astrophysicist at the University of Washington in Seattle who is 
+a member of the MACHO search team, With improved detection instruments 
+and methods at a telescope in Chile, Stubbs said that in two years 
+the team should be detecting 10 times as many lensing events, enhancing 
+prospects for more definitive sightings. Similar experiments could 
+also reveal the presence of planets. One such tantalizing observation 
+has already been made, he said. When gravitational lensing was in 
+its infancy, quasars were merely the bright sources of the light being 
+distorted and magnified. Now scientists are testing a lensing technique 
+for studying the quasars themselves. American astronomers led by Dr. 
+Edwin Turner of Princeton University, working at Apache Point Observatory 
+in New Mexico, are monitoring the Einstein Cross quasar, which is 
+lensed by an intervening galaxy. They are watching for peculiar perturbations 
+and magnifications in the lensed light when a single star in the galaxy 
+moves directly into the line of sight. When one is detected, the Hubble 
+space telescope in Earth orbit will be focused on the strongly magnified 
+target to examine its spectrum of light. Measuring variations in the 
+spectral lines over time, scientists say, should reveal the relative 
+size and structure of different emission regions in the quasar. This 
+would be the most remote remote-sensing mapping enterprise ever undertaken. 
+In principle, the spectral maps should define the structure of the 
+whirlpool of gas and other stellar matter being drawn inexorably into 
+a gravitational sink known as a black hole. Radiations from this dynamic 
+accretion disc are the likely source of a quasar's brilliant light. 
+``We could find out if this picture of a quasar is right,'' Turner 
+said. ``All theorists think so, but this would be a way of checking 
+and learning even more about this phenomenon.'' Astronomers from the 
+Harvard-Smithsonian Center for Astrophysics in Cambridge, Mass., and 
+the University of Arizona in Tucson are using the infrared and optical 
+cameras on the orbiting Hubble telescope to examine the lensing of 
+light from two dozen quasars. They are trying a new method of clocking 
+the cosmic expansion to determine the age of the universe, another 
+fundamental issue of cosmology. The measured velocity of galaxies 
+moving apart with the expansion of space-time is expressed as the 
+Hubble constant. The higher the value of the constant, the faster 
+the expansion rate and thus the younger the universe. Recent research 
+using the Hubble telescope has measured the distance to certain stars 
+and their recessional velocity and recession of certain stars, translating 
+this into a value for the Hubble constant that is uncomfortably high. 
+It puts the upper limit of the age of a flat universe at about 10 
+billion years, possibly younger than the oldest stars. In the current 
+issue of The Astrophysical Journal, astronomers reported somewhat 
+lower values _ thus a lower expansion rate _ also using the Hubble 
+telescope, but this time observing the lensing of a quasar 10 billion 
+light-years away. The gravity of an intervening galaxy split the quasar 
+light into four separate images, each of which travels a different 
+path and arrives at the telescope at slightly different times. By 
+measuring these time delays, astronomers calculated the distance to 
+the lens, which is the hard part, and then observed the recessional 
+velocity of the object to complete calculations leading to the value 
+of the Hubble constant. ``This is a more direct method for determining 
+the expansion rate,'' said Impey of Arizona, a member of the research 
+team. ``I don't think it's necessarily superior to other methods, 
+but it's a critical crosscheck of other results.'' Impey said there 
+was a good-news-bad-news aspect to the findings. It was reassuring 
+that the results indicate a slow enough expansion rate to resolve 
+the age crisis; lensing studies by a group led by Turner has produced 
+similarly low values for the expansion rate. The universe appears 
+to be somewhat older than the oldest stars, as it should be. The bad 
+news, though, is that the solution to the age crisis seems to require 
+that the universe has a low mass density. So the results are one more 
+example of the potential of gravitational lensing in astronomy and 
+another cause for cosmologists to take a hard look at their theories. 
+</TEXT>
+</DOC>

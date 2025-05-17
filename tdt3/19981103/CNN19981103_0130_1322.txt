@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981103.0130.1322 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Ohio state is the new number one in the latest bowl championship series 
+rankings. Last week's top team, UCLA, falls to third behind Tennessee. 
+</TEXT>
+</DOC>

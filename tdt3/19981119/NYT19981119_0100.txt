@@ -1,0 +1,78 @@
+<DOC>
+<DOCNO> NYT19981119.0100 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+As federal regulators tighten their scrutiny of hedge funds, officials 
+say they will likely require the often secretive funds to reveal more 
+about how much debt they use and the risks they take with their money. 
+Examinations of hedge funds and the banks and brokerage firms that 
+deal with them began in September, after Long-Term Capital Management, 
+the giant hedge fund based in Greenwich, Conn., was rescued from bankruptcy 
+by a consortium of Wall Street banks. The $3.6 billion rescue was 
+coordinated by the Federal Reserve Bank of New York and raised questions 
+about how the failure of a single, unregulated investment company 
+could threaten world financial markets. Regulatory agencies, including 
+the Securities and Exchange Commission, the Commodity Futures Trading 
+Commission and the Federal Reserve Bank of New York, are conducting 
+separate reviews of brokerage firms, traders and banks that they supervise, 
+officials from each of the agencies said Wednesday. Their efforts 
+are being coordinated by the President's Working Group on Financial 
+Markets, a committee headed by Treasury Secretary Robert Rubin. The 
+SEC in recent weeks has reviewed the books of major Wall Street firms 
+that had dealings with Long-Term Capital, including Goldman, Sachs 
+&AMP; Co., Morgan Stanley Dean Witter and Merrill Lynch &AMP; Co. 
+The examinations were intended to learn more about how brokers deal 
+with hedge fund clients, said an SEC official who asked not to be 
+identified by name. The Fed has also required banks it regulates to 
+provide detailed information on their lending to hedge funds. The 
+most likely outcome of the scrutiny is that regulators will require 
+hedge funds and their lenders to reveal more information, though people 
+involved with the working group's discussions say it is still too 
+early to say what form those measures will take or whether they will 
+be voluntary or mandatory. Government officials involved with the 
+working group study said they were unlikely to recommend direct regulation 
+of hedge funds themselves. ``More disclosure and reporting is the 
+first step,'' said CFTC Chairwoman Brooksley Born in an interview 
+Wednesday. ``I have become convinced that that is most necessary.'' 
+She said regulators planned to conclude their study of hedge funds 
+early next year, though any new regulatory measures to emerge from 
+the research would take longer to enact. SEC Chairman Arthur Levitt 
+Jr. has said that requiring more disclosure about hedge fund debt 
+and risk levels was at the top of the regulators' agenda. Speaking 
+to reporters recently, Levitt said he believed that any steps the 
+United States took should be agreed to internationally as well. ``To 
+be effective, the kind of transparency we're talking about should 
+be global,'' he said. Congress has also sought more information about 
+hedge funds and how they are supervised. Sen. Richard Lugar, R-Ind., 
+chairman of the Senate Agriculture Committee, has called a hearing 
+on derivatives next month. The hearing is expected to be the first 
+in a series that could determine whether the government should take 
+a direct role in overseeing the largely unregulated over-the-counter 
+market for derivatives, and, if so, which federal agency should do 
+the regulating. Like many hedge funds, Long-Term Capital was a major 
+user of derivatives, which are financial instruments that derive their 
+value from stocks, bonds or currencies. The fund had derivatives exposure 
+that totaled nearly $1.2 trillion, making it one of the largest derivatives 
+users in the world. The size of Long-Term Capital's portfolio and 
+its near collapse have added urgency to a debate in Washington over 
+whether derivatives contracts pose dangers to the financial system. 
+The flurry of activity by regulators comes amid questions about what 
+kind of disclosure Long-Term Capital made in the past, and whether 
+government officials might have taken action earlier to guard against 
+the September crisis. Ms. Born confirmed a report in The Washington 
+Post on Wednesday that the CFTC received a regular annual statement 
+from Long-Term Capital earlier this year. The filing disclosed the 
+hedge fund's assets and showed that it had a relatively high debt-to-equity 
+ratio of 25 to 1. But she said the filing was the same annual report 
+that Long-Term Capital provided its investors and lenders, and that 
+it did not in itself raise red flags about the fund's stability. ``The 
+annual report showed no indication that it was about to collapse. 
+It was successful and it was similar to other hedge funds'' in its 
+use of debt, Ms. Born said. She added that by August, when financial 
+markets had turned against Long-Term Capital's trading positions, 
+its capital had shrunk drastically and the ratio of debt to capital 
+increased sharply. But she said, by that time her agency's information 
+was outdated. 
+</TEXT>
+</DOC>

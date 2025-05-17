@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981117.1600.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is "CNN Headline News," I'm Angela Astore in today for Chuck 
+Roberts. 
+</TEXT>
+</DOC>

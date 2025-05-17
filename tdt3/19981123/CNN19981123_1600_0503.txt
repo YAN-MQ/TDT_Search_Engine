@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981123.1600.0503 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News" weather update. 
+A cold front and a trough of low pressure will continue moving inland 
+in the northwest on Tuesday, another in a series of pacific storms 
+formed in the gulf of Mexico, and heads towards the northwest late 
+Tuesday into wednesday. So no real break from the rain and the snow 
+across the Rockies. A front will remain stationary across northern 
+Florida, so look for showers in southern Georgia into the Florida 
+keys. And a chance of snow flurries will be seen across Maine as a 
+low-pressure system moves to the northeast. Cold temperatures will 
+settle in behind this low. In Maine, look for highs in the 30s on 
+Tuesday. 30s, 40s and 50s dominate the rest of the U.S. generally 
+to the north of flagstaff. Look for high temperatures in the 60s, 
+70s and 80s to the south. The extended forecast includes rain and 
+wind on Wednesday, with a mix of rain and snow for the Great Lakes. 
+Showers, thunderstorms, rain and snow move eastward on Thanksgiving 
+day. A chance of showers in the northwest. There will still be lingering 
+rain along the atlantic seaboard Friday with more rain and snow in 
+the mountains of the west. The extended forecast is on CNN.com. 
+</TEXT>
+</DOC>

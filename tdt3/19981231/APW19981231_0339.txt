@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> APW19981231.0339 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Finance ministers from 11 European Union nations agreed Thursday on 
+the irreversible rates at which their currencies will be locked together 
+to form the new single currency known as the euro. The new common 
+currency will be worth 1.95583 German marks, 6.55957 French francs, 
+1936.27 Italian lire, 166.386 Spanish pesetas. The rates mean the 
+euro will start trading at about dlrs 1.1665 when markets open Monday 
+after the long New Year's weekend. 
+</TEXT>
+</DOC>

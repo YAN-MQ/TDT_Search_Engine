@@ -1,0 +1,113 @@
+<DOC>
+<DOCNO> NYT19981228.0059 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The earliest confirmed case of infection with HIV-1, the virus that 
+causes most AIDS cases around the world, is in a blood sample taken 
+from an African man in 1959, in what was then the Belgian Congo. Earlier 
+this year, DNA analysts at the Aaron Diamond AIDS Research Center 
+in New York, comparing that sample with others and calculating mutation 
+rates, estimated that the killer virus came into existence sometime 
+in the late 1940s or early 1950s. If that's the case, what happened? 
+Where did it go? How could the virus, which is now threatening to 
+kill a quarter of some African countries, have gone virtually unnoticed 
+for 20 years _ and then emerged in America, decimating gay men and 
+hemophiliacs in the 1980s and starting on a ruthless march of conquest 
+around the world? Was it a failure of medical detection? Racist indifference 
+to Africa by the West? Something in the rapidly mutating virus itself? 
+The short answer is: No one knows for sure. But there are pretty good 
+theories. The history of the epidemic is a jigsaw puzzle of helpful 
+and unhelpful facts, disproven former ``facts'' and a lot of notions, 
+both scientific and paranoid. Each new fact sweeps big chunks of the 
+puzzle onto the floor. Making matters worse, it's probably the most 
+geopolitically touchy disease since porphyria drove England's 18th-century 
+kings mad. It makes the bubonic plague look politically correct. Everyone 
+hates rats and fleas, but AIDS can't be discussed without talking 
+about matters at the core of human nature, desire or habit: sex, blood, 
+homosexuality, heroin-shooting, walking skeletons, brain viruses, 
+even monkey-eating. The most paranoid theory _ that the disease was 
+created in a U.S. Army germ warfare lab built in Maryland in 1977 
+_ was exposed as KGB propaganda first published in 1985. This latest 
+DNA analysis, performed last February, demonstrates that the disease 
+long predates the lab. Many scientists have long thought that the 
+HIV virus came from African monkeys. Several varieties of SIV (simian 
+immunodeficiency virus) have existed harmlessly, probably for thousands 
+of years, in green monkeys, mangabeys and baboons, but not in Asian 
+or South American monkeys. Monkeys are eaten in the central African 
+rain forest, and raw monkey brain is said to be a delicacy in parts 
+of Zaire, just as it is in Hong Kong. The assumption is that the virus 
+jumped to humans who had eaten or butchered monkeys, or had been bitten 
+by monkeys. That could have happened any time _ or many times _ in 
+the last 10,000 years. It probably happened at least three times, 
+because HIV-2, the weaker strain prevalent in Guinea-Bissau, is closely 
+related to the SIV in local mangabeys. The same is true for HIV-O, 
+a rare strain found in Cameroon. Neither is genetically close to HIV-1, 
+the virulent strain that has been killing people from central Africa 
+to San Francisco to Bangkok. But HIV-1 didn't necessarily jump to 
+humans as a killer. Some scientists believe a weak early form was 
+caught by European colonists as early as 1900, and one scientist blames 
+it for an outbreak of PCP pneumonia, which is associated with AIDS, 
+in Danzig, Germany, in 1939. Others are skeptical. Somewhere, probably 
+west of Lake Victoria, and sometime, possibly in the 1940s, HIV-1 
+mutated inside a human host into an attacker of T-cells and rapid 
+destroyer of immune systems. It must have spread very slowly at first, 
+in rural areas. It certainly was not killing large numbers of Africans. 
+``If the disease had been widespread in the 1950s and 1960s, there 
+were enough experienced clinicians in Africa to have noticed something 
+like that going on,'' said Dr. Anne Buve, an epidemiologist with the 
+Institute for Tropical Medicine in Antwerp, Belgium. Some time in 
+the 1960s or 1970s, said Dr. Peter Piot, a former researcher in Zaire 
+who is now the executive director of UNAIDS in Geneva, the virus probably 
+moved out of Zaire's rural areas to the cities, and then spread from 
+the continent. It may have gone to Haiti with the French-speaking 
+Haitians who filled up Zaire's civil service after the Belgians fled 
+in 1960. It may have gone straight to America, perhaps with the Peace 
+Corps. It may have gone to Cuba with soldiers returning from northern 
+Angola. In any case, it ultimately came to public attention because 
+it somehow got into a population vastly different from central Africa's. 
+The gay communities in San Francisco and New York were small and insular. 
+Anal sex and promiscuity sped the virus through them. Gay Americans 
+were also well educated, well served by doctors and well organized 
+in a civil rights struggle. When mysterious deaths began to hit, they 
+noticed immediately and shouted loudly. Within five years of the late 
+1970s, when fears focused on rumors of ``gay cancer,'' the disease 
+had a name and its virus had been found. Books and TV movies followed. 
+Meanwhile, in Africa, AIDS was making steady progress, but with less 
+public attention. As early as 1981, doctors in Paris and Brussels 
+diagnosed it among wealthy Zaireans treated in Europe. By 1983, doctors 
+from the Institute for Tropical Medicine and the Centers for Disease 
+Control were hunting it in Africa. As Mirko Grmek's ``History of AIDS'' 
+(Princeton University Press, 1990) describes a 1985 conference on 
+African AIDS, only a few cases had been confirmed in Africa. ``Belgian 
+and French physicians attending the meeting insisted a true epidemic 
+was under way,'' Grmek wrote. ``The representatives of affected countries 
+took offense and insisted on denying the problem.'' Another quirk: 
+most of the first hard-hit countries were Francophone, to which the 
+British and U.S. press pay less attention. Slowly, more facts turned 
+up. A Danish surgeon who died in 1977, apparently of AIDS, had worked 
+in rural Zaire from 1972 to 1975. An increase in Kaposi's sarcoma 
+dating to mid-century was recalled. More aggressive Kaposi's hit Zambia 
+and Uganda in 1982. When researchers traveled through remote western 
+Uganda in 1985 to study ``slim disease,'' which appeared in the early 
+1980s, they brought new AIDS-test kits, and all 29 ``slim'' victims 
+proved HIV-positive. A 1987 study by Piot of 454 blood samples frozen 
+after a 1976 Ebola virus outbreak in Zaire found five HIV-positive 
+ones. AIDS migrated out along truck routes, hitting hardest in border 
+towns where truckers wait for days to clear customs. It was also still 
+mutating; _ there are now 10 subgroups of HIV-1, all fatal. Now a 
+new question is stumping scientists: Why is AIDS hitting eastern and 
+southern Africa so much harder than it did the area where it originated? 
+Among pregnant women visiting clinics in Kinshasa, the capital of 
+Congo, and nearby Yaounde, Cameroon, infection rates reached a plateau 
+that was below 10 percent. But in eastern and southern African cities 
+from Kampala, Uganda, to Richard's Bay, South Africa, they have hit 
+30 percent and are still rising. No one knows why. The virus may have 
+mutated. Southern Africans may have less resistant genes. There may 
+be something in sexual habits, venereal disease rates, circumcision 
+practices. Figuring out exactly where it all started, some scientists 
+say, is less important. ``People have become pretty pragmatic,'' Buve 
+said. ``They are asking, `Do we need to know? Let's rather look at 
+the future.' '' 
+</TEXT>
+</DOC>

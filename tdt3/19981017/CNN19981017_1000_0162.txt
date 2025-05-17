@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981017.1000.0162 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There may be a budget deal in Washington, but Congress won't vote 
+on it until Tuesday. For now, it has sent President Clinton a fifth 
+short-term spending measure to keep the government running. Officials 
+say it will be a major project to print the legislation over the weekend, 
+and members of Congress will need time to read it before they vote. 
+Leaders from both parties are claiming victory for the final deal. 
+</TEXT>
+</DOC>

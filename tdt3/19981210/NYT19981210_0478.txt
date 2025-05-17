@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> NYT19981210.0478 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Electronic Data Systems, seeking a marquee leader able to restore 
+its primacy in computer services, named Richard H. Brown, chief executive 
+of Cable &AMP; Wireless PLC, as its own chairman and chief executive 
+Thursday. Brown, who is leaving Cable &AMP; Wireless after just 29 
+months, brings a reputation as a tireless rainmaker, dealmaker and 
+management shuffler, credited by analysts with raising the London 
+company's sales, profits and share price in his short tenure there. 
+To do likewise at EDS, he will have to revive a company that is demoralized 
+and uncertain in a rapidly changing, increasingly competitive business. 
+As of Jan. 15, he will replace Lester Alberthal, who resigned in August 
+under pressure from board members and major shareholders. The company 
+must also find a new chief financial officer and vice chairman. Brown, 
+a 51-year-old native of New Brunswick, N.J., avoided giving EDS any 
+immediate prescriptions. ``When I get to EDS in January, my highest 
+priority is going to be to meet clients, visit with the people at 
+EDS and understand firsthand the business I'm in,'' he said from London 
+in a telephone news conference. Alberthal and some other managers, 
+had been criticized by employees and customers as aloof, although 
+technically brilliant. If the board's search committee, led by former 
+Secretary of State James Baker, reached outside the computer services 
+industry, it did not reach too far. Computer services are converging 
+with telecommunications, and Brown also has experience at Ameritech, 
+one of the largest of the regional Bell companies. At Cable &AMP; 
+Wireless, he bought MCI Worldcom's Internet and data operations. 
+</TEXT>
+</DOC>

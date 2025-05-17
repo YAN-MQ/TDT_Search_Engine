@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981102.1830.0963 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The FDA approved a new drug to help people who suffer from rheumatoid 
+arthritis. There is 1 million of them. The drug is called enbrel. 
+By aching on the protein or rather acting on the protein that causes 
+it. 
+</TEXT>
+</DOC>

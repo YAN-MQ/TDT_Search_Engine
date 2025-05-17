@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981224.1600.0064 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Rescue crews spent hours today getting people out of an overturned 
+bus on the garden state parkway in New Jersey. The tour bus went through 
+a guardrail and flipped over an embankment after the driver lost control 
+on the icy highway. Police say at least eight people were killed and 
+many more hurt. The bus was taking passengers from Brooklyn to casinos 
+in Atlantic City. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981216.1600.1094 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The next time you buy something that is scanned at the cash Register, 
+pay attention. A report shows scanners charge the wrong prices often. 
+Two-thirds of them charge too much money. The biggest offenders, those 
+at hardware stores. The FTC notes there were variations from chain 
+to chain and store to store. 
+</TEXT>
+</DOC>

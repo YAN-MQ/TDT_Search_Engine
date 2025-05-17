@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981109.1130.0438 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Time now for a check of the national extended weather forecast. And 
+later -- why an instrument for temperature taking may be too sensitive 
+for its own good. 
+</TEXT>
+</DOC>

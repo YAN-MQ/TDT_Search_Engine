@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981118.1600.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The buyers moved back into the market late today. For a full report 
+on the markets, we go to Beverly Schuch at the CNN Financial Newsdesk 
+in New York. They waited till the last minute didn't they? They do 
+that sometimes. Fears that we may have heard the last from Alan Greenspan 
+this year gave the bond market a boost today. With optimism fading 
+that the fed may cut rates when it meets again on december 22nd, investors 
+betting that money will pour into the safety of bonds. 
+</TEXT>
+</DOC>

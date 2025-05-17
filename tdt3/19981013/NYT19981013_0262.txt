@@ -1,0 +1,116 @@
+<DOC>
+<DOCNO> NYT19981013.0262 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Quantum theory, in its most arcane and practical guises, was the focus 
+of the Nobel Prizes in Physics and Chemistry announced Tuesday by 
+the Royal Swedish Academy of Sciences. The three winners of the physics 
+prize and the two winners of the chemistry award are all university 
+professors in the United States. Quantum theory, which has been evolving 
+since the early 20th century, is a mathematical framework describing 
+the behavior of ultra-small objects, including atoms. The chemistry 
+prize of $978,000 will be shared by Dr. Walter Kohn, 75, an Austrian-born 
+physicist who works at the University of California at Santa Barbara, 
+and Dr. John Pople, 73, a Briton who is a mathematician at Northwestern 
+University in Evanston, Ill. Their achievements helped extend the 
+mathematics of quantum mechanics to predicting specific chemical reactions 
+and to designing molecules for use in medicine and other applications. 
+Neither of the laureates in chemistry is a chemist. ``I don't even 
+have a degree in chemistry,'' Pople said in an interview. The physics 
+prize, also $978,000, will be shared by Dr. Robert Laughlin of Stanford 
+University, 48, Dr. Horst Stoermer, 49, a German-born professor who 
+works both at Columbia University in New York and at Bell Laboratories 
+in Murray Hill, N.J., and Dr. Daniel Tsui, 59, a Chinese-born professor 
+at Princeton University. In 1982, when they conducted the research 
+for which they were honored Tuesday, all three physicists were working 
+for Bell Laboratories, which is now a part of Lucent Technologies 
+Corp. The Nobel committee honored the three physicists for their discovery 
+of a phenomenon called the fractional quantum Hall effect. Their achievement 
+culminated a series of discoveries that began in 1879, when an American 
+student, Edwin Hall, found that a magnetic field applied perpendicularly 
+to a thin metal plate caused an electric potential to appear that 
+was perpendicular to both the plate and the magnetic field. This became 
+known as the Hall effect, and it is commonly used to measure the strength 
+of magnetic fields. In 1980, Dr. Klaus von Klitzing, a German physicist, 
+investigated the Hall effect again and discovered that when the strength 
+of the magnetic field increased smoothly, the change in electric potential 
+did not occur smoothly, but in steps that were proportional to integer 
+numbers _ a hallmark of quantum mechanics. The phenomenon was named 
+the integer quantum Hall effect, and Klitzing was awarded the 1985 
+Nobel Prize in Physics for its discovery. Stoermer and Tsui took this 
+a step further in 1982 using an ultra-powerful magnet at the Francis 
+Bitter National Magnet Laboratory of the Massachusetts Institute of 
+Technology in Cambridge, Mass. Preparing their experiment at Bell 
+Laboratories, they pioneered a technique for making a transistor sandwich 
+from layers of gallium and arsenic. The layers in this sandwich were 
+so thin that electron movement between them was restricted to two 
+dimensions instead of the usual three. Installed in the big MIT magnet 
+and chilled to near absolute zero, their device exhibited the well 
+known quantum Hall effect, but with a new twist: the response of the 
+electric potential to changes in the magnetic field was not only stepwise; 
+it occurred in thirds of a step. It was as if normal electrons, which 
+are indivisible, had been split into thirds. After seeing their results, 
+Laughlin, the theorist of the group, said he framed an explanation 
+for the effect that was ``completely wrong, and which, fortunately, 
+was rejected by the referees at the journal to which I submitted our 
+paper.'' But later, he said, the true explanation came to him. ``It 
+took about one day,'' he said. ``Science is like that. You spend a 
+long time in the desert, and then suddenly the truth dawns.'' At a 
+news conference at Bell Laboratories on Tuesday, Stoermer compared 
+the electrons undergoing the fractional quantum Hall effect to balls 
+on a billiard table. Because of a weird quantum effect that occurs 
+when the balls are exposed to a magnetic field about a million times 
+stronger than that of Earth, they interact with each other as if they 
+were a fluid, and ``they look as if they had broken into thirds. When 
+you take the magnetic field away, the normal electrons reappear and 
+the one-third fractional electrons disappear.'' Laughlin and Stoermer 
+agreed that the fractional quantum Hall effect was unlikely to have 
+immediate applications. ``It's more of cosmological than practical 
+interest at the moment,'' Laughlin said. ``Potentially, it can help 
+us understand the quantum structure of the vacuum throughout the spacetime 
+of the universe. ``There are two great trends in physics: Newtonian 
+reductionism, in which you look for the wheels and cogs that make 
+the big mechanism work, and the opposite, in which you take little 
+things like the equations of motion and see how they make the big 
+mechanism work. The latter is our approach.'' Laughlin said his 13-year-old 
+son, awakened at 2 a.m., answered the telephone call from the Nobel 
+committee to notify Laughlin of the award. ``Some guy is calling from 
+Sweden,'' the boy yelled at his father. If some quantum effects occasionally 
+seem more like magic than reality, quantum chemistry restores the 
+balance. All very small objects _ molecules, atoms, subnuclear particles, 
+photons of light and so forth _ obey the rules of quantum mechanics. 
+Quantum mechanics deals with large assemblages of particles, and calculates 
+probabilities rather than certainties. Viewed quantum mechanically, 
+all objects are said to have ``wave functions'' that include all their 
+possible conditions. For instance, it is possible, because a wave 
+function includes all possibilities, for an object to be in two places 
+at the same time. Since the electrons that orbit atoms are quantum 
+particles, the mathematics of quantum mechanics apply to them, and 
+physicists and chemists have long known that it is theoretically possible 
+to predict the interactions of atoms by calculating the wave functions 
+of their orbital electrons. In practice these calculations were originally 
+so difficult that the method had limited use in practical chemistry. 
+But in the 1960s a breakthrough occurred. Kohn, working at the time 
+at the University of California at San Diego, discovered that the 
+total energy of an atomic or molecular system could be calculated 
+from the density of electrons at all places within the system. Knowing 
+the energy of a chemical system allows a scientist to calculate how 
+it will react with another system and what its characteristics may 
+be. Kohn's approach came to be known as the Density-Functional Theory, 
+and it is the basis of many aspects of computational chemistry, in 
+which the geometrical structure of molecules can be mapped and reactions 
+predicted. For this, Kohn shares the 1998 chemistry award with Pople, 
+who refined computer analysis of the quantum mechanics of molecules 
+as a powerful chemical tool. Pople was cited by the Nobel committee 
+for his 1970 computer program named Gaussian, which allows chemists 
+to apply quantum calculations in making rapid, reasonably accurate 
+estimates of molecular behavior. Improvements in the Gaussian program, 
+the Nobel committee said, have been so dramatic that it ``is now used 
+by thousands of chemists in universities and commercial companies 
+the world over.'' Among the users are pharmaceutical laboratories 
+seeking shortcuts in designing effective therapeutic drugs. In principle, 
+Pople said in an interview, mathematics can explain all aspects of 
+chemistry. ``The trick is tailoring the mathematics to fit,'' he said. 
+</TEXT>
+</DOC>

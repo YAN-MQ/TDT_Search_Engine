@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981019.2130.0204 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+More severe weather in south Texas is slowing the search for three 
+children who are missing after this weekend's devastating flooding 
+and tornadoes. At least 14 people were killed. Hundreds of residents 
+are still without electricity or drinking water. Shelters have opened 
+in 16 Texas counties. President Clinton is promising federal assistance. 
+</TEXT>
+</DOC>

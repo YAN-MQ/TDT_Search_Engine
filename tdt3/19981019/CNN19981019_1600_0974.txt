@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981019.1600.0974 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks kick off the week with stellar gains. Let's get the latest 
+market numbers from Jan Hopkins in the cnnfn news desk in New York. 
+jan? an? Thanks, Chuck. Stocks didn't hold on to their highs, but 
+they still managed to rack up some healthy gains. Not a bad day considering 
+its the 11th anniversary of the 1987 stock market crash. The Dow Jones 
+industrials gaining 49 points at 8466. It's the first time the Dow 
+has closed above 8500 since late August. Shares of jp Morgan contributing 
+to that rally, closing up 3 3/8 dollars a Share. That's despite reporting 
+much weaker-than-expected results. 
+</TEXT>
+</DOC>

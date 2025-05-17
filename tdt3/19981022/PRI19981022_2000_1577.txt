@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981022.2000.1577 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones Industrials rose 14 points to 
+finish the day at 8533. The NASDAQ was up 28 points to close at 1703. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981107.1000.0490 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Up next -- the extended weather forecast for the United States. Then 
+-- we'll look at a plane that scientists say will outfly the supersonic 
+Concorde. 
+</TEXT>
+</DOC>

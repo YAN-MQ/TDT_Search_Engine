@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981225.1830.1756 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Nightly News" for Friday. I'm Len Cannon. Good night and 
+merry Christmas. 
+</TEXT>
+</DOC>

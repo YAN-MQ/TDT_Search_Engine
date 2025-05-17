@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981015.1130.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+After an unenthusiastic open stocking are gaining ground at this hour. 
+Tech stocks are among the biggest movers as investors focus on a slew 
+of earnings reports and economic news. Coca-Cola down at 64 1/4 after 
+it reported lower than expected third-quarter earnings of $880 million. 
+</TEXT>
+</DOC>

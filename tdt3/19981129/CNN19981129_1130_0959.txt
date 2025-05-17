@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981129.1130.0959 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And it's a busy day for travelers. About 6 million people are expected 
+to fly home after a long Thanksgiving weekend. Millions more will 
+be on the road. 
+</TEXT>
+</DOC>

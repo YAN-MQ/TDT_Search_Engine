@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981012.1130.0924 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking this hour's top stories -- Italy has given NAto the go-ahead 
+to use its bases for an attack on Yugoslavia, if it comes to that. 
+Envoy Richard Holbrooke is still -- has ended talks in Belgrade with 
+no diplomatic solution. 
+</TEXT>
+</DOC>

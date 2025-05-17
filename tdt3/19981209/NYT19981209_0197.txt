@@ -1,0 +1,192 @@
+<DOC>
+<DOCNO> NYT19981209.0197 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The world of computer-based reference products is changing. First 
+came the shrink-wrapped boxes with a CD-ROM or two inside. Now that 
+is old hat. The big reference products on store shelves these days 
+are ``suites,'' products that begin with an encyclopedia and add a 
+dictionary, to look up the words in the encyclopedia that you don't 
+understand; an atlas, to locate a place you're reading about; an almanac, 
+for the kind of statistics an encyclopedia does not generally have, 
+and a variety of other tools, like a thesaurus or a book of quotations. 
+And all the suites have links to the Web for updating or supplementing 
+information. Five CD-ROM's are now par for the course. Some suites 
+also throw in speech recognition software, which can be helpful if 
+it doesn't drive you crazy first. Shoppers in computer stores may 
+find big displays of suites in the next few weeks, and these will 
+probably continue in January, aimed at all the people who got new 
+hardware over the holidays. (And when you install a suite, it will 
+immediately make your enormous new hard drive seem considerably smaller.) 
+Prices for the suites are unpredictable and are likely to be discounted 
+sharply. These products tend to be what the computer stores use as 
+``loss leaders'' to lure traffic, so shoppers may find one brand or 
+another available for nearly nothing. (Owners of previous encyclopedia-only 
+versions of the Grolier and IBM products have to buy an entire suite, 
+including the encyclopedia, to get the add-ons; only Microsoft sells 
+its package of encyclopedia add-ons, called Microsoft Bookshelf, separately 
+for around $50.) The magic to the suites _ if they work well _ is 
+the integration, the way a computer links the components together 
+to make access easy. But putting all these books on the computer has 
+some drawbacks. I have always found magic in the books themselves, 
+like the copy of ``Bartlett's Familiar Quotations'' that my Aunt Leona 
+gave me when I graduated from high school. It occupies a fat space 
+on my bookshelf, and it's nice to leaf through. On the other hand, 
+my printed copy is the 14th edition, copyrighted in 1968, and unless 
+I graduate from high school again, I don't think anybody is going 
+to give me a newer one. And the electronic version is easier to search. 
+Evaluating something as big as an encyclopedia suite is necessarily 
+a job of sampling, not fully digesting. For spot-checks of three of 
+the biggest, I borrowed some homework assignments from Cabin John 
+Middle School, in Potomac, Md. 1999 WORLD BOOK FAMILY REFERENCE SUITE, 
+WITH VIA VOICE (IBM; $69.99 before $30 rebate; Windows 95 and 98.) 
+The software for the 1999 World Book Family Reference Suite asserts 
+ownership over your computer, unpacking itself into your startup group 
+so its cluster of four icons sits smack in the middle of your desktop. 
+It also takes over your hard drive: the suite, three CD's in all, 
+requires 16 megabytes of RAM, 39 megabytes of hard drive space plus 
+8 megabytes for online access. The Via Voice speech-recognition feature, 
+for which a headset microphone is included, requires 32 megabytes 
+of RAM and another 64 megabytes of hard drive space. World Book's 
+layout is clear and intuitive, which is particularly useful for children 
+and their bewildered parents. To test the suite's linked features, 
+I looked up E.coli, a usually innocuous bacterium used for genetic 
+research; one type of E.coli can sicken or kill people who eat undercooked 
+beef. The dictionary, the Merriam-Webster Reference Library, gave 
+me a 56-word definition and added a paragraph on Theodor Escherich, 
+the eponym of the bug, which is more formally referred to as Escherichia 
+coli. (If you had a reference suite, you could also look up eponym.) 
+The encyclopedia pulled up an article on genetic engineering and helpfully 
+put ``E.coli'' in red. The Information Please almanac returned a one-page 
+list of headlines from August 1997, including one about Hudson Foods' 
+announcement that it would sell a processing plant in Nebraska after 
+beef from there was found to be tainted by E.coli and a four-page 
+entry for October that said a federal jury in Omaha was investigating 
+Hudson. (It meant grand jury, not federal jury.) Search for a single 
+word, and the software will highlight it in each article where it 
+appears (although E.coli was not highlighted in the almanac.) There 
+are functions that allow you to use a highlighter and paste notes 
+into the text and a ``homework wizard'' that helps organize reports. 
+I think that might make homework a little too easy and would certainly 
+encourage a greater reliance on the encyclopedia. Installation was 
+a headache. My home computer, a Dell Dimension 350-megahertz machine, 
+crashed every time I tried to install Via Voice. It accepted the Information 
+Please almanac at one point but wouldn't give me access to it later. 
+Clicking on the encyclopedia icon on the desktop sometimes got me 
+into the encyclopedia and sometimes did not; on those occasions, it 
+was necessary to close the icon box and call it up again from the 
+Start menu. So I tried again at work, on a 300-megahertz Compaq Deskpro. 
+At the Via Voice step, I got an error message: ``Please select or 
+conform the correct folder where WB99 is installed or exit setup and 
+install WB99 first.'' I'm no conformist, but leaving aside the diction 
+error in the error message, I called customer support. After a 65-minute 
+toll call, I was told to scan the disk for errors but found none. 
+But somehow Via Voice installed properly afterward. It wasn't worth 
+the effort, though. I went through the 10-minute training exercise, 
+reading words on the screen aloud so the computer could get used to 
+my pronunciation, and then I grabbed a copy of the newspaper and read 
+in a paragraph to see how Via Voice would do. I read: ``MINNEAPOLIS 
+_ The marksmen gulped a hasty dinner of pasta and salad before preparing 
+to spend a chilly night stalking their quarry.'' Via Voice heard: 
+``Minneapolis of marks and helped a hasty diner of pasta and salad 
+before preparing to spend a chilly night stocking their quarry.'' 
+I also tried ad-libbing: ``Good morning. Today is Wednesday, and I 
+have a lot of work to do today.'' It wrote, ``Bad morning today a 
+news Wednesday and I have a lot of work to do to them.'' 1999 GROLIER 
+MULTIMEDIA REFERENCE SUITE (Grolier Interactive; $89.99 before $30 
+rebate; Windows 3.1 and later, and NT.) The 1999 Grolier Interactive 
+Suite is the king of the name-droppers, with Bartlett's Familiar Quotations, 
+the Hammond Atlas of the World, the Wall Street Journal 1998 Almanac 
+all included. And as an awkward inducement to register the suite, 
+Grolier has also thrown in access to The New York Times Book of Science 
+Questions and Answers, already on the disk. The suite also includes 
+access to the online Encyclopedia Americana, aimed at college students, 
+and The New Book of Knowledge, and it comes packaged with a small 
+hardcover book, ``How to Improve Your Grammar and Usage,'' by Mark 
+Rowh. A paperback book of quizzes and other activities is also included. 
+The encyclopedia itself produced a definition of E.coli, a diagram 
+of recombinant DNA, for which E. coli's DNA is often used, and entries 
+on bacteria, Escherichia, food poisoning and infection, and meat and 
+meatpacking. Despite the marquee names, Grolier is the most basic 
+of the encyclopedias mentioned here, geared toward younger children. 
+The Grolier package is not integrated; it is more like buying a shelf 
+of books, not all of which are geared to the same age group as the 
+encyclopedia. Bartlett's on line has advantages over the printed version. 
+It offers chronological browsing of all quotations, or searches by 
+keyword, author, topic, date or source. There was nothing under ``coli,'' 
+but under ``bacterial'' I found a 1948 snatch of poetry by Theodore 
+Roethke, who wrote that he studied ``the lives on a leaf,'' including 
+``bacterial creepers.'' The printed Bartlett's was always great for 
+browsing, and I enjoyed this new edition (the 16th, with multimedia 
+add-ons), including gems that may not turn out to be enduring, like 
+one from Gene (Eugene Wesley) Roddenberry, 1921-1991: Space _ the 
+final frontier ... These are the voyages of the starship Enterprise.'' 
+There are other recent classics, like ``I am not a crook'' (Richard 
+Nixon, Nov. 11, 1973). Newer ones, like ``I did not have sexual relations 
+with that woman,'' await a future edition. The disk also has a timeline 
+that includes Alfred E. Newman and Uncle Sam, of the World War I recruiting 
+poster. And this being multimedia, Bartlett's on a disk also offers 
+sound clips of ``La Marseillaise'' (1792, the timeline informs me), 
+video clips of Nixon's 1952 Checkers speech, Willie Mays' famous over-the-shoulder 
+catch during the World Series in 1954 and the O.J. Simpson car chase 
+of 1994. The Wall Street Journal Almanac divides itself into 10 categories, 
+including Year in Review, Politics and Policy, the United States Economy 
+and Money and Investing. None found E.coli. A search under ``bacteria'' 
+found some articles on cloning in the Year in Review section. The 
+Living in America section came up with an article on slowing the progress 
+of Alzheimer's disease. The Hammond Atlas of the World is actually 
+an atlas plus a small almanac, with statistics on population, migration 
+and other subjects. I didn't bother asking for E.coli but went straight 
+to the unrelated Ekoli. It found the name and jumped to a map of the 
+country, but not one big enough to show that town. The Grolier suite 
+is a good choice for families with young children or for an adult 
+who really wants a digital copy of the Bartlett's or Hammond and doesn't 
+mind an encyclopedia thrown in. But as a reference tool for adults, 
+Grolier is not in the same league as World Book or Encarta. ENCARTA 
+REFERENCE SUITE 99 (Microsoft; $79.99; Windows 95 and 98, and NT.) 
+Microsoft's entry into the encyclopedia suite market is another space 
+hog: 28 megabytes for the encyclopedia, 40 MB for the search function 
+(based on queries written in ordinary language), 17 MB for the text-to-speech 
+engine, 15 MB for the speech-recognition engine, 72 MB for Virtual 
+Globe 99, 5 megabytes for Bookshelf 99, 4 megabytes for the Research 
+Organizer and 15 megabytes for ``shared system components,'' for a 
+total of 196 megabytes. The program boots itself when you put the 
+first of five CD's into the drive. The encyclopedia gave a brief mention 
+of E.coli and linked to a detailed discussion of bacteria in general; 
+Virtual Globe located Ekoli, which is in Congo, and was ready to give 
+me extensive facts and figures on Congo and its latitude, longitude 
+and distances to other locations, but it, of course, had no geographical 
+references on E.coli. Microsoft Bookshelf _ nine reference books, 
+including a dictionary, a book of quotations and a timeline _ is on 
+a separate disk and required a separate search. It defined E.coli, 
+pronounced it for me and found a definition of travelers' diarrhea 
+that included E. coli and a chart on the taxonomy of life. But if 
+you are in the encyclopedia and open the CD-ROM drive to put in the 
+Bookshelf disk, the program warns you to put the encyclopedia disk 
+back. Click on Bookshelf and it warns, ``Unable to find Bookshelf.'' 
+Bookshelf opens with a new word and quotations each time: a brief 
+inspiration before you begin to search. The timeline lists the Hudson 
+Foods incident and lists five discoveries made using E.coli. Encarta's 
+linking of information is helpful, but the results can be weird. Use 
+the dictionary to look up ``Jeremiad,'' for example, and then turn 
+to the timeline for information on the prophet Jeremiah, and the adjacent 
+entries on the timeline choices will include Jeremiah Dixon (Mason's 
+partner in drawing the line that divides North from South); ``Jeremiah 
+Johnson,'' a 1972 movie, and Jeremiah M. Johnson, Secretary of Agriculture 
+in President Benjamin Harrison's Cabinet. The speech software in Microsoft's 
+package did not strike me, a competent typist, as worth the trouble. 
+I asked it to look for Cleveland, by spelling out the word letter-by-letter, 
+and it simply refused to get the last letter, trying, in turn, b, 
+g, e and t. My 12-year-old son (who won't use the Mavis Beacon typing 
+tutor program I bought him, but that's a different story) would benefit 
+from speech software, but it couldn't understand him at all. He tried 
+to ask for information on the Crusades, and the response was ``crusiogaa 
+can't be found.'' It's easier to learn to type. Of the three reference 
+suites reviewed here, Encarta is easily the slickest. From an unpromising 
+foundation (Funk &AMP; Wagnalls Encyclopedia, to be precise), Microsoft 
+has built a huge research tool, one loaded with graphics and animation. 
+Encarta often comes bundled with new computers, but it's a sensible 
+investment on its own. 
+</TEXT>
+</DOC>

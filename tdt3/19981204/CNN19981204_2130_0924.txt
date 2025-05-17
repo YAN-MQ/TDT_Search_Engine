@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981204.2130.0924 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And, the space shuttle "endeavour" successfully blasted into orbit 
+today. The crew will begin assembling the international space station. 
+</TEXT>
+</DOC>

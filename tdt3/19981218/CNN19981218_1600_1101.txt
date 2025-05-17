@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981218.1600.1101 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the financial woes of women don't seem to be improving. A new 
+survey finds that women have more dismal financial prospects than 
+previously thought. The American association of retired persons found 
+that there are three main reasons women continue to be hampered. They 
+put their careers on hold to raise a family, which reduces their earnings, 
+they earn 74 cents for every dollar that men earn on average, and 
+women live longer so they have to stretch their money farther. As 
+a result, the survey finds they are cautious about money and are conservative 
+investors and rely too heavily on the advice of financial experts. 
+</TEXT>
+</DOC>

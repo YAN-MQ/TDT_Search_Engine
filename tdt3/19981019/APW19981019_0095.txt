@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> APW19981019.0095 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Gold bullion opened Monday at a bid price of dlrs 298.90 a troy ounce, 
+up from dlrs 297.70 late Friday. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> ABC19981124.1830.1031 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the economy continues to grow. The Gross domestic product, which measures 
+all goods and services, was up 3.9% in the third quarter. Growth is 
+being driven by consumer spending -- which has a lot to do with confidence. 
+A new ABC News poll finds consumer confidence is close to a 13-year 
+high. More people feeling good about their finances. However, bankruptcies 
+are up more than 5% to a record 1.4 million filings in the 12 months 
+ending in September. 
+</TEXT>
+</DOC>

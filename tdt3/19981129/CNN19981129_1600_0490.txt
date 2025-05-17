@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981129.1600.0490 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A powerful earthquake jolted a small remote island about 1,200 miles 
+east of the Indonesian capital of Jakarta. The quake had a preliminary 
+magnitude of 7.6. according to early police reports, five people have 
+been killed. The U.S. geological survey initially issued a Tidal wave 
+alert, but it has been withdrawn. 
+</TEXT>
+</DOC>

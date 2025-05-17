@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981119.2130.0503 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And later -- robots may play 
+a crucial role in keeping waterways free from chemical spills. 
+</TEXT>
+</DOC>

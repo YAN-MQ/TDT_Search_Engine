@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981112.2130.1007 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.S. auto industry passed another milestone today. Chrysler and 
+Daimler-Benz began their first day as a combined company. Their stock 
+will begin trading on Tuesday under the symbol D.C.-X. the new company, 
+Daimler-Chrysler, is the world's fourth-largest automaker, with $140 
+billion in annual sales. 
+</TEXT>
+</DOC>

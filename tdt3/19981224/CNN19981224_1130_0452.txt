@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981224.1130.0452 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Doctors say a high-tech method to treat brain tumors shows promise. 
+Last week, they used the technique, known as "the magnetic surgery 
+system," to perform a biopsy on a patient with a brain tumor. With 
+the help of a computer mouse, the surgeon guided a needle through 
+the patient's brain, bypassing the most sensitive areas. Doctors hope 
+to one day use the technique to treat aneurysms, coronary artery disease 
+and other ailments. 
+</TEXT>
+</DOC>

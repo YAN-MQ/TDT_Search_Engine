@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981211.2130.0471 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" for Saturday. A very slow-moving low pressure center will 
+keep clouds and wet weather across the southeast into the Tennessee 
+and Ohio river valleys. Meanwhile, a front will move rather rapidly 
+from the Great Lakes into upstate New York and northern New England, 
+producing a few rain showers. Another system in the northwest will 
+keep it wet and windy with mountain snow. High temperatures on Saturday 
+will be mostly in the 30s to 50s. Florida will be warmer -- in fact, 
+some 80s in the south. It'll be a little warmer in the southwest, 
+as well. Looking ahead to Sunday -- we'll see snow across New England, 
+with rain showers and thunderstorms along the southeast coast. It'll 
+be wet and windy in the northwest once again, as well. On Monday, 
+rain, mountain snow and wind across that northwest quarter of the 
+country, with a few showers in southern Florida. For Tuesday, snow 
+showers around the Great Lakes, rain showers in the northwest. It'll 
+be windy in the southwest. Don't forget, you can find four-day forecasts 
+for more than 7,200 cities. The address is CNN.com. 
+</TEXT>
+</DOC>

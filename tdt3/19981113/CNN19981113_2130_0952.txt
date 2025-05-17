@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981113.2130.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And sources tell CNN, independent counsel Ken Starr has sent the house 
+judiciary committee more evidence about President Clinton's conduct. 
+They say the material comes from Starr's investigation of Kathleen 
+Willey. 
+</TEXT>
+</DOC>

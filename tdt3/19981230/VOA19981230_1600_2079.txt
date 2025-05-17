@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> VOA19981230.1600.2079 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+A U.S. congressional panel has concluded that some American technology 
+deals with China have jeopardized national security. A House committee 
+investigating military and commercial deals with China issued a report 
+Wednesday. Here is California Congressman Christopher Cox. Based on 
+unclassified information, I can tell you today that we have found 
+that national security harm did occur. The investigation was sparked 
+by President Clinton's decision earlier this year to allow a U.S. 
+company, Hughes Electronics Corporation, to launch satellites atop 
+low-cost Chinese rockets. The company is run by a top contributor 
+to Mr. Clinton's Democratic Party. 
+</TEXT>
+</DOC>

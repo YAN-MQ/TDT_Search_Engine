@@ -1,0 +1,91 @@
+<DOC>
+<DOCNO> NYT19981226.0020 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Long after Americans stopped husbanding gasoline and keeping the speedometer 
+at 55, policy-makers here clung to a national maximum speed limit, 
+arguing that it saved lives. But that limit, an artifact of the 1973-74 
+Arab oil embargo that was very unpopular after the price of gasoline 
+dropped, was eliminated three years ago. Every state except Hawaii 
+has since raised its highway speed limit in what has become an unofficial 
+test of the long-held belief that speed kills. Three years into the 
+test, the answer is still unclear. The number of deaths from motor 
+vehicle accidents is about the same; 41,967 in 1997, 41,907 in 1996 
+and 41,798 in 1995. When expressed as the number of deaths per million 
+miles driven, the death rate is actually down slightly. The data offer 
+a Rohrshach test that is open to interpretation. A recent opinion 
+article in The Wall Street Journal by a journalist and muscle-car 
+enthusiast, Eric Peters, suggested that federal officials liked the 
+55 mph limit because it gave the National Highway Traffic Safety Administration 
+power over the states. Roads, Peters supposed, were safer at faster 
+speeds because a higher limit reduced variations in speeds. But several 
+traffic safety experts said they knew of no data that would support 
+Peters' argument. In fact, there is a dearth of data on how posted 
+limits affect speeds. These are only a few of the uncertainties of 
+federal traffic-safety statistics. For example, some statistics measure 
+the deaths on roads posted at 55 or 60 mph against those posted at 
+65 or higher. Others measure whether the overall number of miles of 
+road posted at 65 is growing and whether the overall number of miles 
+posted at 55 or 60 is declining. The agency does not keep track of 
+casualty figures for a single stretch of road when its limit rose 
+to 70 from 55. Texas tried to keep track of a single stretch of road, 
+starting in January 1996, when highway speeds reverted to a daytime 
+70 mph and 60 at night. A study produced by the Texas Transportation 
+Institute, a state agency, found that by March 1997 there were 9 percent 
+more crashes on rural, multi-lane undivided highways; 33 percent more 
+on rural, two-lane state highways and U.S.-numbered routes. But the 
+report failed to find a significant increase in fatalities on these 
+and most Interstate highways. The finding runs counter to the predictions 
+of most traffic engineers, who say crashes at higher speeds are likely 
+to be more severe. The study's researchers said the sample size might 
+be too small to capture an increase in deaths, which are less common 
+than accidents that involve non-fatal injuries. The NHTSA told Congress 
+in a report in February that states that increased their limits in 
+1996 recorded about 350 more Interstate fatalities than before, a 
+jump of about 9 percent. The agency said the increase in fatalities 
+was smaller than the estimated change after 1987, when Congress enabled 
+states to raise the limit on rural Interstates to 65 from 55. ``We 
+would have done even better in terms of the overall numbers had the 
+speed-limit increases not been as pervasive,'' said Philip Recht, 
+deputy administrator of the NHTSA, referring to the reduction in fatalities. 
+``The simple fact that the total number of fatalities remained the 
+same or even dipped in any year does not tell you what the impact 
+of the speed limit increases is.'' In fact, the deadliest roads _ 
+rural two-lane blacktops with sharp curves and no shoulders _ were 
+not affected by the end of the national speed limit, in many cases. 
+Another data point, which could yield a variety of interpretations, 
+comes from Canada. Speed limits there, which are set by the individual 
+provinces, are essentially unchanged, although vehicle registrations 
+and drivers have approximately doubled in 20 years, according to Derek 
+Sweet, director of road safety at Transport Canada, a government agency. 
+But deaths declined by about half, he said. Last year they were 3,064, 
+down from 3,082 in 1996 and 3,347 in 1995. ``It's a complex business,'' 
+Sweet said. ``It's really difficult to attribute it to any single 
+element, with the exception of seat-belt wearing.'' Transport Canada 
+sponsored a study that said ``it cannot be decisively concluded that 
+changing the posted speed limit will result in a change in collisions.'' 
+In this country, experts say drunken driving is declining, more cars 
+have air bags and the use of seat belts is rising, although it still 
+lags Canada's level. George Black, a member of the National Transportation 
+Safety Board, added another reason for fewer deaths: an increase in 
+the number of ambulances with advanced life-support systems. Twenty 
+years ago, when Black was a highway safety official in Georgia, he 
+said, ``they put you in a former hearse driven by a person who liked 
+to drive fast; he took you to the hospital and hung around waiting 
+to see if you died or not.'' But changes in the limits can have unexpected 
+effects, he said. In 1974, when the 55 mph limit started, Georgia 
+took some roads that were posted for 60 miles an hour in daytime and 
+50 at night, and converted them to 55 at all times. Most fatal accidents 
+happen at night, he said, and raising the night-time limit to 55 should 
+have produced more deaths, but it led to fewer. The reason may not 
+have been the limit at all, he said, but related changes. ``During 
+this period of time, gas lines were out, gas prices were up and sometimes 
+you had a choice of whether you're going to buy gas or buy a case 
+of beer and stay home.'' Another question is enforcement. A vigorously 
+enforced 65-mile limit could cut speeds more than an indifferently 
+enforced 55-mile limit, experts say. In New Jersey, which in May became 
+the 48th state to raise the speed limit, the penalty for exceeding 
+the 65-mile limit by 5 miles an hour is $154 _ if you are caught. 
+</TEXT>
+</DOC>

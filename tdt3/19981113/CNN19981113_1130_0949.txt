@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981113.1130.0949 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the penalty for committing a federal crime with a handgun is getting 
+tougher. president clinton is signing legislation today that will 
+increase sentences for people convicted of using firearms while breaking 
+federal law. 
+</TEXT>
+</DOC>

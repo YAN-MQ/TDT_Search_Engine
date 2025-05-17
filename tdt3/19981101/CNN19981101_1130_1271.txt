@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981101.1130.1271 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In golf, vijay Singh's lead is down to one stroke after three rounds 
+of the season-ending tour championship. Singh shot even par 70 and 
+leads Hal Sutton and Jim furyk entering today's final 18 holes. 
+</TEXT>
+</DOC>

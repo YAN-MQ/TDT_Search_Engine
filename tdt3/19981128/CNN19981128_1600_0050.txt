@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981128.1600.0050 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+president clinton says he wants all americans to benefit from the 
+country's thriving economy. in his weekly radio address, he announced 
+new federal housing vouchers for low-income families, worth almost 
+$130 million. the vouchers are intended to help an estimated 17,000 
+families pay rent. earlier this month, the department of housing and 
+urban development announced another $700 million in grants for low-income 
+older americans and people with disabilities. president clinton says 
+no one should have to worry about having a place to live. americans 
+should never have to choose between putting a meal on the table or 
+putting a roof on their heads. that's why i'm pleased that this month 
+we're awarding nearly $700 million in housing and urban development 
+grants to make sure no one has to make that impossible choice. to 
+qualify for housing aid, hud says applicants must have an income of 
+less than $8,000 a year. 
+</TEXT>
+</DOC>

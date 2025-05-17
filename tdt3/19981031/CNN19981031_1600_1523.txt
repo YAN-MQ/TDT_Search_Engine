@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CNN19981031.1600.1523 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New technology is supposed to change the way we watch television. 
+The problem is, almost no one is going to see it. Bruce Francis reports. 
+As launches go, the weekend launch of hdtv can't match John glenn's 
+second launch into the history books. High definition TV is beginning 
+in just the ten biggest markets. ABC will lead off with an hdtv broadcast 
+of the live action "101 dalmatians." CBS is betting on football producing 
+separate high definition broadcast. NBC will produce a high definition 
+"Jay leno" in the spring. But so far, the audience isn't biting. Just 
+about 100 sets have been sold across the country to consumers. And 
+broadcasters are worried about their investment in new encoders and 
+transmission equipment -- as much as $9 million per station. I think 
+the industry is wary, and I think the government is wary. I don't 
+have any near-term expectations that there's going to be lots of television 
+sets out there, frankly. That's because high definition TV sets start 
+at around $7,000. And some of them require decoder boxes, which can 
+run another couple thousand. It's too expensive. Transmission quality 
+still isn't there, and we don't have standards. Eventually, these 
+problems will get solved. And when the price point comes down, I think 
+you'll find people buying digital televisions. But until they do, 
+advertisers don't plan to produce hdtv commercials. Only proctor & 
+Gamble has produced an ad in hdtv format. Complicating matters, the 
+cable industry hasn't figured out how or when to pass hdtv signals 
+on to customers -- limiting hdtv's reception to antennas. And upstart 
+satellite TV operator directv says it will devote just two out of 
+several hundred channels to the new format starting next year. Despite 
+all these challenges though, industry officials believe that high 
+definition TVs will be adopted faster than color TVs were in the 1960s 
+or cDs were in the 1980s. Bruce Francis, "CNN Financial News," New 
+York. 
+</TEXT>
+</DOC>

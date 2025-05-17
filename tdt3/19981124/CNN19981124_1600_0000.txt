@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981124.1600.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street lets off some steam, as blue chip stocks cool down from 
+record gains. "CNN Headline News." I'm Toria Tolley, in today for 
+Chuck Roberts. We'll look at the closing numbers on Wall Street in 
+a moment, but first -- 
+</TEXT>
+</DOC>

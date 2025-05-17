@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981108.1000.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- the shuttle "discovery" astronauts 
+held their first post-flight news conference. John Glenn says he's 
+95% to 98% back to normal. 
+</TEXT>
+</DOC>

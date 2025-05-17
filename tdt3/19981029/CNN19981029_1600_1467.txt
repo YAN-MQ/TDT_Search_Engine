@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981029.1600.1467 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Dennis Michael with the "Hollywood Minute." Tom cruise is 
+apparently going to the valley. The actor has joined the cast of "Magnolia" 
+-- a film for new line cinema to be directed by Paul Thomas Anderson, 
+the man behind "boogie nights." "Daily variety" reports the film, 
+which will feature most of the "boogie nights" ensemble cast, is a 
+story about life and love in L.A.'s San fernando valley. 
+</TEXT>
+</DOC>

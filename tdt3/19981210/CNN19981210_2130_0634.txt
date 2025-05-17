@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981210.2130.0634 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Scientists have completed the first genetic blueprint of an animal. 
+Ann Kellan has more in this edition of "tech trends." This tiny worm 
+called "C. Elegans" fits on the head of a pin, lives in soil and feeds 
+on rotting vegetation. C. elegans has made history -- the first multicelled 
+animal with a complete genetic blueprint. I think this is a major 
+milestone in our understanding of biology. For the first time, we 
+have the complete sequence, the complete instruction book, if you 
+will, of an animal. It took researchers at Washington University in 
+St. Louis and the sanger center in Cambridge, England, eight years 
+to break the DNA code of c. elegans' 20,000 genes. That chemical code 
+or sequence is an instruction manual that reveals everything about 
+the C. elegans, from how the worm grows from a single cell ages then 
+dies to how it turns food into energy. Scientists decoded more than 
+100 million chemical sequences that make up the worm's DNA code. And 
+even though this worm is a distant cousin to humans, there are enough 
+similarities to help scientists better understand human development 
+and disease. The hopes of the parent of a child with a birth defect, 
+the hopes of a Young man with a family history of cancer, the hopes 
+of a couple caring for an aging parent are in some way advanced by 
+our having this instruction book, a complete one of an animal, which 
+is a model for all of those circumstances. Researchers say, thanks 
+to the worm, they have been able to isolate a Gene suspected to cause 
+Alzheimer's disease in humans. They have similar genes in the worm. 
+And the only reason we really know anything about what those genes 
+do in people is because they've been studied in worms. Scientists 
+say they have sequenced about 6% of the human genes so far. A complete 
+genetic fingerprint for humans won't be complete until the year 2003. 
+Ann Kellan, "Headline News." 
+</TEXT>
+</DOC>

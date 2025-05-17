@@ -1,0 +1,117 @@
+<DOC>
+<DOCNO> NYT19981128.0021 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Last week's $206 billion settlement between the tobacco industry and 
+46 states is supposed to put Big Tobacco on the run. The agreement 
+requires cigarette makers to compensate states for the medical costs 
+of treating smoking-related diseases. It's been hailed as a triumph 
+of the public interest over special interests. But a closer look at 
+the hard economics behind the agreement reveals something quite different. 
+The problem, economists and legal experts who have studied the deal 
+say, isn't that the damages won by the states are too small, as leaders 
+of the anti-smoking lobby complain. It's that 99 percent of the total 
+settlement is really a disguised tax hike. Taxing cigarettes more 
+heavily may or may not be a good idea, the critics say, but labeling 
+as ``damages'' what is effectively a sales tax is misleading and will 
+create a boondoggle for trial lawyers and a windfall for the smaller 
+tobacco companies. Under the deal, the Big Four tobacco producers 
+will wind up paying direct damages of at most 1 percent of the settlement 
+total, or $2.4 billion. That amount, calculated as a proportion of 
+the companies' current market value, is to be paid regardless of how 
+many packs of cigarettes they sell in the future. The rest of the 
+$206 billion will be paid by smokers: Cigarette prices are expected 
+to climb by an average of about 35 cents a pack. ``Reasonable people 
+can disagree whether increasing the cigarette tax is a good or bad 
+idea,'' said Jeremy Bulow, the incoming chief economist of the Federal 
+Trade Commission. ``But the reason that the attorneys general don't 
+want to call it a tax is so they can claim a political victory.'' 
+Clearly, investors thought the deal was worth celebrating. On Nov. 
+20, the day the attorneys general announced the settlement, the stock 
+of the leading tobacco companies soared. Investors chose to disbelieve 
+that an industry with profits of $5 billion a year would be paying 
+$8 billion a year in damages for the next 25 years. Instead, the investors 
+gave credence to stock analysts who believe that the profits of tobacco 
+companies will decline by a maximum of 10 percent. And cigarette producers 
+wasted no time in raising prices _ a day after the settlement was 
+signed on Monday, two major companies raised prices 45 cents a pack. 
+The higher prices represent what is essentially an old-fashioned sales 
+tax, the very kind of tax that the Republican Congress shot down a 
+few months back as ``big government.'' What makes it a tax? The fact 
+that the amount paid is to rise and fall with the number of cigarette 
+packs sold. Like many sales taxes, it is borne primarily by the consumer. 
+``Every single cigarette tax ever passed has been paid fully by the 
+consumer,'' said John Gruber, an economist at the Massachusetts Institute 
+of Technology and a former deputy Treasury secretary. ``There's no 
+reason to think this will be any different.'' ``If it looks like a 
+duck, quacks like a duck . . .,'' Gruber added. ``It's a tax because 
+it's a set of payments made by tobacco companies that depend on how 
+many packs they sell.'' Still, most economists think it makes sense 
+to use taxes to have the price of cigarettes reflect their true social 
+cost, though some, like Bulow, have reservations because the taxes 
+fall heavily on the poor. And as tobacco companies have known for 
+years, the evidence is compelling that raising prices leads some smokers 
+to cut back and deters teen-agers from picking up the habit. But by 
+disguising a de facto sales tax as damages, the critics maintain, 
+the states have agreed to a deal with unintended consequences that 
+are just hinted at in the joint news release describing the 100-page 
+settlement. By calling taxes damages, the critics say, the states 
+wound up agreeing to provisions that Congress would never dream of 
+if it passed a tax increase. For example, economists cite the huge 
+contingency fees that the 200 or so trial lawyers who helped produce 
+the agreement will collect. Under the deal, the lawyers will divide 
+$1.25 billion initially and about $500 million a year thereafter. 
+That's an $8 billion payout, or 20 times the biggest contingency fee 
+ever paid, the $400 million collected by a lawyer in the 1985 Texaco-Pennzoil 
+case. Gruber calls the legal fees ``huge, gross and disgusting.'' 
+Bulow estimates that had the fees been calculated only on the basis 
+of actual damages, each lawyer would receive an average of about $1 
+million apiece, versus the $40 million apiece that the lawyers will 
+actually collect. ``By calling the settlement `damages' it makes it 
+seem reasonable to pay the lawyers a lot,'' said Paul Klemperer, an 
+economist at Oxford University. ``If you called it taxes, you wouldn't 
+expect to give lawyers a fraction of the tax.'' The lawyers maintain 
+they are being paid fairly for taking a huge gamble. But for one thing, 
+some states hadn't even got around to filing suits against the tobacco 
+companies, so the lawyers in those states haven't done much of anything 
+yet. And those lawyers who have put in time did most of their work 
+in the past year _ after it became clear that a broad settlement was 
+a near-certain bet. A second consequence of calling taxes damages 
+is that the deal, far from inflicting pain on all cigarette producers, 
+actually enriches a few of them. Take Liggett &AMP; Myers, which until 
+recently was valued at about $120 million and which hadn't turned 
+a profit in several years. Under the deal, Liggett will actually collect 
+an annual subsidy of about $100 million, courtesy of taxpayers. Here's 
+how. A tax hike applies to all cigarette producers, big and small, 
+current and future. But the states can only collect damages from the 
+companies they are suing: in this case, the Big Four: Philip Morris, 
+R.J. Reynolds Tobacco, Lorillard Tobacco and Brown &AMP; Williamson 
+Tobacco. But by limiting damages to the largest companies, the states 
+would be handing smaller tobacco producers like Liggett a cost advantage 
+of 35 cents a pack, since the Big Four would have to raise their prices, 
+while the little guys would not. Given that it costs just 20 cents 
+to manufacture a pack of cigarettes, that's a huge advantage. How 
+did the states solve the problem? In effect, they told the small companies 
+that if they agreed to be ``taxed'' they would be allowed _ up to 
+a limit higher than their current sales _ to keep the revenue they 
+collected instead of turning them in to the states. Thus, Liggett 
+can match the higher prices charged by the Big Four companies but 
+doesn't have to hand over any of the extra income except in the unlikely 
+event that its sales exceed 400 million packs, or 125 percent of its 
+current sales. Even assuming that Liggett loses some sales when it 
+raises its prices, Klemperer said, the subsidy it will collect still 
+amounts to $100 million a year, an amount equal to its recent market 
+value. Actually, Liggett gained even more from the tobacco agreement. 
+Because of agreements reached earlier with some states, Liggett wasn't 
+as vulnerable as the other companies to states' threats to pass punitive 
+legislation if it failed to climb aboard. To induce Liggett to sign 
+on, Philip Morris, eager to dispel the threat of a firm that could 
+potentially produce cigarettes at a 35-cent cost advantage, paid three 
+times the value of the entire company for 3 of Liggett's 14 brands. 
+The contract stipulated that Philip Morris would pay Liggett $150 
+million even if the Federal Trade Commission shoots down the deal. 
+Ian Ayres, a professor at the Yale Law School, is among those worried 
+about the precedent set by the settlement. ``It's scary.'' he said. 
+</TEXT>
+</DOC>

@@ -1,0 +1,77 @@
+<DOC>
+<DOCNO> NYT19981102.0053 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For grammarians, lexicographers and linguists, it's the Thing That 
+Will Not Die. Just when they think it's buried once and for all, the 
+corpse rises again to haunt a new generation. The creature walking 
+among us, if you haven't already guessed, is the old ``rule'' of grammar 
+that says we shouldn't split an infinitive. It's been pronounced dead 
+every few years for more than a century, but it just won't be laid 
+to rest. In the hearts of true believers, it's still a sin to ever 
+put an adverb (like ``ever'') between the word ``to'' and the infinitive 
+form of a verb. The latest post-mortem comes from Oxford University 
+Press, which publishes the granddaddy of dictionaries, the Oxford 
+English Dictionary, as well as baby dictionaries of every size and 
+description. A couple of Oxford's new dictionaries _ one just published 
+here and one published in Britain in August _ include usage notes 
+about the split infinitive that essentially reiterate what their predecessors 
+have said: Rule? What rule? (Or words to that effect.) The wording 
+in the new books, the Oxford American Desk Dictionary and the New 
+Oxford Dictionary of English, is only slightly stronger than in previous 
+versions, but the message is the same: If it sounds good to split, 
+go ahead and do it. The Oxford editors didn't expect the new usage 
+notes to excite a lot of comment. But then, they didn't count on the 
+power of a sales pitch. ``Infinitives should be split,'' trumpeted 
+a news release introducing the British dictionary. The hyperbolic 
+headline not only overemphasized the issue but also overstated the 
+case. At any rate, what was old news in the world of lexicography 
+_ the demise of the split-infinitive taboo _ apparently came as a 
+surprise to the English-speaking world at large. The response from 
+the British press and dozens of American newspapers, as well as countless 
+Internet users, was a collective ``Good golly!'' The opinions quoted 
+in the articles ranged from disgust (``I do not dine with people who 
+split infinitives'') to delight (``I think it's terrific''). Frank 
+Abate, editor in chief of Oxford's dictionary programs in the United 
+States, has spent much of his time lately answering calls from reporters 
+about the American book. ``You'd think we were splitting the atom 
+or something,'' he said. So what's all the fuss about? Not much, it 
+turns out. Grammarians have argued until they were blue in the face 
+that you can't really split an infinitive, since ``to'' isn't part 
+of the infinitive. Sometimes it's not present at all. In a sentence 
+like ``I helped him to break the code,'' the ``to'' could easily be 
+dropped. And in sentences like ``I let him break the code'' and ``I 
+saw him break the code,'' the infinitive (break) must go it alone. 
+Technicalities aside, what we call a split infinitive has been around 
+a lot longer than its detractors. Writers used it with impunity from 
+the 1300s until well into the 19th century. All that changed in 1864, 
+when the dean of Canterbury, Henry Alford, published a widely popular 
+grammar book called ``A Plea for the Queen's English.'' Alford, a 
+classics scholar who sought to civilize the English of Shakespeare 
+and Milton by imposing on it the rules of Latin grammar, couldn't 
+bear to see an adverb slip between ``to'' and an infinitive. (Latin 
+infinitives, you see, have no such prepositional markers.) As early 
+as 1868, grammarians were challenging Alford's edict, arguing that 
+one can't graft Latin sentence structure onto English, a language 
+that's essentially Germanic. But the damage had been done. The ban 
+on splitting infinitives was firmly planted in the popular imagination. 
+So were other leftover Latinisms, including the prohibition against 
+ending a sentence with a preposition. Early in this century, such 
+heavyweights as the linguist Otto Jespersen, the British lexicographer 
+Henry Fowler and the American grammarian and philologist George Curme 
+argued that splitting is not only acceptable but often preferable. 
+Most 20th-century dictionaries and style guides agree that clarity 
+is what counts. There's a difference, for instance, between ``He learned 
+to quickly read'' and ``He learned quickly to read.'' And when ``quickly'' 
+comes at the end, it could refer to either the learning or the reading. 
+What won't come quickly, one suspects, is an end to the splitting 
+headache. George Bernard Shaw, a perennial sufferer, once complained 
+to The Times of London about an overzealous editor with a wooden ear: 
+``There is a pedant on your staff who spends far too much of his time 
+searching for split infinitives. Every good literary craftsman uses 
+a split infinitive if he thinks the sense demands it. I call for this 
+man's instant dismissal; it matters not whether he decides to quickly 
+go or to go quickly or quickly to go. Go he must, and at once.'' 
+</TEXT>
+</DOC>

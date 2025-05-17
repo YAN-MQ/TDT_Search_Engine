@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981130.1600.2134 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Frankfurt-based Deutsche Bank, Germany's largest, has agreed to 
+buy Bankers Trust Corporation of New York for about $10 billion. 
+</TEXT>
+</DOC>

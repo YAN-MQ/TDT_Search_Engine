@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981208.2130.0548 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Light duty today for the shuttle "endeavour" crew. Astronauts boosted 
+the attached components of the international space station into a 
+higher orbit in preparation of a second space walk tomorrow. NASA 
+has declared the first one a success. Yesterday, two astronauts connected 
+40 cables linking Russian and American components of the international 
+space station. Tomorrow and Friday, the astronauts plan to install 
+communications antennae and move some supplies. 
+</TEXT>
+</DOC>

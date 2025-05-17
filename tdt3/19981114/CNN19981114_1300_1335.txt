@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981114.1300.1335 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In tennis, American Todd Martin rallied to upset third-seeded Tim 
+Henman in the semifinals of the Stockholm open. Martin will now face 
+seventh-seeded Thomas Johansson. The Swede beat fourth-seeded Greg 
+Rusedski, 7-5, 7-6. 
+</TEXT>
+</DOC>

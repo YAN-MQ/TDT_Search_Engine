@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981102.0500.3085 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The dollar at this hour is higher against the yen on concern that 
+U.S. hedge funds will sell dollars to repay yen loans that financed 
+much of their investment in emerging markets. 
+</TEXT>
+</DOC>

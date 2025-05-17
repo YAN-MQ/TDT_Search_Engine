@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981021.1700.2140 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. share prices closed higher on Wednesday. I'm Dave DeForrest, 
+voa news. 
+</TEXT>
+</DOC>

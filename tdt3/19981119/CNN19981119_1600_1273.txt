@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981119.1600.1273 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's Sosa over McGwire. I'm Anthony Keith James, and this is "CNN 
+Headline Sports." Sammy Sosa today was named the national league's 
+most valuable player. The cubs slugger who finished second to McGwire 
+with 66 homers got 30 of 32 first-place votes. Last season, Sosa hit 
+.308 with a major league-leading 158 rbi, helping chicago reach the 
+postseason for the first time since 1989. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981128.0130.0450 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The worldwatch institute says bad weather caused $89 billion in damage 
+this year. That's more than all the damage from weather-related disasters 
+in the 1980s. The institute claims humans are largely responsible 
+for that. It says deforestation and climate changes helped cause this 
+year's most severe disasters, including hurricane Mitch and the torrential 
+flooding in china. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981126.0130.0905 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- retired pathologist Jack Kevorkian says 
+he won't assist in any deaths until his latest trial is over. Wednesday, 
+authorities in Michigan charged him with first-degree murder. Prosecutors 
+moved after watching a videotape of Kevorkian giving a lethal dose 
+of drugs to a man with Lou Gehrig's disease. 
+</TEXT>
+</DOC>

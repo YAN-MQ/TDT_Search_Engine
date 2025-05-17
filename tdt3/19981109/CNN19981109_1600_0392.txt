@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981109.1600.0392 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The food and drug administration is requiring new warning labels for 
+steroids used to treat allergies and asthma. The labels will state 
+that the drugs can stunt growth in children. The FDA is also recommending 
+doctors only prescribe the lowest effective dose and monitor the growth 
+of young patients. Many of these drugs already carry such warning 
+labels after a similar FDA recommendation was issued in August. 
+</TEXT>
+</DOC>

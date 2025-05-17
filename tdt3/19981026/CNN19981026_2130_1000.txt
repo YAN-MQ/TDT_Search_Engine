@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981026.2130.1000 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The treasury department is saying banks must do more to protect their 
+customers' privacy. The department says even though some banks are 
+protecting confidential information, many are not. Some financial 
+services release customer information to other agencies. Although 
+there are laws to prevent this, the treasury department says often 
+they don't work. It encourages banks to adopt their own voluntary 
+guidelines to ensure customer information isn't given out without 
+permission. 
+</TEXT>
+</DOC>

@@ -1,0 +1,87 @@
+<DOC>
+<DOCNO> NYT19981111.0404 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Financial turmoil makes every meeting of the Federal Reserve an occasion 
+for frenzied speculation about interest rate cuts. Wall Street turns 
+out daily tomes of advice, mostly calling on the Fed to knock rates 
+down a few pegs. ``Don't stop treatment until the patient is cured,'' 
+Robert Barbera and Jose Rasco of Hoenig &AMP; Co., for example, recently 
+warned the Fed. ``We see additional ease as absolutely necessary to 
+prevent deflationary pressures.'' Strong words. But the simple fact 
+is that nothing the Fed decides at its next meeting, on Tuesday, will 
+matter very much. Not that the Fed isn't very important in setting 
+the monetary climate for the economy. But if it moves at all, it will 
+surely move very little. No one need lose sleep worrying about whether 
+the Fed will stand pat or drop short-term interest rates another quarter 
+percentage point. The Fed's basic problem is that economists never 
+know whether a recession is around the corner. Nor can they pinpoint 
+the impact of cuts in short-term interest rates _ the only ones the 
+Fed controls _ even on long-term rates, much less on spending, prices 
+and employment. That puts Fed Chairman Alan Greenspan and his colleagues 
+in the position of guessing a lot. No wonder Greenspan's testimony 
+invariably retreats into amorphous conversation about balancing of 
+risks. In an unpredictable world, the Fed deliberates which course 
+of action _ in next week's case, a small easing or standing pat _ 
+poses the graver economic risk. The case for cutting rates starts 
+with the fact that the economy is slowing and could use a nudge. Exports 
+of tractors and other manufactured goods are plummeting. Employment 
+in manufacturing fell by 50,000 jobs last quarter, and has shrunk 
+by more than 200,000 since January. Service jobs are picking up the 
+slack, but growth is expected to fall to around 1.5 percent. Meanwhile, 
+productivity rose at a gaudy annualized rate of 2.3 percent last quarter, 
+meaning that companies can raise wages without having to raise prices 
+_ a brake on inflation that gives the Fed room to ease. The best case 
+for easing is made by Professor Alan Blinder of Princeton, a former 
+vice chairman of the Fed. Blinder concedes that the Fed's two earlier 
+rate cuts this year have calmed financial markets. A measure of investor 
+fear _ the gap between interest rates that investors charge risky 
+corporate borrowers and safe government borrowers _ has shrunk since 
+Greenspan by word and deed told investors he would not allow the economy 
+to starve for credit. But the gap, Blinder says, remains well above 
+the historical norm for an economy that continues to grow respectably. 
+Blinder focuses on the ``real'' federal funds rate, which subtracts 
+the expected rate of inflation from the interest rate that banks charge 
+each other for overnight loans. Today, the real funds rate is, by 
+Blinder's analysis, quite high, in excess of 2.5 percent. ``That puts 
+a mild tug on growth,'' he said. The tug made sense when the economy 
+was roaring along. But ``now that the economy is visibly slowing,'' 
+Blinder said, ``it is appropriate to turn the Fed's mild tug on the 
+economy into at least a neutral stance whereby monetary policy is 
+no longer holding the economy back.'' Still, Blinder is not calling 
+on the Fed to do anything bold. He notes that there is a risk of too 
+much monetary ease, primarily in the fueling of a still-overheated 
+stock market. Professor Benjamin Friedman of Harvard University makes 
+the best case for standing pat. He does not strongly oppose a quarter-point 
+rate cut. But neither is he enthusiastic. ``The problem of the American 
+economy _ investors that are too scared to lend _ will not be cured 
+by modest interest rate cuts,'' he said. Friedman fears that investors 
+are coming to depend on a steady diet of rate cuts, in which case 
+the Fed risks trapping itself either in meeting those expectations 
+or touching off a harsh response on stock and bond markets if it disappoints 
+them. ``If one cut leads to another,'' he added, ``the Fed will wind 
+up cutting rates by a percentage point or more, satisfying the expectation 
+of bond traders along the way but risking overstimulating the economy 
+and driving the stock market to unrealistic new highs.'' Frederic 
+Mishkin of Columbia University says that rising stock prices and low 
+unemployment rates weaken the case for easing. He applauded Greenspan 
+for moving early to ward off the impact of financial turmoil abroad, 
+thus proving ``that the Fed would not repeat the mistakes of Japan, 
+where monetary authorities have sat back while the economy sank.'' 
+But, he warns, the threat of inflation should not be casually dismissed. 
+``The Fed has sometimes overly stimulated the economy when it was 
+weak and triggered rising inflation that eventually forced the Fed 
+to crack down hard, sending the economy into reverse,'' he said. Using 
+Greenspan's terminology, Mishkin concluded that ``the current balance 
+of risks is balanced.'' The upshot is that the case for further cuts 
+next week is tentative on either side of the ledger. Indeed, even 
+the Wall Street experts who call on the Fed to cut rates to save the 
+economy may exercise a different judgment when they invest. Based 
+on bets that investors are making on the course of federal funds rate 
+in the next several weeks, Bridgewater Associates calculates that 
+investors set the probability of a Fed easing next week at about 50 
+percent. Apparently, when Wall Street experts vote with money, they 
+judge the case for Fed easing a tossup. 
+</TEXT>
+</DOC>

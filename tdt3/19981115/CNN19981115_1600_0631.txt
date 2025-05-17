@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981115.1600.0631 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A Russian space official says the Mir space station will stay in orbit 
+for at least another year. It had been scheduled for decommissioning 
+next summer. Mir has been in orbit for more than ten years, and it 
+costs the Russian government $13.6 million a year to operate. The 
+United States and other nations want Russia to devote its resources 
+instead to the international space station. 
+</TEXT>
+</DOC>

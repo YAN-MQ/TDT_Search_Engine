@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981118.2130.1330 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In golf, Tiger Woods beat vijay Singh to win the PGA grand slam. 
+</TEXT>
+</DOC>

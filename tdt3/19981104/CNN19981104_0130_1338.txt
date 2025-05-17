@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981104.0130.1338 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Election night baseball -- the votes have been counted, and the Yankees' 
+joe torre has been named the associated press manager of the year. 
+The Yankees won a record 125 games and their 24th world series championship. 
+The padres' Bruce bochy finished second. 
+</TEXT>
+</DOC>

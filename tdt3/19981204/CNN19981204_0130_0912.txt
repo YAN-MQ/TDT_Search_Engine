@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981204.0130.0912 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The house Judiciary committee has narrowed the scope of impeachment 
+proceedings against President Clinton. Republicans say allegations 
+of campaign fund-raising abuses will not be part of the inquiry. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981126.2000.0337 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is NPR News from Washington. Support for NPR comes from Bose 
+Corporation, makers of the Bose wave radio producing room-filling 
+stereo sound, 83252073. This is THE WORLD. I'm Tony Kahn. 
+</TEXT>
+</DOC>

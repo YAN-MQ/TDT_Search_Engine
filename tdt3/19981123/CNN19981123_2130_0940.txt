@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981123.2130.0940 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+America online and Netscape have confirmed they are in merger talks. 
+The $4 billion buyout would create a single Internet company that 
+could pose a threat to Microsoft. 
+</TEXT>
+</DOC>

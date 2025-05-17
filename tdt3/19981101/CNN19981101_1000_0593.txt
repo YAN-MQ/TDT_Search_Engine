@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981101.1000.0593 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.S. military command in south Korea says an investigation is 
+under way to find out what caused an accident that killed four U.S. 
+soldiers and one south Korean soldier. The soldiers were on their 
+way back from a training mission last night when their armored vehicle 
+plunged into a river, 25 miles north of Seoul. Two other U.S. soldiers 
+were able to swim away from the wreckage. They are in stable condition. 
+</TEXT>
+</DOC>

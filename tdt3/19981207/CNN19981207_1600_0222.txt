@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981207.1600.0222 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Attorney general Janet Reno is deciding today whether to recommend 
+another independent counsel investigation of President Clinton. The 
+investigation would focus on so-called "issue ads" from the 1996 election, 
+paid for by the democratic party, not the president's re-election 
+campaign. By using those ads, the president may have violated campaign 
+spending limits. Auditors for the federal election commission have 
+concluded, both the president and republican candidate Bob Dole exceeded 
+spending limits by using such ads. But top justice department officials 
+have recommended against seeking an independent counsel. 
+</TEXT>
+</DOC>

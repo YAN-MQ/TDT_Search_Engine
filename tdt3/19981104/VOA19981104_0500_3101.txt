@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981104.0500.3101 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Thank you Les, this is VOA News Now. We'll have another Business Report 
+in about an hour. Stay with us on VOA News Now. 
+</TEXT>
+</DOC>

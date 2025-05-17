@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981027.0130.1333 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Monday night ice -- a pair of power-play goals lifted the Penguins 
+past the maple leafs, 2-0. Keith Tkachuk scored twice as the coyotes 
+skated past the avalanche, 5-1. 
+</TEXT>
+</DOC>

@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> CNN19981130.2130.0170 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court has accepted a case that will determine how the 
+2000 census will be conducted. Charles Bierbauer has that story. The 
+census is taken by mail and on foot. The object is to count every 
+school kid in Baltimore, Maryland -- as much as every suburbanite 
+in Marietta, Georgia. Experience, though, shows that doesn't quite 
+work. I've been there. I've done that. And I know you can't get them 
+all by enumeration. So the Clinton administration is asking the Supreme 
+Court to allow statistical sampling to categorize the 10% that's hard 
+to find. Chief justice rehnquist was skeptical, quizzing solicitor 
+general Seth waxman on the sampling technique. "How do you know what 
+the true number is?" Waxman -- "demographers and statisticians have 
+the means." Rehnquist -- "why do we need a census then?" Waxman -- 
+"there's a constitutional requirement." The constitution calls for 
+an actual enumeration for apportioning congressional seats. The republican 
+majority in Congress argues that rules out sampling. Historically, 
+though, a direct count has led to an undercount of urban and rural 
+poor and minorities. Justice Stevens imagined an apartment building 
+teeming with immigrants wary of being counted. Attorney Maureen Mahoney, 
+arguing for the republicans, "your honor, they can't guess." Stevens 
+-- "you'd put down 'zero' then?" Mahoney -- "that's right." There 
+are high stakes involved beyond congressional seats. Federal funds 
+are tied to population -- $640 a year for each school kid in baltimore, 
+where officials say 11,000 were missed in the 1990 census. What was 
+astonishing to me was that the republican arguers stated that they 
+did not care about accuracy. What the administration wants to do is 
+put off the decision till after the census is conducted. Then what 
+do you do? We throw out a $4 billion census? a wary justice Scalia 
+warned -- Congress has kept the census bureau on a limited budget, 
+awaiting the Supreme Court's decision, expected by spring. That will 
+give the census folks a scant year to prepare for whatever form census 
+2000 takes. Charles Bierbauer, CNN, Washington. 
+</TEXT>
+</DOC>

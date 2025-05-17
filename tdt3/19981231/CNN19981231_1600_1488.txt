@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981231.1600.1488 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Help a neighbor, go to the movies. That's what a marketing group representing 
+the city of Los Angeles and some big businesses, including 20th century-fox, 
+are urging. They say if every resident of L.A. sees two movies a month, 
+it would bring in an extra $162 million a year for the entertainment 
+industry, not including popcorn. 
+</TEXT>
+</DOC>

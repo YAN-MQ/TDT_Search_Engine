@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> MNB19981203.2100.2230 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks made news again. A big fall. What some analysts say is a correction 
+that started midweek last week and may have some more to go, continued 
+today sending the Dow industrials well below the 9,000 Mark to end 
+the day with a 184-point loss in the end. Technology stocks also took 
+a dive. NASDAQ composite down 40 points. 
+</TEXT>
+</DOC>

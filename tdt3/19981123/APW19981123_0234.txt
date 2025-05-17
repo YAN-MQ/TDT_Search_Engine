@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> APW19981123.0234 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+KIEV, Ukraine (AP) - A coal miner died in hospital after being seriously 
+injured in an accident at a mine in eastern Ukraine, officials said 
+Monday. The unidentified worker from the Krasnopolivska mine in the 
+Luhansk region died Sunday after he was badly injured by falling rocks 
+at an underground shaft on Saturday, the Emergency Situations Ministry 
+said. About 335 Ukrainian miners have been killed on the job so far 
+this year, up from 290 for all of last year, according to government 
+statistics. The death toll in coal mine accidents in Ukraine has been 
+rising for years as the cash-strapped government has been unable to 
+modernize deteriorating mines and improve safety conditions. 
+</TEXT>
+</DOC>

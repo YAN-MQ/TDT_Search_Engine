@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981222.1130.0529 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather" update. 
+Snow flurries are possible across the northeast. The front will sink 
+through the gulf of Mexico to near lake okeechobee and a secondary 
+troth will mean a chance of snow from northern Texas stretching to 
+near cape hatteras. High pressure dominates the western U.S. and temperatures 
+in the teens, 20s and 30s from the atlantic seaboard southward into 
+Texas, across the four corners region and into the pacific coast. 
+South of this, look for temperatures in the 40s and 50s with 70s and 
+80s across Florida. The extended forecast includes ice and snow for 
+the eastern U.S. on thursday with a chance of snow in the northwest. 
+Christmas day, could see snow falling in the Great Lakes and portions 
+of the west with ice conditions in the southeast. And showers across 
+portions of Texas. On Saturday, look for heavy rain in the northwest, 
+showers and thunderstorms possible in the eastern U.S. the extended 
+forecast for more than 7,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

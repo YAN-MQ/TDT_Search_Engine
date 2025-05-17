@@ -1,0 +1,55 @@
+<DOC>
+<DOCNO> VOA19981202.0500.2765 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+A promising new therapy combining high tech imaging and lasers may 
+enable doctors to destroy cancerous breast tumors without surgery. 
+Brian Cislak reports. The technique is called interstitial laser photocoagulation. 
+The surgeon uses magnetic resonance imaging, a nonradioactive way 
+of looking inside the body to visualize the tumor. He or she then 
+inserts a needle into the tumor and threads a thin conduit of glass 
+fibers through it. A high energy laser beam travels along the fibers 
+toward the tumor, heating it up and vaporizing it. This is all accomplished 
+without cutting the patient open. For 15 years, this technique has 
+been used to zap tumors of the liver, head, and neck, and prostate. 
+It has not been practical for breast lumps until now. The dilemma 
+in the breast has been that often we don't know where the tumor lies 
+and how it extends. Steven Harms is director of Imaging Research at 
+the University of Arkansas for Medical Sciences. So the fact that 
+we couldn't see the tumors well with traditional imaging prevented 
+us from using this minimal approach to breast cancer or tumor removal. 
+That changed with the arrival of new computer software that enhanced 
+the contrast and resolution of the magnetic resonance image. This 
+allowed surgeons to distinguish tiny cancerous breast tumors from 
+normal tissue. At the meeting this week in Chicago with the Radiological 
+Society of North America, Dr. Harms and his colleagues described a 
+test run of the so-called laser lumpectomy on 15 patients. After the 
+laser procedure, the patient underwent standard surgical tissue removal 
+to insure that the experimental procedure worked. Biopsies of the 
+excised tissue show that the cancerous breast lumps identified by 
+MRI and zapped by the laser had been totally destroyed. So we knew 
+that that would work and would allow us to take it to the next step 
+where we treat with the laser instead of doing a lumpectomy, and we 
+believe that that will offer us the potential for having a treatment 
+without deformity. Dr. Harms says the procedure is minimally invasive, 
+painless, and does not require hospitalization. The patient has an 
+18 gauged needle inserted which is about the same size as the needle 
+used to draw blood. We use a local anesthetic to put the needle in 
+and we see the tumor being destroyed on the MRI screen and adjust 
+the laser depending on what we see on the screen. Then when we're 
+finished killing the tumor, we pull the needle and the laser, put 
+a Band-Aid on the skin, and the patient is free to leave and get back 
+in their car and go home. What's more, says Dr. Harms, the laser procedure 
+may also benefit patients who would require more radical breast surgery 
+than just the removal of a tiny lump. Right now, if you have two breast 
+lesions, in different quadrants, that would automatically disqualify 
+you from having lumpectomy surgery. But if those are small lesions 
+that are accessible with laser lumpectomy, perhaps even some of those 
+people who are now being treated with mastectomy could have a laser 
+lumpectomy. Dr. Harms stresses that the results of his study are preliminary 
+and that more research is needed on larger numbers of patients. But 
+the early indications are that laser lumpectomy is a promising alternative 
+for women who seek to avoid disfiguring surgery. I'm Brian Cislak. 
+</TEXT>
+</DOC>

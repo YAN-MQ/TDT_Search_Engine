@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981024.1130.0485 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+we'll check the extended weather forecast for the united states next. 
+then later -- nasa's new high-tech spacecraft heads for a rendezvous 
+with an asteroid. 
+</TEXT>
+</DOC>

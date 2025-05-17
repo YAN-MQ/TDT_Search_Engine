@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> NYT19981023.0477 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Ellington Capital Management, the hedge fund firm in Old Greenwich, 
+Conn., that was forced to sell many of its holdings to meet margin 
+calls earlier this month, told its investors on Friday that the losses 
+in its three funds, while sizable, appeared to be limited. By selling 
+nearly $2 billion of its holdings over the last two weeks, the firm 
+appears to have been able to meet all its margin calls. The funds 
+are also said to have significantly reduced the amount they borrow, 
+leaving them less vulnerable to any further market downturns. The 
+firm _ run by Michael Vranos, who had been a star mortgage bond trader 
+at Kidder, Peabody _ was among several hedge fund companies that have 
+been rocked by the recent turbulence in the bond markets. When the 
+value of their mortgage-related securities fell sharply in mid-October, 
+Ellington received margin calls from its lenders and was forced to 
+unload hundreds of millions of dollars of its holdings in a two-day 
+period. The funds have had losses that are said to average around 
+25 percent so far this month, but Ellington seems to have successfully 
+stabilized. ``We are pleased that the actions we took were effective 
+in protecting our investors' capital,'' said David Bailin, the firm's 
+executive vice president. 
+</TEXT>
+</DOC>

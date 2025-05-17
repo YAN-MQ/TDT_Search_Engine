@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> CNN19981227.1000.0972 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Keeping in touch is getting easier for business travelers. Revolutionary 
+advances in technology are helping to shrink the once bulky satellite 
+phone. Steve young reports. They used to come in a suitcase. But now 
+iridium is crowing it's shrunk the satellite phone. It can be yours 
+for only $3,000. Add another $2 to $6 a minute for talk time. But 
+thanks to a first of its kind network of 66 low-flying satellites, 
+that's from practically anywhere to anywhere. Our focal customer is 
+someone who travels globally, travels internationally, these are both 
+business travelers as well as people in vertical markets like oil 
+and gas exploration, mining, Mineral extraction. The more remote the 
+place, the better they work. Patrolling an oil pipeline? No problem. 
+On an oil tanker at sea? A piece of cake. Not bad, either, in Boulder, 
+Colorado. And surprisingly okay, too, on a midtown Manhattan street. 
+But oddly, not on the roof. And almost never inside a building. That's 
+what much cheaper cell phones are for. Iridium's window of opportunity 
+to charge $6 a minute is not unlimited. Three other companies promise 
+competition. Globalstar, starting next year. And later, ico, based 
+in London. And ellipso, a private company. Iridium represents a $5 
+billion investment. The company went public at $20 in June, 1997, 
+and now trades at just over $40. A little more than half the 30% U.S. 
+stake is owned by Motorola. A consortium of companies from other nations 
+own the rest. We have a projection of 23.6 million subscribers to 
+satellite telephone systems by 2006. That represents 1.8% of all cellular 
+subscribers. A very small penetration to justify this. But even if 
+you have the $3,000 to spend on one, not that many have been made 
+yet. Steve young, financial news, New York. 
+</TEXT>
+</DOC>

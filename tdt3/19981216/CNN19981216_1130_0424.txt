@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981216.1130.0424 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A smooth landing for a smooth mission. Space shuttle "endeavour" touched 
+down at Kennedy space center last night, ending an 11-day mission 
+that launched the construction of the international space station. 
+"Endeavour" astronauts delivered the first American part of the station. 
+Three space walks were performed to hook it up to a Russian Module 
+already in orbit. The next mission to the station is set for may. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981216.2130.1521 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronaut and senator John Glenn says of all the awards he has received 
+since returning from space, nothing can compare with coming home. 
+Glenn was honored with a parade through the streets of Columbus, Ohio, 
+today. He and his wife annie road aboard a float with a space shuttle 
+replica. Glenn later spoke to a joint session of the house and Senate 
+at the statehouse. In October, at age 77, Glenn became the oldest 
+person to travel in space. 
+</TEXT>
+</DOC>

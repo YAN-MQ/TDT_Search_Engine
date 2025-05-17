@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981202.1830.1592 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A brief review of the top story. So many companies cutting jobs. Today 
+B.F. Goodrich and ITT have announced layoffs. Despite the strong economy 
+and low unemployment, we are on course to have the worst year for 
+layoffs in a decade. 
+</TEXT>
+</DOC>

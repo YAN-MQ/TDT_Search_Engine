@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981114.1000.0557 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A controversial Arkansas ban on a type of late-term abortion has been 
+tossed out by a federal judge. He says the measure is unconstitutional, 
+and so vague it effectively bans all abortions. The judge says it 
+also fails to protect the health of pregnant women. The law is similar 
+to one passed by Congress then vetoed by president clinton. It would 
+have punished doctors performing the procedure, but not the patients. 
+</TEXT>
+</DOC>

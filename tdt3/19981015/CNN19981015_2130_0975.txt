@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981015.2130.0975 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks shot up today after the federal reserve cut interest rates 
+for the second time in less than a month. It is the third-biggest 
+point gain in history for the Dow, which has now rallied more than 
+800 points from last Thursday's low. 
+</TEXT>
+</DOC>

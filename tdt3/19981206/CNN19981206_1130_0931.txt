@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981206.1130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the hour's top stories -- the crew of "endeavour" is preparing 
+to rendezvous with the Russian zarya Module. They'll join it to the 
+American-built unity Module in the first stage of assembling the international 
+space station. 
+</TEXT>
+</DOC>

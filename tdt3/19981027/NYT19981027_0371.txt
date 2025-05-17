@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NYT19981027.0371 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+IBM Corp. said Tuesday that its board had authorized the repurchase 
+of an additional $3.5 billion worth of common shares. Shares of IBM 
+gained 62.5 cents, to $143.6875, on the announcement. Like other companies, 
+IBM regularly repurchases shares as a way to increase per-share earnings 
+by reducing the number of shares outstanding. Although popular with 
+selling shareholders _ typically large institutions that receive cash 
+_ the practice is also controversial, particularly for technology 
+companies and other so-called growth sectors. Such companies are expected 
+to create new products and services that should generate earnings 
+growth, rather than buying growth by share repurchases. IBM, which 
+last week reported stronger-than-expected third-quarter earnings, 
+said it planned to buy shares on the open market from time to time, 
+depending on market conditions. The company has about 922.9 million 
+shares outstanding. IBM announced a $3.5 billion buyback in April 
+as well, and has authorized eight repurchases totaling $23 billion 
+since the program started in 1994. ``This was pretty much expected 
+because they had run down much of the last repurchase,'' said Steven 
+Milunovich, an analyst with Merrill Lynch &AMP; Co. ``I think it's 
+a reasonable use of cash. How many investment opportunities do they 
+have that can return cost of capital? They should be investing up 
+to that point, and beyond that they should return cash to the shareholders.'' 
+But Bob Djurdjevic, president of Annex Research, called the repurchase 
+a ``Wall Street perversion,'' that benefits selling institutions to 
+society's detriment and artificially inflates current earnings and 
+growth. ``IBM has already spent several small countries' GDPs on share 
+repurchases _ $23 billion and counting _ without creating a single 
+product or a single job,'' he said. ``It's a signal they don't have 
+the imagination or creativity to employ the capital more productively.'' 
+Last week IBM reported a quarterly profit of $1.49 billion, or $1.56 
+a diluted share, compared with $1.36 billion, or $1.35 a share, in 
+the 1997 quarter. Revenue for the period increased 8 percent, to $20.1 
+billion. The results were slightly above analysts' expectations of 
+$1.53 a share, according to First Call. 
+</TEXT>
+</DOC>

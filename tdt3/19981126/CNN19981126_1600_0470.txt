@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981126.1600.0470 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News" forecast. The rain and snow push offshore in the 
+northeast and begin to diminish over thanksgiving evening in the northwest. 
+By Friday, however, rain and snow return to the northwest as a trough 
+pushes into the pacific northwest region. Otherwise, beautiful weather 
+across the rest of the nation, perhaps some clouds from the Great 
+Lakes into the desert southwest along a dry frontal system. High temperatures 
+on Friday in the 30s in New England and the northern rockies. And 
+in the south, quite warm, '70s and even a few '80s. Your extended 
+forecast for Saturday showing rain and snow in the western third of 
+the country, windy over the upper plains. And we're going to see a 
+warm-up throughout the nation. Sunday, rain and snow continue in the 
+northwest. Showers from the four corners region into Missouri. Showers 
+also over the Great Lakes. On Monday, snow in the Great Lakes turning 
+into scattered showers as you push to the south. Rain and snow continuing 
+in the northwest with mild temperatures prevailing. And remember, 
+you can get your four-day forecasts for more than 7,200 cities at 
+CNN.com. 
+</TEXT>
+</DOC>

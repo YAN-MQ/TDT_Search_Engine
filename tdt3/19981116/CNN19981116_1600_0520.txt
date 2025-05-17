@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981116.1600.0520 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with the "CNN Headline News Weather 
+forecast" for Tuesday. As one area of low pressure moves from the 
+Great Lakes into the northeast, producing some light snow or rain 
+showers, another stronger system will push into the intermountain 
+west with rain and mountain snow. There's another system behind that 
+keeping the weather unsettled, and we'll also see some showers across 
+the southeast and especially over Florida. Tuesday's highs range from 
+30s over the northern part of the nation to 60s and 70s in the south. 
+There'll even be a few 80s in southern Florida and Texas. Looking 
+ahead to Wednesday, we'll see rain and snow pushing to the northern 
+plains states. On Thursday, rain and snow across the Great Lakes, 
+showers and thunderstorms down to the gulf coast, and more rain showers 
+in store for the northwest. Same situation Friday. The east coast 
+will see some rain or snow north, showers and thunderstorms south. 
+</TEXT>
+</DOC>

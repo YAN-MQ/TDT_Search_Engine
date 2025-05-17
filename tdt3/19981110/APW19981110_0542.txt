@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> APW19981110.0542 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Dutch farmers whose slow-growing cucumbers have been causing them 
+headaches may have found a solution _ aspirin. For the cucumbers, 
+that is. Scientists with the respected Dutch research institute TNO 
+have discovered that feeding aspirin to young cucumber plants helps 
+prevent thickening of the root walls. Plants with thick root walls 
+absorb water and minerals less easily than those with thin root walls, 
+leading to slower growth. ``Aspirin doesn't remove the cause of the 
+thickening, but it reduces the level of damage,'' plant physiologist 
+Sjoukje Heimovaara told the Algemeen Dagblad newspaper for Tuesday's 
+edition. Aspirin contains an acid also made naturally by plants to 
+protect themselves. No trace of the aspirin, which was fed to plants 
+in a solution, was found in the cucumbers themselves. A Dutch farmers' 
+organization is investigating whether the active ingredient in aspirin 
+can be registered for use to protect their cucumbers. Until it is, 
+farmers won't be allowed to prescribe it to their plants. Researchers 
+also are planning to extend their experiment to eggplants, tomatoes 
+and peppers. 
+</TEXT>
+</DOC>

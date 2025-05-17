@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981024.0130.0376 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New information has been released on the death of princess Diana. 
+Sources say tests on the Mercedes that the princess was riding in 
+show the car wasn't going as fast as first thought. Investigators 
+say driver Henri Paul was only going about 62 miles per hour. They 
+say contrary to reported testimony, the car had no problems with its 
+brakes and it did brush against a Fiat uno before the wreck. Princess 
+Diana, Dodi Fayed and Henri Paul all died in the crash last year. 
+</TEXT>
+</DOC>

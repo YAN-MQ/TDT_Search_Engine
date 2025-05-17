@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981229.0130.0394 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Weather problems are making life difficult in some southern states 
+as well. Thousands of people are still without power four days after 
+a crippling ice storm. And rising temperatures have complicated the 
+situation. As ice-laden trees thaw they shift and knock down more 
+power lines. 
+</TEXT>
+</DOC>

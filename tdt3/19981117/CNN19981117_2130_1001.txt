@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981117.2130.1001 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Online retailer Amazon.com is not content with its growing share of 
+the online books and music market. Today, it began selling movies 
+via its Internet service. Amazon plans to cross-market videos with 
+books and music, meaning it would promote a soundtrack alongside a 
+hit movie. Wall Street is enthusiastic about the strategy. Amazon 
+stock closed up 22 1/4 points today to 148 1/2. 
+</TEXT>
+</DOC>

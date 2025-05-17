@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981024.1130.0552 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+don't forget, four-day forecasts for more than 7,200 cities on cnn 
+interactive. the address is cnn.com. 
+</TEXT>
+</DOC>

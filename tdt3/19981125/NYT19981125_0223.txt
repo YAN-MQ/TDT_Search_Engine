@@ -1,0 +1,160 @@
+<DOC>
+<DOCNO> NYT19981125.0223 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Snow skiing in cyberspace has certain advantages over the traditional 
+winter pastime of sliding down a powdery slope that may be booby-trapped 
+with moguls, rocks and ice. Carving turns among the hundreds of Internet 
+sites that are devoted to the sport is no more chilly than room temperature, 
+and unlike waiting in most chairlift lines, downloading a Web page 
+can take just a few seconds. On-line ski information includes equipment 
+reviews, resort news, club announcements and ski-area jobs. As can 
+be expected, interest in ski sites on line seems to increase sharply 
+as temperatures drop in the fall, ski Web site operators say. Some 
+skiing fanatics, like Eric Winkelman, a financial consultant and investor 
+from Glen Arbor, Mich., visit the sites even when the slopes are covered 
+with summer flowers. He spends between one and two hours a day on 
+his computer to feed his ``skiing addiction,'' reading ski travel 
+articles and gear analysis, he said. Ken Payne, general manager of 
+the Times-Mirror Interzine mountain group, whose sites include Skinet.com 
+and Snowboarding.com, said the winter sports sites got 10 times as 
+many hits in summer as in winter. ``It's a vicarious substitute for 
+not being on the hill and making turns,'' Winkelman said of his forays 
+on the Web. ``It's a way to keep your mind involved in the sport after 
+April or May. It makes the pain of not skiing that much more easier 
+to take.'' To some, skiing is as much a social event as a sport. Indeed, 
+many skiers communicate with one another in dozens of online chat 
+rooms and bulletin boards, which range in content from hopeful (``a 
+snowy winter predicted'') to critical (``skiing is too expensive''). 
+Anyone who is concerned about sensory deprivation while scrolling 
+through ski sites need not worry. Web pages are typically garnished 
+with images of skiers gliding through waist-deep powder, plunging 
+down perilous chutes and spinning in the air. The text is often just 
+as adventurous. Reflecting the surfer attitude that some skiers have 
+adopted, one site recently referred to some of its amateur contributors 
+as ``righteous'' and another directed readers to a fitness article 
+with the line, ``Are you fit enough to be phat?'' Do not expect that 
+adventurous attitude to translate into much critical writing. On many 
+sites, feature stories, especially about ski resorts, read as if they 
+had been written by a publicist. People who are looking for practical 
+information about skiing have no shortage of choices. For example, 
+www.skimaps.com features hundreds of trail maps (though many are slightly 
+unfocused), and www.skicentral.com, perhaps the most complete links 
+directory on the Web, offers access to hundreds of resorts' Web sites. 
+WWW.SKINET.COM Scrolling through what this site has to offer is like 
+riding every run at Aspen, given its scope and the quantity of information 
+to digest. In addition to original ski news, travel articles and resort 
+information, it offers online versions of the sport's two most popular 
+magazines, Ski and Skiing. Over all, the site is probably the most 
+comprehensive ski destination on line. It is a good starting place 
+for those wishing to sample what the Web has to offer on the sport. 
+The Frequently Asked Questions section is particularly strong, with 
+suggestions on how often skis should be waxed, when to purchase a 
+new pair of skis and how long poles should be. Even experienced skiers 
+can learn something. The content includes the newsy (like information 
+on the recent fires at Vail) and the statistical (lift-ticket prices 
+for nearly 800 hills). Some content is relatively commercial, like 
+lists of dates and locations for ski shows and hotel packages. The 
+magazines in the Newsstand tend to include features that are longer 
+and less time-sensitive. For example, a recent story in Ski magazine 
+focused on how nonskiers could occupy their time while vacationing 
+at a ski resort. Another recent story in Ski was about a company that 
+uses Global Positioning System transmitters to keep track of where 
+skiers are, how fast they are going and how much vertical drop they 
+cover each day. ``Ski braggarts beware,'' the article said. Ski and 
+Skiing look similar on the Web, with stories about travel, gear and 
+health. One difference is that the online version of Skiing offers 
+a column in which an expert answers readers' questions about things 
+like how to remove a lift ticket off one's jacket easily. But don't 
+cancel your subscriptions to Ski and Skiing just yet. On-line readers 
+have access to only a limited number of articles, which have already 
+been in print for at least a month. WWW.COMPLETE-SKIER.COM England 
+may not be blessed with the world's best ski resorts, but it is home 
+to one of the best ski instruction sites on line. It also includes 
+news, instructional articles and a search engine for looking up resort 
+information. The Complete Skier, based in London, offers detailed 
+advice on how to slide downhill with aplomb, teaching maneuvers like 
+the basics of a wedge turn or the proper navigation of moguls. The 
+site says its pages ``describe all the skills alpine skiers need to 
+tackle the slopes with confidence.'' For the most part, it lives up 
+to that claim. A department devoted to teaching skiers how to use 
+ski poles (``the most misunderstood and misused piece of equipment''), 
+for example, runs for two pages. Step-by-step photographs are accompanied 
+by often insightful explanations ( ``imagine you are holding the steering 
+wheel of a bus''). A particularly welcome feature is a section for 
+intermediate skiers, who do not get much attention on the Internet. 
+The lessons include swing turns and the tuck position. Much of the 
+site is actually an annotated, online version of ``The Complete Skier,'' 
+a 332-page book published by BBC Books, and the book is advertised 
+throughout the site with no concession to subtlety. Aside from instruction, 
+there are general tips on fitness and skiing with kids (``there is 
+no reason why children should not start skiing as soon as they can 
+walk properly''). Other features include ski news, ``best of'' travel 
+lists, job listings, snow reports and links to online magazines. Over 
+all, the site is a good stop for people who are looking for coaching 
+but are unwilling to sign up for ski lessons. But there is no guarantee 
+that improving your technique is any easier by way of the Internet 
+than with a live teacher. WWW.HYPERSKI.COM There are few references 
+to snowy weather or slushy conditions at this site. Every day, it 
+seems, brings blue skies, trackless powder and a helicopter waiting 
+to take skiers back to the top of the mountain. Hyperski, a monthly 
+online magazine for skiing and snowboarding, offers articles geared 
+toward accomplished skiers and their less experienced admirers. In 
+a recent issue, stories focused on the Jackson Hole ski resort in 
+Wyoming, the coming World Cup racing season and whether skiers need 
+to ingest electrolytes (in sports drinks) to avoid fatigue. A story 
+about budget helicopter skiing in Alaska perhaps best reflected the 
+overall testosterone-rich tone of the site. In it, the author told 
+of jumping off cornices and hiking along ridges. ``Dan launched off 
+a drift and came down leaning too far forward,'' the author wrote 
+about a skiing companion. ``Faceplant followed by a roll, and he just 
+kept on trucking. Said he hardly even felt it.'' One departure from 
+this theme is an article by Warren Miller, a filmmaker and skiing 
+humorist. Miller poked fun at the inflated language that you can find 
+in some ski resort brochures, like a claim of a ``hot-water swimming 
+pool adjacent to lodge.'' ``Reality will reveal a Jacuzzi large enough 
+for a cocker spaniel to swim laps in,'' Miller said. ``But unless 
+you get into the hot water within 30 minutes of when they remove the 
+cover, there isn't any hot water.'' For consumers, the site offers 
+an archive of mostly useful articles about ski equipment. Examples 
+include ``Parabolic Skis _ a Professional's Evaluation,'' ``Choosing 
+Recreational Skis for Kids'' and ``Ten Commandments of Boot Fitting'' 
+(``Try ski boots on with ski socks. No cotton.''). People who are 
+looking for information to help them decide which ski resort to visit 
+may find that the resort section is more convenient than most. It 
+offers not only links to snow and weather reports but also travel 
+articles previously presented on the site to give a better sense of 
+a resort's atmosphere. While Hyperski boasts that it is ``becoming 
+the most comprehensive ski magazine on line,'' the reality is more 
+modest. Nevertheless, the site does offer an interesting assortment 
+of features. WWW.GOSKI.COM This site has built its reputation by providing 
+a timely inventory of ski conditions at nearly 2,000 resorts around 
+the world. But after browsing through the weather and snow-depth reports, 
+visitors will find a large quantity of news and information on resorts 
+and gear that is difficult to find elsewhere. Much of that information 
+comes from readers, who send in reviews about ski equipment and travel 
+destinations. These comments, which seem generally well informed, 
+are among the few critical opinions on line about the ski industry. 
+In a review of the Hunter Mountain resort in New York, for example, 
+a writer said: ``Hunter is no good because the lift tickets cost $42. 
+The park has terribly long lift lines and is solid ice by the end 
+of the day. Other than that, the skiing is fairly good.'' The news 
+department also offers some interesting reading, including ``Facts 
+on Snow Fatalities'' and ``Avalanche Information Center.'' Fear not, 
+however; the site reports that bicycling and swimming are by far more 
+dangerous than snow skiing. For those seeking even more intellectual 
+material, there is a series of articles titled ``Everything You Ever 
+Wanted to Know About Skiing the World.'' It contains stories about 
+skiing trends and history, from the debut of the sport 4,000 years 
+ago to the prediction that resort towns may prohibit cars in the future. 
+The rest of the site offers fairly traditional articles about ski 
+resorts and equipment advice. One departure is a section called People, 
+in which a writer addresses the ``Truth About the French'' (``no one 
+has a more undeserved reputation about their character'') and provides 
+a list of useful French phrases. The writing at Go Ski is among the 
+best found at ski sites on line. The site also does a worthy job of 
+reporting material that is beyond the typical fare of most of its 
+competitors. 
+</TEXT>
+</DOC>

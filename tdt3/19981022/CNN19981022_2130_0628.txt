@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CNN19981022.2130.0628 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Monkey see, monkey do. Researchers are giving rhesus monkeys some 
+basic math lessons and getting surprising results. Ann Kellan explains 
+in today's "tech trends." Here's the drill -- touch these squares 
+in order from one to four. This rhesus monkey can -- one, two, three, 
+four. Researchers at Columbia University have taught these monkeys 
+the concept of counting, defying what scientists thought monkeys could 
+do. It is probably one of the most complicated kinds of performance 
+that's been observed with monkeys. Unlike animals that perform tricks, 
+researchers say these monkeys actually understand that certain numbers 
+are greater or less than others. Monkeys understand, for example, 
+that seven is more than six. The way we figured this out was by using 
+a video game procedure where we show monkeys pictures. First, the 
+monkeys had to learn to touch the pictures in ascending order from 
+one to four. If they did it correctly, they got a banana treat. If 
+the monkey makes an error, suppose it presses one and then three, 
+the screen blacks out. In this way, it can learn by trial and error 
+what the correct order is. They made lots of mistakes. And they get 
+very frustrated when they get it wrong. Occasionally, for example, 
+they try to shake the monitor when they get it wrong. Or bite it. 
+Once they learned one through four, researchers tested to see if they 
+could apply what they had learned to the numbers five through nine. 
+And they did. Susan Carey works with human infants. So this shows 
+an abstract understanding of number and the capacity to learn a rule, 
+which I think that many people would have been surprised that any 
+nonhuman would be able to do. Researchers say the testing done on 
+monkeys will help develop experiments on how babies learn. We're very 
+interested in how a baby learns to count. Researchers think monkeys 
+have a natural knack for numbers and want to test this theory on monkeys 
+in the wild. Ann Kellan, "Headline News." 
+</TEXT>
+</DOC>

@@ -1,0 +1,140 @@
+<DOC>
+<DOCNO> NYT19981225.0106 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Insurance companies and employers have found ways to get around a 
+1996 law that requires them to offer health-care coverage for mental 
+illness that is comparable to that for physical illness. The law, 
+the Mental Health Parity Act, was expected to make mental health care 
+more readily available to millions of Americans, but, experts on employee 
+benefits and health policy say, it has not done so. Under the law, 
+which took effect last January, group health plans may not set annual 
+or lifetime dollar limits on a member's mental health care that are 
+less than any such limits for general medical and surgical services. 
+So, many group plans, fearing higher costs, have simply replaced the 
+dollar limits for mental health care with numerical limits on outpatient 
+visits, treatment sessions or days in the hospital. ``The day and 
+visit limits wind up being more restrictive in some cases than the 
+dollar limits for which they substituted,'' said Ronald Bachman, an 
+actuary at the accounting firm of PricewaterhouseCoopers. ``The net 
+impact in these cases is to have less mental health coverage.'' Russ 
+Newman, director of clinical practice issues at the American Psychological 
+Association, said this was ``definitely an unintended consequence'' 
+of the 1996 law. ``The whole purpose of the law,'' Newman said, ``was 
+to stop discrimination against mental health services and against 
+people who need those services.'' Supporters of the legislation, led 
+by Sen. Pete Domenici, R-N.M., and Sen. Paul Wellstone, D-Minn., had 
+hoped that it would curb coverage disparities between mental and physical 
+illnesses. They said they would fight to broaden and strengthen the 
+law next year. The mental health law is one of several recent health-care 
+initiatives that have fallen short of the sponsors' expectations. 
+Another 1996 law was intended to guarantee health insurance coverage 
+for people who change or lose their jobs. But people trying to exercise 
+their rights have often been stymied as insurers skirt the law by 
+charging them premiums of $10,000 to $15,000 a year _ far more than 
+the standard rates for healthy people. Mental health care was long 
+relegated to second-class status under private insurance policies, 
+but in the last few years it has received more attention from employers, 
+insurers and politicians. For one thing, the stigma of mental illness 
+is being erased as scientists find physiological causes for a number 
+of mental disorders. In addition, some employers now consider spending 
+on mental health care a smart investment, on the ground that it fosters 
+a productive work force. Federal officials say that 6 million people 
+have severe mental disorders and that the nation spends $70 billion 
+a year to treat mental illness of all kinds, not counting outlays 
+for alcohol and drug abuse. Coverage of mental health care is considered 
+a reasonably good indicator of the overall quality of a health insurance 
+plan. Studies in several states suggest that the cost of ``parity'' 
+for mental health services is minimal, increasing total health care 
+costs by less than 1 percent. But group health plans _ the benefits 
+for which may be designed by the employer, the insurer or both _ are 
+typically distrustful of government mandates in general and apprehensive 
+about the costs for a kind of care that they consider particularly 
+vulnerable to abuse. Richard Adams Jr., an expert on health benefits 
+at Watson Wyatt Worldwide, a consulting concern that advises many 
+large businesses, said: ``Many companies have converted the dollar 
+limits on mental health benefits into limits on the number of visits 
+or days that will be covered. If they had a $1,000 annual limit on 
+outpatient visits, it may be replaced with a limit of 20 visits. If 
+there was a $10,000 annual maximum for inpatient mental health benefits, 
+employers may convert it to a limit of 20 days.'' Joan Esnayra, a 
+34-year-old graduate student with manic depressive disorder, said 
+her insurance plan previously had a limit of $750 a year on outpatient 
+mental health services but recently replaced it with an annual limit 
+of 15 visits. Ms. Esnayra, a former teaching assistant who receives 
+her coverage through the University of California at San Diego, said 
+this limit could make her new coverage just as inadequate as the old. 
+``Mental illness can flare up unpredictably,'' she said. ``A person 
+with major mental illness may need more than 15 visits with a doctor 
+just to find the right mix of medications, and for the most effective 
+treatment you often need talk therapy as well as pharmaceuticals.'' 
+Mary Clark Jordan, a health benefits consultant at Hewitt Associates, 
+said, ``The average consumer would be hard pressed to find an improvement 
+in mental health benefits as a result of the changes'' since 1996. 
+Rep. Marge Roukema, R-N.J., said: ``The Mental Health Parity Act was 
+a significant step in the right direction, but it was not as comprehensive 
+as we wanted. The experience of the last two years shows that the 
+law has substantial loopholes and that discrimination is still practiced.'' 
+In addition to the change in the nature of the limits, some health 
+plans set higher co-payments and deductibles for mental health care 
+than for other medical services, a disparity allowed under the 1996 
+law. In an interview, Wellstone said he would push next year for legislation 
+to require ``full parity,'' covering co-payments, deductibles and 
+limits on hospital stays and outpatient visits. Aides to Tipper Gore, 
+a Clinton administration spokeswoman on mental health issues, said 
+she favored such legislation. Mrs. Gore, wife of the vice president, 
+has long championed the rights of people with mental illness. Group 
+Health Inc. of New York, like many insurers, has revised some of its 
+mental health benefits in response to the 1996 law. ``Annual and lifetime 
+dollar limitations on mental health benefits will be removed,'' the 
+company said in a notice to subscribers in its program for New York 
+City government employees. But it said, ``For outpatient care, the 
+$900 annual maximum and the $1,800 lifetime maximum will be replaced 
+with a limit of up to 30 visits per year and 60 visits per lifetime.'' 
+Carmine Russo, director of GHI's program for New York City employees, 
+said the plan's mental health benefits were among the most comprehensive 
+offered anywhere. But Rep. Carolyn Maloney, D-N.Y., said, ``While 
+this level of benefits may be in technical compliance with the Parity 
+Act, it clearly violates the spirit of the law, which was intended 
+to ensure that physical and mental illnesses would receive the same 
+level of coverage.'' Hewlett-Packard Co. illustrates another way some 
+businesses have responded to the law. The company had a lifetime limit 
+of $1 million on medical benefits for any employee or dependent, and 
+no more than $300,000 of that amount could be spent on mental health 
+care. ``We still have the lifetime ceiling of $1 million,'' said Paula 
+Wallace, the health benefits manager for Hewlett-Packard, ``but the 
+$300,000 limit for mental health was eliminated. We now have a single 
+lifetime limit of $1 million on physical and mental health benefits 
+combined, with no distinction between the two.'' Hewlett-Packard has 
+not experienced the sharp increase in costs that many employers fear. 
+``Our mental health costs have been stable through 1998,'' Ms. Wallace 
+said, in part because the company uses managed-care techniques to 
+make sure patients receive appropriate but not excessive services. 
+Alfonso Guida Jr., vice president of the National Mental Health Association, 
+an advocate for people with mental disorders, said the approach taken 
+by Hewlett-Packard was ``consistent with the intent of the law.'' 
+But ``many insurers and employers are taking steps to bypass the federal 
+law,'' Guida said, ``changing the structure of their benefits to impose 
+discriminatory inpatient and outpatient visit limits in place of the 
+previous spending caps.'' Nineteen states have laws that require the 
+same or similar levels of coverage for mental and physical illnesses. 
+Some of the state laws, going further than the federal law, prohibit 
+insurers from setting higher deductibles or patient fees for mental 
+health care than for other medical services. Bachman, the actuary 
+at PricewaterhouseCoopers, said health-care plans often paid a smaller 
+share of bills for mental treatment than for other kinds of care. 
+For example, he said, if a psychiatrist submits a $90 bill for psychotherapy, 
+the plan may count only $50 as an eligible expense and then may pay 
+only 50 percent of that, or $25. In contrast, Bachman said, if a family 
+practitioner submits a bill for $90, the insurer may pay 80 percent 
+of that amount, or $72. The 1996 law does not require employers to 
+provide any mental health benefits, but most companies that offer 
+health insurance to employees do cover some mental health care. An 
+employer may obtain an exemption if it can show, with at least six 
+months of data, that compliance with the 1996 law has caused an increase 
+of 1 percent or more in the overall cost of its employee health plan. 
+But Labor Department officials said that only four companies had requested 
+such exemptions. 
+</TEXT>
+</DOC>

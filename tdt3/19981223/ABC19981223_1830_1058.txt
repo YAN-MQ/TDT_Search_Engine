@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981223.1830.1058 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A remarkable new study finds that women who delay childbearing until 
+late in life live longer. The study was conducted using the family 
+records from more than 30,000 members of the British aristocracy. 
+Interestingly, male aristocrats were found to live longer if their 
+wives had fewer children. 
+</TEXT>
+</DOC>

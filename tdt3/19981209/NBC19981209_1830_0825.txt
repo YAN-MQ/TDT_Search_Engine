@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981209.1830.0825 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It was an up-and-down day on Wall Street. The Dow Jones industrial 
+average dropped 19 points. But the NASDAQ hit another record close, 
+climbing 15 1/2 points. 
+</TEXT>
+</DOC>

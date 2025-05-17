@@ -1,0 +1,66 @@
+<DOC>
+<DOCNO> NYT19981228.0283 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Global warming is often thought of as a product of the 20th century, 
+the result of industrialization that has released more carbon dioxide 
+and other heat-trapping gases into the atmosphere. But in fact, the 
+world has often gone through warm periods throughout its history. 
+Now there is new evidence to confirm one such warming spell _ more 
+than 90,000 centuries ago. Researchers from the University of Rochester, 
+digging in fossil beds in the Canadian Arctic that date 90 million 
+years, have discovered fish and turtles and, most important, the bones 
+of several champsosaurs, crocodilelike dinosaurs. The champsosaur 
+needed extended periods of warmth to survive and reproduce. Judging 
+by the number and size of the specimens found, the researchers, writing 
+in a recent issue of Science, estimate that the ancient Arctic must 
+have been downright balmy, with summer temperatures in the 80s and 
+90s Fahrenheit, and winters that were rarely below freezing. The fossils 
+date from a time that followed hard on the heels of a period of intense, 
+worldwide volcanic activity that released huge amounts of carbon dioxide. 
+Scientists had long thought that this period must have produced warmer 
+temperatures, and the fossil find suggests that they are right. Perceptive 
+Fish Most creatures judge distance by taking sensory readings of an 
+object from different angles. The readings can be simultaneous from 
+two or more sensory organs (a human's two, slightly separated, eyes, 
+for example) or over time from a sole organ (like receptors on certain 
+insects) as the creature moves. But biologists from Germany, France 
+and Uruguay have discovered that a type of electric fish can judge 
+distance with only one reading from a single group of receptors. It 
+would be as if a human had great depth perception with one eye closed. 
+The fish, a freshwater, nocturnal species found in Africa and South 
+America, produces a weak electric field around it. Nearby objects 
+distort the field, and the distortions are detected by electroreceptors 
+on the fish's skin. In this way, the fish can ``see'' in complete 
+darkness. The problem is: How does the fish determine if a slight 
+distortion, say, is caused by an object that is close by, or by a 
+larger object that is farther away? The solution, as determined by 
+the researchers, is best envisioned by thinking of the distorted electric 
+field as a shadow cast on the fish. In this model, an object that 
+is close by produces a shadow with sharply defined edges. An object 
+that is farther away might produce the same size shadow, but the edges 
+will be fuzzier. The fish is able to process these two qualities _ 
+size of the distortion, plus how quickly the distortion changes at 
+its edges _ to determine distance. New Import: Polluted Air Air pollution 
+is the latest import from Asia, say scientists at the University of 
+Washington who have tracked small but measurable amounts of carbon 
+monoxide and other pollutants reaching the West Coast. Ordinarily, 
+air coming from Asia is cleansed as it crosses the Pacific. But the 
+researchers found that pollutants can make it directly across, particularly 
+when there is a stable zone of low-pressure air over the Aleutians 
+coupled with a high-pressure zone over Hawaii. The two air masses 
+act like rollers in a conveyor belt, pulling the dirty air across 
+the ocean in as few as four days. The researchers cannot yet pinpoint 
+the source of the pollution within Asia. And they note that the imports 
+pale in significance compared with pollution that is Made in the U.S.A. 
+But they warn that the dirty air from Asia could increase with rapid 
+industrial growth in the region. Honoring Dr. Chandra The National 
+Aeronautics and Space Administration is naming its new orbiting X-ray 
+telescope after Subrahmanyan Chandrasekhar, the University of Chicago 
+astrophysicist and Nobel laureate whose work on the evolution of stars 
+pointed to the existence of black holes. Chandrasekhar, who died in 
+1995 at the age of 84, was known as Chandra to his colleagues. The 
+Chandra Observatory is scheduled to be launched in April. 
+</TEXT>
+</DOC>

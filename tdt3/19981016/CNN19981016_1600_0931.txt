@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981016.1600.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- for Americans on social security, your 
+check next year is going to look a whole lot like your check this 
+year. The 1.3% cost-of-living increase is the smallest in 12 years. 
+The average check will increase about $10. 
+</TEXT>
+</DOC>

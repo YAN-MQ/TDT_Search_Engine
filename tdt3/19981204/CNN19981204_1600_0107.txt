@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981204.1600.0107 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The space shuttle "endeavour" is safely in orbit after what NASA calls 
+a "Just about perfect" launch. We have main engine start. Four, three, 
+two, one. We have booster ignition and liftoff. The sky lit up for 
+hundreds of miles early this morning when "endeavour" lifted off carrying 
+an American-built section of the international space station. Sunday, 
+the shuttle's crew of six will attach a 12-ton connecting passageway 
+called unity to the Russian zarya Module launched two weeks ago. NASA 
+says if all goes well with the space station, humans could eventually 
+replace robots as explorers on Mars. The robots are going to be the 
+pilot pigeons. We have robots going to Mars December 10th and January 
+3rd scouting out places for people to land. They're understanding 
+about the weather. They're searching for places where life might be. 
+But in the end, it's going to take the brilliance and the dexterity, 
+flexibility and adaptability of people to make it happen. "Endeavour" 
+astronauts will conduct three space walks on this mission. 159 more 
+will be required to build and maintain the space station. 
+</TEXT>
+</DOC>

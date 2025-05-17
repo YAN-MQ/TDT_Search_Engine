@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981020.0130.0293 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Microsoft is expected to make its opening statements Tuesday in its 
+anti-trust battle with the government. Justice lawyers made their 
+case on Monday. They contend the software giant used its market strength 
+to try to crush netscape communications a rival Internet browser maker. 
+They played the videotaped deposition of Microsoft chairman Bill Gates 
+and presented internal memos that appeared to contradict his statements. 
+Microsoft says the government took his words out of context. An analyst 
+says the software company may face huge consequences if it loses. 
+The court could take further remedies, for example, justice could 
+ask that microsoft be broken up into separate companies. Some people 
+were talking about the notion that it would be kind of like the breakup 
+of AT&T several years ago where you would have a Microsoft operating 
+system company that would sell windows and other operating system, 
+then the applications, including possible explorer, certainly certain 
+Microsoft's office word processing, et cetera, would be handled by 
+a different company. Oddly enough, the Microsoft case and Monica Lewinsky 
+share some similarities. We'll look at those later in "Dollars & Sense." 
+</TEXT>
+</DOC>

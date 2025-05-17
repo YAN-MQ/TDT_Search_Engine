@@ -1,0 +1,66 @@
+<DOC>
+<DOCNO> NYT19981203.0549 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Imagine, after walking in on the middle of a poker game, that you 
+are asked to choose which player will be the ultimate winner. Would 
+you automatically pick the player with the biggest pile of chips? 
+If your answer is no, then you believe in risk adjustment. You realize 
+that it matters how a player won his chips. If he did so with one 
+lucky bet, he is unlikely to be the overall winner. A shrewder choice 
+would be the player who has fewer chips but has won them with relative 
+consistency. The same kind of considerations apply to selecting an 
+investment adviser. But while many people have no difficulty understanding 
+risk adjustment in poker, they resist applying it to their portfolios. 
+They only want to know which adviser has made the most money, period. 
+This is particularly puzzling in the current market. If nothing else, 
+the market's 20 percent selloff earlier this year should have convinced 
+investors that ignoring risk was dangerous. The best reason to focus 
+on risk adjustment: You can sleep better at night by doing so. Or, 
+alternatively, you can make more money. All it takes are some pretty 
+simple tactics. If you weren't weighing risk, you might be drawn to 
+the portfolio of Prudent Speculator, an investment newsletter edited 
+by Al Frank. It has made more money than any other newsletter since 
+mid-1980, when I started monitoring the industry. Over those 18-plus 
+years, it has produced a gain of 17.7 percent annualized, compared 
+with 16.1 percent for the broad market, as represented by the Wilshire 
+5000 index. But consider how much risk Frank incurred in achieving 
+those returns. When measured by volatility, his portfolio was two 
+and a half times riskier than the market as a whole. Now ask yourself 
+how much money you could have made on your own, without subscribing 
+to Frank's newsletter, if you were willing to incur a similar amount 
+of risk? A whole lot more. Imagine a portfolio that, by borrowing 
+money, bought $250 of an index fund for every $100 of its net worth. 
+Such a portfolio would have been no riskier than Frank's, yet over 
+this same period would have made 21.2 percent annualized, or 3.5 percentage 
+points more per year _ after paying the broker loan rate on the borrowed 
+funds. And the investor would not be paying a cent in newsletter subscription 
+fees. Another way to look at these results: Adjusted for risk, Frank's 
+returns lagged the index by 3.5-point percentage points the price 
+paid for focusing on raw, unadjusted performance alone. Just as risk 
+adjustment tempers Frank's achievement, it sometimes increases the 
+attractiveness of other advisers who may have made less money. Such 
+advisers haven't produced as high a raw return, but have been more 
+consistent. A good illustration is Growth Stock Outlook, edited by 
+Charles Allmon, which gained 11.9 percent, annualized, since mid-1980. 
+But Allmon's portfolio was only half as risky as the market, and only 
+about a fifth as risky as Frank's portfolio. In other words, in return 
+for five times the risk, Frank gained 5.7 percentage points more per 
+year. That's a poor trade-off. Investors who are not inclined to risk 
+adjustment might point only to the ultimate difference in returns 
+and ask: Why forfeit those 5.7 percentage points? After all, you can't 
+take a Growth Stock Outlook's lower volatility to the bank. But you 
+can. Let's assume that you subscribed to Growth Stock Outlook but 
+were willing to incur as much risk as the Prudent Speculator. By cutting 
+the cash position that Allmon otherwise was recommending, and then 
+by using margin, you could have built a leveraged Growth Stock Outlook 
+portfolio whose risk matched the Prudent Speculator's. Over the period 
+of 18-plus years, this leveraged portfolio would have returned 23 
+percent, annualized _ or more than 5 percentage points a year more 
+than Frank's. That would be something to bank on. __ Mark Hulbert 
+is editor of the Hulbert Financial Digest, a newsletter based in Alexandria, 
+Va. His column on investment strategies will appear every other week. 
+E-mail: strategy(AT)nytimes.com. 
+</TEXT>
+</DOC>

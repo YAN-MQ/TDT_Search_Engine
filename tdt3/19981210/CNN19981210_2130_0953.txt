@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981210.2130.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Northern Ireland's political rivals, David trimble and John Hume will 
+share the prize. 
+</TEXT>
+</DOC>

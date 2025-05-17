@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981114.1600.1005 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's back to court for Joe camel. The federal trade commission is 
+seeking a permanent ban on ads featuring the cartoon camel, which 
+R.J. Reynolds voluntarily withdrew from usage a Year ago. The FTC 
+alleges, the cigarette company used the character to attract minors 
+to smoking, which constituted an unfair trade practice. 
+</TEXT>
+</DOC>

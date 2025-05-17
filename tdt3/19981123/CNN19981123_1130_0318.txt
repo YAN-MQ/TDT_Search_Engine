@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981123.1130.0318 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is En route back to Washington from Asia at this 
+hour. Earlier today, hundreds of people turned out to see Mr. Clinton 
+when he made a brief stop in Guam. Guam's officials greeted him warmly, 
+but took the time to point out that residents have only limited representation 
+in Washington because of the pacific island's status as a U.S. territory. 
+Mr. Clinton announced plans to rejuvenate Guam's economy in the face 
+of the asian economic crisis. In the last year, the economic tides 
+that once brought prosperity all across the pacific have blown cold 
+winds into the economies of Japan and korea. They have been felt all 
+the way to Guam and Hawaii. We have to work together with our friends 
+to restore economic growth and opportunity and to stand up for freedom. 
+And we will. 
+</TEXT>
+</DOC>

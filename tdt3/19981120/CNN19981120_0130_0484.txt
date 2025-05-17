@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981120.0130.0484 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"CNN Headline News" forecast. Rain and snow moving into the pacific 
+northwest Friday morning. Nice weather over the central U.S., with 
+some showers in the east, along a Frontal boundary. By Saturday morning, 
+most of that rain moving offshore,into the atlantic, lingering showers 
+over southern Texas. Most of the nation looking good, but by Saturday 
+morning, heavier snow and rain in the northwest. Highs for tomorrow, 
+30s in the Great Lakes and the northern plains, as well as in portions 
+of the Rockies. Other than that, pretty mild over the nation, with 
+some 70s and 80s in the deep south. Your extended forecast for Saturday 
+showing heavy rain over the northwest, snow showers in the northeast, 
+with showers over southern Texas. On Sunday, the 30s move into New 
+England. A rain/snow mix over the northern plains, the rain and wind 
+continue in the northwest, with a few showers over southern Texas. 
+The showers diminish over southern Texas but still linger. On Monday, 
+rain and showers still in the northwest, with a warm-up across the 
+country. Remember, you can get your four-day forecast for more than 
+7,200 cities at cNN.com. 
+</TEXT>
+</DOC>

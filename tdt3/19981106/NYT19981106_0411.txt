@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> NYT19981106.0411 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Department of Transportation plans to publish a rule next month 
+that would establish, for the first time, a uniform system for installing 
+child safety seats in cars without using seat belts. The rule, under 
+negotiation for years with manufacturers of cars and of child seats, 
+will affect new cars and safety seats. Cars would need two attachment 
+points where the seat back cushion and the seat bottom cushion meet, 
+and one attachment point at the top of the seat. Safety seats would 
+have devices that clamp to the attachments. Every year more than 1,000 
+children under the age of 5 die in car accidents, although no one 
+is sure how many would be saved by better seats; a substantial fraction 
+of the children killed were not buckled into the seat or had no seat 
+at all. Kathleen Weber, director of the Child Passenger Protection 
+Research program at the University of Michigan Medical School, said 
+earlier studies showed that use of a properly installed seat cut the 
+risk of serious injury or death by 70 percent, and that seats installed 
+improperly but still attached to the car cut the risk by 44 percent. 
+At Century Products Co., a leading manufacturer of infant and child 
+seats, Greg Pinto, a product manager, said, ``There are a certain 
+percentage of crashes out there that are plain-old not survivable 
+because they're so horrendous, but a universal child restraint anchorage 
+will make installation easier, and hopefully more secure.'' The Society 
+of Automotive Engineers sets a voluntary standard for seat belts and 
+safety seats in an effort to make the two compatible, but not all 
+seats on the market follow that standard. The National Highway Transportation 
+Safety Administration standard would take years to take full effect 
+because the car hardware would be required only on new models, and 
+even that would not cover all new models for several years. Child 
+seats would be sold with two different attachment systems, so that 
+they could be used in new cars or old ones. Spot checks by the police 
+show that baby seats now in use, nearly all of which attach to the 
+seat belts meant to restrain adults, are often installed improperly. 
+Dr. Ricardo Martinez, administrator of the National Highway Traffic 
+Safety Administration, said most were too loose or were hooked up 
+without a locking clip, so that the lap belt could play out in an 
+accident. ``You're not getting the full protection of the system, 
+and that's our concern,'' he said. Some manufacturers have argued 
+against the new requirement. Cosco Inc., a manufacturer of low-cost 
+baby products, predicted that the higher cost would reduce the sales 
+of car seats, and thus their use. But safety experts said that improperly 
+installed seats were common and were only about half as effective 
+in reducing death or serious injury as properly installed seats. 
+</TEXT>
+</DOC>

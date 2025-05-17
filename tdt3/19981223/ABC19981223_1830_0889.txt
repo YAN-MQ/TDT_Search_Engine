@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981223.1830.0889 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The justice department opened an investigation today into the scandal 
+that's threatening to tarnish the winter Olympics. Prosecutors are 
+investigating charges that Salt Lake City officials offered scholarships 
+and other financial gifts to members of the Olympic committee to win 
+the right to host the winter games in the year 2000. 
+</TEXT>
+</DOC>

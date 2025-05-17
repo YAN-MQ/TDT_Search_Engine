@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981104.0500.2556 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The US Defense Department says that China is working on lasers capable 
+of destroying satellites in orbit and crippling military communications. 
+The report made public Tuesday, says China may already have lasers 
+capable of damaging surveillance satellites. 
+</TEXT>
+</DOC>

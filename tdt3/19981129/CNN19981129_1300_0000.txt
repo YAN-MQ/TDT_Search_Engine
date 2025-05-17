@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981129.1300.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"CNN Headline News," I'm Sean Callebs in for satchi Koto. 
+</TEXT>
+</DOC>

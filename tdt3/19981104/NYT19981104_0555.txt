@@ -1,0 +1,90 @@
+<DOC>
+<DOCNO> NYT19981104.0555 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+As late as last year, Microsoft Corp. was so worried about Netscape 
+Communications Corp.'s lead in Internet software that its senior executives 
+wanted to delay an upgrade of Microsoft's Windows operating system 
+to gain an edge in the browser battle, according to internal Microsoft 
+documents released this week by the government. The linchpin of Microsoft's 
+defense in its antitrust trial is that its Internet Explorer, or IE, 
+browser is a seamless feature of Windows _ not, as the government 
+contends, a separate product bundled with Windows in an effort to 
+give it an unfair advantage against Netscape. The origins of its product 
+strategy, Microsoft asserts, date back more than four years to a meeting 
+of its executives in April 1994. But internal Microsoft electronic-mail 
+messages released this week by the Justice Department seem to cast 
+doubt on these defense arguments. Microsoft, however, argues that 
+the e-mail mostly supports its legal case. ``It shows that they regarded 
+browsing functionality as part of Windows and were willing to delay 
+an upgrade schedule to deliver a superior product,'' said Mark Murray, 
+a Microsoft spokesman. Still, an e-mail exchange between two senior 
+Microsoft executives in January 1997 _ more than a year after the 
+company introduced its software for browsing the World Wide Web _ 
+talks of competing with Netscape as ``pitting browser against browser'' 
+and refers to ``browser market share as job 1.'' The exchange suggests 
+that at that late date, within Microsoft, the browser and the operating 
+system were not viewed as a single, seamless product. In an e-mail 
+on Jan. 2, 1997, James Allchin, a Microsoft senior vice president, 
+writes to Paul Maritz, a group vice president and the most senior 
+Microsoft executive scheduled to appear as a witness in the trial, 
+``I do not feel that we are going to win on our current path.'' Later, 
+he adds, ``I am convinced we have to use Windows _ this is the one 
+thing they don't have.'' In response, Allchin urges Maritz, ``If you 
+agree that Windows is a huge asset, then it follows quickly that we 
+are not investing sufficiently in finding ways to tie IE and Windows 
+together.'' The more tightly Internet Explorer can be entwined in 
+the next upgrade of Windows, Allchin writes, ``the more Netscape will 
+be cut off.'' Defeating Netscape, the e-mail suggests, was such a 
+priority at Microsoft that it was seen to outweigh the impact a delay 
+of Windows would have on the computer industry. Sales of new personal 
+computers, hardware add-ons and software all typically surge in the 
+wake of an upgrade of Windows, part of the central nervous system 
+that controls more than 90 percent of personal computers sold today. 
+Delaying Windows to embed the browser, is ``the only thing that makes 
+sense even if OEMs suffer,'' Allchin wrote, referring to ``original 
+equipment manufacturers,'' jargon for computer makers. Maritz shared 
+that view. In a response on the same day, he wrote that he saw ``little 
+option'' but to fully integrate the browser in the operating system, 
+``even if it means missing the OEM window'' _ the delivery time frame 
+that would allow computer makers to install the upgrade on machines 
+for the 1997 year-end sales season. Microsoft's Windows upgrade, code-named 
+Memphis, was initially scheduled to be released in August or September 
+1997. But its arrival was delayed until June of this year, and it 
+is called Windows 98. In early 1997, Microsoft started hinting to 
+software developers and analysts at industry conferences that Memphis 
+might be delayed. ``It was never the reason given in public, but industry 
+insiders believed that the real reason Memphis was being delayed was 
+to totally integrate the browser and help Microsoft in its life-and-death 
+battle with Netscape,'' said Richard Doherty, president of Envisioneering, 
+a research firm in Seaford, N.Y. ``This e-mail does seem to be proof 
+of what Microsoft's intentions were back then.'' Memphis was delayed 
+even more than Microsoft had thought in early 1997, partly as a result 
+of Microsoft's $425 million purchase in April 1997 of Web TV Networks, 
+an Internet-via-television service. Afterward, Microsoft also decided 
+to include Web TV software in Memphis. Internet Explorer is fully 
+embedded in Windows 98, but the company released a stand-alone version 
+of its browser, Internet Explorer 4.0, in October 1997. In its defense, 
+Microsoft has also said that it became company policy after a meeting 
+in April 1994 to ``make a big bet on the Internet.'' Though few concrete 
+plans were made that day, Microsoft says, there was agreement that 
+Windows should have built-in access to the Internet, which eventually 
+became its browser strategy. The meeting occurred a couple of days 
+after Netscape was founded, and suggests, Microsoft says, that its 
+main intention in the browser battle was to improve its operating 
+system _ not to crush Netscape, as the Justice Department contends. 
+Yet in an e-mail written on June 10, 1994, Steven Sinofsky, a Microsoft 
+executive who helped organize the April meeting, portrays a company 
+ambivalent about the Internet and not yet planning a browser of its 
+own. ``I must admit,'' Sinofsky writes, ``that the thought of `Internet 
+evangelism' is a little like evangelizing water to Noah.'' He describes 
+the Microsoft message for Windows 95 as ``all the plumbing you need 
+to connect to the Internet,'' mostly software protocols for communicating 
+on the network. Later, Sinofsky wrote, ``We do not currently plan 
+on any other client software, especially something like Mosaic.'' 
+Mosaic was the name of the browser developed by the programmers at 
+the University of Illinois, most of whom went on to help found Netscape. 
+Even so, Sinofsky added that Microsoft was ``investigating possibilities.'' 
+</TEXT>
+</DOC>

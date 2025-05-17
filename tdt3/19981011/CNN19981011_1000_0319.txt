@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981011.1000.0319 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sinn Fein leader Gerry Adams says northern Ireland needs U.S. support 
+to achieve peace. The leader of the political wing of the Irish republican 
+army is on an eight-day U.S. fund-raising tour. A peace treaty was 
+signed in April. But the formation of a multiparty administration 
+in the province is in jeopardy. Adams and Ulster unionist leader David 
+trimble can't agree on whether the IRA should begin disarming before 
+Sinn Fein can join the administration. 
+</TEXT>
+</DOC>

@@ -1,0 +1,176 @@
+<DOC>
+<DOCNO> NYT19981227.0105 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+For an aviation buff, the Discovery Wings cable channel is a dream 
+come true _ programs about planes and flying all day long. Replace 
+the aviation aficionado with a health nut hungry for the latest medical 
+news (tuned to Discovery Health), or a do-it-yourselfer immersed in 
+home renovations (Discovery Home and Leisure), or a schoolchild exploring 
+ancient worlds (Discovery Civilization) _ Discovery has a channel 
+for each. Meanwhile, MTV Networks, parent of MTV and VH1, has sprouted 
+seven more offspring for different genres _ VH1 Country, VH1 Soul, 
+VH1 Smooth (jazz and ``New Age'' music), M2 (regular MTV on a different 
+time schedule), MTV Ritmo (Latin music), MTV Rocks (hard rock and 
+heavy metal) and MTV Indie (independent music and rap) _ making a 
+miniature radio dial on the television set. Fewer than 2 million homes 
+can receive these niche-within-a-niche cable channels, but they offer 
+a glimpse of a vastly different media universe of the not-too-distant 
+future, a world where an American audience already fragmented by myriad 
+cable channels will be splintered into even tinier shards, as when 
+Fox Family Channel recently announced the creation of separate networks 
+for boys and girls. Digital technology _ which enables the television 
+signal to be compressed to carry far more information _ is ushering 
+in this new age, when perhaps 1,400 or 1,500 choices will be on parade. 
+Some of those choices will take forms people now associate with the 
+computer rather than the television set, like bringing data to the 
+screen, or Internet access, or interactive shopping, banking or video 
+games. The first tentative steps into this future are taking place, 
+recalling the days when television itself was being created by people 
+who, at first, tried simply to re-create popular radio shows on film. 
+Television industry leaders today are as uncertain as they were then 
+about how to use this new medium, and about what viewers will want 
+from it. ``The transition to DTV is the biggest change in television 
+history since television began,'' said Sandra Kresch, a partner in 
+the entertainment and media division of PricewaterhouseCoopers, the 
+giant business consulting firm. ``Everyone has a vague idea of what 
+the technology will produce; everyone has a vague idea of what consumers 
+will want. But this has the potential to be so different from anything 
+that's come before that nobody is really sure how it's going to develop.'' 
+Right now, digital cable television is transmitted primarily to cable 
+systems around the country owned by Tele-Communications Inc.; since 
+it was first offered in late 1997, about 1.4 million cable customers 
+have signed up for it. They get a package of 36 extra channels for 
+$10 a month, and pay between $3 and $4 a month to rent a set-top box 
+required to bring in the digital signal. Digital signals can also 
+provide high-definition television, or HDTV _ pictures so crystalline 
+and detailed that they look like Hieronymous Bosch paintings come 
+to life. Most experts predict that HDTV sets' prices will stay high, 
+moving from $7,000-plus now to around $3,000 in three years, and causing 
+HDTV to take a decade or more to catch on. But standard-definition 
+digital television sets _ with clearer pictures than current sets, 
+and the capacity to pull in hundreds of channels _ are a better bet 
+for mass consumption. Experts say their prices will come down under 
+the $1,000 mark within about three years' time. For the near future, 
+the average viewer with a digital television set will begin to see 
+three main uses of the greater channel capacity: programs shown in 
+high-definition format (HDTV); many more channel choices (multicasting), 
+or varied choices of starting times for movies and events (multiplexing). 
+``The consumer is being offered a decision,'' said Thomas Rogers, 
+president of NBC Cable and executive vice president of NBC, a unit 
+of General Electric Co. ``Do they want more choices or prettier pictures? 
+My guess is the answer will be a resounding vote for both.'' But because 
+the prettier pictures cost more to produce, and fewer people are likely 
+to buy those expensive HDTV-ready sets, most experts think the industry 
+will concentrate on greater choices _ in programming and in data broadcasting. 
+Viewing habits are expected to involve even narrower, more individually 
+tailored and, eventually, interactive choices as digital television 
+takes hold. Take the example of the home fixer-upper who watches the 
+Discovery Home and Leisure channel now. A rival, called the Do-It-Yourself 
+Channel, is to start next year, as a spinoff of the Home and Garden 
+Television network. And HGTV is developing another digital channel, 
+called HGTV Professional, for builders, contractors, plumbers, landscapers 
+and the like. Critics worry that this will add more schlock and confusion 
+to the television landscape, and that public-affairs programs and 
+entrepreneurs with new program ideas will both be frozen out. This 
+issue is a question of capacity, and of who puts claims on that capacity. 
+Each current broadcast station (like Channel 2 or 4 in New York) and 
+each cable network ``owns'' the subdivisions of itself that digitalization 
+will create. They will want to hold onto that real estate, so to speak, 
+for the day when they find profitable ways to use it. The same is 
+true for cable networks. Federal law requires cable systems to carry 
+the signals of local broadcast stations (in addition to whatever cable 
+networks they carry). Station owners want that requirement extended, 
+so that cable has to carry all the subchannels of Channel 2, for example, 
+not just the main analog Channel 2. But cable operators argue that 
+if they must carry all those channels, nonprofit networks like C-Span 
+and community public access channels could get squeezed out _ unless 
+government regulations were passed to protect them. Public television, 
+too, awaits action from either Congress or the Federal Communications 
+Commission on whether cable systems must carry all its channel offerings. 
+And while public television programmers have many ideas for new educational 
+or public-service uses of the added channels, they need to find ways 
+to finance them. Meanwhile, programmers are trying to position themselves 
+in the new universe. That is why A&AMP;E Networks (which is jointly 
+owned by Walt Disney Co., Hearst Corp. and NBC) has started the Biography 
+Channel and the International History Channel, expanding on two of 
+its most popular existing program brands. ``It's like rolling the 
+dice right now,'' said Nikolas Davatzes, A&AMP;E Networks' president. 
+``I said to myself, `I'm not sure where this ship is going, but I'm 
+getting on it.' I don't want to be in a position of finding out they 
+discovered America and I'm not there because I'm still in Greece tending 
+my sheep.'' But in the rush to gain a foothold on cable systems, some 
+cable networks have simply devised spinoffs using old programming 
+they already own (like Fox's Boyz and Girlz channels), or rearranged 
+programs from their libraries on different time schedules. ``I'm afraid 
+some people may be establishing digital tiers as the re-run channels, 
+and those are not worth paying extra for,'' said Ms. Kresch of PricewaterhouseCoopers. 
+She also warns broadcasters and cable networks to be aware of what 
+new media providers may offer customers. Telephone and computer companies 
+are busily working with manufacturers to transform the television 
+set (whether it receives its signal via cable or satellite) into the 
+central appliance for all sorts of services _ not only for watching 
+programs, but for Internet entry, electronic commerce and even access 
+to telephone service. In Rogers' view, the cable industry will focus 
+on delivering more channels (a business it has already refined) and 
+the broadcast networks will specialize in high-definition transmission 
+of important or glamorous events like the Super Bowl, and in upgrading 
+some of their library (especially news programs) to digital format. 
+But the broadcast networks know that the ultimate decision-making 
+lies with the stations, most of which they do not own. Only 43 broadcast 
+stations are transmitting digitally now; another 40 to 50 should be 
+able to do so by the end of 1999. Will the nation's 400-plus stations 
+eventually want high-definition programs provided by their networks, 
+to give viewers state-of-the-art pictures? Or will stations want to 
+use their subchannels for highly localized programming _ news, weather, 
+sports, community affairs or even educational fare _ with plenty of 
+spots for local commercials? For now, ABC, which is owned by Disney, 
+is focused on transforming theatrical movies like ``101 Dalmations'' 
+into high-definition format, and has already broadcast four of them. 
+CBS Corp. is experimenting instead with football, sending out four 
+National Footbal League games in high-definition format this season. 
+NBC has announced no plans beyond converting the ``Tonight'' show 
+with Jay Leno to high-definition digital transmission in the spring. 
+News Corp.'s Fox says its plans are still in formation, but a company 
+executive who insisted on anonymity said the network was likely to 
+encourage its stations to go the local-interest route. In general, 
+cable networks, as was the case in their earliest years, are the ones 
+brainstorming ever more finely tuned channels, this time to offer 
+as additional packages to digital-ready consumers. Discovery Networks, 
+owned by Discovery Communications Inc., and MTV Networks, which is 
+part of Viacom Inc., have been the pioneers, which makes sense, since 
+the costs of generating new channels are better amortized by a company 
+already well established and already producing shows for many channels. 
+In addition to ``the suite'' _ MTV's name for its array of music channels 
+_ the children's cable network Nickelodeon, which is also owned by 
+MTV Networks, will start Nickelodeon GAS (Games and Sports) and Noggin 
+(preschool educational fare) next year, as well as Nick Too, a reprise 
+of regular Nickelodeon but with all shows shifted to different time 
+slots. The Bravo Network, another Cablevision unit, plans an International 
+Film Channel. Its corporate sibling American Movie Classics has started 
+American Pop, a channel devoted to the history of popular culture. 
+And Lifetime, jointly owned by Hearst and ABC, is developing a 24-hour 
+Lifetime Movie Network. ``What we've created from Discovery's channels 
+is basically a digital magazine rack full of specialty magazines,'' 
+said Charley Humbard, Discovery's vice president and general manager 
+for digital networks and advanced television. ``The person who is 
+an enthusiast of a particular subject will have continual access to 
+that subject, virtually on demand.'' But will enough enthusiasts actually 
+buy set-top boxes or subscribe to extra channel packages to make a 
+profit for those who produce the new channels? Mark Rosenthal, president 
+and chief operating officer of MTV Networks, thinks they will. ``Twenty 
+years ago, when cable started, you had four or five options _ ABC, 
+CBS, NBC, PBS and maybe an independent station,'' he said. ``You didn't 
+sit around thinking, `I wish I had 40 channels.' But when they became 
+available, you re-learned how to use your television. The same thing 
+will happen again.'' And as consumers become more accustomed to using 
+the Internet _ where instead of hundreds of options, there are literally 
+millions _ television providers will start linking their programming 
+to related sites on the World Wide Web, and so will advertisers. ``People 
+sometimes say this is like the transition from black-and-white to 
+color television,'' said Tom Tyrer, vice president of corporate communications 
+for News Corp.'s Fox Broadcasting unit. ``It's not. It's like the 
+transition from radio to television. It's a whole new world.'' 
+</TEXT>
+</DOC>

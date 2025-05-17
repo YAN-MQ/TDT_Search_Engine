@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981127.1600.0917 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The White House has released the answers to 81 questions the White 
+House Judiciary committee asked of President Clinton. 
+</TEXT>
+</DOC>

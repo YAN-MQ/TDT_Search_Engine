@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981113.1830.0765 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Financial news, also tonight Webb Hubbell has been indicted for a 
+third time on fraud and perjury charges stemming from the original 
+Whitewater investigation. Hubbell, who has already served time in 
+federal prison, says he is innocent. 
+</TEXT>
+</DOC>

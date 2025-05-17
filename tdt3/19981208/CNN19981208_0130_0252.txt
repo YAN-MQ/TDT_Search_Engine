@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981208.0130.0252 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronauts labored 240 miles above earth Monday, hooking up electrical 
+connections in the core of the new space station. They had 135 tools 
+at their disposal and completed the job in four hours -- less time 
+than expected. Two more space walks are scheduled during "endeavour's" 
+12-day mission. On Thursday, the astronauts are scheduled to enter 
+the station for the first time and leave behind supplies for future 
+crews. 
+</TEXT>
+</DOC>

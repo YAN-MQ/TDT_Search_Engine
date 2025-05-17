@@ -1,0 +1,82 @@
+<DOC>
+<DOCNO> NYT19981221.0371 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Stocks rose for a third consecutive session Monday, pushed higher 
+by continued flows into popular large-capitalization issues and torrid 
+demand for companies that do business on the Internet. Analysts and 
+traders said that the House vote on Saturday to impeach President 
+Clinton had virtually no effect on investors, who lifted the Standard 
+&AMP; Poor's 500-stock and Nasdaq composite indexes to record high 
+closes Monday. ``The major issue is conviction, and the market seems 
+to think that at most Mr. Clinton will be censured,'' said Ned Riley 
+Jr., chief investment officer at BankBoston, who noted that the Federal 
+Reserve chairman and the Treasury secretary, had more power to move 
+markets. ``In terms of influence, the markets look at Alan Greenspan 
+first, Bob Rubin second and Bill Clinton third,'' he said. A far more 
+critical issue to most mutual fund managers, according to Riley and 
+others, has been their failure to meet or surpass key benchmark market 
+gauges this year. Trying to make up for lost time, many mutual funds 
+during the last few sessions have been increasing their weightings 
+in the stocks that have done the most to move those gauges to their 
+current lofty levels. Heavy buying in a handful of big technolgy companies 
+was instrumental in driving the S&AMP;P 500 and Nasdaq to new highs.. 
+The S&AMP;P rose 14.81 points, or 1.25 percent, to 1,202.84. Nasdaq 
+jumped 51.89 points, or 2.5 percent, to 2,138.03. For the year, Nasdaq 
+is up nearly 36 percent, and it has risen 50.7 percent since its 52-week 
+low on Oct. 8. By contrast, the 85.22-point gain in the Dow Jones 
+industrial average seemed almost mundane. The Dow closed at 8,988.85, 
+up about 1 percent. Five of the 30 stocks that make up the blue-chip 
+index set records. Prices of smaller stocks also rose, but at a much 
+more sedate pace. The Russell 2000 index of smaller-company stocks 
+closed at 401.83, up 4.41 points, or 1.1 percent. ``This is primarily 
+a big-cap rally, which suggests there is a certain amount of haste'' 
+by mutual fund managers to get into the market, said Christine Callies, 
+chief investment strategist at Credit Suisse First Boston. Through 
+Friday, the S&AMP;P 500 was up 22.5 percent for the year. But Riley 
+noted the average growth and income mutual funds, and equity income 
+mutual funds, are only up 9.5 percent. ``There is a huge disparity,'' 
+he said. ``I believe there is a year-end rush to dress up portfolios 
+to show that holdings of the S&AMP;P best performers are now in proportion 
+to the weightings of those stocks in the index.'' Most popular are 
+seven technology stocks that Riley said are responsible for nearly 
+two-thirds of the 23.95 percent gain in the S&AMP;P 500 this year: 
+Microsoft, Intel, IBM, Dell Computer, Cisco Systems, Lucent Technologies 
+and MCI Worldcom. All of those issues gained more than a point Monday. 
+For example, Microsoft jumped 2|, to 140 7/16. Cisco added 4\, to 
+94 11/16. And Lucent was up 5|, to 104. I.B.M. was one of five Dow 
+stocks to hit highs, climbing 4 13/16, to 176]. The other Dow stocks 
+to post new records were AT&AMP;T, GE, Wal-Mart and McDonald's. Internet 
+stocks soared again, driven by strongly positive comments from Mary 
+Meeker, a Morgan Stanley Dean Witter analyst whose views on the business 
+are respected by investors. In an interview with Barron's, Ms. Meeker 
+said the sharp increase in Internet users over the last three years 
+makes Internet stocks attractive. Among Internet companies, Amazon.com 
+jumped 32 1/16, to 318}. Yahoo gained 30 9/16, to 242~. And Onsale 
+Inc. gained 24 5/16, to 68. The apparent mania for Internet stocks 
+also helped to lift the stocks of brokerage houses that offer discount 
+trading over the Web. Shares of Charles Schwab, the largest online 
+brokerage firm, rose 7 5/16, to 51 11/16. E-Trade Group, the second-biggest 
+online broker, gained 4 13/16, to 32[. And Morgan Stanley Dean Witter, 
+which owns Discover Brokerage Direct, gained 4 15/16, to 76 9/16. 
+Other big winners Monday included Amgen, the world's leading biotechnology 
+company. Amgen shares soard 12 3/16, to 100 5/16 after the company 
+said it had won all rights to a once-a-week version of Epogen, its 
+anemia drug, in an arbitration fight with Johnson &AMP; Johnson. Johnson 
+&AMP; Johnson shares fell 2{, to 77. The strong performance of the 
+stock market stood in stark relief to a poor performance by bonds. 
+Before Tuesday's meeting of the Federal Reserve's policy-making Open 
+Market Committee, prices of the government's benchmark 30-year bond 
+fell by nearly a point and its yield rose to 5.06 percent from 5.00 
+percent on Friday. ``Rather than worrying about Clinton, perhaps the 
+more significant question is whether the performance of the bond market 
+and the stock market can continue to diverge,'' said Ms. Callies of 
+Credit Suisse First Boston. ``The market doesn't have a lot of support 
+in terms of good corporate earnings.'' Three cuts in short-term interest 
+rates by the Fed since late September have been instrumental in the 
+stock market's remarkable recovery. But most analysts do not expect 
+the Fed to cut further until it sees additional signs of weakness 
+in the economy. 
+</TEXT>
+</DOC>

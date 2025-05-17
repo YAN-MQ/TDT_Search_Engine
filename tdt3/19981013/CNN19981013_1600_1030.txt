@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981013.1600.1030 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The country's largest brokerage announcing today it's cutting 3,400 
+jobs. That's about 5% of its global workforce. 700 jobs will come 
+from its New York headquarters alone. The cutbacks are expected to 
+save the company $500 million in annual costs. Merrill also reported 
+a loss of $164 million in its third quarter. It's the first quarterly 
+loss at Merrill Lynch in nearly nine years. Now despite the gloomy 
+news, shares of Merrill Lynch gained about 1 point to almost 45, as 
+investors felt that the job cuts would help its bottom line. 
+</TEXT>
+</DOC>

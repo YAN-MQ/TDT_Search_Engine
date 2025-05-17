@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981206.1830.1358 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An industry analyst said today that gas prices in the U.S. may now 
+have bottomed out. As of Friday, the average retail price was just 
+under $1 a gallon. But there are expectations that low prices will 
+be around for a while. 
+</TEXT>
+</DOC>

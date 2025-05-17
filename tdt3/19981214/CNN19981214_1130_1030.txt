@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981214.1130.1030 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Mattel isn't the only company warning of a bad fourth quarter. Royal 
+Dutch shell, one of the world's largest companies, says it will take 
+a charge of $4.5 billion. Shell's earnings have been hurt by the weak 
+oil market. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> MNB19981120.2100.3634 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+flip: Hi, everyone. At the CNN weather center, I'm flip Spiceland. 
+We can't get away of this bad storm in the northeast. It's actually 
+been going on 48 hours now that we've been talking about this storm. 
+The good news here is by tomorrow everything much warmer and already 
+the coastal area is warm enough that it's changing over to rain or 
+has changed over to rain. It is not ice. The problem was in that transition 
+period it was ice, and a lot of it. We had the warm air riding to 
+the north and the 
+</TEXT>
+</DOC>

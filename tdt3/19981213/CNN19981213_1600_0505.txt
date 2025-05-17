@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981213.1600.0505 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the U.S. is up next. Still ahead 
+-- remembering Florida governor, Lawton Chiles. 
+</TEXT>
+</DOC>

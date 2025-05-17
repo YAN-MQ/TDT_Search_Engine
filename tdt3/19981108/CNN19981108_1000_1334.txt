@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981108.1000.1334 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Awesome again, jockeyed by Pat day, won the breeders' cup classic. 
+Skip away failed to become the first horse to ever earn $10 million. 
+</TEXT>
+</DOC>

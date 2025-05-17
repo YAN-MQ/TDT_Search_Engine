@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> APW19981011.0544 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Forecasts of English soccer games to be played Oct. 17-18 (tabulate 
+under Sunday Mirror, People, News of the World, Sunday Express, Sunday 
+Telegraph): 1-denotes home win, 2-away win, X-tie West Ham-Aston Villa 
+X 1 X X X Arsenal-Southampton 1 1 1 1 1 Manchester U-Wimbledon 1 1 
+1 1 1 Everton-Liverpool 2 2 2 X 1 Chelsea-Charlton 1 X 1 1 1 Nottingham-Leeds 
+2 X 2 X 2 Newcastle-Derby X 1 X 1 1 Middlesbrough-Blackburn 1 1 1 
+1 X Tranmere-Watford 2 2 2 2 2 Portsmouth-Wolverhampton X 1 2 X 2 
+Crystal P-Norwich X 1 X 1 1 Sheffield U-Barnsley 1 1 X X 1 Port Vale-Bristol 
+C X X 1 1 X 
+</TEXT>
+</DOC>

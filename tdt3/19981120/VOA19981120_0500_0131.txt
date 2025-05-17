@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981120.0500.0131 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The first sanction of the long planned international space station 
+has been successfully placed in orbit after lift off from the Russian 
+launch site in Kazakstan. The Russian space station module, Zadia, 
+was launched atop a Russian booster rocket early today. The American 
+space shuttle, Endeavor, will rendezvous with Zadia in two weeks to 
+deliver a connecting module. 
+</TEXT>
+</DOC>

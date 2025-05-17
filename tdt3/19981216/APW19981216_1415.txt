@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> APW19981216.1415 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Anti-aircraft guns opened fire in Baghdad Wednesday with deafening 
+explosions. No aircraft were, however, immediately sighted or heard 
+over the night skies of the Iraqi capital. MORE 
+</TEXT>
+</DOC>

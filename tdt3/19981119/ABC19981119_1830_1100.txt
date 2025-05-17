@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981119.1830.1100 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street, the Dow Jones industrial average was up just under 
+15 points to close at 9056. On the NASDAQ, stocks were up 22 points. 
+</TEXT>
+</DOC>

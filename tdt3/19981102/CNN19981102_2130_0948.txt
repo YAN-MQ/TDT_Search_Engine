@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981102.2130.0948 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+president clinton is making a last ditch appeal to get democrats to 
+the polls. all 435 house seats and about one-third of senate seats 
+are at stake in tomorrow's elections. 
+</TEXT>
+</DOC>

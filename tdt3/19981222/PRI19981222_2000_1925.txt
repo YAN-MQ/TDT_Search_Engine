@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> PRI19981222.2000.1925 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Scientists at NASA have succeeded in reestablishing communications 
+with the first spacecraft to ever be sent into space to study an asteroid. 
+THE WORLD's David Lavali has more. For 27 nerve-racking hours, all 
+the scientists at NASA heard was silence, and the NEAR Mission, which 
+stands for Near Earth Asteroid Rendezvous, was in jeopardy. But mission 
+controllers have now managed to reestablish radio communications. 
+Much relieved NASA scientists are now looking forward to seeing pictures 
+and getting data from an asteroid that's 200 million miles away. It's 
+hoped the research will make it possible to better predict the risk 
+of asteroids colliding with our planet and to answer some basic questions 
+about the formation of our solar system. For THE WORLD, I'm David 
+Lavali. 
+</TEXT>
+</DOC>

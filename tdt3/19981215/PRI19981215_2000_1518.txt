@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981215.2000.1518 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. stocks posted gains today but the market remains on the cautious 
+side. Let's get the latest now from Wall Street. The Dow Jones Industrials 
+closed up 128 points, finishing at 8,823. The NASDAQ was also up 45 
+points today to 2,012. 
+</TEXT>
+</DOC>

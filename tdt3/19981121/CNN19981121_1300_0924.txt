@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981121.1300.0924 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And researchers have spotted lava slowly emerging from the Colima 
+volcano in Mexico. That's a good sign, say experts, who expect a low 
+intensity eruption rather than a dramatic outburst. 
+</TEXT>
+</DOC>

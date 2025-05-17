@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981209.0130.0455 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Japanese researchers say they've successfully cloned eight calves 
+using the dNA of a single cow. They hope cloning cows that are good 
+milk and meat producers could help out economically in Japan where 
+most beef is imported. The eight calves were cloned much as Dolly 
+was last year in Scotland. Researchers replaced the nucleus of an 
+egg with a nucleus from an adult cell. The Japanese researchers say 
+their technique is much more efficient. 
+</TEXT>
+</DOC>

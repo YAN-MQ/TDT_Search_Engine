@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981030.2130.0586 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Residents in the north lake Tahoe area on the California/Nevada border 
+were awakened early today by an earthquake. The 5.3 magnitude quake 
+occurred shortly before 2 A.M. local time and was centered five miles 
+northeast of kings beach, California. The quake was felt as far away 
+as Reno. There are no reports of major damage or injuries. 
+</TEXT>
+</DOC>

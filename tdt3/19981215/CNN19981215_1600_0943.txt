@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981215.1600.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronauts aboard the shuttle "endeavour" are preparing for the last 
+assignment of their mission, returning home. NASA says a weather system 
+moving over Florida may force a postponement of the landing, scheduled 
+for 10:55 P.M. eastern time. 
+</TEXT>
+</DOC>

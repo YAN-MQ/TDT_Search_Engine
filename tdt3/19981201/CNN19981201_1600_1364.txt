@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981201.1600.1364 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Heads, no, tails! After the Thanksgiving day coin flip fiasco, the 
+NFL has changed the rules. The visiting captain will now make the 
+call before the coin is flipped and the entire refereeing team will 
+be present. James Shearer, "CNN Headline Sports." 
+</TEXT>
+</DOC>

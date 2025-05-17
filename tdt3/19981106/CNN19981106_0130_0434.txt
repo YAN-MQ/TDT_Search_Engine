@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981106.0130.0434 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The American automobile association is setting up its own speed trap. 
+But it's only a test. The nation's largest auto club will paint a 
+series of 90 stripes across the highway leading into waldo, Florida. 
+Each strip will be spaced slightly closer than the previous one. And 
+that should give drivers the illusion they're speeding up. Aaa hopes 
+motorists will slow down and avoid speeding tickets. 
+</TEXT>
+</DOC>

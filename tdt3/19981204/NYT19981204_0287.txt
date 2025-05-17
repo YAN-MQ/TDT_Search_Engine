@@ -1,0 +1,101 @@
+<DOC>
+<DOCNO> NYT19981204.0287 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The slide toward financial panic would have begun with a flutter of 
+pages off a fax machine in Greenwich, Conn., each a notice of foreclosure. 
+The instant that Long-Term Capital Management missed a payment to 
+a creditor, it would technically have been in default to all of its 
+roughly 75 creditors, thanks to loan provisions that required it to 
+remain current on all its debts. Facing losses, those creditors would 
+have sold assets that the firm had pledged as collateral, sending 
+prices plunging. Dozens of markets, from Denmark to Brazil, would 
+have bucked like terrified stallions. The selling frenzy would have 
+roiled American markets in junk bonds, corporate takeover stocks, 
+mortgage securities and even Treasury bonds. Businesses that depend 
+on those markets for money to expand and add jobs would have suffered. 
+So would consumers whose mortgage rates are influenced by those markets 
+and who have billions in retirement savings in them. Fears of such 
+a financial panic and its economic aftershocks prompted the Federal 
+Reserve Bank of New York to help arrange an 11th-hour rescue of the 
+fund by 14 Wall Street banks and brokerage firms in September. The 
+rescue prevented the fire-sale liquidation of Long-Term Capital's 
+far-flung, $125 billion portfolio, assembled almost entirely with 
+borrowed money. But even though no public funds were involved, the 
+rescue also produced some of the most stinging criticism the Federal 
+Reserve has faced since its inflation-fighting efforts prompted a 
+national recession in the early 1980s. Some economists and members 
+of Congress _ and privately, even a few Wall Street executives _ accuse 
+the Fed of overreacting by helping to rescue a speculative partnership 
+of wealthy investors and the bankers who allowed its speculation. 
+``Why should the weight of the federal government be brought to bear 
+to help out a private investor?'' asked Paul A. Volcker, the former 
+chairman of the Federal Reserve Board. Others say the markets could 
+have coped with the fund's collapse, although plunging prices would 
+certainly have inflicted some pain on market participants. ``There 
+is the impression that the Fed interfered with a market solution,'' 
+said Robert Litan, an economist at the Brookings Institution in Washington. 
+Fed officials have defended their limited role as essential in avoiding 
+what could have become a free-fall panic in markets already struggling 
+with the aftershocks of Russia's debt moratorium a month earlier. 
+``It was my judgment that the American people, whom we are pledged 
+to serve, could have been seriously hurt if credit dried up in a general 
+effort by banks and other intermediaries to avoid greater risk,'' 
+said William J. McDonough, president of the New York Fed, in testimony 
+before Congress a week after the rescue. Alan Greenspan, the Federal 
+Reserve chairman, agreed that the times required action. ``With markets 
+currently volatile and investors skittish,'' he told Congress in October, 
+helping to facilitate a timely rescue of the fund ``seemed entirely 
+appropriate as a matter of public policy.'' Still, critics worry that 
+by orchestrating the rescue of Long-Term Capital, the Fed suggested 
+that a speculator that grows large enough to threaten the system will 
+be saved _ a message that might encourage recklessness. ``We need 
+to get away from the `too big to fail' idea,'' said Hans Stoll, a 
+professor of finance at Vanderbilt University and the author of a 
+number of important studies of the volatility in stock markets. ``We 
+are not in the position of saving hedge funds, and the Fed or someone 
+should make that pretty clear.'' A senior Wall Street banker who is 
+a director of the International Swaps and Derivatives Association 
+argues that the markets for swaps and other derivatives could have 
+coped with Long-Term Capital's collapse. ``There surely would have 
+been price changes, and they might have been significant,'' the banker 
+said, speaking on condition of anonymity. But as the prices changed, 
+he added, bargain hunters would have stepped in and the markets would 
+have adapted. ``When the stock market crashed in 1987, swap activity 
+trudged right through without a problem _ with less liquidity and 
+less standardization than we have today,'' he added. ``Would prices 
+have changed? Yes. Would the system have than been in jeopardy? I 
+don't think so.'' Few critics of the Fed can be found in Wall Street's 
+corner offices, however. Top executives of banks and brokerage firms 
+estimate privately that the collapse of Long-Term Capital alone could 
+have cost their businesses a total of $8 billion to $15 billion, and 
+one senior executive said he believed that the amounts could have 
+been 10 times higher in a market stampede. ``It would have turned 
+a machine gun on the Street,'' he said. Andre Levy-Lang, chairman 
+and chief executive of Paribas, the French investment bank that contributed 
+$100 million to the rescue effort, said the Fed ``was right in raising 
+the question and making sure the solution is found.'' There was, he 
+added, ``the beginning of a systemic problem'' for the markets, and 
+the situation ``might have unraveled very quickly.'' In the end, said 
+Litan, the Federal Reserve was ``damned if it did and damned if it 
+didn't.'' If the Fed had done nothing and the hedge fund's collapse 
+had precipitated a bank failure or a market panic, he said, criticism 
+of the sort being cast at the central bank today would seem trivial. 
+Indeed, some people say a key lesson of the debacle is the need for 
+more regulation, not less. Long-Term Capital's troubles demonstrate 
+that ``the regulatory infrastructure is not strong enough or encompassing 
+enough,'' said Henry Kaufman, an independent market strategist. Unless 
+it improves, he added, there is ``a better-than-even chance'' that 
+the markets will see ``future significant financial problems of this 
+magnitude, or greater.'' Greenspan has acknowledged that an emergency 
+like this one could occur again, and he recently called on bankers 
+and regulators to be more alert to the risks of financial derivatives 
+and other investments in unseasoned markets. ``New instruments, like 
+derivatives, afford the opportunity to reduce risk, but they also 
+afford opportunities to become more vulnerable,'' Greenspan told a 
+meeting of Wall Street executives early last month. ``Borrowers, lenders 
+and regulators need to improve their understanding of the risk characteristics 
+of the new instruments under a variety of circumstances _ some extreme.'' 
+</TEXT>
+</DOC>

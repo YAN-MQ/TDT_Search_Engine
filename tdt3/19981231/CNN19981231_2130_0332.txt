@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981231.2130.0332 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton spent his new year's eve playing a round of golf 
+in hilton head, South Carolina. He had good golf weather, sunny skies 
+and cool temperatures. 
+</TEXT>
+</DOC>

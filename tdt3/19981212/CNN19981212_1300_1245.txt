@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981212.1300.1245 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We dwin in baseball. The free agent pitcher signed a seven year, $100 
+million contract. 
+</TEXT>
+</DOC>

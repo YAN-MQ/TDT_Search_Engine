@@ -1,0 +1,63 @@
+<DOC>
+<DOCNO> VOA19981210.1600.2695 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The health of the world's oceans could get a boost from a newly developed 
+tool. It's from a report released by the Harvard Medical School Center 
+for Health and the Global Environment. The report documents the health 
+of oceans. Particularly the region extending from the Northwest Atlantic 
+to the Gulf of Mexico and the Caribbean. As Roseanne Skirble tells 
+us, the study has produced an Internet-based mapping and monitoring 
+system. That can analyze the decline of the world's ocean waters. 
+And possibly help to reverse it. Sylvia Earl is explorer in residence 
+at the National Geographic Society. And world-renowned ocean expert. 
+Responding to the report, she paints a bleak picture of ocean life 
+today. Starfish dying. Dolphins dying. Turtles dying. Fish dying. 
+Sea grasses dying. Corals dying. Sea urchins dying. But it's true 
+that each of those things, like a red light here, a red light there. 
+Flashing, flashing, your life support system is in trouble. Sylvia 
+Earl says the ocean is at the heart of what makes this planet hospitable 
+for life as we know it. If the oceans are in trouble. So are we. If 
+we mess up our life support system in any way. If we perturb it. If 
+we tinker with it. We do it at our peril. That's also the conclusion 
+of the Harvard Center for Health and the Global Environment Report: 
+Marine Ecosystems Emerging Diseases as Indicators of Change. The report 
+suggests that with the rise in frequency in severity of marine-related 
+disease, humans too are at greater risk. Not only from sickness and 
+health care costs from contamination. But also from job loss in the 
+seafood industry, recreation, and tourism resulting from a depleted 
+ocean. The report makes use of a new technological tool. The Internet-based 
+Geographic Information System integrates databases across various 
+scientific disciplines and environmental hot spots. Lead author, Paul 
+Epstein, explains. MARINE ECOSYSTEMS EMERGING DISEASES AS INDICATORS 
+OF CHANGE: What we're doing is mapping epidemics. But then, with the 
+Geographic Information System, able to layer on that a sea-surface 
+temperature. Another layer of nutrients that are coming in. The sewage, 
+the fertilizers, and even from aerosolized fossil fuel use. A lot 
+of the nitrogens coming in by air. The advantage really of trying 
+to bring together all of this information is to try to look at trends 
+in these diseases and mortality events. And ascertain whether they 
+are linked. Jan Landsberg is a research scientist with the Florida 
+Department of Environmental Protection. And an advisor to the report. 
+She says the overlapping databases begin to tell a story of marine 
+life never before known or reported. Really means that we can look 
+at the big picture. And very often that big picture is not seen at 
+all. And by doing that, we can begin now to really look at the impacts 
+that we as humans are having in many of our coastal environments. 
+And ultimately, how this links together with climate. And how the 
+climate is influencing the health of many of our aquatic animals. 
+But really it's very important to realize that every single piece 
+of that puzzle is part of a much bigger puzzle. It tells us there 
+are things happening in the environment. That are not really very 
+good. Paul Epstein, with the Harvard Center for Health and the Global 
+Environment, hopes the new technology will lead to solutions to the 
+plight of the world's oceans. This has been built from laboratories 
+in Venezuela. But it is clearly a prototype of a kind of monitoring 
+mapping system that could be used globally. Access to the Geographic 
+Information System and the Report: Marine Ecosystems Emerging Diseases 
+as Indicators of Change is available at the Harvard Center for Health 
+and the Global Environment Internet website at http:\\heed.harvard.edu. 
+I'm Roseanne Skirble. 
+</TEXT>
+</DOC>

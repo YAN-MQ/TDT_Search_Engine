@@ -1,0 +1,124 @@
+<DOC>
+<DOCNO> NYT19981227.0045 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The promise of a crisp radio signal that can be heard anywhere in 
+the nation, considered a futuristic pipe dream a decade ago, now appears 
+to be only about a year from reality. Two companies with government 
+licenses to bring satellite-delivered digital broadcasts to radio 
+_ CD Radio Inc. and XM Satellite Inc. _ have lined up technology and 
+programming partners and plan to roll out their services in 2000. 
+Adopting a business model used by pay services like cable and satellite 
+television, both would-be satellite radio broadcasters say they can 
+build a business from fee-paying listeners who want more than the 
+standard AM or FM fare, or who hate to hear their signal fade when 
+they drive out of range. Traditional radio broadcasters, enjoying 
+a record year in advertising revenue, are skeptical that satellite 
+services will ever be serious competition to the free, over-the-air 
+industry. They tend to see audio programming over the Internet as 
+the more serious threat. But some on Wall Street seem to share the 
+view of the trade publication Radio Ink that satellite broadcasters 
+will be ``the Marconis of the millennium.'' The investors Sid Bass 
+and Leon Black, for instance, recently paid a total of $300 million 
+for separate stakes in CD Radio, a publicly held company that expects 
+to blanket the nation with signals from its three satellites by early 
+2000, a few months ahead of its privately held rival, XM Satellite. 
+Both companies say their prime targets will be ethnic audiences, car 
+commuters, long-haul truckers and listeners outside big cities _ whom 
+they hope are so dissatisfied with local stations that they will pay 
+$10 or so a month for national services with up to 100 channels. Listeners 
+will need a satellite-radio adapter that will fit into a cassette 
+or CD player and a palm-sized antenna that will pick up the signals. 
+The receivers, expected to cost $300 or less, will include digital 
+displays showing the channel number, the format and the title and 
+performer of each piece of music. CD Radio's technology partners include 
+Loral Space Communications and Lucent Technologies, while XM's include 
+the Hughes Electronics unit of General Motors, STMicroelectronics, 
+Pioneer Electronic and Sharp. The groups hope eventually to persuade 
+automakers to offer satellite receivers as a standard option for car-audio 
+systems. The satellite players' ambitions are a marked contrast to 
+the technical conservatism of the conventional radio industry, which 
+has seen few innovations in the decades since the FM band was updated 
+to deliver stereo sound. Broadcasters, who lobbied against satellite 
+radio, are themselves reluctant to pursue digital audio because of 
+the expense and a perception that consumers are not dissatisfied with 
+the status quo. But that has not deterred the satellite radio companies 
+from proceeding with their plans. To obtain exclusive programs for 
+African-Americans, XM went to Black Entertainment Television and Radio 
+One Inc., a radio station owner that, like XM Satellite, is based 
+in Washington. And among its other dozens of channels of music, news 
+and talk, XM expects to broadcast the first national Hindu and Mandarin 
+Chinese radio programs. XM Satellite is owned by American Mobile Satellite 
+Corp., which provides wireless service to business, and World Space 
+Inc., which plans to offer satellite radio service outside the United 
+States. In March, XM made a deal to buy two satellites from Hughes 
+and expects to start broadcasting late in 2000. CD Radio, public since 
+1994, has made deals with the Hispanic Radio Network, Sports Byline, 
+Bloomberg Radio News and C-Span to provide programming. Half of its 
+100 channels are to be commercial-free music in formats that include 
+jazz, opera and reggae _ niches that would not survive on many local 
+AM or FM stations. ``We see broad-based appeal,'' said Bruce Leichtman, 
+a media research director for Yankee Group, a research firm hired 
+by CD Radio to study the service's potential market. CD Radio, which 
+has tallied $63 million in losses since its founding in 1990, has 
+raised nearly all of the $960 million needed for its start-up costs. 
+Its shares, following the vicissitudes of a technology start-up company, 
+hit a 52-week high of $44 in May, dipped below $15 in October and 
+closed the week's trading last Thursday at $34.875. Next November, 
+the company expects to launch the first of its three satellites, which 
+along with a spare will cost $718 million. An unresolved technical 
+issue is the industry's development of a receiver that can accept 
+either CD Radio's or XM Satellite's service, a requirement stipulated 
+by the Federal Communications Commission when it granted the two companies 
+satellite licenses last year. ``The odds are for the first generation, 
+we won't get there,'' said David Margolese, chairman and co-founder 
+of CD Radio, which is building its studios in Rockefeller Center. 
+``Whether we hit it or not, it's not that relevant,'' Margolese said, 
+even though failure to find a common receiver would require a regulatory 
+waiver. CD Radio executives say the company can break even its first 
+year with 1 million subscribers. It is a daunting target for a brand 
+new-service, and one analyst cautioned that to stimulate demand, satellite 
+broadcasters would probably end up subsidizing subscriber equipment, 
+which could cut into potential profits. That is close to the situation 
+playing out at DirecTV, a satellite broadcaster owned by GM's Hughes 
+Electronics unit that has about 4.3 million subscribers, and has yet 
+to break even after four years in business. But ``CD Radio doesn't 
+have anywhere near the programming costs'' of DirecTV, Leichtman said. 
+CD Radio intends to nearly match what DirecTV spent on advertising 
+in its first year, budgeting $60 million. That marketing may be necessary 
+to help CD Radio distinguish itself from competitors. A third satellite 
+radio rival has recently emerged: WCS Radio Inc., a Menlo Park, Calif., 
+consortium that holds licenses for still-to-be-determined wireless 
+services. In a hastily arranged FCC auction ordered by Congress in 
+1997, a portion of the radio spectrum initially set aside for digital 
+audio service was redesignated for general purposes, in the expectation 
+that innovative uses would emerge. The 18 winning companies, which 
+include some of the regional Bell telephone companies, paid a total 
+of $13.5 million for the licenses. Now, after spending a year trying 
+to figure out a business plan, the WCS Radio 10-member consortium 
+has sought permission to offer digital audio services similar to XM's 
+and CD Radio's. ``We believe there is tremendous pent-up demand because 
+there is an appalling lack of formats,'' said John Mason, WCS' vice 
+president for business development. ``People want more selection.'' 
+Hugh Panero, XM's chief executive, contends that listeners are underserved 
+by the free programming offered on most ad-supported AM and FM stations, 
+which he derided as repetitive and formulaic. He blamed deregulation, 
+which has concentrated ownership of the nation's stations into fewer 
+hands, intent on using proven money-making formats. ``Radio is risk 
+averse,'' he said. ``We're dedicated to bringing back what radio has 
+lost.'' The plan calls for most XM channels to carry six minutes of 
+advertising an hour, about half the level heard on most stations. 
+Revenue is to be split equally with programming partners. Like CD 
+Radio, though, XM has not yet disclosed any list of confirmed advertisers. 
+Some conventional broadcasters question whether the satellite companies 
+will be able to lure advertisers, and point to the services' reliance 
+on expensive, unproven technology. ``Even if these services are able 
+to attain a substantial number of subscribers, their actual listener 
+base won't be anywhere near the size of the audiences of the national 
+radio networks,'' predicted David Kantor, president of AM FM Radio 
+Networks, a unit of Chancellor Broadcasting, one of the nation's largest 
+station owners. ``Advertisers are interested in measured audiences, 
+not number of subscribers.'' 
+</TEXT>
+</DOC>

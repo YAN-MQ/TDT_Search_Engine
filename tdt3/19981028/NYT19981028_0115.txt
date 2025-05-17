@@ -1,0 +1,123 @@
+<DOC>
+<DOCNO> NYT19981028.0115 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+After spending nearly two years interviewing consumers about their 
+computing desires and habits, IBM has created a very impressive new 
+line of notebooks designed for people who spend their own money on 
+computers. Best known for selling hardware to the expense-account 
+crowd, International Business Machines has learned that individual 
+consumers have different desires than corporate customers. Consumers, 
+IBM discovered, wanted a high-quality notebook not so much as a traveling 
+companion but as a substitute for a desktop computer at home. And 
+by the way, it had to cost less than $2,500. IBM's response is a trio 
+of Thinkpad notebooks _ called the i Series _ that will have base 
+prices of $1,499, $1,999 and $2,499 when they arrive in stores next 
+month. I've been testing the momma-bear version, the $1,999 Thinkpad 
+1450. It is about twice the size of the older Thinkpad 560X, the slim 
+four-pound model that I carry on business trips, but it is also half 
+the cost, and it outperforms the smaller machine. For a desktop substitute, 
+the added heft is actually an advantage. (But when I carry the external 
+disk drive, CD-ROM drive, AC power adapters, port replicator and other 
+attachments, the 560X actually weighs eight pounds, slightly more 
+than the Thinkpad 1450.) The new Thinkpad has a big, bright display 
+that outshines anything offered by competitors in the price range, 
+respectable performance from its 266-megahertz Pentium MMX processor 
+and lots of features that make it more friendly to consumers. The 
+new Thinkpads arrive in what has already been a delightful season 
+for portable PCs. Earlier this year, a resurgent Apple Computer Corp. 
+introduced the impressive line of powerful G3 Powerbooks. Dell Computer 
+offered a high-end Inspiron notebook featuring a Texas-sized 15-inch 
+active-matrix display. Sony broke new ground with a powerful yet super-skinny 
+subnotebook computer, its magnesium-hulled Vaio 505. And we are just 
+beginning to see a new crop of ultraportable computers that weigh 
+a couple of pounds and cost less than $1,000. Either because of price 
+or features, however, none of these computers seemed ideal for consumers 
+who wanted an all-in-one portable PC that could serve as a replacement 
+for a desktop computer at a reasonable price. (An all-in-one portable 
+includes a floppy drive and a CD-ROM drive in the main body along 
+with the hard disk, instead of forcing them onto the desktop as tethered 
+external devices, octopus style.) Two years ago, prices for Pentium-class 
+notebooks with active-matrix thin-film transistor color displays _ 
+the best in terms of brightness and sharpness _ were above $5,000. 
+Expense-account customers quickly made Thinkpads the most desired 
+Windows notebooks in the airlines' first-class sections. But when 
+it came to buying a computer for personal use, even corporate executives 
+had to think twice about Thinkpads. With prices for desktop computers 
+dropping every week, in some cases below $1,000, it did not take a 
+chief financial officer to figure out that one could buy two, three 
+or more desktop computers for the price of one high-end Thinkpad. 
+The i-Series Thinkpads narrow the price gap between desktop and portable 
+computers. The one I've been using has the characteristic solid feel 
+and finish of a Thinkpad. In performance, it is still at least two 
+generations behind comparably priced Windows-based desktop machines, 
+but it holds its own with other laptop competitors in its class. It 
+wins hands down for cachet. ``When I get on a plane, it's still a 
+status symbol to pull out a big black IBM computer,'' said Andrew 
+M. Seybold, editor-in-chief of Andrew Seybold's Outlook, a newsletter 
+about mobile and wireless technologies. He forecasts success for the 
+lower-cost i-Series Thinkpads. ``It's like when BMW or Mercedes came 
+out with lower-priced models,'' he said. ``People are waiting to buy 
+them when you drop the price.'' There are three new i-Series Thinkpads. 
+The least expensive is the model 1410, which comes with an Intel Pentium 
+MMX processor humming at 266 megahertz, 32 megabytes of system memory, 
+a 3.2-gigabyte hard disk, a 20-speed CD-ROM drive, and a 12.1-inch 
+thin-film transistor screen. The cost is $1,499. The model 1450, which 
+I tested, will have an estimated street price of $1,999. It also had 
+a 266-MHz Intel Pentium MMX processor, but it came with 64 megabytes 
+of RAM, a 4.3-gigabyte hard disk and a 13.3-inch screen that was exceptionally 
+good. The poppa bear is the 1710 model, which steps up to a more powerful 
+Intel Pentium II processor, a 24X CD-ROM drive and an extra bay that 
+allows the use of a second battery or some sort of removable data 
+storage. Based on specifications alone, the 1710 model appears to 
+make the most sense as a desktop replacement, worth the extra money. 
+The new consumer notebooks share several new features, including at 
+least 2 megabytes of video memory and a 56K modem. Most impressive 
+is that they all sport thin-film transistor displays, which yield 
+brighter and sharper images than the lower-cost passive displays found 
+most often on low-cost portables. IBM said it had decided to use the 
+costlier but superior displays as a result of ``exit poll'' interviews 
+with recent notebook purchasers. The most common regret among people 
+who had already bought notebook computers, IBM found, was that they 
+did not get a bigger or better display, despite the higher cost. In 
+the category of little things that make life better, IBM made the 
+new notebooks much better suited to playing audio compact disks. Working 
+with the audio company Altec Lansing, it created a speaker system 
+that fits in the left and right margins of the computer's display, 
+creating a wider than normal notebook with a bit of an overbite on 
+the lid. Other laptops, like the Compaq Presarios, sometimes place 
+the speakers where they can be muffled by the palms of the user. The 
+i-Series Thinkpads have the CD controls _ including a liquid-crystal 
+display, a volume control dial, forward and reverse track selection, 
+and eject buttons _ on the outside of the computer, so a person can 
+play music disks without having to boot up the computer. For those 
+who resist headphones and think that their mission in life is to share 
+their musical taste with the folks in adjoining seats, the speakers 
+in the lid are cleverly positioned to pump out decibels to either 
+side when the case is closed. There are cheaper alternatives if a 
+consumer simply wants a portable audio CD player, of course. IBM also 
+clearly listened to people who wanted to become productive with their 
+laptops without having to get a degree in computer science. The company's 
+research revealed a list of questions that new users often have, including 
+such common stumpers as these: How do I send a fax from my computer? 
+How do I send and receive electronic mail? How do I download files 
+from the Internet? What the heck is power management, and how do I 
+do it? How do I write a letter or make a business presentation? So 
+IBM has answered the questions by creating shortcut instructions for 
+each task (available on the 1410 and 1450 models). IBM also added 
+four color-coded function keys to the keyboard that can be set up 
+to perform common tasks, like connecting to the Internet (the computer 
+comes with an offer of 100 free hours of Internet time through American 
+Online), gathering e-mail and so on. What don't I like? It seems a 
+shame not to show off such beautiful screens with a DVD drive, which 
+would let travelers watch movies as well as play audio CDs. An external 
+DVD add-on is the only option. The new Thinkpads are too big to use 
+on airline seat-back trays. The Pentium MMX processor poses a dilemma 
+for students: It keeps the cost down and is fine for e-mail, Web browsing 
+and term papers, but it is a lousy chip for serious game players. 
+But the bottom line is that the i-Series Thinkpads are a good value, 
+and the only question is whether IBM can produce them fast enough. 
+NYT-10-21-98 1615EDT 
+</TEXT>
+</DOC>

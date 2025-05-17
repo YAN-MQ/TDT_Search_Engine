@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981031.1600.0383 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Talk about your long distance conference calls astronaut John Glenn 
+took a Break from his experiments aboard the space shuttle "discovery" 
+today to field questions from some school kids in Ohio and Virginia. 
+Asked if food tastes the same in space, Glenn answered in the affirmative. 
+He was also asked to compare this trip to his maiden voyage in orbit. 
+Were you more nervous being the first American to orbit the earth 
+or to be the oldest man in space? Well, I think they are both great 
+things to participate in. I had a wonderful time that first time. 
+I was probably more nervous back in those days. Glenn also provided 
+his first blood samples today for research into the aging process. 
+</TEXT>
+</DOC>

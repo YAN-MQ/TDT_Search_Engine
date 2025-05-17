@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> CNN19981104.1130.1514 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Internet has changed the way people communicate, shop and even 
+invest. But how will it influence the world of politics? Peter viles 
+reports. In politics, this was the year the Internet came of age. 
+Millions logged on to read the Starr report, millions more to watch 
+the president testify. And this fall, candidates flocked to the web 
+seeking votes. I think what the Internet has done this year, as opposed 
+to other years, is that, traditionally, you had five media in a political 
+media mix -- television, radio, newspaper, direct mail and phones. 
+Now, the Internet has taken its position as the sixth medium in that 
+political campaign media mix. a nationwide survey this summer found 
+that 63% of campaigns had a Web site. The percentage was much higher, 
+85%, for campaigns with total budgets exceeding $1 million. But the 
+web sites were fairly basic -- only 6% offered sound or pictures. 
+Significantly, 33% of campaigns were using E-mail for mass mailings 
+to voters. California gubernatorial candidate Dan Lungren used this 
+site to sign up 1,400 volunteers. His opponent, Gray Davis, uses his 
+web page to transmit live video of campaign rallies. But for now, 
+analysts say most Internet campaigning is more primitive, often as 
+basic as this billboard on the home page of Alabama governor fob james. 
+Most candidates really don't know why they're using the Internet right 
+now. They know that some people are going to look at it, they have 
+some sense that it's going to reach some voters. But there's an old 
+saying in politics, "50% of what you spend is wasted." But you just 
+don't know which half is wasted. Analysts say E-mail may hold the 
+key to future on-line campaigning, because it's so much faster and 
+cheaper than reaching supporters via direct mail. Peter viles, "CNN 
+Financial News," New York. 
+</TEXT>
+</DOC>

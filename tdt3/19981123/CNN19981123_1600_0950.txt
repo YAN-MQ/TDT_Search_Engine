@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981123.1600.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Russian President Boris Yeltsin will be working out of a hospital 
+room for several days. The third time he's been ill in recent weeks. 
+</TEXT>
+</DOC>

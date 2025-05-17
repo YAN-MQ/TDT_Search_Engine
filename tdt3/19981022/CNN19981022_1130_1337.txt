@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981022.1130.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Orel hershiser is looking for a new team, though it's still possible 
+the giants could re-sign him at a lower price. San Francisco deciding 
+against exercising his 1999 contract option. The 40-year-old hershiser 
+made nearly $3.5 million for going 11-10 with a 4.41 E.R.A. this year. 
+</TEXT>
+</DOC>

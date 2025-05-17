@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981122.1300.0434 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Commercial tankers get much of the blame for oil spills, but it turns 
+out vessels in the U.S. Navy are far more frequent polluters. Associated 
+press found between 1990 and 1997, a Navy vessel fouled U.S. waters, 
+on average, every two days. It was especially bad at big Navy bases, 
+like puget sound in Washington kpluted with 56,000 gallons, Norfolk, 
+Virginia, where 37,000 gallons spilled, and San Diego, where 33,000 
+gallons polluted the waterfront. The main reason for the spills -- 
+complex, outdated fuel transfer systems aboard the ships, as well 
+as human error. 
+</TEXT>
+</DOC>

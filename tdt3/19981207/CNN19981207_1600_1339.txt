@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981207.1600.1339 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"The NFL performance of the week" goes to New York jets quarterback 
+Vinny Testaverde. The 35-year-old veteran was 42 of 63 passing with 
+418 yards and two touchdowns, plus he ran in a controversial game-winning 
+touchdown, to give the jets a 32-31 victory over Seattle. 
+</TEXT>
+</DOC>

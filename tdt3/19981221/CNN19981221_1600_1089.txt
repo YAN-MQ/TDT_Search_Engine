@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981221.1600.1089 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Network associates says it has discovered a new type of computer virus 
+that is more dangerous than any virus previously encountered. The 
+virus infects a corporation's computer network and can randomly encrypt 
+files. The encryption essentially scrambles the files into indecipherable 
+code. The virus has also claimed at least one victim, MCI Worldcom. 
+MCI tells "CNN Financial News" that virus has been contained. 
+</TEXT>
+</DOC>

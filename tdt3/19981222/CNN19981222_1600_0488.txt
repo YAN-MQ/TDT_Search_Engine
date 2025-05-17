@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981222.1600.0488 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up next, we'll see why this quaint German town is buzzing with 
+holiday activity. First, the extended national weather forecast. 
+</TEXT>
+</DOC>

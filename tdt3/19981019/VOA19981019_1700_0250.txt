@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> VOA19981019.1700.0250 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Here in Washington, a long awaited antitrust trial pitting computer 
+giant Microsoft against the U.S. government has opened. Observers 
+say this trial could determine the course of the software industry 
+for years to come. We have a report from VOA's Rick Nunez. The Justice 
+Department says Microsoft has abused its position as the world's preeminent 
+maker of computer software to smother potential business rivals. Microsoft's 
+General Counsel, William Newcomb, company competes vigorously but 
+fairly. As he entered Federal court he expressed confidence his client 
+will prevail. We believe that the facts and the law are on our side. 
+The U.S. government, along with 20 states, filed the antitrust lawsuit 
+in May. Prosecutors accused Microsoft of illegally exploiting its 
+dominance of computer operating systems to seize control of the Internet 
+browser market. Browser software allows users to navigate the worldwide 
+web. The trial could take between six and eight weeks. Government 
+witnesses will include officials from Apple Computers and chip maker 
+Intel. Microsoft Chairman Bill Gates, one of the richest men in the 
+world, is not expected to take the stand. Rick Nunez, VOA News, Washington. 
+</TEXT>
+</DOC>

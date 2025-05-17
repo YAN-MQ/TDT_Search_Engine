@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> APW19981129.0433 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Forecasts of English soccer games to be played Dec. 5-6 (tabulate 
+under Sunday Mirror, People, News of the World, Sunday Express, Sunday 
+Telegraph): 1 denotes home win, 2 away win, X a tie Aston Villa-Manchester 
+U X X X X X Derby-Arsenal 2 X 1 X X Leeds-West Ham 1 1 1 1 1 Tottenham-Liverpool 
+X X X X X Everton-Chelsea 2 2 2 1 2 Blackburn-Charlton X X 1 2 X Leicester-Southampton 
+1 1 1 1 1 Wimbledon-Coventry 1 1 1 X 2 Wolverhampton-Bolton 1 1 1 
+X X Ipswich-Birmingham X 1 X 1 1 Huddersfield-Crystal P 1 1 1 1 1 
+Bristol C-Sheffield U X X 2 2 2 Oxford-Bradford 2 1 2 2 2 
+</TEXT>
+</DOC>

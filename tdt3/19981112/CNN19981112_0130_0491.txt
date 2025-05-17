@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981112.0130.0491 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. And later -- a drug that's 
+been around for decades could help keep patients with heart failure 
+out of the hospital. 
+</TEXT>
+</DOC>

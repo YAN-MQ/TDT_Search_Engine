@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> NYT19981201.0507 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Wednesday, Dec. 2: It was 
+only two decades ago that the oil industry seemed to be sitting astride 
+the global economy. Oil prices were high and were expected to continue 
+rising indefinitely, much of the developed world was facing economic 
+difficulties caused in part by high energy prices, and there was fear 
+that inflation would never be brought under control. Now nearly everything 
+has changed, and a struggling oil industry is seeking security through 
+combination as it confronts prices that, adjusted for inflation, are 
+lower than those that prevailed before the first oil shock a quarter 
+of a century ago. Some causes of low prices, such as warm weather, 
+could change rapidly. Others, such as Asia's recession, will not be 
+with us forever. But the low prices also reflect a technological revolution 
+that has transformed the energy industry. Companies are less likely 
+to drill dry holes, and are able to get more oil from what they do 
+find. Chemical plants and refineries can push out far more product 
+than they once did. Increased production is good for any one company, 
+but not for the industry. It is against that backdrop that the merger 
+wave must be viewed. Exxon is buying Mobil only months after British 
+Petroleum agreed to buy Amoco. Two big European companies, Total and 
+Petrofina, also are combining. Much has been written about how John 
+D. Rockefeller's old Standard Oil is being put together decades after 
+antitrust regulators tore it apart. But these deals are far different. 
+The industry has spent much of the last decade cutting costs as much 
+as it could. Now it seeks savings from consolidation, and companies 
+fear being the last one to do a deal. Antitrust regulators in many 
+countries will carefully examine the Exxon-Mobil merger, and some 
+divestitures will no doubt be needed. But these deals do not reflect 
+either power over markets or a hope of attaining such power. The oil 
+business is a harshly competitive one in which many companies are 
+only beginning to adjust to this year's plunge in prices. Mobil and 
+Exxon say their merger will enable them to cut employment by 9,000 
+jobs, or around 7 percent, and cut capital spending by $1.5 billion, 
+or 10 percent, but there is a good chance some of those cuts would 
+have been made anyway. Big oil remains profitable. Fred Leuffer, an 
+analyst at Bear Stearns, forecasts that 1998 profits of Mobil and 
+Exxon combined will total $8.5 billion. But earnings are falling, 
+and will be under continued pressure if oil prices do not recover 
+sharply. Perhaps the most revealing comment came in the form of a 
+denial by Lucio Noto, the Mobil chairman. ``This is not,'' he told 
+reporters, ``a combination based on desperation.'' No such denial 
+would have been needed even a few years ago. 
+</TEXT>
+</DOC>

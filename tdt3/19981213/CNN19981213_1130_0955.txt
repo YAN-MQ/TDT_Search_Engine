@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981213.1130.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the crew of the space shuttle "endeavour" will bid farewell to 
+the international space station this afternoon. They're scheduled 
+to return to earth on Tuesday. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981121.0130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Secretary of state Madeleine Albright says the United States is calling 
+on north Korea to stop its missile development. Sources tell CNN north 
+Korea is preparing to test launch an intermediate range ballistic 
+missile. 
+</TEXT>
+</DOC>

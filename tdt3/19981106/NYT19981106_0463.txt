@@ -1,0 +1,102 @@
+<DOC>
+<DOCNO> NYT19981106.0463 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Japanese interest rates were already the lowest on record, so it had 
+seemed impossible that they could go any lower. But they have: Some 
+interest rates are now dancing into negative territory. This week, 
+investors have bought short-term Japanese government bills that have 
+negative yields. In other words, the buyers are paying more money 
+than they can expect to earn when the bills mature in six months, 
+in effect paying simply for the privilege of holding bonds. Likewise, 
+a few foreign banks are paying interest, instead of earning interest, 
+for clients to borrow their money. In some countries, bank depositors 
+have occasionally earned negative real interest rates, meaning that 
+their yields were less than the inflation rate. But this is much rarer: 
+The nominal interest rate is negative. ``We've basically never seen 
+this before,'' said William Campbell, a strategist with J.P. Morgan 
+in Tokyo. The slide below zero shows how some investors have become 
+so downbeat about the Japanese economy that they are willing to invest 
+only in government bonds, the safest bets in the country. It also 
+means that there are so many yen around that some banks, mostly foreign 
+banks, are willing to pay someone to take them off their hands for 
+a time. Why would anyone pay someone else to take his money? Why not 
+just keep it? Partly for convenience. A bank could keep the yen, but 
+that could lead to extra expenses. So long as the interest rate is 
+only slightly negative, it may prefer to buy bills even if there is 
+a slight cost. A bank could keep its yen at the Bank of Japan, but 
+with so much cash, there are transportation costs. There is also a 
+larger issue. ``It's symptomatic of radical pessimism of the economy,'' 
+said Jeffrey Young, an economist with Salomon Smith Barney in Tokyo. 
+The rush to Treasury bills is virtually an escape from Japanese banks, 
+analysts say. With the economy in recession and piles of bad loans 
+eroding the capital bases of the banks, some of Japan's weakest financial 
+institutions are caught in the struggle for their corporate lives. 
+Such is the distrust of Japanese banks that investors may prefer to 
+pay for the right to put their money in government Treasury bills 
+for a few months instead. At least, the feeling seems to be, then 
+it will be safe. Indeed, the same flight to quality drove down yields 
+on U.S. Treasury bills to virtually zero in the Depression. Still, 
+while Treasury yields typically serve as benchmarks for lending rates, 
+the negative yields in Japan have not yet led consumer and corporate 
+rates below zero. Also this week, a few foreign banks, like Barclays 
+Capital, J.P. Morgan and Citibank have announced negative interest 
+rates on lending yen to other banks. Barclays Capital advised other 
+banks that if they wanted to borrow yen, they would be charged the 
+equivalent of an annual interest rate of minus 0.03 percent. That 
+means that Barclays would pay the borrowers to borrow, so for every 
+million yen borrowed, the client would over a year's time receive 
+300 yen. A spokeswoman at Barclays Capital, the investment arm of 
+Barclays Bank, said, ``We have traded at that rate quite frequently.'' 
+She added that transactions were also recorded at negative 0.08 percent 
+as well. J.P. Morgan also offered rates as low as negative 0.0625 
+percent, but the bank declined to say how many transactions were concluded 
+at such negative interest rates. Richard Mahony, spokesman for J.P. 
+Morgan in London, said that in the current market environment, Morgan 
+could still finance itself with yen so cheaply that it could ``profit 
+by lending at zero or even slightly negative rates.'' Indeed, the 
+reason that foreign banks have such cheap access to yen currency is 
+the troubles in the Japanese economy. Japanese banks have an acute 
+demand for dollars to help finance their overseas operations, but 
+U.S. banks are hesitant to lend dollars to them, because of heightening 
+concern over the Japanese financial system. The ``Japan premium,'' 
+the higher costs that Japanese banks have to pay for dollars, compared 
+with the rates that U.S. banks pay, has risen sharply. For months, 
+U.S. banks have been trimming their dollar lending to Japanese institutions, 
+and in the increasingly uncertain outlook for the global economy, 
+U.S. institutions have been trying to shed, rather than increase, 
+their risk. Particularly as the year end nears, U.S. banks are skittish 
+about having their balance sheets reflect a great deal of exposure 
+to Japanese banks. So instead of lending dollars, U.S. institutions 
+are using swaps to turn over dollars to Japanese banks in exchange 
+for yen. Recently, the Japanese demand for swapping yen for dollars 
+has become so intense that U.S. banks have been swapping huge quantities, 
+leaving them sitting on piles of extremely cheap yen. As a result, 
+many foreigners are sinking their yen into safe six-month Japanese 
+government bills. And the reason the banks can accept negative returns 
+on the Treasury bill is that when they obtain yen from Japanese banks, 
+they are being paid enough to hold it so that they can profit by lending 
+it to the government at the barely negative rates they receive on 
+the bills. All this puts the Bank of Japan in a bit of a quandary. 
+It has been trying to stimulate the economy and get more money flowing 
+through the economy to alleviate a credit crunch that is crippling 
+companies. Instead, foreign banks are ending up with much of the yen, 
+and the Bank of Japan may need to inject dollars into the market in 
+a pinch, if foreign banks refuse to supply the dollars. ``I think 
+the Bank of Japan is very worried about this,'' said Xinyi Lu, chief 
+strategist at Paribas Capital Markets Ltd. in Tokyo. On Thursday, 
+when the government auctioned Treasury bills worth $13.6 billion, 
+foreign banks were falling over one another to buy the government's 
+six-month bills so that the cost to the government was only 0.03 percent. 
+But there was such an appetite in the Japanese Treasury market that 
+in the day's trading, prices surged, driving the yield on certain 
+six-month bills into negative territory for the first time. (Bond 
+yields and their prices move in opposite directions.) In other words, 
+investors were so eager to buy the bonds that they were willing to 
+take slightly negative returns of 0.005 percent. For the moment, then, 
+the government is virtually receiving free money. But it is not helping 
+the economy very much. ``It's like saying, while you have cancer, 
+`Don't eat as much,' '' Campbell said. ``You're just saving on groceries.'' 
+</TEXT>
+</DOC>

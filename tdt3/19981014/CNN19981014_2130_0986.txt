@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981014.2130.0986 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+United airlines is taking another step to keep passengers from trying 
+to carry oversized bags onto planes. United plans to place plexiglas 
+cut-outs in front of X-Ray machines. If the carry-on bag doesn't fit 
+through the cut-out, the passenger will have to check it in as luggage. 
+The system has been tested at New York's LaGuardia airport. Officials 
+say the new rules will improve safety and ensure planes depart on 
+time. 
+</TEXT>
+</DOC>

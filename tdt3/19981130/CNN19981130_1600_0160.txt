@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981130.1600.0160 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There's a disturbing new report about Iraq. CNN has learned, Iraq 
+has continued its efforts to build a better long-range missile, in 
+violation of U.N. resolutions. Sources tell CNN, a team of Iraqi missile 
+engineers traveled to Romania last may in an attempt to procure advanced 
+missile guidance systems. According to Scott Ritter, a former U.N. 
+weapons inspector, intelligence agencies of three countries were watching 
+the meeting. The covert surveillance was reportedly dubbed operation 
+teacup. The U.N. will not acknowledge the existence of the operation, 
+and the Iraqi government has said it would not comment until seeing 
+the story, which aired last night on CNN. 
+</TEXT>
+</DOC>

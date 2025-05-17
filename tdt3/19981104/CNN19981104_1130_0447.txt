@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981104.1130.0447 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Voters in many states also had the chance to decide ballot initiatives. 
+Michigan voters overwhelmingly defeated a proposition to legalize 
+doctor assisted suicide. Allowing medical use of marijuana was on 
+the ballot in several states. Voters in Alaska, Arizona, Nevada and 
+Washington state passed the measure. Results still are incomplete 
+in Oregon, but it appears the measure will pass. Voters in Washington 
+state passed a measure to ban affirmative action. Washington is now 
+the second state to ban racial or gender preferences in government 
+hiring and contracting or in college admissions. 
+</TEXT>
+</DOC>

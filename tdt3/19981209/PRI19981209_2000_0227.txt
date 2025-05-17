@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981209.2000.0227 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street, the Dow industrials lost 18 points today to close 
+at 9009 in heavy trading. This is NPR. 
+</TEXT>
+</DOC>

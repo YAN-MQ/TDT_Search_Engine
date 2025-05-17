@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981224.2130.1465 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The presents are wrapped, the reindeer are ready, and so is the sleigh. 
+But that doesn't mean Santa can't sneak in a last-minute practice 
+run. St. Nick and his helpers went waterskiing on the Potomac river 
+in washington today. An unidentified elf says this is the 13th year 
+Santa has used the river to prepare his reindeer for warmer climates, 
+where there's no snow for his sleigh to work properly. 
+</TEXT>
+</DOC>

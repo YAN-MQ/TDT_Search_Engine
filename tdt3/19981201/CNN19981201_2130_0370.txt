@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981201.2130.0370 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The national rifle association says the FBI is violating gun owners' 
+privacy. It has filed a suit to stop the agency from keeping records 
+from new instant background checks. An NRA spokesman says keeping 
+the records would create a national registry of gun owners, which 
+federal law does not allow. The FBI says the records will only provide 
+data for statistical sampling and internal audits. 
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> NYT19981217.0438 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times Co. said Thursday that Raymond Douglas had been 
+promoted to corporate chief information officer and that Ellen Taus, 
+the company treasurer, had received the additional title of vice president. 
+Douglas had been vice president for systems and technology. Ms. Taus 
+has been treasurer of the company since 1997. Douglas, who is 49, 
+joined The Times in 1990 and is a graduate of Michigan State University 
+and the Advanced Executive Program at the Newspaper Management Center 
+of Northwestern University. Ms. Taus, who is 40, graduated from Northwestern 
+University and has an MBA from Columbia University. She had previously 
+worked in the corporate finance department at R.H. Macy &AMP; Co. 
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> VOA19981106.0500.2702 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Hello, everyone, and welcome to Science World. I'm Brian Sislack. 
+Anyone who watches crime dramas on TV or, for that matter, news reports 
+of the real thing knows how DNA evidence from the scene of a crime 
+can help identify the perpetrators. The same is true when their suspected 
+bad guy is a bacterium. A team of researchers from Rockefeller University 
+and the Public Health Research Institute has used DNA fingerprinting 
+to track antibiotic-resistant staph bacteria through 12 New York City 
+area hospitals. The suspect in question, methicillin-resistant Staphylococcus 
+aureus, is a common and potentially lethal hospital-acquired infection. 
+Writing in "Journal of Infectious Diseases," the researchers describe 
+isolating four distinct subtypes of the Staph bacterium. One was identified 
+in all 12 of the hospitals being studied, and was responsible for 
+over 40 percent of the methicillin-resistant staph infections. The 
+other three types were much more localized. By breaking a group of 
+infectious organisms down into subtypes, genetic fingerprinting allows 
+investigators to track their movements more efficiently and determine 
+which subtypes are the most resistant to conventional treatments. 
+What's more, the genetic profiles of the most lethal bacterial subtypes 
+could be used to identify the organism's weak spots as targets for 
+promising new drugs. 
+</TEXT>
+</DOC>

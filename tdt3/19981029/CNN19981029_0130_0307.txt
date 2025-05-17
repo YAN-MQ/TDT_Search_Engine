@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981029.0130.0307 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Forecasters expect hurricane Mitch to touch land Thursday on the northern 
+coast of Belize. At last report, the center of the storm was located 
+about 25 miles off the north coast of Honduras, with winds of about 
+100 miles an hour. Forecasters say it should remain stationary overnight. 
+Mexico has declared a hurricane alert throughout the Yucatan peninsula, 
+forcing thousands of residents and tourists to evacuate. Mitch has 
+been pounding Honduras and other central American countries with up 
+to 25 inches of rain and is responsible for at least 32 deaths. 
+</TEXT>
+</DOC>

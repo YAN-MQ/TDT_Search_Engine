@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981014.1600.0476 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronomers have gotten a look at one of the solar system's most impressive 
+light shows. The galileo satellite has sent back images of Jupiter's 
+Moon io. More than 30 volcanos spew enough lava to cover the surface 
+half an inch deep. Electricity created by Jupiter's magnetic fields 
+energizes sulfur dioxide vented by the volcanos, so they appear to 
+send off streams of blue light. The magnetic fields generate more 
+than 1 trillion Watts of electricity and gives io its halo of light. 
+</TEXT>
+</DOC>

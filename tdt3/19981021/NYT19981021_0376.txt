@@ -1,0 +1,80 @@
+<DOC>
+<DOCNO> NYT19981021.0376 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Two groups of researchers say they have found ways to make bone marrow 
+transplant operations considerably safer and to expand the pool of 
+donors. The unrelated studies, being published on Thursday in The 
+New England Journal of Medicine, are milestones in the field of transplantation, 
+and their techniques can be put into use immediately, Dr. Jon Van 
+Rood, considered the father of bone marrow transplants, said in a 
+telephone interview from the Netherlands. With practice, a method 
+described in one of the articles could eventually double the number 
+of transplant recipients who survive, Dr. Van Rood said. The other 
+study suggests that, while 30 percent of patients today never find 
+a suitable match, eventually none may have to go without a donor, 
+the doctor said. About 30,000 transplants worldwide are performed 
+each year on patients whose marrow, the vascular tissue that fills 
+the cavaties of most bones, is unable to make sufficient blood, either 
+because of a genetic defect or because of a disease like leukemia, 
+which prevents the body from producing the right combination of blood 
+cells. Dr. John Hansen, a transplant expert at the Fred Hutchinson 
+Cancer Research Center in Seattle, said that the success of bone marrow 
+transplants varies with the disease and other factors. For genetic 
+disorders like aplastic anemia, the transplants work about 90 percent 
+of the time. For cancers that affect the bone marrow, such as chronic 
+myeloid leukemia, transplants can be effective 70 percent of the time, 
+while for acute leukemia the rate is about 60 percent. Bone marrow 
+transplants are considered to be particularly difficult. A successful 
+transplant can cure fatal diseases, but the procedure often results 
+in fatal complications of its own. The transplanted marrow may reject 
+the body and vice versa, the marrow may die off without taking hold, 
+or infection may overwhelm the patient. Researchers try to match the 
+bone marrow type of the donor and recipient, to decrease the chances 
+of an incompatibility that can cause a fatal rejection. Rejection 
+is determined in large part by immune system chemicals called HLA 
+antigens (for human leukocyte group A). The difficulties lie in determining 
+the characteristics of an acceptable HLA match, and in having a wide 
+enough pool of donors to provide the matches. In one paper, a team 
+from Kyushu University in Japan and other centers, led by Dr. Takehiko 
+Sasazuki, reported that using a more sophisticated matching system, 
+relying on DNA rather than just blood matching in the selection of 
+donors, can double the survival rates for transplants. Using 440 patients, 
+this was the largest and most complete study to examine the critical 
+factors in matching, Dr. Van Rood said. The paper reported that HLA 
+antigens that appear to match by blood-test techniques actually have 
+a variety of subtypes that can be identified only by DNA testing. 
+It is the subtypes that may actually be the most important determination 
+of success. Matching the subtype of one antigen (HLA-A) was found 
+to be important for survival during a transplant. For patients who 
+received marrow matching in this antigen, 63 percent survived the 
+transplant, while among those who had a mismatch, only 38 percent 
+survived. A perfect match between three antigens resulted in 11 percent 
+of patients developing severe rejection disease, while mismatches 
+of two or more led to 43 percent of patients getting the disease. 
+One curious finding was that for one antigen, HLA-C, a mismatch apparently 
+enabled patients to beat their leukemia at a greater rate. Only 12 
+percent who did not match suffered a recurrence of leukemia during 
+the study period, while 23 percent had relapses when this antigen 
+matched. For most donors, a near-perfect match provided the best results. 
+But for those who cannot find a match from their family or from donor 
+agencies, the second group of researchers suggested a method that 
+would still make transplant worthwhile. Written by Dr. Franco Aversa 
+and his colleagues at the University of Perugia, Italy, the study 
+said that some bone marrow previously considered an unacceptable match 
+could be used if it is treated before the transplant. The pre-treatment 
+removes from the donated marrow most of the immune system cells, called 
+T-cells; increases by tenfold the immature cells that will grow into 
+mature blood cells after the transplant, and makes sure that the patient's 
+own bone marrow is destroyed before introducing the donated marrow. 
+Because the 43 patients who received the pre-treatment in the Italian 
+study were extremely ill, few, if any, were expected to survive, but 
+18 months later after the transplants, 12 of the 43 were still alive. 
+Van Rood said that doctors could start using the techniques right 
+away. ``But if you think of it as a violin performance, when you hear 
+a good performance, can you immediately do it yourself?'' he said. 
+``I think not. It will take much work and practice. But the potential 
+for higher survival is there.'' 
+</TEXT>
+</DOC>

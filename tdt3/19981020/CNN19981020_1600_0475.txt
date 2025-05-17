@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981020.1600.0475 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Harvard University is working to cut down on student stress after 
+the suicides of three graduate students in the last two years. The 
+Ivy league school says grad students are under enormous pressure, 
+and many feel overworked and isolated. So it is planning to start 
+offering social programs, off-campus psychiatric services and network 
+meetings with alumni. A suggestion for more faculty advisers came 
+from one student in his suicide note. 
+</TEXT>
+</DOC>

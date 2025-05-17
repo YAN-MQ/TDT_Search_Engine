@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981227.1130.0510 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen Maginnis. 
+Taking a look at temperatures coming up for Sunday, the high temperature 
+readings in the northeast and New England, Ontario and Quebec, mostly 
+in the 20s. In the interior west across the Rockies and four corners, 
+20s and 30s can be found, but 70s in south Florida and south Texas. 
+In our forecast weather picture, going into Sunday, more than likely 
+into the evening hours, a strong pacific frontal system moves onshore 
+for british Columbia, Vancouver island, Washington, Oregon and northern 
+california. The rainfall could be heavy at times. Look for a bit of 
+snowfall into the Great Lakes. A high expected on Sunday in Anchorage, 
+Alaska, of 16 degrees. The extended forecast for Monday calls for 
+still mild readings in the south central United States and into the 
+gulf coast. On Tuesday, we'll expect some heavy rainfall into the 
+mid-atlantic, and the cool readings will linger along the Canadian 
+border states. And for Wednesday, 70s in the desert southwest, snow 
+in New England. For more weather information, log onto CNN.com. 
+</TEXT>
+</DOC>

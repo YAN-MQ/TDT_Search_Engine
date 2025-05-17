@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981029.2130.0165 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Today's launch was not exactly picture perfect. An aluminum door panel 
+fell from the shuttle's tail section a few seconds into the launch. 
+But NasA says "discovery" is in no danger and the mission will proceed 
+as planned. The panel appears to have impacted the right side of the 
+center or number one engine nozzle. The panel appears to have come 
+from the drag chute door area, although we can't confirm that it is 
+the door. But the door is approximately 18" x 22" in size, and the 
+video analysis of that panel continues. We do know that if that panel 
+did come off, our preliminary looks show that it is no hazard to the 
+operation of the vehicle on orbit. 
+</TEXT>
+</DOC>

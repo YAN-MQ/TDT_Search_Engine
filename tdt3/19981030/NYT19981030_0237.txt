@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981030.0237 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Winter storm warnings were in effect Friday for the San Juan Mountains 
+in southeastern Colorado, with more than a foot of snow forecast to 
+fall at elevations above 9,000 feet. Saturday, snow will continue 
+to fall in the mountains of northeastern New Mexico and southeast 
+Colorado as a cold, upper-level low pressure system forges slowly 
+eastward. Father north, pockets of steady rain, perhaps mixing with 
+snow at times, are likely along the Front Range and foothills of the 
+Colorado Rockies as moist winds from the southeast are forced to ascend 
+the sloping terrain. To the east, rainfalls will exceed 2 inches in 
+parts of western Kansas and northwest Oklahoma as a surge of moist 
+air from the Gulf of Mexico glides over a warm front. Moderate to 
+heavy rains are also possible across parts of north and west Texas 
+and the rest of Oklahoma as showers and thunderstorms erupt after 
+moist air is lifted ahead of the upper-level low over New Mexico. 
+Showers and storms will arrive in Arkansas later in the day. Windy, 
+chilly and damp weather will persist across northern New England as 
+Atlantic moisture wraps inland around a stalled low pressure system 
+over the Gulf of Maine. However, spokes of low clouds rotating around 
+the low in the Gulf of Maine could spiral as far south as Boston. 
+With high pressure anchored over Quebec causing steering winds to 
+detour around the low, the inclement pattern will persist for most 
+of the weekend. Meanwhile, wet weather will be the tenor of the day 
+west of the Cascades in Washington and Oregon. Focus: Frost Above 
+Freezing Frost glazed parts of the Susquehanna River Valley in Pennsylvania 
+early Friday even though air temperatures stayed above 32 degrees. 
+Official air temperatures are measured about 5 feet above the ground 
+in order to avoid the extreme variations that often occur next to 
+the ground. On a clear, calm autumnal night, for example, the ground 
+cools very rapidly as it radiates its energy skyward while receiving 
+little energy back from the dry, cloudless atmosphere. In turn, air 
+temperatures next to the ground can fall to 32 degrees or below while 
+readings higher up are above freezing. 
+</TEXT>
+</DOC>

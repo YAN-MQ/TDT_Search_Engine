@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981124.1130.0383 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Forecasters say another strong storm will hit the pacific northwest 
+today. Wind gusts of nearly 90 miles per hour yesterday blew roofs 
+off buildings and cut power to tens of thousands in the Portland, 
+Oregon, area. Thousands more lost electricity in Washington state. 
+Heavy rain and several inches of snow hampered travel. The California 
+highway patrol shut 24 miles of interstate 80 because of whiteout 
+conditions. The storm caused at least one death. 
+</TEXT>
+</DOC>

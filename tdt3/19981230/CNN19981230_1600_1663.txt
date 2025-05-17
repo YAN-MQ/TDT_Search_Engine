@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981230.1600.1663 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now a look at the red-drenched opera house in Sydney, Australia . 
+Lights are coloring the landmark this week to Mark the start of Sydney's 
+cultural festival. I'm Chuck Roberts, "CNN Headline News." 
+</TEXT>
+</DOC>

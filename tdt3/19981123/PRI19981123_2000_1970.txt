@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981123.2000.1970 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Scientists have discovered the existence of what they call a jumping 
+gene. That's a gene that can move between different species of plants, 
+ignoring the normal route of evolution. The genes can appear in plants 
+as diverse as banana, coffee, cucumber and rubber trees. 
+</TEXT>
+</DOC>

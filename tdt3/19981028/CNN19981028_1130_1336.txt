@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981028.1130.1336 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The NBA and the players' union are expected back at the bargaining 
+table this afternoon, as they work toward ending the nearly 4-month-old 
+lockout. The two sides met for about four hours yesterday, discussing 
+noneconomic issues. 
+</TEXT>
+</DOC>

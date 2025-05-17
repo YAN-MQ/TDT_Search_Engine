@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981202.2000.2000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From the BBC News Room in London, this is Pamela McCall. You're listening 
+to The World. This is The World. A co-production of the BBC World 
+Service, PRI, and WGBH in Boston. I'm Lisa Mullins. 
+</TEXT>
+</DOC>

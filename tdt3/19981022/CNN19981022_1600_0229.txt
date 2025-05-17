@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981022.1600.0229 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Colorado river is nearing its crest in Wharton, Texas, a town 
+55 miles southwest of Houston. Near San Antonio, recovery crews pulled 
+the bodies of four family members, including a 2-month-old girl, from 
+a Creek today. The series of devastating rain storms that hit Texas 
+has killed 26 people statewide, and more than a dozen remain missing. 
+20 counties have been declared disaster areas, and damage estimates 
+are topping $1 billion. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981116.2130.0975 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Federal mediators are trying to resolve a labor dispute between federal 
+express and its pilots union. The two sides have not spoken since 
+October 30th, when the union rejected a 17% raise over five years. 
+FedEx is making contingency plans in case the pilots decide to strike 
+during the busy holiday season. It says overnight service would be 
+unavailable in some areas, and international deliveries would be extended 
+one day. 
+</TEXT>
+</DOC>

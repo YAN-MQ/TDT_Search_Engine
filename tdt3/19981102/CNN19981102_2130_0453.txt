@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981102.2130.0453 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the crew of the space shuttle "discovery" got a break from their research 
+today. senator john glenn and his fellow astronauts spent some time 
+admiring what glenn calls an awesome view of the earth. the astronauts 
+are about halfway through their mission and its 83 scheduled experiments. 
+</TEXT>
+</DOC>

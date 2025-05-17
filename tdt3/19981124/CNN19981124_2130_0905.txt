@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981124.2130.0905 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- attorney general Janet Reno says she will 
+not seek an independent counsel to investigate vice President Al Gore. 
+Reno says there is clear and convincing evidence that the vice president 
+didn't lie to investigators about his fund-raising. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981204.1830.0390 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street bounced back today, making up some of yesterday's big 
+losses. The Dow Jones industrial average gained more than 136 points. 
+The NASDAQ climbed almost 49 points. But, for the week, the Dow was 
+down, 317 points. 
+</TEXT>
+</DOC>

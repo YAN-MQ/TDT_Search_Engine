@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981124.2130.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The recent market rebound has helped lift consumers' spirits. The 
+conference board is reporting its consumer confidence index rose 6.7 
+points in November to 126 points. It's the first increase in four 
+months. 
+</TEXT>
+</DOC>

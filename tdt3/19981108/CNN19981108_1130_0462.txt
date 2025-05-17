@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981108.1130.0462 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The national extended weather forecast is next. After that, an unlikely 
+group tackles the problem known as the Y2K problem. 
+</TEXT>
+</DOC>

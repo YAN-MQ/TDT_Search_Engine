@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981225.1130.0198 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The latest attempt to circle the globe nonstop in a hot air balloon 
+is ending, far short of its goal. The project director for the effort 
+says the balloon was pulled into a Dangerous low-pressure system over 
+the pacific ocean and wouldn't have been able to break free for a 
+week. Balloonists Richard Branson, Steve Fossett and per Lindstrand 
+made it more than halfway around the world, and had hoped to be over 
+north America tonight. 
+</TEXT>
+</DOC>

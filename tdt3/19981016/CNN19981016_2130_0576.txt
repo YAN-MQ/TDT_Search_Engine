@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981016.2130.0576 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Pope John Paul is celebrating an anniversary. An estimated 20,000 
+poles made the trip to St. Peter's square today to help commemorate 
+the 20th anniversary of his elevation to the papacy. During morning 
+mass, the Pontiff said it was difficult to speak without getting emotional. 
+The native of Poland was 58 when he became Pope. He was the first 
+non-Italian to lead the Catholic church in 455 years. 
+</TEXT>
+</DOC>

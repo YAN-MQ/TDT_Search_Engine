@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981223.0130.1257 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jerome Jurenovich, "CNN Headline Sports." No comeback for the cats 
+this time. Duke jumped out to a big league and never looked back in 
+a 71-60 victory over Kentucky. 
+</TEXT>
+</DOC>

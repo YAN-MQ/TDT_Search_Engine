@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981114.0130.0578 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Traffic jams aren't just a problem for big-city drivers. A new study 
+finds commuters in small and medium-sized cities also experience traffic 
+congestion. The Texas transportation institute study finds that commuting 
+time in kansas city has increased 533% from 15 years ago. And drivers 
+in Indianapolis are sitting in traffic 700% longer. 
+</TEXT>
+</DOC>

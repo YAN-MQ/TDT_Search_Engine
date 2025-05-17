@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981027.0130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- the national hurricane center says hurricane 
+mitch is an extremely dangerous storm which is capable of causing 
+catastrophic damage. Thousands of people are being evacuated from 
+their homes. 
+</TEXT>
+</DOC>

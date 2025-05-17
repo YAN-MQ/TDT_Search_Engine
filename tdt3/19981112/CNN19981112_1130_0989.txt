@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0989 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Blue-chip shares inching higher, but most stocks retreating for a 
+fourth straight session. One analyst points to a number of reasons 
+for the recent action in the market. What's holding the market back 
+is, first of all, the market's done quite well. We all know it's up 
+20% from its October lows. Secondly, the foreign markets are down, 
+and we tend to move with them to some degree. And finally, there's 
+some uncertainty about what the fed's going to do with interest rates 
+next week. New tensions between the United Nations and Iraq shaking 
+up the bond market. The possibility of air strikes against Iraq growing 
+stronger today, sending many investors looking for stability. 
+</TEXT>
+</DOC>

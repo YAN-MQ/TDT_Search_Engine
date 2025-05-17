@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981229.0130.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And heavy rain and snow are causing frustration in the northwest. 
+Authorities in Washington have reopened two main highways through 
+the cascade mountains which were closed Monday for fear of an avalanche. 
+</TEXT>
+</DOC>

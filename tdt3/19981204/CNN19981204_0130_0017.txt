@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981204.0130.0017 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+From Atlanta, this is "CNN Headline News." I'm David Goodnow. Those 
+stories shortly. But first, the countdown is approaching for NASA's 
+second attempt to put space shuttle "endeavour" into orbit. NASA determined 
+a cockpit alarm that sounded and delayed the first launch attempt 
+on Thursday posed no threat to the mission. Forecasters predict a 
+60% chance of good weather for lift-off, which is set for 3:35 A.M. 
+eastern time. The astronauts will bring the second piece of the international 
+space station into orbit. Russia launched the first piece two weeks 
+ago. Construction of the station is a year behind schedule because 
+of financial problems in Russia. 
+</TEXT>
+</DOC>

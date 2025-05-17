@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981208.2130.0525 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Your cable Bill probably will go up again next year. The head of the 
+national cable television association says rates could rise 4% to 
+5% when they're deregulated at the end of March. Cable prices have 
+gone up an average of 7% over the past year. The industry attributes 
+the coming price hike to rising costs for labor, programming and upgrading 
+cable systems. 
+</TEXT>
+</DOC>

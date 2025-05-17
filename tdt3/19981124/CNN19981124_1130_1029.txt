@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981124.1130.1029 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A deal with big implications for cyberspace is official America online 
+will buy Netscape communications in a stock deal worth $4.2 billion. 
+AOL gets Netscape's popular navigator web browser as part of the deal. 
+AOL will also form an alliance with sun Microsystems, and sell some 
+netscape assets to sun. Microsoft, one of Netscape's major competitors 
+in the browser wars, claims it will benefit from the deal. Microsoft 
+says it weakens the government's antitrust case because it shows competition 
+is still alive in the industry. The government says the merger has 
+no bearing on its case. Looking at those stocks -- 
+</TEXT>
+</DOC>

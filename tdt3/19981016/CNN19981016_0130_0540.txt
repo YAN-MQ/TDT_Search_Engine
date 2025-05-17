@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CNN19981016.0130.0540 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal aviation administration has recommended that airplane 
+manufacturers replace the insulation material on all its commercial 
+aircrafts. The move comes after the crash of Swissair flight 111, 
+which killed all 229 people on board. Gary Tuchman has more. Inside 
+an aircraft hangar in southern New Jersey, the federal aviation administration 
+conducts testing for fires in aircraft. On the left, an old Boeing 
+707, on the right, the front portion of an old dc-10, where testing 
+currently under way involves the flammability of seats. But the testing 
+under scrutiny now is what you're seeing -- the examination of how 
+quickly airplane insulation catches ablaze. The FAA had started the 
+testing before the crash of Swissair flight 111, but in a telephone 
+conference call on Thursday declared that -- We determined it was 
+appropriate to accelerate the research. There is no evidence insulation 
+caused the Swissair crash, but the FAA is now recommending that the 
+insulation of virtually all passenger jets and the wrapping material 
+that covers it be replaced as soon as possible. The FAA says it's 
+the wrapping material that is the main concern. The testing has shown 
+that it is the casing material, the wrapping material, that can propagate 
+the fire. That material is made of metallic mylar. The FAA's preliminary 
+testing has identified two safer materials -- fiberglass and a material 
+called curlon. So it may be safe to say that we can't find anything 
+totally flameproof, but we can probably do a better job than we're 
+doing now. The world's largest aircraft manufacturer agrees. We see 
+the FAA's action as a good opportunity to incrementally raise the 
+safety level of insulation blankets that we have on our airplanes 
+today. The FAA will continue its insulation testing here for another 
+six months. By the time its done, the agency will likely have insulated 
+itself from any criticism it hasn't done enough about this issue. 
+Gary Tuchman, CNN, Atlantic City, New Jersey. 
+</TEXT>
+</DOC>

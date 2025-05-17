@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981102.2130.1022 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the blue chips are starting november off right. the dow jones industrial 
+average climbed 114 points today to close at 8706. 
+</TEXT>
+</DOC>

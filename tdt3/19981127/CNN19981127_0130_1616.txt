@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981127.0130.1616 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Scientists have discovered fossils of what they believe is the world's 
+oldest flower. The 142 million-year-old specimen was found in China 
+and has a Woody stem and peapod-shaped fruit. Researchers say the 
+fossil is from an evolutionary period when plants were first developing 
+the flowering system. Today's common plant food sources came into 
+existence after plants developed Flowers that attracted insects and 
+other pollinators. 
+</TEXT>
+</DOC>

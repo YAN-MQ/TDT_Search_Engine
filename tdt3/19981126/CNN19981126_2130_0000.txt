@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981126.2130.0000 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Weather problems can't keep a tradition down, but they do let the 
+air out of a few balloons. Hollywood mourns the death of a pioneer 
+in television comedy. And you can do your holiday shopping from the 
+comfort of your own computer. But is it safe? 
+</TEXT>
+</DOC>

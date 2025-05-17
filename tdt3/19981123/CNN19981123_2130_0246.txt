@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981123.2130.0246 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Computer users are awaiting word of a $4 billion merger between America 
+online and Netscape. The companies still are negotiating. With 14 
+million subscribers, AOL is the largest Internet provider in the world. 
+Netscape develops Internet software, such as browsers, that allow 
+people to navigate the world wide web. Also involved in the deal is 
+sun Microsystems, another computer industry giant. AOL says if the 
+deal goes through sun would be involved in the development and marketing 
+of Netscape products. Speculation about the possible merger helped 
+boost the Dow Jones industrial average to a record high. That tops 
+the previous record set on July 17th. 
+</TEXT>
+</DOC>

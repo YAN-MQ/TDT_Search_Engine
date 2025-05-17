@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981216.0130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- President Clinton has returned from the 
+Middle East, where he failed to convince Israeli prime minister Benjamin 
+Netanyahu to resume troop withdrawals from Palestinian territory. 
+Now Mr. Clinton must face what appears to be near-certain impeachment 
+in the House of Representatives. 
+</TEXT>
+</DOC>

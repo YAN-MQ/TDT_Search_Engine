@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981114.1130.1290 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Well, Tennessee has a big one today, but last night, the men's basketball 
+team had a battle of its own at the bca classic in New Mexico. The 
+number nine Vols were trailing 18th-ranked Arizona by one with time 
+winding down but could not get the shot to fall. Arizona won, 73-72. 
+Meanwhile, 20th-ranked New Mexico took this missed free throw by DePaul 
+with time winding down, and Lamont long raced the other way for the 
+game-winning layup. New Mexico walks away an 82-81 winner. And number 
+eight Kansas shook off some rust to beat Gonzaga, 80-66, and win their 
+61st straight game at home. 
+</TEXT>
+</DOC>

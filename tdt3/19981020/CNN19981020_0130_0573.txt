@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981020.0130.0573 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Madeline has weakened into a tropical depression at last report, it 
+was about 160 miles southeast of Los mochis, Mexico and heading northwest 
+at 12 miles an hour. Although the Mexican government has canceled 
+all watches and warnings, it says Madeline could spawn heavy rains. 
+Further south, hurricane Lester continues moving out to sea, with 
+90 mile-an-hour winds. 
+</TEXT>
+</DOC>

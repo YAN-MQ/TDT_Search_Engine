@@ -1,0 +1,80 @@
+<DOC>
+<DOCNO> NYT19981218.0484 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+You can surf the World Wide Web without one bit of Microsoft code 
+on your desktop, or one bit of Netscape Communications, for that matter. 
+You need never venture near Yahoo, America Online or any other self-described 
+portals. But every time you log into the Internet, you are touched 
+by the products and technology of one company: Cisco Systems. Wall 
+Street knows, of course. The second-most active stock in United States 
+markets, Cisco has more than doubled in price this year, making it 
+the sixth-best performer on the Standard &AMP; Poor's 500-stock index. 
+And in a market that values money-losing Amazon.com at $15.1 billion 
+and Yahoo at $21 billion, perhaps Cisco, with fiscal 1998 revenue 
+of $8.5 billion and earnings of $1.4 billion, or 84 cents a share, 
+deserves its market cap of $142.8 billion. Call it the thinking person's 
+Internet stock. Sure, its market capitalization is huge and its multiple 
+rich, but this is a company with real earnings from the Web right 
+now. Nothing is as ubiquitous on the Internet as Cisco's routers, 
+specialized computers that manage data traffic on a network using 
+the Internet Protocol, known as IP. More than 80 percent of the routers 
+connected to the Internet are Cisco's. And if you believe that the 
+Internet will grow, and that Cisco's technology can remain competitive, 
+then investing in Cisco is not so scary after all. Cisco has been 
+hitting new highs in recent weeks and closed on another one Friday 
+at $90.4375 on NASDAQ. That is about 62 times the consensus earnings 
+estimate of $1.47 a share for the company for the fiscal year ending 
+in July 1999. That multiple is more than twice the growth rate of 
+the consensus earnings estimate, so this is clearly an expensive stock. 
+But many technology analysts and fund managers say it is still a stock 
+to own. Of 28 analysts surveyed by First Call, which tracks earnings 
+estimates, 16 rate it a strong buy, 10 a buy and 2 a hold. ``Sure 
+it's not cheap for any stock, but the growth rate has been phenomenal 
+and should continue to be phenomenal going forward as long as data 
+traffic continues to grow,'' said Alec Murray, associate director 
+of research for MFS Investment Management, which owns 21 million Cisco 
+shares in its MFS family of mutual funds. ``It's not a screaming buy 
+here, but we think there is good upside potential in the stock,'' 
+he said. The mainstay of Cisco's business is still routers, which 
+perform the complex task of linking computer systems that may speak 
+different languages. But the company has also branched out to include 
+network switching devices, an alternative to routers, and remote-access 
+servers, which let employees in the field connect to the network. 
+Now Cisco is moving into equipment for telephone companies, offering 
+them the ability to add data traffic voice services. ``IP data is 
+growing by 1,000 percent per year, tripling every three months, and 
+Cisco is the direct beneficiary of that,'' said Al Tobia, an analyst 
+with Nationsbanc Montgomery Securities. ``The service providers have 
+to add more and more gear from companies like Cisco.'' Tobia has a 
+strong buy recommendation on Cisco, with a 12-month target price of 
+$100. ``There is certainly money to be made,'' he said. But it is 
+possible to admire Cisco the company without recommending the stock 
+at the current price. Paul Saghawa, an analyst with Sanford C. Bernstein, 
+has a rather lonely ``hold'' on Cisco, not because he dislikes it, 
+but because he believes the current multiple suggests a near-term 
+growth rate that may not be deliverable. ``If you ask me for a five-year 
+picture, I believe Cisco will emerge as a key supplier to the telecommunications 
+industry,'' he said. ``My problem is 1999. In order to make the numbers 
+the Street has assigned, Cisco needs 35 percent top-line growth.'' 
+But what if Cisco does not dominate the next generation of the Internet, 
+when true broadband services become universal? Paul Johnson, an analyst 
+with BancBoston Robertson Stephens, is widely known as the original 
+Cisco bull, but even he notes that no industry leader has maintained 
+dominance from one technology leap to another. IBM dominated the mainframe 
+computer business in the 60s, Digital Equipment the minicomputer in 
+the 70s, Microsoft the PC in the 80s and Cisco the network in the 
+90s. Who comes next? ``To own Cisco at this point, you have to believe 
+they own that next big thing, and I'm not sure I believe that,'' Johnson 
+said. Still, he maintains a buy rating on Cisco, he said, because 
+it is a well-managed company that will continue to grow. ``I don't 
+spend a lot of time telling people to buy Cisco, but I do recommend 
+it and take credit for its going up,'' he said. If you do believe 
+in the next chapter of Cisco's story, how do you buy shares? Michael 
+Murphy, editor of California Technology Stock Letter, suggests dollar-cost 
+averaging _ buying a fixed dollar amount on a fixed schedule. ``They're 
+always going to be expensive,'' he said. ``If you wait to buy on a 
+value basis, you will never own Cisco.'' 
+</TEXT>
+</DOC>

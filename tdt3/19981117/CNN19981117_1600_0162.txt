@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981117.1600.0162 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It takes a lot of tax money to keep Iraqi President Saddam Hussein 
+in line. Since the Persian gulf war, U.S. taxpayers have spent $7 
+billion on military buildups in the region. Just maintaining a presence 
+there costs an additional $50 billion a year. That means one-sixth 
+of the annual U.S. defense budget goes to maintaining the gulf deployment. 
+If an air strike had happened last weekend, it would have cost another 
+$1 billion. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981123.1600.0269 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Two key players on the Internet may soon be one. America online and 
+Netscape are considering a merger. That would position them to take 
+on computer giant Microsoft. The $4 billion buyout could allow AOL 
+to run Netscape's netcenter website and distribute its browser. That 
+would be a real boost for AOL as it tries to increase its market share. 
+We'll have more on this story in our business report at 16 minutes 
+past the hour. 
+</TEXT>
+</DOC>

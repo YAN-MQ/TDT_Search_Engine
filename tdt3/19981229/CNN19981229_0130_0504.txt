@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981229.0130.0504 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News" weather, I'm Karen Maginnis. 
+The mildest readings will be found across the southwester U.S. into 
+Texas and into Florida. While bitterly cold air sweeps down from Hudson 
+bay into the midwest. Temperatures will be below zero to the teens. 
+Here's what we're looking at for the Tuesday forecast going into Wednesday. 
+Frontal system slips across the midwest and the central Mississippi 
+valley and the Great Lakes bringing with it some gusty winds but temperatures 
+behind the front will be drop rather dramatically. Expect more snowfall 
+into the Rockies mountain region and wet weather expected for the 
+pacific northwest. Minus 15, that is expected high temperature for 
+Tuesday in Fairbanks, alaska. Our extended forecast for Wednesday, 
+still calling for snowfall into the midwest. On Thursday, colder temperatures 
+sweep through the central plains and now invading the northeast and 
+New England. And then by Friday, more snowy weather across the Canadian 
+border states and temperatures moderate just a few degrees across 
+the northern tier. For more weather information log on to CNN.com. 
+</TEXT>
+</DOC>

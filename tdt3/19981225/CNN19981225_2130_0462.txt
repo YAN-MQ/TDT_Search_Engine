@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981225.2130.0462 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In the Yugoslav province of Kosovo, there was a Christmas funeral 
+today as ethnic Albanians mourned the latest victim of violence. Friends 
+of the dead man say he was shot in cold blood by Serbian forces during 
+a raid in which nine others were killed. The violence is the worst 
+since Serbs ended a bloody crackdown against albanian separatists 
+in October, after the threat of NATO air strikes. 
+</TEXT>
+</DOC>

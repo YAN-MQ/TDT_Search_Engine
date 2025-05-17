@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> APW19981021.0849 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Flight 503 was carrying a mockup of Eutelsat's W2 satellite and an 
+``Atmospheric Reentry Demonstrator,'' the European Space Agency said 
+earlier. The first Ariane 5 crashed in June 1996 and another launch 
+was less-than-perfect since then. Wednesday's third launch was critical 
+for the rocket, which officials see as a vehicle to boost Europe's 
+commercial space launch industry even further along its success route. 
+ESA said in June that trouble with the Ariane 5 -- with twice the 
+power and payload capacity of the Ariane 4 -- forced officials to 
+switch a Eutelsat satellite to an Ariane 4. In February, Arianespace 
+admitted that the rocket experienced a spin problem on its test launch 
+last Oct. 30. Arianespace, the business arm of the European Space 
+Agency, dominates the world's commercial launch market, competing 
+with U.S., Russian and Chinese firms. 
+</TEXT>
+</DOC>

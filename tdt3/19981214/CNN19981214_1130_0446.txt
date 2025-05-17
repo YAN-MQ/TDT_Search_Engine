@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981214.1130.0446 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The state department believes terrorist attacks are being planned 
+on U.S. facilities in and around the Persian gulf region. U.S. embassies 
+there have been warned about possible attacks over christmas, or the 
+Muslim fasting month of Ramadan. Diplomatic sources in the region 
+say soft U.S. targets, similar to the embassies in Kenya and Tanzania, 
+are also possible targets. They say last time they thought the threat 
+was in the gulf, the attacks came in east Africa. 
+</TEXT>
+</DOC>

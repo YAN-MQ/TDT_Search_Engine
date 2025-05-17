@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981024.1000.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+From the risky game of Wall Street trading to pro football and baseball, 
+this week in business had a sportsman-like theme. Sachi Koto gives 
+us a play-by-play. On Wall Street, blue chip stocks ended the week 
+on a down note following seven consecutive sessions of gains. The 
+Dow Jones industrial average closed Friday down nearly 81 points to 
+8452. 
+</TEXT>
+</DOC>

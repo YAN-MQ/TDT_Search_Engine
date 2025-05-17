@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981222.1130.0621 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There is a little more than a year left before we find out just how 
+bad the year 2000 computer bug really is. A community in Maryland 
+has prepared itself for the worst case scenario as rick Lockridge 
+reports. Will these be the sites and sounds that greet the new millennium? 
+You all right in there? We're going to be a couple of minutes? All 
+right. We're getting a couple of tools together. a rescue at a stalled 
+elevator. Traffic control supervisors scrambling to fix malfunctioning 
+signals, a Room full of emergency officials assessing the impact of 
+the year 2000 computer glitch. It is a January 1st, year 2000. This 
+possible glimpse of things to come, a day-long drill by a Maryland 
+county that spent thousands of hours trying to make sure it won't 
+be derailed by Y2K day. We set out about two and a half years ago 
+to occupy a leadership position on the year 2000 issue and I think 
+that we've sustained that. The county rolled its computers forward 
+to January 1st2000, a Trigger point for the Y2K date recognition problem. 
+County officials watched to see if their administrative, traffic control 
+and 911 emergency dispatch computers would crash. They did not. Montgomery 
+county, 911, what is your emergency? It functioned properly. There 
+fwhor operational problems no systems problems. They acknowledge Y2K 
+problems could develop well after 1100 but they say they'll keep testing. 
+Other counties may want to take note of their example. In light of 
+a recent survey that finds half of all U.S. counties without adequate 
+Y2K plans and 75% without emergency plans in case of a crash N if 
+those numbers are correct, how many will be able to face their constituents 
+and answer the question this county set out to answer? What with can 
+he expect to present ourselfs to our citizens as being open for business? 
+Counties that doddle may find themselves in a real jam. Rick Lockridge, 
+CNN, Rockville, Maryland. 
+</TEXT>
+</DOC>

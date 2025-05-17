@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981109.1830.1536 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A review of the lead story. Bob Livingston has all but locked up the 
+Royce -- he is going to have to deal with the issue of impeachment. 
+</TEXT>
+</DOC>

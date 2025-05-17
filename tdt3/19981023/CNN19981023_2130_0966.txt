@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981023.2130.0966 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+About 3 million New York Yankee fans attended a parade in Manhattan 
+today. Those stories and more in 15 minutes. 
+</TEXT>
+</DOC>

@@ -1,0 +1,88 @@
+<DOC>
+<DOCNO> NYT19981103.0320 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Electronic cash may be joining jet packs, video phones and other world's 
+fair wonders that never move from the future to the present. In the 
+latest of many notable failures for what has been promoted as the 
+future of money, Citibank and Chase Manhattan have decided to shut 
+down their test of electronic cash, the nation's biggest trial of 
+the technology to date. The banks issued the so-called smart cards 
+_ cards with embedded computer chips _ to nearly 100,000 people who 
+live on the Upper West Side of Manhattan. Customers could transfer 
+cash from their bank accounts onto the cards at automated teller machines 
+and spend the money at 600 merchants. In theory, this would make small 
+purchases faster and easier than with coins and bills. But in reality, 
+most people who tried the system never loaded their cards a second 
+time. And with few people using the cards, two-thirds of the merchants 
+dropped out. Indeed, in the program's first year, less than $2 million 
+was spent using all of the cards. ``Unfortunately, we weren't able 
+to make the consumers' life easier,'' said Carole Lockie, a vice president 
+of Visa USA, which worked with the New York banks and Mastercard International 
+on the test. Chase and Citibank customers with smart cards will be 
+able to load their cards and spend money at the remaining merchants 
+until the end of the year. They will then have until six months after 
+the expiration date on their cards to transfer any remaining cash 
+from the cards to their bank accounts. Other similar tests of electronic 
+cash have produced similar disappointments. Visa introduced its Visa 
+Cash smart card at the 1996 Summer Olympics in Atlanta, with the hope 
+of continuing to operate and expand the system there. In fact, the 
+system has all but shut down and most of the banks have withdrawn. 
+Last year, Mastercard closed the introductory test of its Mondex smart 
+card system in Swindon, England. And it just said it would end a similar 
+test in Guelf, Ontario. ``Smart cards are a technology chasing a business 
+case,'' said Richard Speer, chief executive of Speer &AMP; Associates, 
+a financial consulting firm. He said that the widespread acceptance 
+of inexpensive terminals that merchants can use to accept credit and 
+debit cards has undercut the need for electronic cash. Proponents 
+of smart cards maintained that the technology will ultimately prove 
+popular; in the test by Chase and Citibank, they said, consumers were 
+discouraged because they could not use their cards in all parts of 
+the city. ``When you localize your test on the Upper West Side, you 
+realize your usage will be suppressed, because everyone leaves the 
+Upper West Side,'' said Judy Darr, director of smart card programs 
+at Citibank, a unit of Citigroup. Yet the banks found it too difficult 
+to expand the number of places accepting the cards, because there 
+was little appeal to merchants to take it. ``This is a real chicken-and-egg 
+case,'' said Ronald Braco, senior vice president of Chase. ``Merchants 
+don't want something where they get only a few transactions a day.'' 
+While smart-card technology may eventually prove to be faster and 
+easier than cash, merchants found that the versions in the tests were 
+slow and cumbersome. Customers chose mainly to use the smart cards 
+at grocery stores, which already take credit and debit cards. They 
+were less interested in using the cards at newsstands and other stores 
+that typically only accept cash. Moreover, the card couldn't be used 
+in pay telephones, vending machines or other devices that require 
+change. The New York banks did put smart-card readers on laundry machines 
+in some apartment buildings and found that cards were used 30 percent 
+of the time. The New York smart-card test was announced in April 1996, 
+and introduced in October 1997. At its introduction, promoters said 
+that the combination of New York's two largest banks and the world's 
+two biggest credit-card companies would give the test the critical 
+mass it needed to overcome the problems that earlier tests of the 
+technology had faced. Beyond the difficulties the banks faced in getting 
+customers and merchants to use the system, their prospects of making 
+money from smart cards remained daunting. Initially, the banks hoped 
+that consumers would pay $1 or $1.50 a month to use the cards and 
+that merchants would pay fees to accept them, just as they do now 
+to take credit cards. But during the test, the banks were forced to 
+give cash rebates to customers to try the cards and to merchants to 
+promote acceptance. Still, neither of the banks is giving up on smart 
+cards completely. Braco said that Chase is working on a new smart-card 
+product it hopes to test next year. The new version will have multiple 
+features, including the ability to make purchases over the Internet 
+and to keep track of bonus points at various merchants' frequent buyer 
+programs. ``We've learned it takes more than just a plain vanilla 
+stored-value product to be successful,'' Braco said. ``People find 
+that if there is an incentive to use the card, they will use it more 
+often.'' Chase and Mondex are already testing a smart card system 
+at four Burger King restaurants on Long Island that reward customers 
+for frequent purchases. And Citibank says there is likely to be more 
+use of smart cards outside of the United States. It is going to introduce 
+electronic cash products in Mexico, Hong Kong and other countries. 
+The banks and credit card companies say there are also numerous applications 
+for smart cards in closed environments like college campuses and military 
+bases, in which the cards can be used both for payment and identification. 
+</TEXT>
+</DOC>

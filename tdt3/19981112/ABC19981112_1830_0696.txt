@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981112.1830.0696 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones was up just under six points to 
+close at 8829. On the NASDAQ, stocks lost 11 points. 
+</TEXT>
+</DOC>

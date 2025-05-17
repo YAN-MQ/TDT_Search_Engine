@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> CNN19981017.0130.0506 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist rose stabler in the CNN weather center with your 
+"Headline News" forecast. Scattered showers Saturday morning in the 
+northwest, with snow over the central Rockies, and heavy rainfall 
+in the plains states, due to a frontal system. As we work our way 
+into Saturday evening, we'll see a mixture of snow and rain develop 
+over the northern and western Great Lakes, and heavy rainfall develop 
+and extend all the way into Sunday morning over Arkansas, northern 
+louisiana and Texas. Otherwise, beautiful in the west and in the east 
+by Sunday morning, with high pressure over both areas. We'll see highs 
+on Saturday, in the 40s and 50s in the northwest, 50s in New England, 
+otherwise 60s, 70s and 80s. So, generally cool temperatures across 
+the country for Saturday. Your extended forecast showing snow and 
+showers out to be pretty heavy in the Great Lakes on Sunday. And then 
+that precipitation will extend down into Texas and Louisiana, where 
+we will see thunderstorms. Windy conditions throughout the extended 
+forecast period over the southern rockies. Scattered thunderstorms 
+Monday over the deep south with some snow showers in the extreme northern 
+sections of the country. And then, on Tuesday, a mix of snow and rain 
+in the Great Lakes, and that area of rain will push to the central 
+U.S. as we go into Texas, we'll see thunderstorm activity. And remember, 
+you can get your four-day forecast for 6,100 cities at cNN.com. 
+</TEXT>
+</DOC>

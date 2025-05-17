@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981201.1130.0419 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An audit of the Internal Revenue Service shows lax security when it 
+comes to taxpayers' checks. A report by the congressional general 
+accounting office shows the IRS used unarmed bicycle couriers to transport 
+millions of dollars in taxpayer checks. It also hired employees for 
+sensitive positions before completing background checks. IRS commissioner 
+Charles Rossotti says the agency is already taking steps to improve 
+security weaknesses. 
+</TEXT>
+</DOC>

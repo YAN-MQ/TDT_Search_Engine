@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981229.1830.1102 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One more note -- the long distance industry takes in close to $40 
+billion from consumer phone calls each year. That works out to an 
+average monthly Bill of $27.50. 
+</TEXT>
+</DOC>

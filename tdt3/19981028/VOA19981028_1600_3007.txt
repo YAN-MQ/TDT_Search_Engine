@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981028.1600.3007 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Well, U.S. orders for durable goods rose in September for the fourth 
+consecutive month. However, most of that gain came from an increase 
+in Defense Department orders. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981024.1000.0327 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton heads to California today for a political weekend. 
+He'll attend several fund-rasing events for democratic candidates 
+in Los angeles, then travel to San Francisco and Oakland before returning 
+to washington Monday. The trip had been scheduled for this past Tuesday, 
+but was postponed so Mr. clinton could stay close to the mideast peace 
+talks in Maryland. 
+</TEXT>
+</DOC>

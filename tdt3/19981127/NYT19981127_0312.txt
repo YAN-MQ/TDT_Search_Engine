@@ -1,0 +1,130 @@
+<DOC>
+<DOCNO> NYT19981127.0312 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+As many as half the handguns used in crimes had been purchased from 
+federally licensed dealers within the previous three years, passing 
+far more quickly from manufacturer to dealer to criminal than previously 
+believed, according to new federal law-enforcement data that are expected 
+to play a major role in lawsuits against the handgun industry. That 
+finding, along with other evidence that is emerging in the suits, 
+challenges a long-held view that most guns used in crimes are stolen, 
+say academic experts, gun-control advocates and lawyers suing the 
+gun makers. They say the data show that many handguns enter an illegal 
+black market even as they leave the store, contrary to the industry's 
+argument that its dealers are not the source and that measures like 
+better inventory control and tighter regulation would do little to 
+keep guns from criminals. ``The data is hugely significant, because 
+it shows that there is a stream of guns, especially semiautomatic 
+handguns, that are moving very rapidly out of gun stores into the 
+hands of criminals,'' said David Kennedy, a researcher at the John 
+F. Kennedy School of government and director of the Boston Gun Project, 
+which has helped reduce juvenile violence in Boston by identifying 
+and cracking down on gun dealers who sell to minors. ``It means this 
+is something we can fix,'' Kennedy said. Spokesmen for the gun industry 
+call the statistics exaggerated and argue that in any case, the length 
+of time between sale and crime is a poor gauge of whether a gun has 
+most likely been stolen. One of the first tests of the research's 
+significance will be in New York, where Hamilton vs. Accu-Tek, a suit 
+brought by the relatives of gun violence victims, is scheduled for 
+trial this January in U.S. District Court in Brooklyn, N.Y. This suit, 
+like one brought by the city of Chicago, accuses gun makers of creating 
+a public hazard by flooding the market with their products and, through 
+negligence in distribution control, virtually guaranteeing that some 
+guns will wind up in the hands of people who have no business owning 
+them. A study prepared for the plaintiffs in the Hamilton case, based 
+on data compiled by the federal Bureau of Alcohol, Tobacco and Firearms, 
+contends that nearly 40 percent of the handguns used in crimes around 
+the country had been purchased from licensed dealers within the preceding 
+three years. The bureau itself, which is collecting the data as part 
+of a major new effort to trace the origins of handguns confiscated 
+in crimes, has reported that 48.8 percent of the confiscated guns 
+that it could trace had been sold by dealers within the previous three 
+years. ``I think there is a large segment of gun makers who should 
+know that criminals and young people are a large share of their market,'' 
+said Kristen Rand, a lawyer for the Violence Policy Center, a research 
+and advocacy group in Washington. ``The great unknown is whether they 
+deliberately turn a blind eye because they don't want to know what 
+is happening.'' Guns legally move from a manufacturer to a distributor 
+and then to licensed dealers. But the new data suggest that many handguns 
+enter the illegal market through dealers who sell them to straw purchasers 
+acting for other customers, to out-of-town buyers who cannot legally 
+buy guns back home, or to buyers who lack gun permits. In Chicago, 
+for example, which has one of the nation's most restrictive gun laws, 
+undercover officers recently went to suburban dealers and were able 
+to buy guns while posing as members of city street gangs. Chicago 
+is using evidence from that sting operation to seek hundreds of millions 
+of dollars in a lawsuit against gun makers. Both the analysis prepared 
+for the Hamilton case and the data compiled by the ATF are strongly 
+disputed by the gun industry. ``Obviously if a gun is stolen, it can 
+be stolen when it is young, so their assumption is incorrect, that 
+short `time to crime' means the gun is purchased by a criminal and 
+not stolen,'' said James Dorr, a Chicago lawyer who represents three 
+of the gun makers named in the Hamilton suit: the Smith &AMP; Wesson 
+Corp.; Sturm, Ruger &AMP; Co., and the Colt's Manufacturing Co. In 
+addition, Dorr said, the analysis in the Hamilton suit and the firearms 
+agency's own estimate fail to take sufficient account of the large 
+number of guns that for any of several reasons _ their age, perhaps, 
+or the erasure of their serial numbers _ cannot be traced to the manufacturer 
+and licensed dealers. ``Given all of this, we think their high-end 
+figure is meaningless,'' Dorr said of the ATF's estimate. But officials 
+of both the firearms agency and its parent, the Treasury Department, 
+said their data had been carefully weighted to include guns that could 
+not be traced. That is why the agency provided a range, one official 
+said, with a low estimate that 26.6 percent of all guns seized in 
+crimes had been purchased within the last three years. The high estimate 
+of 48.8 percent reflects only those guns traced to dealers. The figures 
+were based on a study of all handguns seized by the police in several 
+cities during 1996 and 1997. The estimates in the Hamilton case are 
+based on a different set of data: the firearms agency's figures on 
+confiscated handguns traced nationwide from 1989 to 1997. These estimates 
+were prepared by economists with National Economic Research Associates, 
+New York consultants who often provide expert testimony for corporations. 
+The economists, working for Elisa Barnes, the lawyer who filed the 
+Hamilton suit, estimated from ATF data that 23 percent to 25 percent 
+of all handguns sold from 1989 to 1992 had been used in a crime by 
+the end of 1997, and that 54 percent of handguns used in a crime in 
+New York state had been purchased within the preceding three years. 
+In addition, the economists estimated from the agency's data that 
+90 percent of handguns used in crimes in New York state were originally 
+sold in other states. More than half the handguns used in crimes in 
+New York, the economists concluded, were brought in from just five 
+states, all with lax gun-control laws: Virginia, Florida, Georgia, 
+North Carolina and South Carolina. Statistical analysis proves, the 
+economists said, that the sales in these states with weak gun-control 
+laws ``are higher than can be explained by legitimate demand _ suggesting 
+that a substantial proportion of sales in such states are not for 
+legitimate purposes but for resale to the criminal market.'' They 
+contend that gun makers deliberately oversupply dealers in these Southern 
+states, knowing that the excess guns will be taken to states like 
+New York with strong gun laws. A review of depositions by some of 
+the 50 gun makers being sued in the Hamilton case, the economists 
+said, ``suggests that many if not all manufacturers deliberately chose 
+not to exercise any supervision over the distributors and dealers 
+to which they sell.'' That, Dorr said, is ``absolutely incorrect.'' 
+Such accusations ``ignore the regulatory system'' in which all dealers 
+must be federally licensed and all handgun sales are ``pre-approved'' 
+by law enforcement officials, under either the Brady Law or equivalent 
+state laws. If there are rogue dealers selling to criminals, he said, 
+it is up to law enforcement to arrest them. Moreover, Dorr said, although 
+the firearms agency usually communicates with the manufacturer when 
+doing a trace of a gun seized in a crime, it does not disclose anything 
+about the crime, or even that there has been one, leaving the gun 
+maker in the dark about whether its product has actually been used 
+for criminal purposes. Ms. Barnes, the lawyer in the Hamilton suit, 
+said gun makers could reduce the number of guns flowing to criminals 
+by adopting modern inventory control and other strict distribution 
+standards. Such measures are already widely used by the makers of 
+other hazardous products, like scuba gear and certain chemicals and 
+paints. Coincidentally, the five-day waiting period required before 
+buying a handgun under the Brady Law will expire on Monday. It is 
+supposed to be replaced by a system in which gun dealers can immediately 
+get information, from computers set up by the FBI or state police 
+agencies, on whether a customer is a convicted felon. But Ms. Rand, 
+of the Violence Policy Center, said that ``nobody knows what will 
+happen'' on Monday, because Congress has not approved sufficient money 
+to create the FBI system and many states have moved slowly to set 
+up databases of their own. 
+</TEXT>
+</DOC>

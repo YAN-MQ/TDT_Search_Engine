@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981104.1130.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And international groups are rallying to provide aid to victims of 
+hurricane Mitch in central America. Rescue workers say the death toll 
+of about 9,000 could grow, due to starvation and illness. 
+</TEXT>
+</DOC>

@@ -1,0 +1,130 @@
+<DOC>
+<DOCNO> NYT19981208.0427 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A secret Pentagon report concludes that Hughes Space and Communications, 
+without proper authorization, gave China technological insights that 
+are crucial to the successful launchings of satellites and ballistic 
+missiles. According to the report, completed on Monday, Hughes scientists 
+helped Chinese engineers in 1995 to improve the sophisticated mathematical 
+models necessary to predict the effects of wind, high-atmosphere buffeting 
+and other natural forces on a rocket launching. These formulas are 
+important to designing nuclear missiles and launching satellites that 
+do not explode or break apart. They help technicians calculate the 
+appropriate angle of launch, the shape of the nose cone of the rocket, 
+the tolerable limits of weather and other factors. The Chinese, the 
+Pentagon said, had been using an ``oversimplified'' mathematical analysis, 
+resulting in a series of failed satellite launchings. Hughes pointed 
+out that shortcoming to the Chinese in 1995, when its scientists helped 
+investigate the failed launching of a Hughes commercial communication 
+satellite atop a Chinese rocket. The report concluded that Hughes 
+had provided a ``defense service'' to China that violated American 
+standards against helping Beijing make better satellites and missiles 
+and required a State Department review. The company's assistance to 
+China ``raises national security concerns both with regard to violating 
+those standards and to potentially contributing to China's missile 
+capabilities,'' the report said. The company, and other American aerospace 
+concerns, were eager to use Chinese rockets because they are cheaper 
+than American or European competitors, but only if they could be made 
+reliable. The Pentagon report said that contact between Hughes engineers 
+and Chinese scientists allowed the Chinese to gain ``specific insight 
+into specific launch vehicle design and operational problems and corrective 
+actions.'' The report also says Hughes showed Chinese scientists flaws 
+in the way they were attaching the cargo of rockets to the rockets 
+themselves, including the strength of the rivets they used and the 
+shape of the nose cone. In the case of the Chinese launchings, the 
+cargo was satellites, but the technology is applicable as well to 
+attaching a nuclear warhead to a missile. A spokeswoman for Hughes, 
+which has denied any wrongdoing in the case, said that the company's 
+actions were approved at the time by the Commerce Department, which 
+she said was the ``appropriate licensing authority.'' The Pentagon 
+report did not say whether China had used the information for military 
+purposes, but it said the transfer did not likely alter the strategic 
+military balance between China and the United States. ``What it taught 
+them how to do, which they evidently didn't know how to do, is analysis 
+on the stresses on a launch vehicle as it goes into the upper atmosphere,'' 
+said one administration official who has read the report. The official 
+added that what Hughes taught the Chinese ``could be directly applicable 
+to military systems, although we have no information that it has been.'' 
+An unclassified version of the Pentagon report, consisting of 11 pages 
+and a two-page appendix, was made available by a government official 
+who favors tighter controls on satellite technology. The Justice Department 
+has been examining whether Hughes and Loral Space and Communications 
+violated export laws when they helped Chinese rocket scientists understand 
+the causes of another failed launching in 1996. That investigation 
+has now been expanded to include whether Hughes violated export control 
+laws in 1995. Hughes is a subsidiary of Hughes Electronics, which 
+is owned by General Motors. The Pentagon report is the first indication 
+that Hughes gave China valuable information involving the failed launching 
+of 1995, and provides the most detailed account to date of what the 
+Chinese might have gained from their contacts with the American aerospace 
+companies. The Pentagon did not see the entire picture. Some relevant 
+Hughes documents, unavailable for the Pentagon review, are being analyzed 
+separately by intelligence officials as part of the criminal investigation, 
+for which they were subpoenaed. Despite its limitations, the Pentagon 
+report is likely to provide fresh ammunition to critics of President 
+Clinton's 1996 decision to loosen controls over satellite exports 
+to China, a decision for which Hughes officials campaigned heavily 
+within the administration and which Congress reversed this fall. ``Our 
+suspicions that technology can be transferred in these situations, 
+that you can improve the reliability of Chinese rockets/missiles, 
+were well founded,'' Sen. Thad Cochran, R-Miss., said Tuesday. He 
+is chairman of a Senate committee that has examined the issue, and 
+he requested the Pentagon report. Three years later, when the next 
+rocket exploded for what the Pentagon said were identical reasons, 
+the Commerce Department approved an accident review by Hughes without 
+consulting the State Department. As a result, no Pentagon monitors 
+attended the sessions with the Chinese. The Commerce Department has 
+acknowledged that this was a mistake. In addition, in 1995, the CIA 
+ignored warnings raised that year by one of its scientists, Ronald 
+Pandolfi, that Hughes may have provided crucial ballistic missile 
+technology to China. Pandolfi has now emerged as a key witness in 
+the criminal investigation. A Hughes document obtained by investigators 
+in connection with the 1995 review indicates that Hughes officials 
+disliked the idea of government monitors, according to an administration 
+official. In 1995 the chairman of Hughes, C. Michael Armstrong, led 
+a lobbying effort to ease controls over satellite exports by shifting 
+authority from the State Department, which requires monitors, to the 
+less restrictive Commerce Department. Clinton named Armstrong to head 
+his prestigious export council. At the council's first meeting, on 
+Feb. 13, 1995, Clinton said ``I don't think we've done nearly enough'' 
+on easing export controls, according to a White House e-mail. That 
+same day Hughes provided its first ``failure presentation'' to Chinese 
+officials. By July, the company completed its final report. A month 
+later the Commerce Department gave its blessing to Hughes. But Pandolfi, 
+the CIA analyst, didn't like what he saw when he visited Hughes' scientists 
+in 1995. ``What they told him they were sharing and how far the company 
+had been willing to go, he thought it was questionable from the standpoint 
+of national security,'' said an associate of Pandolfi. But the agency 
+killed Pandolfi's study and no one in Washington paid any more attention 
+to the issue. The Hughes report, though, was carefully read in China. 
+According to an administration official, the Chinese adopted the recommendations 
+contained in the Hughes report. The issue of satellite exports to 
+China became the subject of increased scrutiny last spring, after 
+The New York Times reported on the Justice Department inquiry into 
+the 1996 review by Loral and Hughes. Last July, the Senate subcommittee 
+on proliferation, headed by Cochran, looked into the 1995 Hughes launching. 
+William Reinsch, the undersecretary of commerce for export administration, 
+told the panel that Hughes' release of its report to the Chinese was 
+``appropriate and without risk to national security,'' but his department 
+should have referred the matter to the State Department for prior 
+review. Pentagon officials told the committee that they had just received 
+the Hughes material from Commerce a few hours earlier so they could 
+not yet assess the impact. Steven Dorfman, vice chairman of Hughes, 
+assured the committee that ``no material technology was transmitted 
+to the Chinese that would help them build missiles.'' Last summer, 
+in the wake of congressional inquiries, Pandolfi told his superiors 
+that he had relevant information, including detailed contemporaneous 
+notes taken during his trip to Hughes in 1995. He was questioned by 
+agents of the U.S. Customs Service and aides of the Senate Intelligence 
+Committee. Investigators say they next wanted to question officials 
+at Hughes about what Pandolfi had learned on his trip. But before 
+those interviews took place someone at the CIA alerted Hughes _ a 
+major supplier of spy satellites to the intelligence community _ to 
+the investigators' next move. As a result, the interviews at Hughes 
+never took place. But now the spy agency's heads-up is part of an 
+investigation into whether the CIA obstructed the investigations of 
+Hughes. Agency officials deny the CIA intended to obstruct any investigation. 
+</TEXT>
+</DOC>

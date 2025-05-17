@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> VOA19981022.0600.2914 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+And finally, with congressional and some local elections coming up 
+next month, some political pollsters in the United States are looking 
+to see if the Internet is a viable medium to gauge voter choices. 
+According to "The New York Times," Harris Black International and 
+Excite are conducting four on-line polls on the November 3 voting. 
+The polls will track the sentiments of registered voters in senatorial 
+and gubernatorial races in 16 states. The newspaper says that the 
+Harris Company wants to determine whether Internet polls can approximate 
+the accuracy of polls conducted by telephone. Using the Internet would 
+be cheaper and less intrusive. 
+</TEXT>
+</DOC>

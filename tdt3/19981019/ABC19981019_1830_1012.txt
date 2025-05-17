@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981019.1830.1012 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Other news, on the southern ace stralian island of tasmania today, 
+100 pilot whales have died. They moved the whales out to sea only 
+to have them return to shallow water. Once a whale gets stuck, it 
+sends out distress calls that bring others to help. 
+</TEXT>
+</DOC>

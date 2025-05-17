@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> APW19981012.0488 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A power outage blacked out wide areas of the main Luzon island for 
+several hours Monday, disrupting operations at Manila's international 
+airport and at the presidential palace. A breakdown in two power plants 
+and a major power transmission line south of Manila caused the outage, 
+the state-run National Power Corporation said. A Napocor official 
+said they were investigating the cause of the breakdown in the plants 
+but said they did not suspect any sabotage. It took at least five 
+hours to restore power in Manila and most other areas, officials said. 
+At the Ninoy Aquino International Airport in Manila, emergency power 
+generators failed to activate for at least 15 minutes, halting cargo 
+conveyor belts and preventing movable passageways to be connected 
+to planes at the passenger terminal. Executive Secretary Ronaldo Zamora 
+said generators provided power at the Malacanang presidential palace 
+but many offices were without power for hours. President Joseph Estrada 
+is on a four-day state visit in Singapore. A power crisis in 1992 
+during the term of President Corazon Aquino caused up to 12 hours 
+of outages in most of Luzon daily, seriously hurting Manila's economy. 
+</TEXT>
+</DOC>

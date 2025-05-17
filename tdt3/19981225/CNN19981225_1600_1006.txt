@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981225.1600.1006 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street and most of the markets around the world are closed today 
+in observance of Christmas. In the shortened trading week that ended 
+yesterday. The Dow soared 314 points. That's 3.5%. with the Dow at 
+nearly 9218, it's up nearly 17% so far this year. The NASDAQ composite 
+led by technology stocks had soared even more, up 37% for the year. 
+Helping those gains, stunning returns from initial public offerings 
+in the internet sector. Some of the best performers this year -- eBAY 
+surging nearly 1,500%. The online auctioneer is trading at 16 times 
+its offering price of $18. Ubid surging 711%. That stock made it's 
+debut earlier this month. And inktomi, a developer of software applications, 
+is up 655%. Broadcast.com gaining 424%. It's a provider of audio and 
+video on the web. And ticketmaster online city search surging 368%. 
+Its initial offering price was $14. 
+</TEXT>
+</DOC>

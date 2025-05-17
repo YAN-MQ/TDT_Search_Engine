@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> CNN19981229.0130.0697 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This mouse, and some two dozen others, may be leading the way for 
+human victims of spinal cord injuries. The rodents had their hind 
+legs paralyzed, leaving them unable to walk. But days after they were 
+given an experimental drug, almost all could walk again. The drug 
+is called cm 101. If cm 101 can prevent neuronal degeneration in humans 
+as it does in mice, then we should be able to do some good in acute 
+spinal cord injury. This is how it works. After a spinal cord injury, 
+scar tissue forms and can prevent nerves from reconnecting. Cm 101 
+stops the scar tissue from growing and allows the nerves to reconnect. 
+But just because it works in mice doesn't mean it will in humans. 
+The researchers hope to conduct human tests in 1999. For the latest 
+health news online, check out CNN.com/health. for "your health," Armey 
+jarin, "Headline News." 
+</TEXT>
+</DOC>

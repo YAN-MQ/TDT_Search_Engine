@@ -1,0 +1,74 @@
+<DOC>
+<DOCNO> NYT19981201.0431 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+New federal regulations requiring buyers of virtually all types of 
+firearms to undergo instant background checks went into effect this 
+week, and gun control groups, privacy advocates and the National Rifle 
+Association found themselves complaining about the rules. ``We now 
+have a hybrid system which doesn't entirely satisfy the NRA's concerns,'' 
+said Robert Walker, president of the gun control organization, Handgun 
+Control Inc., ``nor does it satisfy ours.'' While each side also finds 
+much to like in the new rules, the NRA has gone to court to block 
+a new federal database of gun purchases, and gun control groups are 
+lamenting the end of waiting periods. They each plan to lobby the 
+new Congress for changes when it convenes in January. The rules were 
+mandated by the Brady Law, federal legislation named after James Brady, 
+former President Reagan's press secretary who was critically injured 
+in a 1981 assassination attempt on Reagan. President Clinton has often 
+called the measure one of his major crime-fighting achievements, boasting 
+that it has prevented more than 250,000 handguns from being purchased 
+by felons. Enacted in 1993, the law required handgun buyers to undergo 
+a check of their backgrounds and wait five days before taking possession 
+of their guns. But starting on Nov. 30, the waiting period was dropped, 
+and the FBI was required to set up a national computerized system 
+that would allow for instant checks into the background of potential 
+buyers. In addition, the law automatically expanded to cover purchases 
+of rifles and shotguns. ``This system is set up to prevent guns from 
+going to people you and I don't want to have them _ convicted felons, 
+drug dealers, illegal aliens and people who are adjudicated mentally 
+deficient,'' said Jeff Roehm, chief of public affairs for the Bureau 
+of Alcohol, Tobacco and Firearms. At the time of a purchase, gun dealers 
+must now call an 800 telephone number that hooks into two calling 
+centers _ one in Moundsville, W.Va., another in Uniontown, Pa. _ run 
+by private companies under FBI contracts totaling $42 million. Workers 
+at the centers will check a national FBI database to determine if 
+the customer should be disqualified. A person can be disqualified 
+if he or she has been arrested for a felony, or for a misdemeanor 
+involving domestic violence, has been committed by a court to a mental 
+institution, has been dishonorably discharged from the military, is 
+an illegal alien or has renounced U.S. citizenship. If a potential 
+buyer is disqualified on the first check, the FBI has three business 
+days to conduct a more thorough search to determine the details of 
+the reasons, checking, for example, to see if the felony arrest actually 
+resulted in a conviction. If the bureau turns up nothing untoward, 
+the purchase is allowed. But as the new system was placed on line 
+and weathered the technical glitches of a start-up, both pro- and 
+anti-gun people found fault. Walker said the five-day waiting period 
+had prevented some crimes of passion. He added that the waiting period 
+allowed local police agencies to search records that might not be 
+in the FBI's national database. ``We've always felt that as far we 
+can see into the future there are certain pieces of information that 
+are unlikely to be included in any kind of national background check,'' 
+Walker said. ``So the waiting period would serve as both a cooling 
+off period and a time when other people can have input.'' Walker said 
+his organization would lobby the next Congress to have the waiting 
+period reinstated. NRA leaders say they also intend to lobby Congress 
+to revise the bill, only this time the aim would be to remove rifles 
+and shotguns from the list of weapons that trigger a background check. 
+``I think, for a number of reasons, starting with the work load, the 
+monetary savings and the fact that they have not been proved to be 
+a problem, we ought to look at scaling the law down and knocking out 
+rifles and shotguns,'' said Wayne LaPierre, NRA executive vice president. 
+The group filed suit Tuesday in federal court seeking to stop the 
+FBI from keeping a database of the firearm purchases for which it 
+provides background checks. The bureau had sought to keep a record 
+of the transactions for six months in order to conduct audits to determine 
+if gun dealers were following the law and to check for fraud and abuse 
+of the system. But the NRA contends the Brady Law specifically bans 
+the federal government from retaining records and keeping what the 
+group contends is a central registry of gun purchases. The NRA is 
+joined in this assertion by some privacy groups. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981123.1830.1234 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Moscow, more health problems for Boris Yeltsin. He's back in the 
+hospital. But he was well enough today to have a photo opportunity 
+with China's visiting president. Yeltsin's expected to stay in the 
+hospital for several days. 
+</TEXT>
+</DOC>

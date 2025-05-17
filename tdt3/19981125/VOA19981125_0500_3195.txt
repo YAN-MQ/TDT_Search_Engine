@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981125.0500.3195 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+We have business news every hour, and when the New York markets open 
+in a couple of hours, we'll have reports from Wall Street. Stay tuned 
+to News now. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981011.1000.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is scheduled to meet with house and Senate democratic 
+leaders today to review the budget negotiations. Congress and the 
+White House are working to beat a midnight deadline tomorrow. 
+</TEXT>
+</DOC>

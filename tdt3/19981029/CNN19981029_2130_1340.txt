@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981029.2130.1340 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Chicago bears quarterback Erik kramer had an mri today which revealed 
+a Possible partial tear in his rotator cuff. If the injury does not 
+improve with drugs and rest, surgery will be considered. Fortunately, 
+Chicago is off this week. 
+</TEXT>
+</DOC>

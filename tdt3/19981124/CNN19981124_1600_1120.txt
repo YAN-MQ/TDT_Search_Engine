@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981124.1600.1120 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Baseball news, next in "CNN Headline Sports." 
+</TEXT>
+</DOC>

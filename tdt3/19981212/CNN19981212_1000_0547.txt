@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981212.1000.0547 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News" weather 
+forecast for today and into Sunday. We expect to see the wet weather 
+easing in Texas as low pressure moves very slowly through the gulf 
+coast states and into the carolinas. Florida will see some showers 
+or thunderstorms as well. It will be generally quiet from the Great 
+Lakes through the plains to the southwest. But another strong storm 
+is pushing into the northwest with gusty winds, some potentially heavy 
+rains and also heavy mountain snow. Today's high temperatures, mostly 
+30s and 40s around the country, warming to the 50s in the plains states. 
+We'll see 60s and 70s over Florida and parts of the southwest. Looking 
+ahead to Monday, the wet weather continues in the northwest with temperatures 
+getting milder through the plains. On Tuesday, pretty quiet around 
+the country with temperatures warming up a Bit in the south. Wednesday, 
+snow showers in the Great Lakes, rain showers in the northwest. Temperatures 
+ranging from the 20s over northern Minnesota to some 80s in southern 
+Florida. Don't forget, four-day forecasts at CNN.com. 
+</TEXT>
+</DOC>

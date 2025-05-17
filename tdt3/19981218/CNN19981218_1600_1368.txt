@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981218.1600.1368 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And in baseball, the cubs agreed to a one-year contract worth $475,000 
+with utility infielder manny Alexander. Russell Biven, "CNN Headline 
+Sports." 
+</TEXT>
+</DOC>

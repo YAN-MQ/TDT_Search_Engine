@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981231.2130.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Pentagon says the aircraft carrier "USS enterprise" will leave 
+the persian golf by the weekend. The ships were part of the recent 
+air attacks in Iraq. 
+</TEXT>
+</DOC>

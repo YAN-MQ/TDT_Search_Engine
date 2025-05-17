@@ -1,0 +1,66 @@
+<DOC>
+<DOCNO> NYT19981112.0457 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Trying to increase control over its U.S. operations, Cable and Wireless 
+PLC of Britain is seeking to acquire more than $300 million worth 
+of fiber-optic communications lines from Qwest Communications International 
+Inc., according to executives close to the talks. The executives said 
+that some details remained unsettled and that the two companies were 
+six to eight weeks away from an announcement. They added that the 
+two sides appeared committed to reaching an accord. There are good 
+reasons for both Qwest and Cable and Wireless to seek such an agreement. 
+A deal could provide big operating savings to Cable and Wireless, 
+enhance Qwest's credibility as a major player in global telecommunications 
+and even shake up the mergers-and-acquisitions environment. A Qwest 
+spokesman said that his company was already selling some services 
+to Cable and Wireless, but refused to comment further. Cable and Wireless 
+declined to comment. Last week Cable and Wireless told investors and 
+analysts that it had asked U.S. companies to submit proposals for 
+selling high-capacity long-distance lines. It was unclear Thursday 
+what the potential implications of Cable and Wireless' discussions 
+with Qwest were for other carriers seeking the British company's business. 
+The executives close to the talks said that Qwest could still lose 
+out to another company. It is clear, however, that the talks between 
+Cable and Wireless and Qwest highlight the union of two of the most 
+basic financial concepts in the telecommunications business. First, 
+if a carrier is handling large amounts of communications traffic and 
+wants to serve the lucrative Fortune 100 accounts, it almost always 
+makes more sense for that carrier to own its network rather than lease 
+capacity on a competitor's systems. That is the reality that Cable 
+and Wireless is facing. Over the last few years, the company was able 
+to grow into one of the largest carriers of long-distance voice traffic 
+in the United States while leasing communications lines from others. 
+But once Cable and Wireless acquired MCI Communications Corp.'s Internet 
+business in July for $1.75 billion, the rationale for the British 
+company's buying its own network strengthened greatly. (That deal 
+said that Cable and Wireless could lease fiber-optic capacity from 
+what is now MCI Worldcom.) Using an owned, rather than leased, network 
+not only can reduce operating costs but also increases a carrier's 
+ability to win large corporate accounts. With their demands for reliability, 
+many big corporations want to be sure that their communications providers 
+actually own the systems they use and can be held accountable for 
+them. Luckily for Cable and Wireless, it can take advantage of a second 
+strategic imperative: Once a company spends millions or billions building 
+a communications pipeline, the only way for it to recover its costs 
+is to fill it up. An empty network only depreciates. And right now 
+there are a lot of empty networks being built in the United States. 
+In addition to Qwest, IXC Communications, Williams Cos. and Level 
+3 Communications are each building new national communications networks. 
+Frontier Corp., which already owns a piece of the Qwest network, also 
+has more communications capacity than it needs. (In fact, in recent 
+months Cable and Wireless has been mentioned as a potential acquirer 
+of Frontier, though that now seems less likely.) All of those companies 
+are locked in fierce competition to fill their networks and recover 
+their costs, in one sense putting Cable and Wireless in the catbird 
+seat. Cable and Wireless will likely buy what is known in the industry 
+as ``dark fiber'' optical lines that the company would then outfit 
+with its own choice of light-emitting transmission electronics. In 
+addition to its ability to pay cash, Cable and Wireless has another 
+potential bargaining chip in its negotiations with U.S. carriers. 
+With its far-flung global operations, Cable and Wireless could agree 
+to swap some of its international network capacity for optical fiber 
+in the United States. 
+</TEXT>
+</DOC>

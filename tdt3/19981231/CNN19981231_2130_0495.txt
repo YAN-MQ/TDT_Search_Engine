@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981231.2130.0495 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up -- a look back at some discoveries, unpleasant changes and 
+unsolved mysteries in the world of science and technology in 1998. 
+First, the extended weather forecast. 
+</TEXT>
+</DOC>

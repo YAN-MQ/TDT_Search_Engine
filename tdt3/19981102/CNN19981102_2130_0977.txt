@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981102.2130.0977 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+eastman kodak and fuji are cutting prices on digital cameras, just 
+in time for the holiday shopping season. kodak is knocking $100 off 
+its camera, fuji $200, meaning you'll be able to buy one from around 
+$500 to $700. digital cameras, in case you're a little behind the 
+times, let people view pictures immediately on their computers. they 
+also produce a sharper image. 
+</TEXT>
+</DOC>

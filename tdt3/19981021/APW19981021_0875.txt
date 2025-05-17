@@ -1,0 +1,30 @@
+<DOC>
+<DOCNO> APW19981021.0875 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Ariane 5 rocket, the most powerful in the European series of unmanned 
+rockets, made its third and final test launch Wednesday, sailing without 
+a hitch into the heavens above South America. The lift off from its 
+space base in Kourou, French Guiana, on the northern shoulder of South 
+America, came at 13:37 p.m. local time (1637 GMT). It was well within 
+the launch window despite a half-hour halt in the countdown. Flight 
+503 was carrying a mockup of Eutelsat's W2 satellite, weighing 2.6 
+tons, and a capsule with instruments to measure various functions. 
+The capsule was to fall later into the Pacific Ocean for recovery. 
+One of the goals of the launch is to confirm Ariane 5's capacity to 
+place satellites into orbit. European officials had been holding their 
+breath for the launch. The first Ariane 5 crashed in June 1996 and 
+a launch a year ago was less-than-perfect. Wednesday's final test 
+launch was critical. Officials see the Ariane 5 as a vehicle to boost 
+Europe's commercial space launch industry even further along its success 
+route. The Ariane 5 has twice the power and payload capacity of the 
+Ariane 4, and should double launch capacity for Arianespace, the commercial 
+arm of the European Space Agency. Trouble with the Ariane 5 forced 
+officials to switch a Eutelsat satellite to an Ariane 4, ESA officials 
+said in June. In February, Arianespace admitted that the rocket experienced 
+a spin problem on its test launch last Oct. 30. Arianespace dominates 
+the world's commercial launch market, competing with U.S., Russian 
+and Chinese firms. 
+</TEXT>
+</DOC>

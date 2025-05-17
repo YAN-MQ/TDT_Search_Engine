@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981024.1000.0896 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New York police and federal authorities are investigating the fatal 
+shooting of a doctor who performs abortions. Dr. Barnett slepian was 
+shot through a kitchen window by a high-powered rifle last night. 
+</TEXT>
+</DOC>

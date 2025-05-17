@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981205.0130.1363 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And in golf, Nick price leads after two rounds of the $1-million challenge. 
+Russell Biven, "CNN Headline Sports." 
+</TEXT>
+</DOC>

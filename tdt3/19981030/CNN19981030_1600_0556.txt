@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981030.1600.0556 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Scientists say they've found more evidence a huge meteor or Comet 
+killed the dinosaurs. According to a report in the journal "science," 
+the crash produced the element chromium, which is found in a layer 
+of rock dating back to the time dinosaurs died out. Scientists say 
+the composition of the chromium is similar to what is most often found 
+in meteorites, not what's found in the earth's core. It's widely thought 
+a meteorite collision cast debris into the earth's atmosphere, making 
+the planet too cold for dinosaurs to survive. 
+</TEXT>
+</DOC>

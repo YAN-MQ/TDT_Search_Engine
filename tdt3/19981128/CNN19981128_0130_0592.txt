@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981128.0130.0592 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The FDA wants to require drugmakers to indicate dosage amounts for 
+children. On Friday it announced new rules designed to give health 
+care providers enough information to make them confident about prescribing 
+those medicines for kids. The FDA now has the power to order testing 
+on children to determine dosages for drugs already on the market. 
+Currently, drugs are tested mostly on adults. 
+</TEXT>
+</DOC>

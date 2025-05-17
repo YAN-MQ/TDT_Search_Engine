@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981105.1600.0347 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News Now. Coming to you from Washington. I'm Kent Kline, 
+along with Tony Riggs. 
+</TEXT>
+</DOC>

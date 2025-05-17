@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981013.1130.0184 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court is hearing arguments this morning over the battle 
+to open the $100 billion local phone market to long-distance companies. 
+At issue is who will set price guidelines and other rules. The federal 
+government and long-distance companies AT&T and MCI will be facing 
+off against state regulators and local phone companies. Long-distance 
+companies say consumers will be the big winners when the local market 
+opens. The principal hope is that you will have the same kind of options 
+for your local phone service and same kind of competition in price 
+and variability of options and quality in local phone service that 
+you now have in long distance. The Supreme Court is expected to issue 
+a decision by July. 
+</TEXT>
+</DOC>

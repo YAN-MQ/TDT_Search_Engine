@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981106.1600.0532 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for Saturday. Snow moves from the rocky mountains into the 
+plains states, bringing perhaps the first snow of the season to some 
+sections of Iowa. There will be showers ahead of this system down 
+into Texas. In the west, a strong system will bring some heavy rains 
+to coastal Oregon and northern California with more snow in the mountains. 
+There could be a mix of rain or snow over parts of the Great Lakes 
+as well. In the southeast, a little bit on the cool side, but dry. 
+50s and 60s through that region. We'll see just 20s and 30s over the 
+northern plains. Looking ahead to Sunday, more rain in the west all 
+the way into southern california, with a mix of rain and snow over 
+parts of the upper midwest. For Monday, the western two-thirds of 
+the country are wet. And on Tuesday, with showers in the northwest, 
+snow in the northern plains and showers and storms down to the gulf 
+coast, conditions will be unsettled. Don't forget, you can find four-day 
+forecasts for more than 7,200 cities on cNN interactive. The address 
+is CNN.com. 
+</TEXT>
+</DOC>

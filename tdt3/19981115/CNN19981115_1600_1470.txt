@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981115.1600.1470 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Fans of the TV show "the X-files" have a special episode coming up 
+on november 22nd. Creator Chris Carter borrowed a technique pioneered 
+by the late master of suspense, Alfred hitchcock. He filmed the show 
+in real time. Real-time filmmaking is where the action takes place 
+in long scenes, seemingly without changing camera shots. The episode 
+is called "triangle" and involves a trip back in time where a Ship 
+is taken over by Nazis. 
+</TEXT>
+</DOC>

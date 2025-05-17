@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981130.2130.0982 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Germany's largest bank, Deutsche bank, has agreed to buy bankers trust 
+for more than $10 million T. largest takeover ever of a U.S. financial 
+institution by a bank from another country. The purchase will result 
+in the loss of more than 5,000 jobs most of them in New York and London. 
+After the deal closes in may, Deutsche bank will become the largest 
+bank in the world. 
+</TEXT>
+</DOC>

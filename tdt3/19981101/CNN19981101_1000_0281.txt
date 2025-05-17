@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981101.1000.0281 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+350 miles above the earth, the crew aboard space shuttle "discovery" 
+has a Full day's work ahead of them. Houston gave the crew a wake-up 
+call this morning, marking the beginning of the fourth day of the 
+nine-day mission. The main project today is the release of the Spartan 
+satellite. The plan is for Spartan to study the sun, before being 
+retrieved on tuesday. Astronauts on a shuttle flight last November 
+were unable to complete a Similar experiment with Spartan. This afternoon, 
+senator John Glenn is scheduled to take part in his first news conference 
+aboard "discovery." 
+</TEXT>
+</DOC>

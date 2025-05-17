@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981118.0130.0473 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+this is orelon sidney with your "cnn headline news weather" update. 
+the upper midwest is preparing for a big storm system that's going 
+to be headed eastward on wednesday. snow, up to four to ten inches, 
+can be expected in portions of minnesota into wisconsin, with heavy 
+rain southward to near saginaw. conditions will be improving across 
+the western u.s. as a ridge of high pressure builds in. and cooler 
+temperatures are expected for northern texas, oklahoma and kansas, 
+as a cold front system moves through. temperatures will be in the 
+20s and 30s for the upper midwest into the northern rockies on wednesday. 
+look for 40s, 50s and 60s along the pacific coast. southern texas 
+and southern florida could make it to the 80s. and 60s and 70s for 
+much of the deep south. it will be windy across portions of the virgin 
+islands. a chance of a thunderstorm in the afternoon, with highs in 
+the mid-80s. hilo will see showers, a high of 80 degrees. fairbanks 
+will be partly cloudy with a high of 20. on the extended forecast, 
+our strong storm system moves eastward through thursday and friday. 
+heavy rain and snow can be expected across most of the northeast. 
+a new storm system moves into the northwest by saturday. the extended 
+forecast is at cnn.com. 
+</TEXT>
+</DOC>

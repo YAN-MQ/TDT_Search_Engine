@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981114.1600.1645 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+a look at the 17th annual great American beer festival in Denver, 
+colorado. That's 82 taste testers, and 70,000 bottles of beer on the 
+wall, if you're counting. I'm Kate snow. This is "CNN Headline News." 
+</TEXT>
+</DOC>

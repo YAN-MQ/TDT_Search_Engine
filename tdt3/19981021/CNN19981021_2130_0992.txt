@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981021.2130.0992 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Miami, federal investigators say they've broken up a major Medicare 
+fraud ring. Federal indictments were unsealed today against 39 doctors, 
+nurses and others connected to the home health care company amitan. 
+Investigators say the company created false medical records for patients 
+and submitted $10 million worth of phony Medicare bills for their 
+treatment. Amitan was shut down last year. 
+</TEXT>
+</DOC>

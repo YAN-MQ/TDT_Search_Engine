@@ -1,0 +1,116 @@
+<DOC>
+<DOCNO> NYT19981106.0357 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+William H. Gross may never be popularly seen as challenging Peter 
+Lynch's or Warren Buffett's status as America's pre-eminent market 
+sages. After all, what are the chances of hitting investing grand 
+slams _ with their attendant publicity _ in boring old bonds? Actually, 
+they're quite good. So Gross is gathering as much acclaim as a bond 
+investor can hope for. Pimco Advisors Holdings, his employer in Newport 
+Beach, Calif., expects that by the end of the month it will complete 
+its own TV studio so Gross can better accommodate the growing requests 
+for interviews. Gross, 54, is portfolio manager of Pimco's Total Return 
+fund, which has ranked in the top percentile of its peers in virtually 
+all the standard return periods of the last decade, according to Morningstar 
+Inc., the Chicago financial publisher. This year, it gained 8.7 percent 
+through Oct. 31, compared with 6.3 percent for its peer funds and 
+7.7 percent for its benchmark, the Lehman Brothers Aggregate Bond 
+Index. In the last decade, Total Return has returned 10.26 percent, 
+versus 7.5 percent for its peers and 9 percent for the index. Widely 
+available to individuals only since last spring _ the minimum investment, 
+previously $1 million, is now $250 _ the fund has ballooned to $22.69 
+billion, twice as large as its nearest competitor. In recent months, 
+convinced that financial and economic contagion from Asia was proving 
+more acute than widely recognized, Gross swung from what he called 
+a milquetoast bullish stance to what became by summer a bold bet on 
+lower rates. That was just in time, as a safety-obsessed market drove 
+down the yield on Treasury securities, which moves in the opposite 
+direction from prices. The benchmark 30-year bond briefly touched 
+4.75 percent, the lowest yield in a generation. Then, about a month 
+ago, Gross retreated a bit, cutting the duration of his portfolio 
+to a somewhat less aggressive 4.6 years, from 5. (Duration refers 
+to the average weighted life of all payments related to a bond, interest 
+as well as the return of principal when it comes due. Maturity, which 
+is usually longer than duration, refers simply to the time before 
+a bond is due.) ``We took a bit off the table,'' he said, adding that 
+Total Return was still primed for slight declines in rates over the 
+next six months _ perhaps to 5 percent, from the current 5.25 percent. 
+Managers of general bond portfolios usually adopt the ``top-down'' 
+approach to investing, which gives the most weight to economic trends. 
+That is because bonds _ at least until recently _ have tended to move 
+in tandem with economic forces. But to Gross, who contends that the 
+timing of the next recession is unknowable, there is more involved 
+than just trying to plumb the business cycle or the impact of distress 
+in Asia. In what Gross calls Pimco's ``super tops-down'' approach, 
+he steps back to assess longer-term fundamentals like the graying 
+of the populations of industrial countries. ``Some things, like demographics, 
+are known with almost complete certainty,'' he said. The same, he 
+added, goes for the trend toward globalization and the worldwide buildup 
+of corporate and government debt. Besides deciding on a portfolio's 
+proper duration, bond managers must also fathom the yield curve _ 
+the array of fixed-income rates ranging from a matter of days to 30 
+years or more _ to determine the best mix for producing that duration. 
+One common approach, called the ``barbell,'' involves big commitments 
+to the short and long ends of the curve. That method is attractive 
+when the long-term sector is expected to do well relative to intermediate-maturity 
+bonds. Another is the ``bullet'' _ a heavy concentration in intermediates 
+due, say, between 2 and 10 years _ a strategy toward which Gross aggressively 
+shifted the Total Return portfolio in July and August. ``One of the 
+main statements that the portfolio is making is that it's fairly concentrated 
+in intermediate maturities,'' Gross said. ``The bullet strategy,'' 
+he added, ``does well when the Federal Reserve is in the market, so 
+to speak, and is actively lowering interest rates.'' Before July, 
+his portfolio had been in a half-barbell, half-bullet position. That 
+was before he perceived the Federal Reserve as being seriously concerned 
+about the possibility of a global meltdown and likely to lower short-term 
+rates. Total Return, which Gross calls a plain-vanilla bond fund, 
+uses no leverage, though some 20 percent of its Treasury portfolio 
+is in higher-returning futures. Because of quarterly expirations, 
+they tend to magnify the portfolio's turnover rate, which is 173 percent. 
+Although Total Return could invest as much as 20 percent of its portfolio 
+overseas _ and half of this in emerging markets _ Gross keeps foreign 
+exposure to a minimum and says such holdings should be confined to 
+the highest possible quality. ``I've not had a Russian bond and never 
+will,'' said Gross, who is no stranger to risk-taking: He played blackjack 
+professionally in Las Vegas for five months after college. He also 
+doesn't much favor corporate issues these days, even though this sector 
+has improved lately after its problems helped prompt the Federal Reserve 
+to cut rates again last month, outside a scheduled policy meeting. 
+``I would continue to be leery about corporates,'' Gross said, citing 
+what he considers significant risk that they might go into default 
+in a recession. ``We're hunkering down and climbing into the bomb 
+shelter,'' he said, keeping to shorter maturities and stressing high 
+quality. Eventually, he added, corporate spreads and yields will become 
+more attractive, and that ``will be a better time to buy.'' Such is 
+Gross' impact and reputation, however, that he must shroud such decisions 
+in CIA-like secrecy, using as many as 10 dealers, few if any of them 
+privy to more than minimal information. He checks Bloomberg and Telerate 
+monitors in his basement at home before heading for work but doesn't 
+take action before reaching the office, usually by 6:30 a.m. ``I was 
+one of the best,'' said Gross, a card counter who said he has been 
+thrown out of more than one casino. ``I proved a point, that I could 
+beat the system.'' After serving in the Navy, he intended to find 
+a stock-market job, but wound up as a credit analyst in the bond department 
+of Pacific Mutual Life Insurance, from which Pimco evolved. Now he's 
+the biggest owner of Pimco and the closest thing in the bond business 
+to a cult figure. Gross has relatively little involvement in Pimco's 
+management, , though he was a co-founder. ``It's very difficult to 
+manage a business and run a portfolio at the same time,'' he said. 
+This results in a relatively modest salary of $200,000, but he makes 
+many times that much in performance pay tied to Pimco's bottom line. 
+Because he isn't an executive, the amount is not found in filings 
+with the Securities and Exchange Commission. As for investing his 
+personal fortune, which runs into nine figures, Gross said the portion 
+not in Pimco Advisors is mostly invested in the Total Return fund 
+and in municipal bonds that he selects himself. Something else he 
+has been doing is buying more stock, actually partnership interests, 
+in his own company, Pimco Advisors Holdings, traded on the New York 
+Stock Exchange. Pimco, growing at 15 percent a year, has a bond-like 
+yield, largely because it pays no corporate-level income tax, which 
+is levied against investors. But it provides a way for anybody to 
+bet on Gross' continued success with bonds, about half Pimco's total 
+business, while being well paid in the interim. 
+</TEXT>
+</DOC>

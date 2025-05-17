@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981209.0130.1115 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Think back to high school and college. Remember those yellow-and-black-covered 
+study guides known as cliffs notes? The privately-held company is 
+being bought out by the company that makes self-help books for dummies. 
+Idb books worldwide is paying $14 million for the Nebraska-based company. 
+</TEXT>
+</DOC>

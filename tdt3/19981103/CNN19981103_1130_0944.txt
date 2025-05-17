@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981103.1130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The "discovery" crew is getting set to retrieve a 3,000-pound satellite 
+this afternoon. The Spartan was released two days ago to study the 
+sun's outer atmosphere. 
+</TEXT>
+</DOC>

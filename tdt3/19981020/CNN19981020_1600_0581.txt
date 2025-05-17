@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981020.1600.0581 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new poll shows that while more Americans feel financially satisfied 
+than at any time in the past 30 years, most are worried about what 
+they see as a Growing economic gap between rich and poor. 67% of respondents 
+described themselves as "haves." 24% deemed themselves "have nots." 
+Even so, most believe more Americans are getting rich. 74% said they 
+believe the number of wealthy people is increasing. That's up from 
+65% in 1990. The poll was taken in April and may, before the broad 
+UPS and Downs of the financial markets began. 
+</TEXT>
+</DOC>

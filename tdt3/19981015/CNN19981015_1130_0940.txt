@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981015.1130.0940 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+White House and congressional negotiators could finish a budget proposal 
+by today. The house speaker says the big issues are settled. 
+</TEXT>
+</DOC>

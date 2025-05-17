@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> NYT19981028.0114 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Energy Department will take delivery Wednesday of what the government 
+says is the world's fastest computer, capable of a peak performance 
+of 3.88 trillion calculations, or teraflops, a second. Clinton administration 
+officials said Tuesday that the supercomputer, which is being assembled 
+at Lawrence Livermore National Laboratory in California, is about 
+15,000 times faster than a 350-megahertz personal computer. The computer, 
+built by the IBM, uses 5,800 processor chips, each slightly more powerful 
+than the widely sold Pentium II chip made by Intel Corp., said people 
+involved in its development. Livermore, a nuclear weapons lab, will 
+use it for simulations that determine, without detonation, whether 
+aging nuclear weapons are still operable. In remarks prepared for 
+delivery Wednesday, Vice President Al Gore says that beyond weapons 
+research, the technology of the computer, known as massively parallel 
+architecture, ``will lead to advances and greater understanding of 
+weather patterns, global climate change, medicine, manufacturing and 
+aviation safety.'' For the Energy Department, the computer, called 
+Pacific Blue, is part of a program to advance supercomputer technology 
+rapidly to the stage where it can model nuclear warheads. Pacific 
+Blue takes the speed title from Sandia Red, a computer at Sandia National 
+Laboratory built by Intel that was finished in December 1996 and is 
+about half as fast. Mountain Blue, a computer being built by Silicon 
+Graphics Inc., is expected to deliver about four teraflops. By mid-2000, 
+Energy Department officials hope to have a 10-teraflop computer, also 
+built by IBM, running at Livermore, followed in 2004 by a 100-teraflop 
+computer. The 100-teraflop model would allow high-fidelity simulation 
+of an H-bomb detonation, as a volleyball-size mass of nuclear fuel 
+is compressed to the size of a walnut, setting off the explosive chain 
+reaction. Administration officials said they were trying to retire 
+Moore's Law, which holds that chip makers will be able to double the 
+number of transistors on a given sliver of silicon, and thus its speed, 
+every 18 months. The Energy Department wants to triple computing speed 
+in about the same time frame by combining the power of many processors 
+instead of increasing the speed of each. Nicholas Donofrio, senior 
+vice president for technology and manufacturing at IBM, said that 
+in building Pacific Blue, ``we pretty much used commercial-grade stuff'' 
+from the IBM. commercial product line. NYT-10-28-98 0058EST 
+</TEXT>
+</DOC>

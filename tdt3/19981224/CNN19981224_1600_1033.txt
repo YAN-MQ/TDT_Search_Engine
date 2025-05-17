@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981224.1600.1033 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+As stock trading grows more global, the exchange is considering a 
+5:00 A.M. start time. The experiment may begin in the year 2000 and 
+could pave the way for an earlier start for the trading of U.S. stocks 
+as well. We would see perhaps a three-sectioned day, if you will a 
+morning session that might begin at 4:00 or 5:00 in the morning, overlapping 
+the continent, and trade 4:00 A.M. to 9:00 A.M., take a pause, go 
+from 9:00 or 9:30 to 4:00, if that's going to be the New York day's 
+session, if you will, and look to trade again later in the evening. 
+The earlier trading time will allow the exchange to compete with European 
+exchanges. 
+</TEXT>
+</DOC>

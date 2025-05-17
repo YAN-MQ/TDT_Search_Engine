@@ -1,0 +1,40 @@
+<DOC>
+<DOCNO> NYT19981223.0099 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Wearable computers are considerably less geeky than they used to be. 
+But the day when average Americans wear one as nonchalantly as they 
+wear a Walkman CD player is still several years in the future. When 
+that day does come, though, Xybernaut Corp. contends it will be poised 
+to reap the rewards from a patent portfolio it has been building since 
+the early 1990s. This month Xybernaut received its ninth and, the 
+company says, most substantial American patent. The latest patent 
+covers, for example, a headset operated by a remote computer through 
+radio, satellite or cellular transmissions. ``That means you don't 
+have to wear the processor,'' said James Ralabate, who was Xerox Corp.'s 
+general patent counsel during the 1970s and who is now with Xybernaut. 
+``You could have several headsets functioning off a remote host computer, 
+for example,'' he said. ``And it covers three types of activation: 
+voice, eye and brain activation.'' Not that Xybernaut has such a product 
+on the market just yet. Last week it announced its latest model: a 
+mostly speech-activated computer powered by a 22-ounce processor that 
+straps onto a person's belt and contains 128 megabytes of RAM and 
+a 4.3-gigabyte hard drive. This version has a head-mounted display 
+system, which gives the same viewing ability as a 15-inch monitor 
+viewed at two feet, the company says. ``What you're wearing on your 
+belt is essentially your laptop,'' said Michael Jenkins, chief technology 
+officer at Xybernaut. Among those testing Xybernaut's technology, 
+the company says, are the U.S. Customs Service, Mercedes-Benz, Lockheed-Martin 
+and the U.S. Navy. Xybernaut's president, Edward Newman, called the 
+latest patent the linchpin in the company's patent portfolio. ``With 
+this you can have multiple headsets operated by a remote computer, 
+like nodes on a network,'' he said. ``It totally frees up the paradigm 
+of wearables. This is the patent we've been waiting for.'' The actual 
+technology will require more waiting, however. The company said it 
+could not say exactly when such computers would be on the market. 
+Xybernaut received patent 5,844,824. Patents are available by number 
+for $3 from the Patent and Trademark Office, Washington, D.C. 20231. 
+NYT-12-20-98 1513EST 
+</TEXT>
+</DOC>

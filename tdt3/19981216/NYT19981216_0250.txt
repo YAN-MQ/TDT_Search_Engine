@@ -1,0 +1,41 @@
+<DOC>
+<DOCNO> NYT19981216.0250 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A slot machine is governed by the unyielding laws of mathematics, 
+regardless of whether it has a mechanical or electronic brain. Odds, 
+payoff rates, and sizes and frequencies of jackpots all depend on 
+the unforgiving laws (from the gambler's point of view) that govern 
+numbers anywhere in the universe. A classic slot machine might have 
+three spinning reels with 20 symbols each. If only one symbol (say, 
+a cherry) on each reel was a winner, the odds of getting a winning 
+combination _ three cherries _ would be 203, or 1 in 8,000. Computer 
+technology has made the spinning reels purely decorative. They reflect 
+the results from a computer chip that serves as a random number generator. 
+When a gambler pulls the handle or pushes the spin button on a slot 
+machine, the generator spits out random numbers that signal the motor 
+to stop spinning reels at certain symbols or, in the case of video 
+displays, to show certain symbols on computer-like screens. The gambler 
+anxiously watches the reels spin, even though the end position of 
+the reels is determined in a split second. The time delay is strictly 
+show. The computer allows a far greater range of possible combinations 
+and thus outcomes than traditional slot machines could manage. In 
+some slot machines, especially those playing high-stakes games like 
+Megabucks, the computer can segment the reels into more than 250 possible 
+stops. That increasing the odds against hitting some winning combinations 
+_ for the largest jackpots _ while making many more smaller jackpots 
+possible. By law, Las Vegas slot machines must pay out 75 percent 
+of the money taken in. But because of competition, casino operators 
+say, many slot machines pay out 95 percent or more. Complex mathematical 
+formulas are used to program the slot machines' computers to fix the 
+the size and frequency of wins, which controls the payout percentage. 
+Casino makers say the programs can be changed by casino operators 
+under the guidance of regulatory groups. ``What it allows us to do 
+in the industry is to give away $27 million but have a lot of people 
+still win an awful lot of money for cherries, single bars, double 
+bars, triple bars or whatever the winning combinations are,'' said 
+Verne F. Holmes Jr., an inventor of slot machine devices who is based 
+in Las Vegas. 
+</TEXT>
+</DOC>

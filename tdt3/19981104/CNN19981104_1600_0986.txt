@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981104.1600.0986 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Blue-chip stocks shot up right from the opening bell. The Dow industrials 
+surging as many as 148 points. But by the closing bell the Dow trimmed 
+those gains -- enthusiasm over the democratic victories in yesterday's 
+congressional elections became dampened by a new report on the economy. 
+Among today's movers -- in the bond market, a $12 billion ten-year 
+note auction attracted little interest. 
+</TEXT>
+</DOC>

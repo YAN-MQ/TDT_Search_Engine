@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981024.1830.1738 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's "NBC nightly news" for this Saturday. I'm Sara James reporting 
+from New York. A reminder -- daylight savings time ends tonight. Turns 
+the clocks back one hour at bedtime. Have a good evening. I'll see 
+you back here tomorrow night. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981103.1130.0954 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Israeli prime minister Benjamin Netanyahu has delayed ratification 
+of the Middle East peace agreement. Netanyahu claims he's still waiting 
+for the Palestinians' completed plan to fight terrorism. The plan 
+was supposed to have been implemented yesterday. 
+</TEXT>
+</DOC>

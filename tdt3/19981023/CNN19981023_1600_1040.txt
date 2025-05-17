@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981023.1600.1040 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The justice department is suing to stop northwest airline's plan to 
+purchase a controlling stake in continental airlines. The government 
+claims the acquisition would hurt competition in the company's seven 
+U.S. hub cities, and less competition would lead to higher ticket 
+prices and worse service the complaint could signal trouble for two 
+other pending airline alliances -- American airlines deal with U.S. 
+airways and united's with Delta. 
+</TEXT>
+</DOC>

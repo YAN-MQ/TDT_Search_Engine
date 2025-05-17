@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981122.1600.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Iraq is protesting U.N. chief weapons inspector richard Butler's demands 
+for documents Iraq claims don't exist. Iraq says Butler is trying 
+to undermine its compliance with U.N. resolutions. 
+</TEXT>
+</DOC>

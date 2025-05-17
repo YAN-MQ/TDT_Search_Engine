@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981106.1130.0267 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The space shuttle "discovery" astronauts are wrapping up the medical 
+experiments and stowing gear, getting ready for the trip back to work. 
+The flight control system has been tested to make sure everything 
+the working properly. John Glenn says he wouldn't mind another week 
+in space, but his wife says, she wants her husband home. Annie Glenn 
+says if it's up to her, he won't be going back into orbit. 
+</TEXT>
+</DOC>

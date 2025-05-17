@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981102.1130.0503 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+Pretty cold weather expected today. Forecast highs only in the 30s 
+and 40s over parts of the northern tier. It remains warm in the southeast 
+for one more day though, with forecast temperatures into the 70s and 
+80s. That will change around though as we check your forecast later 
+today to tuesday. A cold front sweeps through the southeast bringing 
+with it the cooler air. And cold enough for some snow back through 
+much of the northern plains on into late Tuesday, by late Tuesday, 
+a new storm moves into the pacific northwest. That will be spreading 
+in some showers. A look now at the extended forecast. On Wednesday, 
+we find a mix of both rain and snow through the upper midwest and 
+northern Rockies. Good chances for rain in the pacific northwest and 
+showers and storms likely in portions of the southeast. On in Thursday 
+-- again, pretty cold through the northern tier with temperature highs 
+only in the 30s. We'll find a mix of rain and snow in mountain locations 
+during the day on thursday in the northwest and rain will continues 
+in that area. More rain on Friday in the pacific northwest as temperatures 
+remain cool through the northern midwest. For more weather information, 
+you can log into CNN.com. 
+</TEXT>
+</DOC>

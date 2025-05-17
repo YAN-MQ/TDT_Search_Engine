@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981122.1830.0803 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+From the justice department tonight, word that the nation's crime 
+rate last year was the lowest it's been since 1974. The number of 
+serious crimes has dropped for six straight years. 
+</TEXT>
+</DOC>

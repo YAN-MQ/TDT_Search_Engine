@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981225.1600.1351 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Miami dofl fins had a dream Christmas. The team rewarded the players 
+with two-year contract extensions. 
+</TEXT>
+</DOC>

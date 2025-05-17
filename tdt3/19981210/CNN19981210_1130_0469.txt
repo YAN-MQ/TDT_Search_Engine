@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981210.1130.0469 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The national extended weather forecast is up next. And after that, 
+we'll look at the double-edged sword of using aspirin to reduce the 
+risk of stroke. 
+</TEXT>
+</DOC>

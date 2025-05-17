@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> ABC19981124.1830.1081 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It is official, America online is paying $4.2 billion to buy Netscape. 
+</TEXT>
+</DOC>

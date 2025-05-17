@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981230.2000.1522 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today the Dow Jones Industrials moved downward, just 
+about 46 points to 9275. The Nasdaq also dropped 15 points to 2167. 
+</TEXT>
+</DOC>

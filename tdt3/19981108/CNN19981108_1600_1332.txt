@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981108.1600.1332 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Well, according to "the Los Angeles times," the Anaheim Angels have 
+offered big first baseman Mo Vaughn a big deal -- six years worth 
+more than $70 million. The Dodgers have reportedly made an offer as 
+well to the former MVP. This past season, Vaughn hit .337 with 40 
+homers and 115 RBIs for the red sox. 
+</TEXT>
+</DOC>

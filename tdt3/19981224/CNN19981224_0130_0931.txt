@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981224.0130.0931 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- winter is returning to the United States 
+with a Vengeance. Temperatures in much of the nation are near freezing, 
+and ice storms have caused dozens of fatal traffic accidents and delayed 
+some preholiday flights. In the southern U.S., the storms downed power 
+lines, causing widespread power outages. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981213.1300.0503 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended national weather forecast for the U.S. is next. And then 
+-- a look at some high-flying construction work, 240 miles above earth. 
+</TEXT>
+</DOC>

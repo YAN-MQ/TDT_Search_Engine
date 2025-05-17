@@ -1,0 +1,82 @@
+<DOC>
+<DOCNO> NYT19981112.0388 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Lawyers for Microsoft Corp. made a broad and aggressive attempt on 
+Thursday to discredit an Intel executive who has emerged as an important 
+government witness, portraying him as a resentful employee and introducing 
+testimony from his own supervisor that differed from his memory of 
+events. In testimony early this week, Steven McGeady, an Intel vice 
+president, said Bill Gates, Microsoft's chairman, and other Microsoft 
+executives had threatened Intel's leaders in 1995 as part of a successful 
+effort to push them out of the software-development business, and 
+to dissuade them from supporting Netscape Communications Corp., Microsoft's 
+major competitor in the market for Internet software. Ron Whittier, 
+a senior vice president for Intel and McGeady's supervisor at the 
+time, attended some of the meetings where the threats were purportedly 
+made, and in his deposition he said he did not remember hearing them. 
+But McGeady was unbowed, by this or any other bit of evidence introduced 
+Thursday and intended to contradict his account. ``I'm sure Ron's 
+telling the truth that he doesn't remember,'' he told Steven Holley, 
+a lawyer for Microsoft. Later, when David Boies, the government's 
+lead attorney, got another chance to question McGeady, he played longer 
+portions of Whittier's deposition intended to show that his failure 
+to remember the events in question should not be surprising. The longer 
+passages showed that Whittier could not remember much of anything 
+about that period. McGeady completed his testimony Thursday evening, 
+as the government's antitrust trial against Microsoft ended its fourth 
+week. Just before the trial began, Microsoft's lawyers complained 
+that the charges involving threats against Intel were new and were 
+added to the case at the last minute, and that the company could not 
+possibly prepare a defense in time. On Thursday, however, Microsoft 
+lawyers presented a voluminous and detailed attack on McGeady, portraying 
+him as an arrogant, difficult Intel employee who held a strong personal 
+animosity toward Microsoft _ even though he knew that Intel's leaders 
+were intent on maintaining a good relationship with the software giant. 
+Notes from one meeting showed that another manager had told McGeady 
+that he was a ``prima donna.'' But that did not seem to bother McGeady. 
+``I've been called far worse,'' he said with a slight smile. As the 
+morning advanced and the attacks grew sharper, Judge Thomas Penfield 
+Jackson asked Holley: ``What is the point of this? What are you trying 
+to accomplish? Are you just trying to embarrass him?'' Holley said 
+he did not want to respond in public. But at the end of the day, Microsoft's 
+attacks seemed to have had some effect. Holley had worked to show 
+that McGeady was a disgruntled employee out of the Intel mainstream. 
+And after both sides had finished asking their questions of McGeady, 
+Jackson asked the witness if he was speaking for Intel, or just for 
+himself. McGeady said the answer was complicated; he was here because 
+the government had subpoenaed him to testify. But, he added, he was 
+a senior executive directly involved with the issues in question during 
+1995 and 1996, when the threats were reportedly made. Sitting in the 
+courtroom audience all this week were a senior Intel spokesman and 
+a corporate lawyer who had been sent to support him. And it seemed 
+clear that while the company wished it could stay out of this case, 
+once an executive was subpoenaed, Intel's leaders would back him. 
+During his cross-examination of McGeady, Holley introduced several 
+e-mail and deposition excerpts intended to demonstrate that the only 
+reason Microsoft tried to push Intel out of the software business 
+was that the company thought Intel's software was of poor quality. 
+But then, when Boies got his turn, he showed his own excerpts that 
+seemed to show that Microsoft was most concerned about the threat 
+Intel's work posed to Microsoft's control of the software industry. 
+The larger impression left by the dueling and electronic-mail snippets 
+from Microsoft and Intel files was simply that large corporations 
+do not speak with one voice. Still, by the end of the day it was clear 
+that McGeady was no fan of Microsoft. In one internal memo he wrote 
+in August 1995, McGeady noted that Microsoft had bought rights to 
+the Rolling Stones song ``Start Me Up'' to promote Windows 95. McGeady 
+wrote that ``Sympathy for the Devil'' might have been a more appropriate 
+choice. And in an electronic-mail message to Andrew Grove, Intel's 
+chief executive, in December 1996, he wrote that he had ``long taken 
+the position that anything that weakens Microsoft without indirectly 
+weakening us is good for Intel.'' Asked to explain, McGeady said, 
+``Anything that could bring more competition to the software industry 
+is good for Intel.'' But then Holley ended his cross-examination of 
+McGeady by reading another passage in the note to Grove. In that one, 
+McGeady wrote that perhaps ``Microsoft could be goaded into doing 
+something really stupid and anti-competitive, finally enraging the 
+apparently placid antitrust police.'' With a smile, McGeady observed 
+that what he predicted had come to pass. 
+</TEXT>
+</DOC>

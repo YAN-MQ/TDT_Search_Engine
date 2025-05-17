@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981122.1600.0511 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather update." 
+A front goes stationary across Florida. That will mean rain showers 
+and a few thunderstorms from Louisiana into the florida Panhandle 
+southward to near lake okeechobee. A cold front will be moving through 
+the plains states. Generally looking at cloudy skies and windy conditions 
+with the front, but cooler temperatures will be settling in. Another 
+in a series of low pressure systems will move into the northwest, 
+so look for soaking rain from San Francisco to the puget sound with 
+snowfall potentially heavy inland. High temperatures only in the 40s 
+and 50s for most of the northern tier of states, with 60s and 70s 
+to the south. Southern Florida could see highs in the 80s. The extended 
+forecast includes heavy rain Tuesday across the northwest with a mix 
+of rain and snow for the eastern lakes. Look for scattered thunderstorms 
+for the gulf states that end by Wednesday. But a mix of rain and snow 
+could become heavy in the western Great Lakes as a third system enters 
+the northwest. Heavy rain continues in your forecast through Thursday. 
+The extended forecast for more than 7,000 cities can be found at CNN.com. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> PRI19981020.2000.0058 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+From National Public Radio News in Washington, I'm Frank Stachio. 
+The House today passed a $500 billion bill to fund nearly a third 
+of the federal government in its last scheduled vote of the year. 
+The House voted 333 to 95 for the 4,000-page bill. That's a catchall 
+for Congress' unfinished business, including eight of the 13 appropriations 
+bills that fund the government. 
+</TEXT>
+</DOC>

@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> NYT19981111.0290 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+EVERYBODY needs somebody sometime to help with balky hardware or software. 
+But there may be ways to avoid calls for technical support. REGISTER 
+Sending in your registration cards puts you on the list for bug alerts, 
+and helps you negotiate for free help. BACK UP THE ESSENTIALS Keep 
+the product names and the telephone numbers of the companies that 
+make them. Keep on hand a copy of the disk that contains your operating 
+system. Make a ``boot disk'' to start your computer from the floppy 
+drive when Windows will not start from the hard drive. With a floppy 
+disk in the drive, right-click My Computer on the desktop, left-click 
+``Open,'' right-click on the floppy drive, and left-click ``Format.'' 
+Left-click ``Copy system files only'' and ``Start.'' Keep all your 
+system disks together. SEARCH FOR VIRUSES An antivirus utility checks 
+for problems when you start your computer. You should back up your 
+files weekly _ daily for important, current ones _ and scan your disk 
+for errors once a month. WATCH FOR UPDATES Make regular visits to 
+sites that report bugs and how to fix them, especially when you are 
+about to upgrade or install something new. Programs like Quarterdeck's 
+TuneUp and RealHelp and Cybermedia's Oil Change will compare your 
+system to a Web-based archive of fixes, find what is missing, and 
+show you how to download it. A free Web-based service called Catch-UP 
+is available at www.catch.com. LOOK BEFORE YOU LOAD ``If it ain't 
+broke, don't upgrade it,'' advises Joel Diamond, technical director 
+of the Windows User Group Network. Bug fixes may have bugs of their 
+own. And stick with responsible sites, like Download.com. 
+</TEXT>
+</DOC>

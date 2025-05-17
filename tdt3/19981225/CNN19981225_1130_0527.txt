@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981225.1130.0527 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News" weather update. 
+The low pressure storm that's caused the ice in the southeast will 
+be moving out to sea, but early Christmas day continue to look for 
+a chance of frozen precipitation and rain across the mid-atlantic 
+and south atlantic coasts. A cold front moving through the Great Lakes 
+will mean a chance of showers and snow showers for that area. And 
+we're watching an area of low pressure along the northwest coast. 
+Snowfall is possible from the puget sound southward into northern 
+california. Temperatures will be cold across Alaska, with Anchorage 
+in fog today, 18 degrees for a high. Fairbanks will be sunny with 
+a high of 1 degree. The west will warm gradually, temperatures will 
+still be in the 20s and 30s, but that's an improvement from the previous 
+few days. You'll see 30s and 40s out across most of the east with 
+warmer temperatures in the southeast and the southwest. Scattered 
+showers will be seen Sunday in the southeast with heavy rain, snow 
+and a mix across the northwest on Monday. A big storm system moves 
+into the Great Lakes, and heads eastward on tuesday. The extended 
+forecast is at CNN.com. 
+</TEXT>
+</DOC>

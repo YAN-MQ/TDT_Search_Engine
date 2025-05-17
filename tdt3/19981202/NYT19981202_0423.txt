@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> NYT19981202.0423 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Saying that it could not be certain of the risk to babies from a material 
+found in vinyl that causes cancer in rats, the Consumer Product Safety 
+Commission advised parents Wednesday to throw away nipples and pacifiers 
+made of vinyl and asked manufacturers to stop using it in objects 
+that children put into their mouths. But because laboratory tests 
+cannot measure how much of the chemicals babies are likely to ingest 
+when they chew on vinyl objects, officials said they did not have 
+enough evidence to try to ban the material. They were not even sure 
+how long a baby typically chews on a pacifier or toy, they said. The 
+chemical, called DINP, turns vinyl from a hard plastic suitable for 
+products like water pipes into the soft plastic used for children's 
+toys. In the mid-1980s the commission urged toy manufacturers to switch 
+to DINP from DEHP, another kind of softener, because lab studies found 
+that DEHP caused cancer and other maladies in rats and mice; more 
+recently, DINP has been shown to have similar effects. Industry scientists 
+say both materials are safe. In a study released Wednesday, the safety 
+commission said that ``few, if any, children are at risk from liver 
+or other organ toxicity.'' Ronald Medford, the commission's assistant 
+executive director, said more work was needed, including a review 
+by an expert panel and a study to ``get a better handle on length 
+of time kids mouth the stuff.'' Medford said his agency had begun 
+in October to ask manufacturers to stop using the material, and nearly 
+all have done so, at least for objects intended to go in the mouth, 
+like teethers, rattles and nipples. Nearly all are now made of other 
+materials, like latex. But some Gerber Clear and Soft pacifiers and 
+nipples still on the market are made of vinyl, he said. 
+</TEXT>
+</DOC>

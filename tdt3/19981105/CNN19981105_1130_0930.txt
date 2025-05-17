@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981105.1130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Now the day's top stories -- tropical storm Mitch is pounding the 
+Florida keys with 55-mile-per-hour winds. The storm is centered near 
+Jupiter on Florida's east coast. It should head to sea this afternoon. 
+</TEXT>
+</DOC>

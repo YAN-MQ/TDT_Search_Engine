@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981024.1130.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+nasa's deep space one aircraft lifted off today from florida's cape 
+canaveral air station. officials hope the mission will lead to frequent, 
+affordable trips into space. 
+</TEXT>
+</DOC>

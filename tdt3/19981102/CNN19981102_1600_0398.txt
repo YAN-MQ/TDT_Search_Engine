@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981102.1600.0398 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+When it comes to health problems, gender matters. A women's health 
+advocacy group has released a list of ten diseases that experts say 
+affect women differently than men. Sexually-transmitted diseases top 
+the list, followed by depression, osteoporosis, lung cancer and heart 
+disease. Women are more likely to suffer an auto-immune disorder. 
+And the female body reacts differently to anesthesia, drugs, alcohol 
+and pain. The society for the advancement of women's health research 
+says medical studies need to focus more on these gender differences. 
+</TEXT>
+</DOC>

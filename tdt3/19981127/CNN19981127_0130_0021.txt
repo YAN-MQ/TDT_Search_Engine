@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> CNN19981127.0130.0021 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is "CNN Headline News." I'm David Goodnow in Atlanta this Thanksgiving 
+day. With Thanksgiving celebrations all but complete, many Americans 
+are relaxing, recovering and thinking about days of leftovers. Many 
+eyes are also focusing on the next big date on the calendar -- december 
+25th. The official start of the holiday shopping season kicks off 
+Friday morning. Some stores are opening their doors at dawn for those 
+who are really ambitious to get presents and stocking stuffers. Meantime, 
+signs of Christmas have already sprung up nationwide. In Atlanta on 
+Thursday, the annual lighting of the rich's Christmas tree was held 
+downtown. The scene was even brighter in Kansas city, Missouri. 200,000 
+lights, covering 75 miles, were switched on. The event is a 69-year-old 
+holiday tradition. 
+</TEXT>
+</DOC>

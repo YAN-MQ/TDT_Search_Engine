@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981016.2130.0473 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Typhoon zeb roared across Taiwan today and is bearing down on the 
+southern islands of Japan. Torrential rains triggered floods that 
+have caused extensive damage in Taiwan. At least 12 people there are 
+dead. Most schools are closed, and air travel has been disrupted. 
+Zeb claimed at least 74 lives when it hit the Philippines this week. 
+The casualty figure is expected to rise. 
+</TEXT>
+</DOC>

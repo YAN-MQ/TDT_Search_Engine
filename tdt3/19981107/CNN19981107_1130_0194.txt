@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981107.1130.0194 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Space shuttle "discovery" is on its way home. It's to land at the 
+Kennedy space center in Florida in about half an hour. John Glenn 
+and his crew mates wrapped up almost all of their experiments yesterday, 
+but the testing on Glenn isn't over. He will wear a device to monitor 
+his heart and blood pressure during the landing, and will undergo 
+more tests in the weeks ahead. "CNN Headline News" will bring you 
+live coverage of the landing. 
+</TEXT>
+</DOC>

@@ -1,0 +1,69 @@
+<DOC>
+<DOCNO> NYT19981223.0289 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Denis Dutton spotted a window of opportunity on the World Wide Web, 
+but instead of opening a portal for the masses, he installed a porthole 
+for intellectuals. Dutton is the publisher of Arts &AMP; Letters Daily 
+(www.cybereditions.com/aldaily), a Web site intended to serve as an 
+online starting point for cerebral browsers. Launched in October, 
+the site is really just a single, regularly updated page with links 
+to about 75 carefully chosen articles, essays and book reviews residing 
+elsewhere on the Internet. Current selections, culled from the online 
+editions of academic journals, foreign magazines and dozens of other 
+publications, include a British critic's witty dismissal of the best-selling 
+novel ``The God of Small Things'' and political commentary by the 
+author Salman Rushdie. ``There is emphatically not that much good 
+writing available for free on the Web,'' Dutton said. ``But what little 
+is there can be a source of pleasure for readers who like the arts, 
+ideas and debate.'' Dutton, a philosophy professor at the University 
+of Canterbury in Christchurch, New Zealand, asserted that Arts &AMP; 
+Letters Daily is a ``portal,'' a hot concept in Web commerce these 
+days. The term describes sites like Yahoo! (www.yahoo.com) and Walt 
+Disney Co.'s new Go Network (go.com) that strive to provide well-organized 
+access to the Web's jumble of information. They do so with a collection 
+of features like search engines and customized content like local 
+sports scores. To that end, Dutton, 54, and his three-person staff 
+have equipped Arts &AMP; Letters Daily with links to news sites, online 
+reference works and educationally inclined Web guides like Encyclopaedia 
+Britannica Inc.'s eBLAST (www.eblast.com). Arts &AMP; Letters Daily, 
+Dutton argued, ``is fundamentally a portal site. It is a place for 
+the literate Web surfer to begin the day. Disney can have its teenagers. 
+We are targeting educated adults, the people who make a difference 
+to the intellectual, economic and political life of the world.'' But 
+Arts &AMP; Letters Daily and SciTech Daily Review (www.scitechdaily.com), 
+a newly launched companion site concentrating on science and technology, 
+function more like portholes than portals. Although the sites offer 
+views of the same expansive sea of online information that the portals 
+do, they do it through narrower windows. Jim Hake, founder and chairman 
+of GII in Santa Monica, Calif., which bestows the annual Global Information 
+Infrastructure Awards to Web sites it deems noteworthy, believes the 
+emergence of portholes will be one of the major Internet trends of 
+1999. ``As people become more savvy users of the Net,'' Hake said, 
+``they want things which are better focused on meeting their specific 
+needs. We're going to see a whole lot more of this, and it's going 
+to potentially erode the user base of some of the big portals.'' At 
+eBLAST, which bills itself as ``the thinking person's guide to the 
+Web,'' 25 editors and 200 contributors categorize and rate more than 
+1,000 diverse sites each week. The online resource, a free supplement 
+to a subscription-only version of the encyclopaedia (www.eb.com), 
+already contains about 160,000 sites. ``We're putting our seal of 
+approval on other people's Web sites,'' said Paul Hoffman, eBLAST's 
+42-year-old publisher, In late October, the Chicago firm redesigned 
+the then 4-month-old site to make it faster and, despite its smarty-pants 
+slant, more generic in appearance. Noting that both the populist Zagat's 
+guide and the more refined Michelin directory list their restaurants 
+in alphabetical order, Hoffman said, ``People are used to looking 
+a certain way at information on the Web now. If you depart too extremely 
+from that, it takes your users too long to find what they want.'' 
+Dutton, a U.S. native who has lived in New Zealand since 1984, is 
+certain there is a sizable audience for brainy online content.``Some 
+people might reject Arts &AMP; Letters Daily as a niche interest,'' 
+he said, ``but there are a few million Americans who are genuinely 
+interested in the life of the mind.'' And even if the market turns 
+out to be limited, there are limits to how wide Dutton is willing 
+to expand his porthole. ``We will never have horoscopes,'' he said 
+flatly. ``If people want horoscopes, they will have to go elsewhere.'' 
+</TEXT>
+</DOC>

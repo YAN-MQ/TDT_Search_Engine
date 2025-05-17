@@ -1,0 +1,97 @@
+<DOC>
+<DOCNO> NYT19981216.0471 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Faced with a significant drop in computer and software advertising, 
+Ziff-Davis Inc., the publisher of high-technology magazines, is pursuing 
+new sources of ad income from car, electronic commerce and other companies. 
+According to Adscope, of Eugene, Ore., which tracks technology advertising 
+in 400 computer, telecommunications, special interest and consumer 
+publications, technology ad expenditures fell 4 percent in the third 
+quarter compared with figures in the period a year earlier. Revenue 
+dropped 10 percent for computer and telecommunications titles in particular. 
+Adscope also said third-quarter technology advertising revenues were 
+down 8.7 percent for Ziff-Davis and down 7 percent and 11.8 percent, 
+respectively, for its competitors IDG and CMP Media Inc. For the first 
+nine months of the year, compared with the period a year earlier, 
+this spending was down 6.9 percent for Ziff-Davis, down 1 percent 
+for CMP and up 5.2 percent for IDG, Adscope said. Claude Sheer, the 
+former president of Ziff-Davis Publishing who was recently named the 
+company's chief Internet strategist, attributed the decline in technology 
+advertising to four factors: computer companies diverting advertising 
+money to solving the Year 2000 problem; the downturn in the Asian 
+economy, which has depressed computer sales in the region; consolidation 
+within the computer industry, which has cut into ad budgets, and fewer 
+introductions of new computer products, which has also diminished 
+advertising. ``If any one of these happened by itself, it would have 
+been a minor speed bump, but for all four to occur in one year, it's 
+gotten to be a pretty big deal pretty quickly,'' he said. As a result 
+of the decline, Ziff-Davis, which is 70 percent owned by Softbank, 
+a Japanese distributor of software, shut down three of its 15 magazines, 
+Internet Business, Equip and Windows Pro, in October and laid off 
+10 percent of its work force of 3,500. In addition, it is revising 
+its advertising strategy, going after categories that have not traditionally 
+promoted their products or services in Ziff-Davis' titles. The largest 
+of these categories is automotive advertisers, which the publisher 
+has pursued for the last several years, stepping up its efforts during 
+the summer. To reach this group, Ziff-Davis set up an ad sales office 
+in Detroit in June. It also commissioned a study by ICR, a market 
+research firm in Media, Pa., which it said found that 10 million of 
+the 71 million U.S. consumers who went online in the third quarter 
+researched a car or light-truck purchase. According to Ziff-Davis, 
+the survey also found that online car researchers were twice as likely 
+as the general population to read a computer publication. And it said 
+the demographics of its readers, mostly college-educated males with 
+high household incomes, closely matched the demographics of online 
+auto shoppers. Ziff-Davis said automotive advertising in its four 
+titles that carry car ads _ PC Magazine, PC Computing, Yahoo! Internet 
+Life and Family PC _ rose to 98.5 pages in the first nine months of 
+this year from 60 in the period a year earlier. New advertisers included 
+Volkswagen, Isuzu and Nissan; Ford, General Motors and Suburu increased 
+their buys. Electronic commerce companies are another category Ziff-Davis 
+is eager to cultivate. Companies that have already bought space include 
+Playboy.com, Cyberian Outpost and Catalogcity.com. E-Trade Group Inc., 
+the online investment company based in Palo Alto, Calif., is about 
+to sign an agreement with Ziff-Davis, worth more than $5 million, 
+to promote its services through Ziff-Davis' magazines and on ZDTV 
+and ZDTV.com, its cable television channel and the channel's Web site. 
+Officials of both companies declined to specify the length of the 
+agreement. In addition, Computershopper.com, the electronic commerce 
+channel on ZDNet.com, Ziff-Davis' Web site, is participating in the 
+electronic marketplace on E-Trade's Web site, Etrade.com. Jerry Gramaglia, 
+E-Trade's senior vice president for marketing, said the wide range 
+of programs involved in the agreement would allow E-Trade ``to hit 
+the bull's-eye of our target,'' investors who are 35 and older, computer 
+savvy and mostly male. ``We will be able to shift in and out of the 
+programs to maximize efficiency,'' he said. Cindy Giller, senior vice 
+president and group media director of Young &AMP; Rubicam in San Francisco, 
+said that the circulation of Ziff-Davis' two most popular computer 
+magazines _ PC Magazine and PC Computing _ and of IDG's PC World ``puts 
+them in the broader category for consumer advertising capabilities.'' 
+``The whole category is changing, broadening out,'' she said. ``People 
+who use computers are not as niched as they used to be. That's why 
+these magazines' circulations are growing, and that's why they're 
+viewed as consumer titles, not computer niche trade publications.'' 
+Ms. Giller also said that computer magazine readers who were eager 
+to stay in the forefront of technology might have similar feelings 
+about cars, which could make these publications attractive to advertisers. 
+Sam Whitmore, a former editor in chief of PC Week and the publisher 
+of an online newsletter that analyzes technology media, commended 
+Ziff-Davis' efforts to promote all of its products in one package 
+to E-Trade, something he said the competitors IDG or CMP could not 
+offer. ``This is a very new direction for computer publishers,'' Whitmore 
+said. ``Ziff-Davis is trying to get out from under being a trade publisher. 
+If they stay a trade publisher, they'll wither.'' Meanwhile, Mike 
+Perlis, who succeeded Sheer as president of Ziff-Davis Publishing 
+in November, said the magazines would also pursue other nontechnology 
+advertisers, including financial services companies and those in the 
+fashion, credit card, liquor, consumer electronics and telecommunications 
+industries that are beginning to market their products online. ``As 
+companies start making selling on the Web a big piece of their strategy, 
+reaching people with knowledge of this will be important,'' he said. 
+``If they put together our raw demographics, and the fact that our 
+readers are more likely to participate in the Web, they're buying 
+a good one-two punch.'' 
+</TEXT>
+</DOC>

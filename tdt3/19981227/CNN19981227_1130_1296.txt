@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981227.1130.1296 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Montreal ended its 11-game winless streak in the club's final appearance 
+at maple leaf gardens. Stephane quintal's goal with under five minutes 
+to play gave the canadiens a 2-1 win over Toronto. 
+</TEXT>
+</DOC>

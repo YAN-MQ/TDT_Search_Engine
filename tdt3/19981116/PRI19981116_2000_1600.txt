@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981116.2000.1600 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones Industrial picked up 92 points, 
+to reach 9011 today. The NASDAQ gained to finish up the day up at 
+1862. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981010.0130.1355 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In tennis, there's a new women's number one, Martina Hingis lost her 
+top ranking to Lindsay Davenport. 
+</TEXT>
+</DOC>

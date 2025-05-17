@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981120.0130.0351 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A word of warning before Thanksgiving -- the center for science in 
+the public interest says government tests found nine out of ten turkeys 
+carry bacteria that could cause food poisoning. Those findings came 
+before the government implemented a new food safety program. To be 
+safe, cooks should use a thermometer to check the inside temperature 
+of both the Turkey and stuffing. A Turkey is ready when it reaches 
+an inside temperature of 180 degrees. Stuffing must be 165 degrees 
+to be safe. 
+</TEXT>
+</DOC>

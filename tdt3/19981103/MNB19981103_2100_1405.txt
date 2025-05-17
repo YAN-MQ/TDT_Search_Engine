@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> MNB19981103.2100.1405 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll come back with a comment in just a moment. We have to take a 
+break. We'll come back and we have more to talk about. 
+</TEXT>
+</DOC>

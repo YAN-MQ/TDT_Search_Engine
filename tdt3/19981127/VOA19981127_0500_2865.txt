@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> VOA19981127.0500.2865 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Finally, you probably know that slipping some aspirin into water in 
+a vase of cut flowers keeps the blooms fresher longer. Researchers 
+at Arizona State University, in Tempe, have discovered the biology 
+behind that old florist's trick. When plants are injured, like when 
+their stems are cut, they make something-called jesmonic acid, which 
+helps drive off predators. It also promotes aging of plant tissues. 
+Aspirin inhibits jesmonic acid production, slowing down aging and 
+keeping the flowers fresh long enough for you to bring them to your 
+true love. Well, that's it for today. I'm Brian Sizlack inviting you 
+to join me next time for another addition of Science World. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981125.0130.0430 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The skies and the roads are expected to be busier than ever this thanksgiving 
+holiday. Aaa predicts a record 33.6 million Americans will travel 
+100 miles or more from home. About 82% of travelers are expected to 
+drive. 17% are expected to fly, take a bus or train. The air transport 
+association says Sunday will be the busiest day of the year for airlines. 
+That's when most people head home from family gatherings. Planes are 
+expected to be 0% full on that day. 
+</TEXT>
+</DOC>

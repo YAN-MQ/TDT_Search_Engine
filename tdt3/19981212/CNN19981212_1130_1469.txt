@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981212.1130.1469 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+As of January, the famous yellow pages fingers will be walking away 
+for good. The president of the yellow pages publishers association 
+say it's time to reshape the image of the directory into more of a 
+consumer resource guide. The fingers will be replaced by a light bulb, 
+and the familiar slogan "let your fingers do the walking" will be 
+replaced with "get an idea." 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981018.1000.0235 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+We'll have the extended national weather forecast at eight minutes 
+past the hour. 
+</TEXT>
+</DOC>

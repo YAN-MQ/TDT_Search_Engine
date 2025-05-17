@@ -1,0 +1,112 @@
+<DOC>
+<DOCNO> NYT19981220.0059 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Federal Communications Commission is considering changing its 
+regulations to permit the use of a radical and controversial communications 
+technology that has the potential to make vastly more efficient use 
+of the increasingly precious radio spectrum. Known variously as ultra-wide-band 
+radio and digital pulse wireless, the new technology has a broad range 
+of possible applications, from wireless voice and high-speed data 
+communications to land mine detection and advanced radar systems that 
+could permit law officers to see through walls or could aid cars in 
+avoiding collisions. Despite its potential, however, the technology 
+is not in widespread commercial use today because it would run afoul 
+of FCC restrictions that prohibit radio transmissions in certain frequencies 
+set aside for civilian aviation and military agencies. That could 
+change if the agency agrees to proposals made earlier this month by 
+three small companies that are pursuing the technology for a variety 
+of commercial products. Unlike communications technologies that send 
+information in analog form, ultra-wide band uses a digital transmission 
+consisting of small on-off bursts of energy at extremely low power 
+but over almost the entire radio spectrum. By precisely timing the 
+pulses within accuracies up to a trillionth of a second, the designers 
+of ultra-wide-band radio systems are able to create low-power communications 
+systems that are almost impossible to jam, tend to penetrate physical 
+obstacles easily and are almost invulnerable to eavesdropping. Time 
+Domain Corp., based in Huntsville, Ala., has petitioned the FCC for 
+a waiver so that by the middle of next year, it can begin selling 
+a system that will permit police officers and special weapons and 
+tactics teams to see through walls and doors to detect the location 
+of people. The company is also planning a covert communications system 
+that will both carry voice communications and display locations of 
+a counter-terrorism or SWAT team's members. ``We are focusing on the 
+safety systems because it has a great public benefit and it's a good 
+way to introduce the technology where it can make a difference,'' 
+said Ralph Petroff, the company's chairman and chief executive. However, 
+Time Domain executives as well as many experts familiar with ultra-broad 
+band believe the technology's real commercial potential lies in extremely 
+low-cost communications applications. That would entail a fundamental 
+shift in FCC regulations, a process that could take years. ``When 
+you take its attributes and compare it to the competition, you have 
+very interesting technology that could lead to awesome possibilities,'' 
+said Paul Turner, executive director of PricewaterhouseCoopers' Global 
+Technology Center in Menlo Park, Calif. The most promising application 
+for ultra-wide-band radio might eventually be an alternative to today's 
+wireless office network technologies that are generally able to transmit 
+data at rates of between 1 and 3 million bits a second. Because of 
+its design, ultra-wide band advocates say the technology has the potential 
+to deliver vastly higher amounts of data because a large number of 
+transmitters could broadcast simultaneously in close proximity without 
+interfering with each other. ``The most promising applications are 
+not so much as an alternative to cellular telephone,'' said Lawrence 
+Larson, an electrical engineer at the University of California at 
+San Diego. ``It may rather provide a much better way of doing short-range 
+data communications because it's very energy efficient.'' The computer 
+and communications industries have already settled on a standard known 
+as Bluetooth for wireless connectivity in an unlicensed frequency 
+band at 2.4 gigahertz. Bluetooth, which can send a million bits a 
+second about 30 feet using 100 milliwatts (about a tenth of a watt), 
+is intended to interconnect devices like palm computers, laptops and 
+cellular phones. In contrast, Time Domain's devices can currently 
+transmit 1.25 million bits a second up to 230 feet using just .5 milliwatts, 
+or one-thousandth the power used by Bluetooth. These transmissions 
+are being achieved with the first working prototype chips the company 
+has received from IBM, which fabricated them using the advanced silicon 
+germanium semiconductor material developed for communications applications. 
+Standard wireless transmissions encode data in a continuous sine wave 
+by varying the amplitude (the size of the wave) or the frequency (the 
+number of times the wave cycles each second), sometimes both. In contrast, 
+Time Domain's technology is similar to a Morse code system that, at 
+this point in its development, switches on and off 40 million times 
+a second. And unlike traditional radio signals, which are confined 
+to a very narrow frequency, each pulse of ultra-wide band is transmitted 
+across a wide portion of the radio spectrum, so that only a tiny amount 
+of energy is radiated at any single frequency. The company said it 
+believes that the bandwidth, or data-carrying capacity, of its technology 
+can be expanded to many times its current limit _ perhaps as high 
+as billions of bits per second. Moreover, while standard narrowband 
+wireless technologies have a limited bandwidth, the digital pulse 
+approach has the potential to handle a large number of simultaneous 
+users in close proximity, Time Domain officials said. Ultra-wide band 
+has the added advantage of being significantly more resistant to ``multipath 
+interference,'' a problem that plagues indoor radio systems because 
+signals tend to bounce off many surfaces. Industry officials said 
+they did not expect an early resolution to the FCC's inquiry, which 
+was begun in August. One particular obstacle is that a key official 
+at the Federal Aviation Administration has filed an objection with 
+the FCC, warning about a potential problem caused by the clustering 
+of large numbers of transmitters, even at very low power levels. However, 
+industry officials note that current FCC rules permit ``incidental'' 
+emitters _ generally, consumer devices like personal computers, hair 
+dryers, electric razors, automobiles and arc welders _ and that no 
+hazard has been demonstrated from the many millions of these products 
+in everyday use. Last month, a group of scientists and engineers met 
+at Interval Research Corp., a computer industry research center financed 
+by Paul Allen, a co-founder of Microsoft Corp., to coordinate industry 
+input into the FCC decision-making process. More recently, an Interval 
+physicist, Roberto Aiello, filed an independent comment with the agency, 
+reporting that a simulation by his research group indicated that even 
+if millions of ultra-wide-band transmitters were allowed to operate, 
+they would have a negligible impact on aviation and other communications 
+systems. ``The FAA is worried about this, and I think it's a good 
+position for them to take,'' Aiello said. ``But I think there's concrete 
+evidence that there will not be interference from ultra-wide band.'' 
+In addition to Time Domain, companies asking the FCC for exemptions 
+from spectrum regulations include Radar Inc., which is developing 
+a system for finding buried objects and looking behind walls, and 
+Zircon Corp., a maker of high technology tools like devices that find 
+joists in walls. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981211.1830.0742 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It was an uneven day on Wall Street. The Dow Jones industrial average 
+dropped again, down nearly 20 points. But the NASDAQ closed up, gaining 
+13 points. For the week, the Dow lost almost 200 points. The NASDAQ 
+gained more than 26 points. 
+</TEXT>
+</DOC>

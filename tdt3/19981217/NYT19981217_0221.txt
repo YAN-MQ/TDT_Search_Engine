@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981217.0221 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Moderate snow spread across parts of the Canadian 
+province of Manitoba on Thursday ahead of a streaking low-pressure 
+system diving southeast from Alberta into Saskatchewan. On Friday, 
+this ``Alberta clipper'' will forge into the Great Lakes region, bringing 
+a stripe of moderate snow to parts of northeast North Dakota, northern 
+Minnesota and northern Michigan. Two to 5 inches of snow are possible. 
+Accumulations could be locally heavy, mainly in northeast Minnesota, 
+where easterly winds off Lake Superior inject additional moisture. 
+Ultimately, snowfalls will be limited by the system's fast movement. 
+The coldest arctic air mass of the season will forge southward into 
+the northern Rockies and northern high Plains in the wake of the Alberta 
+clipper, accompanied by snow showers and flurries. Steadier snows 
+will develop along east-facing slopes of the mountains, where easterly 
+winds rise up the sloping terrain. Meanwhile, arctic air will spill 
+over the Rockies into Washington and Oregon, driven westward by a 
+very strong high-pressure system over the Yukon. The central barometric 
+pressure of the high will register more than 31.60 inches of mercury, 
+setting the stage for arctic air to gradually spill westward over 
+the Cascades toward the Pacific Northwest coast. The sluggish upper-level 
+low that spawned thunderstorms over southern Arizona on Thursday will 
+be dislodged and sent eastward into Texas, raising the chance of moderate 
+rains, some with thunder. Rain will later move into Louisiana and 
+parts of Arkansas. Focus: Death Valley Days At least two dozen times 
+each year, Death Valley, Calif., is the hottest place in the nation. 
+On Wednesday, it made that claim again as the mercury soared to 88 
+degrees, establishing a new record for the day and the month. The 
+long nights of early winter, nearly 14 hours, allow the desert air 
+to lose much of the warmth it gains on a sunny December day. Death 
+Valley typically takes a distant second to the hot spots around Los 
+Angeles when the Santa Ana winds descend and heat the air at the coast. 
+However, strong winds descending the nearby Spring Mountains added 
+to the desert warmth. 
+</TEXT>
+</DOC>

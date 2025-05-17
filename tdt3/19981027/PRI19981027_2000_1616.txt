@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981027.2000.1616 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Checking in on Wall Street at this hour, US stocks fell on fears that 
+Brazil will devalue its currency. The Dow Jones Industrials fell 66 
+points today, to 8366. The NASDAQ surrendered seven points to 1718. 
+</TEXT>
+</DOC>

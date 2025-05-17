@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981118.0130.0563 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+a new report shows women who eat well-done beef and bacon are more 
+likely to develop breast cancer. researchers compared women with a 
+diet of well-done beef and bacon to women who eat rare and medium-cooked 
+meats. the increased risk may be linked to certain compounds, which 
+form when meats are cooked at higher temperatures. critics say the 
+study doesn't show a strong enough connection between cancer and cooking, 
+and they caution women that undercooked meat can be dangerous too. 
+</TEXT>
+</DOC>

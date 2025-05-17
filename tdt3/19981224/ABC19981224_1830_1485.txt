@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981224.1830.1485 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The three balloonists are beyond the halfway Mark tonight in their 
+quest to circle the world without stopping. They're now out over the 
+pacific riding the jet stream. This is the most treacherous leg of 
+the trip. There's some unstable weather and the crew is a long way 
+now from any possible rescuers, should anything go wrong. 
+</TEXT>
+</DOC>

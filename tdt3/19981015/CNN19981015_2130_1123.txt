@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981015.2130.1123 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Merrill Lynch is planning an Internet lure. The nation's largest brokerage 
+firm says it will offer free access to its stock research on the world 
+wide web. Merrill Lynch says the move does not refute its stance against 
+do-it-yourself online trading. In fact, the company hopes to use what 
+it learns to generate leads for its full-service brokers. The service 
+will be offered for a four-month trial period. 
+</TEXT>
+</DOC>

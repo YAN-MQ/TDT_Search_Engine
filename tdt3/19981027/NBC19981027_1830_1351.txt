@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> NBC19981027.1830.1351 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Health news tonight -- a new study suggests first heart attacks are 
+more severe in women than in men. It's long been known that women 
+tend to do worse after a first heart attack. But the new research 
+shows the severity of the attack itself may be as much to blame as 
+a woman's age or the quality of her medical care. Heart disease is 
+the number one killer of women and men in this country. 
+</TEXT>
+</DOC>

@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> VOA19981016.0600.2769 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+A surgical procedure developed in France might help as many as one 
+in five people with Parkinson's Disease. The shaking palsy that afflicts 
+many of the elderly. At the Fifth International Congress of Parkinson's 
+Disease and Movement Disorders in New York, University of Granoba 
+Researchers described subthalmic nucleus stimulation or STN. This 
+procedure involves inserting electrodes deep into the brain regions 
+involved in movement and posture. The electrodes are hooked by wire 
+to a pacemaker device worn on the chest. The high frequency electrical 
+signals block out Parkinson tremors. Lavadopa, the standard drug treatment 
+for Parkinson's, often becomes less effective after five to 10 years. 
+The researchers say that those patients are likely to benefit most 
+from STN. University of Granoba team has treated 78 patients with 
+the electrical stimulation procedure since 1993. They report that 
+20 percent of those treated no longer take Lavadopa. As for the rest, 
+their Lavadopa intake has been significantly reduced. A benefit given 
+the medication's side effects. 
+</TEXT>
+</DOC>

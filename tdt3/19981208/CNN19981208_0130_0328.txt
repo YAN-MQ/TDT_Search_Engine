@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981208.0130.0328 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.S. mint in Philadelphia has struck the first new quarter in 
+22 years. George Washington remains the same, but the "tail side" 
+honors Delaware, the first state to ratify the constitution. The mint 
+will take ten years to release designs for all 50 states. 
+</TEXT>
+</DOC>

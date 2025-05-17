@@ -1,0 +1,29 @@
+<DOC>
+<DOCNO> CNN19981209.1130.1022 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Washington, the government and Microsoft are spending some time 
+in the court. This case puts Microsoft chief Bill Gates right in the 
+front line of the antitrust trial. He is the richest American since 
+Rockefeller and Washington is treating him exactly the same way. Just 
+as the government sued to break up John Rockefeller's oil monoply, 
+this year it took aim at Bill Gates' software empire. It's about making 
+sure there's competition in this critical American industry. The government 
+claims Gates used his monopoly as leverage to dominate the Internet. 
+Gates' competitors showed up as government witnesses. The Internet 
+is far too important to mankind to let anyone company dominate it. 
+Microsoft lawyers, a small army of them, argued the government doesn't 
+understand the software business and doesn't understand that business 
+in general is not always friendly. You just heard an opening statement 
+that was based entirely on loose and unreliable rhetoric and on snippets 
+that were not in any sort of responsible context. The reluctant witness 
+in all of this was Gates himself, who testified on tape and was forgetful 
+and evasive. What do you mean concerned? What is it about the word 
+concerned that you don't understand? I'm not sure what you mean by 
+it. Is there a document where I use that term? There is no jury to 
+weigh those words. This trial, and perhaps the future of the U.S. 
+computer software industry, will be settled by one man, federal judge 
+Thomas Penfield Jackson. Peter vial, "CNN Financial News," New York. 
+</TEXT>
+</DOC>

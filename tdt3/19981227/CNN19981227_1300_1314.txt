@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981227.1300.1314 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Kansas city wrapped up its disappointing season with yet another win 
+over rival Oakland. The chiefs' 17th win in 19 games against the raiders. 
+31-24, the final. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981222.0500.3176 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Apple Computers Imack was the top selling personal computer in the 
+U.S. in November. According to PC Data, a market research firm, Imack 
+accounted for over 7% of all unit sales and over 8% of total retail 
+revenues in the United States. That's the latest in financial news. 
+I'm Victor Beetie. 
+</TEXT>
+</DOC>

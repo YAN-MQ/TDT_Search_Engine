@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981213.1130.0472 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Voters in Puerto Rico are going to the polls today with the political 
+future of their island in mind. They're deciding whether they want 
+to become the 51st U.S. state. If the majority cast "yes" ballots, 
+a long process could begin to convert the island from commonwealth 
+status to statehood. But it's important to keep in mind that today's 
+election is nonbinding, and congress has the final say on the island's 
+future. 
+</TEXT>
+</DOC>

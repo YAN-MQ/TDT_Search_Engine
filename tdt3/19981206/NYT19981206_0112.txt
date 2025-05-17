@@ -1,0 +1,104 @@
+<DOC>
+<DOCNO> NYT19981206.0112 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Hoping to offer high-speed Internet access to more consumers, the 
+biggest personal computer company and local telephone companies plan 
+to petition the FCC Monday to relax regulations that they say are 
+impeding network modernization. Compaq Computer and Gateway, together 
+with Microsoft and Intel, plan to join with the Bell local phone companies 
+and GTE to announce their allied effort Monday morning in Washington, 
+according to executives involved in the group. The communications 
+and technology powerhouses intend to urge the Federal Communications 
+Commission to waive many of the rules requiring the local phone giants 
+to give would-be competitors access to all parts of their networks. 
+They also plan to ask for exemptions from the rules barring the Bell 
+companies from the long-distance business, so they can offer wide-ranging 
+data services. The group contends that releasing the companies from 
+such regulations will give them the financial incentive to invest 
+the billions of dollars required to deliver corporate-caliber Internet 
+access to residential consumers at reasonable prices. ``We in the 
+computer industry think we stand in the shoes of the consumers here 
+because we both want broadband deployment and competition,'' Peter 
+Pitsch, a former FCC official who is now communications policy director 
+for Intel Corp., said in a telephone interview. ``Broadband'' is the 
+industry term for high-speed communications services that can include 
+text, images and even audio and video information. The group intends 
+Monday to present the FCC with a statement of 10 principles that the 
+companies say will promote the development of advanced data systems 
+for consumers. It also means to begin lobbying members of Congress 
+who have influence over communications policy. ``If adopted, these 
+principles would both promote competition and strengthen the incentives 
+of the incumbent local telephone companies to promote broadband,'' 
+Pitsch said. Under rules the FCC created in response to the Telecommunications 
+Act of 1996, the local phone incumbents are required to sell access 
+to different parts of their networks to competitors. But the computer-communications 
+alliance wants the commission to let the phone companies reserve their 
+advanced Internet communications equipment for their own use. The 
+Bells have long said that the requirement to sell access to their 
+systems reduces their incentives to invest in and build advanced data 
+networks in the first place _ a point of view that the computer giants 
+have come to embrace. ``We don't want to undercut the incentives of 
+the incumbent companies,'' Pitsch said. ``Everyone is pretty much 
+starting from ground zero when it comes to these data services, and 
+if they take the risk, they ought to get the reward.'' In a nod to 
+competition, the group does intend to propose that the local phone 
+incumbents readily make space available in their network-switching 
+centers for competitors to install their own equipment and that the 
+incumbents be required to resell access to the actual copper wires 
+that run to homes. By proposing that the Bells be allowed into the 
+long-distance market for data services, the alliance will be seeking 
+to at least partly lift a long-distance ban that has been in place 
+since the breakup of the old AT&AMP;T Bell system in 1984. Nearly 
+three years ago, the Telecommunications Act opened a path for the 
+Bells to enter the long-distance arena. But Congress stipulated that 
+each Bell company would first need to convince the FCC it had sufficiently 
+opened its network to competitors _ a test that no Bell has passed. 
+The law, however, also directed the FCC to look into ways of encouraging 
+the development of more high-speed data options for consumers. And 
+for all of the hype that surrounded the passage of the Telecommunications 
+Act, most American consumers have no more options for high-speed links 
+to cyberspace than they did before 1996. As a result, the FCC is under 
+mounting political pressure to encourage the mass-market availability 
+of high-speed data systems. So while the commission's chairman, William 
+Kennard, is unlikely to embrace the proposals wholeheartedly, he is 
+also very likely to be less hostile to them than his predecessor, 
+Reed Hundt, would have been. Hundt was seen in the communications 
+industry as an implacable foe of the Bells. In allying with the local 
+phone carriers, the computer behemoths are making their first significant 
+foray into the political jungle that is the world of telecommunications 
+regulation. The proposals are almost certain to draw harsh condemnation 
+from the Bells' archrivals, the long-distance companies, led by AT&AMP;T 
+and MCI Worldcom Inc. Still, the formation of the alliance is a vivid 
+sign of how the computer industry has come to rely on the communications 
+industry to provide the Internet links that are driving the PC business. 
+It is a relationship that is almost certain to grow closer and more 
+complicated in the coming years, as Internet connections and computers 
+become perhaps as common as telephone dial tones. ``This is the first 
+time that the telephone industry has gotten together with the computer 
+industry and said, `Look, the capability of the public network is 
+really not keeping pace with consumer needs for bandwidth, given the 
+way the Internet is growing,''' said Robert Blau, BellSouth Corp.'s 
+vice president for executive and regulatory affairs. Alex Gruzen, 
+Compaq Computer Corp.'s director for Internet services, said connecting 
+to the Internet is now the primary reason that consumers buy computers. 
+The problem for PC makers, though, is that the speeds at which most 
+home users link to the Internet from home have not kept up with increases 
+in processing power achievable by the computers themselves. That means 
+that users who already have a powerful computer often have no compelling 
+reason to buy a new, more powerful one. ``The deployment of broadband 
+networks means you get multimedia applications over the Internet,'' 
+said Joseph Tasker, vice president for government affairs for Compaq, 
+the No. 1 maker of personal computers. ``And computers and networks 
+go together.'' The concept of letting local phone companies avoid 
+reselling access to their data systems has gained currency at the 
+No. 1 maker of data networking equipment, Cisco Systems Inc. Although 
+Cisco is apparently not a member of the new coalition, John Chambers, 
+Cisco's chief executive, said in an interview last week that the resale 
+requirements were standing in the way of the phone companies' offering 
+high-speed data services to consumers. ``If you build this infrastructure 
+and you immediately have to sell it to someone else,'' he said, ``the 
+build-out is not going to take place.'' 
+</TEXT>
+</DOC>

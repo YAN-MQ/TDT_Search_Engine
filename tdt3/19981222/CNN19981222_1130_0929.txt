@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981222.1130.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is getting some support in his effort to avoid impeachment. 
+Ironically, it comes from four congressmen who voted for impeachment. 
+They've written a letter to Senate majority leader Trent Lott, urging 
+him to allow the Senate to consider censuring the president. 
+</TEXT>
+</DOC>

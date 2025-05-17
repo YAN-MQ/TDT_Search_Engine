@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981104.0500.0296 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Hello again from Washington, I'm Paul Westphaling, along with Cherylynn 
+Corder, this is VOA News Now. 
+</TEXT>
+</DOC>

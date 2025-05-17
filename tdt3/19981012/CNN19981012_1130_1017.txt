@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981012.1130.1017 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+But despite today's rally, the brokerage industry is feeling the pressure 
+following recent market volatility. Merrill Lynch is expected to announce 
+as many as 3,000 job cuts tomorrow. Sources say Merrill's emerging 
+markets and fixed income divisions will be hit hardest by the cuts. 
+No comment yet from Merrill Lynch. 
+</TEXT>
+</DOC>

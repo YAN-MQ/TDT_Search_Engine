@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981230.1130.0553 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+January 12000 is approaching. We are starting a 10-part series called 
+"Y2K, will the bug bite? Kate snow starts with this report. Sometimes 
+it's hard to tell who is in charge, people or computers. Computers 
+bring electricity to our home and delivering life-saving medicine. 
+They contain some of the most mundane systems on earth and some of 
+the most deadly ones, too. We've become dependent on computers in 
+a short period of time. We don't realize how dependent we are. We 
+are about to realize that if we have malfunctions. All this trouble 
+because of one little glitch? The combination of these advances brought 
+about a second generation of computers in 1960. The Y2K bug was born 
+in the '60s. '74 meent 1974. In the days when computer memory was 
+expensive, that made sense. It doesn't make sense anymore. Many computers 
+will confuse the year 2000 with the year 1900. Some could make mistakes 
+and produce useless data. Others might simply crash. We don't know 
+exactly what's going to happen. When you have tens of thousands of 
+problems, you can being guaranteed that a vast majority will be trivial 
+and that a handful will be severe. What's the chance your telephone 
+won't work? Will it be safe to fly? Over the next several days, we'll 
+help you separate the reality of the problem from the myths. I didn't 
+done one thing about it. We live with technology every day. You'll 
+hear from the experts who agree the bug is serious, but not the end 
+of the world. Even the worst case scenarios what are now shavepg up 
+in the United States, based on what we know, are not the end of civilization. 
+Most important, we'll show you how to be prepared and not overreact. 
+Some charge of your own preparedness. Don't panicic. Don't let somebody 
+on a web site tell you what to do. With so many computers with our 
+lives, you don't want the year 2000 to creep up on you. Kate snow, 
+"Headline News." 
+</TEXT>
+</DOC>

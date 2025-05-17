@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> PRI19981218.2000.1490 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The latest business news now from Wall Street. 
+</TEXT>
+</DOC>

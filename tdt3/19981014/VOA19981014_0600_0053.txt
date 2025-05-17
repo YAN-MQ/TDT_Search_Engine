@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981014.0600.0053 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+this just in to the VOA newsroom. Economist Amata Cien of India has 
+awarded the 1998 Noble Prize for Economics. The Royal Swedish Academy 
+of Sciences announced the prestigious prize today in Stockholm. The 
+academy honored Mr. Cien for his contributions to research on welfare 
+economics, including indexes that measure poverty. 
+</TEXT>
+</DOC>

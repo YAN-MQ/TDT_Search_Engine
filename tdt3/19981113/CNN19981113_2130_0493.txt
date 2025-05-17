@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981113.2130.0493 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast is next. Later the U.S. military is 
+preparing for a shower, but it won't need an umbrella for this one. 
+</TEXT>
+</DOC>

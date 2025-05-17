@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981217.1130.0440 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Britain's highest court has ordered a new appeal hearing for Chilean 
+dictator augusto Pinochet. The law lords set aside a previous ruling 
+after finding out one of the lords has close ties to amnesty international, 
+which has lobbied to bring pinochet to trial. A new hearing is set 
+for next month to determine whether Pinochet enjoys diplomatic immunity 
+as a former head of state. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981119.1600.1073 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Satellite television services must now carry one noncommercial educational 
+channel for every 25 other channels it offers. New rules from the 
+federal communications commission also require satellite tV companies 
+to charge political candidates the lowest possible rates for campaign 
+advertising. 
+</TEXT>
+</DOC>

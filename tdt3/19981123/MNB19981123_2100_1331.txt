@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> MNB19981123.2100.1331 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It was a wild day on Wall Street, where mergers and acquisitions dominated. 
+The possibility that Netscape will be taken over by America online. 
+Add to that a $10 billion deal in the brokerage industry, and it was 
+off to the races, the Dow closing at its highest level since July 
+17. A phenomenal performance, wiping out the losses from the early 
+summer. The Internet stocks were a feature of today's activity, with 
+Amazon.com, ebay, and others, were at an all-time high. Add to that 
+the likelihood that the Dow could reach 10000 sometime soon, and it 
+was a red-letter day. 
+</TEXT>
+</DOC>

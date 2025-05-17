@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981118.0130.1322 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+tom glavine won the national league's cy young award. the braves lefty 
+had less first-place votes than padres closer trevor hoffman, but 
+accumulated more points. 
+</TEXT>
+</DOC>

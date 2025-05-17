@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981115.1830.1771 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That's "NBC nightly news" for this Sunday. Here's Jane pauley with 
+a look at what's ahead tonight on "dateline NBC." Thanks, jodi. Tonight 
+the story of a plane crash and four men stranded on one of the world's 
+coldest deadliest mountains. They had no supplies, and a blizzard 
+was blowing in. 
+</TEXT>
+</DOC>

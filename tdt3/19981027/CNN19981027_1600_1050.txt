@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981027.1600.1050 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New evidence consumers are less confident about the state of the economy. 
+The conference board's index of consumer confidence fell much more 
+than expected this month. It's the fourth monthly drop in a row. Still, 
+consumer confidence does remain high by historical standards. 
+</TEXT>
+</DOC>

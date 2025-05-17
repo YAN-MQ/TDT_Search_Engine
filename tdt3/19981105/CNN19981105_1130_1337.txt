@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981105.1130.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Saints quarterback Heath Shuler is done for the season after the team 
+placed him on injured reserve. Shuler hasn't played since suffering 
+a foot injury about a year ago. 
+</TEXT>
+</DOC>

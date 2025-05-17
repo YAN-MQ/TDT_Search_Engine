@@ -1,0 +1,73 @@
+<DOC>
+<DOCNO> NYT19981205.0068 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Everyone has heard about the LSD-soaked stickers given away to schoolchildren. 
+The stamp-size tabs are reportedly decorated with blue stars or pictures 
+of Superman, butterflies or clowns. Or how about the story of the 
+child who is dying of cancer and wants postcards sent to him? Or how 
+about Neiman Marcus' $250 cookie recipe? They are all urban myths, 
+of course, stories that refuse to die no matter how many times they 
+are roundly debunked. Science is different, right? Study results become 
+part of the annals, authenticated by weighty papers and validated 
+by panels of experts. This is the usual route to credibility. Then 
+there are the myths. Take the ``Hawthorne effect,'' which is much 
+embraced in social psychology. It refers to a study from 1927 to 1933 
+of factory workers at Western Electric's Hawthorne Plant in Illinois. 
+It showed that regardless of the changes made in working conditions 
+_ more breaks, longer breaks or fewer and shorter ones _ productivity 
+increased. These changes apparently had nothing to do with the workers' 
+responses. The workers, or so the story goes, produced more because 
+they saw themselves as special, participants in an experiment, and 
+their inter-relationships improved. Sounds very compelling. ``The 
+results of this experiment, or rather the human relations interpretation 
+offered by the researchers who summarized the results, soon became 
+gospel for introductory textbooks in both psychology and management 
+science,'' said Dr. Lee Ross, a psychology professor at Stanford University. 
+But only five workers took part in the study, Ross said, and two were 
+replaced partway through for gross insubordination and low output. 
+A psychology professor at the University of Michigan, Dr. Richard 
+Nisbett called the Hawthorne effect ``a glorified anecdote.'' ``Once 
+you've got the anecdote,'' he said, ``you can throw away the data.'' 
+Myths happen in medicine, too. Dr. Robert Buckman, a cancer specialist 
+at the University of Toronto, discovered an urban legend when he tracked 
+the story of a spectacular cancer treatment to its source. Buckman 
+first heard the story on June 25, 1990, in Toronto in a lecture given 
+by Dr. Bernard Siegel, a doctor who has written popular books on the 
+power of the mind over cancer. Siegel told of two oncologists chatting 
+about a study they were participating in to test a combination of 
+four chemotherapy drugs, which had the initials EPHO. One doctor's 
+patients were doing spectacularly well; three quarters of them were 
+responding to the drugs. But only a quarter of the other doctor's 
+patients were improving. Then the first doctor explained that he had 
+simply rearranged the letters of the drugs so they spelled HOPE. Siegel's 
+audience was overwhelmed. ``If hope did that, then it was the most 
+powerful anti-cancer agent the world had ever known,'' Buckman said. 
+Still, he was skeptical. He knew by the initials of the drugs that 
+the treatment must be for small-cell lung cancer, which is very difficult 
+to treat. Why had he not heard of the study before? Buckman asked 
+Siegel for his source, which turned out to be a book by Norman Cousins, 
+who had referred to an article published in a 1988 Western Journal 
+of Medicine. Buckman telephoned the writer, a cancer specialist in 
+La Jolla, Calif. The doctor told Buckman that he had invented the 
+story. It was a parable meant to tell doctors that there was more 
+to treating cancer than merely doling out drugs, he said. Are scientists 
+as credulous as the parents who worried about the LSD stickers? Perhaps 
+urban legends take hold, Ross said, because ``sometimes a story deserves 
+to be true.'' Scientists may be no different from lay people when 
+it comes a message that strikes a chord in them. The Hawthorne effect 
+had an enormous appeal for many social psychologists, Ross said. ``The 
+study became a symbol initially for arguing that change itself is 
+good or that anything you do produces positive effects,'' he said. 
+Then it was interpreted to mean that people who take part in experiments 
+behave differently simply because they are taking part in an experiment, 
+he added. That, too, appealed to many researchers. ``A lot of us kind 
+of believe that subjective factors matter a lot in medicine,'' Ross 
+said. ``We want there to be demonstrations that make that point. And 
+so we may ignore flaws and deficiencies in a study if it is saying 
+something we believe to be important.'' Then, if some naysayer takes 
+note of the paucity or absence of data, Ross said, ``it's like seeing 
+a magician's trick and then having the magician tell how he did it.'' 
+</TEXT>
+</DOC>

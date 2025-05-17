@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981103.0130.0505 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen McGinnis. 
+Temperatures are dramatically cooler from Hudson bay to the Great 
+Lakes and across the northern great plains. Temperatures mostly in 
+the 30s. In the southeastern United States, temperatures also drop 
+off, 60s and 70s can be found, while mostly 50s for the pacific northwest. 
+In our election day forecast and then moving on into Wednesday morning, 
+we do have a weather system that will be impacting the mid-atlantic 
+and the southeast. It looks like some of that moisture also through 
+the Ohio and Tennessee valleys. While a frontal system pushes on shore 
+for the pacific northwest, San francisco can expect a cloudy day. 
+Look for some afternoon showers for Honolulu and around 85, and some 
+snow expected in Barrow, Alaska. For Wednesday, those temperatures 
+still cool through the midwest. And some 70s can be found in the desert 
+southwest. By Thursday, 70s and 80s in the southwestern U.S., still 
+30s through the Great Lakes, 40s and 50s into the mid-atlantic. And 
+then by Friday, look for some rain and snow across the northern Rockies 
+and for the pacific northwest. For more weather information, log onto 
+CNN.com. 
+</TEXT>
+</DOC>

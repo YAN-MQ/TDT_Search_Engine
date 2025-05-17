@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> APW19981114.0182 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A Singapore man was sentenced to three months in jail for unauthorized 
+use of the Internet under the island nation's tough new computer laws, 
+a newspaper reported Saturday. Daud Mohamed Saini, a 29-year old former 
+business manager, was found guilty of using a customer's Internet 
+account without permission between May and June last year, said The 
+Straits Times. Although he only incurred about 40 Singapore dollars 
+(dlrs 24) of charges while using the account, the court handed him 
+a stiff penalty under the recently amended Computer Misuse Act. Singapore 
+aims to bring Internet commerce to the heart of this business center's 
+operations and has passed legislation this year to regulate electronic 
+transactions and fight cyber-crime. Amended in June, the Computer 
+Misuse Act seeks to enhance security, deter computer criminals with 
+harsh penalties and broaden powers of investigation. Daud, who worked 
+at a data and communication products company, faced a maximum 2,000 
+Singapore dollar (dlrs 1,200) fine and two years in prison. 
+</TEXT>
+</DOC>

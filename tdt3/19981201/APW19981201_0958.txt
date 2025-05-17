@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> APW19981201.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The Norwegian state telephone company, Telenor ASA, on Tuesday announced 
+that it was buying a 25-percent stake in Russia's largest cellular 
+telephone provider, Vimpel Communications, for dlrs 160 million. Vimpel, 
+which is listed on the New York Stock Exchange, has Russian government 
+licenses to provide mobile telephone coverage to areas inhabited by 
+100 million people. According to a news release from Telenor, Vimpel 
+plans to use the extra stock capital to help expand its GSM, fiber-optic 
+and Internet services. Telenor said the company has about half the 
+cellular phone market in Moscow. ``The investment in Vimpel is in 
+keeping with our strategic ambitions in Russia,'' Tormod Hermansen, 
+head of Telenor. The deal is contingent on approval by 75 percent 
+of Vimpel's shareholders and the Russian government. The sale could 
+be completed by June 1. Vimpel reported an operating profit of dlrs 
+61 million last year, on a turnover of dlrs 306 million. 
+</TEXT>
+</DOC>

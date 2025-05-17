@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981202.1600.3030 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is Breck Ardery. Thank you, Breck. In London, the Financial Times 
+100 Share Index ended the day down 30 points at 5,507, while in Paris, 
+the CAC40 was down 38 points at 3,650. The DAX in Frankfurt was 65 
+points lower at 4,712. In Tokyo, the Nikkei Index gained 151 points 
+to close at 14,987, while in Hong Kong, the Hang Seng Index was 80 
+points higher to end the day at 10,056. 
+</TEXT>
+</DOC>

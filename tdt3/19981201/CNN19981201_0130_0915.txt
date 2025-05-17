@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981201.0130.0915 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sources tell CNN, the house Judiciary committee will move to expand 
+its impeachment inquiry into allegations of campaign fund-raising 
+abuses in 1996. It's scheduled to vote Tuesday on whether to issue 
+subpoenas for president clinton and attorney general Janet Reno. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981208.2130.0920 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And shuttle "endeavour" astronauts have boosted the international 
+space station into a higher orbit, in preparation for a second space 
+walk tomorrow. 
+</TEXT>
+</DOC>

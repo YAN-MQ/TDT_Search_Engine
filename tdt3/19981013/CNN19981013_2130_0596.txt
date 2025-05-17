@@ -1,0 +1,36 @@
+<DOC>
+<DOCNO> CNN19981013.2130.0596 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The fungus that wiped out the potato crop in Ireland and caused widespread 
+famine and death has resurfaced. Allard beutel reports on how scientists 
+are fighting a new strain of this 19th century bug in "tech trends." 
+These potatoes are the victims of what some scientists call the "world's 
+worst agricultural disease" -- late blight. During the 1840s, the 
+fungus that causes late blight spread over Europe. One result was 
+the infamous potato famine that killed an estimated 1 million people 
+in Ireland. Now, 150 years later, stronger, more aggressive relatives 
+of that original fungus are making themselves at home across the world. 
+Scientists believe the new fungus strains were exported to Europe 
+from Mexico during the 1970s, then they were shipped worldwide. Agricultural 
+experts estimate during the past several years, late blight has caused 
+about $3 billion in annual crop losses, and it's cut international 
+potato production by 15%. This plot is a susceptible cultivar, and 
+as you see that there's absolutely nothing left. Bill fry has studied 
+the fungus for the past 25 years. He says there are several things 
+that make the new strains so virulent, including a resistance to chemicals 
+that kill fungi. The strains that have come out of Mexico recently 
+are more aggressive than the strains that were here previously. Scientists 
+say the only way to truly beat late blight is to develop potatoes 
+that resist all forms of the disease. Researchers are using cross-breeding 
+and molecular biology to create new plants. We now have about 60 different 
+types of potatoes available to send out to the world that have this 
+resistance. Researchers say they understand their new late blight 
+resistant potatoes must also be a product the international food market 
+will buy. So, we have chosen to develop a lot of different kinds. 
+And they will meet demands for -- for various markets. Scientists 
+hope to have the new late blight resistant plants in worldwide use 
+within five years. Allard beutel, CNN. 
+</TEXT>
+</DOC>

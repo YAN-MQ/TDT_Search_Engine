@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981206.1830.1588 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Looking at the weekend box office, "A bug's life" is still the number 
+one film, taking in $17 million this weekend. The remake of "psycho" 
+is in second place, with $10 million. "Enemy of the state" is number 
+three. 
+</TEXT>
+</DOC>

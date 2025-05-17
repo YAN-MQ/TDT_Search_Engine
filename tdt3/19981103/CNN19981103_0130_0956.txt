@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981103.0130.0956 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And election day is Tuesday. Democrats say republican plans to videotape 
+at some polling places is designed to intimidate minority voters. 
+Republicans deny that. The justice department is sending 141 observers 
+to monitor elections in five states. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981014.2130.0570 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new study shows children with chronic constipation may be allergic 
+to dairy products and soy milk may be the cure. Researchers studied 
+65 children under the age of 6 with chronic constipation. They found 
+two-thirds of the children improved after they switched to soy milk. 
+The researchers caution dairy products are not the problem for all 
+children with constipation. The study appears in tomorrow's "New England 
+journal of medicine." 
+</TEXT>
+</DOC>

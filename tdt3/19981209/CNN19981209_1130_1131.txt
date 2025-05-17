@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981209.1130.1131 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For all the day's business news, check out our web site at cnnfn.com. 
+We'll have scores, highlights, and more, straight ahead in "CNN Headline 
+Sports." 
+</TEXT>
+</DOC>

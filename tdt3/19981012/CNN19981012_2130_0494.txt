@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981012.2130.0494 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "Headline News weather" begins with our forecast 
+weather map for Tuesday morning. Cold front moving through the east 
+carrying no precipitation at all with it. There is some much cooler 
+air rolling in behind this front however. And another cold front is 
+rolling into the northwestern corner of the United States with rainfall 
+in Washington and Oregon. All in all, through much of the U.S. we're 
+going to see nice autumn weather. But it will be chilly. As a matter 
+of fact, there is the threat of frost in the overnight hours in the 
+upper midwest. And daytime highs may only be in the 40s. Still warm 
+across the south. As you can see, 80s from Florida to Texas, and in 
+the desert areas, a few 90 degree readings are expected. Here is a 
+look at your extended forecast. On Wednesday, rainfall possible in 
+the New England states and in the northwest. As we move ahead into 
+Thursday, you can see rainfall in the northwest as yet another cold 
+front moves in through that area. And in the northern Rockies, there 
+is even a threat of a little bit of snowfall with the cold weather 
+moving in behind that same frontal boundary. By Friday, a rain/snow 
+mix is possible in the upper midwest. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> NBC19981210.1830.1752 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Nightly News" for Thursday. I'm Tom Brokaw. I'll see you 
+back here tomorrow. 
+</TEXT>
+</DOC>

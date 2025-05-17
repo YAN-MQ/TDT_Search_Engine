@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> ABC19981204.1830.0547 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The census bureau issued its annual report today on the state of the 
+country -- by the numbers. Thousands and thousands of statistics, 
+a portrait of our lives. Americans as a whole are living longer. At 
+the turn of the century, the average life span was 47. Today, it is 
+75. Today, people live longest in Hawaii. Today, only 20% of Americans 
+exercise regularly. College graduates do the most. 55% of American 
+home owners who are over 65, have paid off their mortgages. 1 in 20 
+children in the U.S. are living with their grandparents. New York 
+still collects the most taxes, followed by California. Delaware collects 
+the least. Last year, Americans spent four times more money on computers 
+and other electronic devices than they did on books and maps. And 
+more than 75% of all libraries are now connected to the Internet. 
+</TEXT>
+</DOC>

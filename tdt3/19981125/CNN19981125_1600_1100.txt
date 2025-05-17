@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981125.1600.1100 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And for a quick recap -- the Dow closes up 13, the NASDAQ up 19. That's 
+"Dollars & Sense." Back to you, Chuck. 
+</TEXT>
+</DOC>

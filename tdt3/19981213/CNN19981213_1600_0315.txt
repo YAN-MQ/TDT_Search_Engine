@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981213.1600.0315 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The shuttle "discovery" unhooked and pulled away from the international 
+space station to begin the journey back to earth. They had a successful 
+mission, connecting the first two modules of the station during three 
+space walks. The shuttle "discovery" will do more construction work 
+in the spring. "Endeavour" is expected to arrive at the Kennedy space 
+center late Tuesday. 
+</TEXT>
+</DOC>

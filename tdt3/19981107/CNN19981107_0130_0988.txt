@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981107.0130.0988 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A Wall Street rally was within a few hundred points of July's all-time 
+close. 
+</TEXT>
+</DOC>

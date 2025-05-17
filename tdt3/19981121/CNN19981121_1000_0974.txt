@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981121.1000.0974 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Dietary supplements will have to live up to their new labels. The 
+federal trade commission is requiring manufacturers to support claims 
+about what their products can do. The new labels must explain the 
+benefits makers imply in advertising. Americans swallow some $5 billion 
+worth of supplements each year. 
+</TEXT>
+</DOC>

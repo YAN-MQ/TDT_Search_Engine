@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981225.1600.0535 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather 
+forecast" from Christmas evening into Saturday evening. Our forecast 
+calls for things to begin to improve in the southeastern U.S. as high 
+pressure builds in and the low-pressure center moves away from the 
+east coast. But still some lingering clouds and perhaps an icy mix 
+overnight tonight. Across the Great Lakes, we'll see some snow. Low 
+pressure into the northern plains will produce some snow showers. 
+And in the northwest, could be some heavy rains. Coastal Oregon, northern 
+California with snow in the mountains as another system pushes into 
+that region. Today's highs, single numbers and teens across the north-central 
+part of the country. Mostly 40s and 50s in the south. We'll see some 
+60s developing in the southwest, 70s over southern Florida. Looking 
+ahead to Sunday, look for rain in the northwest, snow showers around 
+the Great Lakes. On Monday, rain and snow through the Great Lakes 
+with some thunderstorms possible in the south. And also rain and snow 
+across the northwest. And on Tuesday, wet in the east. Things are 
+a little warmer across the south. Don't forget, four-day forecasts 
+at CNN.com. 
+</TEXT>
+</DOC>

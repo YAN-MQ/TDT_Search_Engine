@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981030.1130.0620 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+No juries more major damage reported after this morning's earthquake. 
+The 5.3 quake was centered five miles northeast of kings beach, California. 
+In the northern lake Tahoe region. The quake could be felt 30 miles 
+away in Reno, Nevada. 
+</TEXT>
+</DOC>

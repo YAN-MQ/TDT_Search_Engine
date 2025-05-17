@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981011.1600.1347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The United States lost a heartbreaker today against Spain in the semifinals 
+of the dunhill cup. Tiger Woods missed a 4-foot putt on the final 
+hole to help give Spain a 2-1 victory. However, the Spanish team lost 
+in the finals to defending champions south Africa, 3-0. 
+</TEXT>
+</DOC>

@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981117.1130.0660 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Doctors have long known that the food you eat and how much you exercise 
+can affect the health of your heart. Now researchers at the American 
+heart association are finding that a Variety of environmental influences 
+may affect your heart as well. For instance, if you need an excuse 
+to sleep in, here's the perfect one -- "Most studies suggest heart 
+attacks are more likely to occur when people wake up and start moving 
+around." That's because the adrenaline surge associated with gearing 
+up for the day can put a strain on your heart. The same physiological 
+reaction happens after you've rested all weekend, making Monday the 
+most common day of the week for a heart attack. The weather may also 
+affect your health. Winter is the riskiest time for a heart attack, 
+especially December and january. Experts say that's because blood 
+pressure tends to go up in cold weather, which means the heart has 
+to work harder. 
+</TEXT>
+</DOC>

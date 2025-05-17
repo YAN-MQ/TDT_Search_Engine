@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981109.2130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Members of the justice department questioned President Clinton about 
+alleged campaign finance abuses during the '96 re-election campaign. 
+Attorney general Janet Reno is to decide by early next month whether 
+to recommend an independent counsel. 
+</TEXT>
+</DOC>

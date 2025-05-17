@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981123.1130.1321 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Cowboys held off the seahawks, 30-22. Troy Aikman finished 28 
+of 42 for 296 yards. Dallas leads the NFC east at 8-3. 
+</TEXT>
+</DOC>

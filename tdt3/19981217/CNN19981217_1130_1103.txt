@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981217.1130.1103 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Nike is expected to report earnings after today's closing bell. 
+Profits have fallen dramatically this year as the global economic 
+slowdown hurt demand for its sneakers. 
+</TEXT>
+</DOC>

@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> PRI19981023.2000.1930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Researchers at Columbia University in New York say they've discovered 
+that monkeys can count but only from one through eight. THE WORLD's 
+David Lavalle reports. The researchers show the two monkeys a mix 
+of images on touch sensitive computer screens. Each image contain 
+between one and nine circles or squares, and the two rhesus monkeys 
+named Rosencrantz and McDuff were able to select them in order one 
+through eight with almost no mistakes. They faltered when challenged 
+with images of nine objects. The researchers say their study illustrates 
+that animals can grasp some of the basics of math and quantity. Though 
+it isn't considered conclusive proof that animals can actually count, 
+the study is stirring speculation that mathematical skills may have 
+evolved before language. For THE WORLD, I'm David Lavalle. 
+</TEXT>
+</DOC>

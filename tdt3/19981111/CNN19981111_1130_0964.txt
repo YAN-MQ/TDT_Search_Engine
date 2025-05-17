@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981111.1130.0964 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks opened higher today after a two-day bout of profit taking. 
+But the early demand for blue chips has petered out. They had been 
+up 71. The broader markets indexes have also given up early gains, 
+except the nASDAQ, which is up 14 points. 
+</TEXT>
+</DOC>

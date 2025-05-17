@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981031.1600.0932 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking the top stories -- Iraq says it will stop cooperating with 
+U.N. weapons inspectors. Sources tell CNN UNSCOM is meeting with Iraqi 
+officials today to get more details. 
+</TEXT>
+</DOC>

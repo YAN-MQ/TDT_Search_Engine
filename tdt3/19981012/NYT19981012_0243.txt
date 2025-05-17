@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> NYT19981012.0243 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Ask people if they have negative attitudes toward blacks, women or 
+the elderly, and you are likely to hear a chorus of denials. But give 
+those same individuals a simple test to tap unconscious beliefs, two 
+psychologists say, and the results often tell a different story. Prejudice 
+can be so pervasive and so deeply rooted that many people are not 
+consciously aware of their biases, say Dr. Anthony Greenwald of the 
+University of Washington and Dr. Mahzarin Banaji of Yale University, 
+developers of the Implicit Associations Test. The test, a series of 
+word-pairing tasks, is intended to measure implicit or automatic associations 
+to social groups. In one version, subjects are asked to pair random 
+combinations of pleasant and unpleasant words _ ``peace'' and ``paradise'' 
+versus ``hatred'' and ``violence'' _ with combinations of proper names 
+common among white or black Americans _ Brad and Peggy versus Jamal 
+and Latisha. Other versions of the test address unconscious assumptions 
+about women and older people. Still others focus on self-esteem and 
+sex differences in preferences for math or art. Greenwald and Banaji 
+and their colleagues have given the test to hundreds of undergraduates, 
+including more than 1,000 Yale freshmen this fall. Thousands of other 
+people are taking the test on line, by visiting a Web site (www.yale.edu/implicit) 
+for the researchers. The site received 50,000 hits in its first week, 
+the researchers said. In studies using the race-based version of the 
+test, 90 percent of white subjects took longer to pair pleasant words 
+with black names and unpleasant words with white names than the other 
+way around, a delay the psychologists interpret as an automatic or 
+implicit preference for white names. This discrepancy remained significant 
+even when the researchers took into account the familiarity of the 
+proper names, the order in which the words were presented, whether 
+the pleasant words appeared on the right or left side, and other factors 
+that might influence the results. Data from black subjects are still 
+being collected, but Greenwald says many black people taking the test 
+also show a preference for white names, though to a weaker degree. 
+While the test may reveal unconscious prejudice, the researchers note 
+that no evidence links a person's performance on the test with attitudes 
+or behavior in the outside world. ``We like to think of it as an unconsciousness-raising 
+tool,'' Banaji said, a tool ``for increasing awareness or self-analysis. 
+It should not be used to select individuals for jobs or to select 
+a jury.'' 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981015.0130.0949 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Israeli prime minister Benjamin Netanyahu and Palestinian authority 
+President Yasser Arafat are scheduled to begin a summit in Maryland 
+Thursday. Negotiators for both sides tell CNN they expect to go home 
+with a deal. 
+</TEXT>
+</DOC>

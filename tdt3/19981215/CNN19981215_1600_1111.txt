@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981215.1600.1111 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In economic news, there is more evidence that inflation remains under 
+control. The consumer price index, the broadest gauge of costs for 
+goods and services, posted a tame increase of 0.2% in November. Prices 
+actually declined for a broad range of products, from gasoline to 
+computers to toys. 
+</TEXT>
+</DOC>

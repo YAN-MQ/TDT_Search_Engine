@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981222.0500.0350 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News. I'm Curt Hetchen along with Paul Westfeeling broadcasting 
+to you from Washington. 
+</TEXT>
+</DOC>

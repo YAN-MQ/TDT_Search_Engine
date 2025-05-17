@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981024.1300.0404 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Coming up next, the extended weather forecast for the United States. 
+And after that, some elephants that are at the center of a dispute 
+that could have important implications for the international trade 
+of exotic animals. 
+</TEXT>
+</DOC>

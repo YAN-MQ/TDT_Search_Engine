@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981211.1600.0971 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Let's check the market numbers for you now. The Dow Jones industrial 
+average finished the day -- at what level? Do we have that number? 
+The NASDAQ finished up 13 points. 
+</TEXT>
+</DOC>

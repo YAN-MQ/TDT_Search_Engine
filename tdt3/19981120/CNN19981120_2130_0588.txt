@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981120.2130.0588 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal reserve isn't taking any chances with the year 2000 bug. 
+It has ordered $50 billion in new currency in case there's a mad dash 
+to automated teller machines days before the start of the new millennium. 
+Experts fear a computer glitch known as Y2K will cause computers, 
+including cash machines, to freeze at the stroke of midnight next 
+year. 
+</TEXT>
+</DOC>

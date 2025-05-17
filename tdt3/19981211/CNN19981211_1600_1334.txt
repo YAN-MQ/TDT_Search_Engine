@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981211.1600.1334 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Doctors in Hollywood, Florida, say the outlook is very poor for Yankee 
+great Joe DiMaggio. The 84-year-old baseball legend has lapsed into 
+a coma. He has been in the hospital since having a cancerous tumor 
+removed form his lung in mid October. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981114.1600.0511 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the U.S. is next. And later -- a 
+new international agreement could reduce the threat of global warming. 
+</TEXT>
+</DOC>

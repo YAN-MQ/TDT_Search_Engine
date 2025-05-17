@@ -1,0 +1,19 @@
+<DOC>
+<DOCNO> VOA19981228.1600.1679 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+a computer scientist at Carnegie Mellon University in Pittsburgh, 
+Pennsylvania claims credit for inventing the smiley icon for computer 
+correspondence on E-mail, or electronic mail. The symbol is the combination 
+of a colon, dash and parenthesis. It looks like a smiley face turned 
+sideways - you've seen it. The icon is popular among many computer 
+users who also have come up with additional ways to create faces and 
+symbols by using computer keys. Professor Scott Paulman says he thought 
+up the smiley face back in 1980 during the early days of E-mail, because 
+he thought people took their on-line messages all together too seriously. 
+Professor Paulman says he never thought the smiley idea would become 
+as big as it did. He has one regret, that he did not save that first 
+E-mail message that used the smiley face icon. 
+</TEXT>
+</DOC>

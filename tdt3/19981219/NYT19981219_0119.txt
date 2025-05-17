@@ -1,0 +1,55 @@
+<DOC>
+<DOCNO> NYT19981219.0119 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Airplane noise has gotten a lot softer, according to the Federal Aviation 
+Administration, and a 10-year program with that in mind is approaching 
+a pianissimo finale. But some airlines will face a last-minute rush 
+to fix or retire old planes next year, and one, a cargo carrier in 
+Miami, will ground some planes in January, until they can be fixed. 
+Under a law passed by Congress in 1990, the airlines have had to steadily 
+reduce the number of the noisiest airplanes they fly, called Stage 
+2 planes; generally, by 1999, those planes must make up less than 
+one-quarter of the airlines' fleets, and by 2000, they must be eliminated 
+entirely. The first 25 percent cut was in 1994, and the next in 1996. 
+``The noise in and around all these airports we live near is going 
+to change a lot in the next 12 1/2 months,'' said James Erickson, 
+director of the FAA's office of environment and energy. Steps so far 
+have been helpful, he said, but ``phasing out that last noisy airplane 
+makes a tremendous difference.'' The replacement planes, called Stage 
+3, are much quieter; Erickson said that a Stage 2 McDonnell-Douglas 
+DC-10, for example, made as much noise as nine new Boeing 777s. Stage 
+2 planes include McDonnell Douglas DC-9s and older Boeing 727s and 
+737s; Stage 3 planes include newer models of the 727 and 737. The 
+rules cover all planes over 75,000 pounds, including small commuter 
+planes but not some small corporate jets. The rules affect about 7,500 
+planes registered in this country. Some airlines have already met 
+the requirements for 2000. United Parcel Service, the first to eliminate 
+all its Stage 2 planes, replaced the engines on its 727s to do so. 
+UPS flies mostly at night and often into small airports, and said 
+it was eager to be a good neighbor. Engineers lower engine noise by 
+reducing the maximum speed at which the engines move air. To get more 
+thrust, newer engines move more air than old ones. Airlines are selling 
+old planes overseas or retiring them, or installing ``hush kits.'' 
+American Airlines plans to make its 727s comply with a system that 
+limits engine thrust and flap settings. The FAA estimates that in 
+1975, 7 million people were exposed to a noise level of 65 decibels 
+from planes, considered undesirable. By 1995, the number was down 
+to 1.7 million, and by 2000, it will be 600,000 people, the agency 
+said. Erickson said that the agency had had 16 requests for exemptions, 
+and had turned down 15; one is still under consideration. He added 
+that his office was in regular contact with all of the approximately 
+260 airlines that fly in the United States, to ensure that they had 
+plans to meet the rules. One, Fine Air Services Inc. of Miami, however, 
+has had a problem. The airline had counted in its fleet some Stage 
+2 planes that it shared with other airlines. When the FAA said it 
+could not do so, Fine Air found that it was behind the required quota. 
+So the airline signed a consent decree in September, promising to 
+convert six of its old DC-8s by Jan. 1. Two have been outfitted with 
+hush kits, and equipment is on hand to do four more, said John Zappia, 
+the airline's chief operating officer. The other four will be grounded 
+on Dec. 26, after the busy cargo season, and stay on the ground until 
+work is finished, sometime in January. 
+</TEXT>
+</DOC>

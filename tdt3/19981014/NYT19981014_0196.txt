@@ -1,0 +1,153 @@
+<DOC>
+<DOCNO> NYT19981014.0196 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+WASHINGTON _ WHD-TV, the broadcast industry's experimental high-definition 
+television station, doesn't have many regular viewers. In fact, the 
+actual number is one. Two years ago, it first went on the air here 
+in Washington to give broadcasters and equipment manufacturers a signal 
+they could use to test their newly designed equipment as they got 
+ready for digital broadcasting, which begins Nov. 1. In recent months, 
+television manufacturers have been making clandestine trips into town 
+with their prototype HDTV receivers, to see how they worked with a 
+real, live broadcast signal. But until Oct. 1, no one in the Washington 
+area actually had a digital, high-definition television receiver in 
+his home. None have yet gone on sale. But at the start of October, 
+Panasonic Corp., lent me an advanced prototype of their receiver, 
+a set-top box that will reach the stores in a few weeks, along with 
+a production model of the company's high-definition monitor, already 
+on sale nationwide. With that, in short order, I became WHD-TV's first 
+and only regular viewer, ``the only civilian in the nation'' with 
+an HDTV, Panasonic informed me. And I learned what thousands of Americans 
+will soon discover: Having an HDTV in your home is an experience both 
+mesmerizing and frustrating. If you can overcome the sticker shock 
+(the Panasonic equipment sells for $7,700) the first problem is getting 
+an HDTV into your house. Every manufacturer but one is making rear-projection 
+sets, and they are big. The Panasonic monitor, with a 56-inch screen, 
+is more than four feet tall, four feet wide and two feet deep. It 
+weighs 251 pounds. And this is hardly the biggest of them. (The largest 
+Mitsubishi model is more than 6 feet tall and 5 feet wide.) As a two-man 
+delivery team struggled to get the Panasonic set off the truck, Preston 
+Padden's description of these first-generation HDTV's came to mind. 
+When he was president of the ABC Television network early this year, 
+he remarked: ``You're going to need a crane to get them into your 
+living room. Why, one of them I saw was eight feet wide and five feet 
+deep. You'll have to lay a foundation slab for it and build your house 
+around it.'' In this case, it turned out that the delivery squad couldn't 
+get the monitor down the steps to the basement, into the room specially 
+designed for this purpose. (As the TV sat in the yard, there WAS a 
+brief discussion of using a crane.) Instead, puffing and groaning, 
+they heaved it into the ground-floor living room. And as soon as the 
+set was rolled into place, the room's center of gravity seemed to 
+shift. This set, like every HDTV to be sold in the next year, is also 
+able to receive and display conventional TV broadcasts. That turns 
+out to be both a blessing and a drawback. The problem is that high-definition 
+programming is generally broadcast in a new, wide-screen format. As 
+a result, the Panasonic monitor is shaped more like a movie screen 
+than a convention TV screen. That's fine for wide-screen programming, 
+but what about all of the square-framed shows filmed and taped over 
+the last 50 years? They are shown in a vertical space at the center 
+of the screen, with broad gray bands on the left and right, in what 
+the industry calls ``letterbox.'' Well, television manufacturers are 
+convinced that most Americans don't like letterboxes; they want their 
+TV shows to fill up all of the expensive real estate on the screen. 
+So Panasonic has included a re-sizing feature that allows viewers 
+to stretch the picture so it fills the screen. It worked well enough 
+but seemed vaguely dissatisfying, though the exact reason was not 
+clear until a movie came on featuring Julia Roberts. Walking down 
+a hallway on this stretched screen, she looked like she needed a few 
+weeks on a thigh master. Switching back to letterbox immediately solved 
+her weight problem. (This is not a criticism of Panasonic's resizing 
+technology, particularly. Almost every wide-screen set will offer 
+a similar feature with the same benefits and liabilities.) Of course, 
+this issue isn't the real point. This set was not for watching conventional 
+television. This is a digital, HIGH-DEFINITION TV. Hooking up the 
+prototype digital tuner box was simple enough. It is about the size 
+of a laptop computer and sat comfortably atop the set, with acres 
+of space to spare. Connected to jacks in the back of the television 
+and invoked from a remote control, it took over control of the set 
+and began looking for digital-television signals. For the foreseeable 
+future, viewers will be able to receive high-definition programming 
+only over the air. Cable TV stations are not interested in carrying 
+it. And while some direct-broadcast satellite services will offer 
+a few high-definition channels, viewers will have to buy new dishes 
+and set-top boxes, and those won't go on sale until next year. So 
+to get 21st-century TV, it is necessary to use mid-20th-century technology 
+_ a rooftop TV antenna, preferably with a rotor. The antenna company 
+that had installed one on the roof a few weeks earlier had carefully 
+labeled the rotor box with little stickers showing which way to point 
+the antenna for best reception of the various TV stations in the Washington 
+area. The tower and antenna for WHD-TV, channel 30, are right beside 
+the tower for WRC-TV, channel 4, the NBC station here. So with the 
+antenna carefully aimed at WRC, and the digital tuner box turned to 
+channel 30, the first digital, high-definition television set in a 
+consumer's home showed _ nothing. Panasonic offered the services, 
+by telephone, of several engineers on the tuner-box design team, who 
+said they had faced the same problem on a recent trip to Washington. 
+``Digital signals are funny,'' one of them explained. You have to 
+turn the antenna away from the station by 20 or 30 degrees to get 
+a signal. Presumably, most buyers of this box won't be able to call 
+up the engineers who designed it. Still, Panasonic says it has advised 
+its sales force not to sell customers the huge high-definition monitor 
+before determining whether they can pick up a digital signal. But 
+in this case, sure enough, with the antenna turned about 20 degrees 
+away from straight on, the TV did pick up a signal, of sorts. WHD 
+was airing a high-definition tape of a recent Duke-North Carolina 
+State football game, recorded by cameramen from WRAL-HD, another model 
+station in Raleigh, N.C. But on the monitor, the Duke quarterback 
+was caught frozen in the middle of throwing a pass, his arm jerking 
+spasmodically back and forth like a battery-operated toy quarterback 
+with a stuck joint. Yes, just as the Panasonic engineer said, digital-television 
+signals ``are funny.'' On the edge of a clear-reception area, the 
+signal doesn't simply grow fuzzier and fuzzier with every passing 
+mile, a phenomenon known in the industry as ``graceful degradation.'' 
+Instead, digital signals seize up and freeze, as the Duke quarterback 
+had done. Finally, with careful adjustment of the antenna rotor _ 
+a degree east, two degrees south _ the picture unfroze, and the game 
+played on. Even with the difficulties of receiving a signal from what 
+is still, admittedly, an experimental station, the advantages of digital 
+HDTV are immediately obvious. It doesn't simply offer a clearer, sharper 
+picture. Color rendition is vastly improved. So the players' jerseys, 
+the grass and the sky seemed to sparkle. Of course the clarity was 
+startling, too. For the first time watching a football game on TV, 
+it was possible to pick out the faces of individual fans sitting in 
+the distant stands. And players tangled on the turf after a violent 
+tackle were not just a blurred lump of bodies. They were individuals 
+with easily distinguishable arms, fingers, feet _ and anguished looks 
+on their faces. But as glorious as the picture looked, it was also 
+clear that this television, like almost every high-definition set 
+going on sale in the coming weeks, is not capable of displaying full-resolution 
+HDTV. Panasonic and other manufacturers had to make several compromises 
+to keep the price just below the ionosphere. At several points along 
+the signal path inside the set _ from the red, green and blue cathode 
+ray tubes that create the picture; through the lenses, past the mirror 
+that redirects the signal and through the screen, which acts as a 
+filter _ rear projection sets hold a host of resolution-reducing mechanisms. 
+It turned out that, over several days, WHD replayed the football game 
+repeatedly. In between, the station aired various promotional tapes 
+that television stations around the country have made so they can 
+demonstrate HDTV to their viewers. In this, the pre-dawn of the digital 
+age, there isn't much high-definition material available. None of 
+this programming proved terribly interesting after awhile, so as WHD's 
+only regular viewer, I called Bruce Miller, the station manager, and 
+asked if he would mind putting on a movie, hoping for something like 
+video-on-demand from my TV station. ``Sure,'' he said. ``It'll be 
+kind of fun; kind of like operating a real broadcast station.'' And 
+then he listed the five high-definition films he happened to have 
+on hand. I selected ``Lawrence of Arabia,'' for the historical symmetry. 
+It was the first movie ever broadcast in digital high definition, 
+back in 1986. But it turned out that, at three and one-half hours, 
+the film was too long. The station shuts down each day at 6 p.m., 
+so the staff would have had to stay late to turn everything off. Instead, 
+Miller played ``Sleepless in Seattle.'' And it looked splendid _ bright 
+and crystal clear. But about halfway through the movie, the screen 
+went blank. The signal was gone. Had the prototype tuner shorted out? 
+Had the rooftop antenna slipped out of place by a degree or two? Or 
+was there yet another ``funny'' digital dilemma? After a couple of 
+minutes, the movie came back. Later, Miller explained. WHD had only 
+one video player in house. As a result, midway through the movie, 
+one of the station's technicians had to change over to the second 
+reel. 
+</TEXT>
+</DOC>

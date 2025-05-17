@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981108.1300.1315 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The first of several college football polls is out, and it comes as 
+no surprise that there's a major shakeup. The buckeyes' loss to Michigan 
+state dropped them all the way to seventh in the new coaches' poll 
+released today. UCLA is in third, with Kansas state and Tennessee 
+tied for the lead with the same number of points, although K-state 
+had 30 first place votes, compared to 25 for the Vols. 
+</TEXT>
+</DOC>

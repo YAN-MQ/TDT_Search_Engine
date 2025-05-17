@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981230.1130.0422 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A published report says most states are meeting the work requirement 
+of the 1996 welfare to work law. According to "the New York Times," 
+28% of adults on welfare across the country also worked last year. 
+Under the welfare law, states can be fined if 25% of their welfare 
+families don't work or actively prepare themselves for work. By 2002, 
+the requirement rises to 50%. 
+</TEXT>
+</DOC>

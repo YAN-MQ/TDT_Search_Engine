@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981112.1130.1049 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Profits for discount retailer Kmart doubled for the third quarter, 
+right in line with forecasts. Increased sales of health, beauty and 
+home-related items fueling the rise. Clothing sales were slow, however, 
+due to unseasonably warm weather. Kmart struggled in the mid-1990s, 
+along with other retailers, trying to compete with Wal-Mart, the nation's 
+leading retailer. 
+</TEXT>
+</DOC>

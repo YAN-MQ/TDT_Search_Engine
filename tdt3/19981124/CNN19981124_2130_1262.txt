@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981124.2130.1262 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Matt Yallof, "CNN Headline Sports." The Minnesota Vikings receiving 
+corps took a major hit. Jake Reed will be out for the remainder of 
+the regular season and possibly the playoffs after undergoing back 
+surgery to repair a nagging disk problem. Randy Moss will start against 
+Dallas on Thanksgiving day. 
+</TEXT>
+</DOC>

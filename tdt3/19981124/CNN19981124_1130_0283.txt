@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981124.1130.0283 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Crime is driving people from major U.S. cities, according to the results 
+of a new study. Economists looked at 127 cities using three decades 
+of U.S. census data as well as crime statistics from the FBI. Researchers 
+say each major crime causes one person to leave a city. The study 
+finds people with children and those with more than a high school 
+education were twice as likely to leave a city because of crime than 
+childless people without a high school degree. Nationwide, crime has 
+been dropping for six years. 
+</TEXT>
+</DOC>

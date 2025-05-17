@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981111.1600.0522 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News Weather" begins with our forecast 
+weather map. And you can see the bad storm that rolled through the 
+midwest yesterday off the east coast by Thursday morning. Meanwhile, 
+another cold front drops in from Canada. Could be a little bit of 
+snowfall associated with that in the Great Lakes area. It will bring 
+in some colder weather. We'll turn our attention to a weak area of 
+low pressure moving through the southwest and rainfall in Texas. As 
+we put our map in motion, you can see the area of rainfall in Texas 
+expanding and may spread across the southeast as we head through the 
+weekend. Your forecast for high temperatures indicates we're looking 
+at that cold weather in the upper midwest, but it warms in parts of 
+the south with the highs in the 60s and 70s. On now to your extended 
+forecast -- on Friday, showers in Texas spreading through the southeast. 
+On Saturday, we're looking at moderate temperatures for much of the 
+nation. Rainfall scattered about in the southeast up toward the Great 
+Lakes area. And on Sunday, we're looking at rain showers in many places 
+in the east. For more weather information, log on to CNN.com. 
+</TEXT>
+</DOC>

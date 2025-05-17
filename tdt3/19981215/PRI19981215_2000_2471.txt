@@ -1,0 +1,101 @@
+<DOC>
+<DOCNO> PRI19981215.2000.2471 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Among the more dreaded aspects of international air travel are the 
+unending lines that await you at the point of entry. And among the 
+more intriguing ways to reduce the waiting time is something called 
+INSPASS. It's a biometric system of identification, biometric like 
+voice recognition, retinal scans, or facial measuring systems. They 
+all check you against previous measurements to grant you access to 
+computer systems and buildings and the like. Well, this new system 
+works the same way, but it uses your hand. THE WORLD's Clark Board 
+reports on the arrival of INSPASS. As British author Douglas Adams 
+once wrote, it can hardly be a coincidence that no language on earth 
+has ever produced the expression, "as pretty as an airport." Aesthetics 
+aside, the international arrivals area at the end of a long-haul flight 
+can be a miserable place. The U.S. Immigration and Naturalization 
+Service thinks it could be better and that biometric technology can 
+help. Its developed a program called INSPASS, short for the Immigration 
+and Naturalization Service Passenger Accelerated Service System. It's 
+currently up and running at seven airports in North America. The program 
+is open to frequent business travelers from the United States, Canada, 
+Bermuda, and 26 other countries. Mike Hatcher is a vice president 
+at EDS, the company hired to help design INSPASS. If it speeds you 
+through a - You know, if you avoid a long line at an airport because 
+you're able to go through, there is the benefit that people see. So, 
+yeah, as long as there's benefit for the public and service to the 
+citizen, then I think folks feel very good about that. INSPASS operates 
+by measuring a person's hand geometry. Think of it as a three dimensional 
+picture of your hand translated into nine or ten numbers, which are 
+then stored on a card with a magnetic stripe. The card and your hand, 
+along with your passport, are then all you need to enter the country. 
+Welcome to Newark International Airport's terminal B, the first INS 
+facility to test INSPASS. Since 1993, an INSPASS machine has been 
+here electronically welcoming visitors to the United States. Standing 
+in front of the INSPASS kiosk, which looks a lot like an ATM machine 
+but doesn't spit out tens of twenties, INS area port director, John 
+Thompson, runs through the drill. So when you're issued your card 
+and you arrive on a international flight, you'd bypass the queuing 
+areas, come straight to the INSPASS kiosk, and you take the card and 
+insert it into the reader, which I'm doing right now, and it's checking 
+me against the various databases that they have and is now processing 
+information. The machine is now prompting me to place my hand into 
+the reader, which I'm doing so. And at this point in time now, everything's 
+checked out OK. It's now generating the receipt. I take the receipt 
+out of the machine and I go right straight down to customs and get 
+my luggage. That process takes only 30 seconds when all goes well, 
+and with thousands of international travelers coming through Newark's 
+56 non INSPASS booths every day, Thompson says the lines can sometimes 
+feel as if they're backed up to Hoboken. When you - If you arrive 
+at this airport, you could be standing in a queue for up to 20 minutes 
+during our peak arrival periods of times. So with this card and kiosk, 
+you bypass that whole - You go right through the machine, and you 
+could be out of here. So you could save easily 20 minutes on a given 
+day. They love it. They rave about it. We wondered why we didn't do 
+this years ago. It's in the afternoon, and things are getting busy 
+in the international arrivals hall, so busy, in fact, that a line 
+is forming even here at Newark's one INSPASS kiosk. An American pilot 
+just in from Milan happens to get rejected. What you got? Monitor. 
+On the whole, if you found that it works well or that it doesn't work 
+that well? Yes, just look at the line out here versus the line here. 
+It's well worth the time to go get yourself processed for it, yeah. 
+We're pleased with it so far. Is it frustrating, though, when that 
+kind of stuff happens? No, no. You just got to go with the flow. The 
+on-duty immigration officer assigned to INSPASS says that not everyone's 
+so philosophical about the system switches. But one Spanish passenger 
+who's used INSPASS for two years says the system has improved. Lately, 
+they improved it because before, it was 50/50 it was going to work, 
+but now it's fairly reliable.1 Most travelers seem to agree. I love 
+it. It's wonderful. I'm from Sweden. And how long have you been using 
+the INSPASS? First time I'm using it. And how was it using it for 
+the first time? It was great compared with standing in line. You feel 
+when you're coming here, you feel like you're a piece of cattle standing 
+in line. I mean, that's not what we are treated in Europe normally. 
+It's unbelievable. The INS's John Thompson says he's not surprised 
+that these travelers like INSPASS. If you have an ATM machine and 
+some live tellers, you'll notice the people will be willing to line 
+up to an ATM machine and avoid the personal human contact, 'cause, 
+you know, ATM machines and our kiosk doesn't talk back. It doesn't 
+- It always welcomes you. It's kind of funny, but that seems to be 
+human nature. They'd rather deal with something automated like this 
+and a lot of times with a live person. But not everyone welcomes the 
+kind of biometric identification that INSPASS employs. Evan Hendricks, 
+who edits the "Privacy Times" newsletter in Washington, worries about 
+what happens when the private sector starts using the technology. 
+There are very few restrictions on how private sector companies collect 
+and use information, whether they want to disclose it or sell it. 
+That would be one concern. And the other concern with this sort of 
+technology is it can be used surreptitiously. You could set up systems 
+where people are putting their hand down and not know that they're 
+being identified, one, by their hand scan; and two, the hand scan 
+can be used to connect them to a computer profile. So that would really 
+be one of the heightened concerns about this sort of system in the 
+future. Despite those concerns, you're probably going to see more 
+and more biometric base systems like INSPASS in the not-so-distant 
+future, and a lot of people won't mind letting big brother in the 
+door if he gets them through the airport 20 minutes faster. For THE 
+WORLD, this is Clark Boyd. 
+</TEXT>
+</DOC>

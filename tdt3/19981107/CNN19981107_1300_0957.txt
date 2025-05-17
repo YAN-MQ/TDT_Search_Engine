@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981107.1300.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And John Glenn says one G and I feel fine. That moments after Glenn 
+ended his historic return to space. The space shuttle "discovery" 
+landed as scheduled today at the Kennedy space center in Florida. 
+</TEXT>
+</DOC>

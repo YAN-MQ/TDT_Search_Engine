@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981128.1600.1462 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+there's much more to the internet than most people can possibly imagine. 
+for instance, here's something nasa is offering. more than 30 years 
+ago, project "mercury" put an american in space. now, nasa has a web 
+site dedicated to the "mercury 7" astronauts at the address below. 
+you'll find an archive explaining the events leading up to america's 
+first space flight and highlights of each mission. "freedom 7" carried 
+"mercury" astronaut alan shepard into space in 1961. the site has 
+photographs documenting the mission and a detailed description of 
+each picture. "mercury" astronaut gus grissom followed shepard into 
+space aboard the "liberty bell 7." the online photo documentary shows 
+the unsuccessful attempt to retrieve the waterlogged capsule of america's 
+second man in space. "mercury" astronaut john glenn rocketed into 
+space next. the site has audio recorded by "friendship 7's" onboard 
+flight recorder as glenn orbited the earth. three other "mercury" 
+missions followed. nasa tells the story of each through words and 
+pictures. 
+</TEXT>
+</DOC>

@@ -1,0 +1,74 @@
+<DOC>
+<DOCNO> VOA19981215.0500.1355 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In Boston, Massachusetts, a neighborhood called Roxbury is notorious 
+as one of the city's roughest areas. Most people might say that Roxbury 
+is an unlikely place to find computer professionals, but that's exactly 
+what one company is doing. VOA's Martin Secrist has more. In the next 
+decade, it is estimated that more than a million new computer programmers 
+will be needed in the United States. Many of these people will work 
+on the growing number of Web sites that are being established around 
+the country. Knowing this, Nick Gleason and Jim Pickerello founded 
+City Soft in 1997, a company that recruits and employs young, motivated 
+people from poor and technologically isolated urban neighborhoods. 
+City Soft arranges training for their employees, working with nonprofit 
+and government sponsored training organizations to find free instruction 
+for people with the company. Private training schools also have donated 
+instruction to people who have come to them through City Soft, teaching 
+them to use programming languages such as HTML. The newly skilled 
+people then go to work for City Soft clients. Nick Gleason says they 
+act as developers for Web sites. Increasingly, that is coming to mean 
+a whole lot of programming kinds of tasks as the Web gets integrated 
+into the sort of core processes of businesses in an organization. 
+Everything - It's starting to become a more mainstream part of information 
+technology. City Soft has opened up the computer profession to people 
+such as 21-year-old Roxbury resident, Ali Fernandez. Was it what I 
+expected? No, not at all. It's actually better than what I expected, 
+'cause I'm learning so much, you know, that it actually turned out 
+to be better. I thought it was just going to be like a job, but it's 
+much more than a job. Like become part of my life now. Ali Fernandez 
+says he does not leave the office behind him at the end of the day. 
+No, I take the office with me. Every time I leave with one of the 
+guys, like the office is all we talk about. So it's like I've become 
+pretty involved with the company like as far as what we do. They make 
+sure that, you know, we become a part of the company. Ali Fernandez 
+worked with another City Soft developer, Tony Alvez, on the company's 
+first project providing support for Boston.com, the Web site of the 
+"Boston Globe" newspaper. Former "Globe" employee, Scott Cohen, supervised 
+the Web site which he says offers news updates, classified listings, 
+and so forth, and needs the constant support of more than just a few 
+people. It takes a lot of manpower to convert content so that it's 
+Web ready. That might mean research and development. It might be cropping 
+photos for the Web. It might be translating text files to HTML. A 
+lot of it can be automated but not all of it. Mr. Cohen describes 
+what City Soft employees did for the "Boston Globe's" Web site. We 
+had some very specific requirements starting very early in the morning,, 
+6:00 a.m. to come in and assist a very small crew in preparing Boston.com, 
+the "Boston Globe's" Web site for the public. City Soft essentially 
+gave us a couple of people to put in the newsroom and help us do that 
+work. They have been previously trained on our systems, and they were 
+able to hit the ground running. Mr. Cohen was impressed with the people 
+from City Soft. They're incredible. I mean, they were actually better 
+trained than most of the college graduates that had been coming in 
+for interviews. They were extremely creative, extremely dynamic, energetic, 
+extremely hard working, very smart. They had everything that it took 
+to kind of thrive in new media, you know, entrepreneurialism, creativity, 
+the ability to shift directions very quickly, multi-tasking. City 
+Soft co-founder Nick Gleason says that City Soft is not a charity. 
+It is a business and it's for profit status speaks to that goal. It 
+allows us to show that the folks, the employees from the neighborhoods 
+here that don't start out with technology can in fact become competitive, 
+mainstream employees, and that it shakes off a lot of the baggage 
+and stereotypes about urban areas. Nick Gleason has a business degree 
+from Harvard University, but also has worked for nonprofit community 
+groups in Boston. He says that social organizations, while admirable, 
+can lose sight of their objective and become accustomed to making 
+handouts not investments. "We want to be self-sustaining," says Mr. 
+Gleason, a goal that is being achieved both by the company and its 
+employees. The dream of City Soft developer Tony Alvez had been to 
+buy a motorcycle, but once he had saved enough money to do so, he 
+bought a computer instead. 
+</TEXT>
+</DOC>

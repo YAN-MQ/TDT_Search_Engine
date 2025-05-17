@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981125.0427 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Thursday, Nov. 26: U.S. 
+District Judge Lowell Reed of Philadelphia has wisely issued an order 
+temporarily preventing enforcement of a new federal law restricting 
+free speech on the Internet. The Child Online Protection Act, which 
+was tucked into the omnibus budget bill passed by Congress last month, 
+could greatly harm the right of adults to see or read anything that 
+might be deemed unsuitable for children. The measure would require 
+commercial sites on the World Wide Web to set up barriers to prevent 
+anyone under the age of 17 from gaining access to material deemed 
+``harmful to minors'' _ a vague standard that could well include R-rated 
+or other controversial materials that are perfectly legal and non-pornographic. 
+Operators of Web sites containing such material must ask users to 
+provide a credit card or adult identification number, or risk criminal 
+penalties. The new law is touted as a way to protect children from 
+Internet pornography. But it would not apply to overseas Web sites, 
+so children would still have access to smut online. Nor would the 
+act inhibit businesses that actually sell X-rated materials online. 
+Such businesses already ask for credit card payments, so they would 
+be protected from prosecution under the act. Instead, the primary 
+effect would be to discourage the free dissemination of constitutionally 
+protected material. For example, an online bookseller who includes 
+free excerpts of a sexually descriptive novel on a Web site might 
+run afoul of the law and be threatened with prosecution because he 
+did not screen out children. The Supreme Court last year struck down 
+as overly broad the 1996 Communications Decency Act that made it a 
+crime to send or display indecent material on the Internet where youngsters 
+might see it. The new measure is no improvement. Even the Justice 
+Department, which is now defending the law, has raised serious questions 
+about its constitutionality. The way to protect children from adult 
+materials is through parental monitoring and guidance, not by locking 
+down the Web for everyone. The courts should quickly scotch this attempt 
+to censor Internet speech. 
+</TEXT>
+</DOC>

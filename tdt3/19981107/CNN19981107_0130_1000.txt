@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981107.0130.1000 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal communications commission soon will make a decision that 
+could prompt other companies to charge per-minute rates for using 
+the Internet. Some consumer groups say that could slow down web surfing 
+and hurt businesses. Don Knapp reports. The Internet magazine "salon" 
+gets 90% of its revenues from advertising. We place advertisements 
+throughout the page. On the bottom this is one for Jaguar. And 98% 
+of those who visit the "salon" web site arrive on regular telephone 
+line, so what happens if people who dial up find they have to pay 
+more to stay on line? There may be a slowing down, but I think there 
+is so much momentum now to use the Internet, it would be almost impossible 
+to try to take it away from people. But if getting online gets more 
+expensive, people may surf less and focus more. And that may mean 
+smaller audiences for web advertisers. I think people are much more 
+likely to reduce the time they spend on the web and make sure they're 
+really using their time valuably, instead of just randomly searching. 
+If you have fewer people cruising the necessary, what happens to your 
+business? Revenues go down. And also the revenues of the companies 
+we work with go down, significantly. Internet access is cheap in the 
+United States, compared to europe. The average Internet user spends 
+between $200 and $300 a month for Internet access, at home. And people 
+at work don't use the Internet like they do here in the U.S. 50 million 
+of us now log on to the Internet. E-commerce generates hundreds of 
+millions, if not billions of dollars. The FCC's decision could reverberate 
+throughout the world wide web. I think it would be dangerous to kill 
+the golden goose, if you will and kill this Internet economy. The 
+FCC has indicated its decision doesn't necessarily mean minute-by-minute 
+charges for web use. But it'll be a couple of weeks before we know 
+for sure. Don Knapp, CNN, San Francisco. 
+</TEXT>
+</DOC>

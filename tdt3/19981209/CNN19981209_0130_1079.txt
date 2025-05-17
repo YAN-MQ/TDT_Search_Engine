@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981209.0130.1079 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Oil ministers from six Persian gulf nations have decided not to decrease 
+the world's supply of oil. Doing so would likely shore up oil prices, 
+which are nearing historic lows. The oil output of the six countries 
+meeting accounts for about half of oPEC's entire production. 
+</TEXT>
+</DOC>

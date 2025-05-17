@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981206.1000.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking top stories -- astronauts aboard the space shuttle "endeavour" 
+will start to assemble the first pieces of the international space 
+station. Today, they'll connect the first American-made part to a 
+Russian Module already in orbit. 
+</TEXT>
+</DOC>

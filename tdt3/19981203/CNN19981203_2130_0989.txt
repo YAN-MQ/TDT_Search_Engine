@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981203.2130.0989 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Vehicle sales have reached a new landmark. Automakers released their 
+final November sales figures today. And for the first time, Americans 
+have purchased more new pickups, vans and sport utility vehicles than 
+standard cars. Overall sales figures for the big three were also available. 
+GM says its vehicle sales were down 5.6% from this time last year. 
+Ford reports its sales rose slightly. Daimler-Chrysler says its U.S. 
+sales increased 7%. 
+</TEXT>
+</DOC>

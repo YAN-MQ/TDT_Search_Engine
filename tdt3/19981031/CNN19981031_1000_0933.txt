@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981031.1000.0933 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- Iraq is suspending relations with U.N. 
+weapons inspectors but will continue to cooperate with international 
+nuclear monitors. They announced the decision after the security council 
+refused to guarantee economic sanctions will be lifted. 
+</TEXT>
+</DOC>

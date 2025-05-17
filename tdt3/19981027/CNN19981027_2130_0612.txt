@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981027.2130.0612 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Rescue crews in the Philippines are finding more bodies in the wake 
+of typhoon babs. The death toll now stands at 189. Babs has been downgraded 
+to a tropical storm as it moves along the southern coast of China. 
+</TEXT>
+</DOC>

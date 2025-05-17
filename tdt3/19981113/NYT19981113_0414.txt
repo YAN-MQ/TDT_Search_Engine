@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> NYT19981113.0414 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+KPMG Peat Marwick, the accounting and consulting firm, has dropped 
+a lawsuit accusing a rival, Stern Stewart &AMP; Co., of unfairly trying 
+to stifle competition. ``During this past year, Stern Stewart has 
+apparently ceased the activities which forced KPMG to commence this 
+lawsuit,'' KPMG said in a statement. ``Since its goal has effectively 
+been accomplished, KPMG believes there is no reason for further processing 
+of the claims.'' Stern Stewart disputed the KPMG account Friday. ``Our 
+position from the beginning has been that KPMG's suit was utterly 
+without merit,'' the firm said in a statement. ``Stern Stewart never 
+engaged in unfair competitive practices, as KPMG originally alleged. 
+Nor have we modified our marketing or competitive practices in any 
+way, as KPMG now asserts.'' Stern Stewart is a former audit client 
+of KPMG. Last year, a New York judge ruled that KPMG had violated 
+obligations to Stern Stewart when KPMG entered the same type of consulting 
+business. KPMG is appealing that decision. 
+</TEXT>
+</DOC>

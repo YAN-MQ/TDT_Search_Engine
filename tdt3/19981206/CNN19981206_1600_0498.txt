@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981206.1600.0498 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather" update. 
+Snow showers continue for the Rockies and into the central plains 
+early monday. A cold front will move through the appalachian mountains 
+stretching westward into Texas with another area of low pressure across 
+Quebec. Showers and snow showers can be expected for the Great Lakes 
+with snow flurries in the northeast. Rain and snow will again be in 
+the forecast for the northwest as a new pacific storm system moves 
+inland across Vancouver island. Rain showers will be seen mainly along 
+the coast with snow showers inland and in the higher elevations. High 
+temperatures will be in the 20s and 30s for most of the west and the 
+rockies into the western Great Lakes. 50s, 60s and 70s will dominate 
+most of the eastern U.S. with near record temperatures possible. On 
+the extended forecast, heavy rain and snow in the northwest Tuesday, 
+with a chance of thunderstorms and showers in the east. By Wednesday, 
+a few thunderstorms linger in southern Texas with snow showers for 
+the northern Rockies into the pacific northwest. Snow showers move 
+eastward through Thursday. The extended forecast for more than 7,000 
+cities is at CNN.com. 
+</TEXT>
+</DOC>

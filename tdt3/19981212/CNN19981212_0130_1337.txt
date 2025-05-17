@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981212.0130.1337 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In top 25 college basketball, Indiana blew out Boise state 90-66 in 
+first-round action of the Indiana classic. A.J. guyton connected for 
+a season high 26 points. Hoosiers are 9-2 on the season and remain 
+unbeaten at the tournament they host. Number nine Purdue plucked Valparaiso, 
+78-70. Carson Cunningham scored a career high 18 points. 
+</TEXT>
+</DOC>

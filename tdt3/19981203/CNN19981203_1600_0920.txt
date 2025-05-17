@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981203.1600.0920 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Those and other stories in 15 minutes. We'll get "Dollars & Sense" 
+news from New York next. 
+</TEXT>
+</DOC>

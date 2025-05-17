@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981226.1000.0278 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The driver of a bus involved in a fatal accident in New Jersey Thursday 
+says he was trying to avoid a patch of ice when he lost control. The 
+bus -- on its way from Brooklyn, New York, to Atlantic City -- plunged 
+down an embankment on the garden state parkway, killing 8 people and 
+injuring 15. Police say the driver's account of the crash is consistent 
+with those given by witnesses. Investigators say they plan to examine 
+the bus and the road conditions further, and test the driver for drugs 
+and alcohol. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981218.1830.1519 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The balloonists Steve Fossett and Richard Branson are in the air again 
+-- together they have taken off form Morocco and will try to fly around 
+the world nonstop. Their route will take them just north of Iraq. 
+</TEXT>
+</DOC>

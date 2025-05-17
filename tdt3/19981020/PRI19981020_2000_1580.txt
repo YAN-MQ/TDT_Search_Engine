@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981020.2000.1580 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow Jones Industrials posted a 39 point gain today to close at 
+8506. The NASDAQ was on the down side falling ten points to 1639. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981020.2130.0369 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new study shows the number of low-income students having breakfast 
+at school has nearly doubled in the last ten years. The "food research 
+and action council," a public interest organization, reports that 
+in 1988, 3.1 million low-income students participated in the government-sponsored 
+school breakfast program. Over ten years, that number increased 94%, 
+to 6.1 million. And the number of schools that offer the program nearly 
+doubled in that period. Studies have shown children who eat breakfast 
+perform better in school, and have fewer behavioral problems. 
+</TEXT>
+</DOC>

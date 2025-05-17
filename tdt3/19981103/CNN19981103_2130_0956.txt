@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981103.2130.0956 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stay tuned to "CNN Headline News" throughout the night for election 
+updates. 
+</TEXT>
+</DOC>

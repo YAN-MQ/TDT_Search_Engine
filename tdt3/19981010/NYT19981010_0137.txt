@@ -1,0 +1,73 @@
+<DOC>
+<DOCNO> NYT19981010.0137 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In a decision that could seriously undercut the Justice Department's 
+campaign finance prosecutions, a federal judge has ruled that the 
+department misinterpreted election laws that restrict contributions 
+by foreign nationals. The ruling, issued Friday by Judge Paul Friedman 
+of U.S. District Court, appeared to threaten the department's effort 
+to investigate fund-raisers, Democratic Party officials and White 
+House aides for their role in soliciting millions of dollars from 
+overseas contributors in the 1996 election campaign. Friedman's order 
+came as part of the pretrial skirmishing in the case of Yah Lin Trie, 
+a former Little Rock restaurateur and longtime friend of President 
+Clinton who became an important Democratic fund-raiser and brought 
+in hundreds of thousand of dollars, much of it, congressional investigators 
+say, from his business contacts in Asia. In his ruling, Friedman found 
+that the law, which bars foreign nationals from contributing to federal 
+elections, applies only to hard money contributions. These are regulated 
+by federal election law and can be used to finance campaign activities 
+that directly benefit candidates for federal office. The judge found 
+that the contribution law permits foreign nationals to make donations 
+known as soft money, which is money that cannot be spent on behalf 
+of candidates like hard money, but may be spent on generic party activities, 
+like paying for state party efforts or advertisements focused on issues. 
+Friedman wrote that the government argued that the federal limit on 
+foreign contributions ``applies to soft money donations as well as 
+to hard money contributions.'' But the judge added, ``The court disagrees.'' 
+He concluded that ``the statute does not on its face therefore proscribe 
+soft money donations by foreign nationals or anyone else.'' The judge 
+did not dismiss any counts related to soft money, but said that the 
+government would be required to prove in Trie's trial, scheduled to 
+begin on Feb. 1, that overseas contributions were deposited into hard 
+money accounts. His decision suggested that prosecutors would also 
+be forced to prove that fund-raisers who solicited the contributions 
+knew that the donations would be divided between soft and hard accounts, 
+a potentially insurmountable hurdle. A Justice Department spokesman 
+said Saturday that lawyers were considering an appeal of the decision, 
+which was first reported Saturday by The Washington Post. Friedman's 
+order was the second ruling in a month to attack the government's 
+approach. Earlier, Friedman dismissed five of six counts against another 
+Democratic fund-raiser, Maria Hsia, accusing the government of an 
+``Alice in Wonderland'' interpretation of the law because of an indictment 
+charging her with causing campaign committees to make false statements. 
+Friedman also dismissed three similar counts against Trie. Taken together, 
+Friedman's rulings in the Trie and Hsia cases represent a potentially 
+serious judicial setback for the Justice Department. The judge's order 
+could affect other pending cases like one against Pauline Kanchanalak, 
+a Thai entrepreneur who has been accused of bringing in nearly $700,000 
+in possibly suspect donations to the Democrats. More broadly, the 
+rulings underscore the difficulty confronting prosecutors in trying 
+to bring criminal cases using election laws that the judge has said 
+were intentionally engineered by Congress to be weak and permit the 
+kind of excesses at the heart of the campaign finance case. Justice 
+Department officials said they were feeling trapped between Friedman 
+and Republicans in Congress, who have assailed Attorney General Janet 
+Reno, not for bringing legally flawed cases, but for failing to aggressively 
+prosecute cases involving higher-ups at the Democratic Party and the 
+White House and for her refusal to ask an independent prosecutor to 
+take over the inquiry. Trie seemed to typify the kind of fund-raiser 
+that Republicans said corrupted Democratic fund-raising. When questions 
+about the source of his contributions surfaced after the election, 
+the Democratic National Committee returned $645,000 that Trie raised, 
+concluding that the money came from questionable or possibly illegal 
+overseas sources. Clinton's legal defense fund also returned $640,000 
+contributed by Trie. In January, Justice Department prosecutors obtained 
+a 14-count indictment against Trie, accusing him of illegally making 
+contributions reimbursed by wealthy overseas donors, setting up fictitious 
+donors who made contributions financed by overseas nationals and conspiring 
+to conceal the identities of donors. 
+</TEXT>
+</DOC>

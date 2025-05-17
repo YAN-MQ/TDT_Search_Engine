@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981116.2130.0549 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Don't forget, you can find four-day forecasts for more than 7200 cities 
+on cNN interactive at CNN.com. 
+</TEXT>
+</DOC>

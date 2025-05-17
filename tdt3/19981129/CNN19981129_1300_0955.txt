@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981129.1300.0955 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And Swiss voters appear to have rejected a proposal to legalize heroin 
+and other drugs. 
+</TEXT>
+</DOC>

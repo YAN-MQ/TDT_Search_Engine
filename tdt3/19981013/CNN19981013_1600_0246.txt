@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981013.1600.0246 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Supreme Court today let stand a Cincinnati, Ohio, law that denies 
+special discrimination protection to homosexuals. Today's action is 
+not a decision and sets no national precedent. But it seems to contradict 
+the high court's own ruling two years ago that a similar measure in 
+Colorado was unconstitional. 
+</TEXT>
+</DOC>

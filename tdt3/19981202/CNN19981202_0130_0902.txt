@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981202.0130.0902 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+checking our top stories -- boeing has announced it will lay off 20,000 
+workers. that's in addition to 28,000 layoffs announced earlier this 
+year. the airplane manufacturer is predicting its earnings will shrink 
+by $500 million next year largely because of the asian economic crisis. 
+</TEXT>
+</DOC>

@@ -1,0 +1,59 @@
+<DOC>
+<DOCNO> NYT19981102.0391 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+An internal memorandum reflecting the views of some of Microsoft Corp.'s 
+top executives and software development managers reveals deep concern 
+about the threat of free software and proposes a number of strategies 
+for competing against free programs that have recently been gaining 
+in popularity. The memo warns that the quality of free software can 
+meet or exceed that of commercial programs and describes it as a potentially 
+serious threat to Microsoft. The document was sent anonymously last 
+week to Eric Raymond, a key figure in a loosely knit group of software 
+developers who collaboratively create and distribute free programs 
+ranging from operating systems to Web browsers. Microsoft executives 
+acknowledged on Monday that the document was authentic. Edmund Muth, 
+Microsoft's Enterprise Marketing Group manager, said it had been widely 
+disseminated among employees who were interested in the threat posed 
+to Microsoft by Linux, a highly regarded version of the Unix operating 
+system that is distributed free. While Muth took issue with some of 
+the memo's points, he said that its author, Vinod Valloppillil, a 
+Microsoft software engineer, was a close friend and that he agreed 
+with most aspects of his analysis. In addition to acknowledging that 
+free programs can compete with commercial software in terms of quality, 
+the memorandum calls the free software movement a ``long-term credible'' 
+threat and warns that employing a traditional Microsoft marketing 
+strategy known as ``FUD,'' an acronym for ``fear, uncertainty and 
+doubt,'' will not succeed against the developers of free software. 
+The memorandum also voices concern that Linux is rapidly becoming 
+the dominant version of Unix for computers powered by Intel microprocessors. 
+The competitive issues, the note warns, go beyond the fact that the 
+software is free. It is also part of the open-source software, or 
+O.S.S., movement, which encourages widespread, rapid development efforts 
+by making the source code _ that is, the original lines of code written 
+by programmers _ readily available to anyone. This enables programmers 
+the world over to continually write or suggest improvements or to 
+warn of bugs that need to be fixed. The memorandum notes that open 
+software presents a threat because of its ability to mobilize thousands 
+of programmers. ``The ability of the O.S.S. process to collect and 
+harness the collective I.Q. of thousands of individuals across the 
+Internet is simply amazing,'' the memo states. ``More importantly, 
+O.S.S. evangelization scales with the size of the Internet much faster 
+than our own evangelization efforts appear to scale.'' In computer-speak, 
+this means that the growth of the Internet is producing a far more 
+efficient medium for collaboration on open programming than for marketing 
+traditional, proprietary software. The memo is on the Web at http://www.opensource.org/halloween.html 
+with annotations by Raymond, the author of a treatise in defense of 
+free software titled ``The Cathedral and the Bazaar.'' Its appearance 
+touched off immediate speculation among programmers both about the 
+timing of the leak and the content of the memorandum. Microsoft is 
+locked in a court battle with the U.S. Justice Department over business 
+practices it has developed around its monopoly operating system, Windows. 
+On Monday, a number of the company's critics speculated that the release 
+of the memo might be timed to suggest that while Windows is shipped 
+on more than 90 percent of all personal computers sold today _ and 
+while Microsoft programs dominate dozens of markets _ the software 
+giant faces real competition. 
+</TEXT>
+</DOC>

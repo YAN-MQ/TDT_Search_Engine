@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981204.1130.1435 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Computers top the list of the most important technology this century, 
+according to a new survey. The roper starch report finds Americans 
+who surf the web get hooked quickly and consider it a necessity. Of 
+those polled, 79% call the computer the most important invention of 
+the 20th century. 
+</TEXT>
+</DOC>

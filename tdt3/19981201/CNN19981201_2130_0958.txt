@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981201.2130.0958 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the national rifle association has filed a lawsuit against the 
+FBI. The group wants to stop the agency from keeping records obtained 
+from new computerized background searches of people buying guns. 
+</TEXT>
+</DOC>

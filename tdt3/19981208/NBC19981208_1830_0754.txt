@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981208.1830.0754 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On Wall Street there was a power interruption of another kind. The 
+Dow Jones industrial average dropped just under 42.5 points. The NASDAQ 
+slipped almost 6 points. The technology stocks were mixed. 
+</TEXT>
+</DOC>

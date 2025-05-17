@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981103.1830.0757 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+On the space shuttle today, astronauts used the robotic arm to retrieve 
+the $9 million Spartan satellite that they released into orbit two 
+days ago. The Spartan took hundreds of images of the sun and investigated 
+its superheated gases. All goes well. 
+</TEXT>
+</DOC>

@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981225.0130.0433 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A government inspector has concluded the U.S. capitol and five house 
+office buildings are firetraps. In a scathing report, the house inspector-general 
+says the buildings leave visitors, members of Congress and employees 
+with, "an undue risk of loss of life and property." Problems range 
+from fire alarms that can't be heard, inadequate escape routes and 
+sprinklers that haven't been replaced, even after they were recalled. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> PRI19981208.2000.0218 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock prices closed lower today on Wall Street. The Dow Jones Industrial 
+average lost 42 points to close at 9,028. Declines led advances by 
+a three to two margin in heavy trading. The average price of a share 
+lost 19 cents. 
+</TEXT>
+</DOC>

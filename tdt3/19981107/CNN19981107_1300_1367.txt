@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981107.1300.1367 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sampras took care of Todd Martin to advance to the Paris open finals. 
+He will face Rusedski in tomorrow's final. 
+</TEXT>
+</DOC>

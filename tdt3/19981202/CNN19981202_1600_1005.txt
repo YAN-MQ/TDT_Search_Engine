@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981202.1600.1005 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Kellogg joins the list of companies with cost cutting on the agenda. 
+The cerealmaker is eliminating 525 salaried jobs, plus 240 contract 
+positions. The move is part of a previously announced restructuring 
+program aimed at saving Kellogg more than $100 million. 
+</TEXT>
+</DOC>

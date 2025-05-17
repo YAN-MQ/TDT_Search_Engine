@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981219.1600.0030 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Also today in a surprise move, the speaker of the house, Bob Livingston, 
+reaannounced he will resign his post in the house and as house speaker. 
+That was a stunning moment for members of the house. 
+</TEXT>
+</DOC>

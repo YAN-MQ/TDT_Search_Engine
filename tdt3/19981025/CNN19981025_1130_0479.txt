@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981025.1130.0479 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the U.S. is next. Still ahead -- 
+one of Microsoft's main competitors is entering a new contestant in 
+the browser wars. 
+</TEXT>
+</DOC>

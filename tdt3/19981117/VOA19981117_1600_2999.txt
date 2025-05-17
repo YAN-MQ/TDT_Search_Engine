@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981117.1600.2999 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Well, in business news, Hewlett Packard is warning it expects its 
+revenue growth to slow next year, due to weakness in the world economy. 
+</TEXT>
+</DOC>

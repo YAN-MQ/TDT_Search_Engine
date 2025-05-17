@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> ABC19981231.1830.1131 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In March we reported the general accounting office found 26,000 dead 
+people on food stamp roles in four states. Relatives were stealing 
+stamps. Last month, the president signed a new law -- states now have 
+authority to match names on their rolls against the social security 
+master death list. In just four states, $4 million a year in estimated 
+savings. 
+</TEXT>
+</DOC>

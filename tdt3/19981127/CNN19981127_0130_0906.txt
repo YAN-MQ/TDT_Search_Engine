@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981127.0130.0906 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Among our top stories -- volunteers across the country spent a part 
+of their Thanksgiving holiday feeding the homeless. Shelters in many 
+U.S. cities offered food, clothing and counseling to the needy. 
+</TEXT>
+</DOC>

@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981106.0500.2683 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+You're listening to VOA NEWS NOW, broadcasting live from Studio 29 
+in Washington. 
+</TEXT>
+</DOC>

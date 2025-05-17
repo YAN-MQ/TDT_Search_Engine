@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981118.1130.0972 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The NASDAQ composite is off just a fraction. That follows a report 
+that the U.S. trade deficit narrowed by 12%, to $14 billion in September, 
+a surge in aircraft exports getting the credit there. 
+</TEXT>
+</DOC>

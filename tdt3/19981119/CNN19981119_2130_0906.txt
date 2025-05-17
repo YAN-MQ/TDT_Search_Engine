@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981119.2130.0906 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+independent counsel Ken Starr told the house judiciary committee today 
+President Clinton repeatedly used the machinery of government and 
+the powers of his office to obstruct his investigation. Starr defended 
+the detail his investigation required to come to its conclusion. The 
+Lewinsky investigation could not properly be conducted in a slap-dash 
+manner. It was our duty to be meticulous, to be careful. We were. 
+And in the process, we uncovered substantial and credible evidence 
+of serious legal wrongdoing by the president. 
+</TEXT>
+</DOC>

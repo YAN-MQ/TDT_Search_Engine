@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981208.0500.3061 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+U.S. stocks resumed trading today at 9073 on the Dow Jones Industrial 
+Average Index after a 56-point gain Monday. The S&P 500 was ahead 
+11 points; the Nasdaq composite reached a new record, gaining 38 points. 
+</TEXT>
+</DOC>

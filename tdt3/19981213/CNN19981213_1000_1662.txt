@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981213.1000.1662 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A whole day's news, just two minutes away. I'm holly Firfer, and this 
+is "CNN Headline News." 
+</TEXT>
+</DOC>

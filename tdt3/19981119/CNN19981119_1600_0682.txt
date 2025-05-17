@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981119.1600.0682 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This week on the "cold & flu report" -- flu shots are known to be 
+the best way of preventing the flu. But often, the shots are only 
+recommended for the elderly and those with weakened immune systems. 
+Now, research shows that vaccinating school-aged children is effective 
+in preventing the flu and is worth the cost of vaccinating them. It 
+does make a lot of sense that if you reduce the amount of illness 
+in school-aged children and the parents not having to stay home, that 
+those parents who work, that the costs will certainly go down. The 
+researchers who crunch the numbers say both the family and society 
+can benefit. 
+</TEXT>
+</DOC>

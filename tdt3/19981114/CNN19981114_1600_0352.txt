@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981114.1600.0352 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It's been two weeks since hurricane Mitch tore through central America. 
+But the red cross says it is struggling to deliver aid to hundreds 
+of communities still cut off by the devastation. Relief workers say 
+the storm has destroyed much of the infrastructure in honduras and 
+Nicaragua. Roads are covered by layers of thick mud and bridges are 
+washed out, making it difficult to distribute emergency supplies. 
+Most are being flown in by helicopter. 
+</TEXT>
+</DOC>

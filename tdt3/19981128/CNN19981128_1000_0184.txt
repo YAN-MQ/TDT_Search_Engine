@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981128.1000.0184 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Day two of the holiday shopping binge is under way. With it, some 
+insight from a leading accounting firm on the question of quality 
+versus quantity. Deloitte and touche compared the holiday buying habits 
+of Americans to shoppers in three European countries. It found on 
+average, Americans plan to buy more gifts than Europeans, but will 
+spend less on each item. The survey found Americans plan to buy 25 
+gifts each this holiday season, the French eight, Britons seven and 
+Germans five. But in the quality part of the equation, Americans come 
+in last. While British shoppers will spend about $67 a gift, Germans 
+$63 and the french $48. American gifts will cost only about $32 each. 
+</TEXT>
+</DOC>

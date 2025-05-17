@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981216.1600.0401 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+To a child, a car trunk can be a place to play, and it can be a deadly 
+trap in the summer. General Motors is improving its trunk handle. 
+It will help children figure out how to free themselves. It will cost 
+$50, including installation. 
+</TEXT>
+</DOC>

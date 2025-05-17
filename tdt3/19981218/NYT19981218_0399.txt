@@ -1,0 +1,68 @@
+<DOC>
+<DOCNO> NYT19981218.0399 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Test-drive an electric car, and at first the sensation of quiet overwhelms 
+all else _ except, perhaps, the anxiety about how much energy remains 
+in the batteries. But drive an electric for a few days and subtle 
+characteristics start to become obvious, such as the way the door 
+over the fueling port locks (so no one can siphon your electricity?) 
+or the realization that roads have sounds other than cars _ bird songs, 
+for instance. And electric cars are great for sneaking up on pedestrians. 
+I was driving a Toyota RAV4-EV, a small sport utility with a body 
+designed for a gasoline engine but retrofitted as an electric. Toyota 
+made 350 of them last year and rented them to fleet operators like 
+utility companies for $457 a month; the company has not said how many 
+it will build this year. My test car came from the Edison Electric 
+Institute, the trade association of investor-owned utilities. With 
+a body already high off the ground, the RAV4 is a good candidate for 
+conversion to electricity, because there is space for the batteries 
+underneath. But it is a conversion, not designed from the ground up 
+for electricity _ thus the locking fuel door borrowed from the gasoline 
+version. The designers were presumably not concerned that somebody 
+would come along and steal the electricity. (On the RAV4, that's about 
+$2 worth. But it would take you several hours to get it, and you'd 
+need another electric car to dump it into.) The charging system, including 
+the door, also has a psychological function; open it and you plug 
+the car in with a cable that resembles a gasoline hose. The illusion 
+is continued with the ignition key, which must be twisted against 
+a spring just like the switch in a gasoline car, but in this case 
+there is no starter motor. The RAV4 also has ``creep'' programmed 
+into its drivetrain, so if the driver's foot is taken off the brake, 
+the car inches ahead as if it were a gasoline model with an automatic 
+transmission. Electric motors don't idle, of course, they just stop. 
+But it's easier to change the software than the expectations of the 
+driver. It makes you think of fuel economy differently; the RAV4 got 
+3.5 miles a kilowatt-hour. A power plant can turn oil into electricity 
+at the rate of about 13 kilowatt-hours a gallon; that means the RAV4 
+was getting the equivalent of about 45 miles a gallon, about double 
+the mileage of the gasoline version. At about 8 cents a kilowatt-hour, 
+that's about 2.3 cents a mile, compared with 4 cents a mile for gasoline 
+at $1 a gallon. The first question most people ask _ how far the car 
+will go between charges _ becomes less important after a few days. 
+The brochure for the RAV4 said 125 miles, but Richard Temchin, the 
+manager of electric vehicles at the Edison Electric Institute, said 
+to expect 90. A driver could obsess over this. At times you think 
+you can see the charging gauge go down the way you can see a minute 
+hand move on a clock, if you stare at it intently. But after a week 
+you may start thinking of 90 miles as a long way to go in a typical 
+day. I drove it from my home in Rockville, Md., over the Beltway to 
+Arlington, Va., for a meeting, then to Washington, then home, and 
+used only half the charge; that was my longest trip. True, my 1985 
+Toyota Camry could have gone a lot farther and refueled in five minutes 
+instead of four hours. But since the Camry is a second car and does 
+not go on longer trips, the electric could easily fill its role in 
+my household. There are other oddities. When I pull over to the curb 
+in my old Camry to mail a letter, I wonder whether to shut it off. 
+With an electric, it makes no difference, because the car doesn't 
+idle. And an electric car is a great way to impress your mechanic. 
+``It's a work of art,'' said mine, who works at Dave's Tune-Up Shop 
+in Rockville, peering at the electronics under the hood. If I bought 
+one, of course, he'd see a lot less of me. You also find hidden advantages, 
+such as being able to back into the garage without pointing the tailpipe 
+at the kitchen door. The RAV4 was so clean that I began to feel bad 
+about parking it over the oil spot that my old Ford station wagon 
+has left in the middle of the garage floor. 
+</TEXT>
+</DOC>

@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981103.1130.0365 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some people in south-central Oklahoma say they've never seen flooding 
+like this. More than 150 people were evacuated from the town of Blackwell. 
+No one was hurt, but estimates of property damages are expected to 
+increase once a nearby river recedes from a record crest of more than 
+34 feet. Slow-moving storms dumped inches of rain on northern Oklahoma 
+and southern kansas and some people blame the flooding on lack of 
+flood-control systems. Four counties in south-central Kansas have 
+been declared disaster areas. 
+</TEXT>
+</DOC>

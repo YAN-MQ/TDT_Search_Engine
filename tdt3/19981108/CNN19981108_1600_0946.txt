@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981108.1600.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Astronaut John Glenn says he is 95% or 98% back to normal after his 
+nine-day mission aboard the shuttle "discovery." Glenn will undergo 
+three weeks of medical tests in Texas to gauge how his body reacted 
+to space travel. 
+</TEXT>
+</DOC>

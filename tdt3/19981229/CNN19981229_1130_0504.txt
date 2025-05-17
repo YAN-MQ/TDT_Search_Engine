@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981229.1130.0504 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Crazy weather out west is fraying nerves behind the scenes at the 
+rose bowl. That story, after the extended weather forecast. 
+</TEXT>
+</DOC>

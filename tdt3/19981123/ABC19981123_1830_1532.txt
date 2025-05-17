@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981123.1830.1532 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A brief review of the main story, a big day in the business world 
+and on Wall Street. The Dow Jones industrials was up 214 points to 
+a record high of 374. There were ten corporate mergers making news 
+today, including the negotiations between America online and Netscape, 
+pretty much drove the market today. 
+</TEXT>
+</DOC>

@@ -1,0 +1,98 @@
+<DOC>
+<DOCNO> NYT19981218.0442 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The irony of it had to smart a bit: Here was a Tulsa start-up that 
+had rocketed to stardom on its prowess at collecting delinquent credit-card 
+accounts asking a judge to protect it from its own creditors. Commercial 
+Financial Services had been a dream come true for Tulsa. Just three 
+years ago, the company moved into a nearly vacant 60-story structure 
+originally built to house Oral Roberts' failed 777-bed hospital and 
+began hiring at a rate of 40 people a week. In a year, the state's 
+business community was honoring the company's founder, William R. 
+Bartmann, with the Oklahoma Venture of the Year Award. Commercial 
+Financial was on its way to becoming No. 1 in its industry, the fourth-largest 
+private employer in Tulsa and a big source of jobs. Tulsans looked 
+on with civic pride when Bartmann was on the cover of Inc. magazine. 
+Now, however, the city is watching in confusion. The trouble at the 
+closely held company started last September, when an anonymous letter 
+to credit-rating agencies accused the company of puffing up its apparent 
+collection-success rate by quietly selling large numbers of uncollected 
+accounts to a shell company tied to a major shareholder. After first 
+dismissing the accusations, Bartmann told the ratings services that 
+there seemed to be some basis for them, according to Moody's Investors 
+Service. In October, Moody's, Standard &AMP; Poor's and other services 
+downgraded or suspended their ratings of the company and its securities. 
+Since then, Bartmann, his wife, Kathryn, and the company's other co-founder, 
+Jay Jones, have all resigned from management, at least temporarily. 
+Outside lawyers and PricewaterhouseCoopers auditors have been called 
+in to investigate. And on Dec. 11, after a bank that had invested 
+in securities issued by Commercial Financial filed suit, the company 
+filed for Chapter 11 bankruptcy protection, claiming $415 million 
+in total assets and $208 million in debts, excluding potential liability 
+from lawsuits. Publicly, Tulsa business leaders expressed confidence 
+that the company would solve its problems and survive. Privately, 
+some said they feared that its success might have been too good to 
+be true. ``Those kinds of companies always worry me,'' said Wayne 
+Swearingen, an oil industry consultant based in Tulsa. ``I don't know 
+of much besides cancer that grows 50 percent a year,'' he said, referring 
+to Commercial Financial's leap from fewer than 200 employees in 1995 
+to about 3,700 today _ 3,000 in Tulsa and the rest in Oklahoma City. 
+The company grew into the nation's largest collector of charged-off 
+credit-card debt by training employees in Bartmann's persistent but 
+polite collection strategy, which appeared to be coaxing a surprising 
+amount of money from debtors whom banks considered deadbeats. Having 
+gone bust in the oil-industry slump in the 1980s, Bartmann had himself 
+once been a delinquent debtor but won a new start by persuading his 
+lender to trust him with another $13,000 while he started Commercial 
+Financial. The key to the company's rapid expansion was Bartmann's 
+novel approach to financing. He raised money to buy pools of bad credit-card 
+accounts by linking them to securitized debt certificates, which are 
+akin to mortgage-backed bonds like Ginnie Mae's. When investors bought 
+the certificates, they were effectively lending the company the money 
+to buy bad debts in exchange for a cut of whatever could be collected 
+on them. About $1.6 billion in such certificates was outstanding at 
+last count. The company made money _ $187 million in 1997 _ two ways: 
+by selling the certificates for more than it cost to buy the underlying 
+pool of credit-card debt, and by taking a 20 percent to 25 percent 
+share of collections off the top as a servicing fee, said Stephen 
+C. Macy, a senior analyst at Moody's. Investors will buy the certificates 
+only if they believe enough will eventually be collected to give them 
+an attractive yield, so sustaining a high collection rate _ and a 
+good rating from the credit rating services _ was crucial to the company's 
+success. Moody's was the first service to question Commercial Financial's 
+methods. When it could not reach agreement with the company on several 
+issues in early 1997, it stopped rating new issues at the company's 
+request, Macy said. But even then, Moody's did not suspect that a 
+large percentage of the company's ``collections'' might actually be 
+sales of accounts to a Shawnee, Okla., company called Dimat Corp. 
+Bartmann has told investors that Dimat, unbeknownst to him, was linked 
+to Jones; Jones could not be reached for comment. In some of the securitized 
+pools, more than 60 percent of the proceeds turned out to be from 
+such sales, according to Fitch IBCA, another ratings service. Without 
+a tip-off like the anonymous letter, such a situation ``can be almost 
+impossible to detect,'' Macy said. Now the company is seeking a white 
+knight to buy or merge with it, shore up its sagging credibility and 
+let it borrow again. Tulsa business leaders are rooting for it to 
+succeed, though from a distance, figuratively and literally. (Its 
+skyscraper headquarters is miles from downtown.) ``Bartmann is not 
+an old-time Tulsan,'' Swearingen said. ``Nobody quite understood what 
+he was doing out there anyway.'' Since the company's troubles surfaced, 
+``there has been a lot of 20-20 hindsight,'' he said. ``I didn't hear 
+anything much negative about Bartmann until he got into trouble.'' 
+But with layoffs under way in the oil industry _ a big employer in 
+Oklahoma _ Tulsa would like Commercial Financial to right itself. 
+Hundreds of employees, who tend to speak glowingly of their high pay 
+and the company's habit of sending groups of workers on company-paid 
+trips to resorts, have signed banners at headquarters expressing support. 
+George Kaiser, who owns Kaiser-Francis Oil Co. and is chairman and 
+majority shareholder of Bank of Oklahoma, said the local wisdom is 
+that any new owner would continue the operation with minimal job losses, 
+at least initially, though the rapid-growth days may be over. ``I 
+think they have a solid business and a good business strategy,'' said 
+Edward F. Keller, chairman and chief executive of Bank One in Tulsa 
+and chairman of the Metropolitan Tulsa Chamber of Commerce. ``I'd 
+prefer to believe that it's going to work out.'' 
+</TEXT>
+</DOC>

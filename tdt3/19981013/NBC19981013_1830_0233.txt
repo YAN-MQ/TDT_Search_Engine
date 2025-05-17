@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> NBC19981013.1830.0233 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Merrill Lynch may be the first big Wall Street player to take a hit. 
+Other industries have already laid off thousands, some of those as 
+a result of corporate mergers that eliminated jobs. Overall, a total 
+of more than 430,000 people have been laid off so far this year. Some 
+of the biggest job cuts have come from -- Motorola, 15,000, and Raytheon, 
+14,000 over the next two years. Also laying off -- Gillette, 4,700 
+workers. And high-tech giant Intel, 3,000 jobs gone. 
+</TEXT>
+</DOC>

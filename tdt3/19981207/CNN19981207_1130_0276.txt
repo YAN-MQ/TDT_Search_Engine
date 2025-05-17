@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981207.1130.0276 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The first two modules of the international space station are now firmly 
+connected and soaring high above earth alongside the space shuttle 
+"Endeavour." Today, astronauts Jerry Ross and James Newman will perform 
+a 6 1/2 hour spacewalk to hook up power to the station. It took astronaut 
+Nancy Curry several hours last night to join the parts using the shuttle's 
+robotic arm. The parts are large, 77 feet long, and they had to be 
+aligned perfectly. 
+</TEXT>
+</DOC>

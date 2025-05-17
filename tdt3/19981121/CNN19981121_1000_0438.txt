@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981121.1000.0438 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather update." 
+A strong area of low pressure continues moving across the western 
+United States with showers and rain from the coast of Washington and 
+Oregon, spreading inland to Idaho and Montana. A second area of low 
+pressure heads towards James bay, so portions of ontario and Quebec 
+could see heavy snow as we go through the weekend. A cold front moves 
+into southern Florida and becomes stationary. Look for showers and 
+a few thunderstorms from lake okeechobee southward and from near New 
+Orleans into the gulf of Mexico. High temperatures will be in the 
+30s, 40s and 50s for the eastern U.S. with 40s and 50s for the Rockies. 
+60s and 70s are expected for the southern tier as far northward as 
+western nebraska. You'll see 80s across the Florida keys. The extended 
+forecast includes heavy rain on the northwest coast, with rain and 
+thunderstorms through the Mississippi valley and the Great Lakes. 
+On Tuesday, showers continue spreading eastward into portions of Utah 
+and nevada, with the rain in the northeast headed into New England. 
+Scattered showers and a few thunderstorms are possible in the Mississippi 
+valley by Wednesday. The extended forecast for more than 7,000 cities 
+is at CNN.com. 
+</TEXT>
+</DOC>

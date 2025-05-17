@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981112.2130.0950 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And in North Carolina, an investigator on the team looking for bombing 
+suspect Eric Rudolph was grazed by a bullet fired at a command post. 
+Agents don't have a motive, but they say it's not likely Rudolph was 
+involved. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981022.1130.0944 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is back at the mideast peace summit in Maryland 
+today. Sources tell CNN Israeli and Palestinian negotiators are looking 
+over a 20-page draft agreement drawn up by the United States. 
+</TEXT>
+</DOC>

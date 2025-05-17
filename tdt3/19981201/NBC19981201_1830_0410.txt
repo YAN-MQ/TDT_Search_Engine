@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981201.1830.0410 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Bad news for Boeing. Boeing announced it will cut 48,000 jobs over 
+the next two years as it scales back production of several lines. 
+The company blames Asia's financial crisis for these cutbacks. 
+</TEXT>
+</DOC>

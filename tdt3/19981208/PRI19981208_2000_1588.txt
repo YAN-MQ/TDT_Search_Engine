@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981208.2000.1588 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On the earthly plain of Wall Street, today the Dow Jones Industrials 
+closed down 42, almost 43 points to 9028. The NASDAQ down 6 to 2035. 
+</TEXT>
+</DOC>

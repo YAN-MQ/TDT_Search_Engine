@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981010.1130.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Congress is working through the weekend to get a budget passed for 
+the new fiscal year. A stopgap Bill is keeping the government running 
+through Monday. 
+</TEXT>
+</DOC>

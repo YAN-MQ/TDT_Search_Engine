@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981120.0500.2244 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Two moderate earthquakes have hit a rural area in southwestern China, 
+injuring at least 300 people some of them seriously. The first quake, 
+measuring 5.0 on the Richter scale, struck Hunan province Thursday 
+evening. Minutes later, a second quake measuring 6.2 struck neighboring 
+Sichuan province. An official with the seismology bureau in Hunan, 
+says 63 people suffered a serious injuries, but there were no deaths. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981213.1830.0883 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+in puerto rico today, there was a nonbinding referendum on the island's 
+political future. final results will be known later tonight. in early 
+returns, the option of statehood had fewer than half the votes. 
+</TEXT>
+</DOC>

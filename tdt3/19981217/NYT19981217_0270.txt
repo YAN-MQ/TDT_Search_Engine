@@ -1,0 +1,44 @@
+<DOC>
+<DOCNO> NYT19981217.0270 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Stung by a government witness' testimony that Microsoft Corp. had 
+sabotaged a program designed to gather evidence against the company, 
+lawyers for the software giant Thursday offered the court an unusual 
+written explanation. Central to the issue are online updates, a feature 
+introduced with Windows 98 in June, whereby users who are connected 
+to the Internet receive a ``critical update'' message when they turn 
+on their computers whenever Microsoft has fixed some bug or made some 
+improvement to the operating system. By clicking on a button, the 
+user downloads the new code from a special Web site, and it is instantly 
+installed automatically. On Monday, the witness, Edward Felten, a 
+computer-scientist from Princeton University, testified that Microsoft 
+had made changes to its Windows 98 update site that seemed designed 
+to thwart a computer program he had written to demonstrate a central 
+point in the government's antitrust suit against the company _ that 
+Microsoft's browser could be removed from Windows. Felten testified 
+that soon after he gave Microsoft a copy of his program in September 
+as part of the pre-trial discovery rules, his computer would no longer 
+work with the update site. ``Microsoft modified some of the software 
+that they distribute as part of the Windows update feature in a way 
+that made it incompatible,'' he said. He added that his computer, 
+though running a competing Web browser, had worked perfectly on the 
+site until Dec. 4. On Wednesday, Judge Thomas Penfield Jackson gave 
+Microsoft permission to offer an explanation for the changes. In its 
+filing Thursday, Microsoft did not explain what had caused the problem 
+but denied doing anything that would have caused it. The company said 
+that the site was updated regularly, roughly every two weeks, adding 
+that an update was first posted on Nov. 4 and modified slightly on 
+Dec. 4 ``by a single developer working under the supervision of another 
+developer.'' ``Neither of these developers,'' the company said, ``had 
+access to Dr. Felten's program, and neither was involved in any way 
+in Microsoft's testing of his program. The Dec. 4 change had nothing 
+whatsoever to do with Dr. Felten or his program. Microsoft knows of 
+no reason why that change should have affected Dr. Felten's program 
+and believes it had no such effect.'' In fact, Microsoft argues that 
+Felten's removal program changes Windows in such a way that the program 
+cannot work with the update site at all. Felten said he would not 
+comment on Microsoft's submission. 
+</TEXT>
+</DOC>

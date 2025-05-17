@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981126.2130.1263 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jerome Jurenovich, "CNN Headline Sports." -- The traditional Thanksgiving 
+day game in Detroit was filled with hard hits, lucky bounces and terrible 
+calls, but none worse than the one made by referee Phil luckett, who 
+insisted that Pittsburgh's Jerome Bettis called heads during the overtime 
+coin toss, giving the ball and eventually the game to the lions 19-16. 
+I did not say heads-tails, that's false. That is a lie. 
+</TEXT>
+</DOC>

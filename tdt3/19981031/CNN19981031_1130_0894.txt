@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981031.1130.0894 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- Iraq announced today it's suspending all 
+cooperation with United Nations arms inspectors. The White House calls 
+it a serious matter. The president's national security team is expected 
+to meet this afternoon. 
+</TEXT>
+</DOC>

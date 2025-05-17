@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981223.1600.0347 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+This is VOA News, Now, coming to you from Washington. I'm Erin Brommet, 
+along with Tony Riggs. 
+</TEXT>
+</DOC>

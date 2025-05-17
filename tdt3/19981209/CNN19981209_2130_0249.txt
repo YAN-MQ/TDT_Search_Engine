@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981209.2130.0249 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The FAA has ordered an inspection of the door wiring on MD-11 aircraft. 
+The FAA says the front passenger doors may open in such a way that 
+frays electrical wires, which could lead to a fire in the passenger 
+cabin. The order applies to 65 U.S.-registered MD-11s. The doors must 
+be checked within ten days and any problems must be repaired before 
+further flight. The FAA says there's no evidence the problem might 
+have caused the crash of swissair flight 111 in September which also 
+was an MD-11. 
+</TEXT>
+</DOC>

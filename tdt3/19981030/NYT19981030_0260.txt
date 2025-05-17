@@ -1,0 +1,116 @@
+<DOC>
+<DOCNO> NYT19981030.0260 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+With bank credit tightening and the market for initial public offerings 
+bone-dry for all but the biggest deals, cash-starved small and midsize 
+companies are hunting for alternative sources of money. Galloping 
+into the breach are firms called factors, which buy companies' accounts 
+receivable or lend against them. Factors see an opportunity to break 
+out of the niche markets they have traditionally served _ mainly garment 
+and textile makers _ and venture into industries like health care, 
+construction and technology. And in a growing number of instances, 
+factors are gaining customers and working in business partnerships 
+with an unlikely ally: banks, their main competitors. ``We're going 
+to see that more and more,'' said Leonard Machlis, executive director 
+of the Commercial Finance Association, an industry trade group for 
+factors and other asset-backed lenders. ``When things start to tighten 
+up, as banks lose money in emerging markets and hedge funds, some 
+businessmen will not be able to get refinanced'' by banks and will 
+turn to factors, Machlis said. Some association members, he added, 
+have already seen an increase in such business. Floor Concepts, a 
+commercial flooring company in Saddle Brook, N.J., offers a case in 
+point. When Len Gleeson and Fred Renshaw, partners in the company, 
+needed money to keep their business running, they knew better than 
+to turn to a bank. A year ago, a local branch of First Union Bank 
+turned them down for a loan, Gleeson said, because the company did 
+not have the collateral the bank required, such as ownership of its 
+headquarters building. And with the climate change in the financial 
+markets since then, the odds of getting a yes this time were probably 
+even worse. But without a cash infusion, Floor Concepts could not 
+afford to increase staff and buy supplies for jobs already under way 
+or about to start. So the company sold the right to collect $220,000 
+it was owed by customers to Quantum Corporate Funding, a factor based 
+in New York. Quantum advanced Floor Concepts about 60 cents on the 
+dollar up front, and took over responsibility for collecting from 
+the customers. Quantum gets its money back as the customers pay what 
+they owe, and keeps a further 3 percent, called a discount, for its 
+profit; after that, Floor Concepts gets the balance. ``We had plenty 
+of business, but what we really lacked was cash to fund our business,'' 
+Gleeson said. Although it cost Floor Concepts considerably more to 
+get cash from Quantum than it might have paid in interest on a short-term 
+bank loan, Quantum was prepared to advance funds without insisting 
+on collateral that banks usually demand. With its coffers refilled, 
+Floor Concepts was able to bid on and win more new contracts, and 
+the profits from the new work should more than offset the cost of 
+factor financing, Gleeson said. Banks base lending decisions on the 
+borrower's creditworthiness. But to a factor, the creditworthiness 
+of the borrower's customers is what counts. In Floor Concepts' case, 
+Quantum sized up the likelihood that clients like Barnes &AMP; Noble 
+or Hackensack University Hospital would pay their bills. The cost 
+of funds for the client _ akin to the interest rate charged on a bank 
+loan _ is the discount, which can vary from 2 to 4 percent on current 
+invoices due within 30 days, to 15 percent or more if payments are 
+overdue or are not payable for several months, or there is much doubt 
+about the customers' ability to pay. Discounts are also affected by 
+whether a client promises the factor a minimum amount of future business 
+or just wants one deal, and by how much effort the factor expects 
+to expend to collect what is owed. A 3 percent discount on 30-day 
+receivables is equivalent to an annual interest rate of about 42.5 
+percent, assuming invoices are paid on time. In its current form, 
+factoring has been around since the 1960s, but it has been growing 
+rapidly lately. According to a survey of its members by the Commercial 
+Finance Association, factors had $205 billion in outstanding advances 
+at the end of 1997, a 21 percent increase from 1996. Though garment 
+industry-related business still accounts for 80 percent of all factoring 
+in the country, factoring is spreading to new industries, Machlis 
+said, partly because of new cooperation between banks and factors. 
+Instead of just saying no to applicants who cannot meet their lending 
+requirements, some banks now steer customers toward factors. Craig 
+Sheinker, Quantum's president, says that every week he receives marketing 
+calls and visits from bank officials who are looking to line up factors 
+for client referrals. Quantum's bank, Sterling National, a unit of 
+Sterling Bancorp, also sends clients Quantum's way, said Michael Gallina, 
+a senior vice president for corporate lending at Sterling. ``If a 
+company doesn't have the ability to generate a profit, we probably 
+wouldn't do business with them'' right now, Gallina said, but the 
+company may grow into a profitable future customer. ``If I'm not able 
+to help them directly, I can refer them to somebody who can help them. 
+And who knows the benefits of that down the road?'' Factors can also 
+be useful to banks by monitoring the creditworthiness of receivables 
+for bank clients, or by helping the bank keep track of collateral. 
+``It gives banks some comfort in lending to companies that are having 
+some difficulty in troubled times,'' said Richard Romer, executive 
+vice president of CIT Group Commercial Services, a factor based in 
+Livingston, N.J. Four of the country's largest factors are owned at 
+least in part by banks. Dai-Ichi Kangyo Bank has a stake in CIT; Fuji 
+Bank is an owner of Heller Financial of Chicago, and Nationsbanc and 
+the Bank of New York each have big in-house factoring operations. 
+Banks have gotten into factoring because they like its high profit 
+margins compared with traditional lending, said Stewart Long, president 
+of Nationsbanc Commercial, the bank's factoring arm. Bank factors 
+tend to offer easier terms than independents but stick to the least 
+risky customers. A chance to cut financing costs led Philip Knight-Sheen, 
+president of Medrec Inc. of San Antonio, which places physical, occupational 
+and speech therapists in temporary positions at hospitals and nursing 
+homes, to switch from an independent factor earlier this year to the 
+factoring arm of Security National Bank in San Antonio. Knight-Sheen's 
+company, which has about $3.5 million in annual sales, had been a 
+client of Advantage Funding, an Atlanta-based factor, since 1995, 
+when his efforts to line up bank financing proved futile. But as the 
+company grew and its finances strengthened, ``the interest rates became 
+prohibitive,'' Knight-Sheen said. The arrangement with Advantage required 
+Medrec to finance a large portion of each month's invoices whether 
+or not it needed cash that month, and the financing costs were eating 
+up 35 percent of his company's revenue. Now that he is using the bank, 
+he factors invoices only occasionally, at a lower total cost. Another 
+disadvantage of using the independent factor was that the involvement 
+of Advantage led some customers to think Medrec was in financial trouble. 
+But initially, the pros outweighed the cons. ``The reason we went 
+with them is we didn't have the money to pay our therapists, and the 
+government was taking longer and longer'' to reimburse, Knight-Sheen 
+said. ``Advantage saved our life. For small companies that need to 
+get going, it's a godsend.'' 
+</TEXT>
+</DOC>

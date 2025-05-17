@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981106.1600.1052 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A breakthrough in the biotechnology sector. California-based Geron 
+announced a new technology that can cultivate human cells. The cells, 
+known as stem cells, can grow human tissue for transplants and other 
+uses. Geron says it will license commercial rights to use the new 
+technology. Shares of Geron skyrocketed today -- 
+</TEXT>
+</DOC>

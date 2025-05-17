@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981222.1130.0965 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Those stories and more in 15 minutes. We'll have business news from 
+New York in a moment. First, we'll check the latest market numbers. 
+</TEXT>
+</DOC>

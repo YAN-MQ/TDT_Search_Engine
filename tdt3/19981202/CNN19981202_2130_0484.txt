@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981202.2130.0484 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Time now for the extended weather forecast. And then we'll check out 
+the high-tech gadgets people are buying for the holidays. 
+</TEXT>
+</DOC>

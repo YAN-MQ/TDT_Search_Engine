@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> APW19981112.1209 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+AMERICAN LEADERS NEW YORK (AP)-Sales, 4 p.m. price and net change 
+of the 10 most active American Stock Exchange issues, trading nationally 
+at more than $1. Name Volume Last Chg. SPDR 5,339,000 112 1-8 Down 
+1-8 GK IntellSys n 1,704,700 7 1-4 Down 15-16 ViacomB 1,483,400 63 
+1-4 Up 1 15-16 FstAustPrm 1,096,100 5 7-8 Up 1-16 SulcusHosp 779,100 
+2 1-2 Up 15-16 WEBS Japan 570,500 9 3-4 Down 1-8 EchoBay 568,300 2 
+7-16 Up 1-8 ForstLabs s 471,800 44 11-16 Down 5-16 NstorTech 451,700 
+15-8 Up 7-16 CelSci 444,800 2 15-16 Up 1-8 
+</TEXT>
+</DOC>

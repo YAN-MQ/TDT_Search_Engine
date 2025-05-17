@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981204.0500.1226 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In U.S. college basketball, number two Maryland beat Wake Forest 92 
+to 69. 
+</TEXT>
+</DOC>

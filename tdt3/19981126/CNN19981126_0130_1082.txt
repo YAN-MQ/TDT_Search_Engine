@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981126.0130.1082 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The federal trade commission has a warning for smokers. Light or low-tar 
+cigarettes may not be all they're cracked up to be. The FTC is starting 
+an ad campaign telling smokers a test used to measure tar and nicotine 
+levels may be inaccurate. Democratic senator Frank Lautenberg goes 
+even further. He calls light cigarettes a sham, and wants the term 
+banned from advertising. 
+</TEXT>
+</DOC>

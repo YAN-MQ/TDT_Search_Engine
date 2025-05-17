@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981030.1600.0114 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The astronauts aboard the shuttle "discovery" are proving their mission 
+is not just about history's oldest space traveler. They have launched 
+an experimental communications satellite into orbit. This morning, 
+mission control in Houston provided the discovery crew a Wake-up song. 
+Red Roses too I see them Bloom for me and you John Glenn has spent 
+much of the day performing medical experiments that examine the aging 
+process. 
+</TEXT>
+</DOC>

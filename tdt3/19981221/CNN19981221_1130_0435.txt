@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981221.1130.0435 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Gas prices hit an all-time low last week. Analyst Trilby lundberg, 
+who tracks the price of gas, says the weighted average for all grades 
+of gasoline fell to $1.03.55 gallon last week. If inflation is factored 
+in, last week's price is cheaper than 1986s previous record low. Tulsa, 
+Oklahoma, had the nation's cheapest gas at about 75 cents per gallon. 
+Honolulu, Hawaii, was the most expensive at $1.51 per gallon. 
+</TEXT>
+</DOC>

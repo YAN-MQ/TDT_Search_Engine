@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981229.0500.0343 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Bill Hazerd, VOA News. This is VOA News Now. I'm Charlene Porter, 
+along with Les Carpenter. We're broadcasting from Washington. 
+</TEXT>
+</DOC>

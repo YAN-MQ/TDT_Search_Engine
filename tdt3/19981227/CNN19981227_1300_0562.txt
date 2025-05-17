@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981227.1300.0562 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+At least 200 TWA travelers were stranded overnight, attributed to 
+a "Sickout" by trans world airlines flight attendants. The delays 
+and cancellations began Thursday, when flight attendants unhappy with 
+lack of progress in contract talks called in sick in large numbers. 
+A judge had to issue a back-to-work order to get the attendants back 
+on the job. TWA officials tell CNN they are "cautiously optimistic" 
+that they can get everyone home today. 
+</TEXT>
+</DOC>

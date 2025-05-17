@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981126.1130.0904 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking our top stories -- across the country, families are gathering 
+to share the traditional Thanksgiving day meal. Many people are observing 
+another tradition -- volunteering to serve holiday dinners to those 
+who are less fortunate. 
+</TEXT>
+</DOC>

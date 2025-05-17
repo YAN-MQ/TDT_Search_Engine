@@ -1,0 +1,43 @@
+<DOC>
+<DOCNO> NYT19981230.0453 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial for Thursday, Dec.31: ``Nobody 
+wins in long, drawn-out divorce cases, not spouses and especially 
+not the children who are caught in the middle,'' says New York State's 
+Chief Judge, Judith Kaye. With that thought in mind, the judge has 
+announced a series of practical changes intended to make the process 
+of breaking up less adversarial. Of the approximately 60,000 divorces 
+granted by New York courts each year, about 75 percent are uncontested. 
+But the remaining ones that are contested can get messy. The new program 
+builds on reforms Kaye introduced in 1993. Those reforms _ including 
+the assignment of judges to concentrate on divorces _ have seen the 
+average time it takes to process divorce cases in New York City drop 
+from 854 days to 433, even as the annual number of divorce filings 
+has increased by 12 percent. Now Kaye is focusing on the bitterest 
+divorce cases and aiming for a more well-rounded approach. Adopting 
+a practice already used successfully by most other states, the courts 
+have begun offering classes to sensitize divorcing parents about the 
+effect breakups can have on children. The idea is to provide a reality 
+check that encourages early settlement of custody and visitation issues 
+by warring parents. These classes, which are now offered on Long Island, 
+in Westchester County and in two upstate cities, are to begin this 
+month in New York City on a voluntary basis, with an eye to eventually 
+making them mandatory statewide. In a similar vein, the court is expanding 
+a promising pilot program that uses volunteer lawyers to provide the 
+parties with a neutral evaluation of their disputes. This exercise, 
+in which the risks and weaknesses of each side's case are exposed, 
+injects a missing measure of legal reality that can help facilitate 
+settlements. In another innovation, the court is hiring social workers 
+with backgrounds in divorce and family law to help families settle 
+disputes. Other sensible changes advocated by Kaye require the approval 
+of the State Legislature. These include allowing a judge to freeze 
+marital property to prevent parties from shifting or hiding assets, 
+and mandatory disclosure of tax returns, bank statements and other 
+key documents to expedite the discovery process and settlements. Good 
+ideas frequently die in Albany's partisan atmosphere. But the chance 
+to make divorces quicker and less traumatic for children should have 
+appeal across party lines. 
+</TEXT>
+</DOC>

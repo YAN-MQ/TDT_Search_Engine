@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981224.0130.0381 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton says he wants to end homelessness in the United 
+States. Speaking from a public-housing project in Baltimore, Mr. Clinton 
+said he will request an additional $150 million in his next budget 
+proposal. In order to build affordable housing for the homeless, he 
+also announced $850 million in federal grants, earmarked for homeless 
+assistance programs. Mr. Clinton says the measure is the largest effort 
+to combat homelessness in U.S. history. 
+</TEXT>
+</DOC>

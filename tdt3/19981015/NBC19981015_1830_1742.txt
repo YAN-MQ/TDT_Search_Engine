@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981015.1830.1742 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Nightly News" for Thursday. We want to remind you that we 
+will have complete coverage of the John Glenn launch. I'm Tom Brokaw. 
+I'll see you back here tomorrow night. 
+</TEXT>
+</DOC>

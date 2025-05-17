@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> VOA19981013.1700.2948 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+It's time now for business news. Stock prices in New York moved somewhat 
+lower Tuesday amid concerns about corporate earnings reports for the 
+third quarter of the year. VOA's Joe Chapman is in New York and has 
+the numbers. The Dow Jones Industrial Average closed down 63 points, 
+less than 1 percent, at 7938. A more representative Standard & Poor's 
+500 finished almost unchanged, down 2 points at 995. But the NASDAQ 
+Composite, which includes many high-technology stocks, closed down 
+36 points at 1509, as investors took profits from two days of gains. 
+Eastman Kodak, one of 30 stocks in the Dow Jones Industrials, closed 
+14 percent lower, exerting a strong downward pressure on the index. 
+The big photography company exceeded Wall Street profit estimates 
+by 1 cent a share. But analysts say investors expected more profit 
+growth and continue to be concerned about the company's market share 
+and revenues. Another factor in the negative cinema was the collapse 
+of a merger between Monsanto, a biotech and chemical company, and 
+American Home Products, a pharmaceuticals firm. Joe Chapman, VOA News, 
+New York. 
+</TEXT>
+</DOC>

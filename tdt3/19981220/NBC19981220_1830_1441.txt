@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> NBC19981220.1830.1441 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Weather news tonight, cold air spilling from Canada dropping temperatures 
+as low as 30 degrees below sooe rose today in the Rockies. More than 
+a foot of snow fell in the Colorado Rockies. The wind chill in Wyoming 
+was 60 below. 
+</TEXT>
+</DOC>

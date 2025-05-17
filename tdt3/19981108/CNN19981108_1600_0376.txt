@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981108.1600.0376 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Federal safety experts are looking into ways to better protect older 
+children in car wrecks. "The Detroit news" reports the national highway 
+and traffic safety administration has assembled a panel of experts, 
+including automakers and child seat companies, to study the issue. 
+Children older than 4 are too big for child safety seats. But some 
+experts say they should sit in booster seats until they're 4'6" tall. 
+That could help seat belts made for adults fit them better. 
+</TEXT>
+</DOC>

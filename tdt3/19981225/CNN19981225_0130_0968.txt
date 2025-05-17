@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981225.0130.0968 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street closed early today for Christmas eve. The Dow Jones industrial 
+average rose for the sixth straight day, climbing almost 16 points 
+to close at 9217. 
+</TEXT>
+</DOC>

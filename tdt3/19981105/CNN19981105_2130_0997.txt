@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981105.2130.0997 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Federal reserve chairman Alan Greenspan isn't giving any hints about 
+whether that will happen this month. He addressed the securities industry 
+association annual convention today in florida. While he wouldn't 
+comment on the fed's plans, he did say he believes investor panic 
+over the global financial situation is lessening. It is of course 
+plausible that the current episode of investor fright will dissipate 
+and yield spreads and liquidity premiums will soon fall into more 
+normal ranges. Indeed, we are already seeing significant signs of 
+some reversals. The fed meets again on November 17th. 
+</TEXT>
+</DOC>

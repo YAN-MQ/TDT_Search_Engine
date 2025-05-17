@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981117.1600.2945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+We had a pretty good day, although the Dow Jones industrial average 
+sold off in the last few minutes. It closed at 8986, down 25 points. 
+But the Standard and Poors 500 Index closed at 1139, that is up 3 
+points. And NASDAQ was also strongly ahead. 
+</TEXT>
+</DOC>

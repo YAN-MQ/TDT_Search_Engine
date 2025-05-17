@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981105.1130.0628 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The national osteoporosis foundation is announcing the first guidelines 
+for preventing, diagnosing and treating the bone disease in post-menopausal 
+women. The guide recommends doctors counsel patients on their high 
+risk of developing osteoporosis. It suggests bone Mineral tests to 
+determine a woman's risk, a daily dose of calcium and vitamin D and 
+strength-training exercises to reduce the risk of falls. More than 
+4 million Americans have osteoporosis. 80% are post-menopausal white 
+women. 
+</TEXT>
+</DOC>

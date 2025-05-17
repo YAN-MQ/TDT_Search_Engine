@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981122.1130.0933 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton visited some of the 37,000 U.S. troops stationed 
+in south Korea today. He warned of increasing signs of militancy from 
+north Korea and urged them to remain vigilant. 
+</TEXT>
+</DOC>

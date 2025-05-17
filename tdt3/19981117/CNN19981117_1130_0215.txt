@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981117.1130.0215 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street's eyes will be on federal reserve policymakers meeting 
+today to consider another cut in interest rates. The fed dropped short-term 
+interest rates twice recently as the U.S. economy stuttered and the 
+stock market plunged. But economists say recent events such as an 
+international bailout of brazil, Japan's moves to shore up its weakening 
+economy and the recent 1,500-point surge in the Dow makes it tough 
+to predict what the fed will do today. 
+</TEXT>
+</DOC>

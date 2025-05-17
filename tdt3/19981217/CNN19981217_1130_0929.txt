@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981217.1130.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Updating the top stories -- as nighttime falls, Iraq faces the possibility 
+of renewed U.S./British military air strikes. National security adviser 
+Samuel Berger says last night's attack caused substantial damage. 
+Two people reportedly were killed, 30 others wounded. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981108.1000.1374 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+World number one Pete Sampras beat fellow American Todd Martin in 
+three sets to reach the finals of the Paris open. Sampras will face 
+Greg Rusedski. Russell Biven, "CNN Headline Sports." 
+</TEXT>
+</DOC>

@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> CNN19981022.1600.0371 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new study is sending a wake-up call. It shows 56% of women in the 
+United States lack adequate sleep. And according to the research, 
+female health issues are the cause. I think the most significant thing 
+about the study was the relative differences between the men and the 
+women. It looks as if, from comparisons with other polls, when men 
+have been studied, that women have much higher rate of sleepiness 
+during the daytime that interferes with their activities. They use 
+more sleep medications, and they have a much more frequent report 
+of insomnia than men. One in three of the women studied uses over-the-counter 
+or prescription drugs to help them sleep. 
+</TEXT>
+</DOC>

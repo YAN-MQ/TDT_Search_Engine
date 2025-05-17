@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981220.1000.1314 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With starting point guard Ed cota on the shelf, North Carolina overpowered 
+dartmouth. 
+</TEXT>
+</DOC>

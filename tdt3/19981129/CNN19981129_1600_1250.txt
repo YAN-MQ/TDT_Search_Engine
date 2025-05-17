@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981129.1600.1250 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jacksonville is two games up on Pittsburgh. They are all over Cincinnati 
+34-17. Brunell tossed four TDs. 
+</TEXT>
+</DOC>

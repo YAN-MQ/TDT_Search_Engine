@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981119.1830.1238 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If you happened to be in southern California today and glanced skyward, 
+you might have thought space aliens had arrived. But it was only NASA, 
+testing out a new invention. It's called the centurian -- a 206-foot-wide 
+robotic flying wing. It can reach an altitude of 100,000 feet. NASA 
+will use it to put research instruments up in the atmosphere. 
+</TEXT>
+</DOC>

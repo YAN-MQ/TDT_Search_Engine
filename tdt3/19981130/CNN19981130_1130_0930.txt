@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981130.1130.0930 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Updating the top stories -- President Clinton is promising to increase 
+financial aid to the Palestinian authority by $400 million. The president 
+made the announcement today in a meeting with Palestinian President 
+Yasser Arafat. 
+</TEXT>
+</DOC>

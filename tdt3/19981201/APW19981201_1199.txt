@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> APW19981201.1199 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+AMERICAN LEADERS NEW YORK (AP)-Sales, 4 p.m. price and net change 
+of the 10 most active American Stock Exchange issues, trading nationally 
+at more than $1. Name Volume Last Chg. SPDR 8,768,800 117 13-16 Up 
+1 11-16 EchoBay 1,280,200 2 1-8 Up 1-16 Keane 1,173,200 295-8 Up 7-8 
+NaborsInd 1,049,000 13 3-4 Up 1-2 Organogen s 976,500 14 9-16 Up 1 
+FstAustPrm 931,500 5 15-16 Up 1-16 Hasbro 736,200 37 3-8 Up 2 1-8 
+Cablevsn s 654,200 42 7-8 Up 1 1-2 GreyWolf 613,400 1 1-16 Up 1-16 
+ViacomB 592,900 65 11-16 Down 7-8 
+</TEXT>
+</DOC>

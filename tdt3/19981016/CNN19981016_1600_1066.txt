@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981016.1600.1066 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Investors are looking at profit reports today. Caterpillar reported 
+its profits fell 13% in the third quarter, but drug giant Merck, benefiting 
+from sales of five new drugs rose 14%. Kellogg is issuing gloomy forecasts. 
+</TEXT>
+</DOC>

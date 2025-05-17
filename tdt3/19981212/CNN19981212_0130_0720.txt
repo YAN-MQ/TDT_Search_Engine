@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981212.0130.0720 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+South Africans have been getting burned by carjackers to the tune 
+of 13,000 thefts a year. Now, they can burn back. An in-car flamethrower 
+called "blaster" debuted last month. If drivers are threatened by 
+a would-be carjacker, they can push a button and blast the assailant 
+with a burst of fire. The manufacturers say it's not designed to kill. 
+They say, so far, they've sold 25 devices. 
+</TEXT>
+</DOC>

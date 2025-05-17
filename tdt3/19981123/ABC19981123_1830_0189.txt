@@ -1,0 +1,34 @@
+<DOC>
+<DOCNO> ABC19981123.1830.0189 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The big computer news is the negotiations between AOL and Netscape. 
+AOL is close to buying Netscape for $4 billion in stock. It would 
+unite two of the biggest names. Here to explain all that is ABC's 
+Bob Jamieson. America online and Netscape serve different parts of 
+the online audience. Together, they could become a power house. America 
+online has 14 million paid subscribers to its network of entertainment, 
+information and popular chat rooms. Netscape has the most popular 
+technology for finding your way around the internet, the Netscape 
+navigator, and 20 million a month visit its web page. Netscape, for 
+America online would provide them not only with a larger base of customers, 
+a larger base of usage, but essentially a larger portal to access 
+the entire Internet space. Another company, sun Microsystems, could 
+also become part of the deal. Sun has popularized Java, an Internet 
+program language that does not depend on Microsoft windows technology 
+software. Together, AOL, Netscape and sun, would pose a credible challenge 
+to giant microsoft, which has been investing heavily in online ventures. 
+So combined, they have a much larger audience, at least starting the 
+surfing experience that Microsoft has right now. Microsoft has fought 
+with all three companies in the market place and in court. And at 
+the antitrust trial in Washington, Microsoft is charged with using 
+strong-armed tactics against Netscape. Microsoft lawyers said today's 
+news bolsters their defense. The proposed deal demonstrates a simple 
+truth -- that there is vigorous competition in the market place. The 
+combination of AOL and Netscape could grab a large share of the rapidly 
+growing Internet commerce, sales from advertising and electronic storefronts 
+that just four years from now could total $3 trillion. Bob Jamieson, 
+ABC News, New York. 
+</TEXT>
+</DOC>

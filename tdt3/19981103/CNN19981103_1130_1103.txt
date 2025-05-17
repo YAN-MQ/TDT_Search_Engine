@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981103.1130.1103 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Americans have some mixed feelings about the new $20 bills. The financial 
+web site, quicken.com, polled more than 28,000 Internet users in an 
+informal survey. Half say the new Bill looks like monopoly money. 
+About 25% say the Bill's elegance and grace gives them goose bumps. 
+</TEXT>
+</DOC>

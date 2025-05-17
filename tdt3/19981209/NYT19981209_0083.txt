@@ -1,0 +1,55 @@
+<DOC>
+<DOCNO> NYT19981209.0083 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Amazon.com, the rapidly expanding online store, is about to introduce 
+a new service in which it will refer its customers to other Internet 
+merchants selling goods that it does not carry, according to people 
+briefed by the company on the plan. Amazon.com plans to place links 
+marked ``Shop the Web'' throughout its online store early next week, 
+these people said. This will allow consumers to search for items in 
+a number of categories including apparel, toys, computers and travel. 
+Such a search would display items from a selection of participating 
+vendors. The vendors include some mainstream merchants, like L.L. 
+Bean, the Gap and F.A.O. Schwarz, as well as some Internet-only merchants 
+like Brainplay.com, a high-end Internet toy store. A spokeswoman for 
+Amazon.com declined to comment on its specific plans. But she said 
+the company had made no secret of its intention to introduce such 
+a service since it bought a company called Junglee in August. Junglee 
+has created software enabling Internet users to compare the prices 
+and features of products for sale on any number of sites spread across 
+the World Wide Web. Amazon has been moving at a breakneck pace to 
+transform itself from its original business as an online bookstore 
+into something closer to an electronic department store. It started 
+selling music last summer and then last month introduced videos and 
+a gift section with toys, consumer electronics and games. The new 
+``Shop the Web'' service, using Junglee, is still somewhat of a test, 
+the people briefed on the plan said. At first the link promoting the 
+service will be placed in an unobtrusive place on each page. After 
+the initial bugs are worked out, Amazon intends to create a button 
+shaped like an index tab on the top of all of its pages, referring 
+shoppers to other sources of books, music, movies and gifts. The intention 
+is primarily to help consumers find items that Amazon itself does 
+not stock. But with the Junglee capabilities, there may very well 
+be instances of Amazon's steering customers to other vendors or better 
+prices of goods that the company has on hand. But Amazon would still 
+receive revenue in such cases. Initially, the participating online 
+merchants will pay Amazon a fee for each customer who clicks on a 
+link provided by the service to visit their site. Eventually, they 
+may be required to give Amazon a percentage of each sale. Ultimately, 
+Amazon users who surf off to other online stores by using the referral 
+service may be able to buy things using Amazon's one-click purchasing 
+system, which stores customers' shipping addresses and credit card 
+information. Indeed, there is quite a race on by a number of Internet 
+companies to combine shopping directories with services that make 
+buying items faster and easier. For example, the Excite search and 
+portal service has introduced a holiday gift shop with 300 items drawn 
+from about 20 online merchants. Excite offers to keep a user's address 
+and credit card information on file and send it to each merchant that 
+a customer buys goods from. ``Just like Excite creates a massive, 
+searchable index of Web sites, Excite will create a massive searchable 
+database of products available online,'' said Andrew Halliday, Excite's 
+vice president for electronic commerce. NYT-12-06-98 1527EST 
+</TEXT>
+</DOC>

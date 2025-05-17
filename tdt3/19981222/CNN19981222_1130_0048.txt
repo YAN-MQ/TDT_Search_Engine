@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981222.1130.0048 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is "CNN Headline News." Good morning, I'm Linda Stouffer. Thank 
+you for joining us. Some legal scholars and senators are bristling 
+at a possible White House challenge to the impeachment process. A 
+White House aid says some legal experts believe it may be unconstitutional 
+for a new Congress to try the case. Mr. Clinton's legal team is also 
+looking for a compromise with Congress that would allow him to finish 
+his term. Senior Senate democrat Robert Byrd is hinting he could accept 
+a censure proposal, but says, for the good of the nation, it must 
+come from the senate, not the White House. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> MNB19981204.2100.0242 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The good employment numbers led to a brief rally on Wall Street today. 
+The Dow Jones 30 industrials gaining 136 points to close at 016. For 
+the week however the Dow lost almost 317 points. NASDAQ composite 
+closed above the 2000 Mark today with a gain of 48. However NASDAQ 
+was down a total of 13. 
+</TEXT>
+</DOC>

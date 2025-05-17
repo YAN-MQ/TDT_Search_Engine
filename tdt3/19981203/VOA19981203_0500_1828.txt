@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> VOA19981203.0500.1828 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Today's scheduled launch of the Space Shuttle Endeavour with the component 
+of the International Space Station on board has been postponed. We're 
+progress. We have had to cut off the countdown. We did not pick up 
+the countdown in time to meet our launch window. Cut off all. Proceed 
+to the recycle control sequence, sequence 18. Again, we have stopped 
+the countdown clock at T-minus 19 seconds. We were not able to pick 
+up the count in time to meet the very end of our launch window. The 
+launch was called off seconds before lift off because engineers could 
+not find the cause of an equipment alarm. Problems during the countdown 
+delayed the launch past a narrow window. The shuttle wants to rendezvous 
+with a Russian-made module of the space station already in orbit. 
+U.S. space agency officials say another launch attempt will not be 
+made for at least 24 hours. 
+</TEXT>
+</DOC>

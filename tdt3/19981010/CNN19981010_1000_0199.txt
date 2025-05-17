@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981010.1000.0199 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A popular allergy drug is causing a fight on Capitol Hill. Schering-plough, 
+the maker of Claritin, is pushing a provision in Congress to extend 
+its patent for three years. The company says it wants a chance to 
+obtain the same patent extension other drugs were given under a 1984 
+law. Its allies in Congress say the extension is fair, since the only 
+reason the company didn't get it before was because of bureaucratic 
+red tape. Opponents say it's an example of special interests manipulating 
+Congress. 
+</TEXT>
+</DOC>

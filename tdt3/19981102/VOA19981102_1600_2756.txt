@@ -1,0 +1,20 @@
+<DOC>
+<DOCNO> VOA19981102.1600.2756 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Scientists working to eliminate dangerous food poisoning microbes 
+from the U.S. poultry supply have tracked the germs back to their 
+source America's chicken farms. Now they're working to keep the birds 
+free of the often deadly pathogens. Norman Stern, a microbiologist 
+with the U.S. Agricultural Research Service says he and his colleagues 
+are using the unique genetic fingerprints of each strain of salmonella, 
+campola bactor and other germs to track their movements through the 
+farm environment. Their tests can determine whether the bacteria are 
+being introduced through tainted feed or by insects, rodents, wild 
+birds, or other farm animals. Mr. Stern says farmers and ranchers 
+can use that information to close off these avenues of infection and 
+provide processors and consumers with poultry that is healthier and 
+safer to eat. 
+</TEXT>
+</DOC>

@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> CNN19981018.1600.1268 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a complete look at today's NFL scores. 
+</TEXT>
+</DOC>

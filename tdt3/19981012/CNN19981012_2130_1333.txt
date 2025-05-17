@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981012.2130.1333 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+UCLA and Miami will meet December 5th to make up their game canceled 
+by hurricane georges. Jermaine Lewis is back with the Bruins after 
+a one-game suspension for an off-campus fight. 
+</TEXT>
+</DOC>

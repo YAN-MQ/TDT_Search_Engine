@@ -1,0 +1,18 @@
+<DOC>
+<DOCNO> CNN19981017.1000.0981 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A windfall from the federal reserve was a shot in Wall Street's arm 
+this week, but some major companies are still feeling the pinch of 
+a global economic crisis. David Daniel looks at the week in business. 
+Somewhat unexpected, but very welcome on Wall Street. Federal reserve 
+chairman Alan Greenspan ordered surprise quarter-point cuts in two 
+key interest rates Thursday. It was the fed's second such move in 
+less than a month, and the first time it's changed rates between scheduled 
+meetings in 4 1/2 years. The rate cuts made a good week on Wall Street 
+even better. The Dow gained some 515 points for the week, 330 points 
+on Thursday alone and ended four out of five sessions on the plus 
+side. 
+</TEXT>
+</DOC>

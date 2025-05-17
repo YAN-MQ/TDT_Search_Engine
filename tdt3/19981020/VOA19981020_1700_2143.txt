@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> VOA19981020.1700.2143 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+I'm Dave DeForest, VOA News. This is VOA News Now broadcasting from 
+Washington. I'm Susan Yackee, along with Tom Crosby. 
+</TEXT>
+</DOC>

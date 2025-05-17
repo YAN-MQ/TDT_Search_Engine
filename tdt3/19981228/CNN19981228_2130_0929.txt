@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981228.2130.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+iraq, denouncing the united states for attacking its air defenses 
+today. the pentagon says the strikes came after iraq fired surface-to-air 
+missiles against allied planes patrolling the northern no-fly zone. 
+</TEXT>
+</DOC>

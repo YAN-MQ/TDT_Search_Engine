@@ -1,0 +1,72 @@
+<DOC>
+<DOCNO> NYT19981111.0411 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Stock prices fell broadly Wednesday, reversing an early advance, as 
+investors pondered what now seems little better than an even chance 
+that the Federal Reserve will cut short-term interest rates again 
+next week. The third consecutive session of declines was brightened 
+by Intel's projection of stronger-than-expected revenue for this quarter, 
+which lifted some technology stocks, and by enthusiastic receptions 
+for three initial public offerings. But mostly this was a day in which 
+the tone seemed to be set by investors cashing profits following a 
+month of large gains amid uncertainty not only about the Fed's meeting 
+next Tuesday but about the possibility of military action against 
+Iraq. ``We've had a very powerful rally in a very short amount of 
+time,'' said Philip Orlando, chief investment officer at Value Line 
+Asset Management. At a time when many believe that foreign instability 
+seems at least to be getting no worse, he called the Fed's decision 
+whether to make a third round of rate reductions ``a very close call.'' 
+The Dow Jones industrial average closed with a loss of 40.16 points, 
+at 8,823.82. It was up as much as 72 points in early trading. The 
+much broader Standard &AMP; Poor's index of 500 stocks shed 7.29 points 
+to close at 1,120.97. Even the Nasdaq market, which is dominated by 
+technology stocks and had posted five consecutive advances, closed 
+3.51 points lower, at 1,862.11, and the Russell 2000 index of smaller 
+issues fell 3.39 points, to 393.47. ``It was a little surprising that 
+the Intel rally didn't take the Nasdaq higher,'' said Warren Epstein, 
+head trader at Richard Rosenblatt &AMP; Co. Intel surged 6 1/8, to 
+103 11/16, while Texas Instruments rose 5 9/16, to 69 7/16, and Micron 
+Technology was up 3 3/8, to 47 5/8, after hitting a 52-week high. 
+But most Internet stocks slumped, with Yahoo dropping 11 9/16, America 
+Online 7 3/8 and Ebay 14 15/16, part of what Epstein called ``pretty 
+good profit-taking'' after sharp run-ups. Some speculative money might 
+have been redeployed into the new issues, especially Earthweb, which 
+sold 2.1 million shares at 14 and saw them soar as high as 59 before 
+closing at 48 11/16, a 247 percent increase and the second-biggest 
+first-day rise ever, according to Securities Data. The record was 
+Broadcast.com's offering in July, which went from 18 to 74 before 
+settling at 62 3/4, a 250 percent gain. And in what was the third-largest 
+initial offering on record, News Corp. sold a 20 percent stake in 
+Fox Entertainment Group, a 124.8-million-share deal that was priced 
+late Tuesday at 22 1/2. The shares traded as high as 25 5/8 Wednesday 
+before closing at 24 1/2, an unusually big premium for a multibillion-dollar 
+offering. The other issue to trade for the first time was MONY Group, 
+the insurance company formerly known as Mutual of New York, now owned 
+by shareholders instead of policy-holders. The shares, priced at 23 
+1/2, finished at 28 1/8. The bond market, from which stocks sometimes 
+take their cue, was closed in observance of Veterans Day. Stocks were 
+mixed overseas, closing up 4.28 percent in Hong Kong, 2.27 percent 
+in Tokyo and less than 1 percent in London and Frankfurt. The main 
+declines were 2.97 percent in Rio de Janeiro and 1.13 percent in Paris. 
+Despite the latest skittishness over Iraq, the usual demand for oil 
+shares was missing, with most fractionally mixed. Arco fell 1 15/16, 
+to 66 5/8, and Phillips fell 1 1/4, to 43 1/4. Drug stocks were among 
+the prominent losers Wednesday, with Merck, Pfizer and Schering-Plough 
+more than two points lower and Lilly and Abbott down more than one. 
+In a soft financial sector, BankAmerica was down 2 5/16, to 57, the 
+main loser, but J.P. Morgan jumped 1 3/16, to 98 13/16, amid continuing 
+takeover rumors and word that it won Phelps Dodge's 401(k) business. 
+American Express lost 1/2, to 92 9/16, despite news that Warren Buffett 
+bought 1.08 million shares in early October, the first time the multibillionaire 
+investor had raised his Amex stake since 1995. Chrysler edged up 1/8, 
+at 47 1/16, in its last week of trading before the company's shares 
+disappear because of its merger with Germany's Daimler-Benz. Analysts 
+said index funds may already have disposed of their Chrysler shares. 
+Safeway, taking Chrysler's place in the S&AMP;P 500, climbed 1 3/16, 
+to 49 3/16. On the New York Stock Exchange, volume was 715.8 million 
+shares, up from 667.5 million Tuesday. There were 33 new highs against 
+19 new lows, but 1,797 issues declined while only 1,215 rose. 
+</TEXT>
+</DOC>

@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981223.1600.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton is calling for a 15% increase in assistance to the 
+homeless. That would boost aid to the homeless to over $1 billion 
+in fiscal 2000. 
+</TEXT>
+</DOC>

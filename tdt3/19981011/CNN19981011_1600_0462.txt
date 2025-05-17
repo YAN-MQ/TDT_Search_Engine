@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981011.1600.0462 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If you hate pumping gas, maybe your next car should be a Chevrolet 
+metro. Two models of the 1999 metro top the EPA's list of the most 
+fuel-efficient gasoline vehicles. The Suzuki swift and a pair of Honda 
+civics round out the top five. On the other side of the gas gauge 
+are three ferraris, a Lamborghini and a rolls Royce. Ironically, good 
+gas mileage doesn't always translate into good sales. With gas prices 
+so low, auto dealers say sales of fuel-efficient cars have lagged 
+behind gas guzzling sport utility vehicles. 
+</TEXT>
+</DOC>

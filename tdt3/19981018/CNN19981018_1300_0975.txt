@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> CNN19981018.1300.0975 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+When you buy a new car, you want it to be safe, dependable and comfortable. 
+And that includes the car's seats. Automakers have been able to test 
+a seat for safety, but not really comfort, until now. Michael Collins 
+reports. Car simulators are nothing new for the auto industry, but 
+Johnson controls has just spent close to $2 million on this simulator 
+the company says can do what no other simulator has done before -- 
+measure comfort. Up until now, measuring comfort has been an inexact 
+science. It would be dictated by subjective opinions of people. And 
+that would be dependent on their shape and size, and the time they 
+drove the vehicle and what stages they drove the vehicle. Of course, 
+the most important part of a car's comfort are the seats, and that's 
+what this simulator gauges. It uses a wraparound projection screen 
+and a hydraulic shaker table to duplicate real-life road conditions. 
+And the motion-analysis systems monitor pressure points on the passengers. 
+Before the simulator, a new car could be well along in the development 
+process before engineers could begin to gauge its comfort level. And 
+at that point, if something was wrong the changes could be expensive. 
+This simulator allows various automakers to test different designs 
+for a Car's interior as it's being built. If you don't and you do 
+it at the end, it's expensive. You have to change a lot of hardware 
+and do a lot of tooling, a lot of product development over. So the 
+simulator gives a consumers chance at comfort, a head start, and in 
+the long run saves money in the process. Michael Collins, for CNN, 
+Plymouth, Michigan. 
+</TEXT>
+</DOC>

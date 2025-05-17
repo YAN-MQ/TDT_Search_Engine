@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981130.1130.0943 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+CNN has learned Iraq attempted to buy equipment to build long-range 
+missiles in Romania last may. But the purchase was blocked by spy 
+agencies from the U.S., Romania and a Third country. 
+</TEXT>
+</DOC>

@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> CNN19981029.1130.0514 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+Low pressure will track through the midwest today, bringing with it 
+the threat for rain and some thunderstorms along the cold front, could 
+produce some severe weather. We have low pressure tracking through 
+the midwest. That's producing rain and higher elevation snows. And 
+hurricane Mitch, we continue to track that. By Friday evening, could 
+be making landfall along the Mexican Yucatan coast, or perhaps into 
+Belize. A look at temperatures today, 80s along the gulf coast. We're 
+expecting 40s to continue to creep in through the northern Rockies. 
+And as we head through the weekend, that colder weather will be sweeping 
+in through the upper midwest. 40s for highs through much of the northern 
+plains states on Saturday. Showers and thunderstorms in the southwest. 
+And some higher-elevation snows are expected as rain returns into 
+the pacific northwest, both Saturday and on into Sunday. Showers and 
+storms through the plains states on Sunday. And the colder weather 
+shifting to the east. It does remain in the southeast, though. Right 
+on into Monday, but the cooler temperatures will be filtering in then 
+as 30s affect parts of the northern midwest during the day on Monday. 
+For more weather information, including four-day forecasts for more 
+than 7,200 cities, log into CNN.com. 
+</TEXT>
+</DOC>

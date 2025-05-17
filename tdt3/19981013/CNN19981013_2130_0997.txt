@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981013.2130.0997 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a way to keep cool in traffic. A Milwaukee company says it 
+will install climate-controlled seats in luxury cars for the model 
+year 2000. Drivers can regulate the seat temperature by a switch on 
+the seat, the console or the door. The system will be controlled by 
+a small heat pump inside the seat. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981125.1130.0905 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Checking on our top stories -- if you're traveling today, expect big 
+crowds. Officials recommend giving yourself extra time to travel, 
+whether it be by plane, train or highway. Those traveling by road 
+can give thanks for lower gas prices this year. 
+</TEXT>
+</DOC>

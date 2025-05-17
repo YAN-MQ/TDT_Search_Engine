@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981230.2130.0424 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new study suggests it is often the doctor's fault when someone's 
+high blood pressure stays that way. They often don't switch appropriately 
+when a patient's blood pressure is too high. The study examined the 
+care of men at veterans hospitals in New England. The study concluded 
+doctors must accept responsibility for the problem. 
+</TEXT>
+</DOC>

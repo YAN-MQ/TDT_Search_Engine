@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981115.1600.0520 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the U.S. is next. And still ahead 
+-- earth's upcoming close encounter with a meteor shower. 
+</TEXT>
+</DOC>

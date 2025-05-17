@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> NYT19981226.0110 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Alfred Peter Wolf, a nuclear and organic chemist whose work at the 
+junction of chemistry and medicine helped create some of today's most 
+sophisticated diagnostic tools, died Dec. 17 at John T. Mather Hospital 
+in Port Jefferson, N.Y. He was 75 and lived in nearby Setauket. He 
+suffered a lengthy illness, according to Brookhaven National Laboratory, 
+where he was a senior chemist. He retired as chairman of the chemistry 
+department in 1987 but continued his laboratory work until earlier 
+this year. Through nearly five decades, Wolf, who was a member of 
+the National Academy of Sciences, advanced the field of organic radiochemistry, 
+radiopharmacology and nuclear medicine. He made his mark particularly 
+in the development of positron emission tomography, PET for short, 
+which is used to observe the inner workings of the brain and heart. 
+PET scans explore deep crevices to spot chemical processes responsible 
+for neurological diseases and can be used, for example, to reveal 
+which part of the brain is most active in performing certain tasks. 
+Much of his research was performed at Brookhaven, an arm of the federal 
+Department of Energy. ``Al's work laid the foundation for many of 
+the nuclear medicine and medical imaging procedures performed in the 
+world today, which help save thousands of lives each year and expand 
+our knowledge of our brains and our bodies,'' said a Brookhaven colleague, 
+Joanna Fowler. Wolf founded and led one of Brookhaven's largest interdisciplinary 
+collaborations, which remains a vital program. To set it up in the 
+1970s he called on experts from the fields of physics, computer science, 
+mathematics, medicine, physiology and biochemistry. His group scored 
+its big breakthrough in 1973 with discoveries that led to a procedure 
+now widely applied to measure such vital signs as glucose metabolism. 
+In 1976, group members developed a form of sugar _ fluorodioxyglucose 
+_ that researchers and doctors use to perform PET scans to determine 
+brain function and diagnose cancer and heart disease. His group also 
+developed a radiotracer, which, when injected into the body, acts 
+as a chemical beacon whose signals are picked up by imaging equipment 
+to track brain activity or the movement of a drug through the body. 
+Wolf was born in Manhattan and earned B.A., M.A. and Ph.D. degrees 
+in chemistry at Columbia University. He joined the Brookhaven staff 
+in 1951, and became a senior chemist in 1957 and department chief 
+in 1982. He also served as a research professor in the department 
+of psychiatry at New York University, and was affiliated with other 
+schools and institutions in the United States, Austria, Germany, Italy 
+and Sweden. Wolf is survived by a son, Roger O., of Los Angeles, and 
+two granddaughters. His wife, Elizabeth Gross Wolf, died last year; 
+the couple had been married 51 years. 
+</TEXT>
+</DOC>

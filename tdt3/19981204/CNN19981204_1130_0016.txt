@@ -1,0 +1,22 @@
+<DOC>
+<DOCNO> CNN19981204.1130.0016 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+First -- the labor department issued a better than expected report 
+on unemployment this morning. It said the nation's jobless rate dropped 
+.2% in November to 4.4%, a Six-month low. The government says employers 
+added 267,000 jobs last month. Holiday hiring at department stores 
+and a boom in construction offset layoffs in manufacturing. President 
+Clinton welcomed the news, but said more needs to be done. This is 
+not a time for self-congratulation or a time to rest. We have more 
+to do here at home and more to stabilize the global economy if we 
+expect growth to continue. We all know about the economic troubles 
+in Asia. We all see sectors of Americas steel industry being overwhelmed 
+by imports at fire sale prices. We have all read the headlines about 
+Boeing's layoffs because of Asian inability to pay for airplanes that 
+they have already ordered. The unemployment report set off a rally 
+in early trading on Wall Street. At this hour, looking at the Dow 
+Jones industrial average, it's up 110 points at 8990. 
+</TEXT>
+</DOC>

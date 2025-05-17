@@ -1,0 +1,51 @@
+<DOC>
+<DOCNO> NYT19981113.0419 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Saturday, Nov. 14: Chicago 
+has now joined New Orleans in a promising new legal offensive against 
+gun violence. On Thursday, Chicago's mayor, Richard Daley, filed a 
+$433 million lawsuit against 22 gun manufacturers, four gun distributors, 
+and 12 suburban stores. The suit charged them them with creating a 
+``public nuisance'' by knowingly flooding the city, which has some 
+of the nation's strictest gun control laws, with illegal weapons. 
+Chicago's lawsuit follows by just two weeks a related legal action 
+against the gun industry filed by New Orleans, based on different 
+legal grounds. The purpose of both suits, as well as stepped-up litigation 
+by individuals against gun makers, is to force a recalcitrant industry 
+to make its deadly product less accessible to criminals and children. 
+Spokesmen for the gun industry deny responsibility for gun violence 
+and deride the suits as a far-fetched attempt to duplicate the success 
+of the anti-tobacco litigation. They also threaten to use their political 
+muscle if, as expected, Philadelphia and other big cities follow up 
+with their own lawsuits _ overlooking the strong support for gun control 
+among voters. But as a legal matter, the weapons makers have good 
+reason to be worried. No one can say how the courts will respond to 
+the central premise of the Chicago case _ that gun manufacturers intentionally 
+saturate gun stores just outside city limits with more guns than the 
+lawful market could possible absorb, in order to supply a large and 
+profitable illegal market. But judges and juries are aware that gun 
+violence imposes heavy costs on urban America. They are also likely 
+to be impressed by evidence produced by undercover operatives that 
+criminals can easily buy guns at suburban stores for criminal acts 
+inside the Chicago city limits. Laurence Tribe, a Harvard Law School 
+professor who helped prepare some of the successful litigation against 
+the tobacco industry, suggests that the manufacturers' argument that 
+they are several steps removed from the actual sale of guns may not 
+be enough to escape liability. The suit filed by the mayor of New 
+Orleans, Marc Morial, takes a different legal approach, using the 
+traditional claim of product liability to try to hold the gun industry 
+accountable. By failing to incorporate feasible safety devices, Morial 
+argues, firearms manufacturers have made their product ``unreasonably 
+dangerous.'' The idea that a manufacturer's responsibility extends 
+beyond the gun's owner and intended users to unintended users, like 
+children, gives the case a certain novelty. But the principle that 
+a manufacturer can be held liable for damage caused by a product that 
+is ``unreasonably dangerous'' is solidly imbedded in Louisiana law. 
+The technology exists to make guns safer and to ``personalize'' a 
+weapon so that only its owner can fire it _ by, for instance, installing 
+a simple combination lock. It should not be necessary to sue the industry 
+to force it to meet its obligations. But so far nothing else has worked. 
+</TEXT>
+</DOC>

@@ -1,0 +1,106 @@
+<DOC>
+<DOCNO> NYT19981208.0315 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Call it focusing by spreading out. Tuesday's multibillion-dollar pact 
+between AT&AMP;T, the nation's largest communications carrier, and 
+IBM, the No. 1 computer company, was AT&AMP;T's fourth major deal 
+this year. In each, C. Michael Armstrong, who signed on as chairman 
+just 13 months ago, has moved his company into a new area of communications. 
+Since January, AT&AMP;T Corp. has agreed to spend more than $43 billion 
+in cash and stock to acquire a big local communications carrier and 
+the nation's No. 2 cable television operation. It also forged a $10 
+billion international joint venture with British Telecommunications 
+PLC. And now, in a deal that was hammered out under the code name 
+Project Double Helix, AT&AMP;T is set to spend $5 billion in cash 
+for one of the best global data-communications systems. While all 
+the deals might seem to be pulling AT&AMP;T in haphazard new directions, 
+the company has actually narrowed its business sharply in the last 
+few years. As recently as the early 1990s, AT&AMP;T was far more than 
+a communications company. It made telephones. It ran satellites. It 
+made computers. It sold credit cards. All those operations are now 
+gone _ and prospering after the spinoffs. Stock of NCR Corp., once 
+AT&AMP;T's computer arm, has vastly outperformed AT&AMP;T's shares 
+this year, and Lucent Technologies Inc., once AT&AMP;T's communications-equipment 
+unit, now has a market value larger than AT&AMP;T's. In their place, 
+the company has added units selected to advance a single mission: 
+providing communications services, though in a broader fashion than 
+at any time in AT&AMP;T's history. It is all part of a paradox of 
+the information age. Even as all sorts of high-technology products 
+seem set to converge into one digital service and one digital economy, 
+many of the companies that actually provide ``this stuff,'' as Unisys 
+Corp. has taken to calling it, are actually de-converging themselves, 
+zooming in on what they do best and shedding the rest. The market 
+certainly endorsed that concept Tuesday, and on a generally pessimistic 
+day for stocks. On the New York Stock Exchange, AT&AMP;T's shares, 
+the most widely owned in the nation, rose $2.25, to $67. Shares of 
+IBM, which hopes to sharpen its own focus by shedding its network, 
+rose $1, to $168.18. To people outside the technology world, the difference 
+between designing and running big communications systems (like AT&AMP;T) 
+on the one hand and making computers and running big data warehouses 
+(like IBM) on the other might not seem much of a difference at all. 
+But they are essentially separate industries. ``I very much believe 
+that technology is promoting the convergence of communications, of 
+computing, information, of entertainment, of data,'' Armstrong said 
+Tuesday in a telephone interview. But in the next breath, he added: 
+``It's a matter of being able to deploy resources. The growth of the 
+industry is so great that no company could encompass all the elements.'' 
+That realization had dawned on both parties to the sale. By selling 
+its communications grid, IBM will get out of a business that just 
+a few years ago it saw as vital. Instead, Big Blue will concentrate 
+on consulting and making and managing big computers. AT&AMP;T will 
+serve not only IBM's existing communications customers but IBM's corporate 
+communications needs as well. Likewise, while AT&AMP;T agreed to acquire 
+IBM's network for $5 billion, it also agreed to turn over to IBM more 
+than 2,000 of its own employees and to hire IBM to handle its software 
+operations and to run its massive computer centers, which handle millions 
+of customer records. Those are corporate functions that for decades 
+AT&AMP;T insisted on performing in-house. People involved in the deal 
+said that the code name Project Double Helix was meant to convey a 
+perfect fit. But it could also convey an unraveling and recombination 
+of the companies' basic blueprints. Armstrong said Tuesday that AT&AMP;T 
+had been planning for several years to outsource its computer operations, 
+but the prospect of winning the auction for IBM's network accelerated 
+those plans, at least partially. ``We've come full circle,'' said 
+Howard Anderson, managing director of the Yankee Group, a technology 
+consulting firm in Boston. ``It was only four years ago that AT&AMP;T 
+was offering to manage your data center and IBM was offering to manage 
+your network. Now it's stick to your knitting. Both companies have 
+pretty much grown out of the idea that they can be in the other guy's 
+business and be all things to all people. IBM knows more about running 
+computers, and no one knows more about running networks than AT&AMP;T.'' 
+IBM also faced the prospect of spending millions, perhaps billions, 
+to keep its network current with the latest advances in Internet-based 
+data communications. At one time making big bets like that made sense 
+for IBM. When the computer giant began assembling its network in the 
+late 1970s, there was no such thing as a global data communications 
+network. National phone monopolies prevented companies from moving 
+into each other's territory. IBM, however, had deployed mainframe 
+computers all over the world for big corporations, and those corporations 
+wanted those computers to communicate with one another. So IBM patched 
+together a network of its own, relying on as many as 1,000 phone companies 
+around the world for the transmission of information from one point 
+to another. Philip Carden, a consultant for Renaissance Worldwide, 
+a consulting firm based in Boston, said that IBM served an essential 
+function (and could charge for it) in getting all of the world's different 
+network languages to work together. But now, as deregulation frees 
+big phone companies to expand around the globe and as the world moves 
+toward relatively simple data communications standards based on the 
+Internet, it makes less sense for IBM to invest in upgrading its systems 
+At a news conference Tuesday, IBM Chairman Louis Gerstner Jr., said: 
+``We decided, in a sense, we don't want to compete with our customers, 
+and it doesn't make sense for us to make that investment when the 
+telecommunications companies whose core competencies it is are going 
+to make it. Building networks and managing networks are not our core 
+competency.'' John McKinley, chief technology officer for Merrill 
+Lynch &AMP; Co., can certainly understand that reasoning. Merrill 
+Lynch is just the sort of big corporate customer that every high-technology 
+company wants for a client _ and it uses IBM to manage its computer 
+centers and AT&AMP;T to manage its communications network. ``When 
+you think about succeeding today in the service economy, you need 
+scale and you need specialization,'' McKinley said. ``I think this 
+latest transaction lets both IBM and AT&AMP;T enhance their core competencies. 
+I think it gives them more focus.'' 
+</TEXT>
+</DOC>

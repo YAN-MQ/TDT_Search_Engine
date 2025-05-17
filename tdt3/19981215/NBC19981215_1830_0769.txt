@@ -1,0 +1,8 @@
+<DOC>
+<DOCNO> NBC19981215.1830.0769 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Chris Hansen's report tonight on "Dateline" at 10:00, :00 central. 
+</TEXT>
+</DOC>

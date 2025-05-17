@@ -1,0 +1,33 @@
+<DOC>
+<DOCNO> ABC19981117.1830.0276 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+So, "on the money" tonight -- also from Washington, the federal reserve 
+has done it again. For the third time in seven weeks, the discount 
+rate -- which is what the central bank charges commercial banks for 
+overnight loans -- was cut 0.25% to 4.5%. and the federal funds rate 
+was also cut 0.25%, to 4.75%. that's the rate that commercial banks 
+are allowed to charge one another for overnight loans. What does it 
+mean? Here is ABC's Bob Jamieson. Analysts said the decision by chairman 
+Alan Greenspan and other federal reserve policymakers was a close 
+call, because the economy is still growing steadily, and unemployment 
+remains low. But the fed is worried about the continuing impact of 
+Asia's economic troubles -- particularly on U.S. manufacturers, which 
+are selling less overseas and cutting jobs. Manufacturing has seen 
+declines in its job creation over the last seven months. And they're 
+operating at levels that are close to recessionary. I think the fed 
+wanted to make sure that this problem didn't spread throughout the 
+economy. And while the credit crunch that prevented many businesses 
+from borrowing earlier in the fall has begun to ease, the rate cut 
+should ensure that companies can get banks and the bond market to 
+give them the money they need to expand and create new jobs. The fed 
+move had little effect on the stock market. It lost almost 25 points 
+for the day. But since the fed's sudden, second rate cut in October, 
+the market has not only stabilized, but the Dow Jones industrial average 
+has gained almost 18%. One thing today's federal reserve action is 
+not likely to help is the interest rates on mortgages. There is so 
+much demand now for mortgages and refinancing that those rates may 
+remain unchanged. Bob Jamieson, ABC News, New York. 
+</TEXT>
+</DOC>

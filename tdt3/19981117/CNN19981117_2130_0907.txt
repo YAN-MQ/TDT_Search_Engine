@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981117.2130.0907 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+the federal reserve has reduced short-term interest rates by .25%. 
+the move helped spur a buying spree on Wall Street. It is the third 
+cut since the end of September. 
+</TEXT>
+</DOC>

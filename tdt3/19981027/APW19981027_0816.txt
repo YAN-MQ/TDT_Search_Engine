@@ -1,0 +1,46 @@
+<DOC>
+<DOCNO> APW19981027.0816 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+___ NATIONAL FOOTBALL CONFERNECE Quarterbacks Att Com Yds TD Int Cunningham, 
+Min. 162 96 1427 14 2 S. Young, S.F. 270 165 2249 20 5 Beuerlein, 
+Car. 102 66 806 4 3 Garrett, Dal. 144 85 1151 5 3 Chandler, Atl. 153 
+80 1302 10 6 Kramer, Chi. 250 151 1823 9 7 Favre, G.B. 252 153 1850 
+14 12 Batch, Det. 150 86 992 5 3 T. Green, Was. 185 102 1352 7 7 Kanell, 
+NY-G 223 123 1225 10 8 ___ Rushers Att Yds Avg LG TD Sanders, Det. 
+155 765 4.9 73t 4 R. Smith, Min. 143 699 4.9 74t 4 J. Anderson, Atl. 
+165 690 4.2 42 4 E. Smith, Dal. 142 607 4.3 32 4 Hearst, S.F. 129 
+604 4.7 96t 3 Allen, Was. 124 570 4.6 26 2 Enis, Chi. 115 421 3.7 
+29 0 Murrell, Ariz 119 415 3.5 28 3 Dunn, T.B. 91 400 4.4 43t 1 Lane, 
+Car. 99 373 3.8 31 1 ___ Receivers No Yds Avg LG TD Moore, Det. 43 
+432 10.0 25t 1 Freeman, G.B. 38 627 16.5 84t 6 Irvin, Dal. 38 578 
+15.2 38 0 Sanders, Ariz 37 368 9.9 23 1 Morton, Det. 36 511 14.2 98t 
+2 Rice, S.F. 35 563 16.1 66t 4 Muhammad, Car. 34 530 15.6 72t 3 Carter, 
+Min. 34 487 14.3 41 6 Ismail, Car. 33 512 15.5 56t 4 Centers, Ariz 
+33 219 6.6 19 0 ___ Punters No Yds LG Avg Maynard, NY-G 49 2266 63 
+46.2 Royals, N.O. 46 2125 64 46.2 M. Turk, Was. 37 1683 69 45.5 Gowin, 
+Dal. 34 1513 65 44.5 Jett, Det. 25 1109 56 44.4 Landeta, G.B. 32 1398 
+72 43.7 Hutton, Phi. 45 1915 60 42.6 Tuten, St.L 44 1872 64 42.5 Roby, 
+S.F. 23 977 66 42.5 Horan, Chi. 24 1019 52 42.5 ___ Punt Returners 
+No Yds Avg LG TD Green, T.B. 9 228 25.3 95t 1 Hastings, N.O. 12 190 
+15.8 76 0 Milburn, Chi. 15 229 15.3 93t 1 Palmer, Min. 14 192 13.7 
+53 0 Sanders, Dal. 18 244 13.6 60 1 Mitchell, Was. 18 210 11.7 37 
+0 Kennison, St.L 24 254 10.6 71t 1 Toomer, NY-G 18 170 9.4 39 0 Preston, 
+G.B. 20 187 9.4 71t 1 Williams, T.B. 9 76 8.4 18 0 ___ Kickoff Returners 
+No Yds Avg LG TD Preston, G.B. 26 792 30.5 101t 2 Fair, Det. 23 700 
+30.4 105t 2 Dwight, Atl. 24 635 26.5 93t 1 Anthony, T.B. 22 562 25.5 
+60 0 Milburn, Chi. 32 784 24.5 88t 1 Palmer, Min. 16 390 24.4 43 0 
+Mathis, Dal. 21 492 23.4 38 0 Bates, Car. 34 789 23.2 51 0 Patten, 
+NY-G 23 529 23.0 49 0 Rossum, Phi. 15 333 22.2 34 0 ___ Scoring Touchdowns 
+TD Rush Rec Ret Pts Carter, Min. 6 0 6 0 36 Freeman, G.B. 6 0 6 0 
+36 R. Moss, Min. 6 0 6 0 36 R. Smith, Min. 6 4 2 0 36 Owens, S.F. 
+5 1 4 0 30 Stokes, S.F. 5 0 5 0 30 Rice, S.F. 4 0 4 0 28 Hearst, S.F. 
+4 3 1 0 26 11 tied 24 ___ Kicking PAT FG LG Pts Anderson, Min. 28-28 
+15-15 50 73 Jaeger, Chi. 15-16 13-16 52 54 Cunningham, Dal. 19-19 
+11-14 54 52 Hanson, Det. 15-15 12-13 49 51 Longwell, G.B. 21-22 10-10 
+41 51 Andersen, Atl. 20-21 9-10 53 47 Richey, S.F. 22-23 8-13 43 46 
+Daluiso, NY-G 17-17 9-11 46 44 Brien, N.O. 11-11 10-10 56 41 Wilkins, 
+St.L 14-14 9-11 57 41 
+</TEXT>
+</DOC>

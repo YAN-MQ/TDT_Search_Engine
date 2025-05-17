@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981130.2130.0929 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Top stories -- authorities are implementing a national system of mandatory 
+instant background checks on all people who want to buy guns. It replaces 
+the voluntary checks state and local law enforcement agencies have 
+conducted since 1993. 
+</TEXT>
+</DOC>

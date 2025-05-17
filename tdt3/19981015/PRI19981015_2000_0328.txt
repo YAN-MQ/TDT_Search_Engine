@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981015.2000.0328 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+On Wall Street today, the Dow Jones Industrial average gained 331 
+points to close at 8,299. Advances led declines by four to one in 
+heavy trading. 
+</TEXT>
+</DOC>

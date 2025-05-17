@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> PRI19981102.2000.0219 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock prices closed higher today on Wall Street and the Dow Jones 
+Industrial Average gained 114 points to close at 8706. Advancers led 
+declines by more than 2-to-1 in heavy trading. 
+</TEXT>
+</DOC>

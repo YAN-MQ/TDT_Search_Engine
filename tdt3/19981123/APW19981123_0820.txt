@@ -1,0 +1,31 @@
+<DOC>
+<DOCNO> APW19981123.0820 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Wealthy and developing countries must come to agreement on a fair 
+method for determining how much they pay each other for international 
+phone calls, the future chief of the U.N. telecommunications agency 
+said Monday. The dispute over the ``accounting rate system'' is one 
+of the one of the major topics which needs to be resolved, said Yoshio 
+Utsumi, designated new director general of the International Telecommunications 
+Union. Industrialized countries complain that they have to pay developing 
+countries too much for receiving international calls. Costs must be 
+linked to the actual cost of the call, Utsumi, who takes over Feb. 
+1, told a news conference. The originating company charges the caller 
+making the long-distance call and then has to pay a portion of the 
+fee to the receiving country for making the connection to its customer. 
+Until now, the charges were weighted to help the developing world 
+improve its telecommunications facilities, Utsumi said. ``The direction 
+in which we all have to go is to cost-based charges, but we need some 
+time to adjust to that,'' said Utsumi. The 56-year-old, who is deputy 
+minister of the Japanese Ministry of Posts and Telecommunications, 
+also stressed the importance of involving private companies in the 
+ITU as more and more countries privatize their systems and open them 
+up to competition. The importance of combating the Millennium Bug 
+could not be emphasized too much, added Utsumi. Computer programmers 
+are scrambling to avert disaster on New Year's Day 2000 when computer 
+systems may fail because they only recognize the last to digits of 
+a year and assume it is 1900. 
+</TEXT>
+</DOC>

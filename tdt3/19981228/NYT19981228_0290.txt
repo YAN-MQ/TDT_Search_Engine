@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> NYT19981228.0290 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST A complex weather pattern will evolve over the East 
+on Tuesday, bringing snow to portions of the interior Northeast later 
+Tuesday and Tuesday night. During the daytime, snow will accompany 
+low pressure traversing the northern Great Lakes with over 6 inches 
+of new snow likely in parts of Michigan's upper peninsula. Meanwhile, 
+patches of lighter snow or rain will occur farther south over the 
+southern Great Lakes and upper Ohio Valley. A potent jet-stream disturbance 
+crossing the Southeast will produce low pressure near the Middle Atlantic 
+coast Tuesday afternoon. As the low strengthens, showers will develop 
+from northern Florida to the eastern Carolinas. Isolated thunderstorms 
+will also ignite over the region as the disturbance interacts with 
+humid Atlantic air. By Tuesday night, the Middle Atlantic low will 
+combine with the low crossing the Great Lakes, setting the stage for 
+heavy snow Tuesday night and Wednesday across interior New England. 
+Brisk winds from the northwest will direct bitterly cold air into 
+the upper Mississippi Valley on Tuesday with dangerously low wind-chill 
+values near the Canadian border. Farther south, dry and mild air will 
+cover the southern Plains and Texas. A steady stream of Pacific moisture 
+will bring heavy rain to the Northwest coast while intermittent lighter 
+showers occur east of the Cascades. As the moist plume of air is further 
+cooled upon intercepting the higher terrain, heavy snow will fall 
+along the west-facing slopes of the northern Cascades and Bitterroots. 
+Meanwhile, southern California will be sunny and warm. Focus: Squeezing 
+the Wind High wind warnings were posted Monday for the Guadalupe Pass 
+in the mountains of western Texas as steady winds of 40 mph with gusts 
+in excess of 60 mph swept through the region. One driving force for 
+the powerful winds was the circulation around an expansive and persistent 
+high-pressure system centered over Nevada and Utah. Another important 
+contributing factor was the lie of the land. Air coursing through 
+mountain passes accelerates as its flow is constricted, much like 
+toothpaste squirting from a tube that is squeezed too tightly. 
+</TEXT>
+</DOC>

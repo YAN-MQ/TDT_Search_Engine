@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981123.1130.1303 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Vikings clinched a playoff berth after walloping green bay, 28-14. 
+Randy Moss terrorized the Packers secondary with eight catches for 
+153 yards, including a 49-yard td strike. 
+</TEXT>
+</DOC>

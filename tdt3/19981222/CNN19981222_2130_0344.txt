@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981222.2130.0344 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Vice President Al Gore visited families of troops serving in the Persian 
+gulf and elsewhere. Mr. Gore flew to Norfolk, Virginia, today to meet 
+privately with the families before giving a speech. Defense secretary 
+William Cohen is heading to he Persian gulf region to visit troops 
+there. 
+</TEXT>
+</DOC>

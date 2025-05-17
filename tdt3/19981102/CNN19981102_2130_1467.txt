@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981102.2130.1467 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+an australian company says it has come up with the ultimate shark-repellant 
+device. shark safe works by sending an electric pulse that causes 
+muscle cramps in sharks. the inventor says testing shows it works 
+in extreme conditions with the most aggressive sharks. the company 
+plans to sell shark safe to surfers, body boarders and users of other 
+watercraft. production begins early next year. 
+</TEXT>
+</DOC>

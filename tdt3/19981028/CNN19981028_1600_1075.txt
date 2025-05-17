@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981028.1600.1075 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Sprint is delaying a planned ipo for its wireless PCs unit due to 
+unfavorable market conditions. The ipo by the number-three, long-distance 
+provider was expected to raise $600 million. The move delays Sprint's 
+plan to take ownership and management control of the PCs unit from 
+its partners, telecommunications, Inc. And Comcast. Sprint says it 
+still plans on going ahead with the stock offering in the future. 
+Sprint shares lost 1 13/16. 
+</TEXT>
+</DOC>

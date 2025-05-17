@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981216.0130.0355 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The crew of space shuttle "endeavour" is back on Terra firma at the 
+Kennedy space center in Florida. This was only the 10th time since 
+1981 that the shuttle has landed at night. The go-ahead for the landing 
+had been in question because clouds and rain were passing over Florida. 
+During the nearly 12-day mission, the astronauts made three space 
+walks to work on the international space station. NASA says there 
+will be 35 more shuttle flights over the next five years to complete 
+the station. 
+</TEXT>
+</DOC>

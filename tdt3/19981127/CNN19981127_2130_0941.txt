@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981127.2130.0941 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Shoppers invaded the nation's stores in droves today. On the top of 
+many lists was furby, the furry talking doll. It's believed to be 
+this year's hot toy. 
+</TEXT>
+</DOC>

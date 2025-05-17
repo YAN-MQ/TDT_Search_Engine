@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981201.0130.1300 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Orioles have reportedly signed Albert Belle to a five-year deal 
+worth $65. -- $65 million. 
+</TEXT>
+</DOC>

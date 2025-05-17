@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981225.1600.0264 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In her annual Christmas message, queen Elizabeth called for more understanding 
+between young and old people. Her broadcast had a new look this year. 
+It began with video footage of the royal family around a Christmas 
+tree and continued with scenes from the royal year. 
+</TEXT>
+</DOC>

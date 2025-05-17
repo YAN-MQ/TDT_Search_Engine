@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981023.2130.0983 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street's seven-day upward streak ended today. Analysts say sagging 
+technology stocks may have been partially responsible. The Dow Jones 
+industrial average closed down nearly 81 points at 8452. 
+</TEXT>
+</DOC>

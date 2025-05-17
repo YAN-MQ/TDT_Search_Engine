@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> NBC19981104.1830.0880 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back to the election now and the economy the day after the election, 
+Wall Street rallied. The Dow Jones industrials closed up 77 points. 
+The NASDAQ gained 35 points. 
+</TEXT>
+</DOC>

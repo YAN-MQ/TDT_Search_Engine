@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981117.1130.1330 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Last night in Anaheim, guy hebert came within four minutes of his 
+second consecutive shutout, while Travis green scored his first goal 
+of the season. The mighty ducks defeated the struggling L.A. kings, 
+3-1. 
+</TEXT>
+</DOC>

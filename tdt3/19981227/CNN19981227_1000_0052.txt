@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981227.1000.0052 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+About 45 million people hit the road, or the skies, for the holidays 
+this year. And with Christmas weekend now winding down, many will 
+begin to make the trek home. Traffic should begin to intensify today 
+at airports, train stations and on the highways, and will likely remain 
+heavy all week. It could be especially rough going at the nation's 
+airports on Wednesday, when the air transport association estimates 
+1.74 million passengers will fly. Another 1.5 million will wait until 
+new year's eve to make their trip. And 1.62 million will hold off 
+until new year's day. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981029.1830.0672 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Canada, investigators say they have found heat-damaged wiring in 
+the area near the cockpit of the Swissair flight that went down last 
+month. Some of the wiring is from the inflight entertainment system. 
+As a precautionary measure, Swissair has disconnected the systems 
+on its other planes that have it. 
+</TEXT>
+</DOC>

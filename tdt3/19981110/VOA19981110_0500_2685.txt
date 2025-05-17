@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> VOA19981110.0500.2685 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+Stock prices in Europe are mostly lower today. That follows a trend 
+that started yesterday. The Financial Times 100 and the CAC40 in Paris, 
+they're both down about one percent. The German DAX closer to two 
+percent off. 
+</TEXT>
+</DOC>

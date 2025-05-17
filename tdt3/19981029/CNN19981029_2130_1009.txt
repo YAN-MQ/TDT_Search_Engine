@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981029.2130.1009 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Some news brewing in the beer industry -- according to the Milwaukee 
+journal "Sentinel," pabst brewing company is negotiating to buy detroit-based 
+stroh's brewery. Under the deal, pabst reportedly would takeover production 
+of stroh's best know brands and sell some others to Miller, the nation's 
+number-two brewery. If the deal goes through, pabst is likely to close 
+most of stroh's seven breweries. So far, however, stroh's says it 
+has not entered into an agreement. 
+</TEXT>
+</DOC>

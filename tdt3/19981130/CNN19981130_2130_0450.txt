@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981130.2130.0450 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This time, the IRS got the audit. The general accounting office released 
+a study today involving visits to several IRS service centers nationwide 
+during the peak filing period in april. Investigators found problems 
+such as using unarmed bicycle couriers to deliver millions of dollars 
+in taxpayer checks, and the hiring of some employees before background 
+checks were complete. While the IRS commissioner "generally agreed" 
+with the results. He says the agency already is working to stop security 
+weaknesses. 
+</TEXT>
+</DOC>

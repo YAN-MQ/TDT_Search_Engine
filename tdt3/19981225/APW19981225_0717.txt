@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> APW19981225.0717 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A trader with a Chicago-based company lost more than dlrs 8 million 
+in an unauthorized transaction on a London financial exchange, The 
+Independent reported Saturday. The London International Financial 
+Futures and Options Exchange, known as LIFFE, has warned its members 
+not to trade with Griffin Trading Co., the newspaper said. It said 
+the company was in default, meaning it may not be able to meet its 
+debt, following the transaction. The newspaper did not give an exact 
+figure for the losses, say when the deal took place or provide any 
+details on the trader. Griffin Trading was closed for Christmas on 
+Friday, and officials did not immediately return a message. ``What 
+is known is there was a trader in London that cleared through Griffin's 
+... and that person substantially exceeded their trading parameters 
+and resulted in a very large loss,'' The Independent quoted Ty Fahner, 
+chairman of London law firm Mayer Brown and Platt, as saying. Quoting 
+unidentified sources, the newspaper said the trader had lost the money 
+on German derivatives, a complex and high-risk financial instrument. 
+LIFFE is one of Europe's largest derivatives markets. The newspaper 
+said it declined to comment. In 1995, trader Nick Leeson lost dlrs 
+1.38 billion speculating on Asian stock markets from his base in Singapore. 
+His rogue trades brought down Barings, Britain's oldest merchant bank. 
+</TEXT>
+</DOC>

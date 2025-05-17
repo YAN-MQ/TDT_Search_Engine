@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981208.1600.0989 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Revenue growth for U.S. manufacturers will slow in 1999 according 
+to the national association of purchasing management. The group conducts 
+surveys twice a year to project growth in manufacturing and nonmanufacturing 
+sectors of the economy. 
+</TEXT>
+</DOC>

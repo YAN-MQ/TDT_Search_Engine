@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981014.0130.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+And the national basketball association has canceled two weeks of 
+regular season games because of a labor dispute. Players and owners 
+are arguing over rising salaries. More on these and other top stories 
+in 15 minutes. 
+</TEXT>
+</DOC>

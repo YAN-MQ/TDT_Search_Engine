@@ -1,0 +1,28 @@
+<DOC>
+<DOCNO> NYT19981110.0403 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The executive who has led Microsoft Corp.'s difficult foray into the 
+world of interactive media and Internet content is taking a leave, 
+and the company said Tuesday that he would return to a different job 
+next year. Pete Higgins, 40, vice president of the Interactive Media 
+Group at Microsoft since late 1996, has been one of the closest lieutenants 
+of William Gates, the chairman. But his most recent assignment, to 
+try to make the company a dominant player in the world of new media, 
+has had disappointing financial results. Microsoft executives stressed 
+that Higgins' decision to take a leave was a personal one. In a statement, 
+Higgins said he had decided to take time off to spend more time with 
+his family. ``I look forward to coming back and immersing myself in 
+the next challenge,'' he said. Several analysts said, however, that 
+the company had continued to struggle in its effort to gain financial 
+momentum in several content areas. The Interactive Media Group has 
+also gone through shake-ups and has had some layoffs. In September, 
+the company reorganized its Internet business under a single brand 
+strategy based on its MSN label. Despite heavy investment, however, 
+the company has stopped giving out numbers on its subscriber base 
+for the MSN service. Higgins was originally the product manager for 
+the company's popular Excel spreadsheet program and later oversaw 
+the growth of the company's integrated Office suite of applications. 
+</TEXT>
+</DOC>

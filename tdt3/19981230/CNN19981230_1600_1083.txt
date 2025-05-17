@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981230.1600.1083 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A major legal victory for Playboy's cable TV operations. A three-judge 
+federal panel ruled that a law requiring adult cable television networks 
+to completely block their signals to nonsubscribers was unconstitutional. 
+The ruling brings to an end a 2 1/2 year battle over the communications 
+decency act, part of the landmark telecommunications law of 1996. 
+</TEXT>
+</DOC>

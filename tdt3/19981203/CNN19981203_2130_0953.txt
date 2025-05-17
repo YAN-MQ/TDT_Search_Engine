@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981203.2130.0953 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Trouble in braise ilian financial markets spilled over into Wall Street 
+today. It sent stocks tumbling. The Dow Jones dropped 184, about 2%, 
+to close at 8879. 
+</TEXT>
+</DOC>

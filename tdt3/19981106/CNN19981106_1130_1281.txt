@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981106.1130.1281 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hockey last night, and a wacky one in New York. After trailing 3-0 
+in the first period, the hurricanes scored six unanswered goals to 
+wipe out the Islanders, 6-3. Trevor Kidd picked up his first win of 
+the season. 
+</TEXT>
+</DOC>

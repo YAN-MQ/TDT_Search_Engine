@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> MNB19981105.2100.2751 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A robust day for the Dow, up over 130 points on Wall Street. NasDAQ 
+up as well today. 
+</TEXT>
+</DOC>

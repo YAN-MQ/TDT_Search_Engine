@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981225.1600.0980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A large U.S. securities firm teaming up with one of Japan's top insurance 
+companies. I'm Myron Kandel in New York with this edition of "Dollars 
+& Sense." It may be Christmas, but there's still some deal making 
+in the world of business, PaineWebber is forming a joint business 
+with a Japan company. The two companies plan to start selling funds 
+in Japan in April. They own an 8% stake in PaineWebber. 
+</TEXT>
+</DOC>

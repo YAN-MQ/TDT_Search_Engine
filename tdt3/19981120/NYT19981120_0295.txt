@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> NYT19981120.0295 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST A surge of chilly air into the Northeast will be 
+accompanied by snow showers from western New York to central Maine. 
+A band of squalls may bring a few inches to communities along the 
+eastern end of Lake Ontario. Clouds will break along the north Atlantic 
+coast as brisk winds descend the Appalachians. Expansive high pressure 
+will control the weather over most of the eastern half of the nation. 
+It will be mainly sunny and cooler in the Southeast. After a frosty 
+morning, afternoon readings will return to seasonal levels in the 
+Ohio and Tennessee valleys. Clouds and scattered showers will mark 
+a stalled front in the Deep South. The leading edge of cooler air 
+will reach into northern Florida, but the southern half of the state 
+will remain sultry. A disturbance at 20,000 feet over southern Texas 
+will produce a plume of high clouds across the western and central 
+Gulf states. Periods of light rain will dampen the Rio Grande Valley. 
+Very mild weather will spread across the Rockies and into the Plains. 
+Readings will rise toward record levels in eastern Colorado, Nebraska 
+and Kansas. Farther north, clouds will keep readings closer to seasonal 
+values. Winds will gust over 40 mph from Montana to Minnesota. Gales 
+and heavy rain will drench the Northwest coast from northernmost California 
+to the Olympic peninsula. Showers will spread across the interior 
+sections as a vigorous cold front pushes inland. The Southwest will 
+stay bright and warm with very mild air reaching into southern California 
+and Arizona. Focus: Winter Arrives The mercury fell to 5 below zero 
+at Fargo, N.D., on Friday morning and to 9 below at Grand Forks, N.D. 
+This marked the first widespread subzero readings away from the higher 
+elevations of the West this season. A deep snow cover helped chill 
+the surface air. In a typical November, the temperature falls below 
+zero twice in Fargo. Most winters bring 50 days with subzero readings 
+in the north country, but below-zero values have been measured as 
+late as April in Fargo. A stiff wind from the southwest will draw 
+much warmer air into the Dakotas this weekend. 
+</TEXT>
+</DOC>

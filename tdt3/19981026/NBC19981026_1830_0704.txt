@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981026.1830.0704 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With just over a month to go in the hurricane season, the latest storm, 
+hurricane Mitch has become the most powerful storm of the season. 
+Mitch has swept past Jamaica and the cayman islands and now, a category 
+5 with winds of 170 miles an hour, is bearing down on the Yucatan 
+peninsula and the central American nation of Honduras. 
+</TEXT>
+</DOC>

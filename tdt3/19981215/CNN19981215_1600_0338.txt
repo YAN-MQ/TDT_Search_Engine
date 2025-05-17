@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981215.1600.0338 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+European researchers say sunscreen may actually increase the risk 
+of developing skin cancer. They conducted a survey of 631 children 
+and found those who used sunscreen most often were the ones with the 
+more cancer-predicting moles. But don't put away the sunblock yet. 
+Researchers say it's probably the result of people thinking they can 
+stay in the sun longer because they're using sunscreen. Researchers 
+say sunscreen, protective clothing and less exposure are the best 
+things against skin cancer. 
+</TEXT>
+</DOC>

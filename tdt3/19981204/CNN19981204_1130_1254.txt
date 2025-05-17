@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981204.1130.1254 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Rob Ticktin, "CNN Headline Sports." Lou Holtz has been hired to replace 
+Brad Scott as the head coach of South Carolina. There was a last-minute 
+snag that healed up negotiations, but the two sides have worked it 
+out. A press conference has been called for 2:30, eastern. 
+</TEXT>
+</DOC>

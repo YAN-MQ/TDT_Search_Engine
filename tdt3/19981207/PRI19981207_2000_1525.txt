@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> PRI19981207.2000.1525 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+High times on Wall Street today. The Dow Jones Industrials closed 
+up 54 points at 9070. The NASDAQ closed up to 38 points to 2041. 
+</TEXT>
+</DOC>

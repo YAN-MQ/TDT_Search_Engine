@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981022.1600.0946 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Floodwaters in much of Texas are receding, but they're still rising 
+southwest of Houston. A series of rainstorms has deluged the area. 
+26 people have been killed. 
+</TEXT>
+</DOC>

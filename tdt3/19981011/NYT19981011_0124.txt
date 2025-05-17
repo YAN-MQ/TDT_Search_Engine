@@ -1,0 +1,48 @@
+<DOC>
+<DOCNO> NYT19981011.0124 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Computer rankings of college teams based on games through Oct. 11: 
+RANK...TEAM......LAST....RECORD...AVG......RATING...OPPONENTS....OPP 
+ONENTS .................WEEK............VICTORY.............RECORD(x)...... 
+AVG .................................MARGIN...........................VI 
+CTORY ..................................................................MA 
+RGIN(x) 1...Ohio State......1.....5-0-0....29.4.....1.000.....17-5-0.......13.3 
+2...UCLA............5.....4-0-0....23.0.....0.876.....13-7-0........ 
+6.1 3...Kansas State....4.....5-0-0....47.0.....0.853....13-10-0........4.6 
+4...Tennessee.......7.....5-0-0....13.2.....0.839.....14-8-0........ 
+9.9 5...Virginia Tech...3.....5-0-0....23.2.....0.831.....14-7-0.......12.0 
+6...Florida State...6.....5-1-0....14.5.....0.793.....19-9-0........7.1 
+7...Oregon.........14.....5-0-0....30.6.....0.792....11-13-0.......- 
+3.2 8...Nebraska........2.....5-1-0....21.5.....0.776.....18-9-0........ 
+7.8 9...Georgia Tech...22.....4-1-0....19.6.....0.763.....13-9-0........1.2 
+10..Florida........21.....5-1-0....17.0.....0.754.....18-9-0........ 
+4.7 11..Virginia.......18.....5-0-0....19.0.....0.743....11-13-0.......- 
+4.7 12..Texas A&AMP;M......30.....5-1-0.....9.8.....0.740....17-12-0........8.8 
+13..Wisconsin......19.....6-0-0....24.0.....0.721....10-17-1.......- 
+3.4 14..Arkansas.......12.....5-0-0....21.0.....0.715.....8-14-0.......- 
+4.8 15..Air Force......20.....5-1-0....28.3.....0.700....13-15-0.......-2.9 
+16..Missouri.......15.....4-1-0....14.2.....0.698.....13-9-0.......1 
+0.2 17..Colorado........8.....5-1-0.....8.7.....0.689....15-12-0........ 
+9.4 18..Texas..........23.....4-2-0....10.2.....0.682....15-10-0.......1 
+1.4 19..Michigan State.33.....3-3-0.....1.2.....0.680.....19-7-0.......11.5 
+20..Texas Tech.....31.....6-0-0....14.0.....0.679.....9-16-0.......-2.9 
+21..Wyoming........17.....4-1-0.....4.2.....0.671.....14-9-0........ 
+8.0 22..Notre Dame.....23.....4-1-0.....6.4.....0.663....11-13-0........0.6 
+23..USC............12.....4-2-0.....8.2.....0.657....18-10-0........ 
+5.8 24..Penn State.....28.....4-1-0....14.2.....0.656.....12-8-0........8.2 
+25..West Virginia..11.....4-1-0....15.8.....0.652.....9-13-0.......-0.3 
+The New York Times' computer football ranking is based on an analysis 
+of each team's scores with emphasis on three factors: who won, by 
+what margin and against what quality of opposition. The quality of 
+an opponent is determined by examining its record against other teams. 
+The Times' computer model collapses runaway scores and takes note 
+of a home-field advantage. Recent games count more than earlier games. 
+The top team is assigned a rating of 1.000; the ratings of all other 
+teams are percentages reflecting their strength relative to the top 
+team. This week, for example, there is a very large difference Ohio 
+State (1) and UCLA (2), and a much smaller difference between Tennessee 
+(4) and Virginia Tech (5). 
+</TEXT>
+</DOC>

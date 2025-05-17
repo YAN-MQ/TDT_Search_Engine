@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981125.0130.0957 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A group that keeps an eye on American banking policies says it has 
+spotted a disturbing trend in loans for minorities. The national community 
+reinvestment coalition says, while lending policies have improved 
+in recent years, minorities often are approved for subprime loans 
+with higher interest rates. A spokeswoman for the American bankers 
+association says lenders are making a concerted effort to serve minorities. 
+</TEXT>
+</DOC>

@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981228.1600.1057 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+For holiday shoppers, it was the mouse that roared. Holiday sales 
+grew at an estimated 3.5% from last year. But published reports say 
+online sales boosted an otherwise disappointing season. Cybersales 
+more than tripled from a year ago. Some retail web sites were overwhelmed 
+by holiday shoppers. Some sites, like Barnes & Noble and ebay, even 
+slowed or crashed under heavy traffic. Overall sales figures were 
+somewhat short of expectations, but many shoppers are planning to 
+make additional purchases this week, with many items slated for postholiday 
+markdowns. 
+</TEXT>
+</DOC>

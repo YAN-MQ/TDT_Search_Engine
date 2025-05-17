@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981108.1000.1364 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Gil Morgan leads by one stroke and Bob 28 leads the pack going into 
+sunday's round. 
+</TEXT>
+</DOC>

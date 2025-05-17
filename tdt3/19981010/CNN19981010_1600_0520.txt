@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981010.1600.0520 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney from the CNN weather center with your "Headline 
+News weather update." Three areas of low pressure will play in the 
+forecast for Sunday. One low pressure system in the northeast will 
+be moving off the eastern seaboard. Another area of low pressure will 
+move out of the Rockies and into the plains states. Look for increasing 
+chances of rain for the dakotas and Minnesota. A third area of low 
+pressure will move on to the northwest coast with increasing showers 
+for British Columbia and Vancouver into the puget sound. In the south, 
+generally look for fair weather. But a chance of showers and thunderstorms 
+lingers along the cold front south of lake okeechobee. Temperatures 
+will be in the 80s across southern Florida, stretching across Texas 
+into the desert southwest. Some 90s could be noted across portions 
+of the Rio Grande valley and across the gulf of California. In the 
+north, temperatures will be on the cool side with 40s and 50s. The 
+extended forecast calls for strong thunderstorm possibilities on Monday 
+in the Great Lakes changing to a few showers and a few thunderstorms 
+on Tuesday with rain continuing on the west coast. 
+</TEXT>
+</DOC>

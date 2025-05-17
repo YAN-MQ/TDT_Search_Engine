@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981012.1700.2962 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+It's time now for business news. U.S. share prices closed sharply 
+higher Monday. With details in New York, here's VOA's Breck Ardery. 
+The Dow Jones Industrial Average closed at 8001, up almost 102 points, 
+or more than 1 percent. The Standard & Poor's 500 Index closed at 
+997, up 13 points. 
+</TEXT>
+</DOC>

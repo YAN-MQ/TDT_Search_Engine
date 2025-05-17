@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981101.1130.0495 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney with your "CNN Headline News Weather update." 
+A trough of low pressure off the west coast will keep showers across 
+british Columbia and much of the puget sound region. Also look for 
+a chance of showers and thunderstorms, as a low pressure system heads 
+across the southern plains, into the gulf of Mexico. Rain will be 
+increasing across the deep south, and cooler temperatures are expected 
+by midweek. A low-pressure system is slow to move out of new Brunswick 
+into Nova scotia, so look for continuing chances of rain and snow 
+across northern portions of Maine. Temperatures will be in the 80s 
+for Florida, most of the gulf coast, through New Orleans, into southern 
+Texas. Look for 60s and 70s across the southwest, the mid-atlantic 
+states, then cooling to the 40s and 50s for most of the upper atlantic, 
+the Great Lakes and the plains, out to the west. The extended forecast 
+includes heavy rain along the west coast on Tuesday, with temperatures 
+much colder in the plains states. That allows for snowfall across 
+most of the plains and the Great Lakes. That hangs on through Wednesday. 
+A chance of strong thunderstorms enters the lower atlantic forecast, 
+changing to scattered showers by Thursday. The forecast for more than 
+7,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

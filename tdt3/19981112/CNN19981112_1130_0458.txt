@@ -1,0 +1,27 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0458 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+Cold temperatures today through the upper midwest, where it will not 
+go above freezing in parts of northern Minnesota. Look for warm temperatures 
+to remain, though, in the southeast and back in through south Florida, 
+some 80-degree high temperatures expected there today. Forecast weather 
+maps later today on into Friday showing much of the lone star state 
+will see some wet weather. There are flash flood watches in effect 
+for parts of south Texas. High pressure building into the northeast. 
+The winds will subside today. As wet weather continues in the pacific 
+northwest, some higher-elevation snows are anticipated. The extended 
+forecast, as we check out the weekend, we'll see showers and storms 
+in portions of the southeast and back down to the gulf coast. And 
+the Great Lakes will see some wet weather, as well. Rain in the pacific 
+northwest likely from Seattle to Portland and even into northern California 
+on Saturday. Sunday, more wet weather for the northwest. We'll find 
+showers scattered in the southeast. Some snow possible in parts of 
+eastern Canada as temperatures continue warm in the southwest and 
+still on the cold side over the northern Great Lakes. By Monday, again, 
+threat for rain in the east. For more weather information, log into 
+CNN.com. 
+</TEXT>
+</DOC>

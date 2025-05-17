@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981208.1130.0924 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton opened a "save social security" conference in Washington 
+this morning. The two-day event could lead to a plan for stabilizing 
+the system to accommodate the retirement of the huge baby boomer generation. 
+These stories and others in 15 minutes. 
+</TEXT>
+</DOC>

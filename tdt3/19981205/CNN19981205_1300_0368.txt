@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981205.1300.0368 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The CIA is under federal investigation for allegations of obstructing 
+justice. At issue is the agency intentionally violated federal law 
+when it provided a major government contractor, Hughes electronics, 
+with information about an ongoing Senate investigation. The Senate 
+probe dealt with the transfer of sensitive technology to China. The 
+CIA says it's cooperating fully with the justice department investigation. 
+</TEXT>
+</DOC>

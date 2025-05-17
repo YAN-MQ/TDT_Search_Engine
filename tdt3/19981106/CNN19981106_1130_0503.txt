@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981106.1130.0503 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Researchers have found a way to grow human stem cells in a laboratory. 
+Stem cells are the beginning for all parts of the human body as it 
+develops from an embryo. Scientists were able to independently culture 
+the cells. The hope is this discovery will be a key in creating heart, 
+kidney and other tissues to replace diseased parts of the body. It 
+could be a decade before any patient benefits directly from the research. 
+</TEXT>
+</DOC>

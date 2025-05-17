@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981012.2130.0971 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Wall Street started the week on a high note. Stock prices surged for 
+most of the day. The Dow Jones industrial average closed with a gain 
+of 101 points at 8001. 
+</TEXT>
+</DOC>

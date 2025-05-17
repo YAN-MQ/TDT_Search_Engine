@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981202.1130.0367 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Microsoft chairman Bill Gates is reportedly donating $100 million 
+to help immunize children in developing countries. "The Washington 
+Post" reports, the money will be given through the William h. Gates 
+foundation. It is intended to speed up access to new vaccines that 
+already protect american children. Diseases such as hepatitis B and 
+rotavirus kill millions of children in developing countries each year. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981120.2130.0983 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+There are indications the country's banks are tightening their business 
+lending practices. A survey conducted by the federal reserve finds 
+some banks say they are more willing to make consumer installment 
+loans, while a "moderate percentage" say they have tightened standards 
+on credit cards, and worries it may spread to the United States. The 
+economic crises in Asia and other parts of the world may have contributed 
+to the new lending practices. 
+</TEXT>
+</DOC>

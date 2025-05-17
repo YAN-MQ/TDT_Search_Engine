@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> CNN19981230.2130.0457 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With a look at your "CNN Headline News Weather," I'm Karen Maginnis. 
+More wet weather is expected on new year's eve for the pacific northwest, 
+with considerable amounts of mountain snowfall. There will also be 
+a developing storm system across the four corners as we head into 
+January 1st, 1999. It also could be a day when we could see ferocious 
+snow across the central section of the U.S. we'll have to wait and 
+see how that develops. As far as temperatures are concerned, the coldest 
+readings wrapped around the Great Lakes. Mildest -- south Florida, 
+south Texas and into the desert southwest. Into Honolulu, look for 
+expected high temperature under partly cloudy skies of 80 degrees. 
+Look for around 85 in San Juan. The snow is going to fly on Friday. 
+Through Nebraska, Kansas and Oklahoma, and across the northern great 
+plains. And then by Saturday, heavy snow is forecast across the midwest 
+and central Mississippi river valley. And then by Sunday, look for 
+wind and rain in the northeast and more showers for the pacific northwest. 
+Single digits across the great plains. For more weather information, 
+log on to CNN.com. 
+</TEXT>
+</DOC>

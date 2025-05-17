@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981204.0500.3005 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Bank of England is expected to cut its benchmark interest rate 
+a quarter of a point to 6.5 percent next week. There is pressure from 
+the unexpected cuts of the 11 European markets taking part in the 
+new single currency the first of the year. In addition, there is gloomy 
+survey evidence an economic slump in Great Britain may be continuing. 
+</TEXT>
+</DOC>

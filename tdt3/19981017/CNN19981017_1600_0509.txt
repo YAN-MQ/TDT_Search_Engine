@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981017.1600.0509 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is Orelon Sidney from the CNN weather center with your "Headline 
+News weather update." Sunday morning will be chilly across most of 
+the Rockies and the plains states as a cold front continues to push 
+toward the appalachian mountains. Showers and thunderstorms will be 
+seen along the front, stretching from texas northward into the Great 
+Lakes and portions of eastern Canada. Also look for a new cold front 
+system to move through Alberta. That will continue a chance for cool 
+temperatures for Montana and into the dakotas, and snow flurries are 
+possible. Look for scattered showers across portions of southern Florida 
+as the high pressure weakens in the eastern U.S. temperatures will 
+be in the 60s, 70s and 80s for the central plains down to the gulf 
+coast with cool temperatures in the 40s and 50s for the northern Rockies 
+and the northern plains. On the extended forecast -- scattered thunderstorms 
+remain in the gulf forecast with strong activity on Monday across 
+the Great Lakes. This will change to a mix of rain and snow on Tuesday 
+as cooler temperatures settle into the Great Lakes region with scattered 
+thunderstorms possible in the gulf through Wednesday. The forecast 
+for more than 6,000 cities is at CNN.com. 
+</TEXT>
+</DOC>

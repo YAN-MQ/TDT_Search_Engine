@@ -1,0 +1,38 @@
+<DOC>
+<DOCNO> CNN19981116.2130.0614 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stargazers are hoping the space storm tomorrow will live up to its 
+billing as the most intense meteor shower in more than 30 years. Satellite 
+owners and operators aren't as excited. Anne Kellan tells us why, 
+in this edition of "tech trends." Operators of the 600 or so satellites 
+orbiting the earth are holding their collective breath. On November 
+17th, the earth passes through a mine field of sand-grain size meteors 
+traveling 100-times faster than speeding bullets through space. It's 
+the Leonid meteor shower. For the first time, we have a threat to 
+all our satellites that is potentially quite real and could be serious. 
+Comet tempel-tuttle orbits the sun once every 33 years. Every November, 
+the earth passes through some part of its long trail of debris. Since 
+the Comet's orbit brought it close to the earth this year, the trail 
+of debris is fresh and concentrated with tiny meteoroids that will 
+hit the earth's atmosphere and explode into shooting stars. During 
+the last heavy shower in 1966, there were only a few satellites in 
+orbit. Now at risk are pagers, cell phone services, worldwide banking, 
+navigation for aircraft television broadcasts -- not to mention military 
+surveillance. No one knows for sure how these satellites will handle 
+the onslaught from outer space, and it's not only damage to the outside 
+of the satellite. Operators are more worried about damage to the electronics 
+on board. A more serious threat is that when those particles of sand 
+hit they produce an electrical charge. Chances are low, they say, 
+of a satellite being totalled. You could have a switch that's thrown, 
+you could have a thruster that fires erroneously and there would be 
+some disruption in the quality of service. Many commercial satellite 
+operators say they're taking precautions to prevent interruption of 
+service such as angling their satellites solar arrays "on-edge" to 
+the storm, in hopes of minimizing damage. While they don't anticipate 
+major interruptions, many have back-up plans, though researchers say 
+chances are about 1% a satellite will get hit. Ann Kellan, CNN, London, 
+Ontario. 
+</TEXT>
+</DOC>

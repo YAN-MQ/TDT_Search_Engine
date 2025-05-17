@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981205.1600.1360 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Finally, golf -- England's Lee Westwood shot a 6 under 66, so he takes 
+over the lead after three rounds of the $1 million challenge. That's 
+in sun city, south Africa. Justin Leonard two off. Tiger Woods also 
+in the Hunt. Matt Yallof, "CNN Headline Sports." 
+</TEXT>
+</DOC>

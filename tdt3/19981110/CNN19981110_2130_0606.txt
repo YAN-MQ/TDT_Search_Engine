@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981110.2130.0606 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Winter storms are not created equal. Like hurricanes, they vary in 
+severity. But unlike hurricanes, they don't have a rating system. 
+A forecaster thinks they should. Rick Lockridge has more in "tech 
+trends." Winter storms take lives and destroy property every year. 
+There's no way to rate them, the way hurricanes are rated. One forecaster 
+says it's time to change that. We are getting better at forecasting 
+elements. It's hard to communicate that. Joe Sullivan's skate would 
+give flurries a 1. What you do is you say, what is the impact on this 
+area? Two inches of snow in Kansas city would be a higher category 
+than two in duluth. It's more of what we call an impact scale. The 
+impact of the weather on the area will define that number. Such a 
+scale might help people prepare and help authorities to mobilize resources. 
+Unlike a hurricane, where wind speed and barometer are indicaters 
+of strench, winter storms have variables. It could be hard to get 
+two meteorologist to agree. Not earn weather forecasters are awash 
+in technology from satellite views to local readings. They are looking 
+for ways to make more precise local forecasts. This new rating system 
+could help. It will be tested by the national weather service this 
+season in parts of nebraska and Wyoming. Rick Lockridge, CNN. 
+</TEXT>
+</DOC>

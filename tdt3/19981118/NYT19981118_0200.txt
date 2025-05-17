@@ -1,0 +1,172 @@
+<DOC>
+<DOCNO> NYT19981118.0200 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Philip Michas and Adrian Gamerello are high-school seniors, classmates 
+at the prestigious Browning School, just off Park Avenue in the heart 
+of Manhattan's silk-stocking district. When it came to picking a college 
+to attend next fall, they had the best help money could buy: a highly 
+regarded guidance counselor and high-end computer hardware and software 
+to aid a senior class of only two dozen. But for the rest of us, here's 
+the good news: both Michas, whose ``favorite thing in the world is 
+computer stuff,'' and Gamerello, who prints out every paragraph he 
+writes because he'd rather read text on paper, said the most valuable 
+help they found in selecting colleges was available free, 24 hours 
+a day, to anyone with a computer and a modem. Both students took the 
+advice of Browning's guidance counselor, Sanford Pelz, and visited 
+colleges on the Web. Nearly all colleges have Web sites, of course, 
+and those sites have grown increasingly sophisticated over the last 
+two years as admissions offices have realized that a good Web page 
+can translate into more applications and more tuition dollars. It 
+is a good place to start, but the college-bound should think of the 
+official Web sites as digital versions of the brochures colleges have 
+published for many years. They are reliable in the same way brochures 
+about new cars are reliable. Gamerello combined guidebooks, brochures 
+and Web pages in looking for a school that valued the arts over athletics 
+and was a comfortable size and distance from home. He said Web pages 
+``give you some of what the place is about, of the school's ideology.'' 
+He mentally adjusted for the pictures ``that are airbrushed and edited 
+so they're, like, perfect,'' he said, yet still found them very useful. 
+But there is much, much more available than the sylvan scene of the 
+campus, the majestic shot of the administration building, the perfectly 
+posed pictures of a flawlessly diverse group of students chatting 
+amiably about the joys of calculus, the thrill of Chaucer. A different 
+kind of information _ less well ordered but often more useful _ can 
+be found elsewhere. All over the country, individual faculty members 
+have built Web pages of their own, where they post syllabuses, lecture 
+notes, old tests _ the nuts and bolts of the classroom. Additionally, 
+thousands of students have their own Web pages, where they inveigh 
+for and against all manner of details about life at college. ``There 
+is a lot of information that has not been cleansed by the admissions 
+office,'' Pelz said. Michas, the computer aficionado, couldn't agree 
+more. He settled on the University of Pennsylvania as his first choice 
+after surfing the engineering department's pages for computer science 
+courses. ``I could open up old lecture notes, old tests,'' he said 
+with a note of wonder. ``I found that accessing those notes would 
+tell me so much about what the courses would really be about.'' And 
+don't forget college newspapers. The College Press Network (www.cpnet.com) 
+lists links for more than 300 campus papers, arranged alphabetically 
+by state. The papers are irreverent, outraged and often outrageous 
+_ just what a high school student may need to figure out if everything 
+else about a school is as good a fit as the academics. WWW.COLLEGEBOARD.COM 
+WWW.PETERSONS.COM WWW.COLLEGEVIEW.COM Visiting a college's Web site 
+and the college itself are great ways to make final choices about 
+where to apply and enroll, but it's bewildering and too time-consuming 
+to begin the selection process there. Most professional guidance counselors 
+recommend putting together a list of 10 to 20 schools, then applying 
+to perhaps half that number. Some of the factors in school selection 
+_ where your parents went and where your heartthrob is going _ are 
+serious concerns but are not the sort of things computers can help 
+with. But for other considerations, software can be an enormous help, 
+provided you use it the right way. College Search, found at cbweb1. 
+collegeboard.org/csearch or through a link on www.collegeboard.com, 
+is the College Board's online version of its software packages for 
+consumers and high schools. Peterson's, a longtime rival to the College 
+Board in the big guidebook field, has a search site at www.petersons.com, 
+which links to its www.collegequest.com site. College View (www.collegeview. 
+com) is a relative newcomer to the online collection. The difference 
+between what it offers free on line and what is on the CD-ROMs it 
+sells to high-school guidance offices is videos, said the site's managing 
+director, Tim Loudermilk. Colleges pay $5,000 to $20,000 and up to 
+be included in the videos, which can be thought of as digital versions 
+of the slick brochures, called view books, that colleges put together 
+to sell themselves. The information on the schools is the same. The 
+process of looking for a college is largely the same on all three 
+Web sites. On the positive side, the information on the sites is in 
+a database, not a narrative, which makes it easy to generate an endless 
+set of lists sorted by a wide variety of criteria. If you want a college 
+of more than 10,000 students in a city in the Northeast, a school 
+with a Division 1A football team, a student humor magazine and a pep 
+band that accepts only half of its applicants and offers advanced-placement 
+credit for the AP Latin exam, a list of colleges meeting all or most 
+of those criteria _ the sites' options vary a bit _ is a few clicks 
+away. It can be sorted for your convenience by cost or by other criteria 
+important to you. On the negative side, searching a database proves 
+that adage about computers: they do what you tell them to do, not 
+what you want them to do. If you dream of a small, private, highly 
+selective liberal arts college in New England and search with those 
+terms in the College Board's database, you will get exactly zero schools 
+that meet the criteria. Bennington is too small _ enrollment of only 
+450 _ and admits two-thirds of its applicants, so it is not so selective 
+after all. Wellesley's 2,200 students make it too big for the ``small'' 
+category, which ranges from 750 to 2,000. Colgate is not in New England; 
+it is in Hamilton, N.Y. Bates, Amherst and Williams Colleges are all 
+perfect examples, but those schools do not provide data on the high-school 
+grades of their incoming students, so if that was one of your criteria, 
+a reasonable measure of selectivity, those colleges do not make the 
+list. You can tinker with the list until you figure out what went 
+wrong, but that's going at the problem backward. If you already want 
+to go to Amherst, then you do not need to search for it. But if you 
+are not well versed about what schools are out there, you won't know 
+that you're missing a potentially interesting college that does not 
+show up on the list. Don't plan to come up with this list of finalists 
+in one sitting or to do it without help from the guidance office. 
+PETERSON'S COLLEGE QUEST PERSONAL EDITION (Peterson's Interactive; 
+$24.95; bundled with ``Peterson's 4-Year Colleges''; Windows 3.1 and 
+higher and NT, and Mac 7.0 and up. COLLEGE EXPLORER (College Entrance 
+Examination Board; $25.95; bundled with ``The College Handbook''; 
+Windows 3.11 and up and NT.) HIGHER SCORE GUARANTEED ON THE SAT, PSAT 
+AND ACT DELUXE (Kaplan Educational Centers; $29.99 after a $20 rebate, 
+bundled with test-preparation software; Windows 3.1 and up, and Mac 
+7.0 and up.) While some college-selection software carries price tags 
+that only a school would be likely to manage, the average consumer 
+can still find CD-ROMs that are affordable and helpful. Like the three 
+reviewed here, they are often packaged with books or other software. 
+With Peterson's College Quest, students enter their personal selection 
+criteria, then get lists of colleges that meet those requirements. 
+The basic choices, represented by icons on the screen, are made according 
+to criteria like region or state, academic majors and difficulty of 
+entrance standards, or by whether the schools are public or private. 
+Along the way, icons labeled Tell Me offer good, if standard, advice 
+on the topic at hand. At any point, the user can click on any of the 
+colleges listed to call up a full profile of the campus, the same 
+information that can be found in the pages of the accompanying book. 
+The software will also generate e-mail letters of inquiry to any of 
+the selected schools. The College Board's huge database, packaged 
+with ``The College Handbook 1999,'' is called College Explorer. The 
+student types in a bit more information than with the Peterson's version, 
+rather than selecting categories, but the process is the same and 
+the information is very similar. Kaplan, the test-preparation company, 
+packages its search software differently, in a five-CD set that includes 
+its college search database, based on ``The Kaplan Newsweek College 
+Catalog 1999'' (Simon &AMP; Schuster), along with SAT and ACT test-preparation 
+software and a scholarship database. Like most test-preparation software, 
+this uses a multimedia approach. As perhaps might be expected, the 
+information on the colleges provided by the Kaplan software is not 
+so thorough as that provided by Peterson's and the College Board. 
+Kaplan does offer links to college Web pages, and the friendly tour 
+guide recommends that you visit the colleges' Web sites. In the big-ticket 
+arena, where packages of CD-ROMs and phone-book-size guidebooks can 
+cost school guidance offices roughly $500 a year, there are two major 
+players. One is Expan, affiliated with the College Board, and the 
+other is a newcomer called College View. Unless you are on a school 
+board, you probably cannot influence a given school's decision on 
+whether to buy one of them. But from the consumer's point of view, 
+in truth, it doesn't matter much because they are comparable. WWW.COLLEGEBOARD.COM 
+WWW.FAFSA.ED.GOV WWW.ED.GOV/OFFICES/OPE/STUDENTS Software, unfortunately, 
+provides no magic way to get around paying for college, but the Internet 
+does offer some help. As the Net matures, however, deceptive practices 
+and outright scams abound. Best advice: Stick with the known names: 
+Peterson's, the College Board and College View. Sanford Pelz, a guidance 
+counselor at the Browning School, recommends the College Board's Web 
+site (www.collegeboard.com) as the best place to start. Follow its 
+links to the scholarship search. Otherwise, old-fashioned communication 
+seems to still be best here, combining the best efforts of the high-school 
+guidance office on the one end and the admissions or financial aid 
+office of the selected college on the other. Typing ``college scholarship'' 
+into an Internet search engine and following what comes up is asking 
+for trouble. Experts caution that families should be extremely wary 
+of any service that charges a fee _ even just a couple of dollars 
+_ for offering to find scholarships. Stay away from businesses that 
+guarantee scholarships (they can't) and those that offer to write 
+the application essay or otherwise do most of the work for the student. 
+And be especially careful of anyone who talks about unclaimed scholarships 
+worth huge sums _ $6.6 billion, a wildly inflated number, is frequently 
+cited. The best way to get federal student aid forms is directly from 
+the government's site, www.fafsa.ed.gov. The full federal rundown 
+on student aid, as well as links to other sites, is available at www.ed.gov/offices/ope/students, 
+from the Office of Postsecondary Education of the Federal Department 
+of Education. 
+</TEXT>
+</DOC>

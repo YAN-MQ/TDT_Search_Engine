@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981202.1600.0915 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A federal judge has given the house Judiciary committee permission 
+to read confidential justice department memos that may contain evidence 
+of possible campaign fund-raising violations by President Clinton. 
+The judge said one republican and one democrat from the committee 
+will be permitted to see the memos. 
+</TEXT>
+</DOC>

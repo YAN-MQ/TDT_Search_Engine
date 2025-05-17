@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981015.2130.1017 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If you want to refinance your home, it's going to cost just a little 
+more. Average mortgage rates recorded their biggest increase of the 
+year this week. The 30-year fixed rate climbed to 6.9%. while the 
+15-year fixed rate rose to 6.56%. and the one-year adjustable edged 
+up to 5.54%. still, rates remain near 30-year lows. 
+</TEXT>
+</DOC>

@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981211.1600.0314 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Two people were killed and at least 20 injured in a natural gas explosion 
+in downtown St. cloud, Minnesota. Several buildings were destroyed. 
+Police say they believe people are trapped inside the wreckage. They 
+have evacuated a six-block area. Gas pipeline inspectors are investigating 
+the cause of the explosion. 
+</TEXT>
+</DOC>

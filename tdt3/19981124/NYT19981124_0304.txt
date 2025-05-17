@@ -1,0 +1,56 @@
+<DOC>
+<DOCNO> NYT19981124.0304 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The federal government said Tuesday that it had received significant 
+evidence that a joint venture created by Sprint Corp. and Telefonos 
+de Mexico, or Telmex, had committed anticompetitive practices in the 
+long-distance market. As a result, the Federal Communications Commission 
+rejected the venture's proposed rates that are charged to other long-distance 
+carriers. The agency also gave the venture 30 days to explain why 
+officials should not review its long-distance license. ``U.S. consumers 
+have to pay much more than they should to reach friends and relatives 
+in Mexico,'' said FCC Chairman William Kennard. ``The carriers have 
+not moved quickly enough to bring these rates down and ensure meaningful 
+competition.'' Kennard said the high rates affected ``the most vulnerable 
+consumers,'' recent Hispanic immigrants who used the service to talk 
+with friends and relatives back home. Sprint officials said the joint 
+venture had been caught in a struggle between U.S. and Mexican authorities, 
+and that the company's pricing had not been unreasonable. ``We're 
+disappointed by today's development,'' the company said in a statement. 
+``The Telmex-Sprint Communications joint venture is in the marketplace 
+today, enjoying initial success because it provides a service that 
+Hispanic and other consumers want and need. We are confident that 
+neither any U.S. carrier nor the public interest has been hurt by 
+TSC's entry into the U.S. market.'' Gary Epstein, a lawyer in Washington 
+representing Telmex, said the venture had met all of the conditions 
+of the license and that the company would dispute the allegations. 
+The joint venture's license was approved three months ago over the 
+objections of the two biggest long- distance carriers in the United 
+States, AT&AMP;T and MCI Worldcom Inc. The high volume of calls between 
+the two countries has generated some $700 million last year in payments 
+to Telmex, far and away the largest payment overseas by U.S. carriers. 
+In granting the license, regulators had imposed a list of conditions 
+intended to keep the marketplace competitive. Officials said Tuesday 
+that those conditions had not been met, and they took action following 
+a new round of complaints by AT&AMP;T and MCI that the joint venture 
+remained fundamentally anticompetitive. At the heart of the Tuesday's 
+action are the rules and fees governing the so-called settlement rate, 
+the fees that phone companies make to each other to complete calls. 
+Settlement rates have historically been set well above the cost of 
+completing a call, particularly in countries with less-developed economies 
+or powerful state-owned telephone monopolies. Officials said that 
+any reduction in the rates would be passed on to consumers in the 
+form of lower telephone bills. Telmex had promised to lower the settlement 
+rate to 19 cents a minute by the beginning of the year 2000. The FCC 
+approved the 19-cent rate but rejected the company's interim rates 
+of 37.5 cents for 1998 and 34.5 cents for 1999. The agency also described 
+a variety of other anticompetitive practices, such as a 58 percent 
+surcharge levied by Telmex for international calls made to Mexico. 
+While officials said that the proceeding initiated Tuesday might not 
+lead to the revocation of the venture's license, they expected it 
+would encourage significant changes that would open the market to 
+competitors of the Sprint-Telmex venture. 
+</TEXT>
+</DOC>

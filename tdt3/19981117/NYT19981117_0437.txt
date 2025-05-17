@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981117.0437 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The New York Times said in an editorial on Wednesday, Nov. 18: The 
+world's financial markets have calmed down since the Federal Reserve 
+first moved to lower interest rates seven weeks ago. But economic 
+problems remain, and the Fed acted wisely Tuesday when it imposed 
+its third cut in two months. The rebound in the Dow Jones industrial 
+average, which has made up nearly all its plunge of almost 20 percent 
+this past summer, overstates the extent to which financial markets 
+have rallied since the Fed signaled in late September that it was 
+determined to fight the prospect of world recession. Markets in other 
+countries, and for smaller stocks in this country, remain far below 
+their peaks of earlier this year. Perhaps more important, there are 
+still signs of credit stringency in the premium rates companies here 
+and abroad must pay to borrow money. Those conditions have eased from 
+the peak of panic in the summer, but are not back to normal. Most 
+of Asia remains in recession, and it is too early to know whether 
+the Brazilian rescue package will keep the Asian flu from infecting 
+Latin America. Nonetheless, the Fed's decision Tuesday to lower the 
+federal funds rate at which banks borrow from each other by a quarter-point, 
+to 4.75 percent, was a relatively close call. That is because the 
+American economy remains strong and consumers are still spending. 
+There are signs that rampant speculation is returning, at least in 
+Internet stocks. One such stock, Theglobe.com, was unable to sell 
+stock just four weeks ago. But last week it sold shares at $9 each 
+and saw the price leap to a high of $97 within minutes. It has since 
+come back down to just over $40, but even that price shows a lot of 
+optimism. Whether or not such optimism is warranted for Internet companies, 
+the picture for the entire economy is mixed. While the chances of 
+a recession have declined, the weak international economy means that 
+corporate profits are not likely to be nearly as strong as they were 
+in recent years. The Fed's pre-emptive rate cuts will help, but they 
+cannot completely insulate the United States from international economic 
+woes. 
+</TEXT>
+</DOC>

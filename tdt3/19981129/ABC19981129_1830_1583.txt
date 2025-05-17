@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> ABC19981129.1830.1583 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In box office receipts this weekend, "A bug's life" came in at number 
+one, earning $46 million for the long holiday weekend. That's a Thanksgiving 
+record. "The rugrats movie" was second and "enemy of the state" third. 
+</TEXT>
+</DOC>

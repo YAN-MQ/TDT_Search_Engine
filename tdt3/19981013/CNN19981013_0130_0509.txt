@@ -1,0 +1,21 @@
+<DOC>
+<DOCNO> CNN19981013.0130.0509 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+with a look at your "headline news weather," i'm karen mcginnis. a 
+cold front will sweep across the great lakes and across the southeast, 
+but around the area of low pressure farther to the north, look for 
+snow and some rain, primarily into canada. another frontal system 
+sweeps across british columbia and the pacific northwest. look for 
+a couple of inches of rainfall possible for washington and into oregon. 
+snow levels down around 5,000 feet. through the great lakes and hudson 
+bay, readings mostly in the 40s. but 70s and 80s dominate the southern 
+third of the u.s. in anchorage, alaska, look for 42 degrees, and around 
+87 expected for honolulu. in our extended forecast, there will be 
+a mixture of rain and snow across the central prairie provinces of 
+canada. more rain for the pacific northwest, even going into thursday. 
+temperature wise readings begin to cool off across the northern rockies 
+as we head into friday's forecast, temperatures mostly in the 50s. 
+</TEXT>
+</DOC>

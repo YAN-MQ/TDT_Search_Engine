@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> MNB19981019.2100.1803 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In a courtroom in Washington today opening statements in one of the 
+biggest anti-trust court cases ever. It involved Microsoft, part owner 
+of the MSNBC cable network. At issue, whether or not the company founded 
+by Bill Gates now amounts to a Monopoly and is using its dominant 
+position in the computer software market to hurt potential competitors. 
+Here is NBC news justice correspondent Pete Williams. Microsoft is 
+so dominant that its windows computer program touches virtually all 
+Americans. Either because they own it, use it at work, O do business 
+with someone who does. It runs 90% of the personal computers sold 
+today. But government lawyers claim that Microsoft holds a monopoly 
+by illegally intimidating the competition with a simple goal. To harm 
+competition and to harm consumers. To limit what products can come 
+to market. And to prevent people with new and better ideas from getting 
+a fair chance. Exhibit A, a meeting Microsoft officials had three 
+years ago with Netscape. Government lawyers today accused Microsoft 
+of illegally trying to stop netscape from selling its froom windows 
+user. Microsoft's billionaire founder said he didn't know about the 
+Netscape strategy. But lawyers showed exerts from Gates' own company 
+E-mail. Microsoft says those comments are just snippets taken out 
+of context. It warns the government trying to meddle. The software 
+industry itself is intensely innovative and competitive. Every year 
+there are thousands of new products brought to market. There are thousands 
+of new companies that are being formed. The company insists it must 
+be free to add new features to its products. And some economists say 
+there's always a risk when the government steps in. The high-tech 
+industry, computer industry, it's a wonderful wild and whooly free 
+for all. It's Dodge city in the 1808's. This isn't a jury trial. So 
+the issue for the judge, has Microsoft illegally locked up the business 
+so that the next Bill Gates doesn't stand a chance? As for how big 
+Microsoft is, consider this. Government lawyers prepared their legal 
+briefs using the justice department's latest computer software, Windows 
+95. 
+</TEXT>
+</DOC>

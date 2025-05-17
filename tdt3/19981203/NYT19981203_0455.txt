@@ -1,0 +1,77 @@
+<DOC>
+<DOCNO> NYT19981203.0455 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Some Boeing 747s have a fuel-pump part that can wear out after a few 
+flights and possibly lead to fuel-tank explosions, the Federal Aviation 
+Administration said Thursday. The agency issued an emergency order 
+to reduce the risk of potentially explosive sparks from the pumps 
+in a move that will cut the range of the newest planes by 400 miles. 
+The order, which requires changes in how fuel is stored in the tanks 
+of the 747s, came after airlines noticed pump failures and returned 
+14 pumps to Boeing. The pumps had a bearing shaped like a washer, 
+about the size of a half-dollar coin, that was wearing away, letting 
+metal parts rub against each other. Each 747 uses 10 or 12 of the 
+pumps, and Boeing said it had shipped airlines about 700 suspect bearings 
+either in pumps or as replacement parts. The aviation agency said 
+that the flaw was not the cause of the explosion on TWA Flight 800 
+two-and-a-half years ago. The agency has attributed the explosion 
+to a spark in the center fuel tank, but the pump bearings found in 
+the wreckage off New York showed no wear. Still, the order is an example 
+of the greatly increased worry by inspectors about the safety of fuel 
+systems on the planes, and the latest in a series of orders covering 
+potential ignition sources in the planes' fuel systems. Elizabeth 
+Erickson, the agency's director of aircraft certification, said in 
+a telephone interview, ``our concern has been heightened in this area.'' 
+Tom McSweeney, the associate administrator for regulation and certification, 
+said that the action, which will have more impact on airline operations 
+than most FAA orders, was indicative of the agency's effort to cut 
+accidents by 80 percent. Stephen Hatch, Boeing's chief engineer for 
+747s, said that the accident and the subsequent discovery of a variety 
+of problems in fuel systems had changed the atmosphere. ``We're being 
+extra conservative here,'' Hatch said. Tests showed that the fuel 
+pumps would overheat, he said, but the temperatures were too low to 
+cause a fire or explosion. The agency is still exploring the biggest 
+proposal to come out of the TWA crash, which is to switch jets to 
+a fuel less prone to form explosive vapors. The pumps covered by Thursday's 
+emergency order are at the bottom of the tanks, and when they are 
+running they are usually immersed in fuel, which lubricates them and 
+eliminates oxygen, so there can be no fire or explosion. But it has 
+been standard procedure to run the pumps to empty the tanks almost 
+completely, at which point the pumps are running dry, unlubricated 
+and exposed to fumes. In addition to ordering the replacement of suspect 
+bearings, the agency told airlines to stop using fuel tanks in the 
+horizontal stabilizers of 747-400s, the newest model. Those tanks 
+in the horizontal portion of the tail carry 3,300 gallons of fuel. 
+They are shallow, and, if the plane climbs steeply, the pumps may 
+be exposed. Another standard procedure is to burn fuel in those tanks 
+before landing, to prevent the plane's center of gravity from shifting 
+too far back, but burning all of it means running the pumps dry. Without 
+the tanks, the planes' range is cut to about 8,000 statute miles, 
+from 8,400 miles. On a long trip, the plane consumes more than 6 gallons 
+a mile. Airlines could compensate by flying with fewer passengers 
+or less cargo, or by stopping to refuel. ``On long-haul operations 
+in the Pacific,'' Ms. Erickson said, ``they won't be able to do one 
+hop straight through.'' For some airlines, that could mean having 
+to fly with an extra crew, experts said, because adding a stop could 
+make the workday longer than agency rules allow. It could also mean 
+some planes might have to carry more flight attendants. United Airlines 
+owns 35 of the 747-400s, more than any other domestic airline, and 
+its routes from Chicago to Hong Kong and from the West Coast of the 
+United States to the South Pacific, Hong Kong and Taipei could be 
+affected, said Joe Hopkins, a spokesman. Engineers at the airline 
+were looking for an inspection system that would satisfy the FAA and 
+allow continued use of the tank, he said. A spokesman for Northwest 
+Airlines, Jon Austin, said that the Detroit-to-Beijing route might 
+be affected. In addition, the order Thursday required older 747s without 
+tail tanks to fly with more fuel in the center tank, which is routinely 
+pumped dry in flight, and to switch off the pumps with the problem 
+while thousands of gallons of fuel remain inside. Some of that fuel 
+can be recovered and used by small ``scavenge pumps,'' but, especially 
+on shorter trips, the effect will be to require planes to fly with 
+thousands of extra pounds of fuel. The agency said it did not know 
+what the order would cost. There are 1,087 747s in operation, of which 
+246 are registered in this country. 
+</TEXT>
+</DOC>

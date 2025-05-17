@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981129.1600.0942 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Israel's prime minister held a top-level review of his government's 
+policy in southern Lebanon. Cabinet members have called for military 
+strikes in retaliation against the recent killings of Israeli soldiers. 
+</TEXT>
+</DOC>

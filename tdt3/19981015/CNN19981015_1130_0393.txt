@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981015.1130.0393 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new study shows people with bulimia could have a genetic chemical 
+imbalance in the brain. According to research published in this month's 
+issue of the "archives of general psychiatry," that imbalance of serotonin 
+makes a person more prone to eating disorders. Scientists still aren't 
+positive whether the altered serotonin is genetic or the result of 
+binging and purging patterns. Researchers say the information, if 
+proven, could be used to identify people at risk for the eating disorder. 
+</TEXT>
+</DOC>

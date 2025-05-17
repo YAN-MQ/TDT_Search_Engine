@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> APW19981120.1202 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+AMERICAN LEADERS NEW YORK (AP)-Sales, 4 p.m. price and net change 
+of the 10 most active American Stock Exchange issues, trading nationally 
+at more than $1. Name Volume Last Chg. SPDR 5,342,300 1165-8 Up 7-8 
+TWA 1,228,600 5 1-2 Down 3-8 WEBS Japan 1,073,000 10 3-8 Up 1-8 Metromedia 
+1,072,600 4 3-4 Up 1-2 GK IntellSys n 968,000 4 9-16 Down 1 15-16 
+BemaGold 898,300 1 Down 1-16 FstAustPrm 830,100 6 NaborsInd 727,100 
+16 1-2 Up 13-16 MagnumHunt 664,400 4 Up 1-8 ViacomB 632,000 67 11-16 
+Down 1-16 
+</TEXT>
+</DOC>

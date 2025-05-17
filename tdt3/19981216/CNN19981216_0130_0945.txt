@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981216.0130.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The U.N.'s chief weapons inspector has issued a report that says Iraq 
+is not fully cooperating with the United Nations. Richard Butler says 
+his inspectors were not able to confirm Iraq's weapons of mass destruction 
+had been eliminated. 
+</TEXT>
+</DOC>

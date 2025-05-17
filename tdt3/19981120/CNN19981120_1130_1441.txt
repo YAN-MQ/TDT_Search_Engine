@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981120.1130.1441 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If you want to tour the entire United States, but don't have the time, 
+the library of Congress has a web site for you. They're scanning 1,000 
+photos, drawings and historical texts a day that cover the nation 
+from sea to shining sea. The head librarian says millions of items 
+will be available by the year 2000. You can visit the library of Congress 
+web site a -- www.loc.gov. 
+</TEXT>
+</DOC>

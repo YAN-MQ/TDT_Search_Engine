@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981227.1130.0334 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+One look at the nation's malls this weekend, and you might think nobody 
+got what they wanted for Christmas. Not necessarily so. Analysts say 
+retailers now do a sizable portion of their holiday business between 
+Christmas and new year's -- up to 10% of their sales. While some shoppers 
+are, no doubt, returning gifts this weekend, many others are coming 
+in for the bargains. Some retailers have slashed prices by more than 
+half to lure customers in, after a somewhat subdued holiday shopping 
+season. 
+</TEXT>
+</DOC>

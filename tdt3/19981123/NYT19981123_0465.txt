@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> NYT19981123.0465 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+It looks as if the old days are back. The heady mergers-and-acquisitions 
+wave that crashed in August has returned in full force, with nine 
+combinations worth $40.4 billion either announced or under negotiation 
+Monday. While that is less than half the $90 billion price tag put 
+on two bank deals in one day last April, it is a record all its own: 
+On no other day have so many deals valued at $1 billion or more been 
+announced, according to Securities Data Co. But there were several 
+factors on Monday _ a day, as well, of surging stock prices _ that 
+distinguished it from all the busiest days that have preceded it this 
+year. Deals are crossing many industry lines _ a departure from the 
+bank-and-telecommunication-heavy combinations earlier this year. And 
+executives are more eager than ever to find partners abroad. Witness 
+Deutsche Bank AG's potential acquisition of Bankers Trust, which is 
+expected to be one of several purchases of U.S. companies by foreign 
+businesses in the coming year. Europe, too, is expected to see a major 
+boom in merger activity, although not quickly. There are still significant 
+obstacles, such as the tax and accounting rules that vary from country 
+to country, as well as likely opposition from labor unions unused 
+to American-style corporate layoffs. And in the short term, there 
+are sure to be clashes as companies are compared with their peers 
+in other countries, something that has not been the practice in Europe. 
+``That sets up a dynamic that you'd better run your company better 
+or get taken over,'' said Richard Sapp, head of the European mergers-and-acquisitions 
+department at Goldman Sachs International. ``And if you lose your 
+job, are you likely to move from Germany to France? That would be 
+difficult.'' Just as important, there has been a shift in the mind-set 
+in corporate boardrooms since late summer. Executives who retreated 
+after financial turmoil in Russia and in much of Asia ravaged stocks 
+at home have become bolder and are ready to conduct business as usual. 
+``The strategic objectives did not change one iota,'' said Gary Parr, 
+head of mergers and acquisitions at Morgan Stanley Dean Witter, whose 
+firm advised five of the companies that made announcements Monday, 
+including those at Bankers Trust, Netscape Communications and UNUM 
+Corp. ``A lot of deals were waiting to be done when the market stabilized. 
+Now that markets have bounced back nicely, managements feel comfortable 
+and are willing to move forward.'' The fundamental reasons to merge 
+_ competitive advantage _ have not changed. Take for instance, the 
+proposed combination of Netscape and America Online, which could also 
+include a joint marketing agreement between America Online and Sun 
+Microsystems. In all, the complex combination is meant to strengthen 
+these companies' positions against Microsoft, which is at the center 
+of a landmark government antitrust suit. And bank and insurance mergers, 
+which have been most pronounced this year, are likely to continue 
+for the short term despite concerns about possible disruptions to 
+computer systems in the year 2000. ``I don't think computer issues 
+are going to make a difference for deals that are compelling,'' said 
+Rodgin Cohen, a banking lawyer with Sullivan &AMP; Cromwell, who specializes 
+in mergers advice. And he warns that deals are less likely to be a 
+reaction to other mergers, despite what the timing may suggest. ``Would 
+Wells Fargo &AMP; Co. and Norwest Corp. have merged if Nationsbank 
+and BankAmerica hadn't gotten together?'' he asked. ``Absolutely.'' 
+</TEXT>
+</DOC>

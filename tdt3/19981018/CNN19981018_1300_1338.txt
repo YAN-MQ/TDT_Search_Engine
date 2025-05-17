@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981018.1300.1338 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+If you were out mowing the lawn yesterday, hopefully you had a walkman. 
+If not, you missed some great college football. Number two UCLA beat 
+11th-ranked Oregon in overtime, 41-38, with a Chris sailer field goal. 
+And somehow, number 25 Georgia tech scraped its way back from 38-17 
+down to beat seventh-ranked Virginia, 41-38. 
+</TEXT>
+</DOC>

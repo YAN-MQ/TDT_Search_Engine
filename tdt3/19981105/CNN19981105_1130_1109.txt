@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981105.1130.1109 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street -- taking a look now at the Dow, which is still 
+in negative territory, it is down 48 points. The NASDAQ is off 6. 
+that's "Dollars & Sense." 
+</TEXT>
+</DOC>

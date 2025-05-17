@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> VOA19981224.1600.3060 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Ford Motor Company confirms it has sold its nine percent interest 
+in the Kia Motors Company of South Korea. Ford will not say to whom 
+the interest was sold, but there are reports the buyer is the J.P. 
+Morgan Investment Bank, which paid $11 million. It was a big loss 
+for Ford, which had paid about $150 million for its stake in Kia. 
+</TEXT>
+</DOC>

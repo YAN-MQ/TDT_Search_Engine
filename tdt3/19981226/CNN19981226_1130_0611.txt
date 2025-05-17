@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981226.1130.0611 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Japan apparently hopes deficit spending will help jump start its economy. 
+The Japanese cabinet unveiled its proposed $700 billion budget next 
+year. The plan calls for increased government spending and tax cut, 
+the net result will double the country's double digit deficit. The 
+Japanese parliament -- 
+</TEXT>
+</DOC>

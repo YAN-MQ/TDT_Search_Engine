@@ -1,0 +1,67 @@
+<DOC>
+<DOCNO> NYT19981120.0347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Momentum advisers are the surfers of the investing arena. They constantly 
+look for waves that are strong enough to carry them a long time. Although 
+there are momentum investors of different stripes, the advisers I'm 
+talking about define momentum in terms of a stock's recent performance. 
+They seek shares with the best performance over the last few months. 
+One might worry that this approach entails buying stocks that are 
+already awfully expensive. A momentum adviser, however, thinks that 
+such stocks will keep going _ after all, they have momentum. Instead 
+of ``Buy low, sell high,'' their motto is ``Buy high, sell higher.'' 
+As any surfer will tell you, the sport is exhilarating. But what happens 
+when your wave disappears? The answer is provided by what happened 
+to momentum investors during this summer's selloff: a wipeout. From 
+mid-July through August, the typical portfolio of a momentum newsletter 
+shed between a quarter and a third of its value. Investors shouldn't 
+have been surprised. Stocks with the most momentum during rallies 
+_ like technology stocks earlier this summer _ are almost always big 
+losers in the initial stages of declines. They may look irresistible 
+as long as their wave is rolling, but they also have the farthest 
+to fall. In deciding whether momentum investing is appropriate, it 
+is important to examine performance for an entire market cycle. Momentum 
+investors need to earn huge bull-market gains in order to weather 
+their bear-market losses. This is illustrated by one of the best-performing 
+momentum-based newsletters: MPT Review, edited by Louis Navellier. 
+When the market rises, MPT's performance is nothing short of spectacular. 
+Consider its gains during months in which the broad market rose over 
+the last 13 years: It outperformed the Wilshire 5000, a broad market 
+benchmark, by more than 30 percentage points, annualized _ 81.8 percent 
+a year to 51.4 percent. But for the entire 13 years, including months 
+of both market gains and declines, MPT Review beat the broad market 
+by ``just'' 8.6 percentage points, annualized: 25 percent vs. 16.4 
+percent. To be sure, that kind of outperformance is nothing to sneeze 
+at. But there is another issue here: risk. In achieving that return, 
+I figure, MPT Review's portfolios were 84 percent riskier than the 
+overall market, as measured by volatility. That makes MPT Review's 
+performance less impressive. In fact, without incurring any more risk 
+than MPT Review, you could have performed almost as well by buying 
+an index fund on margin _ borrowing $84 for every $100 of your portfolio's 
+net worth. What this means is that during rallies, MPT Review needed 
+to beat the market at an annualized clip of more than 30 percentage 
+points simply to weather its huge losses during declining months and 
+still keep pace with the market on a risk-adjusted basis. MPT Review's 
+example raises this question: Why not combine momentum stocks with 
+a market-timing system that sidesteps declines? Fine, but Navellier 
+shuns timing, always staying fully invested. The momentum newsletter 
+with the best success at avoiding market declines is The Chartist, 
+edited by Dan Sullivan. I calculate that Sullivan's timing has reduced 
+by 31 percent the risk, or volatility, otherwise associated with his 
+recommended momentum stocks. But his timing hasn't been perfect: It 
+has also kept him in cash during some market rallies. I estimate that 
+_ at 17.3 percent, annualized, over the last 18 years _ his portfolio's 
+performance was about 20 percent less than it would have if it had 
+remained fully invested at all times. As a matter of pure statistics, 
+Sullivan's achievement is creditable: He reduced risk by more than 
+he forfeited return. But it still is a far cry from the fantasy of 
+capturing all the upside and none of the downside. Momentum investing, 
+like surfing, is not for the faint of heart. The approach can beat 
+the market over a market cycle, but prepare for a wild ride. Mark 
+Hulbert is editor of the Hulbert Financial Digest, a newsletter based 
+in Alexandria, Va. His column on investment strategies will appear 
+every other week. E-mail: strategy(AT)nytimes.com. 
+</TEXT>
+</DOC>

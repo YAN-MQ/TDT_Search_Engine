@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> VOA19981022.1700.2980 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+The Dow Jones Industrial Average closed at 8533 a gain of nearly 14 
+points. The Standard & Poor's 500 Index also closed up 8 points at 
+1078. This makes it the seventh consecutive day of gains in the market. 
+</TEXT>
+</DOC>

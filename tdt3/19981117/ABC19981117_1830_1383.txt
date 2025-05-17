@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> ABC19981117.1830.1383 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+What appears to be a setback for Microsoft today, a federal judge 
+has ordered Microsoft to change it's windows '98 system within 90 
+days or pull it from the market. A Microsoft competitor persuaded 
+the judge that Microsoft had probably improperly tampered with the 
+program made by sun called Java. 
+</TEXT>
+</DOC>

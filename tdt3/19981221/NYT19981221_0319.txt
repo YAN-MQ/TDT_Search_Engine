@@ -1,0 +1,121 @@
+<DOC>
+<DOCNO> NYT19981221.0319 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A novel form of cancer treatment has neared the end of its preliminary 
+trials with promising results at the same time as new research has 
+cast doubt on its original rationale. The doubts, not yet resolved, 
+may mean that the treatment is less harmless to normal cells than 
+thought. But it is also possible that the treatment may be applicable 
+to a much wider range of cancers than previously believed. The agent 
+of treatment is a genetically altered adenovirus, one of the viruses 
+that cause the common cold. Called Onyx-015 by its developer, Onyx 
+Pharmaceuticals of Richmond, Calif., the virus is injected directly 
+into tumors. Enormous doses can be used without apparent harm to the 
+patient because the virus is designed to kill certain types of tumor 
+cells but not healthy cells. The treatment is based on recent insights 
+into the basic genetics of tumor cells, and in particular the protective 
+genes that are subverted when a cell becomes cancerous. The virus 
+is designed for specific attacks on the many types of tumor cells 
+that have knocked out a critical gene called p53. Onyx-015 is being 
+tested in patients with several types of cancer but the trials with 
+head and neck cancers are furthest along. Onyx Pharmaceuticals reported 
+last month that in 16 out of 26 patients with head and neck cancer, 
+or 62 percent, the tumors had shrunk by more than half, and that in 
+six of those patients the tumors had entirely disappeared. In all 
+cases, the patients received a standard chemotherapeutic drug as well 
+as the virus, because earlier tests had shown the two agents in combination 
+were more effective than either alone. The results are impressive 
+because the patients were at an advanced stage, all of them having 
+failed to benefit from conventional treatments. But because the test 
+is a Phase 2 trial, designed to explore the most effective dose with 
+only a small number of patients, the results cannot be regarded as 
+conclusive. The company now hopes, with Food and Drug Administration 
+approval, to move to a Phase 3 trial, with enough patients to arrive 
+at a statistically significant outcome. Dr. James Arseneau, a doctor 
+at the Albany (N.Y.) Medical Center, is one of those testing the virus. 
+Of the eight patients with head and neck cancer whom he has treated 
+so far, ``three have had really superb results,'' he said. ``With 
+one guy, the tumor all went away,'' he said. ``In another, there's 
+just an area of thickness but the initial mass has gone. The others 
+had more minor responses. But given the situation these people are 
+in, with far advanced disease, I think it is really remarkable they 
+have done as well as they have.'' Meanwhile, on another track, several 
+researchers experimenting with the Onyx-015 virus in the laboratory 
+say they find it behaves rather differently than Onyx had proposed 
+on the basis of its own laboratory tests. The question of exactly 
+how the virus works bears both on its safety and on the range of tumor 
+types it may be able to kill. Normal cells have an intricate circuitry 
+of interacting genes and proteins that control their proliferation. 
+The circuitry is designed to make sure the cells divide when the body 
+requires them to, but to halt or even kill the cell if it attempts 
+an unauthorized division that might lead to cancer, such as after 
+invasion by a virus or damage to the chromosomes. Division is tightly 
+controlled by a system centered on a protein known as Rb. The cell-arrest 
+and cell-suicide programs are under the direction of another protein, 
+p53. For a cell to become tumorous, it must subvert the division-control 
+circuitry. Many tumor cells have sabotaged the Rb gene and in about 
+60 percent the p53 gene is also mutated. Biologists have recently 
+come to recognize that viruses, like incipient tumor cells, must defeat 
+the division-control circuitry and that in the course of evolution, 
+several viruses have targeted the products of the very same genes 
+that are mutated in tumor cells. Adenovirus has at least three genes 
+for this purpose. Its E1A gene makes a substance that disrupts the 
+Rb protein, while E1B-55K blocks the division-arrest function of p53, 
+and E1B-19K jams p53's cell-suicide program. In 1992, Onyx's chief 
+scientific officer at the time, Frank McCormick, realized that the 
+frequent mutation of the p53 gene in tumor cells created a critical 
+difference between them and the healthy cells that could be exploited 
+by a defective form of adenovirus. An adenovirus lacking the E1B-55K 
+gene that thwarts the division-arrest mechanism of p53 would be unable 
+to replicate in normal cells, because their p53 system would block 
+the division process. But the defective virus could replicate in tumor 
+cells that had disabled their own p53, and go on to attack other tumor 
+cells. ``The concept is a very powerful one,'' said Dr. Scott Lowe, 
+a molecular biologist at the Cold Spring Harbor Laboratory in Long 
+Island, N.Y. ``Once he told us, everyone said, `Why didn't I think 
+of that before?''' Onyx-015 is an adenovirus that lacks the E1B-55K 
+anti-division-arrest gene. In preclinical studies, the company reported 
+that the defective virus killed laboratory cultures of p53-deficient 
+tumor cells but was harmless to normal cells. But in the last few 
+months other researchers have come up with contradictory results that 
+``question the reliability of Onyx's original preclinical studies,'' 
+said Dr. Steven Linke, a molecular biologist at the National Cancer 
+Institute. ``McCormick has an excellent idea and I hope it will work,'' 
+Linke said. ``But in the new studies, the Onyx virus in some cases 
+is unable to kill tumor cells that lack p53 function. The conclusion 
+would have to be that the killing mechanism is independent of p53, 
+although if the clinical trials are successful, it may not matter 
+too much how the virus works.'' McCormick, who is now director of 
+the cancer center at the University of California at San Francisco, 
+agrees it is now clear that Onyx-015 can replicate in cancer cells 
+with an intact p53 gene, ``which is not consistent with the original 
+hypothesis at all.'' But he believes a new discovery about the genetics 
+of tumor cells goes far toward explaining the apparently contradictory 
+results. Even in tumor cells where the p53 gene itself is intact, 
+other things may go wrong in the pathways through which p53 operates 
+or is activated. Biologists have recently discovered the genetic relay 
+through which Rb signals to p53 that an improper division is in progress. 
+This gene, known as p14-arf, turns out to be mutated in many tumor 
+cells. McCormick says that all tumor cells may have mutations in either 
+the p53 gene or the p14-arf gene, so that either directly or indirectly 
+their p53 system is inactivated. This would explain why Onyx-015 can 
+replicate in tumor cells with normal p53 genes, he said. As for the 
+reports that Onyx-015 can infect normal cells in laboratory culture, 
+McCormick said it appears that the process of culturing cells to make 
+them grow outside the body can inactivate p14-arf, again creating 
+the conditions for Onyx-015 to flourish. He noted there was no sign 
+that Onyx-015 attacked normal cells in the living body. ``Viruses 
+are highly conserved and everything they do is for a clear purpose,'' 
+McCormick said. ``If you accept that the virus makes E1B-55K to neutralize 
+p53, then our original hypothesis has to be true.'' Other experts 
+say the suggestion that all tumor cells have knocked out either p53 
+or p14-arf is plausible but has yet to be fully demonstrated. They 
+said that regardless of exactly how Onyx-015 works, the general idea 
+of using viruses to target the Achilles' heels of tumor cells is highly 
+promising. ``Despite these bumps in the road, I still think it is 
+a very exciting strategy,'' Lowe said. ``If this virus doesn't work, 
+probably some other virus will.'' 
+</TEXT>
+</DOC>

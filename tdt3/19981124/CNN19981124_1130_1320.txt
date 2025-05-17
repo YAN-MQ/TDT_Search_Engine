@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981124.1130.1320 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Number 23 Michael Jordan scored 22 points as Pennsylvania handed number 
+six temple a 73-70 overtime upset. It's the quakers first win over 
+the owls in their last 18 meetings. 
+</TEXT>
+</DOC>

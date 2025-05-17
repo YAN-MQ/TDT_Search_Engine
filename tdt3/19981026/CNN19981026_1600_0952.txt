@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981026.1600.0952 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+An already powerful hurricane is getting even stronger. Hurricane 
+Mitch is now a category 5 hurricane, with winds of 170 miles an hour. 
+It's moving toward central America and could reach Honduras and Nicaragua. 
+</TEXT>
+</DOC>

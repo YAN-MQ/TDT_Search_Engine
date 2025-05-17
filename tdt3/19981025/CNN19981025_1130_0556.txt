@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981025.1130.0556 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Here's a reminder. Daylight saving time has ended for 1998. You should 
+have turned your clocks back one hour. If you didn't, you could arrive 
+where you're going an hour early today. 
+</TEXT>
+</DOC>

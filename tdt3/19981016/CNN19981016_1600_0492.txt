@@ -1,0 +1,10 @@
+<DOC>
+<DOCNO> CNN19981016.1600.0492 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended weather forecast for the United States is next. Then 
+later, a city is offering homeless people something they can call 
+their own. 
+</TEXT>
+</DOC>

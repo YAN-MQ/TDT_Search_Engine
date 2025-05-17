@@ -1,0 +1,71 @@
+<DOC>
+<DOCNO> NYT19981125.0089 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+When Marc Andreessen and his fellow whiz kids from the University 
+of Illinois arrived in Silicon Valley in 1994 to found Netscape Communications 
+Corp., the brash new darling of the digerati was the antithesis of 
+America Online, which was widely perceived as a shelter for technical 
+``newbies'' unprepared for the brave new world of the Net. That the 
+two are now on the brink of merging is a measure of how much the divide 
+between Internet sophisticates and mere computer-using mortals has 
+narrowed. This month's scheduled release of the movie ``You've Got 
+Mail,'' a romantic comedy starring Meg Ryan, Tom Hanks and America 
+Online, serves as final proof, if any were needed, that cyberspace 
+has gone mainstream. But however sound the business sense of such 
+a combination might be, the vestiges of the culture clash were reflected 
+Monday in currents of dark humor circulating through the Internet. 
+And the results could be anything but funny. It is a clash, say industry 
+analysts, that could color the future of the two companies if their 
+merger is completed as expected this week. ``I think AOL still has 
+all the stigma that it always had, as far as image goes,'' Jamie Zawinski, 
+a Netscape founder who now oversees part of the company's browser 
+development, wrote in an e-mail message to a reporter Monday afternoon. 
+Alluding to his own e-mail address, he wrote, ``My friends keep saying 
+`jwz(AT)aol.com' and then laughing uncontrollably.'' Among the jibes 
+making the electronic rounds were spoof lyrics meant to be sung to 
+the tune ``The Night They Drove Old Dixie Down'': ``The lesson is 
+you can't live long/ Unless you market to the clueless throng/The 
+night they sold old Netscape down/And all the browsers went corporate 
+...'' For their part, America Online partisans did not waste time 
+crowing. ``The battle is over. AOL wins,'' announced a posting to 
+one Internet news group. Such juvenile exchanges may be more of a 
+throwback to the elitist sparring of times past than a harbinger of 
+the future. But the very numbers that make the merger appealing also 
+underscore the extent to which the two most potent icons of the Internet 
+appeal to different audiences. According to the tracking firm NetRatings, 
+the users of the two companies' Web sites only overlap by about 23 
+percent Still, the more pressing question for many who would like 
+to see Netscape's Navigator browser survive as a viable alternative 
+to Microsoft's competing Internet Explorer is what America Online 
+will do with the company's technology-development arm. Earlier this 
+year, Netscape released the source code to its browser, allowing anyone 
+to submit changes and new features. While the company had little to 
+lose in the move, since it was also announcing free distribution of 
+its Navigator browser, the gesture was greeted as a sign that Netscape's 
+values were in the traditional open spirit of the Internet, which 
+the geek elite believe is the best strategy for developing bug-free 
+technology. Microsoft Corp., in contrast, epitomizes the closed, proprietary 
+model of software development. James Love, director of the Washington-based 
+Consumer Project on Technology, a group affiliated with Ralph Nader, 
+said his organization would oppose the acquisition. ``We are interested 
+in finding out how AOL will deal with Netscape's plans for support 
+of its browser as an open-source product that can be freely distributed,'' 
+Love said. ``This is a deceptively deep issue from a policy point 
+of view.'' But America Online, based in Dulles, Va., perhaps most 
+famous for its ubiquitous disks that pop up in everything from computer 
+magazines to cereal boxes, has based its success on marketing prowess, 
+not cutting-edge technology. ``AOL has been a driven and focused consumer 
+marketing company,'' said Gene DeRose, president of Jupiter Communications, 
+a New York-based consulting company. ``But they've had an uneasy relationship 
+with technology. Steve Case has always said, `I don't care where the 
+technology is; we just have to be where the action is.''' To those 
+for whom Netscape continues to symbolize an alternative to Microsoft, 
+the merger will probably never be quite palatable. Said David Cassell, 
+an America Online critic who runs the AOLwatch mailing list: ``They're 
+both huge corporations. Now it's going to be like watching Godzilla 
+fight Mothra and not being sure who you're rooting for.'' NYT-11-23-98 
+2132EST 
+</TEXT>
+</DOC>

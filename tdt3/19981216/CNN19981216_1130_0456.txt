@@ -1,0 +1,26 @@
+<DOC>
+<DOCNO> CNN19981216.1130.0456 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+I'm meteorologist Dave Hennen with your "CNN Headline News Weather." 
+The cold air beginning to filter in through the upper midwest, where 
+it will be below freezing for high temperatures today. It is still 
+mild, though, along the gulf coast. Much of the southeast into the 
+60s. And Santa Ana winds in southern California will again push temperatures 
+into the 80s. Windy in the southwest, as the high pressure area builds 
+in. That coupled with an area of low pressure in northern Mexico will 
+produce the gusty winds. Look for a little bit of snow back through 
+the Great Lakes, pushing in towards the northeast later on tomorrow. 
+And another system dropping out of Canada will produce some snow as 
+well through the upper midwest by late tomorrow. We check now the 
+extended forecast. It is going to turn colder beginning on Friday 
+through the upper midwest. We'll find some snow showers likely through 
+the Great Lakes and windy conditions in through the northern Rockies. 
+Colder air really moving in on Saturday into Montana, in through the 
+dakotas with single-digit high temperature readings, and snow and 
+windy conditions accompanying the cold air. And by Sunday, very cold, 
+Arctic air will begin to work its way into the northern midwest. For 
+even more weather information, log into CNN.com. 
+</TEXT>
+</DOC>

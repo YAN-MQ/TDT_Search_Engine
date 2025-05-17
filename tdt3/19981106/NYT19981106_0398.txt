@@ -1,0 +1,90 @@
+<DOC>
+<DOCNO> NYT19981106.0398 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+The stock market has spoken. Its tidings: Happy days are here again. 
+As of Friday's close, most broad market measures were either close 
+to their summer highs or at them. The Dow Jones industrial average 
+closed the week at 8,975.46, up 59.99 points for the day and 4.46 
+percent for the week. That places the Dow only 3.8 percent below its 
+July 17 peak and up 19 percent from its Aug. 31 low. For the year, 
+the Dow is up a respectable 13.49 percent. Big-capitalization stocks 
+that make up the Dow average are not the only ones moving up. The 
+Wilshire 5000 index, the best approximation for the entire U.S. stock 
+market, has shown an even better performance. It has jumped 21 percent 
+from its Oct. 8 low, and is up 12.4 percent for the year. Friday, 
+the Wilshire had a value of $11.5 trillion. In about one month, the 
+value of the index has risen more than $2 trillion. As of Friday, 
+the market has gone eight sessions without a down day, its second 
+example of such durability in less than one month. But extended moves 
+like these are unusual: to find a third example of such staying power 
+requires a trip back to 1997. What's fueling this move? Traders and 
+strategists point to several disparate factors. Most significant, 
+perhaps, is a sea change in monetary policy not just domestically 
+but around the world. Central banks, beginning with the Federal Reserve 
+back in September and extending to Britain, Latin America and parts 
+of Asia, have been reducing interest rates fairly aggressively. According 
+to Jeffrey Applegate, chief investment strategist at Lehman Brothers, 
+since the September rate cut by the Fed, 27 central banks have done 
+the same. ``In the last month and a half, the global policy outlook 
+has improved,'' Applegate said. ``Then this week we had a slew of 
+data that was stock-market friendly. I think the fear trade is out 
+of the market.'' Lower interest rates are almost always a tonic for 
+stocks largely because they mean reduced borrowing costs _ and the 
+potential for higher profit margins _ for corporations. So it is not 
+surprising that historically, a cut in the discount rate _ the Fed's 
+borrowing rate for banks _ is followed by an average 12-month increase 
+in the Standard &AMP; Poor's 500 index of 18 percent. Stocks have 
+been getting an additional lift from a giant increase in the money 
+supply. According to Ian Shepherdson, chief U.S. economist at High 
+Frequency Economics in Valhalla, N.Y., the broadest measure of money 
+supply, known as M-2, which includes currency in circulation, savings 
+accounts and money market mutual funds, has grown by 2.5 percent in 
+the last two months. The annualized rate for the last three months 
+is 9.3 percent, the fastest annual expansion since 1987. ``This tells 
+me that there isn't a credit crunch,'' Shepherdson said. ``And all 
+this liquidity sloshing around has got to go somewhere.'' That somewhere 
+appears to be the stock market. An increase in the money supply comes 
+basically from the Fed providing reserves to the banking system, which 
+banks use to lend. ``New lending and investing power is created as 
+money turnover speeds,'' said Robert Parks, an economist and consultant 
+to institutional investors in Scarborough, N.Y. ``It brings increased 
+spending power that can go into stocks.'' Another supply of money 
+coming into stocks is from investors selling Treasury holdings in 
+recent days. When Russia effectively defaulted on its debt in August, 
+Treasuries became the darling of investors. No more. The price of 
+the 30-year bond has tumbled this week. Its yield, which rises when 
+the price falls, ended at 5.38 percent, up from 5.15 percent a week 
+earlier. An interesting, if somewhat obscure, reason for the advance 
+in equities may be the decline in stock volatility recently. Volatility 
+_ basically the range from high to low in stocks during the trading 
+day _ peaked on Oct. 15. Applegate notes that since 1948, the S&AMP;P 
+500 has risen an average 12 percent in the twelve-month period after 
+a peak in volatility. ``As long as the policy outlook continues to 
+look good, then risk aversion should come down, volatility should 
+come down and returns should come up,'' he said. Although the stock 
+market is clearly enjoying the recent spate of good news, it is choosing 
+to shrug off some troubling indicators. Corporate earnings, for example. 
+While all the earnings announcements are not quite in for the third 
+quarter, the period was a disappointment. Even though many analysts 
+have focused on the positive announcements, those were a distinct 
+minority. According to John Manley Jr., equity strategist at Salomon 
+Smith Barney, of the 428 companies that have reported third-quarter 
+results, fewer than 36 percent recorded a positive surprise. Manley 
+defines a positive surprise as a company that reports a result greater 
+than the consensus estimate on Wall Street one month before the quarter 
+ended. Neither do stocks seem to care that it is becoming increasingly 
+likely that the Fed's policy-making committee will not cut rates at 
+its Nov. 17 meeting. Alan Greenspan, chairman of the Fed, said on 
+Thursday that investors and lenders appear less fearful than they 
+had been. If the deep freeze in the credit markets is indeed beginning 
+to thaw, as Greenspan seems to believe, another quick rate cut is 
+less likely. Some investors are calling the recent moves in stocks 
+the John Glenn rally. After all, since Glenn blasted off from Cape 
+Canaveral, the market has rallied nearly 10 percent. As long as he 
+has been in orbit, so has the stock market. Glenn returns to earth 
+Saturday. Investors clearly hope the stock market does not follow 
+suit. 
+</TEXT>
+</DOC>

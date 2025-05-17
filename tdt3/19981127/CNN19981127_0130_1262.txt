@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> CNN19981127.0130.1262 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Jerome Jurenovich, "CNN Headline Sports." On Thanksgiving, the Cowboys 
+got a taste of what the Vikings have been serving up this season, 
+a full plate of Moss. Randy Moss scored on three TDs of over 50 yards 
+-- two in the first quarter and one in the third -- as Minnesota jumped 
+out to a big lead and never looked back, in a 46-36 downing of Dallas. 
+</TEXT>
+</DOC>

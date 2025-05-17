@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> APW19981011.0206 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+BELGRADE, Yugoslavia (AP) _ U.S. envoy Richard Holbrooke insists ``nothing 
+has changed'' in efforts to convince Yugoslavia to accept international 
+demands for peace in Kosovo, despite the government's insistence it 
+has met those demands. 
+</TEXT>
+</DOC>

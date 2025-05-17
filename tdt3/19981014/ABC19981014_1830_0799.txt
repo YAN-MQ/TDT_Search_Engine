@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> ABC19981014.1830.0799 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The Dow Jones industrials were up more than 30 opponents to close 
+at 7968. On the NASDAQ market, stocks were up 31 1/2 points. 
+</TEXT>
+</DOC>

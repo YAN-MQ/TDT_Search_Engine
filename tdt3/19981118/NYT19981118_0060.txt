@@ -1,0 +1,181 @@
+<DOC>
+<DOCNO> NYT19981118.0060 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Haven't we seen this screen before? The latest Internet initiative 
+from Microsoft Corp. is an all-in-one service that combines news, 
+information, shopping, bulletin boards and electronic mail. Even its 
+name sounds familiar: MSN. Of course, MSN was originally the banner 
+for one of Microsoft's most embarrassing missteps, a subscription-based 
+online service meant to crush America Online. But that service, introduced 
+three years ago, was slow, full of bugs and hard to use, and it fell 
+far behind the competition _ on one side from America Online and on 
+the other from the emerging World Wide Web. Shifting its focus to 
+the Internet, Microsoft then poured money into elaborate entertainment 
+offerings, but few people looked at them. After canceling those, the 
+company built a series of Internet services meant to be useful, like 
+the Sidewalk local-entertainment guide and the Expedia travel agency. 
+Now, it seems, there's no page like home. The company has realized 
+that on the Web, the power and the money are going to search engines 
+like Yahoo, which have added so many features that they are beginning 
+to look like just the sort of online service MSN was three years ago. 
+So Microsoft has reversed itself again and is stitching its disparate 
+Internet services back into a unified network, which it reintroduced 
+in September under the name MSN. The service has hardly taken the 
+world by storm, and it may face additional questions. Last week, Pete 
+Higgins, the top Microsoft executive who looked after the company's 
+online efforts, announced that he would take a six-month leave of 
+absence beginning in January and would return in an unspecified capacity. 
+For now, the online business will report to Steve Ballmer, Microsoft's 
+president, who is widely seen as more hard charging and confrontational 
+than Higgins. Higgins says that his departure reflects no more than 
+a desire to take a break to spend time with his family and tend his 
+salmon farm. But in a sign that Microsoft may see the need for a more 
+significant change, Ballmer said the company was searching for an 
+outsider to replace Higgins. ``Pete has us on a nice trajectory,'' 
+Ballmer said. ``All we're trying to do is pump up the volume as we 
+move forward.'' Microsoft's trouble in gaining traction for its Web 
+effort stands in sharp contrast to the speed with which its Internet 
+Explorer Web-browsing software has been able to surge past its main 
+competitor, the browsers offered by Netscape Communications Corp. 
+The Justice Department, of course, has been arguing that Microsoft 
+improperly used the market power of its Windows operating system to 
+extend its domination into the browser market. But while the new MSN 
+has the seeming advantage of being reachable by a single mouse click 
+from the Internet Explorer browser that comes loaded on every new 
+Windows PC, it remains uncertain how many Web surfers will choose 
+to make that click. After all, the initial MSN online service also 
+had the enviable asset of a start button on the main screen of Windows 
+95. Microsoft's biggest advantage in its Web effort, however, may 
+be the popularity of some of its individual Web sites. Most notably, 
+the Hotmail e-mail service that Microsoft bought last year signs up 
+150,000 new users a day. Taken together, the Microsoft sites constitute 
+the third-most-popular network on the Internet after America Online 
+and Yahoo, according to Media Metrix, the rating service based in 
+New York. Not that all this was planned. Microsoft is the master of 
+the so-called ready-fire-aim business model. The company introduces 
+a hastily conceived product and then, through a war of attrition affordable 
+perhaps only to a company with a stock-market value of $274 billion, 
+methodically hunts down the bugs until a version of the product finally 
+wins the minds, if not the hearts, of the computing masses. This trial-and-error 
+approach has convinced Microsoft that Web sites are in fact mainly 
+another form of software. That is a sharp contrast to the approach 
+taken by Yahoo, Disney and most other purveyors of what are called 
+``portals'' _ a media-network approach to the business that is based 
+on gathering and retaining as large an audience as possible to sell 
+to advertisers. Microsoft says it hired many media types but learned, 
+for example, that what brings people back to Sidewalk is not witty 
+reviews or flashy graphics but sophisticated programs that help people 
+find the events they are looking for and then display a map of nearby 
+restaurants. The other sites that have worked well for the company 
+allow customers to use software to search for airplane tickets, cars, 
+home mortgages and the like. Microsoft sees MSN as closer to an extension 
+of its Office suite of programs than as a magazine or an online television 
+channel. This plays into its current thinking about how it will turn 
+MSN's losses _ which it declines to quantify _ into profits. First, 
+all those programs that help people find things to buy, like Expedia 
+and so on, put Microsoft in a position to earn fees from each transaction. 
+And second, it sees a host of new computerized services that can be 
+delivered over the Internet as part of what the chairman, Bill Gates, 
+calls the company's megaserver strategy. For example, customers could 
+connect to MSN to automatically back up the information stored on 
+their hard drives. They may pay a fee for this _ or, more likely, 
+Ballmer says, they will have to watch advertising as the service is 
+performed. The biggest mistake Microsoft made as its strategy evolved 
+was to miss the power of portals. But it has now focused its prodigious 
+product development organization on building a better portal. Microsoft's 
+research department regularly surveys hundreds of Internet users. 
+It has discovered that so far only one-third of the users of the so-called 
+``portal'' sites exhibit what it defines as ``portal behavior'' _ 
+using at least three services within the same name-brand portal site. 
+But that proportion is growing rapidly, meaning that while the market 
+remains open, it may not stay so as consumers develop Web brand loyalty. 
+As the center of its portal strategy, Microsoft created a new home 
+page, called MSN.com, meant to be a jumping-off point for its other 
+services. This page is the first thing that many users of Microsoft's 
+Internet Explorer now see. So do users of the old MSN online service, 
+which has been transformed into what amounts to a basic Internet-access 
+service provider. As at other portals like Yahoo and Excite, the MSN.com 
+home page lets users select certain information _ like local weather, 
+sports, and news on certain topics _ that they want to see first thing 
+every day. During the initial planning earlier this year, this portal 
+page was going to be called ``Start,'' a name that echoes the button 
+on the Windows desktop. But upon further review, the name struck Microsoft 
+executives as too transient and too oriented toward beginners. Instead, 
+it chose MSN to emphasize this network theme and redesigned its other 
+services to appear more consistent and to feature the MSN logo. Thus 
+Hotmail became MSN Hotmail, Expedia is MSN Expedia, and so on. Each 
+of these has a series of links that direct users to other sites in 
+the network. The result, since the September rollout, has been an 
+immediate jump in traffic. Before the new design, for example, only 
+13 percent of the visitors to Expedia came from other Microsoft sites, 
+the company says. Now it is 54 percent. Even Hotmail, which has demonstrable 
+momentum on its own, now gets about one-third of its new-member referrals 
+from other MSN sites. It has been difficult for Microsoft's evolving 
+online strategy to maintain credibility with advertisers. ``The strategic 
+direction changed so often that every time you worked with them it 
+didn't go anywhere,'' said Michael Golden, the head of media at Organic 
+Online, an interactive advertising agency. Organic, he said, spent 
+a lot of time with Avis Rent A Car on a sponsorship of the Microsoft 
+travel site, now defunct, called Mungo Park. Recently, he allows, 
+several of his clients have been finding vigorous sales on the MSN 
+Shopping site. Over the last few months, Microsoft has more than doubled 
+its ad-sales force to 40 people from 20. And it has discovered what 
+America Online realized about a year ago _ that there is a lot of 
+money available to offer online ``distribution'' to other Web services 
+as well as traditional marketers. The company, for example, took in 
+a total of $60 million from four search engines _ Alta Vista, Infoseek, 
+Lycos and Snap _ to be featured on the MSN home page. It signed a 
+$90 million advertising deal with First USA, the credit-card unit 
+of Bank One. And it has sold $26 million worth of local advertisements 
+on its redesigned Sidewalk service, which is moving to be more of 
+a national yellow pages than an entertainment guide. As much as the 
+strategic direction may have shifted, people who deal with MSN say 
+that its executives move with a hard nose in whatever direction they 
+are pointed. One marketing official of an online store that has a 
+multimillion-dollar contract for Microsoft to send shoppers to its 
+site was flabbergasted when MSN officials asked the advertiser to 
+put links on its site to send surfers back to MSN after shopping. 
+``They are much more hard driving and bottom-line oriented than other 
+Internet companies,'' said the marketer, who rebuffed the demand. 
+For all that, MSN's new consistent-brand approach glosses over the 
+many incompatibilities between the sites that resulted from the various 
+product groups that did not coordinate design of their sites. Because 
+each of the originally separate services posted a slightly different 
+privacy policy, they cannot share data about users with other parts 
+of the network. Such exchanges, however, would be difficult anyway, 
+because each site has a separate user-registration database. One person 
+can sign up for the user code name Bsmith on Hotmail. A second Bsmith 
+could use that name on Expedia and a third person could sign up separately 
+on Investor. Or all three accounts could be the same person, and Microsoft 
+would have no way of knowing. Microsoft says it is working on a way 
+to have a single unified registration account, of the sort that Yahoo 
+and Excite have. But it will be complicated to retroactively change 
+customers' account information. And even over the last year, as the 
+strategy was changed to merge the separate sites into the unified 
+portal, it was up to the separate teams to work out the details of 
+the integration among themselves. The process, especially to newcomers, 
+was excruciating. ``In a start-up, I spent less than 1 percent of 
+my time communicating what we were doing,'' said Sabeer Bhatia, the 
+chief executive of Hotmail, who was with the company when Microsoft 
+bought it. ``At Microsoft, the overhead of having meetings and building 
+a consensus among a group of people is so high, I had to hire people 
+just to manage the communication,'' he said. All that is now in the 
+past, Microsoft executives assert. Their strategy is set and they 
+are all working to flesh out this new vision of a utilitarian portal. 
+Similarly, Microsoft is working to improve MSN by expanding the Internet 
+search capability and adding instant messaging and other features 
+that let users communicate with one another and form virtual communities. 
+There will also be much more emphasis on shopping services, to complement 
+the new design of Sidewalk, and offerings for small businesses and 
+Web publishers provided by the Link Exchange advertising network of 
+400,000 Web sites that Microsoft recently acquired. Of course with 
+all the changes, many wonder how long Microsoft will be willing to 
+continue to lose money on its online efforts. But Ballmer insists 
+the company will not pull out. ``We are a company that makes long-term 
+investments,'' he said last week. ``MSN can be a great business. The 
+largest unanswered question is how quickly will this happen.'' NYT-11-15-98 
+1828EST 
+</TEXT>
+</DOC>

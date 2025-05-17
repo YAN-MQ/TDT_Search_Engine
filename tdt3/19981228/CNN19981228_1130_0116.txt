@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981228.1130.0116 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+It could be midweek before residents in several southern states have 
+their power restored. An ice storm crippled parts of the region leaving 
+many in Tennessee, virginia, Louisiana and Mississippi without electricity. 
+In northwestern Alabama, about 5,000 customers could be stranded without 
+power for several more days. An electrical worker died while trying 
+to restore power. Authorities say he came in contact with a live wire. 
+</TEXT>
+</DOC>

@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981212.0130.1100 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A faster way to send a holiday greeting became slower for some people 
+this week. Users of AT&T worldnet clogged the online service with 
+E-mails containing graphics and audio, which take more space than 
+text messages, and take longer to transmit. The result -- thousands 
+of customers faced delays of up to 45 minutes for sending and receiving 
+E-mail Wednesday, with shorter delays Thursday. The company says there 
+were no messages lost during the slowdown. 
+</TEXT>
+</DOC>

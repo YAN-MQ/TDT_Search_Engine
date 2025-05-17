@@ -1,0 +1,99 @@
+<DOC>
+<DOCNO> NYT19981026.0347 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+Opening a new line of defense in its antitrust trial, Microsoft Corp. 
+on Monday portrayed a meeting that is a focal point in the government's 
+case as a ``set up'' orchestrated by its Internet software rival, 
+Netscape Communications Corp. Microsoft based that claim on the fact 
+that the Justice Department issued a civil subpoena to Netscape the 
+day after the meeting, on June 21, 1995, and that two days later government 
+lawyers received a reply from a Netscape lawyer. Microsoft obtained 
+the previously undisclosed letter from the Netscape lawyer to the 
+Justice Department only two days ago _ an omission that Microsoft 
+called a ``flagrant'' breach by the government of the rules of pretrial 
+document discovery. The Justice Department and the states that are 
+suing Microsoft have alleged that at the June 21, 1995, meeting Microsoft 
+made an illegal offer to Netscape to divide the market for the browser 
+software used to navigate the Internet's World Wide Web. And the next 
+day, in an e-mail message to Microsoft Chairman Bill Gates, Dan Rosen, 
+a Microsoft executive who had attended the meeting, reported that 
+much of the discussion between Microsoft and Netscape had ``centered 
+on how the lines would be drawn between'' what Microsoft and Netscape 
+would market. In his fourth day cross-examining James Barksdale, president 
+and chief executive of Netscape, John Warden, Microsoft's lead lawyer, 
+asked the question that framed what he called the ``set up'' defense. 
+``Isn't it a fact,'' Warden declared, ``that the June 21, 1995, meeting 
+was held for the purpose of creating something that could be described 
+as a record to be given to the Justice Department to spur them on 
+to take action against Microsoft?'' Barksdale replied, ``That's absurd.'' 
+David Boies, the Justice Department's trial counsel, said the subpoena 
+for information was issued to Netscape in connection with another 
+inquiry into Microsoft that the government was already conducting 
+at the time. Boies said Microsoft's effort to portray the June 1995 
+meeting as a Netscape conspiracy suggested that Microsoft's lawyers 
+were straining to try to discredit a powerful allegation in the government's 
+case. ``Any time a defendant says, `We were set up,' I think that 
+tells you how a trial is going,'' Boies said. The subpoena issued 
+by the Justice Department the day after the Netscape-Microsoft meeting 
+does refer specifically to a separate matter that the government was 
+investigating at the time: Microsoft's plan to bundle its online service, 
+Microsoft Network, or MSN, with its new operating system, Windows 
+95, which was shipped two months later, in August 1995. That investigation 
+had been undertaken after America Online complained that placing a 
+direct link to MSN from the Windows 95 desktop was an unfair leveraging 
+of Microsoft's monopoly in operating systems. (That complaint was 
+eventually settled when Microsoft agreed to place a link to America 
+Online on the Windows desktop _ but only after the online service 
+agreed to distribute Microsoft's browser to all its millions of members. 
+David Colburn, a senior vice-president of America Online, is expected 
+to testify about that deal later this week.) In the end, the Justice 
+Department took no action to prevent Windows 95 from being shipped 
+with a link to Microsoft Network. Yet the June 23, 1995, response 
+by Gary L. Reback, then a Netscape lawyer, to the Justice Department's 
+subpoena for information in the MSN investigation focused mainly on 
+the meeting two days earlier. Reback's four-page letter states that 
+at the meeting, Microsoft said it would not provide Netscape with 
+necessary technical information unless ``Microsoft gets an equity 
+interest in Netscape, a seat on Netscape's board of directors, and 
+otherwise controls Netscape's ability to compete against Microsoft.'' 
+Later, Reback, a partner at Wilson Sonsini Goodrich &AMP; Rosati, 
+wrote that Microsoft had made it clear that if Netscape was going 
+to compete with Microsoft ``in any way,'' then Microsoft ``will competitively 
+harm Netscape.'' Attached to Reback's letter was a copy of the notes 
+taken at the June 1995 meeting by Marc Andreessen, a co-founder of 
+Netscape, in which he described the ``threat'' by Microsoft that it 
+planned to ``own'' the market for browsers that run on Windows 95 
+and that ``Netscape should stay away.'' In its motion seeking sanctions 
+against the Justice Department on Monday, Microsoft said, ``The recently 
+produced documents demonstrate quite clearly that the June 21, 1995, 
+meeting was a `set up' orchestrated by Netscape's counsel.'' Later 
+on Monday, Microsoft introduced documents and memos from Netscape's 
+files suggesting that the company had lost an important corporate 
+customer to Microsoft largely because of Netscape's own failings, 
+not because of predatory behavior by Microsoft. In 1996, Intuit, maker 
+of Quicken, the popular personal-finance software, asked Netscape 
+to provide a customized version of Netscape for use with Quicken. 
+The Netscape documents suggest that the company could not provide 
+the new software for many months. One slide from an internal Netscape 
+presentation shown in court on Monday included the heading ``We offered, 
+but did not deliver'' the five custom modifications to the program 
+that Quicken had wanted. ``While you were trying to figure things 
+out,'' Warden said, ``Microsoft had already offered'' a customized 
+version of its browser. Barksdale acknowledged that Netscape had made 
+errors, but added, ``I don't think that was the primary reason we 
+did not get the business.'' Microsoft offered Intuit special inducements 
+that Netscape could not match, he said, including free software and 
+special coding in Windows that made Quicken easier to run. After four 
+full days off cross examination, Warden closed the questioning of 
+Barksdale on Monday evening by entering into evidence a note written 
+in jest by several employees for display on Netscape's internal computer 
+network. ``Next Monday Netscape will release two or three more bug-ridden 
+beta versions'' of Netscape Navigator, the note began, adding that 
+the program ``is faster than a dog with no legs, if the dog's up to 
+his waist in treacle. And dead.'' Barksdale explained, ``We allow 
+our employees to let off steam this way. Mostly they complain about 
+the food in the cafeteria.'' 
+</TEXT>
+</DOC>

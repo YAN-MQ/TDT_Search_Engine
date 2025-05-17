@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981209.0130.0730 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The FBI has opened its files on Frank Sinatra. In addition to facts, 
+the almost 1,300 pages include a number of unproven allegations about 
+the singer. Among them, that he had ties to organized crime and that 
+he dodged the draft during world war II. The file also includes Sinatra's 
+mug shot from his arrest in 1938 on seduction charges. And there's 
+information on a death threat Sinatra received in 1969. 
+</TEXT>
+</DOC>

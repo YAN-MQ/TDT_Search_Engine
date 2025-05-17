@@ -1,0 +1,35 @@
+<DOC>
+<DOCNO> CNN19981129.1600.0612 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Gene therapy is showing promise in treating a number of diseases. 
+Now, scientists are applying that technology to fight baldness. Dr. 
+Steve Salvatore reports. The newest baldness study turns conventional 
+wisdom on its head. Researchers at the University of Chicago's Howard 
+Hughes medical institute experimented with mice. When it comes to 
+skin problems, a lot of what's found in mice applies to people. And 
+they found that bald mice can grow new hair follicles. We've always 
+been told that you're born with a fixed number of hair follicles, 
+and that you can never grow them again in adult life. This study would 
+suggest that we now have the capability to do that. What caused the 
+bald mice to grow hair is a protein called beta catenin. Beta catenin 
+has the ability to stimulate the formation of new hair follicles, 
+a process that normally takes place in development and one which can 
+be induced in adult skin. There are dangers to consider. You can actually 
+go too far and cause the cells to grow too much. So you want to turn 
+on these genes for a short enough time to grow a Follicle, and then 
+turn them back off. And that could cause the development of tumors. 
+Scientists say more research is needed. We still need to understand 
+how this molecule is regulated inside the cell of the developing hair 
+follicle to really take it to the level of clinical application. Many 
+consider baldness to be a man's problem. And it's not surprising, 
+with 50% of men over age 50 experiencing some kind of male pattern 
+baldness. But there are many different types of baldness that can 
+affect women and even children. The researchers say their finding 
+may not be able to help everyone. For those people who are born bald 
+or very soon become bald, I would say that this finding may not have 
+clinical application. So for now, if you're bald, you're going to 
+have to be patient. Dr. Steve Salvatore, CNN, New York. 
+</TEXT>
+</DOC>

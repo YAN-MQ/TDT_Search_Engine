@@ -1,0 +1,12 @@
+<DOC>
+<DOCNO> NBC19981202.1830.1742 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+That is "Nightly News" for Wednesday. Don't forget "Dateline" at 9:00, 
+8:00 central. I'm Tom Brokaw. We leave you with a look at the masses 
+gathered just outside our doors, waiting for the lighting tonight 
+just before 9:00 on NBC of the Rockefeller center Christmas tree. 
+See you back here tomorrow night. 
+</TEXT>
+</DOC>

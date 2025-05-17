@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981118.1130.0346 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+New labels should soon appear on dietary supplements. The federal 
+trade commission today will issue guidelines that would require manufacturers 
+of dietary supplements to support claims about what their products 
+can do. The labels should also explain the benefits which makers imply 
+in advertising. By law, dietary supplements, which can be sold without 
+government approval, cannot promise to directly treat or prevent disease. 
+Americans spend about $5 billion on supplements a year. 
+</TEXT>
+</DOC>

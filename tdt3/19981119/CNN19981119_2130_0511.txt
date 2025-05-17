@@ -1,0 +1,23 @@
+<DOC>
+<DOCNO> CNN19981119.2130.0511 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This is meteorologist Valerie Voss with your "CNN Headline News Weather" 
+forecast for Friday. We'll see some snow showers moving from the Great 
+Lakes up across northern New England and then some more across the 
+Great Lakes with a trough of low pressure. Meanwhile, rain moves to 
+the east coast along the cold front. The central part of the country 
+is quiet, but in the northwest, a strong storm will bring heavy rain, 
+strong winds and mountain snows. High temperatures Friday just in 
+the 30s over the upper midwest and temperatures are cooling off in 
+the southeast as well. On Saturday, we'll continue to see heavy rain 
+and wind in the northwest with some snow showers rotating across the 
+northeast. For Sunday, no change in the northwest. Temperatures are 
+moderating across the country with 60s into the central plains, 40s 
+across much of New England. Monday, it is a bit warmer, but the west 
+is still wet and windy. Don't forget, you can find four-day forecasts 
+for more than 7,200 cities at cNN interactive. The address there is 
+CNN.com. 
+</TEXT>
+</DOC>

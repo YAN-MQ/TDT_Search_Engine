@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981217.1130.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Britain's highest court will hold a new appeal hearing for former 
+Chilean dictator augusto Pinochet next month. The court declared null 
+a previous ruling that denied Pinochet immunity from prosecution because 
+one of the judges had a close association with amnesty international. 
+Amnesty international has been pushing to put Pinochet on trial. These 
+and other stories in 15 minutes. 
+</TEXT>
+</DOC>

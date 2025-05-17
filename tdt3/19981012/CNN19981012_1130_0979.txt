@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981012.1130.0979 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Stocks are posting impressive gains on Wall Street. Investors are 
+snapping up blue chips and technology stocks, and that's sending the 
+Dow back above the 8000 Mark. With advancing issues outnumbering decliners 
+by a better than 3-1 margin. The broader markets are also all in the 
+plus column. The NASDAQ composite soaring 62 points. Adding fuel to 
+the NASDAQ's fire -- shares of Intel up 1 1/4. No action in the bond 
+market today. It's closed for the Columbus day holiday. 
+</TEXT>
+</DOC>

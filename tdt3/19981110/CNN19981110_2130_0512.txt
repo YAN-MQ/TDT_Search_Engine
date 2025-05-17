@@ -1,0 +1,25 @@
+<DOC>
+<DOCNO> CNN19981110.2130.0512 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+This look at your "CNN Headline News" weather begins with our forecast 
+weather map for Wednesday morning. The bad storm that's been producing 
+blizzard conditions in the upper midwest rapidly moves off to the 
+north and east and the cold front associated with it, that's been 
+producing severe weather, moves very rapidly towards the east coast 
+of the United States. During the day on Wednesday, that front should 
+be moving off the east coast. However, by late in the day, still scattered 
+showers from Maine to Florida. Behind it, much cooler air sliding 
+in in association with the high-pressure center. In the west, a much 
+weaker storm comes moving through. Your forecast for high temperatures 
+tomorrow indicates very chilly conditions behind the storm. You can 
+see that some places in the Rockies will see highs only -- only in 
+the teens. We move ahead and take a look at your extended forecast. 
+On Thursday, temperatures moderate. Some rain is possible in parts 
+of Texas. As we move on to Friday, that rain in the south spreads 
+eastward. And as we head on into Saturday, you can see rainfall is 
+expected in the eastern portion of the country and in the great northwest. 
+For more weather information, log on to CNN.com. 
+</TEXT>
+</DOC>

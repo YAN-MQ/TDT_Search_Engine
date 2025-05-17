@@ -1,0 +1,17 @@
+<DOC>
+<DOCNO> ABC19981223.1830.0393 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+"On the money" tonight -- Wall Street today, the Dow Jones industrial 
+average was up more than 157 points to close at 9202. On the NASDAQ, 
+stocks were up more than 51 points to close at 2172, a Record high. 
+The economy continues to be impressive. The Gross domestic product, 
+which measures all goods and services, was up 3.7% in the third quarter. 
+An indication today of the remarkable growth of the Internet or at 
+least the popularity of Internet stocks, the stock of Amazon.com, 
+best known for selling books on the Internet, has gone up so much 
+in the past few months that the company's market value is now $17 
+billion, more than giant retailer Sears, which is worth $16 billion. 
+</TEXT>
+</DOC>

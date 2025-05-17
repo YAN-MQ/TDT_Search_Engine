@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981213.1000.0717 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Hanukkah begins at sundown tonight and lasts for eight days. The commemoration 
+of freedom is the only major Jewish holiday that has no basis in the 
+Bible. The major ritual of hanukkah is the lighting of the menorah. 
+Each night after sundown, one light is added until all eight are lit. 
+</TEXT>
+</DOC>

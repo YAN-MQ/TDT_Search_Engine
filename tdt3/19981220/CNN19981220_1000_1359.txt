@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981220.1000.1359 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The NBA players maybe locked out but didn't stop them from playing 
+in an exhibition game in Atlantic City. Red team defeated team white. 
+Tim Hardaway poured in 31 points. Don't forget to check the ticker 
+for all the day's scores. Rob Ticktin, "CNN Headline Sports." 
+</TEXT>
+</DOC>

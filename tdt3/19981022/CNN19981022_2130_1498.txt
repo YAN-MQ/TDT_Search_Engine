@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981022.2130.1498 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Paul McCartney is softening his stance on testing drugs on animals. 
+McCartney, along with his late wife Linda, was always a staunch animal 
+rights activist. McCartney tells the BBC that when his wife was fighting 
+breast cancer, she took drugs that were tested on animals. He says 
+he now realizes some of that testing is absolutely necessary, but 
+that it's still hard for him to think like that. 
+</TEXT>
+</DOC>

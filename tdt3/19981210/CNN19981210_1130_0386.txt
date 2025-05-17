@@ -1,0 +1,16 @@
+<DOC>
+<DOCNO> CNN19981210.1130.0386 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+With another successful space walk under their belts, astronauts aboard 
+the shuttle "endeavour" are expected to make space history today. 
+The six crew members plan to open a series of hatches and go into 
+the two modules docked to the shuttle's cargo bay. When they do, they'll 
+become the first people to go inside the international space station. 
+Astronauts will do a variety of things, including checking the modules' 
+power. Yesterday, two astronauts finished their second space walk 
+on the outside of the space station. One more space walk is scheduled 
+during "endeavour's" mission. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981104.1130.0485 </DOCNO>
+<DOCTYPE> MISCELLANEOUS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The extended U.S. weather forecast is next. And then -- everyone wants 
+their trips to the dentist to go well. We'll look at your best defense 
+against cavities. I'm meteorologist Dave Hennen with your "CNN Headline 
+News" weather. 
+</TEXT>
+</DOC>

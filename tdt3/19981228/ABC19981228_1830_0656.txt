@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> ABC19981228.1830.0656 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+A new report finds that the nation's violent crime rate is now the 
+lowest it's been in nearly 25 years. The decline is atributed to the 
+decrease in the amount of crack cocaine being sold and successful 
+effort to to seize handguns. Rapes and sexual assaults have not declined. 
+</TEXT>
+</DOC>

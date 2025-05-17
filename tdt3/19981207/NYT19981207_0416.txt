@@ -1,0 +1,98 @@
+<DOC>
+<DOCNO> NYT19981207.0416 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+In his most tart and aggressive comments yet about the antitrust case 
+against his company, Microsoft's chairman, Bill Gates, blamed the 
+government Monday for what has been widely perceived as his uncooperative 
+attitude in a taped deposition, saying the real problem was not the 
+answers he gave, but the questions he was asked. ``I had expected 
+Boies to ask me about competition in the software industry,'' Gates 
+said, referring to David Boies, the government's lead lawyer in the 
+antitrust suit against Microsoft Corp. ``But no, he didn't do that.'' 
+Instead, he said during a news conference, Bois was just ``badgering'' 
+him ``to give yes-or-no answers when he knew the questions were ambiguous.'' 
+Gates has discussed the case before, including at last month's meeting 
+with Microsoft's shareholders. But his comments Monday were the first 
+time he has publicly criticized prosecutors for their questioning 
+of him during his deposition. While gathering evidence for the antitrust 
+trial, Boise and other lawyers for the government interviewed Gates 
+for 20 hours in August. And as they have played excerpts from the 
+deposition at the trial during the past eight weeks, criticism of 
+Gates has mounted. Perhaps the potentially most damaging criticism 
+was a comment two weeks ago by Judge Thomas Penfield Jackson, who 
+is hearing the case in U.S. District Court here. ``It's evident to 
+every spectator that for whatever reasons, in many respects Gates 
+has not been particularly responsive to his deposition interrogation,'' 
+Jackson told Microsoft lawyers. Asked about the judge's remarks Monday, 
+Gates said, ``I answered every question, but Boies made it clear that 
+he is out to destroy Microsoft and make us look very bad.'' Gates 
+spoke over a satellite video link to a news conference held here and 
+organized by Microsoft to accuse the government of attempting to try 
+the case in the news media. ``They are trying to turn this into a 
+P.R. spectacle,'' said Charles Rule, a former head of the Justice 
+Department's antitrust division who is now a Microsoft legal consultant. 
+As he spoke, Rule was flanked by the leaders of Microsoft's legal 
+team and large video monitors for Gates' appearance. ``Our focus is 
+in the courtroom,'' Rule said, ``but we cannot and will not stand 
+by without responding.'' Since the Justice Department filed suit against 
+Microsoft in May, the government has not held a news conference relating 
+to the case, nor has it issued a news release, except those about 
+scheduling matters. Microsoft, on the other hand, holds one or two 
+news briefings each week and regularly issues position papers and 
+releases. Monday, for example, the company distributed a 21-page report 
+titled ``A Case of Trial in Error: The Microsoft Antitrust Suit,'' 
+which largely repeats legal and political arguments the company has 
+already made several times. Monday afternoon, the Justice Department 
+did issue a one-sentence statement: ``Microsoft's latest press statements 
+are another public relations effort to distract attention from the 
+overwhelming evidence introduced in court showing that Microsoft has 
+illegally used its market dominance to block competition from innovative 
+technologies that threaten its operating system monopoly.'' But Microsoft's 
+arguments have resulted in at least one convert. South Carolina's 
+attorney general, Charles Condon _ one of the 20 state attorneys general 
+who filed their own antitrust suit against Microsoft _ said Monday 
+he was dropping out of the case. In announcing his decision, Condon 
+cited the planned acquisition of Netscape Communications Corp. by 
+America Online Inc. as evidence of healthy competition in the Internet 
+industry. That has been a Microsoft argument since the proposed acquisition 
+was announced last week. In fact, Microsoft filed a motion with the 
+court Monday asking for permission to subpoena documents from Netscape, 
+America Online and Sun Microsystems Inc., which has agreed to work 
+closely with the merged companies. ``The parties to the transactions 
+are all witnesses for the government in this case, and the fact that 
+they are working cooperatively against Microsoft in the area of Web 
+browsing software goes to the very heart of the government's claims,'' 
+Microsoft said in its motion. New York is the lead state among the 
+19 states that remain involved with the suit. Marc Wurzel, a spokesman 
+for New York Attorney General Dennis Vacco, called Condon's decision 
+``a non-event.'' ``It will have no impact on the case,'' Wurzel said. 
+``And in the context of multistate efforts like this, it's not at 
+all unusual for states to come in and drop out as the matter proceeds.'' 
+Wurzel noted that Texas, a leader of the multistate investigation 
+of Microsoft early this year, dropped out just before the suit was 
+filed. Separately Monday evening, the government made public the direct, 
+written testimony of the next witness in the case: David Farber, a 
+computer-science expert at the University of Pennsylvania who takes 
+the stand on Tuesday. In his testimony, Farber disputes Microsoft's 
+assertion that bundling Internet software with the Windows operating 
+system improves the efficiency of both products. In its suit, the 
+government accuses Microsoft of bundling the two products as a tool 
+to put Netscape, its chief rival in the market for Web browsers, at 
+a disadvantage. ``These same efficiencies can be achieved without 
+bundling of the Web browser software with what Microsoft calls its 
+Windows operating system,'' Farber testified. ``This is because there 
+are no technical barriers that prevent Microsoft from developing and 
+selling its Windows operating system as a stand-alone product separate 
+from its browser software.'' He added: ``There are no technical efficiencies 
+for users achieved by combining Microsoft's browser software with 
+the remainder of the software sold as Windows 98 that could not be 
+achieved by writing two programs in a manner that later could be loaded 
+and `integrated''' by manufacturers or consumers later. Responding 
+in a news release Monday evening, Microsoft said: ``Farber has provided 
+nothing more than an opinion piece on how he thinks Microsoft could 
+have or should have designed Windows. But in our market economy, government 
+consultants don't get to redesign software products.'' 
+</TEXT>
+</DOC>

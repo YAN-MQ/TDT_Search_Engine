@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981112.1130.0388 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+President Clinton will push his child care agenda during a White House 
+ceremony today. He plans to announce a program to provide more funding 
+for after-school programs. Mr. Clinton talked about the $22 billion 
+plan earlier this year during his state of the union address. The 
+plan was to be partially funded by money from tobacco companies, but 
+congress failed to approve the deal. 
+</TEXT>
+</DOC>

@@ -1,0 +1,24 @@
+<DOC>
+<DOCNO> APW19981217.0282 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+A Singapore soldier was jailed for 10 months on Thursday for illegal 
+use of the Internet in a further sign the high-tech island nation 
+is serious about preventing computer-related crimes. Luqman bin Mohamad 
+Fadlon, a 23-year old serving his compulsory military training, used 
+a company's account without permission between December and March 
+to chat and play games on the Internet, reported state-run television. 
+He also sold the account information to two other people. Singapore's 
+subordinate court handed the national serviceman a stiff sentence 
+under the recently-amended Computer Misuse Act, which seeks to enhance 
+security, broaden powers of investigation, and deter cyber criminals 
+with tough penalties. In an effort to propel its economy into the 
+21st century, Singapore, a major business center, is actively encouraging 
+Internet and electronic commerce. Luqman chalked up about 3,000 Singapore 
+dollars (dlrs 1,820) worth of online time on Pony Canyon's Internet 
+account, to which he gained access from a colleague who had provided 
+computers services to the music and entertainment company, said the 
+TV report. 
+</TEXT>
+</DOC>

@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981121.1600.0945 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+U.N. weapons inspectors made a surprise visit to a suspected weapons 
+site in Iraq today. Iraqi officials cooperated, but the government 
+is refusing to hand over documents requested by chief inspector Richard 
+Butler. 
+</TEXT>
+</DOC>

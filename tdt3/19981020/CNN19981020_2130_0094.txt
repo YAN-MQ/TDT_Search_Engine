@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981020.2130.0094 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+In Victoria, Texas, four days of heavy rain have left as many as 500 
+homes damaged or submerged by floodwaters. A city spokesperson says 
+the guadalupe river has reached 33 feet, breaking the previous record 
+from 1936. 27 miles to the northwest in Cuero, the guadalupe is cresting 
+at 49 feet, double flood stage. The floods have killed at least 18 
+people. We'll have the extended weather forecast for the United States 
+coming up at eight minutes past the hour. 
+</TEXT>
+</DOC>

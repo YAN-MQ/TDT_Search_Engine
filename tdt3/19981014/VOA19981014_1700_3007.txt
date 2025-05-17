@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> VOA19981014.1700.3007 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> TRANSCRIPT </TXTTYPE>
+<TEXT>
+In London, the Financial Times 100 Index ended the day up 48 points 
+at 5038. While in Paris, the CAC 40 Index was up 82 points at 3361. 
+Stocks on the DAX Index in Frankfurt were 118 points higher at 4371. 
+The price of gold closed in London at $295.20 an ounce, down $1.10. 
+in New York, gold closed at $296 an ounce, down $0.60. The dollar 
+was mostly higher in Europe and New York against the other major currencies. 
+</TEXT>
+</DOC>

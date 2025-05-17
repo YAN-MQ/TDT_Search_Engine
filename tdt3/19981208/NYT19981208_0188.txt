@@ -1,0 +1,39 @@
+<DOC>
+<DOCNO> NYT19981208.0188 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+NATIONAL FORECAST Gusty winds from the north and northeast will buffet 
+southern California Wednesday as a strong high pressure system intensifies 
+over the Great Basin of the interior West. Local gusts could exceed 
+70 miles an hour in some of the canyons and passes east of Los Angeles 
+and San Diego. The windy conditions will persist into Thursday. As 
+the air descends toward the Pacific Ocean, it will warm, boosting 
+temperatures to near 70 degrees at the coast Wednesday afternoon. 
+Meanwhile, despite mainly sunny skies, unusually chilly air will cover 
+interior sections of the Southwest with record chill possible over 
+Nevada and Utah Wednesday night. Areas of snow will whiten the ground 
+of eastern Colorado and New Mexico Wednesday as breezes from the east 
+carry moist air toward the Front Range of the Rockies. An approaching 
+jet stream disturbance may cause the snow to turn heavy for a time 
+later Wednesday afternoon and evening. Elsewhere in the West, a few 
+light rain and mountain snow showers will precede the return to milder 
+conditions in the Northwest. Generally dry weather will cover an expansive 
+area from the Plains to the East Coast Wednesday. A few showers, however, 
+could affect the eastern Carolinas as a cold front presses off the 
+Atlantic coast. Although the record setting heat in Northeast is over, 
+abundant sunshine will still keep daytime readings several degrees 
+above seasonal levels Wednesday. Meanwhile, warm and humid air will 
+be confined to the southern half of the Florida peninsula Wednesday 
+with temperatures well into the 80s amid ample sunshine. Focus: Flood 
+Without Rain As the sun broke through the low overcast over western 
+Washington Tuesday, a flood watch was issued for the coast. Warnings 
+were based on offshore buoys detecting large ocean swells up to 28 
+feet high. With large waves crashing Washington shores, dry beaches 
+might suddenly be awash with water. Giant logs tossed like tiny sticks 
+by breaking waves also posed a danger. Farther south, heavy surf advisories 
+were posted for Oregon shores as offshore buoys detected swells as 
+high as 31 feet. Large swells were generated a few days ago by a large 
+storm over the Gulf of Alaska. 
+</TEXT>
+</DOC>

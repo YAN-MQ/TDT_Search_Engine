@@ -1,0 +1,9 @@
+<DOC>
+<DOCNO> CNN19981127.1600.1115 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Back on Wall Street, the Dow gaining nearly 19 points on the day. 
+The NASDAQ jumped 31 to set a new record. 
+</TEXT>
+</DOC>

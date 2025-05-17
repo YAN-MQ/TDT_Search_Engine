@@ -1,0 +1,11 @@
+<DOC>
+<DOCNO> CNN19981106.1130.0984 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Shares of Geron, a little-known, biotechnology firm in California, 
+are surging. Geron owns the commercial rights to a new type of cell 
+that can generate other human cells. That advancement being revealed 
+by scientists today, as we've been reporting. 
+</TEXT>
+</DOC>

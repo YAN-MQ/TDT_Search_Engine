@@ -1,0 +1,13 @@
+<DOC>
+<DOCNO> CNN19981113.2130.1022 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+Uncle Sam wants American children to help design a new poster to sell 
+U.S. savings bonds. The treasury department will award almost $100,000 
+in bonds to more than 150 children who submit winning entries. The 
+grand prize winner will get a $5,000 bond, and their design will be 
+used in the 2000 ad campaign. For more information, point your Internet 
+browsers to www.savingsbonds.gov. 
+</TEXT>
+</DOC>

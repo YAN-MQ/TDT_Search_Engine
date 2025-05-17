@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> NBC19981129.1830.1420 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+From Washington tonight -- word of a coming crackdown on hospitals 
+which delay or deny medical care while checking whether a patient's 
+insurance will pay for the procedure. A federal law enacted 12 years 
+ago forbids emergency rooms from refusing to examine or stabilize 
+patients who can't pay. There are plans now to expand the rule to 
+ensure immediate care whether the patient's insurer provides coverage 
+or not. 
+</TEXT>
+</DOC>

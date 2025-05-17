@@ -1,0 +1,15 @@
+<DOC>
+<DOCNO> CNN19981219.1000.0635 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The star of the latest action against Iraq has been the cruise missile 
+-- both the sea-launched version and the model fired from airplanes. 
+The main advantage of these weapons is that they allow the U.S. military 
+to hit targets without risking the lives of air crews. But the weapons 
+have their problems. They're expensive -- on average, $1 million a 
+missile. And they're not as accurate as laser-guided bombs. And since 
+the military's fired more cruise missiles in this conflict than it 
+did in the entire gulf war, stockpiles of the weapon are running short. 
+</TEXT>
+</DOC>

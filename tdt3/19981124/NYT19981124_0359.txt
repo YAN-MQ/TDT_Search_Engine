@@ -1,0 +1,58 @@
+<DOC>
+<DOCNO> NYT19981124.0359 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> NEWSWIRE </TXTTYPE>
+<TEXT>
+An economist testifying on behalf of the government in its antitrust 
+suit against the Microsoft Corp. sat through another day of hostile 
+cross-examination Tuesday, but Microsoft's lawyer failed to budge 
+him from his opinions. Michael Lacovara, the Microsoft lawyer who 
+questioned Frederick Warren-Boulton for a third day Tuesday, at one 
+point referred him to a treatise that Microsoft Chairman Bill Gates 
+had written in 1996 about the Internet and personal computers. ``Microsoft's 
+approach is to make Windows so Internet friendly that no one will 
+want a separate browser,'' Gates wrote. ``Our goal is to meld the 
+best of the PC with the best of the Web, creating a single world of 
+great promise.'' When Lacovara asked Warren-Boulton if he had any 
+problem with that, the witness said the result would be ``a world 
+of great promise _ to Microsoft.'' So it went through the day. The 
+court adjourned for a Thanksgiving break, and Warren-Boulton was to 
+take the stand again Monday morning. U.S. District Judge Thomas Penfield 
+Jackson, clearly impatient with the slow pace of this cross-examination, 
+admonished Lacovara that he expected him to finish on Monday. Lacovara 
+promised to work through the weekend cutting his questions. With an 
+impish smile, Warren-Boulton asked: ``Would you like some help?'' 
+Warren-Boulton is an important witness in the sense that the government 
+wants him to lay the factual foundation for the its case _ that Microsoft 
+is in fact a monopoly, meaning that the antitrust laws do apply. Microsoft's 
+approach appears to be to challenge him in so many areas that he will 
+end up making one or two statements, inadvertently or otherwise, that 
+Microsoft can use against him. For example, after Lacovara questioned 
+the witness for a full day on Monday, Mark Murray, Microsoft's spokesman, 
+stood on the courthouse steps and declared: ``The government's own 
+witness, under oath, said he saw nothing wrong with Netscape adding 
+new features to its Web browser, even back when Netscape had a dominant 
+share of the browser market. ``The government is offering a double 
+standard here _ one standard for Netscape and another for Microsoft.'' 
+That resulted from an off-hand observation Warren-Boulton had made 
+on the stand that Netscape had added features and additional small 
+applications to its World Wide Web browser over the years. Once again, 
+America Online's acquisition of Netscape Communications worked its 
+way into the trial. Microsoft eagerly asserted that the deal was sufficient 
+grounds for the government to drop its lawsuit. To that, David Boies, 
+the government's lead attorney said: ``That's about the sixth time 
+during this trial that Microsoft has declared that the government's 
+case is dead. The government has no intention to withdraw the case, 
+and I think Microsoft knows that.'' In his eagerness to embrace the 
+deal as part of Microsoft's defense, Lacovara overstepped at one point, 
+asking a question based on the assertion that Sun Microsystems, Microsoft's 
+arch competitor, would, as Lacovara put it, acquire Netscape's Web 
+browser as part of the transaction. Startled by that, Jackson leaned 
+forward in his chair and asked, ``Is that really the case?'' Lacovara 
+assured him that it was. ``It was reported on MSNBC this morning,'' 
+he explained. But it was inaccurate. As part of the three-way deal, 
+Sun Microsystems will distribute Netscape's business-level server 
+software for three years. America Online will maintain control of 
+Netscape's Web browser. 
+</TEXT>
+</DOC>

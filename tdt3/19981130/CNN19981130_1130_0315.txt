@@ -1,0 +1,14 @@
+<DOC>
+<DOCNO> CNN19981130.1130.0315 </DOCNO>
+<DOCTYPE> NEWS </DOCTYPE>
+<TXTTYPE> CAPTION </TXTTYPE>
+<TEXT>
+The year 2000 census is the focus of a legal dispute before the Supreme 
+Court today. The census bureau estimates four million people were 
+not counted in 1990. The Clinton administration wants to use statistical 
+sampling to fill in the gaps. The house opposes that, saying the constitution 
+requires an exact count, not an estimate. The Supreme Court's decision 
+is expected to affect billions of dollars in federal aid, as well 
+as the shape of election districts nationwide. 
+</TEXT>
+</DOC>
