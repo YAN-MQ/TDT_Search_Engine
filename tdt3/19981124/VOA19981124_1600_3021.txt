@@ -1,9 +1,0 @@
-<DOC>
-<DOCNO> VOA19981124.1600.3021 </DOCNO>
-<DOCTYPE> MISCELLANEOUS </DOCTYPE>
-<TXTTYPE> TRANSCRIPT </TXTTYPE>
-<TEXT>
-Once again, the Dow Jones Industrial Average closing today down 73 
-points. This is Breck Ardery. Thank you, Breck. 
-</TEXT>
-</DOC>

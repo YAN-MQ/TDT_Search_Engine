@@ -1,9 +1,0 @@
-<DOC>
-<DOCNO> CNN19981024.1000.1039 </DOCNO>
-<DOCTYPE> MISCELLANEOUS </DOCTYPE>
-<TXTTYPE> CAPTION </TXTTYPE>
-<TEXT>
-That's "business this week," Sachi Koto, "Headline News." "Headlines 
-sports" is next. 
-</TEXT>
-</DOC>

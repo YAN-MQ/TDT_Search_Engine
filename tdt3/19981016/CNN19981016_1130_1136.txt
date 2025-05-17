@@ -1,8 +1,0 @@
-<DOC>
-<DOCNO> CNN19981016.1130.1136 </DOCNO>
-<DOCTYPE> MISCELLANEOUS </DOCTYPE>
-<TXTTYPE> CAPTION </TXTTYPE>
-<TEXT>
-Scores and more, up next, on "Headline News." 
-</TEXT>
-</DOC>
