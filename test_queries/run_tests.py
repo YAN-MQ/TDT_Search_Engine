@@ -1,6 +1,4 @@
-"""
-测试查询运行器，用于执行预定义的测试查询
-"""
+
 import os
 import sys
 import time
@@ -29,14 +27,7 @@ TEST_QUERIES = [
 
 
 def save_results_to_file(query: str, results: List[Dict[str, Any]], output_dir: str = "results"):
-    """
-    将查询结果保存到文件
-    
-    Args:
-        query: 查询文本
-        results: 查询结果
-        output_dir: 输出目录
-    """
+   
     # 确保输出目录存在
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -64,15 +55,7 @@ def save_results_to_file(query: str, results: List[Dict[str, Any]], output_dir: 
 
 def run_test_queries(index_path: str, documents: Dict[str, str] = None, 
                     top_n: int = 10, output_dir: str = "results"):
-    """
-    运行预定义的测试查询
     
-    Args:
-        index_path: 索引文件路径
-        documents: 文档集合，用于生成摘要
-        top_n: 返回结果数量
-        output_dir: 输出结果目录
-    """
     print(f"加载索引 {index_path}...")
     
     # 初始化组件

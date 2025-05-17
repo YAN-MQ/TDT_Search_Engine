@@ -18,7 +18,12 @@ import config
 
 
 def setup_argparse() -> argparse.ArgumentParser:
+    """
+    设置命令行参数解析
     
+    Returns:
+        参数解析器
+    """
     parser = argparse.ArgumentParser(description="TDT3搜索引擎")
     subparsers = parser.add_subparsers(dest="command", help="子命令")
     
@@ -26,7 +31,6 @@ def setup_argparse() -> argparse.ArgumentParser:
     index_parser = subparsers.add_parser("index", help="构建索引")
     index_parser.add_argument("--corpus", default=config.CORPUS_PATH, help="TDT3语料库路径")
     index_parser.add_argument("--output", default=config.INDEX_PATH, help="索引输出路径")
-    index_parser.add_argument("--threads", type=int, default=0, help="处理线程数，0表示自动选择")
     
     # 搜索子命令
     search_parser = subparsers.add_parser("search", help="搜索查询")
@@ -43,9 +47,14 @@ def setup_argparse() -> argparse.ArgumentParser:
     return parser
 
 
-def build_index(corpus_path: str, index_path: str, threads: int = 0) -> None:
-   
-    start_time = time.time()
+def build_index(corpus_path: str, index_path: str) -> None:
+    """
+    构建索引
+    
+    Args:
+        corpus_path: 语料库路径
+        index_path: 索引输出路径
+    """
     print(f"正在从 {corpus_path} 构建索引...")
     
     # 初始化组件
@@ -59,36 +68,35 @@ def build_index(corpus_path: str, index_path: str, threads: int = 0) -> None:
         use_stemming=config.USE_STEMMING,
         filter_digits=config.FILTER_DIGITS
     )
+    indexer = Indexer(storage, tokenizer)
     
     # 加载文档
-    print("正在加载文档...")
     loader = DocumentLoader(corpus_path)
     documents = loader.load_documents()
     
     if not documents:
         print("错误: 未能加载任何文档")
         return
-    
-    # 设置线程数
-    if threads > 0:
-        os.environ["INDEXER_THREADS"] = str(threads)
-    
+        
     # 构建索引
-    print(f"开始构建索引，文档数: {len(documents)}")
-    indexer = Indexer(storage, tokenizer)
     indexer.build_index(documents)
     
-    end_time = time.time()
-    total_time = end_time - start_time
-    docs_per_second = len(documents) / total_time
-    
     print(f"索引构建完成，已保存到 {index_path}")
-    print(f"总耗时: {total_time:.2f}秒，平均处理速度: {docs_per_second:.2f}文档/秒")
-    print(f"索引大小: {len(storage.vocabulary)}个词项, {storage.total_docs}个文档")
 
 
 def search(query: str, index_path: str, corpus_path: str = None, top_n: int = 10) -> List[Dict[str, Any]]:
-   
+    """
+    执行搜索查询
+    
+    Args:
+        query: 查询文本
+        index_path: 索引文件路径
+        corpus_path: 语料库路径，用于生成摘要
+        top_n: 返回结果数量
+        
+    Returns:
+        搜索结果列表
+    """
     # 初始化组件
     storage = IndexStorage(index_path)
     if not storage.load_index():
@@ -108,6 +116,7 @@ def search(query: str, index_path: str, corpus_path: str = None, top_n: int = 10
         phrase_boost=config.PHRASE_BOOST
     )
     
+    # 如果提供了语料库路径，创建摘要生成器
     snippet_generator = None
     if corpus_path and os.path.exists(corpus_path):
         # 尝试加载文档内容
@@ -145,7 +154,13 @@ def search(query: str, index_path: str, corpus_path: str = None, top_n: int = 10
 
 
 def interactive_mode(index_path: str, corpus_path: str = None) -> None:
-   
+    """
+    交互式查询模式
+    
+    Args:
+        index_path: 索引文件路径
+        corpus_path: 语料库路径，用于生成摘要
+    """
     print("TDT3搜索引擎 - 交互式模式")
     print("输入查询文本进行搜索，输入'exit'或'quit'退出")
     print("提示: 使用双引号\"phrase\"表示短语查询")
@@ -174,12 +189,12 @@ def interactive_mode(index_path: str, corpus_path: str = None) -> None:
 
 
 def main():
-    
+    """主函数"""
     parser = setup_argparse()
     args = parser.parse_args()
     
     if args.command == "index":
-        build_index(args.corpus, args.output, args.threads)
+        build_index(args.corpus, args.output)
         
     elif args.command == "search":
         query = ' '.join(args.query)
@@ -193,4 +208,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main() 

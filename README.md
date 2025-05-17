@@ -71,7 +71,7 @@ nltk.download('stopwords')
 首先，需要指定 TDT3 语料库路径并构建索引：
 
 ```bash
-python main.py index --corpus /path/to/TDT3_Corpus --output index_data.pkl
+python main.py index --corpus tdt3 --output index_data.pkl
 ```
 
 ### 搜索查询
@@ -101,7 +101,7 @@ python main.py interactive --index index_data.pkl
 执行预定义的测试查询：
 
 ```bash
-python test_queries/run_tests.py --index index_data.pkl --docs /path/to/TDT3_Corpus
+python test_queries/run_tests.py --index index_data.pkl --docs tdt3
 ```
 
 ## 配置
@@ -113,8 +113,3 @@ python test_queries/run_tests.py --index index_data.pkl --docs /path/to/TDT3_Cor
 - 分词和规范化选项
 - 评分参数
 - 摘要生成参数
-
-## 参考资料
-
-- Manning, C. D., Raghavan, P., & Schütze, H. (2008). Introduction to Information Retrieval. Cambridge University Press.
-- TDT3 语料库: https://catalog.ldc.upenn.edu/LDC2001T58 

@@ -1,6 +1,3 @@
-"""
-文件加载器，负责加载TDT3文档集
-"""
 import os
 import re
 import gzip
@@ -15,15 +12,9 @@ import config
 
 
 class DocumentLoader:
-    """TDT3文档集加载器"""
-
+  
     def __init__(self, corpus_path: str):
-        """
-        初始化文档加载器
         
-        Args:
-            corpus_path: TDT3文档集路径
-        """
         self.corpus_path = corpus_path
         # 预编译正则表达式并使用更高效的模式
         self.doc_pattern = re.compile(r'<DOC>.*?<DOCNO>\s*(.*?)\s*</DOCNO>(.*?)</DOC>', re.DOTALL)
@@ -32,15 +23,7 @@ class DocumentLoader:
         self._document_cache = {}
         
     def _extract_doc_content(self, doc_text: str) -> str:
-        """
-        从文档中提取正文内容
-        
-        Args:
-            doc_text: 文档文本
-            
-        Returns:
-            正文内容
-        """
+      
         # 尝试提取<TEXT>标签中的内容
         text_match = self.text_pattern.search(doc_text)
         if text_match:
@@ -58,15 +41,7 @@ class DocumentLoader:
         return content.strip()
         
     def load_document(self, file_path: str) -> Dict[str, str]:
-        """
-        加载单个文件中的所有文档
-        
-        Args:
-            file_path: 文件路径
-            
-        Returns:
-            文档ID到文档内容的映射
-        """
+       
         # 检查缓存
         if file_path in self._document_cache:
             return self._document_cache[file_path]
@@ -99,15 +74,7 @@ class DocumentLoader:
             return {}
     
     def _process_batch(self, file_paths: List[str]) -> Dict[str, str]:
-        """
-        批量处理文件
         
-        Args:
-            file_paths: 文件路径列表
-            
-        Returns:
-            文档ID到文档内容的映射
-        """
         results = {}
         for file_path in file_paths:
             doc_dict = self.load_document(file_path)
@@ -115,12 +82,7 @@ class DocumentLoader:
         return results
             
     def load_documents(self) -> Dict[str, str]:
-        """
-        加载语料库中的所有文档
-        
-        Returns:
-            文档ID到文档内容的映射
-        """
+      
         start_time = time.time()
         documents = {}
         
@@ -179,15 +141,7 @@ class DocumentLoader:
 
 
 def extract_tdt_id(text: str) -> Optional[str]:
-    """
-    从TDT3文档提取文档ID
-    
-    Args:
-        text: 文档文本
-        
-    Returns:
-        文档ID，如果未找到则返回None
-    """
+   
     id_match = re.search(r'<DOCNO\s*=\s*"([^"]+)"', text)
     if id_match:
         return id_match.group(1).strip()

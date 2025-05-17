@@ -1,6 +1,3 @@
-"""
-检索器模块，根据查询返回最相关的文档
-"""
 import time
 from typing import Dict, List, Tuple, Any
 
@@ -15,31 +12,14 @@ class Retriever:
 
     def __init__(self, storage: IndexStorage, query_parser: QueryParser, 
                  scorer: TfIdfScorer, snippet_generator: SnippetGenerator = None):
-        """
-        初始化检索器
-        
-        Args:
-            storage: 索引存储对象
-            query_parser: 查询解析器
-            scorer: 文档评分器
-            snippet_generator: 摘要生成器
-        """
+       
         self.storage = storage
         self.query_parser = query_parser
         self.scorer = scorer
         self.snippet_generator = snippet_generator
         
     def search(self, query_text: str, top_n: int = 10) -> List[Dict[str, Any]]:
-        """
-        根据查询文本返回最相关的前N个文档
-        
-        Args:
-            query_text: 查询文本
-            top_n: 返回文档数量
-            
-        Returns:
-            包含文档ID、得分、摘要的列表
-        """
+      
         start_time = time.time()
         
         # 解析查询
@@ -116,15 +96,7 @@ class Retriever:
         return results
         
     def format_results(self, results: List[Dict[str, Any]]) -> str:
-        """
-        格式化搜索结果，用于显示
-        
-        Args:
-            results: 搜索结果列表
-            
-        Returns:
-            格式化的结果字符串
-        """
+     
         if not results:
             return "未找到匹配的文档"
             

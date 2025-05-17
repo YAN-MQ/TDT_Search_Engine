@@ -1,6 +1,4 @@
-"""
-摘要生成器，负责从检索结果中生成文档摘要
-"""
+
 import re
 import os
 from typing import List, Dict, Set, Tuple, Optional
@@ -11,28 +9,13 @@ class SnippetGenerator:
 
     def __init__(self, doc_content_provider, context_size: int = 100, 
                  max_snippet_length: int = 250):
-        """
-        初始化摘要生成器
-        
-        Args:
-            doc_content_provider: 文档内容提供器，可以是字典或函数
-            context_size: 关键词周围的上下文大小（字符数）
-            max_snippet_length: 摘要最大长度
-        """
+      
         self.doc_content_provider = doc_content_provider
         self.context_size = context_size
         self.max_snippet_length = max_snippet_length
         
     def _get_doc_content(self, doc_id: str) -> Optional[str]:
-        """
-        获取文档内容
-        
-        Args:
-            doc_id: 文档ID
-            
-        Returns:
-            文档内容，如果不存在则返回None
-        """
+       
         # 如果是字典
         if isinstance(self.doc_content_provider, dict):
             return self.doc_content_provider.get(doc_id)
@@ -44,16 +27,7 @@ class SnippetGenerator:
         return None
         
     def generate_snippet(self, doc_id: str, query_terms: List[str]) -> str:
-        """
-        生成文档摘要
         
-        Args:
-            doc_id: 文档ID
-            query_terms: 查询词列表
-            
-        Returns:
-            文档摘要
-        """
         # 获取文档内容
         content = self._get_doc_content(doc_id)
         if not content:
@@ -123,16 +97,7 @@ class SnippetGenerator:
         return snippet
         
     def highlight_terms(self, snippet: str, query_terms: List[str]) -> str:
-        """
-        在摘要中高亮查询词
-        
-        Args:
-            snippet: 摘要文本
-            query_terms: 查询词列表
-            
-        Returns:
-            高亮处理后的摘要文本（支持HTML格式）
-        """
+      
         highlighted = snippet
         for term in sorted(query_terms, key=len, reverse=True):
             pattern = re.compile(re.escape(term), re.IGNORECASE)
@@ -146,14 +111,7 @@ class FileBasedSnippetGenerator(SnippetGenerator):
     
     def __init__(self, corpus_path: str, context_size: int = 100,
                  max_snippet_length: int = 250):
-        """
-        初始化基于文件的摘要生成器
         
-        Args:
-            corpus_path: 语料库路径
-            context_size: 关键词周围上下文大小（字符数）
-            max_snippet_length: 摘要最大长度
-        """
         super().__init__(None, context_size, max_snippet_length)
         self.corpus_path = corpus_path
         self.doc_id_to_file_map = {}
@@ -194,15 +152,7 @@ class FileBasedSnippetGenerator(SnippetGenerator):
             print(f"处理文件{file_path}时出错: {e}")
             
     def _get_doc_content(self, doc_id: str) -> Optional[str]:
-        """
-        获取文档内容
-        
-        Args:
-            doc_id: 文档ID
-            
-        Returns:
-            文档内容，如果不存在则返回None
-        """
+       
         if doc_id not in self.doc_id_to_file_map:
             return None
             

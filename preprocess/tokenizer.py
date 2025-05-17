@@ -1,6 +1,4 @@
-"""
-分词器模块，处理文档和查询文本的分词
-"""
+
 import re
 import string
 from typing import List, Set
@@ -40,15 +38,7 @@ class Tokenizer:
     
     def __init__(self, remove_stopwords: bool = True, case_sensitive: bool = False,
                  remove_punctuation: bool = True, min_token_length: int = 2):
-        """
-        初始化分词器
-        
-        Args:
-            remove_stopwords: 是否移除停用词
-            case_sensitive: 是否区分大小写
-            remove_punctuation: 是否移除标点符号
-            min_token_length: 最小词项长度
-        """
+      
         self.remove_stopwords = remove_stopwords
         self.case_sensitive = case_sensitive
         self.remove_punctuation = remove_punctuation
@@ -58,15 +48,7 @@ class Tokenizer:
         self.punctuation_pattern = re.compile(f'[{re.escape(string.punctuation)}]')
         
     def tokenize(self, text: str) -> List[str]:
-        """
-        对文本进行分词处理
-        
-        Args:
-            text: 输入文本
-            
-        Returns:
-            处理后的词项列表
-        """
+      
         if not text:
             return []
         
@@ -97,15 +79,7 @@ class Tokenizer:
         return tokens
 
     def tokenize_phrase(self, phrase: str) -> List[str]:
-        """
-        对短语进行分词处理，保留停用词
         
-        Args:
-            phrase: 输入短语
-            
-        Returns:
-            处理后的词项列表
-        """
         temp_remove_stopwords = self.remove_stopwords
         self.remove_stopwords = False
         tokens = self.tokenize(phrase)
@@ -113,14 +87,6 @@ class Tokenizer:
         return tokens
         
     def tokenize_query(self, query: str) -> List[str]:
-        """
-        对查询文本进行分词处理
-        
-        Args:
-            query: 查询文本
-            
-        Returns:
-            处理后的词项列表
-        """
+       
         # 对查询分词规则可以与文档略有不同
         return self.tokenize(query)

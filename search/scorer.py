@@ -1,6 +1,4 @@
-"""
-文档评分模块，计算查询与文档的相关性得分
-"""
+
 import math
 from typing import Dict, List, Set, Tuple
 
@@ -13,15 +11,7 @@ class TfIdfScorer:
 
     def __init__(self, storage: IndexStorage, k1: float = 1.5, b: float = 0.75, 
                  phrase_boost: float = 2.0):
-        """
-        初始化TF-IDF评分器
-        
-        Args:
-            storage: 索引存储对象
-            k1: BM25参数
-            b: BM25参数
-            phrase_boost: 短语匹配的加权因子
-        """
+      
         self.storage = storage
         self.k1 = k1
         self.b = b
@@ -33,15 +23,7 @@ class TfIdfScorer:
             self.avg_doc_length = sum(self.storage.doc_lengths.values()) / len(self.storage.doc_lengths)
     
     def _calc_idf(self, term: str) -> float:
-        """
-        计算词项的IDF值
-        
-        Args:
-            term: 词项
-            
-        Returns:
-            词项的IDF值
-        """
+      
         df = self.storage.get_doc_frequency(term)
         if df == 0:
             return 0
@@ -51,16 +33,7 @@ class TfIdfScorer:
         return math.log((n - df + 0.5) / (df + 0.5) + 1)
         
     def _calc_tf_score(self, term: str, doc_id: str) -> float:
-        """
-        计算词项在文档中的TF得分
-        
-        Args:
-            term: 词项
-            doc_id: 文档ID
-            
-        Returns:
-            TF得分
-        """
+       
         term_info = self.storage.get_term_info(term)
         if not term_info or doc_id not in term_info:
             return 0
@@ -78,32 +51,13 @@ class TfIdfScorer:
         return numerator / denominator if denominator != 0 else 0
         
     def score_term(self, term: str, doc_id: str) -> float:
-        """
-        计算单个词项对文档的得分贡献
         
-        Args:
-            term: 词项
-            doc_id: 文档ID
-            
-        Returns:
-            词项得分
-        """
         tf_score = self._calc_tf_score(term, doc_id)
         idf = self._calc_idf(term)
         return tf_score * idf
         
     def score_document(self, terms: List[str], phrases: List[List[str]], doc_id: str) -> float:
-        """
-        计算文档对查询的总体相关性得分
-        
-        Args:
-            terms: 自由词项列表
-            phrases: 短语列表
-            doc_id: 文档ID
-            
-        Returns:
-            文档的总体相关性得分
-        """
+      
         score = 0.0
         
         # 计算自由词项得分
@@ -146,26 +100,11 @@ class BooleanScorer:
     """布尔评分器，实现简单的布尔检索"""
     
     def __init__(self, storage: IndexStorage):
-        """
-        初始化布尔评分器
         
-        Args:
-            storage: 索引存储对象
-        """
         self.storage = storage
         
     def score_document(self, terms: List[str], phrases: List[List[str]], doc_id: str) -> float:
-        """
-        计算文档的布尔相关性（0或1）
-        
-        Args:
-            terms: 自由词项列表
-            phrases: 短语列表
-            doc_id: 文档ID
-            
-        Returns:
-            1.0表示匹配，0.0表示不匹配
-        """
+       
         # 检查所有词项是否都在文档中出现
         for term in terms:
             term_info = self.storage.get_term_info(term)

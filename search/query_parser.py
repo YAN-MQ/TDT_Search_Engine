@@ -1,6 +1,4 @@
-"""
-查询解析器，用于处理用户输入的查询
-"""
+
 import re
 from typing import List, Tuple, Dict
 
@@ -11,29 +9,12 @@ class QueryParser:
     """查询解析器，将用户查询解析为自由文本和短语"""
 
     def __init__(self, tokenizer: Tokenizer):
-        """
-        初始化查询解析器
         
-        Args:
-            tokenizer: 用于处理查询的分词器
-        """
         self.tokenizer = tokenizer
         self.phrase_pattern = re.compile(r'"([^"]*)"')
         
     def parse(self, query_text: str) -> Dict[str, List]:
-        """
-        解析查询文本，提取自由文本和短语
         
-        Args:
-            query_text: 用户输入的查询文本
-            
-        Returns:
-            含有解析结果的字典，格式为：
-            {
-                'terms': [自由词项列表],
-                'phrases': [短语词项列表]
-            }
-        """
         if not query_text:
             return {'terms': [], 'phrases': []}
         
@@ -54,15 +35,7 @@ class QueryParser:
         }
         
     def format_query(self, parsed_query: Dict[str, List]) -> str:
-        """
-        格式化解析后的查询，用于显示
-        
-        Args:
-            parsed_query: 解析后的查询
-            
-        Returns:
-            格式化的查询字符串
-        """
+      
         result = []
         
         if parsed_query.get('terms'):
@@ -78,16 +51,7 @@ class QueryParser:
 
 
 def is_exact_match(doc_positions: List[int], phrase_length: int) -> bool:
-    """
-    判断文档中是否存在精确短语匹配
-    
-    Args:
-        doc_positions: 词项在文档中的位置列表
-        phrase_length: 短语长度
-        
-    Returns:
-        是否存在精确匹配
-    """
+  
     if len(doc_positions) < phrase_length:
         return False
         
