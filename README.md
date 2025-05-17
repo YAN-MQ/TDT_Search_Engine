@@ -48,7 +48,7 @@ TDT_Search_Engine/
 
 1. 克隆仓库
 ```bash
-git clone https://github.com/yourusername/TDT_Search_Engine.git
+git clone https://github.com/YAN-MQ/TDT_Search_Engine.git
 cd TDT_Search_Engine
 ```
 
